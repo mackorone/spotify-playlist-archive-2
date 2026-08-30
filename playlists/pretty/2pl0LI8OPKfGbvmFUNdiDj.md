@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,138 likes - 64 songs - 3 hr 40 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,142 likes - 66 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,5 +72,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 62 | [Orbit](https://open.spotify.com/track/73Bv1zWG07mVOuRMY9Hyhx) | [Karla Lee](https://open.spotify.com/artist/7g3RXGDKTSM8HmvjVRHEf1) | [Orbit](https://open.spotify.com/album/7I6IVz3d9uV2G54Hu0hQLh) | 3:58 |
 | 63 | [Ritual](https://open.spotify.com/track/2Si2i7LLkGIl1PSm2MEXov) | [Phantom Heart](https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd) | [Phantom Heart](https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8) | 5:50 |
 | 64 | [BLAME](https://open.spotify.com/track/7Hly2elHJYMeinWlhHrDSp) | [NatStar](https://open.spotify.com/artist/4CoERlRqP61DsVAksrSXLb) | [BLK MIRROR \- EP1](https://open.spotify.com/album/5NqoJ7iV2vz0r4knhqxbX6) | 3:10 |
+| 65 | [NO MORE](https://open.spotify.com/track/3qHpMci96Sgq3mam3pdDBz) | [Amanda Holley](https://open.spotify.com/artist/2ASA4rXgSzpdkJ7khMDj5j) | [NO MORE](https://open.spotify.com/album/3qrUMGe7eqlbinJrDOJKJw) | 2:55 |
+| 66 | [Shut Myself Off](https://open.spotify.com/track/51OiflmOLo6eLNwIbNHt9c) | [Lainey Dionne](https://open.spotify.com/artist/4EaKMngmssLu9FK6TpUfyJ) | [Shut Myself Off](https://open.spotify.com/album/741hJtGdMDGETYWD700vww) | 3:40 |
 
-Snapshot ID: `AAAEQ19CxAZ4Ca3kOkz6lnTunOXwhrgu`
+Snapshot ID: `AAAERYsCBG+e2osDxo0FPAQyly4fY3nW`

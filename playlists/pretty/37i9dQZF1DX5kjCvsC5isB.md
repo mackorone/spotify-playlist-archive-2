@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > the bold women of rock & alternative today\. Cover: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,580 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,595 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,16 +69,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 59 | [THE BLOB](https://open.spotify.com/track/0QKgoPaVYMUL4mFxX3SyWd) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [THE BLOB](https://open.spotify.com/album/0gAyeWtpqYOvJHH63QDbfQ) | 2:22 |
 | 60 | [Lose You](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 |
 | 61 | [Real Power](https://open.spotify.com/track/340KzsVkQVS4W3u8VizsBr) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/4x6PFHaTEgzT5NsVAgszZE) | 4:15 |
-| 62 | [Shortest Fuse](https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Shortest Fuse](https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6) | 3:40 |
-| 63 | [Kiss Kiss Bang Bang](https://open.spotify.com/track/3kFoZcKkIUsKBoWYHvMkUQ) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Kiss Kiss Bang Bang](https://open.spotify.com/album/7ADrQj9OGll4kiXcCSdcqI) | 2:53 |
+| 62 | [Kiss Kiss Bang Bang](https://open.spotify.com/track/3kFoZcKkIUsKBoWYHvMkUQ) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Kiss Kiss Bang Bang](https://open.spotify.com/album/7ADrQj9OGll4kiXcCSdcqI) | 2:53 |
+| 63 | [Shortest Fuse](https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Shortest Fuse](https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6) | 3:40 |
 | 64 | [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 |
 | 65 | [Friends In Low Places](https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Friends In Low Places](https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP) | 3:03 |
 | 66 | [Honeycrash](https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Honeycrash](https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo) | 3:08 |
 | 67 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 |
 | 68 | [Best Friend](https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Best Friend](https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW) | 2:43 |
 | 69 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
-| 70 | [Welcome to My House](https://open.spotify.com/track/0q1EgphEnjNphQaiG1wHnw) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome to My House](https://open.spotify.com/album/07UT7tQ1llvdiYSdhz1brM) | 3:27 |
-| 71 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
+| 70 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
+| 71 | [Welcome to My House](https://open.spotify.com/track/0q1EgphEnjNphQaiG1wHnw) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome to My House](https://open.spotify.com/album/07UT7tQ1llvdiYSdhz1brM) | 3:27 |
 | 72 | [Why Am I Like This?](https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Why Am I Like This? / Ipecac](https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq) | 2:26 |
 | 73 | [Jabberwocky](https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Jabberwocky](https://open.spotify.com/album/6wbBWQ7nQX7IzB9u6kJaoA) | 3:12 |
 | 74 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 84 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 |
 | 85 | [headspace](https://open.spotify.com/track/54thSyOHsTvRy8UYoEct7Y) | [SIIICKBRAIN](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [dizzy spells](https://open.spotify.com/album/2ZdFXmyVHTbVDKnlh3FGpV) | 3:08 |
 | 86 | [you don't like me like that](https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [you don't like me like that](https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT) | 2:35 |
-| 87 | [One Of The Pack](https://open.spotify.com/track/79QWntL6utGA8UWExmcmCn) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD) | 3:17 |
+| 87 | [slippery slope](https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [slippery slope](https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0) | 2:19 |
 | 88 | [MONEY BAG](https://open.spotify.com/track/0Dr2hbRcXtxqx5PyvKAorh) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [MONEY BAG](https://open.spotify.com/album/53qwUwrCnGzpQ67RLPwvNT) | 2:14 |
-| 89 | [slippery slope](https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [slippery slope](https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0) | 2:19 |
+| 89 | [One Of The Pack](https://open.spotify.com/track/79QWntL6utGA8UWExmcmCn) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD) | 3:17 |
 | 90 | [I Died](https://open.spotify.com/track/6MYLG88balCnmy0a3cId3N) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG), [Daisha McBride](https://open.spotify.com/artist/3gTb0Vm6wFbRFVTAhDTgId) | [I Died](https://open.spotify.com/album/3POKR602QYwFIrOFMqQhSx) | 2:30 |
 | 91 | [WHO DIED AND MADE YOU KING?](https://open.spotify.com/track/6PgWRZ1k4DiCnkUK6FvCfV) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [WHO DIED AND MADE YOU KING?](https://open.spotify.com/album/43VcEun0Hr5gKPp0YPRbJ8) | 2:23 |
 | 92 | [Sick](https://open.spotify.com/track/4wBf57Njjl4tKNBGpa39s2) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Velveteen](https://open.spotify.com/album/20autaRlTtoAUnewO5c12H) | 3:07 |

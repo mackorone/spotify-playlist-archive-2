@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,506 songs - 6 day 3 hr 22 min
+2,507 songs - 6 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2151,6 +2151,7 @@
 | [The Only One](https://open.spotify.com/track/1FIa3ox06ehPePdtqDkPdT) | [Alex Gabriel](https://open.spotify.com/artist/42d97fn8MuX8haj1vzuWeH) | [In the Mood](https://open.spotify.com/album/7roJ1tKgqS4cd7YrEewO0b) | 3:34 | 2026-04-10 |  |
 | [The Overfitting Ex](https://open.spotify.com/track/3HyDtedJpJuCqzWuadPI2U) | [m78 Studio](https://open.spotify.com/artist/1j1lkQcJeOW7GgaxBQsbCT) | [Symphony of Machine Learning](https://open.spotify.com/album/1Q8swnhp6sB7GR5MVlmyo5) | 4:08 | 2026-06-10 |  |
 | [The Pendulum of Neon](https://open.spotify.com/track/2BnjZOBRRRRw3n7FPBOYSe) | [m78 Studio](https://open.spotify.com/artist/1j1lkQcJeOW7GgaxBQsbCT) | [The Great Void's Echo](https://open.spotify.com/album/4iBlc0gBxnwL8xNHNTZXf5) | 4:38 | 2026-05-19 |  |
+| [The Phone Is Ringing](https://open.spotify.com/track/5RTZ39YVYROLnWXXDWnyNd) | [Abis](https://open.spotify.com/artist/6pFKneaoODjrgYVkBbfynT) | [Better Alone](https://open.spotify.com/album/2pdlJucE9OATbt5B0FD9Oi) | 2:45 | 2026-08-29 |  |
 | [The Rush](https://open.spotify.com/track/0PBz4H0I5zQOon1fKZbTiU) | [Gardening Club](https://open.spotify.com/artist/4tVR6UmVssdtcN2BY6fbmg) | [Gardening Club](https://open.spotify.com/album/2Ij0ymbmxaUSdEbWCjgJhW) | 1:36 | 2026-05-01 |  |
 | [the same \- jersey club remix](https://open.spotify.com/track/4GBWvxSQkTXJDbywwIw8J7) | [Ni$ha Da Chef](https://open.spotify.com/artist/6mbzGJFvDEgJKGCWFSMEQB) | [the same \(jersey club remix\)](https://open.spotify.com/album/0aMKGY5QRIyR2Cdrhnal0N) | 2:05 | 2026-03-23 |  |
 | [The Search](https://open.spotify.com/track/2OKo7g3KfmCt3kyLvUAL0g) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/6w8mGg73sQl4QJEhpDUvpI) | 4:08 | 2025-02-15 |  |

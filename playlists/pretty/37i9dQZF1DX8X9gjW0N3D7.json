@@ -1,6 +1,6 @@
 {
   "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Colin L\u00e9o",
-  "num_followers": 70688,
+  "num_followers": 70690,
   "original_name": "Qu\u00e9b\u00e9cois Contemporain",
   "owner": {
     "name": "Spotify",
@@ -471,18 +471,18 @@
     {
       "added_at": "2026-08-28 04:03:32",
       "album": {
-        "name": "Rat Race",
-        "url": "https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA"
+        "name": "Malgr\u00e9 la temp\u00eate (Deluxe)",
+        "url": "https://open.spotify.com/album/2AMcBo3OVy62xvx5mTzp1N"
       },
       "artists": [
         {
-          "name": "Sophia Bel",
-          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+          "name": "GreenWoodz",
+          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
         }
       ],
-      "duration_ms": 190808,
-      "name": "Rat Race",
-      "url": "https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ"
+      "duration_ms": 160013,
+      "name": "Avant qu'il soit trop tard",
+      "url": "https://open.spotify.com/track/2y5sRb7a6wTo2pw3QCEbv8"
     },
     {
       "added_at": "2026-08-28 04:03:32",
@@ -503,34 +503,18 @@
     {
       "added_at": "2026-08-28 04:03:32",
       "album": {
-        "name": "Malgr\u00e9 la temp\u00eate (Deluxe)",
-        "url": "https://open.spotify.com/album/2AMcBo3OVy62xvx5mTzp1N"
+        "name": "Rat Race",
+        "url": "https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA"
       },
       "artists": [
         {
-          "name": "GreenWoodz",
-          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
         }
       ],
-      "duration_ms": 160013,
-      "name": "Avant qu'il soit trop tard",
-      "url": "https://open.spotify.com/track/2y5sRb7a6wTo2pw3QCEbv8"
-    },
-    {
-      "added_at": "2026-08-28 04:03:32",
-      "album": {
-        "name": "Si j'avais un clou",
-        "url": "https://open.spotify.com/album/5Ta4hSDVG7dcLf2PSCFTpl"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 229720,
-      "name": "Si j'avais un clou",
-      "url": "https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm"
+      "duration_ms": 190808,
+      "name": "Rat Race",
+      "url": "https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ"
     },
     {
       "added_at": "2026-08-28 04:03:32",
@@ -551,6 +535,22 @@
       "duration_ms": 179050,
       "name": "the evergreen, the birch",
       "url": "https://open.spotify.com/track/1Jro7GWs0S0PhfjKpYgN32"
+    },
+    {
+      "added_at": "2026-08-28 04:03:32",
+      "album": {
+        "name": "Si j'avais un clou",
+        "url": "https://open.spotify.com/album/5Ta4hSDVG7dcLf2PSCFTpl"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 229720,
+      "name": "Si j'avais un clou",
+      "url": "https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm"
     },
     {
       "added_at": "2026-08-28 04:03:32",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-08-28 04:03:32",
       "album": {
-        "name": "Leave You Behind",
-        "url": "https://open.spotify.com/album/57AwWV7julwudwrjWA8EPd"
-      },
-      "artists": [
-        {
-          "name": "Theo Day",
-          "url": "https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc"
-        }
-      ],
-      "duration_ms": 173653,
-      "name": "Leave You Behind",
-      "url": "https://open.spotify.com/track/6VWR4BR5sryrKuaEtl0Mtd"
-    },
-    {
-      "added_at": "2026-08-28 04:03:32",
-      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/18QHIwoaV00kIcB3FEvr7U"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 235735,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/1Vh31NsLrFSXN6QThbZ4T3"
+    },
+    {
+      "added_at": "2026-08-28 04:03:32",
+      "album": {
+        "name": "Leave You Behind",
+        "url": "https://open.spotify.com/album/57AwWV7julwudwrjWA8EPd"
+      },
+      "artists": [
+        {
+          "name": "Theo Day",
+          "url": "https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc"
+        }
+      ],
+      "duration_ms": 173653,
+      "name": "Leave You Behind",
+      "url": "https://open.spotify.com/track/6VWR4BR5sryrKuaEtl0Mtd"
     },
     {
       "added_at": "2026-08-28 04:03:32",
@@ -723,18 +723,22 @@
     {
       "added_at": "2026-08-28 04:03:32",
       "album": {
-        "name": "figure it out",
-        "url": "https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl"
+        "name": "Parfait pays",
+        "url": "https://open.spotify.com/album/6XIw13Rngf3GW3s1k1x6rf"
       },
       "artists": [
         {
-          "name": "dee holt",
-          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+          "name": "P'tit Belliveau",
+          "url": "https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM"
+        },
+        {
+          "name": "kinji00",
+          "url": "https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF"
         }
       ],
-      "duration_ms": 171428,
-      "name": "figure it out",
-      "url": "https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW"
+      "duration_ms": 139997,
+      "name": "Parfait pays",
+      "url": "https://open.spotify.com/track/2fVawqtSr6t5yVIBAXEjFM"
     },
     {
       "added_at": "2026-08-28 04:03:32",
@@ -759,22 +763,18 @@
     {
       "added_at": "2026-08-28 04:03:32",
       "album": {
-        "name": "Parfait pays",
-        "url": "https://open.spotify.com/album/6XIw13Rngf3GW3s1k1x6rf"
+        "name": "figure it out",
+        "url": "https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl"
       },
       "artists": [
         {
-          "name": "P'tit Belliveau",
-          "url": "https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM"
-        },
-        {
-          "name": "kinji00",
-          "url": "https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF"
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
         }
       ],
-      "duration_ms": 139997,
-      "name": "Parfait pays",
-      "url": "https://open.spotify.com/track/2fVawqtSr6t5yVIBAXEjFM"
+      "duration_ms": 171428,
+      "name": "figure it out",
+      "url": "https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW"
     },
     {
       "added_at": "2026-08-28 04:03:32",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-08-28 04:03:32",
       "album": {
-        "name": "L'amour enterr\u00e9 vivant",
-        "url": "https://open.spotify.com/album/5ekkubyVd7tTSxPm2IH4Lb"
-      },
-      "artists": [
-        {
-          "name": "La Bronze",
-          "url": "https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK"
-        }
-      ],
-      "duration_ms": 134800,
-      "name": "L'amour enterr\u00e9 vivant",
-      "url": "https://open.spotify.com/track/57VJ4a3IiP8y8L8wHYOseK"
-    },
-    {
-      "added_at": "2026-08-28 04:03:32",
-      "album": {
         "name": "Oiseaux de Paradis",
         "url": "https://open.spotify.com/album/0AXDQPjo1lF6EqO2maXujt"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 124214,
       "name": "Oiseaux de Paradis",
       "url": "https://open.spotify.com/track/4vQjdtvs6U5j7qtm3be4ii"
+    },
+    {
+      "added_at": "2026-08-28 04:03:32",
+      "album": {
+        "name": "L'amour enterr\u00e9 vivant",
+        "url": "https://open.spotify.com/album/5ekkubyVd7tTSxPm2IH4Lb"
+      },
+      "artists": [
+        {
+          "name": "La Bronze",
+          "url": "https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK"
+        }
+      ],
+      "duration_ms": 134800,
+      "name": "L'amour enterr\u00e9 vivant",
+      "url": "https://open.spotify.com/track/57VJ4a3IiP8y8L8wHYOseK"
     },
     {
       "added_at": "2026-08-28 04:03:32",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-08-28 04:03:32",
       "album": {
-        "name": "Tout ce qui d\u00e9passe",
-        "url": "https://open.spotify.com/album/4igk7A8WGArsPJYnM0lHUc"
-      },
-      "artists": [
-        {
-          "name": "Colin L\u00e9o",
-          "url": "https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC"
-        }
-      ],
-      "duration_ms": 170693,
-      "name": "Tout ce qui d\u00e9passe",
-      "url": "https://open.spotify.com/track/00JSNlp8wt9AuBEUDr7vZG"
-    },
-    {
-      "added_at": "2026-08-28 04:03:32",
-      "album": {
         "name": "Isabella",
         "url": "https://open.spotify.com/album/39rkQsb7O9jo3Edo2idqiP"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 248366,
       "name": "Isabella",
       "url": "https://open.spotify.com/track/0xVXNGoXkICVLJdbMzprPV"
+    },
+    {
+      "added_at": "2026-08-28 04:03:32",
+      "album": {
+        "name": "Tout ce qui d\u00e9passe",
+        "url": "https://open.spotify.com/album/4igk7A8WGArsPJYnM0lHUc"
+      },
+      "artists": [
+        {
+          "name": "Colin L\u00e9o",
+          "url": "https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC"
+        }
+      ],
+      "duration_ms": 170693,
+      "name": "Tout ce qui d\u00e9passe",
+      "url": "https://open.spotify.com/track/00JSNlp8wt9AuBEUDr7vZG"
     },
     {
       "added_at": "2026-08-28 04:03:32",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-08-28 04:03:32",
       "album": {
-        "name": "Todas mis amigas",
-        "url": "https://open.spotify.com/album/0j4qMqHkx8fQ2dCYtx2v2s"
-      },
-      "artists": [
-        {
-          "name": "Gabriella Olivo",
-          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
-        }
-      ],
-      "duration_ms": 228786,
-      "name": "Todas mis amigas",
-      "url": "https://open.spotify.com/track/0JoOGk5R9Sa9ISqQJamDeq"
-    },
-    {
-      "added_at": "2026-08-28 04:03:32",
-      "album": {
         "name": "Pilot",
         "url": "https://open.spotify.com/album/6twvQRASteKyWL0wgBuYhz"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 174666,
       "name": "FACELIFT!",
       "url": "https://open.spotify.com/track/4LGWguFl4Hf8k9bPyb5JW5"
+    },
+    {
+      "added_at": "2026-08-28 04:03:32",
+      "album": {
+        "name": "Todas mis amigas",
+        "url": "https://open.spotify.com/album/0j4qMqHkx8fQ2dCYtx2v2s"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+        }
+      ],
+      "duration_ms": 228786,
+      "name": "Todas mis amigas",
+      "url": "https://open.spotify.com/track/0JoOGk5R9Sa9ISqQJamDeq"
     },
     {
       "added_at": "2026-08-28 04:03:32",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-08-28 04:03:32",
       "album": {
-        "name": "copacabana",
-        "url": "https://open.spotify.com/album/1BKsViGNggJHu3558EdWSE"
-      },
-      "artists": [
-        {
-          "name": "ZEHD",
-          "url": "https://open.spotify.com/artist/5NLjMu7RaXfk1Um3BHWOnS"
-        }
-      ],
-      "duration_ms": 117624,
-      "name": "copacabana",
-      "url": "https://open.spotify.com/track/2c39ZtqhdYgjQ4brG0ujmT"
-    },
-    {
-      "added_at": "2026-08-28 04:03:32",
-      "album": {
         "name": "Les mots que tu chantes",
         "url": "https://open.spotify.com/album/4DqPIbudxuN6AG308NCKqm"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 178208,
       "name": "Les mots que tu chantes",
       "url": "https://open.spotify.com/track/62pMWesW7OeH2xZACewgyX"
+    },
+    {
+      "added_at": "2026-08-28 04:03:32",
+      "album": {
+        "name": "copacabana",
+        "url": "https://open.spotify.com/album/1BKsViGNggJHu3558EdWSE"
+      },
+      "artists": [
+        {
+          "name": "ZEHD",
+          "url": "https://open.spotify.com/artist/5NLjMu7RaXfk1Um3BHWOnS"
+        }
+      ],
+      "duration_ms": 117624,
+      "name": "copacabana",
+      "url": "https://open.spotify.com/track/2c39ZtqhdYgjQ4brG0ujmT"
     },
     {
       "added_at": "2026-08-28 04:03:32",

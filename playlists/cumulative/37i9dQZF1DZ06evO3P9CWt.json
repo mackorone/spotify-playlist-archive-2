@@ -557,6 +557,28 @@
     },
     {
       "album": {
+        "name": "BODY TYPE",
+        "url": "https://open.spotify.com/album/1vbnBkORYGIzRDUYP6WR3J"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146500,
+      "name": "BODY TYPE",
+      "url": "https://open.spotify.com/track/5B08DVCm1Ed627Buhuuxxo"
+    },
+    {
+      "album": {
         "name": "BRUXARIA 3000",
         "url": "https://open.spotify.com/album/4dSYs3xICrNR4Mob4nn3Sa"
       },
@@ -2012,7 +2034,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 181000,
       "name": "Open Bar (Lean On)",
       "url": "https://open.spotify.com/track/4WiViQB00IRESI6RBo7QaU"

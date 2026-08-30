@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 
 > Traditional country sounds from artists of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,605 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,675 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 15 | [Why Not Me](https://open.spotify.com/track/6BkK5Dsu1kTne7Cn6EyYex) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Why Not Me](https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA) | 3:29 |
 | 16 | [He Sure Is Nice](https://open.spotify.com/track/6skkd60h40oOZzC3d97Alj) | [Belle Frantz](https://open.spotify.com/artist/7impCQSfqOMNU2WJPuoGXL) | [For Those Who Despise Valentine’s](https://open.spotify.com/album/6vxSzaj0glrPc78ALLEfGt) | 3:37 |
 | 17 | [Where That Came From](https://open.spotify.com/track/6vNJDp8znmaQp2vAXHRPGd) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Where That Came From](https://open.spotify.com/album/0ijAqKhMaahw0WCyuntRlB) | 3:11 |
-| 18 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 |
+| 18 | [Any Man Of Mine](https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:06 |
 | 19 | [Sounds Like the Radio](https://open.spotify.com/track/5wCUOa3jSe5ZM3oXEutCdO) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Sounds Like The Radio](https://open.spotify.com/album/3Ca8JBhNiiE2bsPDwsxOdV) | 3:38 |
 | 20 | [Bar Star](https://open.spotify.com/track/2WtSCFXxKqjzfl2vZRkzcW) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Bar Star](https://open.spotify.com/album/1xcS7YZLIRIARfz4yHoLhW) | 2:52 |
 | 21 | [Change The Man](https://open.spotify.com/track/10BWPBIJFx3RPgJfTKS15N) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Change The Man](https://open.spotify.com/album/5rlZ8t1zTFpFPQPOiVUEbO) | 3:31 |
-| 22 | [Any Man Of Mine](https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:06 |
+| 22 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 |
 | 23 | [Eighteen Wheels And A Dozen Roses](https://open.spotify.com/track/50iMY1vxRo3GiVvReK9Hxf) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Untasted Honey](https://open.spotify.com/album/2B94aIHbi4KKuKX0wlGbZO) | 3:23 |
 | 24 | [Time Marches On](https://open.spotify.com/track/2TIEeLrOQrGnO2D2OeDDJu) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Time Marches On](https://open.spotify.com/album/5zSPDpefI09DHOSdQLJTW6) | 3:05 |
 | 25 | [String By](https://open.spotify.com/track/4eKboSkfneEWs7JzWHbvQW) | [Mack Geiger](https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ) | [String By](https://open.spotify.com/album/1xyWDZIbW5NWpTGaSP6rYn) | 3:15 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 66 | [I Got A Problem](https://open.spotify.com/track/5d9Sr7MXI5wSo6I53oW8Hx) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [I Got A Problem](https://open.spotify.com/album/4kBEIGrzwLM9J4hQnmjynt) | 2:27 |
 | 67 | [You Can Have Him Jolene](https://open.spotify.com/track/1A4sU22TOu9GUqQeZYqqoa) | [Chapel Hart](https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj) | [The Girls Are Back in Town](https://open.spotify.com/album/2AVfLcUhMj7QZ1sBgH8tPK) | 3:12 |
 | 68 | [Don’t Mess With Exes](https://open.spotify.com/track/0svx82ZXx8NlIwf7hihUNa) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Mackenzie Carpenter](https://open.spotify.com/album/30tgvcvKKBR2eoiKQZaD4i) | 3:27 |
-| 69 | [That Ain't My Truck](https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR) | [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [A Thousand Memories](https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb) | 4:03 |
+| 69 | [Wild One](https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Take Me as I Am](https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ) | 2:45 |
 | 70 | [State You Left Me In](https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [State You Left Me In](https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd) | 5:25 |
-| 71 | [Wild One](https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Take Me as I Am](https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ) | 2:45 |
+| 71 | [That Ain't My Truck](https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR) | [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [A Thousand Memories](https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb) | 4:03 |
 | 72 | [Mr\. Saturday Night](https://open.spotify.com/track/1UOLcw0uOTOMNLugxtJzeH) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/5XORipB5PhMoQx46rjX9o9) | 3:06 |
 | 73 | [One More Last Chance](https://open.spotify.com/track/2h5a6t9JFasqH5WJFPbmGL) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [I Still Believe In You](https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS) | 3:11 |
 | 74 | [Queen Of My Double Wide Trailer](https://open.spotify.com/track/3Wz9Fm9ZyhpaRGxMlSR5G4) | [Sammy Kershaw](https://open.spotify.com/artist/3tkZthBATD0S45hm1DmB2O) | [Haunted Heart](https://open.spotify.com/album/30ORdfQ1Movxqmpf3qkrMQ) | 3:31 |

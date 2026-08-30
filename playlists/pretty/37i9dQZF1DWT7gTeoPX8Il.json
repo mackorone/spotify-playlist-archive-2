@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 171517,
+  "num_followers": 171531,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -215,18 +215,18 @@
     {
       "added_at": "2026-07-17 07:14:07",
       "album": {
-        "name": "Berdamai",
-        "url": "https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD"
+        "name": "Rumah",
+        "url": "https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn"
       },
       "artists": [
         {
-          "name": "Ghea Indrawari",
-          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
         }
       ],
-      "duration_ms": 255599,
-      "name": "Terima Kasih Sudah Bertahan",
-      "url": "https://open.spotify.com/track/6A1VXwBrL7hpGXScZkGo8D"
+      "duration_ms": 258845,
+      "name": "Rumah",
+      "url": "https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk"
     },
     {
       "added_at": "2026-07-17 07:14:07",
@@ -247,18 +247,18 @@
     {
       "added_at": "2026-07-17 07:14:07",
       "album": {
-        "name": "Rumah",
-        "url": "https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn"
+        "name": "Berdamai",
+        "url": "https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD"
       },
       "artists": [
         {
-          "name": "Salma Salsabil",
-          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
         }
       ],
-      "duration_ms": 258845,
-      "name": "Rumah",
-      "url": "https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk"
+      "duration_ms": 255599,
+      "name": "Terima Kasih Sudah Bertahan",
+      "url": "https://open.spotify.com/track/6A1VXwBrL7hpGXScZkGo8D"
     },
     {
       "added_at": "2026-07-17 07:14:07",
@@ -451,26 +451,6 @@
     {
       "added_at": "2026-07-17 07:14:07",
       "album": {
-        "name": "Bermuara",
-        "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        },
-        {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        }
-      ],
-      "duration_ms": 287465,
-      "name": "Bermuara",
-      "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
-    },
-    {
-      "added_at": "2026-07-17 07:14:07",
-      "album": {
         "name": "Lagu Pernikahan Kita",
         "url": "https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 261476,
       "name": "Lagu Pernikahan Kita",
       "url": "https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681"
+    },
+    {
+      "added_at": "2026-07-17 07:14:07",
+      "album": {
+        "name": "Bermuara",
+        "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        },
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "duration_ms": 287465,
+      "name": "Bermuara",
+      "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
     },
     {
       "added_at": "2026-07-17 07:14:07",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-07-17 07:14:07",
       "album": {
+        "name": "Tak Adil",
+        "url": "https://open.spotify.com/album/5KE1w2SeSailnWywfZg25K"
+      },
+      "artists": [
+        {
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+        }
+      ],
+      "duration_ms": 188012,
+      "name": "Tak Adil",
+      "url": "https://open.spotify.com/track/71RXKBoFWiQu4v2o1geh1V"
+    },
+    {
+      "added_at": "2026-07-17 07:14:07",
+      "album": {
         "name": "Aku Tanpa Kamu Tanpa Aku",
         "url": "https://open.spotify.com/album/3mWgjnE8LPJeJSIy6dEHsm"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 267392,
       "name": "Aku Tanpa Kamu Tanpa Aku",
       "url": "https://open.spotify.com/track/4fA9T5ifvSebKMJTr1HeN0"
-    },
-    {
-      "added_at": "2026-07-17 07:14:07",
-      "album": {
-        "name": "Tak Adil",
-        "url": "https://open.spotify.com/album/5KE1w2SeSailnWywfZg25K"
-      },
-      "artists": [
-        {
-          "name": "Aisha Retno",
-          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
-        }
-      ],
-      "duration_ms": 188012,
-      "name": "Tak Adil",
-      "url": "https://open.spotify.com/track/71RXKBoFWiQu4v2o1geh1V"
     },
     {
       "added_at": "2026-07-17 07:14:07",

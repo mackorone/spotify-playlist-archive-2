@@ -4,7 +4,7 @@
 
 > This is Christina Aguilera\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 40 min
+80 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Feel This Moment \(feat\. Christina Aguilera\)](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:49 | 2023-07-28 |  |
 | [Fighter](https://open.spotify.com/track/7nXq1vaZiz7PdbfojpPjW5) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 4:05 | 2023-07-28 |  |
 | [Genie In a Bottle](https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:37 | 2023-07-28 |  |
+| [Genie in a Bottle \(Levi Mix\)](https://open.spotify.com/track/1jIH1ugCqobuVG13P59POG) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Genie in a Bottle \(Levi Mix\)](https://open.spotify.com/album/2cUZ5RyG48l4PurHGi4iNu) | 2:41 | 2026-08-30 |  |
 | [Genio Atrapado](https://open.spotify.com/track/3ne8ipFCs7RUr2K6QoD6BQ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 3:37 | 2023-07-28 |  |
 | [Glam](https://open.spotify.com/track/4mMMraFsF2WWRZhmrkW02v) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 3:39 | 2025-06-14 | 2025-06-16 |
 | [Guy What Takes His Time \- Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/track/3Y16tCwH1qvcCsb3J67ytS) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3) | 2:43 | 2025-12-10 |  |
@@ -44,7 +45,7 @@
 | [Infatuation](https://open.spotify.com/track/1Bwq4TKxWqvSgyHZN06wId) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 4:17 | 2023-07-28 |  |
 | [Intro \(La Luz\)](https://open.spotify.com/track/3JizcqwxIkHLijphOhQHou) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 0:40 | 2023-08-01 | 2025-03-10 |
 | [Just A Fool](https://open.spotify.com/track/6nS1vMV1zs8c0Lk6mud78D) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Lotus \(Deluxe Version\)](https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q) | 4:13 | 2023-07-28 |  |
-| [Keeps Gettin' Better](https://open.spotify.com/track/0j0n5CUS1g3QSwDWg8r5qq) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Keeps Gettin' Better: A Decade of Hits](https://open.spotify.com/album/2019iQx5MmA6byqYqdK7zS) | 3:01 | 2026-07-14 |  |
+| [Keeps Gettin' Better](https://open.spotify.com/track/0j0n5CUS1g3QSwDWg8r5qq) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Keeps Gettin' Better: A Decade of Hits](https://open.spotify.com/album/2019iQx5MmA6byqYqdK7zS) | 3:01 | 2026-07-14 | 2026-08-30 |
 | [La Reina](https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Fuerza](https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5) | 3:48 | 2023-07-28 | 2024-08-30 |
 | [Lady Marmalade \- Single Edit](https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Lady Marmalade](https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ) | 4:27 | 2023-07-28 |  |
 | [Learning To Fly](https://open.spotify.com/track/7K17Bf15jq4EGfqhYc8Zjv) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Learning To Fly](https://open.spotify.com/album/3blsbvbusz2BUmqVCqwb06) | 2:56 | 2023-09-25 |  |

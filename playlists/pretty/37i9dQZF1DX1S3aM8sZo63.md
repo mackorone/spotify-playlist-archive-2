@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 
 > Así como lo pediste, ponte cursi con las canciones más románticas\. Joss Favela en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,073,218 likes - 125 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,160 likes - 125 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 31 | [Dueño de Ti](https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Me Gusta Estar Contigo](https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG) | 3:40 |
 | 32 | [Ebrio De Amor \- En Vivo](https://open.spotify.com/track/2SkeBrSWvvTsFtORCiud4k) | [Arath Arceo](https://open.spotify.com/artist/179sKnhSlC0IVj10e98XhZ) | [Que Empiece La Borrachera \(En Vivo\)](https://open.spotify.com/album/3bx8b36tOXgle97X8LpBPm) | 2:55 |
 | 33 | [La Mejor De Todas](https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Mejor De Todas](https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW) | 3:27 |
-| 34 | [Sueño Guajiro](https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 3:03 |
+| 34 | [Amor Confuso](https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:01 |
 | 35 | [Y Que Quede Claro](https://open.spotify.com/track/4ClMZDRwBmwGJKN6qQLVPY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:09 |
-| 36 | [Amor Confuso](https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:01 |
+| 36 | [Sueño Guajiro](https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 3:03 |
 | 37 | [Un Vestido de Besos](https://open.spotify.com/track/2jKsAIJYpGJWAgcwnwFZRv) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 2:59 |
-| 38 | [Bebe Dame](https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Bebe Dame](https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC) | 4:31 |
-| 39 | [Ojitos de Miel](https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 3:59 |
+| 38 | [Ojitos de Miel](https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 3:59 |
+| 39 | [Bebe Dame](https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Bebe Dame](https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC) | 4:31 |
 | 40 | [Deja](https://open.spotify.com/track/2LaMe6cSGfsbu7KUA8UBoJ) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Lo Mejor De Mi Vida](https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe) | 2:36 |
 | 41 | [Si Yo Fuera Ladrón](https://open.spotify.com/track/3smCnGYSUF8BwNDjbpAZZA) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 3:20 |
 | 42 | [¿Por Qué Cambiaste De Opinión?](https://open.spotify.com/track/1j8gLQNfFOI0vs8qcVTWwa) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mitad Y Mitad](https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R) | 4:01 |
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 98 | [Celos](https://open.spotify.com/track/14cKYjqTETGeewrsckuwtK) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Llegando Al Rancho](https://open.spotify.com/album/6vJ9ymVhHcvI1NgFuFA0rN) | 3:16 |
 | 99 | [Te He Prometido](https://open.spotify.com/track/05hpTrbQIXJ2DiXrozJtyF) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Te He Prometido](https://open.spotify.com/album/22pQFjhrfjfky4uoetcaLu) | 3:12 |
 | 100 | [Que Fueras Tu](https://open.spotify.com/track/4vSR9P8dxAneEKmYMebuSC) | [Banda Los Reales](https://open.spotify.com/artist/6kTecPO26Gxf7Vsk0Lk8OI) | [Que Fueras Tu](https://open.spotify.com/album/3qym38qDwhuV9FtEfVdDYC) | 2:58 |
-| 101 | [Directo al Corazón](https://open.spotify.com/track/1DrgCuJsScMhFaTXdMc8pr) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Directo al Corazón](https://open.spotify.com/album/4UBZzHIHJjeDrqs8aTshMd) | 3:36 |
-| 102 | [Te Amo](https://open.spotify.com/track/3EMEDF8iBEGeiR4ZEPRrFs) | [La Reunion Nortena](https://open.spotify.com/artist/554Ew2NdutSKKljCiK3s3n) | [Te Amo](https://open.spotify.com/album/3GVsiC0rnhSEFID1RUBzPw) | 3:21 |
+| 101 | [Te Amo](https://open.spotify.com/track/3EMEDF8iBEGeiR4ZEPRrFs) | [La Reunion Nortena](https://open.spotify.com/artist/554Ew2NdutSKKljCiK3s3n) | [Te Amo](https://open.spotify.com/album/3GVsiC0rnhSEFID1RUBzPw) | 3:21 |
+| 102 | [Directo al Corazón](https://open.spotify.com/track/1DrgCuJsScMhFaTXdMc8pr) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Directo al Corazón](https://open.spotify.com/album/4UBZzHIHJjeDrqs8aTshMd) | 3:36 |
 | 103 | [Me Canse De Morir Por Tu Amor](https://open.spotify.com/track/7GV9iziCj6kx0noYOtrI6O) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Los Inmortales](https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5) | 3:32 |
 | 104 | [Habla Tu Ex](https://open.spotify.com/track/4m2g3MSQmM3vRDMVeDjddV) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Habla Tu Ex](https://open.spotify.com/album/5oe0Kt1rdkIclajNXC4YBZ) | 3:13 |
 | 105 | [Se Busca Plebita](https://open.spotify.com/track/6X7JlF95S3VBlAv1YxWNTU) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Se Busca Plebita](https://open.spotify.com/album/2sqpCovDDnDfAL7Xay4CCs) | 2:33 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 113 | [Y Sigues Siendo Tú](https://open.spotify.com/track/2csn0HOElqpk8gc8mhtGeN) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Y Sigues Siendo Tú](https://open.spotify.com/album/6BLpmYtWTS9IdxVTsFQZdd) | 2:42 |
 | 114 | [Celos](https://open.spotify.com/track/0KEym4CJmghhtnTbcS3p9i) | [Francisco El Gallo Elizalde](https://open.spotify.com/artist/4MdLjs618SVsOLaxdm1vBb) | [Celos](https://open.spotify.com/album/6earVwRvnJfEkdJtx9G5oj) | 3:16 |
 | 115 | [Te Encontré](https://open.spotify.com/track/035sZJHSCISbr1PeYq7aYV) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Te Encontré](https://open.spotify.com/album/2RzFPA5sJyIiG602E6TGQY) | 3:00 |
-| 116 | [Te Quiero Así](https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 2:51 |
-| 117 | [Gracias Por Tanto Amor](https://open.spotify.com/track/4buZgvxXI3mxuGjYK0DlE9) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Gracias Por Tanto Amor](https://open.spotify.com/album/4wfSUW57G8e9iWV0Yfxkr4) | 3:34 |
+| 116 | [Gracias Por Tanto Amor](https://open.spotify.com/track/4buZgvxXI3mxuGjYK0DlE9) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Gracias Por Tanto Amor](https://open.spotify.com/album/4wfSUW57G8e9iWV0Yfxkr4) | 3:34 |
+| 117 | [Te Quiero Así](https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 2:51 |
 | 118 | [Un Día Especial](https://open.spotify.com/track/77nflbzz9pU6CbwU316WQB) | [Banda La Tunera](https://open.spotify.com/artist/3Gm7OsNtRLLuJNGbsm3X1W) | [Un Día Especial](https://open.spotify.com/album/5cZaT2UGdSFJw3VeZ5JpHE) | 2:52 |
 | 119 | [Quédate conmigo esta noche](https://open.spotify.com/track/4avtdDHWHv8NVuY5fOJn7e) | [Los Alvarado](https://open.spotify.com/artist/4GfywMlztnQFR7cmCqCigT) | [Corazones de Amor](https://open.spotify.com/album/1wl8ZMdTUdx0f2XtcwaeTn) | 3:33 |
 | 120 | [Ranchero Enamorado](https://open.spotify.com/track/4wQCG04ViRJEzTK8BQIvTQ) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Nacimos Pa' Ser Historia](https://open.spotify.com/album/2ugVjmD8o9P4Gyn4mfVF8z) | 2:57 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 124 | [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 |
 | 125 | [Qué Onda Perdida](https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15) | 3:59 |
 
-Snapshot ID: `AAAAAOppsjoavtcnqiGKCeoXXvJT3gBn`
+Snapshot ID: `AAAAAEpz2s0zO/xgUDtbv5vGvd1+4cym`

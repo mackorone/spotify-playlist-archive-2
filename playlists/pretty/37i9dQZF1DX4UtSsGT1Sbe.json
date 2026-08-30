@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1980s. Cover: Madonna",
-  "num_followers": 12021556,
+  "num_followers": 12022420,
   "original_name": "All Out 80s",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-07-09 14:06:14",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
-    },
-    {
-      "added_at": "2026-07-09 14:06:14",
-      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 243360,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
+    },
+    {
+      "added_at": "2026-07-09 14:06:14",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
     {
       "added_at": "2026-07-09 14:06:14",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-07-09 14:06:14",
       "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 273173,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
-    },
-    {
-      "added_at": "2026-07-09 14:06:14",
-      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 216053,
       "name": "Summer Of '69",
       "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
+    },
+    {
+      "added_at": "2026-07-09 14:06:14",
+      "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 273173,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
     },
     {
       "added_at": "2026-07-09 14:06:14",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-07-09 14:06:14",
       "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 166749,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
+      "added_at": "2026-07-09 14:06:14",
+      "album": {
         "name": "...But Seriously (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
       },
@@ -499,22 +515,6 @@
     {
       "added_at": "2026-07-09 14:06:14",
       "album": {
-        "name": "Broadcast",
-        "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
-      },
-      "artists": [
-        {
-          "name": "Cutting Crew",
-          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
-        }
-      ],
-      "duration_ms": 280400,
-      "name": "(I Just) Died In Your Arms",
-      "url": "https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm"
-    },
-    {
-      "added_at": "2026-07-09 14:06:14",
-      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 245296,
       "name": "Dancing In the Dark",
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
+    },
+    {
+      "added_at": "2026-07-09 14:06:14",
+      "album": {
+        "name": "Broadcast",
+        "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
+      },
+      "artists": [
+        {
+          "name": "Cutting Crew",
+          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "(I Just) Died In Your Arms",
+      "url": "https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm"
     },
     {
       "added_at": "2026-07-09 14:06:14",
@@ -575,22 +591,6 @@
       "duration_ms": 296800,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
-    },
-    {
-      "added_at": "2026-07-09 14:06:14",
-      "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 166749,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
       "added_at": "2026-07-09 14:06:14",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-07-09 14:06:14",
       "album": {
+        "name": "Foreign Affair",
+        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 329800,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
+    },
+    {
+      "added_at": "2026-07-09 14:06:14",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/5FfkiNcXAvagExRCLd8nn4"
       },
@@ -995,18 +1011,18 @@
     {
       "added_at": "2026-07-09 14:06:14",
       "album": {
-        "name": "Foreign Affair",
-        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
+        "name": "Bad Animals",
+        "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
       },
       "artists": [
         {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
         }
       ],
-      "duration_ms": 329800,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
+      "duration_ms": 218733,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
     },
     {
       "added_at": "2026-07-09 14:06:14",
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2026-07-09 14:06:14",
       "album": {
-        "name": "Bad Animals",
-        "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
       },
       "artists": [
         {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 218733,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
+      "duration_ms": 252853,
+      "name": "Super Trouper",
+      "url": "https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1"
     },
     {
       "added_at": "2026-07-09 14:06:14",
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2026-07-09 14:06:14",
       "album": {
-        "name": "Super Trouper",
-        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 252853,
-      "name": "Super Trouper",
-      "url": "https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1"
-    },
-    {
-      "added_at": "2026-07-09 14:06:14",
-      "album": {
         "name": "Rocky IV",
         "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
       },
@@ -1087,6 +1087,22 @@
       "duration_ms": 245640,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
+    },
+    {
+      "added_at": "2026-07-09 14:06:14",
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 233270,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
     },
     {
       "added_at": "2026-07-09 14:06:14",
@@ -1119,22 +1135,6 @@
       "duration_ms": 226240,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
-    },
-    {
-      "added_at": "2026-07-09 14:06:14",
-      "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 233270,
-      "name": "Run To You",
-      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
     },
     {
       "added_at": "2026-07-09 14:06:14",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-07-09 14:06:14",
       "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 354636,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc"
+    },
+    {
+      "added_at": "2026-07-09 14:06:14",
+      "album": {
         "name": "Combat Rock (Remastered)",
         "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2026-07-09 14:06:14",
       "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
+        "name": "Bon Jovi",
+        "url": "https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz"
       },
       "artists": [
         {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 354636,
-      "name": "Hysteria",
-      "url": "https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc"
+      "duration_ms": 230666,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/0X1sqQ652p1sceKM2nJlIJ"
     },
     {
       "added_at": "2026-07-09 14:06:14",
@@ -1263,22 +1279,6 @@
       "duration_ms": 175746,
       "name": "You Can't Hurry Love - 2016 Remaster",
       "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
-    },
-    {
-      "added_at": "2026-07-09 14:06:14",
-      "album": {
-        "name": "Bon Jovi",
-        "url": "https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/0X1sqQ652p1sceKM2nJlIJ"
     },
     {
       "added_at": "2026-07-09 14:06:14",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-07-09 14:06:14",
       "album": {
+        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 215133,
+      "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"
+    },
+    {
+      "added_at": "2026-07-09 14:06:14",
+      "album": {
         "name": "Chicago 17 (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
       },
@@ -1411,18 +1427,34 @@
     {
       "added_at": "2026-07-09 14:06:14",
       "album": {
-        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
-        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
+        "name": "Solitude / Solitaire",
+        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
       "artists": [
         {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
         }
       ],
-      "duration_ms": 215133,
-      "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
-      "url": "https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"
+      "duration_ms": 258333,
+      "name": "Glory of Love",
+      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "added_at": "2026-07-09 14:06:14",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "Panama - 2015 Remaster",
+      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
     },
     {
       "added_at": "2026-07-09 14:06:14",
@@ -1455,38 +1487,6 @@
       "duration_ms": 220893,
       "name": "Just Can't Get Enough",
       "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
-    },
-    {
-      "added_at": "2026-07-09 14:06:14",
-      "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "Panama - 2015 Remaster",
-      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
-    },
-    {
-      "added_at": "2026-07-09 14:06:14",
-      "album": {
-        "name": "Solitude / Solitaire",
-        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
-      },
-      "artists": [
-        {
-          "name": "Peter Cetera",
-          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Glory of Love",
-      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
     },
     {
       "added_at": "2026-07-09 14:06:14",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-07-09 14:06:14",
       "album": {
-        "name": "Never Too Much",
-        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 230269,
-      "name": "Never Too Much",
-      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
-    },
-    {
-      "added_at": "2026-07-09 14:06:14",
-      "album": {
         "name": "Crowded House (Deluxe)",
         "url": "https://open.spotify.com/album/6W8rZvQ97nvTyOj26TRHJJ"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 238173,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/56GbZVwxMdf1DENCluYS8A"
+    },
+    {
+      "added_at": "2026-07-09 14:06:14",
+      "album": {
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 230269,
+      "name": "Never Too Much",
+      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
     },
     {
       "added_at": "2026-07-09 14:06:14",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2026-07-09 14:06:14",
       "album": {
-        "name": "Kick (Remastered 2011)",
-        "url": "https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "Need You Tonight",
-      "url": "https://open.spotify.com/track/3h04eZTnmFLRMjZajbrp2R"
-    },
-    {
-      "added_at": "2026-07-09 14:06:14",
-      "album": {
         "name": "So Excited! (Expanded Edition)",
         "url": "https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS"
       },
@@ -2067,18 +2051,18 @@
     {
       "added_at": "2026-07-09 14:06:14",
       "album": {
-        "name": "Bananarama (Collector's Edition)",
-        "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
+        "name": "Kick (Remastered 2011)",
+        "url": "https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu"
       },
       "artists": [
         {
-          "name": "Bananarama",
-          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
         }
       ],
-      "duration_ms": 215326,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
+      "duration_ms": 181106,
+      "name": "Need You Tonight",
+      "url": "https://open.spotify.com/track/3h04eZTnmFLRMjZajbrp2R"
     },
     {
       "added_at": "2026-07-09 14:06:14",
@@ -2099,18 +2083,18 @@
     {
       "added_at": "2026-07-09 14:06:14",
       "album": {
-        "name": "Simple Pleasures",
-        "url": "https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b"
+        "name": "Bananarama (Collector's Edition)",
+        "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
       },
       "artists": [
         {
-          "name": "Bobby McFerrin",
-          "url": "https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid"
+          "name": "Bananarama",
+          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
         }
       ],
-      "duration_ms": 294400,
-      "name": "Don't Worry Be Happy",
-      "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY"
+      "duration_ms": 215326,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
     },
     {
       "added_at": "2026-07-09 14:06:14",
@@ -2159,6 +2143,22 @@
       "duration_ms": 239826,
       "name": "If I Could Turn Back Time",
       "url": "https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM"
+    },
+    {
+      "added_at": "2026-07-09 14:06:14",
+      "album": {
+        "name": "Simple Pleasures",
+        "url": "https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b"
+      },
+      "artists": [
+        {
+          "name": "Bobby McFerrin",
+          "url": "https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid"
+        }
+      ],
+      "duration_ms": 294400,
+      "name": "Don't Worry Be Happy",
+      "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY"
     },
     {
       "added_at": "2026-07-09 14:06:14",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2026-07-09 14:06:14",
       "album": {
-        "name": "Love Will Tear Us Apart",
-        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 208453,
-      "name": "Love Will Tear Us Apart - 2020 Remaster",
-      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
-    },
-    {
-      "added_at": "2026-07-09 14:06:14",
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 297877,
       "name": "Greatest Love of All",
       "url": "https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu"
+    },
+    {
+      "added_at": "2026-07-09 14:06:14",
+      "album": {
+        "name": "Love Will Tear Us Apart",
+        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 208453,
+      "name": "Love Will Tear Us Apart - 2020 Remaster",
+      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
     },
     {
       "added_at": "2026-07-09 14:06:14",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2026-07-09 14:06:14",
       "album": {
-        "name": "All In a Night's Work (Expanded Version)",
-        "url": "https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 253673,
-      "name": "Give It Up",
-      "url": "https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN"
-    },
-    {
-      "added_at": "2026-07-09 14:06:14",
-      "album": {
         "name": "Zenyatta Mondatta (Remastered 2003)",
         "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 242666,
       "name": "Don't Stand So Close To Me",
       "url": "https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD"
+    },
+    {
+      "added_at": "2026-07-09 14:06:14",
+      "album": {
+        "name": "All In a Night's Work (Expanded Version)",
+        "url": "https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 253673,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN"
     },
     {
       "added_at": "2026-07-09 14:06:14",
@@ -2363,6 +2363,22 @@
     {
       "added_at": "2026-07-09 14:06:14",
       "album": {
+        "name": "Open Up And Say...Ahh! (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd"
+      },
+      "artists": [
+        {
+          "name": "Poison",
+          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Every Rose Has Its Thorn - 2003 Remaster",
+      "url": "https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY"
+    },
+    {
+      "added_at": "2026-07-09 14:06:14",
+      "album": {
         "name": "Mystery Girl",
         "url": "https://open.spotify.com/album/1UPcuqLY9PC99fQAqWgrSU"
       },
@@ -2395,34 +2411,18 @@
     {
       "added_at": "2026-07-09 14:06:14",
       "album": {
-        "name": "Open Up And Say...Ahh! (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd"
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
       "artists": [
         {
-          "name": "Poison",
-          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
         }
       ],
-      "duration_ms": 260173,
-      "name": "Every Rose Has Its Thorn - 2003 Remaster",
-      "url": "https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY"
-    },
-    {
-      "added_at": "2026-07-09 14:06:14",
-      "album": {
-        "name": "La Bamba / Charlena",
-        "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
-      },
-      "artists": [
-        {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
+      "duration_ms": 161600,
+      "name": "Talkin' Bout a Revolution",
+      "url": "https://open.spotify.com/track/0YMFcrMtBowDdD5bPz0cgy"
     }
   ],
   "unique_name": "All Out 80s",

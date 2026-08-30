@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 30998,
+  "num_followers": 31013,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAADZOZJSLf5GctRk8NDKe5G3",
+  "snapshot_id": "apDPgAAAAACxckpagT6/iBCEB2sLQ+IZ",
   "tracks": [
     {
       "added_at": null,
@@ -220,13 +220,17 @@
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         },
         {
-          "name": "Ghosttown",
-          "url": "https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf"
+          "name": "Pete & Bas",
+          "url": "https://open.spotify.com/artist/4if49KlQEdVNk97CQYSFvt"
+        },
+        {
+          "name": "JonRay",
+          "url": "https://open.spotify.com/artist/04xIuIcdIX6cp289fwiWaW"
         }
       ],
-      "duration_ms": 160729,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/3ici5bVyYe4hidBW2enSUt"
+      "duration_ms": 194782,
+      "name": "Kin (I\u2019m Outside) [with Pete & Bas and JonRay]",
+      "url": "https://open.spotify.com/track/00mcD1i8K8jBD4CSyk8w38"
     },
     {
       "added_at": null,
@@ -292,17 +296,13 @@
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         },
         {
-          "name": "Pete & Bas",
-          "url": "https://open.spotify.com/artist/4if49KlQEdVNk97CQYSFvt"
-        },
-        {
-          "name": "JonRay",
-          "url": "https://open.spotify.com/artist/04xIuIcdIX6cp289fwiWaW"
+          "name": "Ghosttown",
+          "url": "https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf"
         }
       ],
-      "duration_ms": 194782,
-      "name": "Kin (I\u2019m Outside) [with Pete & Bas and JonRay]",
-      "url": "https://open.spotify.com/track/00mcD1i8K8jBD4CSyk8w38"
+      "duration_ms": 160729,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/3ici5bVyYe4hidBW2enSUt"
     },
     {
       "added_at": null,

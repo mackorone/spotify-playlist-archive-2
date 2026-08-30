@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Whisnu Santika, Judika
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,519 likes - 97 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,511 likes - 97 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

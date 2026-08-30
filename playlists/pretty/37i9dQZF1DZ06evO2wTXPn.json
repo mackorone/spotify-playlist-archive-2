@@ -1,13 +1,29 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31964,
+  "num_followers": 31965,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAACOTtCIiym6kTOMS6nQ9l3l",
+  "snapshot_id": "apDPgAAAAAARR+aaaYw2xd6rQ+lKZiI0",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde Antes De Nacer",
+        "url": "https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 166104,
+      "name": "Desde Antes De Nacer",
+      "url": "https://open.spotify.com/track/36aZuiCE3UhgUJXrSeVDKf"
+    },
     {
       "added_at": null,
       "album": {
@@ -175,18 +191,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Espectador",
-        "url": "https://open.spotify.com/album/0ekLp83yAHBExNAvnFgJBV"
+        "name": "50 Meses Tarde (Ptm)",
+        "url": "https://open.spotify.com/album/3paLg9Sbgy1gPf0TjAsAkf"
       },
       "artists": [
+        {
+          "name": "Ale Z\u00e9guer",
+          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
+        },
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 200771,
-      "name": "Espectador",
-      "url": "https://open.spotify.com/track/7K6VPsAtUg6aWoeUoeSkPC"
+      "duration_ms": 214557,
+      "name": "50 Meses Tarde (Ptm)",
+      "url": "https://open.spotify.com/track/4Op6B7yG5b12Bh9UH1PYJE"
     },
     {
       "added_at": null,
@@ -207,22 +227,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "50 Meses Tarde (Ptm)",
-        "url": "https://open.spotify.com/album/3paLg9Sbgy1gPf0TjAsAkf"
+        "name": "Espectador",
+        "url": "https://open.spotify.com/album/0ekLp83yAHBExNAvnFgJBV"
       },
       "artists": [
-        {
-          "name": "Ale Z\u00e9guer",
-          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
-        },
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 214557,
-      "name": "50 Meses Tarde (Ptm)",
-      "url": "https://open.spotify.com/track/4Op6B7yG5b12Bh9UH1PYJE"
+      "duration_ms": 200771,
+      "name": "Espectador",
+      "url": "https://open.spotify.com/track/7K6VPsAtUg6aWoeUoeSkPC"
     },
     {
       "added_at": null,
@@ -383,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165346,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/6gA1VnJMJYUi4kFTg7OqtM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Despierto",
         "url": "https://open.spotify.com/album/5zjSZUekfzF97XyDUbWW1T"
       },
@@ -415,6 +415,22 @@
       "duration_ms": 189013,
       "name": "Encima De Mil",
       "url": "https://open.spotify.com/track/74wY2RFSQJlz7yznnDWDsj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165346,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/6gA1VnJMJYUi4kFTg7OqtM"
     },
     {
       "added_at": null,
@@ -555,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 156480,
+      "name": "Lolis",
+      "url": "https://open.spotify.com/track/03qqmwlMWMa6yQP84Z4fmB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "unas ac\u00fasticas",
         "url": "https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l"
       },
@@ -571,22 +603,6 @@
       "duration_ms": 174560,
       "name": "Salto de Fe",
       "url": "https://open.spotify.com/track/48EdXAASoIWLZviugfzfkw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "Lolis",
-      "url": "https://open.spotify.com/track/03qqmwlMWMa6yQP84Z4fmB"
     },
     {
       "added_at": null,
@@ -623,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prometo",
-        "url": "https://open.spotify.com/album/2E3vqnGi7DA7r5DTfIHA5D"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Prometo",
-      "url": "https://open.spotify.com/track/2sml6OCdt6e1UgcWekUJO4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Vida",
         "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
       },
@@ -663,18 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luz Prendida",
-        "url": "https://open.spotify.com/album/3ai6kChzcTOxYvail4UJ1C"
+        "name": "Prometo",
+        "url": "https://open.spotify.com/album/2E3vqnGi7DA7r5DTfIHA5D"
       },
       "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 173386,
-      "name": "Luz Prendida",
-      "url": "https://open.spotify.com/track/04GQvEby350jUhpZOMMMG1"
+      "duration_ms": 201120,
+      "name": "Prometo",
+      "url": "https://open.spotify.com/track/2sml6OCdt6e1UgcWekUJO4"
     },
     {
       "added_at": null,
@@ -695,22 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leyenda",
-        "url": "https://open.spotify.com/album/4Y29vgiupwmAA5uy7xQLBm"
+        "name": "Luz Prendida",
+        "url": "https://open.spotify.com/album/3ai6kChzcTOxYvail4UJ1C"
       },
       "artists": [
-        {
-          "name": "Lucah",
-          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
-        },
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 252285,
-      "name": "Leyenda",
-      "url": "https://open.spotify.com/track/579JzwW1xZKakL7FwFH79r"
+      "duration_ms": 173386,
+      "name": "Luz Prendida",
+      "url": "https://open.spotify.com/track/04GQvEby350jUhpZOMMMG1"
     },
     {
       "added_at": null,
@@ -727,6 +723,26 @@
       "duration_ms": 174106,
       "name": "Amanec\u00ed Nublado",
       "url": "https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Leyenda",
+        "url": "https://open.spotify.com/album/4Y29vgiupwmAA5uy7xQLBm"
+      },
+      "artists": [
+        {
+          "name": "Lucah",
+          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 252285,
+      "name": "Leyenda",
+      "url": "https://open.spotify.com/track/579JzwW1xZKakL7FwFH79r"
     },
     {
       "added_at": null,
@@ -911,22 +927,6 @@
       "duration_ms": 173226,
       "name": "B\u00f3rrame",
       "url": "https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/4ovjXs66STqIxRyHqoYtML"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Kintsugi",
-      "url": "https://open.spotify.com/track/3pa99b4KAVFpO5NxGcfa1H"
     }
   ],
   "unique_name": "This Is KURT",

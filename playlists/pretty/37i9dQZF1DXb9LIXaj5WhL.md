@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 
 > 90s acoustics, mellow hits, and classic unplugged versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,444,758 likes - 75 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,444,784 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 28 | [A Long December](https://open.spotify.com/track/1tjKIXd7DYNklhVSgBxREi) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Recovering The Satellites](https://open.spotify.com/album/4YArB2Q848BDmmwUUumEFP) | 4:55 |
 | 29 | [The Freshmen](https://open.spotify.com/track/21jEuMn2lf37715rwjow2M) | [The Verve Pipe](https://open.spotify.com/artist/242iqFnwNhlidVBMI9GYKp) | [Villains](https://open.spotify.com/album/3sV3CL42DZ8C11MuQwVUEi) | 4:29 |
 | 30 | [Change](https://open.spotify.com/track/44RW9FEY76mLQCRQUjT0Zt) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:41 |
-| 31 | [Because the Night \- Live Unplugged](https://open.spotify.com/track/5VzvK7YiwWbRePA2JOzhYq) | [10,000 Maniacs](https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/4Z8B7aRCB34COXcjCDPgzg) | 3:43 |
-| 32 | [Cornflake Girl](https://open.spotify.com/track/1300POeOaj8qho30FRHjgf) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Under the Pink](https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD) | 5:05 |
+| 31 | [Cornflake Girl](https://open.spotify.com/track/1300POeOaj8qho30FRHjgf) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Under the Pink](https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD) | 5:05 |
+| 32 | [Because the Night \- Live Unplugged](https://open.spotify.com/track/5VzvK7YiwWbRePA2JOzhYq) | [10,000 Maniacs](https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/4Z8B7aRCB34COXcjCDPgzg) | 3:43 |
 | 33 | [Stay \(I Missed You\)](https://open.spotify.com/track/7Lwo27zrXusqUlAaTgnytp) | [Lisa Loeb & Nine Stories](https://open.spotify.com/artist/4a7CDXcRCXi4kp5z7SEXtg) | [Tails](https://open.spotify.com/album/6T9F35NdrGIdrMrVAwBEb7) | 3:03 |
 | 34 | [Ironic](https://open.spotify.com/track/4oGTdOClZUxcM2H3UmXlwL) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) | 3:45 |
 | 35 | [Kind & Generous](https://open.spotify.com/track/6VrjF67WFChXh8uYYBfeRr) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD) | [Ophelia](https://open.spotify.com/album/79yCNDXk5sNKwskcAOxUtz) | 4:01 |
 | 36 | [Under the Bridge](https://open.spotify.com/track/23NPGXlSaIqWzvxIRhM2oG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Greatest Hits](https://open.spotify.com/album/53tvjWbVNZKd3CvpENkzOC) | 4:25 |
 | 37 | [Shelf In The Room](https://open.spotify.com/track/5UNoPMX7K2W769iQ4PDfOt) | [Days Of The New](https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t) | [Days Of The New](https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8) | 4:43 |
-| 38 | [Motorcycle Drive By](https://open.spotify.com/track/47wtXjG0Sk6DI6cjkRBcEg) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:22 |
-| 39 | [Oceans](https://open.spotify.com/track/0LBmvPJYmtEJ7kkWvc3kbT) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 2:41 |
+| 38 | [Oceans](https://open.spotify.com/track/0LBmvPJYmtEJ7kkWvc3kbT) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 2:41 |
+| 39 | [Motorcycle Drive By](https://open.spotify.com/track/47wtXjG0Sk6DI6cjkRBcEg) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:22 |
 | 40 | [Save Me](https://open.spotify.com/track/0EqtsCvcDjEz6svFsaV5HN) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Magnolia \(Music from the Motion Picture\)](https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV) | 4:34 |
 | 41 | [Cover Me](https://open.spotify.com/track/5Bb88WRO4906ngHGMvkv4P) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n) | [Candlebox](https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb) | 4:45 |
 | 42 | [Sunny Came Home](https://open.spotify.com/track/4mOxpj82q6n3EO7HBZCelX) | [Shawn Colvin](https://open.spotify.com/artist/0K7VN4aHxHcEb7PqkfoIVA) | [A Few Small Repairs](https://open.spotify.com/album/3EZXmJz03Dj8sB3K26Gmx8) | 4:24 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 47 | [Kiss from a Rose \- Acoustic](https://open.spotify.com/track/3YfiGjwBzBsDrYPqAJsD4z) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Best 1991 \- 2004](https://open.spotify.com/album/3NehJpD5x3MUtpl8jDTHaa) | 5:24 |
 | 48 | [When You Say Nothing At All](https://open.spotify.com/track/46LI9mnlQ8fJHH47ioBubg) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [A Tribute Album](https://open.spotify.com/album/2GPq8BXUNLgiDb191QM7j8) | 4:21 |
 | 49 | [You Learn \- Live / Unplugged](https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Live / Unplugged](https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv) | 4:21 |
-| 50 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
-| 51 | [Pitseleh](https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:22 |
-| 52 | [Adia](https://open.spotify.com/track/0rl84FuazRHYmK72krdmA1) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:04 |
+| 50 | [Pitseleh](https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:22 |
+| 51 | [Adia](https://open.spotify.com/track/0rl84FuazRHYmK72krdmA1) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:04 |
+| 52 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
 | 53 | [The Pusher](https://open.spotify.com/track/0QXxJofIuWHLQafnTzFAwV) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Nico](https://open.spotify.com/album/7ikXCPzEM6uTEugCzqG4cT) | 3:06 |
 | 54 | [Head over Feet \- Live / Unplugged](https://open.spotify.com/track/0HxDXAUayBZXU8ZaWdBKyc) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Live / Unplugged](https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv) | 4:22 |
 | 55 | [Smells Like Teen Spirit \- 2015 Remaster](https://open.spotify.com/track/1kWqRB6PHLM9QTfaXuHpIV) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes \(Deluxe Edition\)](https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE) | 3:15 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 72 | [High And Dry](https://open.spotify.com/track/5jafMI8FLibnjkYTZ33m0c) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2) | 4:17 |
 | 73 | [What It's Like](https://open.spotify.com/track/7pMVB2oz4Q4SlfTvvevNro) | [Everlast](https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn) | [Whitey Ford Sings The Blues](https://open.spotify.com/album/2Wbxdj9ABLszNA9xuGGQft) | 5:03 |
 | 74 | [Where Is My Mind?](https://open.spotify.com/track/5BP0oaQ1VhuaznT77CBXQp) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Death To The Pixies](https://open.spotify.com/album/718KJ6VFOdcqCFCWykJKoG) | 3:51 |
-| 75 | [Wonderwall](https://open.spotify.com/track/7JrUo70YjhU4S7flcJtK0k) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\[What's The Story\] Morning Glory](https://open.spotify.com/album/1GIiLeoqfB5s7lMYPNPzbB) | 4:18 |
+| 75 | [Lovefool \- Radio Edit](https://open.spotify.com/track/0u4htORODiTK9vHVA89MQX) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon](https://open.spotify.com/album/0YI7QPNUGq8NTB6Nd8nWfd) | 3:13 |
 
 Snapshot ID: `AAAAAMvQXHibYFBsw0R+22v7hogKVytG`

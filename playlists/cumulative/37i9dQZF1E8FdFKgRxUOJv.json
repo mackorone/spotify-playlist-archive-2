@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-12-06",
-  "description": "With John Mayer, Wild Rivers, Ray LaMontagne and more",
+  "description": "With John Mayer, Wild Rivers, Stephen Day and more",
   "name": "Carry Me Away Radio",
   "tracks": [
     {
@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 213920,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp"
@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 200922,
       "name": "Balcony",
       "url": "https://open.spotify.com/track/1v7qJk7Djbx4VJ0dymwJt6"
@@ -2090,7 +2090,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 188960,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF"
@@ -7036,7 +7036,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 212373,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
@@ -12190,7 +12190,7 @@
       ],
       "date_added": "2021-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 254213,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw"
@@ -14618,7 +14618,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 253680,
       "name": "Lesson Learned (feat. John Mayer)",
       "url": "https://open.spotify.com/track/2c3jpiVWrH2l8O5HHRkJ5e"
@@ -22252,7 +22252,7 @@
       ],
       "date_added": "2020-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 243333,
       "name": "So Beautiful",
       "url": "https://open.spotify.com/track/1g9EdqVk89cz27yERaxSK2"
@@ -23186,7 +23186,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 327613,
       "name": "Stitched Up (feat. John Mayer)",
       "url": "https://open.spotify.com/track/4Czqh0g9rGdkhXMyf2Yhbn"
@@ -25678,7 +25678,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 199391,
       "name": "Thinking 'Bout Love",
       "url": "https://open.spotify.com/track/7rMvxY857vXy8ztbmXYTXz"
@@ -25876,7 +25876,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 202640,
       "name": "Those Sweet Words",
       "url": "https://open.spotify.com/track/2MKLbFPQ3QDXpQ0KnS06Kl"

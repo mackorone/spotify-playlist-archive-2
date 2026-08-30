@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,098,844 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,098,918 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 15 | [Freak on a Leash \(feat\. Amy Lee\) \- Live At MTV Studio, NYC, 2006](https://open.spotify.com/track/0CMo36AWojJ04Gb3GKf604) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/3IdmuALhor6bV32o4VVSFo) | 3:55 |
 | 16 | [1979 \- Acoustic](https://open.spotify.com/track/1hUD0aBTicbHb5G3p5P79e) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Aeroplane Flies High \(Deluxe Edition\)](https://open.spotify.com/album/5y5Qnze6BJUbON6FxndO9c) | 4:12 |
 | 17 | [Decode \- Acoustic Version](https://open.spotify.com/track/5JxZgmOjx6j1StzrOq85HK) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Decode](https://open.spotify.com/album/043vwbrz69dFkM7LL5bBo2) | 4:27 |
-| 18 | [Dust in the Wind \(From 'Queen of the Ring \- Music From The Motion Picture'\)](https://open.spotify.com/track/503JPUMXxOdBet88wQUwg1) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Queen of the Ring](https://open.spotify.com/artist/4mH2ZqJf7W6srzzaMdrJDn), [Sumerian Pictures](https://open.spotify.com/artist/1RfDFXf0bswV2Ck1gVzNHW), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Aaron Gilhuis](https://open.spotify.com/artist/5LjsXQ0ex7k6vGw5J1zNRG) | [Dust in the Wind \(From 'Queen of the Ring \- Music From The Motion Picture'\)](https://open.spotify.com/album/1DwoCOyyBFoQTkjE4zSkRq) | 4:18 |
+| 18 | [Dust in the Wind \- From 'Queen of the Ring \- Music From The Motion Picture'](https://open.spotify.com/track/503JPUMXxOdBet88wQUwg1) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Queen of the Ring](https://open.spotify.com/artist/4mH2ZqJf7W6srzzaMdrJDn), [Sumerian Pictures](https://open.spotify.com/artist/1RfDFXf0bswV2Ck1gVzNHW), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Aaron Gilhuis](https://open.spotify.com/artist/5LjsXQ0ex7k6vGw5J1zNRG) | [Dust in the Wind \(From 'Queen of the Ring \- Music From The Motion Picture'\)](https://open.spotify.com/album/1DwoCOyyBFoQTkjE4zSkRq) | 4:18 |
 | 19 | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/track/2l2i0FeYCBkK0OdPMuBGeW) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Teenage Dirtbag 2020 / Mope](https://open.spotify.com/album/0lCvikSjJ1QwvHRTfDEs16) | 4:32 |
 | 20 | [The Reason \- Acoustic](https://open.spotify.com/track/1CobuGL6ysSrfCE2tWcfFU) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(Acoustic\) / Right Before Your Eyes](https://open.spotify.com/album/1wPX89HNEWb6FIWcQDlV36) | 3:54 |
 | 21 | [Tears Don't Fall \- Acoustic Version](https://open.spotify.com/track/5fG83KM7CgRmjcKwmBNx2p) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(Deluxe Version\)](https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn) | 4:37 |

@@ -3218,7 +3218,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 204265,
       "name": "Cenizas En El Desierto",
       "url": "https://open.spotify.com/track/4gAaHL8HR58hvHXrvSh5sY"
@@ -11082,7 +11082,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 202354,
       "name": "Me Asusta Amar Tanto la Soledad",
       "url": "https://open.spotify.com/track/6026RHq4ZOiQH6Zdo0pTy3"
@@ -11406,6 +11406,24 @@
       "duration_ms": 182167,
       "name": "Menina",
       "url": "https://open.spotify.com/track/385rwIlMfOkq2xOEKHarqh"
+    },
+    {
+      "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/1bE571SVKRZZkI9zK5ov9M"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131904,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/3R7vjL9lt5W1bidvbJn3gu"
     },
     {
       "album": {
@@ -12692,7 +12710,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 138926,
       "name": "NIRVANA",
       "url": "https://open.spotify.com/track/0s4LK91rXYM52FQiAI50x6"
@@ -12790,6 +12808,28 @@
       "duration_ms": 212038,
       "name": "No Es Normal",
       "url": "https://open.spotify.com/track/6rJ7uCWB1yivhVmqFNDPfM"
+    },
+    {
+      "album": {
+        "name": "No es tu estilo",
+        "url": "https://open.spotify.com/album/6n2DgWN6TftYJKGNcBPW1G"
+      },
+      "artists": [
+        {
+          "name": "LOCKWARD",
+          "url": "https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142677,
+      "name": "No es tu estilo",
+      "url": "https://open.spotify.com/track/5RikicLu1IWphJ0y6BadSE"
     },
     {
       "album": {
@@ -19192,6 +19232,24 @@
       "duration_ms": 175914,
       "name": "VALLADO 3",
       "url": "https://open.spotify.com/track/5svDgDHktVJoiRYQKx5w8f"
+    },
+    {
+      "album": {
+        "name": "Vatos",
+        "url": "https://open.spotify.com/album/1fkFUzh9CvwIHntVF0YVWB"
+      },
+      "artists": [
+        {
+          "name": "Vanita Leo",
+          "url": "https://open.spotify.com/artist/1ygRaSoCU4Ph22Y4b7UfB9"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146511,
+      "name": "Vatos",
+      "url": "https://open.spotify.com/track/4YOY1oa1UvoAxEaWX9fi9n"
     },
     {
       "album": {

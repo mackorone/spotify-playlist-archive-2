@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: 丸竹夷
 
-1,923 songs - 4 day 20 hr 23 min
+1,925 songs - 4 day 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,7 +351,7 @@
 | [Ikki](https://open.spotify.com/track/0qvJGTLxTcwKAODkm3k6k0) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Ikki](https://open.spotify.com/album/57QYSkgg5gqybUe1ZyKFlv) | 3:13 | 2024-01-04 | 2024-01-10 |
 | [Ima Wo Ikirunoda.](https://open.spotify.com/track/2YmVd66biborLaNik6453K) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [But Really](https://open.spotify.com/album/70tdhywzgwknIJi3CaXGHK) | 4:37 | 2023-07-27 | 2023-08-16 |
 | [IMAWOIKIRUANATAHE](https://open.spotify.com/track/2taXznoWlErG1OBNMLrl79) | [プッシュプルポット](https://open.spotify.com/artist/1yMQBPXyIRvB9yiBaF5tJh) | [IMAWOIKIRUANATAHE](https://open.spotify.com/album/47vNzQrbE38i5LOq4rhAsz) | 4:12 | 2024-11-12 | 2024-11-27 |
-| [impact tracker](https://open.spotify.com/track/0y7oGLbQ48W51TMileVUu1) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [impact tracker](https://open.spotify.com/album/4usP6ALpQ0LhFxX57Ox3Kb) | 3:14 | 2026-07-28 |  |
+| [impact tracker](https://open.spotify.com/track/0y7oGLbQ48W51TMileVUu1) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [impact tracker](https://open.spotify.com/album/4usP6ALpQ0LhFxX57Ox3Kb) | 3:14 | 2026-07-28 | 2026-08-30 |
 | [In YOURS](https://open.spotify.com/track/1hTg19ZUwYAiyDbT0ook40) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [In YOURS](https://open.spotify.com/album/5qXPXY5dE7mnlMif5k7xDw) | 4:37 | 2025-08-05 | 2025-08-13 |
 | [INSIDE](https://open.spotify.com/track/2ZZGr9MSx1WMcawXj4SxLQ) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [INSIDE](https://open.spotify.com/album/4ND5fiPqq9Qm93GK9lGTZr) | 3:41 | 2026-07-14 |  |
 | [Inside Game](https://open.spotify.com/track/5o6dNPA5i5ABKGvpaY18qx) | [Shaftray](https://open.spotify.com/artist/19KFUJCg5YAD97OzkFX9Of) | [Inside Game](https://open.spotify.com/album/26tQMudbKubkWqP0uD738r) | 3:00 | 2026-02-17 | 2026-03-07 |
@@ -592,7 +592,7 @@
 | [POLARIS](https://open.spotify.com/track/6zzPOaSi9UcQSqaQ2bZBFN) | [omeme tenten](https://open.spotify.com/artist/0uwxPKyoIIT8WIQLYpXSFC) | [omeme tenten](https://open.spotify.com/album/0uabg6y8oXuTSjjlLYyHOZ) | 3:53 | 2025-09-23 | 2025-10-09 |
 | [Ponytail](https://open.spotify.com/track/3C4aSXEtx5PeaRTqK3LS2J) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [Ponytail](https://open.spotify.com/album/0YIwS3DZCE3zAl042tJYjZ) | 4:40 | 2025-07-22 | 2025-07-30 |
 | [poole](https://open.spotify.com/track/7qWNXlAaH8NSn0oa1w3Wor) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ぼくらの涙なら空に埋めよう](https://open.spotify.com/album/3X53glEtwCpJcpTw4TVSrv) | 3:34 | 2024-05-30 | 2024-12-18 |
-| [POP!](https://open.spotify.com/track/4ToKmMCpkAAzQudReD0GGT) | [13.3g](https://open.spotify.com/artist/1Q3gnCRHEHdl5JqbBTpWiy) | [POP!](https://open.spotify.com/album/62VX6HQd7qaLiLIaWLkBHD) | 3:48 | 2026-07-21 |  |
+| [POP!](https://open.spotify.com/track/4ToKmMCpkAAzQudReD0GGT) | [13.3g](https://open.spotify.com/artist/1Q3gnCRHEHdl5JqbBTpWiy) | [POP!](https://open.spotify.com/album/62VX6HQd7qaLiLIaWLkBHD) | 3:48 | 2026-07-21 | 2026-08-30 |
 | [possum](https://open.spotify.com/track/4xKaz6C5QChu5U4L20EWuY) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [possum](https://open.spotify.com/album/6WrzUeyBzr4pO4VKTrGYJS) | 3:25 | 2025-10-14 | 2025-10-22 |
 | [Prepare Yourself!](https://open.spotify.com/track/3imhdLe85Nmrw9HiSGmbXz) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/4Ef7Fy5sLhUDU1LM5enHbQ) | 3:54 | 2024-02-13 | 2024-03-08 |
 | [Present](https://open.spotify.com/track/52rJ1uFs9NTfLPQ9Zqww71) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Present](https://open.spotify.com/album/2FdY6Tl2bFBWIgp9zqmZTh) | 4:08 | 2024-09-24 | 2025-05-22 |
@@ -939,6 +939,7 @@
 | [さよならトランジスタ](https://open.spotify.com/track/4CvP4rcRxAY0pJJSJzPWth) | [三四少女](https://open.spotify.com/artist/5vvyC8VELrIam8i6hKfyBS) | [さよならトランジスタ](https://open.spotify.com/album/2vXXjHbq2Z7SreaWZ9P6TU) | 3:28 | 2025-10-14 | 2025-10-22 |
 | [さらば碧き面影](https://open.spotify.com/track/3ohhTpOi14seuMtRNlBlkU) | [Road Of Major](https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ) | [さらば碧き面影](https://open.spotify.com/album/73mDztUgb6pfmFICrLQFbK) | 3:40 | 2023-11-28 | 2023-12-06 |
 | [しあわせ](https://open.spotify.com/track/3yBCSTtiQuM0od1M9YrGMF) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [しあわせ](https://open.spotify.com/album/6pOMpdooijhZNxtxUjHHsL) | 2:49 | 2023-12-19 | 2024-01-10 |
+| [しあわせの定義](https://open.spotify.com/track/645sb4fKvMlk6jTrreR2oy) | [バチカン市国に愛されたい](https://open.spotify.com/artist/1TEvVC6sabCl9knRndyHKu) | [しあわせの定義](https://open.spotify.com/album/1ivoFMGpUfaSdAjJxAhXxp) | 4:05 | 2026-08-25 |  |
 | [しおり](https://open.spotify.com/track/2NohdmxAQftrTgEBvdho2w) | [Aqua Timez](https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD) | [ダレカの地上絵](https://open.spotify.com/album/18PK1utMStEUIBPPVDQkgz) | 4:12 | 2023-11-28 | 2023-12-13 |
 | [したいことリスト](https://open.spotify.com/track/3ncUq6k51SRqhBJnItZQJ2) | [ガラクタ](https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA) | [したいことリスト](https://open.spotify.com/album/6UXnmf6H9kWlDEL3PJNWDu) | 2:44 | 2025-01-28 | 2025-04-09 |
 | [しわくちゃな雲を抱いて](https://open.spotify.com/track/7DGg065lDV4sAOSGvZhcEO) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [TRIANGLE](https://open.spotify.com/album/0qPfscvdw2qb2w68HydRUD) | 3:56 | 2023-08-15 | 2024-12-18 |
@@ -1787,6 +1788,7 @@
 | [私のせい](https://open.spotify.com/track/2rkhSjcltiu3GJbCXjzn9R) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [私のせい](https://open.spotify.com/album/04N019PUCHhACgfNRby6tg) | 3:05 | 2026-04-28 |  |
 | [私へ](https://open.spotify.com/track/6tUoqX3OCNbC2t55e5kvcR) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [私へ](https://open.spotify.com/album/3cLc1mbVLswt6j96bGXsN1) | 4:13 | 2023-08-15 | 2023-09-27 |
 | [私的幸福論](https://open.spotify.com/track/4fLiqr8OyysFvF4zhWt6H1) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [Three](https://open.spotify.com/album/4GeiVCFuFw3Ifk95sZM1vg) | 3:12 | 2024-04-16 | 2024-12-18 |
+| [秘密](https://open.spotify.com/track/14OFR9Rnfg3KTi4n9jZ0HH) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [秘密](https://open.spotify.com/album/3jklHQvT6Slr2Sjh0MJUjU) | 4:12 | 2026-08-25 |  |
 | [秘密](https://open.spotify.com/track/3zZLp1mzcP0WDuDqcY7hyQ) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [衛星の夜 / 秘密](https://open.spotify.com/album/5fqK00Cgh8EjVSTILXrZB3) | 4:04 | 2023-10-24 | 2023-10-26 |
 | [空腹な動物のための](https://open.spotify.com/track/6p1twNpwpkvnVQJpuzF4yi) | [Oisicle Melonpan](https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh) | [eyes](https://open.spotify.com/album/4vqVHOJS2MXyHariSrnFY3) | 3:18 | 2024-04-30 | 2024-06-01 |
 | [空蝉](https://open.spotify.com/track/5z9CWI3SlrP6U9XuqZnsss) | [NÖVEIL](https://open.spotify.com/artist/5ZT6FV8xeXchcbT1avPiBD) | [空蝉](https://open.spotify.com/album/6LMoznI3Ybnb2kE7kwv2zd) | 3:52 | 2025-08-19 | 2025-09-17 |

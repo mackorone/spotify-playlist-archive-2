@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,762 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,765 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 46 | [They say, that is the love](https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:44 |
 | 47 | [In Other Words](https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 2:35 |
 | 48 | [Could you?](https://open.spotify.com/track/78hBN6qlftwJiLmkYoYahf) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Mind Laundry](https://open.spotify.com/album/3Ft01nxEpjAYvOG2KNrMN4) | 3:50 |
-| 49 | [My Old Story](https://open.spotify.com/track/1H6gFy8Yfnm3JMAn4T398Y) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [My Old Story](https://open.spotify.com/album/3H47XNGJiq4cp119nhrqqL) | 3:56 |
-| 50 | [Snow spectacle](https://open.spotify.com/track/6YQHxc0WEKExeX0MO6qPuS) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Snow spectacle](https://open.spotify.com/album/2ASa3WNjYa7fZ2jR90GzLo) | 3:11 |
+| 49 | [Snow spectacle](https://open.spotify.com/track/6YQHxc0WEKExeX0MO6qPuS) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Snow spectacle](https://open.spotify.com/album/2ASa3WNjYa7fZ2jR90GzLo) | 3:11 |
+| 50 | [My Old Story](https://open.spotify.com/track/1H6gFy8Yfnm3JMAn4T398Y) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [My Old Story](https://open.spotify.com/album/3H47XNGJiq4cp119nhrqqL) | 3:56 |
 
 Snapshot ID: `AAAAAOiQ5/bbSSH6gVQ+MTQyDgs81GIZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,895 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,955 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 32 | [Wetin Man Go Do](https://open.spotify.com/track/6NnJHQwkeU20eZ5GVbXxw4) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs) | 3:08 |
 | 33 | [Lenu \- Remix](https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Lenu \(Remix\)](https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb) | 3:33 |
 | 34 | [Big 7](https://open.spotify.com/track/2pxcoSLwfv9bheBmpUbMfu) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH) | 2:23 |
-| 35 | [4 Kampé II](https://open.spotify.com/track/2fhVsI54lSCFyW7sw5WPfR) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [4 Kampé II](https://open.spotify.com/album/15TFuzRGsXwFuW1HzwoQNk) | 3:31 |
-| 36 | [Bank On It](https://open.spotify.com/track/22kcexb32KF5zr9UIWijC7) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/56lLDMppfyKqUaUJWr0Ld4) | 4:36 |
+| 35 | [Bank On It](https://open.spotify.com/track/22kcexb32KF5zr9UIWijC7) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/56lLDMppfyKqUaUJWr0Ld4) | 4:36 |
+| 36 | [4 Kampé II](https://open.spotify.com/track/2fhVsI54lSCFyW7sw5WPfR) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [4 Kampé II](https://open.spotify.com/album/15TFuzRGsXwFuW1HzwoQNk) | 3:31 |
 | 37 | [Tshwala Bam \(feat\. S.N.E\)](https://open.spotify.com/track/1AU9i0OPKywwrrpKJpV5ZG) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF) | [Tshwala Bam](https://open.spotify.com/album/4qYfV3DTCJeB83hqco5JfR) | 3:23 |
 | 38 | [Normal](https://open.spotify.com/track/2KiqSjEDFFOyf4yCQwSOud) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH) | 2:04 |
 | 39 | [Buy You Life](https://open.spotify.com/track/5gL6LKibckV3dDAEkiNnZv) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign Of Weakness](https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 49 | [Don't Let Me Drown \- From F1® The Movie](https://open.spotify.com/track/24futxi7j75kgGXiumTEn2) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Don’t Let Me Drown \(From F1® The Movie\)](https://open.spotify.com/album/4gi7iM3pBNBmzHiVPyatjV) | 3:05 |
 | 50 | [Teary Eyes \(feat\. Burna Boy\)](https://open.spotify.com/track/68uqUS5wIIZgSbnWwNEH9Q) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Slime Cry](https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA) | 2:45 |
 
-Snapshot ID: `ao9+AAAAAABbobTTODw1BLDrlGHwyVvh`
+Snapshot ID: `apDPgAAAAAAGl0D3Y98TLTUoPjyre5Af`

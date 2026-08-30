@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 
 > This is Frank Sinatra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,229,074 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,229,080 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 | 21 | [In The Wee Small Hours Of The Morning \- Remastered 1998](https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [In The Wee Small Hours](https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX) | 3:00 |
 | 22 | [The Girl From Ipanema \- 2008 Remastered](https://open.spotify.com/track/3NdHYXQK5gkFFEZvSMVVj6) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Nothing But The Best \(2008 Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 3:14 |
 | 23 | [Blue Moon \- 1999 Remastered](https://open.spotify.com/track/5RLzsVW6UNiV2YrOlKwzNN) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra's Swingin' Session!!! And More \(Remastered / Expanded Edition\)](https://open.spotify.com/album/0rnnzYSJbxKoxcp9U5I2zF) | 2:51 |
-| 24 | [On The Sunny Side Of The Street \- Remastered](https://open.spotify.com/track/6Q4m72Zmjc28NUgqOTcBoT) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Swing With Me! \(Remastered\)](https://open.spotify.com/album/4iKRtw8U5nIwGP1A5TBevR) | 2:42 |
-| 25 | [Theme From New York, New York](https://open.spotify.com/track/3QksrtI9VFCBHWA4rgvcV8) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Trilogy: Past, Present & Future](https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe) | 3:26 |
+| 24 | [Theme From New York, New York](https://open.spotify.com/track/3QksrtI9VFCBHWA4rgvcV8) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Trilogy: Past, Present & Future](https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe) | 3:26 |
+| 25 | [On The Sunny Side Of The Street \- Remastered](https://open.spotify.com/track/6Q4m72Zmjc28NUgqOTcBoT) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Swing With Me! \(Remastered\)](https://open.spotify.com/album/4iKRtw8U5nIwGP1A5TBevR) | 2:42 |
 | 26 | [Theme From New York, New York \- 2008 Remastered](https://open.spotify.com/track/0K2WjMLZYr09LKwurGRYRE) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nothing But The Best \(2008 Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 3:24 |
 | 27 | [I Get A Kick Out Of You](https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra And Swingin' Brass](https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X) | 3:14 |
 | 28 | [Days Of Wine And Roses](https://open.spotify.com/track/5XrLzC6tClHbANUOmPYg2E) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 | 49 | [Rain In My Heart](https://open.spotify.com/track/2JzTfNN8k3O6l42DZMj80Q) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Cycles](https://open.spotify.com/album/4N6a1fTmJmyPJp9HmrNyVO) | 3:21 |
 | 50 | [One Note Samba \(Samba de Uma Nota So\)](https://open.spotify.com/track/54DTLQMjyF60TY8b4jkKRa) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra/Jobim: The Complete Reprise Recordings](https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX) | 2:20 |
 
-Snapshot ID: `ao9+AAAAAABfBBnLDI9x73gyjxPLWZYk`
+Snapshot ID: `apDPgAAAAAACrePUa0i8db0IwIkrSnN4`

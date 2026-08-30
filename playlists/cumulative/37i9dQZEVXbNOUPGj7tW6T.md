@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Paraguay.
 
-1,021 songs - 2 day 9 hr 14 min
+1,022 songs - 2 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -737,7 +737,8 @@
 | [PUNTO G](https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [PUNTO G](https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N) | 2:31 | 2022-11-28 | 2023-01-22 |
 | [PUNTO G](https://open.spotify.com/track/4WiQA1AGWHFvaxBU6bHghs) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:31 | 2023-01-21 | 2024-04-16 |
 | [Puta Mexicana](https://open.spotify.com/track/4mD9hjoTckjeL1CrJCx0MT) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Mc Pelé](https://open.spotify.com/artist/5kfgervAs5bJUOC0vbYB12) | [Som das Regiões](https://open.spotify.com/album/6DD55XfooWMQ3T2wT43dKF) | 2:42 | 2023-01-22 | 2023-04-14 |
-| [Puñaladas](https://open.spotify.com/track/4AL4EamHEBKPpdcFRkYdXN) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Puñaladas](https://open.spotify.com/album/5S8mx5C6D6jj6l7ESqqrXD) | 2:19 | 2026-02-08 |  |
+| [Puñaladas](https://open.spotify.com/track/1hdrRqaR0GFpWrH3omUHaL) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Yo Solo Quería Divertirme](https://open.spotify.com/album/2ND26lhhl4JSbIOVgJiY42) | 2:19 | 2026-08-29 |  |
+| [Puñaladas](https://open.spotify.com/track/4AL4EamHEBKPpdcFRkYdXN) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Puñaladas](https://open.spotify.com/album/5S8mx5C6D6jj6l7ESqqrXD) | 2:19 | 2026-02-08 | 2026-08-30 |
 | [Pégate](https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Pégate](https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g) | 3:06 | 2024-11-28 | 2025-02-02 |
 | [Pégate](https://open.spotify.com/track/6XUhm8HUzw0BFNf7NKk1E4) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Hasta Que Salga el Sol](https://open.spotify.com/album/0UNRbvfFLN52BfTVI2DqlH) | 3:06 | 2025-02-01 | 2025-02-04 |
 | [Q U E V A S H A C E R H O Y ?](https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:44 | 2024-09-27 | 2026-08-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 
 > a state of mind\. Cover: Charley Crockett
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,401 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,476 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 23 | [Mama Tried \- Remastered 2001](https://open.spotify.com/track/1FTlLpP6V05yJWmcIg0rlK) | [Merle Haggard & The Strangers](https://open.spotify.com/artist/3mSAqBoXQgdlpwzWsIgBzL) | [Mama Tried](https://open.spotify.com/album/0f6Gx3lFLqdcY8XSXMKgCm) | 2:12 |
 | 24 | [Bitin' List](https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 2:56 |
 | 25 | [The Ride](https://open.spotify.com/track/4wt2PBgqXZbvRiWSHDc4O4) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Castles in the Sand](https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib) | 3:10 |
-| 26 | [Whiskey River](https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 4:07 |
-| 27 | [Angel from Montgomery \- 2008 Remaster](https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 3:59 |
+| 26 | [Angel from Montgomery \- 2008 Remaster](https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 3:59 |
+| 27 | [Whiskey River](https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 4:07 |
 | 28 | [Good Godly Woman](https://open.spotify.com/track/6GWMddXRoGtOQRMwxItviV) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Good Godly Woman](https://open.spotify.com/album/7iYaPN9HmhLoEPCnptvOfw) | 2:27 |
 | 29 | [Delta Dawn](https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker / Super Hits](https://open.spotify.com/album/6oaors3y98ssmPuvBcc343) | 2:55 |
 | 30 | [Good Hearted Woman](https://open.spotify.com/track/4KmAGKJbeY2DUiLInlet53) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Good Hearted Woman](https://open.spotify.com/album/13fXjHXIcgjroGQ4vsUfbv) | 3:03 |

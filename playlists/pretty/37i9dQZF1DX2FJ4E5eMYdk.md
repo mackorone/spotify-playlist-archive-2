@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,543 likes - 60 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,556 likes - 60 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 41 | [Attention](https://open.spotify.com/track/0q3jG8hRgWj9AR2OOJUOYe) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [Access](https://open.spotify.com/album/5N8N92LZ5MwYBAxlaXFHnA) | 2:57 |
 | 42 | [Turn It On](https://open.spotify.com/track/1iqncvWXXg6jfrv6s9txe5) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Turn It On](https://open.spotify.com/album/2xvck6DiEtg3LqzDGJEn19) | 4:30 |
 | 43 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 |
-| 44 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
-| 45 | [Texas Sun](https://open.spotify.com/track/3k5oLgungD1dSOGLqQdIQw) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/3woYZI2bFXEh5nR8KfltJ1) | 4:12 |
+| 44 | [Texas Sun](https://open.spotify.com/track/3k5oLgungD1dSOGLqQdIQw) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/3woYZI2bFXEh5nR8KfltJ1) | 4:12 |
+| 45 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
 | 46 | [More Of The Same](https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [LONER](https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr) | 4:08 |
 | 47 | [O.N.E.](https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [L.W.](https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx) | 3:40 |
 | 48 | [Lady Luck](https://open.spotify.com/track/68dSvPdwsCEGoKj72QDEXQ) | [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [The Atlantic Ocean](https://open.spotify.com/album/2172kXt6Kr0rZigqs3GWKC) | 4:18 |

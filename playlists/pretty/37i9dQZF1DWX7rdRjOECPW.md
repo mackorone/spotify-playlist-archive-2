@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 
 > Sommer, Sonne, Sommerhits 🙂‍↔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,588,172 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,588,183 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 36 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 |
 | 37 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
 | 38 | [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf) | 2:49 |
-| 39 | [La Plena \- W Sound 05](https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8) | 2:30 |
-| 40 | [Anxiety](https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal \(Extended\)](https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq) | 4:09 |
+| 39 | [Anxiety](https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal \(Extended\)](https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq) | 4:09 |
+| 40 | [La Plena \- W Sound 05](https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8) | 2:30 |
 | 41 | [Pilé](https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker, Pt\. 1](https://open.spotify.com/album/5tU1xjeA4dANiKn3a7wrwR) | 2:36 |
 | 42 | [Sorry Papi](https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Sorry Papi](https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk) | 2:50 |
 | 43 | [Bangaranga](https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26) | [DARA](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) | [Bangaranga](https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8) | 2:57 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 64 | [LDNB](https://open.spotify.com/track/5O8HYf2CdbUJIQdd6PzAA7) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [LDNB](https://open.spotify.com/album/2CkZilgAxO2SxIshPTn1RQ) | 2:12 |
 | 65 | [Espresso Macchiato](https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj) | 2:53 |
 | 66 | [Be Mine](https://open.spotify.com/track/5ejTcCJOozPqRPMs9gW3pN) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Be Mine](https://open.spotify.com/album/4f7F3Kg3bB0aiWV3M97UBJ) | 2:36 |
-| 67 | [Goldrichtig](https://open.spotify.com/track/6m30ibqUxVeV3BblhchtEG) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Goldrichtig](https://open.spotify.com/album/4RaijoRP9vs55dNh4LVQn5) | 2:18 |
-| 68 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 |
+| 67 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 |
+| 68 | [Goldrichtig](https://open.spotify.com/track/6m30ibqUxVeV3BblhchtEG) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Goldrichtig](https://open.spotify.com/album/4RaijoRP9vs55dNh4LVQn5) | 2:18 |
 | 69 | [Body](https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Body](https://open.spotify.com/album/77lRJx359HvAd8fcFqbbO8) | 3:14 |
 | 70 | [Capri Sun](https://open.spotify.com/track/2U07Gukj3QGlLh0krokPdG) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Capri Sun](https://open.spotify.com/album/1RsQb2EpDcbyfEJBCK17nY) | 1:59 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 
 > This is Codiciado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,952 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,967 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 22 | [Relojito Adiamantado](https://open.spotify.com/track/0ECe0wvJwuLcfopJLBaEb1) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Niño De Oro](https://open.spotify.com/album/2LtooHAvxsaUywYzKxfjhZ) | 2:57 |
 | 23 | [SOY GRACIAS A DIOS](https://open.spotify.com/track/7zgkP78Tll2hcD61KPJPF6) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Así Es La Vida](https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC) | 2:43 |
 | 24 | [Habemus Conciliación \- En Vivo](https://open.spotify.com/track/5y6qnBp0SEzLifLr99DF5K) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Habemus Conciliación \(En Vivo\)](https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen) | 3:43 |
-| 25 | [AMOR LIMOSNERO \- En Vivo desde Los Ángeles](https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 4:02 |
-| 26 | [Tú Eres X](https://open.spotify.com/track/1OChsjdKyi2K486e0dTWKu) | [Los Bohemios de Sinaloa](https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Tú Eres X](https://open.spotify.com/album/4QVOIM5apRmHWV7seReXi2) | 3:17 |
+| 25 | [Tú Eres X](https://open.spotify.com/track/1OChsjdKyi2K486e0dTWKu) | [Los Bohemios de Sinaloa](https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Tú Eres X](https://open.spotify.com/album/4QVOIM5apRmHWV7seReXi2) | 3:17 |
+| 26 | [AMOR LIMOSNERO \- En Vivo desde Los Ángeles](https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 4:02 |
 | 27 | [Cada Día Que Pasa](https://open.spotify.com/track/0IDnj6BWFr9QYNUwGvWL9T) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Así Es La Vida](https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC) | 3:51 |
 | 28 | [Un Niño Buscando Un Sueño](https://open.spotify.com/track/5MJ2YApCCkbTybfHCzG8BL) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Un Niño Buscando Un Sueño](https://open.spotify.com/album/7mlCta03Ctg4iH2l3vZXDD) | 2:43 |
 | 29 | [Si Yo Me Activo](https://open.spotify.com/track/20ujrHb2a79uFDJnmET4Rf) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 49 | [Notas Musicales](https://open.spotify.com/track/0ZogLvBwLqttqxzlf1RG69) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Notas Musicales](https://open.spotify.com/album/3ovZjrSzVaofnQJ5k4B0U0) | 4:10 |
 | 50 | [QuesoXte](https://open.spotify.com/track/4unGsS2C1JL3UG7gkYXJp3) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [X Amor II](https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM) | 2:31 |
 
-Snapshot ID: `ao9+AAAAAAC0mQ2hvkQerE0Q0Vy6Ymw4`
+Snapshot ID: `apDPgAAAAAB3vcAlejtwBfgpYjiYa3yN`

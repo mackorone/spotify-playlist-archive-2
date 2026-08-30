@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 
 > This is Kehlani\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,907 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,920 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 | 33 | [Open \(Passionate\)](https://open.spotify.com/track/4J4yA7A68PmgSbjAn425eY) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 4:05 |
 | 34 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WCAb7rGU70hyx3m9joKCx) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [blue water road](https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j) | 3:02 |
 | 35 | [Clothes Off \(feat\. kwn\)](https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [While We Wait 2](https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA) | 3:49 |
-| 36 | [Beautiful Lies](https://open.spotify.com/track/3BjwSq6phb60SOdTZw5pZY) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Moon Boy](https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J) | 3:32 |
-| 37 | [go](https://open.spotify.com/track/7aV29KhhOFLawanslvY7Mg) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SLIDER II](https://open.spotify.com/album/3jwPo6mAL7jtRXRWHLkSD0) | 2:22 |
+| 36 | [go](https://open.spotify.com/track/7aV29KhhOFLawanslvY7Mg) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SLIDER II](https://open.spotify.com/album/3jwPo6mAL7jtRXRWHLkSD0) | 2:22 |
+| 37 | [Beautiful Lies](https://open.spotify.com/track/3BjwSq6phb60SOdTZw5pZY) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Moon Boy](https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J) | 3:32 |
 | 38 | [All Me \(feat\. Keyshia Cole\)](https://open.spotify.com/track/3ucRKbRlikYHyoI17gfR0c) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [All Me \(feat\. Keyshia Cole\)](https://open.spotify.com/album/2bxcNajPY3MT1I4LuGJCOX) | 2:58 |
 | 39 | [I Like Dat](https://open.spotify.com/track/7KrlNS2VqiNNJ82RMQdxBn) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [I Like Dat](https://open.spotify.com/album/6tFOjuF74joX0RHbimAZp3) | 4:02 |
 | 40 | [Serial Lover](https://open.spotify.com/track/5ftR963YlX88OeCAPnXG2Z) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 | 49 | [Saving My Love \(feat\. Kehlani\)](https://open.spotify.com/track/1VzQrfygsLEi0Vle8FSea0) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:03 |
 | 50 | [wish i never](https://open.spotify.com/track/5v8oHydXFHM1je05EFyIdw) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:03 |
 
-Snapshot ID: `ao9+AAAAAACwjJCnis4+cltJFVr3/N2y`
+Snapshot ID: `apDPgAAAAABmqTr+zaWfPKCbxOY7mAPq`

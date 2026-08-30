@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 721 likes - 164 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 722 likes - 164 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 105 | [Nirvana](https://open.spotify.com/track/1sRoddNeQEMc6TkAhfVLX7) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Rosalee O’Connell](https://open.spotify.com/artist/530L4eY8hH1sY34ZXIJw8q) | [The Place You Can't Remember, The Place You Can't Forget](https://open.spotify.com/album/5ex0EP5X7PY97j7tpm3pWQ) | 3:17 |
 | 106 | [Slow Dive \(feat\. Bea Miller\)](https://open.spotify.com/track/0e3lesSPndGuqQbZdwSimE) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [PLAY: GRID](https://open.spotify.com/album/0AhHp5xTgnoJvZgzhFQJuw) | 3:48 |
 | 107 | [Growing Up](https://open.spotify.com/track/4JfCAr96utJ1pHKXQr6Hzd) | [LIL TAY](https://open.spotify.com/artist/5dsEqJbJ3ZC5A77Yaqwnu3) | [Growing Up](https://open.spotify.com/album/3kC4SEY8Pp64HEhOukYZHm) | 3:53 |
-| 108 | [The Long Way Out](https://open.spotify.com/track/7jyFsn0Q15HCZSHgAUMLuG) | [Evan Konrad](https://open.spotify.com/artist/1kbwbl2LLa2zBfnKQbvw6Y) | [Denial](https://open.spotify.com/album/1fPgAKSCrUoxkezdx7Hv6C) | 3:34 |
-| 109 | [Girls Don’t Cheat](https://open.spotify.com/track/2GIm6HMDCEqzqPAXQvru99) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 2:38 |
+| 108 | [Girls Don’t Cheat](https://open.spotify.com/track/2GIm6HMDCEqzqPAXQvru99) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 2:38 |
+| 109 | [The Long Way Out](https://open.spotify.com/track/7jyFsn0Q15HCZSHgAUMLuG) | [Evan Konrad](https://open.spotify.com/artist/1kbwbl2LLa2zBfnKQbvw6Y) | [Denial](https://open.spotify.com/album/1fPgAKSCrUoxkezdx7Hv6C) | 3:34 |
 | 110 | [Do It](https://open.spotify.com/track/3cOnrXCKg3zjOYVwmaMtsB) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:05 |
 | 111 | [CLOUD 9](https://open.spotify.com/track/5shBGzsBhmOZVUxR2nVOFY) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [ADAM](https://open.spotify.com/album/7trR3fOUnxqBvVlAb5L370) | 3:08 |
 | 112 | [WHEREVER YOU ARE](https://open.spotify.com/track/6hZ7ijGtCywQGARDHKKAFB) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PHOENIX](https://open.spotify.com/album/6RGawt7sBZg1mMrb9nZEdE) | 3:45 |
@@ -162,8 +162,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 152 | [Dlt](https://open.spotify.com/track/4nYqH4HmTYVKYx7YzM2AEs) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [Early Hours](https://open.spotify.com/album/7KxM3NSF64uca2eNZfbmcz) | 3:46 |
 | 153 | [Conscious](https://open.spotify.com/track/3rsdgWUSYPD9YiWtieunao) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Part 1 EP](https://open.spotify.com/album/2tIENkGDORxbE6SItwVVkX) | 3:27 |
 | 154 | [Blind To The Blonde](https://open.spotify.com/track/2OEcST3YKixTHWrUJl8Sab) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 2:38 |
-| 155 | [Today](https://open.spotify.com/track/0MBbefxuupc3aYlM4hnKuX) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [Today](https://open.spotify.com/album/50yapK30VJH1T9VOI8kORc) | 3:34 |
-| 156 | [SMALL WORLD](https://open.spotify.com/track/0bhHPERhSMKnog5ZbOgOJT) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [SMALL WORLD](https://open.spotify.com/album/1P0SxBpLCSlXfsyY5u9u6t) | 2:26 |
+| 155 | [SMALL WORLD](https://open.spotify.com/track/0bhHPERhSMKnog5ZbOgOJT) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [SMALL WORLD](https://open.spotify.com/album/1P0SxBpLCSlXfsyY5u9u6t) | 2:26 |
+| 156 | [Today](https://open.spotify.com/track/0MBbefxuupc3aYlM4hnKuX) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [Today](https://open.spotify.com/album/50yapK30VJH1T9VOI8kORc) | 3:34 |
 | 157 | [You Make Me \(feat\. George Riley\)](https://open.spotify.com/track/6bfd0BhPt55eSmeBMK3GfB) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Handle With Care](https://open.spotify.com/album/4oxjxQHLiK29jfYVlZjcEt) | 3:56 |
 | 158 | [COLLIDING](https://open.spotify.com/track/5OoKINatuviwC5o7vGyvDl) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [THIS IS NOT AN EXIT](https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh) | 2:43 |
 | 159 | [You Must Be Crazy Too](https://open.spotify.com/track/3m204CzQHq1rftQgi4mPgC) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/0wlHdQIQOfVMzD83Lvpjkj) | 2:25 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 163 | [Tomorrow](https://open.spotify.com/track/1xpn9Jf6SaJJ6mworiNQjf) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round \(Deluxe\)](https://open.spotify.com/album/4BVvO0gBRjK5m5SlyXd4qy) | 2:22 |
 | 164 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 
-Snapshot ID: `Aca1FAAAAACzgB3iCRgtMY8n4YJvUjZ/`
+Snapshot ID: `Aca6PAAAAACMAJWbI+IYUon9b1t4C94Z`

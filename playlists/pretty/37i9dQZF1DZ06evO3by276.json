@@ -1,12 +1,12 @@
 {
   "description": "This is Rihanna. The essential tracks, all in one playlist.",
-  "num_followers": 3235204,
+  "num_followers": 3235407,
   "original_name": "This Is Rihanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAADCEDgEhfmBweQXvWIpHNxZ",
+  "snapshot_id": "apDPgAAAAAD9SYuIskuNUI140iHG/skP",
   "tracks": [
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 263373,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/3BtuIIrQlkujKPuWF2B85z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Talk That Talk",
         "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 209600,
       "name": "Talk That Talk",
       "url": "https://open.spotify.com/track/57mKcbEq7nMqtJ4gqJvWcp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 263373,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/3BtuIIrQlkujKPuWF2B85z"
     },
     {
       "added_at": null,

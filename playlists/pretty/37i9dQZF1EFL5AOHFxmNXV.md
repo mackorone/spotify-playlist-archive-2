@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6tNq3vprcBeO8S36v06ylj">PartyNextDoor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,003 likes - 173 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,002 likes - 173 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 114 | [1942](https://open.spotify.com/track/7JqjQkYjlwR9Lph8ICS2nB) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/37S0nv7yJ0hI8hBVg6XzzJ) | 5:41 |
 | 115 | [LET'S GET MARRIED](https://open.spotify.com/track/01TaTQJrnJmq0cpufjcJV0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 3:44 |
 | 116 | [Realest In the City \(feat\. Meek Mill & PARTYNEXTDOOR\)](https://open.spotify.com/track/1kKfLv5RsxxQb6afxfIgsz) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Dear America](https://open.spotify.com/album/4ph77Ne0Z4oktYiXHDSH3G) | 4:05 |
-| 117 | [TURN UP](https://open.spotify.com/track/0hzAYGvbeMwW5O6n1w9zNq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:28 |
-| 118 | [Nobody](https://open.spotify.com/track/4UZGewidFtKjc0WLhQ8GT3) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/37S0nv7yJ0hI8hBVg6XzzJ) | 4:10 |
+| 117 | [Nobody](https://open.spotify.com/track/4UZGewidFtKjc0WLhQ8GT3) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/37S0nv7yJ0hI8hBVg6XzzJ) | 4:10 |
+| 118 | [TURN UP](https://open.spotify.com/track/0hzAYGvbeMwW5O6n1w9zNq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:28 |
 | 119 | [feel U luv Me](https://open.spotify.com/track/7C46d7mrdoSsgd3rNOa4A7) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 3:54 |
 | 120 | [PGT](https://open.spotify.com/track/0oXy3jfrkWlhw3Kklndyhn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:13 |
 | 121 | [Friends \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/48yghmFphEYBqEUReolP8J) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:07 |
@@ -160,8 +160,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 150 | [Maria](https://open.spotify.com/track/0dmBhUb8BZnd0F8rEhzpTI) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:34 |
 | 151 | [A M o t h e r' s P r a y e r](https://open.spotify.com/track/0mK4zU8fsYz84QMrc1b1JA) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/1CTk9dG2nyaUovNIQfBzqb) | 0:44 |
 | 152 | [Wanna Be \(feat\. PARTYNEXTDOOR & London On Da Track\)](https://open.spotify.com/track/2DxHdJYeBvbiceEszdrGtr) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg) | [MONTANA](https://open.spotify.com/album/1jJdkoOAj3Uk6Tbv3S4fsa) | 3:22 |
-| 153 | [DON'T DO IT FOR YOU NO MORE](https://open.spotify.com/track/2Tm4VevGfmqUUA5W0Ef0sf) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:55 |
-| 154 | [Brown Skin](https://open.spotify.com/track/50v3Cu6aZMByn2BZaNE4f4) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/37S0nv7yJ0hI8hBVg6XzzJ) | 3:58 |
+| 153 | [Brown Skin](https://open.spotify.com/track/50v3Cu6aZMByn2BZaNE4f4) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/37S0nv7yJ0hI8hBVg6XzzJ) | 3:58 |
+| 154 | [DON'T DO IT FOR YOU NO MORE](https://open.spotify.com/track/2Tm4VevGfmqUUA5W0Ef0sf) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:55 |
 | 155 | [Hot Boy](https://open.spotify.com/track/0hGShmLW8OxtW5J1vv0iE9) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Light Of Day](https://open.spotify.com/album/5jp7IiLD8lRVVmf8gfeHOV) | 4:02 |
 | 156 | [1Night \(feat\. PARTYNEXTDOOR, 21 Savage & Murda Beatz\)](https://open.spotify.com/track/2uZUFhEOjWOUHSoxmrlzMt) | [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [1Night \(feat\. PARTYNEXTDOOR, 21 Savage & Murda Beatz\)](https://open.spotify.com/album/7dYqsPwOXNU2PXl00fkaAG) | 3:24 |
 | 157 | [Back It Up \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/3cSiLtNuITOz1P0su5879g) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Say Less](https://open.spotify.com/album/2VLY0KLCsRkanyaL5PSruh) | 4:28 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 172 | [Run Up \- Instrumental](https://open.spotify.com/track/772zTFyxqTW72gXck3q9G8) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Instrument\-O](https://open.spotify.com/artist/1h3tSgnbLCAhvkZGPrzpCH) | [Essential \(Instrumentals\)](https://open.spotify.com/album/5CBZ0ohjQBjF2dyuOfJrG9) | 3:22 |
 | 173 | [Truth For You](https://open.spotify.com/track/6yveqkneVj9bQtcOscvhgR) | [Amir Obe](https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3) | [Detrooklyn.](https://open.spotify.com/album/5cir9swuU0WpGojsTPGBfb) | 2:36 |
 
-Snapshot ID: `Aca1FAAAAAABPcuBgjyWNqfi3mIAgwNC`
+Snapshot ID: `Aca6PAAAAADNEunBdzOzDhAsNEvlmpDj`

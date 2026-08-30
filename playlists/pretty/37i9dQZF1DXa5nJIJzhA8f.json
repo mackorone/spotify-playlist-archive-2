@@ -1,6 +1,6 @@
 {
   "description": "Meticulously selected by Spotify music experts.",
-  "num_followers": 97186,
+  "num_followers": 97178,
   "original_name": "Editors' Picks: Best Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
-        "name": "Folded",
-        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Folded",
-      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
         "name": "The Subway",
         "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 252276,
       "name": "The Subway",
       "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
       "added_at": "2026-02-04 14:24:46",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
-        "name": "Culpable",
-        "url": "https://open.spotify.com/album/5uBg7lBVNM46wEBFCzC34h"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 261071,
-      "name": "Culpable",
-      "url": "https://open.spotify.com/track/1J1TG8a9E5s3QxQhboX8Lc"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
         "name": "BELOVED",
         "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 222530,
       "name": "KEEPER",
       "url": "https://open.spotify.com/track/0oG6bJKzXgqzsaaEy1M510"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
+        "name": "Culpable",
+        "url": "https://open.spotify.com/album/5uBg7lBVNM46wEBFCzC34h"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 261071,
+      "name": "Culpable",
+      "url": "https://open.spotify.com/track/1J1TG8a9E5s3QxQhboX8Lc"
     },
     {
       "added_at": "2026-02-04 14:24:46",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
-        "name": "Mark William Lewis",
-        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
-      },
-      "artists": [
-        {
-          "name": "mark william lewis",
-          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
-        }
-      ],
-      "duration_ms": 148440,
-      "name": "Still Above",
-      "url": "https://open.spotify.com/track/3cTjgotFYaQcI6u8Ocny5U"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
         "name": "B A D I D E A",
         "url": "https://open.spotify.com/album/66w1jC2ICwyggAeHCPCBmr"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 109634,
       "name": "B A D I D E A",
       "url": "https://open.spotify.com/track/5qDvHAFgbVJrGkBb7sJM07"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
+        "name": "Mark William Lewis",
+        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "duration_ms": 148440,
+      "name": "Still Above",
+      "url": "https://open.spotify.com/track/3cTjgotFYaQcI6u8Ocny5U"
     },
     {
       "added_at": "2026-02-04 14:24:46",

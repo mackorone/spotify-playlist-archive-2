@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belgium.
 
-2,350 songs - 5 day 8 hr 32 min
+2,352 songs - 5 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,7 +634,7 @@
 | [Déclaration](https://open.spotify.com/track/78sMHGQBuBcD2a9cmwHghu) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:04 | 2022-03-05 | 2022-03-16 |
 | [Dégaine \(feat\. Damso\)](https://open.spotify.com/track/5cqLFudVQryezmVFmmyRJN) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Dégaine \(feat\. Damso\)](https://open.spotify.com/album/0qHraUEsPCcdTqCFBFDQvn) | 3:30 | 2022-03-11 | 2022-06-26 |
 | [Démons](https://open.spotify.com/track/3gAEAmxdP1GIjgQ3Zud2mE) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 4:11 | 2021-12-05 | 2022-05-14 |
-| [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2026-05-28 |  |
+| [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2026-05-28 | 2026-08-30 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-11-21 |
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2021-11-21 | 2023-01-07 |
 | [Echte Liefde Is Te Koop](https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop](https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR) | 2:32 | 2025-04-04 | 2025-05-16 |
@@ -728,7 +728,8 @@
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-04-29 | 2023-02-14 |
 | [Fetty Wap](https://open.spotify.com/track/5HavMB9WGE33KK6NL8XjXl) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Fetty Wap](https://open.spotify.com/album/3FU8qkXDboBsrASS7VFIqK) | 2:44 | 2022-11-15 | 2023-01-16 |
 | [Fever](https://open.spotify.com/track/3F1P0QzdXtBz0MXy7KIO5w) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 2:36 | 2021-03-27\* | 2022-05-11 |
-| [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 | 2026-02-28 |  |
+| [FEVER DREAM](https://open.spotify.com/track/50E5Op3ZjRibJGZjGBcGR6) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 2:33 | 2026-08-29 |  |
+| [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 | 2026-02-28 | 2026-08-30 |
 | [Ff Ademen Jij](https://open.spotify.com/track/5yPIA6mDRsj6OcxTSQiXbG) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Ff Ademen Jij](https://open.spotify.com/album/2Otz8y5xUmSqZEFy48xliH) | 2:42 | 2022-11-19 | 2022-12-02 |
 | [Fibonacci](https://open.spotify.com/track/5xt3hz2g92uvp1WLHVtD2o) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 2:51 | 2025-05-31 | 2025-06-05 |
 | [FIESTA \(feat\. Morad\)](https://open.spotify.com/track/46Vrz1HTKrD5A5Hbr52VdQ) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [APOCALYPSE](https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9) | 2:56 | 2024-11-30 | 2024-12-02 |
@@ -2160,6 +2161,7 @@
 | [undressed](https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:02 | 2025-08-23 | 2026-08-28 |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-04-23 | 2025-08-24 |
 | [UNE HISTOIRE ÉTRANGE](https://open.spotify.com/track/1LqDW54jByEjfZJMadiLJU) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 4:37 | 2024-09-17 | 2024-09-29 |
+| [Une seule vie](https://open.spotify.com/track/5Y3p9cIQH4TxX3sI4ZQIAL) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Une seule vie](https://open.spotify.com/album/2QiKXoR9j4aj69MmKI6gvQ) | 4:05 | 2026-08-29 |  |
 | [Unforgettable](https://open.spotify.com/track/5L8C1PZGCpZf8STcN79H5j) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Unforgettable](https://open.spotify.com/album/7LJDPOglV0dhqpO1DGrvob) | 2:48 | 2024-05-13 | 2024-05-18 |
 | [UNHEALTHY \(feat\. Shania Twain\)](https://open.spotify.com/track/2Z5EUCXngeoYD7wmJBcJv1) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:29 | 2023-09-06 | 2023-10-24 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 2:36 | 2023-01-28 | 2023-05-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,481 likes - 50 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,506 likes - 50 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 15 | [Mahiya Tere Vekan Nu](https://open.spotify.com/track/2DQvBdqEgSFtcGDviaKnGb) | [Aakash G](https://open.spotify.com/artist/5TeEeCl306oJtM8cz43GPh), [The Rish](https://open.spotify.com/artist/5JHD9Mys3Vg6IUgIWRjYN0), [Sharry Shayar](https://open.spotify.com/artist/5TBSoOt1ZXHA2YWqKDY4H8) | [Mahiya Tere Vekan Nu](https://open.spotify.com/album/26IzYb8ASprzkkQBl9kurh) | 3:41 |
 | 16 | [Jaiye Sajana \- Recreated](https://open.spotify.com/track/1geDWIpPN8zwNe0MUJznfr) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Jaiye Sajana \- Recreated](https://open.spotify.com/album/1b1dQ1elQ1jCxIFllzHDJX) | 6:47 |
 | 17 | [Waris Shah Nu](https://open.spotify.com/track/4tfk5JMKtuPZ9omn8SxxsG) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX), [Preeti Uttam](https://open.spotify.com/artist/4soRtfeAZ1TBKGZjtufJMU) | [Pinjar](https://open.spotify.com/album/4WJdoCtxUH7nAaudUbOOPa) | 9:03 |
-| 18 | [Nit Khair Manga](https://open.spotify.com/track/56xKQu2yEWxz5h2Iv5jwVe) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Nit Khair Manga](https://open.spotify.com/album/1GpHMadC0c2fwLxZPPBe5b) | 2:21 |
-| 19 | [Flowers Of the Same Tree](https://open.spotify.com/track/30wKQxl6Dy9D4WCLPHBk5d) | [Bir Singh](https://open.spotify.com/artist/6Su06O6MCxKJXOtxkM8iBi), [Jaskirat Singh](https://open.spotify.com/artist/3vMBkisQV8By38zokY8bs6) | [Flowers Of the Same Tree](https://open.spotify.com/album/4hnhLGtUDSD0Vub1z0XLi6) | 4:44 |
+| 18 | [Flowers Of the Same Tree](https://open.spotify.com/track/30wKQxl6Dy9D4WCLPHBk5d) | [Bir Singh](https://open.spotify.com/artist/6Su06O6MCxKJXOtxkM8iBi), [Jaskirat Singh](https://open.spotify.com/artist/3vMBkisQV8By38zokY8bs6) | [Flowers Of the Same Tree](https://open.spotify.com/album/4hnhLGtUDSD0Vub1z0XLi6) | 4:44 |
+| 19 | [Nit Khair Manga](https://open.spotify.com/track/56xKQu2yEWxz5h2Iv5jwVe) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Nit Khair Manga](https://open.spotify.com/album/1GpHMadC0c2fwLxZPPBe5b) | 2:21 |
 | 20 | [Nazaraa](https://open.spotify.com/track/06u4Dl0Rx1CTT84L2YdCBX) | [Puranchand Wadali](https://open.spotify.com/artist/4Ya6sj5W70ZEa0ghrJYk8h), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO), [Aar Bee](https://open.spotify.com/artist/1ztfAE52RW11rNYUZaINIc), [Sufi Bhatt](https://open.spotify.com/artist/0p3gHGl9hJrATChGbWrbe4) | [Nazaraa](https://open.spotify.com/album/5iCcHyEBQZgTVScHW89gf3) | 5:10 |
 | 21 | [Tere Vaastey](https://open.spotify.com/track/6CPStPrCzQaNxRHP9gid67) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Nargis Fakhri](https://open.spotify.com/artist/1tSV6wUtJWPNuEp4aSMzhS) | [Seasons of Sartaaj](https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6) | 5:10 |
 | 22 | [Ranjhe](https://open.spotify.com/track/6PR7WNRadxuysmBNcjxr4d) | [Hassrat](https://open.spotify.com/artist/2RIF6c1ug6C9JPSzxQxcvQ), [HARJINDER JOHAL](https://open.spotify.com/artist/6rTNFKpNmtlsg5l3k3hopY) | [Ranjhe](https://open.spotify.com/album/621WK57f3crB5uwts4Xrnt) | 3:26 |

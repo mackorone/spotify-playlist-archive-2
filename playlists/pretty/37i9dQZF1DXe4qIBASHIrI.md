@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,520 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,542 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 13 | [Manía Cardiaca](https://open.spotify.com/track/7rhKh1Ool2Yel5JXmiemZB) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [El Segundo Es Felino](https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe) | 4:08 |
 | 14 | [Palmar](https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Fruta \(Vol\. II\)](https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP) | 3:13 |
 | 15 | [Loco](https://open.spotify.com/track/1kRBzwYo4IHhSUJkJbdvfH) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [El Vuelo del Pez](https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD) | 3:31 |
-| 16 | [Azul](https://open.spotify.com/track/04BizsqpIiqNQALwvaPr5a) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [HU HU HU](https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf) | 6:33 |
-| 17 | [Host of a Ghost](https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Atemahawke](https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh) | 4:20 |
+| 16 | [Host of a Ghost](https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Atemahawke](https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh) | 4:20 |
+| 17 | [Azul](https://open.spotify.com/track/04BizsqpIiqNQALwvaPr5a) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [HU HU HU](https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf) | 6:33 |
 | 18 | [Vidas Paralelas](https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 3:57 |
 | 19 | [Nunca Me Dejes](https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Viaje Por Lo Eterno](https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c) | 3:25 |
 | 20 | [Deja Te Conecto](https://open.spotify.com/track/0txzKMVwjig6MFiSn6TetQ) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Zoé](https://open.spotify.com/album/505KuEEsIP9oOFrhJC7s5x) | 5:29 |
-| 21 | [Amiga \- Bonus Track](https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Tiempos Mejores](https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9) | 3:23 |
-| 22 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
+| 21 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
+| 22 | [Amiga \- Bonus Track](https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Tiempos Mejores](https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9) | 3:23 |
 | 23 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
 | 24 | [Fluye](https://open.spotify.com/track/20SMxLSrSzsjE0xr7FEsQu) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Dualidad](https://open.spotify.com/album/4Dj3RsVvxpyh9V1yQv9fhS) | 3:35 |
 | 25 | [Completamente](https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 4:23 |

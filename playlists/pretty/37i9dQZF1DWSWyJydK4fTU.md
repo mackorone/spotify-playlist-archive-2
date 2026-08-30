@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,904 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,867 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 31 | [trees for the woods](https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [trees for the woods](https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a) | 4:07 |
 | 32 | [Sommerregen](https://open.spotify.com/track/3Eesfjqw0uwnOVr2HelCsX) | [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4) | [Hoffnungslos Hoffnungsvoll](https://open.spotify.com/album/6MHuwIyJMv2VsaBqzICOlc) | 3:26 |
 | 33 | [Baby Blue](https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Baby Blue / When It Comes To Loving You](https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm) | 2:51 |
-| 34 | [New Heart](https://open.spotify.com/track/4yI7z3Qd7n53y42T3sk0dK) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [New Heart](https://open.spotify.com/album/4rPFQdwFV5oGH2UVRp3VTQ) | 3:04 |
-| 35 | [VERSPRICH MIR](https://open.spotify.com/track/6R9psIh9BwAhJmeVTK7Ipg) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [VERSPRICH MIR](https://open.spotify.com/album/2NSdnjLWEHhZmQqaOJlZlg) | 2:24 |
+| 34 | [VERSPRICH MIR](https://open.spotify.com/track/6R9psIh9BwAhJmeVTK7Ipg) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [VERSPRICH MIR](https://open.spotify.com/album/2NSdnjLWEHhZmQqaOJlZlg) | 2:24 |
+| 35 | [New Heart](https://open.spotify.com/track/4yI7z3Qd7n53y42T3sk0dK) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [New Heart](https://open.spotify.com/album/4rPFQdwFV5oGH2UVRp3VTQ) | 3:04 |
 | 36 | [You Will Never Know It](https://open.spotify.com/track/0fzo0SZtYoefz7umzp835T) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [You Will Never Know It](https://open.spotify.com/album/18l8bWUsNQdXl6pXQOK5lw) | 2:48 |
 | 37 | [Graceland](https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Graceland](https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W) | 2:20 |
 | 38 | [Nur ein Wort](https://open.spotify.com/track/0dIb1x3ilFtfprAfbfOEKm) | [Noah Kraus](https://open.spotify.com/artist/3wEYWraAn9tILbCru8VeME), [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Nur ein Wort](https://open.spotify.com/album/6n4MQhGhEBzZt9xFuXIdib) | 1:55 |

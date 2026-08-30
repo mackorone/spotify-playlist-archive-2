@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-04-13",
-  "description": "With Adele, James Arthur, Billie Eilish and more",
+  "description": "With Adele, Billie Eilish, James Arthur and more",
   "name": "When We Were Young Radio",
   "tracks": [
     {
@@ -3154,7 +3154,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 216120,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
@@ -4630,7 +4630,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 239000,
       "name": "Dusk Till Dawn (feat. Sia) - Radio Edit",
       "url": "https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP"
@@ -5464,7 +5464,7 @@
       ],
       "date_added": "2021-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 295533,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
@@ -6840,7 +6840,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 175933,
       "name": "happier",
       "url": "https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl"
@@ -7316,7 +7316,7 @@
       ],
       "date_added": "2021-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 252320,
       "name": "Helium",
       "url": "https://open.spotify.com/track/4S6fv0puLCsfYjyBTPDb9k"
@@ -8712,7 +8712,7 @@
       ],
       "date_added": "2021-04-13",
       "date_added_asterisk": true,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 251033,
       "name": "i hate u, i love u (feat. olivia o'brien)",
       "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
@@ -14535,6 +14535,24 @@
     },
     {
       "album": {
+        "name": "Nine Track Mind (Special Edition)",
+        "url": "https://open.spotify.com/album/5J4SS8wTmXdyIEVYjmHzpZ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194453,
+      "name": "One Call Away",
+      "url": "https://open.spotify.com/track/5MwIGPDKeDb7SpblcaQP6O"
+    },
+    {
+      "album": {
         "name": "Nine Track Mind",
         "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
       },
@@ -14658,7 +14676,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 232893,
       "name": "Only Love Can Hurt Like This",
       "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
@@ -18394,7 +18412,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 191307,
       "name": "Stone Cold",
       "url": "https://open.spotify.com/track/3by8IfnW9dZ2t4pZw1WVxz"
@@ -19818,7 +19836,7 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 309600,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
@@ -22714,7 +22732,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 221366,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE"
@@ -22858,7 +22876,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: girlsweetvoiced
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,388 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,398 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 38 | [Tough](https://open.spotify.com/track/29KCxeyJ8Fey6UrP1tSRYQ) | [Dj Cinéma Quartier Latin](https://open.spotify.com/artist/3nI698C0lc7EpVCIDShUgD) | [Bruise](https://open.spotify.com/album/0SNpZVQ3WWS8L4O0SV6JbQ) | 3:27 |
 | 39 | [Hershey Kiss](https://open.spotify.com/track/35FdQMOqXsK23qBA4c9nJg) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo), [SLM](https://open.spotify.com/artist/5QHTLKljfEpL3ne0vopw3r) | [Hershey Kiss](https://open.spotify.com/album/4VxBxBwI53yqjCXJVwrfFI) | 2:08 |
 | 40 | [Take Me Under](https://open.spotify.com/track/0brTYG1hUEfpgqCcEhIr9B) | [RAJAN](https://open.spotify.com/artist/1TwXokfbAj2rmDarneyVu3) | [Take Me Under](https://open.spotify.com/album/1Ho7Ruke16uRkhixyX4SHQ) | 2:39 |
-| 41 | [Dogs.](https://open.spotify.com/track/5vw1gkiEQF4avej3LNU8iY) | [House Mouse](https://open.spotify.com/artist/4ZK6TmUwHiUmytmxalwarx) | [Dogs.](https://open.spotify.com/album/2zmf9IHEQxPtGj7cyZF9ye) | 2:43 |
-| 42 | [Don't Eat Don't Sleep](https://open.spotify.com/track/3iCmsC8iMWP1y4dxZNEw1L) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [Don't Eat Don't Sleep](https://open.spotify.com/album/4jmEE2QQTJJOPTFAZOs4kn) | 3:32 |
+| 41 | [Don't Eat Don't Sleep](https://open.spotify.com/track/3iCmsC8iMWP1y4dxZNEw1L) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [Don't Eat Don't Sleep](https://open.spotify.com/album/4jmEE2QQTJJOPTFAZOs4kn) | 3:32 |
+| 42 | [Dogs.](https://open.spotify.com/track/5vw1gkiEQF4avej3LNU8iY) | [House Mouse](https://open.spotify.com/artist/4ZK6TmUwHiUmytmxalwarx) | [Dogs.](https://open.spotify.com/album/2zmf9IHEQxPtGj7cyZF9ye) | 2:43 |
 | 43 | [Ma Chance](https://open.spotify.com/track/0IAX8ZyQPvdFa4ngy1u5eW) | [A Girl Named Sue](https://open.spotify.com/artist/5RxgxGNZIXJc48ZGWTi3rJ) | [Ma Chance](https://open.spotify.com/album/4ePZcSaEdL9SZC6fqDVR5u) | 2:47 |
 | 44 | [Corps \(feat\. Lou\-Adriane Cassidy\)](https://open.spotify.com/track/48I3m74TUAtdBmk5xyklGO) | [N NAO](https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Nouveaux Langages](https://open.spotify.com/album/0uGm7gP2TlLQISgxs4I3P3) | 3:18 |
 | 45 | [Suddenly](https://open.spotify.com/track/23jMmesMkvNstAt0m5lR1W) | [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [Suddenly](https://open.spotify.com/album/6QVu2pywpuoATTXnuGqilj) | 2:23 |

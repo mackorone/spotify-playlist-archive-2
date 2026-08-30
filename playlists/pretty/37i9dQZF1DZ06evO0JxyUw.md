@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 
 > This is Christina Aguilera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,235 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,246 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 | 25 | [Nobody Wants to Be Lonely \(with Christina Aguilera\)](https://open.spotify.com/track/45cVyfWuMAg8RNxmkcpmy9) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [17](https://open.spotify.com/album/7fUnkkWBAzFNC6JbYuuOnE) | 4:12 |
 | 26 | [Bound To You \- Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/track/6FJbvdUSkr1tyXdVZ2UlBR) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3) | 4:23 |
 | 27 | [The Voice Within](https://open.spotify.com/track/42JgHvkBiAc5ivo0gvVRvQ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 5:04 |
-| 28 | [Si No Te Hubiera Conocido](https://open.spotify.com/track/2tN1wKPCuQ6xO2sBTQDf1t) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 4:49 |
+| 28 | [Falsas Esperanzas](https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 2:56 |
 | 29 | [Your Body](https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Lotus \(Deluxe Version\)](https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q) | 4:00 |
 | 30 | [Reflection \(2020\)](https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mulan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP) | 3:37 |
 | 31 | [Something's Got A Hold On Me \- Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/track/0XTThEPWNlMsIagcBFoV9A) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3) | 3:04 |
-| 32 | [Falsas Esperanzas](https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 2:56 |
+| 32 | [Si No Te Hubiera Conocido](https://open.spotify.com/track/2tN1wKPCuQ6xO2sBTQDf1t) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 4:49 |
 | 33 | [Not Myself Tonight](https://open.spotify.com/track/29CFPJaBW3ZfVeCI8EDnQa) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 3:06 |
 | 34 | [Loyal Brave True](https://open.spotify.com/track/6GJ9seY4zx11sHMX9xsH6h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mulan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP) | 2:46 |
 | 35 | [Tough Lover \- Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/track/3W3BHalLp288TxkZN1uPRd) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3) | 2:00 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 | 47 | [Pipe \(feat\. XNDA\)](https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [XNDA](https://open.spotify.com/artist/0tIJlS9XsT8tByKMAEUp1w) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:05 |
 | 48 | [Save Me from Myself](https://open.spotify.com/track/7aLQoD4MWkYQjZuTQKuT9Y) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 3:13 |
 | 49 | [Guy What Takes His Time \- Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/track/3Y16tCwH1qvcCsb3J67ytS) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3) | 2:43 |
-| 50 | [Keeps Gettin' Better](https://open.spotify.com/track/0j0n5CUS1g3QSwDWg8r5qq) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Keeps Gettin' Better: A Decade of Hits](https://open.spotify.com/album/2019iQx5MmA6byqYqdK7zS) | 3:01 |
+| 50 | [Genie in a Bottle \(Levi Mix\)](https://open.spotify.com/track/1jIH1ugCqobuVG13P59POG) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Genie in a Bottle \(Levi Mix\)](https://open.spotify.com/album/2cUZ5RyG48l4PurHGi4iNu) | 2:41 |
 
-Snapshot ID: `ao9+AAAAAACm7HVCyHBxtMrD0RWbjGRJ`
+Snapshot ID: `apDPgAAAAADta/q0Vhh0Xe7P9wLj5w/2`

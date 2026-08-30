@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 
 > A beginners introduction to the beauty of Jazz\. Cover: Chet Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,446 likes - 100 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,531 likes - 100 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 21 | [Cry Me A River](https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:58 |
 | 22 | [A Kiss To Build A Dream On \- Single Version](https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:01 |
 | 23 | [Moanin'](https://open.spotify.com/track/4Vkk3iD1VrENHJEACNddvt) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Moanin' \(Expanded Edition\)](https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC) | 9:30 |
-| 24 | [The Way You Look Tonight](https://open.spotify.com/track/7yED4n2U8RR5LKZVmisiev) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Rarities, Outtakes & Other Delights, Vol\. 2](https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8) | 3:23 |
-| 25 | [There Will Never Be Another You](https://open.spotify.com/track/6oSm3mBWFxJHEnjE2IqhmA) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:25 |
+| 24 | [There Will Never Be Another You](https://open.spotify.com/track/6oSm3mBWFxJHEnjE2IqhmA) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:25 |
+| 25 | [The Way You Look Tonight](https://open.spotify.com/track/7yED4n2U8RR5LKZVmisiev) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Rarities, Outtakes & Other Delights, Vol\. 2](https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8) | 3:23 |
 | 26 | [Time After Time \- Vocal Version](https://open.spotify.com/track/4m6OC8u2rC6LMFtFWsME7d) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:46 |
 | 27 | [Nature Boy](https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 |
 | 28 | [My Foolish Heart](https://open.spotify.com/track/6yKkA8HzwWTZ5taIMaG4Nm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \(Original Jazz Classics Remaster 2010\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 4:57 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 30 | [Love Me Or Leave Me](https://open.spotify.com/track/2XzHou7MZzOBQBqjWw86Nt) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It All Out](https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD) | 4:04 |
 | 31 | [All of Me](https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 3:01 |
 | 32 | [Autumn Leaves](https://open.spotify.com/track/0X5DcGkbxCXSadgj01ZXd7) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 10:59 |
-| 33 | [Moonlight Serenade](https://open.spotify.com/track/3XiFWZoHQtGUYIdtShPwPD) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [Pure Gold](https://open.spotify.com/album/4B3jbISuOJnDpZj8iobFxu) | 3:21 |
-| 34 | [I Get Along Without You Very Well \(Except Sometimes\) \- Vocal Version](https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:59 |
+| 33 | [I Get Along Without You Very Well \(Except Sometimes\) \- Vocal Version](https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:59 |
+| 34 | [Moonlight Serenade](https://open.spotify.com/track/3XiFWZoHQtGUYIdtShPwPD) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [Pure Gold](https://open.spotify.com/album/4B3jbISuOJnDpZj8iobFxu) | 3:21 |
 | 35 | [Autumn In New York](https://open.spotify.com/track/0f2489MzoisF9pKduawvce) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 5:56 |
 | 36 | [Teach Me Tonight](https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury, Vol.4 \(1954\-1956\)](https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB) | 2:47 |
 | 37 | [Summertime](https://open.spotify.com/track/6cU4urQRUieTBH08yKHAqj) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 2:47 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,347 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,297 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 49 | [Tears Could Talk](https://open.spotify.com/track/5gIApdTL8YNESKujlYnDuK) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Bailee Ann](https://open.spotify.com/artist/143jckJu4XLjHmEy2RpysV) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 3:35 |
 | 50 | [Whiskey Bent \(feat\. Jelly Roll\)](https://open.spotify.com/track/6bR32eVsUfzgZFAraoMITH) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:16 |
 
-Snapshot ID: `ao9+AAAAAAAUII9nho7D+F9E+KXFyVhg`
+Snapshot ID: `apDPgAAAAABj/OT8Ep99xKGcqFiWWJ7Y`

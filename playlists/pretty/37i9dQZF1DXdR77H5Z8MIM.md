@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 
 > Time to press play on these jaem jams from 2010 onwards! Cover: KARD
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,333 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,324 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 48 | [FOCUS](https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS \- The 1st Mini Album](https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b) | 2:57 |
 | 49 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
 | 50 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 |
-| 51 | [DDI RO RI](https://open.spotify.com/track/6Ja4MH8qIfhVABsb9Kxjjr) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BITE NOW](https://open.spotify.com/album/32HIl3ek92TZv3GEM0Spqi) | 3:15 |
-| 52 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 |
+| 51 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 |
+| 52 | [DDI RO RI](https://open.spotify.com/track/6Ja4MH8qIfhVABsb9Kxjjr) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BITE NOW](https://open.spotify.com/album/32HIl3ek92TZv3GEM0Spqi) | 3:15 |
 | 53 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 |
 | 54 | [God’s Menu](https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:47 |
 | 55 | [FEVER](https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 2:52 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 63 | [Whiplash](https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx) | 3:03 |
 | 64 | [러시안 룰렛 Russian Roulette](https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:31 |
 | 65 | [PLAYING WITH FIRE](https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) | 3:17 |
-| 66 | [S\-Class](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:15 |
+| 66 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 |
 | 67 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 |
-| 68 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 |
+| 68 | [S\-Class](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:15 |
 | 69 | [SPOT!](https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SPOT!](https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI) | 2:47 |
 | 70 | [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 |
 

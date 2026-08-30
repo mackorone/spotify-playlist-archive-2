@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Brillas (En Vivo)",
+        "url": "https://open.spotify.com/album/5nzX5ZtWS9Du9fCZ0T2Fcl"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Brillas - En Vivo",
+      "url": "https://open.spotify.com/track/7AYMtuw8bNMhFOX3aeHcDM"
+    },
+    {
+      "album": {
         "name": "Buena Se\u00f1al",
         "url": "https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e"
       },
@@ -1488,7 +1506,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 172709,
       "name": "Perro Culazo",
       "url": "https://open.spotify.com/track/29GYeZx8YvcveRxbZkvXzm"

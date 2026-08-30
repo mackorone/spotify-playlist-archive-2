@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Sublime on cover ",
-  "num_followers": 413709,
+  "num_followers": 413732,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Twenty-Eight Teeth",
-        "url": "https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9"
-      },
-      "artists": [
-        {
-          "name": "Buck-O-Nine",
-          "url": "https://open.spotify.com/artist/1jteNNEz2fLM4pF5ezFr5f"
-        }
-      ],
-      "duration_ms": 214266,
-      "name": "My Town",
-      "url": "https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
         "name": "One Step Beyond...",
         "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 138360,
       "name": "One Step Beyond",
       "url": "https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "Twenty-Eight Teeth",
+        "url": "https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9"
+      },
+      "artists": [
+        {
+          "name": "Buck-O-Nine",
+          "url": "https://open.spotify.com/artist/1jteNNEz2fLM4pF5ezFr5f"
+        }
+      ],
+      "duration_ms": 214266,
+      "name": "My Town",
+      "url": "https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "El Enemigo",
-        "url": "https://open.spotify.com/album/3zz6uN6pTbTVNHNmzVrTXq"
-      },
-      "artists": [
-        {
-          "name": "Sat\u00e9lite Kingston",
-          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "La \u00daltima Carta",
-      "url": "https://open.spotify.com/track/2A66FBk36QAMcOychXojNS"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
         "name": "Fuera de Control",
         "url": "https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 210824,
       "name": "Fuera de Control",
       "url": "https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "El Enemigo",
+        "url": "https://open.spotify.com/album/3zz6uN6pTbTVNHNmzVrTXq"
+      },
+      "artists": [
+        {
+          "name": "Sat\u00e9lite Kingston",
+          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "La \u00daltima Carta",
+      "url": "https://open.spotify.com/track/2A66FBk36QAMcOychXojNS"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -795,18 +795,18 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Beatdown Generation",
-        "url": "https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud"
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
       },
       "artists": [
         {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 194825,
-      "name": "Beatdown Generation",
-      "url": "https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc"
+      "duration_ms": 130373,
+      "name": "180 Degrees",
+      "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -827,18 +827,18 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "So Long & Thanks For All The Shoes",
-        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+        "name": "Beatdown Generation",
+        "url": "https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud"
       },
       "artists": [
         {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
         }
       ],
-      "duration_ms": 130373,
-      "name": "180 Degrees",
-      "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
+      "duration_ms": 194825,
+      "name": "Beatdown Generation",
+      "url": "https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "No Doubt",
-        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 145866,
-      "name": "Doormat",
-      "url": "https://open.spotify.com/track/5R7HS6JmnK8WWjxHaAU4Q8"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
         "name": "Sonoro",
         "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 149026,
       "name": "Paria",
       "url": "https://open.spotify.com/track/77SRW1K8lpTUT2AdIVZlxv"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 145866,
+      "name": "Doormat",
+      "url": "https://open.spotify.com/track/5R7HS6JmnK8WWjxHaAU4Q8"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
+        "name": "Stomp",
+        "url": "https://open.spotify.com/album/6smpibJ3RlcnBDdHi7dINI"
+      },
+      "artists": [
+        {
+          "name": "Big D and the Kids Table",
+          "url": "https://open.spotify.com/artist/7rCVe3W6E37VMHBHJXB6xD"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Stepping Out",
+      "url": "https://open.spotify.com/track/3TjsikWPyMLvnjQiUATci6"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
         "name": "You've Got A Friend",
         "url": "https://open.spotify.com/album/0oCrAr6VXADGTvcHTBhywJ"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 263905,
       "name": "You've Got A Friend",
       "url": "https://open.spotify.com/track/5YmqNKWDpbGZKCPapGHDrN"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
-        "name": "Stomp",
-        "url": "https://open.spotify.com/album/6smpibJ3RlcnBDdHi7dINI"
-      },
-      "artists": [
-        {
-          "name": "Big D and the Kids Table",
-          "url": "https://open.spotify.com/artist/7rCVe3W6E37VMHBHJXB6xD"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Stepping Out",
-      "url": "https://open.spotify.com/track/3TjsikWPyMLvnjQiUATci6"
     },
     {
       "added_at": "2026-06-12 06:00:36",

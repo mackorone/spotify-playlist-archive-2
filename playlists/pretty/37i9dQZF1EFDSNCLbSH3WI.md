@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fdEf506uQJUK5dlS1HhNo">Dahi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272 likes - 156 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 277 likes - 156 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 5 | [LOYALTY\. FEAT\. RIHANNA.](https://open.spotify.com/track/6SwRhMLwNqEi6alNPVG00n) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:47 |
 | 6 | [Self Care](https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 5:45 |
 | 7 | [16](https://open.spotify.com/track/1Is8hGpkGMiePASAxBluxM) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 2:36 |
-| 8 | [Die Hard](https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:59 |
-| 9 | [Cinderella \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 8:00 |
+| 8 | [Cinderella \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 8:00 |
+| 9 | [Die Hard](https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:59 |
 | 10 | [Count Me Out](https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 4:43 |
 | 11 | [Rich Spirit](https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:22 |
 | 12 | [GRAVITY \(FEAT\. TYLER, THE CREATOR\)](https://open.spotify.com/track/3zakx7RAwdkUQlOoQ7SJRt) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:34 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 155 | [Lost In Love](https://open.spotify.com/track/1wdPAaQdSM0YO2igqLFS9b) | [Acoustic Paradiso](https://open.spotify.com/artist/2592wqWNE1PSRSbyWOcXKt) | [Acoustic Guitar In Pop Ballads](https://open.spotify.com/album/462V3a96YNDS4t8cch60cH) | 3:13 |
 | 156 | [YAH](https://open.spotify.com/track/56huEpZCBEm8qx1bWSeRf9) | [Bethel Adekogbe](https://open.spotify.com/artist/5QThtzr4WbyYjp1QMr66Gz) | [House of God](https://open.spotify.com/album/3x7I5wa60q82pPeVTxr3w8) | 2:23 |
 
-Snapshot ID: `Aca1FAAAAABxKZG7H2vUgYESY7FF2OzL`
+Snapshot ID: `Aca6PAAAAACXpX+uJ33yLd8EK7jX3Qwb`

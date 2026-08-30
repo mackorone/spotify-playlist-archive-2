@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Don't Look Down",
+        "url": "https://open.spotify.com/album/1aTbw1kHvPGTPWratpM5io"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192576,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/6uzm4ndjno6GuwRb2Kjeo9"
+    },
+    {
+      "album": {
         "name": "Jupiter's Diary: 7 Day Theory",
         "url": "https://open.spotify.com/album/0vJxYXyni4Qhi1o3jO8HwH"
       },
@@ -1362,6 +1380,28 @@
       "duration_ms": 203345,
       "name": "Turks & Caicos (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H"
+    },
+    {
+      "album": {
+        "name": "Don't Look Down",
+        "url": "https://open.spotify.com/album/1aTbw1kHvPGTPWratpM5io"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159041,
+      "name": "Venusian",
+      "url": "https://open.spotify.com/track/7ivZd4Idu0GRckE7UIzM7d"
     },
     {
       "album": {

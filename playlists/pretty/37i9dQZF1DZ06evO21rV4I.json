@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 177232,
+  "num_followers": 177268,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAADm8ijkAPrOx08Drv4lkMGo",
+  "snapshot_id": "apDPgAAAAADjwLx2qA52OiHa/Lb2ahD7",
   "tracks": [
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "REAL, Vol. 1",
-        "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 156696,
-      "name": "Iskolodo",
-      "url": "https://open.spotify.com/track/2mUuEPVacpJ2UFgFTe63Av"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Fall That Saved Us",
         "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 170013,
       "name": "Nights In The Sun (feat. Wizkid)",
       "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REAL, Vol. 1",
+        "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 156696,
+      "name": "Iskolodo",
+      "url": "https://open.spotify.com/track/2mUuEPVacpJ2UFgFTe63Av"
     },
     {
       "added_at": null,
@@ -503,22 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "God and Time",
-        "url": "https://open.spotify.com/album/0ke6EJ7oWUTpfQFbXIndvU"
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
       "artists": [
         {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        },
-        {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 152500,
-      "name": "Stay For The Night",
-      "url": "https://open.spotify.com/track/3311IthbC1sdLW8J4GW7Xf"
+      "duration_ms": 174253,
+      "name": "Bad Girl (feat. Asake)",
+      "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
     },
     {
       "added_at": null,
@@ -543,22 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+        "name": "God and Time",
+        "url": "https://open.spotify.com/album/0ke6EJ7oWUTpfQFbXIndvU"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
         },
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 174253,
-      "name": "Bad Girl (feat. Asake)",
-      "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
+      "duration_ms": 152500,
+      "name": "Stay For The Night",
+      "url": "https://open.spotify.com/track/3311IthbC1sdLW8J4GW7Xf"
     },
     {
       "added_at": null,
@@ -579,6 +579,46 @@
       "duration_ms": 232736,
       "name": "Man On A Mission (feat. Wizkid)",
       "url": "https://open.spotify.com/track/23wy2RcVfQRv0TYWTPfbep"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Slow (feat. Ana\u00efs Cardot)",
+      "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 196156,
+      "name": "Ginger (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
     },
     {
       "added_at": null,
@@ -607,46 +647,6 @@
       "duration_ms": 215516,
       "name": "APALA DISCO (feat. Wizkid, Seyi Vibez & Terry Apala) - Remix",
       "url": "https://open.spotify.com/track/55nKxeuQ63YLqhtxPWMCgN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 196156,
-      "name": "Ginger (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Slow (feat. Ana\u00efs Cardot)",
-      "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
     },
     {
       "added_at": null,
@@ -899,6 +899,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 172466,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/5HeW3DSp2lsfcXXRuJkZUy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "pAL_veranito.mp3",
         "url": "https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 169846,
       "name": "pongo remix",
       "url": "https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 172466,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/5HeW3DSp2lsfcXXRuJkZUy"
     },
     {
       "added_at": null,

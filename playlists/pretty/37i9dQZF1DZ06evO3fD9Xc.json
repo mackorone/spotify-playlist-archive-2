@@ -1,13 +1,29 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103865,
+  "num_followers": 103862,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABB64ofHGZaOmSqouEFoT5O",
+  "snapshot_id": "apDPgAAAAAC9kRFRzXwUimZF77DUskZE",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brillas (En Vivo)",
+        "url": "https://open.spotify.com/album/5nzX5ZtWS9Du9fCZ0T2Fcl"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Brillas - En Vivo",
+      "url": "https://open.spotify.com/track/7AYMtuw8bNMhFOX3aeHcDM"
+    },
     {
       "added_at": null,
       "album": {
@@ -311,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Bonito Es Querer",
-        "url": "https://open.spotify.com/album/6mUpfaWK4lckq6UTypkreO"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 197238,
-      "name": "Que Bonito Es Querer",
-      "url": "https://open.spotify.com/track/1EsSPmiioHQVbdwyrnJGwC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Covers, Vol. 5",
         "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
       },
@@ -339,6 +339,22 @@
       "duration_ms": 191460,
       "name": "Mi Mayor Anhelo",
       "url": "https://open.spotify.com/track/5GF4Jwl28VSwPZrweQEXst"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Bonito Es Querer",
+        "url": "https://open.spotify.com/album/6mUpfaWK4lckq6UTypkreO"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 197238,
+      "name": "Que Bonito Es Querer",
+      "url": "https://open.spotify.com/track/1EsSPmiioHQVbdwyrnJGwC"
     },
     {
       "added_at": null,
@@ -439,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buena Se\u00f1al",
-        "url": "https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "Buena Se\u00f1al",
-      "url": "https://open.spotify.com/track/4kpAZKCOW56xfDvVBiIJU2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Never Give Up (Todo Venceremos)",
         "url": "https://open.spotify.com/album/6ulRZCEENJFpgoVZ6knMLY"
       },
@@ -531,6 +531,22 @@
       "duration_ms": 245760,
       "name": "We Never Give Up (Todo Venceremos)",
       "url": "https://open.spotify.com/track/77CnYt4OBz9RcScXtagsC0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buena Se\u00f1al",
+        "url": "https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "Buena Se\u00f1al",
+      "url": "https://open.spotify.com/track/4kpAZKCOW56xfDvVBiIJU2"
     },
     {
       "added_at": null,
@@ -683,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Merecemos Perdonarnos (En Vivo)",
-        "url": "https://open.spotify.com/album/4vUxy6TypvUYyRcVUfPjhS"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Merecemos Perdonarnos - En Vivo",
-      "url": "https://open.spotify.com/track/0Xlne6EwDCM8qpBnIfvwUm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malagradecido",
         "url": "https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9"
       },
@@ -719,6 +715,26 @@
       "duration_ms": 174133,
       "name": "Malagradecido",
       "url": "https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Merecemos Perdonarnos (En Vivo)",
+        "url": "https://open.spotify.com/album/4vUxy6TypvUYyRcVUfPjhS"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Merecemos Perdonarnos - En Vivo",
+      "url": "https://open.spotify.com/track/0Xlne6EwDCM8qpBnIfvwUm"
     },
     {
       "added_at": null,
@@ -895,30 +911,6 @@
       "duration_ms": 196000,
       "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puro Chanela",
-        "url": "https://open.spotify.com/album/2gmMeg70Z8lYhk3p4irB7G"
-      },
-      "artists": [
-        {
-          "name": "Chanela Clicka",
-          "url": "https://open.spotify.com/artist/2RQCJUGP83CMLYttGm2Ypy"
-        },
-        {
-          "name": "Mar\u00eda Pel\u00e1e",
-          "url": "https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 172709,
-      "name": "Perro Culazo",
-      "url": "https://open.spotify.com/track/29GYeZx8YvcveRxbZkvXzm"
     }
   ],
   "unique_name": "This Is Carolina Ross",

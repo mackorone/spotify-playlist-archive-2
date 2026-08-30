@@ -3548,7 +3548,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 217240,
       "name": "Be Her",
       "url": "https://open.spotify.com/track/13HD3tYTiz8oSRxWzXEq7g"
@@ -3686,7 +3686,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -5048,7 +5048,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 346333,
       "name": "Broken Window Serenade",
       "url": "https://open.spotify.com/track/1VOSSXuWRcBj2rpfxNdX9v"
@@ -10974,7 +10974,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 226653,
       "name": "Everywhere - 2017 Remaster",
       "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
@@ -11688,6 +11688,24 @@
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
+    },
+    {
+      "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/50E5Op3ZjRibJGZjGBcGR6"
     },
     {
       "album": {
@@ -14620,7 +14638,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 179491,
       "name": "Here You Come Again",
       "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
@@ -20976,7 +20994,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -24214,7 +24232,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 185806,
       "name": "NOBLE",
       "url": "https://open.spotify.com/track/4Jsus7N4d8hFB2G9gcRdBv"
@@ -27408,7 +27426,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -37906,7 +37924,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 197142,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k"

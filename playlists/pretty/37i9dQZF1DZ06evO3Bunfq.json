@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 130808,
+  "num_followers": 130815,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABaYKqfeLST6RYEQZhgLvDP",
+  "snapshot_id": "apDPgAAAAAAmC13NqnX/brXMU6Iy/kZo",
   "tracks": [
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Todo Acaba",
-        "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 189289,
-      "name": "Espejismo",
-      "url": "https://open.spotify.com/track/5SddVjDLzloefDoqO2xXJp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recia",
         "url": "https://open.spotify.com/album/2lCjZdvsSzI9W79U5nmp5p"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuando Todo Acaba",
+        "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 189289,
+      "name": "Espejismo",
+      "url": "https://open.spotify.com/track/5SddVjDLzloefDoqO2xXJp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VNDO",
         "url": "https://open.spotify.com/album/6IMVC2fXSxKfLJ8FI2rYp3"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 231529,
       "name": "VNDO",
       "url": "https://open.spotify.com/track/62lcIAirqahXFb9EM2gNjP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Directo Hasta Arriba Vol.2",
-        "url": "https://open.spotify.com/album/4mKBizouQK5HBdsuIgcHSG"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 211588,
-      "name": "De Rol",
-      "url": "https://open.spotify.com/track/0ifXq1bF8z1NZFcqYxqiih"
     },
     {
       "added_at": null,
@@ -763,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Directo Hasta Arriba Vol.2",
+        "url": "https://open.spotify.com/album/4mKBizouQK5HBdsuIgcHSG"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 211588,
+      "name": "De Rol",
+      "url": "https://open.spotify.com/track/0ifXq1bF8z1NZFcqYxqiih"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LA PARRANDHA",
         "url": "https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 238792,
       "name": "LA PARRANDHA",
       "url": "https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 205196,
-      "name": "El Diablo, La Muerte y Yo",
-      "url": "https://open.spotify.com/track/175Ot7nFFqxNIZ34C0wcfw"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 160150,
       "name": "Sin Dormir (Ya Se Arm\u00f3)",
       "url": "https://open.spotify.com/track/1HfHDbNHzafjjxnLoAobRA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 205196,
+      "name": "El Diablo, La Muerte y Yo",
+      "url": "https://open.spotify.com/track/175Ot7nFFqxNIZ34C0wcfw"
     },
     {
       "added_at": null,
@@ -875,18 +875,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Directo Hasta Arriba",
-        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
+        "name": "El Bols\u00f3n",
+        "url": "https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe"
       },
       "artists": [
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         }
       ],
-      "duration_ms": 223626,
-      "name": "El After Porky",
-      "url": "https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu"
+      "duration_ms": 231177,
+      "name": "El Bols\u00f3n",
+      "url": "https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD"
     },
     {
       "added_at": null,
@@ -915,22 +919,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Bols\u00f3n",
-        "url": "https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe"
+        "name": "Directo Hasta Arriba",
+        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
       },
       "artists": [
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         }
       ],
-      "duration_ms": 231177,
-      "name": "El Bols\u00f3n",
-      "url": "https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD"
+      "duration_ms": 223626,
+      "name": "El After Porky",
+      "url": "https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu"
     },
     {
       "added_at": null,

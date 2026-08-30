@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,016 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,018 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 28 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 |
 | 29 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 |
 | 30 | [Seoul](https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Seoul](https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF) | 3:24 |
-| 31 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
-| 32 | [Blue Island \(feat\. 1Ho & Chan\)](https://open.spotify.com/track/3DeUnI1lH69twBuliumOQL) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Airman Morning Diaries](https://open.spotify.com/album/0yeq174Fcjq2JZei3L0laC) | 3:21 |
+| 31 | [Blue Island \(feat\. 1Ho & Chan\)](https://open.spotify.com/track/3DeUnI1lH69twBuliumOQL) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Airman Morning Diaries](https://open.spotify.com/album/0yeq174Fcjq2JZei3L0laC) | 3:21 |
+| 32 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
 | 33 | [Secret Garden](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark, Pt\. 2](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | 3:44 |
 | 34 | [Wherever](https://open.spotify.com/track/4g9GTgyJ7f5uUpmh9zMtQF) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Wherever](https://open.spotify.com/album/47AfzSaiONoJo0WreAOMA1) | 2:51 |
 | 35 | [Je T'aime](https://open.spotify.com/track/3wS47sXPddjE6rbhU7u20w) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Je T'aime](https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH) | 4:21 |

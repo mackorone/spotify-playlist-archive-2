@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,488 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,536 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,14 +91,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 81 | [Se Dejaba Llevar Por Ti \- Remastered 2015](https://open.spotify.com/track/1Nv0VZzkY6MzKK8YrD2zGT) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [No Me Iré Mañana \(Edición 25 Aniversario\)](https://open.spotify.com/album/5o2N9jbirrmmUsNF0NfHXe) | 4:11 |
 | 82 | [Salitre](https://open.spotify.com/track/1MmGTsPVHDjhM5BJLvkFRL) | [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [Ajuste de cuentas](https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze) | 4:40 |
 | 83 | [Dama Dama \(Album Version\)](https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Cecilia](https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0) | 3:18 |
-| 84 | [Pasaba por Aqui](https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:52 |
-| 85 | [Contigo en la Distancia](https://open.spotify.com/track/7820J99MJU42DADC6DsMfh) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Contigo En La Distancia](https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui) | 2:37 |
+| 84 | [Contigo en la Distancia](https://open.spotify.com/track/7820J99MJU42DADC6DsMfh) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Contigo En La Distancia](https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui) | 2:37 |
+| 85 | [Pasaba por Aqui](https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:52 |
 | 86 | [Habaneras de Cádiz](https://open.spotify.com/track/6Mhw12JZfaRullIwuiDrnW) | [Carlos Cano](https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB) | [De Lo Perdido Y Otras Coplas](https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC) | 5:46 |
 | 87 | [Mi Problema](https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 6:05 |
 | 88 | [Me quedo contigo \- Radio Edit](https://open.spotify.com/track/59R6zsfUXb4zCnj1N8JS20) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Canciones 1980\-2009](https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u) | 4:08 |
-| 89 | [La Belleza](https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 3:53 |
-| 90 | [Rueda eterna](https://open.spotify.com/track/63tZPvFVEFLZUYngE4km29) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Lucia Fumero](https://open.spotify.com/artist/0NKTji2dtMilrWkrrtUsoJ) | [Rueda eterna](https://open.spotify.com/album/6C5lucQEhdJzPKOL25Q57y) | 2:59 |
-| 91 | [Rugío de Sentir](https://open.spotify.com/track/1ecpwSch9muxwUF5BmOHQs) | [Paco Pecado](https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp) | [Rugío de Sentir](https://open.spotify.com/album/0bexrNYTuhcoEbDjBUUuZm) | 3:23 |
+| 89 | [Rugío de Sentir](https://open.spotify.com/track/1ecpwSch9muxwUF5BmOHQs) | [Paco Pecado](https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp) | [Rugío de Sentir](https://open.spotify.com/album/0bexrNYTuhcoEbDjBUUuZm) | 3:23 |
+| 90 | [La Belleza](https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 3:53 |
+| 91 | [Rueda eterna](https://open.spotify.com/track/63tZPvFVEFLZUYngE4km29) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Lucia Fumero](https://open.spotify.com/artist/0NKTji2dtMilrWkrrtUsoJ) | [Rueda eterna](https://open.spotify.com/album/6C5lucQEhdJzPKOL25Q57y) | 2:59 |
 | 92 | [No Dudaria](https://open.spotify.com/track/1aiq7W0uUtQB70lyNjBpWa) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Esencial Antonio Flores](https://open.spotify.com/album/2tJ9CY3BGUdY8J3J52huZG) | 3:34 |
 | 93 | [Capitana \- A COLORS SHOW](https://open.spotify.com/track/2elUMQsM86Mc76C3kytRkq) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Capitana \- A COLORS SHOW](https://open.spotify.com/album/5bUTNLImQtVvWRc1TFv5um) | 4:32 |
 | 94 | [Dice la gente](https://open.spotify.com/track/5nw6Uk1a2NkmTqfalBvMia) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [Dice la gente](https://open.spotify.com/album/2M5yZ4i9t80oONCUyGlp26) | 4:48 |

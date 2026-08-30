@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Westside Cowboy ",
-  "num_followers": 93552,
+  "num_followers": 93549,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -155,18 +155,18 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "Vol.II",
-        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
+        "name": "Anything He Was",
+        "url": "https://open.spotify.com/album/2FUew1tmYs8QW7YOmiZRDV"
       },
       "artists": [
         {
-          "name": "Angine de Poitrine",
-          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
         }
       ],
-      "duration_ms": 369863,
-      "name": "Mata Zyklek",
-      "url": "https://open.spotify.com/track/0gOaJ646z6OJv4lLDpjfDt"
+      "duration_ms": 239480,
+      "name": "Anything He Was",
+      "url": "https://open.spotify.com/track/5vtMCt0sWVxCbsTUnPyCTh"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -187,18 +187,18 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "Anything He Was",
-        "url": "https://open.spotify.com/album/2FUew1tmYs8QW7YOmiZRDV"
+        "name": "Vol.II",
+        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
       },
       "artists": [
         {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+          "name": "Angine de Poitrine",
+          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
         }
       ],
-      "duration_ms": 239480,
-      "name": "Anything He Was",
-      "url": "https://open.spotify.com/track/5vtMCt0sWVxCbsTUnPyCTh"
+      "duration_ms": 369863,
+      "name": "Mata Zyklek",
+      "url": "https://open.spotify.com/track/0gOaJ646z6OJv4lLDpjfDt"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "Lovesweet",
-        "url": "https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa"
-      },
-      "artists": [
-        {
-          "name": "girlsweetvoiced",
-          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
-        }
-      ],
-      "duration_ms": 194149,
-      "name": "Cranberry",
-      "url": "https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
         "name": "THRASHER",
         "url": "https://open.spotify.com/album/4AWBFHgvBgI9ah66wq1TEo"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 191129,
       "name": "Does It Ever Cross Your Mind?",
       "url": "https://open.spotify.com/track/3mkRtMr2NOfjlk3c5BlX8a"
+    },
+    {
+      "added_at": "2026-08-20 23:00:35",
+      "album": {
+        "name": "Lovesweet",
+        "url": "https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa"
+      },
+      "artists": [
+        {
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+        }
+      ],
+      "duration_ms": 194149,
+      "name": "Cranberry",
+      "url": "https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "Kick Stones (The Boys)",
-        "url": "https://open.spotify.com/album/4xAiEN0XBJLHCGizBeJBqx"
-      },
-      "artists": [
-        {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
-        }
-      ],
-      "duration_ms": 236167,
-      "name": "Kick Stones (The Boys)",
-      "url": "https://open.spotify.com/track/6qIdkfxjme3OEkdgsA8ANp"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
         "name": "Things Take Time",
         "url": "https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 194000,
       "name": "Things Take Time",
       "url": "https://open.spotify.com/track/6FDIHTvOLT5HC4LqtZPWaE"
+    },
+    {
+      "added_at": "2026-08-20 23:00:35",
+      "album": {
+        "name": "Kick Stones (The Boys)",
+        "url": "https://open.spotify.com/album/4xAiEN0XBJLHCGizBeJBqx"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "duration_ms": 236167,
+      "name": "Kick Stones (The Boys)",
+      "url": "https://open.spotify.com/track/6qIdkfxjme3OEkdgsA8ANp"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -379,18 +379,18 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/3KWoMQxS2OgIqXiQ8umBbk"
+        "name": "Disappearing Act",
+        "url": "https://open.spotify.com/album/5MYLrD2ltm4LAJ2W02u7DV"
       },
       "artists": [
         {
-          "name": "Brandon Flowers",
-          "url": "https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 231351,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/6Ot94bjY2Fx4WcGDo2FcoC"
+      "duration_ms": 179328,
+      "name": "Disappearing Act",
+      "url": "https://open.spotify.com/track/5HzWItiJH85G6OSs9h81uY"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/3KWoMQxS2OgIqXiQ8umBbk"
+      },
+      "artists": [
+        {
+          "name": "Brandon Flowers",
+          "url": "https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN"
+        }
+      ],
+      "duration_ms": 231351,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/6Ot94bjY2Fx4WcGDo2FcoC"
+    },
+    {
+      "added_at": "2026-08-20 23:00:35",
+      "album": {
         "name": "The Cosmic Selector Vol. 1",
         "url": "https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 186987,
       "name": "Watch Me Go",
       "url": "https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
-        "name": "Disappearing Act",
-        "url": "https://open.spotify.com/album/5MYLrD2ltm4LAJ2W02u7DV"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 179328,
-      "name": "Disappearing Act",
-      "url": "https://open.spotify.com/track/5HzWItiJH85G6OSs9h81uY"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -463,18 +463,18 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "Tiger's Blood",
-        "url": "https://open.spotify.com/album/6hwLrLcbPU936YeG0rTHah"
+        "name": "3310",
+        "url": "https://open.spotify.com/album/2uhFhEkvO1E8NQ5I19skkb"
       },
       "artists": [
         {
-          "name": "Brandon Flowers",
-          "url": "https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN"
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
         }
       ],
-      "duration_ms": 250928,
-      "name": "Tiger's Blood",
-      "url": "https://open.spotify.com/track/4RTF94P3ywTBCtcJ3Crw9k"
+      "duration_ms": 182286,
+      "name": "3310",
+      "url": "https://open.spotify.com/track/73qjPrQyaBd7mcGR5kEiBC"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -495,18 +495,18 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "3310",
-        "url": "https://open.spotify.com/album/2uhFhEkvO1E8NQ5I19skkb"
+        "name": "Tiger's Blood",
+        "url": "https://open.spotify.com/album/6hwLrLcbPU936YeG0rTHah"
       },
       "artists": [
         {
-          "name": "Jamie T",
-          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+          "name": "Brandon Flowers",
+          "url": "https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN"
         }
       ],
-      "duration_ms": 182286,
-      "name": "3310",
-      "url": "https://open.spotify.com/track/73qjPrQyaBd7mcGR5kEiBC"
+      "duration_ms": 250928,
+      "name": "Tiger's Blood",
+      "url": "https://open.spotify.com/track/4RTF94P3ywTBCtcJ3Crw9k"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -673,6 +673,22 @@
       "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
     },
     {
+      "added_at": "2026-08-28 05:25:38",
+      "album": {
+        "name": "The Hardest Thing",
+        "url": "https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 201992,
+      "name": "The Hardest Thing",
+      "url": "https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD"
+    },
+    {
       "added_at": "2026-08-20 23:00:35",
       "album": {
         "name": "Double Infinity",
@@ -723,22 +739,6 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "Nosedive",
-        "url": "https://open.spotify.com/album/6qY5K6aLJkQFfd6mwTnTka"
-      },
-      "artists": [
-        {
-          "name": "Man/Woman/Chainsaw",
-          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
-        }
-      ],
-      "duration_ms": 339424,
-      "name": "Nosedive",
-      "url": "https://open.spotify.com/track/0TbUriU2INQ0wqNubRpFTX"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
         "name": "The Banjo Song",
         "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 229760,
       "name": "The Banjo Song",
       "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
+    },
+    {
+      "added_at": "2026-08-20 23:00:35",
+      "album": {
+        "name": "Nosedive",
+        "url": "https://open.spotify.com/album/6qY5K6aLJkQFfd6mwTnTka"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "duration_ms": 339424,
+      "name": "Nosedive",
+      "url": "https://open.spotify.com/track/0TbUriU2INQ0wqNubRpFTX"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -775,6 +791,22 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
+        "name": "haven\u2019t found love.",
+        "url": "https://open.spotify.com/album/5adelMOkx04sITILgdP5tw"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Schub",
+          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
+        }
+      ],
+      "duration_ms": 176324,
+      "name": "haven\u2019t found love.",
+      "url": "https://open.spotify.com/track/2SMQtb6HabOW6Uo8ocVske"
+    },
+    {
+      "added_at": "2026-08-20 23:00:35",
+      "album": {
         "name": "Windows",
         "url": "https://open.spotify.com/album/5WXs3gKH5ZjIBAryUs7qMn"
       },
@@ -791,18 +823,18 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "haven\u2019t found love.",
-        "url": "https://open.spotify.com/album/5adelMOkx04sITILgdP5tw"
+        "name": "Nothing Happens Twice",
+        "url": "https://open.spotify.com/album/47svbQlZ9nBqbDtpcO4fc9"
       },
       "artists": [
         {
-          "name": "Sebastian Schub",
-          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
         }
       ],
-      "duration_ms": 176324,
-      "name": "haven\u2019t found love.",
-      "url": "https://open.spotify.com/track/2SMQtb6HabOW6Uo8ocVske"
+      "duration_ms": 222395,
+      "name": "Nothing Happens Twice",
+      "url": "https://open.spotify.com/track/1ONK8nkEK50USiZovuRhEv"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -839,22 +871,6 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "Nothing Happens Twice",
-        "url": "https://open.spotify.com/album/47svbQlZ9nBqbDtpcO4fc9"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 222395,
-      "name": "Nothing Happens Twice",
-      "url": "https://open.spotify.com/track/1ONK8nkEK50USiZovuRhEv"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
         "name": "Let's Do It Again!",
         "url": "https://open.spotify.com/album/5pZ5WWoM7SbZhxMKPKPSce"
       },
@@ -871,6 +887,38 @@
       "duration_ms": 271095,
       "name": "Let's Do It Again!",
       "url": "https://open.spotify.com/track/4CcfLmYhrih0jVPOEd1plJ"
+    },
+    {
+      "added_at": "2026-08-28 05:25:38",
+      "album": {
+        "name": "Jubilee Feeling",
+        "url": "https://open.spotify.com/album/1w0VJUqClIKvyXDdIqbWxx"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 255227,
+      "name": "Jubilee Feeling",
+      "url": "https://open.spotify.com/track/20oKIhNJOY7QemUmqydhDN"
+    },
+    {
+      "added_at": "2026-08-28 05:25:38",
+      "album": {
+        "name": "The Cherry Farm",
+        "url": "https://open.spotify.com/album/5IsfijJGDAIof1NXts7gAq"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 178955,
+      "name": "The Cherry Farm",
+      "url": "https://open.spotify.com/track/5k8tcbz1dQUyCcP2GlVRwY"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -969,22 +1017,6 @@
       "url": "https://open.spotify.com/track/6wZePFKufqT4ZRQwTY3TiH"
     },
     {
-      "added_at": "2026-08-28 05:25:38",
-      "album": {
-        "name": "The Hardest Thing",
-        "url": "https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 201992,
-      "name": "The Hardest Thing",
-      "url": "https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD"
-    },
-    {
       "added_at": "2026-08-20 23:00:35",
       "album": {
         "name": "Amber",
@@ -1067,18 +1099,18 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "Dog Eared",
-        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
+        "name": "Soft Control",
+        "url": "https://open.spotify.com/album/5fRHlDzwhKI3KaGQKWrNPC"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "The Afghan Whigs",
+          "url": "https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD"
         }
       ],
-      "duration_ms": 219503,
-      "name": "Planets",
-      "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
+      "duration_ms": 205397,
+      "name": "Loose Talk",
+      "url": "https://open.spotify.com/track/34y46kIPGCkh120SPNqtoi"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -1099,6 +1131,22 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
+        "name": "Dog Eared",
+        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 219503,
+      "name": "Planets",
+      "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
+    },
+    {
+      "added_at": "2026-08-20 23:00:35",
+      "album": {
         "name": "Spin",
         "url": "https://open.spotify.com/album/5KX0Uj86kvTpEOMyEFgw8d"
       },
@@ -1115,18 +1163,18 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "Soft Control",
-        "url": "https://open.spotify.com/album/5fRHlDzwhKI3KaGQKWrNPC"
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i"
       },
       "artists": [
         {
-          "name": "The Afghan Whigs",
-          "url": "https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD"
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
         }
       ],
-      "duration_ms": 205397,
-      "name": "Loose Talk",
-      "url": "https://open.spotify.com/track/34y46kIPGCkh120SPNqtoi"
+      "duration_ms": 210301,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -1163,22 +1211,6 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 210301,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
         "name": "Creature of Habit",
         "url": "https://open.spotify.com/album/2fmY3KwKCrlwhmlb308sI2"
       },
@@ -1191,22 +1223,6 @@
       "duration_ms": 282062,
       "name": "One Thing At A Time",
       "url": "https://open.spotify.com/track/2o2s7sFRf9XByKXoV0Qw6e"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
-        "name": "Terrestrials",
-        "url": "https://open.spotify.com/album/2zV4jllZ8rjHsbUQjaMewQ"
-      },
-      "artists": [
-        {
-          "name": "Pond",
-          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
-        }
-      ],
-      "duration_ms": 260877,
-      "name": "Skyworks",
-      "url": "https://open.spotify.com/track/4sJSX4ATg5lBiEqce6kiFO"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "The Sweet Goodbye",
-        "url": "https://open.spotify.com/album/1BX2CLG8MBglhD83tVUJvL"
-      },
-      "artists": [
-        {
-          "name": "Opus Kink",
-          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
-        }
-      ],
-      "duration_ms": 388781,
-      "name": "Crucify!",
-      "url": "https://open.spotify.com/track/7IVv7usio5jsGIK6lFRvAN"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
         "name": "Holo Boy",
         "url": "https://open.spotify.com/album/7GXQ3XWkTEnfI37a8zX2TB"
       },
@@ -1255,6 +1255,38 @@
       "duration_ms": 130785,
       "name": "But You Just Woke Me Up",
       "url": "https://open.spotify.com/track/3O3qS7OEH1cIFfDzzWO3ym"
+    },
+    {
+      "added_at": "2026-08-20 23:00:35",
+      "album": {
+        "name": "Terrestrials",
+        "url": "https://open.spotify.com/album/2zV4jllZ8rjHsbUQjaMewQ"
+      },
+      "artists": [
+        {
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+        }
+      ],
+      "duration_ms": 260877,
+      "name": "Skyworks",
+      "url": "https://open.spotify.com/track/4sJSX4ATg5lBiEqce6kiFO"
+    },
+    {
+      "added_at": "2026-08-20 23:00:35",
+      "album": {
+        "name": "The Sweet Goodbye",
+        "url": "https://open.spotify.com/album/1BX2CLG8MBglhD83tVUJvL"
+      },
+      "artists": [
+        {
+          "name": "Opus Kink",
+          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
+        }
+      ],
+      "duration_ms": 388781,
+      "name": "Crucify!",
+      "url": "https://open.spotify.com/track/7IVv7usio5jsGIK6lFRvAN"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -1279,6 +1311,22 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
+        "name": "Sleeping",
+        "url": "https://open.spotify.com/album/3MaY7jwsacEjRQDw8sG98V"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 212391,
+      "name": "Sleeping",
+      "url": "https://open.spotify.com/track/7IqurzUAAiSkZtH0CmO04u"
+    },
+    {
+      "added_at": "2026-08-20 23:00:35",
+      "album": {
         "name": "My New Band Believe",
         "url": "https://open.spotify.com/album/0FypCc1StF9mNiLemcuJ3J"
       },
@@ -1295,18 +1343,18 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "Sleeping",
-        "url": "https://open.spotify.com/album/3MaY7jwsacEjRQDw8sG98V"
+        "name": "A Hole To See The Sky Through",
+        "url": "https://open.spotify.com/album/5OGQdQZc5hi7WUkzFPVbSB"
       },
       "artists": [
         {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+          "name": "Mystery Jets",
+          "url": "https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX"
         }
       ],
-      "duration_ms": 212391,
-      "name": "Sleeping",
-      "url": "https://open.spotify.com/track/7IqurzUAAiSkZtH0CmO04u"
+      "duration_ms": 260097,
+      "name": "Long Lonely Road",
+      "url": "https://open.spotify.com/track/2o4piahi00YKK9iBPSB6kF"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -1343,22 +1391,6 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "Get Up and Dance",
-        "url": "https://open.spotify.com/album/35pudrLjhzoqj08pHMjyZn"
-      },
-      "artists": [
-        {
-          "name": "Man/Woman/Chainsaw",
-          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
-        }
-      ],
-      "duration_ms": 261243,
-      "name": "Get Up and Dance",
-      "url": "https://open.spotify.com/track/4hGBY8lwQbg6UojWNmeJC1"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
         "name": "Illinois Again",
         "url": "https://open.spotify.com/album/46ogyvsglHfzceKTtzcbNN"
       },
@@ -1375,18 +1407,18 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "A Hole To See The Sky Through",
-        "url": "https://open.spotify.com/album/5OGQdQZc5hi7WUkzFPVbSB"
+        "name": "Get Up and Dance",
+        "url": "https://open.spotify.com/album/35pudrLjhzoqj08pHMjyZn"
       },
       "artists": [
         {
-          "name": "Mystery Jets",
-          "url": "https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX"
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
         }
       ],
-      "duration_ms": 260097,
-      "name": "Long Lonely Road",
-      "url": "https://open.spotify.com/track/2o4piahi00YKK9iBPSB6kF"
+      "duration_ms": 261243,
+      "name": "Get Up and Dance",
+      "url": "https://open.spotify.com/track/4hGBY8lwQbg6UojWNmeJC1"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -1471,6 +1503,22 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/4et2xBFMKmsaWQPjlKTbG6"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Tina",
+      "url": "https://open.spotify.com/track/7uFif00qArtq2USCkQEGac"
+    },
+    {
+      "added_at": "2026-08-20 23:00:35",
+      "album": {
         "name": "Flea Joint",
         "url": "https://open.spotify.com/album/5x7CBQCZtl6ie7L3GzEojA"
       },
@@ -1507,22 +1555,6 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/4et2xBFMKmsaWQPjlKTbG6"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "Tina",
-      "url": "https://open.spotify.com/track/7uFif00qArtq2USCkQEGac"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
         "name": "5words",
         "url": "https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl"
       },
@@ -1535,38 +1567,6 @@
       "duration_ms": 317613,
       "name": "5words",
       "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
-        "name": "The Ground Above",
-        "url": "https://open.spotify.com/album/2xsnBz8QqjNPUDVFp0PKZS"
-      },
-      "artists": [
-        {
-          "name": "Beth Orton",
-          "url": "https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC"
-        }
-      ],
-      "duration_ms": 401920,
-      "name": "Cigarette Curls",
-      "url": "https://open.spotify.com/track/5J1urfVniTBLYi8NuoTJE0"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
-        "name": "Dancing Shoes",
-        "url": "https://open.spotify.com/album/3YFxLOJQhY5voCBsEQ1kCt"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 224287,
-      "name": "Kneel",
-      "url": "https://open.spotify.com/track/3zHlu8zTCOQ2R6nobGogKJ"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -1587,6 +1587,38 @@
     {
       "added_at": "2026-08-20 23:00:35",
       "album": {
+        "name": "Dancing Shoes",
+        "url": "https://open.spotify.com/album/3YFxLOJQhY5voCBsEQ1kCt"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 224287,
+      "name": "Kneel",
+      "url": "https://open.spotify.com/track/3zHlu8zTCOQ2R6nobGogKJ"
+    },
+    {
+      "added_at": "2026-08-20 23:00:35",
+      "album": {
+        "name": "The Ground Above",
+        "url": "https://open.spotify.com/album/2xsnBz8QqjNPUDVFp0PKZS"
+      },
+      "artists": [
+        {
+          "name": "Beth Orton",
+          "url": "https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC"
+        }
+      ],
+      "duration_ms": 401920,
+      "name": "Cigarette Curls",
+      "url": "https://open.spotify.com/track/5J1urfVniTBLYi8NuoTJE0"
+    },
+    {
+      "added_at": "2026-08-20 23:00:35",
+      "album": {
         "name": "The Scythe",
         "url": "https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW"
       },
@@ -1599,22 +1631,6 @@
       "duration_ms": 285240,
       "name": "The Scythe",
       "url": "https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw"
-    },
-    {
-      "added_at": "2026-08-28 05:25:38",
-      "album": {
-        "name": "Jubilee Feeling",
-        "url": "https://open.spotify.com/album/1w0VJUqClIKvyXDdIqbWxx"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 255227,
-      "name": "Jubilee Feeling",
-      "url": "https://open.spotify.com/track/20oKIhNJOY7QemUmqydhDN"
     },
     {
       "added_at": "2026-08-20 23:00:35",
@@ -1631,22 +1647,6 @@
       "duration_ms": 219661,
       "name": "Seachain",
       "url": "https://open.spotify.com/track/5I5QQqPu7S5hFbFfhyodIg"
-    },
-    {
-      "added_at": "2026-08-20 23:00:35",
-      "album": {
-        "name": "Television Love",
-        "url": "https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 280800,
-      "name": "Television Love",
-      "url": "https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw"
     }
   ],
   "unique_name": "The Listening Post",

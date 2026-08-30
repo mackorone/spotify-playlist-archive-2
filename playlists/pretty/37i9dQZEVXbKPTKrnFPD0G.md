@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,229 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,238 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 33 | [Un Ángel para Tu Soledad](https://open.spotify.com/track/6kUopck7LHVadAjAFcXiTj) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Lobo Suelto](https://open.spotify.com/album/1cvN5QA28nC5QYpjoksMGe) | 3:51 |
 | 34 | [⁠LUCES DE COLORES](https://open.spotify.com/track/5dDlknAL9imbXXl7uG7oqe) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:36 |
 | 35 | [Tan Lejos](https://open.spotify.com/track/44m9PAUZYeOEGeaTYh6NAl) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Juan Casanova](https://open.spotify.com/artist/6AvKcjNtR1AYU8wN72MvNK) | [El Camino Más Largo](https://open.spotify.com/album/1uepX7Q6C8lSh2kR96DmtX) | 4:58 |
-| 36 | [El Teléfono](https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy \(The Most Wanted Edition\)](https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS) | 3:55 |
+| 36 | [El Teléfono](https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Machete Music Chronicles: Vol\. I](https://open.spotify.com/album/3vBf54VsQZq7R5fDDxYTe2) | 3:59 |
 | 37 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |
 | 38 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 |
 | 39 | [Corazón Sin Cara \- En Vivo](https://open.spotify.com/track/2f9AllMPPxD0aulDlYZ4M5) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Corazón Sin Cara \(En Vivo\)](https://open.spotify.com/album/0pSEhHOwpHOzWvFynaLNcR) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [Encantadora](https://open.spotify.com/track/7LABrQFfRYcZUqUwng0Heb) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Dangerous](https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY) | 4:00 |
 | 50 | [9 de Julio](https://open.spotify.com/track/04bg4edMdpKhsgkSzYqj55) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 3:46 |
 
-Snapshot ID: `MiUj0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MiZUgAAAAAAAAAAAAAAAAAAAAAAAAGVu`

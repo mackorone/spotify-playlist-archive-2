@@ -5010,7 +5010,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 182068,
       "name": "Full Power",
       "url": "https://open.spotify.com/track/5FNNKh2Aw0RCWwrMPF8DBn"
@@ -11841,6 +11841,24 @@
     },
     {
       "album": {
+        "name": "Shots",
+        "url": "https://open.spotify.com/album/6sMdtZ7XvgQkKXLN8GOaYJ"
+      },
+      "artists": [
+        {
+          "name": "Doctor P",
+          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165633,
+      "name": "Shots",
+      "url": "https://open.spotify.com/track/6n2dsqVfYlSCAcTqOkS61R"
+    },
+    {
+      "album": {
         "name": "Show Me",
         "url": "https://open.spotify.com/album/3aF004NM1hTojpV1EMPy1M"
       },
@@ -13960,7 +13978,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 157241,
       "name": "Told Em",
       "url": "https://open.spotify.com/track/4YDEXNTLp1SGtENC1WAaxP"
@@ -15100,6 +15118,32 @@
       "duration_ms": 196206,
       "name": "Wile Out",
       "url": "https://open.spotify.com/track/1M9rhNXtPPE6nZmst4ayi0"
+    },
+    {
+      "album": {
+        "name": "Winner",
+        "url": "https://open.spotify.com/album/6zyPEuxwgovdnQQAAhv5SQ"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        },
+        {
+          "name": "Blvk H3ro",
+          "url": "https://open.spotify.com/artist/29v52R5tPpJ0Hrh1VnmZoZ"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209655,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/3kB3o4vzt1NxMbKKv5VHaJ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 283910,
+  "num_followers": 284003,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "Original",
+        "url": "https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Caneo",
+          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
+        }
+      ],
+      "duration_ms": 265480,
+      "name": "De Punta a Punta",
+      "url": "https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "De Costa a Costa",
         "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
       },
@@ -1083,18 +1099,50 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Original",
-        "url": "https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6"
+        "name": "Ayer, Hoy, Ma\u00f1ana y Siempre",
+        "url": "https://open.spotify.com/album/4IuAxOPErtywq5ZmTvZ4C0"
       },
       "artists": [
         {
-          "name": "Grupo Caneo",
-          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
+          "name": "Tommy Olivencia y Su Orquesta",
+          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
         }
       ],
-      "duration_ms": 265480,
-      "name": "De Punta a Punta",
-      "url": "https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH"
+      "duration_ms": 251585,
+      "name": "Dicelo a El",
+      "url": "https://open.spotify.com/track/7I7LoiAzaDTCFN3XNnIboG"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "De Amor y Salsa",
+        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 313533,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/2SXhR5RyU56gSWRANsTzJf"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Sobredosis de Amor y Salsa",
+        "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        }
+      ],
+      "duration_ms": 238762,
+      "name": "En Trance",
+      "url": "https://open.spotify.com/track/6TIvLWPw7OTD2lslRmoWEo"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1119,38 +1167,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Ayer, Hoy, Ma\u00f1ana y Siempre",
-        "url": "https://open.spotify.com/album/4IuAxOPErtywq5ZmTvZ4C0"
-      },
-      "artists": [
-        {
-          "name": "Tommy Olivencia y Su Orquesta",
-          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
-        }
-      ],
-      "duration_ms": 251585,
-      "name": "Dicelo a El",
-      "url": "https://open.spotify.com/track/7I7LoiAzaDTCFN3XNnIboG"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Sobredosis de Amor y Salsa",
-        "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        }
-      ],
-      "duration_ms": 238762,
-      "name": "En Trance",
-      "url": "https://open.spotify.com/track/6TIvLWPw7OTD2lslRmoWEo"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "SALSEANDO CON... UNO",
         "url": "https://open.spotify.com/album/3bPX120qXpWjTiBhLE5VP6"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 309386,
       "name": "Fantasia Herida",
       "url": "https://open.spotify.com/track/64IXm03vNARlDsFdT1H6R2"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "De Amor y Salsa",
-        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 313533,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/2SXhR5RyU56gSWRANsTzJf"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW"
+        "name": "De Amor y Salsa",
+        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
       },
       "artists": [
         {
-          "name": "David Pabon",
-          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 317573,
-      "name": "Caradura",
-      "url": "https://open.spotify.com/track/1ngWLwko1GnliVV9kHj4CC"
+      "duration_ms": 332253,
+      "name": "Dejame Sentirte",
+      "url": "https://open.spotify.com/track/2gvdq6VGIb2iRBsHij1t5Q"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "La Formula Original",
-        "url": "https://open.spotify.com/album/2e7NbcGhCxwRthob6t21Zf"
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW"
       },
       "artists": [
         {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
         }
       ],
-      "duration_ms": 278909,
-      "name": "Detalles",
-      "url": "https://open.spotify.com/track/4SFp4XMwAOCpUK9Vs4UmiH"
+      "duration_ms": 317573,
+      "name": "Caradura",
+      "url": "https://open.spotify.com/track/1ngWLwko1GnliVV9kHj4CC"
     }
   ],
   "unique_name": "Salsa: Los '80",

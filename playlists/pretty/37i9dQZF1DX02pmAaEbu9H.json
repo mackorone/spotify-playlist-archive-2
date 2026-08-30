@@ -1,6 +1,6 @@
 {
   "description": "Recorre los kil\u00f3metros con estos cantables cl\u00e1sicos para el camino.",
-  "num_followers": 1577959,
+  "num_followers": 1578040,
   "original_name": "Viaje en Carretera Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 240440,
+      "name": "Back To Black",
+      "url": "https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
         "name": "She's So Unusual",
         "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 191560,
       "name": "Para No Verte M\u00e1s",
       "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 240440,
-      "name": "Back To Black",
-      "url": "https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -643,22 +643,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "If You Can Believe Your Eyes & Ears",
-        "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
-      },
-      "artists": [
-        {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "California Dreamin' - Single Version",
-      "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 194080,
       "name": "Devu\u00e9lveme a mi chica",
       "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "If You Can Believe Your Eyes & Ears",
+        "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "California Dreamin' - Single Version",
+      "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -759,22 +759,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 352160,
-      "name": "En El Muelle de San Blas",
-      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 277653,
       "name": "Flaca",
       "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 352160,
+      "name": "En El Muelle de San Blas",
+      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -887,22 +887,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "El Templo del Pop",
-        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 225413,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Pies Descalzos",
         "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
+        "name": "El Templo del Pop",
+        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 225413,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
         "name": "El Viaje de Copperpot",
         "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
       },
@@ -931,6 +931,38 @@
       "duration_ms": 247693,
       "name": "La Playa",
       "url": "https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Destino Paraiso (25th Anniversary Edition / Remastered 2020)",
+        "url": "https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt"
+      },
+      "artists": [
+        {
+          "name": "Gianluca Grignani",
+          "url": "https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU"
+        }
+      ],
+      "duration_ms": 308880,
+      "name": "Mi Historia Entre Tus Dedos - Remastered 2020",
+      "url": "https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 258411,
+      "name": "You're So Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -979,38 +1011,6 @@
       "duration_ms": 288600,
       "name": "Afuera",
       "url": "https://open.spotify.com/track/3pJfnBjO3kjudEchcPEDxS"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
-        "name": "Destino Paraiso (25th Anniversary Edition / Remastered 2020)",
-        "url": "https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt"
-      },
-      "artists": [
-        {
-          "name": "Gianluca Grignani",
-          "url": "https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU"
-        }
-      ],
-      "duration_ms": 308880,
-      "name": "Mi Historia Entre Tus Dedos - Remastered 2020",
-      "url": "https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 258411,
-      "name": "You're So Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+        "name": "Naufragios",
+        "url": "https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV"
       },
       "artists": [
         {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+          "name": "Mikel Erentxun",
+          "url": "https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Ironic - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
+      "duration_ms": 233733,
+      "name": "A un minuto de ti",
+      "url": "https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Naufragios",
-        "url": "https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV"
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
       "artists": [
         {
-          "name": "Mikel Erentxun",
-          "url": "https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC"
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
         }
       ],
-      "duration_ms": 233733,
-      "name": "A un minuto de ti",
-      "url": "https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f"
+      "duration_ms": 230000,
+      "name": "Ironic - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Falta Amor",
-        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "Rayando el Sol",
-      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
@@ -1235,22 +1219,6 @@
       "duration_ms": 276186,
       "name": "One",
       "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
-        "name": "De Viaje",
-        "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 227613,
-      "name": "Mientes Tan Bien",
-      "url": "https://open.spotify.com/track/072YgF7J2clpY8DsWOpEri"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1275,6 +1243,38 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
+        "name": "Falta Amor",
+        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "Rayando el Sol",
+      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "De Viaje",
+        "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 227613,
+      "name": "Mientes Tan Bien",
+      "url": "https://open.spotify.com/track/072YgF7J2clpY8DsWOpEri"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
         "name": "Voluma",
         "url": "https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM"
       },
@@ -1287,22 +1287,6 @@
       "duration_ms": 177600,
       "name": "Locos",
       "url": "https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "El Mundo Se Equivoca",
-        "url": "https://open.spotify.com/album/6C0am1pBvF0viIFsa0FZnp"
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
       },
       "artists": [
         {
-          "name": "La Quinta Estacion",
-          "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 189560,
-      "name": "Me Muero",
-      "url": "https://open.spotify.com/track/3ri9fLG89OdSpjxheYxU7S"
+      "duration_ms": 219493,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1351,6 +1335,22 @@
       "duration_ms": 240480,
       "name": "No Podras",
       "url": "https://open.spotify.com/track/6ZIwZmQ2ph6QK13sItmDEx"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "El Mundo Se Equivoca",
+        "url": "https://open.spotify.com/album/6C0am1pBvF0viIFsa0FZnp"
+      },
+      "artists": [
+        {
+          "name": "La Quinta Estacion",
+          "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
+        }
+      ],
+      "duration_ms": 189560,
+      "name": "Me Muero",
+      "url": "https://open.spotify.com/track/3ri9fLG89OdSpjxheYxU7S"
     },
     {
       "added_at": "2021-10-25 21:05:32",

@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41860,
+  "num_followers": 41865,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABYKKvtuIzbq7E2TlLWJ7bw",
+  "snapshot_id": "apDPgAAAAABcihp3h0nN4mkT0N5bLKIc",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 308533,
-      "name": "Magnifico",
-      "url": "https://open.spotify.com/track/28rwizC0dHCb2iHf5NdIOE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emanuel",
         "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 339673,
       "name": "Incontrolable Amor",
       "url": "https://open.spotify.com/track/6gC1f3S8JdxFHcOTlz1sLC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 308533,
+      "name": "Magnifico",
+      "url": "https://open.spotify.com/track/28rwizC0dHCb2iHf5NdIOE"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 458993,
+      "name": "Mi Padre Me Ama - Adoraci\u00f3n Espont\u00e1nea",
+      "url": "https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pura Sal",
         "url": "https://open.spotify.com/album/1dQgq5F2YZTFXr9arEe9RO"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 266253,
       "name": "Por la Eternidad",
       "url": "https://open.spotify.com/track/1GdBhVp7tdfs33NdxdnUFZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 458993,
-      "name": "Mi Padre Me Ama - Adoraci\u00f3n Espont\u00e1nea",
-      "url": "https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambientes de Cuna",
-        "url": "https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu"
-      },
-      "artists": [
-        {
-          "name": "Aliento Kids",
-          "url": "https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 452354,
-      "name": "Como Dijiste",
-      "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celebrar\u00e9 (Live)",
         "url": "https://open.spotify.com/album/6Nfk8Ah8XL6RTBVw3QeCfS"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 395757,
       "name": "Esa Es La Raz\u00f3n - Live",
       "url": "https://open.spotify.com/track/03tTO4GzNcT7ubU4QsCmGW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ambientes de Cuna",
+        "url": "https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu"
+      },
+      "artists": [
+        {
+          "name": "Aliento Kids",
+          "url": "https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 452354,
+      "name": "Como Dijiste",
+      "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
     },
     {
       "added_at": null,

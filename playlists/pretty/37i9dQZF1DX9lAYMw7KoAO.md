@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TI71iCX6RYCoXIF3aDBgkw>Lawrence Oyor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,240 likes - 51 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,363 likes - 51 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

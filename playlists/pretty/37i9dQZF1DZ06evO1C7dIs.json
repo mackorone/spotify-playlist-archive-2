@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 266207,
+  "num_followers": 266230,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAACH9ENquxop9DMlpf6/rD5+",
+  "snapshot_id": "apDPgAAAAAC8E1608SU3LijPfG6rvXUF",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 322280,
       "name": "Storytime",
       "url": "https://open.spotify.com/track/5IhtaTempjlVlPmSgI0FQS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "7 Days To The Wolves (Live in Amsterdam 2022)",
+        "url": "https://open.spotify.com/album/1iYquzFaMicgVvQYHQQ9zs"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 441560,
+      "name": "7 Days To The Wolves - Live in Amsterdam 2022",
+      "url": "https://open.spotify.com/track/4YvndEBrJ2Em4pnFXsxsc2"
     },
     {
       "added_at": null,
@@ -475,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wish I Had an Angel",
-        "url": "https://open.spotify.com/album/2l0KYO3zjZtfFzls7rSPA7"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "Where Were You Last Night",
-      "url": "https://open.spotify.com/track/1BZ2yeGFtYN0Sk5yrgvMdk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HUMAN. :II: NATURE.",
         "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 492107,
       "name": "Perfume Of The Timeless",
       "url": "https://open.spotify.com/track/4UNYF5dLLQ9acbNxenGTpc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wish I Had an Angel",
+        "url": "https://open.spotify.com/album/2l0KYO3zjZtfFzls7rSPA7"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "Where Were You Last Night",
+      "url": "https://open.spotify.com/track/1BZ2yeGFtYN0Sk5yrgvMdk"
     },
     {
       "added_at": null,
@@ -555,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Century Child",
-        "url": "https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "Dead To The World",
-      "url": "https://open.spotify.com/track/3lY7foOrKVtDoYKUJXmkML"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wishmaster",
         "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
       },
@@ -583,6 +583,22 @@
       "duration_ms": 237466,
       "name": "Deep Silent Complete",
       "url": "https://open.spotify.com/track/3Fba4XIaDBLFfKrOcsBjsY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Century Child",
+        "url": "https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "Dead To The World",
+      "url": "https://open.spotify.com/track/3lY7foOrKVtDoYKUJXmkML"
     },
     {
       "added_at": null,
@@ -619,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanborn",
-        "url": "https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 268226,
-      "name": "Stargazers",
-      "url": "https://open.spotify.com/track/6iB8e72Dgdvrnn4AuvIgmP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wishmaster",
         "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 274426,
       "name": "Come Cover Me",
       "url": "https://open.spotify.com/track/1RSKK7hj4emItvmh45crcX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oceanborn",
+        "url": "https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 268226,
+      "name": "Stargazers",
+      "url": "https://open.spotify.com/track/6iB8e72Dgdvrnn4AuvIgmP"
     },
     {
       "added_at": null,
@@ -683,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endless Forms Most Beautiful (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 324986,
-      "name": "Weak Fantasy",
-      "url": "https://open.spotify.com/track/3POMZFPzYbV6rYXJN1ozXW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wishmaster",
         "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 238973,
       "name": "The Kinslayer",
       "url": "https://open.spotify.com/track/7JrKMhfBOMr78l3KbCAF1q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Endless Forms Most Beautiful (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 324986,
+      "name": "Weak Fantasy",
+      "url": "https://open.spotify.com/track/3POMZFPzYbV6rYXJN1ozXW"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 236764,
       "name": "Tribal",
       "url": "https://open.spotify.com/track/5tN4bKhtt6klkkB0GVt9i1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yesterwynde",
-        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 355040,
-      "name": "The Antikythera Mechanism",
-      "url": "https://open.spotify.com/track/3CJ3Bbq0nUh8lFt1hHUI1K"
     }
   ],
   "unique_name": "This Is Nightwish",

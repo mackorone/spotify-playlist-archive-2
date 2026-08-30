@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 
 > The prince and Simon are determined to be together, but will they jeopardize their freedom and love in conflict with Royal ideals, traditions, and responsibilities?? Young Royals season 3, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,626 likes - 103 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,629 likes - 103 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 | 78 | [ALPHA](https://open.spotify.com/track/1gerU6xf4IsgfUX8dUbjbS) | [Yuti](https://open.spotify.com/artist/2PQPBZUsdiz2pUewFnp8eY) | [ALPHA](https://open.spotify.com/album/1NOSSl2tx6r4HzFkJiePks) | 2:37 |
 | 79 | [Äter upp dig](https://open.spotify.com/track/6mVCP2JxeTKkT8IWRCEthm) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [1](https://open.spotify.com/album/5CxDWH1dwXXQ1iDxH6c346) | 2:41 |
 | 80 | [Holes \- Deep Throat Choir Remix](https://open.spotify.com/track/64j7hQs1rqdEskqYxyRrmA) | [Zhala](https://open.spotify.com/artist/2vI70V5Tc6jB3d2uzb2UEA), [Deep Throat Choir](https://open.spotify.com/artist/4BSjlnV6ZYrkMLPm55Wrfm) | [Holes \(Deep Throat Choir Remix\)](https://open.spotify.com/album/489OlgRcApzJwJ5XDv6Lsq) | 2:43 |
-| 81 | [Samurai Swords \(Acoustic Version\)](https://open.spotify.com/track/6Lq3so9twcIAyF1vLMaDwb) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Samurai Swords \(Acoustic Version\)](https://open.spotify.com/album/6SwPIxfYwDHpBjgumnPdip) | 3:48 |
+| 81 | [Samurai Swords \- Acoustic Version](https://open.spotify.com/track/6Lq3so9twcIAyF1vLMaDwb) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Samurai Swords \(Acoustic Version\)](https://open.spotify.com/album/6SwPIxfYwDHpBjgumnPdip) | 3:48 |
 | 82 | [It Takes A Fool To Remain Sane](https://open.spotify.com/track/0o8Z3dm7aYP4J795FCcLRS) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [It Takes A Fool To Remain Sane](https://open.spotify.com/album/2W3VzoA7wMUashRCqURzZf) | 2:57 |
 | 83 | [Club Believer](https://open.spotify.com/track/16GcTUKAsORkkuSUm8AXeO) | [Jeak](https://open.spotify.com/artist/4JUettwlB4WVsbyV4nesPo), [Tiborg](https://open.spotify.com/artist/017LB7BYpa2Bmvzbkg0fHE) | [Electronic Dance Music](https://open.spotify.com/album/0NQ6fkJ9IQp43f1Bw8SoXY) | 3:17 |
 | 84 | [Thunderbolt](https://open.spotify.com/track/5rzNgwE6vlRNtC2H57BRGg) | [Tiborg](https://open.spotify.com/artist/017LB7BYpa2Bmvzbkg0fHE) | [French Indie Club 4](https://open.spotify.com/album/73oOfWbhYhYwouTRPc2R3i) | 3:44 |

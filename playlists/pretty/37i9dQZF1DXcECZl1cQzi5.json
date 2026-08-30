@@ -1,6 +1,6 @@
 {
   "description": "Calming music accompanied by the waves of the ocean. Breathe with the ebb and flow of the sea. ",
-  "num_followers": 72038,
+  "num_followers": 72058,
   "original_name": "Serene Ocean Music",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "From The Past",
-        "url": "https://open.spotify.com/album/1hfRrhdadKh2F7tZt2vQlt"
-      },
-      "artists": [
-        {
-          "name": "Ikupu Ume",
-          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
-        }
-      ],
-      "duration_ms": 189716,
-      "name": "From The Past",
-      "url": "https://open.spotify.com/track/0fbJxtewNTA0WLwckrq9Gl"
-    },
-    {
-      "added_at": "2026-06-12 09:04:34",
-      "album": {
         "name": "Oceanwide",
         "url": "https://open.spotify.com/album/79YI9hqwLqnUYpDdSMgaay"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 179464,
       "name": "Oceanwide",
       "url": "https://open.spotify.com/track/7plRoYCe37LQhEz6iY82fY"
+    },
+    {
+      "added_at": "2026-06-12 09:04:34",
+      "album": {
+        "name": "From The Past",
+        "url": "https://open.spotify.com/album/1hfRrhdadKh2F7tZt2vQlt"
+      },
+      "artists": [
+        {
+          "name": "Ikupu Ume",
+          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
+        }
+      ],
+      "duration_ms": 189716,
+      "name": "From The Past",
+      "url": "https://open.spotify.com/track/0fbJxtewNTA0WLwckrq9Gl"
     },
     {
       "added_at": "2026-06-12 09:04:34",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "In Balance By The Shore",
-        "url": "https://open.spotify.com/album/4fpMCLNlFUE9slr3RDc1PO"
-      },
-      "artists": [
-        {
-          "name": "Leo Lindholm",
-          "url": "https://open.spotify.com/artist/4rkUkNV8IzVS3jRYgPmB8h"
-        }
-      ],
-      "duration_ms": 173854,
-      "name": "In Balance By The Shore",
-      "url": "https://open.spotify.com/track/617Vt95JDL9ZyBiiALl2e1"
-    },
-    {
-      "added_at": "2026-06-12 09:04:34",
-      "album": {
         "name": "Textural Ambience",
         "url": "https://open.spotify.com/album/1t2BojfAohe91eDRz7uM7y"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 190000,
       "name": "Coral Triangle",
       "url": "https://open.spotify.com/track/07tjeMHO9Mex2K7CMmNsCZ"
+    },
+    {
+      "added_at": "2026-06-12 09:04:34",
+      "album": {
+        "name": "In Balance By The Shore",
+        "url": "https://open.spotify.com/album/4fpMCLNlFUE9slr3RDc1PO"
+      },
+      "artists": [
+        {
+          "name": "Leo Lindholm",
+          "url": "https://open.spotify.com/artist/4rkUkNV8IzVS3jRYgPmB8h"
+        }
+      ],
+      "duration_ms": 173854,
+      "name": "In Balance By The Shore",
+      "url": "https://open.spotify.com/track/617Vt95JDL9ZyBiiALl2e1"
     },
     {
       "added_at": "2026-06-12 09:04:34",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2"
-      },
-      "artists": [
-        {
-          "name": "Luna's Garden",
-          "url": "https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt"
-        }
-      ],
-      "duration_ms": 156762,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/3HpSgIfYWpdyiNnSsI3EBY"
-    },
-    {
-      "added_at": "2026-06-12 09:04:34",
-      "album": {
         "name": "Delightful Waves",
         "url": "https://open.spotify.com/album/6Zgicb69YthsS8Wmke7LK8"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "Ocean's Rest",
-        "url": "https://open.spotify.com/album/6Vz8sDcOZBtl4xI87nBC3S"
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2"
       },
       "artists": [
         {
-          "name": "IntoVerted",
-          "url": "https://open.spotify.com/artist/7KPMTEva2Ul6kWl0ddz7kT"
+          "name": "Luna's Garden",
+          "url": "https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt"
         }
       ],
-      "duration_ms": 204785,
-      "name": "Ocean's Rest",
-      "url": "https://open.spotify.com/track/133m9xVMTdOifqyohjzby9"
+      "duration_ms": 156762,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/3HpSgIfYWpdyiNnSsI3EBY"
     },
     {
       "added_at": "2026-06-12 09:04:34",
@@ -663,6 +647,22 @@
       "duration_ms": 224641,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/6ZWNlKcUAsFfjT6uQTVO4F"
+    },
+    {
+      "added_at": "2026-06-12 09:04:34",
+      "album": {
+        "name": "Ocean's Rest",
+        "url": "https://open.spotify.com/album/6Vz8sDcOZBtl4xI87nBC3S"
+      },
+      "artists": [
+        {
+          "name": "IntoVerted",
+          "url": "https://open.spotify.com/artist/7KPMTEva2Ul6kWl0ddz7kT"
+        }
+      ],
+      "duration_ms": 204785,
+      "name": "Ocean's Rest",
+      "url": "https://open.spotify.com/track/133m9xVMTdOifqyohjzby9"
     },
     {
       "added_at": "2026-06-12 09:04:34",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "Green Space",
-        "url": "https://open.spotify.com/album/1zWbx1C3N8UYFOKiUCXXFu"
-      },
-      "artists": [
-        {
-          "name": "Escix V",
-          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Green Space",
-      "url": "https://open.spotify.com/track/7JMljrokqhDuXXtghWokEE"
-    },
-    {
-      "added_at": "2026-06-12 09:04:34",
-      "album": {
         "name": "Ocean Mist",
         "url": "https://open.spotify.com/album/713IgaOvTqGw9jUgsmyFvY"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 151254,
       "name": "Ocean Mist",
       "url": "https://open.spotify.com/track/7v7QlWId44VVGz455UMXmE"
+    },
+    {
+      "added_at": "2026-06-12 09:04:34",
+      "album": {
+        "name": "Green Space",
+        "url": "https://open.spotify.com/album/1zWbx1C3N8UYFOKiUCXXFu"
+      },
+      "artists": [
+        {
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Green Space",
+      "url": "https://open.spotify.com/track/7JMljrokqhDuXXtghWokEE"
     },
     {
       "added_at": "2026-06-12 09:04:34",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "Fishermans Village",
-        "url": "https://open.spotify.com/album/1lmFb29PYY0c5rRa3w12ni"
-      },
-      "artists": [
-        {
-          "name": "Harada Mi",
-          "url": "https://open.spotify.com/artist/5rs1agOCZ8aRR9uInxSrq3"
-        }
-      ],
-      "duration_ms": 157303,
-      "name": "Fishermans Village",
-      "url": "https://open.spotify.com/track/1Xg8CzWQX1tYZ5zfx54oFM"
-    },
-    {
-      "added_at": "2026-06-12 09:04:34",
-      "album": {
         "name": "Ebbs & Flows",
         "url": "https://open.spotify.com/album/6ZDRcURtL4TcxHb74e32Qe"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 150000,
       "name": "Ebbs & Flows",
       "url": "https://open.spotify.com/track/7smuc5FSIi34eM9ViLPiEl"
+    },
+    {
+      "added_at": "2026-06-12 09:04:34",
+      "album": {
+        "name": "Fishermans Village",
+        "url": "https://open.spotify.com/album/1lmFb29PYY0c5rRa3w12ni"
+      },
+      "artists": [
+        {
+          "name": "Harada Mi",
+          "url": "https://open.spotify.com/artist/5rs1agOCZ8aRR9uInxSrq3"
+        }
+      ],
+      "duration_ms": 157303,
+      "name": "Fishermans Village",
+      "url": "https://open.spotify.com/track/1Xg8CzWQX1tYZ5zfx54oFM"
     },
     {
       "added_at": "2026-06-12 09:04:34",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
+        "name": "Holy Waters",
+        "url": "https://open.spotify.com/album/0RPtoKCmbjHfbzY1WmQMWY"
+      },
+      "artists": [
+        {
+          "name": "Heal Divisions",
+          "url": "https://open.spotify.com/artist/0kAuGd32wX67fzHjIJtSWn"
+        }
+      ],
+      "duration_ms": 144046,
+      "name": "Holy Waters",
+      "url": "https://open.spotify.com/track/4BRo8Y4XlORmU3kzdgkk4h"
+    },
+    {
+      "added_at": "2026-06-12 09:04:34",
+      "album": {
         "name": "Oceanic Breathing",
         "url": "https://open.spotify.com/album/6eMHxOiVMQ7SVYIi2ZAeSt"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 181176,
       "name": "A New Wave",
       "url": "https://open.spotify.com/track/6rVPuBfXzKQCfloRxatSXs"
-    },
-    {
-      "added_at": "2026-06-12 09:04:34",
-      "album": {
-        "name": "Holy Waters",
-        "url": "https://open.spotify.com/album/0RPtoKCmbjHfbzY1WmQMWY"
-      },
-      "artists": [
-        {
-          "name": "Heal Divisions",
-          "url": "https://open.spotify.com/artist/0kAuGd32wX67fzHjIJtSWn"
-        }
-      ],
-      "duration_ms": 144046,
-      "name": "Holy Waters",
-      "url": "https://open.spotify.com/track/4BRo8Y4XlORmU3kzdgkk4h"
     },
     {
       "added_at": "2026-06-12 09:04:34",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "precious",
-        "url": "https://open.spotify.com/album/6nmYVTu0G7AW4pf7LJkWN4"
-      },
-      "artists": [
-        {
-          "name": "Fred Russ",
-          "url": "https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K"
-        }
-      ],
-      "duration_ms": 136375,
-      "name": "precious",
-      "url": "https://open.spotify.com/track/6X33ozLJBIbYDFnvqqmIFm"
-    },
-    {
-      "added_at": "2026-06-12 09:04:34",
-      "album": {
         "name": "Blue Dreams",
         "url": "https://open.spotify.com/album/6b6Lkkp7RpGB6fevcuc62j"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "The Time Of Waves (432 Hz)",
-        "url": "https://open.spotify.com/album/0MxKRqfQu0UbyhYWORetnB"
+        "name": "precious",
+        "url": "https://open.spotify.com/album/6nmYVTu0G7AW4pf7LJkWN4"
       },
       "artists": [
         {
-          "name": "Lusunzi",
-          "url": "https://open.spotify.com/artist/49HNtFHbhsCh56YvciuMVE"
+          "name": "Fred Russ",
+          "url": "https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K"
         }
       ],
-      "duration_ms": 190306,
-      "name": "The Time Of Waves (432 Hz)",
-      "url": "https://open.spotify.com/track/2bcbP6wGdsyTLFpHaO0Mhj"
+      "duration_ms": 136375,
+      "name": "precious",
+      "url": "https://open.spotify.com/track/6X33ozLJBIbYDFnvqqmIFm"
     },
     {
       "added_at": "2026-06-12 09:04:34",
@@ -1175,6 +1159,22 @@
       "duration_ms": 142000,
       "name": "Seas in Balance",
       "url": "https://open.spotify.com/track/3nZWbaCeHbuczBt6KrgerH"
+    },
+    {
+      "added_at": "2026-06-12 09:04:34",
+      "album": {
+        "name": "The Time Of Waves (432 Hz)",
+        "url": "https://open.spotify.com/album/0MxKRqfQu0UbyhYWORetnB"
+      },
+      "artists": [
+        {
+          "name": "Lusunzi",
+          "url": "https://open.spotify.com/artist/49HNtFHbhsCh56YvciuMVE"
+        }
+      ],
+      "duration_ms": 190306,
+      "name": "The Time Of Waves (432 Hz)",
+      "url": "https://open.spotify.com/track/2bcbP6wGdsyTLFpHaO0Mhj"
     },
     {
       "added_at": "2026-06-12 09:04:34",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "Arran",
-        "url": "https://open.spotify.com/album/0w6TCWiuzcqMzir4xGSdUB"
+        "name": "Synchrony",
+        "url": "https://open.spotify.com/album/4TpOJqxAzu1yb2DCwZcux0"
       },
       "artists": [
         {
-          "name": "Forrest Gomez",
-          "url": "https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q"
+          "name": "JourneyBox",
+          "url": "https://open.spotify.com/artist/0ocsTfx1K6pwl9U26u9sc1"
         }
       ],
-      "duration_ms": 172304,
-      "name": "Arran",
-      "url": "https://open.spotify.com/track/430fmJbxZcZVZHjRXPhIbe"
+      "duration_ms": 248917,
+      "name": "Breathe (In)",
+      "url": "https://open.spotify.com/track/6UekpPcGc2aDL7aS6dPxJI"
     },
     {
       "added_at": "2026-06-12 09:04:34",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "Synchrony",
-        "url": "https://open.spotify.com/album/4TpOJqxAzu1yb2DCwZcux0"
+        "name": "Arran",
+        "url": "https://open.spotify.com/album/0w6TCWiuzcqMzir4xGSdUB"
       },
       "artists": [
         {
-          "name": "JourneyBox",
-          "url": "https://open.spotify.com/artist/0ocsTfx1K6pwl9U26u9sc1"
+          "name": "Forrest Gomez",
+          "url": "https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q"
         }
       ],
-      "duration_ms": 248917,
-      "name": "Breathe (In)",
-      "url": "https://open.spotify.com/track/6UekpPcGc2aDL7aS6dPxJI"
+      "duration_ms": 172304,
+      "name": "Arran",
+      "url": "https://open.spotify.com/track/430fmJbxZcZVZHjRXPhIbe"
     },
     {
       "added_at": "2026-06-12 09:04:34",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "Warm Sandy Beaches",
-        "url": "https://open.spotify.com/album/5a6OSIShhRhtxoWGULsFBU"
-      },
-      "artists": [
-        {
-          "name": "Quiet Point",
-          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
-        }
-      ],
-      "duration_ms": 182727,
-      "name": "Warm Sandy Beaches",
-      "url": "https://open.spotify.com/track/0KhOTvGKDNSP2fNmzbpNJX"
-    },
-    {
-      "added_at": "2026-06-12 09:04:34",
-      "album": {
         "name": "Calming Seas",
         "url": "https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 161750,
       "name": "Deep Cove",
       "url": "https://open.spotify.com/track/24UKwKhTpYoFYD5p6VHDEi"
+    },
+    {
+      "added_at": "2026-06-12 09:04:34",
+      "album": {
+        "name": "Warm Sandy Beaches",
+        "url": "https://open.spotify.com/album/5a6OSIShhRhtxoWGULsFBU"
+      },
+      "artists": [
+        {
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+        }
+      ],
+      "duration_ms": 182727,
+      "name": "Warm Sandy Beaches",
+      "url": "https://open.spotify.com/track/0KhOTvGKDNSP2fNmzbpNJX"
     },
     {
       "added_at": "2026-06-12 09:04:34",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "Pra Ae",
-        "url": "https://open.spotify.com/album/50y0X3amN6i9ekVr9tggXU"
-      },
-      "artists": [
-        {
-          "name": "Forrest Gomez",
-          "url": "https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q"
-        }
-      ],
-      "duration_ms": 137666,
-      "name": "Pra Ae",
-      "url": "https://open.spotify.com/track/0PZQezoyHDKnpk28LwAtfc"
-    },
-    {
-      "added_at": "2026-06-12 09:04:34",
-      "album": {
         "name": "Atomos Atmos",
         "url": "https://open.spotify.com/album/3RsB5t1TpWqsZJ7xmC1vZc"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "Melu",
-        "url": "https://open.spotify.com/album/2lmQPms03gfoixIfZJ6h7r"
+        "name": "Pra Ae",
+        "url": "https://open.spotify.com/album/50y0X3amN6i9ekVr9tggXU"
       },
       "artists": [
         {
-          "name": "Livrunna",
-          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+          "name": "Forrest Gomez",
+          "url": "https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q"
         }
       ],
-      "duration_ms": 182375,
-      "name": "Melu",
-      "url": "https://open.spotify.com/track/36Bye5FdbcXLd6AiHIhfbY"
+      "duration_ms": 137666,
+      "name": "Pra Ae",
+      "url": "https://open.spotify.com/track/0PZQezoyHDKnpk28LwAtfc"
     },
     {
       "added_at": "2026-06-12 09:04:34",
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
+        "name": "Melu",
+        "url": "https://open.spotify.com/album/2lmQPms03gfoixIfZJ6h7r"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "duration_ms": 182375,
+      "name": "Melu",
+      "url": "https://open.spotify.com/track/36Bye5FdbcXLd6AiHIhfbY"
+    },
+    {
+      "added_at": "2026-06-12 09:04:34",
+      "album": {
         "name": "Enlightened Adrift",
         "url": "https://open.spotify.com/album/3cA59rCXHo1nQETme2Musp"
       },
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "Gently Rising",
-        "url": "https://open.spotify.com/album/5iFfvWhsBoA1fggxtFZqsx"
-      },
-      "artists": [
-        {
-          "name": "Nash Parker",
-          "url": "https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK"
-        }
-      ],
-      "duration_ms": 173166,
-      "name": "Gently Rising",
-      "url": "https://open.spotify.com/track/4vd9CyTzJ2kFkqYUSgycTT"
-    },
-    {
-      "added_at": "2026-06-12 09:04:34",
-      "album": {
         "name": "Lumino",
         "url": "https://open.spotify.com/album/5YlsKz9vxUCNUhtdYlLO3k"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 130612,
       "name": "Lumino",
       "url": "https://open.spotify.com/track/4a2GwfS0VGVv39t5rGlBh3"
+    },
+    {
+      "added_at": "2026-06-12 09:04:34",
+      "album": {
+        "name": "Gently Rising",
+        "url": "https://open.spotify.com/album/5iFfvWhsBoA1fggxtFZqsx"
+      },
+      "artists": [
+        {
+          "name": "Nash Parker",
+          "url": "https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK"
+        }
+      ],
+      "duration_ms": 173166,
+      "name": "Gently Rising",
+      "url": "https://open.spotify.com/track/4vd9CyTzJ2kFkqYUSgycTT"
     },
     {
       "added_at": "2026-06-12 09:04:34",

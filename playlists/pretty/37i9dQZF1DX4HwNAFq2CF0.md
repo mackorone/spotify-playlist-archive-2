@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 
 > The hits that keep on rocking your world\. Cover: Angine de Poitrine
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,655 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,660 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 | 34 | [Glitter & Gold](https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 2:56 |
 | 35 | [parents](https://open.spotify.com/track/5v4OkFH0TJ6W1hCFxyn0px) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:51 |
 | 36 | [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 |
-| 37 | [The Suburbs](https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs \(Deluxe\)](https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F) | 5:15 |
-| 38 | [Shotgun Blues](https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:27 |
+| 37 | [Shotgun Blues](https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:27 |
+| 38 | [The Suburbs](https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs \(Deluxe\)](https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F) | 5:15 |
 | 39 | [Watch The World Burn](https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Watch The World Burn](https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE) | 3:23 |
 | 40 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 |
 | 41 | [Talk Too Much](https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 3:08 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 | 44 | [Sarniezz](https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.II](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo) | 4:35 |
 | 45 | [By a Monster’s Hand](https://open.spotify.com/track/6okhNU97I9bKQ1wCbtleOQ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [God Of Angels Trust](https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC) | 3:42 |
 | 46 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |
-| 47 | [Going Shopping](https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Going Shopping](https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI) | 4:21 |
-| 48 | [Shot In The Dark](https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:05 |
+| 47 | [Shot In The Dark](https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:05 |
+| 48 | [Going Shopping](https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Going Shopping](https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI) | 4:21 |
 | 49 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 |
 | 50 | [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 |
 | 51 | [Landmines](https://open.spotify.com/track/5Zq5HHYL8YX2U1S5hY5tRZ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:55 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 | 85 | [Lux Æterna](https://open.spotify.com/track/0QfZ8OHFnFzLe66iFBww2U) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/4nQohOCgjIAlnRmqUVYaSv) | 3:25 |
 | 86 | [S.O.S\. \(Sawed Off Shotgun\)](https://open.spotify.com/track/7BPCF0Q5xcZFzIemLlKph5) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Young Beauties and Fools](https://open.spotify.com/album/1YExkEfG8yevSjaWg5Z8xv) | 3:15 |
 | 87 | [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 |
-| 88 | [Violins](https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Violins](https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy) | 4:10 |
-| 89 | [When I'm Gone](https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7) | 3:25 |
-| 90 | [Always There](https://open.spotify.com/track/2xQJwReGvxioWM9jeehAEh) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Always There](https://open.spotify.com/album/414wrfaGvmBqnPt3iqT5ZV) | 5:22 |
+| 88 | [When I'm Gone](https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7) | 3:25 |
+| 89 | [Always There](https://open.spotify.com/track/2xQJwReGvxioWM9jeehAEh) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Always There](https://open.spotify.com/album/414wrfaGvmBqnPt3iqT5ZV) | 5:22 |
+| 90 | [Violins](https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Violins](https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy) | 4:10 |
 | 91 | [Explode!](https://open.spotify.com/track/1ROCJzbhjpP7uYRrse4fzf) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Grief Chapter](https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU) | 2:31 |
 | 92 | [You Make Me Feel Like It’s Halloween](https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:00 |
 | 93 | [Again](https://open.spotify.com/track/79wVMF2iOCML96gdWYqO9L) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [The Human Condition](https://open.spotify.com/album/6B5lqns5bfyeAStm1vLj9e) | 3:55 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 | 96 | [GODDESS](https://open.spotify.com/track/1ZngTOTM9nWJZOnG3vWkUF) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy) | 2:32 |
 | 97 | [Knocking At The Door](https://open.spotify.com/track/01afuV689RNz1MKDhGuwWG) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Morning Report \(Deluxe\)](https://open.spotify.com/album/2qzcSOkX6xYvlC2RPAqboQ) | 3:42 |
 | 98 | [T\-Shirt](https://open.spotify.com/track/6T0Nh56rt7qHHaG6tAcGiz) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Late Show](https://open.spotify.com/album/3UC6PUVkyKlZ2ygOYH2RGN) | 3:06 |
-| 99 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2meH4dMuvGlooo2tpiPjJp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:47 |
-| 100 | [Sans Soleil](https://open.spotify.com/track/2HxHylSuO7W9hLL2t1Dk3s) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 5:04 |
+| 99 | [Together Right](https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Together Right](https://open.spotify.com/album/5wiYwpkw5aYVKIot1wmrO9) | 3:01 |
+| 100 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2meH4dMuvGlooo2tpiPjJp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:47 |
 
 Snapshot ID: `AAAAABAJPQ+IRKGXDXBBXH1MEWGMiNba`

@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 908958,
+  "num_followers": 909175,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -215,18 +215,18 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
-        "name": "Bass Electronic",
-        "url": "https://open.spotify.com/album/0YzPt9qBgevGuh1BWGZ6Dr"
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ"
       },
       "artists": [
         {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
         }
       ],
-      "duration_ms": 325970,
-      "name": "Call It What You Like",
-      "url": "https://open.spotify.com/track/0o92pLHQhjyP2FdieF7xqw"
+      "duration_ms": 236249,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/4F1J5Y890NaaTUOumYzYUX"
     },
     {
       "added_at": "2026-08-20 23:00:38",
@@ -247,18 +247,18 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
-        "name": "Free Your Mind",
-        "url": "https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ"
+        "name": "Bass Electronic",
+        "url": "https://open.spotify.com/album/0YzPt9qBgevGuh1BWGZ6Dr"
       },
       "artists": [
         {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
         }
       ],
-      "duration_ms": 236249,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/4F1J5Y890NaaTUOumYzYUX"
+      "duration_ms": 325970,
+      "name": "Call It What You Like",
+      "url": "https://open.spotify.com/track/0o92pLHQhjyP2FdieF7xqw"
     },
     {
       "added_at": "2026-08-20 23:00:38",
@@ -315,18 +315,22 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
-        "name": "Out of My Mind EP",
-        "url": "https://open.spotify.com/album/7ESPqDltGcBM5c01aH1prU"
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo"
       },
       "artists": [
         {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 204737,
-      "name": "Out of My Mind",
-      "url": "https://open.spotify.com/track/2FFwFlkKjKBSCdVpPf38Gj"
+      "duration_ms": 193384,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3"
     },
     {
       "added_at": "2026-08-20 23:00:38",
@@ -355,22 +359,18 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo"
+        "name": "Out of My Mind EP",
+        "url": "https://open.spotify.com/album/7ESPqDltGcBM5c01aH1prU"
       },
       "artists": [
         {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
         }
       ],
-      "duration_ms": 193384,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3"
+      "duration_ms": 204737,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/2FFwFlkKjKBSCdVpPf38Gj"
     },
     {
       "added_at": "2026-08-20 23:00:38",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
+        "name": "I Never Knew",
+        "url": "https://open.spotify.com/album/2w8spOidxh0RSjdRjXvd3r"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        }
+      ],
+      "duration_ms": 231680,
+      "name": "I Never Knew",
+      "url": "https://open.spotify.com/track/54vF34GSMXYZfjPXMsHYWf"
+    },
+    {
+      "added_at": "2026-08-20 23:00:38",
+      "album": {
         "name": "Party Started (feat. French Caviar)",
         "url": "https://open.spotify.com/album/3ctVYeZDf3nHqFk3j8mtfe"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 143801,
       "name": "Party Started (feat. French Caviar)",
       "url": "https://open.spotify.com/track/4KUvvPHDP6QEjs1T4ZIvA6"
-    },
-    {
-      "added_at": "2026-08-20 23:00:38",
-      "album": {
-        "name": "I Never Knew",
-        "url": "https://open.spotify.com/album/2w8spOidxh0RSjdRjXvd3r"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        }
-      ],
-      "duration_ms": 231680,
-      "name": "I Never Knew",
-      "url": "https://open.spotify.com/track/54vF34GSMXYZfjPXMsHYWf"
     },
     {
       "added_at": "2026-08-20 23:00:38",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
+        "name": "We Not Tired",
+        "url": "https://open.spotify.com/album/3DsheIzz2QBqCBs1pftrvG"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 172921,
+      "name": "We Not Tired",
+      "url": "https://open.spotify.com/track/76eRWUypaYjpJMhpHNtJJH"
+    },
+    {
+      "added_at": "2026-08-20 23:00:38",
+      "album": {
         "name": "Bad Wolf (feat. UNIIQU3)",
         "url": "https://open.spotify.com/album/2WKNLWyEI5gKbJ5Y9itEoL"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 185954,
       "name": "Bad Wolf (feat. UNIIQU3)",
       "url": "https://open.spotify.com/track/4S8bYzrUHwoAsPzJWRt4QM"
-    },
-    {
-      "added_at": "2026-08-20 23:00:38",
-      "album": {
-        "name": "We Not Tired",
-        "url": "https://open.spotify.com/album/3DsheIzz2QBqCBs1pftrvG"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 172921,
-      "name": "We Not Tired",
-      "url": "https://open.spotify.com/track/76eRWUypaYjpJMhpHNtJJH"
     },
     {
       "added_at": "2026-08-20 23:00:38",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/2mJ08Ks0w1VpU5g5LjgM6W"
+      },
+      "artists": [
+        {
+          "name": "Amine Edge",
+          "url": "https://open.spotify.com/artist/5iCqqgYu0T23xUwnBFGpU1"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/7qMxaJcpIGtxzEiovcnZ8A"
+    },
+    {
+      "added_at": "2026-08-20 23:00:38",
+      "album": {
         "name": "Energy Crew Pt. 1",
         "url": "https://open.spotify.com/album/3pDBOAKDjXCYjLswTu6vMe"
       },
@@ -1351,22 +1371,18 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/2mJ08Ks0w1VpU5g5LjgM6W"
+        "name": "Lets Get High",
+        "url": "https://open.spotify.com/album/6qQZNrcx4UiexydAqe1jXV"
       },
       "artists": [
         {
-          "name": "Amine Edge",
-          "url": "https://open.spotify.com/artist/5iCqqgYu0T23xUwnBFGpU1"
-        },
-        {
-          "name": "Daecolm",
-          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
         }
       ],
-      "duration_ms": 219080,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/7qMxaJcpIGtxzEiovcnZ8A"
+      "duration_ms": 203114,
+      "name": "Lets Get High",
+      "url": "https://open.spotify.com/track/2QhWUUeC1C53aycexa4M1u"
     },
     {
       "added_at": "2026-08-20 23:00:38",
@@ -1387,22 +1403,6 @@
       "duration_ms": 207764,
       "name": "Change",
       "url": "https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk"
-    },
-    {
-      "added_at": "2026-08-20 23:00:38",
-      "album": {
-        "name": "Lets Get High",
-        "url": "https://open.spotify.com/album/6qQZNrcx4UiexydAqe1jXV"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        }
-      ],
-      "duration_ms": 203114,
-      "name": "Lets Get High",
-      "url": "https://open.spotify.com/track/2QhWUUeC1C53aycexa4M1u"
     },
     {
       "added_at": "2026-08-20 23:00:38",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
+        "name": "In Da Jungle",
+        "url": "https://open.spotify.com/album/6dplcmwBqhMrO1dKJw1qyz"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 164275,
+      "name": "In Da Jungle",
+      "url": "https://open.spotify.com/track/1Dya7Lh8cLYg6t1q100xpY"
+    },
+    {
+      "added_at": "2026-08-20 23:00:38",
+      "album": {
         "name": "Energy Crew Pt. 2",
         "url": "https://open.spotify.com/album/6IjmCOnZfPF1fsyxV2hDkQ"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 181374,
       "name": "Make You Sweat (feat. Amarha)",
       "url": "https://open.spotify.com/track/75BiU2s9nLodxFGiDoxWYc"
-    },
-    {
-      "added_at": "2026-08-20 23:00:38",
-      "album": {
-        "name": "In Da Jungle",
-        "url": "https://open.spotify.com/album/6dplcmwBqhMrO1dKJw1qyz"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 164275,
-      "name": "In Da Jungle",
-      "url": "https://open.spotify.com/track/1Dya7Lh8cLYg6t1q100xpY"
     },
     {
       "added_at": "2026-08-20 23:00:38",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
-        "name": "Work Your Body",
-        "url": "https://open.spotify.com/album/1OlYbgVXWSq1LtM1S7VWii"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 186776,
-      "name": "Work Your Body",
-      "url": "https://open.spotify.com/track/2eUZAef6lJ9hBvw7XeExDf"
-    },
-    {
-      "added_at": "2026-08-20 23:00:38",
-      "album": {
         "name": "Bad Bara",
         "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 245571,
       "name": "Bad Bara",
       "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
+    },
+    {
+      "added_at": "2026-08-20 23:00:38",
+      "album": {
+        "name": "Work Your Body",
+        "url": "https://open.spotify.com/album/1OlYbgVXWSq1LtM1S7VWii"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 186776,
+      "name": "Work Your Body",
+      "url": "https://open.spotify.com/track/2eUZAef6lJ9hBvw7XeExDf"
     },
     {
       "added_at": "2026-08-20 23:00:38",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
-        "name": "Steppin' In EP",
-        "url": "https://open.spotify.com/album/2V6SgJ13E9AFhpy1C6N06o"
-      },
-      "artists": [
-        {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
-        }
-      ],
-      "duration_ms": 165382,
-      "name": "Steppin' In",
-      "url": "https://open.spotify.com/track/17hXD675xObMcH0h6aIpHA"
-    },
-    {
-      "added_at": "2026-08-20 23:00:38",
-      "album": {
         "name": "Activated (I Just Wanna)",
         "url": "https://open.spotify.com/album/48ksaIe53knzMdF3Zvl8dc"
       },
@@ -1755,6 +1739,22 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
+        "name": "Steppin' In EP",
+        "url": "https://open.spotify.com/album/2V6SgJ13E9AFhpy1C6N06o"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "duration_ms": 165382,
+      "name": "Steppin' In",
+      "url": "https://open.spotify.com/track/17hXD675xObMcH0h6aIpHA"
+    },
+    {
+      "added_at": "2026-08-20 23:00:38",
+      "album": {
         "name": "make your move",
         "url": "https://open.spotify.com/album/6oRqzKDM33wGQqY2XZLUmV"
       },
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
-        "name": "Body Action",
-        "url": "https://open.spotify.com/album/0fTpOaTU65zAIs6UCE1xig"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 331508,
-      "name": "Body Action",
-      "url": "https://open.spotify.com/track/2ehc5VYZ2ktmEQO90cYjnG"
-    },
-    {
-      "added_at": "2026-08-20 23:00:38",
-      "album": {
         "name": "Freaky",
         "url": "https://open.spotify.com/album/7i6Wz3tvYG2coehpE97RgC"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 120241,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/6orYXU56P1zLY9YUFX5zJV"
+    },
+    {
+      "added_at": "2026-08-20 23:00:38",
+      "album": {
+        "name": "Body Action",
+        "url": "https://open.spotify.com/album/0fTpOaTU65zAIs6UCE1xig"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 331508,
+      "name": "Body Action",
+      "url": "https://open.spotify.com/track/2ehc5VYZ2ktmEQO90cYjnG"
     },
     {
       "added_at": "2026-08-20 23:00:38",

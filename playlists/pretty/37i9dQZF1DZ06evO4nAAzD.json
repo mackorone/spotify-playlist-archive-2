@@ -1,12 +1,12 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 4455,
+  "num_followers": 4456,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABaVGN/GUrcMJblXLN6luae",
+  "snapshot_id": "apDPgAAAAADyNatFTZzu6sewEUEcL8cg",
   "tracks": [
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flash",
-        "url": "https://open.spotify.com/album/1VFyE0WYtCtWLZDU4HZCKD"
-      },
-      "artists": [
-        {
-          "name": "Mc Vittin PV",
-          "url": "https://open.spotify.com/artist/6fTuuqOYCnU7oleecp16zB"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 238075,
-      "name": "Flash",
-      "url": "https://open.spotify.com/track/31C6dstRTDMEK5tOpGWyIM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Na Onda do Boldo",
         "url": "https://open.spotify.com/album/1FEunMxrUJ7sJigVe74cL4"
       },
@@ -811,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Flash",
+        "url": "https://open.spotify.com/album/1VFyE0WYtCtWLZDU4HZCKD"
+      },
+      "artists": [
+        {
+          "name": "Mc Vittin PV",
+          "url": "https://open.spotify.com/artist/6fTuuqOYCnU7oleecp16zB"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 238075,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/31C6dstRTDMEK5tOpGWyIM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "24 Horas",
         "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
       },
@@ -831,38 +831,6 @@
       "duration_ms": 206197,
       "name": "24 Horas",
       "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Terror das Faixa Rosa",
-        "url": "https://open.spotify.com/album/3NYjHyeci4UIvLJ2wLDkpi"
-      },
-      "artists": [
-        {
-          "name": "DaPaz",
-          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
-        },
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "Mc KF",
-          "url": "https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf"
-        },
-        {
-          "name": "BR DA TIJUCA",
-          "url": "https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Terror das Faixa Rosa",
-      "url": "https://open.spotify.com/track/4g0gHjrnumFFPIOGt0NmWr"
     },
     {
       "added_at": null,
@@ -927,6 +895,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Terror das Faixa Rosa",
+        "url": "https://open.spotify.com/album/3NYjHyeci4UIvLJ2wLDkpi"
+      },
+      "artists": [
+        {
+          "name": "DaPaz",
+          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
+        },
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "Mc KF",
+          "url": "https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf"
+        },
+        {
+          "name": "BR DA TIJUCA",
+          "url": "https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Terror das Faixa Rosa",
+      "url": "https://open.spotify.com/track/4g0gHjrnumFFPIOGt0NmWr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bailean",
         "url": "https://open.spotify.com/album/6ZnZ9rmxOVPXHmdvMs5gyS"
       },
@@ -971,26 +971,6 @@
       "duration_ms": 184256,
       "name": "Nike Novo",
       "url": "https://open.spotify.com/track/6dvmKKxL0An5ynDVAAkAZy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Que Vai Ser de Mim",
-        "url": "https://open.spotify.com/album/3lJs7qtSqbET4XrQW2FUkk"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "O Que Vai Ser de Mim",
-      "url": "https://open.spotify.com/track/4ED0k4V55pOO64ShvYnvKc"
     },
     {
       "added_at": null,
@@ -1047,6 +1027,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Que Vai Ser de Mim",
+        "url": "https://open.spotify.com/album/3lJs7qtSqbET4XrQW2FUkk"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "O Que Vai Ser de Mim",
+      "url": "https://open.spotify.com/track/4ED0k4V55pOO64ShvYnvKc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poc Poc",
+        "url": "https://open.spotify.com/album/2xaNuhVlP39plZFv7kRjrc"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 212375,
+      "name": "Poc Poc",
+      "url": "https://open.spotify.com/track/6NXlMgjZkhqnAecJSuA90v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desfecho",
         "url": "https://open.spotify.com/album/6V2bSKag8gME9P1cT2f021"
       },
@@ -1095,8 +1111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poc Poc",
-        "url": "https://open.spotify.com/album/2xaNuhVlP39plZFv7kRjrc"
+        "name": "Decolar",
+        "url": "https://open.spotify.com/album/5qErOgyiAC2liZZ9PATIMi"
       },
       "artists": [
         {
@@ -1104,9 +1120,9 @@
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         }
       ],
-      "duration_ms": 212375,
-      "name": "Poc Poc",
-      "url": "https://open.spotify.com/track/6NXlMgjZkhqnAecJSuA90v"
+      "duration_ms": 196402,
+      "name": "Decolar",
+      "url": "https://open.spotify.com/track/1niFof33T1bYI9lU26mIg9"
     },
     {
       "added_at": null,
@@ -1199,22 +1215,6 @@
       "duration_ms": 399252,
       "name": "Set Dj Br da Tijuca 3",
       "url": "https://open.spotify.com/track/3bKUr5RKRMWK48T4Ar323W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Decolar",
-        "url": "https://open.spotify.com/album/5qErOgyiAC2liZZ9PATIMi"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 196402,
-      "name": "Decolar",
-      "url": "https://open.spotify.com/track/1niFof33T1bYI9lU26mIg9"
     },
     {
       "added_at": null,

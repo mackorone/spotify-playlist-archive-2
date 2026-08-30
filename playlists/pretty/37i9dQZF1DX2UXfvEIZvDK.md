@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 
 > Even rockers need a break.
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,502 likes - 80 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 947,556 likes - 80 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 12 | [The Kill \- Acoustic](https://open.spotify.com/track/3bedSjXvV2wByMkSf8cTx4) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie \(20 Year Anniversary\)](https://open.spotify.com/album/7agt72GwSxZYPmx4Uu8S3U) | 3:26 |
 | 13 | [Black](https://open.spotify.com/track/5Xak5fmy089t0FYmh3VJiY) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:42 |
 | 14 | [Stairway to Heaven \- Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 8:02 |
-| 15 | [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:33 |
-| 16 | [In the Air Tonight \- 2015 Remaster](https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Face Value \(Deluxe Editon\)](https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln) | 5:36 |
+| 15 | [In the Air Tonight \- 2015 Remaster](https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Face Value \(Deluxe Editon\)](https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln) | 5:36 |
+| 16 | [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:33 |
 | 17 | [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 |
 | 18 | [Days We Left Behind](https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Days We Left Behind](https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY) | 3:18 |
 | 19 | [I'm On Fire](https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 2:39 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 75 | [Impossible](https://open.spotify.com/track/4ZEvO7TZQTbUGJzqjcPFDD) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic](https://open.spotify.com/album/6afyaK8ihj33Chr7A7LqNI) | 4:08 |
 | 76 | [All In One Night](https://open.spotify.com/track/5JZdu2fK7qvJgg0DfVmJe5) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Scream Above the Sounds \(Deluxe Edition\)](https://open.spotify.com/album/3BiwYdv0OQRdCFB4OqUMiI) | 5:17 |
 | 77 | [Space](https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 3:55 |
-| 78 | [Way down We Go \- Stripped](https://open.spotify.com/track/1YA7YUyrxgSzf7IQDX1xcl) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Way down We Go \(Stripped\)](https://open.spotify.com/album/7n2OEdfF8dac71VQEekeP0) | 3:28 |
+| 78 | [Immortality](https://open.spotify.com/track/5TxUedy2CM04QihDdOFnsk) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vitalogy](https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy) | 5:28 |
 | 79 | [Thirty\-Three \- Remastered 2012](https://open.spotify.com/track/1fPKWu8NKS1ZGHjFZ5QCAs) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:10 |
-| 80 | [Immortality](https://open.spotify.com/track/5TxUedy2CM04QihDdOFnsk) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vitalogy](https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy) | 5:28 |
+| 80 | [Way down We Go \- Stripped](https://open.spotify.com/track/1YA7YUyrxgSzf7IQDX1xcl) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Way down We Go \(Stripped\)](https://open.spotify.com/album/7n2OEdfF8dac71VQEekeP0) | 3:28 |
 
 Snapshot ID: `AAAAAJ1vzn7KsiOgeCGxJgUHPM3Zoow/`

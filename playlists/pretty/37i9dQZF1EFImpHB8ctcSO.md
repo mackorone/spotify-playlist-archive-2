@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 94 | [The Other End \(Of The Telescope\)](https://open.spotify.com/track/031BORKOyhNOfhCaJEXc3R) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 3:51 |
 | 95 | [Ballantines](https://open.spotify.com/track/5kDodzIoHv0WNNtwoOsLLI) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers \(Deluxe\)](https://open.spotify.com/album/4UV5lFYjLb2fRBxBhK0wPy) | 2:21 |
 | 96 | [Red Flag Diver](https://open.spotify.com/track/6rWEXZ7XaV5ijYBKteeu5n) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/7cDFFy8X4ZgsBbQZeT6aUa) | 2:30 |
-| 97 | [Slip and Roll](https://open.spotify.com/track/2EKO7UUCBX6pJ6eJsCB5hq) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 4:12 |
+| 97 | [Slip and Roll](https://open.spotify.com/track/7Es6RafvzVCCHKnPjVtI3g) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/7cDFFy8X4ZgsBbQZeT6aUa) | 4:13 |
 | 98 | [Medicine Wheel](https://open.spotify.com/track/5NF3y5V3zN2swspWfZW6bK) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers \(Deluxe\)](https://open.spotify.com/album/4UV5lFYjLb2fRBxBhK0wPy) | 4:08 |
 | 99 | [The King of the Jailhouse](https://open.spotify.com/track/05ofQzVshh0SqVqawplofZ) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/55HdXJwG0d9iMaXgPrGmOg) | 5:19 |
 | 100 | [I Can't Get My Head Around It](https://open.spotify.com/track/3lPzZX513duhMXjtpBhfrn) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/55HdXJwG0d9iMaXgPrGmOg) | 3:37 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `Aca1FAAAAACACrx6UzMosp5ShvC8YOTr`
+Snapshot ID: `Aca6PAAAAACH90CR6LzOYs6v3txzgOZU`

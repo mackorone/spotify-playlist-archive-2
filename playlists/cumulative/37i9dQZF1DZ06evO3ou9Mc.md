@@ -4,7 +4,7 @@
 
 > This is The Offspring\. The essential tracks, all in one playlist.
 
-94 songs - 5 hr 3 min
+95 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Coming For You](https://open.spotify.com/track/0FLmCEO4OccwwiHxveEpt1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:48 | 2022-09-16 |  |
 | [Cool To Hate](https://open.spotify.com/track/3M3gKehdtIR2krOZfkw2iK) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 2:47 | 2022-09-16 |  |
 | [Dammit, I Changed Again](https://open.spotify.com/track/2wInvm8hrvonqyArYUIpvi) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 2:48 | 2022-09-16 |  |
-| [Days Go By](https://open.spotify.com/track/0wDgnPr6qmNH3I9EGsIRu2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 4:01 | 2022-09-16 |  |
+| [Days Go By](https://open.spotify.com/track/0wDgnPr6qmNH3I9EGsIRu2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 4:01 | 2022-09-16 | 2026-08-30 |
 | [Defy You](https://open.spotify.com/track/5VBVIcMh6CWy8szP3U0Ttp) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Greatest Hits](https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg) | 3:48 | 2022-09-16 |  |
 | [Dirty Magic](https://open.spotify.com/track/0iRJc27fHvcDd7D3mUlZZX) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 4:00 | 2022-09-16 |  |
 | [Dividing By Zero](https://open.spotify.com/track/2BWt8ozzFptUlrnCilgK6l) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 2:22 | 2022-09-16 |  |
@@ -46,6 +46,7 @@
 | [Have You Ever](https://open.spotify.com/track/2fIpea5Sh5celp8JRI7Z4U) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:56 | 2022-09-16 | 2024-07-23 |
 | [Hit That](https://open.spotify.com/track/3lfmqF0ULXRHlWxBeaHo3t) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Splinter](https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL) | 2:49 | 2022-09-16 |  |
 | [I Choose](https://open.spotify.com/track/19cjuo0y4w2my2GcybUunG) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 3:54 | 2022-09-16 | 2026-08-27 |
+| [I Wanna Be Sedated](https://open.spotify.com/track/6nTnjjkXY4UfqnU9bWpvIN) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [I Wanna Be Sedated](https://open.spotify.com/album/4qJLzNHA0SpvWb3JO3DiR5) | 2:25 | 2026-08-30 |  |
 | [I Wanna Secret Family \(With You\)](https://open.spotify.com/track/54swtHzNdIhNhCdEZD4hVY) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Running & Cycling with The Offspring](https://open.spotify.com/album/0nn7FHlAjD0xVNSPFisB2G) | 3:01 | 2025-08-30 | 2025-09-11 |
 | [It'll Be a Long Time](https://open.spotify.com/track/7AlhX0qiNi1zo2k9VPCSOg) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 2:43 | 2026-08-26 | 2026-08-27 |
 | [Jennifer Lost The War](https://open.spotify.com/track/1AeosetkVBmPqON7FkWSLu) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [The Offspring](https://open.spotify.com/album/39QzcBdUkrXWc7bhpW66p7) | 2:35 | 2023-11-10 | 2026-08-27 |

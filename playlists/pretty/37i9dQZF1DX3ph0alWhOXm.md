@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 
 > Let these country songs get your tailgate going!
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,791 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,796 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 | 13 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 |
 | 14 | [Dancin’ In The Country](https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Dancin' In The Country](https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn) | 2:59 |
 | 15 | [Neon Moon](https://open.spotify.com/track/2M38X60UJnupGPbFTkVPNQ) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Brand New Man](https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3) | 4:21 |
-| 16 | ['Til You Can't](https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:44 |
-| 17 | [Mexico Honey](https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:43 |
+| 16 | [Mexico Honey](https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:43 |
+| 17 | ['Til You Can't](https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:44 |
 | 18 | [Brunette](https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [What Not To](https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl) | 2:19 |
 | 19 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 |
 | 20 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 |
@@ -67,15 +67,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 | 57 | [Dust On The Bottle](https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI) | [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [Out With A Bang](https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9) | 3:44 |
 | 58 | [Shoot Tequila](https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Shoot Tequila](https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q) | 3:13 |
 | 59 | [Take A Back Road](https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [Take A Back Road](https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp) | 3:28 |
-| 60 | [Get Along](https://open.spotify.com/track/6n6OQfBpCgzF9oEg8zhBN7) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Songs for the Saints](https://open.spotify.com/album/77spqXa3VNN0mw13PgWWyY) | 3:19 |
-| 61 | [Strawberry Wine](https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Did I Shave My Legs For This?](https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn) | 4:51 |
+| 60 | [Strawberry Wine](https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Did I Shave My Legs For This?](https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn) | 4:51 |
+| 61 | [Get Along](https://open.spotify.com/track/6n6OQfBpCgzF9oEg8zhBN7) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Songs for the Saints](https://open.spotify.com/album/77spqXa3VNN0mw13PgWWyY) | 3:19 |
 | 62 | [House Party](https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:10 |
 | 63 | [Boondocks](https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 4:32 |
 | 64 | [Singles You Up](https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:02 |
 | 65 | [Back in the Saddle](https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Back in the Saddle](https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ) | 3:33 |
 | 66 | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ) | 3:01 |
-| 67 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
-| 68 | [Rain Is A Good Thing](https://open.spotify.com/track/1YhFtqwcN138S6ng3MT1nN) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Doin' My Thing](https://open.spotify.com/album/13pqUKo7eRvMKFGpfCGyEF) | 2:56 |
+| 67 | [Rain Is A Good Thing](https://open.spotify.com/track/1YhFtqwcN138S6ng3MT1nN) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Doin' My Thing](https://open.spotify.com/album/13pqUKo7eRvMKFGpfCGyEF) | 2:56 |
+| 68 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
 | 69 | [Take It From Me](https://open.spotify.com/track/3dCZm5HrG0jIXAHfNkg2H0) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 2:54 |
 | 70 | [All My Exes \(feat\. Chase Matthew\)](https://open.spotify.com/track/0cjJKsmTPUZeZY5A9IyXca) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [All My Exes](https://open.spotify.com/album/6zGfim0ztjuT7qnXXXEDcW) | 2:53 |
 | 71 | [Blue Jean Baby](https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Blue Jean Baby](https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs) | 2:12 |

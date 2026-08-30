@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "IT REALLY DO BE THAT DAMN PHONE",
+        "url": "https://open.spotify.com/album/2Ot35WxIvKSnluiocFy5gb"
+      },
+      "artists": [
+        {
+          "name": "ERISTHEPLANET",
+          "url": "https://open.spotify.com/artist/7qrlv2SiNqUaQT7dBuUHn3"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114400,
+      "name": "8 FEET TALL (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/2uGyUOy5RSYW5XTe4dlgMu"
+    },
+    {
+      "album": {
         "name": "8 FEET TALL (feat. Rico Nasty)",
         "url": "https://open.spotify.com/album/6ezm2DsMmRkgrz4VUdGMgl"
       },
@@ -64,7 +86,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 114400,
       "name": "8 FEET TALL (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/3RnrYvR5yQah7DirzrmORC"

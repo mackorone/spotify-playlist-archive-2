@@ -662,7 +662,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 288671,
       "name": "4x4",
       "url": "https://open.spotify.com/track/04hw9znPUYJavSYhw9FyoU"
@@ -2351,6 +2351,28 @@
     },
     {
       "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Crecer German",
+          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166052,
+      "name": "Apelativo",
+      "url": "https://open.spotify.com/track/0TptnLmHfkpcGOqNuzsiPi"
+    },
+    {
+      "album": {
         "name": "Aperture",
         "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
       },
@@ -2384,6 +2406,24 @@
       "duration_ms": 169402,
       "name": "Aprevenido",
       "url": "https://open.spotify.com/track/0grLDu7Ix5QvYfBPJctCpm"
+    },
+    {
+      "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169402,
+      "name": "Aprevenido",
+      "url": "https://open.spotify.com/track/2T0bAY6EvvaZx9r9SqutlS"
     },
     {
       "album": {
@@ -5936,7 +5976,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 167146,
       "name": "Condenados",
       "url": "https://open.spotify.com/track/4NfWpoovz1tPDLM1ehoFkz"
@@ -6046,7 +6086,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 241648,
       "name": "COQUETA",
       "url": "https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV"
@@ -6147,6 +6187,24 @@
     },
     {
       "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138972,
+      "name": "CR7",
+      "url": "https://open.spotify.com/track/2aeeDXCFgsCdyehJ1n1zWs"
+    },
+    {
+      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -6216,7 +6274,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/1WkYhJMWhofw1XgVWfdMWE"
@@ -7470,6 +7528,28 @@
       "duration_ms": 161494,
       "name": "Doble Vaso",
       "url": "https://open.spotify.com/track/6DlxxuLfJLZlynCWolPcGB"
+    },
+    {
+      "album": {
+        "name": "WET DREAMS",
+        "url": "https://open.spotify.com/album/0LChGT5a0cKlkVJhRAE2vr"
+      },
+      "artists": [
+        {
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190875,
+      "name": "DOLCE VITA",
+      "url": "https://open.spotify.com/track/3PDMeYtw16N5rW5aIuZXw7"
     },
     {
       "album": {
@@ -9736,7 +9816,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 204768,
       "name": "EoO",
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
@@ -10034,7 +10114,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 187076,
       "name": "EXCESOS",
       "url": "https://open.spotify.com/track/6UtWwuheJr5LLDeVypPNx7"
@@ -10512,6 +10592,24 @@
       "duration_ms": 336026,
       "name": "FREESTYLE",
       "url": "https://open.spotify.com/track/7FcV9ysZVFnmAOYwipRSGp"
+    },
+    {
+      "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175508,
+      "name": "Frente a Frente",
+      "url": "https://open.spotify.com/track/035b3zWZOwsBYyjevY0Iec"
     },
     {
       "album": {
@@ -13133,6 +13231,28 @@
     },
     {
       "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175980,
+      "name": "La Cherokee",
+      "url": "https://open.spotify.com/track/0ZtDk3ifzh53CBi9T8qFHh"
+    },
+    {
+      "album": {
         "name": "$AD BOYZ 4 LIFE II",
         "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
       },
@@ -13434,6 +13554,24 @@
       "duration_ms": 262883,
       "name": "LA DURANGO",
       "url": "https://open.spotify.com/track/5jVExEArvISIYu8mamVgfV"
+    },
+    {
+      "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176230,
+      "name": "La Factura",
+      "url": "https://open.spotify.com/track/41sOOY5ifowka7cCtzLTvR"
     },
     {
       "album": {
@@ -16199,6 +16337,24 @@
     },
     {
       "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221082,
+      "name": "Mar Azul",
+      "url": "https://open.spotify.com/track/16x23W9udcF7iPcNfU4k28"
+    },
+    {
+      "album": {
         "name": "Mar y Tierra",
         "url": "https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w"
       },
@@ -18740,7 +18896,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 204321,
       "name": "Noche Perfecta",
       "url": "https://open.spotify.com/track/3DEPnIQZWIcpRUwH5O0J6O"
@@ -19456,6 +19612,32 @@
       "duration_ms": 243496,
       "name": "P.V.",
       "url": "https://open.spotify.com/track/24jE1QNIeA9HH3WOaGjE9s"
+    },
+    {
+      "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159937,
+      "name": "Pa la Ma\u00f1a",
+      "url": "https://open.spotify.com/track/2c5rzGmPdjADqPcoyrI6lO"
     },
     {
       "album": {
@@ -20925,6 +21107,24 @@
     },
     {
       "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202790,
+      "name": "Por Amarte As\u00ed",
+      "url": "https://open.spotify.com/track/3O3bL4mhBEm5oSjT0GRyQ8"
+    },
+    {
+      "album": {
         "name": "Por Dentro",
         "url": "https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4"
       },
@@ -21156,7 +21356,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 186142,
       "name": "POR SUS BESOS",
       "url": "https://open.spotify.com/track/7J0POh3pJKSmirVOsW4qnP"
@@ -21612,7 +21812,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 141607,
       "name": "PUES QUE LE HAGO ?",
       "url": "https://open.spotify.com/track/1qiWVzOApnT0lLLQofPr1S"
@@ -25438,7 +25638,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -26292,7 +26492,7 @@
       ],
       "date_added": "2021-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
@@ -29658,6 +29858,24 @@
       "duration_ms": 184095,
       "name": "\u00c1NGEL",
       "url": "https://open.spotify.com/track/4JtKlgBLKHtRTqixKHrrw8"
+    },
+    {
+      "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198723,
+      "name": "\u00c6ternum",
+      "url": "https://open.spotify.com/track/7GyB9SbHoiWnU1RgdvL6Kr"
     },
     {
       "album": {

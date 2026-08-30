@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Mannda Lym e mais mulheres incríveis no volume máximo! Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:78WvOgIBo2emAnJLbv7nXO">Mannda Lym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,417 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,404 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 17 | [AMANHÃ](https://open.spotify.com/track/7CAc04zrV9DQlxoxjjpQsq) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [MAIS FORTE QUE A DÚVIDA](https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n) | 2:56 |
 | 18 | [Casa de Noca](https://open.spotify.com/track/2CNz3RMSyPMb9OWaPLU6CS) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Samba Meu](https://open.spotify.com/album/6oExFGPwXHfHwBFsgQsUC9) | 3:10 |
 | 19 | [De Pouco a Pouco \- Ao Vivo](https://open.spotify.com/track/56YhyWf8hkBLoRMvBJrlIS) | [Raquel Moreira](https://open.spotify.com/artist/0jOjMC9tgSOe9f0XGocZnd) | [De Pouco a Pouco \(Ao Vivo\)](https://open.spotify.com/album/65x9tbSbI1wJmIeisC0mDY) | 4:48 |
-| 20 | [Tua \- Ao Vivo](https://open.spotify.com/track/6NYGIhDbUMfAZgBYt11c5Z) | [Amanda Amado](https://open.spotify.com/artist/5XxWSpbD4LTTKYnKxJVZPD) | [Tua \(Ao Vivo\)](https://open.spotify.com/album/0o1WUvRXTUtf96kmcMfsDW) | 2:50 |
-| 21 | [Leve](https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Améfrica](https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE) | 3:27 |
+| 20 | [Leve](https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Améfrica](https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE) | 3:27 |
+| 21 | [Tua \- Ao Vivo](https://open.spotify.com/track/6NYGIhDbUMfAZgBYt11c5Z) | [Amanda Amado](https://open.spotify.com/artist/5XxWSpbD4LTTKYnKxJVZPD) | [Tua \(Ao Vivo\)](https://open.spotify.com/album/0o1WUvRXTUtf96kmcMfsDW) | 2:50 |
 | 22 | [A Menina Dança](https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [A Menina Dança](https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq) | 2:57 |
 | 23 | [Pagode de Mulher](https://open.spotify.com/track/6LeFKU9Jl3tdfrhKZzBwqu) | [Mannda Lym](https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO), [Raquel Moreira](https://open.spotify.com/artist/0jOjMC9tgSOe9f0XGocZnd), [BEA](https://open.spotify.com/artist/1ibVD2wOxgrsrbsOQbJCCy), [Libna Winnie](https://open.spotify.com/artist/6J3zMMWxQLbS10TxRiiJAN) | [Pagode de Mulher](https://open.spotify.com/album/3k3Jo3udbIGxfaneTsUNfB) | 3:42 |
 | 24 | [Jogou Aonde](https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Jogou Aonde](https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo) | 2:38 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 29 | [Segura Minha Mão](https://open.spotify.com/track/6aktgiF9qEDr2c7MX3kBJY) | [Lais Bianchessi](https://open.spotify.com/artist/07VC3ObjCMjhPFwAJxs1Nj) | [Segura Minha Mão](https://open.spotify.com/album/0URk62oupLW4NWsBJYjWhp) | 2:51 |
 | 30 | [Pedaco De Ilusão](https://open.spotify.com/track/2FEUQ8P09HoJPgKnv2BFLH) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Pagode De Mesa \(Ao Vivo\)](https://open.spotify.com/album/1ru3xsV3Q957Kjzz81oo8m) | 3:08 |
 | 31 | [Coração Melão](https://open.spotify.com/track/5WJl5D5BtJ1m0DIj6ZKOzT) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N), [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Coração Melão](https://open.spotify.com/album/6M6JvZ9nPuldJZHe99vInD) | 4:18 |
-| 32 | [Janeiro](https://open.spotify.com/track/1Bpmp677mPp8sMVSS0zl5s) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Janeiro](https://open.spotify.com/album/5CnpwfsEEbxaKEoEDTgfn2) | 3:10 |
-| 33 | [Fuso Horário \- Ao Vivo](https://open.spotify.com/track/4ajfctrkPbXOaU7JblpCST) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP) | [Resenha das Minas 2 \(Ao Vivo\)](https://open.spotify.com/album/04DLIEUzzTn3ojH7601CBS) | 3:06 |
+| 32 | [Fuso Horário \- Ao Vivo](https://open.spotify.com/track/4ajfctrkPbXOaU7JblpCST) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP) | [Resenha das Minas 2 \(Ao Vivo\)](https://open.spotify.com/album/04DLIEUzzTn3ojH7601CBS) | 3:06 |
+| 33 | [Janeiro](https://open.spotify.com/track/1Bpmp677mPp8sMVSS0zl5s) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Janeiro](https://open.spotify.com/album/5CnpwfsEEbxaKEoEDTgfn2) | 3:10 |
 | 34 | [INCOMUM](https://open.spotify.com/track/0ZjG6xiuxccP2EvMPjQrjb) | [Jenni Mosello](https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [BRava](https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH) | 2:54 |
 | 35 | [Alto Preço](https://open.spotify.com/track/3r5YGpZC57ee9l7dKLDsIm) | [Libna Winnie](https://open.spotify.com/artist/6J3zMMWxQLbS10TxRiiJAN) | [Alto Preço](https://open.spotify.com/album/10xQyAREvJCX5VxzfdCFlr) | 3:12 |
 | 36 | [Amor de Hoje](https://open.spotify.com/track/3VIYX0f6sym9kw7ixKVCrr) | [Júlia Rocha](https://open.spotify.com/artist/53UPZ6NI8MSbfP7DMtMjTq) | [Cheiro de Flor](https://open.spotify.com/album/7kdd5WrNFHuw6NyaNL2UvD) | 3:22 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 116890,
+  "num_followers": 116932,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAACJcgWpN9sXC+E2d6CfaQPq",
+  "snapshot_id": "apDPgAAAAADBdIZsoHeInTL2KQV17fbW",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
-        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Dirty Looks",
-      "url": "https://open.spotify.com/track/45EwtYrnqJH3AH2bFpEOC6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nice To Meet You (feat. Lainey Wilson)",
         "url": "https://open.spotify.com/album/72T4AbLCP6vmRzA5C2iLFi"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 176000,
       "name": "Nice To Meet You (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/2tQSuufhS5XHz0E8EBi55M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Dirty Looks",
+      "url": "https://open.spotify.com/track/45EwtYrnqJH3AH2bFpEOC6"
     },
     {
       "added_at": null,
@@ -323,66 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F-1 Trillion",
-        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 192459,
-      "name": "Nosedive (Feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/25uMKq5kygC2woAfeetEfE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whirlwind",
-        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 237773,
-      "name": "Good Horses - feat. Miranda Lambert",
-      "url": "https://open.spotify.com/track/6cUJmzU24GorRheKghmNkY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Jesus I Know Now",
-        "url": "https://open.spotify.com/album/7lnIDIoFSoHRRx2XJTsxju"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 213771,
-      "name": "The Jesus I Know Now",
-      "url": "https://open.spotify.com/track/5b1kZLzylm4PWvlX6DEklE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Light of a Clear Blue Morning",
         "url": "https://open.spotify.com/album/6YExDnUZUEXINyiPGk3FMz"
       },
@@ -411,6 +351,66 @@
       "duration_ms": 227692,
       "name": "Light of a Clear Blue Morning",
       "url": "https://open.spotify.com/track/5yoMf4Jx2PGNFybDuWNdvE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 237773,
+      "name": "Good Horses - feat. Miranda Lambert",
+      "url": "https://open.spotify.com/track/6cUJmzU24GorRheKghmNkY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 192459,
+      "name": "Nosedive (Feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/25uMKq5kygC2woAfeetEfE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Jesus I Know Now",
+        "url": "https://open.spotify.com/album/7lnIDIoFSoHRRx2XJTsxju"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 213771,
+      "name": "The Jesus I Know Now",
+      "url": "https://open.spotify.com/track/5b1kZLzylm4PWvlX6DEklE"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+      "url": "https://open.spotify.com/track/5AzFlhzijKM7xFPY5b1taP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unlocked",
         "url": "https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 179811,
       "name": "Thicc As Thieves (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/75UueUZoKTAcpXlc3EOlYF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
-        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 201653,
-      "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
-      "url": "https://open.spotify.com/track/5AzFlhzijKM7xFPY5b1taP"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "Straight Up Sideways",
+      "url": "https://open.spotify.com/track/7E4ijYR8LB9gQ5gHHc3ljT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wild Woman (Lainey Wilson Version)",
         "url": "https://open.spotify.com/album/4AXJv2lxOUj6eOyMRxJ2gA"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 212175,
       "name": "Wild Woman - Lainey Wilson Version",
       "url": "https://open.spotify.com/track/1Dl7benysRqzPFFynBmYCt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
-        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 176053,
-      "name": "Straight Up Sideways",
-      "url": "https://open.spotify.com/track/7E4ijYR8LB9gQ5gHHc3ljT"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whirlwind (Deluxe)",
-        "url": "https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 184453,
-      "name": "Yesterday, All Day, Every Day",
-      "url": "https://open.spotify.com/track/6g3b9wRGkNqxwWmhRkLc7O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
         "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 140413,
       "name": "WWDD",
       "url": "https://open.spotify.com/track/7AXmVQNJ93e9k2TLLU3ybl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whirlwind (Deluxe)",
+        "url": "https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 184453,
+      "name": "Yesterday, All Day, Every Day",
+      "url": "https://open.spotify.com/track/6g3b9wRGkNqxwWmhRkLc7O"
     },
     {
       "added_at": null,
@@ -887,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whirlwind (Deluxe)",
-        "url": "https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ"
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 192733,
-      "name": "King Ranch, King George, King James",
-      "url": "https://open.spotify.com/track/0rKZpg1YUavHMFf9iRpwCq"
+      "duration_ms": 169440,
+      "name": "Pipe",
+      "url": "https://open.spotify.com/track/6KQmv05z5qkd6D6f75Mqxd"
     }
   ],
   "unique_name": "This Is Lainey Wilson",

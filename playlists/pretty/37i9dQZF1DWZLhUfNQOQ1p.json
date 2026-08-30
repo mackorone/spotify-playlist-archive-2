@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano \ud83e\udd43",
-  "num_followers": 252843,
+  "num_followers": 252835,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,18 @@
     {
       "added_at": "2026-08-27 22:02:29",
       "album": {
-        "name": "Serotonin Moonbeams",
-        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
+        "name": "Goodbye Country (Hello Nightclub)",
+        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
       },
       "artists": [
         {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "Uffie",
-          "url": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
         }
       ],
-      "duration_ms": 287440,
-      "name": "Serotonin Moonbeams",
-      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
+      "duration_ms": 300266,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir"
     },
     {
       "added_at": "2026-08-27 22:02:29",
@@ -703,18 +699,22 @@
     {
       "added_at": "2026-08-27 22:02:29",
       "album": {
-        "name": "Goodbye Country (Hello Nightclub)",
-        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
+        "name": "Serotonin Moonbeams",
+        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
       },
       "artists": [
         {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Uffie",
+          "url": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
         }
       ],
-      "duration_ms": 300266,
-      "name": "My Friend",
-      "url": "https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir"
+      "duration_ms": 287440,
+      "name": "Serotonin Moonbeams",
+      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
     },
     {
       "added_at": "2026-08-27 22:02:29",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-08-27 22:02:29",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 393640,
+      "name": "At the River",
+      "url": "https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9"
+    },
+    {
+      "added_at": "2026-08-27 22:02:29",
+      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 344546,
       "name": "Keep the Fire Burning",
       "url": "https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c"
-    },
-    {
-      "added_at": "2026-08-27 22:02:29",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3JGwr1JkfpKcDfSONcGSgo"
-      },
-      "artists": [
-        {
-          "name": "Lazare",
-          "url": "https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd"
-        }
-      ],
-      "duration_ms": 150374,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/6hCB3wpkp9IDPYVG9OVerH"
     },
     {
       "added_at": "2026-08-27 22:02:29",
@@ -783,18 +783,18 @@
     {
       "added_at": "2026-08-27 22:02:29",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3JGwr1JkfpKcDfSONcGSgo"
       },
       "artists": [
         {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+          "name": "Lazare",
+          "url": "https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd"
         }
       ],
-      "duration_ms": 393640,
-      "name": "At the River",
-      "url": "https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9"
+      "duration_ms": 150374,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/6hCB3wpkp9IDPYVG9OVerH"
     },
     {
       "added_at": "2026-08-27 22:02:29",
@@ -851,18 +851,18 @@
     {
       "added_at": "2026-08-27 22:02:29",
       "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
+        "name": "Time for a Change",
+        "url": "https://open.spotify.com/album/5NPQ3KFdwLrZKuOebTAIzb"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
         }
       ],
-      "duration_ms": 200135,
-      "name": "Praja Magia",
-      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
+      "duration_ms": 270405,
+      "name": "Instant Need",
+      "url": "https://open.spotify.com/track/6obKvh06VvBZP98oqU6YR7"
     },
     {
       "added_at": "2026-08-27 22:02:29",
@@ -883,18 +883,18 @@
     {
       "added_at": "2026-08-27 22:02:29",
       "album": {
-        "name": "Time for a Change",
-        "url": "https://open.spotify.com/album/5NPQ3KFdwLrZKuOebTAIzb"
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
         }
       ],
-      "duration_ms": 270405,
-      "name": "Instant Need",
-      "url": "https://open.spotify.com/track/6obKvh06VvBZP98oqU6YR7"
+      "duration_ms": 200135,
+      "name": "Praja Magia",
+      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
     },
     {
       "added_at": "2026-08-27 22:02:29",
@@ -1243,6 +1243,30 @@
     {
       "added_at": "2026-08-27 22:02:29",
       "album": {
+        "name": "Keep It Exciting",
+        "url": "https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        },
+        {
+          "name": "Qobra",
+          "url": "https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE"
+        },
+        {
+          "name": "Alex Hosking",
+          "url": "https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9"
+        }
+      ],
+      "duration_ms": 138997,
+      "name": "Keep It Exciting",
+      "url": "https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp"
+    },
+    {
+      "added_at": "2026-08-27 22:02:29",
+      "album": {
         "name": "Cyclorama",
         "url": "https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC"
       },
@@ -1271,30 +1295,6 @@
       "duration_ms": 285440,
       "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
       "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
-    },
-    {
-      "added_at": "2026-08-27 22:02:29",
-      "album": {
-        "name": "Keep It Exciting",
-        "url": "https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL"
-      },
-      "artists": [
-        {
-          "name": "Mr. Belt & Wezol",
-          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
-        },
-        {
-          "name": "Qobra",
-          "url": "https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE"
-        },
-        {
-          "name": "Alex Hosking",
-          "url": "https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9"
-        }
-      ],
-      "duration_ms": 138997,
-      "name": "Keep It Exciting",
-      "url": "https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp"
     },
     {
       "added_at": "2026-08-27 22:02:29",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2026-08-27 22:02:29",
       "album": {
-        "name": "Coroa",
-        "url": "https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        },
-        {
-          "name": "Jes\u00fas Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
-        }
-      ],
-      "duration_ms": 136088,
-      "name": "Coroa",
-      "url": "https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3"
-    },
-    {
-      "added_at": "2026-08-27 22:02:29",
-      "album": {
         "name": "I Believe In Love Again",
         "url": "https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 234140,
       "name": "Waiting So Long",
       "url": "https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8"
+    },
+    {
+      "added_at": "2026-08-27 22:02:29",
+      "album": {
+        "name": "Coroa",
+        "url": "https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "Jes\u00fas Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
+        }
+      ],
+      "duration_ms": 136088,
+      "name": "Coroa",
+      "url": "https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3"
     }
   ],
   "unique_name": "Aperitivo Time",

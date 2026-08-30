@@ -1,12 +1,12 @@
 {
   "description": "Le plus chauds d'Afrique Francophone. Cover: TRK.",
-  "num_followers": 18082,
+  "num_followers": 18103,
   "original_name": "Francophone.wav",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALeBu7lyH5BR+V1Q0vnxCQq9lqU3",
+  "snapshot_id": "AAAAAHKFlhvUabrU7wrvgEc1qc9ycZzn",
   "tracks": [
     {
       "added_at": "2026-07-24 11:14:20",
@@ -183,22 +183,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "GIRLFRIEND",
-        "url": "https://open.spotify.com/album/3nsAiu8BlehnoIwlJIwbRy"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 259053,
-      "name": "GIRLFRIEND",
-      "url": "https://open.spotify.com/track/19jskaQ5MXGGMmaqQowfVS"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "Focus Mentalit\u00e9",
         "url": "https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 156676,
       "name": "Melrose Place",
       "url": "https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "GIRLFRIEND",
+        "url": "https://open.spotify.com/album/3nsAiu8BlehnoIwlJIwbRy"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 259053,
+      "name": "GIRLFRIEND",
+      "url": "https://open.spotify.com/track/19jskaQ5MXGGMmaqQowfVS"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "Fleur froide",
-        "url": "https://open.spotify.com/album/7xZ9nd2ZAoEUDVd0R96yEU"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "N'y pense plus",
-      "url": "https://open.spotify.com/track/3qe7VcbqjYNvFwhP0sFItH"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "KYKY2BONDY",
         "url": "https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 137173,
       "name": "KYKY2BONDY",
       "url": "https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "Fleur froide",
+        "url": "https://open.spotify.com/album/7xZ9nd2ZAoEUDVd0R96yEU"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "N'y pense plus",
+      "url": "https://open.spotify.com/track/3qe7VcbqjYNvFwhP0sFItH"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -539,6 +539,26 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
+        "name": "CHORD",
+        "url": "https://open.spotify.com/album/7t1nqu0zfrVlPCxukwIxRc"
+      },
+      "artists": [
+        {
+          "name": "1T1",
+          "url": "https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we"
+        },
+        {
+          "name": "Theomaa",
+          "url": "https://open.spotify.com/artist/49j7GvUPWXDkBZf3uUwMe6"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Bouw\u00e9y",
+      "url": "https://open.spotify.com/track/3sxcR3k3ZkNmvmXQB28Qnr"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
         "name": "Coup du marteau",
         "url": "https://open.spotify.com/album/2Dq4WTswTU9y0nJkWPjhN3"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 174589,
       "name": "Coup du marteau",
       "url": "https://open.spotify.com/track/3YRe2NXbJ5aalCE0YH6YBo"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
-        "name": "CHORD",
-        "url": "https://open.spotify.com/album/7t1nqu0zfrVlPCxukwIxRc"
-      },
-      "artists": [
-        {
-          "name": "1T1",
-          "url": "https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we"
-        },
-        {
-          "name": "Theomaa",
-          "url": "https://open.spotify.com/artist/49j7GvUPWXDkBZf3uUwMe6"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Bouw\u00e9y",
-      "url": "https://open.spotify.com/track/3sxcR3k3ZkNmvmXQB28Qnr"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "DM",
-        "url": "https://open.spotify.com/album/0HIfBTjs8M1Lr13flE5XFe"
-      },
-      "artists": [
-        {
-          "name": "VJ",
-          "url": "https://open.spotify.com/artist/5MDNhC2R2lHAGrUg0ztgao"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Kaay Waay",
-      "url": "https://open.spotify.com/track/6dmL9EuLQB6tHsn9IAVg6b"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "R\u00c9SONANCE",
         "url": "https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 167704,
       "name": "Woman King (T'as Capt\u00e9)",
       "url": "https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "DM",
+        "url": "https://open.spotify.com/album/0HIfBTjs8M1Lr13flE5XFe"
+      },
+      "artists": [
+        {
+          "name": "VJ",
+          "url": "https://open.spotify.com/artist/5MDNhC2R2lHAGrUg0ztgao"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Kaay Waay",
+      "url": "https://open.spotify.com/track/6dmL9EuLQB6tHsn9IAVg6b"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1193,22 +1193,6 @@
       "url": "https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO"
     },
     {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
-        "name": "Ma nana",
-        "url": "https://open.spotify.com/album/5NY6ywibyRG6oAJK0qBCba"
-      },
-      "artists": [
-        {
-          "name": "Dk2fois",
-          "url": "https://open.spotify.com/artist/3532P4f6wikwfG2uvxXRnQ"
-        }
-      ],
-      "duration_ms": 197285,
-      "name": "Ma nana",
-      "url": "https://open.spotify.com/track/3WPz3d5hQwYRaAmYqQOFaj"
-    },
-    {
       "added_at": "2026-08-21 10:56:34",
       "album": {
         "name": "M\u00c9TAMORPHOSE",
@@ -1227,6 +1211,22 @@
       "duration_ms": 162653,
       "name": "MINIMUM (feat. d\u00f8pelym)",
       "url": "https://open.spotify.com/track/5FGx7yCMBzTsI2a73sQGJd"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "Ma nana",
+        "url": "https://open.spotify.com/album/5NY6ywibyRG6oAJK0qBCba"
+      },
+      "artists": [
+        {
+          "name": "Dk2fois",
+          "url": "https://open.spotify.com/artist/3532P4f6wikwfG2uvxXRnQ"
+        }
+      ],
+      "duration_ms": 197285,
+      "name": "Ma nana",
+      "url": "https://open.spotify.com/track/3WPz3d5hQwYRaAmYqQOFaj"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "Yebisa Bango / Bijou",
-        "url": "https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6"
-      },
-      "artists": [
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        }
-      ],
-      "duration_ms": 125313,
-      "name": "Bijou",
-      "url": "https://open.spotify.com/track/5EXEDVRvpKJw3eQ4epRrD7"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "Mpiaka",
         "url": "https://open.spotify.com/album/2BUr0YXhxjIq3GGElU6izf"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 216428,
       "name": "Mpiaka",
       "url": "https://open.spotify.com/track/6zb0KDfPWZPvL1SZPEoVDJ"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "Yebisa Bango / Bijou",
+        "url": "https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "duration_ms": 125313,
+      "name": "Bijou",
+      "url": "https://open.spotify.com/track/5EXEDVRvpKJw3eQ4epRrD7"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "Yebisa Bango / Bijou",
-        "url": "https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6"
-      },
-      "artists": [
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        }
-      ],
-      "duration_ms": 149932,
-      "name": "Yebisa Bango",
-      "url": "https://open.spotify.com/track/3jXala0eZHs3iNJ44on0VO"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "AFRO-N-TCHAM 1",
         "url": "https://open.spotify.com/album/2plqEQ8EuoEMhTxMhUwfgG"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 186206,
       "name": "MILLIONS",
       "url": "https://open.spotify.com/track/5jVNRVe4s6fyemCq82Bspt"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "Yebisa Bango / Bijou",
+        "url": "https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "duration_ms": 149932,
+      "name": "Yebisa Bango",
+      "url": "https://open.spotify.com/track/3jXala0eZHs3iNJ44on0VO"
     },
     {
       "added_at": "2026-07-24 11:14:20",

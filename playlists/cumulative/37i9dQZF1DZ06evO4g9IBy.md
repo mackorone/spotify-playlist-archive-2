@@ -4,7 +4,7 @@
 
 > This is Stevie Nicks\. The essential tracks, all in one playlist.
 
-72 songs - 5 hr 14 min
+73 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Leather and Lace \- 2016 Remaster](https://open.spotify.com/track/7kXM2obnaUVl014k00cdhF) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 3:45 | 2025-03-08 |  |
 | [Long Distance Winner](https://open.spotify.com/track/4s1NQx5SmakDcTEfItAg3K) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Buckingham Nicks](https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv) | 4:51 | 2025-09-21 | 2026-02-20 |
 | [Long Way to Go](https://open.spotify.com/track/3v8leV4eAWYwtK7xpFF1Px) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Other Side of the Mirror](https://open.spotify.com/album/520iW3fXcWW5mbQToP0hs0) | 4:07 | 2025-06-20 | 2025-06-23 |
-| [Maybe Love Will Change Your Mind](https://open.spotify.com/track/3FmNXP5tWfjZAImUxzns74) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Street Angel](https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS) | 4:19 | 2025-05-08 |  |
+| [Maybe Love Will Change Your Mind](https://open.spotify.com/track/3FmNXP5tWfjZAImUxzns74) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Street Angel](https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS) | 4:19 | 2025-05-08 | 2026-08-30 |
 | [Needles And Pins \- Live At The The Forum/1981](https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Pack Up The Plantation: Live!](https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0) | 2:25 | 2025-03-08 |  |
 | [New Orleans](https://open.spotify.com/track/1HKApG1WCilb4B82fIUoje) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [In Your Dreams](https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj) | 5:34 | 2025-03-08 | 2026-08-28 |
 | [Nightbird \- 2016 Remaster](https://open.spotify.com/track/4pCCNs8hTsXAnadASFtREk) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Wild Heart \(2016 Remastered\)](https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s) | 5:01 | 2025-03-08 |  |
@@ -75,6 +75,7 @@
 | [The Dealer](https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [24 Karat Gold: Songs from the Vault](https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R) | 4:38 | 2025-03-08 |  |
 | [The Lighthouse](https://open.spotify.com/track/6KzCUv4TwlnFhej36ef5MR) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Lighthouse](https://open.spotify.com/album/5oznbxAohvwRYXwfU3gvx6) | 4:51 | 2025-03-08 | 2026-01-23 |
 | [Trouble in Shangri\-La](https://open.spotify.com/track/77j3CiF7PNJC0amTTcJ0zK) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Trouble in Shangri\-La](https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg) | 4:49 | 2025-03-08 |  |
+| [What Has Rock And Roll Ever Done For You](https://open.spotify.com/track/1KpaeuKdvzMVuNnko3Pahu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rockstar \(Deluxe\)](https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN) | 5:01 | 2026-08-30 |  |
 | [Whenever I Call You "Friend" \(feat\. Stevie Nicks\)](https://open.spotify.com/track/5NCY3uTCovd93aqwbodUhm) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Nightwatch](https://open.spotify.com/album/2IIoRTMSjA1fTv11MdpGMj) | 3:57 | 2025-03-08 |  |
 | [Whole Lotta Trouble](https://open.spotify.com/track/5wRASV5n4VbpmZ6aIm5t3S) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Timespace \- The Best Of Stevie Nicks](https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB) | 4:31 | 2025-03-08 | 2026-08-26 |
 | [Wild Heart \- 2016 Remaster](https://open.spotify.com/track/0gzI0zfUaoXFVNTUNQE9ad) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Wild Heart \(2016 Remastered\)](https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s) | 6:09 | 2026-07-15 |  |

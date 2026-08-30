@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 
 > Original and synced songs that stay with you long after the credits roll..\. Cover: Spider\-Man: Brand New Day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,767 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,823 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

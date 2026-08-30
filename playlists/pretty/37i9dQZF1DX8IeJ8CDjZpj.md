@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 
 > México Lindo y Querido.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,031 likes - 21 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,028 likes - 21 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

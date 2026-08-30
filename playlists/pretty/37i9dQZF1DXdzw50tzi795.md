@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 
 > เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: Z9
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,045 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,092 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 
 > Allerbeste songs uit de 60's\. Cover: Shocking Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,446 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,455 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 | 77 | [B\-A\-B\-Y \(From "Baby Driver"\)](https://open.spotify.com/track/3t7VYEzgcTDWXpEmHQAOVs) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [B\-A\-B\-Y](https://open.spotify.com/album/2EVSSXijDa2zw8m4mJbpyJ) | 2:53 |
 | 78 | [Ik Heb Geen Zin Om Op Te Staan](https://open.spotify.com/track/4i0HqFY1cggDYuzts5I4bL) | [Het](https://open.spotify.com/artist/1niMQvL46zqZ7kHrfqFZNA) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 3:07 |
 | 79 | [Dear Ann](https://open.spotify.com/track/7lpjk8A09oxqj7l18TrPua) | [George Baker Selection](https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn) | [Little Green Bag](https://open.spotify.com/album/3kZKbvvhVprZVphNHYvRcj) | 3:02 |
-| 80 | [I'm A Believer](https://open.spotify.com/track/1Dix6w1eVOCVNLqehxLXH1) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Reach Out](https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp) | 2:37 |
-| 81 | [Brandend Zand](https://open.spotify.com/track/1MPsWWqqxot17KwgtMm6Xr) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [Warm Is De Liefde \- 50 Gouden Herinneringen](https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im) | 2:51 |
+| 80 | [Brandend Zand](https://open.spotify.com/track/1MPsWWqqxot17KwgtMm6Xr) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [Warm Is De Liefde \- 50 Gouden Herinneringen](https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im) | 2:51 |
+| 81 | [I'm A Believer](https://open.spotify.com/track/1Dix6w1eVOCVNLqehxLXH1) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Reach Out](https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp) | 2:37 |
 | 82 | [I See You Face Again](https://open.spotify.com/track/0yOL0hphTHQ8vGVAt5Ozqi) | [Sandy Coast](https://open.spotify.com/artist/2Ym4vFrYKclJDy0Jq4CpcR) | [Good for Gold](https://open.spotify.com/album/7MdMBbgNqWncF10ULnk2pk) | 3:19 |
 | 83 | [Turn Around And Start Again](https://open.spotify.com/track/4KQSyeFwXXYvdjFi9oPVJ8) | [The Cats](https://open.spotify.com/artist/4mplweFSgMgpH03ruEMEMv) | [Favorieten Expres](https://open.spotify.com/album/6vjJpzdtItQIK9FxJNnXs9) | 2:59 |
 | 84 | [The Green Manalishi \(With the Two Prong Crown\) \- 2013 Remaster](https://open.spotify.com/track/7nUVU3rsWpg4w01dahnAb9) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Then Play On \(2013 Remaster; Expanded Edition\)](https://open.spotify.com/album/5Z83CVFqNYSIoItAZVaHeR) | 4:36 |

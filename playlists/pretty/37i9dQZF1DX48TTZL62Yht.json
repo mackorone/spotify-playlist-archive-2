@@ -1,6 +1,6 @@
 {
   "description": "The tracks you just keep pulling up. Cover: Drake",
-  "num_followers": 512056,
+  "num_followers": 512050,
   "original_name": "Hip-Hop Favourites",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-08-26 17:31:12",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "Hey Ya!",
-      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
-    },
-    {
-      "added_at": "2026-08-26 17:31:12",
-      "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "added_at": "2026-08-26 17:31:12",
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "Hey Ya!",
+      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
     },
     {
       "added_at": "2026-08-26 17:31:12",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-08-26 17:31:12",
       "album": {
-        "name": "?",
-        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 135090,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL"
-    },
-    {
-      "added_at": "2026-08-26 17:31:12",
-      "album": {
         "name": "808s & Heartbreak",
         "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 211000,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
+    },
+    {
+      "added_at": "2026-08-26 17:31:12",
+      "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 135090,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL"
     },
     {
       "added_at": "2026-08-26 17:31:12",
@@ -759,22 +759,22 @@
     {
       "added_at": "2026-08-26 17:31:12",
       "album": {
-        "name": "The Thrill",
-        "url": "https://open.spotify.com/album/3YNKd21Z57lbdZimG7DP2Q"
+        "name": "The Documentary",
+        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
       "artists": [
         {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
         },
         {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 234333,
-      "name": "The Thrill",
-      "url": "https://open.spotify.com/track/42F7AY5a40owYmUeq0QQTl"
+      "duration_ms": 206400,
+      "name": "Hate It Or Love It",
+      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
     },
     {
       "added_at": "2026-08-26 17:31:12",
@@ -815,6 +815,26 @@
     {
       "added_at": "2026-08-26 17:31:12",
       "album": {
+        "name": "The Thrill",
+        "url": "https://open.spotify.com/album/3YNKd21Z57lbdZimG7DP2Q"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "The Thrill",
+      "url": "https://open.spotify.com/track/42F7AY5a40owYmUeq0QQTl"
+    },
+    {
+      "added_at": "2026-08-26 17:31:12",
+      "album": {
         "name": "OCTANE",
         "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
       },
@@ -831,30 +851,6 @@
     {
       "added_at": "2026-08-26 17:31:12",
       "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Molly Santana",
-          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
-        }
-      ],
-      "duration_ms": 247183,
-      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
-      "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
-    },
-    {
-      "added_at": "2026-08-26 17:31:12",
-      "album": {
         "name": "Goodbye & Good Riddance",
         "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
       },
@@ -867,26 +863,6 @@
       "duration_ms": 239835,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
-    },
-    {
-      "added_at": "2026-08-26 17:31:12",
-      "album": {
-        "name": "The Documentary",
-        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Hate It Or Love It",
-      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
     },
     {
       "added_at": "2026-08-26 17:31:12",
@@ -919,6 +895,30 @@
       "duration_ms": 235320,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO"
+    },
+    {
+      "added_at": "2026-08-26 17:31:12",
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Molly Santana",
+          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        }
+      ],
+      "duration_ms": 247183,
+      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
     },
     {
       "added_at": "2026-08-26 17:31:12",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2026-08-26 17:31:12",
       "album": {
+        "name": "The Massacre",
+        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Olivia",
+          "url": "https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "Candy Shop",
+      "url": "https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh"
+    },
+    {
+      "added_at": "2026-08-26 17:31:12",
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 194786,
       "name": "Trance (with Travis Scott & Young Thug)",
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
-    },
-    {
-      "added_at": "2026-08-26 17:31:12",
-      "album": {
-        "name": "The Massacre",
-        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Olivia",
-          "url": "https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "Candy Shop",
-      "url": "https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh"
     },
     {
       "added_at": "2026-08-26 17:31:12",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-08-26 17:31:12",
       "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 90760,
-      "name": "on one tonight",
-      "url": "https://open.spotify.com/track/6EUcP55GlbmsmCzfL2vxtZ"
-    },
-    {
-      "added_at": "2026-08-26 17:31:12",
-      "album": {
         "name": "DANGEROUS SUMMER",
         "url": "https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 291781,
       "name": "Ride Wit Me",
       "url": "https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ"
+    },
+    {
+      "added_at": "2026-08-26 17:31:12",
+      "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 90760,
+      "name": "on one tonight",
+      "url": "https://open.spotify.com/track/6EUcP55GlbmsmCzfL2vxtZ"
     },
     {
       "added_at": "2026-08-26 17:31:12",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-08-26 17:31:12",
       "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "one of wun",
-      "url": "https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36"
-    },
-    {
-      "added_at": "2026-08-26 17:31:12",
-      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 138947,
       "name": "Tiramisu",
       "url": "https://open.spotify.com/track/2GHKo6nrSjruvBEQbzD7Fw"
+    },
+    {
+      "added_at": "2026-08-26 17:31:12",
+      "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "one of wun",
+      "url": "https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36"
     },
     {
       "added_at": "2026-08-26 17:31:12",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2026-08-26 17:31:12",
       "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+        "name": "Too Hard",
+        "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+      "duration_ms": 162053,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
     },
     {
       "added_at": "2026-08-26 17:31:12",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2026-08-26 17:31:12",
       "album": {
-        "name": "Too Hard",
-        "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 162053,
-      "name": "Freestyle",
-      "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
     },
     {
       "added_at": "2026-08-26 17:31:12",

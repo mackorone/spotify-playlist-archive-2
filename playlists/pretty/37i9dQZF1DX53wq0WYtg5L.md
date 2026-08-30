@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,964 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,951 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 20 | [La culebra](https://open.spotify.com/track/335MnaMIi8Gz61nxR9nWMW) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 2:48 |
 | 21 | [El siete mares](https://open.spotify.com/track/0byZkYj5d6UbeyK66tXLPr) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:38 |
 | 22 | [Que Lindo Es Michoacan](https://open.spotify.com/track/6hD3rxXYjOONoMh4Ox1oz5) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Mariachi](https://open.spotify.com/album/1HJtciy4pGuqyaHbCp9TEF) | 3:11 |
-| 23 | [El Sinaloense](https://open.spotify.com/track/0bxa8kZpLhhxg9ATooV3yQ) | [Luis Aguilar](https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx) | [RCA 100 Años De Musica](https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH) | 1:45 |
-| 24 | [Pica Que Pica](https://open.spotify.com/track/1ruaLnFk2kciAKa68DLggN) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Lastima Que Seas Ajena](https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX) | 3:05 |
+| 23 | [Pica Que Pica](https://open.spotify.com/track/1ruaLnFk2kciAKa68DLggN) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Lastima Que Seas Ajena](https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX) | 3:05 |
+| 24 | [El Sinaloense](https://open.spotify.com/track/0bxa8kZpLhhxg9ATooV3yQ) | [Luis Aguilar](https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx) | [RCA 100 Años De Musica](https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH) | 1:45 |
 | 25 | [La Malagueña](https://open.spotify.com/track/1XB5aqI6iacCG4bXJSVb0j) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Las Canciones Mexicanas Que El Mundo Canta](https://open.spotify.com/album/3jIy0sTCKvICnOyFCWoxrM) | 4:54 |
 | 26 | [Rogaciano](https://open.spotify.com/track/66XbA3JnX82pB26MZWeFTC) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:21 |
-| 27 | [El Sauce y la Palma](https://open.spotify.com/track/446ICnUdS1UE59barZ0lcX) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [30 Exitos Inmortales](https://open.spotify.com/album/2xCm0V7sVyMZJITnKagCuz) | 2:29 |
-| 28 | [El Cascabel](https://open.spotify.com/track/7gkwuWZqsoyEZ23ZdmZWxY) | [Mariachi America](https://open.spotify.com/artist/0WfxYVGBDHnF1C989scou2) | [Negra Linda](https://open.spotify.com/album/39YlKYk1kXF46NhElJNyId) | 6:29 |
-| 29 | [Puro Cachanilla](https://open.spotify.com/track/6Ahpr5bhGJMHu0QTy4yoky) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7) | 3:21 |
+| 27 | [El Cascabel](https://open.spotify.com/track/7gkwuWZqsoyEZ23ZdmZWxY) | [Mariachi America](https://open.spotify.com/artist/0WfxYVGBDHnF1C989scou2) | [Negra Linda](https://open.spotify.com/album/39YlKYk1kXF46NhElJNyId) | 6:29 |
+| 28 | [Puro Cachanilla](https://open.spotify.com/track/6Ahpr5bhGJMHu0QTy4yoky) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7) | 3:21 |
+| 29 | [El Sauce y la Palma](https://open.spotify.com/track/446ICnUdS1UE59barZ0lcX) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [30 Exitos Inmortales](https://open.spotify.com/album/2xCm0V7sVyMZJITnKagCuz) | 2:29 |
 | 30 | [Virgencita de Zapopan](https://open.spotify.com/track/3aKGVttskmuUXIvewY5Tca) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 1](https://open.spotify.com/album/1i8CmdQ0aYkeP9nlNuyQ1Y) | 3:35 |
 | 31 | [Huapangos: La Noche y Tú / Tres Consejos / La del Rebozo Blanco / La Verdolaga](https://open.spotify.com/track/7yntezTde0vZ1ZWjUnCp4R) | [Fernando De La Mora](https://open.spotify.com/artist/7n0DgT7oELfGWb30YlRatt), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Rancheras](https://open.spotify.com/album/66CJEl4OlSPTwff6xnx8s0) | 7:05 |
 | 32 | [El Herradero \- Remastered](https://open.spotify.com/track/6ymFvQN3Tfd3CXpyJvIok3) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Voz de México \(Remastered\)](https://open.spotify.com/album/54UWox3ZbHcH8mREa1uJdE) | 3:13 |

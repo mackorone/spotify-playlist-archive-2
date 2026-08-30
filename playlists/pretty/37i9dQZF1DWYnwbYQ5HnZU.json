@@ -1,6 +1,6 @@
 {
   "description": "Spotify country fan favorites. Cover: Jon Pardi",
-  "num_followers": 2193668,
+  "num_followers": 2193616,
   "original_name": "Country Gold",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,26 @@
     {
       "added_at": "2026-05-01 04:02:16",
       "album": {
+        "name": "Cocky",
+        "url": "https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 298960,
+      "name": "Picture (feat. Sheryl Crow)",
+      "url": "https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll"
+    },
+    {
+      "added_at": "2026-05-01 04:02:16",
+      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/0fuGd7HQHt8xUoJKEuWAFl"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 188270,
       "name": "What Ifs (feat. Lauren Alaina)",
       "url": "https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"
-    },
-    {
-      "added_at": "2026-05-01 04:02:16",
-      "album": {
-        "name": "Cocky",
-        "url": "https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        },
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 298960,
-      "name": "Picture (feat. Sheryl Crow)",
-      "url": "https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll"
     },
     {
       "added_at": "2026-05-01 04:02:16",
@@ -939,18 +939,18 @@
     {
       "added_at": "2026-05-01 04:02:16",
       "album": {
-        "name": "Black",
-        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
+        "name": "Here For The Party",
+        "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Gretchen Wilson",
+          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
         }
       ],
-      "duration_ms": 197120,
-      "name": "Somewhere On A Beach",
-      "url": "https://open.spotify.com/track/5CG9Ps5ynNjpKJHmwc95pa"
+      "duration_ms": 221333,
+      "name": "Redneck Woman",
+      "url": "https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG"
     },
     {
       "added_at": "2026-05-01 04:02:16",
@@ -971,18 +971,18 @@
     {
       "added_at": "2026-05-01 04:02:16",
       "album": {
-        "name": "Here For The Party",
-        "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
+        "name": "Black",
+        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
       },
       "artists": [
         {
-          "name": "Gretchen Wilson",
-          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         }
       ],
-      "duration_ms": 221333,
-      "name": "Redneck Woman",
-      "url": "https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG"
+      "duration_ms": 197120,
+      "name": "Somewhere On A Beach",
+      "url": "https://open.spotify.com/track/5CG9Ps5ynNjpKJHmwc95pa"
     },
     {
       "added_at": "2026-05-01 04:02:16",

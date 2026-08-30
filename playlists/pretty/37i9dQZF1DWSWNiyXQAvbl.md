@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 
 > Ease back in time with the help of these seventies classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,438 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,494 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 17 | [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/5I9zIwGB6f0edpjO5oX2b9) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Escape...The Best Of](https://open.spotify.com/album/1DNXVmeXx7p959XvA3LtV8) | 4:35 |
 | 18 | [Blue Bayou](https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Simple Dreams](https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry) | 3:59 |
 | 19 | [Dance with Me](https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Dance With Me: The Best Of Orleans](https://open.spotify.com/album/43inWGDznUuVwJoIX0jKtl) | 3:00 |
-| 20 | [You Are So Beautiful](https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [I Can Stand A Little Rain](https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q) | 2:39 |
-| 21 | [I Feel the Earth Move](https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 2:58 |
-| 22 | [When You're In Love With A Beautiful Woman](https://open.spotify.com/track/1UiKUFbCfgbVjwY8W657Pv) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Pleasure & Pain](https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F) | 2:58 |
+| 20 | [When You're In Love With A Beautiful Woman](https://open.spotify.com/track/1UiKUFbCfgbVjwY8W657Pv) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Pleasure & Pain](https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F) | 2:58 |
+| 21 | [You Are So Beautiful](https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [I Can Stand A Little Rain](https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q) | 2:39 |
+| 22 | [I Feel the Earth Move](https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 2:58 |
 | 23 | [Rock the Boat](https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Freedom for the Stallion \(Expanded Edition\)](https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH) | 3:22 |
 | 24 | [Angel from Montgomery \- 2008 Remaster](https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 3:59 |
 | 25 | [Big Yellow Taxi](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 2:14 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 38 | [Midnight Train to Georgia](https://open.spotify.com/track/6UaocmOO1bO7YwfHv9Kqcy) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [The Way We Were: The Best Of Gladys Knight & The Pips](https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE) | 4:40 |
 | 39 | [Rock Me Gently](https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w) | [Andy Kim](https://open.spotify.com/artist/5MYBNUKoFf9LAg30ByaBli) | [Greatest Hits](https://open.spotify.com/album/1yBUWYxGG5j1fjzSkrMY0C) | 3:28 |
 | 40 | [If You Could Read My Mind](https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 3:49 |
-| 41 | [Bye Bye Baby](https://open.spotify.com/track/7wC5vOh3fQibFYWjCIotKw) | [Bay City Rollers](https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8) | [Once Upon A Star](https://open.spotify.com/album/2nZfNhrDCbTNnZEc4iuCcl) | 2:50 |
-| 42 | [Yellow River](https://open.spotify.com/track/4VnzKUBMB6cvog8Jvv1few) | [Christie](https://open.spotify.com/artist/0HoeFrrKutiio4HJtXN0Sn) | [Christie](https://open.spotify.com/album/0YtUDtmBOGWAerJN70aCUR) | 2:45 |
+| 41 | [Yellow River](https://open.spotify.com/track/4VnzKUBMB6cvog8Jvv1few) | [Christie](https://open.spotify.com/artist/0HoeFrrKutiio4HJtXN0Sn) | [Christie](https://open.spotify.com/album/0YtUDtmBOGWAerJN70aCUR) | 2:45 |
+| 42 | [Bye Bye Baby](https://open.spotify.com/track/7wC5vOh3fQibFYWjCIotKw) | [Bay City Rollers](https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8) | [Once Upon A Star](https://open.spotify.com/album/2nZfNhrDCbTNnZEc4iuCcl) | 2:50 |
 | 43 | [Love Will Keep Us Together](https://open.spotify.com/track/10pcZvQ4QTKeHRvTUAeHVD) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Scrapbook](https://open.spotify.com/album/6ezk9jUCncL6Dx7fdO7JfB) | 3:23 |
 | 44 | [Don't Play That Song](https://open.spotify.com/track/4M1zcX803dgkDkISHZDPYi) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Spirit in the Dark](https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO) | 3:02 |
 | 45 | [Dancing in the City](https://open.spotify.com/track/4MVhYm4LCenxBIZKrT5CAc) | [Marshall Hain](https://open.spotify.com/artist/0bUGoPJdCrDnuIQNLxsnBb) | [Free Ride](https://open.spotify.com/album/6fIotKh6Xp44xP0hvYYboe) | 3:49 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 68 | [Stumblin' In](https://open.spotify.com/track/2NKZe36oAGEpBx26OoBFLj) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ), [Chris Norman](https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc) | [The Very Best of Suzi Quatro](https://open.spotify.com/album/3NsZev3pxengJeEoTeuzGb) | 3:59 |
 | 69 | [Solsbury Hill](https://open.spotify.com/track/4tIhDBT9YgxR38EJ7kXN2F) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Vanilla Sky \(Music from the Motion Picture\)](https://open.spotify.com/album/5BTAqof8FIlVhXa1JsclU7) | 4:22 |
 | 70 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:36 |
-| 71 | [Dreadlock Holiday](https://open.spotify.com/track/5SI6jYhKUWm1qnaheTm4Zw) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [Bloody Tourists](https://open.spotify.com/album/70q6kAw7x7Dia2OwDbSfUL) | 4:27 |
-| 72 | [Jamming](https://open.spotify.com/track/6gOirCUz62z0mFhCJ6P5KC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/3q8y9MBuOdOzwJb8QJfwBG) | 3:31 |
-| 73 | [Easy](https://open.spotify.com/track/1DnSZ9M8uvX0UebR3dmBNI) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/0TcKS5p50aNE2c0Zuhs3Zl) | 4:16 |
+| 71 | [Jamming](https://open.spotify.com/track/6gOirCUz62z0mFhCJ6P5KC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/3q8y9MBuOdOzwJb8QJfwBG) | 3:31 |
+| 72 | [Easy](https://open.spotify.com/track/1DnSZ9M8uvX0UebR3dmBNI) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/0TcKS5p50aNE2c0Zuhs3Zl) | 4:16 |
+| 73 | [Dreadlock Holiday](https://open.spotify.com/track/5SI6jYhKUWm1qnaheTm4Zw) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [Bloody Tourists](https://open.spotify.com/album/70q6kAw7x7Dia2OwDbSfUL) | 4:27 |
 | 74 | [Mr\. Big Stuff](https://open.spotify.com/track/08013W2oJiJ3FcVq24hjXO) | [Jean Knight](https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr) | [Semi\-Pro \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3U3BdoxSfeiLf1yrf3aMAE) | 2:47 |
 | 75 | [I'll Have To Say I Love You In A Song](https://open.spotify.com/track/55KKzF53NXeY7neYbd8wz5) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [I Got A Name](https://open.spotify.com/album/6QVn3X0VlX6XynvzgQVPi0) | 2:31 |
 | 76 | [Let's Stay Together](https://open.spotify.com/track/3QEkTxcsLUPfE33cRZ4y2K) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/0yAgdXfH3FYFhSTdWMeUrR) | 3:19 |

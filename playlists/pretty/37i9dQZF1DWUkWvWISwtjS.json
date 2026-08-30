@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 423534,
+  "num_followers": 423463,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,18 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Cobaia",
-        "url": "https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd"
+        "name": "10 Anos Na Praia (Ao Vivo / Vol. 1)",
+        "url": "https://open.spotify.com/album/6rtq152SsRhAcAvGmzoBWl"
       },
       "artists": [
         {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
         }
       ],
-      "duration_ms": 219442,
-      "name": "Cobaia",
-      "url": "https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4"
+      "duration_ms": 170197,
+      "name": "Litr\u00e3o - Ao Vivo Em Recife / 2020",
+      "url": "https://open.spotify.com/track/5W1kqz2l1lDX77DXBMeXZg"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -747,18 +743,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "10 Anos Na Praia (Ao Vivo / Vol. 1)",
-        "url": "https://open.spotify.com/album/6rtq152SsRhAcAvGmzoBWl"
+        "name": "Cobaia",
+        "url": "https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd"
       },
       "artists": [
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         }
       ],
-      "duration_ms": 170197,
-      "name": "Litr\u00e3o - Ao Vivo Em Recife / 2020",
-      "url": "https://open.spotify.com/track/5W1kqz2l1lDX77DXBMeXZg"
+      "duration_ms": 219442,
+      "name": "Cobaia",
+      "url": "https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Z\u00e9 da Reca\u00edda",
+        "url": "https://open.spotify.com/album/6GpuBgy6WQZhWrnCsBeMma"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 168458,
+      "name": "Z\u00e9 da Reca\u00edda",
+      "url": "https://open.spotify.com/track/4iGwWeV7XVIWO9Yy5QExOr"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "Ele N\u00e3o Tem",
         "url": "https://open.spotify.com/album/1H3osN9EmZy0a8DGV27hXy"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 212192,
       "name": "Ele N\u00e3o Tem",
       "url": "https://open.spotify.com/track/1JHvLQWHUoYuapwQikeDuD"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Z\u00e9 da Reca\u00edda",
-        "url": "https://open.spotify.com/album/6GpuBgy6WQZhWrnCsBeMma"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 168458,
-      "name": "Z\u00e9 da Reca\u00edda",
-      "url": "https://open.spotify.com/track/4iGwWeV7XVIWO9Yy5QExOr"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Guias Dvd 2018",
-        "url": "https://open.spotify.com/album/016TMUgaDtdnnjBBi1HwVz"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 163946,
-      "name": "Cora\u00e7\u00e3o Infectado",
-      "url": "https://open.spotify.com/track/3buGB7k4NFkMEz4RA8BMYn"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Jenifer",
         "url": "https://open.spotify.com/album/6YwWXICxS8FALgq3cZclsH"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Guias Dvd 2018",
+        "url": "https://open.spotify.com/album/016TMUgaDtdnnjBBi1HwVz"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 163946,
+      "name": "Cora\u00e7\u00e3o Infectado",
+      "url": "https://open.spotify.com/track/3buGB7k4NFkMEz4RA8BMYn"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "Continua, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 173020,
       "name": "Desconhecido - Ao Vivo",
       "url": "https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Nosso cupido foi Deus",
-        "url": "https://open.spotify.com/album/4NdRHk0mCKC0ncMp25ACVH"
-      },
-      "artists": [
-        {
-          "name": "Paula Mattos",
-          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
-        }
-      ],
-      "duration_ms": 186276,
-      "name": "Nosso cupido foi Deus",
-      "url": "https://open.spotify.com/track/7DK52ZiA1fAJJUr26p9R7X"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Do Jeito que N\u00f3is Gosta 2",
-        "url": "https://open.spotify.com/album/3i7XBb2cgTp2QCCv3xcQwM"
+        "name": "Nosso cupido foi Deus",
+        "url": "https://open.spotify.com/album/4NdRHk0mCKC0ncMp25ACVH"
       },
       "artists": [
         {
-          "name": "Diego & Arnaldo",
-          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
+          "name": "Paula Mattos",
+          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
         }
       ],
-      "duration_ms": 161529,
-      "name": "Se Eu Te Procurar",
-      "url": "https://open.spotify.com/track/7dYm9m4c51h4IeICvu6b1O"
+      "duration_ms": 186276,
+      "name": "Nosso cupido foi Deus",
+      "url": "https://open.spotify.com/track/7DK52ZiA1fAJJUr26p9R7X"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1335,6 +1319,22 @@
       "duration_ms": 140629,
       "name": "Fala Comigo - Ao Vivo",
       "url": "https://open.spotify.com/track/56F3ngwk3a42aLY0o5QgBF"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Do Jeito que N\u00f3is Gosta 2",
+        "url": "https://open.spotify.com/album/3i7XBb2cgTp2QCCv3xcQwM"
+      },
+      "artists": [
+        {
+          "name": "Diego & Arnaldo",
+          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
+        }
+      ],
+      "duration_ms": 161529,
+      "name": "Se Eu Te Procurar",
+      "url": "https://open.spotify.com/track/7dYm9m4c51h4IeICvu6b1O"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Yasmin Santos, EP3",
-        "url": "https://open.spotify.com/album/3kEAw83xB24KyNKuLhjz1m"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        }
-      ],
-      "duration_ms": 194472,
-      "name": "Copo que Vai Enchendo",
-      "url": "https://open.spotify.com/track/7meTS1QKt2zSCjAK48MlzG"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Alguns Defeitos",
         "url": "https://open.spotify.com/album/55bLrQZIshSyN5C9x1CQsh"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 185659,
       "name": "Alguns Defeitos",
       "url": "https://open.spotify.com/track/2Bl3dk6diYybHz4qhJ3w68"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Yasmin Santos, EP3",
+        "url": "https://open.spotify.com/album/3kEAw83xB24KyNKuLhjz1m"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 194472,
+      "name": "Copo que Vai Enchendo",
+      "url": "https://open.spotify.com/track/7meTS1QKt2zSCjAK48MlzG"
     },
     {
       "added_at": "2026-01-16 03:03:24",

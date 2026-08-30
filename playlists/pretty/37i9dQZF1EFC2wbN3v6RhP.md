@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1Pk7rcCDQIzm46M7Z50xDh">Taylor Swift</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,104 likes - 226 songs - 14 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,106 likes - 226 songs - 14 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 | 71 | [loml](https://open.spotify.com/track/6RSG1dKPV5gEvILwJb4QtS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:37 |
 | 72 | [False God](https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:20 |
 | 73 | [But Daddy I Love Him](https://open.spotify.com/track/5og4Qzt92jJzVDkOtSEilb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:40 |
-| 74 | [This Love \(Taylor’s Version\)](https://open.spotify.com/track/5QVVjX0ZItqlVpEuVCM9Yg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:10 |
-| 75 | [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 |
+| 74 | [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 |
+| 75 | [This Love \(Taylor’s Version\)](https://open.spotify.com/track/5QVVjX0ZItqlVpEuVCM9Yg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:10 |
 | 76 | [The Great War](https://open.spotify.com/track/5BYl3SodS3rGmafWXRWmB7) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 4:00 |
 | 77 | [Death By A Thousand Cuts](https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:18 |
 | 78 | [Sweet Nothing](https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:08 |
@@ -163,8 +163,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 | 153 | [The Last Time \(feat\. Gary Lightbody of Snow Patrol\) \(Taylor’s Version\)](https://open.spotify.com/track/0y6kdSRCVQhSsHSpWvTUm7) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Gary Lightbody](https://open.spotify.com/artist/3fCQnw6VSudXBTN5d2QP2z) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:59 |
 | 154 | [Run \(feat\. Ed Sheeran\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:00 |
 | 155 | [Wonderland](https://open.spotify.com/track/6RvRzl1YJTDnUvdOtV21IK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 4:05 |
-| 156 | [State Of Grace \(Taylor's Version\)](https://open.spotify.com/track/6lzc0Al0zfZOIFsFvBS1ki) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:55 |
-| 157 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
+| 156 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
+| 157 | [State Of Grace \(Taylor's Version\)](https://open.spotify.com/track/6lzc0Al0zfZOIFsFvBS1ki) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:55 |
 | 158 | [All You Had To Do Was Stay \(Taylor's Version\)](https://open.spotify.com/track/6GXgd1BPD9bUpqw5AntGV5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:13 |
 | 159 | [It’s Nice To Have A Friend](https://open.spotify.com/track/1SmiQ65iSAbPto6gPFlBYm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:30 |
 | 160 | [Come Back...Be Here \(Taylor's Version\)](https://open.spotify.com/track/4pNApnaUWAL2J4KO2eqokq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:43 |
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 | 225 | [Beautiful Ghosts \(Victoria’s Song\) \- From The Motion Picture Soundtrack "Cats"](https://open.spotify.com/track/1EBBNQDbxG6jfdiGTeWPdT) | [Francesca Hayward](https://open.spotify.com/artist/73jlloXDUzlTRHOcO9JhIg) | [Cats: Highlights From The Motion Picture Soundtrack](https://open.spotify.com/album/3OjtXmDVcfHAjJOS3xBoYU) | 2:50 |
 | 226 | [Dark Blue Tennessee](https://open.spotify.com/track/09CEIc9goZeeqRYwz6GYFD) | [outplay](https://open.spotify.com/artist/2vUjgOHdDaeftRG27IxxNq) | [Dark Blue Tennessee](https://open.spotify.com/album/5Am8oboqYxIQiEYU5tcSDz) | 3:17 |
 
-Snapshot ID: `Aca1FAAAAADEHYucJPMqb5Gv182pPIRX`
+Snapshot ID: `Aca6PAAAAACj+UABMzM7+7GBhfiaxOgy`

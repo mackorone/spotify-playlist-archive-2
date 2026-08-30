@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabkBRQmempy.md) - [plain]
 
 > Lo mejor del rock en español en la década de los 90.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,883 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,047 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabkBRQmempy.md) - [plain]
 | 42 | [La Pachanga](https://open.spotify.com/track/1x6bkwDyWIOZNFY5blRSs1) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 4:41 |
 | 43 | [Para no olvidar](https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
 | 44 | [Pobre soñador](https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [25 años](https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L) | 3:50 |
-| 45 | [Clandestino](https://open.spotify.com/track/51R2M1JgyFfRS3e6v5wCt3) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Clandestino](https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq) | 2:29 |
-| 46 | [Mal Bicho \- Remasterizado 2008](https://open.spotify.com/track/5nofWp3plvxYX1xgHpe4fi) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Rey Azúcar](https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc) | 4:03 |
+| 45 | [Mal Bicho \- Remasterizado 2008](https://open.spotify.com/track/5nofWp3plvxYX1xgHpe4fi) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Rey Azúcar](https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc) | 4:03 |
+| 46 | [Clandestino](https://open.spotify.com/track/51R2M1JgyFfRS3e6v5wCt3) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Clandestino](https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq) | 2:29 |
 | 47 | [Las flores](https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 2:15 |
 | 48 | [Te Para 3 \- MTV Unplugged](https://open.spotify.com/track/2kMVxFh1y5gow2hBtqGO4m) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 4:07 |
 | 49 | [Estrechez De Corazón](https://open.spotify.com/track/3NJRgHeqBfHW8EI7ZYpg0z) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Corazones](https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH) | 6:23 |

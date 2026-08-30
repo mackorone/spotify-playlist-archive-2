@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 
 > This is Jimi Hendrix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,811 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,833 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 23 | [Fire](https://open.spotify.com/track/5LI7PoHEolR8plrf3I16sq) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:43 |
 | 24 | [Angel](https://open.spotify.com/track/4m6KlFD4eMiQFzh4IVVFVm) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [The Cry of Love](https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL) | 4:25 |
 | 25 | [Sweet Angel](https://open.spotify.com/track/3t3CO2eP3gLbiFFN5Z4gmB) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:54 |
-| 26 | [Pali Gap](https://open.spotify.com/track/3rj08Z7MlxxLm8r3wW2fID) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 5:07 |
-| 27 | [Izabella](https://open.spotify.com/track/4kETOLpw7MYYo37hZSDXLl) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 3:44 |
+| 26 | [Izabella](https://open.spotify.com/track/4kETOLpw7MYYo37hZSDXLl) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 3:44 |
+| 27 | [Pali Gap](https://open.spotify.com/track/3rj08Z7MlxxLm8r3wW2fID) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 5:07 |
 | 28 | [Freedom](https://open.spotify.com/track/7emVwhF4OMemAT65nbpuZO) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [The Cry of Love](https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL) | 3:26 |
 | 29 | [Mannish Boy](https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 5:01 |
 | 30 | [Play That Riff \- Anthology Version](https://open.spotify.com/track/3tnvuCPlnWJ1g2gtzwB1y4) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [West Coast Seattle Boy: The Jimi Hendrix Anthology](https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i) | 0:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 49 | [Who Knows \- Live At Fillmore East, 1970 / 50th Anniversary](https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Band Of Gypsys \(50th Anniversary / Live\)](https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5) | 9:36 |
 | 50 | [Power To Love \- Live](https://open.spotify.com/track/7uYNdZA4LnxEwTsmIIUCCu) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Band Of Gypsys \(50th Anniversary / Live At Fillmore East, 1970\)](https://open.spotify.com/album/0X8uUl77dOADdr7v1ECVB2) | 6:58 |
 
-Snapshot ID: `ao9+AAAAAAD7Zo43HijeGDorhhcyYf25`
+Snapshot ID: `apDPgAAAAAB8+HXIojTy91wWT5LNDEit`

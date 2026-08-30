@@ -1,6 +1,6 @@
 {
   "description": "\u6765\u65e5\u5e0c\u671b\uff01\u30e9\u30a4\u30d6\u3067\u89b3\u305f\u3044\u6ce8\u76ee\u306e\u6d77\u5916\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: Alex Warren",
-  "num_followers": 9978,
+  "num_followers": 9975,
   "original_name": "The WISHLIST",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-08-28 04:01:27",
       "album": {
+        "name": "Stop The Wedding!",
+        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 198840,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
+    },
+    {
+      "added_at": "2026-08-28 04:01:27",
+      "album": {
         "name": "MOTION (feat. Juicy J)",
         "url": "https://open.spotify.com/album/7hkn5DHPOpLwrlUpxAbbnp"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2026-08-28 04:01:27",
       "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 167538,
-      "name": "I miss you, I\u2019m sorry",
-      "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
-    },
-    {
-      "added_at": "2026-08-28 04:01:27",
-      "album": {
         "name": "Short n' Sweet (Deluxe)",
         "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
       },
@@ -743,18 +743,18 @@
     {
       "added_at": "2026-08-28 04:01:27",
       "album": {
-        "name": "Stop The Wedding!",
-        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
       "artists": [
         {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 198840,
-      "name": "Stop The Wedding!",
-      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
+      "duration_ms": 167538,
+      "name": "I miss you, I\u2019m sorry",
+      "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
     },
     {
       "added_at": "2026-08-28 04:01:27",

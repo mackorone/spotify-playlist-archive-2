@@ -1,6 +1,6 @@
 {
   "description": "Remember Cinco de Mayo is not the Mexican Independence day, but here are some feel-good tunes for your cinco de drinko. \u00a1Salud!",
-  "num_followers": 44502,
+  "num_followers": 44503,
   "original_name": "Cinco de Mayo",
   "owner": {
     "name": "Spotify",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-05-04 17:00:12",
       "album": {
+        "name": "Pau Factor",
+        "url": "https://open.spotify.com/album/5aJbHf0uuWc09nain4j3wl"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 162706,
+      "name": "Dame Otro Tequila",
+      "url": "https://open.spotify.com/track/1vJcLbQyYRfmCoiyXKTsLk"
+    },
+    {
+      "added_at": "2026-05-04 17:00:12",
+      "album": {
         "name": "Botella Tras Botella",
         "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 197333,
       "name": "Botella Tras Botella",
       "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
-    },
-    {
-      "added_at": "2026-05-04 17:00:12",
-      "album": {
-        "name": "Pau Factor",
-        "url": "https://open.spotify.com/album/5aJbHf0uuWc09nain4j3wl"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 162706,
-      "name": "Dame Otro Tequila",
-      "url": "https://open.spotify.com/track/1vJcLbQyYRfmCoiyXKTsLk"
     },
     {
       "added_at": "2026-05-04 17:00:12",

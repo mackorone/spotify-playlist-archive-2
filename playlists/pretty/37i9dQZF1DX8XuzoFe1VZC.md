@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XuzoFe1VZC.md) - [plain]
 
 > Alegría para tus mañanas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,970 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,969 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,14 +55,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XuzoFe1VZC.md) - [plain]
 | 45 | [El Bolero](https://open.spotify.com/track/7FwSZyO5ynlN0OJGVOjE6k) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 3:26 |
 | 46 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
 | 47 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 |
-| 48 | [Te hacen falta dos](https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Apambichao](https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT) | 2:41 |
-| 49 | [orióN](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [orióN](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 |
+| 48 | [orióN](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [orióN](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 |
+| 49 | [Te hacen falta dos](https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Apambichao](https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT) | 2:41 |
 | 50 | [Me Lo Merezco](https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco](https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio) | 2:52 |
 | 51 | [Así](https://open.spotify.com/track/5EJiR3xJitCvsVoCf0oDKC) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Así](https://open.spotify.com/album/7HAGBrolfsdX5RVRNl5SdQ) | 3:14 |
 | 52 | [Vagabundo](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Vagabundo](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 |
 | 53 | [Tu Misterioso Alguien](https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Miranda Es Imposible!](https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO) | 4:04 |
-| 54 | [SOLEAO](https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SOLEAO](https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP) | 3:38 |
-| 55 | [Yandel 150](https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Yandel 150](https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX) | 3:36 |
+| 54 | [Yandel 150](https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Yandel 150](https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX) | 3:36 |
+| 55 | [SOLEAO](https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SOLEAO](https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP) | 3:38 |
 | 56 | [MOTINHA 2.0 \(Mete Marcha\) \- Remix](https://open.spotify.com/track/2iDDnYmaz1HhedjI91fbmp) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [MOTINHA 2.0 \(Mete Marcha\) \- Remix](https://open.spotify.com/album/01b5HiUXkbiFUV3ogYrg0I) | 1:58 |
 | 57 | [TOTOTO \(+4\)](https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [TOTOTO \(+4\)](https://open.spotify.com/album/7cfnnziRacYRtzV9CmJvab) | 2:18 |
 | 58 | [Ojos Marrones](https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Ojos Marrones](https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63) | 3:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 
 > Dedicata a chi non ha rischiato ed è sempre andato al massimo  ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,552 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,555 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 40 | [Cose Veloci](https://open.spotify.com/track/18ZdbJMhUcNpXtbk9kTA1B) | [Garbo](https://open.spotify.com/artist/7klJT9ZfZwUiXaprwIxbso) | [Fotografie](https://open.spotify.com/album/0VUxmTTE6ka4B6iw56kufZ) | 4:07 |
 | 41 | [Sinue' \- Alternative Version](https://open.spotify.com/track/4RG8tAMD8kCDiW8W6TAb0P) | [Tony Esposito](https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF) | [Sinue' \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5R9RmrSBzjR4PzEnp7c5OO) | 3:51 |
 | 42 | [Innamoratissimo](https://open.spotify.com/track/6zFbHceSJ23viD2FKoXS06) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Righeira The 80's Hit Songs](https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm) | 3:49 |
-| 43 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Il Ragazzo Della Via Gluck \(2012 Remaster\)](https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V) | 4:13 |
-| 44 | [Accidenti](https://open.spotify.com/track/1UV5OkoxrRI7ynZSQykPXm) | [Rocky Roberts](https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh) | [Rocky Roberts](https://open.spotify.com/album/4kAfPxlz8TxOvx7vyAY8xK) | 2:53 |
+| 43 | [Accidenti](https://open.spotify.com/track/1UV5OkoxrRI7ynZSQykPXm) | [Rocky Roberts](https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh) | [Rocky Roberts](https://open.spotify.com/album/4kAfPxlz8TxOvx7vyAY8xK) | 2:53 |
+| 44 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Il Ragazzo Della Via Gluck \(2012 Remaster\)](https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V) | 4:13 |
 | 45 | [Ciao Barbarella](https://open.spotify.com/track/2u8X8HaobutZdw7jtRcJT3) | [Ciro Sebastianelli](https://open.spotify.com/artist/1woevdio0DhaV9mcYxCfuk) | [Ciro Sebastianelli](https://open.spotify.com/album/3Fwu7sLQ1Oqei8qHjmvtwq) | 3:22 |
 | 46 | [Le Opere Di Bartolomeo](https://open.spotify.com/track/2Kv2f0zunEJkre9EQAJa1I) | [The Rokes](https://open.spotify.com/artist/784vfbIFL4SU0u1J0Pn0Rb) | [The Rokes](https://open.spotify.com/album/3mm9uSe1qxj3rndKZKA61E) | 3:35 |
 | 47 | [Senza impegno](https://open.spotify.com/track/2rRUTnurxd42lIBpQco6EV) | [Le Volpi Blu](https://open.spotify.com/artist/7Hnu3ZUfIIqmFGI39PNFVK) | [Il meglio](https://open.spotify.com/album/6THRv6wgJm7Or9cRDkralo) | 2:43 |

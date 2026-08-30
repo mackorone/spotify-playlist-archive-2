@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-251 songs - 14 hr 52 min
+252 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [I Wanna Love You \(feat\. Harmonize\)](https://open.spotify.com/track/2mHB3UQ6yDuyBD0TA8OACi) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 2:54 | 2022-01-26 | 2022-08-20 |
 | [I'll Be There \(feat\. MOGmusic\)](https://open.spotify.com/track/0nDlqLTFNlKtTKP3YptEC1) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 4:57 | 2022-01-27 | 2023-03-04 |
 | [IBRAHIM TRAORÉ](https://open.spotify.com/track/0nWYe6bQy71wCegnoeXO1S) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9) | [IBRAHIM TRAORÉ](https://open.spotify.com/album/2QTZRYRK0anZxoph2j6mUK) | 2:41 | 2026-07-20 |  |
+| [IDK \(with Sarkodie\)](https://open.spotify.com/track/1GHsOfL6Sx8NxKHSEbpVpr) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Where Do We Go From Here](https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD) | 2:23 | 2026-08-30 |  |
 | [Illuminati](https://open.spotify.com/track/3LYH7jwDVJNz09lnRvgGDa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/7zNJevs3UMsQZ4pPMov7VB) | 2:46 | 2025-11-22 | 2026-05-11 |
 | [Illuminati](https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 2:46 | 2021-12-28 | 2025-11-09 |
 | [Imali](https://open.spotify.com/track/6rqXjMcbaF6ntmbvFhv4ho) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4) | [Imali](https://open.spotify.com/album/4sRjCLPtaDPmbUHToa3GqS) | 2:59 | 2024-04-28 | 2024-05-25 |
@@ -141,7 +142,7 @@
 | [Legend](https://open.spotify.com/track/1pnHv6UjLso4U09tZQBxXw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Alpha](https://open.spotify.com/album/3vB23UtiQmUqwsw9Ge8xcr) | 3:44 | 2022-01-03 | 2025-02-21 |
 | [Legend](https://open.spotify.com/track/7ygipjnXCQkQol6LV7bFfH) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Alpha](https://open.spotify.com/album/02Fdc9IyjXftI5UtApkCKd) | 3:44 | 2026-01-21 | 2026-01-22 |
 | [Light It Up](https://open.spotify.com/track/4zB6pw3SOjK3Gkz5ESssgd) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Big Narstie](https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 4:57 | 2022-03-26 | 2022-03-30 |
-| [LOMO \(League On My Own\)](https://open.spotify.com/track/7Im6qCPwCter92NXAUDdvr) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [LOMO \(League On My Own\)](https://open.spotify.com/album/1270NwzRh39zsb43lqGPMh) | 3:44 | 2026-07-29 |  |
+| [LOMO \(League On My Own\)](https://open.spotify.com/track/7Im6qCPwCter92NXAUDdvr) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [LOMO \(League On My Own\)](https://open.spotify.com/album/1270NwzRh39zsb43lqGPMh) | 3:44 | 2026-07-29 | 2026-08-30 |
 | [LONELY \(feat\. Sarkodie\)](https://open.spotify.com/track/1z29fkHyKrvZDglpyptvq3) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 4:09 | 2023-11-10 | 2024-05-20 |
 | [Love Yourself](https://open.spotify.com/track/5YOvMsGOPTHvRCcctSlVNM) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 3:00 | 2022-04-09 | 2022-09-02 |
 | [LOYALTY](https://open.spotify.com/track/5HVada5wfaycUQnf6OFZkI) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 3:07 | 2024-05-26 | 2024-10-15 |

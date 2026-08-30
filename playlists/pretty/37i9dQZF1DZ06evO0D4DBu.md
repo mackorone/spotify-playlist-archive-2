@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 
 > This is Chance the Rapper\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,748 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,752 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 24 | [Acid Rain](https://open.spotify.com/track/1aYeBUofVM4l9Pc1XGwz5q) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Acid Rap](https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid) | 3:36 |
 | 25 | [Living Single](https://open.spotify.com/track/36xxq7VDZZsGwARsn6Clo7) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Living Single](https://open.spotify.com/album/02pV9mCJ2PJNPVWyOFTv37) | 4:36 |
 | 26 | [All We Got \(feat\. Kanye West & Chicago Children's Choir\)](https://open.spotify.com/track/3ZLyt2ndLFBh148XRYjYYZ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chicago Children's Choir](https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 3:23 |
-| 27 | [Hot Shower](https://open.spotify.com/track/6TagqfYkLRIo8SPNdyaJ4f) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [The Big Day](https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6) | 3:45 |
-| 28 | [The Highs & The Lows \(feat\. Joey BadA$$\)](https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 4:15 |
+| 27 | [The Highs & The Lows \(feat\. Joey BadA$$\)](https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 4:15 |
+| 28 | [Hot Shower](https://open.spotify.com/track/6TagqfYkLRIo8SPNdyaJ4f) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [The Big Day](https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6) | 3:45 |
 | 29 | [Stars Out](https://open.spotify.com/track/1mTHqHDmUHhAKmO9mRur4z) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Stars Out](https://open.spotify.com/album/1uo4iofp5IAGr2GKVhvc2H) | 1:47 |
 | 30 | [Summer Friends \(feat\. Jeremih & Francis & The Lights\)](https://open.spotify.com/track/2fl0B0OaXjWbjHCQFx2O8W) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 4:50 |
 | 31 | [Forever Always](https://open.spotify.com/track/1Ioxy6OY4NwwxHFS7XLh8I) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [CATCH](https://open.spotify.com/album/50EKsOTP0hqXaVoITqhgsi) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 49 | [Star Side Intro](https://open.spotify.com/track/0YiizfHPZxx0LfUQsEzsDo) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 3:43 |
 | 50 | [Together](https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Together](https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf) | 2:59 |
 
-Snapshot ID: `ao9+AAAAAABd07s95X5UFew3WEfeOu67`
+Snapshot ID: `apDPgAAAAACYGuz2Hin4tD841YGHwWAJ`

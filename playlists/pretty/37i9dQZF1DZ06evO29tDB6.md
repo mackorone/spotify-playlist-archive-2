@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 
 > This is El Tri\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,221 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,238 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 | 49 | [Triste canción de amor \(con El Tri\)](https://open.spotify.com/track/5mYa4SjEvkrQmHNyEIwXTb) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Miguel Ríos y las estrellas del Rock latino](https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH) | 3:23 |
 | 50 | [Difícil](https://open.spotify.com/track/6Y0hl9kDq78tTZUXAWzT0q) | [La Leyenda](https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Escrito En Piedra](https://open.spotify.com/album/1nfbPPEBuDGPjreY4d9v48) | 2:37 |
 
-Snapshot ID: `ao9+AAAAAABeyN7cZywFFxJbN0It2XAy`
+Snapshot ID: `apDPgAAAAACgwLbUnCT6KIn7aBMN0J1M`

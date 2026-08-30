@@ -1,6 +1,6 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 300082,
+  "num_followers": 300289,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
+        "name": "The Massacre",
+        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "Disco Inferno",
+      "url": "https://open.spotify.com/track/69bHJ9qs5FrUJbKP8xU8uZ"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 235533,
       "name": "How We Do",
       "url": "https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
-        "name": "The Massacre",
-        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "Disco Inferno",
-      "url": "https://open.spotify.com/track/69bHJ9qs5FrUJbKP8xU8uZ"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -507,6 +507,34 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/0NTYMm0B7adXejff1phD3F"
+      },
+      "artists": [
+        {
+          "name": "Terror Squad",
+          "url": "https://open.spotify.com/artist/2BvzbqWWwLN11XGBYgDZzx"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "Remy Ma",
+          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+        },
+        {
+          "name": "remy",
+          "url": "https://open.spotify.com/artist/4JMR34sJ8DghoiLOuIllCZ"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "Lean Back",
+      "url": "https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
       },
@@ -535,34 +563,6 @@
       "duration_ms": 193733,
       "name": "Jesus Walks",
       "url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
-        "name": "True Story",
-        "url": "https://open.spotify.com/album/0NTYMm0B7adXejff1phD3F"
-      },
-      "artists": [
-        {
-          "name": "Terror Squad",
-          "url": "https://open.spotify.com/artist/2BvzbqWWwLN11XGBYgDZzx"
-        },
-        {
-          "name": "Fat Joe",
-          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
-        },
-        {
-          "name": "Remy Ma",
-          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
-        },
-        {
-          "name": "remy",
-          "url": "https://open.spotify.com/artist/4JMR34sJ8DghoiLOuIllCZ"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Lean Back",
-      "url": "https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "Aquemini",
-        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 324369,
-      "name": "Rosa Parks",
-      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 231240,
       "name": "Break Ya Neck",
       "url": "https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "Aquemini",
+        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 324369,
+      "name": "Rosa Parks",
+      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
+        "name": "Internal Affairs",
+        "url": "https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS"
+      },
+      "artists": [
+        {
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+        }
+      ],
+      "duration_ms": 173373,
+      "name": "Simon Says",
+      "url": "https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
         "name": "When Disaster Strikes...",
         "url": "https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 194293,
       "name": "Put Your Hands Where My Eyes Could See (feat. Jamal)",
       "url": "https://open.spotify.com/track/1NHwvBmrUje4L1dxfWnXCH"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
-        "name": "Internal Affairs",
-        "url": "https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS"
-      },
-      "artists": [
-        {
-          "name": "Pharoahe Monch",
-          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
-        }
-      ],
-      "duration_ms": 173373,
-      "name": "Simon Says",
-      "url": "https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6"
     },
     {
       "added_at": "2024-10-25 23:07:14",

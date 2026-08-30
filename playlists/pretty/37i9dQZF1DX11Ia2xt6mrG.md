@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. RØZ en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,084 likes - 90 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,122 likes - 90 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 19 | [Solo Quiero Tomar](https://open.spotify.com/track/5lbdtAkTRsWCYBbkb2y7Sc) | [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Kill the Clowns](https://open.spotify.com/artist/7KczDuPvlKEo8nQCpa8my8) | [Solo Quiero Tomar](https://open.spotify.com/album/1tFw1Azm3nI4YxjHSOJu3l) | 2:42 |
 | 20 | [HOUSE OF LUX 2](https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EVOLUXION](https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0) | 2:25 |
 | 21 | [Anestesia](https://open.spotify.com/track/1mjapXQHm6DapzTlGNKdBi) | [Pato Shoucair](https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC) | [Anestesia](https://open.spotify.com/album/1Bta845oR23nfA6VqkIVjc) | 2:38 |
-| 22 | [Quemando Papel](https://open.spotify.com/track/3tiaqn4MVRX9prDxiBNgHA) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [Quemando Papel](https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9) | 3:14 |
+| 22 | [Coqueta](https://open.spotify.com/track/2Woc5FpMWlLZUBGVZBY1Hn) | [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7) | [Coqueta](https://open.spotify.com/album/3wwumf5M071TZgngk70ZPa) | 3:02 |
 | 23 | [Ya no te quiero ver](https://open.spotify.com/track/2DByHCKGgd1J66nJvChvtl) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Ya no te quiero ver](https://open.spotify.com/album/1cZiPR4BvIiTr0x9P0zzP8) | 3:33 |
-| 24 | [Coqueta](https://open.spotify.com/track/2Woc5FpMWlLZUBGVZBY1Hn) | [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7) | [Coqueta](https://open.spotify.com/album/3wwumf5M071TZgngk70ZPa) | 3:02 |
+| 24 | [Quemando Papel](https://open.spotify.com/track/3tiaqn4MVRX9prDxiBNgHA) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [Quemando Papel](https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9) | 3:14 |
 | 25 | [LA PERLA \(V\. ELECTRO\-CORRIDO\)](https://open.spotify.com/track/6uyiI0rLWiYc2DkG0USL4s) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [LA PERLA \(V\. ELECTRO\-CORRIDO\)](https://open.spotify.com/album/4dYtSX7swBIrNsBSWWLpVa) | 3:02 |
 | 26 | [Flores de Abril](https://open.spotify.com/track/5nFrZoTp4FfBCWAHr5Aqyx) | [Pato Shoucair](https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC), [DIAN](https://open.spotify.com/artist/1axT977BV0cQMFt5ChzhAa) | [Flores de Abril](https://open.spotify.com/album/7gG5uYFywQBnHnk4ckKha2) | 4:17 |
 | 27 | [ESTAMOS READY](https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE) | [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM), [Dj Human Star](https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW) | [ESTAMOS READY](https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9) | 3:34 |

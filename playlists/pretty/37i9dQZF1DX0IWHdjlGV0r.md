@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Alcuni amori bruciano più di altri\. Cover:  Shiva
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,865 likes - 85 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,874 likes - 85 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,18 +80,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 70 | [Tu Mi Piaci \(feat\. Artie 5ive\)](https://open.spotify.com/track/5O5yM8JaaL0erqrP9h7bR2) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Latte in Polvere](https://open.spotify.com/album/1RjEbi0mbq9x7oUDMWq159) | 2:25 |
 | 71 | [Prometto \(feat\. Rkomi & Luchè\)](https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mattoni](https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf) | 3:14 |
 | 72 | [Ridere di Te \(2026\)](https://open.spotify.com/track/0HVfLomqxqMyOXh37yob8d) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF), [Dibla](https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Nerissima](https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER) | 2:38 |
-| 73 | [Una vita fa](https://open.spotify.com/track/37rCWMWi55l8HibKLrDCS2) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Una vita fa](https://open.spotify.com/album/7leF68HTvHBT2xOTXb7CDl) | 2:23 |
-| 74 | [MADAME \- L'anima \(feat\. Madame\)](https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:41 |
+| 73 | [MADAME \- L'anima \(feat\. Madame\)](https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:41 |
+| 74 | [Una vita fa](https://open.spotify.com/track/37rCWMWi55l8HibKLrDCS2) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Una vita fa](https://open.spotify.com/album/7leF68HTvHBT2xOTXb7CDl) | 2:23 |
 | 75 | [Too Late](https://open.spotify.com/track/1uT82ueY3VgRkN30shACCj) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [RYAN TED](https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7) | 2:17 |
 | 76 | [Angelina Jolie](https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Angelina Jolie](https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR) | 2:49 |
 | 77 | [Amore cieco \(feat\. Madame\)](https://open.spotify.com/track/3brSEPeDXaGHUnf3HZqGXJ) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Containers](https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc) | 2:40 |
-| 78 | [Nn è divertente](https://open.spotify.com/track/5JBpzVzJmlvr8cgApQHceV) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [26](https://open.spotify.com/album/67SBrrE0LhCNEJpar5MQ0P) | 2:31 |
-| 79 | [PENTOTHAL](https://open.spotify.com/track/3WS0TcakSQfE0t1fFTQwDW) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:47 |
+| 78 | [PENTOTHAL](https://open.spotify.com/track/3WS0TcakSQfE0t1fFTQwDW) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:47 |
+| 79 | [Nn è divertente](https://open.spotify.com/track/5JBpzVzJmlvr8cgApQHceV) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [26](https://open.spotify.com/album/67SBrrE0LhCNEJpar5MQ0P) | 2:31 |
 | 80 | [ALIBI](https://open.spotify.com/track/1zfszqoisdKWCIfFToaMHi) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:58 |
 | 81 | [9 FEBBRAIO](https://open.spotify.com/track/5K8HIXj7NB8PPfvWeaeEc0) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [MORENDO AD OCCHI APERTI](https://open.spotify.com/album/0FR8xNZ062P4lWYFLya43C) | 2:32 |
 | 82 | [PAZZA IDEA \(feat\. Achille Lauro\)](https://open.spotify.com/track/3dykyedkNzBu5VpfAFBCgp) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Sine](https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n) | [FUNNY GAMES](https://open.spotify.com/album/4V8qhBg6rU8kd1THoGf2Pf) | 2:50 |
 | 83 | [Bella](https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Bella](https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP) | 3:01 |
 | 84 | [Soli \(Assieme\)](https://open.spotify.com/track/2opjdnFzcgsp5wt8IYj8oN) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Mercurio](https://open.spotify.com/album/3pXSt0UQJINOx5GP6NORLj) | 3:25 |
-| 85 | [NIKITA](https://open.spotify.com/track/4Nz4if133Xq9o06pgIkfOu) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Anno Zero](https://open.spotify.com/album/7shtYxDm2JIN1hmypbmYBr) | 2:34 |
+| 85 | [Vicini ma Lontani](https://open.spotify.com/track/1rUtOIReT93YATZLv4GqNy) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Nerissima](https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER) | 2:01 |
 
 Snapshot ID: `AAAAAG+Nft8ZIf3/RA1754fJRVgDhXHl`

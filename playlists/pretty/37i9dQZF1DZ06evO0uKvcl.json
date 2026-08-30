@@ -1,12 +1,12 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 31486,
+  "num_followers": 31490,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAADiccC8M7U69Q4alsMPrlyK",
+  "snapshot_id": "apDPgAAAAACsAQFmoUZg5WmMEfaEp7kt",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "Commit A Crime",
-      "url": "https://open.spotify.com/track/2AZ3TMtCVzbrOI6KJHgaCw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 139826,
       "name": "Do The Do",
       "url": "https://open.spotify.com/track/2J2G92kpvzKJHLSTB1HXME"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "Commit A Crime",
+      "url": "https://open.spotify.com/track/2AZ3TMtCVzbrOI6KJHgaCw"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Tail Dragger",
-      "url": "https://open.spotify.com/track/4NOGASaEbMZftUAq3u8mVB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 223946,
       "name": "Rockin' Daddy",
       "url": "https://open.spotify.com/track/0aRpkN7kqJKjkzxv6ukKLI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Tail Dragger",
+      "url": "https://open.spotify.com/track/4NOGASaEbMZftUAq3u8mVB"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
-        "url": "https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 159373,
-      "name": "Going Back Home",
-      "url": "https://open.spotify.com/track/2I48KvJxmIXeIZJjmrJxHW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 182276,
       "name": "What A Woman",
       "url": "https://open.spotify.com/track/0RA2ZUg2D4zakY3QE2fEUH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
+        "url": "https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 159373,
+      "name": "Going Back Home",
+      "url": "https://open.spotify.com/track/2I48KvJxmIXeIZJjmrJxHW"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Back Door Wolf",
-        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+        "name": "His Best, Vol.2",
+        "url": "https://open.spotify.com/album/5rL0QUmh9iE6LbR1GEBvvb"
       },
       "artists": [
         {
@@ -652,25 +652,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 293066,
-      "name": "You Turn Slick On Me",
-      "url": "https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Change My Way",
-        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 134600,
-      "name": "I've Been Abused - Single Version",
-      "url": "https://open.spotify.com/track/2QJA0Gsodidit6P7OnDl16"
+      "duration_ms": 174666,
+      "name": "New Crawlin' King Snake - Single Version",
+      "url": "https://open.spotify.com/track/3rTrYU2iwNv3pnd7u4kfTX"
     },
     {
       "added_at": null,
@@ -691,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 293066,
+      "name": "You Turn Slick On Me",
+      "url": "https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "More Real Folk Blues",
         "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Best, Vol.2",
-        "url": "https://open.spotify.com/album/5rL0QUmh9iE6LbR1GEBvvb"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "New Crawlin' King Snake - Single Version",
-      "url": "https://open.spotify.com/track/3rTrYU2iwNv3pnd7u4kfTX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Change My Way",
         "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
       },
@@ -732,9 +716,25 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 162093,
-      "name": "I Better Go Now - Single Version",
-      "url": "https://open.spotify.com/track/2YQclFbhN5AF54JZfZZM80"
+      "duration_ms": 134600,
+      "name": "I've Been Abused - Single Version",
+      "url": "https://open.spotify.com/track/2QJA0Gsodidit6P7OnDl16"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
+        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 154440,
+      "name": "Midnight Blues - Alternate Take To \"Moaning For My Baby\"",
+      "url": "https://open.spotify.com/track/790M4TsGpZraL5sHqgSISD"
     },
     {
       "added_at": null,
@@ -755,8 +755,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
-        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
+        "name": "Electro Blues - In House Selection",
+        "url": "https://open.spotify.com/album/3WIp2Kipz5Wc4OPLvQ54iW"
+      },
+      "artists": [
+        {
+          "name": "Swing Republic",
+          "url": "https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX"
+        },
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Cryin' at Daybreak",
+      "url": "https://open.spotify.com/track/5qCis4a4VWrU4YbZ8gRQMW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
       },
       "artists": [
         {
@@ -764,9 +784,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 154440,
-      "name": "Midnight Blues - Alternate Take To \"Moaning For My Baby\"",
-      "url": "https://open.spotify.com/track/790M4TsGpZraL5sHqgSISD"
+      "duration_ms": 162093,
+      "name": "I Better Go Now - Single Version",
+      "url": "https://open.spotify.com/track/2YQclFbhN5AF54JZfZZM80"
     },
     {
       "added_at": null,
@@ -795,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change My Way",
-        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 140760,
-      "name": "Hidden Charms - Single Version",
-      "url": "https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Back Door Wolf",
         "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
       },
@@ -823,42 +827,6 @@
       "duration_ms": 175160,
       "name": "Stop Using Me",
       "url": "https://open.spotify.com/track/6Sf2fZ9SqkF1shOetY9Qia"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electro Blues - In House Selection",
-        "url": "https://open.spotify.com/album/3WIp2Kipz5Wc4OPLvQ54iW"
-      },
-      "artists": [
-        {
-          "name": "Swing Republic",
-          "url": "https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX"
-        },
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Cryin' at Daybreak",
-      "url": "https://open.spotify.com/track/5qCis4a4VWrU4YbZ8gRQMW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Howlin' Wolf Greatest Songs",
-        "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 191194,
-      "name": "Color And Kind",
-      "url": "https://open.spotify.com/track/0nHrMtXwO96IB1Bpasggv0"
     },
     {
       "added_at": null,
@@ -879,6 +847,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 140760,
+      "name": "Hidden Charms - Single Version",
+      "url": "https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Howlin' Wolf Greatest Songs",
+        "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 191194,
+      "name": "Color And Kind",
+      "url": "https://open.spotify.com/track/0nHrMtXwO96IB1Bpasggv0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live in Europe 1964 (2025 Remaster)",
         "url": "https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 249440,
       "name": "All My Life - Live in Europe 1964 - 2025 Remaster",
       "url": "https://open.spotify.com/track/1Cir0qnb0sdjzTtzisaGa3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
+        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 52466,
+      "name": "Rollin' And Tumblin' - Acoustic Fragment",
+      "url": "https://open.spotify.com/track/48mLutxZGbIXtsji9yg2nq"
     },
     {
       "added_at": null,
@@ -923,22 +939,6 @@
       "duration_ms": 334640,
       "name": "I Didn't Mean to Hurt Your Feelings - Live in Europe 1964 - 2025 Remaster",
       "url": "https://open.spotify.com/track/5KJJ9nLPdplYLv7QQuXDe4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live in Europe 1964 (2025 Remaster)",
-        "url": "https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 302266,
-      "name": "Dust My Broom - Live in Europe 1964 - 2025 Remaster",
-      "url": "https://open.spotify.com/track/4a0NdfY3aWOlZCB3nWz0vS"
     }
   ],
   "unique_name": "This Is Howlin' Wolf",

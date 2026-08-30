@@ -13125,6 +13125,24 @@
     },
     {
       "album": {
+        "name": "me leva pro rio",
+        "url": "https://open.spotify.com/album/6ozqGnMMCCWKqarf5GiKrm"
+      },
+      "artists": [
+        {
+          "name": "GEORGIA",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197475,
+      "name": "me leva pro rio",
+      "url": "https://open.spotify.com/track/2MtNg5GShfuAx81P0yTmOs"
+    },
+    {
+      "album": {
         "name": "Me Pede",
         "url": "https://open.spotify.com/album/4ocTbAztiGLSzyZzFHHkq5"
       },
@@ -14916,7 +14934,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 146538,
       "name": "Noites de Neon",
       "url": "https://open.spotify.com/track/427JHB9CmpmxSten7B2isW"
@@ -22585,6 +22603,28 @@
     },
     {
       "album": {
+        "name": "Tar\u00f4",
+        "url": "https://open.spotify.com/album/1CTPrzBcyeuiZjzvG6NCBD"
+      },
+      "artists": [
+        {
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        },
+        {
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200345,
+      "name": "Tar\u00f4",
+      "url": "https://open.spotify.com/track/5YRD5hiYRWt95shTotBH3d"
+    },
+    {
+      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/3nuQgAJqmoCEpX30Cn5Vue"
       },
@@ -24818,7 +24858,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 185333,
       "name": "Vida N\u00e3o Termina",
       "url": "https://open.spotify.com/track/7rxzphWZZtbafKVESNRpbi"

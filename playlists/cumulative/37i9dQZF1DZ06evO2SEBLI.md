@@ -4,7 +4,7 @@
 
 > This is iu takahashi\. The essential tracks, all in one playlist.
 
-41 songs - 3 hr 57 min
+48 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,9 +17,11 @@
 | [calm](https://open.spotify.com/track/2ZuGJTPuvGNUwOvo7aOdxi) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [halfway](https://open.spotify.com/album/5uL4z2w5vlSzN07eIfexwU) | 6:38 | 2026-03-19 | 2026-08-27 |
 | [calm](https://open.spotify.com/track/7yT4fFCdS0VVdRBL0FJyCW) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [halfway](https://open.spotify.com/album/7x0VzfFtiO6bL1NgXF6gjW) | 6:38 | 2026-04-03 |  |
 | [Cave](https://open.spotify.com/track/21pTXLNvnDeLVb1dIZ7RZq) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Still Left](https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H) | 3:54 | 2026-03-19 |  |
+| [Consonant](https://open.spotify.com/track/4vIK50cA0d1amSQhkLDzgT) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Ipsum](https://open.spotify.com/album/07sKlyabgqhrl82dJ4xeVo) | 2:16 | 2026-08-30 |  |
 | [Culvert](https://open.spotify.com/track/1Y2fWkiSpIo4UP5N2hhsJO) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Still Left](https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H) | 5:51 | 2026-03-19 |  |
 | [Dawn](https://open.spotify.com/track/5Xqztjg5pWur2Naxjwv0ca) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Contour](https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY) | 8:19 | 2026-03-19 |  |
 | [Daydreaming](https://open.spotify.com/track/3gO9CRgwtyTo1aohvw6rYD) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Late in life](https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R) | 3:58 | 2026-03-19 |  |
+| [Dejavu](https://open.spotify.com/track/7usjjaXqsjMBmpqFncp0lm) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Ipsum](https://open.spotify.com/album/07sKlyabgqhrl82dJ4xeVo) | 5:24 | 2026-08-30 |  |
 | [Dew](https://open.spotify.com/track/5yUkO5rXLUsMTIRyGJujaj) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Contour](https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY) | 6:20 | 2026-03-29 |  |
 | [end is \_\_\_](https://open.spotify.com/track/0bZJYufmFxZ3XIdCGnMlZm) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Late in life](https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R) | 4:54 | 2026-03-19 |  |
 | [Ether](https://open.spotify.com/track/4nPWO2GRxNoTwlBFPgMqTh) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Contour](https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY) | 4:17 | 2026-03-19 |  |
@@ -35,9 +37,11 @@
 | [IDFA](https://open.spotify.com/track/3K7lh0YTE7WJCOoxoMF6xA) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [halfway](https://open.spotify.com/album/5uL4z2w5vlSzN07eIfexwU) | 6:00 | 2026-03-19 | 2026-08-27 |
 | [IDFA](https://open.spotify.com/track/7jgIw9m11YU4qB0pqpOUe4) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [halfway](https://open.spotify.com/album/7x0VzfFtiO6bL1NgXF6gjW) | 6:00 | 2026-04-03 |  |
 | [Innocence](https://open.spotify.com/track/4Cl2GRlmaL1DJEJOd19XQG) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Still Left](https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H) | 4:38 | 2026-03-22 | 2026-08-12 |
+| [Kyōju](https://open.spotify.com/track/5D6ZKan4u61JceCylmRv7j) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Ipsum](https://open.spotify.com/album/07sKlyabgqhrl82dJ4xeVo) | 4:29 | 2026-08-30 |  |
 | [Listen / Season](https://open.spotify.com/track/3C6KU5hZvaanvtzbWqBZDY) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Sense/Margin](https://open.spotify.com/album/79fRwUPPG9KtGUoxTASTgC) | 3:08 | 2026-03-19 |  |
 | [Lotus](https://open.spotify.com/track/6BDIWeFRjXx4ilf7GazzJM) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Late in life](https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R) | 3:54 | 2026-03-19 |  |
 | [Ma](https://open.spotify.com/track/6JxYkB8w6fzgK0LPctp2dC) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Interspace](https://open.spotify.com/album/2VbA8iS39yqOChWVPxC0kA) | 5:29 | 2026-03-19 |  |
+| [Minerals Poetry](https://open.spotify.com/track/3hP5bDjE2ciZQ6XoKblpwv) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Ipsum](https://open.spotify.com/album/07sKlyabgqhrl82dJ4xeVo) | 6:35 | 2026-08-30 |  |
 | [Mitake](https://open.spotify.com/track/1Cq7uBcl3gHm4l2fvdknv3) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Contour](https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY) | 8:26 | 2026-03-19 |  |
 | [Oblivion](https://open.spotify.com/track/1GRsoPEqDv649lZDFdya0G) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Late in life](https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R) | 6:24 | 2026-03-19 |  |
 | [Open / Rain](https://open.spotify.com/track/2qFN6SGD9wYnyToxlRjjYx) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Sense/Margin](https://open.spotify.com/album/79fRwUPPG9KtGUoxTASTgC) | 3:41 | 2026-03-19 |  |
@@ -45,9 +49,12 @@
 | [Rustle](https://open.spotify.com/track/67cO2PbFqNBfZ6k1srD2Hn) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Still Left](https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H) | 6:00 | 2026-03-19 |  |
 | [Sand River](https://open.spotify.com/track/0voRWUPEUd7tmknMWL9Fz8) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Still Left](https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H) | 12:28 | 2026-03-19 |  |
 | [Sen](https://open.spotify.com/track/6Dx6G9i7t0OzSCRr6lUV7p) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Depthscape](https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK) | 10:16 | 2026-03-19 |  |
+| [Shelter Skin](https://open.spotify.com/track/18JAkig44BsrY4R5P8Ltma) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Ipsum](https://open.spotify.com/album/07sKlyabgqhrl82dJ4xeVo) | 3:30 | 2026-08-30 |  |
 | [Stable / In Praise Of Shadows](https://open.spotify.com/track/4Y58IeHK31o2DMLDxdVfup) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Sense/Margin](https://open.spotify.com/album/79fRwUPPG9KtGUoxTASTgC) | 4:58 | 2026-03-19 |  |
 | [Ten](https://open.spotify.com/track/4qYZegpAWSfWecpp6qAYh2) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Depthscape](https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK) | 10:24 | 2026-03-19 |  |
 | [Underground Birds](https://open.spotify.com/track/7ggeZ490uCp0Sh5GFt4L2O) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Still Left](https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H) | 5:28 | 2026-03-19 |  |
+| [Utterance](https://open.spotify.com/track/4baRcCmVRhquNccu9SgLpj) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Ipsum](https://open.spotify.com/album/07sKlyabgqhrl82dJ4xeVo) | 3:12 | 2026-08-30 |  |
 | [Vacant house](https://open.spotify.com/track/7uRSs9QvLUvKD5Y6tixIyb) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Late in life](https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R) | 5:15 | 2026-03-19 |  |
+| [Veil](https://open.spotify.com/track/23j5Wx4EzHbW4eTVu8W8CL) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Ipsum](https://open.spotify.com/album/07sKlyabgqhrl82dJ4xeVo) | 7:14 | 2026-08-30 |  |
 
 \*This playlist was first scraped on 2026-03-19. Prior content cannot be recovered.

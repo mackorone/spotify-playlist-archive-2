@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 
 > This is Funeral For A Friend\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,302 likes - 48 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,303 likes - 48 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 | 47 | [Art Of American Football](https://open.spotify.com/track/7HbHEmWb14Jj7bfzcEanwL) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Seven Ways To Scream Your Name](https://open.spotify.com/album/3rZ1lsw6PjMvggxPtQyviS) | 2:33 |
 | 48 | [Waterfront Dance Club](https://open.spotify.com/track/4iWVLNcfik1T1OxfLG7KEx) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 4:24 |
 
-Snapshot ID: `ao9+AAAAAAA76ultEECdWx0wUdw5SI2I`
+Snapshot ID: `apDPgAAAAABV0iTrjRgePGMGhIi5tqQI`

@@ -4,7 +4,7 @@
 
 > This is Calibre 50\. The essential tracks, all in one playlist.
 
-91 songs - 4 hr 49 min
+92 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Las Ultras](https://open.spotify.com/track/32nbIrhBqKTuZr4hFnlDbU) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 2:06 | 2023-08-08 |  |
 | [Los Principios Un Tesoro](https://open.spotify.com/track/3CwK8gcr1zTadTToABKoIX) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El Sueño Americano](https://open.spotify.com/album/5eUwdcecpVQDKqAzNr9Ycf) | 2:35 | 2024-12-08 | 2025-01-05 |
 | [Maybe](https://open.spotify.com/track/5zgSmleyrrWOBOt2vfRpfV) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Las Culebras](https://open.spotify.com/album/2Vvf4lURmmpC9QLeP28Kte) | 2:55 | 2024-05-19 | 2024-06-16 |
-| [Me Enamoré Solo](https://open.spotify.com/track/1p8ktN7uVGq04LIYYyveRQ) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Me Enamoré Solo](https://open.spotify.com/album/4QuqWX0Gniy5l01FwZVxO1) | 3:05 | 2026-01-15 |  |
+| [Me Enamoré Solo](https://open.spotify.com/track/1p8ktN7uVGq04LIYYyveRQ) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Me Enamoré Solo](https://open.spotify.com/album/4QuqWX0Gniy5l01FwZVxO1) | 3:05 | 2026-01-15 | 2026-08-30 |
 | [Mi Problema](https://open.spotify.com/track/7rPsUk73ECuvuliteIS5LE) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mi Problema](https://open.spotify.com/album/4R8EESNE81YaF6xBamLsjW) | 2:54 | 2026-08-09 |  |
 | [Mi Sorpresa Fuiste Tú](https://open.spotify.com/track/59S2kAfdUxi6k2Si8Vi0f3) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mitad Y Mitad](https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R) | 3:49 | 2023-08-08 |  |
 | [Mitad Y Mitad](https://open.spotify.com/track/6op4hkxR1jfX9t1Dghe8BN) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mitad Y Mitad](https://open.spotify.com/album/046St1TwXGyKvJceYfLhwl) | 2:40 | 2023-12-13 | 2024-04-15 |
@@ -67,6 +67,7 @@
 | [Ni Mandándote A Hacer](https://open.spotify.com/track/5JQLQCEqMOZLZW78qIVm9N) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 4:06 | 2023-08-08 |  |
 | [Ni Que Estuvieras Tan Buena](https://open.spotify.com/track/3ElOgE8UIHSCqQu1L4FBco) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [La Recompensa](https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo) | 2:18 | 2023-08-08 |  |
 | [Para Qué Pensarla Tanto](https://open.spotify.com/track/2AegxIS0LbtMXM8vktSh0W) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 2:15 | 2023-08-08 | 2024-10-11 |
+| [Pata De Perro](https://open.spotify.com/track/7JHjg4NnMbDU8CKPyoyuqb) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Pata De Perro](https://open.spotify.com/album/6NymS09wSk1y3Nd3v1Boq3) | 2:13 | 2026-08-30 |  |
 | [Préstamela A Mí](https://open.spotify.com/track/53ZeTI1ypKdYGlWRv0bG2S) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/18NZvh16Lj0HIhv0YgaSsZ) | 3:33 | 2025-04-08 |  |
 | [Préstamela a Mí](https://open.spotify.com/track/2EGqa4yp5xGfu3sppG0oFy) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 3:33 | 2024-04-04 | 2025-04-08 |
 | [Que Sea](https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Que Sea](https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR) | 2:50 | 2023-08-08 |  |

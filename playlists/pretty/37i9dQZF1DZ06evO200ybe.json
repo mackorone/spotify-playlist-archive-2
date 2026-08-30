@@ -1,12 +1,12 @@
 {
   "description": "This is Chet Baker. The essential tracks, all in one playlist.",
-  "num_followers": 126489,
+  "num_followers": 126507,
   "original_name": "This Is Chet Baker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABPqvYFl0a/AOXAwhWZ8ao1",
+  "snapshot_id": "apDPgAAAAABeTnq4LOcCgR7O2W1L3muX",
   "tracks": [
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
+        "name": "Baby Breeze (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 189226,
-      "name": "Dancing on the Ceiling",
-      "url": "https://open.spotify.com/track/27j5vjWiTCnys8U2AJQnJ3"
+      "duration_ms": 192906,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/1gF8EnsbcFBaYsNig7LhtN"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby Breeze (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 192906,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/1gF8EnsbcFBaYsNig7LhtN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
       },
@@ -316,9 +300,25 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 186466,
-      "name": "The More I See You",
-      "url": "https://open.spotify.com/track/4i3Js0sRUEfBSvIwCPvKRz"
+      "duration_ms": 189226,
+      "name": "Dancing on the Ceiling",
+      "url": "https://open.spotify.com/track/27j5vjWiTCnys8U2AJQnJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby Breeze (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 198426,
+      "name": "You're Mine, You!",
+      "url": "https://open.spotify.com/track/5JRDIhGU31EyE4OSUlDtWI"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby Breeze (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 198426,
-      "name": "You're Mine, You!",
-      "url": "https://open.spotify.com/track/5JRDIhGU31EyE4OSUlDtWI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
       },
@@ -380,41 +364,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 306893,
-      "name": "I\u2019m Old Fashioned",
-      "url": "https://open.spotify.com/track/6KM0MJaeSXK87u6iLhHBu6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chet (Mono)",
-        "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 276827,
-      "name": "You'd Be So Nice To Come Home To - Mono",
-      "url": "https://open.spotify.com/track/2oCnRryJfTMOV1gs0oA3Sv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Most Important Jazz Album Of 1964/65",
-        "url": "https://open.spotify.com/album/06ymq9Pi6OEzgdoeRPfHzM"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 282280,
-      "name": "Soultrane",
-      "url": "https://open.spotify.com/track/6FAaA71foLB96CYdirZO3n"
+      "duration_ms": 186466,
+      "name": "The More I See You",
+      "url": "https://open.spotify.com/track/4i3Js0sRUEfBSvIwCPvKRz"
     },
     {
       "added_at": null,
@@ -435,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chet (Mono)",
+        "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 276827,
+      "name": "You'd Be So Nice To Come Home To - Mono",
+      "url": "https://open.spotify.com/track/2oCnRryJfTMOV1gs0oA3Sv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
         "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
       },
@@ -451,6 +419,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 306893,
+      "name": "I\u2019m Old Fashioned",
+      "url": "https://open.spotify.com/track/6KM0MJaeSXK87u6iLhHBu6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Most Important Jazz Album Of 1964/65",
+        "url": "https://open.spotify.com/album/06ymq9Pi6OEzgdoeRPfHzM"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 282280,
+      "name": "Soultrane",
+      "url": "https://open.spotify.com/track/6FAaA71foLB96CYdirZO3n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chet (Mono)",
         "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
       },
@@ -463,22 +463,6 @@
       "duration_ms": 282337,
       "name": "It Never Entered My Mind - Mono",
       "url": "https://open.spotify.com/track/20DLzdfrVKNJFsKQLj8eMh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Art Of The Ballad",
-        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 473666,
-      "name": "Polka Dots And Moonbeams",
-      "url": "https://open.spotify.com/track/1pzTm9kIN7PJ5LM5qDrwcZ"
     },
     {
       "added_at": null,
@@ -511,6 +495,22 @@
       "duration_ms": 173160,
       "name": "It Could Happen to You",
       "url": "https://open.spotify.com/track/0Ve39xlLUEwJlxEpKR117l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Art Of The Ballad",
+        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 473666,
+      "name": "Polka Dots And Moonbeams",
+      "url": "https://open.spotify.com/track/1pzTm9kIN7PJ5LM5qDrwcZ"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 185706,
-      "name": "September Song",
-      "url": "https://open.spotify.com/track/40m3isgvDXdkSP2zh3p4uE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Art Of The Ballad",
         "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 252640,
       "name": "I've Grown Accustomed To Her Face",
       "url": "https://open.spotify.com/track/4mDUnJXdRS9XuZSmCp9EFB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chet (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 185706,
+      "name": "September Song",
+      "url": "https://open.spotify.com/track/40m3isgvDXdkSP2zh3p4uE"
     },
     {
       "added_at": null,

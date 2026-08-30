@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9mGYsaqc7V.md) - [plain]
 
 > Dim the lights and chill with these classic slow jamz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,671 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,706 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9mGYsaqc7V.md) - [plain]
 | 54 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
 | 55 | [Every Time I Close My Eyes \(with Kenny G\)](https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:56 |
 | 56 | [Why Don't We Fall in Love](https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 2:39 |
-| 57 | [In Those Jeans](https://open.spotify.com/track/5ojJNnX5ND2gMGojPd3NiO) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Senior](https://open.spotify.com/album/3t4OgAvvOzvXw8D2NHUeDR) | 4:03 |
-| 58 | [Sweet Lady](https://open.spotify.com/track/1Dx8rIZaXzZPvUQRF2j9hB) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Tyrese](https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA) | 4:50 |
+| 57 | [Sweet Lady](https://open.spotify.com/track/1Dx8rIZaXzZPvUQRF2j9hB) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Tyrese](https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA) | 4:50 |
+| 58 | [In Those Jeans](https://open.spotify.com/track/5ojJNnX5ND2gMGojPd3NiO) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Senior](https://open.spotify.com/album/3t4OgAvvOzvXw8D2NHUeDR) | 4:03 |
 | 59 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 7:10 |
 | 60 | [Can We Talk](https://open.spotify.com/track/6a5jHgwqYMk9wlYJYfs3c9) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE) | [The Best of Tevin Campbell](https://open.spotify.com/album/3hwPsvBmnFXv5qFueDDUjN) | 4:44 |
 | 61 | [Breathe Again](https://open.spotify.com/track/1xFliXOpcu7E89AsDAZ7JV) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Toni Braxton](https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz) | 4:29 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9mGYsaqc7V.md) - [plain]
 | 72 | [If I Ever Fall In Love](https://open.spotify.com/track/1jCsCYgzQQHk3bDJDuFbNi) | [Shai](https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3) | [If I Ever Fall In Love](https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb) | 3:09 |
 | 73 | [When We](https://open.spotify.com/track/2HWelwHQS4EdRqIycZOc3O) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [SAVAGE](https://open.spotify.com/album/2P723Vzun1R14cqiwfX7Fa) | 5:09 |
 | 74 | [Love Faces](https://open.spotify.com/track/1lUQPlbxDG7x8O8rwbxTRt) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Passion, Pain & Pleasure \(Deluxe Version\)](https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD) | 4:03 |
-| 75 | [Pretty Wings \- uncut](https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [BLACKsummers'night \(2009\)](https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo) | 5:10 |
-| 76 | [We Belong Together](https://open.spotify.com/track/61sRkEACcXECFXGjbEzm4V) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/2ttLsnGoW8PrCu4wYUO226) | 3:21 |
+| 75 | [We Belong Together](https://open.spotify.com/track/61sRkEACcXECFXGjbEzm4V) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/2ttLsnGoW8PrCu4wYUO226) | 3:21 |
+| 76 | [Pretty Wings \- uncut](https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [BLACKsummers'night \(2009\)](https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo) | 5:10 |
 | 77 | [sobeautiful](https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [onmyradio](https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp) | 4:51 |
 | 78 | [Everything](https://open.spotify.com/track/3CbnA6S33amyRNmgmfi33H) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Share My World](https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW) | 4:59 |
 | 79 | [Get Me Home](https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 3:49 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9mGYsaqc7V.md) - [plain]
 | 83 | [Crying Out For Me](https://open.spotify.com/track/3lMgczyYCjVDpJX8Wl2ilu) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 4:48 |
 | 84 | [Diary \(feat\. Tony! Toni! Tone! & Jermaine Paul\)](https://open.spotify.com/track/5dxHF4lrDimKqnI3GaZUmC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [Jermaine Paul](https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 4:44 |
 | 85 | [Neighbors Know My Name](https://open.spotify.com/track/5ol0jvC2yFKm3E1GcIgU2n) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Ready](https://open.spotify.com/album/1mSsccWmWvV5PWRGNdqjmZ) | 3:06 |
-| 86 | [If I Ever Fall In Love](https://open.spotify.com/track/0uOPGU4CbYxzFxn6T7sblW) | [Shai](https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3), [Bill Appleberry](https://open.spotify.com/artist/3XDOHFgZoRPljL3nSeYJtJ) | [If I Ever Fall In Love](https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb) | 4:49 |
-| 87 | [Red Light Special](https://open.spotify.com/track/6dW75XbJ1WAMljOXWjTK46) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 5:03 |
+| 86 | [Red Light Special](https://open.spotify.com/track/6dW75XbJ1WAMljOXWjTK46) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 5:03 |
+| 87 | [If I Ever Fall In Love](https://open.spotify.com/track/0uOPGU4CbYxzFxn6T7sblW) | [Shai](https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3), [Bill Appleberry](https://open.spotify.com/artist/3XDOHFgZoRPljL3nSeYJtJ) | [If I Ever Fall In Love](https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb) | 4:49 |
 | 88 | [My, My, My](https://open.spotify.com/track/33GJ5M8Pluf119G1PObkZM) | [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn) | [Johnny Gill](https://open.spotify.com/album/1I1wFLIuEXMYqQ4fm3NwOo) | 5:22 |
 | 89 | [Shorty \(Got Her Eyes on Me\)](https://open.spotify.com/track/7x5ayrIxbFqXoufyPrAm3M) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [Where I Wanna Be](https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph) | 3:12 |
 | 90 | [Heaven Sent](https://open.spotify.com/track/0JVEpLj6fptu0VNBJcIygB) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Just Like You](https://open.spotify.com/album/3rTikJLDugcmBvhAnsy1WD) | 3:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,555 likes - 125 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,622 likes - 125 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 33 | [Yo Te Necesito \- En vivo](https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 2 \(En vivo\)](https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D) | 3:08 |
 | 34 | [Prefiero Partir](https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Yo Vendo Unos Ojos Verdes](https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ) | 3:17 |
 | 35 | [La Vida Entera \(feat\. Marco Antonio Solís\)](https://open.spotify.com/track/73lcrkJKuPLoMWF0UnecCb) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Vida Entera \(feat\. Marco Antonio Solís\)](https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA) | 3:47 |
-| 36 | [Mi Problema](https://open.spotify.com/track/3DUuIRuOMKV4nbPMqQhcvq) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Mi Problema](https://open.spotify.com/album/7npasspM0YDNB2G0lcpenM) | 3:26 |
-| 37 | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79) | 3:07 |
+| 36 | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79) | 3:07 |
+| 37 | [Mi Problema](https://open.spotify.com/track/3DUuIRuOMKV4nbPMqQhcvq) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Mi Problema](https://open.spotify.com/album/7npasspM0YDNB2G0lcpenM) | 3:26 |
 | 38 | [Si Tu Te Fueras De Mi](https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:07 |
 | 39 | [Como Tu Querer \- Con Banda](https://open.spotify.com/track/3C1LJd8eEGuN9AzyQbueLS) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Para Dejarte de Querer](https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy) | 3:48 |
 | 40 | [El Amor Más Bonito](https://open.spotify.com/track/6MceOvlRW5ewCuKdgCUDac) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Como Tu Mujer](https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt) | 5:03 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 69 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/3QzZrgJWdkOZrGPZU3Qgpu) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:48 |
 | 70 | [Y Ahora Te Vas](https://open.spotify.com/track/396g7zTRCn3HzZ3vK434Xe) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:54 |
 | 71 | [Prefiero Partir](https://open.spotify.com/track/4BQsF3AM4l1i1vLlcIwajQ) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [No Conozco el Miedo](https://open.spotify.com/album/6ST9whr0v2d5ABrMDAyKKb) | 3:26 |
-| 72 | [Y Ahora Te Vas](https://open.spotify.com/track/7ddotqHpNB4DEEyqyqADGv) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 4:18 |
-| 73 | [Antes De Que Te Vayas](https://open.spotify.com/track/41uS4bw8JlCC69YuFlXFQH) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Mano A Mano Volumen 2](https://open.spotify.com/album/711RytcGqUZWMK90seBzdV) | 3:21 |
+| 72 | [Antes De Que Te Vayas](https://open.spotify.com/track/41uS4bw8JlCC69YuFlXFQH) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Mano A Mano Volumen 2](https://open.spotify.com/album/711RytcGqUZWMK90seBzdV) | 3:21 |
+| 73 | [Y Ahora Te Vas](https://open.spotify.com/track/7ddotqHpNB4DEEyqyqADGv) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 4:18 |
 | 74 | [Cómo Me Duele Irte Perdiendo](https://open.spotify.com/track/0TRLsi0C8rLgSWjPhpFnwz) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Como Tu Mujer](https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt) | 3:49 |
 | 75 | [Mi Eterno Amor Secreto \(En Vivo\)](https://open.spotify.com/track/6u6d57Let06W838gmh7XKB) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Mi Eterno Amor Secreto \(En Vivo\)](https://open.spotify.com/album/1uvg6zk4qCvm9oOrt73Dmi) | 3:53 |
 | 76 | [Si No Te Hubieras Ido](https://open.spotify.com/track/5sM1kj3CIc5ZMHE49WPSK7) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 4:17 |

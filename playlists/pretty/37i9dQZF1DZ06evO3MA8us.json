@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 35607,
+  "num_followers": 35606,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAACK+TobJG5DvTzBJ02V2yLb",
+  "snapshot_id": "apDPgAAAAAAuCqkrl08QLAgMsMWf/JhK",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I've Witnessed It (Live)",
+        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Melodie Malone",
+          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
+        }
+      ],
+      "duration_ms": 470046,
+      "name": "I've Witnessed It - Live From Passion 2023",
+      "url": "https://open.spotify.com/track/3pTB9klLSJ2QZWxRZFfd56"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roar (Live From Passion 2020)",
         "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 412227,
       "name": "Way Maker - Live From Passion 2020",
       "url": "https://open.spotify.com/track/16lF3B47C7KM9GPok917Ap"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I've Witnessed It (Live)",
-        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Melodie Malone",
-          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
-        }
-      ],
-      "duration_ms": 470046,
-      "name": "I've Witnessed It - Live From Passion 2023",
-      "url": "https://open.spotify.com/track/3pTB9klLSJ2QZWxRZFfd56"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: White Flag",
-        "url": "https://open.spotify.com/album/1xuZPjUaD8wODDfpWbJH9e"
+        "name": "Passion: Let The Future Begin (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6FdImKs7ZL5y2pi1x2Kea3"
       },
       "artists": [
         {
@@ -376,13 +376,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
         }
       ],
-      "duration_ms": 350720,
-      "name": "10,000 Reasons (Bless The Lord) - Live",
-      "url": "https://open.spotify.com/track/6RZ8i45jxuvih2qeNfoUdv"
+      "duration_ms": 508800,
+      "name": "Revelation Song - Live",
+      "url": "https://open.spotify.com/track/35msHwn81uKQS5Jn783oSU"
     },
     {
       "added_at": null,
@@ -407,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Let The Future Begin (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6FdImKs7ZL5y2pi1x2Kea3"
+        "name": "Passion: White Flag",
+        "url": "https://open.spotify.com/album/1xuZPjUaD8wODDfpWbJH9e"
       },
       "artists": [
         {
@@ -416,13 +416,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Kari Jobe Carnes",
-          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 508800,
-      "name": "Revelation Song - Live",
-      "url": "https://open.spotify.com/track/35msHwn81uKQS5Jn783oSU"
+      "duration_ms": 350720,
+      "name": "10,000 Reasons (Bless The Lord) - Live",
+      "url": "https://open.spotify.com/track/6RZ8i45jxuvih2qeNfoUdv"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Awakening (Live)",
-        "url": "https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 368866,
-      "name": "The Stand - Live",
-      "url": "https://open.spotify.com/track/57uVEAkBfidAvupugoVuHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: Everything Glorious",
         "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 327400,
       "name": "Jesus Paid It All",
       "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: Awakening (Live)",
+        "url": "https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 368866,
+      "name": "The Stand - Live",
+      "url": "https://open.spotify.com/track/57uVEAkBfidAvupugoVuHZ"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs That Changed The Church - Worship",
-        "url": "https://open.spotify.com/album/2UeKzgjz3ioCawbhaR4rjr"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Christy Nockels",
-          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "Breathe - Live",
-      "url": "https://open.spotify.com/track/1NUMrYjwOu7FHB2PgMZb97"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: Our Love Is Loud (Live)",
         "url": "https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 291626,
       "name": "Here I Am To Worship - Live",
       "url": "https://open.spotify.com/track/2Cg6FXKNsP1JV4Nzoz2six"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs That Changed The Church - Worship",
+        "url": "https://open.spotify.com/album/2UeKzgjz3ioCawbhaR4rjr"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "Breathe - Live",
+      "url": "https://open.spotify.com/track/1NUMrYjwOu7FHB2PgMZb97"
     },
     {
       "added_at": null,
@@ -995,26 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: A Generation United For His Renown",
-        "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Charlie Hall",
-          "url": "https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV"
-        }
-      ],
-      "duration_ms": 352653,
-      "name": "Marvelous Light - Live",
-      "url": "https://open.spotify.com/track/2CniJL7x5qnBiCDJuV9pzL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: Even So Come (Live)",
         "url": "https://open.spotify.com/album/5YONtiVkbckPYbUBJ6Q1cG"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 242840,
       "name": "Shout Hosanna - Live",
       "url": "https://open.spotify.com/track/4w5gkpszgPKDdWMjTiHm8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: A Generation United For His Renown",
+        "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Charlie Hall",
+          "url": "https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV"
+        }
+      ],
+      "duration_ms": 352653,
+      "name": "Marvelous Light - Live",
+      "url": "https://open.spotify.com/track/2CniJL7x5qnBiCDJuV9pzL"
     },
     {
       "added_at": null,

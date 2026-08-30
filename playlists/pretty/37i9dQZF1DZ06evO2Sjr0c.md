@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 
 > This is Grateful Dead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,565 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,587 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 | 49 | [Mississippi Half\-Step Uptown Toodeloo \- 2013 Remaster](https://open.spotify.com/track/6AobkjMl8MdQwFOOmgzEaC) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Wake of the Flood \(2013 Remaster\)](https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0) | 5:44 |
 | 50 | [Throwing Stones \- 2013 Remaster](https://open.spotify.com/track/4US41qlynueHuB4czgwqi8) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [In the Dark](https://open.spotify.com/album/1KytsXm6VQcyX5B5m8HBNa) | 7:21 |
 
-Snapshot ID: `ao9+AAAAAAChFErV8k4b1nmzbkfmhokD`
+Snapshot ID: `apDPgAAAAABeiV+yCYtNRYDB+8lVE9b4`

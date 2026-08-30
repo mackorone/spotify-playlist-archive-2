@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 69387,
+  "num_followers": 69413,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABRVmYUSgGucB7vtvUVGY4l",
+  "snapshot_id": "apDPgAAAAACymoBMKH/jcDzgzTHW4zHR",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dueles",
-        "url": "https://open.spotify.com/album/4lfBoIBFoa7FhKBp86EmdN"
+        "name": "S\u00f3lo Un D\u00eda",
+        "url": "https://open.spotify.com/album/1QxspiuEU6PfmiUyboMSPv"
       },
       "artists": [
         {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS"
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
         },
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 175375,
-      "name": "Dueles",
-      "url": "https://open.spotify.com/track/3im5S9PWPI0vQJsgyRTK2t"
+      "duration_ms": 201600,
+      "name": "S\u00f3lo Un D\u00eda",
+      "url": "https://open.spotify.com/track/47GXXBeBf5Sn4URZCrN1t3"
     },
     {
       "added_at": null,
@@ -599,6 +599,26 @@
       "duration_ms": 208962,
       "name": "Seremos",
       "url": "https://open.spotify.com/track/7b1WTbklioT0ScQUHGjS2f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dueles",
+        "url": "https://open.spotify.com/album/4lfBoIBFoa7FhKBp86EmdN"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 175375,
+      "name": "Dueles",
+      "url": "https://open.spotify.com/track/3im5S9PWPI0vQJsgyRTK2t"
     },
     {
       "added_at": null,
@@ -907,22 +927,6 @@
       "duration_ms": 191600,
       "name": "Las Facetas de Arturo - En Vivo",
       "url": "https://open.spotify.com/track/2VmWvDkmeun5wmK2NKsH3a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Receta Del Corrido",
-        "url": "https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Amigo 09",
-      "url": "https://open.spotify.com/track/5XmiWFjqBClnlcAgDD69Vb"
     }
   ],
   "unique_name": "This Is La Receta",

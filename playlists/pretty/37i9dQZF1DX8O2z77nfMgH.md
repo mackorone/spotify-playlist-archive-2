@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Clarent y Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,395 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,298 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

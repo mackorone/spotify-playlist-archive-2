@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 
 > Sapphic songs that defined your music taste as "yearning."
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,594,680 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,594,766 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 36 | [I Know You](https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 4:11 |
 | 37 | [First Love/Late Spring](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 4:38 |
 | 38 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 |
-| 39 | [Nothing's New](https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good God!](https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY) | 3:31 |
-| 40 | [Steeeam](https://open.spotify.com/track/09RamrocZneYcLYLRIxYha) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:50 |
+| 39 | [Steeeam](https://open.spotify.com/track/09RamrocZneYcLYLRIxYha) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:50 |
+| 40 | [Nothing's New](https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good God!](https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY) | 3:31 |
 | 41 | [In A Good Way](https://open.spotify.com/track/2VYnlKxB8jpbCeLUjQsebc) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:44 |
 | 42 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 |
 | 43 | [Moon Song](https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:37 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 52 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 |
 | 53 | [Love Me Anyway](https://open.spotify.com/track/53KWkwzQq47p13swqiLAMI) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Love Me Anyway](https://open.spotify.com/album/4zGYqGyEgY8YQZE0tob6Bj) | 3:53 |
 | 54 | [Mystery of Love](https://open.spotify.com/track/0MNNKSUU9OOQ8DSGWduw79) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Call Me by Your Name \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/531pUFZ1BbEhfXDxitF8TU) | 4:08 |
-| 55 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 |
-| 56 | [Sea, Swallow Me](https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 3:09 |
+| 55 | [Sea, Swallow Me](https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 3:09 |
+| 56 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 |
 | 57 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 |
 | 58 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 |
 | 59 | [I Know](https://open.spotify.com/track/0uhYgQQ6WX9rCONnum7Fmw) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 4:55 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 66 | [She Plays Bass](https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [She Plays Bass](https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw) | 3:27 |
 | 67 | [\(You\) On My Arm](https://open.spotify.com/track/29nzgSkf11owK8vO9iBgCq) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn](https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l) | 4:04 |
 | 68 | [She](https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Human](https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17) | 3:33 |
-| 69 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 |
-| 70 | [Female Energy, Part 2](https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:53 |
+| 69 | [Female Energy, Part 2](https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:53 |
+| 70 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 |
 | 71 | [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 |
 | 72 | [Come Over \(Again\)](https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Crawlers \- EP](https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE) | 4:14 |
 | 73 | [Come Down Soon](https://open.spotify.com/track/6rEcXviYlZCEx01m1z7qZv) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:44 |
-| 74 | [Sunflower](https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN) | [Michele Leigh](https://open.spotify.com/artist/2VRzDvOFUJEFtt0vvnPg9A) | [Sunflower](https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk) | 2:45 |
-| 75 | [Best Guess](https://open.spotify.com/track/2u6VEZjUu5P3GVfUMDIIbu) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 4:00 |
+| 74 | [Best Guess](https://open.spotify.com/track/2u6VEZjUu5P3GVfUMDIIbu) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 4:00 |
+| 75 | [Sunflower](https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN) | [Michele Leigh](https://open.spotify.com/artist/2VRzDvOFUJEFtt0vvnPg9A) | [Sunflower](https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk) | 2:45 |
 
 Snapshot ID: `AAAAAHUL/a2BJTUKph7HV/l7bw2qDc7p`

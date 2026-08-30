@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55797,
+  "num_followers": 55799,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAADz8KgbIBbQfseIJwXH6Ei0",
+  "snapshot_id": "apDPgAAAAAD3trP1EykyivF7GtYeJbhx",
   "tracks": [
     {
       "added_at": null,
@@ -151,26 +151,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Man On The Moon II: The Legend Of Mr. Rager",
-        "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
+        "name": "St. Vincent",
+        "url": "https://open.spotify.com/album/2CJnMhwEEkS8R1ctgt5llf"
       },
       "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Cage",
-          "url": "https://open.spotify.com/artist/4yAE0Z6MYUZkEhzdq8racX"
-        },
         {
           "name": "St. Vincent",
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 178240,
-      "name": "MANIAC",
-      "url": "https://open.spotify.com/track/6R4flNWy1pWkjzwg3TCDlM"
+      "duration_ms": 202000,
+      "name": "Digital Witness",
+      "url": "https://open.spotify.com/track/5L16tlSHNt93RiiRiCc8ya"
     },
     {
       "added_at": null,
@@ -191,18 +183,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Vincent",
-        "url": "https://open.spotify.com/album/2CJnMhwEEkS8R1ctgt5llf"
+        "name": "Man On The Moon II: The Legend Of Mr. Rager",
+        "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
       },
       "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Cage",
+          "url": "https://open.spotify.com/artist/4yAE0Z6MYUZkEhzdq8racX"
+        },
         {
           "name": "St. Vincent",
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Digital Witness",
-      "url": "https://open.spotify.com/track/5L16tlSHNt93RiiRiCc8ya"
+      "duration_ms": 178240,
+      "name": "MANIAC",
+      "url": "https://open.spotify.com/track/6R4flNWy1pWkjzwg3TCDlM"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actor",
-        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
+        "name": "St. Vincent (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 181733,
-      "name": "Laughing with a Mouth of Blood",
-      "url": "https://open.spotify.com/track/4KCAFbz0kqjE3XeaPD81bB"
+      "duration_ms": 214653,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Vincent (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
+        "name": "Actor",
+        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 214653,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6"
+      "duration_ms": 181733,
+      "name": "Laughing with a Mouth of Blood",
+      "url": "https://open.spotify.com/track/4KCAFbz0kqjE3XeaPD81bB"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actor",
-        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
+        "name": "St. Vincent (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 135040,
-      "name": "Actor Out of Work",
-      "url": "https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL"
+      "duration_ms": 276640,
+      "name": "Prince Johnny",
+      "url": "https://open.spotify.com/track/201StFQq0nodCrsX5ysC30"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Vincent (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
+        "name": "Actor",
+        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 276640,
-      "name": "Prince Johnny",
-      "url": "https://open.spotify.com/track/201StFQq0nodCrsX5ysC30"
+      "duration_ms": 135040,
+      "name": "Actor Out of Work",
+      "url": "https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL"
     },
     {
       "added_at": null,

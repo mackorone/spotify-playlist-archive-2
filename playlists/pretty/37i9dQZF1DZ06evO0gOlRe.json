@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 37372,
+  "num_followers": 37375,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAACvCaaHFvZNrl9Swb8JslHb",
+  "snapshot_id": "apDPgAAAAAB/3okDPV3EEx1BIYlRoeRu",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "bleeding heart",
-        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 175600,
-      "name": "day i die",
-      "url": "https://open.spotify.com/track/6OiLEkbkyXxaDE2PXYi6js"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Every Lifetime",
         "url": "https://open.spotify.com/album/2hcOXsZ8OPBtUtPdDeOh8t"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 161885,
       "name": "Every Lifetime",
       "url": "https://open.spotify.com/track/1Ng7KGDwVFvb07GIFWaOM3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bleeding heart",
+        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 175600,
+      "name": "day i die",
+      "url": "https://open.spotify.com/track/6OiLEkbkyXxaDE2PXYi6js"
     },
     {
       "added_at": null,
@@ -499,6 +499,26 @@
       "duration_ms": 166306,
       "name": "Pathetic",
       "url": "https://open.spotify.com/track/6ChfyB2KfEqBDp6gDm82es"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Missing Piece",
+        "url": "https://open.spotify.com/album/3ISKoozRNGwImVBOrOYw6R"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/0cnx25C8BdsEEumqvzXjAF"
     },
     {
       "added_at": null,

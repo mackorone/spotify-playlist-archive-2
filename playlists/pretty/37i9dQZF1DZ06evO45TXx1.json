@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 16219,
+  "num_followers": 16221,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAAhCOt75IRV4Lvj65FU1tzl",
+  "snapshot_id": "apDPgAAAAAAP3MQRBqIQxHrZ8PdafclI",
   "tracks": [
     {
       "added_at": null,
@@ -1015,34 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antes Que A Terra Acabe",
-        "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Duda Raupp",
-          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
-        }
-      ],
-      "duration_ms": 266213,
-      "name": "Pav\u00e3o",
-      "url": "https://open.spotify.com/track/2KctlfjhWHJ3dTAxOGZ2UM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Essa Minha Vida Bandida",
         "url": "https://open.spotify.com/album/3vdEEeAQYc0HPzetJ488cH"
       },
@@ -1071,6 +1043,34 @@
       "duration_ms": 152380,
       "name": "Intriga",
       "url": "https://open.spotify.com/track/4VQOUertHGuID2EgEzVF30"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antes Que A Terra Acabe",
+        "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
+        }
+      ],
+      "duration_ms": 266213,
+      "name": "Pav\u00e3o",
+      "url": "https://open.spotify.com/track/2KctlfjhWHJ3dTAxOGZ2UM"
     },
     {
       "added_at": null,
@@ -1247,6 +1247,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "BANDIDA",
+        "url": "https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 179824,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DOISMILEVINTEHOJE",
         "url": "https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw"
       },
@@ -1275,30 +1299,6 @@
       "duration_ms": 187317,
       "name": "Pasta Registrada",
       "url": "https://open.spotify.com/track/4Ft94JOZnqVfteZzQikmLl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BANDIDA",
-        "url": "https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 179824,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
     }
   ],
   "unique_name": "This Is Mc Luanna",

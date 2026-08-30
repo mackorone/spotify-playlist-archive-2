@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 487964,
+  "num_followers": 487988,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAACSxyL5PmgXu7orqlseD+9l",
+  "snapshot_id": "apDPgAAAAADpwIQxTRimtZbkJKcmt5++",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss (Remastered 1997)",
-        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 262973,
-      "name": "Cold Gin - Remastered 1997",
-      "url": "https://open.spotify.com/track/23mkKrQmbtEARwmO846yj8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destroys Anaheim '76 (Live At Anaheim Stadium, Anaheim, California - August 20, 1976)",
         "url": "https://open.spotify.com/album/31IAux3brkUl6hPTIrW8Sa"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 188399,
       "name": "Let Me Go, Rock 'N Roll - Live at Anaheim Stadium, Anaheim, California - August 20, 1976",
       "url": "https://open.spotify.com/track/1oRcSrFllWrEZjpQFGJRDX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kiss (Remastered 1997)",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 262973,
+      "name": "Cold Gin - Remastered 1997",
+      "url": "https://open.spotify.com/track/23mkKrQmbtEARwmO846yj8"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotter Than Hell (Remastered 1997)",
-        "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "Hotter Than Hell - Remastered 1997",
-      "url": "https://open.spotify.com/track/7xYo3ytFiilO6bzf6Hr1Rt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock And Roll Over",
         "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 185333,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5pcOAhkv8BiTpzWITZShKW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hotter Than Hell (Remastered 1997)",
+        "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Hotter Than Hell - Remastered 1997",
+      "url": "https://open.spotify.com/track/7xYo3ytFiilO6bzf6Hr1Rt"
     },
     {
       "added_at": null,
@@ -795,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock And Roll All Nite (MOONLGHT Remix)",
-        "url": "https://open.spotify.com/album/3lUWA3d8QAnpo6Gmjy5bFn"
+        "name": "Destroys Anaheim '76 (Live At Anaheim Stadium, Anaheim, California - August 20, 1976)",
+        "url": "https://open.spotify.com/album/31IAux3brkUl6hPTIrW8Sa"
       },
       "artists": [
         {
           "name": "KISS",
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        },
-        {
-          "name": "MOONLGHT",
-          "url": "https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs"
         }
       ],
-      "duration_ms": 135918,
-      "name": "Rock And Roll All Nite - MOONLGHT Remix",
-      "url": "https://open.spotify.com/track/2eTYcP7pFAnFZOMfXlpXO4"
+      "duration_ms": 76802,
+      "name": "Gene Simmons Bass Solo - Live at Anaheim Stadium, Anaheim, California - August 20, 1976",
+      "url": "https://open.spotify.com/track/2ahL7PVtMsvAfN4o3wh8GB"
     }
   ],
   "unique_name": "This Is KISS",

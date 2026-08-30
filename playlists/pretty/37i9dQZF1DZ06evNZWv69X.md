@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWv69X.md) - [plain]
 
 > This is Mar de Copas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,675 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,674 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWv69X.md) - [plain]
 | 42 | [Cuenta la Historia](https://open.spotify.com/track/0UEHcAD6CutZxkZXhVbVyk) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [III](https://open.spotify.com/album/4rBvKNO0rcUjv8ItVyA4dG) | 4:51 |
 | 43 | [Samba](https://open.spotify.com/track/2N4n6rctAvK92eAqMMP8Pt) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [En Vivo](https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4) | 4:56 |
 | 44 | [Esos Días](https://open.spotify.com/track/3uGefvMlhG2ITP6FdJcOPL) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [De Tierra](https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP) | 3:28 |
-| 45 | [El Dolor del Amor](https://open.spotify.com/track/0dbg6Rzu2hhXrvn6bwT39n) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [El Soundtrack de una Vida](https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt) | 3:21 |
-| 46 | [Regalo de Amor](https://open.spotify.com/track/0K5xpffTkH7bnyN43x0raf) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Entre los Árboles](https://open.spotify.com/album/5a63uy7tHDugATtAijhS7p) | 3:17 |
+| 45 | [Regalo de Amor](https://open.spotify.com/track/0K5xpffTkH7bnyN43x0raf) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Entre los Árboles](https://open.spotify.com/album/5a63uy7tHDugATtAijhS7p) | 3:17 |
+| 46 | [El Dolor del Amor](https://open.spotify.com/track/0dbg6Rzu2hhXrvn6bwT39n) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [El Soundtrack de una Vida](https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt) | 3:21 |
 | 47 | [A Dios](https://open.spotify.com/track/7tcimL9ijjO5XFoH74eskd) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [En Vivo](https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4) | 2:43 |
 | 48 | [Popurrí](https://open.spotify.com/track/4y1do2YcN1hcJhdCaFT1Cs) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [De Tierra](https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP) | 5:49 |
 | 49 | [Canción](https://open.spotify.com/track/17Te5QkNgs4KdHPlNcqGcB) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Mar de Copas](https://open.spotify.com/album/08mPDAxP3cAeqUga7266QQ) | 4:15 |
 | 50 | [Ni para Rogar un Beso](https://open.spotify.com/track/7ahXvgKXKHbLLDcf6F9adS) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [De Tierra](https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP) | 3:30 |
 
-Snapshot ID: `ao9+AAAAAABlW4YbOT6YkyTbtfJIeG/c`
+Snapshot ID: `apDPgAAAAABppE64l9B18/IX00ZbjJt0`

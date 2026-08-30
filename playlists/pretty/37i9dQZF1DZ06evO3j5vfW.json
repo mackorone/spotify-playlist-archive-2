@@ -1,32 +1,36 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 71825,
+  "num_followers": 71827,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABgKjAt7So9wK55HjBHb+AZ",
+  "snapshot_id": "apDPgAAAAACJRaWLTZDrk8bMeUlkr9i6",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Follow You",
-        "url": "https://open.spotify.com/album/0JPiGJY6Somelv3Nm5RUJ3"
+        "name": "Party",
+        "url": "https://open.spotify.com/album/5iYwGztLvHSZ90s7lhnTda"
       },
       "artists": [
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        },
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "FORS",
-          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
         }
       ],
-      "duration_ms": 198840,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/3PPRY6GHojcQS2l8mJypyH"
+      "duration_ms": 131812,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/2kXZAEEXWwu2EdsRtNFxWL"
     },
     {
       "added_at": null,
@@ -47,6 +51,26 @@
       "duration_ms": 208316,
       "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
       "url": "https://open.spotify.com/track/1sh6lL6cmlcwhqZKGiKBua"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/0JPiGJY6Somelv3Nm5RUJ3"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "FORS",
+          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
+        }
+      ],
+      "duration_ms": 198840,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/3PPRY6GHojcQS2l8mJypyH"
     },
     {
       "added_at": null,
@@ -599,26 +623,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "We're Still Young",
-        "url": "https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0"
+        "name": "I Need You To Know",
+        "url": "https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt"
       },
       "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Olivia Penalva",
-          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
+          "name": "Ifimay",
+          "url": "https://open.spotify.com/artist/475ysTPd5Bci0mElQUcYak"
         }
       ],
-      "duration_ms": 195000,
-      "name": "We're Still Young",
-      "url": "https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2"
+      "duration_ms": 180000,
+      "name": "I Need You To Know",
+      "url": "https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL"
     },
     {
       "added_at": null,
@@ -655,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Feel (Radio Edit)",
-        "url": "https://open.spotify.com/album/0zdMvVziBUVHQn2fyBbnWV"
+        "name": "We're Still Young",
+        "url": "https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0"
       },
       "artists": [
         {
@@ -664,45 +688,17 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Vicetone",
-          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
         },
         {
-          "name": "When We Are Wild",
-          "url": "https://open.spotify.com/artist/5Mrj5E7pfTnz99Yyef5mW8"
-        },
-        {
-          "name": "Hille Stellingwerf",
-          "url": "https://open.spotify.com/artist/51q7p0TnANvr9f9w1PraWU"
+          "name": "Olivia Penalva",
+          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
         }
       ],
-      "duration_ms": 202541,
-      "name": "Let Me Feel - Radio Edit",
-      "url": "https://open.spotify.com/track/5EbITZyzQ51x4y5vgTCoGw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Need You To Know",
-        "url": "https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Ifimay",
-          "url": "https://open.spotify.com/artist/475ysTPd5Bci0mElQUcYak"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "I Need You To Know",
-      "url": "https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL"
+      "duration_ms": 195000,
+      "name": "We're Still Young",
+      "url": "https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2"
     },
     {
       "added_at": null,
@@ -727,6 +723,34 @@
       "duration_ms": 167194,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/2NlTJMj84ewpinOR5kKIEu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Me Feel (Radio Edit)",
+        "url": "https://open.spotify.com/album/0zdMvVziBUVHQn2fyBbnWV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        },
+        {
+          "name": "When We Are Wild",
+          "url": "https://open.spotify.com/artist/5Mrj5E7pfTnz99Yyef5mW8"
+        },
+        {
+          "name": "Hille Stellingwerf",
+          "url": "https://open.spotify.com/artist/51q7p0TnANvr9f9w1PraWU"
+        }
+      ],
+      "duration_ms": 202541,
+      "name": "Let Me Feel - Radio Edit",
+      "url": "https://open.spotify.com/track/5EbITZyzQ51x4y5vgTCoGw"
     },
     {
       "added_at": null,
@@ -823,34 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KYGO (The Remixes)",
-        "url": "https://open.spotify.com/album/3l8rLJyHoGvEEDmNqPKHGu"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 231477,
-      "name": "For Life (feat. Zak Abel & Nile Rodgers) - Nicky Romero Remix",
-      "url": "https://open.spotify.com/track/7lc4S03umj2cTbFP4FWPGc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hot Summer Nights",
         "url": "https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ"
       },
@@ -911,6 +907,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "KYGO (The Remixes)",
+        "url": "https://open.spotify.com/album/3l8rLJyHoGvEEDmNqPKHGu"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 231477,
+      "name": "For Life (feat. Zak Abel & Nile Rodgers) - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/7lc4S03umj2cTbFP4FWPGc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tomorrow Comes",
         "url": "https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull"
       },
@@ -931,6 +955,26 @@
       "duration_ms": 211771,
       "name": "Tomorrow Comes",
       "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 149516,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
     },
     {
       "added_at": null,
@@ -963,26 +1007,6 @@
       "duration_ms": 226153,
       "name": "Euphoria (with Alok) - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/6d0duxbMzPZJ4t0510fqhI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 149516,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
     },
     {
       "added_at": null,
@@ -1031,30 +1055,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/1K6TppBV935fe2tIb8YzMA"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "WHAT EVA",
-          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 229687,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/6pctceOP7isMWb4qR21NM2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
       },
@@ -1075,6 +1075,30 @@
       "duration_ms": 245538,
       "name": "Desire",
       "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/1K6TppBV935fe2tIb8YzMA"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "WHAT EVA",
+          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 229687,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/6pctceOP7isMWb4qR21NM2"
     },
     {
       "added_at": null,
@@ -1115,26 +1139,6 @@
       "duration_ms": 192380,
       "name": "Hero - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "18 Months",
-        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "Iron",
-      "url": "https://open.spotify.com/track/0uqMUcdMvQtNQLO4jVockW"
     }
   ],
   "unique_name": "This Is Nicky Romero",

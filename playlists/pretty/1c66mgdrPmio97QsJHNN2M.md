@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,881 likes - 215 songs - 11 hr 17 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,883 likes - 224 songs - 11 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,5 +223,14 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 213 | [SUMMR](https://open.spotify.com/track/1530Jw4HeV0lbmCzJdwhDt) | [THE WILL](https://open.spotify.com/artist/7etmXBxkOJrs3IrSYc4y7r) | [SUMMR](https://open.spotify.com/album/1st0mbHQLv9Ag1jPTTRj48) | 3:19 |
 | 214 | [Boots By The Door](https://open.spotify.com/track/5LQbhEmHv93xstXC11j95K) | [Frode Møller](https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo) | [Boots By The Door](https://open.spotify.com/album/5DlaXWnCS75sNV0YQSQPmg) | 2:26 |
 | 215 | [Your Heavenly Peace](https://open.spotify.com/track/1kVnBXjBKsbb8XKOhrwp50) | [Art Papan Hope](https://open.spotify.com/artist/1nVTbgFyQ1Y77CrX1D6jzf) | [Your Heavenly Peace](https://open.spotify.com/album/53kZY9OJ13NtlVqYbHxX71) | 4:24 |
+| 216 | [DOLLA](https://open.spotify.com/track/7aTpt13uxmL4dwbYNp1Mvg) | [Antoine Gilbert](https://open.spotify.com/artist/7cS7aQOdgtPI4i100OxmBG), [Lil Saako](https://open.spotify.com/artist/6PiMMOunYWyW7c0EbLqh5p) | [DOLLA](https://open.spotify.com/album/3pgr8ocXHv65abGZ8873Rk) | 2:35 |
+| 217 | [Oh To Be Loved](https://open.spotify.com/track/4NINnuttrQkm7rK8uB9sno) | [Bernard Yagee](https://open.spotify.com/artist/0Bjov8cf7WRRVnjDHhn6VE) | [Oh To Be Loved](https://open.spotify.com/album/5IDn2XwQQdJAvY5Ww1JQb2) | 3:15 |
+| 218 | [MALICE](https://open.spotify.com/track/7tjRu3UNxp7p427qc8tnch) | [Cataleya Meadows](https://open.spotify.com/artist/6iihX6Hqa5ikPAzhF1fBhs) | [MALICE](https://open.spotify.com/album/72UwmRPtRQGPiJIRJsWNzK) | 2:53 |
+| 219 | [Light Will Come](https://open.spotify.com/track/1xhnwf6pzNScbLYJWhThX6) | [CJ Penn](https://open.spotify.com/artist/0p0CNZoGU847Dom1HO4czD) | [Light Will Come](https://open.spotify.com/album/4rdLft0jVFqxsiecrMZJRJ) | 3:16 |
+| 220 | [COME OVER](https://open.spotify.com/track/4OHu8UaNI0vSxq4G8G0k54) | [Anunzanty](https://open.spotify.com/artist/7liYip7Q2nUl8x6aNiq1hF) | [COME OVER](https://open.spotify.com/album/34nLMqDLHJRG4wrp3c7rsb) | 2:48 |
+| 221 | [I Pray](https://open.spotify.com/track/2ZPZ4u606TiiN0C25I66Xf) | [Natii](https://open.spotify.com/artist/6a3U447n7AXC0YuDIK2Qbk) | [I Pray](https://open.spotify.com/album/11702YgtjWVz29RaEPRUcx) | 2:03 |
+| 222 | [Contra el río](https://open.spotify.com/track/1AVzw1T5PvYp8CbL5GTPhm) | [Laru](https://open.spotify.com/artist/2EwMAWum7DNrJVk5Q7dwDB) | [Contra el río](https://open.spotify.com/album/2aMRsaBQxcW5VksHhOUviA) | 3:36 |
+| 223 | [Sin Luz](https://open.spotify.com/track/41G8A5sQ46kh0qG2a7YP2P) | [Jorge Escalante](https://open.spotify.com/artist/3HI4nYJbYBRufLP4zFTIwQ) | [Sin Luz](https://open.spotify.com/album/3LquvtYVnRh4QImJB54GFM) | 3:26 |
+| 224 | [Cigarettes and CHANEL](https://open.spotify.com/track/0da4RrPEPzr7ALsukP8t4V) | [Dino Valentino](https://open.spotify.com/artist/3GJJFL0a79nM1bZPf0PeRR) | [Cigarettes and CHANEL](https://open.spotify.com/album/5aQJoOTDrs2YVzu3QS7HYU) | 4:19 |
 
-Snapshot ID: `AAA7y7Y7vnkyG90G5ASzheJzru/r1f0g`
+Snapshot ID: `AAA71HX0edtcnngbTBvpqF1CP6LdGKqZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,078 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,084 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 37 | [Piñata](https://open.spotify.com/track/1DKwfFIKo93f2oiwZjwyMr) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Piñata](https://open.spotify.com/album/12zhNm6ybv6ouz6J8b9qWu) | 2:13 |
 | 38 | [Period \(We Live\)](https://open.spotify.com/track/1FdjGON62xLxgPZW8BGeHS) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:34 |
 | 39 | [4 1 Nite](https://open.spotify.com/track/10iEDtadUnpzEsgohPmATA) | [Mike Smiff](https://open.spotify.com/artist/7cothdI1W9TGQXdnzyqXmH), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [4 1 Nite](https://open.spotify.com/album/0ZmKE5dS6QIyXHuNkxVgUV) | 3:25 |
-| 40 | [Face Down](https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Face Down](https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1) | 2:07 |
-| 41 | [That's My Bitch](https://open.spotify.com/track/4llNsoTNNhxC1bOm0feE98) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 1:55 |
+| 40 | [That's My Bitch](https://open.spotify.com/track/4llNsoTNNhxC1bOm0feE98) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 1:55 |
+| 41 | [Face Down](https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Face Down](https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1) | 2:07 |
 | 42 | [Flashy \(feat\. Kim Petras\)](https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:45 |
 | 43 | [Act Bad](https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Act Bad](https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ) | 3:12 |
 | 44 | [Pastor \(Quavo, City Girls feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4awve4McsKOqVuOpAbg6BF) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:40 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 46 | [Shisha](https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Shisha](https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl) | 2:54 |
 | 47 | [Top Notch \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Top Notch \(feat\. Fivio Foreign\)](https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M) | 2:49 |
 | 48 | [Panties An Bra](https://open.spotify.com/track/5Pv2Mupc12dt63SbqkMEhP) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 1:54 |
-| 49 | [4 Da Moment \(feat\. City Girls\)](https://open.spotify.com/track/4ZJvxJYTeA719NrCtKE8gU) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:22 |
-| 50 | [Sweet Tooth](https://open.spotify.com/track/5z3gOVUk7km3eNJM8M57tv) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:23 |
+| 49 | [Sweet Tooth](https://open.spotify.com/track/5z3gOVUk7km3eNJM8M57tv) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:23 |
+| 50 | [4 Da Moment \(feat\. City Girls\)](https://open.spotify.com/track/4ZJvxJYTeA719NrCtKE8gU) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:22 |
 
-Snapshot ID: `ao9+AAAAAADcGoFqFIlRzH0nIE2LcQO/`
+Snapshot ID: `apDPgAAAAAAKvwYZCLIopU8URWFQtBc6`

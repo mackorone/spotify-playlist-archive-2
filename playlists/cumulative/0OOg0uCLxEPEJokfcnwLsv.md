@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-635 songs - 1 day 15 hr 17 min
+638 songs - 1 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Cage](https://open.spotify.com/track/3TurCW23kV3k57o4L96Y8R) | [Wave Raiders](https://open.spotify.com/artist/3gHc7IjiVFconlcRcSpXXn) | [Cage](https://open.spotify.com/album/5DwSWfbBq628mkcHtn4VaP) | 3:23 | 2026-07-02 | 2026-08-08 |
 | [Calm After The Storm](https://open.spotify.com/track/6HhTEmSzmipGU5O5EzBfqp) | [Help Wanted](https://open.spotify.com/artist/0omDhJzmgZ8tu73lHdwi5T) | [Calm After The Storm](https://open.spotify.com/album/5gsFwal4tWt1KHDChP4xBS) | 3:17 | 2026-08-17 |  |
 | [Camgirl](https://open.spotify.com/track/5YXhWJnu9N8MWknVCROT4s) | [Dirty Heavens](https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e) | [Camgirl](https://open.spotify.com/album/2AMBpnaYyvfBN9XRFNeZkt) | 4:08 | 2026-02-04 | 2026-05-08 |
+| [Chase the Feeling](https://open.spotify.com/track/5oFYQLAdS7YlQSMl6C2PzT) | [Station 301](https://open.spotify.com/artist/1ApohnXtENC8CFKfOmuoyx) | [Chase the Feeling](https://open.spotify.com/album/3QbZWdf9GH6lOH7wlc8qRa) | 2:35 | 2026-08-29 |  |
 | [Chasing Taste](https://open.spotify.com/track/2OnXAQlNqA5ulvDJAdMbNm) | [ANCR TO PAST](https://open.spotify.com/artist/5JAtQYcWXv57H39UEom6ul) | [fibres](https://open.spotify.com/album/4yHAxaNLLxheJ688GXi9ko) | 3:51 | 2026-06-02 | 2026-08-08 |
 | [Chicago](https://open.spotify.com/track/0uhM1mDQ9tsxPdV4oorvUv) | [Follow Deep](https://open.spotify.com/artist/0pi2JVymYDQ1helz6Z1AOg) | [Chicago](https://open.spotify.com/album/5V7ZgYI3RoHeLYNtiJoTLB) | 3:09 | 2026-05-29 | 2026-08-08 |
 | [Chilly](https://open.spotify.com/track/0fhXATRQObAWuSEUlNY6td) | [Lady Owl](https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO) | [Acid Viking](https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz) | 3:38 | 2026-04-16 | 2026-06-13 |
@@ -185,6 +186,7 @@
 | [FAKE](https://open.spotify.com/track/2ee980L0EX5tDefxf5kumE) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [SOME RANDOM GIRL THAT NEVER MADE IT ON THE INTERNET](https://open.spotify.com/album/20JtgJAcabJ7eb74csa1Eq) | 2:58 | 2026-02-14 | 2026-06-13 |
 | [Fake Illusion](https://open.spotify.com/track/4XV8XVah83sBK4easO1Le0) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Fake Illusion](https://open.spotify.com/album/2Huu4WMjqQTA5C0KBjd54P) | 3:04 | 2026-06-11 | 2026-08-08 |
 | [Falling](https://open.spotify.com/track/4LlmiQt2LyQA0MaAkIi3HN) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Falling](https://open.spotify.com/album/7hRFFZjliY9n18r3d9XCCT) | 3:03 | 2026-08-21 |  |
+| [Falling Behind](https://open.spotify.com/track/79QEpZ2GCWHgBL6L7OugjA) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Falling Behind](https://open.spotify.com/album/3ESOHDThYhkb5hfhikkBqQ) | 2:16 | 2026-08-29 |  |
 | [Falling Curtain](https://open.spotify.com/track/2yHWrzZ7foMNuft7TlarBm) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Falling Curtain](https://open.spotify.com/album/0hsbIouOmJOjyPfwRoG1Z8) | 3:28 | 2026-07-13 | 2026-08-08 |
 | [Fantasia](https://open.spotify.com/track/3HQyqgoK7z6VY9bE8GlAli) | [Astratto](https://open.spotify.com/artist/1kQT4JN2XDrVdT4vubHCjw) | [Fantasia](https://open.spotify.com/album/4Qp6S6ln5GwDmTih32uJVf) | 6:10 | 2026-04-22 | 2026-06-13 |
 | [Farewell](https://open.spotify.com/track/27tcaTzyrakD3Upv0kNKhU) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 6:05 | 2026-04-06 | 2026-05-08 |
@@ -313,6 +315,7 @@
 | [Loretta](https://open.spotify.com/track/3ORI5Wvchp4znjeSerJiCx) | [Out of Order](https://open.spotify.com/artist/5cqrirtBO1epcv1XqdB3aH) | [Loretta](https://open.spotify.com/album/3roeIB4nfgpfabqAm1EXHJ) | 3:39 | 2025-10-28 | 2025-11-22 |
 | [LOS BIOLOGOS](https://open.spotify.com/track/5nMIzJ0vCnt1efHf5k0IpU) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [LOS BIOLOGOS](https://open.spotify.com/album/4prHVEmsCxLHDTsV6zSsuM) | 4:11 | 2026-02-04 | 2026-02-23 |
 | [Losing You](https://open.spotify.com/track/45fRaHQs6hOtqtnMjmXdA8) | [The Dead Hearts](https://open.spotify.com/artist/2s9mLTL8FL7NWqACzxXrwO) | [Losing You](https://open.spotify.com/album/6PEwi2VdrTDb4DVYSo6pom) | 4:19 | 2026-08-18 |  |
+| [Lost](https://open.spotify.com/track/3i6p5Xd3KUc6wVqE0oeWLp) | [Pushing Pluto](https://open.spotify.com/artist/0uTUjIAw0qQDX1thZoEQFQ), [Otonomi](https://open.spotify.com/artist/1m6cQu7gwgCJ9trZ5cgoNV) | [Lost](https://open.spotify.com/album/1NEkjw7DnsLK3i6xtXohyE) | 3:37 | 2026-08-29 |  |
 | [Lost On Queen Street](https://open.spotify.com/track/6qD5nfAKKmTjs5IoUaHJS3) | [Diagram For June](https://open.spotify.com/artist/4gtTD7x3IRglHpBgkzCVkg) | [Lost On Queen Street](https://open.spotify.com/album/7Gp9P7nstTV0xulsGSk7LH) | 3:32 | 2026-04-21 | 2026-05-26 |
 | [Love is Alive](https://open.spotify.com/track/37cN267Fk7TmCieQb9ew9U) | [Hoss Carl](https://open.spotify.com/artist/5OTamahcB1uXMerWExIRol) | [Love is Alive](https://open.spotify.com/album/6i1jTWMfDp49yt9uRBCAQf) | 4:05 | 2026-01-19 | 2026-02-18 |
 | [Love Leave Your Mark on Me](https://open.spotify.com/track/6JF4J1iAfWbQzrPC24U1jm) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Postcards in Real Time](https://open.spotify.com/album/3Fvr14rluzBR0ztgtUSxDx) | 3:43 | 2026-02-09 | 2026-03-04 |

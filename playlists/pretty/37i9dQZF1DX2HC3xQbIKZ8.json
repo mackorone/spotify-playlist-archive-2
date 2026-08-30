@@ -1,6 +1,6 @@
 {
   "description": "Pacific reggae, roots rockers. Relax, you're on island time. Cover: Te Wehi",
-  "num_followers": 133315,
+  "num_followers": 133331,
   "original_name": "Island Time",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-07-20 02:19:37",
       "album": {
-        "name": "Sweet Lover",
-        "url": "https://open.spotify.com/album/7f74ZWTaFNlPvcVsifNknH"
-      },
-      "artists": [
-        {
-          "name": "Lomez Brown",
-          "url": "https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD"
-        }
-      ],
-      "duration_ms": 222563,
-      "name": "Sweet Lover",
-      "url": "https://open.spotify.com/track/27bYzUlo34pVueQgpD1d5V"
-    },
-    {
-      "added_at": "2026-07-20 02:19:37",
-      "album": {
         "name": "Born and Raised II (The Rebirth)",
         "url": "https://open.spotify.com/album/6O7o6Px8a8oJKTSY0cV40X"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 223050,
       "name": "Lonely Days",
       "url": "https://open.spotify.com/track/51ejWDUN9Cgk5OTiBzTAwT"
+    },
+    {
+      "added_at": "2026-07-20 02:19:37",
+      "album": {
+        "name": "Sweet Lover",
+        "url": "https://open.spotify.com/album/7f74ZWTaFNlPvcVsifNknH"
+      },
+      "artists": [
+        {
+          "name": "Lomez Brown",
+          "url": "https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD"
+        }
+      ],
+      "duration_ms": 222563,
+      "name": "Sweet Lover",
+      "url": "https://open.spotify.com/track/27bYzUlo34pVueQgpD1d5V"
     },
     {
       "added_at": "2026-07-20 02:19:37",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-07-20 02:19:37",
       "album": {
-        "name": "Unaware",
-        "url": "https://open.spotify.com/album/0svxWvtXUX580W0lHtagmL"
-      },
-      "artists": [
-        {
-          "name": "Te Wehi",
-          "url": "https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc"
-        }
-      ],
-      "duration_ms": 253492,
-      "name": "Unaware",
-      "url": "https://open.spotify.com/track/5yQ5VsEsI3XsqSDgZLo2XF"
-    },
-    {
-      "added_at": "2026-07-20 02:19:37",
-      "album": {
         "name": "Independence Day",
         "url": "https://open.spotify.com/album/29Nx0v2T1WBGvO4ZewkxBT"
       },
@@ -371,6 +355,22 @@
     {
       "added_at": "2026-07-20 02:19:37",
       "album": {
+        "name": "Unaware",
+        "url": "https://open.spotify.com/album/0svxWvtXUX580W0lHtagmL"
+      },
+      "artists": [
+        {
+          "name": "Te Wehi",
+          "url": "https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc"
+        }
+      ],
+      "duration_ms": 253492,
+      "name": "Unaware",
+      "url": "https://open.spotify.com/track/5yQ5VsEsI3XsqSDgZLo2XF"
+    },
+    {
+      "added_at": "2026-07-20 02:19:37",
+      "album": {
         "name": "4 The People",
         "url": "https://open.spotify.com/album/3Rm9pkenoLVhmMMolEN4bd"
       },
@@ -387,38 +387,18 @@
     {
       "added_at": "2026-07-20 02:19:37",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7mKtYSUiaVa6nccctEBRo3"
+        "name": "SAW",
+        "url": "https://open.spotify.com/album/2HCIshsLaVlgUY24Y3ZsgH"
       },
       "artists": [
         {
           "name": "Son & Water",
           "url": "https://open.spotify.com/artist/1ODcoNZfpYJmWHEF9eEgGi"
-        },
-        {
-          "name": "Myshaan",
-          "url": "https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN"
         }
       ],
-      "duration_ms": 215068,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2acveoZyxBzwbxw6Y3v18J"
-    },
-    {
-      "added_at": "2026-07-20 02:19:37",
-      "album": {
-        "name": "Back In My Arms",
-        "url": "https://open.spotify.com/album/1pJWSJkimSU1tBcALRBZvr"
-      },
-      "artists": [
-        {
-          "name": "Hori Shaw",
-          "url": "https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh"
-        }
-      ],
-      "duration_ms": 225843,
-      "name": "Back In My Arms",
-      "url": "https://open.spotify.com/track/4g5j7VcONFP64jSNSuLDOK"
+      "duration_ms": 246000,
+      "name": "SAW",
+      "url": "https://open.spotify.com/track/4uqsqS00IghuTUOAPpkbR3"
     },
     {
       "added_at": "2026-07-20 02:19:37",
@@ -435,6 +415,22 @@
       "duration_ms": 272377,
       "name": "Sweet Darlin'",
       "url": "https://open.spotify.com/track/16xm2K8WsZl4OBojftNxeV"
+    },
+    {
+      "added_at": "2026-07-20 02:19:37",
+      "album": {
+        "name": "Back In My Arms",
+        "url": "https://open.spotify.com/album/1pJWSJkimSU1tBcALRBZvr"
+      },
+      "artists": [
+        {
+          "name": "Hori Shaw",
+          "url": "https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh"
+        }
+      ],
+      "duration_ms": 225843,
+      "name": "Back In My Arms",
+      "url": "https://open.spotify.com/track/4g5j7VcONFP64jSNSuLDOK"
     },
     {
       "added_at": "2026-07-20 02:19:37",
@@ -475,18 +471,22 @@
     {
       "added_at": "2026-07-20 02:19:37",
       "album": {
-        "name": "SAW",
-        "url": "https://open.spotify.com/album/2HCIshsLaVlgUY24Y3ZsgH"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7mKtYSUiaVa6nccctEBRo3"
       },
       "artists": [
         {
           "name": "Son & Water",
           "url": "https://open.spotify.com/artist/1ODcoNZfpYJmWHEF9eEgGi"
+        },
+        {
+          "name": "Myshaan",
+          "url": "https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN"
         }
       ],
-      "duration_ms": 246000,
-      "name": "SAW",
-      "url": "https://open.spotify.com/track/4uqsqS00IghuTUOAPpkbR3"
+      "duration_ms": 215068,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2acveoZyxBzwbxw6Y3v18J"
     },
     {
       "added_at": "2026-07-20 02:19:37",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-07-20 02:19:37",
       "album": {
-        "name": "ROLLIN ON",
-        "url": "https://open.spotify.com/album/5FbUsSC8Cp296Q09wZXAOU"
-      },
-      "artists": [
-        {
-          "name": "Rokk\u014d",
-          "url": "https://open.spotify.com/artist/0GyKdT7t2elBNxQV5kCj8b"
-        }
-      ],
-      "duration_ms": 196689,
-      "name": "ROLLIN ON",
-      "url": "https://open.spotify.com/track/2dynUJpevfv4R12wlQEZ3D"
-    },
-    {
-      "added_at": "2026-07-20 02:19:37",
-      "album": {
         "name": "Perfect to Me",
         "url": "https://open.spotify.com/album/6hw4X0et7iiVKh2RwHkVGN"
       },
@@ -643,26 +627,6 @@
     {
       "added_at": "2026-07-20 02:19:37",
       "album": {
-        "name": "Faith Move Mountain",
-        "url": "https://open.spotify.com/album/14Wj8Q8pqxfcqF4RZZCOnK"
-      },
-      "artists": [
-        {
-          "name": "King Kong",
-          "url": "https://open.spotify.com/artist/6kDCaFSkqskhFf9agShfSY"
-        },
-        {
-          "name": "Little Lion Sound",
-          "url": "https://open.spotify.com/artist/5BEAZRLV2yIHmrh41l3dKj"
-        }
-      ],
-      "duration_ms": 172297,
-      "name": "Faith Move Mountain",
-      "url": "https://open.spotify.com/track/5JUbMpqDP45qztzumxQNE1"
-    },
-    {
-      "added_at": "2026-07-20 02:19:37",
-      "album": {
         "name": "Six60",
         "url": "https://open.spotify.com/album/2y5lgKfEm5B1pi8qrifGD5"
       },
@@ -675,6 +639,22 @@
       "duration_ms": 232520,
       "name": "Don\u2019t Forget Your Roots",
       "url": "https://open.spotify.com/track/5mUiad5pDU1wFvIbtKgJKB"
+    },
+    {
+      "added_at": "2026-07-20 02:19:37",
+      "album": {
+        "name": "ROLLIN ON",
+        "url": "https://open.spotify.com/album/5FbUsSC8Cp296Q09wZXAOU"
+      },
+      "artists": [
+        {
+          "name": "Rokk\u014d",
+          "url": "https://open.spotify.com/artist/0GyKdT7t2elBNxQV5kCj8b"
+        }
+      ],
+      "duration_ms": 196689,
+      "name": "ROLLIN ON",
+      "url": "https://open.spotify.com/track/2dynUJpevfv4R12wlQEZ3D"
     },
     {
       "added_at": "2026-07-20 02:19:37",
@@ -703,6 +683,26 @@
       "duration_ms": 236434,
       "name": "Fire Up Di Roses (with The Green, Common Kings & Fiji)",
       "url": "https://open.spotify.com/track/3Y9kBavkO9sD8K7QZki0se"
+    },
+    {
+      "added_at": "2026-07-20 02:19:37",
+      "album": {
+        "name": "Faith Move Mountain",
+        "url": "https://open.spotify.com/album/14Wj8Q8pqxfcqF4RZZCOnK"
+      },
+      "artists": [
+        {
+          "name": "King Kong",
+          "url": "https://open.spotify.com/artist/6kDCaFSkqskhFf9agShfSY"
+        },
+        {
+          "name": "Little Lion Sound",
+          "url": "https://open.spotify.com/artist/5BEAZRLV2yIHmrh41l3dKj"
+        }
+      ],
+      "duration_ms": 172297,
+      "name": "Faith Move Mountain",
+      "url": "https://open.spotify.com/track/5JUbMpqDP45qztzumxQNE1"
     },
     {
       "added_at": "2026-07-20 02:19:37",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-07-20 02:19:37",
       "album": {
-        "name": "Mama Don't Cry",
-        "url": "https://open.spotify.com/album/7lubqAJW6Lj4CV9255FkaD"
-      },
-      "artists": [
-        {
-          "name": "Te Wehi",
-          "url": "https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc"
-        }
-      ],
-      "duration_ms": 184564,
-      "name": "Mama Don't Cry",
-      "url": "https://open.spotify.com/track/1vqgV0o8TX1m1QAiTB3ka8"
-    },
-    {
-      "added_at": "2026-07-20 02:19:37",
-      "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/3HnSYaFII4be1pYhbzSroJ"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 213077,
       "name": "One Night",
       "url": "https://open.spotify.com/track/3sj1XIHQwhHxtnUiIHAjPq"
+    },
+    {
+      "added_at": "2026-07-20 02:19:37",
+      "album": {
+        "name": "Mama Don't Cry",
+        "url": "https://open.spotify.com/album/7lubqAJW6Lj4CV9255FkaD"
+      },
+      "artists": [
+        {
+          "name": "Te Wehi",
+          "url": "https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc"
+        }
+      ],
+      "duration_ms": 184564,
+      "name": "Mama Don't Cry",
+      "url": "https://open.spotify.com/track/1vqgV0o8TX1m1QAiTB3ka8"
     },
     {
       "added_at": "2026-07-20 02:19:37",

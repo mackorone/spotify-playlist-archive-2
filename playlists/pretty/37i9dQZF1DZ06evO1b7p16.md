@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 
 > This is Taking Back Sunday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,436 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,445 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 2 | [MakeDamnSure](https://open.spotify.com/track/6fTgbkBiMITtHUmik95ClX) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 3:28 |
 | 3 | [Cute Without The 'E' \(Cut From The Team\) \- Remastered 2019](https://open.spotify.com/track/6OyKBwLzq4h15XmxeWf5n4) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:32 |
 | 4 | [A Decade Under The Influence](https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 4:07 |
-| 5 | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/3rfTFA4AGu8r2BXqpjKbcf) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/1h2bp48lbYy5SBQe4u0ZOa) | 3:27 |
+| 5 | [Loved You A Little \- with Taking Back Sunday and Charlotte Sands](https://open.spotify.com/track/3rfTFA4AGu8r2BXqpjKbcf) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/1h2bp48lbYy5SBQe4u0ZOa) | 3:27 |
 | 6 | [Liar \(It Takes One To Know One\)](https://open.spotify.com/track/5heRy6IDNiQXDJf1tZ6SUc) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 3:11 |
 | 7 | [You're So Last Summer \- Remastered 2019](https://open.spotify.com/track/0cY6CAgB5wShSOTT3lQl2t) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:01 |
 | 8 | [This Photograph Is Proof \(I Know You Know\)](https://open.spotify.com/track/3m1OyPw3fzMPAwDMcYcM6Z) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 4:11 |
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 24 | [Bonus Mosh Pt\. II](https://open.spotify.com/track/29zr7yJcEHQpCXz8aAZWOb) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 3:06 |
 | 25 | [Call Me In The Morning](https://open.spotify.com/track/6YMTBc93GQJQB1RkqUU1ux) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Taking Back Sunday](https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY) | 3:59 |
 | 26 | [The One](https://open.spotify.com/track/6pPAZMk6ELhS23soG1G3je) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:17 |
-| 27 | [The Ballad Of Sal Villanueva](https://open.spotify.com/track/5wd2AS3onzv83EUFPxuOkj) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Victory Style, Vol\. 5](https://open.spotify.com/album/2WTpvwVyDW00HMYAjVyc9k) | 3:52 |
-| 28 | [Better Homes And Gardens](https://open.spotify.com/track/4GENwH9HjfqB6n1jiNR56D) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 3:54 |
+| 27 | [Better Homes And Gardens](https://open.spotify.com/track/4GENwH9HjfqB6n1jiNR56D) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 3:54 |
+| 28 | [Swing](https://open.spotify.com/track/66tVNSi55Hh2J4mfa3Dvuj) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 3:26 |
 | 29 | [You Got Me](https://open.spotify.com/track/2WX60bCE9R6GpJWDEMUwUe) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Taking Back Sunday](https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY) | 3:21 |
 | 30 | [Keep Going](https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:12 |
-| 31 | [Swing](https://open.spotify.com/track/66tVNSi55Hh2J4mfa3Dvuj) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 3:26 |
+| 31 | [The Ballad Of Sal Villanueva](https://open.spotify.com/track/5wd2AS3onzv83EUFPxuOkj) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Victory Style, Vol\. 5](https://open.spotify.com/album/2WTpvwVyDW00HMYAjVyc9k) | 3:52 |
 | 32 | [Stood A Chance](https://open.spotify.com/track/0ZUrzmpZOdHGyUwHVu9USO) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 3:39 |
 | 33 | [This Is All Now](https://open.spotify.com/track/0vS38XxhV24I3yEGjZLYmq) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Taking Back Sunday](https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY) | 4:03 |
 | 34 | [Amphetamine Smiles](https://open.spotify.com/track/6mIEjaEmDKaQ6CbKOgJqeN) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 49 | [Suburban Home / I Like Food](https://open.spotify.com/track/6taKcHeZ9SU9QgZy1oMXOi) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tony Hawk's American Wasteland Soundtrack](https://open.spotify.com/album/67tv7opgqW8VDYdLc6shX5) | 1:56 |
 | 50 | [Cute Without The E \(Ziri\)](https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Cute Without The E \(Ziri\)](https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0) | 3:22 |
 
-Snapshot ID: `ao9+AAAAAACamfnhQZm5S1F4B5VEhG9D`
+Snapshot ID: `apDPgAAAAADZ2mcXm2VNTSH61jQ4tK5K`

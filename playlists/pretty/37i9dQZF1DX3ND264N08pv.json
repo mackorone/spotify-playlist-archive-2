@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 96485,
+  "num_followers": 96510,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,18 @@
     {
       "added_at": "2026-08-17 11:28:00",
       "album": {
-        "name": "Tequila In My Eyes",
-        "url": "https://open.spotify.com/album/3Nkiil4rkVDYD4oRnCqAPJ"
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/16GveSDbJf9zvtmdlbSYUx"
       },
       "artists": [
         {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "The Sickest Squad",
-          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
         }
       ],
-      "duration_ms": 183747,
-      "name": "Tequila In My Eyes",
-      "url": "https://open.spotify.com/track/0J0zdINlrNtCxTWnyEbwKV"
+      "duration_ms": 205090,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/3so8QmY32Ww6y5kULcAbu3"
     },
     {
       "added_at": "2026-08-17 11:28:00",
@@ -415,18 +411,22 @@
     {
       "added_at": "2026-08-17 11:28:00",
       "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/16GveSDbJf9zvtmdlbSYUx"
+        "name": "Tequila In My Eyes",
+        "url": "https://open.spotify.com/album/3Nkiil4rkVDYD4oRnCqAPJ"
       },
       "artists": [
         {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "The Sickest Squad",
+          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
         }
       ],
-      "duration_ms": 205090,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/3so8QmY32Ww6y5kULcAbu3"
+      "duration_ms": 183747,
+      "name": "Tequila In My Eyes",
+      "url": "https://open.spotify.com/track/0J0zdINlrNtCxTWnyEbwKV"
     },
     {
       "added_at": "2026-08-17 11:28:00",
@@ -467,22 +467,26 @@
     {
       "added_at": "2026-08-17 11:28:00",
       "album": {
-        "name": "Druck Auf Anschlag",
-        "url": "https://open.spotify.com/album/5Wmmb4sCkMyG8yDPFv9lfJ"
+        "name": "Una Hora M\u00e1s (Dimitri K & The Dark Horror Remix)",
+        "url": "https://open.spotify.com/album/5dCqGrC8C7PBSNHN7j3vxL"
       },
       "artists": [
         {
-          "name": "Danny Ores",
-          "url": "https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY"
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
         },
         {
-          "name": "Yellow Pvnk",
-          "url": "https://open.spotify.com/artist/5ciuRoDCYAgWi8a5go0GC8"
+          "name": "The Dark Horror",
+          "url": "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
+        },
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
         }
       ],
-      "duration_ms": 128580,
-      "name": "Druck Auf Anschlag",
-      "url": "https://open.spotify.com/track/0nQGMWTpErR32JMDUBELOr"
+      "duration_ms": 216000,
+      "name": "Una Hora M\u00e1s - Dimitri K & The Dark Horror Remix",
+      "url": "https://open.spotify.com/track/6l6z5YY5uJCjWenk71Fm7f"
     },
     {
       "added_at": "2026-08-17 11:28:00",
@@ -507,26 +511,22 @@
     {
       "added_at": "2026-08-17 11:28:00",
       "album": {
-        "name": "Una Hora M\u00e1s (Dimitri K & The Dark Horror Remix)",
-        "url": "https://open.spotify.com/album/5dCqGrC8C7PBSNHN7j3vxL"
+        "name": "Druck Auf Anschlag",
+        "url": "https://open.spotify.com/album/5Wmmb4sCkMyG8yDPFv9lfJ"
       },
       "artists": [
         {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+          "name": "Danny Ores",
+          "url": "https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY"
         },
         {
-          "name": "The Dark Horror",
-          "url": "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
-        },
-        {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+          "name": "Yellow Pvnk",
+          "url": "https://open.spotify.com/artist/5ciuRoDCYAgWi8a5go0GC8"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Una Hora M\u00e1s - Dimitri K & The Dark Horror Remix",
-      "url": "https://open.spotify.com/track/6l6z5YY5uJCjWenk71Fm7f"
+      "duration_ms": 128580,
+      "name": "Druck Auf Anschlag",
+      "url": "https://open.spotify.com/track/0nQGMWTpErR32JMDUBELOr"
     },
     {
       "added_at": "2026-08-17 11:28:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-08-17 11:28:00",
       "album": {
-        "name": "Major Bounce",
-        "url": "https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB"
-      },
-      "artists": [
-        {
-          "name": "Major Conspiracy",
-          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
-        }
-      ],
-      "duration_ms": 155024,
-      "name": "Major Bounce",
-      "url": "https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE"
-    },
-    {
-      "added_at": "2026-08-17 11:28:00",
-      "album": {
         "name": "Remember The Name",
         "url": "https://open.spotify.com/album/7wjVS00832Rx34rKHPUqqv"
       },
@@ -859,22 +843,18 @@
     {
       "added_at": "2026-08-17 11:28:00",
       "album": {
-        "name": "Make It Fucking Harder!",
-        "url": "https://open.spotify.com/album/2F9VvuvmaxTpYNwTEmK8uv"
+        "name": "Major Bounce",
+        "url": "https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB"
       },
       "artists": [
         {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
-        },
-        {
-          "name": "Barber",
-          "url": "https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W"
+          "name": "Major Conspiracy",
+          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
         }
       ],
-      "duration_ms": 173925,
-      "name": "Make It Fucking Harder!",
-      "url": "https://open.spotify.com/track/4atDi2L3enDcDZdJ1PxCdl"
+      "duration_ms": 155024,
+      "name": "Major Bounce",
+      "url": "https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE"
     },
     {
       "added_at": "2026-08-17 11:28:00",
@@ -903,6 +883,26 @@
       "duration_ms": 296228,
       "name": "Just like me - Nosferatu Remix",
       "url": "https://open.spotify.com/track/1ZBR5pgAyBOVEByrGGT27i"
+    },
+    {
+      "added_at": "2026-08-17 11:28:00",
+      "album": {
+        "name": "Make It Fucking Harder!",
+        "url": "https://open.spotify.com/album/2F9VvuvmaxTpYNwTEmK8uv"
+      },
+      "artists": [
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        },
+        {
+          "name": "Barber",
+          "url": "https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W"
+        }
+      ],
+      "duration_ms": 173925,
+      "name": "Make It Fucking Harder!",
+      "url": "https://open.spotify.com/track/4atDi2L3enDcDZdJ1PxCdl"
     },
     {
       "added_at": "2026-08-17 11:28:00",

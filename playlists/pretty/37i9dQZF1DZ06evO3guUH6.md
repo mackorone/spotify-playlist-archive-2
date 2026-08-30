@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 
 > This is Alfredo Olivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096,457 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,096,561 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 | 5 | [En Definitiva](https://open.spotify.com/track/6CRRlfXDdhsL6vih3J5xco) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:36 |
 | 6 | [El Vals Del Olvido](https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:29 |
 | 7 | [MAYDAY](https://open.spotify.com/track/5tpoc6yo7yjxQEnAOPbs0B) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [MAYDAY](https://open.spotify.com/album/3CzFEoSPC9MDTwaQZR2ap3) | 3:38 |
-| 8 | [Yo Todo Lo Doy](https://open.spotify.com/track/2fQrrBtuNVMWOHqLyk4EfO) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:22 |
+| 8 | [No](https://open.spotify.com/track/2QrU43HoJRNBrbo2XLI9DS) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:07 |
 | 9 | [El Paciente](https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:31 |
 | 10 | [El Sillón](https://open.spotify.com/track/4SHTLje9c6RLnx6kOPt9L6) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:19 |
 | 11 | [El Malo De Culiacán](https://open.spotify.com/track/32MQwnY0WUaNVT7i4W9d9F) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 3:35 |
-| 12 | [No](https://open.spotify.com/track/2QrU43HoJRNBrbo2XLI9DS) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:07 |
+| 12 | [Yo Todo Lo Doy](https://open.spotify.com/track/2fQrrBtuNVMWOHqLyk4EfO) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:22 |
 | 13 | [Antecedentes De Culpa](https://open.spotify.com/track/3JvDAV3iV1KH0EmnfdU8kf) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:15 |
 | 14 | [Con La Novedad](https://open.spotify.com/track/4BkRkW91EvxeW9VhzVatqi) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:59 |
 | 15 | [El Inicio Del final](https://open.spotify.com/track/0RBC4WwqMriC9UbbPVe1no) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 | 49 | [Otro Perdedor](https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 4:10 |
 | 50 | [Borracha](https://open.spotify.com/track/63gtXiQJ2c6YaDoi28k77N) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:30 |
 
-Snapshot ID: `ao9+AAAAAABuH2ZLi9LxnFeVYwtxlPUa`
+Snapshot ID: `apDPgAAAAADBouZAjZvyO/Csd3jDNFjc`

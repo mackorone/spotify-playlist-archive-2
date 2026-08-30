@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Oi nom\u00e1s ese cumbi\u00f3n! ",
-  "num_followers": 254937,
+  "num_followers": 254988,
   "original_name": "Cumbias Para Bailar",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 207693,
-      "name": "Na Na Na (Dulce Ni\u00f1a)",
-      "url": "https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Los Del Garrote",
         "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
       },
@@ -427,18 +411,18 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Duelo de Sonoras",
-        "url": "https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY"
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
       },
       "artists": [
         {
-          "name": "Margarita la diosa de la cumbia",
-          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
         }
       ],
-      "duration_ms": 288560,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5"
+      "duration_ms": 207693,
+      "name": "Na Na Na (Dulce Ni\u00f1a)",
+      "url": "https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -455,6 +439,22 @@
       "duration_ms": 215973,
       "name": "El Afilador",
       "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Duelo de Sonoras",
+        "url": "https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY"
+      },
+      "artists": [
+        {
+          "name": "Margarita la diosa de la cumbia",
+          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
+        }
+      ],
+      "duration_ms": 288560,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Lo Nuevo Y\u2026Lo Mejor",
-        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo So\u00f1ador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "La Cumbia De La Cerveza",
-      "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Como un Dulce Poema, Vol. 3",
         "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 249773,
       "name": "Nunca Pense Llorar",
       "url": "https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Lo Nuevo Y\u2026Lo Mejor",
+        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo So\u00f1ador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "La Cumbia De La Cerveza",
+      "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
+        "name": "\u00c9xitos de la Sonora Matancera: Pa' la Paloma",
+        "url": "https://open.spotify.com/album/5556xQBMMaLxeXEflSM9qZ"
+      },
+      "artists": [
+        {
+          "name": "Alquimia La Sonora Del XXI",
+          "url": "https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS"
+        }
+      ],
+      "duration_ms": 366503,
+      "name": "Pa' La Paloma",
+      "url": "https://open.spotify.com/track/43XGRyQnciCfaoVSTrDpYT"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
         "name": "Disco De Oro - Cumbia",
         "url": "https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 180012,
       "name": "Cumbia Barulera",
       "url": "https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
-        "name": "\u00c9xitos de la Sonora Matancera: Pa' la Paloma",
-        "url": "https://open.spotify.com/album/5556xQBMMaLxeXEflSM9qZ"
-      },
-      "artists": [
-        {
-          "name": "Alquimia La Sonora Del XXI",
-          "url": "https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS"
-        }
-      ],
-      "duration_ms": 366503,
-      "name": "Pa' La Paloma",
-      "url": "https://open.spotify.com/track/43XGRyQnciCfaoVSTrDpYT"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Tus Jefes No Me Quieren",
-        "url": "https://open.spotify.com/album/0cuK61I1W8lfJy6MYHUNMh"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ensamble",
-          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
-        }
-      ],
-      "duration_ms": 224256,
-      "name": "Tus Jefes No Me Quieren",
-      "url": "https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
         "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 232493,
       "name": "Amor Sin Primavera",
       "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Tus Jefes No Me Quieren",
+        "url": "https://open.spotify.com/album/0cuK61I1W8lfJy6MYHUNMh"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ensamble",
+          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
+        }
+      ],
+      "duration_ms": 224256,
+      "name": "Tus Jefes No Me Quieren",
+      "url": "https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "La Perla Colombiana 20 Exitos (Vol 1)",
-        "url": "https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu"
-      },
-      "artists": [
-        {
-          "name": "Perla Colombiana",
-          "url": "https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14"
-        }
-      ],
-      "duration_ms": 218853,
-      "name": "Agua de vida",
-      "url": "https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Corazoncito Pum Pum",
         "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 207266,
       "name": "Como Decirte Adios",
       "url": "https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "La Perla Colombiana 20 Exitos (Vol 1)",
+        "url": "https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu"
+      },
+      "artists": [
+        {
+          "name": "Perla Colombiana",
+          "url": "https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14"
+        }
+      ],
+      "duration_ms": 218853,
+      "name": "Agua de vida",
+      "url": "https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Llorar",
-        "url": "https://open.spotify.com/album/1vUDDqbBTvOTVTNC0rs3Iz"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 201333,
-      "name": "Mama Cumbia",
-      "url": "https://open.spotify.com/track/108YjsKsz4buKAkCUYc0XQ"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Conga Y Timbal",
         "url": "https://open.spotify.com/album/0KkFcyHUrtHjSjrdMmX7Wi"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 219320,
       "name": "Conga Y Timbal",
       "url": "https://open.spotify.com/track/7LXEJkLmNUCXD4WNbshFdy"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/1vUDDqbBTvOTVTNC0rs3Iz"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 201333,
+      "name": "Mama Cumbia",
+      "url": "https://open.spotify.com/track/108YjsKsz4buKAkCUYc0XQ"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Felicidad",
-        "url": "https://open.spotify.com/album/2QkBW647a6C5INrd9xdugl"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Felicidad",
-      "url": "https://open.spotify.com/track/27HEcrCxtG7hJQSi1JzMJI"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Corazoncito Pum Pum",
         "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 228400,
       "name": "Vida No Te Vayas",
       "url": "https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Felicidad",
+        "url": "https://open.spotify.com/album/2QkBW647a6C5INrd9xdugl"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/27HEcrCxtG7hJQSi1JzMJI"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "No Me Llames Mas",
-        "url": "https://open.spotify.com/album/64MByVkltf90JUh4xgD2Gf"
-      },
-      "artists": [
-        {
-          "name": "Alcalde La Sonora",
-          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
-        }
-      ],
-      "duration_ms": 267415,
-      "name": "No Me Llames Mas",
-      "url": "https://open.spotify.com/track/0hs7HcC5yR727pM2xWEqeN"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
         "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 224666,
       "name": "Alma De Acero",
       "url": "https://open.spotify.com/track/36L3qqhm1COyggnY3aOGvX"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "No Me Llames Mas",
+        "url": "https://open.spotify.com/album/64MByVkltf90JUh4xgD2Gf"
+      },
+      "artists": [
+        {
+          "name": "Alcalde La Sonora",
+          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+        }
+      ],
+      "duration_ms": 267415,
+      "name": "No Me Llames Mas",
+      "url": "https://open.spotify.com/track/0hs7HcC5yR727pM2xWEqeN"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 210040,
-      "name": "Amigos Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/5B5eaJFprnSiCLlXTenkr3"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 189040,
       "name": "Mi Ni\u00f1a Mujer",
       "url": "https://open.spotify.com/track/5T01Xvq4sH0rakGkI1T5O5"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 210040,
+      "name": "Amigos Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/5B5eaJFprnSiCLlXTenkr3"
     },
     {
       "added_at": "2024-07-10 22:10:17",

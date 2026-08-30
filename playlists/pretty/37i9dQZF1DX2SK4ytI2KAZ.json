@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 1481461,
+  "num_followers": 1481462,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGbteyA+bmxqTNTou4GlWttcOsNd",
+  "snapshot_id": "AAAAACOVMh1n/EH0nA20NXyLhwjvFG0S",
   "tracks": [
     {
       "added_at": "2026-08-21 04:02:54",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
-        "name": "Love Balloon",
-        "url": "https://open.spotify.com/album/0yxuksgs4Ecu9U9UJLG8lm"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 251880,
-      "name": "Drenched",
-      "url": "https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX"
-    },
-    {
-      "added_at": "2026-08-21 04:02:54",
-      "album": {
         "name": "lost",
         "url": "https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 181737,
       "name": "lost",
       "url": "https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo"
+    },
+    {
+      "added_at": "2026-08-21 04:02:54",
+      "album": {
+        "name": "Love Balloon",
+        "url": "https://open.spotify.com/album/0yxuksgs4Ecu9U9UJLG8lm"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 251880,
+      "name": "Drenched",
+      "url": "https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX"
     },
     {
       "added_at": "2026-08-21 04:02:54",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
-        "name": "Can We Please Have Fun",
-        "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 220584,
-      "name": "Nowhere To Run",
-      "url": "https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr"
-    },
-    {
-      "added_at": "2026-08-21 04:02:54",
-      "album": {
         "name": "Chris Black Changed My Life",
         "url": "https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 159241,
       "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
       "url": "https://open.spotify.com/track/2PKbC4uFUY1tcBABpGZ8GQ"
+    },
+    {
+      "added_at": "2026-08-21 04:02:54",
+      "album": {
+        "name": "Can We Please Have Fun",
+        "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 220584,
+      "name": "Nowhere To Run",
+      "url": "https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr"
     },
     {
       "added_at": "2026-08-21 04:02:54",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
-        "name": "Pushing Daisies (Oh My My)",
-        "url": "https://open.spotify.com/album/0tQhPUgXN0N0fB8aKTZndT"
-      },
-      "artists": [
-        {
-          "name": "Friday Pilots Club",
-          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Pushing Daisies (Oh My My)",
-      "url": "https://open.spotify.com/track/31HQXEZFHCi93k44JoStvb"
-    },
-    {
-      "added_at": "2026-08-21 04:02:54",
-      "album": {
         "name": "sail away",
         "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 179000,
       "name": "sail away",
       "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
+    },
+    {
+      "added_at": "2026-08-21 04:02:54",
+      "album": {
+        "name": "Pushing Daisies (Oh My My)",
+        "url": "https://open.spotify.com/album/0tQhPUgXN0N0fB8aKTZndT"
+      },
+      "artists": [
+        {
+          "name": "Friday Pilots Club",
+          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Pushing Daisies (Oh My My)",
+      "url": "https://open.spotify.com/track/31HQXEZFHCi93k44JoStvb"
     },
     {
       "added_at": "2026-08-21 04:02:54",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
-        "name": "junebug!",
-        "url": "https://open.spotify.com/album/1Vscbx9B12ukvk4qGKcpVm"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 139204,
-      "name": "junebug!",
-      "url": "https://open.spotify.com/track/6pm3uGXbayVwzkBlYA0PgQ"
-    },
-    {
-      "added_at": "2026-08-21 04:02:54",
-      "album": {
         "name": "Conceited",
         "url": "https://open.spotify.com/album/4QdyZdZcC8MYKBmOsCnIbp"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 239451,
       "name": "Conceited",
       "url": "https://open.spotify.com/track/2Iv1yhxAH7m9SpohnJMs9B"
+    },
+    {
+      "added_at": "2026-08-21 04:02:54",
+      "album": {
+        "name": "junebug!",
+        "url": "https://open.spotify.com/album/1Vscbx9B12ukvk4qGKcpVm"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 139204,
+      "name": "junebug!",
+      "url": "https://open.spotify.com/track/6pm3uGXbayVwzkBlYA0PgQ"
     },
     {
       "added_at": "2026-08-21 04:02:54",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
-        "name": "REDSTAR WU & THE WORLDWIDE SCOURGE",
-        "url": "https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V"
+        "name": "Subliminal",
+        "url": "https://open.spotify.com/album/70z6aeKugkiOwBEpVjkjuj"
       },
       "artists": [
         {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
         }
       ],
-      "duration_ms": 216311,
-      "name": "BIG DOG",
-      "url": "https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ"
+      "duration_ms": 165130,
+      "name": "Subliminal",
+      "url": "https://open.spotify.com/track/2L5watN9wy4bAnBvhxYg8r"
     },
     {
       "added_at": "2026-08-21 04:02:54",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
-        "name": "Subliminal",
-        "url": "https://open.spotify.com/album/70z6aeKugkiOwBEpVjkjuj"
+        "name": "REDSTAR WU & THE WORLDWIDE SCOURGE",
+        "url": "https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V"
       },
       "artists": [
         {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
         }
       ],
-      "duration_ms": 165130,
-      "name": "Subliminal",
-      "url": "https://open.spotify.com/track/2L5watN9wy4bAnBvhxYg8r"
+      "duration_ms": 216311,
+      "name": "BIG DOG",
+      "url": "https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ"
     },
     {
       "added_at": "2026-08-21 04:02:54",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/7naNsIGKrQ9HfeaoeHtNEf"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        }
+      ],
+      "duration_ms": 193887,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/4WDzpyln8Ac9JbElIEv2bl"
+    },
+    {
+      "added_at": "2026-08-21 04:02:54",
+      "album": {
         "name": "Pick-Up Full Of Pink Carnations",
         "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 222297,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
-    },
-    {
-      "added_at": "2026-08-21 04:02:54",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/7naNsIGKrQ9HfeaoeHtNEf"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        }
-      ],
-      "duration_ms": 193887,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/4WDzpyln8Ac9JbElIEv2bl"
     },
     {
       "added_at": "2026-08-21 04:02:54",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
+        "name": "Kid",
+        "url": "https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "duration_ms": 208253,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb"
+    },
+    {
+      "added_at": "2026-08-21 04:02:54",
+      "album": {
         "name": "Miss Sunshine",
         "url": "https://open.spotify.com/album/3UbrfhQSsZ5NTQrAZUdLYq"
       },
@@ -1611,38 +1627,6 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
-        "name": "Boys In Blue",
-        "url": "https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 153045,
-      "name": "Boys In Blue",
-      "url": "https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw"
-    },
-    {
-      "added_at": "2026-08-21 04:02:54",
-      "album": {
-        "name": "Kid",
-        "url": "https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb"
-    },
-    {
-      "added_at": "2026-08-21 04:02:54",
-      "album": {
         "name": "Milk & Honey",
         "url": "https://open.spotify.com/album/2evlCGKSXmun0ByXPY5BY2"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 260000,
       "name": "Milk & Honey",
       "url": "https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI"
+    },
+    {
+      "added_at": "2026-08-21 04:02:54",
+      "album": {
+        "name": "Boys In Blue",
+        "url": "https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 153045,
+      "name": "Boys In Blue",
+      "url": "https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw"
     },
     {
       "added_at": "2026-08-21 04:02:54",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "What Now",
+      "url": "https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh"
+    },
+    {
+      "added_at": "2026-08-21 04:02:54",
+      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/0kdfBCqyoNJZ9KoVlg8Ntn"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 167556,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/2JyoU2NFGjWWTaknPfXeDR"
-    },
-    {
-      "added_at": "2026-08-21 04:02:54",
-      "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "What Now",
-      "url": "https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh"
     },
     {
       "added_at": "2026-08-21 04:02:54",

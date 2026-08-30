@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Giacchino. The essential tracks, all in one playlist.",
-  "num_followers": 18562,
+  "num_followers": 18563,
   "original_name": "This Is Michael Giacchino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABg5i7JZkE4x8R7pYk7NL2+",
+  "snapshot_id": "apDPgAAAAABeGu6SQzZJ/C1NJWN2S0fa",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "The Imperial Suite",
-      "url": "https://open.spotify.com/track/2NZhNbfb1rD1aRj3hZaoqk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Him Go (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4fgejrAeBYWdSaYRLXYyis"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 109466,
       "name": "The Break Of Dawn",
       "url": "https://open.spotify.com/track/4Fvf3Ch1obEN4GiYacWa5N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "The Imperial Suite",
+      "url": "https://open.spotify.com/track/2NZhNbfb1rD1aRj3hZaoqk"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: Far from Home (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7dHHxnqokv90t6wVqTEk6F"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 107783,
-      "name": "Swinging Set - from \"Spider-Man: Far from Home\" Soundtrack",
-      "url": "https://open.spotify.com/track/7BOKGKY2DAjq64NPsTjCyX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Fantastic Four: First Steps Main Theme (From \"The Fantastic Four: First Steps\")",
         "url": "https://open.spotify.com/album/7cAwr7nhlYNRCm9vCOC9Hj"
       },
@@ -791,6 +775,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spider-Man: Far from Home (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7dHHxnqokv90t6wVqTEk6F"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 107783,
+      "name": "Swinging Set - from \"Spider-Man: Far from Home\" Soundtrack",
+      "url": "https://open.spotify.com/track/7BOKGKY2DAjq64NPsTjCyX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fantastic Four: First Steps (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0yuJY1TWdXHnG74u5yAPLB"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 250293,
+      "name": "The Fantastic Four: First Steps Main Theme Extended Version",
+      "url": "https://open.spotify.com/track/7h1r6c5C8HZpDmmCodIIW4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cars 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 354080,
       "name": "It's Finn McMissile! - From \"Cars 2\"/Score",
       "url": "https://open.spotify.com/track/2iiOa1urBDqoKwjCLkIiG5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inside Out (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 260360,
-      "name": "Nomanisone Island/National Movers",
-      "url": "https://open.spotify.com/track/2R3R3dayan27EEINL55jNd"
     }
   ],
   "unique_name": "This Is Michael Giacchino",

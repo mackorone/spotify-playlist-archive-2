@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,711 likes - 72 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,709 likes - 72 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 63 | [Nineteen \- Nia Archives Remix](https://open.spotify.com/track/7LiSEDSNgSSBkFLDZlsLIm) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [to hell with it \(Remixes\)](https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb) | 2:37 |
 | 64 | [Really Hot](https://open.spotify.com/track/1Ujt4crD2WYcFh30ecuBrg) | [Babymorocco](https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe) | [Bikinis and Trackies](https://open.spotify.com/album/6WsFthfrDQuLxlvu5uYWW3) | 3:00 |
 | 65 | [gimme](https://open.spotify.com/track/48TPDeEe9Cg7Edy5RcC0xr) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Curve 1](https://open.spotify.com/album/0LxpmDac7eNkPqOKvjkMNo) | 6:38 |
-| 66 | [Higher \(Oscar Farrell Remix\)](https://open.spotify.com/track/272LexcV5XDL1bSzYz5r1p) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [Higher \(dh2 remixes\)](https://open.spotify.com/album/3ByAiluejAJa9y8YN8Kdhf) | 4:30 |
+| 66 | [Higher \- Oscar Farrell Remix](https://open.spotify.com/track/272LexcV5XDL1bSzYz5r1p) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [Higher \(dh2 remixes\)](https://open.spotify.com/album/3ByAiluejAJa9y8YN8Kdhf) | 4:30 |
 | 67 | [SATISFY](https://open.spotify.com/track/3yHwfHQn3qU1WLTLSw7VL8) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SATISFY](https://open.spotify.com/album/6pTszhm2TxKPaAplNDzdtM) | 2:45 |
 | 68 | [Crocodile Tears \- Radio Edit](https://open.spotify.com/track/6IFcU2q3H8WPf2eSAu3nVL) | [GRADES](https://open.spotify.com/artist/5xtS6AoBUHhaAhxC1JN3PY) | [Crocodile Tears](https://open.spotify.com/album/7HJyZTmBNV8GUH1xqwjCBC) | 2:48 |
 | 69 | [Spend It](https://open.spotify.com/track/0ANKs2ux7dvLMdbmu5EpYk) | [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [Spend It](https://open.spotify.com/album/6eGTF5Of9yZlptghLQ0cuD) | 2:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,885 likes - 107 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,953 likes - 107 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

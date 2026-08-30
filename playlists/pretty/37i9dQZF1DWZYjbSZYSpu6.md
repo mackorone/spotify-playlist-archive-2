@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: WENDY, JUN\. K\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,775 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,773 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 39 | [Love Virus](https://open.spotify.com/track/4JA2u5Grq0GCSSQfy5cLFG) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS), [SEOLA](https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf) | [Whats wrong with secretary kim OST Part.1](https://open.spotify.com/album/1l8yWyu8JIf2GttsAVOWlR) | 3:27 |
 | 40 | [Anemone](https://open.spotify.com/track/6KJB9aBaZhTLTNH59WCxvg) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ) | [Flower Language](https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX) | 3:52 |
 | 41 | [A Night Full of You](https://open.spotify.com/track/2KvLK4xXYmkubREnYbCX27) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka), [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [다 이루어질지니 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7lR1C36AIonUwAUqehsdOU) | 3:48 |
-| 42 | [Never Meant to Be](https://open.spotify.com/track/7BstEf1Z8koda0WPrba16o) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Never Meant to Be](https://open.spotify.com/album/1nBFDAOYEVroVcwNv9ETvn) | 2:59 |
-| 43 | [Because we loved](https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA) | [KANG MINKYUNG](https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4) | [Because we loved](https://open.spotify.com/album/2qarSzZiUyIe8RCdsilL7s) | 3:41 |
+| 42 | [Because we loved](https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA) | [KANG MINKYUNG](https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4) | [Because we loved](https://open.spotify.com/album/2qarSzZiUyIe8RCdsilL7s) | 3:41 |
+| 43 | [Never Meant to Be](https://open.spotify.com/track/7BstEf1Z8koda0WPrba16o) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Never Meant to Be](https://open.spotify.com/album/1nBFDAOYEVroVcwNv9ETvn) | 2:59 |
 | 44 | [Officially Cool](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Officially Cool](https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9) | 2:57 |
 | 45 | [Layin' Low \(feat\. Jooyoung\)](https://open.spotify.com/track/1B2vkECYhw0XEcyOexAq6e) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [Layin' Low \(feat\. Jooyoung\)](https://open.spotify.com/album/6wPJh6aQa1SoplBJcDPlZW) | 3:08 |
 | 46 | [I Wanna Be](https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [I Wanna Be \- The 1st Album Repackage](https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH) | 3:13 |

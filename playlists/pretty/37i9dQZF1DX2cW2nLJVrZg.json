@@ -1,6 +1,6 @@
 {
   "description": "All the winning songs from the annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 252094,
+  "num_followers": 252086,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "Oppenheimer (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        }
-      ],
-      "duration_ms": 110160,
-      "name": "Can You Hear The Music",
-      "url": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
         "name": "Aladdin Special Edition",
         "url": "https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 160800,
       "name": "A Whole New World",
       "url": "https://open.spotify.com/track/1hwdPQtFHISvZ9SXMkNrIK"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
+        "name": "Oppenheimer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 110160,
+      "name": "Can You Hear The Music",
+      "url": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA"
     },
     {
       "added_at": "2024-01-23 19:55:12",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "Joker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 128280,
-      "name": "Bathroom Dance",
-      "url": "https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
         "name": "Al otro lado del rio",
         "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 194626,
       "name": "Al otro lado del r\u00edo",
       "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
+        "name": "Joker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 128280,
+      "name": "Bathroom Dance",
+      "url": "https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC"
     },
     {
       "added_at": "2024-01-23 19:55:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Listen to women at full volume\. Cover: Rose Gray  💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,795 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,793 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

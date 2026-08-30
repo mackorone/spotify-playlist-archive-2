@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 41309,
+  "num_followers": 41315,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAD92R+q3fw7c/W8wrhcwBTE",
+  "snapshot_id": "apDPgAAAAABuj5F7bM3JCqEBOlcMS5/e",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u54b2\u304b\u305b\u3084\u54b2\u304b\u305b",
+        "url": "https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 301813,
+      "name": "The Everlasting Guilty Crown Nightcore mix",
+      "url": "https://open.spotify.com/track/4tGTYRb4WvONONBHQMAJBA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
         "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 284466,
       "name": "Eiyu Fate's Song",
       "url": "https://open.spotify.com/track/09MdY7aQmFhDdnnQGSk6aa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u54b2\u304b\u305b\u3084\u54b2\u304b\u305b",
-        "url": "https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 301813,
-      "name": "The Everlasting Guilty Crown Nightcore mix",
-      "url": "https://open.spotify.com/track/4tGTYRb4WvONONBHQMAJBA"
     },
     {
       "added_at": null,

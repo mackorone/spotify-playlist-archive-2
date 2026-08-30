@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 
 > Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,378 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,394 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 52 | [4am](https://open.spotify.com/track/75enpZYDT6k0PNKu6SJ4W5) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [4am](https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT) | 1:50 |
 | 53 | [San Francisco](https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG) | 2:53 |
 | 54 | [Moonlight](https://open.spotify.com/track/4XrvRf68c9H4orZZ9KoldQ) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Just The Beginning](https://open.spotify.com/album/55LUvkPPMUgwQVmypS3Wex) | 2:52 |
-| 55 | [Bom Bom \- Radio Edit](https://open.spotify.com/track/0d5f6gzzW1Pgx9uJsLrSDP) | [Sam And The Womp](https://open.spotify.com/artist/3tgiOZXeC1DIimfprvfL64) | [Bom Bom](https://open.spotify.com/album/69onf0drqjCpyjgJsIb8BJ) | 2:54 |
-| 56 | [Cassie](https://open.spotify.com/track/6RPDAf8p0lGL3jxpnuNotC) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt) | 2:58 |
+| 55 | [Cassie](https://open.spotify.com/track/6RPDAf8p0lGL3jxpnuNotC) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt) | 2:58 |
+| 56 | [Bom Bom \- Radio Edit](https://open.spotify.com/track/0d5f6gzzW1Pgx9uJsLrSDP) | [Sam And The Womp](https://open.spotify.com/artist/3tgiOZXeC1DIimfprvfL64) | [Bom Bom](https://open.spotify.com/album/69onf0drqjCpyjgJsIb8BJ) | 2:54 |
 | 57 | [Our Time Now](https://open.spotify.com/track/3CE3PYF64qJBjq54Uf9ZiW) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Every Second Counts](https://open.spotify.com/album/6MEfS6zFbBYZalRsumJsvs) | 2:50 |
 | 58 | [Perfect Stranger](https://open.spotify.com/track/2VeCDMFJMPg6S4P2EKRnyX) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 3:17 |
 | 59 | [Tonight](https://open.spotify.com/track/290yPLUQhUqZd1OlmPWGRI) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Holding Onto Strings Better Left To Fray](https://open.spotify.com/album/1Bjmcy5hWGdGQ0zANfgIzh) | 3:44 |
@@ -90,13 +90,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 80 | [Changing](https://open.spotify.com/track/6M23RkYPbVR91c4iWVNkcl) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [All At Once](https://open.spotify.com/album/23hVST38fon9vYwiNnt9ed) | 3:20 |
 | 81 | [Don't Kill My Vibe](https://open.spotify.com/track/5DCaAsjQRLYvvdFUzaYnAz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 3:04 |
 | 82 | [Malibu](https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk) | 3:11 |
-| 83 | [Time\-Bomb](https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:29 |
-| 84 | [Laura Palmer](https://open.spotify.com/track/0V8W7phYnepJBNeSMp8fGd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:06 |
+| 83 | [Laura Palmer](https://open.spotify.com/track/0V8W7phYnepJBNeSMp8fGd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:06 |
+| 84 | [Time\-Bomb](https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:29 |
 | 85 | [Chemicals React \- Remix](https://open.spotify.com/track/7vOjTY220BqIttYDbwshED) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 2:55 |
 | 86 | [Please Don't Say You Love Me](https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW) | 3:01 |
 | 87 | [Pristine](https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP) | 4:55 |
-| 88 | [Good Times](https://open.spotify.com/track/3aAoy02NwrmZcqXYYjqNh2) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Last Young Renegade](https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH) | 3:44 |
-| 89 | [We Don't Know](https://open.spotify.com/track/68dYfLuvuF9AeHGyk2tUOK) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/21fsTeBAGnpzzJ1brqXG9i) | 4:33 |
+| 88 | [We Don't Know](https://open.spotify.com/track/68dYfLuvuF9AeHGyk2tUOK) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/21fsTeBAGnpzzJ1brqXG9i) | 4:33 |
+| 89 | [Good Times](https://open.spotify.com/track/3aAoy02NwrmZcqXYYjqNh2) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Last Young Renegade](https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH) | 3:44 |
 | 90 | [When It All Falls Apart](https://open.spotify.com/track/2lxXXI3hF46APE0wZlTeUZ) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:12 |
 | 91 | [Ring Pop](https://open.spotify.com/track/7AN15jOombgNojiAQ5IUG0) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Ring Pop](https://open.spotify.com/album/2QnV02lsqnLhqMnewjcAsH) | 2:26 |
 | 92 | [Dang](https://open.spotify.com/track/69NGfLih2nqHV7JpABexpd) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Dang](https://open.spotify.com/album/2pahZPfd9RrI1zO8fY6qqv) | 3:22 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 97 | [Sleep Talking](https://open.spotify.com/track/0ojtOskzapucZWX767nQrc) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Sleep Talking](https://open.spotify.com/album/5j2SxMw6xC8wNKUfrtgjvQ) | 3:44 |
 | 98 | [Explorers](https://open.spotify.com/track/0D94OfdPJnUtMSd7ZKeOac) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids](https://open.spotify.com/album/5kQUIjlpXoMMAHRAhbXmpp) | 4:16 |
 | 99 | [Good Day](https://open.spotify.com/track/7oKyITEBWOqSO87kuSBCx5) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 3:26 |
-| 100 | [JEKYLL & HIDE](https://open.spotify.com/track/3UmBgQiJhbNMmyPVceuH4d) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [CHAMPION](https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx) | 3:16 |
+| 100 | [Perfect Someone](https://open.spotify.com/track/4xmAEAbMldER7mz8DnFk1b) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 4:39 |
 
 Snapshot ID: `AAAAALW9gC2F+7872l2VmwNaN3DlRHDx`

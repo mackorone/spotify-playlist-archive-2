@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 387841,
+  "num_followers": 387855,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-07-31 09:02:32",
       "album": {
-        "name": "Against The Current",
-        "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "Against The Current",
-      "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
-    },
-    {
-      "added_at": "2026-07-31 09:02:32",
-      "album": {
         "name": "Disarray",
         "url": "https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 310853,
       "name": "Disarray",
       "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
+    },
+    {
+      "added_at": "2026-07-31 09:02:32",
+      "album": {
+        "name": "Against The Current",
+        "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "Against The Current",
+      "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
     },
     {
       "added_at": "2026-07-31 09:02:32",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-07-31 09:02:32",
       "album": {
-        "name": "What A Night",
-        "url": "https://open.spotify.com/album/4BNxDvVKgVuwghrLdQRrfB"
-      },
-      "artists": [
-        {
-          "name": "Malted Milk",
-          "url": "https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0"
-        }
-      ],
-      "duration_ms": 241398,
-      "name": "What A Night",
-      "url": "https://open.spotify.com/track/4XQVjFJZ2zGgtxmEPVYtQ0"
-    },
-    {
-      "added_at": "2026-07-31 09:02:32",
-      "album": {
         "name": "Your Woman",
         "url": "https://open.spotify.com/album/63f4ACjDE8ucRFZgnglWOm"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 228586,
       "name": "Your Woman",
       "url": "https://open.spotify.com/track/1PJEzOSG67yPOarjKAlvg6"
+    },
+    {
+      "added_at": "2026-07-31 09:02:32",
+      "album": {
+        "name": "What A Night",
+        "url": "https://open.spotify.com/album/4BNxDvVKgVuwghrLdQRrfB"
+      },
+      "artists": [
+        {
+          "name": "Malted Milk",
+          "url": "https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0"
+        }
+      ],
+      "duration_ms": 241398,
+      "name": "What A Night",
+      "url": "https://open.spotify.com/track/4XQVjFJZ2zGgtxmEPVYtQ0"
     },
     {
       "added_at": "2026-07-31 09:02:32",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-07-31 09:02:32",
       "album": {
-        "name": "L.A.B VI",
-        "url": "https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 254920,
-      "name": "Give Me That Feeling",
-      "url": "https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ"
-    },
-    {
-      "added_at": "2026-07-31 09:02:32",
-      "album": {
         "name": "Joy Will Find Its Way",
         "url": "https://open.spotify.com/album/1mkFngvOZTjjUkDBhtqFAc"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 200243,
       "name": "The Bed Unfold",
       "url": "https://open.spotify.com/track/2JaYsCEgBJyaPlKV2t91Jd"
+    },
+    {
+      "added_at": "2026-07-31 09:02:32",
+      "album": {
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 254920,
+      "name": "Give Me That Feeling",
+      "url": "https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ"
     },
     {
       "added_at": "2026-07-31 09:02:32",

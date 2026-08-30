@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,902 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,905 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 20 | [Look At Miss Ohio](https://open.spotify.com/track/37PBWFvPnrdKaz9tiI24EI) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 3:25 |
 | 21 | [Sweet Things Just for You](https://open.spotify.com/track/3Njnztq7RcqwQycbOzaI8i) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:37 |
 | 22 | [For What It's Worth](https://open.spotify.com/track/5FqXVTKfmWtoV9XFnhGtsj) | [Susan O'Neill](https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [For What It's Worth](https://open.spotify.com/album/5o25ZkbK19PYTefKUhCkv8) | 2:33 |
-| 23 | [Twined and Twisted](https://open.spotify.com/track/3ZJOBOxFUaxHX1ovXxQdCG) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' against a Stone](https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z) | 3:13 |
+| 23 | [Twined & Twisted](https://open.spotify.com/track/1odjg0Ct6jcXl9hK0nx02f) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:13 |
 | 24 | [Little Wing](https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Wing](https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF) | 2:55 |
 | 25 | [All I Really Wanna Do](https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:43 |
 | 26 | [Got Soul](https://open.spotify.com/track/64Z3YM5ZdbIRRdZKbPLxzq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 49 | [Rollin’ and Tumblin’](https://open.spotify.com/track/6Gf3O9dcDuPUtMm6arXiCr) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Rollin' and Tumblin'](https://open.spotify.com/album/0fnEQYKGxiZ8MeQdyQNpQ1) | 3:28 |
 | 50 | [Up and Rolling \(feat\. Son Little and Valerie June\)](https://open.spotify.com/track/2Z76Gvp5iZcEkszy10LNQp) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Up and Rolling \(feat\. Son Little and Valerie June\)](https://open.spotify.com/album/7lhmScuKFqX2uzvuBkXYOk) | 3:21 |
 
-Snapshot ID: `ao9+AAAAAAB14ue5z1Z1g1cPfZzWrjzX`
+Snapshot ID: `apDPgAAAAADjoKFIWQV1H9pEbT+Cir86`

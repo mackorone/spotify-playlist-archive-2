@@ -1,6 +1,6 @@
 {
   "description": "Classical music to help children and young minds focus.",
-  "num_followers": 69229,
+  "num_followers": 69309,
   "original_name": "Classroom Classical",
   "owner": {
     "name": "Spotify",
@@ -676,12 +676,12 @@
           "url": "https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM"
         },
         {
-          "name": "David Parry",
-          "url": "https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD"
-        },
-        {
           "name": "London Philharmonic Orchestra",
           "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "David Parry",
+          "url": "https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD"
         }
       ],
       "duration_ms": 351106,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 
 > This is DannyLux\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,160 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,161 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 | 22 | [Decir Adios \(with DannyLux\)](https://open.spotify.com/track/22e85kiUQV6Q8zaStxaM1f) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 4:39 |
 | 23 | [ME CAMBIASTE \(with Eslabon Armado\)](https://open.spotify.com/track/0cAy6Iu6GQcFegbu9RMK1R) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Eslabon Armado](https://open.spotify.com/artist/3qd5K0Y3u1cYQd5uNTrsVj) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:45 |
 | 24 | [VIAJA CONMIGO \(feat\. Jasiel Nuñez, Yng Naz\) \- Remix](https://open.spotify.com/track/3jUi2kxcsmnc23QtgXve4p) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [LEYENDA](https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY) | 3:34 |
-| 25 | [Como Tu Quieras](https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 2:55 |
-| 26 | [Sal De Mi Mente](https://open.spotify.com/track/34VdhciQ6LFncMIqTqPHAr) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [NOS FUIMOS DE CASA](https://open.spotify.com/album/6lF8ObAEQlS32QC3A28uz4) | 2:55 |
+| 25 | [Sal De Mi Mente](https://open.spotify.com/track/34VdhciQ6LFncMIqTqPHAr) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [NOS FUIMOS DE CASA](https://open.spotify.com/album/6lF8ObAEQlS32QC3A28uz4) | 2:55 |
+| 26 | [Como Tu Quieras](https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 2:55 |
 | 27 | [AMAR Y PERDER](https://open.spotify.com/track/04lZqz2MSGDf1bdweoJIG9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 5:19 |
 | 28 | [No Te Quiero Perder](https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:46 |
 | 29 | [rompo esquemas](https://open.spotify.com/track/3YQBN90z1f6cpYANeWPdWT) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [PÁJARO AZUL](https://open.spotify.com/album/7lUllZVIhNP8mCn9h3HmxO) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 | 49 | [El 100](https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [El 100](https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin) | 2:58 |
 | 50 | [VENENO](https://open.spotify.com/track/3ocmPc60trEPUVKHnQtuIc) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [VENENO](https://open.spotify.com/album/1Mc7Gk076gcVgoTHKUGaOU) | 3:31 |
 
-Snapshot ID: `ao9+AAAAAACsnazbbS5PtvHqHrYQxUuk`
+Snapshot ID: `apDPgAAAAAAxbX6bsassH/q+2VVR407k`

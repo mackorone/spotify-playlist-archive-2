@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con aLex vs aLex.",
-  "num_followers": 736187,
+  "num_followers": 736138,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-08-28 04:02:27",
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/6qqLIWRr9XpxuqZiWRM5Zr"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 174150,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/7ocNC8jszuZKlwz7vvgI7R"
-    },
-    {
-      "added_at": "2026-08-28 04:02:27",
-      "album": {
         "name": "ENTREOLAS Mixtape, Vol. 2",
         "url": "https://open.spotify.com/album/4PDhaXAcqaGXklORHXTJwo"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 152784,
       "name": "Ambiente<3",
       "url": "https://open.spotify.com/track/1xG5edatLwH6bW1CiWWIEC"
+    },
+    {
+      "added_at": "2026-08-28 04:02:27",
+      "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/6qqLIWRr9XpxuqZiWRM5Zr"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 174150,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/7ocNC8jszuZKlwz7vvgI7R"
     },
     {
       "added_at": "2026-08-28 04:02:27",
@@ -779,18 +779,22 @@
     {
       "added_at": "2026-08-28 04:02:27",
       "album": {
-        "name": "Espejo",
-        "url": "https://open.spotify.com/album/3f4lPLyTxihCcIjOOUsqFC"
+        "name": "No es tu estilo",
+        "url": "https://open.spotify.com/album/6n2DgWN6TftYJKGNcBPW1G"
       },
       "artists": [
         {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+          "name": "LOCKWARD",
+          "url": "https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
         }
       ],
-      "duration_ms": 168330,
-      "name": "Espejo",
-      "url": "https://open.spotify.com/track/4FJx8ZznIjK1ZZSBaK7aVF"
+      "duration_ms": 142677,
+      "name": "No es tu estilo",
+      "url": "https://open.spotify.com/track/5RikicLu1IWphJ0y6BadSE"
     },
     {
       "added_at": "2026-08-28 04:02:27",
@@ -831,34 +835,18 @@
     {
       "added_at": "2026-08-28 04:02:27",
       "album": {
-        "name": "Volver",
-        "url": "https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd"
+        "name": "Espejo",
+        "url": "https://open.spotify.com/album/3f4lPLyTxihCcIjOOUsqFC"
       },
       "artists": [
         {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
         }
       ],
-      "duration_ms": 252929,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ"
-    },
-    {
-      "added_at": "2026-08-28 04:02:27",
-      "album": {
-        "name": "En bucle",
-        "url": "https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 316026,
-      "name": "En bucle",
-      "url": "https://open.spotify.com/track/6Fclh8eoItr2T0QulGtZyO"
+      "duration_ms": 168330,
+      "name": "Espejo",
+      "url": "https://open.spotify.com/track/4FJx8ZznIjK1ZZSBaK7aVF"
     },
     {
       "added_at": "2026-08-28 04:02:27",
@@ -879,6 +867,22 @@
     {
       "added_at": "2026-08-28 04:02:27",
       "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 252929,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ"
+    },
+    {
+      "added_at": "2026-08-28 04:02:27",
+      "album": {
         "name": "aunquetelopida",
         "url": "https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA"
       },
@@ -895,6 +899,22 @@
       "duration_ms": 180631,
       "name": "aunquetelopida",
       "url": "https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi"
+    },
+    {
+      "added_at": "2026-08-28 04:02:27",
+      "album": {
+        "name": "En bucle",
+        "url": "https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 316026,
+      "name": "En bucle",
+      "url": "https://open.spotify.com/track/6Fclh8eoItr2T0QulGtZyO"
     },
     {
       "added_at": "2026-08-28 04:02:27",
@@ -935,22 +955,6 @@
     {
       "added_at": "2026-08-28 04:02:27",
       "album": {
-        "name": "Falta Algo",
-        "url": "https://open.spotify.com/album/5psNcnKQlvazaFbBN8MUVv"
-      },
-      "artists": [
-        {
-          "name": "Chuwi",
-          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
-        }
-      ],
-      "duration_ms": 203127,
-      "name": "Falta Algo",
-      "url": "https://open.spotify.com/track/6zZjV6QPv2DQqcBQRPyd5f"
-    },
-    {
-      "added_at": "2026-08-28 04:02:27",
-      "album": {
         "name": "miau",
         "url": "https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts"
       },
@@ -963,6 +967,22 @@
       "duration_ms": 206366,
       "name": "miau",
       "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
+    },
+    {
+      "added_at": "2026-08-28 04:02:27",
+      "album": {
+        "name": "Falta Algo",
+        "url": "https://open.spotify.com/album/5psNcnKQlvazaFbBN8MUVv"
+      },
+      "artists": [
+        {
+          "name": "Chuwi",
+          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
+        }
+      ],
+      "duration_ms": 203127,
+      "name": "Falta Algo",
+      "url": "https://open.spotify.com/track/6zZjV6QPv2DQqcBQRPyd5f"
     },
     {
       "added_at": "2026-08-28 04:02:27",
@@ -991,22 +1011,6 @@
     {
       "added_at": "2026-08-28 04:02:27",
       "album": {
-        "name": "BES4ME",
-        "url": "https://open.spotify.com/album/2pDTIwOIb85dGC7Pj0RUay"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 153176,
-      "name": "BES4ME",
-      "url": "https://open.spotify.com/track/4YoHssP1wgFxKIrgkAJRDD"
-    },
-    {
-      "added_at": "2026-08-28 04:02:27",
-      "album": {
         "name": "no voy a estar ma\u00f1ana",
         "url": "https://open.spotify.com/album/1wFTNFddZkNd2XXceMvMbX"
       },
@@ -1023,6 +1027,22 @@
       "duration_ms": 177773,
       "name": "no voy a estar ma\u00f1ana",
       "url": "https://open.spotify.com/track/0MOKVcgy5F8WwYfQ62Py4c"
+    },
+    {
+      "added_at": "2026-08-28 04:02:27",
+      "album": {
+        "name": "BES4ME",
+        "url": "https://open.spotify.com/album/2pDTIwOIb85dGC7Pj0RUay"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 153176,
+      "name": "BES4ME",
+      "url": "https://open.spotify.com/track/4YoHssP1wgFxKIrgkAJRDD"
     },
     {
       "added_at": "2026-08-28 04:02:27",
@@ -1095,22 +1115,6 @@
     {
       "added_at": "2026-08-28 04:02:27",
       "album": {
-        "name": "Me Caigo",
-        "url": "https://open.spotify.com/album/3mIzqnZrrwgdJx7ojyFU9v"
-      },
-      "artists": [
-        {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
-        }
-      ],
-      "duration_ms": 103650,
-      "name": "Me Caigo",
-      "url": "https://open.spotify.com/track/0Q9YmrINbpJss0MBVSfMeE"
-    },
-    {
-      "added_at": "2026-08-28 04:02:27",
-      "album": {
         "name": "PERMANENTE",
         "url": "https://open.spotify.com/album/0JLo9Cf13yWYWebq6rIU0d"
       },
@@ -1127,6 +1131,22 @@
       "duration_ms": 142275,
       "name": "PERMANENTE",
       "url": "https://open.spotify.com/track/5yfaf9e2rp5u4R80DlFB9V"
+    },
+    {
+      "added_at": "2026-08-28 04:02:27",
+      "album": {
+        "name": "Me Caigo",
+        "url": "https://open.spotify.com/album/3mIzqnZrrwgdJx7ojyFU9v"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "duration_ms": 103650,
+      "name": "Me Caigo",
+      "url": "https://open.spotify.com/track/0Q9YmrINbpJss0MBVSfMeE"
     },
     {
       "added_at": "2026-08-28 04:02:27",
@@ -1151,6 +1171,54 @@
     {
       "added_at": "2026-08-28 04:02:27",
       "album": {
+        "name": "Mil Noches",
+        "url": "https://open.spotify.com/album/1UAZW8Tx2rBGn5AZwl0pjF"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 164584,
+      "name": "Mil Noches",
+      "url": "https://open.spotify.com/track/5uVq7FwYvcXrE0nWfRYqxn"
+    },
+    {
+      "added_at": "2026-08-28 04:02:27",
+      "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/1bE571SVKRZZkI9zK5ov9M"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 131904,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/3R7vjL9lt5W1bidvbJn3gu"
+    },
+    {
+      "added_at": "2026-08-28 04:02:27",
+      "album": {
+        "name": "tqm <3",
+        "url": "https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ"
+      },
+      "artists": [
+        {
+          "name": "ZTVZ",
+          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
+        }
+      ],
+      "duration_ms": 156426,
+      "name": "tqm <3",
+      "url": "https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG"
+    },
+    {
+      "added_at": "2026-08-28 04:02:27",
+      "album": {
         "name": "Sensaci\u00f3n",
         "url": "https://open.spotify.com/album/4IlsDJUMB4nhLi3HPozP9H"
       },
@@ -1171,38 +1239,6 @@
       "duration_ms": 209551,
       "name": "Sensaci\u00f3n",
       "url": "https://open.spotify.com/track/2eNDrODvRe4dCnxGKGEKBB"
-    },
-    {
-      "added_at": "2026-08-28 04:02:27",
-      "album": {
-        "name": "Mil Noches",
-        "url": "https://open.spotify.com/album/1UAZW8Tx2rBGn5AZwl0pjF"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 164584,
-      "name": "Mil Noches",
-      "url": "https://open.spotify.com/track/5uVq7FwYvcXrE0nWfRYqxn"
-    },
-    {
-      "added_at": "2026-08-28 04:02:27",
-      "album": {
-        "name": "tqm <3",
-        "url": "https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ"
-      },
-      "artists": [
-        {
-          "name": "ZTVZ",
-          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
-        }
-      ],
-      "duration_ms": 156426,
-      "name": "tqm <3",
-      "url": "https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG"
     },
     {
       "added_at": "2026-08-28 04:02:27",
@@ -1363,26 +1399,6 @@
     {
       "added_at": "2026-08-28 04:02:27",
       "album": {
-        "name": "GOLOSA",
-        "url": "https://open.spotify.com/album/3vVYr1YoOAONCCiNYGHCfr"
-      },
-      "artists": [
-        {
-          "name": "Let\u00f3n P\u00e9",
-          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
-        },
-        {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
-        }
-      ],
-      "duration_ms": 214140,
-      "name": "Mi Terraza",
-      "url": "https://open.spotify.com/track/6liXtsSKDHM1OPMbmszF70"
-    },
-    {
-      "added_at": "2026-08-28 04:02:27",
-      "album": {
         "name": "YORU",
         "url": "https://open.spotify.com/album/46NnC6qj5SlVbqMPFoeQQs"
       },
@@ -1403,6 +1419,26 @@
       "duration_ms": 168750,
       "name": "MENTIRNOS HOY",
       "url": "https://open.spotify.com/track/0zkSyPNlEyKQetyLi4Plxb"
+    },
+    {
+      "added_at": "2026-08-28 04:02:27",
+      "album": {
+        "name": "GOLOSA",
+        "url": "https://open.spotify.com/album/3vVYr1YoOAONCCiNYGHCfr"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        },
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "duration_ms": 214140,
+      "name": "Mi Terraza",
+      "url": "https://open.spotify.com/track/6liXtsSKDHM1OPMbmszF70"
     },
     {
       "added_at": "2026-08-28 04:02:27",
@@ -1455,6 +1491,22 @@
       "duration_ms": 225760,
       "name": "love that stains",
       "url": "https://open.spotify.com/track/6sFUlgljN8JyvqI5mDJUUF"
+    },
+    {
+      "added_at": "2026-08-28 04:02:27",
+      "album": {
+        "name": "Poeta",
+        "url": "https://open.spotify.com/album/6c2NxL8g6nrpA48wR814Uo"
+      },
+      "artists": [
+        {
+          "name": "Carlos Carrera",
+          "url": "https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Poeta",
+      "url": "https://open.spotify.com/track/6McYM1HmEhcWxp0KGVXXJS"
     },
     {
       "added_at": "2026-08-28 04:02:27",
@@ -1567,6 +1619,22 @@
     {
       "added_at": "2026-08-28 04:02:27",
       "album": {
+        "name": "Vatos",
+        "url": "https://open.spotify.com/album/1fkFUzh9CvwIHntVF0YVWB"
+      },
+      "artists": [
+        {
+          "name": "Vanita Leo",
+          "url": "https://open.spotify.com/artist/1ygRaSoCU4Ph22Y4b7UfB9"
+        }
+      ],
+      "duration_ms": 146511,
+      "name": "Vatos",
+      "url": "https://open.spotify.com/track/4YOY1oa1UvoAxEaWX9fi9n"
+    },
+    {
+      "added_at": "2026-08-28 04:02:27",
+      "album": {
         "name": "EL OTRO T\u00da",
         "url": "https://open.spotify.com/album/6o2mMA8R9374vi2KVc3DPl"
       },
@@ -1579,22 +1647,6 @@
       "duration_ms": 172840,
       "name": "EL OTRO T\u00da",
       "url": "https://open.spotify.com/track/29xOGMmFT7vsDpmsmMvcmT"
-    },
-    {
-      "added_at": "2026-08-28 04:02:27",
-      "album": {
-        "name": "Poeta",
-        "url": "https://open.spotify.com/album/6c2NxL8g6nrpA48wR814Uo"
-      },
-      "artists": [
-        {
-          "name": "Carlos Carrera",
-          "url": "https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Poeta",
-      "url": "https://open.spotify.com/track/6McYM1HmEhcWxp0KGVXXJS"
     },
     {
       "added_at": "2026-08-28 04:02:27",
@@ -1743,54 +1795,6 @@
       "duration_ms": 202800,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7zKT05qeYBUEuHQJP4gtsa"
-    },
-    {
-      "added_at": "2026-08-28 04:02:27",
-      "album": {
-        "name": "Cenizas En El Desierto",
-        "url": "https://open.spotify.com/album/0EST70rsJHUzaSJEpcb32B"
-      },
-      "artists": [
-        {
-          "name": "Martox",
-          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
-        }
-      ],
-      "duration_ms": 204265,
-      "name": "Cenizas En El Desierto",
-      "url": "https://open.spotify.com/track/4gAaHL8HR58hvHXrvSh5sY"
-    },
-    {
-      "added_at": "2026-08-28 04:02:27",
-      "album": {
-        "name": "Me Asusta Amar Tanto la Soledad",
-        "url": "https://open.spotify.com/album/1RjUloYZjSGblp5fKixULs"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 202354,
-      "name": "Me Asusta Amar Tanto la Soledad",
-      "url": "https://open.spotify.com/track/6026RHq4ZOiQH6Zdo0pTy3"
-    },
-    {
-      "added_at": "2026-08-28 04:02:27",
-      "album": {
-        "name": "DUE\u00d1O DEL CIELO",
-        "url": "https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 138926,
-      "name": "NIRVANA",
-      "url": "https://open.spotify.com/track/0s4LK91rXYM52FQiAI50x6"
     }
   ],
   "unique_name": "Mixto",

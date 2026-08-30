@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 458436,
+  "num_followers": 458514,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "De Verdad",
-        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 281640,
-      "name": "T\u00fa Me Haces Falta",
-      "url": "https://open.spotify.com/track/36831vgWmRrE5GaiwgjIwJ"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "20th Anniversary Series",
         "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "La Concentraci\u00f3n, Vol. XXV",
-        "url": "https://open.spotify.com/album/0edZD8ocBTBdCF9rQUKxPA"
+        "name": "De Verdad",
+        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
       },
       "artists": [
         {
-          "name": "La Concentracion",
-          "url": "https://open.spotify.com/artist/7ENxBTF2tZHjXFamkbOmzG"
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 154097,
-      "name": "La Mini Mini",
-      "url": "https://open.spotify.com/track/3KOw9OqlEANiL3ZM2rqMUG"
+      "duration_ms": 281640,
+      "name": "T\u00fa Me Haces Falta",
+      "url": "https://open.spotify.com/track/36831vgWmRrE5GaiwgjIwJ"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -759,6 +743,22 @@
       "duration_ms": 197786,
       "name": "La Cumbia Del Garrote",
       "url": "https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "La Concentraci\u00f3n, Vol. XXV",
+        "url": "https://open.spotify.com/album/0edZD8ocBTBdCF9rQUKxPA"
+      },
+      "artists": [
+        {
+          "name": "La Concentracion",
+          "url": "https://open.spotify.com/artist/7ENxBTF2tZHjXFamkbOmzG"
+        }
+      ],
+      "duration_ms": 154097,
+      "name": "La Mini Mini",
+      "url": "https://open.spotify.com/track/3KOw9OqlEANiL3ZM2rqMUG"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1181,24 +1181,8 @@
         }
       ],
       "duration_ms": 709545,
-      "name": "Medley Apache (En Vivo)",
+      "name": "Medley Apache - En Vivo",
       "url": "https://open.spotify.com/track/1wvmmgW85gmk6wOMlSwZuL"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Vuelve Mi Amor",
-        "url": "https://open.spotify.com/album/4FMS01CZKPcsKmdSdokmN7"
-      },
-      "artists": [
-        {
-          "name": "Amantes del Futuro",
-          "url": "https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Vuelve Mi Amor",
-      "url": "https://open.spotify.com/track/1hWEJsHFWRHHrTYh4q0AQS"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1215,6 +1199,22 @@
       "duration_ms": 281546,
       "name": "Achilip\u00fa",
       "url": "https://open.spotify.com/track/7sT08ys9gXDvYNyTP80zvs"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Vuelve Mi Amor",
+        "url": "https://open.spotify.com/album/4FMS01CZKPcsKmdSdokmN7"
+      },
+      "artists": [
+        {
+          "name": "Amantes del Futuro",
+          "url": "https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Vuelve Mi Amor",
+      "url": "https://open.spotify.com/track/1hWEJsHFWRHHrTYh4q0AQS"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1317,7 +1317,7 @@
         }
       ],
       "duration_ms": 165887,
-      "name": "Un Cari\u00f1o Como Tu (En Vivo)",
+      "name": "Un Cari\u00f1o Como Tu - En Vivo",
       "url": "https://open.spotify.com/track/4HVlEb5JuTRdYCIITMFpaf"
     },
     {
@@ -1413,7 +1413,7 @@
         }
       ],
       "duration_ms": 128073,
-      "name": "Me Aceptaste (En Vivo)",
+      "name": "Me Aceptaste - En Vivo",
       "url": "https://open.spotify.com/track/3PatPHb6rdyOlPx6NVtnhO"
     },
     {
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Vampiresa",
+        "url": "https://open.spotify.com/album/4uLC55AJiRjlvWLuhhJio0"
+      },
+      "artists": [
+        {
+          "name": "Explosi\u00f3n Colombiana de Ortiz Ortiz",
+          "url": "https://open.spotify.com/artist/0iCrNiPOUvxrmnCAF1vPzZ"
+        }
+      ],
+      "duration_ms": 298353,
+      "name": "Vampiresa",
+      "url": "https://open.spotify.com/track/2wVmS5mkzdSGxYhHPnEXuO"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Me Voy al Amanecer",
         "url": "https://open.spotify.com/album/0jGxlPzfSQvzY8y7MRurlr"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 202029,
       "name": "Me Voy al Amanecer",
       "url": "https://open.spotify.com/track/044OjTSoQNelqaMaq7adLT"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Vampiresa",
-        "url": "https://open.spotify.com/album/4uLC55AJiRjlvWLuhhJio0"
-      },
-      "artists": [
-        {
-          "name": "Explosi\u00f3n Colombiana de Ortiz Ortiz",
-          "url": "https://open.spotify.com/artist/0iCrNiPOUvxrmnCAF1vPzZ"
-        }
-      ],
-      "duration_ms": 298353,
-      "name": "Vampiresa",
-      "url": "https://open.spotify.com/track/2wVmS5mkzdSGxYhHPnEXuO"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Zool\u00f3gico Tropical",
-        "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
-      },
-      "artists": [
-        {
-          "name": "Fito Olivares Y La Pura Sabrosura",
-          "url": "https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o"
-        }
-      ],
-      "duration_ms": 198613,
-      "name": "Cumbia De La Cobra",
-      "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "Ciclos",
         "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
       },
@@ -2023,6 +2007,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Zool\u00f3gico Tropical",
+        "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
+      },
+      "artists": [
+        {
+          "name": "Fito Olivares Y La Pura Sabrosura",
+          "url": "https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o"
+        }
+      ],
+      "duration_ms": 198613,
+      "name": "Cumbia De La Cobra",
+      "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Memoria",
         "url": "https://open.spotify.com/album/1GoscVGngfCuRuqRtv1hZP"
       },
@@ -2035,22 +2035,6 @@
       "duration_ms": 364466,
       "name": "Un Monton De Estrellas",
       "url": "https://open.spotify.com/track/6aRaqc6pTMrm530rf7uL0S"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. III",
-        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 237960,
-      "name": "Tiene Espinas El Rosal",
-      "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -2075,18 +2059,18 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "30 Exitos Inolvidables",
-        "url": "https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA"
+        "name": "Grupo Ca\u00f1averal, Vol. III",
+        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
       },
       "artists": [
         {
-          "name": "Fito Olivares Y La Pura Sabrosura",
-          "url": "https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o"
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
         }
       ],
-      "duration_ms": 146013,
-      "name": "El Colesterol",
-      "url": "https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP"
+      "duration_ms": 237960,
+      "name": "Tiene Espinas El Rosal",
+      "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -2107,6 +2091,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "30 Exitos Inolvidables",
+        "url": "https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA"
+      },
+      "artists": [
+        {
+          "name": "Fito Olivares Y La Pura Sabrosura",
+          "url": "https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o"
+        }
+      ],
+      "duration_ms": 146013,
+      "name": "El Colesterol",
+      "url": "https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Pa' Otro La 'o",
         "url": "https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar"
       },
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Dinamitazos Tropicales de Siempre",
-        "url": "https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 189954,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/11r0RQ89XTJOkbZCnFYdqG"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "Lleg\u00f3 Pap\u00e1",
         "url": "https://open.spotify.com/album/392HEBX1hSP3IyUfuixNUv"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 198635,
       "name": "La Mujer del Pelotero",
       "url": "https://open.spotify.com/track/3dljpxvacIs8jux3Dd1nRw"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Dinamitazos Tropicales de Siempre",
+        "url": "https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 189954,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/11r0RQ89XTJOkbZCnFYdqG"
     }
   ],
   "unique_name": "Fiesta de Barrio",

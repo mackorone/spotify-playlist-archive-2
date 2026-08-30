@@ -4,7 +4,7 @@
 
 > This is Jonas Brothers\. The essential tracks, all in one playlist.
 
-55 songs - 2 hr 45 min
+56 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Cool](https://open.spotify.com/track/7yfi8B8opXjnRh4VZnOkz9) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 2:47 | 2026-08-23 |  |
 | [Do It Like That](https://open.spotify.com/track/0XM1XnOYv8BkFPFVCU8ZjX) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 2:25 | 2026-08-23 |  |
 | [Don't Throw it Away](https://open.spotify.com/track/24eP9hGnGR6RCQvllQVkCm) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 2:52 | 2026-08-23 |  |
-| [Five More Minutes](https://open.spotify.com/track/0WxSQtLMCLcsAOhliamv5W) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [XV](https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F) | 2:30 | 2026-08-23 |  |
+| [Five More Minutes](https://open.spotify.com/track/0WxSQtLMCLcsAOhliamv5W) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [XV](https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F) | 2:30 | 2026-08-23 | 2026-08-30 |
 | [Fly With Me](https://open.spotify.com/track/4mhyDbz8Rea9GtQ1koXEKr) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Lines, Vines and Trying Times](https://open.spotify.com/album/2QXAQ8FaktKXnEO2ueWGNb) | 3:54 | 2026-08-23 |  |
 | [Goodnight and Goodbye](https://open.spotify.com/track/0qnnYMKZhzswKorRpBrnNk) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/3n2IrYeqT3UzNpupQcfgbz) | 2:31 | 2026-08-23 |  |
 | [Gotta Find You \- Live From The O2 London](https://open.spotify.com/track/1v9VDhOxnu8mfQiH4mbD4F) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Live From The O2 London](https://open.spotify.com/album/6wy8AUA6Ez3rMuVQNViFEZ) | 1:43 | 2026-08-26 | 2026-08-27 |
@@ -29,6 +29,7 @@
 | [I Can’t Lose](https://open.spotify.com/track/4zU91gu5GRDKMuEbd8623Z) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 3:03 | 2026-08-23 |  |
 | [I Dare You](https://open.spotify.com/track/0o5fZ3L5LpYEVyxNhDJke7) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Life Is A Highway: Refueled Duets](https://open.spotify.com/album/7w0pDDXQFZSULKDhzuH46M) | 3:48 | 2026-08-23 |  |
 | [Leave Before You Love Me \(with Jonas Brothers\)](https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Leave Before You Love Me](https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk) | 2:34 | 2026-08-23 |  |
+| [Listen When Sad](https://open.spotify.com/track/3mhqgCtsv3BkWXWHBKR3b0) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Kevin Jonas](https://open.spotify.com/artist/11bdWrCwHE2gCdVARdASuu) | [Listen When Sad](https://open.spotify.com/album/7DnLLXl3u6tEP5OacdKZO9) | 3:48 | 2026-08-30 |  |
 | [Lonely \(with Jonas Brothers\)](https://open.spotify.com/track/6eXFl418w8hsxKcLgv1jwJ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:19 | 2026-08-23 |  |
 | [Love Me To Heaven](https://open.spotify.com/track/0qCjAKgWrgThs17aU0a6P9) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 3:26 | 2026-08-23 |  |
 | [Lovebug](https://open.spotify.com/track/5ILmJ41lSsul2zSmJnqvAy) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [A Little Bit Longer](https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW) | 3:40 | 2026-08-23 |  |

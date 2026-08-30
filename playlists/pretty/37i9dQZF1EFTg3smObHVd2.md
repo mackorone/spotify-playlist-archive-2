@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 103 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 104 | [Have You Seen My Light](https://open.spotify.com/track/0BeaAtd0znjz9AfXAyD1XW) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [October 8](https://open.spotify.com/album/6PTt3Rv4JQrQ6NkT1Fgn7z) | 3:07 |
 
-Snapshot ID: `Aca1HgAAAAB0c0u3ol3eAZH2QR7wkIVP`
+Snapshot ID: `Aca6PAAAAADZZSvD8NEGewoB+MEauNVm`

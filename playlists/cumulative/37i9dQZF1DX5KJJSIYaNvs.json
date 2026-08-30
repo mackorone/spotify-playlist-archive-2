@@ -3090,7 +3090,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 162105,
       "name": "Daira",
       "url": "https://open.spotify.com/track/41oD3vGW5Yuqf0klpbhKqa"
@@ -6808,6 +6808,28 @@
       "duration_ms": 309106,
       "name": "Jiya Jale",
       "url": "https://open.spotify.com/track/16W3Eqvgh4Sl84RoHZYnNV"
+    },
+    {
+      "album": {
+        "name": "Jiya Mora",
+        "url": "https://open.spotify.com/album/1kJagEQC1xcP69zPDgHxDb"
+      },
+      "artists": [
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        },
+        {
+          "name": "Shubham Shirule",
+          "url": "https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Jiya Mora",
+      "url": "https://open.spotify.com/track/46K5Y7h6zigAt6rNGsBGCH"
     },
     {
       "album": {

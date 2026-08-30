@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 
 > This is Durand Bernarr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,699 likes - 48 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,708 likes - 49 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 | 46 | [minding\_my business](https://open.spotify.com/track/4E3AUfhHzDg0xD12mzcCNu) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Rose Gold](https://open.spotify.com/artist/5ZvCpVAckM5gWTM5HYgSFb) | [1988](https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS) | 4:28 |
 | 47 | [Around](https://open.spotify.com/track/3F5owzlK86hpL1dkI3HTI4) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Sound Check](https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn) | 3:33 |
 | 48 | [Processing...](https://open.spotify.com/track/2E5OshuXUdcR43yStOifJ7) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 2:51 |
+| 49 | [Search Party](https://open.spotify.com/track/4y3cjPpuyUiyE7z02TrxfJ) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Sound Check](https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn) | 3:58 |
 
-Snapshot ID: `ao9+AAAAAAC6g0FtS7VredD0j/l3l0/L`
+Snapshot ID: `apDPgAAAAABnK3plyRZEfqy93DIaP+cs`

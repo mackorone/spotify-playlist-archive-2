@@ -1,6 +1,6 @@
 {
   "description": "Grab your leg warmers and spandex: let's get physical!",
-  "num_followers": 542285,
+  "num_followers": 542367,
   "original_name": "80s Workout",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 260426,
-      "name": "All Night Long (All Night) - Single Version",
-      "url": "https://open.spotify.com/track/2Wb9ejnmy27DUTUe9YF5Ew"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "The Best of Branigan",
         "url": "https://open.spotify.com/album/2bfvV9aRLN1BseXz4FbVnW"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 295066,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/15ob9SMGLWrexuPuyuMjKl"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 260426,
+      "name": "All Night Long (All Night) - Single Version",
+      "url": "https://open.spotify.com/track/2Wb9ejnmy27DUTUe9YF5Ew"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Beauty And The Beat",
-        "url": "https://open.spotify.com/album/1L4HE00En7eNK74voVZums"
-      },
-      "artists": [
-        {
-          "name": "The Go-Go's",
-          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
-        }
-      ],
-      "duration_ms": 167960,
-      "name": "Our Lips Are Sealed - Single Version",
-      "url": "https://open.spotify.com/track/1GVnAD8Iz45rux6EC657Yv"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "80s 100 Hits",
         "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 212000,
       "name": "It's Raining Men",
       "url": "https://open.spotify.com/track/5TgD3Wh5ZUZnUU4tmVvJbx"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Beauty And The Beat",
+        "url": "https://open.spotify.com/album/1L4HE00En7eNK74voVZums"
+      },
+      "artists": [
+        {
+          "name": "The Go-Go's",
+          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
+        }
+      ],
+      "duration_ms": 167960,
+      "name": "Our Lips Are Sealed - Single Version",
+      "url": "https://open.spotify.com/track/1GVnAD8Iz45rux6EC657Yv"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Profilin': The Hits",
-        "url": "https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU"
-      },
-      "artists": [
-        {
-          "name": "Rob Base & DJ EZ Rock",
-          "url": "https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu"
-        }
-      ],
-      "duration_ms": 301893,
-      "name": "It Takes Two",
-      "url": "https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "Platinum & Gold Collection",
         "url": "https://open.spotify.com/album/5sZeWcdXYHq9MbNDSOMqCP"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 220226,
       "name": "Tell It to My Heart",
       "url": "https://open.spotify.com/track/6jJCk7oHNwyowOUaF3gXEu"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Profilin': The Hits",
+        "url": "https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU"
+      },
+      "artists": [
+        {
+          "name": "Rob Base & DJ EZ Rock",
+          "url": "https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu"
+        }
+      ],
+      "duration_ms": 301893,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty"
     },
     {
       "added_at": "2024-03-19 14:45:18",

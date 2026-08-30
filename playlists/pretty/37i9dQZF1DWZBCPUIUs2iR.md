@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 
 > A compilation of the all\-time biggest hits in Country Music\. Cover: Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 799,262 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 799,619 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 | 64 | [Pickup Man](https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Greatest Hits](https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0) | 3:36 |
 | 65 | [Our Song](https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:21 |
 | 66 | [Ain't Nothing 'Bout You](https://open.spotify.com/track/6CkydK3NOAMScIhViRzXoB) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:19 |
-| 67 | [Every Which Way but Loose \- 2009 Remaster](https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Number One Hits](https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8) | 2:51 |
-| 68 | [Automatic](https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 4:07 |
-| 69 | [Islands In the Stream](https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Ultimate Dolly Parton](https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts) | 4:09 |
+| 67 | [Islands In the Stream](https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Ultimate Dolly Parton](https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts) | 4:09 |
+| 68 | [Every Which Way but Loose \- 2009 Remaster](https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Number One Hits](https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8) | 2:51 |
+| 69 | [Automatic](https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 4:07 |
 | 70 | [Two Dozen Roses](https://open.spotify.com/track/2s1gKDfyy4wTv5gzZleWUT) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Super Hits](https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it) | 3:43 |
 | 71 | [Peter Pan](https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:20 |
 | 72 | [Love, Me](https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [All I Can Be](https://open.spotify.com/album/4FpmJIF1jrWpgKaSp7jWmA) | 3:51 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 | 92 | [Once a Day](https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu) | [Connie Smith](https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo) | [Connie Smith](https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb) | 2:20 |
 | 93 | [XXX's And OOO's \(An American Girl\)](https://open.spotify.com/track/7b05yUcjnxPDUhWNL4nE3K) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Greatest Hits](https://open.spotify.com/album/2p6Kod7VSlWtuQG5N6K2qF) | 2:47 |
 | 94 | [A Good Hearted Woman \- Live at Western Place, Dallas, Texas \- September 25, 1974](https://open.spotify.com/track/1B3wswoDyVdEbWO9lmEzSk) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Greatest Hits](https://open.spotify.com/album/5Fx4B1UYRtbc3sbhca9OZo) | 2:58 |
-| 95 | [Party Time](https://open.spotify.com/track/6hlvRaZM1U279W3rVkQ9qY) | [T.G\. Sheppard](https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh) | [Super Hits](https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu) | 3:32 |
-| 96 | [Lesson In Leavin'](https://open.spotify.com/track/0xo5dRgtkZlR2zNJwSYB37) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [All\-Time Greatest Hits](https://open.spotify.com/album/2W0uJ9ehsjiInD1CDvVHHX) | 3:39 |
+| 95 | [Lesson In Leavin'](https://open.spotify.com/track/0xo5dRgtkZlR2zNJwSYB37) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [All\-Time Greatest Hits](https://open.spotify.com/album/2W0uJ9ehsjiInD1CDvVHHX) | 3:39 |
+| 96 | [Party Time](https://open.spotify.com/track/6hlvRaZM1U279W3rVkQ9qY) | [T.G\. Sheppard](https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh) | [Super Hits](https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu) | 3:32 |
 | 97 | [Thinkin' of a Rendezvous \- Single Version](https://open.spotify.com/track/4bZkWUNAkyQuB5WS7XdGMj) | [Johnny Duncan](https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm) | [The Essential Johnny Duncan](https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk) | 3:22 |
 | 98 | [For the Good Times](https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [The Essential Ray Price](https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ) | 3:47 |
 | 99 | [Is Anybody Goin' to San Antone](https://open.spotify.com/track/2hbrah0o7ppR1HeQkDvLhj) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [The Essential Charley Pride](https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75) | 2:13 |

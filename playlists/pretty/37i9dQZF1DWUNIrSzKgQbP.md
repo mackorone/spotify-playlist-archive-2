@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Sweet songs for sunny days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,638,951 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,638,765 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 13 | [Lost Boys](https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP) | 4:14 |
 | 14 | [Porch Light](https://open.spotify.com/track/7N3d1hsZZpmmnovfAtnVFU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:22 |
 | 15 | [Skin](https://open.spotify.com/track/4uqfL7UKwWPF1bpZok6zGs) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Skin](https://open.spotify.com/album/7wrLNCRVTujZouG9qSUrry) | 3:44 |
-| 16 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 |
-| 17 | [Find Your People](https://open.spotify.com/track/5htghP7rThIe6oXBN6uYI5) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 3:14 |
+| 16 | [Find Your People](https://open.spotify.com/track/5htghP7rThIe6oXBN6uYI5) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 3:14 |
+| 17 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 |
 | 18 | [Way Of The World \(feat\. Ella Langley\)](https://open.spotify.com/track/60I5P0izzrBCzXb0K6etVy) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [I WANT MY LOVED ONES TO GO WITH ME](https://open.spotify.com/album/26gGJnMKjkq2WeF8MH3alW) | 2:49 |
 | 19 | [Featherstone](https://open.spotify.com/track/5KaN2M7seUV4uyNFp4twv6) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:49 |
 | 20 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:58 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 47 | [Somebody Like Me](https://open.spotify.com/track/4Pta1RInQ95Al4Dj0qicmk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:56 |
 | 48 | [Would It Kill Ya](https://open.spotify.com/track/3KeqB89usi14NMN0QZ1GkZ) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8) | [Would It Kill Ya](https://open.spotify.com/album/5vxy0bh4A9ZiFpsAqmoa4f) | 2:45 |
 | 49 | [Lost](https://open.spotify.com/track/4SqSQUcvtAbgfbNxYu7RPu) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [Half Blue](https://open.spotify.com/album/2xxfXXIJResc3xJqArOZZP) | 3:52 |
-| 50 | [leave flowers](https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph) | [Sam Nelson Harris](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [why does everything make me cry?](https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm) | 3:01 |
-| 51 | [Let There Be Music](https://open.spotify.com/track/0lPGLgQBxWoecZASQE4Mhk) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn) | [Let There Be Music](https://open.spotify.com/album/0TGeqEwbGZ0NpNM44x4hQP) | 4:41 |
+| 50 | [Let There Be Music](https://open.spotify.com/track/0lPGLgQBxWoecZASQE4Mhk) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn) | [Let There Be Music](https://open.spotify.com/album/0TGeqEwbGZ0NpNM44x4hQP) | 4:41 |
+| 51 | [leave flowers](https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph) | [Sam Nelson Harris](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [why does everything make me cry?](https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm) | 3:01 |
 | 52 | [blue jean](https://open.spotify.com/track/40vvgzQb8LSURO2Vh7dJgz) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [mountain of a memory](https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT) | 4:36 |
 | 53 | [Summer of Love](https://open.spotify.com/track/3FCVhwlYIA4H6RYj9nsgHJ) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [So Long Little Miss Sunshine](https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr) | 4:48 |
 | 54 | [Who Wants](https://open.spotify.com/track/0qFvmOIl2cd0NItNgXSbv5) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Who Wants](https://open.spotify.com/album/12o0RLnSOC8pR8rBikuwW4) | 3:25 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 68 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0hLObGB9xRjuRVasHehmLI) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH) | 3:10 |
 | 69 | [Millions](https://open.spotify.com/track/66PYWmVolRfCo0oaZp0H7L) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Copper Changes Color](https://open.spotify.com/album/52Pm7PUhlVVBqd5l9To4Sy) | 4:12 |
 | 70 | [Wildfire](https://open.spotify.com/track/6VfY0sgS4j4JpFQH8kk4XA) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ) | 5:29 |
-| 71 | [Shark Smile](https://open.spotify.com/track/0Fc0vCE3yWvAGKbU5twVOz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd) | 3:57 |
-| 72 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
-| 73 | [Scott Street](https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 5:05 |
+| 71 | [Scott Street](https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 5:05 |
+| 72 | [Shark Smile](https://open.spotify.com/track/0Fc0vCE3yWvAGKbU5twVOz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd) | 3:57 |
+| 73 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
 | 74 | [California](https://open.spotify.com/track/6bQgMGR0zwVYYs2WU13PKR) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc) | [California](https://open.spotify.com/album/7p60qDZbD3VqHVhFQDX4Ry) | 3:16 |
 | 75 | [Flowers In Your Hair](https://open.spotify.com/track/5WObuDOxPHlQaoYUf2W4lh) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/5h7fx8ILwOZ3I5yQ4eGBl7) | 1:50 |
 

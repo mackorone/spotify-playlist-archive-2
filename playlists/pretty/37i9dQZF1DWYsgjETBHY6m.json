@@ -1,6 +1,6 @@
 {
   "description": "\uc720\uc800\ubcc4 \ub9de\ucda4\uc73c\ub85c \ucd94\ucc9c\ub418\ub294 \ud799\ud55c \ub178\ub798\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!",
-  "num_followers": 133740,
+  "num_followers": 133756,
   "original_name": "\ub108 \ud799 \ub3fc?",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-07-24 08:44:45",
       "album": {
-        "name": "NIGHT DANCER",
-        "url": "https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 210948,
-      "name": "NIGHT DANCER",
-      "url": "https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro"
-    },
-    {
-      "added_at": "2026-07-24 08:44:45",
-      "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 235562,
       "name": "Cookie",
       "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
+    },
+    {
+      "added_at": "2026-07-24 08:44:45",
+      "album": {
+        "name": "NIGHT DANCER",
+        "url": "https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 210948,
+      "name": "NIGHT DANCER",
+      "url": "https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro"
     },
     {
       "added_at": "2026-07-24 08:44:45",
@@ -571,22 +571,22 @@
     {
       "added_at": "2026-07-24 08:44:45",
       "album": {
-        "name": "act ii: date @ 8 (feat. Drake) [remix]",
-        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
       },
       "artists": [
         {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 231338,
-      "name": "act ii: date @ 8 (feat. Drake) - remix",
-      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
     },
     {
       "added_at": "2026-07-24 08:44:45",
@@ -607,22 +607,22 @@
     {
       "added_at": "2026-07-24 08:44:45",
       "album": {
-        "name": "All My Life (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+        "name": "act ii: date @ 8 (feat. Drake) [remix]",
+        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
         },
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 223878,
-      "name": "All My Life (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+      "duration_ms": 231338,
+      "name": "act ii: date @ 8 (feat. Drake) - remix",
+      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
     },
     {
       "added_at": "2026-07-24 08:44:45",

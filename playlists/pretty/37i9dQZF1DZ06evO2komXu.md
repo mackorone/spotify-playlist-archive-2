@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2komXu.md) - [plain]
 
 > This is Ayra Starr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,394 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,427 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2komXu.md) - [plain]
 | 12 | [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(Remixes\)](https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G) | 3:04 |
 | 13 | [Wo, man \- Edit](https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Wo, man \(Edit\)](https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax) | 3:20 |
 | 14 | [Hot Body](https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hot Body](https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z) | 2:40 |
-| 15 | [Love Don't Cost A Dime \- Re\-Up](https://open.spotify.com/track/7mOQnTNnEGVAjI0OF49GMj) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/52085LvRgtzPvV4wWps54A) | 2:27 |
+| 15 | [Love Don't Cost A Dime \- Re\-Up](https://open.spotify.com/track/7mOQnTNnEGVAjI0OF49GMj) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/52085LvRgtzPvV4wWps54A) | 2:27 |
 | 16 | [Ms\. Paper \(feat\. Theodora\)](https://open.spotify.com/track/0e6cXkbHc57qMSN3DwmfSI) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:48 |
 | 17 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6VX4hVDmDMfClxp6EwDNQP) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:48 |
 | 18 | [GOOD FEELiNGS](https://open.spotify.com/track/65wzicJctsW9GwnTnLWxQO) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2komXu.md) - [plain]
 | 49 | [Show Me](https://open.spotify.com/track/1g516K680WWGh6JFeYJkd0) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Official FIFA World Cup 2026™ Album](https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT) | 3:27 |
 | 50 | [PINACOLADA REMIX \(feat\. Beéle, Ayra Starr, 6LACK\)](https://open.spotify.com/track/7qNZLFVB86qiyRT9xFg0f4) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [PINACOLADA REMIX \(feat\. Beéle, Ayra Starr, 6LACK\)](https://open.spotify.com/album/12CsRgdLnx2J6Da2mS4JyN) | 3:31 |
 
-Snapshot ID: `ao9+AAAAAAAPwGHYwMeSAZzxGO3Bbv2u`
+Snapshot ID: `apDPgAAAAABd1Igp73gs65bsImT6lHWh`

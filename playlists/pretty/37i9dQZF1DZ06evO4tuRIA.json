@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 107298,
+  "num_followers": 107324,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAAvrWnUBmXqccLdg2fXE7q0",
+  "snapshot_id": "apDPgAAAAAB3xY+LP/qNor+DX/VN3h+c",
   "tracks": [
     {
       "added_at": null,
@@ -179,18 +179,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "UN CAFECITO",
-        "url": "https://open.spotify.com/album/6t3ZfvNZP1dEMd45nmmfFN"
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
       },
       "artists": [
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Hijos de Garcia",
+          "url": "https://open.spotify.com/artist/2kxD3bWlLEPzkqvBJkuoAZ"
         }
       ],
-      "duration_ms": 157250,
-      "name": "UN CAFECITO",
-      "url": "https://open.spotify.com/track/2Wrmn4iCuxTFytg2AXuZaZ"
+      "duration_ms": 176965,
+      "name": "18 Libras (feat. Hijos de Garcia)",
+      "url": "https://open.spotify.com/track/0ah4bfpe69UbE8AeoTtVNn"
     },
     {
       "added_at": null,
@@ -231,42 +235,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+        "name": "UN CAFECITO",
+        "url": "https://open.spotify.com/album/6t3ZfvNZP1dEMd45nmmfFN"
       },
       "artists": [
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Hijos de Garcia",
-          "url": "https://open.spotify.com/artist/2kxD3bWlLEPzkqvBJkuoAZ"
         }
       ],
-      "duration_ms": 176965,
-      "name": "18 Libras (feat. Hijos de Garcia)",
-      "url": "https://open.spotify.com/track/0ah4bfpe69UbE8AeoTtVNn"
+      "duration_ms": 157250,
+      "name": "UN CAFECITO",
+      "url": "https://open.spotify.com/track/2Wrmn4iCuxTFytg2AXuZaZ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Redenci\u00f3n",
-        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
+        "name": "Por Clave El Caiman",
+        "url": "https://open.spotify.com/album/59a9ZTGGKzHDQND5K6g65g"
       },
       "artists": [
         {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Tomas Ballardo",
+          "url": "https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ"
         }
       ],
-      "duration_ms": 174205,
-      "name": "Plata",
-      "url": "https://open.spotify.com/track/1nmmWHhizEQ742gaAgnTjB"
+      "duration_ms": 158626,
+      "name": "Por Clave Caiman",
+      "url": "https://open.spotify.com/track/78CE12m0ygkEbWpTSNqLOM"
     },
     {
       "added_at": null,
@@ -291,22 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Clave El Caiman",
-        "url": "https://open.spotify.com/album/59a9ZTGGKzHDQND5K6g65g"
+        "name": "Redenci\u00f3n",
+        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
       },
       "artists": [
         {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         },
         {
-          "name": "Tomas Ballardo",
-          "url": "https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ"
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 158626,
-      "name": "Por Clave Caiman",
-      "url": "https://open.spotify.com/track/78CE12m0ygkEbWpTSNqLOM"
+      "duration_ms": 174205,
+      "name": "Plata",
+      "url": "https://open.spotify.com/track/1nmmWHhizEQ742gaAgnTjB"
     },
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "7 BESOS",
+        "url": "https://open.spotify.com/album/63CiGFfHN0bfwDNWJB4CGE"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 201604,
+      "name": "7 BESOS",
+      "url": "https://open.spotify.com/track/5HxaCLNA9iBqiV9nnCgfup"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
         "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 138432,
       "name": "Cosas De La Clica (feat. Legado 7)",
       "url": "https://open.spotify.com/track/15s1GfJ55mO4HBXTFa1DmB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "7 BESOS",
-        "url": "https://open.spotify.com/album/63CiGFfHN0bfwDNWJB4CGE"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 201604,
-      "name": "7 BESOS",
-      "url": "https://open.spotify.com/track/5HxaCLNA9iBqiV9nnCgfup"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "L7X",
+        "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 131754,
+      "name": "LOKO",
+      "url": "https://open.spotify.com/track/2ULfDRz0Ik8E8M9RzWV2LZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Intuici\u00f3n",
         "url": "https://open.spotify.com/album/28bPKJ84oK7VV8xZz4yUPm"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 180657,
       "name": "Lokera",
       "url": "https://open.spotify.com/track/7K23Te3utCfxBPwqzq8g7U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L7X",
-        "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 131754,
-      "name": "LOKO",
-      "url": "https://open.spotify.com/track/2ULfDRz0Ik8E8M9RzWV2LZ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-[selected.](https://open.spotify.com/user/selectedbase) - 2,019,614 likes - 141 songs - 7 hr 7 min
+[selected.](https://open.spotify.com/user/selectedbase) - 2,020,384 likes - 141 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 96 | [Inside Out](https://open.spotify.com/track/2yiNArujhNe6pDG2GSZ3HE) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Inside Out](https://open.spotify.com/album/0zY0NnHouQOIqdf6uJjNiD) | 4:00 |
 | 97 | [True](https://open.spotify.com/track/7iWVx8lI5XeJiTn6BwHsRA) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [EXPRESSIONS](https://open.spotify.com/album/2gskRGhSjJAizQiQ5M4P5v) | 3:03 |
 | 98 | [Your Eyes](https://open.spotify.com/track/5Rl4ZuhIf3cNBRVx5zQJLc) | [Small Town Kid](https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql) | [Your Eyes](https://open.spotify.com/album/2orewSiRAYqOUHZmE4afvz) | 2:28 |
-| 99 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 |
+| 99 | [Black Friday \- pretty like the sun](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 |
 | 100 | [something about u](https://open.spotify.com/track/1aUAakwecjFJIqwICjdKFn) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4), [solaene](https://open.spotify.com/artist/3AAaJfj11EA5UDXCOELup1) | [something about u](https://open.spotify.com/album/7rj4Oe3f9apYBrvzAFyuzV) | 4:00 |
 | 101 | [I Drift Out, Then Return](https://open.spotify.com/track/0m6A4F1mnR1HVPnzM3Tg3u) | [Small Town Kid](https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql) | [Your Eyes](https://open.spotify.com/album/2orewSiRAYqOUHZmE4afvz) | 2:18 |
 | 102 | [I Can Make It](https://open.spotify.com/track/4ruM7ZgntoMNIj5pm0tARQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:09 |

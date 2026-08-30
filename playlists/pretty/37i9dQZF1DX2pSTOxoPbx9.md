@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,360 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,383 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 59 | [Bones](https://open.spotify.com/track/1p3YBrdHnDTEZqm6TCfuP3) | [Josh Record](https://open.spotify.com/artist/6SX3hY3ksMNOUCvF7OI1nl) | [Pillars](https://open.spotify.com/album/4HUnfqen6kJ6tDaQPwmeNY) | 4:49 |
 | 60 | [Stop Your Tears](https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi) | 5:38 |
 | 61 | [Distrust](https://open.spotify.com/track/4oxBuMPLQxQYVPYOdCOG77) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Hollowed out Sea](https://open.spotify.com/album/6eiWuJTeAfTTlD6jpd766A) | 3:33 |
-| 62 | [Hands](https://open.spotify.com/track/7cVNpJG6phyW7jF8GOswiY) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [They Moved In Shadow All Together](https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1) | 3:22 |
+| 62 | [Swell](https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp) | [Twin Caverns](https://open.spotify.com/artist/58B535wBcC3ua5A6a6tOCa) | [Glass Balloon](https://open.spotify.com/album/78ZJZblAEgZYy44OsT9xN8) | 4:03 |
 | 63 | [Coming of Age \(demo\)](https://open.spotify.com/track/03HonCy9ZfHnYmc7NzFTLN) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming of Age \(demo\)](https://open.spotify.com/album/4qutgZBLGeXDmNOu67mUQz) | 4:11 |
-| 64 | [Swell](https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp) | [Twin Caverns](https://open.spotify.com/artist/58B535wBcC3ua5A6a6tOCa) | [Glass Balloon](https://open.spotify.com/album/78ZJZblAEgZYy44OsT9xN8) | 4:03 |
+| 64 | [Hands](https://open.spotify.com/track/7cVNpJG6phyW7jF8GOswiY) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [They Moved In Shadow All Together](https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1) | 3:22 |
 | 65 | [Until the Levee](https://open.spotify.com/track/5BkUllQfBPaotKuoxosECg) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Until the Levee](https://open.spotify.com/album/1EZOlexYcDKwtR8YbU4tWE) | 2:40 |
 | 66 | [Every Man Is a Warrior](https://open.spotify.com/track/1s7UcC1RY8w1DJMry3ETYD) | [Lena Fayre](https://open.spotify.com/artist/2d59Uv1mu7Cc8EKdgeVGWQ) | [Oko](https://open.spotify.com/album/5OPKOFs2I80ODdmHjXmD89) | 3:16 |
 | 67 | [Everything We Do Is Wrong](https://open.spotify.com/track/46RSHHcMv3BhuXobfFfAAT) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Everything We Do Is Wrong](https://open.spotify.com/album/28U4nmmCWwmJstiNkjKxMy) | 4:07 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 71 | [i was cruel \- demo take](https://open.spotify.com/track/5ZHjO3pSex3R92vw4KNlfP) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [i was cruel \- demo take](https://open.spotify.com/album/0WETCSVADsJc1Dh8XhD60k) | 3:04 |
 | 72 | [O Love Is Teasin'](https://open.spotify.com/track/0cxkhoKLZ38gxql3fd37kw) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Tomorrow Is My Turn](https://open.spotify.com/album/2dHKdmxoivYnUBg01aPGDg) | 4:32 |
 | 73 | [Bell Under Water](https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Until](https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH) | 5:17 |
-| 74 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 |
-| 75 | [Out of the Darkness](https://open.spotify.com/track/5wCbj11DaBaIFpjSVBNiED) | [Sleep Thieves](https://open.spotify.com/artist/2Fr3thQpXvwAH6GzgVUtpY) | [Islands](https://open.spotify.com/album/3731tDAv5Qw8h53BAO7LsB) | 2:03 |
+| 74 | [Out of the Darkness](https://open.spotify.com/track/5wCbj11DaBaIFpjSVBNiED) | [Sleep Thieves](https://open.spotify.com/artist/2Fr3thQpXvwAH6GzgVUtpY) | [Islands](https://open.spotify.com/album/3731tDAv5Qw8h53BAO7LsB) | 2:03 |
+| 75 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 |
 | 76 | [Sleeper](https://open.spotify.com/track/6AohzKCNCm2aVmqRFS6mIb) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Given Up – EP](https://open.spotify.com/album/3ge4DCB8UbRKZpWmZXh0Ur) | 4:36 |
 | 77 | [Speaking With Trees](https://open.spotify.com/track/4g7Jknv7dTQ1IDoqsBTg8N) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Speaking With Trees](https://open.spotify.com/album/7Am6XsfbP9x6yxCxtnKSAB) | 3:55 |
 | 78 | [I'm Tired, You're Lonely](https://open.spotify.com/track/3eOowx1zDomY1YC1UDKDKn) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [I'm Tired, You're Lonely](https://open.spotify.com/album/2AaWRj37SqGDYUpUrol8lm) | 3:25 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 86 | [Swan](https://open.spotify.com/track/7BI3sWF1edzH4iyK0xbZ7l) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Waiting On The Fire](https://open.spotify.com/album/2W8rP0hqjDIL5yWeWXklyt) | 5:28 |
 | 87 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 |
 | 88 | [Devil Like Me](https://open.spotify.com/track/0HsGh7cboYz6cVMIyFrQ8j) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Seven + Mary](https://open.spotify.com/album/4lGNpgFI67TUq5BMfnPe3Z) | 3:08 |
-| 89 | [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 |
-| 90 | [I Need My Girl](https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze) | 4:05 |
+| 89 | [I Need My Girl](https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze) | 4:05 |
+| 90 | [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 |
 | 91 | [Come What May](https://open.spotify.com/track/3e9z2r0A75uBRuZG0czhvg) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [VA](https://open.spotify.com/album/6azoLLvralYBZzrhDI4oE2) | 4:01 |
 | 92 | [Byegone](https://open.spotify.com/track/6MMojjMFcyv3btdSXFGeYc) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Repave](https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA) | 4:22 |
 | 93 | [I Feel Your Love \- Director's Cut](https://open.spotify.com/track/7CJHue95J5KJGc6t0jatb5) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Short Movie \(Director's Cut\)](https://open.spotify.com/album/6c8tHj60qPvbXZnczssdQC) | 2:53 |

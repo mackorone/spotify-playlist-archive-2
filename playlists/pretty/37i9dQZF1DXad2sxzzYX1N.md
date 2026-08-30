@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 
 > The indie viral hits you can't escape\. Cover: Charli xcx
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,475 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,588 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,18 +33,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 | 23 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 24 | [No\. 1 Party Anthem](https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:03 |
 | 25 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 |
-| 26 | [cigarette smoke](https://open.spotify.com/track/0e4u0sFRGxHL4U2iFBrUvZ) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 5:40 |
-| 27 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 |
+| 26 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 |
+| 27 | [cigarette smoke](https://open.spotify.com/track/0e4u0sFRGxHL4U2iFBrUvZ) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 5:40 |
 | 28 | [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 |
-| 29 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 |
-| 30 | [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 |
+| 29 | [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 |
+| 30 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 |
 | 31 | [All The Things She Said](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 |
 | 32 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
 | 33 | [Lover, You Should've Come Over](https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:44 |
 | 34 | [K.](https://open.spotify.com/track/2xGjfbXZnI8uQDhukoQURQ) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe) | 5:19 |
 | 35 | [Willing and Able](https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:57 |
-| 36 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
-| 37 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 |
+| 36 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 |
+| 37 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
 | 38 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Pineapple Sunrise](https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj) | 3:16 |
 | 39 | [Sunsetz](https://open.spotify.com/track/0yuAWlxq59xT3agQ965OxE) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe) | 3:34 |
 | 40 | [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXad2sxzzYX1N.md) - [plain]
 | 96 | [Cico Buff](https://open.spotify.com/track/4csSjpkgRI06CpVeYfIjwM) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Blue Bell Knoll](https://open.spotify.com/album/3SXCY4kFMM4T4egq5DSUTa) | 3:46 |
 | 97 | [Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying Laughing Loving Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 4:06 |
 | 98 | [Help I'm Alive](https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 4:46 |
-| 99 | [Velvet Ring \- 2023 Remaster](https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 2:35 |
-| 100 | [Just like Heaven](https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 3:32 |
+| 99 | [Just like Heaven](https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 3:32 |
+| 100 | [Velvet Ring \- 2023 Remaster](https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 2:35 |
 
 Snapshot ID: `AAAAAHCkvEuAMTlsCA6rDYIu3qndAujT`

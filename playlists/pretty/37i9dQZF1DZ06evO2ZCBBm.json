@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 49571,
+  "num_followers": 49575,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAACiGTXtkZzh/bx+JhRf25fQ",
+  "snapshot_id": "apDPgAAAAAAljiQv1RXnz0V328/kFRhD",
   "tracks": [
     {
       "added_at": null,
@@ -327,18 +327,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lies for the Liars",
-        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
+        "name": "POISON feat. Bert McCracken (The Used)",
+        "url": "https://open.spotify.com/album/1a2lPzj5stWhiIOnftpyGD"
       },
       "artists": [
         {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        },
+        {
           "name": "The Used",
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "Bert McCracken",
+          "url": "https://open.spotify.com/artist/7rEzlkwGjVgUXbWi0kDEAA"
         }
       ],
-      "duration_ms": 176786,
-      "name": "Hospital",
-      "url": "https://open.spotify.com/track/6PSRgNVdVo7PeiDzOzzDsD"
+      "duration_ms": 215000,
+      "name": "POISON feat. Bert McCracken (The Used)",
+      "url": "https://open.spotify.com/track/35N1r1X3vzTs5hIk42SPBR"
     },
     {
       "added_at": null,
@@ -375,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEDZ",
-        "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Fuck You",
-      "url": "https://open.spotify.com/track/6gKlgCnExEWpuHJg0FP3Bq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lies for the Liars",
         "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
       },
@@ -400,9 +392,25 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 209440,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/6yvlln6XHkgcZzKxMelh1X"
+      "duration_ms": 176786,
+      "name": "Hospital",
+      "url": "https://open.spotify.com/track/6PSRgNVdVo7PeiDzOzzDsD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MEDZ",
+        "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 165868,
+      "name": "MEDZ",
+      "url": "https://open.spotify.com/track/02GBAcnrvBhiQiXcauxBE1"
     },
     {
       "added_at": null,
@@ -439,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEDZ",
-        "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 165868,
-      "name": "MEDZ",
-      "url": "https://open.spotify.com/track/02GBAcnrvBhiQiXcauxBE1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lies for the Liars",
         "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
       },
@@ -464,9 +456,25 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 172706,
-      "name": "Liar Liar (Burn in Hell)",
-      "url": "https://open.spotify.com/track/68A7cJ9HuOOwrilOhwOW5D"
+      "duration_ms": 209440,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/6yvlln6XHkgcZzKxMelh1X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MEDZ",
+        "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Fuck You",
+      "url": "https://open.spotify.com/track/6gKlgCnExEWpuHJg0FP3Bq"
     },
     {
       "added_at": null,
@@ -499,6 +507,22 @@
       "duration_ms": 219053,
       "name": "Burning Down the House",
       "url": "https://open.spotify.com/track/0rzLLXjpITMF8FyBycxwgM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 172706,
+      "name": "Liar Liar (Burn in Hell)",
+      "url": "https://open.spotify.com/track/68A7cJ9HuOOwrilOhwOW5D"
     },
     {
       "added_at": null,
@@ -551,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartwork",
-        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
+        "name": "The Canyon",
+        "url": "https://open.spotify.com/album/2hqtN1MEtZFZTQZ4XwjoMe"
       },
       "artists": [
         {
@@ -560,9 +584,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 184105,
-      "name": "Bloody Nose",
-      "url": "https://open.spotify.com/track/7q9kMLY1nPqL4fxO4CgKhZ"
+      "duration_ms": 314373,
+      "name": "Over and Over Again",
+      "url": "https://open.spotify.com/track/4tLJlbnRoUz8BOfy2Xcsgk"
     },
     {
       "added_at": null,
@@ -615,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Canyon",
-        "url": "https://open.spotify.com/album/2hqtN1MEtZFZTQZ4XwjoMe"
+        "name": "Heartwork",
+        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
       },
       "artists": [
         {
@@ -624,9 +648,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 314373,
-      "name": "Over and Over Again",
-      "url": "https://open.spotify.com/track/4tLJlbnRoUz8BOfy2Xcsgk"
+      "duration_ms": 184105,
+      "name": "Bloody Nose",
+      "url": "https://open.spotify.com/track/7q9kMLY1nPqL4fxO4CgKhZ"
     },
     {
       "added_at": null,
@@ -811,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulnerable",
-        "url": "https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "I Come Alive",
-      "url": "https://open.spotify.com/track/006JXPV4FsK49ehd5lrWYG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartwork (Deluxe)",
         "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
       },
@@ -843,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shallow Believer",
-        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8"
       },
       "artists": [
         {
@@ -852,9 +860,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 184133,
-      "name": "Slit Your Own Throat",
-      "url": "https://open.spotify.com/track/1j8b6BNsHXaAImvIocZqHn"
+      "duration_ms": 196306,
+      "name": "I Come Alive",
+      "url": "https://open.spotify.com/track/006JXPV4FsK49ehd5lrWYG"
     }
   ],
   "unique_name": "This Is The Used",

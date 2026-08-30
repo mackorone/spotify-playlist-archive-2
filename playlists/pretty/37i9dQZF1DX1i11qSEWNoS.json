@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 645818,
+  "num_followers": 645845,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -279,26 +279,22 @@
     {
       "added_at": "2026-08-26 09:47:39",
       "album": {
-        "name": "Prada",
-        "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
+        "name": "Say My Name (Remix)",
+        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
       },
       "artists": [
         {
-          "name": "cass\u00f6",
-          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
         },
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "D-Block Europe",
-          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 132359,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+      "duration_ms": 168000,
+      "name": "Say My Name - Remix",
+      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
     },
     {
       "added_at": "2026-08-26 09:47:39",
@@ -319,22 +315,26 @@
     {
       "added_at": "2026-08-26 09:47:39",
       "album": {
-        "name": "Say My Name (Remix)",
-        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
+        "name": "Prada",
+        "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
       },
       "artists": [
         {
-          "name": "Morgan Seatree",
-          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
         },
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Say My Name - Remix",
-      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
+      "duration_ms": 132359,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
       "added_at": "2026-08-26 09:47:39",
@@ -1347,22 +1347,18 @@
     {
       "added_at": "2026-08-26 09:47:39",
       "album": {
-        "name": "All of the Lights",
-        "url": "https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F"
+        "name": "My Favourite Game",
+        "url": "https://open.spotify.com/album/6gBdKuFAJKsuV42mWX6309"
       },
       "artists": [
         {
-          "name": "Robert Falcon",
-          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
-        },
-        {
-          "name": "Caro van Ee",
-          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
+          "name": "Odymel",
+          "url": "https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA"
         }
       ],
-      "duration_ms": 120000,
-      "name": "All of the Lights",
-      "url": "https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R"
+      "duration_ms": 203015,
+      "name": "My Favourite Game",
+      "url": "https://open.spotify.com/track/1O28S9MYZONNh5PNG1bYeC"
     },
     {
       "added_at": "2026-08-26 09:47:39",
@@ -1387,18 +1383,22 @@
     {
       "added_at": "2026-08-26 09:47:39",
       "album": {
-        "name": "My Favourite Game",
-        "url": "https://open.spotify.com/album/6gBdKuFAJKsuV42mWX6309"
+        "name": "All of the Lights",
+        "url": "https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F"
       },
       "artists": [
         {
-          "name": "Odymel",
-          "url": "https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA"
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        },
+        {
+          "name": "Caro van Ee",
+          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
         }
       ],
-      "duration_ms": 203015,
-      "name": "My Favourite Game",
-      "url": "https://open.spotify.com/track/1O28S9MYZONNh5PNG1bYeC"
+      "duration_ms": 120000,
+      "name": "All of the Lights",
+      "url": "https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R"
     },
     {
       "added_at": "2026-08-26 09:47:39",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-08-26 09:47:39",
       "album": {
-        "name": "Mille Grazie",
-        "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
-      },
-      "artists": [
-        {
-          "name": "Roy Bianco & Die Abbrunzati Boys",
-          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
-        }
-      ],
-      "duration_ms": 235986,
-      "name": "Bella Napoli",
-      "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
-    },
-    {
-      "added_at": "2026-08-26 09:47:39",
-      "album": {
         "name": "KETA UND KRAWALL",
         "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 125492,
       "name": "KETA UND KRAWALL",
       "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
+    },
+    {
+      "added_at": "2026-08-26 09:47:39",
+      "album": {
+        "name": "Mille Grazie",
+        "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
+      },
+      "artists": [
+        {
+          "name": "Roy Bianco & Die Abbrunzati Boys",
+          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Bella Napoli",
+      "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
     },
     {
       "added_at": "2026-08-26 09:47:39",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-08-26 09:47:39",
       "album": {
+        "name": "Cooler Than Me",
+        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
+      },
+      "artists": [
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "Cooler Than Me",
+      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
+    },
+    {
+      "added_at": "2026-08-26 09:47:39",
+      "album": {
         "name": "Lay All Your Love On Me",
         "url": "https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 149250,
       "name": "Lay All Your Love On Me",
       "url": "https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV"
-    },
-    {
-      "added_at": "2026-08-26 09:47:39",
-      "album": {
-        "name": "Cooler Than Me",
-        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
-      },
-      "artists": [
-        {
-          "name": "Lucky Luke",
-          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Cooler Than Me",
-      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
     },
     {
       "added_at": "2026-08-26 09:47:39",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2026-08-26 09:47:39",
       "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Binder",
+          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
+    },
+    {
+      "added_at": "2026-08-26 09:47:39",
+      "album": {
         "name": "Darling",
         "url": "https://open.spotify.com/album/1aXE1L3MSBmnsNGO5HwKQC"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 106480,
       "name": "Darling",
       "url": "https://open.spotify.com/track/3DHO3GvZhb49NuJRn8AlaP"
-    },
-    {
-      "added_at": "2026-08-26 09:47:39",
-      "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Binder",
-          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
     },
     {
       "added_at": "2026-08-26 09:47:39",
@@ -1875,6 +1875,30 @@
     {
       "added_at": "2026-08-26 09:47:39",
       "album": {
+        "name": "Transgender",
+        "url": "https://open.spotify.com/album/46muHUrkAVYiExmNO11XhI"
+      },
+      "artists": [
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        },
+        {
+          "name": "Police In Paris",
+          "url": "https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2"
+        },
+        {
+          "name": "Staarz",
+          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
+        }
+      ],
+      "duration_ms": 176516,
+      "name": "Transgender",
+      "url": "https://open.spotify.com/track/2pgfgEF6CWsrPFF8HB6Xra"
+    },
+    {
+      "added_at": "2026-08-26 09:47:39",
+      "album": {
         "name": "2 Times",
         "url": "https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy"
       },
@@ -1903,26 +1927,22 @@
     {
       "added_at": "2026-08-26 09:47:39",
       "album": {
-        "name": "Transgender",
-        "url": "https://open.spotify.com/album/46muHUrkAVYiExmNO11XhI"
+        "name": "HURENSOHN",
+        "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
       },
       "artists": [
         {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
         },
         {
-          "name": "Police In Paris",
-          "url": "https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2"
-        },
-        {
-          "name": "Staarz",
-          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
+          "name": "bozi",
+          "url": "https://open.spotify.com/artist/3qmdhCda5tK3CPIJDdblKU"
         }
       ],
-      "duration_ms": 176516,
-      "name": "Transgender",
-      "url": "https://open.spotify.com/track/2pgfgEF6CWsrPFF8HB6Xra"
+      "duration_ms": 154493,
+      "name": "HURENSOHN",
+      "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
     },
     {
       "added_at": "2026-08-26 09:47:39",
@@ -1943,26 +1963,6 @@
       "duration_ms": 137837,
       "name": "Zelten auf Kies",
       "url": "https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr"
-    },
-    {
-      "added_at": "2026-08-26 09:47:39",
-      "album": {
-        "name": "HURENSOHN",
-        "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
-      },
-      "artists": [
-        {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        },
-        {
-          "name": "bozi",
-          "url": "https://open.spotify.com/artist/3qmdhCda5tK3CPIJDdblKU"
-        }
-      ],
-      "duration_ms": 154493,
-      "name": "HURENSOHN",
-      "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
     },
     {
       "added_at": "2026-08-26 09:47:39",

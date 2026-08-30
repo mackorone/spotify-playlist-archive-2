@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 90s! Cover: Selena",
-  "num_followers": 331028,
+  "num_followers": 331061,
   "original_name": "Los 90s",
   "owner": {
     "name": "Spotify",
@@ -171,18 +171,22 @@
     {
       "added_at": "2024-05-14 17:28:43",
       "album": {
-        "name": "Falta Amor",
-        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
+        "name": "Mis Ojos Lloran Por Ti",
+        "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Big Boy",
+          "url": "https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG"
+        },
+        {
+          "name": "Angel Lopez",
+          "url": "https://open.spotify.com/artist/0w57qOEVTcqs0bLyFJ7Q52"
         }
       ],
-      "duration_ms": 250106,
-      "name": "Rayando el Sol",
-      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
+      "duration_ms": 295533,
+      "name": "Mis Ojos Lloran Por Ti",
+      "url": "https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr"
     },
     {
       "added_at": "2024-05-14 17:28:43",
@@ -203,22 +207,18 @@
     {
       "added_at": "2024-05-14 17:28:43",
       "album": {
-        "name": "Mis Ojos Lloran Por Ti",
-        "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
+        "name": "Falta Amor",
+        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
       },
       "artists": [
         {
-          "name": "Big Boy",
-          "url": "https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG"
-        },
-        {
-          "name": "Angel Lopez",
-          "url": "https://open.spotify.com/artist/0w57qOEVTcqs0bLyFJ7Q52"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 295533,
-      "name": "Mis Ojos Lloran Por Ti",
-      "url": "https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr"
+      "duration_ms": 250106,
+      "name": "Rayando el Sol",
+      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
     },
     {
       "added_at": "2024-05-14 17:28:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,809 likes - 100 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,826 likes - 100 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 10 | [Electric Worry](https://open.spotify.com/track/7mQgJx5mfCuI6o8elrYCKg) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [From Beale Street to Oblivion](https://open.spotify.com/album/0NwhaAWEFAeUuZ7lrCCXFx) | 5:14 |
 | 11 | [Song For The Dead](https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 5:52 |
 | 12 | [Dragonaut](https://open.spotify.com/track/6qLgGLeawKyhMFJ848XtYD) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Sleep's Holy Mountain](https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs) | 5:43 |
-| 13 | [Strong Reflection](https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [Mars Red Sky](https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0) | 5:29 |
+| 13 | [Albatross](https://open.spotify.com/track/3CtKSQyQPdzA2u7n9tjJw2) | [Corrosion Of Conformity	](https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR) | [Deliverance](https://open.spotify.com/album/6zdNTQ1uS2ZzFZkExMqcAh) | 5:20 |
 | 14 | [Demon Cleaner](https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq) | 5:11 |
 | 15 | [Battling Guns](https://open.spotify.com/track/5D7tZUZKZCgS1r0uyensG0) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Battling Guns](https://open.spotify.com/album/55OBjBeDyNMXaaDzG2uuH4) | 4:55 |
 | 16 | [The Lost Art Of Keeping A Secret](https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Rated R \- Deluxe Edition](https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto) | 3:36 |
-| 17 | [Albatross](https://open.spotify.com/track/3CtKSQyQPdzA2u7n9tjJw2) | [Corrosion Of Conformity	](https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR) | [Deliverance](https://open.spotify.com/album/6zdNTQ1uS2ZzFZkExMqcAh) | 5:20 |
+| 17 | [Strong Reflection](https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [Mars Red Sky](https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0) | 5:29 |
 | 18 | [Centurion](https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV) | [King Buffalo](https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R) | [Repeater](https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok) | 5:56 |
 | 19 | [Evil Eye](https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [The Action Is Go](https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9) | 3:30 |
 | 20 | [Spacegrass](https://open.spotify.com/track/2Mor7Tp1w61mPKozLewqey) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Clutch](https://open.spotify.com/album/5snxt6YTFHrBD8ACd0hPJA) | 6:31 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 75 | [Sugar](https://open.spotify.com/track/6DvOKzkUF8LYNFSLgGtWmn) | [Masters Of Reality](https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb) | [Sugar](https://open.spotify.com/album/0vM3OBPvCoOK38m7hdweb2) | 4:53 |
 | 76 | [CLDZ](https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1) | [Gozu](https://open.spotify.com/artist/3CcEVa0kc113lQDnVTyIBg) | [CLDZ](https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34) | 6:56 |
 | 77 | [Tested By Death](https://open.spotify.com/track/0m6wZIKsMjBfReiuCTkaYz) | [Wizard Master](https://open.spotify.com/artist/6X1zEmVicCUxyjqKVxOGNH) | [Tested By Death](https://open.spotify.com/album/0GZ3kOIZdziDYGg585OUBb) | 8:32 |
-| 78 | [The Chosen One](https://open.spotify.com/track/2It4BlXp7uTl9xZPYLyqWy) | [Dopelord](https://open.spotify.com/artist/1B1b2jSXksHwmmorhmQ8AF) | [The Chosen One](https://open.spotify.com/album/47Tc6iYguZWmz4TcfNivUU) | 6:56 |
-| 79 | [Rockin' Course](https://open.spotify.com/track/6zpn0NmeEhm6n4qpmNtKFY) | [Thumlock](https://open.spotify.com/artist/5Ub4KBLHbznhFUc3b5t9Ha) | [Emerald Liquid Odyssey](https://open.spotify.com/album/0oHLdnN5Wcpo4bBC3WUb5O) | 3:09 |
+| 78 | [Rockin' Course](https://open.spotify.com/track/6zpn0NmeEhm6n4qpmNtKFY) | [Thumlock](https://open.spotify.com/artist/5Ub4KBLHbznhFUc3b5t9Ha) | [Emerald Liquid Odyssey](https://open.spotify.com/album/0oHLdnN5Wcpo4bBC3WUb5O) | 3:09 |
+| 79 | [The Chosen One](https://open.spotify.com/track/2It4BlXp7uTl9xZPYLyqWy) | [Dopelord](https://open.spotify.com/artist/1B1b2jSXksHwmmorhmQ8AF) | [The Chosen One](https://open.spotify.com/album/47Tc6iYguZWmz4TcfNivUU) | 6:56 |
 | 80 | [Quick Quiet Raid](https://open.spotify.com/track/46ZfsbnFdI9FpeQKJRZUzS) | [Satan's Satyrs](https://open.spotify.com/artist/2XjAtuHYFRZRIATLrYfSVX) | [Quick Quiet Raid](https://open.spotify.com/album/6Ar4J8yW63XFVH9j3YiWf5) | 2:43 |
 | 81 | [Space Lord](https://open.spotify.com/track/3twKuUTPH239GCSPdRfmgY) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/6oLlvooHUXzfZdxk5q0XN9) | 5:55 |
 | 82 | [Road to Burn](https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn) | [1000mods](https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89) | [Super Van Vacation](https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8) | 8:49 |

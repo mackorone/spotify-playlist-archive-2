@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: Jim James
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,591 likes - 99 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,583 likes - 99 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

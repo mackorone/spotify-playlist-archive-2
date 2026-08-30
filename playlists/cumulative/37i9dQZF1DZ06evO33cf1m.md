@@ -4,7 +4,7 @@
 
 > This is La Arrolladora Banda El Limón De Rene Camacho\. The essential tracks, all in one playlist.
 
-103 songs - 5 hr 44 min
+104 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [En Los Puritos Huesos](https://open.spotify.com/track/3EbJCtH2eZ3XdtEgW5OjYf) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Acabó El Amor](https://open.spotify.com/album/3RQE9EK4sgE56SgXnVq7t3) | 2:53 | 2023-08-08 |  |
 | [Entre Beso Y Beso](https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:02 | 2023-08-08 |  |
 | [Entrégame Tu Amor](https://open.spotify.com/track/2wzMk91znotFiJhsSUsPvl) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Huele A Peligro](https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG) | 3:46 | 2023-08-08 |  |
+| [Fracaso Seguro](https://open.spotify.com/track/5lGnwOdbX3OSJTcy2Fw7DA) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Si Las Miradas Mataran \(Deluxe\)](https://open.spotify.com/album/3KlMY32mPgUm0kIysPVjML) | 2:51 | 2026-08-30 |  |
 | [Heridas Que Se Curan](https://open.spotify.com/track/4AdOMdWTMBsSRpmPznoZwC) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:45 | 2023-08-08 |  |
 | [Huele A Peligro](https://open.spotify.com/track/1DwQgyvgKArDb8abfodH1f) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Huele A Peligro](https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG) | 3:52 | 2023-08-08 |  |
 | [Irreversible](https://open.spotify.com/track/7mOQEg3i3791j7Fmr5jVqj) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 3:09 | 2025-05-07 |  |
@@ -61,7 +62,7 @@
 | [Media Naranja](https://open.spotify.com/track/3wL3XYJ5sAQ7LgFsF5uCV4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Huele A Peligro](https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG) | 2:31 | 2023-08-08 |  |
 | [Mi Segunda Vida](https://open.spotify.com/track/6Z7f0BXDLI8k4CHR9KJdAD) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 3:07 | 2023-08-08 |  |
 | [Mira Bebé](https://open.spotify.com/track/76Xise1iS4Y0MroKPyaEi2) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Mira Bebé](https://open.spotify.com/album/34l3eBsb2NFoVUdBqmF2Hd) | 2:41 | 2026-07-26 | 2026-08-23 |
-| [Mis Recuerdos](https://open.spotify.com/track/5A9OyOOnDxELOaKg2KuN6X) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Es Cab ..\. El Viejo](https://open.spotify.com/album/1xYpAyCv3StPKCHOsfWFxD) | 4:39 | 2023-12-19 |  |
+| [Mis Recuerdos](https://open.spotify.com/track/5A9OyOOnDxELOaKg2KuN6X) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Es Cab ..\. El Viejo](https://open.spotify.com/album/1xYpAyCv3StPKCHOsfWFxD) | 4:39 | 2023-12-19 | 2026-08-30 |
 | [Morena](https://open.spotify.com/track/1x31ooeK1AY0JbI5rhArlj) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Morena](https://open.spotify.com/album/6JXhLhkOf72sFFIMu9PZda) | 3:45 | 2026-03-29 | 2026-04-26 |
 | [Más Adelante](https://open.spotify.com/track/56xpQv8NgsV68PPYpEVDr4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 3:32 | 2023-08-08 |  |
 | [NI SIQUIERA SOMOS AMIGOS](https://open.spotify.com/track/5xr056Dijav65k6IRXotOw) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Natiuska](https://open.spotify.com/artist/5n2gYUoGKt9tfv6rOfvTEI) | [NI SIQUIERA SOMOS AMIGOS](https://open.spotify.com/album/2aECeopuSLPoAiw6Jmszku) | 3:03 | 2026-06-27 | 2026-07-24 |

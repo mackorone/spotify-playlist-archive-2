@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rdzeb.md) - [plain]
 
 > This is Adrianne Lenker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,212 likes - 41 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,224 likes - 41 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rdzeb.md) - [plain]
 | 7 | [womb](https://open.spotify.com/track/52MCH6YtKG6deQx6BOkoFm) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA) | 2:15 |
 | 8 | [Indiana](https://open.spotify.com/track/1EUYnTI3P1DzoeccZ0IHdD) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [a\-sides and besides](https://open.spotify.com/album/7ndirwTVASzvPDffHarAxg) | 2:37 |
 | 9 | [forwards beckon rebound](https://open.spotify.com/track/6PBanBy8L1K2Ry4UN186XH) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:09 |
-| 10 | [No Machine](https://open.spotify.com/track/07LZPF6LzXu19GhVyqWF81) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 3:00 |
+| 10 | [Vampire Empire](https://open.spotify.com/track/2DSxUFEL5v1YT8CwYzhWyf) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 3:55 |
 | 11 | [Disappear](https://open.spotify.com/track/1WBeADv5fmASXC53g32Jg7) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/0X8MNN8so3P2o1ukHH6k6v) | 3:51 |
 | 12 | [Angels](https://open.spotify.com/track/1Pe4hdraYdTG44U0ZPrI7n) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [a\-sides and besides](https://open.spotify.com/album/7ndirwTVASzvPDffHarAxg) | 4:08 |
 | 13 | [half return](https://open.spotify.com/track/1i8dJGpKO0xQiKGCVslJqB) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 2:08 |
-| 14 | [Vampire Empire](https://open.spotify.com/track/2DSxUFEL5v1YT8CwYzhWyf) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 3:55 |
+| 14 | [No Machine](https://open.spotify.com/track/07LZPF6LzXu19GhVyqWF81) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 3:00 |
 | 15 | [symbol](https://open.spotify.com/track/1uqRGTN9gQNf2SZ3BD6Txf) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA) | 3:49 |
 | 16 | [Kerina](https://open.spotify.com/track/7g8ItJSkkk3wX65yMUxEne) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [a\-sides and besides](https://open.spotify.com/album/7ndirwTVASzvPDffHarAxg) | 2:51 |
 | 17 | [come](https://open.spotify.com/track/6MX8v7cRooNQb5fW5Uo6Sm) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 5:17 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rdzeb.md) - [plain]
 | 40 | [little things \- live](https://open.spotify.com/track/3D1HgplVqbguLDIPXBuDjj) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Live at Revolution Hall](https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu) | 4:28 |
 | 41 | [time escaping & wild whistling \- live](https://open.spotify.com/track/4KbwWlD5WZj0rzjGI1Ykri) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Live at Revolution Hall](https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu) | 4:32 |
 
-Snapshot ID: `ao9+AAAAAAAKd7Zk1BKa2EQX0RT1jwD9`
+Snapshot ID: `apDPgAAAAAAd6uYlSGcYO8dlm8zRW5lJ`

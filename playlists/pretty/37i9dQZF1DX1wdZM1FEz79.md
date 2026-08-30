@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: george\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,589 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,578 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 39 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 |
 | 40 | [Be the Light](https://open.spotify.com/track/61B7mbo3BAGqHmPpL29Ehf) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Hometown Cha\-Cha\-Cha, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/52fvqDulBcB8L2D4MXbtXB) | 3:54 |
 | 41 | [You're My Pretty Star](https://open.spotify.com/track/5X9mxcrFU743Y2XhkrBZUw) | [MRT](https://open.spotify.com/artist/2wczizmPu6o01FTA7XpIYj) | [You're My Pretty Star](https://open.spotify.com/album/3bvzvHQBoYwrSIX6M1cgVf) | 3:36 |
-| 42 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
-| 43 | [Life goes on](https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Journey](https://open.spotify.com/album/2ZiNV3uCWEno9JIDtCaSaP) | 3:43 |
+| 42 | [Life goes on](https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Journey](https://open.spotify.com/album/2ZiNV3uCWEno9JIDtCaSaP) | 3:43 |
+| 43 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
 | 44 | [Stupid love song \(with Crush\)](https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:08 |
 | 45 | [In You](https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Our Unwritten Seoul \(Original Soundtrack\) Part.4](https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3) | 3:46 |
 | 46 | [I’m No Astronomer, But](https://open.spotify.com/track/5SKfC9wAd7elQ6z2QI6gbg) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Album 0](https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW) | 2:53 |

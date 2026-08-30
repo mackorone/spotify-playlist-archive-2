@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Lily Meola
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,353 likes - 54 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,352 likes - 54 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,16 +50,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 40 | [Joy Without Sound](https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Joy Without Sound](https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy) | 3:15 |
 | 41 | [Ethereal Redneck Shit](https://open.spotify.com/track/26hb88vHXkt8QapTw2HTF3) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Ethereal Redneck Shit](https://open.spotify.com/album/6NNAqxMqcVvsw7L7PwTV1D) | 3:53 |
 | 42 | [I GO PUNK](https://open.spotify.com/track/0kQ73pOA7ljlHkWYu3a52F) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [I GO PUNK](https://open.spotify.com/album/40kLk6FTJoOegUy5Jv2YXW) | 2:08 |
-| 43 | [Drive](https://open.spotify.com/track/6zARylhJ2oHDw0x7V6W32N) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Drive](https://open.spotify.com/album/1EQK6Ve1W9b4bEKK3QAYtj) | 2:59 |
-| 44 | [His Favorite](https://open.spotify.com/track/6sM9n41CYIRkkZaFWvvTz1) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [His Favorite](https://open.spotify.com/album/5RLHJwAINvc3cVIdGTdBrI) | 2:52 |
+| 43 | [His Favorite](https://open.spotify.com/track/6sM9n41CYIRkkZaFWvvTz1) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [His Favorite](https://open.spotify.com/album/5RLHJwAINvc3cVIdGTdBrI) | 2:52 |
+| 44 | [Drive](https://open.spotify.com/track/6zARylhJ2oHDw0x7V6W32N) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Drive](https://open.spotify.com/album/1EQK6Ve1W9b4bEKK3QAYtj) | 2:59 |
 | 45 | [THE GOLDEN RECORD](https://open.spotify.com/track/2thAXesjKk0g4UQHZTaBdA) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [evidence of you](https://open.spotify.com/album/3hGF9Zgo9RutDoV4pGsz0c) | 4:15 |
-| 46 | [Not for Nothing](https://open.spotify.com/track/71LE6SBGVcXdIhHxJ6Nb8c) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Not for Nothing](https://open.spotify.com/album/6h7Q4NvBdCagiNOCSz6rjy) | 3:09 |
-| 47 | [Shock!](https://open.spotify.com/track/0qKVJsL0lNtKw3I2pieuhn) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Shock!](https://open.spotify.com/album/3hBIuH62O5Usqi3RXGVLY4) | 3:48 |
+| 46 | [Shock!](https://open.spotify.com/track/0qKVJsL0lNtKw3I2pieuhn) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Shock!](https://open.spotify.com/album/3hBIuH62O5Usqi3RXGVLY4) | 3:48 |
+| 47 | [Not for Nothing](https://open.spotify.com/track/71LE6SBGVcXdIhHxJ6Nb8c) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Not for Nothing](https://open.spotify.com/album/6h7Q4NvBdCagiNOCSz6rjy) | 3:09 |
 | 48 | [Track Team](https://open.spotify.com/track/4DXaHQVSIEn6TzCvTOKJP8) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Track Team](https://open.spotify.com/album/5OjS6NVhELa2DEJPenjsVL) | 3:25 |
 | 49 | [Chrome Heart Diaper Bag](https://open.spotify.com/track/0czIeeoUmB2SiXyZs4H8cL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/7v3EosXU86nuE9Z8BZXc1O) | 2:56 |
 | 50 | [Darken The Doorway](https://open.spotify.com/track/55jJqk7yaFYSTRZRqhUaqC) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Darken The Doorway](https://open.spotify.com/album/2z69e6OBVlCzSnZXBwQ4K8) | 2:29 |
-| 51 | [Living Room Floor](https://open.spotify.com/track/3AP4jRZHwh2mmFJvSz9riQ) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Living Room Floor](https://open.spotify.com/album/2TnsBQiuT5RJe7W4jmsScO) | 4:19 |
-| 52 | [Scoreboard](https://open.spotify.com/track/6bthdJs4t81bctwvzIKbBA) | [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [I Just Wanna Be Loved](https://open.spotify.com/album/6fJ8HGPgv0iwvcBQpC6Emg) | 3:24 |
+| 51 | [Scoreboard](https://open.spotify.com/track/6bthdJs4t81bctwvzIKbBA) | [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [I Just Wanna Be Loved](https://open.spotify.com/album/6fJ8HGPgv0iwvcBQpC6Emg) | 3:24 |
+| 52 | [Living Room Floor](https://open.spotify.com/track/3AP4jRZHwh2mmFJvSz9riQ) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Living Room Floor](https://open.spotify.com/album/2TnsBQiuT5RJe7W4jmsScO) | 4:19 |
 | 53 | [Ain't Over Me Yet](https://open.spotify.com/track/3XqQ0wdVTielXOde7wYXiL) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Ain't Over Me Yet](https://open.spotify.com/album/4No1KqKyXV5EzFJ1IV4G9p) | 3:24 |
 | 54 | [Shine](https://open.spotify.com/track/3c4MBlHdGeDQgpbzk6glMG) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Shine](https://open.spotify.com/album/79sl7pH8FhvSRfazOKQdOI) | 3:14 |
 

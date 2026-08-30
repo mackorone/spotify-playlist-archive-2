@@ -1,6 +1,6 @@
 {
   "description": "It's all about the girls tonight.",
-  "num_followers": 2644186,
+  "num_followers": 2644152,
   "original_name": "Girls' Night",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 166749,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Galway Girl",
-      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
         "name": "Pepas",
         "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Galway Girl",
+      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
+        "name": "Love. Angel. Music. Baby. (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 199853,
+      "name": "Hollaback Girl",
+      "url": "https://open.spotify.com/track/0LzrhCZFXW94Y8nwtTuRlw"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
         "name": "Symphony (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 212459,
       "name": "Symphony (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Love. Angel. Music. Baby. (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 199853,
-      "name": "Hollaback Girl",
-      "url": "https://open.spotify.com/track/0LzrhCZFXW94Y8nwtTuRlw"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 171375,
       "name": "My Oh My (feat. DaBaby)",
       "url": "https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -1199,22 +1199,18 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Dancing With A Stranger (with Normani)",
-        "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 171029,
-      "name": "Dancing With A Stranger (with Normani)",
-      "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
+      "duration_ms": 234493,
+      "name": "Man! I Feel Like A Woman!",
+      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -1235,6 +1231,26 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
+        "name": "Dancing With A Stranger (with Normani)",
+        "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 171029,
+      "name": "Dancing With A Stranger (with Normani)",
+      "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
         "name": "Teenage Dream: The Complete Confection",
         "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 227880,
       "name": "Firework",
       "url": "https://open.spotify.com/track/4lCv7b86sLynZbXhfScfm2"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Man! I Feel Like A Woman!",
-      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -1311,6 +1311,30 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/0YammaEkYSeo9vQYZ1OwS6"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
         "name": "Tuesday Night Music Club",
         "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
       },
@@ -1339,30 +1363,6 @@
       "duration_ms": 202496,
       "name": "She Looks So Perfect",
       "url": "https://open.spotify.com/track/1gugDOSMREb34Xo0c1PlxM"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/0YammaEkYSeo9vQYZ1OwS6"
     },
     {
       "added_at": "2024-05-02 22:00:00",

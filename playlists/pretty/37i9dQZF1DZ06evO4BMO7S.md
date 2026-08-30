@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 
 > This is Japanese Breakfast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,673 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,680 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 | 33 | [Skinny Love \- Spotify Singles](https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z) | 3:46 |
 | 34 | [Rugged Country](https://open.spotify.com/track/5ezE3J5CjlBdPp2BFn8P7P) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 2:53 |
 | 35 | [Say It Ain't So \- Recorded At Electric Lady Studios](https://open.spotify.com/track/3rCSLDwMorMuEV368DjHCx) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Live At Electric Lady](https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ) | 4:17 |
-| 36 | [Ibexxi Camp \(Night\)](https://open.spotify.com/track/7yD6F9iAImQr9yhpfG671w) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 2:30 |
+| 36 | [The Ewer \(Day\)](https://open.spotify.com/track/6DCm22M3hiXoNpq3WB5FWP) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 4:05 |
 | 37 | [The Ballad of the Witches' Road \(Pop Version\) \- From "Agatha All Along"/Soundtrack Version](https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [The Ballad of the Witches' Road \(Pop Version\) \[From "Agatha All Along"\]](https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm) | 2:31 |
 | 38 | [Jane Cum](https://open.spotify.com/track/6TNDCAWdIrfmD4XCelb03V) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 3:31 |
-| 39 | [The Ewer \(Day\)](https://open.spotify.com/track/6DCm22M3hiXoNpq3WB5FWP) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 4:05 |
+| 39 | [Ibexxi Camp \(Night\)](https://open.spotify.com/track/7yD6F9iAImQr9yhpfG671w) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 2:30 |
 | 40 | [Better the Mask](https://open.spotify.com/track/6tQfAfTBvhmgJCjOPsltN4) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 3:30 |
 
-Snapshot ID: `ao9+AAAAAAB+ngRIdcdH4eLOJ+ZZBik0`
+Snapshot ID: `apDPgAAAAADsufJvh0Z04BWo32sKiTJ9`

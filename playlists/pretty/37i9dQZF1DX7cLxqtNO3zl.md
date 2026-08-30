@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 
 > From India to MENA, these hits will make you dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,563 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,562 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 | 46 | [شناي](https://open.spotify.com/track/0uxvn45OTk88sjlwrrHSCm) | [حنان.](https://open.spotify.com/artist/0XW0YQBRv6ISDEL85T69WR) | [شناي](https://open.spotify.com/album/5LvDEg7s31vpqkQbtWGZFV) | 3:39 |
 | 47 | [Aqbil Arwh Wayak](https://open.spotify.com/track/5Rk2fqUd9Be51v2RGCH4fP) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Aqbil Arwh Wayak](https://open.spotify.com/album/21cNclONW67PlEiEtMT81I) | 3:43 |
 | 48 | [Radio \(Douzi \- Arabic Version\) \[From "Tubelight"\]](https://open.spotify.com/track/6H9Qo8MsTUPm6FpbIa081X) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [Radio \(Douzi \- Arabic Version\) \[From "Tubelight"\]](https://open.spotify.com/album/6xcfoDf2wcvUuEeUP8UZAJ) | 4:50 |
-| 49 | [Angel](https://open.spotify.com/track/5s6w6LGupX78gmYBnD6PyX) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Angel](https://open.spotify.com/album/6ayXe6K6BCesXlSeYFFowA) | 2:55 |
-| 50 | [First Class](https://open.spotify.com/track/7bFx4We3iNjxmIxXBxou1G) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [First Class \(Kalank\)](https://open.spotify.com/album/6Guyv11bGAdIuHJ7Gkwt6p) | 4:36 |
+| 49 | [First Class](https://open.spotify.com/track/7bFx4We3iNjxmIxXBxou1G) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [First Class \(Kalank\)](https://open.spotify.com/album/6Guyv11bGAdIuHJ7Gkwt6p) | 4:36 |
+| 50 | [Angel](https://open.spotify.com/track/5s6w6LGupX78gmYBnD6PyX) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Angel](https://open.spotify.com/album/6ayXe6K6BCesXlSeYFFowA) | 2:55 |
 
 Snapshot ID: `AAAAAGbF7p5O3Q+vMzb/uNnnj+luUJiy`

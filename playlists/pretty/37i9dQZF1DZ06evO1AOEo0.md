@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 
 > This is Shane & Shane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,941 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,944 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 | 40 | [Only a Holy God](https://open.spotify.com/track/4uVzGYFMl6ERzkZAVoLoCS) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 19](https://open.spotify.com/album/2VZXpz7RzBvtyFEv9OEGbQ) | 5:16 |
 | 41 | [Praise to the Lord \(Joyful, Joyful\)](https://open.spotify.com/track/606r72SXVOgvGR6FG5YH8E) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 2](https://open.spotify.com/album/7lNYY32MRpKbPtzOpRpBC4) | 4:19 |
 | 42 | [Lord, I Need You](https://open.spotify.com/track/3rb16bvaqDbJxpAQMGYUcL) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 1](https://open.spotify.com/album/0QjjRF6uAOfTFr1Y6RHofZ) | 4:39 |
-| 43 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/0YR6Ga8ZNd9w93OP8Goaem) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 4:21 |
+| 43 | [Better Is One Day](https://open.spotify.com/track/5agB4G7lpX3nFov22BqWpm) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 2](https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97) | 4:33 |
 | 44 | [Turn Your Eyes Upon Jesus \(Acoustic\)](https://open.spotify.com/track/5sM3BfN131EnsfNUxJYIJz) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns in the Round](https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf) | 4:50 |
-| 45 | [Better Is One Day](https://open.spotify.com/track/5agB4G7lpX3nFov22BqWpm) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 2](https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97) | 4:33 |
+| 45 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/0YR6Ga8ZNd9w93OP8Goaem) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 4:21 |
 | 46 | [Psalm 45 \(Fairest of All\)](https://open.spotify.com/track/3EWCQ11cjcgjKOCJFXTKuz) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 5:25 |
-| 47 | [Yahweh \(Psalm 84\)](https://open.spotify.com/track/5T12pdka57KQjG6kfIlNrk) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Writers Well](https://open.spotify.com/artist/1pmi6rarpOlFn6aWPXBRqi), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Max Dasher](https://open.spotify.com/artist/3wq2iqRqMHZm9KQ8GybUCE) | [Psalms from the Well](https://open.spotify.com/album/4c4cEn07dXS7q9l4mwk5Ic) | 4:58 |
-| 48 | [O Come to the Altar](https://open.spotify.com/track/7JeZ9RrNEz0cPPvuHOVABz) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 11](https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3) | 5:40 |
+| 47 | [O Come to the Altar](https://open.spotify.com/track/7JeZ9RrNEz0cPPvuHOVABz) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 11](https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3) | 5:40 |
+| 48 | [Yahweh \(Psalm 84\)](https://open.spotify.com/track/5T12pdka57KQjG6kfIlNrk) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Writers Well](https://open.spotify.com/artist/1pmi6rarpOlFn6aWPXBRqi), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Max Dasher](https://open.spotify.com/artist/3wq2iqRqMHZm9KQ8GybUCE) | [Psalms from the Well](https://open.spotify.com/album/4c4cEn07dXS7q9l4mwk5Ic) | 4:58 |
 | 49 | [Great I Am](https://open.spotify.com/track/21ttJ3sHDRuWEQqOCzbKLv) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 12](https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV) | 4:21 |
 | 50 | [Oh But God](https://open.spotify.com/track/5aQCI8gmJvmLtvBocSS954) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Sunday Setlist \#1](https://open.spotify.com/album/47ZXDoLEV4UZj7uaHu302z) | 4:13 |
 
-Snapshot ID: `ao9+AAAAAADnptZAJfO9B+upkNpDeI8Z`
+Snapshot ID: `apDPgAAAAADKSumLcOVtlrFdLPyGQcpI`

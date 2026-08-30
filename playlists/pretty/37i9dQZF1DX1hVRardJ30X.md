@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by YOSHI & Jesse Baez, Natanael Cano, Clarent & Omar Courtz, Wisin & Ivy Queen & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,732 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,737 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

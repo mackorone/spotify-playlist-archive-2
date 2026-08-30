@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-935 songs - 1 day 20 hr 2 min
+936 songs - 1 day 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 | 2025-02-12 | 2025-04-01 |
 | [BABY OKU \(feat\. Fiokee\)](https://open.spotify.com/track/08Awv5MoR9qQNdCWrGi7I2) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5) | [BABY OKU \(feat\. Fiokee\)](https://open.spotify.com/album/6fDuf1pTmoj8nNtD0Tu3xq) | 2:52 | 2024-12-16 | 2025-01-10 |
 | [Babylon](https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:57 | 2023-09-09 | 2024-11-22 |
+| [BACK 2 U](https://open.spotify.com/track/2lhdZrEfgsTjxqjCRXSer0) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [BACK 2 U](https://open.spotify.com/album/6kcf7BlqJJFW62YaOsQ00C) | 2:42 | 2026-08-28 |  |
 | [BACK IN OFFICE](https://open.spotify.com/track/2cJm8zLr43lJsNR5AulsZJ) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Nigerian Boyfriend](https://open.spotify.com/album/6ZyWAsfiZkIGlZpRo09FjU) | 2:27 | 2024-09-20 | 2024-09-28 |
 | [BACK IN UNI](https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [BACK IN UNI](https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I) | 2:30 | 2022-10-07 | 2023-01-13 |
 | [Back Outside](https://open.spotify.com/track/5WTj1jVzufTuSzFMyjy60M) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Back Outside](https://open.spotify.com/album/267RcozdqaQbY90DqurUBZ) | 3:31 | 2026-04-29 |  |
@@ -780,7 +781,7 @@
 | [Shayo](https://open.spotify.com/track/48yyEzWXIbAhU3H2iC9iDa) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Shayo](https://open.spotify.com/album/606tG62I0ClaZAuuHdM5rz) | 3:17 | 2023-09-14 | 2023-09-29 |
 | [SHE LIKE IGBO](https://open.spotify.com/track/4G6GeId2tVeACOpPSBKT1L) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [YOUNG PREACHER](https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV) | 1:18 | 2022-10-30 | 2022-11-11 |
 | [SHE LIKE IGBO](https://open.spotify.com/track/6Dleq7tjYht5tF4Ki2r5Mk) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 1:18 | 2022-10-30 | 2022-12-03 |
-| [SHEGE](https://open.spotify.com/track/7kf67G87lsYqfnooZB913F) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:26 | 2026-08-14 |  |
+| [SHEGE](https://open.spotify.com/track/7kf67G87lsYqfnooZB913F) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:26 | 2026-08-14 | 2026-08-30 |
 | [Shina Rampe](https://open.spotify.com/track/2wUBujNySRbtpsv39Wy0lc) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Shina Rampe](https://open.spotify.com/album/5pnDeSZS2hR0fF0NS9CeoX) | 2:59 | 2026-02-06 | 2026-03-17 |
 | [SHISHI](https://open.spotify.com/track/4Mnc9lGRf3C7oYPgbUiEzu) | [JoBlaq](https://open.spotify.com/artist/2GyY6fd6hPueMiFe7Bt6Vp) | [SHISHI](https://open.spotify.com/album/6ChmRhbgUh53zXJhDxMPtX) | 2:20 | 2025-04-04 | 2025-05-03 |
 | [Shona Phantsi / On Da Floor](https://open.spotify.com/track/0F4NG5PvVdTMB5YV4j0fQa) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [Ney The Bae](https://open.spotify.com/artist/2ejPIS2ocEAjCNhqkEtblo), [Smilo](https://open.spotify.com/artist/23l0XAl8H66TddrdGFVYQL) | [Shona Phantsi / On Da Floor](https://open.spotify.com/album/2cM4DYlvErJdKVeQcEPKlG) | 5:57 | 2025-12-05 | 2026-01-24 |

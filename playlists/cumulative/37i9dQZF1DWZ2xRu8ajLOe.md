@@ -4,7 +4,7 @@
 
 > Your ultimate running soundtrack!
 
-127 songs - 6 hr 45 min
+128 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,10 +106,11 @@
 | [Spectrum \(Say My Name\) \- Calvin Harris Remix](https://open.spotify.com/track/57yeWyaoeTt26p0dlEZukQ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Ceremonials](https://open.spotify.com/album/3JODIzr9NLL7CMojdUR70g) | 3:38 | 2025-10-09 |  |
 | [Stay](https://open.spotify.com/track/2meQtvGUcrqgEj4lTmQgfd) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/13KdVYCKtHHmpI4mn4WYRK) | 2:45 | 2025-10-09 | 2025-11-11 |
 | [Still Sleepless](https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Still Sleepless](https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu) | 2:42 | 2025-10-09 |  |
+| [Stupidisco \- Radio Edit](https://open.spotify.com/track/71Sw32dLcwyiRvp3dCA8ZH) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Stupidisco](https://open.spotify.com/album/3OyYoCGrv0JPnVH6d1B3HL) | 3:40 | 2026-07-02 |  |
 | [Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:42 | 2025-10-09 |  |
 | [Summer 91 \(Looking Back\)](https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Summer 91 \(Looking Back\)](https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm) | 3:00 | 2025-10-09 |  |
 | [Sunlight \(feat\. Years and Years\)](https://open.spotify.com/track/7w9W20r1IpCDQQMRcLEsQZ) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sunlight \(feat\. Years and Years\)](https://open.spotify.com/album/5leY9QGAzkC3wfsPjatums) | 3:13 | 2025-10-09 |  |
-| [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 | 2025-10-09 |  |
+| [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 | 2025-10-09 | 2026-08-30 |
 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 | 2026-03-12 |  |
 | [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 | 2025-10-09 |  |
 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 | 2025-10-09 | 2026-03-13 |

@@ -4,7 +4,7 @@
 
 > This is Ice Spice\. The essential tracks, all in one playlist.
 
-60 songs - 2 hr 19 min
+61 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Oh Shhh...\(with Travis Scott\)](https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:41 | 2024-07-27 |  |
 | [On The Radar \- Bonus](https://open.spotify.com/track/15fiT3hdgQs817NrcgJ3CM) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:04 | 2023-07-22 |  |
 | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/track/5c1veUUGWMIxFv84E5P9uH) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/album/7FX6vTJxAvOSM7DIpFCHRC) | 3:16 | 2023-06-07 |  |
+| [Out My Face \(My Baby\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/124asPU2FC370O180KQPQi) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Out My Face \(My Baby\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/0myqS8XRIGw3RYHfmuwF7Y) | 3:23 | 2026-08-30 |  |
 | [Phat Butt](https://open.spotify.com/track/2b7aNhysTRNWSiNM47UeWG) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Phat Butt](https://open.spotify.com/album/13lNTRScGj4CVAYszzxioi) | 2:09 | 2024-06-23 | 2024-12-15 |
 | [Phat Butt](https://open.spotify.com/track/3wKdqWNzGnxapDIaoocxR1) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:09 | 2024-08-06 |  |
 | [Pillsbury Dlow \(feat\. Ice Spice\)](https://open.spotify.com/track/1Kcq6QqW8Ajx70fqbdOPa7) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Dlow Curry](https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4) | 2:54 | 2024-12-15 |  |

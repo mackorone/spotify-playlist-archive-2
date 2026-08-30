@@ -6311,6 +6311,24 @@
     },
     {
       "album": {
+        "name": "Cigarettes and CHANEL",
+        "url": "https://open.spotify.com/album/5aQJoOTDrs2YVzu3QS7HYU"
+      },
+      "artists": [
+        {
+          "name": "Dino Valentino",
+          "url": "https://open.spotify.com/artist/3GJJFL0a79nM1bZPf0PeRR"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259722,
+      "name": "Cigarettes and CHANEL",
+      "url": "https://open.spotify.com/track/0da4RrPEPzr7ALsukP8t4V"
+    },
+    {
+      "album": {
         "name": "Cindy Lee, Forever",
         "url": "https://open.spotify.com/album/0a9aFMSqP2he9f66pY6iFy"
       },
@@ -9050,6 +9068,24 @@
       "duration_ms": 179111,
       "name": "Disinhibition",
       "url": "https://open.spotify.com/track/591PDhW8dDp3P9HutTyWm5"
+    },
+    {
+      "album": {
+        "name": "Dissipate",
+        "url": "https://open.spotify.com/album/0e3JpYNsuCjByJztzIEUN9"
+      },
+      "artists": [
+        {
+          "name": "Buried In Spring",
+          "url": "https://open.spotify.com/artist/1YaEAdCYXZQEJoo8VkxbMY"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201546,
+      "name": "Dissipate",
+      "url": "https://open.spotify.com/track/6ZmORPch3MI3xEFmkw6VT8"
     },
     {
       "album": {

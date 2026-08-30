@@ -4,7 +4,7 @@
 
 > This is Lamb of God\. The essential tracks, all in one playlist.
 
-150 songs - 10 hr 38 min
+151 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Break You](https://open.spotify.com/track/6nQZeJoVPuebEKoHHtgb4N) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \- 15th Anniversary](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 3:35 | 2024-07-20 | 2024-09-15 |
 | [Break You](https://open.spotify.com/track/5RJClkZJRUza5iAXBdLjBj) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(20th Anniversary Edition\)](https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca) | 3:35 | 2024-09-15 | 2026-08-27 |
 | [Broken Hands](https://open.spotify.com/track/1vSXIfAsN3AGa4H1pPHKVj) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 3:53 | 2022-05-30 | 2022-10-16 |
-| [Broken Hands](https://open.spotify.com/track/3WJaypEGPAc0GH4l9ouoww) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:53 | 2022-10-15 |  |
+| [Broken Hands](https://open.spotify.com/track/3WJaypEGPAc0GH4l9ouoww) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:53 | 2022-10-15 | 2026-08-30 |
+| [Broken Hands](https://open.spotify.com/track/6H0IqPZXG4kK0RQk9YyROv) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/1zbNLo00Ye1fqf1Pdk2GId) | 3:53 | 2026-08-30 |  |
 | [Bully](https://open.spotify.com/track/1HiVJsJCmgoc4o6lGiP9JY) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Into Oblivion](https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl) | 4:13 | 2026-03-15 | 2026-04-12 |
 | [Checkmate](https://open.spotify.com/track/1iqj7vNKGuT0AIGJ11Kojy) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:30 | 2022-05-30 |  |
 | [Children of the Grave](https://open.spotify.com/track/5pdb4UFAWnuiepRAyAUvsd) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Children of the Grave](https://open.spotify.com/album/2josSbpUs4UMzSoCVcXRau) | 4:47 | 2025-07-08 |  |

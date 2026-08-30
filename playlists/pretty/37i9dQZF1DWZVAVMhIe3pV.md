@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,274 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,309 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 21 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 |
 | 22 | [Every You Every Me](https://open.spotify.com/track/2Srd8Jgif3kc6ou6Z4pSYJ) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Without You I'm Nothing](https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT) | 3:33 |
 | 23 | [Safari Song](https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:54 |
-| 24 | [Smooth Criminal](https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:29 |
-| 25 | [Figure It Out](https://open.spotify.com/track/3MjrueDQKVr6xDDseZwhEd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 3:03 |
+| 24 | [Figure It Out](https://open.spotify.com/track/3MjrueDQKVr6xDDseZwhEd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 3:03 |
+| 25 | [Smooth Criminal](https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:29 |
 | 26 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
 | 27 | [Enemies](https://open.spotify.com/track/1SDl9wY1MqbpJQW0yKEWxL) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Amaryllis](https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0) | 3:08 |
 | 28 | [Amsterdam](https://open.spotify.com/track/454I78HEySdcHE8fcVabTb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 4:32 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 39 | [Run For Cover](https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 3:42 |
 | 40 | [Feel Good Drag](https://open.spotify.com/track/3EuiMoY8lTjAvIqNf8Uyr3) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [New Surrender](https://open.spotify.com/album/4q76zB2vUHF6Pf2AlxnXQ0) | 3:07 |
 | 41 | [Is Everybody Going Crazy?](https://open.spotify.com/track/75yY1Ghs6E32WC4kSikXRJ) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic](https://open.spotify.com/album/6afyaK8ihj33Chr7A7LqNI) | 3:57 |
-| 42 | [Milquetoast](https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:53 |
+| 42 | [Real Thing](https://open.spotify.com/track/1Rz1CTinAymBA4dcMPGijY) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:56 |
 | 43 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 |
-| 44 | [Real Thing](https://open.spotify.com/track/1Rz1CTinAymBA4dcMPGijY) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:56 |
+| 44 | [Milquetoast](https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:53 |
 | 45 | [Blame It on the Boom Boom](https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Between the Devil & the Deep Blue Sea \(Special Edition\)](https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H) | 3:09 |
 | 46 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 |
 | 47 | [Gumshield](https://open.spotify.com/track/7dC1ODfFU31b77PQWgQ21M) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Amazing Things](https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH) | 3:37 |

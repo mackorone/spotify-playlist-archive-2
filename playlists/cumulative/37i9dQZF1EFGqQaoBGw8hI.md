@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-749 songs - 2 day 3 hr 49 min
+750 songs - 2 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Black Icy Stare](https://open.spotify.com/track/0f7MOangrvhpeIHoOJVSJL) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night \(Deluxe Version\)](https://open.spotify.com/album/76FICX0aWAIMjWJEdtf3J3) | 3:11 | 2022-09-08 |  |
 | [Blessed](https://open.spotify.com/track/4rKsQBxDysJWqXpY5TAekd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 5:02 | 2022-09-08 |  |
 | [Blue Avenue](https://open.spotify.com/track/6CK7N5K49iTzBnReWF89Nj) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 4:18 | 2022-09-08 |  |
-| [Blue Eyes \- Remastered 2003](https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:26 | 2022-09-08 | 2026-08-29 |
+| [Blue Eyes \- Remastered 2003](https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:26 | 2022-09-08 |  |
 | [Blue Wonderful](https://open.spotify.com/track/5goFdE9LTs1r0JgVvOdMZ8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 3:37 | 2022-09-08 |  |
 | [Blues](https://open.spotify.com/track/6SIkDFZKXzXBddYshDrgvl) | [Mose Allison](https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm) | [Back Country Suite](https://open.spotify.com/album/6Fe7ELZVZw5Qn3vdVtOvvF) | 1:24 | 2026-02-12 | 2026-08-07 |
 | [Blues For Baby And Me](https://open.spotify.com/track/2MaW82qnGVIVTDi4KeA4Y8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 5:38 | 2022-09-08 |  |
@@ -156,6 +156,7 @@
 | [Dancing In The End Zone](https://open.spotify.com/track/2aLIDPBCq47lT0NI2AUblB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 3:53 | 2022-09-08 |  |
 | [Dandelions](https://open.spotify.com/track/088m4EqzTTqyd3aSsIsMpu) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 4:24 | 2022-11-04 |  |
 | [Daniel](https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:54 | 2022-09-08 |  |
+| [Daniel](https://open.spotify.com/track/1FwVFkqgEmXp2UgXMMCuhR) | [Marie Laforêt](https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx) | [Long Box 3CD](https://open.spotify.com/album/61PvNNCb3cyAt8a9K1cHdq) | 3:02 | 2026-08-29 |  |
 | [Dark Diamond](https://open.spotify.com/track/6k4aQRWQonqxfW5AZ3iKNa) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:26 | 2022-09-08 |  |
 | [Dear God](https://open.spotify.com/track/4i6r30m0T4qoCjjCYwvJ1c) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 3:46 | 2022-09-08 |  |
 | [Dear John \- Remastered 2003](https://open.spotify.com/track/2KkATTWT3nJalkA5588fQ9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:33 | 2022-09-08 |  |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,385 songs - 3 day 2 hr 2 min
+1,386 songs - 3 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,7 +485,7 @@
 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 | 2024-06-07 |  |
 | [Girl's Girl \- Girls Trip](https://open.spotify.com/track/1eA6Uh2q01uLdV8aXupWtY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 3:15 | 2026-05-15 |  |
 | [Girls](https://open.spotify.com/track/5HwuXxHQsHptTQPgFPOc2C) | [Charlotte Devaney](https://open.spotify.com/artist/58quCP7j2McEeEtRungVle), [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH) | [Girls](https://open.spotify.com/album/3v9d9gmeLR3CQ2Yz2Q7rgY) | 3:00 | 2021-03-14 | 2022-04-21 |
-| [Girls MIA](https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [CARLA](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [Girls MIA](https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc) | 2:13 | 2025-09-26 |  |
+| [Girls MIA](https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [CARLA](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [Girls MIA](https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc) | 2:13 | 2025-09-26 | 2026-08-30 |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2022-08-18 |  |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-04-06 | 2024-06-08 |
 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 | 2022-07-14 | 2022-07-30 |
@@ -718,6 +718,7 @@
 | [Loco Loco](https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Loco Loco](https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ) | 2:16 | 2026-02-20 |  |
 | [London's On Fire](https://open.spotify.com/track/3kFGYfnYWraDZ8iAWx45QR) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [London's On Fire](https://open.spotify.com/album/3LqNJnokJGQgkYzskHNJGB) | 2:59 | 2025-07-14 | 2026-04-04 |
 | [Lonely](https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Lonely](https://open.spotify.com/album/3zxRCukRL1NQC4vo7ipUet) | 3:10 | 2020-08-04 | 2020-10-13 |
+| [Long Jacket](https://open.spotify.com/track/7wFwf1j6nn7uneEF6oTAiR) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Long Jacket](https://open.spotify.com/album/4fuu8b29TGQdCknJDSPzr1) | 3:31 | 2026-08-28 |  |
 | [Look Good](https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk) | [Ethan Walsh](https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT) | [Look Good](https://open.spotify.com/album/71DApqhcYDfibOT9unRwuf) | 2:14 | 2025-12-05 | 2026-06-12 |
 | [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 | 2022-07-14 | 2022-07-30 |
 | [Looking For](https://open.spotify.com/track/2CuAhhmXRqvWPTEDNTh6mk) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [DaniCW](https://open.spotify.com/artist/1ZZsD3Hko1ZXhsj9fPzZdK) | [Looking For](https://open.spotify.com/album/7wHOTnteGw55IIs6utzVrO) | 3:42 | 2021-10-10 | 2022-04-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Édith Piaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,615 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,610 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 25 | [Nathalie](https://open.spotify.com/track/4xyCkwlgvdrULd6kzSIs0I) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [20 chansons d'or](https://open.spotify.com/album/0sLW7R4AIb8Zr0TX8Voe0b) | 4:07 |
 | 26 | [Les Aristochats](https://open.spotify.com/track/2SDU9Ls1XkvkbmlUgzyx2x) | [Maurice Chevalier](https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc) | [The Aristocats Original Soundtrack](https://open.spotify.com/album/4xP8YdX6dIi649dxAH2PXO) | 2:20 |
 | 27 | [Qui saura](https://open.spotify.com/track/3A3LBrCEXGcyUPPBjuaNKl) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20 Chansons D'or](https://open.spotify.com/album/6noK3tB0B6nRxFc4tFcF8h) | 3:20 |
-| 28 | [La chanson d'Hélène](https://open.spotify.com/track/5zcGOXyESkZHfMNsVfGii9) | [Michel Piccoli](https://open.spotify.com/artist/2QsRmnoI00agPNYw1umyEy), [Philippe Sarde](https://open.spotify.com/artist/4bYBV1q22KJiyT0z1pxFLK), [Romy Schneider](https://open.spotify.com/artist/2DbluJLyOOKvRcZFN22lY9) | [Les Choses De La Vie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OabVhWVDlxtZLqp6KMURV) | 2:51 |
-| 29 | [Armstrong](https://open.spotify.com/track/2tBJhIMLX1bDjlaE8sSb4Y) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Best Of](https://open.spotify.com/album/0ghJEu8n6iOLO5dzHxOBN5) | 3:19 |
+| 28 | [Armstrong](https://open.spotify.com/track/2tBJhIMLX1bDjlaE8sSb4Y) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Best Of](https://open.spotify.com/album/0ghJEu8n6iOLO5dzHxOBN5) | 3:19 |
+| 29 | [La chanson d'Hélène](https://open.spotify.com/track/5zcGOXyESkZHfMNsVfGii9) | [Michel Piccoli](https://open.spotify.com/artist/2QsRmnoI00agPNYw1umyEy), [Philippe Sarde](https://open.spotify.com/artist/4bYBV1q22KJiyT0z1pxFLK), [Romy Schneider](https://open.spotify.com/artist/2DbluJLyOOKvRcZFN22lY9) | [Les Choses De La Vie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OabVhWVDlxtZLqp6KMURV) | 2:51 |
 | 30 | [La java bleue](https://open.spotify.com/track/1vveZRFXBiFrnO4wUpgArq) | [Fréhel](https://open.spotify.com/artist/0ike8zNDzesj4aOoyZMKho) | [Fréhel \[Collection disques Pathé\]](https://open.spotify.com/album/4ikZGhHqdMf24sWQA4v4UI) | 2:45 |
 | 31 | [Paris sera toujours Paris](https://open.spotify.com/track/4YpmjnVzUfbPfbDguayy22) | [Maurice Chevalier](https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc) | [Fleur De Paris](https://open.spotify.com/album/0Z5YgfnmXWZM6KVw3pkdAc) | 3:14 |
 | 32 | [Il venait d'avoir 18 ans](https://open.spotify.com/track/1S39BVV8IFikZtlmPjchBd) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Forever Dalida](https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa) | 2:55 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 61 | [Aline](https://open.spotify.com/track/17ODC17zbOv6MVBDiANvue) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Best Of](https://open.spotify.com/album/4XvvwnuEOPWWOexWJDbeYf) | 2:50 |
 | 62 | [La maladie d'amour](https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [La Maladie D'Amour](https://open.spotify.com/album/2VS8g9qRPdXFC3hQSIwmqK) | 3:30 |
 | 63 | [Emmenez Moi](https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 3:32 |
-| 64 | [Vesoul](https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [Infiniment](https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf) | 3:06 |
+| 64 | [La poupée qui fait non](https://open.spotify.com/track/3OqYJWnF2v4B88YHEPuOmD) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/4V5xtW0tFqjJUlAWHHv1Rg) | 3:13 |
 | 65 | [La Javanaise](https://open.spotify.com/track/1JjhnamLSonSLf9RnkmhJV) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/40C5ZxUE9bB48VhEOqhhNu) | 2:29 |
-| 66 | [La poupée qui fait non](https://open.spotify.com/track/3OqYJWnF2v4B88YHEPuOmD) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/4V5xtW0tFqjJUlAWHHv1Rg) | 3:13 |
+| 66 | [Vesoul](https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [Infiniment](https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf) | 3:06 |
 | 67 | [Santiano](https://open.spotify.com/track/4fYqKBJQDep6s2f74pkUXZ) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB) | 2:14 |
 | 68 | [Fais comme l'oiseau](https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais Comme L'Oiseau](https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn) | 3:06 |
 | 69 | [Amoureux de ma femme](https://open.spotify.com/track/6cT38LHvaN11gThHVVkDee) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [Les plus grandes chansons](https://open.spotify.com/album/4F6NYEBMBCvvIuj1RQv2vh) | 2:43 |

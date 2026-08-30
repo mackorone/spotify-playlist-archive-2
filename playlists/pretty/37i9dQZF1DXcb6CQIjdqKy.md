@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: DOE
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,653,389 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,653,599 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

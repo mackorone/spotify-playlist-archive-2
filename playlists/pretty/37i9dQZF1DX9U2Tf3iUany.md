@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/stevenvictor/">Steven Victor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,157 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,159 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 | 46 | [Down And Out](https://open.spotify.com/track/5mEwhCsqadBZIE7SSrv1gC) | [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD) | [Purple Haze](https://open.spotify.com/album/4k6ci0PJUSV8CeQDTBfm44) | 4:08 |
 | 47 | [Marijuana](https://open.spotify.com/track/2GtaNlidzvK3hY78kCdsHa) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud) | 4:20 |
 | 48 | [Karma](https://open.spotify.com/track/25YwwruYRtxe6RQdKtrZFS) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [The Hunger For More](https://open.spotify.com/album/0Nk2ClpAEN3dLyzpKDVE2v) | 4:38 |
-| 49 | [La Vie en rose](https://open.spotify.com/track/5yJrl2r0vr6u9BXqQXZE3V) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Portfolio](https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4) | 7:28 |
+| 49 | [Picture Me Rollin'](https://open.spotify.com/track/71jzSTkT0F0w1v4moZIDyc) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Danny Boy](https://open.spotify.com/artist/3Cntpdjm5aq13H1IalBAga), [Syke](https://open.spotify.com/artist/6kXRDOhy73hpUJuIzLLwvm), [C\-PO](https://open.spotify.com/artist/4NU1ENV9ADEMnvlgJkExEV) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 5:14 |
 | 50 | [Guwop \(feat\. Quavo, Offset and Young Scooter\)](https://open.spotify.com/track/1BSA5I386L2IAmFQURYjIz) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [JEFFERY](https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H) | 5:15 |
 
 Snapshot ID: `AAAAAIb5+Bjxb/8K5dDk4h7c0gAWbKTc`

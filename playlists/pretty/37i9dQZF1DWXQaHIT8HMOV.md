@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Joshua Baraka
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,206 likes - 66 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,234 likes - 66 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

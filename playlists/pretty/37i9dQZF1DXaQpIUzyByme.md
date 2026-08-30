@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,692 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,724 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 7 | [Ik Leef Niet Meer Voor Jou](https://open.spotify.com/track/45I37gu7jG5JsXyqYm4YDT) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [Als Geen Ander](https://open.spotify.com/album/6VMTTAMg6DXrEdEKPIMeg7) | 3:36 |
 | 8 | [Liefs Uit Londen](https://open.spotify.com/track/0KCcRzDsTMAbivhwGzdFZx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Helder \(inclusief Live Bonus Tracks\)](https://open.spotify.com/album/72x70QVko5v9g0F1GCtAi0) | 3:58 |
 | 9 | [Het Regent Zonnestralen](https://open.spotify.com/track/1a2GeLs7aMPvwJOjcVK0Vl) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Adem](https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb) | 3:45 |
-| 10 | [Hou me vast](https://open.spotify.com/track/5MpQcSDV8mCDRo9DL4gsYM) | [Volumia!](https://open.spotify.com/artist/1YajfeXETQGtYNQJkOMupS) | [Volumia!](https://open.spotify.com/album/3RG3z8qzEU5ZztjWvfAcvs) | 3:44 |
-| 11 | [Passie](https://open.spotify.com/track/34oyuLfWrmAPXENXDa9kvX) | [Clouseau](https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts) | [Oker](https://open.spotify.com/album/1urDkwjhvrgs30RYsxierf) | 5:02 |
+| 10 | [Passie](https://open.spotify.com/track/34oyuLfWrmAPXENXDa9kvX) | [Clouseau](https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts) | [Oker](https://open.spotify.com/album/1urDkwjhvrgs30RYsxierf) | 5:02 |
+| 11 | [Hou me vast](https://open.spotify.com/track/5MpQcSDV8mCDRo9DL4gsYM) | [Volumia!](https://open.spotify.com/artist/1YajfeXETQGtYNQJkOMupS) | [Volumia!](https://open.spotify.com/album/3RG3z8qzEU5ZztjWvfAcvs) | 3:44 |
 | 12 | [De Bestemming](https://open.spotify.com/track/78vBe7yQRROyT42PzT5Xpm) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [De Bestemming](https://open.spotify.com/album/4hW03mjO8bRizIMv86hvF3) | 4:25 |
 | 13 | [Blauw](https://open.spotify.com/track/1jlphb2nyrZ76BIjSgdbcG) | [The Scene](https://open.spotify.com/artist/63txTraopbR00KYo7mYOOj) | [Blauw](https://open.spotify.com/album/0vy4gAPRStkHhT2uchvshJ) | 4:36 |
 | 14 | [Lopen Tot De Zon Komt](https://open.spotify.com/track/6svNJ2WPO69uhVOgyBr2VF) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Acda en de Munnik](https://open.spotify.com/album/4okhW4vkL1mMAtDleBpx11) | 3:25 |
-| 15 | [Afscheid](https://open.spotify.com/track/2h1jMOkIDg1RmYaTdh8RcL) | [Volumia!](https://open.spotify.com/artist/1YajfeXETQGtYNQJkOMupS) | [Volumia!](https://open.spotify.com/album/3RG3z8qzEU5ZztjWvfAcvs) | 4:35 |
-| 16 | [Mijn Houten Hart](https://open.spotify.com/track/3KxBgn1DhmxhntSOJyduF0) | [De Poema's](https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md) | [Best Of De Poema's](https://open.spotify.com/album/7K7UuRdTTDFwLkiNrWN9dg) | 4:19 |
+| 15 | [Mijn Houten Hart](https://open.spotify.com/track/3KxBgn1DhmxhntSOJyduF0) | [De Poema's](https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md) | [Best Of De Poema's](https://open.spotify.com/album/7K7UuRdTTDFwLkiNrWN9dg) | 4:19 |
+| 16 | [Afscheid](https://open.spotify.com/track/2h1jMOkIDg1RmYaTdh8RcL) | [Volumia!](https://open.spotify.com/artist/1YajfeXETQGtYNQJkOMupS) | [Volumia!](https://open.spotify.com/album/3RG3z8qzEU5ZztjWvfAcvs) | 4:35 |
 | 17 | [Margherita](https://open.spotify.com/track/1pJmdIiTYfGtYRKXCnM5S5) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [Als Geen Ander](https://open.spotify.com/album/6VMTTAMg6DXrEdEKPIMeg7) | 4:10 |
 | 18 | [Is Dit Nou Later](https://open.spotify.com/track/1IzELBSXRDrHDnku1wHJwh) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Is Dit Nu Later](https://open.spotify.com/album/40pPse6bXBsVtjk8JJmovD) | 3:35 |
 | 19 | [Limburg](https://open.spotify.com/track/73I6ItRxUde63sVOva6TW2) | [Rowwen Hèze](https://open.spotify.com/artist/5icZHFQjI6SRsvXNOKUXZ1) | [Kilomeaters \('T Beste Van 20 Joar Rowwen Hèze\)](https://open.spotify.com/album/306XLcXeyptPX7YIQHrx4o) | 4:06 |
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 39 | [De Zee](https://open.spotify.com/track/256gv8gWTVbEI1SIhC5YlO) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [The Essential Total Touch & Trijntje Oosterhuis](https://open.spotify.com/album/4q59SeuZwxLtIt4izAQ0i8) | 4:32 |
 | 40 | [Leun Op Mij](https://open.spotify.com/track/1AHSLMouCoEwrwNgQB92me) | [Ruth Jacott](https://open.spotify.com/artist/0NM27i2hSW1lbc7rYa5D6u) | [Alle 40 Goed](https://open.spotify.com/album/1ba5louPwSaXr0BBuHEjsc) | 3:57 |
 | 41 | [De Eerste Keer](https://open.spotify.com/track/06eICRFok9GhRifK25a5NH) | [Maxine & Franklin Brown](https://open.spotify.com/artist/4ptkAA3lQP6cGCAg7CVL8I) | [Hollandse Sterren \- Allermooiste Duetten](https://open.spotify.com/album/5spE8XeOx1BgP7JxGfH8Iz) | 2:38 |
-| 42 | [Laat Het Los](https://open.spotify.com/track/0oFXW0Mqbx4iIGnVKDRIBu) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Vier Weken](https://open.spotify.com/album/7H9PsA2EZCZE9c7HiV2T20) | 4:51 |
-| 43 | [Liefde voor muziek](https://open.spotify.com/track/0epqiURh9kFqBVtuz9DJp2) | [Raymond Van Het Groenewoud](https://open.spotify.com/artist/535vUcywQfuPaygBIDziaY) | [Alle 40 Goed](https://open.spotify.com/album/43QtfDqQ4X2k5q6qwvs2MH) | 3:33 |
+| 42 | [Liefde voor muziek](https://open.spotify.com/track/0epqiURh9kFqBVtuz9DJp2) | [Raymond Van Het Groenewoud](https://open.spotify.com/artist/535vUcywQfuPaygBIDziaY) | [Alle 40 Goed](https://open.spotify.com/album/43QtfDqQ4X2k5q6qwvs2MH) | 3:33 |
+| 43 | [Laat Het Los](https://open.spotify.com/track/0oFXW0Mqbx4iIGnVKDRIBu) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Vier Weken](https://open.spotify.com/album/7H9PsA2EZCZE9c7HiV2T20) | 4:51 |
 | 44 | [Voltooid Verleden Tijd](https://open.spotify.com/track/4TH3WXOP0FcPm02PV81iOl) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Investigations](https://open.spotify.com/album/2we6AQIq54Xl7NcMP2l0Dl) | 5:46 |
 | 45 | [Paradijs](https://open.spotify.com/track/32MEr1rs4elxqFR5mbxzqM) | [Frank Boeijen](https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj), [Jack\-O](https://open.spotify.com/artist/72ntnMRMyDaO6vdMXXsHhg) | [Het Mooiste & Het Beste](https://open.spotify.com/album/3XiJiFN96NyaWs728epe59) | 4:47 |
 | 46 | [Toen Ik Je Zag](https://open.spotify.com/track/0FzCKjXKz9FMwtRlrOFQpt) | [Hero](https://open.spotify.com/artist/15E5Lo5HxDSnNhUac2LUKo) | [Toen Ik Je Zag](https://open.spotify.com/album/3dIaI0iPa9ja1dXCyBPHoL) | 3:21 |
-| 47 | [Meer Dan Een Ander](https://open.spotify.com/track/0IA7H00CDMcOqoOmCpla7u) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Van Dik Hout \- 15 Jaar](https://open.spotify.com/album/1fx3pJ493QkiRPSa3GozGk) | 3:42 |
-| 48 | [He Suzie](https://open.spotify.com/track/5tcnWBFZjrA3LeoOY4573u) | [Henk Wijngaard](https://open.spotify.com/artist/0EyzZUO2ycn0hLjKDFT7Hb) | [Mijn Allergrootste Successen](https://open.spotify.com/album/4oaQMnqw89unxMh8hL2DDq) | 3:31 |
+| 47 | [He Suzie](https://open.spotify.com/track/5tcnWBFZjrA3LeoOY4573u) | [Henk Wijngaard](https://open.spotify.com/artist/0EyzZUO2ycn0hLjKDFT7Hb) | [Mijn Allergrootste Successen](https://open.spotify.com/album/4oaQMnqw89unxMh8hL2DDq) | 3:31 |
+| 48 | [Meer Dan Een Ander](https://open.spotify.com/track/0IA7H00CDMcOqoOmCpla7u) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Van Dik Hout \- 15 Jaar](https://open.spotify.com/album/1fx3pJ493QkiRPSa3GozGk) | 3:42 |
 | 49 | [In De Wolken](https://open.spotify.com/track/4yeOX2rVLDZ6XXh2TSkwN6) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy) | [Hollands Glorie](https://open.spotify.com/album/0mMsYu4KfiMiCRP0B1ZOWF) | 4:24 |
 | 50 | [Het Is Een Nacht..\. \(Levensecht\)](https://open.spotify.com/track/1jnUXW29r0JgYRcQmC3gIp) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 3:45 |
 | 51 | [Wat Zou Je Doen?](https://open.spotify.com/track/5iKaPg25J8rrEBHXsM8SLx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 4:50 |

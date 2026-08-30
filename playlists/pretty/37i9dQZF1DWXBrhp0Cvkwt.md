@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 
 > soundtracking your ex calling/nothing's working/existential crisis
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,829 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,887 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 | 62 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 |
 | 63 | [Be My Mistake](https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:16 |
 | 64 | [Vodka Cranberry](https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Vodka Cranberry](https://open.spotify.com/album/0Z5FaBjNQ1sZ2Udunf17Jt) | 4:05 |
-| 65 | [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 |
-| 66 | [The Great War](https://open.spotify.com/track/3UMrglJeju5yWyYIW6o99b) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 4:00 |
+| 65 | [The Great War](https://open.spotify.com/track/3UMrglJeju5yWyYIW6o99b) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 4:00 |
+| 66 | [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 |
 | 67 | [Waiting For Never](https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache \(Deluxe\)](https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so) | 3:16 |
 | 68 | [hate u love u](https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [hate u love u](https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw) | 2:55 |
 | 69 | [Motion Sickness](https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:49 |

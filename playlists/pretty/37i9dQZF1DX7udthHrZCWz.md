@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7udthHrZCWz.md) - [plain]
 
 > Unwind to these easy classics from the 2010s...
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,275 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,283 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7udthHrZCWz.md) - [plain]
 | 7 | [Attention](https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:28 |
 | 8 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 |
 | 9 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 |
-| 10 | [Hey, Soul Sister](https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:36 |
-| 11 | [7 Years](https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham](https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v) | 3:57 |
+| 10 | [7 Years](https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham](https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v) | 3:57 |
+| 11 | [Hey, Soul Sister](https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:36 |
 | 12 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 |
 | 13 | [Paradise](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:38 |
 | 14 | [Say You Won't Let Go](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:31 |
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7udthHrZCWz.md) - [plain]
 | 36 | [What About Us](https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:29 |
 | 37 | [Billionaire \(feat\. Bruno Mars\)](https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Lazarus](https://open.spotify.com/album/7kOivwbxDlUcVa4dCBCsWg) | 3:31 |
 | 38 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 |
-| 39 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 |
-| 40 | [i hate u, i love u \(feat\. olivia o'brien\)](https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [us](https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf) | 4:11 |
+| 39 | [i hate u, i love u \(feat\. olivia o'brien\)](https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [us](https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf) | 4:11 |
+| 40 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 |
 | 41 | [Can I Be Him](https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 4:06 |
 | 42 | [Empire State of Mind \(Part II\) Broken Down](https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 3:36 |
 | 43 | [Wicked Games](https://open.spotify.com/track/00aqkszH1FdUiJJWvX6iEl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 5:25 |
-| 44 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:58 |
-| 45 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
+| 44 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
+| 45 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:58 |
 | 46 | [Lay Me Down](https://open.spotify.com/track/74sb4Gib0cL3TQeCjYF8vh) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 4:13 |
 | 47 | [Starving](https://open.spotify.com/track/4Ce37cRWvM1vIGGynKcs22) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving](https://open.spotify.com/album/18pR217SWwBjODSRWFBw0I) | 3:01 |
 | 48 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7udthHrZCWz.md) - [plain]
 | 67 | [Skin](https://open.spotify.com/track/6y2Kaz9QI01XBKJ8mTb7Pf) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:59 |
 | 68 | [Need You Now](https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh) | 3:56 |
 | 69 | [Tenerife Sea](https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:01 |
-| 70 | [Us](https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Electric Light](https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R) | 3:01 |
-| 71 | [Praying](https://open.spotify.com/track/0jdny0dhgjUwoIp5GkqEaA) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Rainbow](https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh) | 3:50 |
+| 70 | [Praying](https://open.spotify.com/track/0jdny0dhgjUwoIp5GkqEaA) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Rainbow](https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh) | 3:50 |
+| 71 | [Us](https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Electric Light](https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R) | 3:01 |
 | 72 | [Chocolate](https://open.spotify.com/track/4WiiRw2PHMNQE0ad6y6GdD) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h) | 3:44 |
 | 73 | [Leave a Light On](https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Leave a Light On](https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8) | 3:05 |
 | 74 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 |

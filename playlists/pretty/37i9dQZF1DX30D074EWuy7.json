@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 35024,
+  "num_followers": 35027,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -119,38 +119,6 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "Lavoro e tempo libero",
-        "url": "https://open.spotify.com/album/5VWALGguSmp9l3FN2BWcNP"
-      },
-      "artists": [
-        {
-          "name": "Giuliano Sorgini",
-          "url": "https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX"
-        }
-      ],
-      "duration_ms": 294333,
-      "name": "Analisi scientifiche",
-      "url": "https://open.spotify.com/track/6vN0AqD9Zk4uolNlCRufxQ"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
-        "name": "Echologia",
-        "url": "https://open.spotify.com/album/7bIVzNE03KtbfwnSoqHZRX"
-      },
-      "artists": [
-        {
-          "name": "PS5",
-          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
-        }
-      ],
-      "duration_ms": 210300,
-      "name": "Pajarito Perdido",
-      "url": "https://open.spotify.com/track/5HIAIZlTacGONMWqfP8EIu"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
         "name": "Afrobeat Makers, Vol. 3 (The Tony Allen Experiments)",
         "url": "https://open.spotify.com/album/1GjbremREcqamlsdqM3gEI"
       },
@@ -171,6 +139,22 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
+        "name": "Echologia",
+        "url": "https://open.spotify.com/album/7bIVzNE03KtbfwnSoqHZRX"
+      },
+      "artists": [
+        {
+          "name": "PS5",
+          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
+        }
+      ],
+      "duration_ms": 210300,
+      "name": "Pajarito Perdido",
+      "url": "https://open.spotify.com/track/5HIAIZlTacGONMWqfP8EIu"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
         "name": "ELSEWHERE",
         "url": "https://open.spotify.com/album/6TodyJESCEXJ67eXpUse0I"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 237849,
       "name": "Elsewhere",
       "url": "https://open.spotify.com/track/0UgI0R8adx5NSfn7eF1HOC"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
+        "name": "Lavoro e tempo libero",
+        "url": "https://open.spotify.com/album/5VWALGguSmp9l3FN2BWcNP"
+      },
+      "artists": [
+        {
+          "name": "Giuliano Sorgini",
+          "url": "https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX"
+        }
+      ],
+      "duration_ms": 294333,
+      "name": "Analisi scientifiche",
+      "url": "https://open.spotify.com/track/6vN0AqD9Zk4uolNlCRufxQ"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -723,18 +723,18 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "10 situazioni",
-        "url": "https://open.spotify.com/album/5HjQjM3FqZJPcFmlA4wfht"
+        "name": "L'indispensabile",
+        "url": "https://open.spotify.com/album/2dd0tiC5EWGCKRI3OnFmn9"
       },
       "artists": [
         {
-          "name": "Sestetto Dino Piana & Oscar Valdambrini",
-          "url": "https://open.spotify.com/artist/5Fks3bjzF9cMXYsUbJGK48"
+          "name": "Vinicio Capossela",
+          "url": "https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM"
         }
       ],
-      "duration_ms": 167694,
-      "name": "Omaca",
-      "url": "https://open.spotify.com/track/3xqbdVPULGQjcxnNmWpTNd"
+      "duration_ms": 407760,
+      "name": "Ultimo amore",
+      "url": "https://open.spotify.com/track/6kpNriwONdTQYHXeZeilYM"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -755,18 +755,18 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "L'indispensabile",
-        "url": "https://open.spotify.com/album/2dd0tiC5EWGCKRI3OnFmn9"
+        "name": "10 situazioni",
+        "url": "https://open.spotify.com/album/5HjQjM3FqZJPcFmlA4wfht"
       },
       "artists": [
         {
-          "name": "Vinicio Capossela",
-          "url": "https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM"
+          "name": "Sestetto Dino Piana & Oscar Valdambrini",
+          "url": "https://open.spotify.com/artist/5Fks3bjzF9cMXYsUbJGK48"
         }
       ],
-      "duration_ms": 407760,
-      "name": "Ultimo amore",
-      "url": "https://open.spotify.com/track/6kpNriwONdTQYHXeZeilYM"
+      "duration_ms": 167694,
+      "name": "Omaca",
+      "url": "https://open.spotify.com/track/3xqbdVPULGQjcxnNmWpTNd"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
+        "name": "Popoli del Mare",
+        "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
+      },
+      "artists": [
+        {
+          "name": "Bassolino",
+          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
+        }
+      ],
+      "duration_ms": 279709,
+      "name": "Popoli del Mare",
+      "url": "https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
         "name": "Milestones - Un Incontro In Jazz",
         "url": "https://open.spotify.com/album/7CvHJLd6qmyVhoIRnwlbNQ"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 438346,
       "name": "Senza Fine",
       "url": "https://open.spotify.com/track/1vp31dl868PovF1oReS716"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
-        "name": "Popoli del Mare",
-        "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
-      },
-      "artists": [
-        {
-          "name": "Bassolino",
-          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
-        }
-      ],
-      "duration_ms": 279709,
-      "name": "Popoli del Mare",
-      "url": "https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "Joyful",
-        "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
-      },
-      "artists": [
-        {
-          "name": "Flavio Boltro",
-          "url": "https://open.spotify.com/artist/70dgzJKQ07dYCEsVYyU9jw"
-        },
-        {
-          "name": "Alex Ligertwood",
-          "url": "https://open.spotify.com/artist/09EXBdxGvRyakIrU1ag9fV"
-        }
-      ],
-      "duration_ms": 241966,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1wAWk4UszlXtx5RaOHbxgC"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/1gqjxM0wGTsEhA9GNCD1Gi"
       },
@@ -1519,6 +1499,26 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
+        "name": "Joyful",
+        "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
+      },
+      "artists": [
+        {
+          "name": "Flavio Boltro",
+          "url": "https://open.spotify.com/artist/70dgzJKQ07dYCEsVYyU9jw"
+        },
+        {
+          "name": "Alex Ligertwood",
+          "url": "https://open.spotify.com/artist/09EXBdxGvRyakIrU1ag9fV"
+        }
+      ],
+      "duration_ms": 241966,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1wAWk4UszlXtx5RaOHbxgC"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
         "name": "Non mi resta che tacere",
         "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
       },
@@ -1531,22 +1531,6 @@
       "duration_ms": 275291,
       "name": "Non mi resta che tacere",
       "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
-        "name": "Ma Gnossienne",
-        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
-      },
-      "artists": [
-        {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
-        }
-      ],
-      "duration_ms": 270513,
-      "name": "Ma Gnossienne",
-      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "New Game Plus",
-        "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
+        "name": "Ma Gnossienne",
+        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
       },
       "artists": [
         {
-          "name": "magikAAAAArp",
-          "url": "https://open.spotify.com/artist/1pyovQJ1LBijAxUci0z8sq"
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
         }
       ],
-      "duration_ms": 222000,
-      "name": "2 AM",
-      "url": "https://open.spotify.com/track/3vSCu1i40ARAivECYZfcV9"
+      "duration_ms": 270513,
+      "name": "Ma Gnossienne",
+      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1615,6 +1599,22 @@
       "duration_ms": 377930,
       "name": "Tempo al Tempo",
       "url": "https://open.spotify.com/track/5fJPhL4bpFTElmkDwjaOME"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
+        "name": "New Game Plus",
+        "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
+      },
+      "artists": [
+        {
+          "name": "magikAAAAArp",
+          "url": "https://open.spotify.com/artist/1pyovQJ1LBijAxUci0z8sq"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "2 AM",
+      "url": "https://open.spotify.com/track/3vSCu1i40ARAivECYZfcV9"
     },
     {
       "added_at": "2026-08-04 12:28:31",

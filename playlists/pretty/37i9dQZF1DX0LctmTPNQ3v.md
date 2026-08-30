@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 
 > Your soundtrack for a not\-so\-silent night\. Cover: Poppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,853 likes - 70 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,842 likes - 70 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Last Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/track/2JuCzvXu9tIUU2ZDDgQ0vG) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Last Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/1WQWzqG7uf68jQohlrsaR1) | 3:43 |
+| 1 | [Last Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2JuCzvXu9tIUU2ZDDgQ0vG) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Last Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/1WQWzqG7uf68jQohlrsaR1) | 3:43 |
 | 2 | [Christmas Eve / Sarajevo 12/24 \- Instrumental](https://open.spotify.com/track/3sBnSBnzpEYKpJYGsAIbup) | [Trans\-Siberian Orchestra](https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau) | [Christmas Eve and Other Stories](https://open.spotify.com/album/6QNuH4X7k9Fxsk3lRLOaiT) | 3:25 |
 | 3 | [Christmas Truce](https://open.spotify.com/track/5FaSqONiGaXC0LwQRSYgJq) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Christmas Truce](https://open.spotify.com/album/7AiY9akdD7xsmk9skmMIyL) | 5:18 |
 | 4 | [Carol of the Bells](https://open.spotify.com/track/6Fccwz5z0P8jFH9RnTZDcW) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [August Burns Red Presents: Sleddin' hill, a Holiday Album](https://open.spotify.com/album/2azUcKhTf99EHIJEK6Co6F) | 2:48 |

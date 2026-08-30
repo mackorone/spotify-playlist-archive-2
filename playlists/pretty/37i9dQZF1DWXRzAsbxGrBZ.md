@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Get revived with some of the best Deep House South Africa has to offer\. Cover: Judith Sephuma, C\-Blak
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,456 likes - 75 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,497 likes - 75 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 74 | [Lucky Man \- Da Gifto's Remake](https://open.spotify.com/track/4xb4ur7DrYA4L5sBS2cvN8) | [LnSoul](https://open.spotify.com/artist/5UfmOvlvYSikp9JvZutZtk), [Kenton Lee](https://open.spotify.com/artist/6YBvH6Au8RM76TTcuTDA5h), [Caviar Musique](https://open.spotify.com/artist/4kbLdUj3XS7lBxUI5ZynFz) | [Lucky Man \(Da Gifto's Remake\)](https://open.spotify.com/album/2EssVYSSSLOJjKcOBxusWf) | 8:08 |
 | 75 | [Mfanaka \- Mfana Noxman](https://open.spotify.com/track/24wJMihL08N5HMAxgNEGQK) | [Slaga](https://open.spotify.com/artist/6TMHpHxtnjEsfpC0Psdsdw), [Dazz\-B MusiQ](https://open.spotify.com/artist/2uXPRBlQzbT3xMPV2Fbotn), [Macnoss](https://open.spotify.com/artist/1lKc8wWqtr5h8dgFbQ1mf2) | [Mfanaka \(Mfana Noxman\)](https://open.spotify.com/album/6tIeOt2XiKPfDliDlPYoRX) | 7:08 |
 
-Snapshot ID: `AAAAAOcRw057jWFljJ2CMxeBvJaqeGD9`
+Snapshot ID: `AAAAALjtBfxQVfpJBOdkdILMEZkARAE3`

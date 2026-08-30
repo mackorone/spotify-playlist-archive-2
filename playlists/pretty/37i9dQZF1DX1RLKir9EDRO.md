@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler! Kapak: Elsu Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,735 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,744 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

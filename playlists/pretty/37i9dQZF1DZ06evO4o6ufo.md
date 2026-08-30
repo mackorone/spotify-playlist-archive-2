@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 
 > This is Panter Bélico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,200 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,224 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 10 | [Martes 13](https://open.spotify.com/track/7M5xxINTbLHi4QOORE0LeH) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [TRAVESÍA](https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv) | 2:59 |
 | 11 | [Simbolo Sexual](https://open.spotify.com/track/3fYV6za0eCj6b692AnOgDA) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto y Aparte](https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z) | 3:00 |
 | 12 | [Te Ves Fatal](https://open.spotify.com/track/2pxP1nxPA1brO6gtZg2OED) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CORAZÓN ERRANTE](https://open.spotify.com/album/0n8PHR1DzK3a1Yk2YUeW21) | 3:49 |
-| 13 | [Solo Tú](https://open.spotify.com/track/169r7ouPxlMvgNZSIVBtY9) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Muchacho Alegre](https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq) | 3:32 |
-| 14 | [EXOTICÓN ll](https://open.spotify.com/track/3QLzh9cN6Gmq9hTbU4nx9D) | [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [EXOTICÓN ll](https://open.spotify.com/album/0QJThre1nco289eXG0qWw3) | 2:11 |
+| 13 | [EXOTICÓN ll](https://open.spotify.com/track/3QLzh9cN6Gmq9hTbU4nx9D) | [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [EXOTICÓN ll](https://open.spotify.com/album/0QJThre1nco289eXG0qWw3) | 2:11 |
+| 14 | [Solo Tú](https://open.spotify.com/track/169r7ouPxlMvgNZSIVBtY9) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Muchacho Alegre](https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq) | 3:32 |
 | 15 | [3 Doritos Despues \(En Vivo\)](https://open.spotify.com/track/07aKw7LfC27IGSb5ppldIQ) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [3 Doritos Despues \(En Vivo\)](https://open.spotify.com/album/4PJXpxazXhN6AOC0xUagQF) | 3:38 |
 | 16 | [Y Tu](https://open.spotify.com/track/3YzK5ai82cZ7PewBtMul78) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CORAZÓN ERRANTE](https://open.spotify.com/album/0n8PHR1DzK3a1Yk2YUeW21) | 3:19 |
 | 17 | [Hay Unos Ojos \- En Vivo](https://open.spotify.com/track/5XYqS4FF4WSfyhiGvn1dkh) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Amanecida En Vivo Desde "El Carrizal"](https://open.spotify.com/album/4MlTW5nN0Ao1cPqudPiCnE) | 2:48 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 48 | [Sorry Pa’ Los Gabachos](https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:18 |
 | 49 | [La Tostada CH](https://open.spotify.com/track/2ouaHnPg00LU0RShMlibs7) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [La Tostada CH](https://open.spotify.com/album/5cQiVRRkP09f3tjzoW3LuM) | 4:03 |
 
-Snapshot ID: `ao9+AAAAAABVFwfC/dYXr2mSqDKC1vJf`
+Snapshot ID: `apDPgAAAAACsolV0pmFOB7k2MOLqlmlH`

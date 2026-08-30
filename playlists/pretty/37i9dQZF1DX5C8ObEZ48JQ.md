@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/2BlTufGgupqEM4ITQAJhAp?si=63870859e7c942be">Ila Nia</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,673 likes - 54 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,678 likes - 54 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

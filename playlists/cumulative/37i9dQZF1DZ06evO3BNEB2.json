@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "Blanco (Live From The District)",
+        "url": "https://open.spotify.com/album/7kUjBcuDKrr4dpuO4IpkrY"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376490,
+      "name": "Blanco - Live From The District",
+      "url": "https://open.spotify.com/track/6TarHU68oXLOfXVDt1S7g2"
+    },
+    {
+      "album": {
         "name": "EZIOKWU",
         "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
       },
@@ -1338,7 +1356,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 249271,
       "name": "The Girls on Drugs",
       "url": "https://open.spotify.com/track/09GCuO9yQH5R1E8HYknrV8"

@@ -4,7 +4,7 @@
 
 > pop that \*hits different\* featuring vita
 
-772 songs - 1 day 17 hr 32 min
+773 songs - 1 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Hurricane](https://open.spotify.com/track/4VmUjQemFIPObiloQu0xgQ) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [I’m Sorry, Now Say It Back](https://open.spotify.com/album/5zdn7NF3UcpwC9SUsvvGaf) | 3:10 | 2024-10-24 | 2024-11-15 |
 | [I Can See You \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:33 | 2023-07-07 | 2023-08-18 |
 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2023-04-28 | 2023-09-05 |
+| [I Cry in Front of Paintings](https://open.spotify.com/track/0N6h5BvKIqJWjfynJEF8Sn) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [I Cry in Front of Paintings](https://open.spotify.com/album/4V7zThL5VnJz7qgrFQ0XxH) | 2:55 | 2026-08-27 |  |
 | [I Don’t Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation Stadium Tour Surprise Song Playlist](https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8) | 4:07 | 2023-08-22 | 2024-06-19 |
 | [I Forgot What's Love](https://open.spotify.com/track/6ieN3wcNaehATjOSz2V4Aj) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [I Forgot What's Love](https://open.spotify.com/album/45eRQGLZ0inlwczmzfnHCh) | 3:22 | 2024-04-25 | 2024-06-12 |
 | [i guess u never really cared about me](https://open.spotify.com/track/2hyyp0mZc5QFY5YQeyv7oP) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i guess u never really cared about me](https://open.spotify.com/album/7CHoqxYsAtC7YZZDa1t95z) | 3:11 | 2025-04-17 | 2025-09-15 |
@@ -491,7 +492,7 @@
 | [Out of the Blue](https://open.spotify.com/track/2gyibgga6kveFORdRYvJAu) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t), [ioakim](https://open.spotify.com/artist/7rv4I8TmSimvUct7xd7qeE) | [Out of the Blue](https://open.spotify.com/album/5F1WisCbMkTQscHZcDVnvY) | 2:56 | 2024-07-26 | 2024-08-02 |
 | [Pain](https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:38 | 2023-12-19 | 2024-11-22 |
 | [Painkiller](https://open.spotify.com/track/1YlulsUKDduOmC7WxvXYPW) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 3:33 | 2024-02-08 | 2024-02-23 |
-| [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 | 2025-11-06 |  |
+| [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 | 2025-11-06 | 2026-08-30 |
 | [Peace Talk](https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 3:30 | 2025-02-27 | 2025-03-02 |
 | [Perfect 10](https://open.spotify.com/track/6yhUgDXbFmmzKyET26xsqE) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [No Hard Feelings \(Deluxe\)](https://open.spotify.com/album/0FMucdda0oSSMZndaJR8Uc) | 2:51 | 2026-06-11 | 2026-07-24 |
 | [PIECES](https://open.spotify.com/track/0LSnGEfj4T8vJyi7lVU3Gn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET \(DELUXE\)](https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3) | 3:25 | 2026-04-23 |  |

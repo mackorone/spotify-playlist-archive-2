@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21OmAs.md) - [plain]
 
 > This is girl in red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,489 likes - 35 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,472 likes - 35 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21OmAs.md) - [plain]
 | 9 | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/34qaGPDvfWqp3F4iD5nGhf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 3:06 |
 | 10 | [I'll Call You Mine](https://open.spotify.com/track/6rYgEHuyhO064Lgj48qlIe) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:21 |
 | 11 | [forget her](https://open.spotify.com/track/5vFuoZLvUmAzzIiLSEhk0K) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 2:23 |
-| 12 | [watch you sleep.](https://open.spotify.com/track/6tMwheKgpMHBcHtr8aYMn8) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [watch you sleep.](https://open.spotify.com/album/788Q6tUcihFxDsOGGeyuFE) | 3:00 |
-| 13 | [4am](https://open.spotify.com/track/75enpZYDT6k0PNKu6SJ4W5) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [4am](https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT) | 1:50 |
+| 12 | [4am](https://open.spotify.com/track/75enpZYDT6k0PNKu6SJ4W5) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [4am](https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT) | 1:50 |
+| 13 | [watch you sleep.](https://open.spotify.com/track/6tMwheKgpMHBcHtr8aYMn8) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [watch you sleep.](https://open.spotify.com/album/788Q6tUcihFxDsOGGeyuFE) | 3:00 |
 | 14 | [.](https://open.spotify.com/track/4r1AqGpB9YrXV2ivcrqfJY) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 2:46 |
 | 15 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 |
 | 16 | [RØDT HVITT BLÅTT](https://open.spotify.com/track/1wVc6eYrGKDK6HJUs5wxlm) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [RØDT HVITT BLÅTT](https://open.spotify.com/album/0CfgQBJAB8R1r1eqLkl9hJ) | 2:28 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21OmAs.md) - [plain]
 | 25 | [A Night To Remember](https://open.spotify.com/track/0OAye4UT21h2iC72vGVuqC) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:50 |
 | 26 | [Body And Mind](https://open.spotify.com/track/6GFrELGVKBXRcrTNkwjSfF) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:06 |
 | 27 | [Say It \- Spotify Studio Oyster Recording](https://open.spotify.com/track/2k6qMVHTTzR5tJDjf1855E) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Say It \- Spotify Studio Oyster Recording](https://open.spotify.com/album/16BMvFgwCXraSyFnGONJIc) | 2:53 |
-| 28 | [Kate's Not Here \(Day Wave & Lawrence Rothman Remix\)](https://open.spotify.com/track/6P2Fi6JfkqAw1h7ga6jNwB) | [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N), [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Kate's Not Here \(Day Wave & Lawrence Rothman Remix\)](https://open.spotify.com/album/26RQFyaGdugNbL7aBzF7Ik) | 3:09 |
+| 28 | [Kate's Not Here \- Day Wave & Lawrence Rothman Remix](https://open.spotify.com/track/6P2Fi6JfkqAw1h7ga6jNwB) | [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N), [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Kate's Not Here \(Day Wave & Lawrence Rothman Remix\)](https://open.spotify.com/album/26RQFyaGdugNbL7aBzF7Ik) | 3:09 |
 | 29 | [Phantom Pain](https://open.spotify.com/track/2X05EASOuBv6aRQRJoGI1i) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:51 |
 | 30 | [something new](https://open.spotify.com/track/5HGZJeGaJsHHgKy95BAai0) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [MOOMINVALLEY 2 \(Official Soundtrack\)](https://open.spotify.com/album/2SuMYxHuybyoaBLSDkQ5Rc) | 3:25 |
 | 31 | [Stay \- Spotify Singles](https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:55 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21OmAs.md) - [plain]
 | 34 | [New Love](https://open.spotify.com/track/1WFNU6zWFu5BpSiQOAVTAO) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:52 |
 | 35 | [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 |
 
-Snapshot ID: `ao9+AAAAAACXCOg9tbFubvfXZ1Rjrxs/`
+Snapshot ID: `apDPgAAAAACrKXlCnAIIAj4zZGHzqDOD`

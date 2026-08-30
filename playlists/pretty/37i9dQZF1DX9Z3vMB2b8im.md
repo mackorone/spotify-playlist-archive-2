@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,259,100 likes - 80 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,258,969 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 65 | [Heavy](https://open.spotify.com/track/5VpgaWuqcWho0uJMniRNDs) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Heavy](https://open.spotify.com/album/00PsineKfAuLIl2PGnK5LB) | 4:04 |
 | 66 | [See Through](https://open.spotify.com/track/4NjWqzNLY1E0OylkvAiLxH) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [See Through](https://open.spotify.com/album/7qqtzUz4Wd44ylS9kC5wrP) | 2:50 |
 | 67 | [HEADPHONES](https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [HEADPHONES](https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2) | 3:16 |
-| 68 | [Tomorrow is Perfect](https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Tomorrow is Perfect](https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq) | 6:21 |
-| 69 | [Baghdad](https://open.spotify.com/track/7rOXvlA2T7jDETJ107zZW0) | [Flo Perlin](https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05) | [Baghdad](https://open.spotify.com/album/4Dz25Hgxa02gqv0D6ZTbqk) | 3:26 |
+| 68 | [Baghdad](https://open.spotify.com/track/7rOXvlA2T7jDETJ107zZW0) | [Flo Perlin](https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05) | [Baghdad](https://open.spotify.com/album/4Dz25Hgxa02gqv0D6ZTbqk) | 3:26 |
+| 69 | [Tomorrow is Perfect](https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Tomorrow is Perfect](https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq) | 6:21 |
 | 70 | [The Old Parade](https://open.spotify.com/track/43oqobywDZTvS53P9VNFl3) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [The Old Parade](https://open.spotify.com/album/1hgxMPc8eLOaXCYsQ9vRvq) | 3:20 |
 | 71 | [Timeless](https://open.spotify.com/track/3AZ3iDuNNkxIKYZJiFzYvc) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [Timeless](https://open.spotify.com/album/0FpJ9wlktoKInqfSpgBSjf) | 4:33 |
 | 72 | [Mansion](https://open.spotify.com/track/0dPrl278qhdSTxnIy4qsB3) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Anger](https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR) | 3:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 135,761 likes - 235 songs - 10 hr 8 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 135,939 likes - 235 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,7 +217,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 207 | [I Don't Need You](https://open.spotify.com/track/08hBQCNt6DRzZQs8gkJEIL) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [I Don't Need You](https://open.spotify.com/album/0qC3o6ssC7IS7bEZ3fQaBn) | 3:00 |
 | 208 | [she's all i wanna be](https://open.spotify.com/track/53m9dtlj6xSrer9hoTEn4j) | [Kin Alura](https://open.spotify.com/artist/5UbieAXGfZvPmsbbvdb3Xc), [Holly](https://open.spotify.com/artist/6RwJwtGVyIGSs1oSAPnxYV), [AKI](https://open.spotify.com/artist/4PZkiiOKrkpqOkhGSz2tel), [Moody Violet](https://open.spotify.com/artist/1KrQKZXgiWQtPmM9wcwp0A) | [she's all i wanna be](https://open.spotify.com/album/6brPFDrLbsQ6XhYosQ78BO) | 2:56 |
 | 209 | [So High](https://open.spotify.com/track/6HVo7dGd9ntnqoEKa719Vg) | [Vanilla Sky](https://open.spotify.com/artist/7mtBagxlj27ioxPZIWu8Bx) | [So High](https://open.spotify.com/album/3vxe7sNGP3ZwsCVEStspwh) | 2:12 |
-| 210 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 |
+| 210 | [Black Friday \- pretty like the sun](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 |
 | 211 | [Prayer In C](https://open.spotify.com/track/3y9GDhOJ8GUFIa3DOqLAPZ) | [Offmind](https://open.spotify.com/artist/085SqcJuCauCoaZ9ZXGAzb) | [Prayer In C](https://open.spotify.com/album/4tVi9WvdZzBpd8zsI0P0Qo) | 2:39 |
 | 212 | [Close to Me](https://open.spotify.com/track/7MnPqlRg4XPv9cqHF76tbs) | [Max Oazo](https://open.spotify.com/artist/5uNCgXcFgj0OyipmIk8ZUi) | [Close to Me](https://open.spotify.com/album/0xYuIvQFTHmGH0SFawWFfp) | 3:31 |
 | 213 | [Get You The Moon](https://open.spotify.com/track/3ciO40CQHrP5rYDhoMfOWQ) | [Saxena](https://open.spotify.com/artist/4RmAlZapfAsWhj2k1pHsKe) | [Get You The Moon](https://open.spotify.com/album/1LDvI7zJlNVPUpmYh0WasO) | 2:36 |

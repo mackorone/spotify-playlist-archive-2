@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Heitor & Henrique, Israel & Rodolffo",
-  "num_followers": 482899,
+  "num_followers": 482901,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2026-08-14 03:00:56",
       "album": {
+        "name": "Sofrimento Louco",
+        "url": "https://open.spotify.com/album/3gP8mpp0xwL44oBu6FRDSl"
+      },
+      "artists": [
+        {
+          "name": "Victor e Franco",
+          "url": "https://open.spotify.com/artist/7bO40iYcIuPx4lOLqiWL9c"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "Sofrimento Louco",
+      "url": "https://open.spotify.com/track/6wknzfCeTkovFsYIdfMMVU"
+    },
+    {
+      "added_at": "2026-08-14 03:00:56",
+      "album": {
         "name": "Cora\u00e7\u00f5es Ego\u00edstas (Ao Vivo)",
         "url": "https://open.spotify.com/album/5EJ3gqKytGFbpTcCqa2i1d"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 200446,
       "name": "Cora\u00e7\u00f5es Ego\u00edstas - Ao Vivo",
       "url": "https://open.spotify.com/track/2qkQepMIeGGSJJUMpADU4T"
-    },
-    {
-      "added_at": "2026-08-14 03:00:56",
-      "album": {
-        "name": "Sofrimento Louco",
-        "url": "https://open.spotify.com/album/3gP8mpp0xwL44oBu6FRDSl"
-      },
-      "artists": [
-        {
-          "name": "Victor e Franco",
-          "url": "https://open.spotify.com/artist/7bO40iYcIuPx4lOLqiWL9c"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Sofrimento Louco",
-      "url": "https://open.spotify.com/track/6wknzfCeTkovFsYIdfMMVU"
     },
     {
       "added_at": "2026-08-14 03:00:56",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-08-14 03:00:56",
       "album": {
-        "name": "Sequ\u00eancia de Fotos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7pktxBCrRL1drzh01aWGtn"
-      },
-      "artists": [
-        {
-          "name": "Elis Justi",
-          "url": "https://open.spotify.com/artist/6RyDipQUMxlpR31UPdnilt"
-        }
-      ],
-      "duration_ms": 165822,
-      "name": "Sequ\u00eancia de Fotos - Ao Vivo",
-      "url": "https://open.spotify.com/track/4EnJEBV61bd4A0HflT2Vfr"
-    },
-    {
-      "added_at": "2026-08-14 03:00:56",
-      "album": {
         "name": "Desce \u00c1lcool",
         "url": "https://open.spotify.com/album/3rcKvg4eioRnsf2x8ltth5"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 132291,
       "name": "Desce \u00c1lcool",
       "url": "https://open.spotify.com/track/3nTHxfQNhlmCsWoR7TPJ2M"
+    },
+    {
+      "added_at": "2026-08-14 03:00:56",
+      "album": {
+        "name": "Sequ\u00eancia de Fotos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7pktxBCrRL1drzh01aWGtn"
+      },
+      "artists": [
+        {
+          "name": "Elis Justi",
+          "url": "https://open.spotify.com/artist/6RyDipQUMxlpR31UPdnilt"
+        }
+      ],
+      "duration_ms": 165822,
+      "name": "Sequ\u00eancia de Fotos - Ao Vivo",
+      "url": "https://open.spotify.com/track/4EnJEBV61bd4A0HflT2Vfr"
     },
     {
       "added_at": "2026-08-14 03:00:56",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-08-14 03:00:56",
       "album": {
-        "name": "Retronejo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/01wk7MYyaS6GEHKb9tpwzX"
-      },
-      "artists": [
-        {
-          "name": "Matheus Henrique & Gabriel",
-          "url": "https://open.spotify.com/artist/0k2WWgstIfg1IXJbsxf0pZ"
-        }
-      ],
-      "duration_ms": 145722,
-      "name": "Cerveja Falando - Ao Vivo",
-      "url": "https://open.spotify.com/track/0rD068pBtD2L4DAolWFD20"
-    },
-    {
-      "added_at": "2026-08-14 03:00:56",
-      "album": {
         "name": "Hoje Eu Tentei (Ao Vivo)",
         "url": "https://open.spotify.com/album/3ZFXjzSEu7QUTil6V4OxIs"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 207907,
       "name": "Hoje Eu Tentei - Ao Vivo",
       "url": "https://open.spotify.com/track/5GptceQdY7ZSQ91jha8M2t"
+    },
+    {
+      "added_at": "2026-08-14 03:00:56",
+      "album": {
+        "name": "Retronejo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01wk7MYyaS6GEHKb9tpwzX"
+      },
+      "artists": [
+        {
+          "name": "Matheus Henrique & Gabriel",
+          "url": "https://open.spotify.com/artist/0k2WWgstIfg1IXJbsxf0pZ"
+        }
+      ],
+      "duration_ms": 145722,
+      "name": "Cerveja Falando - Ao Vivo",
+      "url": "https://open.spotify.com/track/0rD068pBtD2L4DAolWFD20"
     },
     {
       "added_at": "2026-08-14 03:00:56",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-08-14 03:00:56",
       "album": {
+        "name": "Barzin, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig"
+      },
+      "artists": [
+        {
+          "name": "Bruna Lipiani",
+          "url": "https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK"
+        }
+      ],
+      "duration_ms": 178356,
+      "name": "Porteira Fechada - Ao Vivo",
+      "url": "https://open.spotify.com/track/1yAnmsUZERvZbolGbKwCFx"
+    },
+    {
+      "added_at": "2026-08-14 03:00:56",
+      "album": {
         "name": "Conte\u00fado Abusivo (Ao Vivo)",
         "url": "https://open.spotify.com/album/2U3WV15ARM57gJBQCYL4oG"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 165481,
       "name": "Conte\u00fado Abusivo - Ao Vivo",
       "url": "https://open.spotify.com/track/64WaTsz7QqYEXPYv0uidA7"
-    },
-    {
-      "added_at": "2026-08-14 03:00:56",
-      "album": {
-        "name": "Barzin, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig"
-      },
-      "artists": [
-        {
-          "name": "Bruna Lipiani",
-          "url": "https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK"
-        }
-      ],
-      "duration_ms": 178356,
-      "name": "Porteira Fechada - Ao Vivo",
-      "url": "https://open.spotify.com/track/1yAnmsUZERvZbolGbKwCFx"
     },
     {
       "added_at": "2026-08-14 03:00:56",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-08-14 03:00:56",
       "album": {
-        "name": "Um Novo Horizonte, Vol. 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1d0b7XYovD1YiOeRxYpi8q"
-      },
-      "artists": [
-        {
-          "name": "Bia Bosco",
-          "url": "https://open.spotify.com/artist/5Wc1XC9J5T1vCw8NsUt2OK"
-        }
-      ],
-      "duration_ms": 196994,
-      "name": "Casquinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ckk9S24edg9VDFwZPT1AJ"
-    },
-    {
-      "added_at": "2026-08-14 03:00:56",
-      "album": {
         "name": "Rastros",
         "url": "https://open.spotify.com/album/4kNt9qMV9sqePGrj9uUKD9"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 171684,
       "name": "Rastros",
       "url": "https://open.spotify.com/track/25X7VcSsx26elZFaso3vQv"
+    },
+    {
+      "added_at": "2026-08-14 03:00:56",
+      "album": {
+        "name": "Uma Dose De Cristinas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Fb7dfs5e2HKnyKCk6o9iJ"
+      },
+      "artists": [
+        {
+          "name": "Cristinas",
+          "url": "https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3"
+        }
+      ],
+      "duration_ms": 182218,
+      "name": "Roteiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/2pd1yjPwvUoD05twpG7tuY"
     },
     {
       "added_at": "2026-08-14 03:00:56",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-08-14 03:00:56",
       "album": {
+        "name": "Um Novo Horizonte, Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1d0b7XYovD1YiOeRxYpi8q"
+      },
+      "artists": [
+        {
+          "name": "Bia Bosco",
+          "url": "https://open.spotify.com/artist/5Wc1XC9J5T1vCw8NsUt2OK"
+        }
+      ],
+      "duration_ms": 196994,
+      "name": "Casquinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ckk9S24edg9VDFwZPT1AJ"
+    },
+    {
+      "added_at": "2026-08-14 03:00:56",
+      "album": {
         "name": "Caramelo",
         "url": "https://open.spotify.com/album/4QFrBTDyMSPwqMXyikYA9R"
       },
@@ -675,38 +691,6 @@
       "duration_ms": 132269,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/3GvMsahexvoCTVBGXxBxTu"
-    },
-    {
-      "added_at": "2026-08-14 03:00:56",
-      "album": {
-        "name": "Uma Dose De Cristinas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Fb7dfs5e2HKnyKCk6o9iJ"
-      },
-      "artists": [
-        {
-          "name": "Cristinas",
-          "url": "https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3"
-        }
-      ],
-      "duration_ms": 182218,
-      "name": "Roteiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/2pd1yjPwvUoD05twpG7tuY"
-    },
-    {
-      "added_at": "2026-08-14 03:00:56",
-      "album": {
-        "name": "Da Boca Pra Fora",
-        "url": "https://open.spotify.com/album/6HnNWhAj8UtVGeuldwh9qm"
-      },
-      "artists": [
-        {
-          "name": "Jennifer e Stephany",
-          "url": "https://open.spotify.com/artist/01C18y2QWahmooYkwKs0UP"
-        }
-      ],
-      "duration_ms": 201679,
-      "name": "Da Boca Pra Fora",
-      "url": "https://open.spotify.com/track/6N9jEV2oY4i7FTRsC9GFNw"
     },
     {
       "added_at": "2026-08-14 03:00:56",
@@ -731,6 +715,22 @@
     {
       "added_at": "2026-08-14 03:00:56",
       "album": {
+        "name": "Da Boca Pra Fora",
+        "url": "https://open.spotify.com/album/6HnNWhAj8UtVGeuldwh9qm"
+      },
+      "artists": [
+        {
+          "name": "Jennifer e Stephany",
+          "url": "https://open.spotify.com/artist/01C18y2QWahmooYkwKs0UP"
+        }
+      ],
+      "duration_ms": 201679,
+      "name": "Da Boca Pra Fora",
+      "url": "https://open.spotify.com/track/6N9jEV2oY4i7FTRsC9GFNw"
+    },
+    {
+      "added_at": "2026-08-14 03:00:56",
+      "album": {
         "name": "Atitude (Ao Vivo)",
         "url": "https://open.spotify.com/album/0TcCxLMXhOJmANZu0gnIUK"
       },
@@ -747,6 +747,26 @@
       "duration_ms": 193891,
       "name": "Atitude - Ao Vivo",
       "url": "https://open.spotify.com/track/0TwG7f7nOry9EVTHdPwhqc"
+    },
+    {
+      "added_at": "2026-08-14 03:00:56",
+      "album": {
+        "name": "Cora\u00e7\u00e3o do Bruto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2sHIiUvzJf4QYCZl2BR22I"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e9o e Thiago",
+          "url": "https://open.spotify.com/artist/5ZyTNQsXtSTaBOdPZMkGIT"
+        },
+        {
+          "name": "Pedro Sanchez e Thiago",
+          "url": "https://open.spotify.com/artist/6VBTBqiHqTgZuWflGadSW5"
+        }
+      ],
+      "duration_ms": 182570,
+      "name": "Cora\u00e7\u00e3o do Bruto - Ao Vivo",
+      "url": "https://open.spotify.com/track/7tXRESqmBQk9kd5NeLWDuP"
     },
     {
       "added_at": "2026-08-14 03:00:56",
@@ -803,26 +823,6 @@
       "duration_ms": 149848,
       "name": "Esse Cara N\u00e3o \u00e9 Eu - Ao Vivo",
       "url": "https://open.spotify.com/track/1ZdnEJvySXljXFxnQUuK8S"
-    },
-    {
-      "added_at": "2026-08-14 03:00:56",
-      "album": {
-        "name": "Cora\u00e7\u00e3o do Bruto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2sHIiUvzJf4QYCZl2BR22I"
-      },
-      "artists": [
-        {
-          "name": "Th\u00e9o e Thiago",
-          "url": "https://open.spotify.com/artist/5ZyTNQsXtSTaBOdPZMkGIT"
-        },
-        {
-          "name": "Pedro Sanchez e Thiago",
-          "url": "https://open.spotify.com/artist/6VBTBqiHqTgZuWflGadSW5"
-        }
-      ],
-      "duration_ms": 182570,
-      "name": "Cora\u00e7\u00e3o do Bruto - Ao Vivo",
-      "url": "https://open.spotify.com/track/7tXRESqmBQk9kd5NeLWDuP"
     },
     {
       "added_at": "2026-08-14 03:00:56",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-08-14 03:00:56",
       "album": {
-        "name": "Aqui Tem Sentimento, Ep.3",
-        "url": "https://open.spotify.com/album/3VcU0KNUWCQjGfKf5DGQz8"
-      },
-      "artists": [
-        {
-          "name": "Cleber & Henrique",
-          "url": "https://open.spotify.com/artist/7z48B4UbsaRaEfsRKgqDJk"
-        }
-      ],
-      "duration_ms": 193283,
-      "name": "Adrenalina",
-      "url": "https://open.spotify.com/track/70a5UtwaRBqKE9jcr7s96y"
-    },
-    {
-      "added_at": "2026-08-14 03:00:56",
-      "album": {
         "name": "Amiga Louca (Ao Vivo)",
         "url": "https://open.spotify.com/album/3f4NfTUas92xlPB1oEpc3B"
       },
@@ -1183,22 +1167,6 @@
     {
       "added_at": "2026-08-14 03:00:56",
       "album": {
-        "name": "Os Mi\u00f3 Que T\u00e1 Tendo (Eu S\u00f3 Quero Um Cowboy)",
-        "url": "https://open.spotify.com/album/5IdXGRFrWamNQIyrDWo4e9"
-      },
-      "artists": [
-        {
-          "name": "May e Gabi",
-          "url": "https://open.spotify.com/artist/7Hp5amK5MrJdUFx1r9QrVq"
-        }
-      ],
-      "duration_ms": 125537,
-      "name": "Os Mi\u00f3 Que T\u00e1 Tendo (Eu S\u00f3 Quero Um Cowboy)",
-      "url": "https://open.spotify.com/track/5h4kVsNgCJj8QGbSlVDyq8"
-    },
-    {
-      "added_at": "2026-08-14 03:00:56",
-      "album": {
         "name": "Se Voc\u00ea Come\u00e7ar a Namorar (Ao Vivo)",
         "url": "https://open.spotify.com/album/2q6edaQltFjI0Xlp80aEVu"
       },
@@ -1215,6 +1183,38 @@
       "duration_ms": 173784,
       "name": "Se Voc\u00ea Come\u00e7ar a Namorar - Ao Vivo",
       "url": "https://open.spotify.com/track/5MPUhNwUrHOCIUwRx61IYf"
+    },
+    {
+      "added_at": "2026-08-14 03:00:56",
+      "album": {
+        "name": "Os Mi\u00f3 Que T\u00e1 Tendo (Eu S\u00f3 Quero Um Cowboy)",
+        "url": "https://open.spotify.com/album/5IdXGRFrWamNQIyrDWo4e9"
+      },
+      "artists": [
+        {
+          "name": "May e Gabi",
+          "url": "https://open.spotify.com/artist/7Hp5amK5MrJdUFx1r9QrVq"
+        }
+      ],
+      "duration_ms": 125537,
+      "name": "Os Mi\u00f3 Que T\u00e1 Tendo (Eu S\u00f3 Quero Um Cowboy)",
+      "url": "https://open.spotify.com/track/5h4kVsNgCJj8QGbSlVDyq8"
+    },
+    {
+      "added_at": "2026-08-14 03:00:56",
+      "album": {
+        "name": "Aqui Tem Sentimento, Ep.3",
+        "url": "https://open.spotify.com/album/3VcU0KNUWCQjGfKf5DGQz8"
+      },
+      "artists": [
+        {
+          "name": "Cleber & Henrique",
+          "url": "https://open.spotify.com/artist/7z48B4UbsaRaEfsRKgqDJk"
+        }
+      ],
+      "duration_ms": 193283,
+      "name": "Adrenalina",
+      "url": "https://open.spotify.com/track/70a5UtwaRBqKE9jcr7s96y"
     },
     {
       "added_at": "2026-08-14 03:00:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 
 > Simmer down with this relaxing selection of old and new Reggae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,816 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,951 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 27 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1) | 3:29 |
 | 28 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 |
 | 29 | [Wanted](https://open.spotify.com/track/4F8EDSwqScQxFaLjtScKWO) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Wanted](https://open.spotify.com/album/2LQ3Ts5RzrOV8sqYTV3xqu) | 3:37 |
-| 30 | [Amsterdam](https://open.spotify.com/track/19LXhmESLLMBb6bUJC02uR) | [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK), [Eva Lazarus](https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp) | [Amsterdam](https://open.spotify.com/album/3WVrgqUT8NWgAuicUPcKt0) | 3:58 |
-| 31 | [Buried Alive](https://open.spotify.com/track/0TihbhZf0uXlEcxDj4Fzpi) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 3:52 |
+| 30 | [Buried Alive](https://open.spotify.com/track/0TihbhZf0uXlEcxDj4Fzpi) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 3:52 |
+| 31 | [Amsterdam](https://open.spotify.com/track/19LXhmESLLMBb6bUJC02uR) | [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK), [Eva Lazarus](https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp) | [Amsterdam](https://open.spotify.com/album/3WVrgqUT8NWgAuicUPcKt0) | 3:58 |
 | 32 | [Same So](https://open.spotify.com/track/54Dt888vzNrG90F51f1kSW) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Same So](https://open.spotify.com/album/2TRIUatF5kFierYyXW8zUq) | 3:28 |
 | 33 | [Love And Mercy](https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT) | [Samory I](https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR) | [Love And Mercy](https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62) | 3:27 |
 | 34 | [My Kinda Girl](https://open.spotify.com/track/3ca9aWbM7H6j138sWF4fPG) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Never Ending](https://open.spotify.com/album/6pJrd3qBSNWEeidE1W0Ukd) | 4:14 |

@@ -4,7 +4,7 @@
 
 > This is Carolina Ross\. The essential tracks, all in one playlist.
 
-109 songs - 5 hr 53 min
+110 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Adios Amor](https://open.spotify.com/track/5sF3HxdhvRIIDOd9XwE3rc) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers](https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY) | 3:44 | 2023-03-10 |  |
 | [Apuré Mi Café](https://open.spotify.com/track/1828p0hv042r1LVXgJHSZn) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 3:11 | 2024-06-17 |  |
 | [Apuré Mi Café](https://open.spotify.com/track/3lXFDK6qTIaP8cHKvDHd7O) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Apuré Mi Café](https://open.spotify.com/album/2REMNzHUcsxbQgxdB79wDh) | 3:11 | 2023-03-10 | 2024-06-17 |
+| [Brillas \- En Vivo](https://open.spotify.com/track/7AYMtuw8bNMhFOX3aeHcDM) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Brillas \(En Vivo\)](https://open.spotify.com/album/5nzX5ZtWS9Du9fCZ0T2Fcl) | 3:44 | 2026-08-30 |  |
 | [Buena Señal](https://open.spotify.com/track/4kpAZKCOW56xfDvVBiIJU2) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Buena Señal](https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e) | 3:06 | 2023-03-10 |  |
 | [Cicatrices](https://open.spotify.com/track/3GWHLz1rRWONm8DIsaLOlE) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 2:55 | 2023-03-10 |  |
 | [Coleccionando Corazones](https://open.spotify.com/track/1VscAOiu0sBu2pr1Sw5i5Y) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Coleccionando Corazones](https://open.spotify.com/album/3XWYL4mP1CtFAiX5EwXxJL) | 2:35 | 2025-09-21 | 2026-08-14 |
@@ -82,7 +83,7 @@
 | [Para No Pensar en Ti](https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Para No Pensar en Ti](https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw) | 3:29 | 2023-03-10 | 2024-06-17 |
 | [Para No Pensar En Ti](https://open.spotify.com/track/1cOetj4g4wbYZu6wSe2bJK) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 3:29 | 2024-06-17 |  |
 | [Pena Negra](https://open.spotify.com/track/4Y7b2elmBKXRREiPwuZ3Hh) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Pena Negra](https://open.spotify.com/album/6sS807A3vu79g6Dkbar92U) | 3:00 | 2026-04-26 | 2026-07-08 |
-| [Perro Culazo](https://open.spotify.com/track/29GYeZx8YvcveRxbZkvXzm) | [Chanela Clicka](https://open.spotify.com/artist/2RQCJUGP83CMLYttGm2Ypy), [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Puro Chanela](https://open.spotify.com/album/2gmMeg70Z8lYhk3p4irB7G) | 2:52 | 2026-04-01 |  |
+| [Perro Culazo](https://open.spotify.com/track/29GYeZx8YvcveRxbZkvXzm) | [Chanela Clicka](https://open.spotify.com/artist/2RQCJUGP83CMLYttGm2Ypy), [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Puro Chanela](https://open.spotify.com/album/2gmMeg70Z8lYhk3p4irB7G) | 2:52 | 2026-04-01 | 2026-08-30 |
 | [Por Siempre Mi Amor](https://open.spotify.com/track/6zLXcNShtPIECN9uNjETh6) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 3:07 | 2023-03-10 |  |
 | [Princesa de la Noche](https://open.spotify.com/track/2two6m0LBsrOZWLhsGi7Z4) | [Mori](https://open.spotify.com/artist/32LRzOkIsRVT82iYmLSbBK), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Paul Ruche](https://open.spotify.com/artist/3n6oWHec0thlerlSygmGDQ), [Z GU](https://open.spotify.com/artist/24BR616ycyMUHwcvsmZJjr) | [Princesa de la Noche](https://open.spotify.com/album/0yYpzvECpc7iuJ2sCMfxI5) | 3:15 | 2025-12-16 | 2026-04-30 |
 | [Puñetas Mentales](https://open.spotify.com/track/4M54nkILKhxGO73bEMr3hU) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Puñetas Mentales](https://open.spotify.com/album/2CgMSZgcZAVyhq0vVSk7kn) | 2:19 | 2024-05-17 | 2025-04-17 |

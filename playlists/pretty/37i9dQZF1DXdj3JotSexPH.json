@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 35949,
+  "num_followers": 35943,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "I Only Smoke When I Drink",
+        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "I Only Smoke When I Drink",
+      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "LUNA BALA",
         "url": "https://open.spotify.com/album/2acEAXK1zIr0cPBkIDDJgz"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 124110,
       "name": "LUNA BALA - Slowed",
       "url": "https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "I Only Smoke When I Drink",
-        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "I Only Smoke When I Drink",
-      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "BRODYAGA FUNK",
-        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
-      },
-      "artists": [
-        {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
-        }
-      ],
-      "duration_ms": 134785,
-      "name": "BRODYAGA FUNK",
-      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Butterfly 2026",
         "url": "https://open.spotify.com/album/1lwNp8Fmtac2FTiI1fh3w9"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 164336,
       "name": "Butterfly 2026",
       "url": "https://open.spotify.com/track/1DznCjR8ml1o2j2bEG5kN6"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "BRODYAGA FUNK",
+        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "BRODYAGA FUNK",
+      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Catharina",
-        "url": "https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        }
-      ],
-      "duration_ms": 207288,
-      "name": "Catharina",
-      "url": "https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Weekend Rockstar",
         "url": "https://open.spotify.com/album/6Y6XreGMhHRm3FIqHYjGXF"
       },
@@ -1043,6 +1027,38 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Catharina",
+        "url": "https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "duration_ms": 207288,
+      "name": "Catharina",
+      "url": "https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "He's A Pirate (Save Me)",
         "url": "https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 153125,
       "name": "He's A Pirate (Save Me)",
       "url": "https://open.spotify.com/track/1Vj7ZZgVpNIKqkC2bA9mpx"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "3am - Nic Vans Remix",
-        "url": "https://open.spotify.com/album/3bY6WFZNCsRQGunbuoiDol"
-      },
-      "artists": [
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        },
-        {
-          "name": "Nic Vans",
-          "url": "https://open.spotify.com/artist/43mZ0wYdhCElOXuMV71SG4"
-        }
-      ],
-      "duration_ms": 164142,
-      "name": "3am - Nic Vans Remix",
-      "url": "https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "i like the way you kiss me (remixes)",
         "url": "https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 137986,
       "name": "i like the way you kiss me - southstar remix",
       "url": "https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "3am - Nic Vans Remix",
+        "url": "https://open.spotify.com/album/3bY6WFZNCsRQGunbuoiDol"
+      },
+      "artists": [
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        },
+        {
+          "name": "Nic Vans",
+          "url": "https://open.spotify.com/artist/43mZ0wYdhCElOXuMV71SG4"
+        }
+      ],
+      "duration_ms": 164142,
+      "name": "3am - Nic Vans Remix",
+      "url": "https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "SPOOKY",
-        "url": "https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9"
-      },
-      "artists": [
-        {
-          "name": "fennecxx",
-          "url": "https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2"
-        },
-        {
-          "name": "DJ ALEX",
-          "url": "https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL"
-        }
-      ],
-      "duration_ms": 96923,
-      "name": "SPOOKY",
-      "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "girl EDM (disc 1)",
         "url": "https://open.spotify.com/album/25y6RQ7kNtXfELXhT4QfjN"
       },
@@ -1827,6 +1807,26 @@
       "duration_ms": 127634,
       "name": "Angel Music",
       "url": "https://open.spotify.com/track/42oFAKZp13nkMiEkDVGu7Q"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "SPOOKY",
+        "url": "https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9"
+      },
+      "artists": [
+        {
+          "name": "fennecxx",
+          "url": "https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2"
+        },
+        {
+          "name": "DJ ALEX",
+          "url": "https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL"
+        }
+      ],
+      "duration_ms": 96923,
+      "name": "SPOOKY",
+      "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1871,6 +1871,26 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "SATA",
+        "url": "https://open.spotify.com/album/12Z3iZ8cEE8nNJbzR59Fdr"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Rohaan",
+          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+        }
+      ],
+      "duration_ms": 182678,
+      "name": "SATA",
+      "url": "https://open.spotify.com/track/5RDVoCdb0LtcSiYnUG0R4d"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "FREE",
         "url": "https://open.spotify.com/album/1zVywztGQJXkOlWgmLNrsl"
       },
@@ -1895,26 +1915,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "SATA",
-        "url": "https://open.spotify.com/album/12Z3iZ8cEE8nNJbzR59Fdr"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Rohaan",
-          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
-        }
-      ],
-      "duration_ms": 182678,
-      "name": "SATA",
-      "url": "https://open.spotify.com/track/5RDVoCdb0LtcSiYnUG0R4d"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "One Of These Mornings",
         "url": "https://open.spotify.com/album/7kvQPoyI6WuY4lAesXxcdS"
       },
@@ -1927,6 +1927,26 @@
       "duration_ms": 191428,
       "name": "One Of These Mornings",
       "url": "https://open.spotify.com/track/0vsxMd5M3FtFEgPg94uX8z"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 146090,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1951,26 +1971,6 @@
       "duration_ms": 61634,
       "name": "MONTAGEM - PR FUNK",
       "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 146090,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Fuck My Computer",
-        "url": "https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 190577,
-      "name": "Fuck My Computer",
-      "url": "https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "don't need u (i do)",
         "url": "https://open.spotify.com/album/3epbfvjf6vhaKyZ9EzwjkZ"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 171066,
       "name": "don't need u (i do)",
       "url": "https://open.spotify.com/track/1cPDRuKq2ghZrBu1VoktKD"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Fuck My Computer",
+        "url": "https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 190577,
+      "name": "Fuck My Computer",
+      "url": "https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2547,22 +2547,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Welcome To My Crib",
-        "url": "https://open.spotify.com/album/3NAuKs5dqQH4sKwFTh71zq"
-      },
-      "artists": [
-        {
-          "name": "FUCK!LACR\u00c8ME",
-          "url": "https://open.spotify.com/artist/6ORtqnmzscfjstI402S8tc"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Slam It",
-      "url": "https://open.spotify.com/track/1r2lP8B7tBmK1zATKzXO3g"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Kisses (feat. bbyclose)",
         "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
       },
@@ -2583,6 +2567,22 @@
       "duration_ms": 138246,
       "name": "Kisses (feat. bbyclose)",
       "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Welcome To My Crib",
+        "url": "https://open.spotify.com/album/3NAuKs5dqQH4sKwFTh71zq"
+      },
+      "artists": [
+        {
+          "name": "FUCK!LACR\u00c8ME",
+          "url": "https://open.spotify.com/artist/6ORtqnmzscfjstI402S8tc"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Slam It",
+      "url": "https://open.spotify.com/track/1r2lP8B7tBmK1zATKzXO3g"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2915,6 +2915,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "PHONKY TOWN",
+        "url": "https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw"
+      },
+      "artists": [
+        {
+          "name": "PlayaPhonk",
+          "url": "https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D"
+        }
+      ],
+      "duration_ms": 141373,
+      "name": "PHONKY TOWN",
+      "url": "https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "In My Arms (KREAM Remix)",
         "url": "https://open.spotify.com/album/1qXuQg53DXGnNa7MED6azY"
       },
@@ -2951,22 +2967,6 @@
       "duration_ms": 149461,
       "name": "COWBELL WARRIOR!",
       "url": "https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "PHONKY TOWN",
-        "url": "https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw"
-      },
-      "artists": [
-        {
-          "name": "PlayaPhonk",
-          "url": "https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D"
-        }
-      ],
-      "duration_ms": 141373,
-      "name": "PHONKY TOWN",
-      "url": "https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW"
     },
     {
       "added_at": "2026-04-13 15:38:24",

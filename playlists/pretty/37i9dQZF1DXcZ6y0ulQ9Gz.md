@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 
 > The best indie of then and the best of now..\. new Dominic Fike era is upon us.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,284 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,286 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 44 | [Nobody New](https://open.spotify.com/track/3BUc2A0MJ53FHwiy3eohBt) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Nobody New](https://open.spotify.com/album/0CHEK7iHmeB7bZ8lqAsbS3) | 3:35 |
 | 45 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:04 |
 | 46 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
-| 47 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 |
-| 48 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 |
+| 47 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 |
+| 48 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 |
 | 49 | [Can I Call You Tonight?](https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 4:38 |
 | 50 | [Pummeling](https://open.spotify.com/track/0geJWISiZbSXhoSmHqw38T) | [Chastity](https://open.spotify.com/artist/1Pb13vLDNqpaXI88U9t6JG) | [Suffer Summer](https://open.spotify.com/album/5KFCtuKFQkf6kzXTO4vIrX) | 2:28 |
 | 51 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 58 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 |
 | 59 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 |
 | 60 | [First Love/Late Spring](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 4:38 |
-| 61 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 |
-| 62 | [Blame Brett](https://open.spotify.com/track/6twjuBZfRJIZnoHrghzWLk) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:57 |
+| 61 | [Blame Brett](https://open.spotify.com/track/6twjuBZfRJIZnoHrghzWLk) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:57 |
+| 62 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 |
 | 63 | [Fallen Star](https://open.spotify.com/track/60F6pgM6H6miNr5AmjxwjL) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Fallen Star](https://open.spotify.com/album/6GzXN4CWv0p5jIMKRU0ZBZ) | 3:44 |
 | 64 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 |
 | 65 | [The Scythe](https://open.spotify.com/track/4lC5STpnrBm7aXMls2zGqJ) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/3xxkjx6Hgl8sWpNfuqhHtD) | 4:45 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 72 | [Feet Don't Fail Me Now](https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:18 |
 | 73 | [Alaska](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:08 |
 | 74 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 |
-| 75 | [For the First Time](https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:02 |
-| 76 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 |
+| 75 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 |
+| 76 | [For the First Time](https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:02 |
 | 77 | [Trouble](https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 3:45 |
 | 78 | [Perfect Places](https://open.spotify.com/track/7ARveOiD31w2Nq0n5FsSf8) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:41 |
 | 79 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 92 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 |
 | 93 | [Killshot](https://open.spotify.com/track/0LJTfmgOMvlLd0u4HU9twm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [A Little Rhythm and a Wicked Feeling](https://open.spotify.com/album/5OsXAPcYYYNTtkFuuB8TDc) | 3:56 |
 | 94 | [It Runs Through Me \(feat\. De La Soul\)](https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:21 |
-| 95 | [Charcoal Baby](https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 4:02 |
-| 96 | [Free](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:54 |
+| 95 | [Free](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:54 |
+| 96 | [Charcoal Baby](https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 4:02 |
 | 97 | [I Lied \(with August Ponthier\)](https://open.spotify.com/track/7xQg5QTx8eiQnsxEnfynPh) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 3:54 |
 | 98 | [Mama's Boy](https://open.spotify.com/track/65leXqfkdViSssEVN23uYL) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mama's Boy](https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA) | 2:35 |
 | 99 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 |
 | 100 | [2 goélands](https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [2 goélands](https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf) | 2:58 |
 
-Snapshot ID: `AAAAAKfkbJrqIzL5C386nKs3wmz7H0iY`
+Snapshot ID: `AAAAAL3OX0HVc8SerIPkjYDZ1A9kWZpU`

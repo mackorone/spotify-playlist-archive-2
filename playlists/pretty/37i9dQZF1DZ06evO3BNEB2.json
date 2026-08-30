@@ -1,13 +1,29 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40948,
+  "num_followers": 40955,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABcksfkJ1sUc5K/02V0jhOZ",
+  "snapshot_id": "apDPgAAAAABRSGEbX4DTT2ribI1UyLD1",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blanco (Live From The District)",
+        "url": "https://open.spotify.com/album/7kUjBcuDKrr4dpuO4IpkrY"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 376490,
+      "name": "Blanco - Live From The District",
+      "url": "https://open.spotify.com/track/6TarHU68oXLOfXVDt1S7g2"
+    },
     {
       "added_at": null,
       "album": {
@@ -831,30 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Never Visit Me (feat. Wale & Enny)",
-        "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "You Never Visit Me (feat. Wale & Enny)",
-      "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "YSIV",
         "url": "https://open.spotify.com/album/1lyjkFTJ6yxUyNYysWVBo9"
       },
@@ -879,26 +871,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Of Mind (feat. Wale & J'TA)",
-        "url": "https://open.spotify.com/album/04IK5ajZvrJ2oAt9VqBLSX"
+        "name": "You Never Visit Me (feat. Wale & Enny)",
+        "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
       },
       "artists": [
         {
-          "name": "Nino Paid",
-          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
         },
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "J'TA",
-          "url": "https://open.spotify.com/artist/4dstHylx9MVsv0QmpvCLct"
         }
       ],
-      "duration_ms": 217731,
-      "name": "Peace Of Mind (feat. Wale & J'TA)",
-      "url": "https://open.spotify.com/track/7miRYKcr0lYSb0zCRVKc5d"
+      "duration_ms": 264000,
+      "name": "You Never Visit Me (feat. Wale & Enny)",
+      "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
     },
     {
       "added_at": null,
@@ -919,6 +911,30 @@
       "duration_ms": 176506,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/3Nb1HMWhunuQBKfQbtY5oA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace Of Mind (feat. Wale & J'TA)",
+        "url": "https://open.spotify.com/album/04IK5ajZvrJ2oAt9VqBLSX"
+      },
+      "artists": [
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "J'TA",
+          "url": "https://open.spotify.com/artist/4dstHylx9MVsv0QmpvCLct"
+        }
+      ],
+      "duration_ms": 217731,
+      "name": "Peace Of Mind (feat. Wale & J'TA)",
+      "url": "https://open.spotify.com/track/7miRYKcr0lYSb0zCRVKc5d"
     },
     {
       "added_at": null,
@@ -1039,26 +1055,6 @@
       "duration_ms": 201000,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/2SvD4t3gPcDDLYbWCYARy5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Album About Nothing",
-        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 249271,
-      "name": "The Girls on Drugs",
-      "url": "https://open.spotify.com/track/09GCuO9yQH5R1E8HYknrV8"
     }
   ],
   "unique_name": "This Is Wale",

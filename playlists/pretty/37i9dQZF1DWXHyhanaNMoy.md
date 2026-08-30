@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes met Bokoesam! <a href="spotify:genre:0JQ5IMCbQBLqqeHyMt6DHl">Check hier meer zomer aanbevelingen!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,160 likes - 75 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,171 likes - 75 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

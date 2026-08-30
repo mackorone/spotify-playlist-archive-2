@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 215836,
       "name": "Battle Damaged",
       "url": "https://open.spotify.com/track/26XPlS6lDhvL6VAJBHXX1a"
@@ -3276,7 +3276,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -4746,7 +4746,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 177352,
       "name": "Feel the Burn",
       "url": "https://open.spotify.com/track/4M3fdKeOdFbZS7uBbY56Km"
@@ -5966,6 +5966,24 @@
       "duration_ms": 216638,
       "name": "Higher",
       "url": "https://open.spotify.com/track/6f9hQ79p7nDGaG1QJvFOp1"
+    },
+    {
+      "album": {
+        "name": "Hijacked",
+        "url": "https://open.spotify.com/album/3N1VNKkyuc2WkedvrF0lnq"
+      },
+      "artists": [
+        {
+          "name": "Lunar Ruins",
+          "url": "https://open.spotify.com/artist/6WzobMfjrYJ7pBKF4m62rk"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Hijacked",
+      "url": "https://open.spotify.com/track/1njNsQRAsrecpnnCfNWKra"
     },
     {
       "album": {
@@ -8408,7 +8426,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 188625,
       "name": "Man on a Horse",
       "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
@@ -14340,7 +14358,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 86192,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/0RgJgXJvGufFqvqOfVjzdQ"

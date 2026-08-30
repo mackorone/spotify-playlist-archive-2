@@ -1267,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "Roots, Rock, Reggae (Live At The Hammersmith Odeon, London, UK - June 1976)",
+        "url": "https://open.spotify.com/album/7BOZnuMh0OXao3TRQrg8Dh"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248556,
+      "name": "Trenchtown Rock - Live At The Hammersmith Odeon, London, UK - June, 1976",
+      "url": "https://open.spotify.com/track/2tDAKitkEAzVCmiFRGYEj9"
+    },
+    {
+      "album": {
         "name": "Chant Down Babylon",
         "url": "https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7"
       },

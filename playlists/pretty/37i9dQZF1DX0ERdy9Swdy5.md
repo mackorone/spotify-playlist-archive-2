@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 
 > Lo mejor de la década\. En portada: Joe Arroyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,060 likes - 100 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,194 likes - 100 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 95 | [Discúlpeme Señora](https://open.spotify.com/track/1X8CGZ8BzIiCyfFAYHYMKu) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Greatest Hits \(Serie Cristal\)](https://open.spotify.com/album/2zWUGZTsdpLSDIQDasNUv6) | 4:38 |
 | 96 | [Penas Penas](https://open.spotify.com/track/1rBFZSviyShjZuF27YDsbn) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Edición Limitada](https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl) | 5:06 |
 | 97 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 |
-| 98 | [Te Va a Doler](https://open.spotify.com/track/2h6WIOkTPvHSAD7vR6lMSS) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo de Amor](https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL) | 4:52 |
-| 99 | [Lobo Domesticado](https://open.spotify.com/track/3G6Uc9tOzUlz4hYWxm5ZIB) | [Hector Tricoche](https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En) | [Salsa](https://open.spotify.com/album/7vo5EEhq9ddrbu6DdV6dLh) | 4:54 |
+| 98 | [Lobo Domesticado](https://open.spotify.com/track/3G6Uc9tOzUlz4hYWxm5ZIB) | [Hector Tricoche](https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En) | [Salsa](https://open.spotify.com/album/7vo5EEhq9ddrbu6DdV6dLh) | 4:54 |
+| 99 | [Te Va a Doler](https://open.spotify.com/track/2h6WIOkTPvHSAD7vR6lMSS) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo de Amor](https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL) | 4:52 |
 | 100 | [Caricias Prohibidas](https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy) | 5:21 |
 
 Snapshot ID: `AAAAAGQHzfrtiCfLFFcip9WPo9O1JRQZ`

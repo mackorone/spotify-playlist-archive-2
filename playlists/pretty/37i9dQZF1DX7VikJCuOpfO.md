@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Raúl Beltan 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,407 likes - 79 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,416 likes - 79 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 32 | [MIL RAZONES](https://open.spotify.com/track/2Wa2x4jWNGIyWWSc1vg0oa) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [MIL RAZONES](https://open.spotify.com/album/6iYxOAcJG12yCBuNrNY27x) | 2:56 |
 | 33 | [La Perra](https://open.spotify.com/track/2l34uHM6mHVi6glzqRpk3y) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [La Perra](https://open.spotify.com/album/7bsNQ0GpPPiP7mRvOGsCzw) | 3:08 |
 | 34 | [Yo No Se Que Me Paso](https://open.spotify.com/track/3MNuURpGZTS9NvbNFZqWDO) | [Osbaldo Lopez](https://open.spotify.com/artist/1BkSj4IPSrMfdLttjbYj0d) | [Yo No Se Que Me Paso](https://open.spotify.com/album/2O8QiGKmYZ4wQuoL5EY9hk) | 4:48 |
-| 35 | [Culpa Mía](https://open.spotify.com/track/3g6rZd5OcdxsVgYbTDkJv2) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Culpa Mía+ El Mimoso Luis Antonio López](https://open.spotify.com/album/3WYhM3JvuFDIkGRVxP4HL3) | 3:10 |
-| 36 | [⁠Cuatro Caminos](https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Nostalgia](https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr) | 2:29 |
+| 35 | [⁠Cuatro Caminos](https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Nostalgia](https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr) | 2:29 |
+| 36 | [Culpa Mía](https://open.spotify.com/track/3g6rZd5OcdxsVgYbTDkJv2) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Culpa Mía+ El Mimoso Luis Antonio López](https://open.spotify.com/album/3WYhM3JvuFDIkGRVxP4HL3) | 3:10 |
 | 37 | [Vete](https://open.spotify.com/track/4XMpHNazONIhzh3hr2TQmF) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Vete](https://open.spotify.com/album/2MowOz3kjdjFX9zs8BgZvq) | 3:03 |
 | 38 | [Cuando Llegue el Día](https://open.spotify.com/track/5O60WjoCD5egvktd0FK283) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Cuando Llegue el Día](https://open.spotify.com/album/2J5YCv5iMrMXc9R47o92HC) | 3:58 |
 | 39 | [Se Me Va A Pasar](https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Coleccionando Corazones](https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd) | 3:16 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 44 | [Ay Amor](https://open.spotify.com/track/0cDWTsuquJiwFq4PSXhssx) | [Valerio Mela “El Charro De Florencia”](https://open.spotify.com/artist/5BFQpZXeqT75FmJ2cNvtCZ) | [Ay Amor](https://open.spotify.com/album/5iKkWymsKC6daUbogymJ2x) | 2:44 |
 | 45 | [El Adiós Ranchero](https://open.spotify.com/track/6FiCXjItnPGWQ09DIOi1Ml) | [Briseyda Solis](https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi) | [El Adiós Ranchero](https://open.spotify.com/album/39veRp09mMstYyyFFRb4EK) | 2:50 |
 | 46 | [El Conejo De La Luna](https://open.spotify.com/track/4IUi1wu0APhApdPHetqOql) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Mariachi Romanza de Rodrigo Rodriguez](https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL) | [El Conejo De La Luna](https://open.spotify.com/album/2YAGDIX4XNr301XxeHDJS4) | 3:38 |
-| 47 | [Finjamos](https://open.spotify.com/track/1lHC7s7TW9gYePpDLBj0Sy) | [Angela Fonte](https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw) | [Finjamos](https://open.spotify.com/album/2mYgCInNQaJr7Xc5ZtPA9C) | 2:57 |
-| 48 | [Le Hace Falta un Beso](https://open.spotify.com/track/28zdZevsnKflm8GL4z1uwB) | [Emiliano Zahena](https://open.spotify.com/artist/1ENJx96DOgvkeWTzhR0gf6) | [Ebrio de Amor](https://open.spotify.com/album/0wceLScJ01XKGDkHFctkuc) | 2:53 |
+| 47 | [Le Hace Falta un Beso](https://open.spotify.com/track/28zdZevsnKflm8GL4z1uwB) | [Emiliano Zahena](https://open.spotify.com/artist/1ENJx96DOgvkeWTzhR0gf6) | [Ebrio de Amor](https://open.spotify.com/album/0wceLScJ01XKGDkHFctkuc) | 2:53 |
+| 48 | [Finjamos](https://open.spotify.com/track/1lHC7s7TW9gYePpDLBj0Sy) | [Angela Fonte](https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw) | [Finjamos](https://open.spotify.com/album/2mYgCInNQaJr7Xc5ZtPA9C) | 2:57 |
 | 49 | [Una Limosna](https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Una Limosna](https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN) | 2:52 |
 | 50 | [¿POR QUÉ ME HACES LLORAR? \- En Vivo](https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q) | [Despecho Puro \(En Vivo\)](https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW) | 2:53 |
 | 51 | [Traigan Las Otras](https://open.spotify.com/track/5E9oKZMXP4AmH1xqsgeR6I) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Traigan Las Otras](https://open.spotify.com/album/2bmqn5pa7iUHPAsB0GW2Vv) | 3:50 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 57 | [Angelito Sin Alas](https://open.spotify.com/track/3qSXwUNvSMFAfmrs1m4FIp) | [Las Posada](https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll) | [Angelito Sin Alas](https://open.spotify.com/album/1X1ruDoYErT8r1phWKwTI5) | 2:48 |
 | 58 | [Así Fue](https://open.spotify.com/track/5YNlvxFFdcS1Jili8ln0ZP) | [ANDYVERE](https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa) | [Así Fue](https://open.spotify.com/album/7HVzgfaschYlAQZzlenb6g) | 7:06 |
 | 59 | [Me Nace Del Corazón](https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Me Nace Del Corazón](https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr) | 2:44 |
-| 60 | [Este Corazón](https://open.spotify.com/track/6hYcfxnJxSdErfjN61a7db) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Échenle Sal a la Herida](https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E) | 3:19 |
-| 61 | [Pagaré Condena](https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW) | [Juan Pablo Tostado](https://open.spotify.com/artist/4arqPiSaDf0CHApe1QN2Jp) | [Pagaré Condena](https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS) | 2:44 |
+| 60 | [Pagaré Condena](https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW) | [Juan Pablo Tostado](https://open.spotify.com/artist/4arqPiSaDf0CHApe1QN2Jp) | [Pagaré Condena](https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS) | 2:44 |
+| 61 | [Este Corazón](https://open.spotify.com/track/6hYcfxnJxSdErfjN61a7db) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Échenle Sal a la Herida](https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E) | 3:19 |
 | 62 | [Esa Perra Ya Me Mordió](https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Esa Perra Ya Me Mordió](https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC) | 3:30 |
 | 63 | [Que Ganas De No Verte Nunca Más](https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp) | [ANDYVERE](https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa) | [Que Ganas De No Verte Nunca Más](https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw) | 3:29 |
 | 64 | [Playa Sola](https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4) | [Jessi Valente](https://open.spotify.com/artist/42RHynQK9VaFPjO1GLcPKs) | [Playa Sola](https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW) | 2:44 |

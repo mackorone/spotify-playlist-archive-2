@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > New morning mercies\. ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,980 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,003 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 48 | [Breathe](https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Note To Self](https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw) | 2:52 |
 | 49 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
 | 50 | [call My name \(YHWH\)](https://open.spotify.com/track/6C4vYEk9YkITQf8jbYg6Dv) | [Tenroc](https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i) | [call My name \(YHWH\) \- EP](https://open.spotify.com/album/3xkEYvZzLqwHiK8V8IqbhA) | 2:55 |
-| 51 | [Day The Lord Has Made](https://open.spotify.com/track/1CTTmuPgsgi6e0ZgOEPhel) | [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [Day The Lord Has Made](https://open.spotify.com/album/2TIPRkjEJij0dleJPPOFta) | 5:04 |
-| 52 | [The Morning](https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Morning](https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q) | 2:59 |
+| 51 | [The Morning](https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Morning](https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q) | 2:59 |
+| 52 | [Day The Lord Has Made](https://open.spotify.com/track/1CTTmuPgsgi6e0ZgOEPhel) | [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [Day The Lord Has Made](https://open.spotify.com/album/2TIPRkjEJij0dleJPPOFta) | 5:04 |
 | 53 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 |
 | 54 | [Shine On Me](https://open.spotify.com/track/71wENgIM7IF7EtUCyvwIqZ) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Shine On Me](https://open.spotify.com/album/1cUkumqdaoOmyJhI1Nk3Ak) | 3:00 |
 | 55 | [Perfect](https://open.spotify.com/track/7uOKp6a6Vw6qrBA4ct3TJx) | [Mackenzie Phillips](https://open.spotify.com/artist/0Sw7CtJQ5uo1DL8XgQChLY), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Perfect](https://open.spotify.com/album/1LBfbkF1i6ikTkAQNIaQEH) | 3:07 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 71 | [New Day](https://open.spotify.com/track/7ilYm200byu5tpaXE97NVR) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 3:43 |
 | 72 | [Hope Builds \- Live](https://open.spotify.com/track/5z29OLLU0EQq2mSVR44TTE) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Jess Steer](https://open.spotify.com/artist/6nQhS19N2Vi3J3xAVgcgu4) | [Hope Builds \(Live\)](https://open.spotify.com/album/7nqbKIBhttgx5EXg8BW5sD) | 5:43 |
 | 73 | [Pure Gold](https://open.spotify.com/track/4GPfoPbpLppbzVLBIR337i) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Pure Gold](https://open.spotify.com/album/29QjD47g5WsFp4H7RlxyRJ) | 2:17 |
-| 74 | [Good Morning](https://open.spotify.com/track/6mNzOxAo1XXonb5JVrH8su) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Good Morning](https://open.spotify.com/album/40zAAE7p64axGUzonpLVc3) | 3:34 |
-| 75 | [Makes My Day](https://open.spotify.com/track/3bqhH2SWF53d9TfQ8B6JcA) | [Cory Montell Scott](https://open.spotify.com/artist/4yXA1CoD2NZa6wechuaepF), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Makes My Day](https://open.spotify.com/album/6I2CtfYURnq4OXtpEXgEu8) | 4:55 |
+| 74 | [Makes My Day](https://open.spotify.com/track/3bqhH2SWF53d9TfQ8B6JcA) | [Cory Montell Scott](https://open.spotify.com/artist/4yXA1CoD2NZa6wechuaepF), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Makes My Day](https://open.spotify.com/album/6I2CtfYURnq4OXtpEXgEu8) | 4:55 |
+| 75 | [Good Morning](https://open.spotify.com/track/6mNzOxAo1XXonb5JVrH8su) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Good Morning](https://open.spotify.com/album/40zAAE7p64axGUzonpLVc3) | 3:34 |
 | 76 | [Power \- Acoustic](https://open.spotify.com/track/3XwxvufJ0ve4BdOOCJ5OEb) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [Meditations](https://open.spotify.com/album/7emwnr2wmTB84uXqIkMYxk) | 3:18 |
 | 77 | [Sunday Morning](https://open.spotify.com/track/0meZ1wG8nZT8Yw7edBonju) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Sunday Morning](https://open.spotify.com/album/2H6J9gtIWRPJkBwqAq97z6) | 2:19 |
-| 78 | [Joy Comes](https://open.spotify.com/track/11cM33H4S1YN6iSjB7uAvQ) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Joy Comes](https://open.spotify.com/album/6zZi74NcUwGK0uX7lvnACy) | 3:51 |
-| 79 | [Good Morning](https://open.spotify.com/track/2A4gRO5i9fZvmS5rRyVRhF) | [Jubril](https://open.spotify.com/artist/14wFCdihbMYV9y8Ba0VtHX) | [Good Morning](https://open.spotify.com/album/5C47DQlpqPQ2tBIWOlmkGB) | 2:25 |
+| 78 | [Good Morning](https://open.spotify.com/track/2A4gRO5i9fZvmS5rRyVRhF) | [Jubril](https://open.spotify.com/artist/14wFCdihbMYV9y8Ba0VtHX) | [Good Morning](https://open.spotify.com/album/5C47DQlpqPQ2tBIWOlmkGB) | 2:25 |
+| 79 | [Joy Comes](https://open.spotify.com/track/11cM33H4S1YN6iSjB7uAvQ) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Joy Comes](https://open.spotify.com/album/6zZi74NcUwGK0uX7lvnACy) | 3:51 |
 | 80 | [WAKE UP](https://open.spotify.com/track/2xrEND8nyYh9TQjkJoonVQ) | [Kkah$o](https://open.spotify.com/artist/3TmFsLdilzP3JlrhUK2Edp), [RaJan Monroe](https://open.spotify.com/artist/0oF0QUoqa0NGRgXTNtFtkT) | [WAKE UP](https://open.spotify.com/album/6GSCGstsgnXEGlCauEB9Xi) | 2:30 |
 | 81 | [Surrounded](https://open.spotify.com/track/060RZ3PLJSvIxuxIhFv5gA) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Surrounded](https://open.spotify.com/album/3nN8aSgpM6zDKZEd4Wu7zs) | 3:03 |
 | 82 | [Wake Up \- Remix](https://open.spotify.com/track/4ioFDwWM3lSGDsWr4mFsVp) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6), [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [Wake Up \(Remix\)](https://open.spotify.com/album/2eagZIie0DPIZqDuGiAVOY) | 2:37 |

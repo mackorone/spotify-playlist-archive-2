@@ -1700,7 +1700,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 229604,
       "name": "Case",
       "url": "https://open.spotify.com/track/2irS0WFQGvi1aoJY9hUd6s"
@@ -3274,7 +3274,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 152500,
       "name": "GT Road",
       "url": "https://open.spotify.com/track/3nA63JVZMYAgWizQVGHyQ4"
@@ -5473,6 +5473,28 @@
     },
     {
       "album": {
+        "name": "Lalkare",
+        "url": "https://open.spotify.com/album/1SuDMLLTFub80ckOnlAV1N"
+      },
+      "artists": [
+        {
+          "name": "Ekam Sudhar",
+          "url": "https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy"
+        },
+        {
+          "name": "Desi Trap Music",
+          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185217,
+      "name": "Lalkare",
+      "url": "https://open.spotify.com/track/3dzT9yucqZBfOxOVi6hZx4"
+    },
+    {
+      "album": {
         "name": "Larh Pe Yaar",
         "url": "https://open.spotify.com/album/41di9J1Mu3H3VafK6vGI3E"
       },
@@ -5682,7 +5704,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 155908,
       "name": "Main Viyah Nahi Karona Tere Naal ( From \"Main Viyah Nahi Karona Tere Naal\")",
       "url": "https://open.spotify.com/track/3yrfPnfs9hnxGVZk6DOmNn"

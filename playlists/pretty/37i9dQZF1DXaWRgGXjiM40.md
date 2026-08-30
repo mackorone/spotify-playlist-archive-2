@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,383 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,377 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 32 | [Moça do Espelho \- Acústico](https://open.spotify.com/track/2nMLXtXdcp2BkwPoZzse3C) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Zé Neto & Cristiano \- Acústico](https://open.spotify.com/album/6uthdLP8MEYrgIVCcyAANN) | 2:32 |
 | 33 | [Bagunça Minha Vida \- Ao Vivo Em Goiânia / 2019](https://open.spotify.com/track/33g4LmRrWddOvMLnynSktj) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Bagunça Minha Vida \(Ao Vivo Em Goiânia / 2019\)](https://open.spotify.com/album/6Px1WC9c2hYtmrfu6wPNZ4) | 2:25 |
 | 34 | [Serenata \- Ao Vivo](https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 2:36 |
-| 35 | [Tailândia \- Ao Vivo](https://open.spotify.com/track/3e5sfAnEtKRn0Uhi5uHbVv) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Nostalgia Pura, Vol 1 \(Ao Vivo\)](https://open.spotify.com/album/5U8S1aMPemzdBpm2gjwI8l) | 3:12 |
-| 36 | [Quem É Seu Favorito \- Ao Vivo](https://open.spotify.com/track/7h4XA0Kz2YCKAJNYSdJVdd) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ter Amigos É Melhor Que Ter Dinheiro, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3R8CMeFQ1xbdFDCCIblgqn) | 2:42 |
+| 35 | [Quem É Seu Favorito \- Ao Vivo](https://open.spotify.com/track/7h4XA0Kz2YCKAJNYSdJVdd) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ter Amigos É Melhor Que Ter Dinheiro, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3R8CMeFQ1xbdFDCCIblgqn) | 2:42 |
+| 36 | [Tailândia \- Ao Vivo](https://open.spotify.com/track/3e5sfAnEtKRn0Uhi5uHbVv) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Nostalgia Pura, Vol 1 \(Ao Vivo\)](https://open.spotify.com/album/5U8S1aMPemzdBpm2gjwI8l) | 3:12 |
 | 37 | [Amigo Taxista \- Ao Vivo](https://open.spotify.com/track/6LEFk0KHRfahO5pOMJlbdV) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Um Novo Sonho \(Deluxe\)](https://open.spotify.com/album/2uWVAReCZBKft4bKCDSEMy) | 3:17 |
 | 38 | [Tô Com Moral No Céu! \- Ao Vivo](https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Intensamente Hoje!](https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh) | 2:50 |
 | 39 | [Dia, Lugar e Hora](https://open.spotify.com/track/4404ixp3ApDtyRwje7Kgu4) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [1977](https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww) | 4:11 |

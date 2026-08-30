@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAADRI+CE4v5vjBHyrt+gvsxM",
+  "snapshot_id": "apDPgAAAAADBxjBltWK3w5c7DsOYeEPc",
   "tracks": [
     {
       "added_at": null,
@@ -159,6 +159,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love // Chaos",
+        "url": "https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 186853,
+      "name": "Next Life (feat. Krewella)",
+      "url": "https://open.spotify.com/track/1s9PSUpePBIkHH1hKjFQ32"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Wet",
+        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 211693,
+      "name": "Enjoy the Ride",
+      "url": "https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Song to the Earth",
         "url": "https://open.spotify.com/album/5DZQzPTCPCpLGKQrG9iTPl"
       },
@@ -231,46 +271,6 @@
       "duration_ms": 231679,
       "name": "Love Song to the Earth",
       "url": "https://open.spotify.com/track/2Rbq28aQomoEswOXeK27CE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Wet",
-        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 211693,
-      "name": "Enjoy the Ride",
-      "url": "https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love // Chaos",
-        "url": "https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 186853,
-      "name": "Next Life (feat. Krewella)",
-      "url": "https://open.spotify.com/track/1s9PSUpePBIkHH1hKjFQ32"
     },
     {
       "added_at": null,
@@ -527,6 +527,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alarm",
+        "url": "https://open.spotify.com/album/6CCEPNPiwlWdgs571YhWf5"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 225428,
+      "name": "Alarm",
+      "url": "https://open.spotify.com/track/6ZRenQ13CN0GaOnuKL9QNQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "New World",
         "url": "https://open.spotify.com/album/17eQ3uApRVcrHR14M3RZcK"
       },
@@ -567,22 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alarm",
-        "url": "https://open.spotify.com/album/6CCEPNPiwlWdgs571YhWf5"
+        "name": "Eternal (SATOSHI Remix)",
+        "url": "https://open.spotify.com/album/0198aXZconibXvFhUMXx3x"
       },
       "artists": [
         {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG"
-        },
-        {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "SATOSHI",
+          "url": "https://open.spotify.com/artist/0B2e9vm885JoBB8MoGRUj9"
         }
       ],
-      "duration_ms": 225428,
-      "name": "Alarm",
-      "url": "https://open.spotify.com/track/6ZRenQ13CN0GaOnuKL9QNQ"
+      "duration_ms": 183171,
+      "name": "Eternal - SATOSHI Remix",
+      "url": "https://open.spotify.com/track/47vBxe76ulueekDAfPnMhF"
     },
     {
       "added_at": null,
@@ -615,26 +635,6 @@
       "duration_ms": 186965,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal (SATOSHI Remix)",
-        "url": "https://open.spotify.com/album/0198aXZconibXvFhUMXx3x"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "SATOSHI",
-          "url": "https://open.spotify.com/artist/0B2e9vm885JoBB8MoGRUj9"
-        }
-      ],
-      "duration_ms": 183171,
-      "name": "Eternal - SATOSHI Remix",
-      "url": "https://open.spotify.com/track/47vBxe76ulueekDAfPnMhF"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ammunition",
-        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 206120,
-      "name": "Ammunition",
-      "url": "https://open.spotify.com/track/2z5zyZaP6J9sh74mMKytUo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somewhere to Run",
         "url": "https://open.spotify.com/album/0ncAjnBlT0NZERLH9m0VsR"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 222080,
       "name": "Somewhere to Run",
       "url": "https://open.spotify.com/track/7AeYomUuCNb965CWyfLTjK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ammunition",
+        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 206120,
+      "name": "Ammunition",
+      "url": "https://open.spotify.com/track/2z5zyZaP6J9sh74mMKytUo"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New World Pt. 1",
-        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 191420,
-      "name": "TH2C",
-      "url": "https://open.spotify.com/track/5vnxTBEsJQs090J05EQl7X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "zer0",
         "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 236806,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/3MIDI56fBQenFrMMz2cO7i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New World Pt. 1",
+        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 191420,
+      "name": "TH2C",
+      "url": "https://open.spotify.com/track/5vnxTBEsJQs090J05EQl7X"
     },
     {
       "added_at": null,

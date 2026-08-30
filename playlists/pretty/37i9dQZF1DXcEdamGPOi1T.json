@@ -1,6 +1,6 @@
 {
   "description": "De la vitamine D en musique!",
-  "num_followers": 20856,
+  "num_followers": 20862,
   "original_name": "Sp\u00e9cial soleil",
   "owner": {
     "name": "Spotify",
@@ -377,7 +377,7 @@
         }
       ],
       "duration_ms": 145599,
-      "name": "Black Friday (pretty like the sun)",
+      "name": "Black Friday - pretty like the sun",
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
     },
     {
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
+        "name": "Maladie",
+        "url": "https://open.spotify.com/album/6u6sFuU2jLqnsTHqfQijj3"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/0wuhzkktDMxALsD9kBri80"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
         "name": "Adagio",
         "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
       },
@@ -1171,34 +1187,18 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
-        "name": "C\u0153ur",
-        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
+        "name": "Paysage",
+        "url": "https://open.spotify.com/album/6cafnFIJ0HfFmEOI8w5FgJ"
       },
       "artists": [
         {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
         }
       ],
-      "duration_ms": 227333,
-      "name": "Respire encore",
-      "url": "https://open.spotify.com/track/0n9eeQnvzmMcq0l4DeGWQH"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
-        "name": "Maladie",
-        "url": "https://open.spotify.com/album/6u6sFuU2jLqnsTHqfQijj3"
-      },
-      "artists": [
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Maladie",
-      "url": "https://open.spotify.com/track/0wuhzkktDMxALsD9kBri80"
+      "duration_ms": 172000,
+      "name": "Paysage",
+      "url": "https://open.spotify.com/track/4fTMiWoGKTcFgSROCiYoLA"
     },
     {
       "added_at": "2026-08-28 04:03:37",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
+        "name": "C\u0153ur",
+        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "Respire encore",
+      "url": "https://open.spotify.com/track/0n9eeQnvzmMcq0l4DeGWQH"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
         "name": "ONE TRACK MIND (PART II)",
         "url": "https://open.spotify.com/album/2hIZLwbRnxflIxCTEPzBUh"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 160773,
       "name": "ONE TRACK MIND - PART II",
       "url": "https://open.spotify.com/track/6yMMKhmZVhko8t1Qb0aLp5"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
-        "name": "Paysage",
-        "url": "https://open.spotify.com/album/6cafnFIJ0HfFmEOI8w5FgJ"
-      },
-      "artists": [
-        {
-          "name": "Gradur",
-          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Paysage",
-      "url": "https://open.spotify.com/track/4fTMiWoGKTcFgSROCiYoLA"
     },
     {
       "added_at": "2026-08-28 04:03:37",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
-        "name": "Premiers \u00e9mois",
-        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
-      },
-      "artists": [
-        {
-          "name": "Vendredi sur Mer",
-          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "\u00c9coute Ch\u00e9rie",
-      "url": "https://open.spotify.com/track/1zyUz3eZ3sytdaR9lfW17q"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
         "name": "SAYA",
         "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 209100,
       "name": "..THUS IS WHY ( I DON\u2019T SPRING 4 LOVE )",
       "url": "https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
+        "name": "Premiers \u00e9mois",
+        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "\u00c9coute Ch\u00e9rie",
+      "url": "https://open.spotify.com/track/1zyUz3eZ3sytdaR9lfW17q"
     },
     {
       "added_at": "2026-08-28 04:03:37",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
-        "name": "22h22",
-        "url": "https://open.spotify.com/album/2HdjJqBfxdOKa4LHZB21X8"
-      },
-      "artists": [
-        {
-          "name": "Ariane Moffatt",
-          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
-        }
-      ],
-      "duration_ms": 166120,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/5JgaSkvLDbERK7BkekoQi6"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
         "name": "TIMELESS",
         "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 192017,
       "name": "Video (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
+        "name": "22h22",
+        "url": "https://open.spotify.com/album/2HdjJqBfxdOKa4LHZB21X8"
+      },
+      "artists": [
+        {
+          "name": "Ariane Moffatt",
+          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
+        }
+      ],
+      "duration_ms": 166120,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/5JgaSkvLDbERK7BkekoQi6"
     },
     {
       "added_at": "2026-08-28 04:03:37",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
+        "name": "BOBO (feat. Maud Elka)",
+        "url": "https://open.spotify.com/album/2iEZOJ87JrwsP7HOmcv8Qy"
+      },
+      "artists": [
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        },
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        }
+      ],
+      "duration_ms": 168311,
+      "name": "BOBO (feat. Maud Elka)",
+      "url": "https://open.spotify.com/track/6Jy3euwzBYBWtN0lZwYCie"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
         "name": "Br\u00fbler le feu",
         "url": "https://open.spotify.com/album/7ftWS2YkyqOJvh602ob2l5"
       },
@@ -1687,26 +1707,6 @@
       "duration_ms": 190906,
       "name": "D\u00e9potoir",
       "url": "https://open.spotify.com/track/2d6lf93GHyLwm4TWS0LoAl"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
-        "name": "BOBO (feat. Maud Elka)",
-        "url": "https://open.spotify.com/album/2iEZOJ87JrwsP7HOmcv8Qy"
-      },
-      "artists": [
-        {
-          "name": "Still Fresh",
-          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
-        },
-        {
-          "name": "Maud Elka",
-          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
-        }
-      ],
-      "duration_ms": 168311,
-      "name": "BOBO (feat. Maud Elka)",
-      "url": "https://open.spotify.com/track/6Jy3euwzBYBWtN0lZwYCie"
     },
     {
       "added_at": "2026-08-28 04:03:37",

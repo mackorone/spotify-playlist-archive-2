@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 63 | [In This Lonely Hour](https://open.spotify.com/track/1lYOzU0fzs3yQuhXB9bHlj) | [Delores Hall](https://open.spotify.com/artist/0EpH9VlSM5qidHHnDORvS6) | [Hall\-Mark!!](https://open.spotify.com/album/7vWxgfco70D8I6ZslLZHcd) | 2:34 |
 | 64 | [Best of All the Worst](https://open.spotify.com/track/4goN8Bu1d2tMfXdkrjbtLE) | [Power of Three](https://open.spotify.com/artist/2X9kK2mdRUNiUed2yuhhEI) | [Best Of All The Worst](https://open.spotify.com/album/4J0Wp5xSXKCPBuIrAgo4sz) | 4:04 |
 
-Snapshot ID: `Aca1HgAAAACh0yvD7Zfyswyu3HbQ9hZC`
+Snapshot ID: `Aca6PAAAAACBjvgFyc024rKt5yjsebd6`

@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 85 | [September 21](https://open.spotify.com/track/7K1dTX1ydI3RMXTQU6dkgD) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 1:51 |
 | 86 | [Driftin'](https://open.spotify.com/track/0dkaNSy8kq97d0FW492jrT) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [Nehruvia: Elevators: Act I & II](https://open.spotify.com/album/2RlqdwCaiDJBegO1WbjMrE) | 3:02 |
 | 87 | [Out Of Luck \(feat\. Mariah the Scientist\)](https://open.spotify.com/track/6t2QMkSZRKsg0PXUb3wV4c) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 2:58 |
-| 88 | [IT WAS MEANT 2 B](https://open.spotify.com/track/3AY6Umh7zKCxy5NoftF6cc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [NOTHIN LIKE U / CHANCES](https://open.spotify.com/album/59Vw8BjAmvGYUsPlesp54V) | 4:00 |
-| 89 | [Typically Her \- Kaytranada Edition](https://open.spotify.com/track/73enYVf3Nm3WSmdztzJOjz) | [Beverlay](https://open.spotify.com/artist/0Qlftb3wGkmMwK1m81UdSx) | [Nova Tunes 2.8](https://open.spotify.com/album/3sZtdc5cA6mCQDxqJC6WlQ) | 3:44 |
+| 88 | [Typically Her \- Kaytranada Edition](https://open.spotify.com/track/73enYVf3Nm3WSmdztzJOjz) | [Beverlay](https://open.spotify.com/artist/0Qlftb3wGkmMwK1m81UdSx) | [Nova Tunes 2.8](https://open.spotify.com/album/3sZtdc5cA6mCQDxqJC6WlQ) | 3:44 |
+| 89 | [IT WAS MEANT 2 B](https://open.spotify.com/track/3AY6Umh7zKCxy5NoftF6cc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [NOTHIN LIKE U / CHANCES](https://open.spotify.com/album/59Vw8BjAmvGYUsPlesp54V) | 4:00 |
 | 90 | [Endless Night](https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:27 |
 | 91 | [Live in the Moment \(feat\. GoldLink\)](https://open.spotify.com/track/6dt1vglokVwAR8XuVC9Gnd) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [The Time Is Now \(Expanded Edition\)](https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ) | 3:06 |
 | 92 | [Say Sumthin](https://open.spotify.com/track/6UAaa72nf55kRhyF1SjV4i) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [One Hand on the Future](https://open.spotify.com/album/2iXC1LP13glN7IQrsF7hUI) | 3:46 |
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 188 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
 | 189 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `Aca1FAAAAACdQS/qedgGK076CD2RvtFb`
+Snapshot ID: `Aca6PAAAAABpaBehrR5RXExdE4RZ6UQs`

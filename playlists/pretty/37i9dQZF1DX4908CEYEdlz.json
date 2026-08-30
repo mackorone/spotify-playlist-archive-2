@@ -1,6 +1,6 @@
 {
   "description": "Lan\u00e7amentos de rock que voc\u00ea precisa conhecer, AUMENTA O VOLUME! Foto: Queens of the Stoneage",
-  "num_followers": 904919,
+  "num_followers": 904776,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-07-17 17:11:11",
       "album": {
-        "name": "Free Yourself",
-        "url": "https://open.spotify.com/album/2J0fSkRV4YP3NbYcXBEVu8"
-      },
-      "artists": [
-        {
-          "name": "Karen Di\u00f3",
-          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
-        }
-      ],
-      "duration_ms": 145458,
-      "name": "Free Yourself",
-      "url": "https://open.spotify.com/track/4lG3ZYEFlJBJJWwgp7yL7y"
-    },
-    {
-      "added_at": "2026-07-17 17:11:11",
-      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/2X98AknWzyfvAD2xdf3bDq"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 459120,
       "name": "72 Seasons",
       "url": "https://open.spotify.com/track/45BbECVzn2iQ7iwZMiSnRF"
+    },
+    {
+      "added_at": "2026-07-17 17:11:11",
+      "album": {
+        "name": "Free Yourself",
+        "url": "https://open.spotify.com/album/2J0fSkRV4YP3NbYcXBEVu8"
+      },
+      "artists": [
+        {
+          "name": "Karen Di\u00f3",
+          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
+        }
+      ],
+      "duration_ms": 145458,
+      "name": "Free Yourself",
+      "url": "https://open.spotify.com/track/4lG3ZYEFlJBJJWwgp7yL7y"
     },
     {
       "added_at": "2026-07-17 17:11:11",

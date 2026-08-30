@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,263 likes - 76 songs - 4 hr 35 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,271 likes - 79 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,5 +84,8 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 74 | [Underwater](https://open.spotify.com/track/5YrtHifBNkMY2HYL6kua2r) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Underwater](https://open.spotify.com/album/5O5s0tRNYYi4OgjDvto3Le) | 3:52 |
 | 75 | [Fog of War](https://open.spotify.com/track/1dDx0yQRx5u28M1Fa6DvW9) | [Eric Mann](https://open.spotify.com/artist/35MK4HiXsP320WPxEPPFgk) | [Fog of War](https://open.spotify.com/album/270gN7ziKWO3OAU44OjohS) | 4:06 |
 | 76 | [Sometimes](https://open.spotify.com/track/7facdq3XjlGNKjETWq4D2S) | [SUNSHRD](https://open.spotify.com/artist/4Qhw3YVszSYCJ583d05fkV) | [Studio Session](https://open.spotify.com/album/1RXnxjw9ESq3zz9JMoonMM) | 3:55 |
+| 77 | [Lost](https://open.spotify.com/track/3i6p5Xd3KUc6wVqE0oeWLp) | [Pushing Pluto](https://open.spotify.com/artist/0uTUjIAw0qQDX1thZoEQFQ), [Otonomi](https://open.spotify.com/artist/1m6cQu7gwgCJ9trZ5cgoNV) | [Lost](https://open.spotify.com/album/1NEkjw7DnsLK3i6xtXohyE) | 3:37 |
+| 78 | [Chase the Feeling](https://open.spotify.com/track/5oFYQLAdS7YlQSMl6C2PzT) | [Station 301](https://open.spotify.com/artist/1ApohnXtENC8CFKfOmuoyx) | [Chase the Feeling](https://open.spotify.com/album/3QbZWdf9GH6lOH7wlc8qRa) | 2:35 |
+| 79 | [Falling Behind](https://open.spotify.com/track/79QEpZ2GCWHgBL6L7OugjA) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Falling Behind](https://open.spotify.com/album/3ESOHDThYhkb5hfhikkBqQ) | 2:16 |
 
-Snapshot ID: `AAAG33vTbXEaPUzd6dAhhiS+dSm+wKxd`
+Snapshot ID: `AAAG4uauG7n+I6rDX18OK6HOvqVQUaa7`

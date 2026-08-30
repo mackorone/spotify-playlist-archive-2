@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 
 > 100 canciones de la época nostálgica más reciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,716 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,729 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 | 32 | [Sabrosón](https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 2:54 |
 | 33 | [Loco Un Poco](https://open.spotify.com/track/7dmdwwxTx9aoUsfXbRHIoQ) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Turfshow](https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7) | 3:27 |
 | 34 | [Veneno](https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:08 |
-| 35 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
-| 36 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 |
+| 35 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 |
+| 36 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
 | 37 | [Descontrolado](https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 2:54 |
 | 38 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
 | 39 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 | 62 | [No Me Vuelvo A Enamorar](https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Con La Cumbia En La Sangre](https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp) | 2:51 |
 | 63 | [Quieren bajarme](https://open.spotify.com/track/3XDJemacsxOxdwBjA8Mjw9) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Operacion Damas Gratis](https://open.spotify.com/album/4xM6QpVTidPwR4ohNdJMg9) | 3:39 |
 | 64 | [Solo voy](https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [SHOC](https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz) | 4:15 |
-| 65 | [Primavera 0 \- Remasterizado 2007](https://open.spotify.com/track/2V4aobDkpJD7e36J8xPCL6) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 3:41 |
-| 66 | [No voy a llorar](https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Altos Cumbieros \- Cumbia Villera](https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF) | 3:08 |
+| 65 | [No voy a llorar](https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Altos Cumbieros \- Cumbia Villera](https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF) | 3:08 |
+| 66 | [Primavera 0 \- Remasterizado 2007](https://open.spotify.com/track/2V4aobDkpJD7e36J8xPCL6) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 3:41 |
 | 67 | [Brujería](https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 3:00 |
 | 68 | [Mirá Como Está La Vagancia](https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Sin Remedio](https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT) | 4:59 |
 | 69 | [No Se Llama Amor](https://open.spotify.com/track/7q6HXszBhfxTPHWOxw8ehb) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:07 |
 | 70 | [Amores Como el Nuestro](https://open.spotify.com/track/0D5AiwyGN6UdrGNThCQgC3) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Corazon de Papel \(Edicion Especial Remasterizada\)](https://open.spotify.com/album/3cAjRkxhlPdzmK7jhPT2XU) | 3:16 |
 | 71 | [Duraznito](https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 5:08 |
 | 72 | [Basta de Llamarme Así](https://open.spotify.com/track/2uHzhOP2cyjkWR52u7Z6O0) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Luz Del Ritmo](https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574) | 4:14 |
-| 73 | [Western](https://open.spotify.com/track/2UVXBlqRLUJD60L3unaMyS) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Antihumano](https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz) | 4:08 |
-| 74 | [Viviré por Siempre](https://open.spotify.com/track/5SDPJjP3G1U2ipKcDwvqv8) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Sigue Tu Camino](https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g) | 4:32 |
+| 73 | [Viviré por Siempre](https://open.spotify.com/track/5SDPJjP3G1U2ipKcDwvqv8) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Sigue Tu Camino](https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g) | 4:32 |
+| 74 | [Western](https://open.spotify.com/track/2UVXBlqRLUJD60L3unaMyS) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Antihumano](https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz) | 4:08 |
 | 75 | [Fue Amor](https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:12 |
 | 76 | [Complicado y Aturdido / Mulher de Fases](https://open.spotify.com/track/1EkrLhI0P5Iml6qYHHKk30) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:54 |
 | 77 | [Que No Me Pierda](https://open.spotify.com/track/1hddbV736FaAFxMho50n75) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Un Mundo Diferente](https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf) | 5:05 |

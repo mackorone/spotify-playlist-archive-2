@@ -63,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 170584,
+      "name": "oh yeah?",
+      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All That We Needed",
         "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
       },
@@ -75,6 +91,22 @@
       "duration_ms": 232533,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Whoop",
+        "url": "https://open.spotify.com/album/3LJ8HoyzFM8NA5M1zd7Z5W"
+      },
+      "artists": [
+        {
+          "name": "The Rare Occasions",
+          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
+        }
+      ],
+      "duration_ms": 174182,
+      "name": "Origami",
+      "url": "https://open.spotify.com/track/3qpyxgH65qNhJ9hLS2gWrS"
     },
     {
       "added_at": null,
@@ -95,18 +127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "C U Girl",
-        "url": "https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa"
+        "name": "Asleep Talking",
+        "url": "https://open.spotify.com/album/5zj7gmiu7g1xDyHbs5yUX3"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Magnus Ferrell",
+          "url": "https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe"
         }
       ],
-      "duration_ms": 129697,
-      "name": "C U Girl",
-      "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
+      "duration_ms": 156329,
+      "name": "Asleep Talking",
+      "url": "https://open.spotify.com/track/7CY8b7fwDQfYvlRegNGITC"
     },
     {
       "added_at": null,
@@ -127,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Asleep Talking",
-        "url": "https://open.spotify.com/album/5zj7gmiu7g1xDyHbs5yUX3"
-      },
-      "artists": [
-        {
-          "name": "Magnus Ferrell",
-          "url": "https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe"
-        }
-      ],
-      "duration_ms": 156329,
-      "name": "Asleep Talking",
-      "url": "https://open.spotify.com/track/7CY8b7fwDQfYvlRegNGITC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shut up My Moms Calling (Sped up)",
         "url": "https://open.spotify.com/album/0h2GcVhEPwh1mrRg3MSa3A"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 135529,
       "name": "Shut up My Moms Calling (Sped up)",
       "url": "https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fell Again / Stranger What's Your Name?",
-        "url": "https://open.spotify.com/album/7vtM9KciF7hHUN7bIBegdf"
-      },
-      "artists": [
-        {
-          "name": "cikho",
-          "url": "https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz"
-        }
-      ],
-      "duration_ms": 161764,
-      "name": "Fell Again",
-      "url": "https://open.spotify.com/track/58z3p4Jy4H4mNmUNlL0P4Z"
     },
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fell Again / Stranger What's Your Name?",
+        "url": "https://open.spotify.com/album/7vtM9KciF7hHUN7bIBegdf"
+      },
+      "artists": [
+        {
+          "name": "cikho",
+          "url": "https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz"
+        }
+      ],
+      "duration_ms": 161764,
+      "name": "Fell Again",
+      "url": "https://open.spotify.com/track/58z3p4Jy4H4mNmUNlL0P4Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/4hlLOR9Zd7pmBg2Qb4Dlss"
       },
@@ -203,6 +219,22 @@
       "duration_ms": 133747,
       "name": "Waves",
       "url": "https://open.spotify.com/track/4If7JKEkzeY0WusIrOdQlC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Making Steak",
+        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 198612,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn"
     },
     {
       "added_at": null,
@@ -243,58 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Making Steak",
-        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 203532,
-      "name": "Dancing with my phone",
-      "url": "https://open.spotify.com/track/6ppefZt5uQ62aHAfSa1Jx9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Why Me?",
-        "url": "https://open.spotify.com/album/3dyhRPCr4QEJ2is0hnQrYT"
-      },
-      "artists": [
-        {
-          "name": "Mai Mai",
-          "url": "https://open.spotify.com/artist/2qvaFwkgTp3nMCbAYREjTg"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "Why Me?",
-      "url": "https://open.spotify.com/track/7fuftbX1j5glNZ3977uxxY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 480186,
-      "name": "Cinderella (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "summer nights",
         "url": "https://open.spotify.com/album/3VVJVfnzpJyfETTK8PHxrf"
       },
@@ -327,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paradigm",
+        "url": "https://open.spotify.com/album/3MaikI62Ap7RbrBSE0i4AU"
+      },
+      "artists": [
+        {
+          "name": "Christian Kuria",
+          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
+        }
+      ],
+      "duration_ms": 211522,
+      "name": "Slow Fade",
+      "url": "https://open.spotify.com/track/1iNjMcvGNJ7TSWZfVC6Eeh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm"
       },
@@ -343,50 +339,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "colorblind",
-        "url": "https://open.spotify.com/album/5P0vqIQlY92T0uYUcYw0yI"
+        "name": "goodnight",
+        "url": "https://open.spotify.com/album/4FJquaota2cr4uBEw6xThw"
       },
       "artists": [
         {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+          "name": "demxntia",
+          "url": "https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH"
         }
       ],
-      "duration_ms": 193976,
-      "name": "colorblind",
-      "url": "https://open.spotify.com/track/4o3XxiQ9BljY4OU38zanC0"
+      "duration_ms": 84875,
+      "name": "tonight",
+      "url": "https://open.spotify.com/track/0OrwGH9aeguhopTVubv0VZ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "No Bad Grades",
-        "url": "https://open.spotify.com/album/5BPNYbrxnsSBnXZl9Zt9ey"
+        "name": "The Juice: Vol. II",
+        "url": "https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS"
       },
       "artists": [
         {
-          "name": "Young Roddo",
-          "url": "https://open.spotify.com/artist/5dxav2nP7izQBQYPNjv0CQ"
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
         }
       ],
-      "duration_ms": 111958,
-      "name": "No Bad Grades",
-      "url": "https://open.spotify.com/track/2YXsOWn9HfF7VbahUPDLUA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RIO HOTEL",
-        "url": "https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 201661,
-      "name": "El Momento Perfecto",
-      "url": "https://open.spotify.com/track/7LUepo06YjPnIoDVmiwYlJ"
+      "duration_ms": 189093,
+      "name": "Sundays",
+      "url": "https://open.spotify.com/track/2yj8xbWxfrW8azD7VDQBER"
     },
     {
       "added_at": null,
@@ -411,50 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+        "name": "RIO HOTEL",
+        "url": "https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         }
       ],
-      "duration_ms": 223069,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HEAVEN SENT ME",
-        "url": "https://open.spotify.com/album/0IJxIySqYXoJuOgBJ38ZZW"
-      },
-      "artists": [
-        {
-          "name": "alan vuong",
-          "url": "https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8"
-        }
-      ],
-      "duration_ms": 158804,
-      "name": "TELL 'EM YOU'RE MINE",
-      "url": "https://open.spotify.com/track/1hCUD7CftOpP6GaelGoOkr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Juice: Vol. II",
-        "url": "https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Sundays",
-      "url": "https://open.spotify.com/track/2yj8xbWxfrW8azD7VDQBER"
+      "duration_ms": 201661,
+      "name": "El Momento Perfecto",
+      "url": "https://open.spotify.com/track/7LUepo06YjPnIoDVmiwYlJ"
     },
     {
       "added_at": null,
@@ -475,18 +423,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU"
+        "name": "HEAVEN SENT ME",
+        "url": "https://open.spotify.com/album/0IJxIySqYXoJuOgBJ38ZZW"
       },
       "artists": [
         {
-          "name": "PREP",
-          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
+          "name": "alan vuong",
+          "url": "https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8"
         }
       ],
-      "duration_ms": 226798,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b"
+      "duration_ms": 158804,
+      "name": "TELL 'EM YOU'RE MINE",
+      "url": "https://open.spotify.com/track/1hCUD7CftOpP6GaelGoOkr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
     },
     {
       "added_at": null,
@@ -507,18 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU"
       },
       "artists": [
         {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+          "name": "PREP",
+          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
         }
       ],
-      "duration_ms": 210400,
-      "name": "4Me 4Me",
-      "url": "https://open.spotify.com/track/7uEFboafVLvROPYTqdMi0n"
+      "duration_ms": 226798,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b"
     },
     {
       "added_at": null,
@@ -539,34 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talk2Me",
-        "url": "https://open.spotify.com/album/3QaH6xmZlzDtgvlBdSlvaP"
+        "name": "The Race",
+        "url": "https://open.spotify.com/album/4BTzguyoRmiBkf9KYV60Dy"
       },
       "artists": [
         {
-          "name": "Jackson Laird",
-          "url": "https://open.spotify.com/artist/3wfaQl2GKJEpFHpjFJbw2i"
+          "name": "Chris James",
+          "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
         }
       ],
-      "duration_ms": 187981,
-      "name": "Talk2Me",
-      "url": "https://open.spotify.com/track/1rkQJDZ2ys9tZepdoaAKuw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/4DN44i1YN0uOhQ8XhmdwQ1"
-      },
-      "artists": [
-        {
-          "name": "Bex",
-          "url": "https://open.spotify.com/artist/2PLgHkAWIico5HHJIq5Trl"
-        }
-      ],
-      "duration_ms": 148837,
-      "name": "Suffer",
-      "url": "https://open.spotify.com/track/1rp2VekrJkaJ71HEaQUwAx"
+      "duration_ms": 141562,
+      "name": "The Race",
+      "url": "https://open.spotify.com/track/28Uw7wcsuQQpm5xElRoiww"
     },
     {
       "added_at": null,
@@ -587,18 +535,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Race",
-        "url": "https://open.spotify.com/album/4BTzguyoRmiBkf9KYV60Dy"
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
       },
       "artists": [
         {
-          "name": "Chris James",
-          "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
         }
       ],
-      "duration_ms": 141562,
-      "name": "The Race",
-      "url": "https://open.spotify.com/track/28Uw7wcsuQQpm5xElRoiww"
+      "duration_ms": 210400,
+      "name": "4Me 4Me",
+      "url": "https://open.spotify.com/track/7uEFboafVLvROPYTqdMi0n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cinema 3000",
+        "url": "https://open.spotify.com/album/19B3X62N13gcB2Fyoi7og2"
+      },
+      "artists": [
+        {
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Sweet Release",
+      "url": "https://open.spotify.com/track/3e0mTdrvtD4jlzwlSGUBXB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talk2Me",
+        "url": "https://open.spotify.com/album/3QaH6xmZlzDtgvlBdSlvaP"
+      },
+      "artists": [
+        {
+          "name": "Jackson Laird",
+          "url": "https://open.spotify.com/artist/3wfaQl2GKJEpFHpjFJbw2i"
+        }
+      ],
+      "duration_ms": 187981,
+      "name": "Talk2Me",
+      "url": "https://open.spotify.com/track/1rkQJDZ2ys9tZepdoaAKuw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "added_at": null,
@@ -619,18 +615,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "I AM. MIXTAPE",
-        "url": "https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6"
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
       "artists": [
         {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 190866,
-      "name": "Stay For A While",
-      "url": "https://open.spotify.com/track/6EtcuY72Byjg0BatJog9GM"
+      "duration_ms": 163866,
+      "name": "YUKON",
+      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Takes Two",
+        "url": "https://open.spotify.com/album/3bTLu0LF1pBSZsZUDohta0"
+      },
+      "artists": [
+        {
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+        }
+      ],
+      "duration_ms": 159012,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/5V7qLbZJNTwaEVbZADqofc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Making Steak",
+        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 203532,
+      "name": "Dancing with my phone",
+      "url": "https://open.spotify.com/track/6ppefZt5uQ62aHAfSa1Jx9"
     },
     {
       "added_at": null,
@@ -667,18 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Making Steak",
-        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
+        "name": "complicated/overrated",
+        "url": "https://open.spotify.com/album/2dLXpSQ6Jm1Aexm3IrYwkJ"
       },
       "artists": [
         {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+          "name": "The Millennial Club",
+          "url": "https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H"
         }
       ],
-      "duration_ms": 202750,
-      "name": "Would You Mind",
-      "url": "https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa"
+      "duration_ms": 148143,
+      "name": "complicated/overrated",
+      "url": "https://open.spotify.com/track/44UGWn9xCTjeHJ2LO52uNT"
     },
     {
       "added_at": null,
@@ -703,82 +731,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+        "name": "Dream Your Life Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
     },
     {
       "added_at": null,
       "album": {
-        "name": "complicated/overrated",
-        "url": "https://open.spotify.com/album/2dLXpSQ6Jm1Aexm3IrYwkJ"
+        "name": "Miss Summer",
+        "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
       },
       "artists": [
         {
-          "name": "The Millennial Club",
-          "url": "https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H"
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
         }
       ],
-      "duration_ms": 148143,
-      "name": "complicated/overrated",
-      "url": "https://open.spotify.com/track/44UGWn9xCTjeHJ2LO52uNT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "YUKON",
-      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cinema 3000",
-        "url": "https://open.spotify.com/album/19B3X62N13gcB2Fyoi7og2"
-      },
-      "artists": [
-        {
-          "name": "Common Saints",
-          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Sweet Release",
-      "url": "https://open.spotify.com/track/3e0mTdrvtD4jlzwlSGUBXB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost On You (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2eHWERdVWjNEqtFNkaqr97"
-      },
-      "artists": [
-        {
-          "name": "LP",
-          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
-        }
-      ],
-      "duration_ms": 302070,
-      "name": "Lost on You - Live at Harvard and Stone",
-      "url": "https://open.spotify.com/track/62PikS8HBJULVrhVHQcPiC"
+      "duration_ms": 162376,
+      "name": "Miss Summer",
+      "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
     },
     {
       "added_at": null,
@@ -803,34 +783,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
-        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+        "name": "If You Had a Soul",
+        "url": "https://open.spotify.com/album/2Go4zw1qrWB7AcypbJ3mIF"
       },
       "artists": [
         {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+          "name": "Movie Monroe",
+          "url": "https://open.spotify.com/artist/4oKWFmhrt5niYQgubvr3Vf"
         }
       ],
-      "duration_ms": 161803,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
+      "duration_ms": 148377,
+      "name": "If You Had a Soul",
+      "url": "https://open.spotify.com/track/5tO0U3AG4FemyKysKdrrpT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dream Your Life Away (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT"
+        "name": "I CHOSE YOU - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0Y0KIyf0KR6qpxiwxzM7KE"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
+      "duration_ms": 199884,
+      "name": "I CHOSE YOU - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/72ldJyZrLBMFHs9WP7xFdI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LET\u2019S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? (DELUXE)",
+        "url": "https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        },
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 224881,
+      "name": "NOW I'M ALONE (feat. Sof\u00eda Vald\u00e9s)",
+      "url": "https://open.spotify.com/track/30G9O0gzkj4w7CbCWOE9eO"
     }
   ],
   "unique_name": "Chill Mix",

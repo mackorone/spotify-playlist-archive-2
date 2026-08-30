@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,888 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,895 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,15 +36,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 26 | [愛上未來的你](https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0) | [我的麥克風](https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX) | 4:01 |
 | 27 | [我會很愛妳](https://open.spotify.com/track/1zMfP7uJhoVAfgiaRfmXHT) | [Jerry Yan](https://open.spotify.com/artist/2WkfI6UZfc7Ohpyba7d086) | [多出來的自由](https://open.spotify.com/album/5ODtcfQN1zzG3KuvyQTbKg) | 3:33 |
 | 28 | [靠很近](https://open.spotify.com/track/5LgXO99ckCKgnGrxpMluIR) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [才華換桃花](https://open.spotify.com/album/2zlOVnOj1NYHYqXVt5FlaD) | 3:37 |
-| 29 | [Make Sense](https://open.spotify.com/track/5fufhzT3tgaMEJTZel4cJT) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX), [焦凡凡](https://open.spotify.com/artist/1vgep0h29N7GekPN4MTOW3) | [Make Sense](https://open.spotify.com/album/42M8HFYWPDvXyk9sXLYeQz) | 2:58 |
-| 30 | [像是中了你的毒](https://open.spotify.com/track/3K9ZM3USNMJOLjJ2xBz6iE) | [Ginger](https://open.spotify.com/artist/4jD5dWcrFo81LgODawZv5k) | [像是中了你的毒](https://open.spotify.com/album/6wKMx1vYfKxc9qa4STUAeA) | 2:54 |
+| 29 | [像是中了你的毒](https://open.spotify.com/track/3K9ZM3USNMJOLjJ2xBz6iE) | [Ginger](https://open.spotify.com/artist/4jD5dWcrFo81LgODawZv5k) | [像是中了你的毒](https://open.spotify.com/album/6wKMx1vYfKxc9qa4STUAeA) | 2:54 |
+| 30 | [Make Sense](https://open.spotify.com/track/5fufhzT3tgaMEJTZel4cJT) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX), [焦凡凡](https://open.spotify.com/artist/1vgep0h29N7GekPN4MTOW3) | [Make Sense](https://open.spotify.com/album/42M8HFYWPDvXyk9sXLYeQz) | 2:58 |
 | 31 | [如果月亮會說話](https://open.spotify.com/track/6i6Lrq6Lkfsjw4WCLOr6zp) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [如果月亮會說話](https://open.spotify.com/album/14Obw8mKb6Ko18PDc9Tkaz) | 3:02 |
 | 32 | [心动决定](https://open.spotify.com/track/5HACRqAqNYbtDObqji9H0r) | [叶琼琳](https://open.spotify.com/artist/4FDdIfrqDV9VCZS237ozYz), [黃禮格](https://open.spotify.com/artist/3VTDEKywxLJxC3WXJIGVGu) | [心动决定](https://open.spotify.com/album/2RDmFXCdQh0lJOPh67BzTv) | 3:23 |
 | 33 | [追光者](https://open.spotify.com/track/6XqSMZVMzLW9whVxxUr98p) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [追光者](https://open.spotify.com/album/0OlLgBOD24qBVkpZwGPTLW) | 3:33 |
 | 34 | [牛奶麵包 \(電視劇《親愛的, 熱愛的》片尾曲\)](https://open.spotify.com/track/43NcYYApDgwXliG1xWaG8h) | [楊紫](https://open.spotify.com/artist/0DN5jjffBgjiDE1REvAzFR) | [牛奶麵包 \(電視劇《親愛的, 熱愛的》片尾曲\)](https://open.spotify.com/album/0bh7YEKdIKMFbQPQCyKsgX) | 3:28 |
 | 35 | [比昨天更想念你](https://open.spotify.com/track/4TxUh6TXsiwrBqj5D1GkFC) | [李宜柏PAULYBLEE](https://open.spotify.com/artist/6rCZx04nawchlA7kTA0c9v) | [比昨天更想念你](https://open.spotify.com/album/5PWabj8sF2Z8vw23XPWBEg) | 3:15 |
-| 36 | [喜歡你比說喜歡你更容易](https://open.spotify.com/track/5tSgmaLq4GjHuyAcs0TCsu) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [喜歡你比說喜歡你更容易](https://open.spotify.com/album/6q3p7QtWtE260uTuw1UJqc) | 4:13 |
-| 37 | [屬於你 \- 電影《一周的朋友》插曲](https://open.spotify.com/track/6aAWv8sFAh1l1buBTUgTWo) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [屬於你 \(電影《一周的朋友》插曲\)](https://open.spotify.com/album/72UbhmRyjQB15aaSkfz6Td) | 2:57 |
+| 36 | [屬於你 \- 電影《一周的朋友》插曲](https://open.spotify.com/track/6aAWv8sFAh1l1buBTUgTWo) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [屬於你 \(電影《一周的朋友》插曲\)](https://open.spotify.com/album/72UbhmRyjQB15aaSkfz6Td) | 2:57 |
+| 37 | [喜歡你比說喜歡你更容易](https://open.spotify.com/track/5tSgmaLq4GjHuyAcs0TCsu) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [喜歡你比說喜歡你更容易](https://open.spotify.com/album/6q3p7QtWtE260uTuw1UJqc) | 4:13 |
 | 38 | [好久不見](https://open.spotify.com/track/1qjkBEqOHZoT95xhEKISLZ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/7oz7WhrdSfsC3GkAUPOzgL) | 4:12 |
 | 39 | [说爱你 \- 男生版](https://open.spotify.com/track/5gP0jJMhvAtHXIn4bekkob) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [说爱你 \(男生版\)](https://open.spotify.com/album/62tQtda36PFAcFqKiYv4Ts) | 3:14 |
 | 40 | [Fall in Love](https://open.spotify.com/track/406KPQqXM4AQlT5KSmFcvG) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Fall in Love](https://open.spotify.com/album/0VVLT0MV0GlFNKLYjxmgP7) | 3:21 |

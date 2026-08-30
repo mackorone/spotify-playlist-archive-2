@@ -1,6 +1,6 @@
 {
   "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: La Mano 1.9, PLK",
-  "num_followers": 23456,
+  "num_followers": 23477,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
@@ -1035,6 +1035,30 @@
     {
       "added_at": "2026-08-28 04:03:34",
       "album": {
+        "name": "Allo Doudou",
+        "url": "https://open.spotify.com/album/46wfAT112nlHK5bOeQIF2U"
+      },
+      "artists": [
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        },
+        {
+          "name": "litleboy lsbeats767",
+          "url": "https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY"
+        },
+        {
+          "name": "Miimii KDS",
+          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
+        }
+      ],
+      "duration_ms": 170681,
+      "name": "Allo Doudou",
+      "url": "https://open.spotify.com/track/7ifMy6is2OsYKY21l12BKk"
+    },
+    {
+      "added_at": "2026-08-28 04:03:34",
+      "album": {
         "name": "Casus Belli",
         "url": "https://open.spotify.com/album/14hA41kJGeJi4MfY3EcMqk"
       },
@@ -1071,30 +1095,6 @@
       "duration_ms": 158776,
       "name": "INCOGNITO",
       "url": "https://open.spotify.com/track/2uoKEakNdnvTGA5YOgQKZx"
-    },
-    {
-      "added_at": "2026-08-28 04:03:34",
-      "album": {
-        "name": "Allo Doudou",
-        "url": "https://open.spotify.com/album/46wfAT112nlHK5bOeQIF2U"
-      },
-      "artists": [
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        },
-        {
-          "name": "litleboy lsbeats767",
-          "url": "https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY"
-        },
-        {
-          "name": "Miimii KDS",
-          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
-        }
-      ],
-      "duration_ms": 170681,
-      "name": "Allo Doudou",
-      "url": "https://open.spotify.com/track/7ifMy6is2OsYKY21l12BKk"
     },
     {
       "added_at": "2026-08-28 04:03:34",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-08-28 04:03:34",
       "album": {
-        "name": "PUBLIC ENEMY",
-        "url": "https://open.spotify.com/album/3YMJMEiT7hO0ggUXoxPVA4"
-      },
-      "artists": [
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 115488,
-      "name": "BLICK",
-      "url": "https://open.spotify.com/track/1CqfEGarqDPhWUKft6Gy9z"
-    },
-    {
-      "added_at": "2026-08-28 04:03:34",
-      "album": {
         "name": "L.T.P",
         "url": "https://open.spotify.com/album/346djqe1ayiS4I67IvgwM5"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 126829,
       "name": "L.T.P",
       "url": "https://open.spotify.com/track/65zLXqR3Odxg5P4BepHoKi"
+    },
+    {
+      "added_at": "2026-08-28 04:03:34",
+      "album": {
+        "name": "PUBLIC ENEMY",
+        "url": "https://open.spotify.com/album/3YMJMEiT7hO0ggUXoxPVA4"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 115488,
+      "name": "BLICK",
+      "url": "https://open.spotify.com/track/1CqfEGarqDPhWUKft6Gy9z"
     },
     {
       "added_at": "2026-08-28 04:03:34",

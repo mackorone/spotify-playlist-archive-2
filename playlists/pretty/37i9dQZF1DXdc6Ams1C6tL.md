@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc6Ams1C6tL.md) - [plain]
 
 > "Rein Me In" is the longest\-running UK number one single of all\-time 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,320 likes - 40 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,263 likes - 40 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

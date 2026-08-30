@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,008 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,012 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 45 | [Nayi Bhor](https://open.spotify.com/track/7cpYb0cqkPhIFX8Rnex93e) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 6:05 |
 | 46 | [Kaadambari](https://open.spotify.com/track/0CIftzAZ6bp9I3UbjgZ1J8) | [Sutej Singh](https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe), [Nandini Srikar](https://open.spotify.com/artist/3oinJWo0iD7MVnojA8R8WP) | [Kaadambari](https://open.spotify.com/album/4FGpHVQk0L8BaVZZRON3h5) | 6:26 |
 | 47 | [Ae Re Chanda, Pt\. 4 \(Tillana\)](https://open.spotify.com/track/4lcm5mQMmq6EypLVSnn3aq) | [Shankar Tucker](https://open.spotify.com/artist/1UUufrixCdzil1guLNM5JR), [Devenderpal Singh](https://open.spotify.com/artist/1jN2Fv5V6wFOU6wRNEod4T) | [Filament](https://open.spotify.com/album/7dF6lWNssoGEMoWEaJexor) | 3:39 |
-| 48 | [Rise of The Knights](https://open.spotify.com/track/5EjL4LtrM3lDolpNfx3oU1) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL), [Jordan Rudess](https://open.spotify.com/artist/1eAj0NmIiXgqpy5aN4GlsS), [John Paul](https://open.spotify.com/artist/7yNLJplNQVIAOTRGCr2bJ0), [Guberan](https://open.spotify.com/artist/41aoe5xYvuCkHHggRXGPka) | [Rise of The Knights](https://open.spotify.com/album/5AMExhxf6b8YIYdrCwoiv7) | 4:42 |
+| 48 | [Echoes from the Margins](https://open.spotify.com/track/7duWqlQB1gOpM5AupXPfWc) | [Rahul Deshpande](https://open.spotify.com/artist/05TsqmnjBF2zgaB11M5tlT), [Samir Bodhi](https://open.spotify.com/artist/2UpPoyTz1pbWWQEvxbYlRk), [Pt\. Ronu Majumdar](https://open.spotify.com/artist/63fTlFkkC12YNGgpfFEKkA), [Pratik Srivastava](https://open.spotify.com/artist/1ioTOJcqbq3nIamjxAa7rA) | [Echoes from the Margins](https://open.spotify.com/album/27iac2Z2C7QTFD1LmfnspP) | 3:48 |
 | 49 | [Jhoomelo \(feat\. Hansa Devi\) \- Maati S1](https://open.spotify.com/track/18obntWwlvtzNEOrVyyJTE) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Raghav & Arjun](https://open.spotify.com/artist/6Q816hDJR1oJMAwQfn2Vot), [Deepak Ramola](https://open.spotify.com/artist/27sLJoziHcUlgivULGSga4), [Hansa Devi](https://open.spotify.com/artist/0Ja0ekncJTeJ9zn1qJ9Fn9) | [Jhoomelo \(feat\. Hansa Devi\) \[Maati S1\]](https://open.spotify.com/album/0GJ7GMjQjOG8Ar0rv1Qvkn) | 4:19 |
 | 50 | [Mere Suron Mein](https://open.spotify.com/track/5CNbIAKBV1kEdObKnqgIwX) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Ajoy Chakrabarty](https://open.spotify.com/artist/2yIEYEbk5C7Sh3t9ggKJAJ) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 6:27 |
 

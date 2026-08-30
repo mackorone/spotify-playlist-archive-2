@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAAkKssprisvXo+1o9myAE67",
+  "snapshot_id": "apDPgAAAAABMWKeLspD3mISNwBD21eje",
   "tracks": [
     {
       "added_at": null,
@@ -108,21 +108,21 @@
       },
       "artists": [
         {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/3ot6fEzKvRrCnWy5BWlnxU"
+        },
+        {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         },
         {
-          "name": "Chink Santana",
-          "url": "https://open.spotify.com/artist/2bm08yVyWSeEOygeQw8USU"
-        },
-        {
-          "name": "Caddillac Tah",
-          "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
+          "name": "Ronny Bumps",
+          "url": "https://open.spotify.com/artist/7ixk3IjGehM3J3LBrmtstu"
         }
       ],
-      "duration_ms": 278200,
-      "name": "Intro (Various Artists/Irv Gotti Presents... The Inc.)",
-      "url": "https://open.spotify.com/track/2nQvUJgNFgvdYGwGtLUUKh"
+      "duration_ms": 233773,
+      "name": "Here We Come",
+      "url": "https://open.spotify.com/track/0TeEO7pnnKr9OnHyfCE3Hg"
     },
     {
       "added_at": null,
@@ -174,19 +174,11 @@
         {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        },
-        {
-          "name": "D.O. Cannons",
-          "url": "https://open.spotify.com/artist/0goZfLP9o3cMDjawhuYfI5"
-        },
-        {
-          "name": "Young Merc",
-          "url": "https://open.spotify.com/artist/6RdgFuRxWjCYZZzUKjFJBG"
         }
       ],
-      "duration_ms": 236680,
-      "name": "Hard Livin'",
-      "url": "https://open.spotify.com/track/7Ekfi0norL9U3umpqrBmXo"
+      "duration_ms": 42826,
+      "name": "Boss - Skit",
+      "url": "https://open.spotify.com/track/2x81bnQVQEqhV0IWIbsMQk"
     },
     {
       "added_at": null,
@@ -196,21 +188,21 @@
       },
       "artists": [
         {
-          "name": "Vita",
-          "url": "https://open.spotify.com/artist/3ot6fEzKvRrCnWy5BWlnxU"
-        },
-        {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         },
         {
-          "name": "Ronny Bumps",
-          "url": "https://open.spotify.com/artist/7ixk3IjGehM3J3LBrmtstu"
+          "name": "Chink Santana",
+          "url": "https://open.spotify.com/artist/2bm08yVyWSeEOygeQw8USU"
+        },
+        {
+          "name": "Caddillac Tah",
+          "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
         }
       ],
-      "duration_ms": 233773,
-      "name": "Here We Come",
-      "url": "https://open.spotify.com/track/0TeEO7pnnKr9OnHyfCE3Hg"
+      "duration_ms": 278200,
+      "name": "Intro (Various Artists/Irv Gotti Presents... The Inc.)",
+      "url": "https://open.spotify.com/track/2nQvUJgNFgvdYGwGtLUUKh"
     },
     {
       "added_at": null,
@@ -242,11 +234,19 @@
         {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        },
+        {
+          "name": "D.O. Cannons",
+          "url": "https://open.spotify.com/artist/0goZfLP9o3cMDjawhuYfI5"
+        },
+        {
+          "name": "Young Merc",
+          "url": "https://open.spotify.com/artist/6RdgFuRxWjCYZZzUKjFJBG"
         }
       ],
-      "duration_ms": 42826,
-      "name": "Boss - Skit",
-      "url": "https://open.spotify.com/track/2x81bnQVQEqhV0IWIbsMQk"
+      "duration_ms": 236680,
+      "name": "Hard Livin'",
+      "url": "https://open.spotify.com/track/7Ekfi0norL9U3umpqrBmXo"
     },
     {
       "added_at": null,

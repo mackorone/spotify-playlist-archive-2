@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 
 > This is Iggy Pop\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,166 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,170 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 24 | [China Girl](https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 5:08 |
 | 25 | [The Whole Woman](https://open.spotify.com/track/6hZmRzlIAOdOMFMx5iOoym) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [ICONOCLASTS](https://open.spotify.com/album/20BKSOzIQSHI4kLQIzPslN) | 4:18 |
 | 26 | [Sixteen](https://open.spotify.com/track/70ZlAJGfC4DesFw4oQ7YZM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 2:26 |
-| 27 | [La vie en rose](https://open.spotify.com/track/3PMFNGb08SzI0lLHL6ti08) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:06 |
-| 28 | [Loves Missing](https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:19 |
-| 29 | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt) | 2:43 |
-| 30 | [Save Me](https://open.spotify.com/track/6o9YhJHVfjEikv4lHAt8ef) | [Joan As Police Woman](https://open.spotify.com/artist/6PBv8t9YTLggA9ZMwpeoqj), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Real Life Evolution](https://open.spotify.com/album/74L4dvdjMnXTwMajarOTNm) | 3:22 |
-| 31 | [Et Si Tu n'existais Pas](https://open.spotify.com/track/0hiwKOnFAJoCXYsniNg5MH) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 3:33 |
-| 32 | [Gardenia](https://open.spotify.com/track/72t2ISFNIeG6oy3SE49u2N) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 4:14 |
+| 27 | [Loves Missing](https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:19 |
+| 28 | [La vie en rose](https://open.spotify.com/track/3PMFNGb08SzI0lLHL6ti08) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:06 |
+| 29 | [Save Me](https://open.spotify.com/track/6o9YhJHVfjEikv4lHAt8ef) | [Joan As Police Woman](https://open.spotify.com/artist/6PBv8t9YTLggA9ZMwpeoqj), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Real Life Evolution](https://open.spotify.com/album/74L4dvdjMnXTwMajarOTNm) | 3:22 |
+| 30 | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt) | 2:43 |
+| 31 | [Gardenia](https://open.spotify.com/track/72t2ISFNIeG6oy3SE49u2N) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 4:14 |
+| 32 | [Et Si Tu n'existais Pas](https://open.spotify.com/track/0hiwKOnFAJoCXYsniNg5MH) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 3:33 |
 | 33 | [Sister Midnight](https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:20 |
 | 34 | [I'll Be Seeing You](https://open.spotify.com/track/4LnKrdv2q8UFdRWyoevN3A) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Clair Obscur](https://open.spotify.com/album/0ccMLn7DlKbdGZWY6ItEmK) | 4:05 |
 | 35 | [Gold \- From The Original Motion Picture Soundtrack "Gold"](https://open.spotify.com/track/04AJSn0D3BHwT8FQ9q5FVp) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Gold \(From The Original Motion Picture Soundtrack "Gold"\)](https://open.spotify.com/album/3Enwyua0EjFqREWX2s2zpE) | 3:12 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 45 | [Tiny Girls](https://open.spotify.com/track/5Jwn7FaCOEvJmiWQACIKZ1) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 3:00 |
 | 46 | [The Pure and the Damned](https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Good Time Original Motion Picture Soundtrack](https://open.spotify.com/album/0m13wlRnDvoHlRiZ9nJBNX) | 4:29 |
 | 47 | [Chocolate Drops](https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 3:58 |
-| 48 | [Sahara](https://open.spotify.com/track/0CDVMkVWF85UFILUYItRX5) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Résistance](https://open.spotify.com/album/05OQHOuoCVgx0h8MA6tT9C) | 3:03 |
-| 49 | [Shades](https://open.spotify.com/track/7FhazKWdLIXBTHOxl6tpjK) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Blah\-Blah\-Blah](https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c) | 5:57 |
+| 48 | [Shades](https://open.spotify.com/track/7FhazKWdLIXBTHOxl6tpjK) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Blah\-Blah\-Blah](https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c) | 5:57 |
+| 49 | [Sahara](https://open.spotify.com/track/0CDVMkVWF85UFILUYItRX5) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Résistance](https://open.spotify.com/album/05OQHOuoCVgx0h8MA6tT9C) | 3:03 |
 | 50 | [La Javanaise](https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:30 |
 
-Snapshot ID: `ao9+AAAAAAAn4QDvjV5ZPAT38nuymyNg`
+Snapshot ID: `apDPgAAAAACa+/Orldkmu88Oy7132Zbe`

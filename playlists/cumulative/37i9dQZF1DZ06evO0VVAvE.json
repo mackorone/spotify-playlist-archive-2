@@ -181,6 +181,28 @@
     },
     {
       "album": {
+        "name": "Chokehold",
+        "url": "https://open.spotify.com/album/6FkqVMy5DhIhsgE3z7Kz76"
+      },
+      "artists": [
+        {
+          "name": "Rhythm Vault",
+          "url": "https://open.spotify.com/artist/3l3a3qtkbnMKKVXyZIXeSS"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Chokehold",
+      "url": "https://open.spotify.com/track/1TjEMCS5Swwh5uPBsLszKh"
+    },
+    {
+      "album": {
         "name": "Dangerous Wavy Baby",
         "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
       },

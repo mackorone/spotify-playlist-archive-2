@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,995 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,997 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 23 | [Ms](https://open.spotify.com/track/0pCTr2E9CtulIwNprituKi) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:58 |
 | 24 | [Willoughby's Interlude](https://open.spotify.com/track/3ugwznRhQxaUD8C5R8AhoG) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 7:27 |
 | 25 | [Night Time](https://open.spotify.com/track/0ibXYHIS1vPqpkm1LoIWZR) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 3:36 |
-| 26 | [I Love Me After You](https://open.spotify.com/track/55Y5p2XyPaYBPGtzj1f9fE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:48 |
-| 27 | [Slither](https://open.spotify.com/track/4zzwmX1ntxHBaFWJahkVTx) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 1:50 |
+| 26 | [Slither](https://open.spotify.com/track/4zzwmX1ntxHBaFWJahkVTx) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 1:50 |
+| 27 | [I Love Me After You](https://open.spotify.com/track/55Y5p2XyPaYBPGtzj1f9fE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:48 |
 | 28 | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX) | [1017 ALYX 9SM](https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/album/47mfwMreABCnlLm7EEtHsB) | 3:22 |
 | 29 | [I'm Always Here](https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [Hurting](https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT) | 3:20 |
 | 30 | [Drink Deep](https://open.spotify.com/track/21sDgrgghtQMdUGsCqGVXI) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 3:51 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 50 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
 | 51 | [My Horror](https://open.spotify.com/track/7qaFdrjVYpKH9lFPaWBBix) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Spirituals](https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo) | 2:36 |
 | 52 | [Physical](https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 4:33 |
-| 53 | [Dead Girls](https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Hazards](https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy) | 3:19 |
-| 54 | [Winter](https://open.spotify.com/track/5h43lSACdvPZAJp9WKJHK0) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 4:12 |
+| 53 | [Winter](https://open.spotify.com/track/5h43lSACdvPZAJp9WKJHK0) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 4:12 |
+| 54 | [Dead Girls](https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Hazards](https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy) | 3:19 |
 | 55 | [Way Past Three](https://open.spotify.com/track/3lWEr9ARqZA5K9v9BS26J2) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Way Past Three](https://open.spotify.com/album/3rmol1Nr87zSljaRpQ2X1z) | 2:42 |
 | 56 | [The Rocky Road to Dublin \- Edit](https://open.spotify.com/track/63RVyGdC323uB3XcEXXyna) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Rocky Road to Dublin \(Edit\)](https://open.spotify.com/album/2OPMFDlOpXdAnC95TS9WUh) | 4:06 |
 | 57 | [Mastermind Specialism](https://open.spotify.com/track/3l15uHUQYJJjtKOvOec5Xc) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 4:41 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 81 | [My Evil](https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:24 |
 | 82 | [Exhaust / Surroundings](https://open.spotify.com/track/1ZxkEYMc2koZHb62qmUBzW) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Toner](https://open.spotify.com/album/1Ut15hcUKgPHMWtUDrbBGq) | 5:40 |
 | 83 | [Brkn](https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu) | [VOID](https://open.spotify.com/artist/4EaGV53TWbseFZafYathL1) | [Brkn](https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G) | 2:59 |
-| 84 | [Whole Lotta Nothing](https://open.spotify.com/track/2fJ8qVt2jxBzbJevlnIEvw) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Whole Lotta Nothing](https://open.spotify.com/album/2pZjqwc0vAhUBINnTmHrd3) | 4:47 |
-| 85 | [Spinning Wheel](https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Spinning Wheel](https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA) | 3:25 |
+| 84 | [Spinning Wheel](https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Spinning Wheel](https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA) | 3:25 |
+| 85 | [Whole Lotta Nothing](https://open.spotify.com/track/2fJ8qVt2jxBzbJevlnIEvw) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Whole Lotta Nothing](https://open.spotify.com/album/2pZjqwc0vAhUBINnTmHrd3) | 4:47 |
 | 86 | [Abandon](https://open.spotify.com/track/2I4HGGLdZsy3LqQn9ndsty) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [All That Is Over](https://open.spotify.com/album/0oqLmxhxIu8moVRQZLfsYQ) | 2:40 |
 | 87 | [Wicked Animal](https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck), [Bobbi Salvör Menuez](https://open.spotify.com/artist/1AJGOgliKuczd24lJOh33J) | [Wicked Animal](https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i) | 4:44 |
 | 88 | [Ecstasy Homosexuality \- Radio Edit](https://open.spotify.com/track/2MUzZxKqu81eIkaGUeEBz1) | [The Irrepressibles](https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s) | [Ecstasy Homosexuality](https://open.spotify.com/album/0BeMgSYDSzivSONx0du1Jz) | 4:00 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 92 | [zi oi 自爱](https://open.spotify.com/track/4Uucg1X9dhLUuRTsRkkI4X) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [a wonderful thing vomits](https://open.spotify.com/album/5IYtAs1OoLPnXbZyX1LBw1) | 4:16 |
 | 93 | [anything at all](https://open.spotify.com/track/2UbB04Qygii9CL3WLdsXvb) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [...and she's still listening](https://open.spotify.com/album/1PQDwOUx0dHqhBsWPeSDMr) | 3:09 |
 | 94 | [Tears In The Typing Pool \[Demo\]](https://open.spotify.com/track/4cFJWQsjExGHzy72SU7LBI) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Tears In The Typing Pool \[Demo\]](https://open.spotify.com/album/68w71VR1Kdxxe7ZKFsFz34) | 2:07 |
-| 95 | [Darp 2 / Exorcism](https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 3:20 |
-| 96 | [Alps](https://open.spotify.com/track/57cfUHZjRwwrIQaMurSIlJ) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [I Don't Know](https://open.spotify.com/album/2cNtBpejkWMdxrN94XuR8z) | 5:30 |
+| 95 | [Alps](https://open.spotify.com/track/57cfUHZjRwwrIQaMurSIlJ) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [I Don't Know](https://open.spotify.com/album/2cNtBpejkWMdxrN94XuR8z) | 5:30 |
+| 96 | [Darp 2 / Exorcism](https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 3:20 |
 | 97 | [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 |
 | 98 | [Little Vampire](https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Head of the Love Club](https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST) | 2:55 |
-| 99 | [Take Me Down \- Nourished by Time Version](https://open.spotify.com/track/3biDGDnL1hdlXTHgLP3s4m) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Take Me Down \(Nourished by Time Version\)](https://open.spotify.com/album/3IixjGRUGeSJtzsA92Ybbr) | 4:03 |
-| 100 | [Black Tuesday](https://open.spotify.com/track/0V7lk9z0lENF1yokswyldF) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo) | [Peaky Blinders: Season 5 \(Original Score\)](https://open.spotify.com/album/4BdTEmyT5pI0OyBzqwQtu2) | 1:32 |
+| 99 | [Black Tuesday](https://open.spotify.com/track/0V7lk9z0lENF1yokswyldF) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo) | [Peaky Blinders: Season 5 \(Original Score\)](https://open.spotify.com/album/4BdTEmyT5pI0OyBzqwQtu2) | 1:32 |
+| 100 | [Take Me Down \- Nourished by Time Version](https://open.spotify.com/track/3biDGDnL1hdlXTHgLP3s4m) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Take Me Down \(Nourished by Time Version\)](https://open.spotify.com/album/3IixjGRUGeSJtzsA92Ybbr) | 4:03 |
 
 Snapshot ID: `AAAAAMuoZNNkv4iE5MVLJ1x+uVA7Cgd9`

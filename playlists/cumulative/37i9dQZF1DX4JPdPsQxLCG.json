@@ -1762,7 +1762,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 177313,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d"
@@ -4914,6 +4914,24 @@
       "duration_ms": 327706,
       "name": "Lost Together - 2012 Remaster",
       "url": "https://open.spotify.com/track/28Ymr4KGQ7yLCKc5llI5Vt"
+    },
+    {
+      "album": {
+        "name": "Love Ruins Everything",
+        "url": "https://open.spotify.com/album/2PytRygBv1qPMv06DJ71Gx"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200466,
+      "name": "Love Ruins Everything",
+      "url": "https://open.spotify.com/track/7EVtAuFIgvaLHMqHGUa3zm"
     },
     {
       "album": {
@@ -8341,6 +8359,24 @@
     },
     {
       "album": {
+        "name": "I Must Be Dreaming",
+        "url": "https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226915,
+      "name": "Tea Time",
+      "url": "https://open.spotify.com/track/31GAlUeCLW7X2wabzWaCYM"
+    },
+    {
+      "album": {
         "name": "Big Blue Sky",
         "url": "https://open.spotify.com/album/0HzlsU77Vr43wJyCIrCwW0"
       },
@@ -9542,7 +9578,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 187786,
       "name": "When the Night Feels My Song",
       "url": "https://open.spotify.com/track/18WtHi9VNpl78API5zsgEX"

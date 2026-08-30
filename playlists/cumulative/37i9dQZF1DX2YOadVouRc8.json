@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "ANGELINA",
+        "url": "https://open.spotify.com/album/0LWe3uTbX8Kb6oBFO6SX3P"
+      },
+      "artists": [
+        {
+          "name": "Mckay",
+          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "ANGELINA",
+      "url": "https://open.spotify.com/track/63HgTd6auz95LJKKW4Hssi"
+    },
+    {
+      "album": {
         "name": "My Darling + Angelus",
         "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
       },
@@ -3156,6 +3174,24 @@
       "duration_ms": 204750,
       "name": "Charm",
       "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
+    },
+    {
+      "album": {
+        "name": "Chaser",
+        "url": "https://open.spotify.com/album/39nOK6AHQW2nv0WE76xUWx"
+      },
+      "artists": [
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Chaser",
+      "url": "https://open.spotify.com/track/47OEfIUDijuWI5mnV4U20H"
     },
     {
       "album": {
@@ -5956,7 +5992,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 122410,
       "name": "Give It Away",
       "url": "https://open.spotify.com/track/7iRTgiAcZ351tKhIrNYwqz"
@@ -6828,7 +6864,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 157241,
       "name": "I'M OK",
       "url": "https://open.spotify.com/track/2f04CjDwGwX0QBHso7qdy5"
@@ -11283,6 +11319,32 @@
     },
     {
       "album": {
+        "name": "Perspe",
+        "url": "https://open.spotify.com/album/39q1Diw7kiA322DpcOLOBF"
+      },
+      "artists": [
+        {
+          "name": "Young Legend",
+          "url": "https://open.spotify.com/artist/4xlH0w88CE65Qi7jE0PLYd"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Fxrtune",
+          "url": "https://open.spotify.com/artist/5FWZoWPhJAzysoaslzFaZF"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Perspe",
+      "url": "https://open.spotify.com/track/5pVFf9ldLYN9cf7v7Swgax"
+    },
+    {
+      "album": {
         "name": "Phenomena",
         "url": "https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7"
       },
@@ -11884,7 +11946,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 172711,
       "name": "Ready",
       "url": "https://open.spotify.com/track/2Md155L5t3ShDWE7lzNYLr"

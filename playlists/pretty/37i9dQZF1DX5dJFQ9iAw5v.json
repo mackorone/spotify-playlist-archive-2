@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 34223,
+  "num_followers": 34226,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
+        "name": "Cinemateca Finlandesa",
+        "url": "https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3"
       },
       "artists": [
         {
-          "name": "Ligia Piro",
-          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
+          "name": "Roxana Amed",
+          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
         },
         {
-          "name": "Lito Vitale",
-          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
+          "name": "Adri\u00e1n Iaies",
+          "url": "https://open.spotify.com/artist/38yosjfq6EXdWuWbLSKulh"
         }
       ],
-      "duration_ms": 301893,
-      "name": "Shape of My Heart",
-      "url": "https://open.spotify.com/track/6BBwufrPMAGPU6VTaPiH7u"
+      "duration_ms": 276640,
+      "name": "Viernes 3AM",
+      "url": "https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -275,22 +275,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Cinemateca Finlandesa",
-        "url": "https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3"
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
       },
       "artists": [
         {
-          "name": "Roxana Amed",
-          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
+          "name": "Ligia Piro",
+          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
         },
         {
-          "name": "Adri\u00e1n Iaies",
-          "url": "https://open.spotify.com/artist/38yosjfq6EXdWuWbLSKulh"
+          "name": "Lito Vitale",
+          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
         }
       ],
-      "duration_ms": 276640,
-      "name": "Viernes 3AM",
-      "url": "https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq"
+      "duration_ms": 301893,
+      "name": "Shape of My Heart",
+      "url": "https://open.spotify.com/track/6BBwufrPMAGPU6VTaPiH7u"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
-      },
-      "artists": [
-        {
-          "name": "Ligia Piro",
-          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
-        }
-      ],
-      "duration_ms": 140213,
-      "name": "I'm Beginning to See the Light",
-      "url": "https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Boticario de Amor",
         "url": "https://open.spotify.com/album/7fYEXYA5tiXJr5xBaDBolL"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 185194,
       "name": "NO LA VI VENIR",
       "url": "https://open.spotify.com/track/5preAnxabWbbG7v1hHWiHj"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
+      },
+      "artists": [
+        {
+          "name": "Ligia Piro",
+          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
+        }
+      ],
+      "duration_ms": 140213,
+      "name": "I'm Beginning to See the Light",
+      "url": "https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -747,30 +747,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Querido Bill : Tributo a Bill Evans",
-        "url": "https://open.spotify.com/album/7hi7JxW5BDVbINzu79QVjQ"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Remus",
-          "url": "https://open.spotify.com/artist/61rgv0cssjbKKpkESSnup3"
-        },
-        {
-          "name": "Manuel Fraga",
-          "url": "https://open.spotify.com/artist/1AR4weKRSJg1NswV2HUjm8"
-        },
-        {
-          "name": "Oscar Giunta",
-          "url": "https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P"
-        }
-      ],
-      "duration_ms": 490280,
-      "name": "Billie's Bounce",
-      "url": "https://open.spotify.com/track/6DF9qquWlMN2bJGeXYOBDc"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "All the Things You Are",
         "url": "https://open.spotify.com/album/5Qaoy1qYVfnpwlLJHQ5tJB"
       },
@@ -791,6 +767,30 @@
       "duration_ms": 408293,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/7DwkKNQ3dAruurDpRyCHiH"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Querido Bill : Tributo a Bill Evans",
+        "url": "https://open.spotify.com/album/7hi7JxW5BDVbINzu79QVjQ"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Remus",
+          "url": "https://open.spotify.com/artist/61rgv0cssjbKKpkESSnup3"
+        },
+        {
+          "name": "Manuel Fraga",
+          "url": "https://open.spotify.com/artist/1AR4weKRSJg1NswV2HUjm8"
+        },
+        {
+          "name": "Oscar Giunta",
+          "url": "https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P"
+        }
+      ],
+      "duration_ms": 490280,
+      "name": "Billie's Bounce",
+      "url": "https://open.spotify.com/track/6DF9qquWlMN2bJGeXYOBDc"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1299,26 +1299,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Apal\u00e1p!",
-        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
+        "name": "A Bajo y Pa'fuera",
+        "url": "https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N"
       },
       "artists": [
         {
-          "name": "Oscar Giunta Supertr\u00edo!",
-          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
-        },
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        },
-        {
-          "name": "Flavio Romero",
-          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
+          "name": "Sebasti\u00e1n Tozzola",
+          "url": "https://open.spotify.com/artist/7jgPBkRiFn2bXumnpBWR1a"
         }
       ],
-      "duration_ms": 493933,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0"
+      "duration_ms": 146757,
+      "name": "A Bajo y Pa'fuera",
+      "url": "https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1355,18 +1347,26 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "A Bajo y Pa'fuera",
-        "url": "https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N"
+        "name": "Apal\u00e1p!",
+        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Tozzola",
-          "url": "https://open.spotify.com/artist/7jgPBkRiFn2bXumnpBWR1a"
+          "name": "Oscar Giunta Supertr\u00edo!",
+          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
+        },
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        },
+        {
+          "name": "Flavio Romero",
+          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
         }
       ],
-      "duration_ms": 146757,
-      "name": "A Bajo y Pa'fuera",
-      "url": "https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH"
+      "duration_ms": 493933,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0"
     },
     {
       "added_at": "2025-04-14 14:58:34",

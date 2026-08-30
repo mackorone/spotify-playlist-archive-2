@@ -25431,6 +25431,24 @@
     },
     {
       "album": {
+        "name": "Mirakel",
+        "url": "https://open.spotify.com/album/3vYNeWBvpRGwyTDdBjVy4I"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278240,
+      "name": "Mirakel",
+      "url": "https://open.spotify.com/track/4KtrEuk2Trxdyn2NmgTMTN"
+    },
+    {
+      "album": {
         "name": "Misemotional",
         "url": "https://open.spotify.com/album/0EtJROuWrnhxRTm1EjH9RK"
       },
@@ -31860,7 +31878,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 178958,
       "name": "Satan var en \u00e4ngel",
       "url": "https://open.spotify.com/track/1ps4CnpPnbZ45WUY3ZT59X"

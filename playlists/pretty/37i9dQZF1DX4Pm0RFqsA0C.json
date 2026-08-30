@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 11448,
+  "num_followers": 11459,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Let's Go To My Star",
-        "url": "https://open.spotify.com/album/2DGCxLMvM06pMkTOEsx3x6"
-      },
-      "artists": [
-        {
-          "name": "\uc774\uc815\ud604",
-          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "\uc640",
-      "url": "https://open.spotify.com/track/1XrfEfQj3x4XfIM1nxMJJW"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "First Bridge",
         "url": "https://open.spotify.com/album/69x6z028cL1a0boFB82dqK"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 236893,
       "name": "Tears",
       "url": "https://open.spotify.com/track/4NgdVR2U1DJZB80ZQNllbJ"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Let's Go To My Star",
+        "url": "https://open.spotify.com/album/2DGCxLMvM06pMkTOEsx3x6"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc815\ud604",
+          "url": "https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "\uc640",
+      "url": "https://open.spotify.com/track/1XrfEfQj3x4XfIM1nxMJJW"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Black Rainbow",
-        "url": "https://open.spotify.com/album/4cV1aTuPH2uSVlE5626SfX"
-      },
-      "artists": [
-        {
-          "name": "Lee Hyun Woo",
-          "url": "https://open.spotify.com/artist/1W9aLbgLrFbdqS01gR7yWD"
-        }
-      ],
-      "duration_ms": 264739,
-      "name": "\uc2ac\ud514\uc18d\uc5d0\uadf8\ub308\uc9c0\uc6cc\uc57c\ub9cc\ud574",
-      "url": "https://open.spotify.com/track/2Ubn2iM66rwiexA0zh6SxC"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Psy From The Psycho World",
         "url": "https://open.spotify.com/album/1MHlOpXB48S9GqnDqnEb69"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "\uc30d\ub465\uc774 \ud30c\uc6cc",
-        "url": "https://open.spotify.com/album/2Rz5WSnrj1Bvw3j8H7AfLN"
+        "name": "Black Rainbow",
+        "url": "https://open.spotify.com/album/4cV1aTuPH2uSVlE5626SfX"
       },
       "artists": [
         {
-          "name": "\ub7c9\ud604\ub7c9\ud558",
-          "url": "https://open.spotify.com/artist/2KFiocGPkYOBHVP1CF9elk"
+          "name": "Lee Hyun Woo",
+          "url": "https://open.spotify.com/artist/1W9aLbgLrFbdqS01gR7yWD"
         }
       ],
-      "duration_ms": 244271,
-      "name": "\ud559\uad50\ub97c \uc548\uac14\uc5b4",
-      "url": "https://open.spotify.com/track/5Jwc8DEZiU7rmn73how81q"
+      "duration_ms": 264739,
+      "name": "\uc2ac\ud514\uc18d\uc5d0\uadf8\ub308\uc9c0\uc6cc\uc57c\ub9cc\ud574",
+      "url": "https://open.spotify.com/track/2Ubn2iM66rwiexA0zh6SxC"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1099,6 +1083,22 @@
       "duration_ms": 217417,
       "name": "\ud3c9\uc0dd",
       "url": "https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "\uc30d\ub465\uc774 \ud30c\uc6cc",
+        "url": "https://open.spotify.com/album/2Rz5WSnrj1Bvw3j8H7AfLN"
+      },
+      "artists": [
+        {
+          "name": "\ub7c9\ud604\ub7c9\ud558",
+          "url": "https://open.spotify.com/artist/2KFiocGPkYOBHVP1CF9elk"
+        }
+      ],
+      "duration_ms": 244271,
+      "name": "\ud559\uad50\ub97c \uc548\uac14\uc5b4",
+      "url": "https://open.spotify.com/track/5Jwc8DEZiU7rmn73how81q"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1567,6 +1567,38 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
+        "name": "Yangpa Best",
+        "url": "https://open.spotify.com/album/3ABGP2JrFsCzvkfuvSpDDu"
+      },
+      "artists": [
+        {
+          "name": "Yangpa",
+          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
+        }
+      ],
+      "duration_ms": 219271,
+      "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/12vpE3RdDwSy6D8W1Vp5cm"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Best Hits Of Clon 2002",
+        "url": "https://open.spotify.com/album/1SNKbuivXHORpCrMJNkWk6"
+      },
+      "artists": [
+        {
+          "name": "Clon",
+          "url": "https://open.spotify.com/artist/3IvJqVgapy3AMUBmVGrvag"
+        }
+      ],
+      "duration_ms": 188186,
+      "name": "\ub3cc\uc544\uc640",
+      "url": "https://open.spotify.com/track/4RqJZRbBUfBgpIBQRRgNPJ"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
         "name": "\uc774\uc720\uac19\uc9c0 \uc54a\uc740 \uc774\uc720",
         "url": "https://open.spotify.com/album/62H2Sd5Up0rUnftGbRjjuO"
       },
@@ -1579,38 +1611,6 @@
       "duration_ms": 237963,
       "name": "Unreasonable Reason",
       "url": "https://open.spotify.com/track/2FUiNAUxiuHwLFexjh3uFo"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "Buzz Effect",
-        "url": "https://open.spotify.com/album/3pax3J1b9jlG8GHdPQ8QU9"
-      },
-      "artists": [
-        {
-          "name": "BUZZ",
-          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
-        }
-      ],
-      "duration_ms": 283960,
-      "name": "\uac81\uc7c1\uc774",
-      "url": "https://open.spotify.com/track/39G6FVe7Kcwm4AFArODRqt"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "The blue color",
-        "url": "https://open.spotify.com/album/3KPsP8XGvy68voyuMRPJzu"
-      },
-      "artists": [
-        {
-          "name": "\uc5b8\ud0c0\uc774\ud2c0",
-          "url": "https://open.spotify.com/artist/0nOqGVyoTpF3SUOIMZk3v2"
-        }
-      ],
-      "duration_ms": 226716,
-      "name": "\ub0a0\uac1c",
-      "url": "https://open.spotify.com/track/1taUg9YqPZjacpSnJTQJzQ"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Chapter 2",
-        "url": "https://open.spotify.com/album/08kxPGUoGQ4zn1bBTInvHA"
+        "name": "Buzz Effect",
+        "url": "https://open.spotify.com/album/3pax3J1b9jlG8GHdPQ8QU9"
       },
       "artists": [
         {
-          "name": "god",
-          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
+          "name": "BUZZ",
+          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
         }
       ],
-      "duration_ms": 215066,
-      "name": "Friday Night",
-      "url": "https://open.spotify.com/track/6hl3GBSlDJbh5zBUhA3jVU"
+      "duration_ms": 283960,
+      "name": "\uac81\uc7c1\uc774",
+      "url": "https://open.spotify.com/track/39G6FVe7Kcwm4AFArODRqt"
     }
   ],
   "unique_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",

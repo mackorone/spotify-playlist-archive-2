@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Artistas para descubrir 📸 Maia Reficco
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,113 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,116 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 69 | [El Aplauso](https://open.spotify.com/track/4tsVNk3h7QUEz8KhOHPpaY) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [HIJO DEL PAÍS](https://open.spotify.com/album/7wN3L4ddlP7ZaLICrN7SI1) | 3:20 |
 | 70 | [Entre Lazos](https://open.spotify.com/track/1YQ1QK6S5QpfFdbzV74KSj) | [Mariano Brocchini](https://open.spotify.com/artist/0F2RJxdzNxdnAIg43Sh7H2), [MARTIN JOTA YUBRO](https://open.spotify.com/artist/22blB9WFLiajsDgReo97BU) | [Entre Lazos](https://open.spotify.com/album/3tXjgHkdAM7uVRBHZRYgtY) | 3:05 |
 
-Snapshot ID: `AAAAAEKAyuXNKfQ7DO0xnqvAJv3PKyMp`
+Snapshot ID: `AAAAAOvXKavazKREzbXYGs6SqIFyJ34R`

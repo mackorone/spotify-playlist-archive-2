@@ -1,12 +1,12 @@
 {
   "description": "This is Shakira. The essential tracks, all in one playlist.",
-  "num_followers": 1822701,
+  "num_followers": 1822942,
   "original_name": "This Is Shakira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAADuO3FgVP0P1gyQwIoUNS9F",
+  "snapshot_id": "apDPgAAAAADBX5cQ7nf2+9gtpYLdUwyi",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fijaci\u00f3n Oral Volumen 1 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0nM8pby34jgWunNBmoWXxl"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 173746,
+      "name": "D\u00eda de Enero",
+      "url": "https://open.spotify.com/track/2u24GtkbktY3HB3souJdNY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TRANSLATION",
         "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 222522,
       "name": "GIRL LIKE ME",
       "url": "https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fijaci\u00f3n Oral Volumen 1 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0nM8pby34jgWunNBmoWXxl"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 173746,
-      "name": "D\u00eda de Enero",
-      "url": "https://open.spotify.com/track/2u24GtkbktY3HB3souJdNY"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Donde Estas Corazon",
+      "url": "https://open.spotify.com/track/6IGvaQ4aFBjy66TdUurIiA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FIVE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 196474,
       "name": "Deja vu",
       "url": "https://open.spotify.com/track/46HdsiK0uR26B2dY9QPzda"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pies Descalzos",
-        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Donde Estas Corazon",
-      "url": "https://open.spotify.com/track/6IGvaQ4aFBjy66TdUurIiA"
     },
     {
       "added_at": null,
@@ -820,6 +820,10 @@
           "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         },
         {
+          "name": "Pablo L\u00f3pez",
+          "url": "https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ"
+        },
+        {
           "name": "Mal\u00fa",
           "url": "https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR"
         },
@@ -862,10 +866,6 @@
         {
           "name": "Manuel Carrasco",
           "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
-        },
-        {
-          "name": "Pablo L\u00f3pez",
-          "url": "https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ"
         }
       ],
       "duration_ms": 250000,

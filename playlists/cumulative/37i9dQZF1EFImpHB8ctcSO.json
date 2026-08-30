@@ -3430,10 +3430,28 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 252413,
       "name": "Slip and Roll",
       "url": "https://open.spotify.com/track/2EKO7UUCBX6pJ6eJsCB5hq"
+    },
+    {
+      "album": {
+        "name": "Charmer",
+        "url": "https://open.spotify.com/album/7cDFFy8X4ZgsBbQZeT6aUa"
+      },
+      "artists": [
+        {
+          "name": "Aimee Mann",
+          "url": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253413,
+      "name": "Slip and Roll",
+      "url": "https://open.spotify.com/track/7Es6RafvzVCCHKnPjVtI3g"
     },
     {
       "album": {

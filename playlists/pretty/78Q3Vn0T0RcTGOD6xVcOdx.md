@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 502 likes - 58 songs - 3 hr 44 min
+[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 502 likes - 61 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,5 +66,8 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 56 | [Eres Tú](https://open.spotify.com/track/5eE6XuwOh8Y5PhQ9W0OKE5) | [Carmen Ferrer](https://open.spotify.com/artist/359XJlUvw7EUMAGeeGJ5Wk) | [Eres Tú](https://open.spotify.com/album/3QCzmTe5ZqdamwPHdIrwBe) | 3:28 |
 | 57 | [Tu siempre yo](https://open.spotify.com/track/1VzekpDrenZM01GurlUS6n) | [David M.](https://open.spotify.com/artist/5BIPYCEhkHamS9soXgw5wD) | [Tu siempre yo](https://open.spotify.com/album/55uSySpz1Ua0SAKgqSNLf1) | 3:25 |
 | 58 | [Sin Control](https://open.spotify.com/track/6OJ0tbNV5zj9UvyBH43ZuT) | [La Racha](https://open.spotify.com/artist/5JzN6rrSv2tnE1Iau1kThx) | [Sin Control](https://open.spotify.com/album/4o5djTfRbeyWhCr2cZvO4c) | 3:48 |
+| 59 | [WHERE MY HEART BELONGS](https://open.spotify.com/track/6jMVEiP1DVsmQermVsfskg) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [WHERE MY HEART BELONGS](https://open.spotify.com/album/4oy3B9jhaeFdFsoNblxYRU) | 3:43 |
+| 60 | [WAKE UP, WAKE UP THIS IS REAL](https://open.spotify.com/track/5wpNGT7mQ1mSSs2HJdfbg5) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [WAKE UP, WAKE UP THIS IS REAL](https://open.spotify.com/album/7FxLh6BDWM8sunWkhjE9H4) | 3:44 |
+| 61 | [Here, Here We Go Again](https://open.spotify.com/track/1aoS4v22mAUOGH6QSP2kO6) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [Here, Here We Go Again](https://open.spotify.com/album/7Ddr30cVQKX9Ifriov5f15) | 2:44 |
 
-Snapshot ID: `AAACS3P+q57pX8yzTsmy4k397rIjf3FN`
+Snapshot ID: `AAACTsvNzoLi5PtUbht5R1ph3EzGau6n`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 
 > Grandes sucessos dos anos 80 para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,176 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,212 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 65 | [Lanterna Dos Afogados](https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Big Bang](https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm) | 3:09 |
 | 66 | [O Descobridor Dos Sete Mares](https://open.spotify.com/track/6wpDQGn3Gl0j9Wt6D6mYvQ) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [O Descobridor Dos Sete Mares](https://open.spotify.com/album/7Ff0Q5oeEoVKHtxJJoXyId) | 4:25 |
 | 67 | [Sledgehammer](https://open.spotify.com/track/029NqmIySn1kOY305AAhxT) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 5:13 |
-| 68 | [O Astronauta de Mármore \(Starman\)](https://open.spotify.com/track/5zbutV48aKhYIUOdAuGAuX) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Cardume](https://open.spotify.com/album/4wKkE7jcQe8eKT9fMU1puv) | 3:15 |
-| 69 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 |
+| 68 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 |
+| 69 | [O Astronauta de Mármore \(Starman\)](https://open.spotify.com/track/5zbutV48aKhYIUOdAuGAuX) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Cardume](https://open.spotify.com/album/4wKkE7jcQe8eKT9fMU1puv) | 3:15 |
 | 70 | [Big Love \- 2017 Remaster](https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:43 |
 | 71 | [The Killing Moon](https://open.spotify.com/track/35E2eKIEXXnP5q9L51iOAk) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Ocean Rain \(Expanded; 2007 Remaster\)](https://open.spotify.com/album/3V4j1tMdQqpq8nwW02UOiW) | 5:48 |
 | 72 | [Bizarre Love Triangle](https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Brotherhood \(Collector's Edition\)](https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu) | 4:23 |
@@ -92,12 +92,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 82 | [Girls Just Want to Have Fun](https://open.spotify.com/track/7sMGwiS4vOMcz86ZY3vKYM) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [The Best Of The 80's](https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr) | 3:48 |
 | 83 | [Holiday](https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF) | 6:10 |
 | 84 | [The Boy with the Thorn in His Side \- 2011 Remaster](https://open.spotify.com/track/6s1lXoCa6EmIGnr0GrwcJp) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 3:16 |
-| 85 | [Tempos modernos \- Remasterizado em 2001](https://open.spotify.com/track/50OJLsH4w0kKLCkLdhc9TY) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Tempos modernos \(2001 Remasterizado\)](https://open.spotify.com/album/52rgb93JdNoMHwpq4RzJZp) | 4:17 |
+| 85 | [Toda Forma de Amor](https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Toda Forma De Amor](https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ) | 3:45 |
 | 86 | [Ideologia](https://open.spotify.com/track/4s6qyTWg5r4EyOi2QIwM9g) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Ideologia](https://open.spotify.com/album/0EeQ43GyKU8pVTULAlx5be) | 4:05 |
 | 87 | [1999](https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67) | 6:19 |
 | 88 | [Infinita Highway](https://open.spotify.com/track/266WEiJhZI1dNUcOqr7Yzi) | [Engenheiros Do Hawaii](https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7) | [A Revolta Dos Dandis](https://open.spotify.com/album/3EYoZQUIKrDPd1teAZbSsC) | 6:12 |
 | 89 | [Fullgás](https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Fullgás](https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP) | 4:07 |
-| 90 | [Toda Forma de Amor](https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Toda Forma De Amor](https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ) | 3:45 |
+| 90 | [Tempos modernos \- Remasterizado em 2001](https://open.spotify.com/track/50OJLsH4w0kKLCkLdhc9TY) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Tempos modernos \(2001 Remasterizado\)](https://open.spotify.com/album/52rgb93JdNoMHwpq4RzJZp) | 4:17 |
 | 91 | [Sina](https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Luz](https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x) | 5:32 |
 | 92 | [Strangelove](https://open.spotify.com/track/2dQd2qrFB5VtuUMp45G41p) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(Deluxe\)](https://open.spotify.com/album/06we4RiGhODMsbAPWmogy2) | 4:54 |
 | 93 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 2:43 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 95 | [Lança Perfume](https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7) | 5:10 |
 | 96 | [Que Pais É Este](https://open.spotify.com/track/1bqRtNOcT1QiV1j87IoATA) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Que Pais E Este](https://open.spotify.com/album/5dtcavvE7Hy2bmWb2XpiUe) | 2:58 |
 | 97 | [\(I've Had\) The Time of My Life \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/1UvTPXlImVd4jcucK4qJwb) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [LOVE](https://open.spotify.com/album/7KRJ8x3IpetRApZ8LGS2Pi) | 4:49 |
-| 98 | [Lilás](https://open.spotify.com/track/0V0DEGw7N5KlubvARp4VOm) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Lilás](https://open.spotify.com/album/1FbOGgnq17jjkK5CqdgzqX) | 4:43 |
-| 99 | [Marvin \- Ao vivo](https://open.spotify.com/track/0z4fJEy4zHxM4SkPUk5XEX) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Go Back \(Ao vivo\)](https://open.spotify.com/album/3tCFVTX2k0Mtal2vOJlUzm) | 4:21 |
+| 98 | [Marvin \- Ao vivo](https://open.spotify.com/track/0z4fJEy4zHxM4SkPUk5XEX) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Go Back \(Ao vivo\)](https://open.spotify.com/album/3tCFVTX2k0Mtal2vOJlUzm) | 4:21 |
+| 99 | [Lilás](https://open.spotify.com/track/0V0DEGw7N5KlubvARp4VOm) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Lilás](https://open.spotify.com/album/1FbOGgnq17jjkK5CqdgzqX) | 4:43 |
 | 100 | [Vital E Sua Moto](https://open.spotify.com/track/5XKUTawRWuTb8edaGn38gB) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Cinema Mudo](https://open.spotify.com/album/1ufuoCMD2OXmkUYNDeQxPV) | 3:11 |
 
 Snapshot ID: `AAAAAJ0fUl5grOmS8wVzYg2BPUzL3378`

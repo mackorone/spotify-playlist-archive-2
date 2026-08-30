@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Braxton Keith
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,776 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,761 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,15 +62,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 52 | [How Much Beer](https://open.spotify.com/track/4lCfLElvRrGN4HVGg2oH5E) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR), [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Tumbleweed](https://open.spotify.com/album/2ekPtfEo5Pno1k4eiybcty) | 4:34 |
 | 53 | [Chipping Mill](https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 3:20 |
 | 54 | [Spinnin'](https://open.spotify.com/track/0k1MIumc7GxFeiQsKgRBys) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 4:13 |
-| 55 | [Fan of You](https://open.spotify.com/track/2fqB6LSwNdGV1JQC3f8esT) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Fan of You](https://open.spotify.com/album/2EKBJst1lNOakc8jbaSBEv) | 3:41 |
-| 56 | [Shines Through](https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Times Are Changing](https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw) | 3:39 |
+| 55 | [Shines Through](https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Times Are Changing](https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw) | 3:39 |
+| 56 | [Fan of You](https://open.spotify.com/track/2fqB6LSwNdGV1JQC3f8esT) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Fan of You](https://open.spotify.com/album/2EKBJst1lNOakc8jbaSBEv) | 3:41 |
 | 57 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 |
 | 58 | [If You Were Mine](https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [If You Were Mine](https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ) | 3:39 |
 | 59 | [Change The Game](https://open.spotify.com/track/4RTLkBELy9UNoPeOVmjITc) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Change the Game](https://open.spotify.com/album/4Fjn8d1BEOZhlDIoUyZo8K) | 3:28 |
 | 60 | [Nothin But Texas](https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Flyin](https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU) | 4:34 |
 | 61 | [Fort Worth](https://open.spotify.com/track/4fsfmBOOxwMOJ7DzibpfU5) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4), [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Fort Worth](https://open.spotify.com/album/6UoQs8c0c0F9uiJ73jkYd8) | 3:36 |
-| 62 | [Worry is a Sickness](https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Worry is a Sickness](https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf) | 4:14 |
-| 63 | [Ghosts of the Panhandle Wind](https://open.spotify.com/track/04iNvh91y5NoiaaHsfDNuX) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Hard Land](https://open.spotify.com/album/3bfLBgtrzDaYpM4uLwfvbK) | 3:47 |
+| 62 | [Ghosts of the Panhandle Wind](https://open.spotify.com/track/04iNvh91y5NoiaaHsfDNuX) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Hard Land](https://open.spotify.com/album/3bfLBgtrzDaYpM4uLwfvbK) | 3:47 |
+| 63 | [Worry is a Sickness](https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Worry is a Sickness](https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf) | 4:14 |
 | 64 | [Two First Names](https://open.spotify.com/track/2e7x4VTgV0faEfG9MwkHFI) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [When I Write The Song](https://open.spotify.com/album/0GpuzOYTm6vI23eCZV9GRw) | 4:08 |
 | 65 | [She'll Dance For Whiskey \- Landman \- Songs From and Inspired by the Paramount+ Original Series \(Volume I\)](https://open.spotify.com/track/5zxhqSzYH5P0ECHP5UzgtL) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [She'll Dance For Whiskey \[Landman \- Songs From and Inspired by the Paramount+ Original Series \(Volume I\)\]](https://open.spotify.com/album/7gQRSCEwEUpimIawyBcBvG) | 4:47 |
 | 66 | [The Little Things](https://open.spotify.com/track/0yfPThPvlNrnQaOoeoQMDl) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [The Little Things](https://open.spotify.com/album/62iaYGnhb2PL2kzngNGxjO) | 3:38 |

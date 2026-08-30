@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 
 > Feel good, high energy beats to keep you motivated for that every day workout!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,264 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,266 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 | 29 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 |
 | 30 | [Blah Blah Blah](https://open.spotify.com/track/2xkrujtSjZz7EKAYGbIIzH) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Blah Blah Blah](https://open.spotify.com/album/1oqv6oabMXbNpgZ6gmjAIN) | 3:03 |
 | 31 | [Lasting Lover](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Lasting Lover](https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8) | 3:38 |
-| 32 | [Pieces](https://open.spotify.com/track/5H95n43z0KFcXGCEc0ewe1) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Pieces](https://open.spotify.com/album/3UuTomNtncKiqwsZeakbPj) | 3:15 |
-| 33 | [Breathe](https://open.spotify.com/track/6TR0FGw4zhlGbQALN065AI) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Breathe](https://open.spotify.com/album/7c4A33WznTkdnqBEmLsWWF) | 3:14 |
+| 32 | [Breathe](https://open.spotify.com/track/6TR0FGw4zhlGbQALN065AI) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Breathe](https://open.spotify.com/album/7c4A33WznTkdnqBEmLsWWF) | 3:14 |
+| 33 | [Pieces](https://open.spotify.com/track/5H95n43z0KFcXGCEc0ewe1) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Pieces](https://open.spotify.com/album/3UuTomNtncKiqwsZeakbPj) | 3:15 |
 | 34 | [Jerusalema \(feat\. Nomcebo Zikode\) \- Edit](https://open.spotify.com/track/2R7gA9dAHTjASKU0wiTJok) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema \(feat\. Burna Boy & Nomcebo Zikode\) \[Remix\]](https://open.spotify.com/album/1HBjNCWaJ2SzolwRxedA9z) | 3:08 |
 | 35 | [Born To Be Yours](https://open.spotify.com/track/0WVAQaxrT0wsGEG4BCVSn2) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Born To Be Yours](https://open.spotify.com/album/3Nlbg1BHLXDKqQVQ9ErCmg) | 3:13 |
 | 36 | [Intoxicated \- Radio Edit](https://open.spotify.com/track/0dbQ4h3cs8QE5fOPMYdDrX) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [Intoxicated \(Radio Edit\)](https://open.spotify.com/album/0vI4F2iMd1CM9Jw9WQuJyN) | 2:39 |

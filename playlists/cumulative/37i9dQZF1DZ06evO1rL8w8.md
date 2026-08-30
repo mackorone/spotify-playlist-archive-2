@@ -4,7 +4,7 @@
 
 > This is El Komander\. The essential tracks, all in one playlist.
 
-108 songs - 5 hr 14 min
+109 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Borracho Y Escandaloso](https://open.spotify.com/track/429H8FvJH0sHJdD9D8s5ui) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 2:42 | 2024-01-29 | 2025-04-03 |
 | [Caricias de Prepago](https://open.spotify.com/track/0uWw0mXCEq6Doj3lDrtcVD) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Caricias de Prepago](https://open.spotify.com/album/3qCsESB0EryTIoxjn6N0AH) | 2:52 | 2024-07-05 | 2024-10-11 |
 | [Carros Empolvados \(En Vivo\)](https://open.spotify.com/track/4VrBl7rOcXvjIWhfeFniUj) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Desde Zapopan \(En Vivo\)](https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon) | 3:22 | 2025-07-03 | 2025-07-04 |
-| [Carteles Unidos](https://open.spotify.com/track/5s1jaW59HgyU9RSv1z3UNY) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 3:49 | 2025-08-14 |  |
+| [Carteles Unidos](https://open.spotify.com/track/5s1jaW59HgyU9RSv1z3UNY) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 3:49 | 2025-08-14 | 2026-08-30 |
 | [Casí 16](https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Casí 16](https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB) | 3:12 | 2025-12-14 | 2026-05-31 |
 | [Champagne O Cerveza](https://open.spotify.com/track/2RsGtPL49HyVUQIp9cb98S) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Dany El Nise](https://open.spotify.com/artist/5x3F32PI0v0SdjilxDgQt8) | [Champagne O Cerveza](https://open.spotify.com/album/2VopIXebtG4ryyoSORu4QX) | 2:28 | 2024-06-09 | 2024-08-12 |
 | [Como Me Haces Falta \- En Vivo](https://open.spotify.com/track/7eRY3sxx881NHPg0R9zNWr) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde Mis Caballerizas, Vol\. 1](https://open.spotify.com/album/59nx99DdT3xKtSZFw3bZcy) | 4:08 | 2024-09-06 |  |
@@ -73,6 +73,7 @@
 | [Mafia Nueva](https://open.spotify.com/track/6iLTn5x3UzYyPgupyliMkt) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:26 | 2024-01-29 |  |
 | [Malditas Ganas](https://open.spotify.com/track/3xICQbK4Hmb0DGjpDsD83j) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Detras Del Miedo](https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9) | 2:36 | 2024-01-29 |  |
 | [Me Amanezco Con Mi Ex](https://open.spotify.com/track/4fWFkrtNHcRH0F4GAwVzsI) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Los Hnos Rodriguez](https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU) | [Me Amanezco Con Mi Ex](https://open.spotify.com/album/5glzmrZQNMJO3Yv3S4AClz) | 2:24 | 2026-03-14 | 2026-05-16 |
+| [Me Caliento Como Brasa](https://open.spotify.com/track/4m70EqCzc6eCdqEp8TOcLV) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Me Caliento Como Brasa](https://open.spotify.com/album/6v0nDS1Uy9DAahj3w4uVgf) | 2:54 | 2026-08-30 |  |
 | [Me Gustas Mucho \- En Vivo](https://open.spotify.com/track/3kgYtInhlF3Ajcp0OyeFH7) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Desde Zapopan \(En Vivo\)](https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon) | 3:49 | 2024-01-29 |  |
 | [Me Quiero Casar](https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Me Quiero Casar](https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX) | 2:36 | 2024-04-14 | 2025-11-27 |
 | [Mentes Enfermas](https://open.spotify.com/track/3vjoog9RySLE9ZfBeqqGh8) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:17 | 2026-04-07 | 2026-06-09 |

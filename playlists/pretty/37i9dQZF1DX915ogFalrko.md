@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 
 > La playlist à la cool pour accompagner votre dîner !
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,223 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,252 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 19 | [who’s your boyfriend](https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:53 |
 | 20 | [The Fade Out Line](https://open.spotify.com/track/7I1v3hLSDCZK4EdGVokFcj) | [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT), [The Short Straws](https://open.spotify.com/artist/40WhVPjA1Qg7tG8Flxvneq) | [Innerquake](https://open.spotify.com/album/3HzJdKpYy285tTrf5xu5RT) | 3:32 |
 | 21 | [Steal](https://open.spotify.com/track/0pAiyIHt9DyHOjWgF41kp6) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Portraits](https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1) | 3:39 |
-| 22 | [Memories](https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Memories](https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr) | 2:48 |
-| 23 | [Bottle](https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Bottle](https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN) | 4:18 |
+| 22 | [Bottle](https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Bottle](https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN) | 4:18 |
+| 23 | [Memories](https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Memories](https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr) | 2:48 |
 | 24 | [Agitations tropicales](https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Odyssée \- EP](https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA) | 4:08 |
 | 25 | [54\-46 Was My Number](https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [In The Dark](https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto) | 3:24 |
 | 26 | [One song away from crying](https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [One song away from crying](https://open.spotify.com/album/5xQgMsnL5a1SmABhKGhtN3) | 3:39 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 36 | [Shala\-Lala\-La](https://open.spotify.com/track/3fv0dIDalzlgaLRAvaBobT) | [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [la Heidi](https://open.spotify.com/artist/5uaGhmrko7vQ43FKH1V1KT) | [Gran Paradiso](https://open.spotify.com/album/4e8YIEAGQlDLpka8wkiZBM) | 3:15 |
 | 37 | [Save a Little Love for Me](https://open.spotify.com/track/6lqxlJWNaykLli5cIXMf7l) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo), [Ester Rada](https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g) | [Forward](https://open.spotify.com/album/2UCpwkWg7BuHe2bHD0MTfC) | 3:32 |
 | 38 | [East Village](https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr) | 3:31 |
-| 39 | [Mi Negrita](https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Mala](https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca) | 3:24 |
-| 40 | [Where To Start](https://open.spotify.com/track/2bhfHrX4IJzF62XKzqZpPX) | [Lou Doillon](https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q) | [Lay Low](https://open.spotify.com/album/06TZNVLfMrf0vtk0WsYwj4) | 2:46 |
+| 39 | [Where To Start](https://open.spotify.com/track/2bhfHrX4IJzF62XKzqZpPX) | [Lou Doillon](https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q) | [Lay Low](https://open.spotify.com/album/06TZNVLfMrf0vtk0WsYwj4) | 2:46 |
+| 40 | [Mi Negrita](https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Mala](https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca) | 3:24 |
 | 41 | [It Didn't Matter](https://open.spotify.com/track/10kxTiNUTo4nlEbH1EzoX1) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu), [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [It Didn't Matter](https://open.spotify.com/album/3nHipi4hMVyH4Z3VUB6bW5) | 3:37 |
 | 42 | [All Night](https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [All Night](https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td) | 3:16 |
 | 43 | [Out of Time Man](https://open.spotify.com/track/3nFoPHJR1BOSrTl6jKIl1a) | [Mick Harvey](https://open.spotify.com/artist/5RyAbJ3y4yw8EbDcRblB8S) | [Two of Diamonds](https://open.spotify.com/album/7dnieoimvSordFsWN5Dec5) | 2:57 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 82 | [Dark Blue](https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4) | [Christina](https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V) | 2:49 |
 | 83 | [Masterpiece](https://open.spotify.com/track/51AbK2bzLTy7ekHeoSujA1) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [All Back To: Jungle](https://open.spotify.com/album/5x8fi3qqHSWacxluhUNqW1) | 5:44 |
 | 84 | [Superstar](https://open.spotify.com/track/6q62w26Uyzanb0iBu4yZK4) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Superstar](https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt) | 3:18 |
-| 85 | [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 |
-| 86 | [Fou de toi](https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Fou de toi](https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS) | 2:20 |
+| 85 | [Fou de toi](https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Fou de toi](https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS) | 2:20 |
+| 86 | [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 |
 | 87 | [Something Inside Me](https://open.spotify.com/track/6d3T0nMjuKVyKdycqmExks) | [Kadebostany](https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57), [Den Ze](https://open.spotify.com/artist/2zOTxRKSncCCTHLxwRfuMY) | [The Outsider](https://open.spotify.com/album/3iUULNrs4MKQVUphv0Pggk) | 2:18 |
 | 88 | [Is It Love?](https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Is It Love?](https://open.spotify.com/album/3q1lGbvsac3MDTOZvmLuRR) | 4:12 |
 | 89 | [Fool of Myself](https://open.spotify.com/track/5HlcHBTefv14obQKWMIxgC) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Fool of Myself](https://open.spotify.com/album/5o55Yaxu8QiZwfCiGkSRrZ) | 3:24 |

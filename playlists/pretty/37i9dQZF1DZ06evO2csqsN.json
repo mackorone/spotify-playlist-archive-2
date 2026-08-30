@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 41553,
+  "num_followers": 41562,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABZbhghKWycsNRFFf00OcDM",
+  "snapshot_id": "apDPgAAAAABp7Xmlumi+g85KLgO04LIH",
   "tracks": [
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sunday Service",
+        "url": "https://open.spotify.com/album/5ayh7q1xq1jFa3QsmE3M7n"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 166581,
+      "name": "Sunday Service",
+      "url": "https://open.spotify.com/track/1ytVc8fTgA7hAOOR0n4EH7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WHAT HAPPENED TO THE STREETS?",
         "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 197306,
       "name": "POP IT",
       "url": "https://open.spotify.com/track/3BBMNT5kxTsYxe1r0DukIb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sunday Service",
-        "url": "https://open.spotify.com/album/5ayh7q1xq1jFa3QsmE3M7n"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 166581,
-      "name": "Sunday Service",
-      "url": "https://open.spotify.com/track/1ytVc8fTgA7hAOOR0n4EH7"
     },
     {
       "added_at": null,
@@ -775,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "PRINCESS POP THAT",
+        "url": "https://open.spotify.com/album/0aMQ5jGWMxqIOB5JjhOU3a"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 173573,
+      "name": "BACK OUTSIDE (feat. Latto)",
+      "url": "https://open.spotify.com/track/0WGLtCw9w9ZjCBqvY8rXCL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fast Lane",
         "url": "https://open.spotify.com/album/7JWJByms29HHuFhbu4oBZT"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 172584,
       "name": "Fast Lane",
       "url": "https://open.spotify.com/track/7KdgN7IfTbm6d9gbdtmhpT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRINCESS POP THAT",
-        "url": "https://open.spotify.com/album/0aMQ5jGWMxqIOB5JjhOU3a"
-      },
-      "artists": [
-        {
-          "name": "Anycia",
-          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 173573,
-      "name": "BACK OUTSIDE (feat. Latto)",
-      "url": "https://open.spotify.com/track/0WGLtCw9w9ZjCBqvY8rXCL"
     },
     {
       "added_at": null,

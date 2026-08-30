@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,427 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,434 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 58 | [Thos Moser](https://open.spotify.com/track/6pe1T2thmWds9hPq67Xv74) | [Gupi](https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL), [food house](https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g) | [None](https://open.spotify.com/album/0FuahJaNlb2xX87G54NSLj) | 4:23 |
 | 59 | [FREAK](https://open.spotify.com/track/1xCMyuxOhuxpndBtKLwCHI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [FREAK](https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF) | 2:47 |
 | 60 | [Fade Away](https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 4:16 |
-| 61 | [hope u doing well](https://open.spotify.com/track/44mzhLKr8e5C8ytP6zzMwe) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [hope u doing well](https://open.spotify.com/album/1bbLvy7JrUy34A4gZ9kQqE) | 1:36 |
-| 62 | [Butterfly Bankai](https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [Visored Vitality](https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN) | 2:32 |
+| 61 | [Butterfly Bankai](https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [Visored Vitality](https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN) | 2:32 |
+| 62 | [hope u doing well](https://open.spotify.com/track/44mzhLKr8e5C8ytP6zzMwe) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [hope u doing well](https://open.spotify.com/album/1bbLvy7JrUy34A4gZ9kQqE) | 1:36 |
 | 63 | [team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [team edward](https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5) | 1:27 |
 | 64 | [Broken Flowers](https://open.spotify.com/track/7Km0ioOI11nh7xGatqrpDj) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Broken Flowers \- EP](https://open.spotify.com/album/6jpADwNRHSXDsvPSzARq00) | 3:24 |
 | 65 | [Second hand embarrassment](https://open.spotify.com/track/7tVMsJriHeO3DoPV1d7L1j) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Second hand embarrassment](https://open.spotify.com/album/68dcU3nkn7E9FTi3NDcZtS) | 2:17 |

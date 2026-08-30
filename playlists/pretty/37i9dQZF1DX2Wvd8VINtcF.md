@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Turnstile✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,169 likes - 297 songs - 16 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,171 likes - 297 songs - 16 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

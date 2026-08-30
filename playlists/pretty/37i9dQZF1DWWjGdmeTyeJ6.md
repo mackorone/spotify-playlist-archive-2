@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Featuring Khal!l\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,336 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,342 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 90 | [See You in the Summer](https://open.spotify.com/track/5cjaXus6h65tKqjFf2ULU7) | [Oscar Stembridge](https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9) | [See You in the Summer](https://open.spotify.com/album/0T7sPKFNVkOgawv6t6U1IM) | 3:05 |
 | 91 | [ninetynine](https://open.spotify.com/track/4xFZDHwEh6bdqebhbU28JJ) | [Slow Fiction](https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW) | [dollhouse](https://open.spotify.com/album/201hc47dwex9hgvquFuPyK) | 2:43 |
 | 92 | [Texas In July](https://open.spotify.com/track/6TBKvTA3eApHZmCE4seZ4N) | [Alyssa Flaherty](https://open.spotify.com/artist/5gIWNVFbj3Q4cLsaSByxVR) | [Texas In July](https://open.spotify.com/album/4Z4Ly96zX4nHpplFbDc0hj) | 2:51 |
-| 93 | [kill switch](https://open.spotify.com/track/2lvz3o16FUDuGOQyr83Afm) | [Sophia Willingham](https://open.spotify.com/artist/1uL7IYgtoRk00bosKsnBVg), [Elisheva](https://open.spotify.com/artist/5wygSRMx1cdP30d3IkZTsD) | [kill switch](https://open.spotify.com/album/7vpGv35o4wXu23WqywsRCy) | 2:12 |
+| 93 | [kill switch](https://open.spotify.com/track/2lvz3o16FUDuGOQyr83Afm) | [Sophia Willingham](https://open.spotify.com/artist/1uL7IYgtoRk00bosKsnBVg), [Eli McAleny](https://open.spotify.com/artist/5wygSRMx1cdP30d3IkZTsD) | [kill switch](https://open.spotify.com/album/7vpGv35o4wXu23WqywsRCy) | 2:12 |
 | 94 | [Divine](https://open.spotify.com/track/7FLDYb4yma6shTUs3s9MG5) | [Phil Kane](https://open.spotify.com/artist/3b4xdR11Lg8MqoAjhP9N1o) | [Divine](https://open.spotify.com/album/2aGLFLSreDsb8iU7oVrm6O) | 2:39 |
 | 95 | [Wandering Arrow](https://open.spotify.com/track/6pM2fT3fBVDA8MLW2wfXic) | [Curiosity Shop](https://open.spotify.com/artist/1T0VltNs70p1wi7Tgh2rTy) | [Wandering Arrow](https://open.spotify.com/album/6uTEoaDoCkx0x8XB1AAnGv) | 3:21 |
 | 96 | [Dust In My Glove Box](https://open.spotify.com/track/2aCmFHj0VkHEiwc0Bl14FU) | [Evan Burrison](https://open.spotify.com/artist/429Zw6geVC0AUPv1sq0bf4) | [Dust In My Glove Box](https://open.spotify.com/album/4oFo64F3ppV2zeG3h6ough) | 2:42 |

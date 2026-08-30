@@ -4,7 +4,7 @@
 
 > This is Zolita\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 11 min
+48 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,18 +13,22 @@
 | [All Over Again](https://open.spotify.com/track/78kaWaza97WrIqCGDs0bYF) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts](https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk) | 2:49 | 2026-03-20 |  |
 | [Ashley](https://open.spotify.com/track/5iMUQTIxTGgbVItGIPAWbL) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ashley](https://open.spotify.com/album/1yPpGluI3skIgOBVxJtXPA) | 2:48 | 2026-03-20 |  |
 | [Bedspell](https://open.spotify.com/track/0486NoRItdcZ1k42ErhWHG) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel](https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO) | 2:49 | 2026-03-20 |  |
+| [Belle's HELL \(Interlude\)](https://open.spotify.com/track/1art06Q1EWEro00cyuaSTg) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR) | 0:56 | 2026-08-30 |  |
 | [Best Ex of Your Life](https://open.spotify.com/track/2RhLKRJJq29Tvecbk63X4K) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Best Ex of Your Life](https://open.spotify.com/album/7HRxfQtn1QyngtjAyFeUzi) | 2:22 | 2026-07-11 |  |
 | [Black Magic](https://open.spotify.com/track/730cOyBWglmh94hEvmLoJE) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe Edition\)](https://open.spotify.com/album/0n2eTEITSu0EwdkpjtNFBr) | 3:12 | 2026-03-20 |  |
 | [Bloodstream](https://open.spotify.com/track/0oPCvCDccyPM8kXHR2Wnn8) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts](https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk) | 3:31 | 2026-03-20 |  |
 | [Bye Bye Baby](https://open.spotify.com/track/4KQishDlTPsAJtih2MeETB) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Bye Bye Baby](https://open.spotify.com/album/7johZg5HaYBD0zl3b6fDMk) | 2:59 | 2026-03-20 |  |
 | [Come Home With Me](https://open.spotify.com/track/2IUZ5ifH9R13RoK8X70lgF) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 3:36 | 2026-03-20 |  |
 | [Crazy Ex](https://open.spotify.com/track/6oAiUgrZtKQIX3uWYy3MTz) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Falling Out / Falling In](https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb) | 2:29 | 2026-03-20 |  |
+| [DOPPELBANGER](https://open.spotify.com/track/5EyhM2Fam73RNuAcuVESn7) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR) | 2:32 | 2026-08-30 |  |
 | [Drag Me to Hell](https://open.spotify.com/track/79HDP4qmwaVq0mdajHOwhk) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel](https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO) | 2:30 | 2026-03-20 |  |
 | [Drug Me Now](https://open.spotify.com/track/1bKyqptWUV3LYj5I7GpcPM) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Immaculate Conception](https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7) | 3:39 | 2026-03-20 |  |
 | [Drunk with Your Exes](https://open.spotify.com/track/2EyKyp1GPK6xhJSoVi4WRk) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Falling Out / Falling In](https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb) | 3:20 | 2026-03-20 |  |
+| [Everybody's Lover](https://open.spotify.com/track/4gX6TB6xtJOYOpmaByqSTF) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR) | 2:56 | 2026-08-30 |  |
 | [Evil Angel](https://open.spotify.com/track/6JOhnaA96rAc1BHgvDRp4Q) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel](https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO) | 2:23 | 2026-03-20 |  |
 | [Explosion](https://open.spotify.com/track/6endOGznHKDNpOtC2DHc2V) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Immaculate Conception](https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7) | 3:30 | 2026-03-20 |  |
 | [Fight Like A Girl](https://open.spotify.com/track/5t1LF6dD7ZbdOaN6Tw1soD) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 3:40 | 2026-03-20 |  |
+| [FINAL FANTASY](https://open.spotify.com/track/4GSjyUoFFasuGzk9t7yDid) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR) | 2:45 | 2026-08-30 |  |
 | [For the Both of Us](https://open.spotify.com/track/0yOEI0VoPeo1vyWjUnglLw) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Falling Out / Falling In](https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb) | 3:13 | 2026-03-20 |  |
 | [Grave](https://open.spotify.com/track/5XZj0TXYvV7c34lP69peNI) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Grave](https://open.spotify.com/album/1qzE9q5WIok3jj1LOiMtuQ) | 2:32 | 2026-03-20 |  |
 | [HARDCORE](https://open.spotify.com/track/3rh0NcysTtnld6q95INEK3) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [HARDCORE](https://open.spotify.com/album/7qAeQkuHuaSUhOEdAH1IpK) | 2:49 | 2026-06-12 |  |
@@ -37,6 +41,7 @@
 | [Like Heaven](https://open.spotify.com/track/2ZmZ536Je4LyhwfkmvjozR) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 3:47 | 2026-03-20 |  |
 | [Loveline](https://open.spotify.com/track/5oLim0g3AnZSay3a6U7KTT) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel](https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO) | 2:29 | 2026-03-20 |  |
 | [Mad](https://open.spotify.com/track/4mm4gtJhqVxJPxNGDhNmrp) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe Edition\)](https://open.spotify.com/album/0n2eTEITSu0EwdkpjtNFBr) | 2:58 | 2026-03-20 |  |
+| [Miss Misunderstood](https://open.spotify.com/track/2tzCRiOiHRhp6q5LwfVHDI) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR) | 2:43 | 2026-08-30 |  |
 | [New You](https://open.spotify.com/track/1IM5NzUgVym6ERZc2nO0a2) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 3:44 | 2026-03-20 |  |
 | [Queen of Hearts](https://open.spotify.com/track/1ctvMX4Ykwfa7dwIAQPvwA) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts](https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk) | 3:30 | 2026-03-20 |  |
 | [Remind Me](https://open.spotify.com/track/1UCYSP9JPrHQuaJYHZjiw9) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 4:04 | 2026-03-20 |  |

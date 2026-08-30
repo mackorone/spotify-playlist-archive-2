@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1807250,
+  "num_followers": 1807410,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -971,26 +971,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "75, Brazil Street",
-        "url": "https://open.spotify.com/album/4AzBPG8ewbsvNaUyvu2pHb"
-      },
-      "artists": [
-        {
-          "name": "Nicola Fasano",
-          "url": "https://open.spotify.com/artist/0AJ9YvsEOnAqMB9Q15TfYQ"
-        },
-        {
-          "name": "Pat-Rich",
-          "url": "https://open.spotify.com/artist/3GYnrA1B2exmHVA6690CX9"
-        }
-      ],
-      "duration_ms": 187402,
-      "name": "75, Brazil Street (Radio Mix)",
-      "url": "https://open.spotify.com/track/2RSxUNaF8EZI3B7guqXAPk"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Every Word",
         "url": "https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 213173,
       "name": "Every Word (feat. Daniella) - Wendel Kos Radio Edit",
       "url": "https://open.spotify.com/track/0X7ELV6fLyjynJ3MexWh4X"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "75, Brazil Street",
+        "url": "https://open.spotify.com/album/4AzBPG8ewbsvNaUyvu2pHb"
+      },
+      "artists": [
+        {
+          "name": "Nicola Fasano",
+          "url": "https://open.spotify.com/artist/0AJ9YvsEOnAqMB9Q15TfYQ"
+        },
+        {
+          "name": "Pat-Rich",
+          "url": "https://open.spotify.com/artist/3GYnrA1B2exmHVA6690CX9"
+        }
+      ],
+      "duration_ms": 187402,
+      "name": "75, Brazil Street (Radio Mix)",
+      "url": "https://open.spotify.com/track/2RSxUNaF8EZI3B7guqXAPk"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "The Girl You Lost To Cocaine",
+        "url": "https://open.spotify.com/album/0psPpltnZMSDnU67ma2hID"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "The Girl You Lost to Cocaine - Sander van Doorn Edit",
+      "url": "https://open.spotify.com/track/223Vmr6rEbuujhHLFpsgVj"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 219946,
       "name": "The World Is Mine",
       "url": "https://open.spotify.com/track/1tmYcGyQJHestYnGel5y7c"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "The Girl You Lost To Cocaine",
-        "url": "https://open.spotify.com/album/0psPpltnZMSDnU67ma2hID"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 180133,
-      "name": "The Girl You Lost to Cocaine - Sander van Doorn Edit",
-      "url": "https://open.spotify.com/track/223Vmr6rEbuujhHLFpsgVj"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q"
-      },
-      "artists": [
-        {
-          "name": "Velvet",
-          "url": "https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Chemistry - Radio Edit",
-      "url": "https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Star 69",
         "url": "https://open.spotify.com/album/5Ek7bYGxRPFNoFZB71pTZJ"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 371493,
       "name": "Star 69 - Timo Maas Mix",
       "url": "https://open.spotify.com/track/1HYiVTgxERP2llm0yFzVNj"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q"
+      },
+      "artists": [
+        {
+          "name": "Velvet",
+          "url": "https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Chemistry - Radio Edit",
+      "url": "https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 326840,
-      "name": "In White Rooms",
-      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "The Longest Road",
         "url": "https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 239213,
       "name": "The Longest Road (feat. Lissie) - Deadmau5 Remix Edit",
       "url": "https://open.spotify.com/track/0cP5GxZrtKCRQu7cbOqsBe"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 326840,
+      "name": "In White Rooms",
+      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn"
+      },
+      "artists": [
+        {
+          "name": "4 Strings",
+          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "Take Me Away - Vocal Radio Mix",
+      "url": "https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Hot (Remixes)",
         "url": "https://open.spotify.com/album/5swvYY29TJ4Nrl2QU7Ns1v"
       },
@@ -1807,22 +1823,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn"
-      },
-      "artists": [
-        {
-          "name": "4 Strings",
-          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
-        }
-      ],
-      "duration_ms": 190426,
-      "name": "Take Me Away - Vocal Radio Mix",
-      "url": "https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Best of Alter Ego",
         "url": "https://open.spotify.com/album/3f5NedtW0S20UEB4Kl34TM"
       },
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Moby",
+        "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 524933,
       "name": "Just Be",
       "url": "https://open.spotify.com/track/2AnEHhSLWVJJMSQECOcyyx"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Moby",
-        "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Behind",
+        "url": "https://open.spotify.com/album/2ZbVWuSdf3uR01YlBSH06M"
+      },
+      "artists": [
+        {
+          "name": "Flanders",
+          "url": "https://open.spotify.com/artist/70ZMFdCGEInTJ0z9KtXQ2u"
+        }
+      ],
+      "duration_ms": 220320,
+      "name": "Behind - Callea Radio Mix",
+      "url": "https://open.spotify.com/track/2hS4wCi2VAV8CdsLPnWIoD"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Elements of Life",
         "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 276093,
       "name": "In The Dark (feat. Christian Burns)",
       "url": "https://open.spotify.com/track/2UBYNTJKvk9feVfW9f2ACK"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Behind",
-        "url": "https://open.spotify.com/album/2ZbVWuSdf3uR01YlBSH06M"
-      },
-      "artists": [
-        {
-          "name": "Flanders",
-          "url": "https://open.spotify.com/artist/70ZMFdCGEInTJ0z9KtXQ2u"
-        }
-      ],
-      "duration_ms": 220320,
-      "name": "Behind - Callea Radio Mix",
-      "url": "https://open.spotify.com/track/2hS4wCi2VAV8CdsLPnWIoD"
     },
     {
       "added_at": "2024-07-12 15:40:20",

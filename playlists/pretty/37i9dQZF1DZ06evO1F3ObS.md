@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 
 > This is ReoNa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,599 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,603 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 | 27 | [じゃあな](https://open.spotify.com/track/5P5VnHLh7dXkfeX36AT5hL) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～\(Special Edition\)](https://open.spotify.com/album/2pD99uEeXY3dmF9nFqhCFU) | 4:48 |
 | 28 | [革命](https://open.spotify.com/track/3vrRp3jqWHh1viOqo7AfBz) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ELZA2](https://open.spotify.com/album/77kWDy49o3hwlERoAyHFPG) | 3:56 |
 | 29 | [蒼穹のファンファーレ](https://open.spotify.com/track/0wMBwx4SiRJmcmRxtq6l4N) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3), [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [蒼穹のファンファーレ](https://open.spotify.com/album/1SIWm59nMt5C5CTtxHmGBJ) | 5:18 |
-| 30 | [雨に唄えば](https://open.spotify.com/track/41IzyYGkQdmAlGhpww2zLB) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL) | 4:29 |
-| 31 | [time](https://open.spotify.com/track/7grcN18xiQDGUVqWR7mUF0) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [time](https://open.spotify.com/album/18bxCRrBnYE2CKtnJWrgMj) | 3:58 |
-| 32 | [生命換装](https://open.spotify.com/track/6XhPqqciCUQLWZHxbO2mcG) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [生命換装](https://open.spotify.com/album/0FKrcF7rp480YBzAcM9WPo) | 5:40 |
-| 33 | [Lost](https://open.spotify.com/track/2GEtnhDxxWBDWUc5wHqTsC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- THEME SONG E.P.](https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi) | 5:15 |
-| 34 | [VITA](https://open.spotify.com/track/0XCQqPCFIRunW6ZFK3NnzS) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [VITA](https://open.spotify.com/album/2g4EM8qrRTmMbV4k93ArVE) | 5:06 |
+| 30 | [time](https://open.spotify.com/track/7grcN18xiQDGUVqWR7mUF0) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [time](https://open.spotify.com/album/18bxCRrBnYE2CKtnJWrgMj) | 3:58 |
+| 31 | [生命換装](https://open.spotify.com/track/6XhPqqciCUQLWZHxbO2mcG) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [生命換装](https://open.spotify.com/album/0FKrcF7rp480YBzAcM9WPo) | 5:40 |
+| 32 | [Lost](https://open.spotify.com/track/2GEtnhDxxWBDWUc5wHqTsC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- THEME SONG E.P.](https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi) | 5:15 |
+| 33 | [VITA](https://open.spotify.com/track/0XCQqPCFIRunW6ZFK3NnzS) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [VITA](https://open.spotify.com/album/2g4EM8qrRTmMbV4k93ArVE) | 5:06 |
+| 34 | [雨に唄えば](https://open.spotify.com/track/41IzyYGkQdmAlGhpww2zLB) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL) | 4:29 |
 | 35 | [Weaker](https://open.spotify.com/track/7pR7ScZMyG8jLreMh1r2Y3) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 4:40 |
 | 36 | [Girls Don't Cry](https://open.spotify.com/track/3A6XjtqGw7A6PY9dLepDH2) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ELZA2](https://open.spotify.com/album/77kWDy49o3hwlERoAyHFPG) | 3:31 |
 | 37 | [葬送の儀](https://open.spotify.com/track/54Wn2RQDn1tKIcFhpwVMSZ) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj) | 4:02 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 | 40 | [ハレルヤ](https://open.spotify.com/track/1bc2mLIibf9Id7DuQFWCmp) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ELZA2](https://open.spotify.com/album/77kWDy49o3hwlERoAyHFPG) | 4:02 |
 | 41 | [決意の朝に](https://open.spotify.com/track/7hCrZjwlauy8LMU9z1XcO7) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Null](https://open.spotify.com/album/0Ei7kMa7ZFqHucY4rIjbLC) | 5:11 |
 | 42 | [怪物の詩](https://open.spotify.com/track/4Ym1HPO8pl7zrrR2b9MEI3) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 4:22 |
-| 43 | [FRIENDS](https://open.spotify.com/track/3OqnmwhyLMrOLynHp1Lijm) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 4:32 |
+| 43 | [芥](https://open.spotify.com/track/4XpBYFvZdgNTI9WhZ64VUJ) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HEART](https://open.spotify.com/album/4tPCj9F9IYb4ts8jQnyIzm) | 5:14 |
 | 44 | [Toxic](https://open.spotify.com/track/6VlPH5gZxmk5tdRJzAl6Aa) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ELZA2](https://open.spotify.com/album/77kWDy49o3hwlERoAyHFPG) | 3:47 |
 | 45 | [Lotus](https://open.spotify.com/track/6lrSpZi8Isa1oBwvkIzP7R) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Null](https://open.spotify.com/album/0Ei7kMa7ZFqHucY4rIjbLC) | 5:32 |
 | 46 | [Dancer in the Discord](https://open.spotify.com/track/7KmzkpVC89akEovfbwTFG7) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj) | 4:17 |
-| 47 | [芥](https://open.spotify.com/track/4XpBYFvZdgNTI9WhZ64VUJ) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HEART](https://open.spotify.com/album/4tPCj9F9IYb4ts8jQnyIzm) | 5:14 |
+| 47 | [FRIENDS](https://open.spotify.com/track/3OqnmwhyLMrOLynHp1Lijm) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 4:32 |
 | 48 | [Oh UnHappy Day](https://open.spotify.com/track/1vD9wJjZfEV0171Bmi9R5f) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ELZA2](https://open.spotify.com/album/77kWDy49o3hwlERoAyHFPG) | 3:37 |
 | 49 | [まっさら](https://open.spotify.com/track/6gJ5wPcapcwS4nCN5aOBDW) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ないない \(Special Edition\)](https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw) | 4:12 |
 | 50 | [ライフ・イズ・ビューティフォー](https://open.spotify.com/track/16USvX84tvZa3ppnS06N1e) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 4:26 |
 
-Snapshot ID: `ao9+AAAAAAAFxtUo7qUUqE33nttJteOW`
+Snapshot ID: `apDPgAAAAACj7MaDyNM/duZWRXsE1ojg`

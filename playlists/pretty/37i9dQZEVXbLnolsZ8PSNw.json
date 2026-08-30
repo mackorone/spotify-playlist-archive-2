@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - United Kingdom.",
-  "num_followers": 2043823,
+  "num_followers": 2043799,
   "original_name": "Top 50 - United Kingdom",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MiUj0AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MiZUgAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
         "name": "People Watching (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
@@ -29,39 +29,7 @@
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
-      "album": {
-        "name": "Jolene (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
-    },
-    {
-      "added_at": "2026-08-28 15:58:20",
-      "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 173975,
-      "name": "Great Expectation",
-      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
-    },
-    {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
         "name": "Man I Need",
         "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
@@ -77,7 +45,55 @@
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 173975,
+      "name": "Great Expectation",
+      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
+    },
+    {
+      "added_at": "2026-08-29 14:47:11",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 231746,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN"
+    },
+    {
+      "added_at": "2026-08-29 14:47:11",
+      "album": {
+        "name": "Jolene (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
+    },
+    {
+      "added_at": "2026-08-29 14:47:11",
       "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
@@ -93,7 +109,23 @@
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
+    },
+    {
+      "added_at": "2026-08-29 14:47:11",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3b3xKNoWtZLWdxuaL0sKCs"
@@ -113,39 +145,7 @@
       "url": "https://open.spotify.com/track/6dnco8haegnJYtylV26cBq"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
-      "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 231746,
-      "name": "Choosin' Texas",
-      "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN"
-    },
-    {
-      "added_at": "2026-08-28 15:58:20",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 297090,
-      "name": "the cure",
-      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
-    },
-    {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
@@ -161,55 +161,7 @@
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
-      "album": {
-        "name": "My Reckless Abandon",
-        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 183237,
-      "name": "iloveitiloveitiloveit",
-      "url": "https://open.spotify.com/track/4ek0oGBCJal4Gxz8zEnMjn"
-    },
-    {
-      "added_at": "2026-08-28 15:58:20",
-      "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Earrings",
-      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
-    },
-    {
-      "added_at": "2026-08-28 15:58:20",
-      "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 223069,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
-    },
-    {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
@@ -225,79 +177,55 @@
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
-        "name": "The Boy Who Played the Harp",
-        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 219743,
-      "name": "Raindance (feat. Tems)",
-      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/0inYFsNCyffdWte267wXRW"
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
       },
       "artists": [
         {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
         }
       ],
-      "duration_ms": 170859,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/2QihEF7BIfPCJjkB0c4Rrv"
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
-        "name": "Dai Dai",
-        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
         }
       ],
-      "duration_ms": 223448,
-      "name": "Dai Dai",
-      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/4ek0oGBCJal4Gxz8zEnMjn"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
-      "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
-    },
-    {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ"
@@ -317,39 +245,27 @@
       "url": "https://open.spotify.com/track/39hHUnYBmyMwprzRaPODCX"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
-        "name": "Jolene (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 176093,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/77bNe6jYY8yHdP7orXrz5I"
-    },
-    {
-      "added_at": "2026-08-28 15:58:20",
-      "album": {
-        "name": "Homewrecker",
-        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
-      },
-      "artists": [
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 209066,
-      "name": "Homewrecker",
-      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
@@ -365,103 +281,7 @@
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
-      "album": {
-        "name": "THIS MUSIC MAY CONTAIN HOPE.",
-        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k"
-    },
-    {
-      "added_at": "2026-08-28 15:58:20",
-      "album": {
-        "name": "petal",
-        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197949,
-      "name": "hate that i made you love me",
-      "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
-    },
-    {
-      "added_at": "2026-08-28 15:58:20",
-      "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/7gkZNvBHfI30qG7hA0eopT"
-    },
-    {
-      "added_at": "2026-08-28 15:58:20",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
-    },
-    {
-      "added_at": "2026-08-28 15:58:20",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
-    },
-    {
-      "added_at": "2026-08-28 15:58:20",
-      "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 179491,
-      "name": "Here You Come Again",
-      "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
-    },
-    {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
         "name": "Twenty One",
         "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
@@ -485,42 +305,94 @@
       "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/0inYFsNCyffdWte267wXRW"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
         }
       ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/2QihEF7BIfPCJjkB0c4Rrv"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
-        "name": "Nice To Each Other",
-        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+    },
+    {
+      "added_at": "2026-08-29 14:47:11",
+      "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
+    {
+      "added_at": "2026-08-29 14:47:11",
+      "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k"
+    },
+    {
+      "added_at": "2026-08-29 14:47:11",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
       },
       "artists": [
         {
@@ -528,60 +400,12 @@
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Nice To Each Other",
-      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
-      "album": {
-        "name": "bloodstream",
-        "url": "https://open.spotify.com/album/4rndAJfXwOHMEPpMT8rn7Q"
-      },
-      "artists": [
-        {
-          "name": "Alyssa Grace",
-          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
-        }
-      ],
-      "duration_ms": 177428,
-      "name": "bloodstream",
-      "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
-    },
-    {
-      "added_at": "2026-08-28 15:58:20",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
-    },
-    {
-      "added_at": "2026-08-28 15:58:20",
-      "album": {
-        "name": "Visitor (Deluxe)",
-        "url": "https://open.spotify.com/album/2EAbXVmQUrylFiXVSQp6TJ"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 178016,
-      "name": "Material Lover - from The Devil Wears Prada 2 Original Motion Picture",
-      "url": "https://open.spotify.com/track/2aQcGu5C6qFcicPsaywTEK"
-    },
-    {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
         "name": "Withness",
         "url": "https://open.spotify.com/album/2HuUkTJoTN5xgvG2oqLsts"
@@ -601,27 +425,119 @@
       "url": "https://open.spotify.com/track/0eUP3XYOCAj7lGoz4LOhyQ"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 480186,
-      "name": "Cinderella (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
+    },
+    {
+      "added_at": "2026-08-29 14:47:11",
+      "album": {
+        "name": "Visitor (Deluxe)",
+        "url": "https://open.spotify.com/album/2EAbXVmQUrylFiXVSQp6TJ"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 178016,
+      "name": "Material Lover - from The Devil Wears Prada 2 Original Motion Picture",
+      "url": "https://open.spotify.com/track/2aQcGu5C6qFcicPsaywTEK"
+    },
+    {
+      "added_at": "2026-08-29 14:47:11",
+      "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
+    },
+    {
+      "added_at": "2026-08-29 14:47:11",
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/7gkZNvBHfI30qG7hA0eopT"
+    },
+    {
+      "added_at": "2026-08-29 14:47:11",
+      "album": {
+        "name": "Nice To Each Other",
+        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Nice To Each Other",
+      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
+    },
+    {
+      "added_at": "2026-08-29 14:47:11",
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": "2026-08-29 14:47:11",
       "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
@@ -637,23 +553,7 @@
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
-      },
-      "artists": [
-        {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
-    },
-    {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
@@ -664,12 +564,28 @@
           "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
+      "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/50E5Op3ZjRibJGZjGBcGR6"
+    },
+    {
+      "added_at": "2026-08-29 14:47:11",
       "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
@@ -689,71 +605,59 @@
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
-        "name": "Coat Of Many Colors",
-        "url": "https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg"
+        "name": "bloodstream",
+        "url": "https://open.spotify.com/album/4rndAJfXwOHMEPpMT8rn7Q"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Alyssa Grace",
+          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
         }
       ],
-      "duration_ms": 186453,
-      "name": "Coat of Many Colors",
-      "url": "https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z"
+      "duration_ms": 177428,
+      "name": "bloodstream",
+      "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+      "duration_ms": 480186,
+      "name": "Cinderella (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
         }
       ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
-      "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 237344,
-      "name": "Janice STFU",
-      "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
-    },
-    {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
         "name": "On 2nite",
         "url": "https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N"
@@ -769,7 +673,103 @@
       "url": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
+    },
+    {
+      "added_at": "2026-08-29 14:47:11",
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+    },
+    {
+      "added_at": "2026-08-29 14:47:11",
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "added_at": "2026-08-29 14:47:11",
+      "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 156856,
+      "name": "EMERALD EYES",
+      "url": "https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36"
+    },
+    {
+      "added_at": "2026-08-29 14:47:11",
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 237344,
+      "name": "Janice STFU",
+      "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
+    },
+    {
+      "added_at": "2026-08-29 14:47:11",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2026-08-29 14:47:11",
       "album": {
         "name": "Who's the Clown?",
         "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
@@ -785,39 +785,7 @@
       "url": "https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
-      "album": {
-        "name": "Clean Baby Sleep Multi Color Noises (Loopable)",
-        "url": "https://open.spotify.com/album/5HgYJl8I4fnSDyF0HnWimQ"
-      },
-      "artists": [
-        {
-          "name": "Dream Supplier",
-          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
-        }
-      ],
-      "duration_ms": 142222,
-      "name": "Clean Baby Sleep White Noise (Loopable no fade)",
-      "url": "https://open.spotify.com/track/3BgK59BTBUs8iQtnegfMfz"
-    },
-    {
-      "added_at": "2026-08-28 15:58:20",
-      "album": {
-        "name": "The Great Divide: The Last Of The Bugs",
-        "url": "https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 286967,
-      "name": "Orbiter",
-      "url": "https://open.spotify.com/track/77fL8ATR0dpUDLI0XLmDBV"
-    },
-    {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
@@ -833,20 +801,52 @@
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
-      "added_at": "2026-08-28 15:58:20",
+      "added_at": "2026-08-29 14:47:11",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 258773,
-      "name": "Wonderwall - Remastered",
-      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+      "duration_ms": 179491,
+      "name": "Here You Come Again",
+      "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
+    },
+    {
+      "added_at": "2026-08-29 14:47:11",
+      "album": {
+        "name": "Jolene (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 176093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/77bNe6jYY8yHdP7orXrz5I"
+    },
+    {
+      "added_at": "2026-08-29 14:47:11",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 258296,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
     }
   ],
   "unique_name": "Top 50 - United Kingdom",

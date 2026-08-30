@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- USA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,817 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,851 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 | 20 | [weren't for the wind](https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:13 |
 | 21 | [Freakin’ Out](https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Freakin’ Out](https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf) | 3:37 |
 | 22 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
-| 23 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
+| 23 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:17 |
 | 24 | [drop dead](https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:44 |
 | 25 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
 | 26 | [Some of Your Love](https://open.spotify.com/track/554p4ro2rs7dHqGPwQX67H) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\) \[10\-YEAR EDITION\]](https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 | 49 | [Chicago](https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [XSCAPE](https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ) | 4:05 |
 | 50 | [Willing and Able](https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:57 |
 
-Snapshot ID: `MiUj0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MiZUgAAAAAAAAAAAAAAAAAAAAAAAAGVu`

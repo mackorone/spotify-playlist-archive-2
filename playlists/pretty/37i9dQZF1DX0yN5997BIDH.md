@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 
 > la música tropical no se crea ni se destruye solo se transforma\. A bailar con LATIN MAFIA y Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,643 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,622 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 | 31 | [MALDITO](https://open.spotify.com/track/6dp1PGuj8rQN0ZUP63cdfJ) | [Boca Paila](https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6) | [MALDITO](https://open.spotify.com/album/31UozDIJjzZy8RoeuDB4Ix) | 2:55 |
 | 32 | [Rota Nunca Queda](https://open.spotify.com/track/7IIVtgw3MuHU3fGPSkYeqt) | [MÓRIA](https://open.spotify.com/artist/0GTGxy4Nwe4IMqI1zcWhET), [Las Cayenas Negras](https://open.spotify.com/artist/3bEmKYsaW0YHHwyIahEcjN) | [Rota Nunca Queda](https://open.spotify.com/album/7Cj0pqw8aE0G8JSSqSeYD7) | 3:24 |
 | 33 | [Tu Mirar \- Alt Take](https://open.spotify.com/track/5Jcm9OMN3XFzjUtA3lZvdu) | [Bachata Mexican Combo](https://open.spotify.com/artist/0CdBLcZNj9LFyBc0aJOqIb), [alessa de lara](https://open.spotify.com/artist/1v6ADBBD7QnwAiEmp4KOnc) | [Tu Mirar \(Alt Take\)](https://open.spotify.com/album/6NM89v5xHnwywb4Qzx6HJA) | 5:47 |
-| 34 | [Vámonos De Viaje \(Bachata Remix, 12\-12\-2022\)](https://open.spotify.com/track/7DYgO6H8g6B0A6lxXJDMfj) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Maxi Sayes](https://open.spotify.com/artist/7gumdPOGmUMKbJlrYzLhQJ) | [Feliz Navibach \(Vol\. II\)](https://open.spotify.com/album/2Ntp9kAxTc7FVVVDLw7cpS) | 3:46 |
+| 34 | [Vámonos De Viaje \- Bachata Remix, 12\-12\-2022](https://open.spotify.com/track/7DYgO6H8g6B0A6lxXJDMfj) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Maxi Sayes](https://open.spotify.com/artist/7gumdPOGmUMKbJlrYzLhQJ) | [Feliz Navibach \(Vol\. II\)](https://open.spotify.com/album/2Ntp9kAxTc7FVVVDLw7cpS) | 3:46 |
 | 35 | [AventuRa](https://open.spotify.com/track/4wxMGgccMWuNdUCD9AX4eZ) | [Badá](https://open.spotify.com/artist/1So8svHazh6ueFOhunp3Ku) | [AventuRa](https://open.spotify.com/album/34i5doBMl8iFychYUMEfyr) | 3:00 |
 | 36 | [El Protagonista](https://open.spotify.com/track/31r1EkfFd1Jbw7bTyje3JM) | [Lonli!¡!](https://open.spotify.com/artist/79ARFMSugLiAdgNCrUFpQa), [exit303](https://open.spotify.com/artist/3B77kZJvJq4OR9qsC7UXNW), [Hash Cookies](https://open.spotify.com/artist/6KDgaSBoLgNtPkKy3xzDnE) | [EL PROTAGONISTA](https://open.spotify.com/album/6dZikPtiVoxT3albqSsIEw) | 2:22 |
 | 37 | [LOS ANGELES](https://open.spotify.com/track/3T9pSyvhhWH8ViiBlwsuCk) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [HOTCORE](https://open.spotify.com/album/74nnCDVDlxRljxy32H3YXB) | 2:39 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,804 likes - 101 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,789 likes - 101 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

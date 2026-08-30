@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 
 > This is Toby Keith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,307 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,306 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 | 36 | [Trailerhood](https://open.spotify.com/track/2CdGhu82tkVWkXDPyJCiwU) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets in the Gun](https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH) | 2:53 |
 | 37 | [Stays In Mexico](https://open.spotify.com/track/3EaUpHrrmoupWICI0uf6Y0) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:34 |
 | 38 | [Sailboat for Sale](https://open.spotify.com/track/2wT3VvoiJm0LFZyQrfkQYz) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [35 mph Town](https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d) | 3:08 |
-| 39 | [Hey Good Lookin'](https://open.spotify.com/track/2TSc7ee1OQPb4tuXsi2X7W) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0), [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [License to Chill](https://open.spotify.com/album/2NXJVffjFFrlAKHQtoUXmg) | 3:03 |
+| 39 | [If I Was Jesus](https://open.spotify.com/track/1WHBg96aBSgflMROz1njg2) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 3:44 |
 | 40 | [Good To Go To Mexico](https://open.spotify.com/track/7qpDmis5NJwqlrDDcLmASe) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Unleashed](https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY) | 2:59 |
-| 41 | [If I Was Jesus](https://open.spotify.com/track/1WHBg96aBSgflMROz1njg2) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 3:44 |
-| 42 | [We Were In Love](https://open.spotify.com/track/3ldQidBTeQXyr1kAzakLfs) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Dream Walkin'](https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR) | 4:20 |
+| 41 | [We Were In Love](https://open.spotify.com/track/3ldQidBTeQXyr1kAzakLfs) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Dream Walkin'](https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR) | 4:20 |
+| 42 | [Hey Good Lookin'](https://open.spotify.com/track/2TSc7ee1OQPb4tuXsi2X7W) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0), [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [License to Chill](https://open.spotify.com/album/2NXJVffjFFrlAKHQtoUXmg) | 3:03 |
 | 43 | [She Only Gets That Way With Me](https://open.spotify.com/track/2Pmm5RJjlcepUIIEmJhvuw) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [How Do You Like Me Now?!](https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y) | 2:30 |
 | 44 | [Ain't No Thang](https://open.spotify.com/track/0rRXZvjL2ZHqq3OX3Dp62q) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:27 |
 | 45 | [Getcha Some](https://open.spotify.com/track/2uKLkPPYWuSz4eya2fkHdH) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Greatest Hits](https://open.spotify.com/album/43KDShB3LKQv7r6Lq2OR9u) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 | 49 | [Copenhagen](https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9) | [Chris LeDoux](https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Rodeo Rock And Roll Collection](https://open.spotify.com/album/3ERoc1tfA50OkwdoJYblTY) | 2:43 |
 | 50 | [Cryin' for Me \(Wayman's Song\)](https://open.spotify.com/track/5D2Sr7fTxeVfO4cYniJG7X) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [American Ride](https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV) | 4:45 |
 
-Snapshot ID: `ao9+AAAAAADp5B96dqx7pWym77e1VUdf`
+Snapshot ID: `apDPgAAAAAC4SxI3thfzy9/h+Pn9fr2Z`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: Still Caravan
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,292 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,302 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 19 | [Sleeping Giant](https://open.spotify.com/track/7EuPou4Xsee5MjH8HScM3r) | [SLAK](https://open.spotify.com/artist/0axatT20L7PAw25ZyCnbJ0) | [SLAK](https://open.spotify.com/album/77SwPn3bUUba2blV2wxT5c) | 5:32 |
 | 20 | [Raw](https://open.spotify.com/track/0M6DNTW1xQoPMoF6VyodiT) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Rawment](https://open.spotify.com/album/29cM0Z0AM9lp3DRCerozSt) | 3:10 |
 | 21 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 |
-| 22 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 |
-| 23 | [The bell tolls](https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp) | [a picture of her](https://open.spotify.com/artist/6vUn7EgNei8hY7jZSV0lsT) | [C](https://open.spotify.com/album/4rQJ0xVXD7OKZmV5hXL4tW) | 5:27 |
+| 22 | [The bell tolls](https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp) | [a picture of her](https://open.spotify.com/artist/6vUn7EgNei8hY7jZSV0lsT) | [C](https://open.spotify.com/album/4rQJ0xVXD7OKZmV5hXL4tW) | 5:27 |
+| 23 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 |
 | 24 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
 | 25 | [Soft Departure](https://open.spotify.com/track/3VIqNUACL8f1IGCSX8fgp0) | [SLAK](https://open.spotify.com/artist/0axatT20L7PAw25ZyCnbJ0) | [Soft Departure](https://open.spotify.com/album/1isWDAJWi8FOFzXBU3jPBD) | 6:12 |
 | 26 | [サファリ](https://open.spotify.com/track/4MEXW1zCYDjD3vZy8Sa9uR) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI) | [マイ・ディア・ライフ](https://open.spotify.com/album/7dn9EVB0Joi88kXKeFR1qD) | 7:06 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 33 | [Ephemeral summer](https://open.spotify.com/track/5Xc665FkyzjWgT1dYBjop0) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Floating in the midnight sun](https://open.spotify.com/album/2Nj6K8d0eTviOrZDH6MwR2) | 4:20 |
 | 34 | [Yes! Ramen!! \[Feat\. Sonicwonder\]](https://open.spotify.com/track/1KbsFchJaw3BU5iwnTrd8s) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [OUT THERE \[Feat\. Sonicwonder\]](https://open.spotify.com/album/5Z1XM55fh24JfLyDWWzRRl) | 8:14 |
 | 35 | [ハルシュラ](https://open.spotify.com/track/3cSPVDggJ4QlUcQtXEFExR) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 4:01 |
-| 36 | [On My Way Home](https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Susanna](https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF) | 3:15 |
-| 37 | [Ready?](https://open.spotify.com/track/1Nz4KHTLNnnc2Wl6teppUR) | [MIDORINOMARU](https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu) | [Ready?](https://open.spotify.com/album/1gnPX2apuEEOkRwsDQOdtw) | 4:35 |
+| 36 | [Ready?](https://open.spotify.com/track/1Nz4KHTLNnnc2Wl6teppUR) | [MIDORINOMARU](https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu) | [Ready?](https://open.spotify.com/album/1gnPX2apuEEOkRwsDQOdtw) | 4:35 |
+| 37 | [On My Way Home](https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Susanna](https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF) | 3:15 |
 | 38 | [WAVE](https://open.spotify.com/track/3A2PqBP4fJnThiEJ9w8nVg) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 7:32 |
 | 39 | [Down In The Village](https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N) | [Quasimode](https://open.spotify.com/artist/5vLyvkGLk9d9hp9LRQ8RqD) | [Oneself Likeness](https://open.spotify.com/album/5gN1A4s7Rb7CSnLzMQ77dG) | 6:30 |
 | 40 | [WOLF](https://open.spotify.com/track/2xsyDwq9ZYm9kKYZF8gD4P) | [SPECIAL OTHERS ACOUSTIC](https://open.spotify.com/artist/1evtrDEm844KI8zqxp2Rp2) | [Telepathy](https://open.spotify.com/album/3qKAQlG3pTQ2dXi9Qg6tPe) | 6:55 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 45 | [犬、逃げた。\-ver\. 2.0\-](https://open.spotify.com/track/69So29DLz3KKHUuxs6iiHX) | [Calmera](https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw) | [REAL KICKS](https://open.spotify.com/album/6Y1gGXJMEzmur74PIrYFUL) | 3:06 |
 | 46 | [Flowery Flat](https://open.spotify.com/track/0biW20fBvcGbZ2pRf9PrSH) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m) | [BEATS+PIECES 2](https://open.spotify.com/album/6wNDoHX8SrmdzHAKKmTfzt) | 4:07 |
 | 47 | [Hale no sola sita \-LA YELLOW SAMBA\-](https://open.spotify.com/track/2PshJ3niqCAbzdKPtwSa7Z) | [PEZ](https://open.spotify.com/artist/6jCTuQ4WpvTPoyGrSGIicE) | [九月の空 \-KUGATSU NO SOLA\-](https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC) | 3:39 |
-| 48 | [ハルカゼ](https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [seed](https://open.spotify.com/album/22fSotV1aM3FopU7cUnnmg) | 3:27 |
-| 49 | [Frontiers](https://open.spotify.com/track/0pGMeaqavka50SO0yorIqV) | [DEZOLVE](https://open.spotify.com/artist/69bAmAy4oS266wXyJiColS) | [Frontiers](https://open.spotify.com/album/6OUrBuWxY1NtCu2VmUD1RK) | 5:08 |
+| 48 | [Frontiers](https://open.spotify.com/track/0pGMeaqavka50SO0yorIqV) | [DEZOLVE](https://open.spotify.com/artist/69bAmAy4oS266wXyJiColS) | [Frontiers](https://open.spotify.com/album/6OUrBuWxY1NtCu2VmUD1RK) | 5:08 |
+| 49 | [ハルカゼ](https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [seed](https://open.spotify.com/album/22fSotV1aM3FopU7cUnnmg) | 3:27 |
 | 50 | [Tailwind](https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY) | [Ear Candy Jazz Factory](https://open.spotify.com/artist/6fJoQGB0VmdUHup8pB7ple) | [Tangerine Peel Jam](https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv) | 4:35 |
 
 Snapshot ID: `AAAAAMp3caUCCulc8Bn9IscvgWfHX3l5`

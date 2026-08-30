@@ -975,6 +975,24 @@
     },
     {
       "album": {
+        "name": "La Tendr\u00e9 Que Olvidar",
+        "url": "https://open.spotify.com/album/2gSjwvm8bv3dtuSjndOYec"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241584,
+      "name": "La Tendr\u00e9 Que Olvidar",
+      "url": "https://open.spotify.com/track/3lvWyePXS1f6gCaWWr2S8m"
+    },
+    {
+      "album": {
         "name": "Gracias Mujer",
         "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
       },
@@ -1804,7 +1822,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 231453,
       "name": "Vivir sin ella",
       "url": "https://open.spotify.com/track/2CAPJjivO1styJgQW0ukVP"

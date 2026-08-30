@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 
 > Pop to fuel your gaming\. Cover: CORTIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,845 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,884 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 | 17 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 |
 | 18 | [rockstar \(feat\. 21 Savage\)](https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:38 |
 | 19 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 |
-| 20 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 |
-| 21 | [Again \(feat\. XXXTENTACION\)](https://open.spotify.com/track/2S2od3hT7ceytw7d1pTRuE) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Again \(feat\. XXXTENTACION\)](https://open.spotify.com/album/5UD36hu4fYZ6R8b8crkKL7) | 3:13 |
+| 20 | [Again \(feat\. XXXTENTACION\)](https://open.spotify.com/track/2S2od3hT7ceytw7d1pTRuE) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Again \(feat\. XXXTENTACION\)](https://open.spotify.com/album/5UD36hu4fYZ6R8b8crkKL7) | 3:13 |
+| 21 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 |
 | 22 | [Run Rabbit](https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Run Rabbit](https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4) | 3:09 |
 | 23 | [No Idea](https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:34 |
 | 24 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 | 42 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:17 |
 | 43 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
 | 44 | [Boss Bitch](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Boss Bitch](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) | 2:14 |
-| 45 | [Mount Everest](https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:37 |
-| 46 | [KGB](https://open.spotify.com/track/7C7vnAW3L8ahsOGsZKY6EP) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [KGB](https://open.spotify.com/album/06wdsqUb4GSuR29Luwiu8n) | 2:37 |
+| 45 | [KGB](https://open.spotify.com/track/7C7vnAW3L8ahsOGsZKY6EP) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [KGB](https://open.spotify.com/album/06wdsqUb4GSuR29Luwiu8n) | 2:37 |
+| 46 | [Mount Everest](https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:37 |
 | 47 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 |
 | 48 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 |
 | 49 | [From the Start](https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [From the Start](https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v) | 2:30 |

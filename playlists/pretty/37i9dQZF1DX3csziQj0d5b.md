@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3csziQj0d5b.md) - [plain]
 
 > Music to take the pain of homework away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,928,687 likes - 122 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,928,772 likes - 122 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3csziQj0d5b.md) - [plain]
 | 25 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
 | 26 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 |
 | 27 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
-| 28 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 |
-| 29 | [Sue me](https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 2:50 |
+| 28 | [Sue me](https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 2:50 |
+| 29 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 |
 | 30 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 31 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 |
 | 32 | [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:08 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3csziQj0d5b.md) - [plain]
 | 34 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 |
 | 35 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
 | 36 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
-| 37 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
-| 38 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
-| 39 | [Pure](https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 3:39 |
+| 37 | [Pure](https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 3:39 |
+| 38 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
+| 39 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 40 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
 | 41 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 |
 | 42 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 |
@@ -72,19 +72,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3csziQj0d5b.md) - [plain]
 | 62 | [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 |
 | 63 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
 | 64 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
-| 65 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
-| 66 | [It's You](https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [YOU](https://open.spotify.com/album/63Kr9mdWxT7mB2AKgf4rCa) | 3:32 |
+| 65 | [It's You](https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [YOU](https://open.spotify.com/album/63Kr9mdWxT7mB2AKgf4rCa) | 3:32 |
+| 66 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
 | 67 | [Space Song](https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv) | 5:20 |
 | 68 | [Dancing With Your Ghost](https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Dancing With Your Ghost](https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB) | 3:17 |
 | 69 | [The 30th](https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 3:36 |
 | 70 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
-| 71 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 |
-| 72 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 |
+| 71 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 |
+| 72 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 |
 | 73 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 |
 | 74 | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/album/7pkLXlFdpQDfmHujT2AbBK) | 2:53 |
-| 75 | [Nothing's New](https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good God!](https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY) | 3:31 |
-| 76 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 |
-| 77 | [Make You Mine](https://open.spotify.com/track/5iFwAOB2TFkPJk8sMlxP8g) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Make You Mine](https://open.spotify.com/album/2CxrZinzjDXZidyx5EP214) | 3:52 |
+| 75 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 |
+| 76 | [Make You Mine](https://open.spotify.com/track/5iFwAOB2TFkPJk8sMlxP8g) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Make You Mine](https://open.spotify.com/album/2CxrZinzjDXZidyx5EP214) | 3:52 |
+| 77 | [Nothing's New](https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good God!](https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY) | 3:31 |
 | 78 | [Ghost](https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD) | 2:33 |
 | 79 | [Little Bit Better](https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Little Bit Better](https://open.spotify.com/album/4cJHTRsxDkQpMPnLwFcgkV) | 3:47 |
 | 80 | [Strawberries & Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Strawberries & Cigarettes](https://open.spotify.com/album/5L0bixsyXEkomsyucUySjy) | 3:21 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3csziQj0d5b.md) - [plain]
 | 109 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 |
 | 110 | [Moral of the Story](https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Moral of the Story](https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP) | 3:21 |
 | 111 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 |
-| 112 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 |
-| 113 | [I Like Me Better](https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:17 |
+| 112 | [I Like Me Better](https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:17 |
+| 113 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 |
 | 114 | [lowkey](https://open.spotify.com/track/5TTXEcfsYLh6fTarLaevTi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [lowkey](https://open.spotify.com/album/6a1p03zluxNwXTVdm9IStw) | 2:51 |
 | 115 | [It Is What It Is](https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [It Is What It Is](https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5) | 2:26 |
 | 116 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3csziQj0d5b.md) - [plain]
 | 121 | [Photograph](https://open.spotify.com/track/5tIJb0C5rIbiDijHl41byE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Photograph](https://open.spotify.com/album/7jbD7K0FaZO2dn4stH2SXA) | 4:18 |
 | 122 | [From The Start](https://open.spotify.com/track/4HqQu5tgwmRupi96Qk3LhM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 2:49 |
 
-Snapshot ID: `AAAAAAmZkS29STRyLpR/RWpoqxMzLmvK`
+Snapshot ID: `AAAAAOAllFzHoOzfCv9kw3sdtwrhJ1Ys`

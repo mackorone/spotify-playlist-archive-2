@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,229 songs - 3 day 18 hr 18 min
+1,230 songs - 3 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [AI Calculator \- Original Mix](https://open.spotify.com/track/6J4iveHstruG5xksD9WKoo) | [Primal Code](https://open.spotify.com/artist/333fTqSVizazuFfaNzwjj8) | [AI Calculator](https://open.spotify.com/album/55IlKHSvT89DGVnUHuZqXm) | 6:12 | 2022-02-04 | 2022-04-07 |
 | [Air](https://open.spotify.com/track/3jjBLJCxq4xD5n0h8dz4wC) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Air](https://open.spotify.com/album/54TRcRE5cExljtlDYn6pH1) | 2:40 | 2025-07-04 | 2025-10-22 |
 | [Air](https://open.spotify.com/track/4jwFvHY4dEWXbFOcXL7Wzo) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Teguh Permana](https://open.spotify.com/artist/5pZTmvsUtCJ0RzCnQcAv3l) | [Poe](https://open.spotify.com/album/0qUmfgDoagYWF1W2uHuRIV) | 4:15 | 2025-02-14 | 2025-10-24 |
-| [Alignment, Orbits](https://open.spotify.com/track/3jNC3jInwASrXxGV9s2IaC) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Alignment, Orbits](https://open.spotify.com/album/0dYSVWEBkfVShzpF8n3aVH) | 7:46 | 2026-01-16 |  |
+| [Alignment, Orbits](https://open.spotify.com/track/3jNC3jInwASrXxGV9s2IaC) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Alignment, Orbits](https://open.spotify.com/album/0dYSVWEBkfVShzpF8n3aVH) | 7:46 | 2026-01-16 | 2026-08-30 |
 | [All You Need Is Time](https://open.spotify.com/track/160leq3oBHDPYyD0A6rK3n) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi) | [All You Need Is Time](https://open.spotify.com/album/0OY8sEzJ8DjluG61z0CmrO) | 4:37 | 2021-03-08 | 2025-10-24 |
 | [All You Need to See \(Clever Intro\)](https://open.spotify.com/track/0XSiiBEmjVCCQ4SeA5Afq6) | [Matt Lange](https://open.spotify.com/artist/2AmHV6vxRxvHdlxSHxnHE9) | [All You Need to See](https://open.spotify.com/album/5xNAj42AQVdXFxziNoUpZZ) | 1:12 | 2019-06-19\* | 2020-06-12 |
 | [Alone \- Four Tet Remix](https://open.spotify.com/track/33gpxTp8FlcGTyj9ksswGe) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Alone \(Four Tet Remix\)](https://open.spotify.com/album/4NeAALY2Y5w5UnEaVmqjgp) | 6:16 | 2025-04-25 | 2025-08-09 |
@@ -560,6 +560,7 @@
 | [Keep Shimmering](https://open.spotify.com/track/7d5W34LzqiRbH8LCOZw7zz) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Please Keep Shimmering](https://open.spotify.com/album/0Jb1QT42kUlDfl7gQzzGxM) | 4:23 | 2023-08-22 | 2023-09-16 |
 | [keepsakeFM](https://open.spotify.com/track/66ic3WTFVUyXNGItFa7o6E) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv), [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [keepsakeFM](https://open.spotify.com/album/360zxWjheLBzqwv5hVm7QD) | 3:19 | 2024-08-05 | 2026-08-07 |
 | [Kelmpt Lon](https://open.spotify.com/track/6ZJn9cMCAlFan6vy0tfUrS) | [Prospect Lux](https://open.spotify.com/artist/4LARm1gooSxp8vDN3u7RoT) | [Gray Instrument, Vol\. 2](https://open.spotify.com/album/3UQxLmOATVuciip9vTl4rJ) | 4:34 | 2020-05-20 | 2020-10-22 |
+| [Keys to a Printed Garden](https://open.spotify.com/track/2LAH029XWCxiNdb6JIlQlv) | [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA) | [Keys To A Printed Garden](https://open.spotify.com/album/1oUS3nQ2Dv3XL8GJaoA3vI) | 6:19 | 2026-08-28 |  |
 | [Kindness](https://open.spotify.com/track/3Bvxmby5zHQ2s72GAQY1ip) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Kindness](https://open.spotify.com/album/0qwpmqEpdq4ioxTMpQNq1t) | 4:35 | 2021-08-13 | 2026-02-07 |
 | [Kingston](https://open.spotify.com/track/4WOmFmr0FVQyhVji655Io5) | [Rod Modell](https://open.spotify.com/artist/6ZX4eVTPQBJ7q0cIShOmKD) | [Kettle Point](https://open.spotify.com/album/54DISapbGDCL9c01qJKE5k) | 6:05 | 2025-08-28 |  |
 | [Kintsugi](https://open.spotify.com/track/43cbFFWsvH9ojZ0QaufdlH) | [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI) | [Kintsugi](https://open.spotify.com/album/3XVyRiBQtZTxjrjtVL0Igx) | 8:40 | 2025-04-04 | 2025-05-24 |

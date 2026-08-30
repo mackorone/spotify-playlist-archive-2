@@ -1382,7 +1382,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 224800,
       "name": "Alegre Caballero",
       "url": "https://open.spotify.com/track/3pCfk5AC2LkN9Ug1lm4Eej"
@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 139698,
       "name": "Amor del Agro",
       "url": "https://open.spotify.com/track/1ZSYhCqlR7ow8fWxfvuFFZ"
@@ -2922,7 +2922,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 183284,
       "name": "Balderrama",
       "url": "https://open.spotify.com/track/3hDNBhAWYjvxUjvHsfXi2C"
@@ -4658,7 +4658,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 204333,
       "name": "Candombe para Gardel",
       "url": "https://open.spotify.com/track/43iC3dWHlMrBRwH9OlHFuj"
@@ -5128,6 +5128,28 @@
       "duration_ms": 167553,
       "name": "Chica Brasile\u00f1a Remix",
       "url": "https://open.spotify.com/track/4lIGf1AhxbdiEpDUwosSLU"
+    },
+    {
+      "album": {
+        "name": "Mix Noche de la Nostalgia",
+        "url": "https://open.spotify.com/album/2pHXOBBI4hm0l3oj5RmJFI"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "La Incontrolable",
+          "url": "https://open.spotify.com/artist/4EuhUtsXyGJcgmJRbP8BL5"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176210,
+      "name": "Chica Del Lugar",
+      "url": "https://open.spotify.com/track/1aEGkBXnk70OtsCuiP3Qmv"
     },
     {
       "album": {
@@ -5910,7 +5932,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 157329,
       "name": "Coraz\u00f3n Part\u00edo",
       "url": "https://open.spotify.com/track/40KiHURgiThI7TFkxUJmt0"
@@ -6866,7 +6888,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -7334,7 +7356,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 268658,
       "name": "Desde el coraz\u00f3n",
       "url": "https://open.spotify.com/track/6UzRohWO3l811keaK0lzZd"
@@ -8358,7 +8380,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 172853,
       "name": "Echale Sal A La Vida",
       "url": "https://open.spotify.com/track/3qCcb9tJlGOzmjCUgrKuem"
@@ -8934,7 +8956,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
@@ -8956,7 +8978,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -9036,7 +9058,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 209261,
       "name": "El Viejo",
       "url": "https://open.spotify.com/track/4F5KoFgwWNZIC6KaFkyfDM"
@@ -13786,7 +13808,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 150001,
       "name": "La Plena - W Sound 05",
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
@@ -14722,7 +14744,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 346333,
       "name": "Loco De Amor",
       "url": "https://open.spotify.com/track/0yFHCTzyoRgOZ1WO0WAJMO"
@@ -17562,7 +17584,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 178255,
       "name": "Muero Por Ti",
       "url": "https://open.spotify.com/track/27mCFtuegT2aQNirEVYuvS"
@@ -21549,6 +21571,32 @@
     },
     {
       "album": {
+        "name": "Yo Solo Quer\u00eda Divertirme",
+        "url": "https://open.spotify.com/album/2ND26lhhl4JSbIOVgJiY42"
+      },
+      "artists": [
+        {
+          "name": "Lauta",
+          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
+        },
+        {
+          "name": "Amigo de Artistas",
+          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
+        },
+        {
+          "name": "Tote",
+          "url": "https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139578,
+      "name": "Pu\u00f1aladas",
+      "url": "https://open.spotify.com/track/1hdrRqaR0GFpWrH3omUHaL"
+    },
+    {
+      "album": {
         "name": "Pu\u00f1aladas",
         "url": "https://open.spotify.com/album/5S8mx5C6D6jj6l7ESqqrXD"
       },
@@ -21568,7 +21616,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 139578,
       "name": "Pu\u00f1aladas",
       "url": "https://open.spotify.com/track/4AL4EamHEBKPpdcFRkYdXN"
@@ -23600,7 +23648,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 287666,
       "name": "Se Me Olvida / Empelotica",
       "url": "https://open.spotify.com/track/4RAZ4K0gvNfFGc4KpVcrVX"
@@ -24464,7 +24512,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 159683,
       "name": "Sin Pena",
       "url": "https://open.spotify.com/track/1961U1D0y1hZw9bLAZuRFx"
@@ -30612,7 +30660,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 99413,
       "name": "Yo Quiero",
       "url": "https://open.spotify.com/track/5ffskOM64vzT0AVrXDMQ8m"

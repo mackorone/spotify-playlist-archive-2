@@ -2,7 +2,7 @@
 
 ### [This Is Justin Bieber](https://open.spotify.com/playlist/37i9dQZF1DXc2aPBXGmXrt)
 
-> 
+> The essential songs from Justin Bieber.
 
 118 songs - 6 hr 34 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Mannequin, Mia Morris, Coppernikas and more",
+  "description": "With Coppernikas, Die Mannequin, The Donnas and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -376,7 +376,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 191066,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7bzenh25iZVgL15KzevtgQ"
@@ -726,6 +726,24 @@
       "duration_ms": 188784,
       "name": "Automatic Confidence",
       "url": "https://open.spotify.com/track/75vxwf0g2pxpQNbQTz6D5i"
+    },
+    {
+      "album": {
+        "name": "Baby Doll",
+        "url": "https://open.spotify.com/album/3UU7GQbVUcA7YshodjQoBg"
+      },
+      "artists": [
+        {
+          "name": "Satsangi",
+          "url": "https://open.spotify.com/artist/1vm8Gg9KaOcMG0wCbwz4uv"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223773,
+      "name": "Baby Doll",
+      "url": "https://open.spotify.com/track/4vZVo44JXrKrqyZ02Olra5"
     },
     {
       "album": {
@@ -3542,7 +3560,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 183296,
       "name": "Family Business",
       "url": "https://open.spotify.com/track/5G17Fsj56q5wTOVDZQbGBN"
@@ -3560,7 +3578,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 175903,
       "name": "Family Tree",
       "url": "https://open.spotify.com/track/6qDaBJuKnKJcKeD5HVwA2y"
@@ -3658,6 +3676,24 @@
       "duration_ms": 193488,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/4s1EgFCKaPK4Ml5lsOCsxn"
+    },
+    {
+      "album": {
+        "name": "Fever Dreaming",
+        "url": "https://open.spotify.com/album/12xY4p3ovB4Bcbw9IfI9uU"
+      },
+      "artists": [
+        {
+          "name": "Kalie Shorr",
+          "url": "https://open.spotify.com/artist/5l2O3KSyCkTtjwcTLixHi5"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171809,
+      "name": "Fever Dreaming",
+      "url": "https://open.spotify.com/track/6pBIbD0zWK2cYiymkLF9WF"
     },
     {
       "album": {
@@ -4634,7 +4670,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 200226,
       "name": "Hater",
       "url": "https://open.spotify.com/track/0dyrtx0dDhiY2gvvDogbQZ"
@@ -4742,7 +4778,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 179392,
       "name": "Heirloom",
       "url": "https://open.spotify.com/track/1Byhof54wdXLz4JhfG9ohj"
@@ -6440,7 +6476,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
@@ -7943,6 +7979,24 @@
     },
     {
       "album": {
+        "name": "Common Reaction (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/31FmzGjsj9LVwioKFDAi7U"
+      },
+      "artists": [
+        {
+          "name": "Uh Huh Her",
+          "url": "https://open.spotify.com/artist/4rIQfLmeMAUQJ5f5cy8xhb"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213840,
+      "name": "Not A Love Song",
+      "url": "https://open.spotify.com/track/7eD1ocWnFN5uIKLkfeNbVj"
+    },
+    {
+      "album": {
         "name": "Not Cool With It",
         "url": "https://open.spotify.com/album/24eUr3QxI54tKOlojHntkf"
       },
@@ -8916,7 +8970,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 182303,
       "name": "Porch Light",
       "url": "https://open.spotify.com/track/4qo7poyzTZdR7cvLSqszbi"
@@ -10048,7 +10102,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 193899,
       "name": "So What",
       "url": "https://open.spotify.com/track/17mDkw99uAJnjFOXeDuLbE"
@@ -11054,6 +11108,24 @@
       "duration_ms": 217000,
       "name": "Think Like A Man",
       "url": "https://open.spotify.com/track/2nLcGjxoSbVrgdUwtMcJxs"
+    },
+    {
+      "album": {
+        "name": "Untouched",
+        "url": "https://open.spotify.com/album/2mBzwVNK25pwRgriCYyfiW"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251893,
+      "name": "This Is How It Feels",
+      "url": "https://open.spotify.com/track/2D48SX4MQnigry1af6urQY"
     },
     {
       "album": {

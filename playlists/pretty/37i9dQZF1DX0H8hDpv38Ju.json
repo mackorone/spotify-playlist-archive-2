@@ -1,6 +1,6 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 873329,
+  "num_followers": 873387,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "The Best Of Stephanie Mills",
+        "url": "https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 325173,
+      "name": "Never Knew Love Like This Before",
+      "url": "https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "The Glamorous Life",
         "url": "https://open.spotify.com/album/2fv3CMkuVgYRtQVnhv1rQW"
       },
@@ -399,18 +415,18 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "The Best Of Stephanie Mills",
-        "url": "https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO"
+        "name": "Love Come Down: The Best of Evelyn \"Champagne\" King",
+        "url": "https://open.spotify.com/album/3o75BuQvN7lw4nzrAd8MPz"
       },
       "artists": [
         {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+          "name": "Evelyn \"Champagne\" King",
+          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
         }
       ],
-      "duration_ms": 325173,
-      "name": "Never Knew Love Like This Before",
-      "url": "https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy"
+      "duration_ms": 364946,
+      "name": "Love Come Down",
+      "url": "https://open.spotify.com/track/0Of5lCNEqh62twRkQIOLuK"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -431,22 +447,6 @@
       "duration_ms": 404213,
       "name": "I Wonder If I Take You Home",
       "url": "https://open.spotify.com/track/3sRCesHh424gmCji7Fz9Gm"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Love Come Down: The Best of Evelyn \"Champagne\" King",
-        "url": "https://open.spotify.com/album/3o75BuQvN7lw4nzrAd8MPz"
-      },
-      "artists": [
-        {
-          "name": "Evelyn \"Champagne\" King",
-          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
-        }
-      ],
-      "duration_ms": 364946,
-      "name": "Love Come Down",
-      "url": "https://open.spotify.com/track/0Of5lCNEqh62twRkQIOLuK"
     },
     {
       "added_at": "2021-07-01 19:39:13",

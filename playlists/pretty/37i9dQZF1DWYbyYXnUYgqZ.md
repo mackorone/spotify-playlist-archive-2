@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 
 > Enjoy fantastic gameplay with k\-pop music! \(Cover: KiiiKiii\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,713 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,721 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 | 52 | [HANDS UP](https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E) | 3:12 |
 | 53 | [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 |
 | 54 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 |
-| 55 | [THAT’S A NO NO](https://open.spotify.com/track/0q1NTsO5b93R97JdQxtFGx) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:00 |
-| 56 | [Blue Valentine](https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB) | 3:06 |
-| 57 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:21 |
+| 55 | [Blue Valentine](https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB) | 3:06 |
+| 56 | [THAT’S A NO NO](https://open.spotify.com/track/0q1NTsO5b93R97JdQxtFGx) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:00 |
+| 57 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 |
 | 58 | [CELEBRATION](https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION](https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL) | 2:33 |
-| 59 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 |
+| 59 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:21 |
 | 60 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
 | 61 | [OVERDRIVE](https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [play hard](https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U) | 2:40 |
 | 62 | [Pretty Savage](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:21 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 | 72 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 |
 | 73 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Sparkling Blue](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 |
 | 74 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 |
-| 75 | [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 |
-| 76 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Face the Sun](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 |
+| 75 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Face the Sun](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 |
+| 76 | [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 |
 | 77 | [FLOWER](https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql) | 2:54 |
 | 78 | [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 |
 | 79 | [FAMOUS](https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7) | 3:00 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 | 93 | [This & That](https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj) | 3:05 |
 | 94 | [SIGN](https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SIGN](https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd) | 2:46 |
 | 95 | [MAESTRO](https://open.spotify.com/track/2UE9XGbAzicJIyo4bB6sqM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [17 IS RIGHT HERE](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 3:18 |
-| 96 | [Good Thing](https://open.spotify.com/track/6d8DgvFxp6lbdfOw9BVkLS) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/4vj008nVDYfO4m75ZT1VBu) | 2:34 |
-| 97 | [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 |
+| 96 | [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 |
+| 97 | [Good Thing](https://open.spotify.com/track/6d8DgvFxp6lbdfOw9BVkLS) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/4vj008nVDYfO4m75ZT1VBu) | 2:34 |
 | 98 | [WICKED](https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7) | 2:37 |
 | 99 | [DASH](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:46 |
 | 100 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,540 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,566 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 41 | [Dark Eyed Sailor](https://open.spotify.com/track/5dzk2Upt3yF2uDThmsqeJX) | [Olivia Chaney](https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e) | [Dark Eyed Sailor](https://open.spotify.com/album/1R4KuR0eEdoQH6c9SokpsH) | 5:10 |
 | 42 | [You & We](https://open.spotify.com/track/5MD0n5OdhzQE8TGbGO0n7c) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/46XdK0AK5PmeummJN5fB6W) | 4:28 |
 | 43 | [Upstate](https://open.spotify.com/track/0Tg8POtTUlEH9xNobmoade) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 4:24 |
-| 44 | [Philadelphia \(with Searows\)](https://open.spotify.com/track/7areyJPur83YJOJLhvSXvH) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf), [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Philadelphia \(with Searows\)](https://open.spotify.com/album/6FGCL7fcqEcGhXjI7IhQZF) | 3:02 |
-| 45 | [Foreign Bird](https://open.spotify.com/track/0CbRgc5D5AKpfIlCmbggqh) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 4:12 |
-| 46 | [Never, No Not Once](https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Never, No Not Once](https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB) | 4:58 |
+| 44 | [Never, No Not Once](https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Never, No Not Once](https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB) | 4:58 |
+| 45 | [Philadelphia \(with Searows\)](https://open.spotify.com/track/7areyJPur83YJOJLhvSXvH) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf), [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Philadelphia \(with Searows\)](https://open.spotify.com/album/6FGCL7fcqEcGhXjI7IhQZF) | 3:02 |
+| 46 | [Foreign Bird](https://open.spotify.com/track/0CbRgc5D5AKpfIlCmbggqh) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 4:12 |
 | 47 | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb) | 3:51 |
 | 48 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 |
 | 49 | [the way you do](https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [valley of my prime](https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc) | 3:27 |

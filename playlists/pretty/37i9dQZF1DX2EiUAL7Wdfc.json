@@ -1,6 +1,6 @@
 {
   "description": "Los temas que se convertir\u00e1n en himnos.",
-  "num_followers": 616816,
+  "num_followers": 617009,
   "original_name": "m\u00edticas",
   "owner": {
     "name": "Spotify",
@@ -419,26 +419,6 @@
     {
       "added_at": "2026-04-27 15:19:34",
       "album": {
-        "name": "BORONDO",
-        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 159404,
-      "name": "mi refe",
-      "url": "https://open.spotify.com/track/4zhk2RS2EZODmBW6il55Qj"
-    },
-    {
-      "added_at": "2026-04-27 15:19:34",
-      "album": {
         "name": "PRIMERA MUSA",
         "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 224022,
       "name": "Q U E V A S H A C E R H O Y ?",
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
+    },
+    {
+      "added_at": "2026-04-27 15:19:34",
+      "album": {
+        "name": "BORONDO",
+        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 159404,
+      "name": "mi refe",
+      "url": "https://open.spotify.com/track/4zhk2RS2EZODmBW6il55Qj"
     },
     {
       "added_at": "2026-04-27 15:19:34",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-04-27 15:19:34",
       "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "Hasta el Amanecer",
+      "url": "https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS"
+    },
+    {
+      "added_at": "2026-04-27 15:19:34",
+      "album": {
         "name": "Platonicos",
         "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
-    },
-    {
-      "added_at": "2026-04-27 15:19:34",
-      "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "Hasta el Amanecer",
-      "url": "https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS"
     },
     {
       "added_at": "2026-04-27 15:19:34",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2026-04-27 15:19:34",
       "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        }
-      ],
-      "duration_ms": 185040,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw"
-    },
-    {
-      "added_at": "2026-04-27 15:19:34",
-      "album": {
         "name": "MALA SANTA",
         "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 203183,
       "name": "Mayores",
       "url": "https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy"
+    },
+    {
+      "added_at": "2026-04-27 15:19:34",
+      "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "duration_ms": 185040,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw"
     },
     {
       "added_at": "2026-04-27 15:19:34",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-04-27 15:19:34",
       "album": {
-        "name": "La Familia B Sides",
-        "url": "https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 226413,
-      "name": "Ay Vamos",
-      "url": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ"
-    },
-    {
-      "added_at": "2026-04-27 15:19:34",
-      "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 202173,
       "name": "LA INOCENTE",
       "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
+    },
+    {
+      "added_at": "2026-04-27 15:19:34",
+      "album": {
+        "name": "La Familia B Sides",
+        "url": "https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 226413,
+      "name": "Ay Vamos",
+      "url": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ"
     },
     {
       "added_at": "2026-04-27 15:19:34",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-04-27 15:19:34",
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 175733,
+      "name": "11 PM",
+      "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
+    },
+    {
+      "added_at": "2026-04-27 15:19:34",
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 265746,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5"
-    },
-    {
-      "added_at": "2026-04-27 15:19:34",
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 175733,
-      "name": "11 PM",
-      "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
     },
     {
       "added_at": "2026-04-27 15:19:34",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-04-27 15:19:34",
       "album": {
-        "name": "Energ\u00eda",
-        "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "Ginza",
-      "url": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h"
-    },
-    {
-      "added_at": "2026-04-27 15:19:34",
-      "album": {
         "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
         "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 171880,
       "name": "Normal",
       "url": "https://open.spotify.com/track/0T2pB7P1VdXPhLdQZ488uH"
+    },
+    {
+      "added_at": "2026-04-27 15:19:34",
+      "album": {
+        "name": "Energ\u00eda",
+        "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "Ginza",
+      "url": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h"
     },
     {
       "added_at": "2026-04-27 15:19:34",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-04-27 15:19:34",
       "album": {
-        "name": "EL \u00daLTIMO BAILE",
-        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 145342,
-      "name": "REAL GANGSTA LOVE",
-      "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
-    },
-    {
-      "added_at": "2026-04-27 15:19:34",
-      "album": {
         "name": "Andas En Mi Cabeza",
         "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 247493,
       "name": "Andas En Mi Cabeza",
       "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
+    },
+    {
+      "added_at": "2026-04-27 15:19:34",
+      "album": {
+        "name": "EL \u00daLTIMO BAILE",
+        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 145342,
+      "name": "REAL GANGSTA LOVE",
+      "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
     },
     {
       "added_at": "2026-04-27 15:19:34",

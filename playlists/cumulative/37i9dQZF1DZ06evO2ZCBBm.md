@@ -4,7 +4,7 @@
 
 > This is The Used\. The essential tracks, all in one playlist.
 
-102 songs - 5 hr 29 min
+103 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Pinky Swear](https://open.spotify.com/track/1mNrTiHrV8DthnCiWLW8G9) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 2:13 | 2023-05-20 | 2026-01-25 |
 | [Playing The Victim](https://open.spotify.com/track/1jQ56oPXtND0hIyb2SHGQN) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork \(Deluxe\)](https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So) | 2:22 | 2022-11-11 | 2023-05-21 |
 | [Poetic Tragedy](https://open.spotify.com/track/58sdfzX722CMoU7m0s5dUi) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:44 | 2022-02-25 |  |
+| [POISON feat\. Bert McCracken \(The Used\)](https://open.spotify.com/track/35N1r1X3vzTs5hIk42SPBR) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Bert McCracken](https://open.spotify.com/artist/7rEzlkwGjVgUXbWi0kDEAA) | [POISON feat\. Bert McCracken \(The Used\)](https://open.spotify.com/album/1a2lPzj5stWhiIOnftpyGD) | 3:35 | 2026-08-30 |  |
 | [Pretty Handsome Awkward](https://open.spotify.com/track/77BfOPXhlnNaSbg647qkx2) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:35 | 2022-01-17 |  |
 | [Put Me Out](https://open.spotify.com/track/6XcLXKshSwwbShcndUY1Kh) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Vulnerable](https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8) | 4:02 | 2022-01-17 | 2022-12-28 |
 | [Revolution](https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 4:04 | 2022-01-17 |  |
@@ -87,7 +88,7 @@
 | [Self Sabotaging \(feat\. Bert McCracken of The Used\)](https://open.spotify.com/track/5WfV4m7ZXJYdIWUct1VJxd) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp), [robbietheused](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Self Sabotaging \(feat\. Bert McCracken of The Used\)](https://open.spotify.com/album/579CdMvfi7V8g1PLyCkr6s) | 2:24 | 2023-08-19 | 2024-05-20 |
 | [Sick Hearts](https://open.spotify.com/track/3unplKLGy9fffR2HDbMWTa) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Shallow Believer](https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU) | 3:27 | 2022-01-17 | 2026-08-28 |
 | [Sisyphus](https://open.spotify.com/track/0oF3vyPF4KSwfc1tv8n3Hc) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 2:59 | 2024-06-23 |  |
-| [Slit Your Own Throat](https://open.spotify.com/track/1j8b6BNsHXaAImvIocZqHn) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Shallow Believer](https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU) | 3:04 | 2022-01-17 |  |
+| [Slit Your Own Throat](https://open.spotify.com/track/1j8b6BNsHXaAImvIocZqHn) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Shallow Believer](https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU) | 3:04 | 2022-01-17 | 2026-08-30 |
 | [Sold My Soul](https://open.spotify.com/track/68mlXME4DllvQgMbSsSimc) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Artwork](https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI) | 4:12 | 2022-01-17 |  |
 | [Sound Effects and Overdramatics](https://open.spotify.com/track/4dlyVQH6YlWuOOF2HZAFoz) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:28 | 2022-01-17 | 2024-07-24 |
 | [Take It Away](https://open.spotify.com/track/2PzjnmkdMr6eOkFwQgqmyC) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:37 | 2022-01-17 |  |

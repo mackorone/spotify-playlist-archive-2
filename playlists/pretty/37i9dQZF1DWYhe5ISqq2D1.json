@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3092\u7279\u96c6\u3002Featuring Japanese Singer-Songwriters. Cover: \u5b89\u90e8\u52c7\u78e8 Yuma Abe",
-  "num_followers": 65688,
+  "num_followers": 65685,
   "original_name": "\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc Singer-Songwriter Japan",
   "owner": {
     "name": "Spotify",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/1EzoKpnHJrFqMv8yMYZ6Ej"
-      },
-      "artists": [
-        {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
-        }
-      ],
-      "duration_ms": 205186,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/3GwNhhs7l7MWksH2BwUraz"
-    },
-    {
-      "added_at": "2026-08-25 15:00:10",
-      "album": {
         "name": "\u3072\u3068\u3072\u3089",
         "url": "https://open.spotify.com/album/6bvqkbS0z1yQlpERbRoUVi"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
-        "name": "once again",
-        "url": "https://open.spotify.com/album/2dxHjVn1wkpFyZuUnDDCL3"
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/1EzoKpnHJrFqMv8yMYZ6Ej"
       },
       "artists": [
         {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
         }
       ],
-      "duration_ms": 178557,
-      "name": "once again",
-      "url": "https://open.spotify.com/track/18y8YQ7aticHws5V2jS5Nc"
+      "duration_ms": 205186,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/3GwNhhs7l7MWksH2BwUraz"
     },
     {
       "added_at": "2026-08-25 15:00:10",
@@ -1135,6 +1119,22 @@
       "duration_ms": 215769,
       "name": "\u98a8\u898b\u9d8f",
       "url": "https://open.spotify.com/track/5FwUazYSMotO95IPzjgG1q"
+    },
+    {
+      "added_at": "2026-08-25 15:00:10",
+      "album": {
+        "name": "once again",
+        "url": "https://open.spotify.com/album/2dxHjVn1wkpFyZuUnDDCL3"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "duration_ms": 178557,
+      "name": "once again",
+      "url": "https://open.spotify.com/track/18y8YQ7aticHws5V2jS5Nc"
     },
     {
       "added_at": "2026-08-25 15:00:10",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
-        "name": "Mermaid",
-        "url": "https://open.spotify.com/album/0pyLvKAdx8f1z9e2jn6IZw"
-      },
-      "artists": [
-        {
-          "name": "Shota Shimizu",
-          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
-        }
-      ],
-      "duration_ms": 225466,
-      "name": "Mermaid",
-      "url": "https://open.spotify.com/track/5cBCZnbiATTl73p2UEi3T8"
-    },
-    {
-      "added_at": "2026-08-25 15:00:10",
-      "album": {
         "name": "Made of Glass",
         "url": "https://open.spotify.com/album/0uVgcnVehPQxQAEoxo5jXV"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 252680,
       "name": "Christmas Eve",
       "url": "https://open.spotify.com/track/2gFSwfK1smPgeXWiZ45p7C"
+    },
+    {
+      "added_at": "2026-08-25 15:00:10",
+      "album": {
+        "name": "Mermaid",
+        "url": "https://open.spotify.com/album/0pyLvKAdx8f1z9e2jn6IZw"
+      },
+      "artists": [
+        {
+          "name": "Shota Shimizu",
+          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
+        }
+      ],
+      "duration_ms": 225466,
+      "name": "Mermaid",
+      "url": "https://open.spotify.com/track/5cBCZnbiATTl73p2UEi3T8"
     },
     {
       "added_at": "2026-08-25 15:00:10",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
+        "name": "Live Bluesy",
+        "url": "https://open.spotify.com/album/0lyhY506F1qbNSmkU1GfoP"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "\u98a8\u306b\u306a\u308b",
+      "url": "https://open.spotify.com/track/612Ohtq2pdCo4VC57pDqh0"
+    },
+    {
+      "added_at": "2026-08-25 15:00:10",
+      "album": {
         "name": "\u7f8e\u4eba\u5c40",
         "url": "https://open.spotify.com/album/1Cjxr1EAF2OPZGmESsMNXt"
       },
@@ -1271,18 +1287,18 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
-        "name": "Live Bluesy",
-        "url": "https://open.spotify.com/album/0lyhY506F1qbNSmkU1GfoP"
+        "name": "L\u3068R",
+        "url": "https://open.spotify.com/album/2mvm51e648ncvVB8HVfh3q"
       },
       "artists": [
         {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
         }
       ],
-      "duration_ms": 193813,
-      "name": "\u98a8\u306b\u306a\u308b",
-      "url": "https://open.spotify.com/track/612Ohtq2pdCo4VC57pDqh0"
+      "duration_ms": 216888,
+      "name": "L\u3068R",
+      "url": "https://open.spotify.com/track/6Ln2ObReA3U9sKd3ccikz7"
     },
     {
       "added_at": "2026-08-25 15:00:10",
@@ -1347,22 +1363,6 @@
       "duration_ms": 183636,
       "name": "stay with me",
       "url": "https://open.spotify.com/track/5jL2iJzLhS4PNsLtc4ltgw"
-    },
-    {
-      "added_at": "2026-08-25 15:00:10",
-      "album": {
-        "name": "L\u3068R",
-        "url": "https://open.spotify.com/album/2mvm51e648ncvVB8HVfh3q"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        }
-      ],
-      "duration_ms": 216888,
-      "name": "L\u3068R",
-      "url": "https://open.spotify.com/track/6Ln2ObReA3U9sKd3ccikz7"
     },
     {
       "added_at": "2026-08-25 15:00:10",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
-        "name": "INSIDE",
-        "url": "https://open.spotify.com/album/4ND5fiPqq9Qm93GK9lGTZr"
-      },
-      "artists": [
-        {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
-        }
-      ],
-      "duration_ms": 221259,
-      "name": "INSIDE",
-      "url": "https://open.spotify.com/track/2ZZGr9MSx1WMcawXj4SxLQ"
-    },
-    {
-      "added_at": "2026-08-25 15:00:10",
-      "album": {
         "name": "zokkou",
         "url": "https://open.spotify.com/album/5iYgJIgcbEcRZfKLHodraf"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 204473,
       "name": "zokkou",
       "url": "https://open.spotify.com/track/1ia6O0Sl2oakFEbcjoUjX0"
+    },
+    {
+      "added_at": "2026-08-25 15:00:10",
+      "album": {
+        "name": "INSIDE",
+        "url": "https://open.spotify.com/album/4ND5fiPqq9Qm93GK9lGTZr"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "duration_ms": 221259,
+      "name": "INSIDE",
+      "url": "https://open.spotify.com/track/2ZZGr9MSx1WMcawXj4SxLQ"
     },
     {
       "added_at": "2026-08-25 15:00:10",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
-        "name": "New Walk",
-        "url": "https://open.spotify.com/album/1NlVIqlpnza7IfBNMNMUmC"
-      },
-      "artists": [
-        {
-          "name": "\u7d2b \u4eca",
-          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
-        }
-      ],
-      "duration_ms": 240398,
-      "name": "New Walk",
-      "url": "https://open.spotify.com/track/4QQZw019EXzf6ZDi4ytD5Z"
-    },
-    {
-      "added_at": "2026-08-25 15:00:10",
-      "album": {
         "name": "\u3075\u305f\u308a\u3067\u3044\u3088\u3046",
         "url": "https://open.spotify.com/album/51lx693BwIUDAM5O8tEA3A"
       },
@@ -1527,18 +1511,34 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
-        "name": "OUR SEASON (\u590f\u306e\u6c17\u307e\u3050\u308c\u306bkiss\u3092)",
-        "url": "https://open.spotify.com/album/1x0JlP4jEeMsSm3hD4lfvL"
+        "name": "New Walk",
+        "url": "https://open.spotify.com/album/1NlVIqlpnza7IfBNMNMUmC"
       },
       "artists": [
         {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+          "name": "\u7d2b \u4eca",
+          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
         }
       ],
-      "duration_ms": 219820,
-      "name": "OUR SEASON (\u590f\u306e\u6c17\u307e\u3050\u308c\u306bkiss\u3092)",
-      "url": "https://open.spotify.com/track/7JWFrcLSJ2oknwqTzd7OTF"
+      "duration_ms": 240398,
+      "name": "New Walk",
+      "url": "https://open.spotify.com/track/4QQZw019EXzf6ZDi4ytD5Z"
+    },
+    {
+      "added_at": "2026-08-25 15:00:10",
+      "album": {
+        "name": "BLACK",
+        "url": "https://open.spotify.com/album/06LIOkzbA2DZsWfWqp9jtH"
+      },
+      "artists": [
+        {
+          "name": "\u9808\u7530\u666f\u51ea",
+          "url": "https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum"
+        }
+      ],
+      "duration_ms": 182993,
+      "name": "BLACK",
+      "url": "https://open.spotify.com/track/0D6zaCMPdsJz5QGubZIMgV"
     },
     {
       "added_at": "2026-08-25 15:00:10",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
-        "name": "BLACK",
-        "url": "https://open.spotify.com/album/06LIOkzbA2DZsWfWqp9jtH"
+        "name": "OUR SEASON (\u590f\u306e\u6c17\u307e\u3050\u308c\u306bkiss\u3092)",
+        "url": "https://open.spotify.com/album/1x0JlP4jEeMsSm3hD4lfvL"
       },
       "artists": [
         {
-          "name": "\u9808\u7530\u666f\u51ea",
-          "url": "https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum"
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
         }
       ],
-      "duration_ms": 182993,
-      "name": "BLACK",
-      "url": "https://open.spotify.com/track/0D6zaCMPdsJz5QGubZIMgV"
+      "duration_ms": 219820,
+      "name": "OUR SEASON (\u590f\u306e\u6c17\u307e\u3050\u308c\u306bkiss\u3092)",
+      "url": "https://open.spotify.com/track/7JWFrcLSJ2oknwqTzd7OTF"
     },
     {
       "added_at": "2026-08-25 15:00:10",

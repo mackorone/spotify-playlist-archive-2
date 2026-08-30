@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7V3ptrxki0a.md) - [plain]
 
 > Agarren su pareja que es momento de mover ese botecito\. Bronco en portada 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,899 likes - 85 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,905 likes - 85 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7V3ptrxki0a.md) - [plain]
 | 75 | [ALV](https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:44 |
 | 76 | [Eclipse](https://open.spotify.com/track/0LugYwrqK0qYhkad5ZG7d0) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Eclipse](https://open.spotify.com/album/200K5PxseLSx4aXYD6e680) | 3:49 |
 | 77 | [Otra Vez](https://open.spotify.com/track/274qOOTUIIZTgccG1xlbm9) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Otra Vez](https://open.spotify.com/album/5ALh1nWcNmSEOe3y0D1aVE) | 4:00 |
-| 78 | [Khé? \(En Vivo\)](https://open.spotify.com/track/5zHqAZs7o12EZVBT5vlNXA) | [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH) | [Posada Bohemia \(En Vivo\)](https://open.spotify.com/album/0oVBiU0FneyJNq4ZjYnQbU) | 3:17 |
+| 78 | [Khé? \- En Vivo](https://open.spotify.com/track/5zHqAZs7o12EZVBT5vlNXA) | [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH) | [Posada Bohemia \(En Vivo\)](https://open.spotify.com/album/0oVBiU0FneyJNq4ZjYnQbU) | 3:17 |
 | 79 | [Desvelado](https://open.spotify.com/track/53TrBLNj6U6Sq8rb7ITcGt) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Pensando En Ti](https://open.spotify.com/album/7DzkW7rT5IaticSjXvs9ac) | 3:34 |
 | 80 | [Tan Bella y Tan Presumida](https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Tan Bella y Tan Presumida](https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici) | 3:01 |
 | 81 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 |

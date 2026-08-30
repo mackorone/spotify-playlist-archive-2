@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,229 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,216 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 3 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 |
 | 4 | [Kamakura](https://open.spotify.com/track/2N7XCLNPXNYOIA6R6Oawn1) | [Yuzostate](https://open.spotify.com/artist/0wp464QhpVc7hKfT6jNEp5) | [Kamakura](https://open.spotify.com/album/64p9VeLQsDBEBQgifPMPsu) | 3:07 |
 | 5 | [We Gotta Groove \- 2025 Mix](https://open.spotify.com/track/7xwuRnHSNZMF9cTyQ9Empv) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [We Gotta Groove \(2025 Mix\)](https://open.spotify.com/album/3WhrPteS4a0RkneRARgAiB) | 2:09 |
-| 6 | [Radio](https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Radio](https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB) | 3:11 |
+| 6 | [Lets Go Surfing](https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4) | 2:54 |
 | 7 | [Riders Of The Moon](https://open.spotify.com/track/0deK1kN7aBhfhCy0BEoN1G) | [Arc De Soleil](https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5) | [Riders Of The Moon](https://open.spotify.com/album/0IXJHSmObrtPbAWqzi8Wdk) | 3:19 |
-| 8 | [Lets Go Surfing](https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4) | 2:54 |
+| 8 | [Radio](https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Radio](https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB) | 3:11 |
 | 9 | [Greyhound](https://open.spotify.com/track/60DSysH1dDIThBHXpNxSNv) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Greyhound](https://open.spotify.com/album/4SVuAXDREVQ4JTAAAW9tCx) | 3:46 |
 | 10 | [In Search of Yang](https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [Yatta!](https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W) | 4:31 |
 | 11 | [Talking In My Sleep](https://open.spotify.com/track/3KCu4QHTMPAxkUFPnScNQl) | [The Slims](https://open.spotify.com/artist/4Wo6sLfNidDTAqjgkZlCtp) | [Talking In My Sleep](https://open.spotify.com/album/4SEbfKk3d8pmyWTvdmJWBS) | 3:20 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 44 | [Thrift Store](https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Thrift Store](https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ) | 2:14 |
 | 45 | [Only One I Want](https://open.spotify.com/track/3qmIAnyaUnYF6Uy6YNJEFN) | [Bones and Jones](https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4) | [Only One I Want](https://open.spotify.com/album/499HFPNFK1LPvb0Y6Y0fJr) | 3:23 |
 | 46 | [Reef Prince](https://open.spotify.com/track/0zZgOwy2A01i7f8Ye2QHDS) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Reef Prince / Better](https://open.spotify.com/album/7k6qTjk4AYn47KYUmgX7AG) | 3:07 |
-| 47 | [Parking Lot](https://open.spotify.com/track/46ypwm5vShRtDEwARQHoNM) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [Parking Lot](https://open.spotify.com/album/4h3yu2Ng1BoBrtjBz5g7zx) | 4:13 |
-| 48 | [Riding the Wind](https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM) | [Offthewally](https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD) | [Bouquet](https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew) | 2:51 |
+| 47 | [Riding the Wind](https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM) | [Offthewally](https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD) | [Bouquet](https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew) | 2:51 |
+| 48 | [Parking Lot](https://open.spotify.com/track/46ypwm5vShRtDEwARQHoNM) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [Parking Lot](https://open.spotify.com/album/4h3yu2Ng1BoBrtjBz5g7zx) | 4:13 |
 | 49 | [LONG LIVE THE WILDERNESS](https://open.spotify.com/track/0F3XAOuJuMY1dUll6lR0RY) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [LONG LIVE THE WILDERNESS](https://open.spotify.com/album/74G6zlK0eqHKbdleUXtafE) | 4:46 |
 | 50 | [Jokes Aside](https://open.spotify.com/track/2XuRpPtcSZOfOy2bXQccRY) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [The Terrys \(For The People\)](https://open.spotify.com/album/02HPYY8R9lwfIyZobiUFI8) | 3:15 |
 | 51 | [Hometown](https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Small Fry](https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR) | 3:26 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 57 | [The Way You Talk](https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW) | [The Red Pears](https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT) | [The Way You Talk](https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq) | 3:18 |
 | 58 | [Recycle](https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI) | [loren north](https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr) | [Recycle](https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2) | 3:24 |
 | 59 | [Right or Wrong](https://open.spotify.com/track/3iblchfWSkursOZywc1MyH) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Right or Wrong](https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK) | 3:27 |
-| 60 | [Bangkok](https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ) | [Alaaska](https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK) | [Bangkok](https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv) | 3:35 |
-| 61 | [MOVING ON](https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [MOVING ON](https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW) | 4:08 |
+| 60 | [MOVING ON](https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [MOVING ON](https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW) | 4:08 |
+| 61 | [Bangkok](https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ) | [Alaaska](https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK) | [Bangkok](https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv) | 3:35 |
 | 62 | [Walk To The One You Love](https://open.spotify.com/track/3EaiU22oIVojTzAjq3ZkKY) | [Twin Peaks](https://open.spotify.com/artist/1xD85sp0kecIVuMwUHShxs) | [Down In Heaven](https://open.spotify.com/album/5FfhKbBs5wilm53muL9kT5) | 3:33 |
 | 63 | [Naga Damai](https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf) | [Cocobolo](https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu) | [Naga Damai](https://open.spotify.com/album/1eEyJyPSx9PLnkm6K9qyBo) | 3:37 |
 | 64 | [Pacific Ocean](https://open.spotify.com/track/49MVg5q2nvlPjnK93dqalV) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Pacific Ocean](https://open.spotify.com/album/5kG4wRE6BuhP582mtt5a25) | 2:33 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 71 | [Postcode Lover](https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Postcode Lover](https://open.spotify.com/album/6lg0c3lhHOYHnJREaycKre) | 2:45 |
 | 72 | [Floating By](https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg) | [Dawson James](https://open.spotify.com/artist/07SRAC48eP073ob1v7iEuL) | [Floating By](https://open.spotify.com/album/1yYbgy37ZesTj0feuFkzJT) | 2:40 |
 | 73 | [Stargazer](https://open.spotify.com/track/3NguJRn6XA8XHaBkIy5VB1) | [Yellow The Sun](https://open.spotify.com/artist/2SMU4gn77Tx3f2b5Lodrag) | [Stargazer](https://open.spotify.com/album/1lepumZo22mVAqL0BbH9ID) | 3:02 |
-| 74 | [Peace In Me](https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH) | [Bones and Jones](https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4) | [In Colour](https://open.spotify.com/album/5DCOPvYMwUPv0UCoFVD1hl) | 4:35 |
-| 75 | [Bali Nights](https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Cigarettes In Space](https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu) | 3:30 |
+| 74 | [Bali Nights](https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Cigarettes In Space](https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu) | 3:30 |
+| 75 | [Peace In Me](https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH) | [Bones and Jones](https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4) | [In Colour](https://open.spotify.com/album/5DCOPvYMwUPv0UCoFVD1hl) | 4:35 |
 
 Snapshot ID: `AAAAAFrmeVm/3XAHYOGojJACZLVoDq5h`

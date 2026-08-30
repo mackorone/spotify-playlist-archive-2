@@ -2725,6 +2725,32 @@
     },
     {
       "album": {
+        "name": "Abschied nehmen",
+        "url": "https://open.spotify.com/album/6knT0FAymL2q5zmW1TZIjb"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "Trettmann",
+          "url": "https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Abschied nehmen",
+      "url": "https://open.spotify.com/track/5gXixHgeMePU7nICfVAwoD"
+    },
+    {
+      "album": {
         "name": "ABTURN",
         "url": "https://open.spotify.com/album/4RJOzy1uubP5EFpXwnfrz3"
       },
@@ -3032,7 +3058,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 295282,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
@@ -7926,7 +7952,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -14315,6 +14341,24 @@
     },
     {
       "album": {
+        "name": "Chaos",
+        "url": "https://open.spotify.com/album/1s70dAtNGUddM6SeTeY7A5"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141609,
+      "name": "Chaos",
+      "url": "https://open.spotify.com/track/6Ni4GeIC5CRgDC1okpGwWH"
+    },
+    {
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -17487,6 +17531,28 @@
     },
     {
       "album": {
+        "name": "Danza Kuduro 2019 (Luigi Ramirez Remix)",
+        "url": "https://open.spotify.com/album/7E4AuTXQYKaC0kOBq5rSr9"
+      },
+      "artists": [
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196099,
+      "name": "Danza Kuduro",
+      "url": "https://open.spotify.com/track/0rCxlp7KdpW1JR8uG6Uno0"
+    },
+    {
+      "album": {
         "name": "Emigrante Del Mundo (Remastered)",
         "url": "https://open.spotify.com/album/1eoYupgvxWRBT6nHnAHjEQ"
       },
@@ -17502,7 +17568,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 216352,
       "name": "Danza Kuduro - Version MTO",
       "url": "https://open.spotify.com/track/2ynaRz7EuNbDrNrlr3QUjP"
@@ -21789,6 +21855,24 @@
     },
     {
       "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156856,
+      "name": "EMERALD EYES",
+      "url": "https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36"
+    },
+    {
+      "album": {
         "name": "Emiliana",
         "url": "https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1"
       },
@@ -22228,6 +22312,24 @@
       "duration_ms": 153408,
       "name": "Eredivisie",
       "url": "https://open.spotify.com/track/1IaZUglHDN0kO6yhuyYta2"
+    },
+    {
+      "album": {
+        "name": "Erinnerung",
+        "url": "https://open.spotify.com/album/6vsV5GUrK6qjQiLNQ3anfh"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184093,
+      "name": "Erinnerung",
+      "url": "https://open.spotify.com/track/3ZytSzc7WgFeXLuGQjwuwr"
     },
     {
       "album": {
@@ -34016,7 +34118,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 251960,
       "name": "Islands In the Stream",
       "url": "https://open.spotify.com/track/6dnco8haegnJYtylV26cBq"
@@ -38816,6 +38918,28 @@
       "duration_ms": 205946,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
+    },
+    {
+      "album": {
+        "name": "LET ME LOVE YOU",
+        "url": "https://open.spotify.com/album/2W46w9MTi2iEhIHFKAoHnM"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "LET ME LOVE YOU",
+      "url": "https://open.spotify.com/track/1QlIvqhrLroP5Eyd4qpzvE"
     },
     {
       "album": {
@@ -48598,7 +48722,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 174400,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/78BBuc8L0Li1nnCsLaI0vL"
@@ -49198,7 +49322,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -70242,7 +70366,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 202881,
       "name": "TRIPPIN",
       "url": "https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7"
@@ -76700,7 +76824,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
@@ -76718,7 +76842,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
@@ -78386,6 +78510,24 @@
       "duration_ms": 230829,
       "name": "Zukunft Pink (feat. In\u00e9z)",
       "url": "https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4"
+    },
+    {
+      "album": {
+        "name": "zwei Punkte",
+        "url": "https://open.spotify.com/album/3r9tv3JtPKKbJd6Hxp7omI"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195573,
+      "name": "zwei Punkte",
+      "url": "https://open.spotify.com/track/3BPBWV7zlW6uxSl3PESNGM"
     },
     {
       "album": {

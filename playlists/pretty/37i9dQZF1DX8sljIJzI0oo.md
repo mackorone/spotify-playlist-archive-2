@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Brytiago is bringing the heat this week\. Tap in every Thursday for a refresh  <a href="https://asheardonfuego.substack.com/p/issue\-001\-introducing\-as\-heard\-on?r=8i1o2e&utm\_campaign=post&utm\_medium=web">\(and read our substack!\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,907,812 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,907,676 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

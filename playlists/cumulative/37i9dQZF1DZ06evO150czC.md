@@ -4,7 +4,7 @@
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-91 songs - 7 hr 47 min
+92 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [O Deus dos Pequeninos](https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Deus dos Pequeninos](https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h) | 4:41 | 2023-07-09 | 2025-12-28 |
 | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ) | 6:42 | 2023-07-09 |  |
 | [O Melhor Pra Ti](https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Melhor Pra Ti](https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd) | 4:03 | 2023-07-09 |  |
+| [O Meu Deus É Assim \- Ao Vivo](https://open.spotify.com/track/4cPfJF2ybtVsG4rgaPpQfd) | [Marcados Pagode Gospel](https://open.spotify.com/artist/1cyFEihCjqmV3ymkewYSAK), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [O Meu Deus É Assim \(Ao Vivo\)](https://open.spotify.com/album/4r1R3XlfL9Z6bR3qFNVtBK) | 7:05 | 2026-08-30 |  |
 | [O Nome de Jesus \(The Name Of Our God\)](https://open.spotify.com/track/7xfxErLZXui34OxxUthzjU) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Nome de Jesus \(The Name Of Our God\)](https://open.spotify.com/album/5RRQQd2Jk1RZYHx9GobjZB) | 6:53 | 2023-07-09 | 2024-07-23 |
 | [O Poder do Sangue](https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 4:03 | 2023-07-09 |  |
 | [O Preço Foi de Sangue](https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:36 | 2023-07-09 |  |
@@ -97,7 +98,7 @@
 | [Vida aos Sepulcros \(Ao Vivo\)](https://open.spotify.com/track/5xHEBgTq1fKc0LYfl3rEHD) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:02 | 2023-07-09 | 2026-04-12 |
 | [Vivirán / Ezequiel / Yo Navegaré](https://open.spotify.com/track/5BCguMz6Na0orcfG2zDvqC) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Misael J](https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD) | [Vivirán / Ezequiel / Yo Navegaré](https://open.spotify.com/album/5MWCz4F743UEhiBuZHzvqI) | 13:49 | 2024-10-01 | 2025-07-04 |
 | [Você Não Imagina](https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Você Não Imagina](https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu) | 5:18 | 2023-07-09 |  |
-| [Você Não Imagina \(Ao Vivo\)](https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:14 | 2023-07-09 |  |
+| [Você Não Imagina \(Ao Vivo\)](https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:14 | 2023-07-09 | 2026-08-30 |
 | [Vou Vencer \(Ao Vivo\)](https://open.spotify.com/track/2bEUyLBEnPPo9LVc6ku1Lp) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 6:29 | 2023-07-09 | 2023-09-06 |
 
 \*This playlist was first scraped on 2023-07-10. Prior content cannot be recovered.

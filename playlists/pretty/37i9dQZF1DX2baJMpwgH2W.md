@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2baJMpwgH2W.md) - [plain]
 
 > Ballads from the best shows, from the West End and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,036 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,040 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2baJMpwgH2W.md) - [plain]
 | 27 | [Husavik \(My Hometown\)](https://open.spotify.com/track/6ofMKJjMpfDEb48JYEAgjX) | [Will Ferrell](https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Eurovision Song Contest: The Story of Fire Saga \(Music from the Netflix Film\)](https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl) | 3:22 |
 | 28 | [Naughty](https://open.spotify.com/track/64DXFDl2A6ObNy7iXFlZzZ) | [Matilda the Musical Original Cast](https://open.spotify.com/artist/7paFidVdtsmKlLtHiLZu41) | [Matilda the Musical \(Original London Cast Recording\)](https://open.spotify.com/album/4TMFJM8OsgA2RwwYySNhmU) | 4:02 |
 | 29 | [Fernando](https://open.spotify.com/track/1V9zWcD0PpWlFa42vCErzm) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Andy Garcia](https://open.spotify.com/artist/5XaRUXHFbgs8LDoYzoPJ1R) | [Mamma Mia! Here We Go Again \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14hC5eBiPUxdPa90eCzwrR) | 3:59 |
-| 30 | [Legally Blonde](https://open.spotify.com/track/1bXV5MjCKNmD8viWpawP9A) | [Christian Borle](https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG), [Laura Bell Bundy](https://open.spotify.com/artist/32bisvV1h0yF3PeKmWI6sj) | [Legally Blonde The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/7os43c6BUhMJkDUaEtDufk) | 3:30 |
-| 31 | [I Believe](https://open.spotify.com/track/4YfNmQKnrX5DrlAxSAnMoA) | [Andrew Rannells](https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b) | [The Book Of Mormon \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5yauUuXppqUj2ulor38hvI) | 4:42 |
+| 30 | [I Believe](https://open.spotify.com/track/4YfNmQKnrX5DrlAxSAnMoA) | [Andrew Rannells](https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b) | [The Book Of Mormon \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5yauUuXppqUj2ulor38hvI) | 4:42 |
+| 31 | [Legally Blonde](https://open.spotify.com/track/1bXV5MjCKNmD8viWpawP9A) | [Christian Borle](https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG), [Laura Bell Bundy](https://open.spotify.com/artist/32bisvV1h0yF3PeKmWI6sj) | [Legally Blonde The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/7os43c6BUhMJkDUaEtDufk) | 3:30 |
 | 32 | [I Know Him So Well](https://open.spotify.com/track/2M3E9wbFtqdkSGkhfHikFh) | [Elaine Paige](https://open.spotify.com/artist/7KckozT8XPOqtgJjpAcrnA), [Barbara Dickson](https://open.spotify.com/artist/5pi8sj5ExnwL73KjHR2lFR) | [Love Hurts](https://open.spotify.com/album/43KUczsSjyfpXlWuylA62Y) | 4:17 |
 | 33 | [Roxie](https://open.spotify.com/track/7nOhijGWNbwBpzmQ6XqLRG) | [Renée Zellweger](https://open.spotify.com/artist/4ZYtO7K6tpQGNgoRRseDOg) | [Chicago \- Music From The Miramax Motion Picture](https://open.spotify.com/album/3RH2do6C88Owoka8V51LsP) | 3:20 |
 | 34 | [God Help the Outcasts](https://open.spotify.com/track/67KymXb4OUQtUlO31EFOjS) | [Heidi Mollenhauer](https://open.spotify.com/artist/2FmXrymxv6kNBnA66HpoPt), [Chorus \- The Hunchback Of Notre Dame](https://open.spotify.com/artist/5oHSxqr1uDloCbJJPNBd6T) | [The Hunchback Of Notre Dame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq) | 3:45 |

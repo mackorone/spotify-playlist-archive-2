@@ -4,7 +4,7 @@
 
 > This is 2Pac\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 45 min
+53 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Soldier Like Me](https://open.spotify.com/track/36UjTTrSwaAqLkAlf2Ooc4) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Loyal To The Game](https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn) | 3:50 | 2026-02-13 |  |
 | [Soon As I Get Home](https://open.spotify.com/track/3Vt89nokRNoQyafkZ4kJF0) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Yaki Kadafi](https://open.spotify.com/artist/6jrgYc3KgJPqieNGFt0O3m) | [Pac's Life](https://open.spotify.com/album/5eVcXpQNaB4ILrocqaUdmT) | 3:40 | 2026-02-13 |  |
 | [Starin' Through My Rear View](https://open.spotify.com/track/0hSpXZZzZakniKCgAFQjLi) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Gang Related \(The Soundtrack\)](https://open.spotify.com/album/5iqST54O6TuS2703794jwj) | 5:13 | 2026-02-13 |  |
-| [Still Ballin' \- Nitty Remix](https://open.spotify.com/track/6CMidyjegRGsM2NyEmbuoT) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 2:49 | 2026-02-13 |  |
+| [Still Ballin' \- Nitty Remix](https://open.spotify.com/track/6CMidyjegRGsM2NyEmbuoT) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 2:49 | 2026-02-13 | 2026-08-30 |
+| [Still Ballin' \- Nitty Remix](https://open.spotify.com/track/5vU53TPzhzovjUL0oXoxZp) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [Runnin' \(Dying To Live\)](https://open.spotify.com/album/0BwYq5h0gwbULEfhE10iA7) | 2:49 | 2026-08-30 |  |
 | [Temptations](https://open.spotify.com/track/1PU3Hy2uNXmWGDe9gh4Ukb) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 5:00 | 2026-02-13 |  |
 | [They Don't Give A F\*\*\*\* About Us](https://open.spotify.com/track/4mfc9g4VHf8e7mVLiPEsrq) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Outlawz](https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 5:06 | 2026-02-13 |  |
 | [Thug Luv \(feat\. 2pac\)](https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [The Art of War: World War 2](https://open.spotify.com/album/4CDSLpg1NCcgePObnRGTEx) | 5:07 | 2026-02-13 |  |

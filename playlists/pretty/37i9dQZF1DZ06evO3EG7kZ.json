@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 52474,
+  "num_followers": 52495,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABFoRB5pACmHt6tDIovHzzF",
+  "snapshot_id": "apDPgAAAAADBfVz2L4g5Atg9zMRYTU+6",
   "tracks": [
     {
       "added_at": null,
@@ -278,11 +278,23 @@
         {
           "name": "Bluey",
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        },
+        {
+          "name": "Meg Washington",
+          "url": "https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ"
+        },
+        {
+          "name": "Joe Brumm",
+          "url": "https://open.spotify.com/artist/7x4QT4xcrTImKPWIICRHBZ"
         }
       ],
-      "duration_ms": 65038,
-      "name": "It Was Yesterday",
-      "url": "https://open.spotify.com/track/1vMrZkX9ZnsqYlAFjBmwfd"
+      "duration_ms": 146646,
+      "name": "The Gnome Song (feat. Meg Washington)",
+      "url": "https://open.spotify.com/track/6ePFV4tdMDBo2KQmpQioKq"
     },
     {
       "added_at": null,
@@ -358,23 +370,11 @@
         {
           "name": "Bluey",
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        },
-        {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        },
-        {
-          "name": "Meg Washington",
-          "url": "https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ"
-        },
-        {
-          "name": "Joe Brumm",
-          "url": "https://open.spotify.com/artist/7x4QT4xcrTImKPWIICRHBZ"
         }
       ],
-      "duration_ms": 146646,
-      "name": "The Gnome Song (feat. Meg Washington)",
-      "url": "https://open.spotify.com/track/6ePFV4tdMDBo2KQmpQioKq"
+      "duration_ms": 65038,
+      "name": "It Was Yesterday",
+      "url": "https://open.spotify.com/track/1vMrZkX9ZnsqYlAFjBmwfd"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 48743,
+  "num_followers": 48747,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAADiJZib5pBFQKzA709M4mAf",
+  "snapshot_id": "apDPgAAAAACxP3e+IVZJmTQNjAhILuZv",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "PERREITO PA LLORAR",
+        "url": "https://open.spotify.com/album/4IXouaHajcxSQwD8rlYwhv"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 213095,
+      "name": "PERREITO PA LLORAR",
+      "url": "https://open.spotify.com/track/3ZcUKMaqWY7jGEzAoU5mQs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Santer\u00eda",
         "url": "https://open.spotify.com/album/2m9hbe3YP1PXygWHN1gUAy"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 184000,
       "name": "Santer\u00eda",
       "url": "https://open.spotify.com/track/3VArTR8VPyOEiITj8SJMLv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PERREITO PA LLORAR",
-        "url": "https://open.spotify.com/album/4IXouaHajcxSQwD8rlYwhv"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 213095,
-      "name": "PERREITO PA LLORAR",
-      "url": "https://open.spotify.com/track/3ZcUKMaqWY7jGEzAoU5mQs"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAVE DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 187161,
+      "name": "MI COLETA",
+      "url": "https://open.spotify.com/track/5qNG1mZvQp3Oq7yOVipssf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trendy",
         "url": "https://open.spotify.com/album/2LoKfksKDwsDHmCECMiWxC"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 183564,
       "name": "Trendy",
       "url": "https://open.spotify.com/track/0DyDC12aCF5JLgR2zZkS9t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAVE DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 187161,
-      "name": "MI COLETA",
-      "url": "https://open.spotify.com/track/5qNG1mZvQp3Oq7yOVipssf"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MALA SUERTE",
-        "url": "https://open.spotify.com/album/7iaCkhpUJuRHD0QQ7qjCOS"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "DELLAFUENTE",
-          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
-        }
-      ],
-      "duration_ms": 215142,
-      "name": "MALA SUERTE",
-      "url": "https://open.spotify.com/track/0s9CLbGKANcd5lCMoq38Ya"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NAVE DRAG\u00d3N",
         "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 209405,
       "name": "Q SOMOS?",
       "url": "https://open.spotify.com/track/3IR71S2uR3T6ZRoOqttO1W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MALA SUERTE",
+        "url": "https://open.spotify.com/album/7iaCkhpUJuRHD0QQ7qjCOS"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "DELLAFUENTE",
+          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
+        }
+      ],
+      "duration_ms": 215142,
+      "name": "MALA SUERTE",
+      "url": "https://open.spotify.com/track/0s9CLbGKANcd5lCMoq38Ya"
     },
     {
       "added_at": null,
@@ -923,6 +923,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAVE DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 189731,
+      "name": "MISSION005",
+      "url": "https://open.spotify.com/track/2Jc9hT3qjmjGP65XrF1X1Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lola Bunny",
         "url": "https://open.spotify.com/album/6ZzTJncT5EwHp5Pa4xwFpS"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 187263,
       "name": "Lola Bunny",
       "url": "https://open.spotify.com/track/7IzbHY75UhGztauT7U5eKb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAVE DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 189731,
-      "name": "MISSION005",
-      "url": "https://open.spotify.com/track/2Jc9hT3qjmjGP65XrF1X1Y"
     },
     {
       "added_at": null,

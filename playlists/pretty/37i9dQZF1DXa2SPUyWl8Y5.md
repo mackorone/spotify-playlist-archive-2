@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with melodic house and techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,309 likes - 80 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,364 likes - 80 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 14 | [Forsaken Dream \- Extended Mix](https://open.spotify.com/track/2y9Nx9Jm5rWyxHMGe6pVKA) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Gratitude \(Extended Mixes\)](https://open.spotify.com/album/45ldqmlx36xFWwGoSz0IR1) | 5:56 |
 | 15 | [Chaos](https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [혼돈 과 질서](https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7) | 8:48 |
 | 16 | [Life](https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu) | [Definition](https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C) | [Pure Love EP](https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e) | 6:33 |
-| 17 | [Tarcu](https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Tarcu](https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA) | 3:58 |
-| 18 | [Spaziergang im All](https://open.spotify.com/track/0mu7vzezz2e3GlmK3bDKcd) | [Deorbiting](https://open.spotify.com/artist/17qE2mJQTOOEyHch0DxyNr) | [Spaziergang im All](https://open.spotify.com/album/6k0PV6yPKNrerXkZCJN9Mf) | 8:18 |
+| 17 | [Spaziergang im All](https://open.spotify.com/track/0mu7vzezz2e3GlmK3bDKcd) | [Deorbiting](https://open.spotify.com/artist/17qE2mJQTOOEyHch0DxyNr) | [Spaziergang im All](https://open.spotify.com/album/6k0PV6yPKNrerXkZCJN9Mf) | 8:18 |
+| 18 | [Tarcu](https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Tarcu](https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA) | 3:58 |
 | 19 | [Reminiscing](https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Reminiscing](https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3) | 4:18 |
 | 20 | [Petroleum \- Fabio Vanore Remix](https://open.spotify.com/track/1tdQXdkWEp1OreYbLqciFi) | [Kris Davis](https://open.spotify.com/artist/2AFYG90qx36vqWXgGxhFWY), [Fabio Vanore](https://open.spotify.com/artist/19WfpuODWsvrlHGvZYkigs) | [Petroleum \(Fabio Vanore Remix\)](https://open.spotify.com/album/0RzfoJA1VVeYENvFuXLsUq) | 9:04 |
 | 21 | [Millenium \- Edit](https://open.spotify.com/track/2MCpIMRHhdN7ua7RlDWKFm) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Millenium \(Edit\)](https://open.spotify.com/album/3Iz0Ry755mM73t5s4h6iWf) | 3:40 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 27 | [Rebirth](https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rebirth](https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY) | 7:59 |
 | 28 | [Minister](https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Minister](https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ) | 4:00 |
 | 29 | [Deep in My Mind \- Original Mix](https://open.spotify.com/track/3Pu3lg462AIaqWt3BEji1O) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Traum EP](https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud) | 5:16 |
-| 30 | [June \- Mees Salomé Remix](https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73), [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L) | [June \(Mees Salomé Remix\)](https://open.spotify.com/album/3sQGTd9PQdgzLAIFcM7pcJ) | 7:28 |
-| 31 | [Sense of Wonder](https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4) | [Paradoks](https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf) | [Sense of Wonder](https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3) | 4:01 |
+| 30 | [Sense of Wonder](https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4) | [Paradoks](https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf) | [Sense of Wonder](https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3) | 4:01 |
+| 31 | [June \- Mees Salomé Remix](https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73), [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L) | [June \(Mees Salomé Remix\)](https://open.spotify.com/album/3sQGTd9PQdgzLAIFcM7pcJ) | 7:28 |
 | 32 | [If I Had Wings](https://open.spotify.com/track/5YTUltabO6pDPCgKzeAW4a) | [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM) | [If I Had Wings](https://open.spotify.com/album/0AeYEvKHcxgucVkxRouCw1) | 7:00 |
 | 33 | [Unlocked](https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Infinity](https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK) | 7:04 |
 | 34 | [Odyssey](https://open.spotify.com/track/7jw452od74FzquMBqkUXiY) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Odyssey](https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7) | 4:17 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 48 | [Scarper](https://open.spotify.com/track/4RJz6UMktOxRng1j0mvrY1) | [Vince Clarke](https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1) | [Songs of Silence](https://open.spotify.com/album/31pmASRti6IjbYo67KbrJi) | 3:47 |
 | 49 | [Landing in Halifax](https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll) | [Passenger 10](https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT) | [Landing in Halifax](https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1) | 4:09 |
 | 50 | [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 |
-| 51 | [Hipotez](https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2) | [Kerem Gell](https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi) | [Hipotez](https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf) | 5:52 |
-| 52 | [Equinox](https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85) | [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Equinox](https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln) | 6:53 |
+| 51 | [Equinox](https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85) | [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Equinox](https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln) | 6:53 |
+| 52 | [Hipotez](https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2) | [Kerem Gell](https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi) | [Hipotez](https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf) | 5:52 |
 | 53 | [Solid](https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP) | [Benzsoul](https://open.spotify.com/artist/0XXC5Wa9jqrU83q3lwGAhf) | [Solid](https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy) | 6:44 |
 | 54 | [Cliff \- Einmusik Remix](https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Cliff \(Einmusik Remix\)](https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy) | 7:24 |
 | 55 | [Dreaming](https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Dreaming](https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M) | 3:12 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 73 | [Curve](https://open.spotify.com/track/5J0id4CmRP4rC89UmwVFYd) | [Microtrauma](https://open.spotify.com/artist/4abBidW4ScsxlRcISTeKkB) | [Curve \| The Arc](https://open.spotify.com/album/7Cv8pKOfpX7oBQPMRQU0Qd) | 8:35 |
 | 74 | [Housefly](https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7) | [Horisone](https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr) | [Vibrations](https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5) | 7:15 |
 | 75 | [Planet F](https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Planet F](https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ) | 4:01 |
-| 76 | [Dark Future](https://open.spotify.com/track/5pogItD4GCGPkMR3SlLd1R) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Mind Kontrol EP](https://open.spotify.com/album/0Gb1g3zTWUGkO8OpG5nHmc) | 6:43 |
-| 77 | [Hegn](https://open.spotify.com/track/2xSajF5EIKkiyQqO5whSlK) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Hegn](https://open.spotify.com/album/6wPs3Hbq9TfnW8mTS6u6zI) | 6:26 |
+| 76 | [Hegn](https://open.spotify.com/track/2xSajF5EIKkiyQqO5whSlK) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Hegn](https://open.spotify.com/album/6wPs3Hbq9TfnW8mTS6u6zI) | 6:26 |
+| 77 | [Dark Future](https://open.spotify.com/track/5pogItD4GCGPkMR3SlLd1R) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Mind Kontrol EP](https://open.spotify.com/album/0Gb1g3zTWUGkO8OpG5nHmc) | 6:43 |
 | 78 | [The Mood](https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc) | [Rafael Osmo](https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5) | [The Mood](https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX) | 3:30 |
 | 79 | [Mars Express](https://open.spotify.com/track/6pLId3BTsBZO9uec6j6fe6) | [Coeus](https://open.spotify.com/artist/7yibHBJHi3LZD0uvWAdyya) | [Mars Express](https://open.spotify.com/album/3XFsr5IXqQh3n7tg8nzP9d) | 6:51 |
 | 80 | [Polymid](https://open.spotify.com/track/6Ob7lH8xFS2HYPnkFsdzrl) | [Renga Weh](https://open.spotify.com/artist/28xBr8Qn3mikTNu5yswXYR) | [Mera](https://open.spotify.com/album/7fg9iODTa8OBPcgrtSXv7p) | 7:11 |

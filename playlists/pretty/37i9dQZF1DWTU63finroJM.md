@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Magi Merlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,776 likes - 20 songs - 59 min 30 sec
+[Spotify](https://open.spotify.com/user/spotify) - 87,781 likes - 20 songs - 59 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 5 | [Supaa Amazing](https://open.spotify.com/track/30WOm7yTjeQUHCCGx1JVuC) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Supaa Amazing](https://open.spotify.com/album/4LUV0mQ6HnmdbALfo0ERk0) | 2:02 |
 | 6 | [Vivian](https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [First Times](https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V) | 3:16 |
 | 7 | [its not about me!](https://open.spotify.com/track/02UI5paChJe2PHsi0nikly) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [its not about me!](https://open.spotify.com/album/3EcqQco9MASQejGgqBGGAu) | 2:51 |
-| 8 | [Lady In the GPS](https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Who Could Not Be Broken](https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il) | 2:41 |
-| 9 | [amapola](https://open.spotify.com/track/34oh16FHG28sYrorhAmQ6m) | [Maia Reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [amapola](https://open.spotify.com/album/0wON3bJcOk6NqPJqzfFWfx) | 3:00 |
+| 8 | [amapola](https://open.spotify.com/track/34oh16FHG28sYrorhAmQ6m) | [Maia Reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [amapola](https://open.spotify.com/album/0wON3bJcOk6NqPJqzfFWfx) | 3:00 |
+| 9 | [Lady In the GPS](https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Who Could Not Be Broken](https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il) | 2:41 |
 | 10 | [ไม่คิดถึงเท่าไหร่ \(Behind The Smile\)](https://open.spotify.com/track/4IOSkK06qTipVlQ5ELv6hY) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [ไม่คิดถึงเท่าไหร่ \(Behind The Smile\)](https://open.spotify.com/album/2BMwfH1ir5dF3qLYHDny7x) | 3:26 |
 | 11 | [Lose My Life](https://open.spotify.com/track/4EAQsGj6Dzi2f2G0rErm5P) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Lose My Life](https://open.spotify.com/album/04UfQYNCD4QsnauEyaSgVg) | 3:07 |
 | 12 | [ยังไงก็เธอ](https://open.spotify.com/track/1zP5IYbYe1Gi1BaiGJEK64) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [ยังไงก็เธอ](https://open.spotify.com/album/4ZYuMJMeN6sUZX5pEGfoWl) | 3:35 |

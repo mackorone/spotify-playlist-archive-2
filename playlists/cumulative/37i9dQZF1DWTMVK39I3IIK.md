@@ -4,7 +4,7 @@
 
 > to unge knive synger om provinsen @USSEL @MathiasRanch
 
-457 songs - 23 hr 28 min
+459 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Forfra](https://open.spotify.com/track/4XWWYB5MDDdSJD0d2VMd9X) | [Max Felix](https://open.spotify.com/artist/146lWyxRmwLV9HuVagrvFB), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Hygge & Hustle](https://open.spotify.com/album/2Srx5oXpWlK50X7XF4RYpb) | 3:11 | 2026-06-11 |  |
 | [Formskifter](https://open.spotify.com/track/6JjLdYF4tnAR6tJt9bypOu) | [Joyce](https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow) | [Formskifter](https://open.spotify.com/album/2v4FKfFPRtDVc2hjuysIxl) | 3:15 | 2024-06-27 | 2024-09-13 |
 | [Forsvinde før min tid](https://open.spotify.com/track/739g1njLcGRxuinhHrGOyC) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Forsvinde før min tid](https://open.spotify.com/album/4vwkuHnC44uaEWw00M4mpO) | 2:34 | 2024-12-12 | 2025-01-24 |
-| [Fra ingenting til noget](https://open.spotify.com/track/3V8sVLw7yu3JHg0IWwkfaZ) | [Nikolaj Manuel Vonsild](https://open.spotify.com/artist/1PWTPCO6vddVyU1g1TxCcO) | [Fra ingenting til noget](https://open.spotify.com/album/2bQRAwymZ1IJevDEqB6d9c) | 3:28 | 2026-05-28 |  |
+| [Fra ingenting til noget](https://open.spotify.com/track/3V8sVLw7yu3JHg0IWwkfaZ) | [Nikolaj Manuel Vonsild](https://open.spotify.com/artist/1PWTPCO6vddVyU1g1TxCcO) | [Fra ingenting til noget](https://open.spotify.com/album/2bQRAwymZ1IJevDEqB6d9c) | 3:28 | 2026-05-28 | 2026-08-30 |
 | [Fra Wien Til Rom](https://open.spotify.com/track/0kvKRM0wrRoseGifAxfyGv) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Legebørn](https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD) | 4:08 | 2024-06-27 | 2024-10-13 |
 | [Fravær](https://open.spotify.com/track/3n3wux4QslhJMFnwSqw7mC) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Fravær](https://open.spotify.com/album/2hicqCPKVEeRFZzQ9Rk1fy) | 2:08 | 2024-10-24 | 2025-05-23 |
 | [Frederiksberg Allé](https://open.spotify.com/track/3f1DlWjYiewzRCqMcHY8TA) | [Bastian](https://open.spotify.com/artist/2aVSAsnjQKM1vb0D8tUxTe) | [Frederiksberg Allé](https://open.spotify.com/album/4OCRcpNTnraKNLNRBzaBIb) | 2:52 | 2025-10-20 | 2026-04-24 |
@@ -169,6 +169,7 @@
 | [HAR DET MAX](https://open.spotify.com/track/08wUkq39Lw3xECrdwz2sSW) | [Elias](https://open.spotify.com/artist/6GHeYbQYL39Ri5g9a8rb2K) | [HAR DET MAX](https://open.spotify.com/album/0ddQKDnxDXlx9a71ruRod3) | 1:47 | 2025-06-19 | 2025-08-08 |
 | [Heartbreak](https://open.spotify.com/track/1JdPraBOBKK9V2uTPP4jnJ) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [Heartbreak](https://open.spotify.com/album/6FAUARCpztIj99JeEdPTZ5) | 2:45 | 2025-06-05 | 2025-06-13 |
 | [Heaven](https://open.spotify.com/track/5Zy4JPMVwISXB1amTXQCaH) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Dear Space](https://open.spotify.com/album/587JvxALgoeXF1WQYsjAVp) | 3:22 | 2024-06-27 | 2024-11-29 |
+| [HEL IGEN \(feat\. Chris Abolade\)](https://open.spotify.com/track/27U7IT8vYLgI4tZnKTKf0r) | [Blaadage](https://open.spotify.com/artist/0ttQJRduN0NrldVyK7WRDy), [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB) | [HEL IGEN \(feat\. Chris Abolade\)](https://open.spotify.com/album/6lvkflWV8rpLiRSWKVkqkT) | 3:35 | 2026-08-28 |  |
 | [Heliumtanker](https://open.spotify.com/track/2bm8pFI3ZPsZxRpxgBr85D) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Heliumtanker](https://open.spotify.com/album/5Aa18monSfhQj9wVnkI9Br) | 2:44 | 2026-06-11 | 2026-07-06 |
 | [Helt](https://open.spotify.com/track/7vuUVW3lImv40lkgqJz4iQ) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Drømmer / Helt](https://open.spotify.com/album/6hX2wyH7niZIByb0OFKdC5) | 4:06 | 2025-03-21 | 2025-03-28 |
 | [Hen til det](https://open.spotify.com/track/0p95JhZTHJXDAz1chvdKtD) | [Karla Korsbak](https://open.spotify.com/artist/64TCK9hFlXeyqmeC5JLxyC) | [Hen til det](https://open.spotify.com/album/7G917tqDbJDa3G7G3JgDsp) | 2:51 | 2025-04-24 | 2026-01-15 |
@@ -192,6 +193,7 @@
 | [Hvad Skulle Jeg Gøre Uden Dig](https://open.spotify.com/track/4PejgbI6KITxcOV89OHRt3) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Hvad Skulle Jeg Gøre Uden Dig](https://open.spotify.com/album/6qO89wFyHbBDTiayGAmhFl) | 2:49 | 2025-04-07 | 2025-06-13 |
 | [hver tredje tanke](https://open.spotify.com/track/2NvlPjW8lqMmTSLahIBH6J) | [efterglød](https://open.spotify.com/artist/12ilOlZgqYHKwSkeBWMly3) | [hver tredje tanke](https://open.spotify.com/album/3HPzIP54YDXelJvcXaHPqJ) | 2:48 | 2025-10-16 | 2025-11-01 |
 | [Hvis jeg ku'](https://open.spotify.com/track/74eJCVzPl499tMbiD8FpRM) | [Mona Moroni](https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS) | [Hvis jeg ku'](https://open.spotify.com/album/3kNHoFmsaqrnd0cPtlKM3c) | 3:49 | 2025-12-19 |  |
+| [Hvor du er](https://open.spotify.com/track/5WsRf49ETqbpwOTBcufFbQ) | [dreng&piger](https://open.spotify.com/artist/07JRf49TUGMnobtGeXPY73) | [Hvor du er](https://open.spotify.com/album/5827zWSldtqm71hwFcsQml) | 2:25 | 2026-08-28 |  |
 | [Hvor er vi på vej hen?](https://open.spotify.com/track/5C1xmJdaIVhIMCwNHWXyS3) | [Asger](https://open.spotify.com/artist/63ROoz2PyporZ9RAkffc1d) | [Hvor er vi på vej hen?](https://open.spotify.com/album/7kbvhJjoQFj76Ii43ofUjd) | 2:41 | 2026-02-26 | 2026-03-06 |
 | [Hvor Skabet Skal Stå](https://open.spotify.com/track/1VtcllLThCZaQpTC0912PQ) | [Niko Blonde](https://open.spotify.com/artist/5SyUnGMUPI7fYGjwEB3jU5) | [Nimbus](https://open.spotify.com/album/583YsSUYDxrag3ipPEToiK) | 2:43 | 2025-10-16 | 2025-10-24 |
 | [Hvor Svært Kan Det Være](https://open.spotify.com/track/2kIGmHdCeslh6nxVoNUNGS) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Hvor Svært Kan Det Være](https://open.spotify.com/album/7edNDcl8N2ui3j2DI8aLs7) | 2:50 | 2026-06-04 | 2026-06-12 |
@@ -235,7 +237,7 @@
 | [kendt mig en uge](https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [kendt mig en uge](https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd) | 3:06 | 2025-03-21 |  |
 | [Klart Nok](https://open.spotify.com/track/0itsAYJPTg18QJadt3lchA) | [Kvadrillers](https://open.spotify.com/artist/7cGbT709Ly8AR5xjPJPeac) | [Klart Nok](https://open.spotify.com/album/12lnq7v7r939itsSBIa9oF) | 2:26 | 2025-10-16 | 2026-02-06 |
 | [Klip Klap Sandaler](https://open.spotify.com/track/0H2DdxpCOXES3vw1dNmf4V) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Kan Du Mærke Suset?](https://open.spotify.com/album/05Eo5mjVxE3CJWR6mI59Ty) | 4:00 | 2024-10-10 |  |
-| [Klubben \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Pisk](https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1) | 3:50 | 2025-01-23 |  |
+| [Klubben \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Pisk](https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1) | 3:50 | 2025-01-23 | 2026-08-30 |
 | [Klubben \(i Klubben\) \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/2jlxBDCYsN3jdKqA7EviyG) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Klubben \(i Klubben\)](https://open.spotify.com/album/2yxOclgOPNKkEJ5rC5OQ1j) | 2:51 | 2024-06-27 | 2024-08-05 |
 | [Kom Jeg Lidt For Tæt På](https://open.spotify.com/track/2LX5B1o9HEewHqutr10e55) | [Undertekst](https://open.spotify.com/artist/6bYrq1Uxd15cMGbmcZCLMM) | [Kom Jeg Lidt For Tæt På](https://open.spotify.com/album/6DnlVV0aiAROgRYI3LZvfs) | 3:09 | 2025-03-27 | 2025-04-04 |
 | [KOMMER DU HJEM](https://open.spotify.com/track/00WiCCPX6cuonSNqNuu71y) | [MARQ](https://open.spotify.com/artist/4Cm5pvR59CgfEcAG5wen6x), [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [KOMMER DU HJEM](https://open.spotify.com/album/5ohkGUAIM1Lwdx0MviysnB) | 3:19 | 2026-07-10 |  |

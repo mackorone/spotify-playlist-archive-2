@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Don’t Sweat It!
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,084 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,082 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 58 | [Inhumane](https://open.spotify.com/track/4JpUHYV5xwiBHx9wnTSjh1) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Fatalism](https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5) | 3:59 |
 | 59 | [Moth Into Flame](https://open.spotify.com/track/6F5RvdxWcLOJW7LAGuc24r) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct \(Deluxe\)](https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV) | 5:50 |
 | 60 | [Executioner's Tax \(Swing of the Axe\)](https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Nightmare Logic](https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70) | 3:45 |
-| 61 | [Halo](https://open.spotify.com/track/0rlPOzWbNVui2ABuI5OFhL) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Scars](https://open.spotify.com/album/2h9pGOK3WpnKM6sJjILl5E) | 3:15 |
-| 62 | [Natural Born Killer](https://open.spotify.com/track/4dFI3oZOaZn2iSOEUe1FFO) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [Look at Yourself](https://open.spotify.com/album/5d904eRcMkUSIipPixswNM) | 2:37 |
+| 61 | [Natural Born Killer](https://open.spotify.com/track/4dFI3oZOaZn2iSOEUe1FFO) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [Look at Yourself](https://open.spotify.com/album/5d904eRcMkUSIipPixswNM) | 2:37 |
+| 62 | [Halo](https://open.spotify.com/track/0rlPOzWbNVui2ABuI5OFhL) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Scars](https://open.spotify.com/album/2h9pGOK3WpnKM6sJjILl5E) | 3:15 |
 | 63 | [on the verge](https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [on the verge](https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230) | 2:14 |
 | 64 | [BRAVE NEW WORLD](https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [BRAVE NEW WORLD](https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh) | 4:23 |
 | 65 | [The World Is Yours](https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:53 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 77 | [666 \- World Divided](https://open.spotify.com/track/2OsCkXO8524Qxwe1pR3eAb) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [666 \- World Divided](https://open.spotify.com/album/0hCa6eoUtwiit26t5dNpeY) | 4:44 |
 | 78 | [Again & Again](https://open.spotify.com/track/7aHluiddcgODmeZ2rW6dju) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA) | [Gift \(Explicit Version\)](https://open.spotify.com/album/6vPDxNI1I3FFSMmc7MLoDT) | 3:58 |
 | 79 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6eoXUi0mNXFd2yhqH1sxJK) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Venom](https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP) | 3:36 |
-| 80 | [Hit The Floor](https://open.spotify.com/track/0UYJv76bj5U3QRghS8wL9e) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq) | 3:30 |
-| 81 | [Keep It In The Family](https://open.spotify.com/track/6S3oeZ5RKR8Tl9DTPAjGLt) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Persistence Of Time \(30th Anniversary Remaster\)](https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA) | 7:08 |
+| 80 | [Keep It In The Family](https://open.spotify.com/track/6S3oeZ5RKR8Tl9DTPAjGLt) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Persistence Of Time \(30th Anniversary Remaster\)](https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA) | 7:08 |
+| 81 | [Hit The Floor](https://open.spotify.com/track/0UYJv76bj5U3QRghS8wL9e) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq) | 3:30 |
 | 82 | [Smothered](https://open.spotify.com/track/2wdjEAsK64EUPmNIIH6MWt) | [Spineshank](https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4) | [Self\-Destructive Pattern](https://open.spotify.com/album/0rMyQJKxkqIOy9p5u4iV5w) | 3:10 |
 | 83 | [Creature](https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Creature](https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi) | 3:45 |
 | 84 | [Biggest & the Best](https://open.spotify.com/track/51XrhhPlt1smLatJgcBrUb) | [Clawfinger](https://open.spotify.com/artist/1xE3snzm12GBK259IqEFlY) | [Clawfinger](https://open.spotify.com/album/2UcbjA0yIRk3OR5H7GKnGf) | 3:51 |

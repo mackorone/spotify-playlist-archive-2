@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 
 > Remember Cinco de Mayo is not the Mexican Independence day, but here are some feel\-good tunes for your cinco de drinko\. ¡Salud!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,502 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,503 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 | 72 | [Cinco De Mayo](https://open.spotify.com/track/3h4XzxkbhXPaQ2OYLBuLFB) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Libertad 548](https://open.spotify.com/album/6nCJAxRvXmPkPiZo8Vh5ZG) | 3:47 |
 | 73 | [La Fiesta en Acción](https://open.spotify.com/track/3xX5uR8mDntlOXZ3FbdEqh) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Durmiendo en el Lugar Equivocado](https://open.spotify.com/album/50x6RBfdV0Ao2eX3T2ekty) | 2:28 |
 | 74 | [Yo Me Lo Busqué](https://open.spotify.com/track/5ZswFqs7Hv89PF867prCBF) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Yo Me Lo Busqué](https://open.spotify.com/album/7COLwVQMJIJWkqRmjGi5kz) | 2:40 |
-| 75 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 |
-| 76 | [Dame Otro Tequila](https://open.spotify.com/track/1vJcLbQyYRfmCoiyXKTsLk) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Pau Factor](https://open.spotify.com/album/5aJbHf0uuWc09nain4j3wl) | 2:42 |
+| 75 | [Dame Otro Tequila](https://open.spotify.com/track/1vJcLbQyYRfmCoiyXKTsLk) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Pau Factor](https://open.spotify.com/album/5aJbHf0uuWc09nain4j3wl) | 2:42 |
+| 76 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 |
 | 77 | [Hija de Su](https://open.spotify.com/track/6GhI4zyMx3xa6RvyYCKER6) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [ETC!ETC!](https://open.spotify.com/artist/0iDBD558yJl5IfRXg9Yfwt) | [Hija de Su](https://open.spotify.com/album/5gzoFIcBf6wguzBK1z7wfl) | 2:59 |
 | 78 | [Ticket De Salida](https://open.spotify.com/track/01ONRpkfIIAiavWJVY03AH) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Ticket De Salida](https://open.spotify.com/album/4rzbH6FLHISy07kILLO5Hr) | 3:04 |
 | 79 | [Cinco de Mayo](https://open.spotify.com/track/2PAAbLVkQ44RUIKWpM6DBr) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Frankie J](https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf) | [Cinco de Mayo \- Single](https://open.spotify.com/album/6b6hbBuS5jv4f4e8kZLX4N) | 4:23 |

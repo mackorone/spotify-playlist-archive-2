@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NWoQCKSdnQ.md) - [plain]
 
 > ¡Únete a la fiesta y mueve las caderas con esta playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,583 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,595 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NWoQCKSdnQ.md) - [plain]
 | 5 | [Gimme More](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:11 |
 | 6 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 |
 | 7 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
-| 8 | [Crazy In Love \(feat\. JAY\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
-| 9 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
+| 8 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
+| 9 | [Crazy In Love \(feat\. JAY\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
 | 10 | [Talento De Televisión](https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 4:39 |
 | 11 | [You Don't Love Me \(No, No, No\) \- Extended Mix](https://open.spotify.com/track/0INtJm8gCJKtNaAYQNVlpZ) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [No, No, No](https://open.spotify.com/album/7DLI0K5q6Gb1vgtlgKSgmU) | 4:37 |
 | 12 | [IDGAF](https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:37 |
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NWoQCKSdnQ.md) - [plain]
 | 30 | [Dr\. Psiquiatra](https://open.spotify.com/track/6FmwfLbteUqHfcz10Ab9yY) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Que Hago Aquí?](https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6) | 3:41 |
 | 31 | [Te Aviso, Te Anuncio \(Tango\)](https://open.spotify.com/track/1w5nWhUzrQqj0WnDXrgsnC) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:43 |
 | 32 | [Eternamente Bella](https://open.spotify.com/track/3pIgumKqXX7ge7lT9rCvNy) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [De Piel Negra](https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg) | 3:26 |
-| 33 | [Livin' la Vida Loca \- Spanish Version](https://open.spotify.com/track/4Yq7WIbdjwx4H7JR6Bf3nZ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
-| 34 | [¿Donde Están?](https://open.spotify.com/track/4svFtvFAitlF833rgaDW22) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viviendo Del Futuro](https://open.spotify.com/album/61QXrezlQ97RAus6JvzCSk) | 4:29 |
+| 33 | [¿Donde Están?](https://open.spotify.com/track/4svFtvFAitlF833rgaDW22) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viviendo Del Futuro](https://open.spotify.com/album/61QXrezlQ97RAus6JvzCSk) | 4:29 |
+| 34 | [Livin' la Vida Loca \- Spanish Version](https://open.spotify.com/track/4Yq7WIbdjwx4H7JR6Bf3nZ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
 | 35 | [Piel Morena](https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:42 |
 | 36 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 |
 | 37 | [Antes Muerta Que Sencilla](https://open.spotify.com/track/7tKDsV1gA7iVJHep2KZKOj) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Antes Muertas Que Sencillas](https://open.spotify.com/album/0afOzI8hKSRU3QV0cdf0NO) | 2:50 |
-| 38 | [Tus Ojos](https://open.spotify.com/track/4XTRWWCbB68WDeAHLfv2HP) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Cocktail](https://open.spotify.com/album/6L2qELGG144WItEUaAwVme) | 3:00 |
-| 39 | [Amor De Papel](https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viento A Favor](https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz) | 4:08 |
-| 40 | [Media Naranja](https://open.spotify.com/track/2xhRroGUvJTSqHqPeLjdwC) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Fey](https://open.spotify.com/album/28ibwBS08IFdLkcmYSN7Jh) | 3:41 |
+| 38 | [Amor De Papel](https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viento A Favor](https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz) | 4:08 |
+| 39 | [Media Naranja](https://open.spotify.com/track/2xhRroGUvJTSqHqPeLjdwC) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Fey](https://open.spotify.com/album/28ibwBS08IFdLkcmYSN7Jh) | 3:41 |
+| 40 | [Tus Ojos](https://open.spotify.com/track/4XTRWWCbB68WDeAHLfv2HP) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Cocktail](https://open.spotify.com/album/6L2qELGG144WItEUaAwVme) | 3:00 |
 | 41 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/59DBFv5MOW0M4KSF78rHw7) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [10 De Colección](https://open.spotify.com/album/3ZZH4ff62sXOXkBUPLMjBk) | 4:24 |
 | 42 | [Ven Conmigo \(Solamente Tú\)](https://open.spotify.com/track/2PYJnUWEPPP8C6b79UiwIl) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 3:10 |
 | 43 | [Sabes A Chocolate](https://open.spotify.com/track/4KCIR5WfyhPPeTy8KQzMXf) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [A.B\. Quintanilla III Presents Kumbia Kings Greatest Hits "Album Versions"](https://open.spotify.com/album/1RGWEZOK9E2fH75E6D3cqZ) | 3:47 |

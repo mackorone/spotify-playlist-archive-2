@@ -4,12 +4,13 @@
 
 > This is Nightwish\. The essential tracks, all in one playlist.
 
-116 songs - 10 hr 19 min
+117 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10th Man Down](https://open.spotify.com/track/5YEl0SaWsp0QhrFqZyV0XA) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Over The Hills And Far Away](https://open.spotify.com/album/4sPRDVFW50ZnrKDlg9SwIG) | 5:20 | 2022-09-08 | 2023-05-21 |
 | [10th Man Down](https://open.spotify.com/track/6ufTwGcAxjHAYlTrhxeyME) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Over The Hills And Far Away](https://open.spotify.com/album/6j4E355c5CbrduKa4rGGLj) | 5:20 | 2023-05-20 |  |
+| [7 Days To The Wolves \- Live in Amsterdam 2022](https://open.spotify.com/track/4YvndEBrJ2Em4pnFXsxsc2) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [7 Days To The Wolves \(Live in Amsterdam 2022\)](https://open.spotify.com/album/1iYquzFaMicgVvQYHQQ9zs) | 7:21 | 2026-08-30 |  |
 | [7 Days to the Wolves \- Live, at Wembley, 2015](https://open.spotify.com/track/1SQlzlYlaMXvBphd1Z1nmD) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Vehicle of Spirit: Wembley Arena \(Live\)](https://open.spotify.com/album/1y6lNpSBJck5Fi0iRwHot1) | 7:11 | 2022-09-08 | 2023-12-14 |
 | [Alpenglow](https://open.spotify.com/track/5UlVP9eewIYpqewZv6kToz) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 4:49 | 2022-09-08 |  |
 | [Amaranth](https://open.spotify.com/track/0RsOUnm1wNpbXxZ8a4abOP) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD) | 3:51 | 2022-09-08 |  |
@@ -93,7 +94,7 @@
 | [Storytime](https://open.spotify.com/track/5IhtaTempjlVlPmSgI0FQS) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 5:22 | 2022-09-08 |  |
 | [Swanheart](https://open.spotify.com/track/5NULYChw0sL9RUVAxKkTQP) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/37LveKPgKGwpuI0cEVbPj4) | 4:44 | 2022-09-08 | 2022-11-06 |
 | [Sway](https://open.spotify.com/track/3UG048BsyKH9MfqPgTpyzx) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 4:23 | 2024-09-22 | 2024-11-07 |
-| [The Antikythera Mechanism](https://open.spotify.com/track/3CJ3Bbq0nUh8lFt1hHUI1K) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 5:55 | 2024-09-22 |  |
+| [The Antikythera Mechanism](https://open.spotify.com/track/3CJ3Bbq0nUh8lFt1hHUI1K) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 5:55 | 2024-09-22 | 2026-08-30 |
 | [The Children Of 'Ata](https://open.spotify.com/track/0TEycmMBaj7UnZffKlTYkW) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 5:37 | 2024-09-22 | 2026-08-28 |
 | [The Crow, the Owl and the Dove](https://open.spotify.com/track/6udzPCAaSWZ1dIE8VwX67z) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 4:10 | 2022-11-05 |  |
 | [The Day Of...](https://open.spotify.com/track/20w340h37XvpPjiO591XCg) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Day Of...](https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1) | 4:33 | 2024-08-10 | 2024-09-28 |

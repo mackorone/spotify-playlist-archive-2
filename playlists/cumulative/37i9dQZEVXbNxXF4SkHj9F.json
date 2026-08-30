@@ -3208,10 +3208,28 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 156034,
       "name": "BAD",
       "url": "https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3"
+    },
+    {
+      "album": {
+        "name": "GOLDEN HOUR : Part.5",
+        "url": "https://open.spotify.com/album/3QU53E1zqpvOyIidg5PcZp"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156034,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/7xIX566RcjiBHRBrFzFEh3"
     },
     {
       "album": {
@@ -4356,6 +4374,24 @@
     {
       "album": {
         "name": "BiiiG",
+        "url": "https://open.spotify.com/album/0mGLpKNB8tHBD6xcBBNIg4"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164208,
+      "name": "BiiiG",
+      "url": "https://open.spotify.com/track/0VC5xxxnR60IMlKQpQN33R"
+    },
+    {
+      "album": {
+        "name": "BiiiG",
         "url": "https://open.spotify.com/album/0TAVFAYcXBx6wMmUQYCWfq"
       },
       "artists": [
@@ -4366,7 +4402,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 164208,
       "name": "BiiiG",
       "url": "https://open.spotify.com/track/4pZi0VxU2C8zuxCYfEtFuL"
@@ -6076,10 +6112,28 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 166149,
       "name": "Candy Pink Magic Hole Flip Phone",
       "url": "https://open.spotify.com/track/1Z1Cqo1J4oygsAM2urZO3f"
+    },
+    {
+      "album": {
+        "name": "WhyKiiiKiii",
+        "url": "https://open.spotify.com/album/5JnGvbE42HzaqM6DT7u1SN"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166149,
+      "name": "Candy Pink Magic Hole Flip Phone",
+      "url": "https://open.spotify.com/track/1my8zFESgULmuj3D2tzK1R"
     },
     {
       "album": {
@@ -11747,6 +11801,24 @@
     },
     {
       "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199166,
+      "name": "FALLEN ANGEL",
+      "url": "https://open.spotify.com/track/75QkBCdRc5DGgcyPiVSg4b"
+    },
+    {
+      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt"
       },
@@ -15241,6 +15313,24 @@
     },
     {
       "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186720,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/68taLckvPxHRtNa8QjQJ5e"
       },
@@ -15342,10 +15432,28 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 180000,
       "name": "Heavy Serenade",
       "url": "https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4"
+    },
+    {
+      "album": {
+        "name": "Heavy Serenade",
+        "url": "https://open.spotify.com/album/6fA8V4uDvle3Tm6qUGlikz"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Heavy Serenade",
+      "url": "https://open.spotify.com/track/1Sjs93mMgi9bX06FFU9Mcv"
     },
     {
       "album": {
@@ -19386,7 +19494,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 218796,
       "name": "KISS KISS KISS (Feat. SUNWOO (THE BOYZ)) (Prod. by Hukky Shibaseki)",
       "url": "https://open.spotify.com/track/1alWuqrk1v7xzECNR8ovRo"
@@ -20098,10 +20206,28 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 163000,
       "name": "Lemon Tang",
       "url": "https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I"
+    },
+    {
+      "album": {
+        "name": "Lemon Tang - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/56gdysW7gCIKLKd1zpXpKK"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Lemon Tang",
+      "url": "https://open.spotify.com/track/4vaC50FUEn6H8pPalM6jVA"
     },
     {
       "album": {
@@ -20134,7 +20260,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 187000,
       "name": "LEMONADE",
       "url": "https://open.spotify.com/track/1Hv8KIKhK6Dz02ROKT63lV"
@@ -20192,6 +20318,24 @@
       "duration_ms": 187000,
       "name": "LEMONADE",
       "url": "https://open.spotify.com/track/6vjt2smGK75oc9r2OGFfgp"
+    },
+    {
+      "album": {
+        "name": "LEMONADE - The 2nd Album",
+        "url": "https://open.spotify.com/album/5dscbWbSUuO5SNnrtiCVSB"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/7a3iH9vM5Z58GqOMqXBU1M"
     },
     {
       "album": {
@@ -28210,6 +28354,24 @@
     {
       "album": {
         "name": "WhyKiiiKiii",
+        "url": "https://open.spotify.com/album/5JnGvbE42HzaqM6DT7u1SN"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141285,
+      "name": "Pop Off Pop Off",
+      "url": "https://open.spotify.com/track/0USn5f2VZGbHjHkbjcijzU"
+    },
+    {
+      "album": {
+        "name": "WhyKiiiKiii",
         "url": "https://open.spotify.com/album/6RrIZArw9cEz8gbpiylYFz"
       },
       "artists": [
@@ -28220,7 +28382,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 141285,
       "name": "Pop Off Pop Off",
       "url": "https://open.spotify.com/track/3iHzvU39BS03PD0zpNa19b"
@@ -28576,7 +28738,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 326842,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU"
@@ -28598,6 +28760,24 @@
       "duration_ms": 326842,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/49h5Aav6yn1o1ACGyovDdZ"
+    },
+    {
+      "album": {
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/2vwgYzudvFwyFe1Ho9gdUQ"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326842,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/58dxGXavrcagRqA58fNB0Z"
     },
     {
       "album": {
@@ -30322,7 +30502,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -30340,7 +30520,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -34945,6 +35125,24 @@
     },
     {
       "album": {
+        "name": "iScreaM Vol.40 : Surfin' Boy Remixes",
+        "url": "https://open.spotify.com/album/2qSvvpunIQ53eBhBjwO221"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168466,
+      "name": "Surfin' Boy",
+      "url": "https://open.spotify.com/track/0cSxfNcy80a18linDTEpiN"
+    },
+    {
+      "album": {
         "name": "Velvet Summer - Summer Mini Album",
         "url": "https://open.spotify.com/album/0AzIvsw9Pq9De3vYFA01Rr"
       },
@@ -34956,7 +35154,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 168466,
       "name": "Surfin' Boy",
       "url": "https://open.spotify.com/track/3caqaSvtldUKLY5Fd5msk2"
@@ -41672,7 +41870,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 217760,
       "name": "\u6669\u9910\u6b4c - Bansanka",
       "url": "https://open.spotify.com/track/075HUD50Nuea3rNaABIsNZ"

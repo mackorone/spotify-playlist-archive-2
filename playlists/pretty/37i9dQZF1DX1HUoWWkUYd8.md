@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HUoWWkUYd8.md) - [plain]
 
 > Polaroids, clackers and wooden box TV's, this one's for you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,502 likes - 80 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,524 likes - 80 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HUoWWkUYd8.md) - [plain]
 | 18 | [Stayin' Alive \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 4:45 |
 | 19 | [Smalltown Boy](https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Age of Consent](https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI) | 5:02 |
 | 20 | [Don't Go Breaking My Heart](https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 4:35 |
-| 21 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 |
-| 22 | [Boogie Wonderland \(with The Emotions\)](https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 |
+| 21 | [Boogie Wonderland \(with The Emotions\)](https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 |
+| 22 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 |
 | 23 | [Show Me Love](https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 4:12 |
 | 24 | [Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 4:50 |
 | 25 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HUoWWkUYd8.md) - [plain]
 | 34 | [December, 1963 \(Oh What a Night!\)](https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN) | [The Four Seasons](https://open.spotify.com/artist/4uHsvbEomrfo1KXllQ9K3s) | [Who Loves You](https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU) | 3:17 |
 | 35 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 |
 | 36 | [I Think We're Alone Now](https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY) | [Tiffany](https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe) | [Tiffany](https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C) | 3:48 |
-| 37 | [Miss You \- Remastered](https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:48 |
-| 38 | [Words \- Original Version 1983](https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD) | [F.R\. David](https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn) | [Words](https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo) | 3:28 |
+| 37 | [Words \- Original Version 1983](https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD) | [F.R\. David](https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn) | [Words](https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo) | 3:28 |
+| 38 | [Miss You \- Remastered](https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:48 |
 | 39 | [Golden Brown](https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [La Folie](https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx) | 3:26 |
 | 40 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
 | 41 | [Red Red Wine](https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [The Very Best Of](https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum) | 3:03 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HUoWWkUYd8.md) - [plain]
 | 71 | [A Groovy Kind of Love](https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Love Songs \(A Compilation Old and New\)](https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF) | 3:30 |
 | 72 | [That's the Way \(I Like It\) \- 2004 Remaster](https://open.spotify.com/track/3PR79C1jVvLLLmgdyHkXl3) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [KC & the Sunshine Band](https://open.spotify.com/album/2ogOjq2sGndRddcHXfne1l) | 3:05 |
 | 73 | [Girls on Film \- 2010 Remaster](https://open.spotify.com/track/4EFkvOhgAmlHEfDfvfSoh5) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran \(Deluxe Edition\)](https://open.spotify.com/album/2Tc7ILGF89w1PWOhzuZlqB) | 3:32 |
-| 74 | [Do You Really Want To Hurt Me](https://open.spotify.com/track/1I6q6nwNjNgik1Qe8Oi0Y7) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Kissing To Be Clever](https://open.spotify.com/album/4y1hBzoffx9DaGXbObeC2w) | 4:22 |
-| 75 | [Ride on Time](https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:32 |
+| 74 | [Ride on Time](https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:32 |
+| 75 | [Do You Really Want To Hurt Me](https://open.spotify.com/track/1I6q6nwNjNgik1Qe8Oi0Y7) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Kissing To Be Clever](https://open.spotify.com/album/4y1hBzoffx9DaGXbObeC2w) | 4:22 |
 | 76 | [Walk Like an Egyptian](https://open.spotify.com/track/1Jwc3ODLQxtbnS8M9TflSP) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 3:24 |
 | 77 | [Shattered Dreams \- Remastered 2008](https://open.spotify.com/track/5KXKhCfPNS4342ly8tTf6w) | [Johnny Hates Jazz](https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf) | [Turn Back The Clock](https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u) | 3:27 |
 | 78 | [Heart Of Glass](https://open.spotify.com/track/41AE8ODX2JETBCa6muhSLY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:12 |

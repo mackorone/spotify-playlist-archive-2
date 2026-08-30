@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 
 > For those who like to party hard!
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,869 likes - 90 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,970 likes - 90 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 | 7 | [No More Tears](https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 7:24 |
 | 8 | [Sad But True](https://open.spotify.com/track/1PhLYngBKbeDtdmDzCg3Pb) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:23 |
 | 9 | [Walk](https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:15 |
-| 10 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
-| 11 | [The Trooper \- 2015 Remaster](https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 Remaster\)](https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby) | 4:12 |
+| 10 | [The Trooper \- 2015 Remaster](https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 Remaster\)](https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby) | 4:12 |
+| 11 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
 | 12 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 |
 | 13 | [Got the Life](https://open.spotify.com/track/6nJPHXRpKYv2yqtalEjKy5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 3:45 |
 | 14 | [Them Bones \(2022 Remaster\)](https://open.spotify.com/track/4A065x9kJt955eGVqf813g) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 2:29 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 | 20 | [Spoonman](https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh) | 4:06 |
 | 21 | [Holy Wars...The Punishment Due \- 2004 Remix](https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 6:32 |
 | 22 | [Metalingus](https://open.spotify.com/track/3UULkHdmLDqBDPmBYltoRE) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [One Day Remains](https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx) | 4:19 |
-| 23 | [Hot for Teacher \- 2015 Remaster](https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:42 |
-| 24 | [Happy?](https://open.spotify.com/track/0INUE1K7cEiE8VH63Rv5RJ) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:36 |
+| 23 | [Happy?](https://open.spotify.com/track/0INUE1K7cEiE8VH63Rv5RJ) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:36 |
+| 24 | [Hot for Teacher \- 2015 Remaster](https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:42 |
 | 25 | [Radio](https://open.spotify.com/track/5vZ4IeUenK2cHub2d7yfWk) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:37 |
 | 26 | [Painkiller](https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 6:05 |
 | 27 | [Gasoline](https://open.spotify.com/track/6Q1m1GyNxyOwZ2ud3p7XoS) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 2:33 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 | 29 | [Girls Got Rhythm](https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:23 |
 | 30 | [We Die Young](https://open.spotify.com/track/5Ds35L9KpUDKgSxZ6whuoQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj) | 2:31 |
 | 31 | [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 |
-| 32 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
-| 33 | [Angel Of Death](https://open.spotify.com/track/5ohfpKB5tt275f4Y4lQ9F7) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood \(Expanded\)](https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU) | 4:51 |
+| 32 | [Angel Of Death](https://open.spotify.com/track/5ohfpKB5tt275f4Y4lQ9F7) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood \(Expanded\)](https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU) | 4:51 |
+| 33 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
 | 34 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 |
 | 35 | [MANTRA](https://open.spotify.com/track/060RNnzoMay3wKJek1faPc) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 3:53 |
 | 36 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 |

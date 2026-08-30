@@ -1,12 +1,12 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: M'DEP, DESSIIIK ",
-  "num_followers": 151050,
+  "num_followers": 151061,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE9SjfxurtkaI3FMywI9/GlY0K+B",
+  "snapshot_id": "AAAAAPg0GolqTWk+EYkECgtxuJVbuWEL",
   "tracks": [
     {
       "added_at": "2026-08-21 22:01:20",
@@ -955,6 +955,126 @@
     {
       "added_at": "2026-08-21 22:01:20",
       "album": {
+        "name": "GET RICH",
+        "url": "https://open.spotify.com/album/6Ju8WvKcYuBLWrC3AGDlzm"
+      },
+      "artists": [
+        {
+          "name": "TheJovemJota",
+          "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
+        },
+        {
+          "name": "Mvt",
+          "url": "https://open.spotify.com/artist/6Kl9FDZ096aIBZr7Qq6bcZ"
+        },
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
+        },
+        {
+          "name": "CASA 11",
+          "url": "https://open.spotify.com/artist/5dDz0iCihss5uzRjrDlLZy"
+        }
+      ],
+      "duration_ms": 139281,
+      "name": "GET RICH",
+      "url": "https://open.spotify.com/track/02n0kRA0M2Gs83V9QtWw0v"
+    },
+    {
+      "added_at": "2026-08-21 22:01:20",
+      "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/2Pg63mnbvo0XuEbwA5YbkK"
+      },
+      "artists": [
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        }
+      ],
+      "duration_ms": 115384,
+      "name": "Ciclo",
+      "url": "https://open.spotify.com/track/5k7JkpDlo6o9HJ1i8Wj8Mn"
+    },
+    {
+      "added_at": "2026-08-21 22:01:20",
+      "album": {
+        "name": "Ruas Frias",
+        "url": "https://open.spotify.com/album/12UMQAWVys24LITebtbIdY"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Ruas Frias",
+      "url": "https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM"
+    },
+    {
+      "added_at": "2026-08-21 22:01:20",
+      "album": {
+        "name": "PRETO DE VITRINE",
+        "url": "https://open.spotify.com/album/3YDq0DisiOVRN4khwWJH6X"
+      },
+      "artists": [
+        {
+          "name": "Druhh e Drehh",
+          "url": "https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf"
+        },
+        {
+          "name": "Miranda On The Trk!",
+          "url": "https://open.spotify.com/artist/49F1YPFCspHWmoA8tPqHLc"
+        },
+        {
+          "name": "MixbyGaijin",
+          "url": "https://open.spotify.com/artist/5yiQQsEuh10OhXClxBtYMM"
+        }
+      ],
+      "duration_ms": 173852,
+      "name": "PRETO DE VITRINE",
+      "url": "https://open.spotify.com/track/5gvLZphACEQd8O49b0dvac"
+    },
+    {
+      "added_at": "2026-08-21 22:01:20",
+      "album": {
+        "name": "Lealdade Primeiro",
+        "url": "https://open.spotify.com/album/5ArkkDvIggAFS3Lc2JCcM0"
+      },
+      "artists": [
+        {
+          "name": "Suiky",
+          "url": "https://open.spotify.com/artist/3nDW2GZ3lX2zuT5aYentM6"
+        },
+        {
+          "name": "Dactes",
+          "url": "https://open.spotify.com/artist/2zYKxqey1SNN4lFLjMw0FS"
+        },
+        {
+          "name": "Celo Dut",
+          "url": "https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV"
+        },
+        {
+          "name": "Young Piva",
+          "url": "https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH"
+        }
+      ],
+      "duration_ms": 198771,
+      "name": "Grandeza",
+      "url": "https://open.spotify.com/track/5laBIDKd6mfQJQGdZ6dhFa"
+    },
+    {
+      "added_at": "2026-08-21 22:01:20",
+      "album": {
         "name": "F.A.Q. LUV",
         "url": "https://open.spotify.com/album/63jNMv0PaZWEPzRcVhzdY5"
       },
@@ -987,70 +1107,6 @@
     {
       "added_at": "2026-08-21 22:01:20",
       "album": {
-        "name": "Ciclo",
-        "url": "https://open.spotify.com/album/2Pg63mnbvo0XuEbwA5YbkK"
-      },
-      "artists": [
-        {
-          "name": "PJ HOUDINI",
-          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Viper",
-          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
-        }
-      ],
-      "duration_ms": 115384,
-      "name": "Ciclo",
-      "url": "https://open.spotify.com/track/5k7JkpDlo6o9HJ1i8Wj8Mn"
-    },
-    {
-      "added_at": "2026-08-21 22:01:20",
-      "album": {
-        "name": "PRETO DE VITRINE",
-        "url": "https://open.spotify.com/album/3YDq0DisiOVRN4khwWJH6X"
-      },
-      "artists": [
-        {
-          "name": "Druhh e Drehh",
-          "url": "https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf"
-        },
-        {
-          "name": "Miranda On The Trk!",
-          "url": "https://open.spotify.com/artist/49F1YPFCspHWmoA8tPqHLc"
-        },
-        {
-          "name": "MixbyGaijin",
-          "url": "https://open.spotify.com/artist/5yiQQsEuh10OhXClxBtYMM"
-        }
-      ],
-      "duration_ms": 173852,
-      "name": "PRETO DE VITRINE",
-      "url": "https://open.spotify.com/track/5gvLZphACEQd8O49b0dvac"
-    },
-    {
-      "added_at": "2026-08-21 22:01:20",
-      "album": {
-        "name": "Ruas Frias",
-        "url": "https://open.spotify.com/album/12UMQAWVys24LITebtbIdY"
-      },
-      "artists": [
-        {
-          "name": "Thxuzz",
-          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Ruas Frias",
-      "url": "https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM"
-    },
-    {
-      "added_at": "2026-08-21 22:01:20",
-      "album": {
         "name": "placo no pulso",
         "url": "https://open.spotify.com/album/13AXMnEcwvaKf37hrMgb2X"
       },
@@ -1067,62 +1123,6 @@
       "duration_ms": 176511,
       "name": "placo no pulso",
       "url": "https://open.spotify.com/track/58tNC9k8yZjqQoo7i11mbf"
-    },
-    {
-      "added_at": "2026-08-21 22:01:20",
-      "album": {
-        "name": "GET RICH",
-        "url": "https://open.spotify.com/album/6Ju8WvKcYuBLWrC3AGDlzm"
-      },
-      "artists": [
-        {
-          "name": "TheJovemJota",
-          "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
-        },
-        {
-          "name": "Mvt",
-          "url": "https://open.spotify.com/artist/6Kl9FDZ096aIBZr7Qq6bcZ"
-        },
-        {
-          "name": "Kenji",
-          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
-        },
-        {
-          "name": "CASA 11",
-          "url": "https://open.spotify.com/artist/5dDz0iCihss5uzRjrDlLZy"
-        }
-      ],
-      "duration_ms": 139281,
-      "name": "GET RICH",
-      "url": "https://open.spotify.com/track/02n0kRA0M2Gs83V9QtWw0v"
-    },
-    {
-      "added_at": "2026-08-21 22:01:20",
-      "album": {
-        "name": "Lealdade Primeiro",
-        "url": "https://open.spotify.com/album/5ArkkDvIggAFS3Lc2JCcM0"
-      },
-      "artists": [
-        {
-          "name": "Suiky",
-          "url": "https://open.spotify.com/artist/3nDW2GZ3lX2zuT5aYentM6"
-        },
-        {
-          "name": "Dactes",
-          "url": "https://open.spotify.com/artist/2zYKxqey1SNN4lFLjMw0FS"
-        },
-        {
-          "name": "Celo Dut",
-          "url": "https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV"
-        },
-        {
-          "name": "Young Piva",
-          "url": "https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH"
-        }
-      ],
-      "duration_ms": 198771,
-      "name": "Grandeza",
-      "url": "https://open.spotify.com/track/5laBIDKd6mfQJQGdZ6dhFa"
     },
     {
       "added_at": "2026-08-21 22:01:20",

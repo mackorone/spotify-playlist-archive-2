@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : Steve Lacy",
-  "num_followers": 401441,
+  "num_followers": 401423,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Juillet 2026",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2026-07-31 22:00:23",
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/1XXUdRkbwKWm8hCcHLwdGl"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 214534,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/4WOsZ7Rq8NmEiLpXM8Zvd5"
-    },
-    {
-      "added_at": "2026-07-31 22:00:23",
-      "album": {
         "name": "CONFESSIONS II",
         "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 263363,
       "name": "School",
       "url": "https://open.spotify.com/track/4rN5JelPY9qa05kvG6TTzQ"
+    },
+    {
+      "added_at": "2026-07-31 22:00:23",
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/1XXUdRkbwKWm8hCcHLwdGl"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 214534,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/4WOsZ7Rq8NmEiLpXM8Zvd5"
     },
     {
       "added_at": "2026-07-31 22:00:23",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-07-31 22:00:23",
       "album": {
-        "name": "what u want",
-        "url": "https://open.spotify.com/album/1612UsrmvEmTZjKSYtJblo"
-      },
-      "artists": [
-        {
-          "name": "nomi.",
-          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
-        }
-      ],
-      "duration_ms": 165652,
-      "name": "what u want",
-      "url": "https://open.spotify.com/track/68icwERFCZaV107eHjqt77"
-    },
-    {
-      "added_at": "2026-07-31 22:00:23",
-      "album": {
         "name": "LA VAR",
         "url": "https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 102352,
       "name": "LA VAR",
       "url": "https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w"
+    },
+    {
+      "added_at": "2026-07-31 22:00:23",
+      "album": {
+        "name": "what u want",
+        "url": "https://open.spotify.com/album/1612UsrmvEmTZjKSYtJblo"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "duration_ms": 165652,
+      "name": "what u want",
+      "url": "https://open.spotify.com/track/68icwERFCZaV107eHjqt77"
     },
     {
       "added_at": "2026-07-31 22:00:23",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-07-31 22:00:23",
       "album": {
+        "name": "DREAMS ON THE PASSENGER SEAT",
+        "url": "https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "duration_ms": 223738,
+      "name": "PROMISE",
+      "url": "https://open.spotify.com/track/2cvBh4B2DloHVFwMnqYypW"
+    },
+    {
+      "added_at": "2026-07-31 22:00:23",
+      "album": {
         "name": "Aniki, mon fr\u00e8re",
         "url": "https://open.spotify.com/album/1Q0tJdD1VkUAPF8MSyv3sw"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 159230,
       "name": "Link",
       "url": "https://open.spotify.com/track/6cTRRyMEZtsQS3kmpOSo6Y"
-    },
-    {
-      "added_at": "2026-07-31 22:00:23",
-      "album": {
-        "name": "DREAMS ON THE PASSENGER SEAT",
-        "url": "https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK"
-      },
-      "artists": [
-        {
-          "name": "DAMEDAME*",
-          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
-        }
-      ],
-      "duration_ms": 223738,
-      "name": "PROMISE",
-      "url": "https://open.spotify.com/track/2cvBh4B2DloHVFwMnqYypW"
     },
     {
       "added_at": "2026-07-31 22:00:23",

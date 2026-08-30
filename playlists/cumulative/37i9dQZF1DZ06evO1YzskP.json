@@ -78,7 +78,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 169400,
       "name": "Amigo 09",
       "url": "https://open.spotify.com/track/5XmiWFjqBClnlcAgDD69Vb"
@@ -2708,6 +2708,28 @@
       "duration_ms": 193153,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3zO9fdTPrJ1eCxEFdCboN1"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lo Un D\u00eda",
+        "url": "https://open.spotify.com/album/1QxspiuEU6PfmiUyboMSPv"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "S\u00f3lo Un D\u00eda",
+      "url": "https://open.spotify.com/track/47GXXBeBf5Sn4URZCrN1t3"
     },
     {
       "album": {

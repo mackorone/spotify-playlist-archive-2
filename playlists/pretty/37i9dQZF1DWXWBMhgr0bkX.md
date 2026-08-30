@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > New pop releases from the UK & Ireland 🌟 cover: Bea
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,453 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,455 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

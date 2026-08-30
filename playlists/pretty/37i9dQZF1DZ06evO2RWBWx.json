@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABDx40Fe5rCf03TGnhMJzJ1",
+  "snapshot_id": "apDPgAAAAABL6ayysbpdc6BqCz9wmnx5",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u604b\u8863",
-        "url": "https://open.spotify.com/album/1jbhSPkyBeQwhNfTamimKu"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 212758,
-      "name": "\u604b\u8863",
-      "url": "https://open.spotify.com/track/3ky5XuA51Lz48YfCCcPsZg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "POP CUBE",
         "url": "https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 200733,
       "name": "\u3042\u3079\u3053\u3079",
       "url": "https://open.spotify.com/track/0q45T1ketsZRdCSwGOqgyW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u604b\u8863",
+        "url": "https://open.spotify.com/album/1jbhSPkyBeQwhNfTamimKu"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 212758,
+      "name": "\u604b\u8863",
+      "url": "https://open.spotify.com/track/3ky5XuA51Lz48YfCCcPsZg"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EGOIST",
+        "url": "https://open.spotify.com/album/1s1zFebCh6OWUZiQDZtS9d"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "EGOIST",
+      "url": "https://open.spotify.com/track/19CpFIuodNeQHXuj156Ecq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30c4\u30ca\u30ac\u30eb\u30a6\u30c1\u30e5\u30a6\uff01",
         "url": "https://open.spotify.com/album/39TMwItqzO5ze6rmqGKPuz"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 160000,
       "name": "\u30c4\u30ca\u30ac\u30eb\u30a6\u30c1\u30e5\u30a6\uff01",
       "url": "https://open.spotify.com/track/2ZM2H6KsI5pFJaa9O6PT9P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EGOIST",
-        "url": "https://open.spotify.com/album/1s1zFebCh6OWUZiQDZtS9d"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "EGOIST",
-      "url": "https://open.spotify.com/track/19CpFIuodNeQHXuj156Ecq"
     },
     {
       "added_at": null,

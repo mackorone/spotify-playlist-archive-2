@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjo7kaCGuCU.md) - [plain]
 
 > R&B from around the world
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,706 likes - 101 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,851 likes - 101 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

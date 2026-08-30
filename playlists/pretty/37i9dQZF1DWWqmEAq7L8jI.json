@@ -1,6 +1,6 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Benjamin Amadeo",
-  "num_followers": 279226,
+  "num_followers": 279220,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-08-21 15:00:07",
       "album": {
+        "name": "el cielo",
+        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 188671,
+      "name": "el cielo",
+      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
+    },
+    {
+      "added_at": "2026-08-21 15:00:07",
+      "album": {
         "name": "Canci\u00f3n Bonita",
         "url": "https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 169559,
       "name": "Canci\u00f3n Bonita",
       "url": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0"
-    },
-    {
-      "added_at": "2026-08-21 15:00:07",
-      "album": {
-        "name": "el cielo",
-        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 188671,
-      "name": "el cielo",
-      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
     },
     {
       "added_at": "2026-08-21 15:00:07",
@@ -743,26 +743,6 @@
     {
       "added_at": "2026-08-21 15:00:07",
       "album": {
-        "name": "Djadja (feat. Maluma) [Remix]",
-        "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 166850,
-      "name": "Djadja (feat. Maluma) - Remix",
-      "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
-    },
-    {
-      "added_at": "2026-08-21 15:00:07",
-      "album": {
         "name": "Machu Picchu",
         "url": "https://open.spotify.com/album/7jqXGkhOKZ3wuZuD6IgTYR"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 179004,
       "name": "Machu Picchu",
       "url": "https://open.spotify.com/track/1LXb70u8SLsvBAPWHMCTMe"
+    },
+    {
+      "added_at": "2026-08-21 15:00:07",
+      "album": {
+        "name": "Djadja (feat. Maluma) [Remix]",
+        "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 166850,
+      "name": "Djadja (feat. Maluma) - Remix",
+      "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
     },
     {
       "added_at": "2026-08-21 15:00:07",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-08-21 15:00:07",
       "album": {
-        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 214527,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K"
-    },
-    {
-      "added_at": "2026-08-21 15:00:07",
-      "album": {
         "name": "Muero",
         "url": "https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 217476,
       "name": "Muero",
       "url": "https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2"
+    },
+    {
+      "added_at": "2026-08-21 15:00:07",
+      "album": {
+        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 214527,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K"
     },
     {
       "added_at": "2026-08-21 15:00:07",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2026-08-21 15:00:07",
       "album": {
-        "name": "La despedida",
-        "url": "https://open.spotify.com/album/2a3Fn5kNzTeir9wOQPzrc5"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        },
-        {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
-        }
-      ],
-      "duration_ms": 214928,
-      "name": "La despedida",
-      "url": "https://open.spotify.com/track/6MkJVM8XCjoBBJzmnDZY8y"
-    },
-    {
-      "added_at": "2026-08-21 15:00:07",
-      "album": {
         "name": "Nada es lo Mismo",
         "url": "https://open.spotify.com/album/3C3jbzl4S0gAhKfGTrY3sk"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 184500,
       "name": "Nada es lo Mismo",
       "url": "https://open.spotify.com/track/2JriBiHousQyoPZxUFdjyL"
+    },
+    {
+      "added_at": "2026-08-21 15:00:07",
+      "album": {
+        "name": "La despedida",
+        "url": "https://open.spotify.com/album/2a3Fn5kNzTeir9wOQPzrc5"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        },
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        }
+      ],
+      "duration_ms": 214928,
+      "name": "La despedida",
+      "url": "https://open.spotify.com/track/6MkJVM8XCjoBBJzmnDZY8y"
     },
     {
       "added_at": "2026-08-21 15:00:07",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-08-21 15:00:07",
       "album": {
-        "name": "ACELERAO",
-        "url": "https://open.spotify.com/album/44Fohjc2uXDEWFIKmqNeDZ"
-      },
-      "artists": [
-        {
-          "name": "Maxi Espindola",
-          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
-        }
-      ],
-      "duration_ms": 151115,
-      "name": "ACELERAO",
-      "url": "https://open.spotify.com/track/03YXVIBt8bLGHp8kBHEEgb"
-    },
-    {
-      "added_at": "2026-08-21 15:00:07",
-      "album": {
         "name": "CUERPO",
         "url": "https://open.spotify.com/album/0yjY4nJkXaxV3Z9ad8g3ZX"
       },
@@ -1751,18 +1735,18 @@
     {
       "added_at": "2026-08-21 15:00:07",
       "album": {
-        "name": "Mil disparos",
-        "url": "https://open.spotify.com/album/3tQVq7HJ90ltyq62mbW1pW"
+        "name": "ACELERAO",
+        "url": "https://open.spotify.com/album/44Fohjc2uXDEWFIKmqNeDZ"
       },
       "artists": [
         {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
-      "duration_ms": 211231,
-      "name": "Mil disparos",
-      "url": "https://open.spotify.com/track/790Nbo53yln8hzaYVGPmAO"
+      "duration_ms": 151115,
+      "name": "ACELERAO",
+      "url": "https://open.spotify.com/track/03YXVIBt8bLGHp8kBHEEgb"
     },
     {
       "added_at": "2026-08-21 15:00:07",
@@ -1783,6 +1767,22 @@
       "duration_ms": 242400,
       "name": "Te Cre\u00ed",
       "url": "https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL"
+    },
+    {
+      "added_at": "2026-08-21 15:00:07",
+      "album": {
+        "name": "Mil disparos",
+        "url": "https://open.spotify.com/album/3tQVq7HJ90ltyq62mbW1pW"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 211231,
+      "name": "Mil disparos",
+      "url": "https://open.spotify.com/track/790Nbo53yln8hzaYVGPmAO"
     },
     {
       "added_at": "2026-08-21 15:00:07",

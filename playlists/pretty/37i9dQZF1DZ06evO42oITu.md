@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 
 > This is Eric Clapton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,204 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,224 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 23 | [Old Love \- Acoustic Live](https://open.spotify.com/track/0XuDj6qH64RUAljehbd8O3) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 7:51 |
 | 24 | [Let It Rain](https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh) | 5:01 |
 | 25 | [They Call Me The Breeze](https://open.spotify.com/track/5zX6E4brIhshX7MPWQiiO5) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 3:06 |
-| 26 | [Forever Man \- 1999 Remaster](https://open.spotify.com/track/6x7jcl21wMqyt5R2bAxPyP) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Behind the Sun](https://open.spotify.com/album/5WX2WQT74bVZl9UqqY6LZT) | 3:11 |
+| 26 | [Before You Accuse Me](https://open.spotify.com/track/2AF4VO2D3wOT4ik18tSXX4) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Journeyman](https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B) | 3:58 |
 | 27 | [Alberta \- Acoustic Live](https://open.spotify.com/track/713D0u0XMewrhWIQwjrlrd) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 3:38 |
-| 28 | [Before You Accuse Me](https://open.spotify.com/track/2AF4VO2D3wOT4ik18tSXX4) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Journeyman](https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B) | 3:58 |
+| 28 | [Forever Man \- 1999 Remaster](https://open.spotify.com/track/6x7jcl21wMqyt5R2bAxPyP) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Behind the Sun](https://open.spotify.com/album/5WX2WQT74bVZl9UqqY6LZT) | 3:11 |
 | 29 | [Autumn Leaves](https://open.spotify.com/track/1as81KphEOxPNBthbuzlcx) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton](https://open.spotify.com/album/5Rkrz0jdb5BvaLPSbcvZoe) | 5:40 |
 | 30 | [Ten Long Years](https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 4:41 |
 | 31 | [Running on Faith \- Acoustic Live](https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 6:30 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 40 | [Danger](https://open.spotify.com/track/1tvT5VBrLMxMM2LvzBRA91) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 5:32 |
 | 41 | [Lonely Stranger \- Acoustic Live](https://open.spotify.com/track/09wkXiaJ2KJYX9M3SmToF8) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 5:27 |
 | 42 | [Key to the Highway](https://open.spotify.com/track/1a0CDu5jpwW2arT34HbwUP) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 3:40 |
-| 43 | [Pretending](https://open.spotify.com/track/2Ua9IR5sciWQfoWCfB9iks) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Journeyman](https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B) | 4:43 |
+| 43 | [Cajun Moon](https://open.spotify.com/track/5JCCKyYQlvg5HujwnZ43Sj) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 2:27 |
 | 44 | [River of Tears](https://open.spotify.com/track/7henYpsVePUUrB8sQmhG6O) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pilgrim](https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63) | 7:22 |
 | 45 | [San Francisco Bay Blues \- Acoustic Live](https://open.spotify.com/track/6v8CskmNAAvz9tvxKfO8i1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 3:28 |
-| 46 | [Cajun Moon](https://open.spotify.com/track/5JCCKyYQlvg5HujwnZ43Sj) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 2:27 |
+| 46 | [Pretending](https://open.spotify.com/track/2Ua9IR5sciWQfoWCfB9iks) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Journeyman](https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B) | 4:43 |
 | 47 | [It's Easy](https://open.spotify.com/track/6UVPrccDy1OQtZduNtanhP) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 4:16 |
-| 48 | [Bad Love](https://open.spotify.com/track/185dxn5sEgOnBX5iwCDHkp) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Journeyman](https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B) | 5:08 |
-| 49 | [The Thrill Is Gone](https://open.spotify.com/track/1uhMPhUvVTQV9aawmxepS7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [B.B\. King's Blues Summit 100](https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6) | 5:05 |
-| 50 | [Help the Poor](https://open.spotify.com/track/1zdJVsBmTNavn5u2GSqWkW) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 5:05 |
+| 48 | [The Thrill Is Gone](https://open.spotify.com/track/1uhMPhUvVTQV9aawmxepS7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [B.B\. King's Blues Summit 100](https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6) | 5:05 |
+| 49 | [Help the Poor](https://open.spotify.com/track/1zdJVsBmTNavn5u2GSqWkW) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 5:05 |
+| 50 | [Bad Love](https://open.spotify.com/track/185dxn5sEgOnBX5iwCDHkp) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Journeyman](https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B) | 5:08 |
 
-Snapshot ID: `ao9+AAAAAADLYJ4fZ9oMUFedt0nvAGNq`
+Snapshot ID: `apDPgAAAAAB4s4EU/ZoGe9W8CjCVPeGj`

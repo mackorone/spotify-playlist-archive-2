@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,293 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,279 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 21 | [Miss Black Cat](https://open.spotify.com/track/6vWYswXyrk0eZlpFMzQHOM) | [Gabe Costa](https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR), [Ana Pshokina](https://open.spotify.com/artist/3BIkBUBo9Ojb2QVaAkDdn6), [Giovanni Ghioldi](https://open.spotify.com/artist/4shS3E4SYPpSHf76AiBNK8) | [Miss Black Cat](https://open.spotify.com/album/3Y0wzYeZKEiYBM1UPbujTz) | 2:50 |
 | 22 | [Something New \(feat\. Afgan\)](https://open.spotify.com/track/3lZXsYZgaXodwSALy5cR6B) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Something New](https://open.spotify.com/album/5Lu8ASQ4x4b4u9yQCDreAb) | 2:38 |
 | 23 | [Better Luck Next Time](https://open.spotify.com/track/7tSZxn5ptj0i8RCkxRRMId) | [Alohaii](https://open.spotify.com/artist/3kNWENaTd7pb0xFqNuq7Sc), [Shiki Miyoshino](https://open.spotify.com/artist/5JbfLUx5j5kgEPYyzEeQVH) | [Better Luck Next Time](https://open.spotify.com/album/78zVxVbReCDgt1zbfo5Vrs) | 4:07 |
-| 24 | [Mood For You \(Complexive Remix\)](https://open.spotify.com/track/3ZuzzbGfE9TYoQpLlwnVLH) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Complexive](https://open.spotify.com/artist/4j5O0d9dCAcoaTc5uA6sOT) | [Mood For You \(Complexive Remix\)](https://open.spotify.com/album/3eJWto9uzANj3mUQ187TEC) | 2:57 |
+| 24 | [Mood For You \- Complexive Remix](https://open.spotify.com/track/3ZuzzbGfE9TYoQpLlwnVLH) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Complexive](https://open.spotify.com/artist/4j5O0d9dCAcoaTc5uA6sOT) | [Mood For You \(Complexive Remix\)](https://open.spotify.com/album/3eJWto9uzANj3mUQ187TEC) | 2:57 |
 | 25 | [Amazing](https://open.spotify.com/track/1jjfb6Ne65MgkrT3jTJMLv) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Amazing](https://open.spotify.com/album/3WP0A1hksYMbO913fap5PF) | 2:50 |
 | 26 | [T.H.](https://open.spotify.com/track/7Cj2Buxud8yjgRCdRW6VUs) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [10](https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve) | 4:46 |
 | 27 | [Body Talk](https://open.spotify.com/track/3k4WaElAqj5vUu3sGkOla6) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Body Talk](https://open.spotify.com/album/6WRuSHJ3FJpMwkvP4cF8SK) | 2:20 |

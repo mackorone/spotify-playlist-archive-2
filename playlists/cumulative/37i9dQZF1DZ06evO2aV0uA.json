@@ -384,10 +384,28 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 233466,
       "name": "Broken Hands",
       "url": "https://open.spotify.com/track/3WJaypEGPAc0GH4l9ouoww"
+    },
+    {
+      "album": {
+        "name": "Wrath",
+        "url": "https://open.spotify.com/album/1zbNLo00Ye1fqf1Pdk2GId"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233466,
+      "name": "Broken Hands",
+      "url": "https://open.spotify.com/track/6H0IqPZXG4kK0RQk9YyROv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,995 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,996 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 16 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 |
 | 17 | [Riptide](https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Deluxe Edition\)](https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT) | 3:24 |
 | 18 | [Kein Kokain](https://open.spotify.com/track/2j5jkTuP2gmqN7hDPkfDDd) | [Drunken Masters](https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q), [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [Ikkimel die Geile EP](https://open.spotify.com/album/2DqQVfkWHUYJLjRhoryZzN) | 2:56 |
-| 19 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 |
+| 19 | [Wonderwall \- Remastered](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:18 |
 | 20 | [Billie Jean](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:53 |
 | 21 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
 | 22 | [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 49 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 3:17 |
 | 50 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 |
 
-Snapshot ID: `MiUj0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MiZUgAAAAAAAAAAAAAAAAAAAAAAAAGVu`

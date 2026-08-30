@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > J\-Rock acts who have broken the border and are making global impact\.   Cover: Official HIGE DANdism Official髭男dism
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,644 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,652 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 59 | [Vivarium](https://open.spotify.com/track/0HKYeAArIodGWKWwaQieJL) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Vivarium](https://open.spotify.com/album/3oyndt1RMCFGQLnZMYPmML) | 4:03 |
 | 60 | [GOOD DAY](https://open.spotify.com/track/61UOoqGI1B9qdeD5Dzupyb) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [GOOD DAY](https://open.spotify.com/album/4TfNFjBYQEGxAdnWaXpbDv) | 4:17 |
 | 61 | [君と羊と青](https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [絶体絶命](https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm) | 2:42 |
-| 62 | [シグナル](https://open.spotify.com/track/4Ybp3UvVXvraRNwOCWnrNq) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:39 |
-| 63 | [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 |
+| 62 | [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 |
+| 63 | [シグナル](https://open.spotify.com/track/4Ybp3UvVXvraRNwOCWnrNq) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:39 |
 | 64 | [I](https://open.spotify.com/track/4fZg2tFkmln0lraBWvpCzV) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [I](https://open.spotify.com/album/2hTHXj7Y8adzK3Z49kKqbr) | 4:06 |
 | 65 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 |
 | 66 | [STAY TUNE](https://open.spotify.com/track/1KKc8f9ZiKFzOeRJJ3SYn7) | [Suchmos](https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24) | [THE KIDS](https://open.spotify.com/album/26wEPQqOBau2opcpN4e3aF) | 4:58 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 85 | [いらないもの](https://open.spotify.com/track/4CTkQljbP19RftsQVJ8oxv) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv), [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [いらないもの](https://open.spotify.com/album/3m1YaZKzJdBfUaJqWL64rl) | 3:05 |
 | 86 | [サンダーボルト](https://open.spotify.com/track/3xwcoxhjy2vg1O1bb4IQ1m) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [サンダーボルト](https://open.spotify.com/album/1iShXaXcWgFIuCEYn4gqyD) | 3:46 |
 | 87 | [アゲイン](https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 3:34 |
-| 88 | [スキンズ \- Skins](https://open.spotify.com/track/2Hbwu2z4ybNTIMVF8v3SxJ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [スキンズ \- Skins](https://open.spotify.com/album/763UvrUoMGjPlFkgdpLFIH) | 4:05 |
-| 89 | [Ender Ember](https://open.spotify.com/track/5US7QZzPMx25DnA2SW0jAW) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq), [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [Re:ZERO Music](https://open.spotify.com/artist/78oRR9sySF2gaUSNJMADAJ) | [Ender Ember](https://open.spotify.com/album/0FBJr6Rz092FvYzkqsVhT4) | 4:01 |
+| 88 | [Ender Ember](https://open.spotify.com/track/5US7QZzPMx25DnA2SW0jAW) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq), [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [Re:ZERO Music](https://open.spotify.com/artist/78oRR9sySF2gaUSNJMADAJ) | [Ender Ember](https://open.spotify.com/album/0FBJr6Rz092FvYzkqsVhT4) | 4:01 |
+| 89 | [スキンズ \- Skins](https://open.spotify.com/track/2Hbwu2z4ybNTIMVF8v3SxJ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [スキンズ \- Skins](https://open.spotify.com/album/763UvrUoMGjPlFkgdpLFIH) | 4:05 |
 | 90 | [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 |
 | 91 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
 | 92 | [だよ](https://open.spotify.com/track/2P29b4IhpipUwq6OKMwda8) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [だよ](https://open.spotify.com/album/5HMF0jFGPGqtHka0GoIoge) | 3:19 |
 | 93 | [ワールドエンドガールフレンド](https://open.spotify.com/track/22pvB1aTKGV0YWSPnOEW1C) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [あにゅー](https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH) | 3:13 |
-| 94 | [クライマックス](https://open.spotify.com/track/1UowM2V8rZu1mFubRzss9P) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [人生](https://open.spotify.com/album/6MSc4uxOu8fBkR3ejzVyJY) | 4:20 |
+| 94 | [突破口](https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:13 |
 | 95 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 |
 | 96 | [恥ずかしいか青春は](https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [恥ずかしいか青春は](https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW) | 4:29 |
 | 97 | [Dogs](https://open.spotify.com/track/0etXcXbnJcj6xrZIWrgDnv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Dogs](https://open.spotify.com/album/5GBbfSqRtmtx3vqCm75uuC) | 4:56 |
 | 98 | [HOWL](https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [HOWL](https://open.spotify.com/album/3srKYd89n0gITowdlh268j) | 3:11 |
-| 99 | [突破口](https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:13 |
+| 99 | [クライマックス](https://open.spotify.com/track/1UowM2V8rZu1mFubRzss9P) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [人生](https://open.spotify.com/album/6MSc4uxOu8fBkR3ejzVyJY) | 4:20 |
 | 100 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
 
 Snapshot ID: `AAAAAOWbz13eg5JTqXqi+vSLyWrdqw3J`

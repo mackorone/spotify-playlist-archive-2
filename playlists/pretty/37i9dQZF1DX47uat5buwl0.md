@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 
 > Antoon kiest 20 bangers voor de zomer! <a href="spotify:presents:jouwzomerid">Doe de quiz: welke zomer ID ben jij?</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,964 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,976 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

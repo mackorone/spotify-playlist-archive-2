@@ -3930,7 +3930,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 165800,
       "name": "Brainrot",
       "url": "https://open.spotify.com/track/5josBrgpHkfKRmQavbuiM7"
@@ -6098,7 +6098,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 257279,
       "name": "Cut The Eyes Out Of The Photographs",
       "url": "https://open.spotify.com/track/4Fo6ICWXRm0soKJmZc2zwY"
@@ -6286,7 +6286,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 246000,
       "name": "DANGEROUS",
       "url": "https://open.spotify.com/track/70RmpH9F7edjr4Q31FYDGa"
@@ -21971,6 +21971,24 @@
     },
     {
       "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/1QYU4ioKR2IAHS3ilb5RVr"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246601,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/5qL9ry43j5LQDpnkEa8rV6"
+    },
+    {
+      "album": {
         "name": "Paranoid",
         "url": "https://open.spotify.com/album/2B23QII7brSpBxobhnAXfr"
       },
@@ -22635,6 +22653,32 @@
     },
     {
       "album": {
+        "name": "POISON feat. Bert McCracken (The Used)",
+        "url": "https://open.spotify.com/album/1a2lPzj5stWhiIOnftpyGD"
+      },
+      "artists": [
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "Bert McCracken",
+          "url": "https://open.spotify.com/artist/7rEzlkwGjVgUXbWi0kDEAA"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "POISON feat. Bert McCracken (The Used)",
+      "url": "https://open.spotify.com/track/35N1r1X3vzTs5hIk42SPBR"
+    },
+    {
+      "album": {
         "name": "POPSICLE",
         "url": "https://open.spotify.com/album/0YLrEQbq0MLYmDsqRWn4fA"
       },
@@ -22904,6 +22948,24 @@
       "duration_ms": 200204,
       "name": "Prizefighter",
       "url": "https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F"
+    },
+    {
+      "album": {
+        "name": "Peace When I'm Dead",
+        "url": "https://open.spotify.com/album/35En7DlVdpWb1hQPe7Hcpt"
+      },
+      "artists": [
+        {
+          "name": "Ocean Sleeper",
+          "url": "https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222853,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/2YQx9jZoT0nXoT3w3msqPZ"
     },
     {
       "album": {
@@ -31552,7 +31614,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 210669,
       "name": "Unleash The Beast",
       "url": "https://open.spotify.com/track/2senkWElbmfIuXFJgtED49"
@@ -33430,6 +33492,24 @@
       "duration_ms": 183266,
       "name": "WHY YOU SURVIVED",
       "url": "https://open.spotify.com/track/0a5SZeT5pojGx7t8oe6Bhi"
+    },
+    {
+      "album": {
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/40OyCDpyDIZJ5EPUE3pA3U"
+      },
+      "artists": [
+        {
+          "name": "Lauren Babic",
+          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176353,
+      "name": "Why?",
+      "url": "https://open.spotify.com/track/6ssX5woHXkbyasb5AmNCkb"
     },
     {
       "album": {

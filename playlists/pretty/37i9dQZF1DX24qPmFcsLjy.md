@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 
 > Allerbeste songs van de 80's! Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,781 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,837 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 6 | [Could You Be Loved](https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:57 |
 | 7 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
 | 8 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:18 |
-| 9 | [Don't Dream It's Over](https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG) | 3:56 |
-| 10 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:05 |
-| 11 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
-| 12 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:46 |
+| 9 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:46 |
+| 10 | [Don't Dream It's Over](https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG) | 3:56 |
+| 11 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:05 |
+| 12 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
 | 13 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 |
 | 14 | [Billie Jean](https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:53 |
 | 15 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 |
@@ -70,14 +70,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 60 | [Live Is Life \- Live](https://open.spotify.com/track/5AUByBgSqf3a9Sgtp142D2) | [Opus](https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47) | [Millennium Edition](https://open.spotify.com/album/4y5NvuKT134WXPTQBdCRLG) | 4:17 |
 | 61 | [Why Tell Me Why](https://open.spotify.com/track/06c2L1gFGjdtqIDZ9lleH5) | [Anita Meyer](https://open.spotify.com/artist/7xxVm0cM4x7TUBadZQuz3S) | [Best Of Anita Meyer](https://open.spotify.com/album/5MY0wd1GZZxMSMZ9hRzTVV) | 3:33 |
 | 62 | [Slippery People \- Live](https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:00 |
-| 63 | [A Kind Of Magic \- Remastered 2011](https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 4:24 |
-| 64 | [Belgie ..\. \(Is Er Leven Op Pluto ...\)](https://open.spotify.com/track/0otIFwtEKqrDBGb3cvLRu4) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Belgie](https://open.spotify.com/album/3FhvAa1JUA71NTX6AJBfpc) | 6:00 |
+| 63 | [Belgie ..\. \(Is Er Leven Op Pluto ...\)](https://open.spotify.com/track/0otIFwtEKqrDBGb3cvLRu4) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Belgie](https://open.spotify.com/album/3FhvAa1JUA71NTX6AJBfpc) | 6:00 |
+| 64 | [A Kind Of Magic \- Remastered 2011](https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 4:24 |
 | 65 | [Over De Muur](https://open.spotify.com/track/5rAG0XusRfyLrzYV7A7lBL) | [Klein Orkest](https://open.spotify.com/artist/2jtIQ2r2x8P4I23sIDDL3n) | [Het Beste Van Klein Orkest](https://open.spotify.com/album/4s3BG8LwbkOcQ5ktxjt5wf) | 3:29 |
 | 66 | [De Bom](https://open.spotify.com/track/3i2ZaFbGMZmerAEoVHvsmB) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doe Maar \- De Singles \(Het Complete Singles Overzicht\)](https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S) | 2:41 |
 | 67 | [Come On Eileen](https://open.spotify.com/track/0lj15qHIbi7gsO6CLfWbvF) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/5zAvTl8CrdzprudxBEErNC) | 4:33 |
 | 68 | [Africa](https://open.spotify.com/track/5tJjo5JDF9zhzYD7yQfATH) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Hold The Line: The Ultimate Toto Collection](https://open.spotify.com/album/2suiqJpTmKoWWY84sOT3XN) | 4:56 |
-| 69 | [In The Army Now](https://open.spotify.com/track/6TPAhgpBvhMIDUzmDnWJmj) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [In The Army Now \- The Collection](https://open.spotify.com/album/15v7lAf1Hfp2eqgKsD80cg) | 4:41 |
-| 70 | [Je Loog Tegen Mij](https://open.spotify.com/track/53348QPO1Bhkd8oFABaGYK) | [Drukwerk](https://open.spotify.com/artist/5k1FBxAglBtDC8H26LOo4F) | [Drukwerk](https://open.spotify.com/album/4P5Qfh2yBKzZrBJ5OoC9KL) | 3:26 |
+| 69 | [Je Loog Tegen Mij](https://open.spotify.com/track/53348QPO1Bhkd8oFABaGYK) | [Drukwerk](https://open.spotify.com/artist/5k1FBxAglBtDC8H26LOo4F) | [Drukwerk](https://open.spotify.com/album/4P5Qfh2yBKzZrBJ5OoC9KL) | 3:26 |
+| 70 | [In The Army Now](https://open.spotify.com/track/6TPAhgpBvhMIDUzmDnWJmj) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [In The Army Now \- The Collection](https://open.spotify.com/album/15v7lAf1Hfp2eqgKsD80cg) | 4:41 |
 | 71 | [Sinds 1 Dag Of 2 \(32 Jaar\)](https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [De Jonge Jaren van Doe Maar \- 50 jaar Nederpop](https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu) | 3:20 |
 | 72 | [Comment ça va](https://open.spotify.com/track/7evg9DnEL9xmlZmv7qZ6QK) | [The Shorts](https://open.spotify.com/artist/40MX6ONfpMJwrWdTajaRUf) | [Comment Ça Va](https://open.spotify.com/album/7e2V4dXoFunyYJvYsoNU09) | 3:29 |
 | 73 | [Ik Kan Het Niet Alleen](https://open.spotify.com/track/20kvV0pVt7BMlW9mZQBzsT) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Niemand In De Stad](https://open.spotify.com/album/5KPMgi5lSNycOM0Mhdve8H) | 3:58 |

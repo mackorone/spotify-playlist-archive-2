@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-308 songs - 19 hr 17 min
+310 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Captive Hearts](https://open.spotify.com/track/2qT1OQRMtqnudkY6YVRaVl) | [ARMAGELION](https://open.spotify.com/artist/4SbqNuXLiu8IFt1RdIDtia) | [Captive Hearts](https://open.spotify.com/album/3K73HEZUnPYch0Koa9kOvG) | 4:36 | 2025-12-23 | 2026-01-21 |
 | [Catch the Bunny](https://open.spotify.com/track/3ULtM3rM1C2eAsTOjhAkCL) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Don't Forget the Roll](https://open.spotify.com/album/5wuEmaSZr4KX0WxiXCVyjk) | 3:32 | 2026-07-13 | 2026-08-08 |
 | [Chaos Brigade](https://open.spotify.com/track/1j2nbyRDm8jQInkIIVFfb2) | [Gradience](https://open.spotify.com/artist/6jgh7lYvPsSFJPa0OMkWH4) | [Come What May](https://open.spotify.com/album/71Dim5arhXCh24W6BP7oiB) | 4:25 | 2026-03-14 | 2026-05-19 |
+| [Chase the Feeling](https://open.spotify.com/track/5oFYQLAdS7YlQSMl6C2PzT) | [Station 301](https://open.spotify.com/artist/1ApohnXtENC8CFKfOmuoyx) | [Chase the Feeling](https://open.spotify.com/album/3QbZWdf9GH6lOH7wlc8qRa) | 2:35 | 2026-08-29 |  |
 | [Cherry Vice](https://open.spotify.com/track/4w8KqyKtWt2qEWYBaVeg6a) | [Dizzy Daffodils](https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm) | [Cherry Vice](https://open.spotify.com/album/2GwrxKasqTphRbauTYFc3h) | 4:18 | 2026-03-28 | 2026-05-19 |
 | [Chicago](https://open.spotify.com/track/0uhM1mDQ9tsxPdV4oorvUv) | [Follow Deep](https://open.spotify.com/artist/0pi2JVymYDQ1helz6Z1AOg) | [Chicago](https://open.spotify.com/album/5V7ZgYI3RoHeLYNtiJoTLB) | 3:09 | 2026-07-13 | 2026-08-08 |
 | [Cigarette](https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [Cigarette](https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt) | 2:23 | 2025-11-05 | 2026-03-21 |
@@ -106,6 +107,7 @@
 | [Eva sin nombre](https://open.spotify.com/track/4o3uIjspoGtA5aTokB9tsT) | [Madame Babilonia](https://open.spotify.com/artist/1U1z22LC7vMv8sVmPImg1b) | [Despierta](https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX) | 3:09 | 2025-11-04 | 2025-12-28 |
 | [Everything Explode](https://open.spotify.com/track/7MVF3BaFC3cVI84CifAswf) | [Permanent Risk](https://open.spotify.com/artist/2a9KV1XmaaINFAtlKC3PYa) | [Everything Explode](https://open.spotify.com/album/6pKMeXruu16rQjbOe8rK7B) | 3:45 | 2025-11-26 | 2025-12-28 |
 | [Falling Ashes](https://open.spotify.com/track/2qtTj2YxabvM10StglYGLl) | [DOJOKUN](https://open.spotify.com/artist/1tHQ1ejmEqRiFp6a3HzgRN) | [Falling Ashes](https://open.spotify.com/album/5nQNdBbRmACdZa3WWWy2B9) | 4:19 | 2026-03-12 | 2026-05-19 |
+| [Falling Behind](https://open.spotify.com/track/79QEpZ2GCWHgBL6L7OugjA) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Falling Behind](https://open.spotify.com/album/3ESOHDThYhkb5hfhikkBqQ) | 2:16 | 2026-08-29 |  |
 | [Fantasia](https://open.spotify.com/track/3HQyqgoK7z6VY9bE8GlAli) | [Astratto](https://open.spotify.com/artist/1kQT4JN2XDrVdT4vubHCjw) | [Fantasia](https://open.spotify.com/album/4Qp6S6ln5GwDmTih32uJVf) | 6:10 | 2026-04-22 | 2026-05-19 |
 | [Favourite Saprophyte](https://open.spotify.com/track/2niIeFW2oI4tAX3Q5EagTO) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Tolerance Paradox](https://open.spotify.com/album/2Muk0rClwsvYyVGFBIGzJO) | 2:23 | 2026-07-01 | 2026-08-08 |
 | [Fever Dream](https://open.spotify.com/track/3h1J3rsW0PMGuaPYqThR7D) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:15 | 2026-03-17 | 2026-05-17 |

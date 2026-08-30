@@ -4,7 +4,7 @@
 
 > This is Turnstile\. The essential tracks, all in one playlist.
 
-61 songs - 2 hr 41 min
+66 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,11 +16,14 @@
 | [Big Smile](https://open.spotify.com/track/0OK2cjonTMoF8PLRup3MAM) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:29 | 2022-11-17 |  |
 | [BIRDS](https://open.spotify.com/track/0k9JIBszlCqCa4SpXI353F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 2:26 | 2025-05-08 | 2025-06-15 |
 | [BIRDS](https://open.spotify.com/track/0kshHISCRGn9MwpkbqafG4) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 2:26 | 2025-06-15 |  |
+| [BIRDS: DYING FETUS VERSION](https://open.spotify.com/track/1buHH2OSyvdfQxcH4n5WIx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Dying Fetus](https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie) | [NEVER ENOUGH: VERSIONS](https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL) | 1:57 | 2026-08-30 |  |
+| [BIRDS: SLAYYYTER VERSION](https://open.spotify.com/track/45vsoreF31oxkbKL9V7d3R) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [NEVER ENOUGH: VERSIONS](https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL) | 3:12 | 2026-08-30 |  |
 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 | 2022-11-17 |  |
 | [Blue by You](https://open.spotify.com/track/6hSIZc6GWa6uUTyzSPcwWT) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 1:18 | 2022-11-17 |  |
 | [Can't Deny It](https://open.spotify.com/track/4W024pk8Dm0yjFn3ciaz2F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 2:44 | 2022-11-17 |  |
 | [Canned Heat](https://open.spotify.com/track/3FT12lBLjNgy1jTa4E1160) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 0:58 | 2022-11-17 |  |
 | [CEILING](https://open.spotify.com/track/4Ysc5jO1iQtBJFjlASMZXP) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 1:13 | 2025-06-08 | 2025-06-22 |
+| [CEILING: HAYLEY WILLIAMS VERSION](https://open.spotify.com/track/5jz3Lk4kb4dgOwIg4HLKxV) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [NEVER ENOUGH: VERSIONS](https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL) | 3:00 | 2026-08-30 |  |
 | [Come Back For More](https://open.spotify.com/track/6mh7W1Ae8KS437otrDPkxU) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Move Thru Me](https://open.spotify.com/album/6UOOi8etpSCbXlWHtpDIgL) | 2:03 | 2024-04-09 |  |
 | [Death Grip](https://open.spotify.com/track/6BNPwD7KTEHu31hles8CyD) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 3:10 | 2022-11-17 |  |
 | [DON'T PLAY](https://open.spotify.com/track/69uzV9BQmNLPIu0dWK4Tbe) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:13 | 2022-11-17 |  |
@@ -43,6 +46,7 @@
 | [I Wanna Be Blind](https://open.spotify.com/track/10lLqAbzl56Dcacrke431Q) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Mall Grab](https://open.spotify.com/artist/6zOjgckldodS8u8cZoY3cc) | [Share A View](https://open.spotify.com/album/5pxz1toBQ4J9WIkaXHJprU) | 4:41 | 2022-11-17 | 2023-02-16 |
 | [Keep It Moving](https://open.spotify.com/track/4VVnprM3eR1hlac2ulGzjv) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 3:17 | 2022-11-17 |  |
 | [LIGHT DESIGN](https://open.spotify.com/track/4UI693m28NeH4uY0mnBV0F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 2:09 | 2025-06-08 |  |
+| [LIGHT DESIGN: BLOOD ORANGE VERSION](https://open.spotify.com/track/0sT7s0um30BUnwkErK8nlM) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [NEVER ENOUGH: VERSIONS](https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL) | 2:48 | 2026-08-30 |  |
 | [LOOK OUT FOR ME](https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [LOOK OUT FOR ME](https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza) | 6:43 | 2025-05-23 | 2025-06-20 |
 | [Love Lasso](https://open.spotify.com/track/0jN0nHXkh1hJt3RlN2tgVk) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 1:48 | 2023-01-25 | 2026-05-09 |
 | [Moon](https://open.spotify.com/track/1r1MOC7jMhvTua0TV8FpgO) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:53 | 2022-11-17 | 2024-09-29 |
@@ -60,6 +64,7 @@
 | [Right to Be](https://open.spotify.com/track/0daq1H3rG1sN3Q2QhhD7lB) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 2:05 | 2024-11-20 | 2025-01-18 |
 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 | 2025-05-08 | 2025-06-17 |
 | [SEEIN’ STARS](https://open.spotify.com/track/2Z4nIITCxUoaZvFug5FxtO) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:06 | 2025-06-17 |  |
+| [SEEIN’ STARS: ELTON JOHN VERSION](https://open.spotify.com/track/3lCQJyHHzQNVkFptuEioPx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [NEVER ENOUGH: VERSIONS](https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL) | 4:13 | 2026-08-30 |  |
 | [SLOWDIVE](https://open.spotify.com/track/1wNspyFiI1E9YGhJzz3AoO) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:33 | 2025-06-08 | 2025-06-17 |
 | [Snaked](https://open.spotify.com/track/0R046DVTvu15N3RpzitDY5) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 1:33 | 2022-11-17 | 2025-10-06 |
 | [SOLE](https://open.spotify.com/track/6PaSOin7Y9GnXRZ5U5sMsv) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:25 | 2025-06-08 |  |

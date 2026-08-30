@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حالة حب 🫶❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,041 likes - 99 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,063 likes - 99 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 48 | [Ana Mesheet](https://open.spotify.com/track/7CpgYXxN83eFYmuMvWKm9R) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Habebna](https://open.spotify.com/album/6udoWtucgo5nrmcLhRrFNR) | 3:42 |
 | 49 | [Enaya Bethebbak](https://open.spotify.com/track/3nOln6pDeWOGGeDgIcu2GY) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Enaya Bethebbak](https://open.spotify.com/album/1KwWs7TGIb880VM14E9kq0) | 4:43 |
 | 50 | [Kol Elly Fi Alby](https://open.spotify.com/track/0eCQyp0QixPbUn6yn0GIDg) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Kol Elly Fi Alby](https://open.spotify.com/album/3mljnESPv1qiYVXy0yYBV0) | 3:13 |
-| 51 | [كأنك روح](https://open.spotify.com/track/2cWbuTNS1hFMAm68UckTjF) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [كأنك روح](https://open.spotify.com/album/0HDthNAE3HtbilYhob9PAc) | 4:10 |
-| 52 | [Habibi Ya Leil](https://open.spotify.com/track/3oAjimiDDbMUYU7DZHuORV) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Habibi Ya Leil](https://open.spotify.com/album/1yfx8JfLQlKxtfLViybWSW) | 4:32 |
+| 51 | [Habibi Ya Leil](https://open.spotify.com/track/3oAjimiDDbMUYU7DZHuORV) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Habibi Ya Leil](https://open.spotify.com/album/1yfx8JfLQlKxtfLViybWSW) | 4:32 |
+| 52 | [كأنك روح](https://open.spotify.com/track/2cWbuTNS1hFMAm68UckTjF) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [كأنك روح](https://open.spotify.com/album/0HDthNAE3HtbilYhob9PAc) | 4:10 |
 | 53 | [Bahlam Maak](https://open.spotify.com/track/2nCZs15rSShxeRBzBp6eLO) | [Najat Al Saghira](https://open.spotify.com/artist/00Kj91nF1l4o35fAtfDAjW) | [Eyoun El Alb](https://open.spotify.com/album/3pnuPZ8nUMMLwHJSvNLrO0) | 3:49 |
 | 54 | [Piece Of My Heart](https://open.spotify.com/track/0ifZ1W4CLyLdFzI29hmQFM) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Piece Of My Heart](https://open.spotify.com/album/6vY2pZ4Rzik0z0sC0D677x) | 3:09 |
 | 55 | [انتي اعظم اختيار](https://open.spotify.com/track/0IsnB2bkWr1OYyvfVsseLs) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [انتي اعظم اختيار](https://open.spotify.com/album/17EepIsYf9bOZkyFzgZpdO) | 3:04 |

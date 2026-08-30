@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,938 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,055 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 68 | [Somebody](https://open.spotify.com/track/7ioiB40H9xKs04QtIso2I3) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Somebody](https://open.spotify.com/album/5gcn8qK6xElFNIP3mGed0M) | 3:09 |
 | 69 | [Come Thru \(with Usher\)](https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:01 |
 | 70 | [Never Leave You \(Uh Oooh, Uh Oooh\)](https://open.spotify.com/track/1AjQE5MtP5jHQMyDepbvLI) | [Lumidee](https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9) | [Almost Famous](https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv) | 3:04 |
-| 71 | [Get Right](https://open.spotify.com/track/3jVSV60WZE5jPE2a6KGNFy) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Rebirth](https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2) | 3:45 |
-| 72 | [Lady Marmalade \- From "Moulin Rouge" Soundtrack](https://open.spotify.com/track/7GbqE3MlkKosIaCvf50JRK) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Moulin Rouge](https://open.spotify.com/album/5cbAqQZSEgRiiNjuEHWTXc) | 4:24 |
+| 71 | [Lady Marmalade \- From "Moulin Rouge" Soundtrack](https://open.spotify.com/track/7GbqE3MlkKosIaCvf50JRK) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Moulin Rouge](https://open.spotify.com/album/5cbAqQZSEgRiiNjuEHWTXc) | 4:24 |
+| 72 | [Get Right](https://open.spotify.com/track/3jVSV60WZE5jPE2a6KGNFy) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Rebirth](https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2) | 3:45 |
 | 73 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
 | 74 | [Survivor](https://open.spotify.com/track/7qtAgn9mwxygsPOsUDVRRt) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/0IVseR3zfrrInlKJQNh294) | 4:14 |
 | 75 | [Don't Walk Away](https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x) | [Jade](https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB) | [Jade To The Max](https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc) | 3:36 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 86 | [Princess Going Digital](https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 3:09 |
 | 87 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 |
 | 88 | [Back On 74 \- Full Crate Remix](https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Back on 74 \(Full Crate Remix\)](https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD) | 2:54 |
-| 89 | [Anotha Luva \(feat\. Lil Wayne\)](https://open.spotify.com/track/1LCiGi699HYk4nznLRQovN) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 4:01 |
-| 90 | [Don't Mess With My Man](https://open.spotify.com/track/2J2hVpwVV25EK8Bvd3OgCK) | [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Lucy Pearl](https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR) | 3:37 |
+| 89 | [Don't Mess With My Man](https://open.spotify.com/track/2J2hVpwVV25EK8Bvd3OgCK) | [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Lucy Pearl](https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR) | 3:37 |
+| 90 | [Anotha Luva \(feat\. Lil Wayne\)](https://open.spotify.com/track/1LCiGi699HYk4nznLRQovN) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 4:01 |
 | 91 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 |
 | 92 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
 | 93 | [Oops \(Oh My\) \[feat\. Missy Elliott\]](https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Southern Hummingbird](https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX) | 3:57 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 97 | [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 |
 | 98 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 |
 | 99 | [Where Do We Go](https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Where Do We Go](https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh) | 2:56 |
-| 100 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
+| 100 | [Bad For You \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:50 |
 
 Snapshot ID: `AAAAAOzqsXCm6G8yAXmtwK8XK+h/8jzp`

@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 517438,
+  "num_followers": 517494,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
+        "name": "Pleasure & Pain",
+        "url": "https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F"
+      },
+      "artists": [
+        {
+          "name": "Dr. Hook",
+          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
+        }
+      ],
+      "duration_ms": 178826,
+      "name": "When You're In Love With A Beautiful Woman",
+      "url": "https://open.spotify.com/track/1UiKUFbCfgbVjwY8W657Pv"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
         "name": "I Can Stand A Little Rain",
         "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 178849,
       "name": "I Feel the Earth Move",
       "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
-        "name": "Pleasure & Pain",
-        "url": "https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F"
-      },
-      "artists": [
-        {
-          "name": "Dr. Hook",
-          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
-        }
-      ],
-      "duration_ms": 178826,
-      "name": "When You're In Love With A Beautiful Woman",
-      "url": "https://open.spotify.com/track/1UiKUFbCfgbVjwY8W657Pv"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Once Upon A Star",
-        "url": "https://open.spotify.com/album/2nZfNhrDCbTNnZEc4iuCcl"
-      },
-      "artists": [
-        {
-          "name": "Bay City Rollers",
-          "url": "https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8"
-        }
-      ],
-      "duration_ms": 170360,
-      "name": "Bye Bye Baby",
-      "url": "https://open.spotify.com/track/7wC5vOh3fQibFYWjCIotKw"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Christie",
         "url": "https://open.spotify.com/album/0YtUDtmBOGWAerJN70aCUR"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 165960,
       "name": "Yellow River",
       "url": "https://open.spotify.com/track/4VnzKUBMB6cvog8Jvv1few"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Once Upon A Star",
+        "url": "https://open.spotify.com/album/2nZfNhrDCbTNnZEc4iuCcl"
+      },
+      "artists": [
+        {
+          "name": "Bay City Rollers",
+          "url": "https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8"
+        }
+      ],
+      "duration_ms": 170360,
+      "name": "Bye Bye Baby",
+      "url": "https://open.spotify.com/track/7wC5vOh3fQibFYWjCIotKw"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Bloody Tourists",
-        "url": "https://open.spotify.com/album/70q6kAw7x7Dia2OwDbSfUL"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 267946,
-      "name": "Dreadlock Holiday",
-      "url": "https://open.spotify.com/track/5SI6jYhKUWm1qnaheTm4Zw"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Exodus (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3q8y9MBuOdOzwJb8QJfwBG"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 256426,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1DnSZ9M8uvX0UebR3dmBNI"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Bloody Tourists",
+        "url": "https://open.spotify.com/album/70q6kAw7x7Dia2OwDbSfUL"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "duration_ms": 267946,
+      "name": "Dreadlock Holiday",
+      "url": "https://open.spotify.com/track/5SI6jYhKUWm1qnaheTm4Zw"
     },
     {
       "added_at": "2024-06-03 14:45:23",

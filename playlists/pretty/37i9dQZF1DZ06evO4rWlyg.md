@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,344 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,356 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 44 | [Batabid](https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Pagan Poetry](https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ) | 2:26 |
 | 45 | [Mutual Core](https://open.spotify.com/track/2A2I0ArIeOv3UfRmDu2UTV) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Biophilia \(Deluxe Edition\)](https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn) | 5:06 |
 | 46 | [It's In Our Hands](https://open.spotify.com/track/4ees9PXZMGc8kd7yICKHfG) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [It's In Our Hands, Vol\. 1](https://open.spotify.com/album/7IvjcEpEvLFyKHdVitHznU) | 4:17 |
-| 47 | [New World](https://open.spotify.com/track/2jUYg9usDopRe5GaicS8gn) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Selma Songs](https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S) | 4:21 |
-| 48 | [Declare Independence](https://open.spotify.com/track/2ggYtCBapu8Oo6UyECsvsG) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Volta](https://open.spotify.com/album/7GPUv9pYrpvNMtupwuNh9x) | 4:13 |
+| 47 | [Declare Independence](https://open.spotify.com/track/2ggYtCBapu8Oo6UyECsvsG) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Volta](https://open.spotify.com/album/7GPUv9pYrpvNMtupwuNh9x) | 4:13 |
+| 48 | [New World](https://open.spotify.com/track/2jUYg9usDopRe5GaicS8gn) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Selma Songs](https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S) | 4:21 |
 | 49 | [Blissing Me](https://open.spotify.com/track/7FViqcH4AgoFG1JbzGk9HC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Utopia](https://open.spotify.com/album/0lCGnNzATPLJ0esTn8FrNs) | 5:05 |
 | 50 | [Virus](https://open.spotify.com/track/6i0qr28saykn5EtvOAlotI) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Biophilia \(Deluxe Edition\)](https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn) | 5:19 |
 
-Snapshot ID: `ao9+AAAAAACpwFqt6kXVj2sRwqJDcVWw`
+Snapshot ID: `apDPgAAAAABkcA4o1qGXqed40l0NQ9V6`

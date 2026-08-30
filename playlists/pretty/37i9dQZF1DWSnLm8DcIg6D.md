@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnLm8DcIg6D.md) - [plain]
 
 > the soundtrack to your girl dinner\. Cover: Tinashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,964 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,000 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnLm8DcIg6D.md) - [plain]
 | 46 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 |
 | 47 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 |
 | 48 | [One Step Away](https://open.spotify.com/track/7eidNIYy4hPOlGioM7jBwx) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 4:23 |
-| 49 | [P\*RNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 |
-| 50 | [Power](https://open.spotify.com/track/0lUSd7TCG8srh6HpIAEIWL) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 4:07 |
-| 51 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 |
+| 49 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 |
+| 50 | [P\*RNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 |
+| 51 | [Power](https://open.spotify.com/track/0lUSd7TCG8srh6HpIAEIWL) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 4:07 |
 | 52 | [Little Girl Gone](https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [Little Girl Gone](https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I) | 3:08 |
 | 53 | [Dying for You](https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:02 |
 | 54 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnLm8DcIg6D.md) - [plain]
 | 59 | [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BATTER UP](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 |
 | 60 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 61 | [uh oh](https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [uh oh](https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq) | 2:49 |
-| 62 | [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 |
+| 62 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
 | 63 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 |
-| 64 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
+| 64 | [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 |
 | 65 | [Formation](https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:26 |
 | 66 | [LEFT RIGHT](https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SHOOTING STAR](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) | 3:28 |
 | 67 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnLm8DcIg6D.md) - [plain]
 | 73 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 |
 | 74 | [Daisy](https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:26 |
 | 75 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 |
-| 76 | [cinderella's dead](https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [cinderella's dead](https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS) | 2:00 |
-| 77 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 |
+| 76 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 |
+| 77 | [cinderella's dead](https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [cinderella's dead](https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS) | 2:00 |
 | 78 | [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 |
 | 79 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
 | 80 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 |
 
-Snapshot ID: `AAAAABreW4leCPHYYOP7T6hkNhkYTIqq`
+Snapshot ID: `AAAAACnYl/KuPI0h+dYPQgiIBAQPrf8G`

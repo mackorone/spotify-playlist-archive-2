@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,294 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,308 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 19 | [Dit Is Zo'n Dag](https://open.spotify.com/track/3fXTq5dSIKlEmXzOoxhJ3B) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Dit Is Zo'n Dag](https://open.spotify.com/album/5FO2SsTD9zwJPXGbMwsN0H) | 3:27 |
 | 20 | [Iedereen is van de wereld \(Titelsong Van De Film 'Iedereen is van de wereld'\)](https://open.spotify.com/track/3oom0huw1DOVJp9PvhbPEv) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Matheu](https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM) | [Iedereen is van de wereld \(Titelsong Van De Film 'Iedereen is van de wereld'\)](https://open.spotify.com/album/5M6BCWP2bNLQd35bksJ1NC) | 2:45 |
 | 21 | [Nergens Liever](https://open.spotify.com/track/5PhLJO4IkwuWwUlnRr0VKH) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Nergens Liever](https://open.spotify.com/album/7BfMAnfZJBqhrRy16FbpzB) | 3:15 |
-| 22 | [Ik Zal Er Zijn](https://open.spotify.com/track/3U1y2yON7uEZqMSBWxjYYQ) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Ik Zal Er Zijn](https://open.spotify.com/album/4RmhGsZpq5TfSTwuQen0ES) | 3:16 |
-| 23 | [Rode Draad](https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH) | 2:56 |
+| 22 | [Rode Draad](https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH) | 2:56 |
+| 23 | [Ik Zal Er Zijn](https://open.spotify.com/track/3U1y2yON7uEZqMSBWxjYYQ) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Ik Zal Er Zijn](https://open.spotify.com/album/4RmhGsZpq5TfSTwuQen0ES) | 3:16 |
 | 24 | [Ik Kom Weer Thuis](https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ik Kom Weer Thuis](https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk) | 3:03 |
 | 25 | [We Leven Nu](https://open.spotify.com/track/6iwZINFNsfDcfKZFarAsTn) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [We Leven Nu](https://open.spotify.com/album/5C3EV0dEs7nycg5r0zTxhS) | 3:10 |
 | 26 | [Toen Ik Je Zag](https://open.spotify.com/track/5AM4yh4nq6shKIJqyhBvSI) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Beste Zangers 2024 \(Claude\)](https://open.spotify.com/album/7cFYcG7GHXLS29svnOSWw7) | 3:36 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 30 | [Droom Een Beetje Meer](https://open.spotify.com/track/31bSYd3Vn2OVmAysLXm3yy) | [Guus Hulshof](https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl) | [Droom Een Beetje Meer](https://open.spotify.com/album/5IU8dhrYtcOteiLfPw7HFt) | 3:25 |
 | 31 | [Wat Had Jij Van Mij Verwacht](https://open.spotify.com/track/6Ln5NYIuzJ8baOwoCRP7Kz) | [Gizbey](https://open.spotify.com/artist/7GTD2ivDEWSYlwjfIdnkGq) | [Wat Had Jij Van Mij Verwacht](https://open.spotify.com/album/0d7TswwHubviX1mnZzbUSN) | 2:57 |
 | 32 | [Zeg Me / Dime](https://open.spotify.com/track/6L5bROkrSJaTmy1bbv18YY) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Zeg Me / Dime](https://open.spotify.com/album/1u5uvEXJEhGQWYsiqT6QAp) | 3:25 |
-| 33 | [Vergeef Me](https://open.spotify.com/track/3uWDhz3cIoWzN1944cUmq6) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Vergeef Me](https://open.spotify.com/album/1sr1TbYn17UxMa6xOqoSaN) | 3:02 |
-| 34 | [Nu Jij Hier Niet Meer Bent](https://open.spotify.com/track/2kDciEprIhpMKgJxsCMXpn) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Nu Jij Hier Niet Meer Bent](https://open.spotify.com/album/0IEqWsZp8XYUW8eqHxdLe6) | 4:10 |
+| 33 | [Nu Jij Hier Niet Meer Bent](https://open.spotify.com/track/2kDciEprIhpMKgJxsCMXpn) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Nu Jij Hier Niet Meer Bent](https://open.spotify.com/album/0IEqWsZp8XYUW8eqHxdLe6) | 4:10 |
+| 34 | [Vergeef Me](https://open.spotify.com/track/3uWDhz3cIoWzN1944cUmq6) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Vergeef Me](https://open.spotify.com/album/1sr1TbYn17UxMa6xOqoSaN) | 3:02 |
 | 35 | [Oktober](https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Oktober](https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW) | 3:21 |
 | 36 | [Echte Liefde](https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2) | [Maxim Froger](https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te) | [Echte Liefde](https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD) | 2:35 |
 | 37 | [Achterbank](https://open.spotify.com/track/3BCCcJO19QKG54M2EAgGMT) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Achterbank](https://open.spotify.com/album/0dUbHeTKK4QUnzuwShg4y0) | 2:48 |

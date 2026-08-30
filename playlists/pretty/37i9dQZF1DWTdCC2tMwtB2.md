@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 
 > Your escape to the world of chill Indian pop\. Cover \- Jubin Nautiyal & Elnaaz Norouzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,397 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,423 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 | 44 | [Do You Know](https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Do You Know](https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA) | 3:32 |
 | 45 | [Tu Jaana Na Piya](https://open.spotify.com/track/4u0D2jZ20wQaEMHBSqsDnZ) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [NEW LIFE](https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt) | 3:46 |
 | 46 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/6anGj4SX83j5DyG3aZOzqc) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind](https://open.spotify.com/album/2AQXHeeiHSxhptNmUZdwkU) | 3:28 |
-| 47 | [Intezaar](https://open.spotify.com/track/6p2o4ep90wpkh0qzUmyFuO) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Intezaar](https://open.spotify.com/album/71whGqTrr3pCoiAsZx0SAe) | 4:27 |
-| 48 | [Fursat](https://open.spotify.com/track/5BsCCxp6jEOyWdsI86PbrU) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Devv Sadaana](https://open.spotify.com/artist/7wIvebeuJfBQ2fVQmhk5kO), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Fursat](https://open.spotify.com/album/4hOuhOK9HajId8i4mty9x3) | 2:54 |
+| 47 | [Fursat](https://open.spotify.com/track/5BsCCxp6jEOyWdsI86PbrU) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Devv Sadaana](https://open.spotify.com/artist/7wIvebeuJfBQ2fVQmhk5kO), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Fursat](https://open.spotify.com/album/4hOuhOK9HajId8i4mty9x3) | 2:54 |
+| 48 | [Intezaar](https://open.spotify.com/track/6p2o4ep90wpkh0qzUmyFuO) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Intezaar](https://open.spotify.com/album/71whGqTrr3pCoiAsZx0SAe) | 4:27 |
 | 49 | [Tu Hai](https://open.spotify.com/track/2fsBaSK1551VvUD9Uvbb9Q) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Prakriti Giri](https://open.spotify.com/artist/0dzcXimfMVH1JQawG72WJJ) | [Tu Hai](https://open.spotify.com/album/3pFzzo6Z1oD7qaxk4DBJpY) | 2:44 |
 | 50 | [Assi Sajna](https://open.spotify.com/track/3xIyi0QRmcz0cBDbVPTNGd) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Aditya Sharma](https://open.spotify.com/artist/70RAfkLNWG5J2bsnJqBpLQ) | [Assi Sajna](https://open.spotify.com/album/1nXJCJwv0ORoiGUvG1ZA0U) | 3:03 |
 

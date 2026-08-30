@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Majid Jordan, Alex Warren, Dominic Fike, JENNIE, Olivia Rodrigo, Turnstile, Post Malone, Goldie Boutilier, Riley Green, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,330 likes - 101 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,292 likes - 101 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,597 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,668 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,22 +23,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 13 | [Toumast Tincha](https://open.spotify.com/track/3911Bzzv8FHgbitJzXFjxh) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar](https://open.spotify.com/album/7BHJjxuGHgU4aFpBFCjFsw) | 4:20 |
 | 14 | [Be Ki Don](https://open.spotify.com/track/5JMebtqw62DkVHPsUJMKvh) | [Samba Touré](https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi) | [Albala](https://open.spotify.com/album/2ATFSmZ538NkNHgLM95YFH) | 5:11 |
 | 15 | [Azawade](https://open.spotify.com/track/7dHowm9WlK1gOuEuM0bd7m) | [The Touré\-Raichel Collective](https://open.spotify.com/artist/4NXdiYnTn0W2hblJ1WphGh), [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1), [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [The Tel Aviv Session](https://open.spotify.com/album/0GIm6JcC0la7IZ7SAU8XjH) | 8:12 |
-| 16 | [Tadieu Bone](https://open.spotify.com/track/1XMr0CfVAuZ5ueoDe8yUNq) | [Ismaël Lô](https://open.spotify.com/artist/4EBRPnSYtrfmwptEMOSCV8) | [Natt](https://open.spotify.com/album/2hyXbgiRlM3PORB5GEAkLw) | 4:23 |
-| 17 | [How Dare You](https://open.spotify.com/track/4W3W4cbErPT3JCW60IxKKj) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [St Germain](https://open.spotify.com/album/5ckt4gstaOg1VlCqyLtrLT) | 6:43 |
+| 16 | [How Dare You](https://open.spotify.com/track/4W3W4cbErPT3JCW60IxKKj) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [St Germain](https://open.spotify.com/album/5ckt4gstaOg1VlCqyLtrLT) | 6:43 |
+| 17 | [Tadieu Bone](https://open.spotify.com/track/1XMr0CfVAuZ5ueoDe8yUNq) | [Ismaël Lô](https://open.spotify.com/artist/4EBRPnSYtrfmwptEMOSCV8) | [Natt](https://open.spotify.com/album/2hyXbgiRlM3PORB5GEAkLw) | 4:23 |
 | 18 | [Amidinine](https://open.spotify.com/track/2ISu36NpmL9Uirpn0ubbQ4) | [Tissilawen](https://open.spotify.com/artist/14viaIxpNaKT0mCz5p46jR) | [Amidinine](https://open.spotify.com/album/45rSglMAjMobDFFbWbDcAU) | 4:21 |
 | 19 | [Mama](https://open.spotify.com/track/795HmjjJWGQUMfL3foScIr) | [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E) | [Akö](https://open.spotify.com/album/3u7FAwHspJFXJMgAfrFsmx) | 2:04 |
-| 20 | [Pk 18](https://open.spotify.com/track/2PdCpqwqkFbGB0dJXFMsvu) | [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB) | [Bedia](https://open.spotify.com/album/0kYFx3FSDDd4igHJ0ZGdWd) | 2:31 |
-| 21 | [Toumast anlet](https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 5:13 |
+| 20 | [Toumast anlet](https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 5:13 |
+| 21 | [Pk 18](https://open.spotify.com/track/2PdCpqwqkFbGB0dJXFMsvu) | [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB) | [Bedia](https://open.spotify.com/album/0kYFx3FSDDd4igHJ0ZGdWd) | 2:31 |
 | 22 | [Awa adounia](https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg) | [Liya Ag Ablil](https://open.spotify.com/artist/5hMboy5Fq7s4pF0Q5ebJj5), [Nadia Nid El Mourid](https://open.spotify.com/artist/4Xuwu3Fe7lYLHIkvGVlpsb), [Abdallah Ag Ahmed](https://open.spotify.com/artist/1vve6wGaMkX00i8HShL2wS), [Mathias Vaguenez](https://open.spotify.com/artist/7w1rIetgb3qOd0TA5OEZ0d), [Sanou Ag Ahmed](https://open.spotify.com/artist/78RQ22utV6xA4BoB0dUQWY), [Yamina Nid El Mourid](https://open.spotify.com/artist/6yvYW6kcEnqrFPZc8CYoxS) | [Kel Tamasheq \(Deluxe Edition\)](https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH) | 4:44 |
 | 23 | [Tamiditine](https://open.spotify.com/track/0SEiSDYckOwK8PJ4tY8PLc) | [Tissilawen](https://open.spotify.com/artist/14viaIxpNaKT0mCz5p46jR) | [Eylel](https://open.spotify.com/album/1A14W8j3lCfImsotyGSUiT) | 5:50 |
 | 24 | [Degg Gui](https://open.spotify.com/track/2m9TLj1eU3qZT895FOIm0v) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc), [Fixi](https://open.spotify.com/artist/4ZdJ35EaWtMCvdbczspFET) | [Degg Gui](https://open.spotify.com/album/06B14KCKiA5UbBebBZiuLx) | 3:48 |
-| 25 | [Hona](https://open.spotify.com/track/4iYvyAFkX9jdLe7X7o2p4V) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mbalimaou](https://open.spotify.com/album/58jcdCnplCcyrBUU1lfmXG) | 5:38 |
-| 26 | [Tisnant an Chatma](https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 4:50 |
+| 25 | [Tisnant an Chatma](https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 4:50 |
+| 26 | [Hona](https://open.spotify.com/track/4iYvyAFkX9jdLe7X7o2p4V) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mbalimaou](https://open.spotify.com/album/58jcdCnplCcyrBUU1lfmXG) | 5:38 |
 | 27 | [Akaline](https://open.spotify.com/track/0V9DjtOmk3yxz8HeEyxYsY) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Tin Hinane](https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2) | 5:04 |
 | 28 | [Amoudou](https://open.spotify.com/track/1QnWVnnt2AOT7psq22mO5I) | [Sarah & Ismael](https://open.spotify.com/artist/54iTijiayB88SSI44m1Slt) | [Amoudou](https://open.spotify.com/album/12OPu793Jldrmt0fMkXpby) | 4:47 |
 | 29 | [Sekou Oumarou](https://open.spotify.com/track/0ww5hcdJB78pFq3sH2Fucn) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/0DVAsW7CZkaUg8zv0FinJI) | 3:33 |
-| 30 | [Duna ma yelema](https://open.spotify.com/track/6luGztVGxfGDfaqpONWUAS) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Maciré \(Kar Kar\)](https://open.spotify.com/album/3On4vsdEZhu65FuG6xXiQr) | 3:53 |
-| 31 | [Imuhar](https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 3:48 |
+| 30 | [Imuhar](https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 3:48 |
+| 31 | [Duna ma yelema](https://open.spotify.com/track/6luGztVGxfGDfaqpONWUAS) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Maciré \(Kar Kar\)](https://open.spotify.com/album/3On4vsdEZhu65FuG6xXiQr) | 3:53 |
 | 32 | [Mawarniha Tartit](https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Kidal](https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc) | 3:38 |
 | 33 | [Derhan N'Oulhine](https://open.spotify.com/track/0EY3h4xFDtRkHA8dGED9qR) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Derhan N'Oulhine](https://open.spotify.com/album/35IE4uxHlCa73J9DBZdbzS) | 3:33 |
 | 34 | [Hizab](https://open.spotify.com/track/4z3AALK0yW5jQy6UHHPOyl) | [Sona Jobarteh](https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr) | [Motherland \- The Score](https://open.spotify.com/album/7eioDyvozdq2H9B3WncHmC) | 4:43 |

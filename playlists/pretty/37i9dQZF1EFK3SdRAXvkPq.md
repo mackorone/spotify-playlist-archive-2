@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266 likes - 171 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 267 likes - 171 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 38 | [Hoy no me siento bien](https://open.spotify.com/track/5Ubw8xWS1mbEGKFPhhquoJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [¿Y ahora qué +?](https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb) | 2:33 |
 | 39 | [NUNCA LA OLVIDÉ](https://open.spotify.com/track/73y7RIbg70KCgtW6vbVKSC) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq) | 2:43 |
 | 40 | [LA CYBER](https://open.spotify.com/track/7EaQ16Nq8bdc2A1CBOCwQU) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [INSOMNIO](https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU) | 3:30 |
-| 41 | [Ese Hombre Es Malo](https://open.spotify.com/track/61yr9YbDKfyZn7zh1ZgUOW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:37 |
-| 42 | [Después de ti](https://open.spotify.com/track/1XUEx6XLSmuPx9hqYARlrd) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 4:28 |
+| 41 | [Después de ti](https://open.spotify.com/track/1XUEx6XLSmuPx9hqYARlrd) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 4:28 |
+| 42 | [Ese Hombre Es Malo](https://open.spotify.com/track/61yr9YbDKfyZn7zh1ZgUOW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:37 |
 | 43 | [Vocation](https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:04 |
 | 44 | [Sin Novia](https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sin Novia](https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl) | 3:08 |
 | 45 | [No Puedo Vivir Sin Él](https://open.spotify.com/track/6zRVWT0bZaBfe9H5z4naf4) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:38 |
@@ -85,11 +85,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 75 | [A Escondidas](https://open.spotify.com/track/4HVzCG4ntiixZjPwOUFWHu) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:20 |
 | 76 | [Dos Extraños](https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 3:17 |
 | 77 | [Stoker](https://open.spotify.com/track/5v8WFJFQz3BTcjeOOppkIY) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Rayo](https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo) | 3:24 |
-| 78 | [El Reggaetón](https://open.spotify.com/track/7ooWSUhPtPPJfBhhLdYjIn) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:36 |
-| 79 | [Apodo](https://open.spotify.com/track/5OQyCrbytLw7anYRZXlEhc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Apodo](https://open.spotify.com/album/1lb7uVplwl2K6b7GnAB0jr) | 2:53 |
+| 78 | [Apodo](https://open.spotify.com/track/5OQyCrbytLw7anYRZXlEhc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Apodo](https://open.spotify.com/album/1lb7uVplwl2K6b7GnAB0jr) | 2:53 |
+| 79 | [El Reggaetón](https://open.spotify.com/track/7ooWSUhPtPPJfBhhLdYjIn) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:36 |
 | 80 | [NO SUPISTE CUIDARNOS \- Respuesta \#2](https://open.spotify.com/track/0XYnxyC3AgBO8B19iqc3r4) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [NO SUPISTE CUIDARNOS \(Respuesta \#2\)](https://open.spotify.com/album/0NTnrfFM9oczlM1795mwLQ) | 2:55 |
-| 81 | [Bubble Gum \(with Yandel\)](https://open.spotify.com/track/0WPxLebZfb2ratPznK7iiT) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Bubble Gum \(with Yandel\)](https://open.spotify.com/album/622dtSTJDtnEiDdl9jhOe5) | 2:34 |
-| 82 | [Bebé no cambies tú](https://open.spotify.com/track/26OpmSF2NBuNokJhqrbQnE) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 2:51 |
+| 81 | [Bebé no cambies tú](https://open.spotify.com/track/26OpmSF2NBuNokJhqrbQnE) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 2:51 |
+| 82 | [Bubble Gum \(with Yandel\)](https://open.spotify.com/track/0WPxLebZfb2ratPznK7iiT) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Bubble Gum \(with Yandel\)](https://open.spotify.com/album/622dtSTJDtnEiDdl9jhOe5) | 2:34 |
 | 83 | [Ruca](https://open.spotify.com/track/7lTzzQWLu79UVztchgFAMR) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 3:01 |
 | 84 | [se me sale](https://open.spotify.com/track/0ot4EnQroudoSofYXOfgsU) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [LO QUE ME FALTA POR LLORAR](https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi) | 2:26 |
 | 85 | [Dando Vueltas](https://open.spotify.com/track/60vtpwMWSvG50mv5419s4R) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Dando Vueltas](https://open.spotify.com/album/3U31M9OPy3eT9v4cxaePof) | 3:12 |
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 117 | [Insisto](https://open.spotify.com/track/0n8tz5Antdme9Y210r1fqs) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Insisto](https://open.spotify.com/album/0ZN9chD1SiAXp2XUVCYjlS) | 3:15 |
 | 118 | [Melancolía](https://open.spotify.com/track/1DiEushlmN8kJZ2t2tywjU) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 2:41 |
 | 119 | [Qué injusto](https://open.spotify.com/track/3ayVKsrwK44VEdD7BdnDD7) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [¿Y ahora qué +?](https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb) | 3:16 |
-| 120 | [Mar De Lagrimas](https://open.spotify.com/track/75QbPj0CEf7wPApg5LpxOX) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 2:54 |
-| 121 | [Bye](https://open.spotify.com/track/64sCDUnbNVjhWyfYmVrTOD) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Con dolor](https://open.spotify.com/album/5NPLmlTys2atPbydfgLKke) | 3:23 |
+| 120 | [Bye](https://open.spotify.com/track/64sCDUnbNVjhWyfYmVrTOD) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Con dolor](https://open.spotify.com/album/5NPLmlTys2atPbydfgLKke) | 3:23 |
+| 121 | [Mar De Lagrimas](https://open.spotify.com/track/75QbPj0CEf7wPApg5LpxOX) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 2:54 |
 | 122 | [Te Invito](https://open.spotify.com/track/4S9SliJ50W07B1bMhKGT2b) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 3:00 |
 | 123 | [El Pin](https://open.spotify.com/track/0yr5n9BiA7QoibcCx7eJj8) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:00 |
 | 124 | [CÓDIGOS](https://open.spotify.com/track/273PsBfvMreiD2TXyKOR06) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [INSOMNIO](https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU) | 2:58 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 170 | [Audemars](https://open.spotify.com/track/6TkkO0MSj5Fep5U4zEQYcF) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Audemars](https://open.spotify.com/album/4i1yJkIY6jlEeTxA2vjRY8) | 3:14 |
 | 171 | [Estrella Fugaz](https://open.spotify.com/track/4N0P7wQbTHpoZF69UYpr3V) | [Bryanne](https://open.spotify.com/artist/6R3sSAOL4rej4pFAAyMzWB) | [Estrella Fugaz](https://open.spotify.com/album/3lLj8bufRO2G5MtiFT5MNw) | 3:25 |
 
-Snapshot ID: `Aca1PAAAAAAS9BbMBMwX9eDf+NqkPVyU`
+Snapshot ID: `Aca6PAAAAACB+kNqI/YJhPOyI7PyvrEy`

@@ -1,6 +1,6 @@
 {
   "description": "Heavy Metal forever. Classics to brand new tracks across heavy, power, doom, thrash, and sludge. Cover: Mastodon",
-  "num_followers": 1413466,
+  "num_followers": 1413491,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,18 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Playing God (feat. Corey Taylor)",
-        "url": "https://open.spotify.com/album/05WTokpw4rVSLReVc0OoEG"
+        "name": "Machine Head (Remastered)",
+        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
       },
       "artists": [
         {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        },
-        {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 219536,
-      "name": "Playing God (feat. Corey Taylor)",
-      "url": "https://open.spotify.com/track/6EbyODHz4Pn3rkQXiMg1TQ"
+      "duration_ms": 366136,
+      "name": "Highway Star - Remastered 2012",
+      "url": "https://open.spotify.com/track/3uMmllZo1AfoEnVT4ENCD3"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -663,18 +659,22 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Machine Head (Remastered)",
-        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
+        "name": "Playing God (feat. Corey Taylor)",
+        "url": "https://open.spotify.com/album/05WTokpw4rVSLReVc0OoEG"
       },
       "artists": [
         {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        },
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
         }
       ],
-      "duration_ms": 366136,
-      "name": "Highway Star - Remastered 2012",
-      "url": "https://open.spotify.com/track/3uMmllZo1AfoEnVT4ENCD3"
+      "duration_ms": 219536,
+      "name": "Playing God (feat. Corey Taylor)",
+      "url": "https://open.spotify.com/track/6EbyODHz4Pn3rkQXiMg1TQ"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
+        "name": "The Trooper",
+        "url": "https://open.spotify.com/album/6we9preGiPMKlAlHFWx4FH"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 251375,
+      "name": "The Trooper",
+      "url": "https://open.spotify.com/track/3X9TaoUaAgBCQ3G9DLCBOZ"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
         "name": "Revenger",
         "url": "https://open.spotify.com/album/48X7KToLv5QVFKN3L7hQa6"
       },
@@ -2071,22 +2087,6 @@
       "duration_ms": 220227,
       "name": "Revenger",
       "url": "https://open.spotify.com/track/39G4lx75wNFd1rU74WhmqK"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
-        "name": "The Trooper",
-        "url": "https://open.spotify.com/album/6we9preGiPMKlAlHFWx4FH"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 251375,
-      "name": "The Trooper",
-      "url": "https://open.spotify.com/track/3X9TaoUaAgBCQ3G9DLCBOZ"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2399,6 +2399,22 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
+        "name": "Perfume Of The Timeless",
+        "url": "https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 492106,
+      "name": "Perfume Of The Timeless",
+      "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
         "name": "Vermillion",
         "url": "https://open.spotify.com/album/18SzJd75guEOuFZ1KCNIz9"
       },
@@ -2423,18 +2439,18 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Perfume Of The Timeless",
-        "url": "https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt"
+        "name": "The Hunter (Deluxe)",
+        "url": "https://open.spotify.com/album/7lObP1GanG65wToWzufQtq"
       },
       "artists": [
         {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 492106,
-      "name": "Perfume Of The Timeless",
-      "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
+      "duration_ms": 220133,
+      "name": "Curl of the Burl",
+      "url": "https://open.spotify.com/track/6PPQEvj7UZ2hXM80Qo7gR1"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2455,22 +2471,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "The Hunter (Deluxe)",
-        "url": "https://open.spotify.com/album/7lObP1GanG65wToWzufQtq"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "Curl of the Burl",
-      "url": "https://open.spotify.com/track/6PPQEvj7UZ2hXM80Qo7gR1"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "House of Mirrors",
         "url": "https://open.spotify.com/album/0tjU3wSdnA3FQZZeqAC195"
       },
@@ -2483,22 +2483,6 @@
       "duration_ms": 220426,
       "name": "House of Mirrors",
       "url": "https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
-        "name": "Rituals of Shame",
-        "url": "https://open.spotify.com/album/3Rv6nS9XWAIvD6bIJMcTlH"
-      },
-      "artists": [
-        {
-          "name": "Warning",
-          "url": "https://open.spotify.com/artist/215tdyVWdDYOjufDKf6UJg"
-        }
-      ],
-      "duration_ms": 567405,
-      "name": "Stations",
-      "url": "https://open.spotify.com/track/3N2vldxlBL18A0scM94uxT"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2519,6 +2503,22 @@
       "duration_ms": 480566,
       "name": "The Cleansing",
       "url": "https://open.spotify.com/track/5iODmMKclILMRCQZcuZz0C"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "Rituals of Shame",
+        "url": "https://open.spotify.com/album/3Rv6nS9XWAIvD6bIJMcTlH"
+      },
+      "artists": [
+        {
+          "name": "Warning",
+          "url": "https://open.spotify.com/artist/215tdyVWdDYOjufDKf6UJg"
+        }
+      ],
+      "duration_ms": 567405,
+      "name": "Stations",
+      "url": "https://open.spotify.com/track/3N2vldxlBL18A0scM94uxT"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2555,22 +2555,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Descent",
-        "url": "https://open.spotify.com/album/1mDaT2RNgf04P88aTEjTeL"
-      },
-      "artists": [
-        {
-          "name": "Immolation",
-          "url": "https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt"
-        }
-      ],
-      "duration_ms": 237011,
-      "name": "The Ephemeral Curse",
-      "url": "https://open.spotify.com/track/0j1oTbbvud3GlUVFbyFab2"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "Lest We Fall",
         "url": "https://open.spotify.com/album/6ZqlZnGCeo8ULNZ4esknhk"
       },
@@ -2591,6 +2575,22 @@
       "duration_ms": 231213,
       "name": "Lest We Fall",
       "url": "https://open.spotify.com/track/1g0YyvMI8e82KtutPZV8QG"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "Descent",
+        "url": "https://open.spotify.com/album/1mDaT2RNgf04P88aTEjTeL"
+      },
+      "artists": [
+        {
+          "name": "Immolation",
+          "url": "https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt"
+        }
+      ],
+      "duration_ms": 237011,
+      "name": "The Ephemeral Curse",
+      "url": "https://open.spotify.com/track/0j1oTbbvud3GlUVFbyFab2"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2759,22 +2759,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "The Real You",
-        "url": "https://open.spotify.com/album/6RVPnpptZoMHjubHk3VjBX"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 241480,
-      "name": "The Real You",
-      "url": "https://open.spotify.com/track/5ZeZSbuvupOAfm3zD73tp2"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "Bring Out Your Dead",
         "url": "https://open.spotify.com/album/5Y9cEIruQ0SQCXgugO8igf"
       },
@@ -2791,18 +2775,18 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Green Serpent",
-        "url": "https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9"
+        "name": "The Real You",
+        "url": "https://open.spotify.com/album/6RVPnpptZoMHjubHk3VjBX"
       },
       "artists": [
         {
-          "name": "Jinjer",
-          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
         }
       ],
-      "duration_ms": 241413,
-      "name": "Green Serpent",
-      "url": "https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg"
+      "duration_ms": 241480,
+      "name": "The Real You",
+      "url": "https://open.spotify.com/track/5ZeZSbuvupOAfm3zD73tp2"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2819,6 +2803,22 @@
       "duration_ms": 288310,
       "name": "Many Doors to Hell",
       "url": "https://open.spotify.com/track/1HqRyjIsJw9Y3XeD4jTRbZ"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "Green Serpent",
+        "url": "https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9"
+      },
+      "artists": [
+        {
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+        }
+      ],
+      "duration_ms": 241413,
+      "name": "Green Serpent",
+      "url": "https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -3007,22 +3007,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "...Beginning of the End",
-        "url": "https://open.spotify.com/album/18CWBgJcAxjZJ4LbiigPfY"
-      },
-      "artists": [
-        {
-          "name": "Portrayal of Guilt",
-          "url": "https://open.spotify.com/artist/1Uwe1MbiKnPHAFh3qMWuNp"
-        }
-      ],
-      "duration_ms": 224899,
-      "name": "Ecstasy",
-      "url": "https://open.spotify.com/track/1OxXQbYJ9J0oSdi83e4ulm"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "If It's All The Same To You",
         "url": "https://open.spotify.com/album/3nmqCvpxxLOYkikOZGNaNG"
       },
@@ -3051,6 +3035,22 @@
       "duration_ms": 255986,
       "name": "Presence of Mind",
       "url": "https://open.spotify.com/track/7kn8PMqB1Cx3qnzB0Slayd"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "...Beginning of the End",
+        "url": "https://open.spotify.com/album/18CWBgJcAxjZJ4LbiigPfY"
+      },
+      "artists": [
+        {
+          "name": "Portrayal of Guilt",
+          "url": "https://open.spotify.com/artist/1Uwe1MbiKnPHAFh3qMWuNp"
+        }
+      ],
+      "duration_ms": 224899,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/1OxXQbYJ9J0oSdi83e4ulm"
     },
     {
       "added_at": "2026-07-13 21:05:42",

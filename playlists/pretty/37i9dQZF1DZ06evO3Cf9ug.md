@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cf9ug.md) - [plain]
 
 > This is Tems\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,285 likes - 49 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,346 likes - 49 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,14 +27,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cf9ug.md) - [plain]
 | 17 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 |
 | 18 | [Wickedest](https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:36 |
 | 19 | [Bunce Road Blues \(with Future & Tems\)](https://open.spotify.com/track/6jtqO14L18plBtpDTtUkFR) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 5:10 |
-| 20 | [Know Your Worth \(feat\. Davido & Tems\)](https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Know Your Worth \(feat\. Davido & Tems\)](https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz) | 3:11 |
+| 20 | [The Key](https://open.spotify.com/track/4w4EJ9EaeogHLLEYlUXFDo) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:46 |
 | 21 | [First](https://open.spotify.com/track/6Ijr2FALEGiepGbWdPp5Qh) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:56 |
 | 22 | [Free Fall \(feat\. J\. Cole\)](https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:12 |
-| 23 | [The Key](https://open.spotify.com/track/4w4EJ9EaeogHLLEYlUXFDo) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:46 |
+| 23 | [Know Your Worth \(feat\. Davido & Tems\)](https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Know Your Worth \(feat\. Davido & Tems\)](https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz) | 3:11 |
 | 24 | [Try Me](https://open.spotify.com/track/4Ieod2ueT9GEEz9ILN84qP) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Try Me](https://open.spotify.com/album/6SgqTgKf5zgaCLGecrp8Kn) | 3:33 |
 | 25 | [Lagos Love](https://open.spotify.com/track/3AYQsSyM8Mi8GV0OKItsBR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 3:10 |
-| 26 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 |
-| 27 | [Ice T](https://open.spotify.com/track/4vcUf8YqLi1mDeT9c0Wo6f) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 4:07 |
+| 26 | [Ice T](https://open.spotify.com/track/4vcUf8YqLi1mDeT9c0Wo6f) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 4:07 |
+| 27 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 |
 | 28 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 |
 | 29 | [Mine](https://open.spotify.com/track/0fKrZjwdZlwAEYi7S012mN) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:40 |
 | 30 | [No.1 \(feat\. Tems\)](https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cf9ug.md) - [plain]
 | 48 | [Trouble](https://open.spotify.com/track/319xYgRF9JFpGLTtiCDhC7) | [DRB Lasgidi](https://open.spotify.com/artist/5jypR313fdSfpa6y1GMLqZ), [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Fresh L.](https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Pioneers](https://open.spotify.com/album/7tFUesVQ7An8e5pEu7sPYv) | 3:14 |
 | 49 | [Decided](https://open.spotify.com/track/0imwtLGiD7fCyWq7SpslPl) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Decided](https://open.spotify.com/album/3Ws47GZEN8ZZbfrVSSZev4) | 3:00 |
 
-Snapshot ID: `ao9+AAAAAADBDuA1mM/Zowb6ZNpcd7gp`
+Snapshot ID: `apDPgAAAAACQo4Y2BWrZ8dd8+dTZGqbl`

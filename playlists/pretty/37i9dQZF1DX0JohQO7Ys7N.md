@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Kahuti
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,917 likes - 61 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,924 likes - 61 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

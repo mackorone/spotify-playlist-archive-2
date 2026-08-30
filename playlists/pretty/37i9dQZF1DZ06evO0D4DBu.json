@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 210748,
+  "num_followers": 210752,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABd07s95X5UFew3WEfeOu67",
+  "snapshot_id": "apDPgAAAAACYGuz2Hin4tD841YGHwWAJ",
   "tracks": [
     {
       "added_at": null,
@@ -575,6 +575,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 255609,
+      "name": "The Highs & The Lows (feat. Joey BadA$$)",
+      "url": "https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Big Day",
         "url": "https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 225923,
       "name": "Hot Shower",
       "url": "https://open.spotify.com/track/6TagqfYkLRIo8SPNdyaJ4f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STAR LINE",
-        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 255609,
-      "name": "The Highs & The Lows (feat. Joey BadA$$)",
-      "url": "https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18"
     },
     {
       "added_at": null,

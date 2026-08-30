@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: JIREH
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,655 likes - 79 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,664 likes - 79 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 4 | [Max Payne](https://open.spotify.com/track/4wcB0hfse716EJV75lx0ja) | [Enphamus](https://open.spotify.com/artist/1YuG9W2X7E1yLwM0qDeGUb), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Max Payne](https://open.spotify.com/album/5vNus37H5UHv6JqNgSnVdc) | 2:23 |
 | 5 | [Reason](https://open.spotify.com/track/6JfiCWei9nil1VGD6Jn4Zd) | [Yung Skooley](https://open.spotify.com/artist/5hfKHmE2Vo9XyLyIJZe3rl), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Cutt To Da Bone](https://open.spotify.com/album/4qr5B6d7CLvhLnAn5MmVDk) | 3:13 |
 | 6 | [Literally Doe](https://open.spotify.com/track/4Apwb0CmqWn00TMzjqMyaA) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX) | [Literally Doe](https://open.spotify.com/album/5xmWlklFLEue1Fx3tY1xjs) | 1:47 |
-| 7 | [AUCTION BLOCK \(BONUS\)](https://open.spotify.com/track/176epegtPc44XSfD8WkWZc) | [JIREH](https://open.spotify.com/artist/7aEkh8osePkHEee0Xi947K), [Ovrkast.](https://open.spotify.com/artist/2xe8h51aM8cjFSTeGoPXkW) | [ROPE BURN](https://open.spotify.com/album/0GteknooF28InvAmZjGUx9) | 2:13 |
+| 7 | [AUCTION BLOCK \(BONUS\)](https://open.spotify.com/track/176epegtPc44XSfD8WkWZc) | [JIREH](https://open.spotify.com/artist/7aEkh8osePkHEee0Xi947K) | [ROPE BURN](https://open.spotify.com/album/0GteknooF28InvAmZjGUx9) | 2:13 |
 | 8 | [Tryna Get Witchu](https://open.spotify.com/track/79Hd0rEdjmwlsV40RL98jD) | [CR](https://open.spotify.com/artist/3s1NH27HjdIbCFlkzBezio) | [Tryna Get Witchu](https://open.spotify.com/album/3PTRXsV6g84tlzSmwbD1iV) | 3:10 |
 | 9 | [Ms\. Jackson](https://open.spotify.com/track/6PZcPdGpFA8rY1bqO4Bntv) | [Young Roddo](https://open.spotify.com/artist/5dxav2nP7izQBQYPNjv0CQ) | [Ms\. Jackson](https://open.spotify.com/album/3qB1DTzI1SIiP1syCOfd5U) | 2:03 |
 | 10 | [Talkin Bodiez](https://open.spotify.com/track/2gAB9x3Rudn06D4axBZZki) | [22jay](https://open.spotify.com/artist/4Uur9eN0UpjPMVsfGinZ4l) | [Talkin Bodiez](https://open.spotify.com/album/7bO40bjASPls16aB819CEc) | 1:30 |

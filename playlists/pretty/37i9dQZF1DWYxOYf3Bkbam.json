@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 66435,
+  "num_followers": 66452,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
-        "name": "Antolog\u00eda",
-        "url": "https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM"
-      },
-      "artists": [
-        {
-          "name": "Mateo Villalba",
-          "url": "https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc"
-        }
-      ],
-      "duration_ms": 199346,
-      "name": "Lluvia Correntina",
-      "url": "https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
         "name": "Mburucuy\u00e1 poty",
         "url": "https://open.spotify.com/album/2DvRtHOgRC6foFu8qHiCsO"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 134600,
       "name": "Soy Correntino y Doy Fe",
       "url": "https://open.spotify.com/track/20atmS8DvxGd2i7bEXcV6z"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
+        "name": "Antolog\u00eda",
+        "url": "https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM"
+      },
+      "artists": [
+        {
+          "name": "Mateo Villalba",
+          "url": "https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc"
+        }
+      ],
+      "duration_ms": 199346,
+      "name": "Lluvia Correntina",
+      "url": "https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
-        "name": "21 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Cardozo",
-          "url": "https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn"
-        }
-      ],
-      "duration_ms": 186013,
-      "name": "Las Penas del Provinciano",
-      "url": "https://open.spotify.com/track/2OjO3ZBIR59xMqoo9z17sJ"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
         "name": "20 Superexitos Originales",
         "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 142120,
       "name": "Ah Mi Corrientes Por\u00e1",
       "url": "https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
+        "name": "21 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Cardozo",
+          "url": "https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn"
+        }
+      ],
+      "duration_ms": 186013,
+      "name": "Las Penas del Provinciano",
+      "url": "https://open.spotify.com/track/2OjO3ZBIR59xMqoo9z17sJ"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
-        "name": "Costera",
-        "url": "https://open.spotify.com/album/5e9kuKpWgRMwtkY6mzVgat"
-      },
-      "artists": [
-        {
-          "name": "Priscila Colom",
-          "url": "https://open.spotify.com/artist/1MK7hK0Xyu7006q2NHUcFo"
-        }
-      ],
-      "duration_ms": 169391,
-      "name": "Granja San Antonio",
-      "url": "https://open.spotify.com/track/0HiOLvZcuQV33hRwJBINLM"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
         "name": "Chamame los 100 mejores temas Vol 1",
         "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 204746,
       "name": "Mi ponchillo colorado",
       "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
+        "name": "Costera",
+        "url": "https://open.spotify.com/album/5e9kuKpWgRMwtkY6mzVgat"
+      },
+      "artists": [
+        {
+          "name": "Priscila Colom",
+          "url": "https://open.spotify.com/artist/1MK7hK0Xyu7006q2NHUcFo"
+        }
+      ],
+      "duration_ms": 169391,
+      "name": "Granja San Antonio",
+      "url": "https://open.spotify.com/track/0HiOLvZcuQV33hRwJBINLM"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
-        "name": "Desde el Coraz\u00f3n de Corrientes",
-        "url": "https://open.spotify.com/album/79qBF7mZkeyaPFbykHAnIo"
-      },
-      "artists": [
-        {
-          "name": "Lacho Sena",
-          "url": "https://open.spotify.com/artist/6mdVeA18EaI5CBBs0X3dK3"
-        }
-      ],
-      "duration_ms": 171226,
-      "name": "El Jazm\u00edn de Tu Recuerdo",
-      "url": "https://open.spotify.com/track/1wLFjUwgQFsbuYrdkJhICz"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
         "name": "D\u00fao Cejas Sol\u00eds",
         "url": "https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 122733,
       "name": "Palomita Mensajera",
       "url": "https://open.spotify.com/track/7hoTIUdGyOfdGrSdbIJ2DU"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
+        "name": "Desde el Coraz\u00f3n de Corrientes",
+        "url": "https://open.spotify.com/album/79qBF7mZkeyaPFbykHAnIo"
+      },
+      "artists": [
+        {
+          "name": "Lacho Sena",
+          "url": "https://open.spotify.com/artist/6mdVeA18EaI5CBBs0X3dK3"
+        }
+      ],
+      "duration_ms": 171226,
+      "name": "El Jazm\u00edn de Tu Recuerdo",
+      "url": "https://open.spotify.com/track/1wLFjUwgQFsbuYrdkJhICz"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
+        "name": "D\u00fao Cejas Sol\u00eds",
+        "url": "https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS"
+      },
+      "artists": [
+        {
+          "name": "Duo Cejas Solis",
+          "url": "https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1"
+        }
+      ],
+      "duration_ms": 126173,
+      "name": "Mi Triste Fantasia",
+      "url": "https://open.spotify.com/track/3zak0TGVmH7wrFuwPXBfjC"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
         "name": "Recuerdos, Tristeza y Soledad",
         "url": "https://open.spotify.com/album/0bvdakizmjJ8idm7COAxLY"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 233131,
       "name": "Recuerdos, Tristeza y Soledad",
       "url": "https://open.spotify.com/track/5RNwpUN7Orwbr4PkmzmJrz"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
-        "name": "D\u00fao Cejas Sol\u00eds",
-        "url": "https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS"
-      },
-      "artists": [
-        {
-          "name": "Duo Cejas Solis",
-          "url": "https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1"
-        }
-      ],
-      "duration_ms": 126173,
-      "name": "Mi Triste Fantasia",
-      "url": "https://open.spotify.com/track/3zak0TGVmH7wrFuwPXBfjC"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -1428,6 +1428,22 @@
       },
       "artists": [
         {
+          "name": "Mario Romero canta Espindola Escobar",
+          "url": "https://open.spotify.com/artist/4PXkyeCfB42yxfDlR0dE6n"
+        }
+      ],
+      "duration_ms": 160893,
+      "name": "Felicidades madrecita",
+      "url": "https://open.spotify.com/track/2LWUha71rbLXW9mVgZcFwe"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
           "name": "Toto Maidana",
           "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
         }
@@ -1451,22 +1467,6 @@
       "duration_ms": 110706,
       "name": "Camino a las cuchillas",
       "url": "https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Mario Romero canta Espindola Escobar",
-          "url": "https://open.spotify.com/artist/4PXkyeCfB42yxfDlR0dE6n"
-        }
-      ],
-      "duration_ms": 160893,
-      "name": "Felicidades madrecita",
-      "url": "https://open.spotify.com/track/2LWUha71rbLXW9mVgZcFwe"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Toto Maidana",
-          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
-        }
-      ],
-      "duration_ms": 134240,
-      "name": "La dama misteriosa",
-      "url": "https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
         "name": "Si el Campo Crece, Crece el Pa\u00eds",
         "url": "https://open.spotify.com/album/3TrPDaLtRXg4iuXuMHgNqZ"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 247240,
       "name": "La Changa de los Domingos - Chamam\u00e9",
       "url": "https://open.spotify.com/track/1C58csh64wznZj64hwV9gx"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Toto Maidana",
+          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
+        }
+      ],
+      "duration_ms": 134240,
+      "name": "La dama misteriosa",
+      "url": "https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Al agua! Nosotros ponemos la m\u00fasica.",
-  "num_followers": 497440,
+  "num_followers": 497448,
   "original_name": "Pool Party",
   "owner": {
     "name": "Spotify",
@@ -571,26 +571,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Rasputin",
-        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
-      },
-      "artists": [
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 186209,
-      "name": "Rasputin",
-      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 186209,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "My Head & My Heart",
-      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Guess featuring billie eilish",
-        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 143330,
-      "name": "Guess featuring billie eilish",
-      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "El Efecto (Remix)",
         "url": "https://open.spotify.com/album/18wfVLHQKF0yXimErnxAfo"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 289898,
       "name": "El Efecto - Remix",
       "url": "https://open.spotify.com/track/74j34STf8L6uADnTN69ohv"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "Guess featuring billie eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 143330,
+      "name": "Guess featuring billie eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "Fantasias",
         "url": "https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL"
       },
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
         "name": "Easy Money Baby",
         "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
       },
@@ -1619,26 +1619,6 @@
       "duration_ms": 214013,
       "name": "Diosa",
       "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "Savage Love (Laxed - Siren Beat)",
-        "url": "https://open.spotify.com/album/1XMw3pBrYeXzNXZXc84DNw"
-      },
-      "artists": [
-        {
-          "name": "Jawsh 685",
-          "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 171374,
-      "name": "Savage Love (Laxed - Siren Beat)",
-      "url": "https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1675,6 +1655,26 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
+        "name": "Savage Love (Laxed - Siren Beat)",
+        "url": "https://open.spotify.com/album/1XMw3pBrYeXzNXZXc84DNw"
+      },
+      "artists": [
+        {
+          "name": "Jawsh 685",
+          "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 171374,
+      "name": "Savage Love (Laxed - Siren Beat)",
+      "url": "https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
@@ -1703,26 +1703,6 @@
       "duration_ms": 225148,
       "name": "Oh My God",
       "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1779,18 +1759,46 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+        "name": "PAPI JUANCHO",
+        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
       },
       "artists": [
         {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
+      "duration_ms": 248345,
+      "name": "Parce (feat. Justin Quiles)",
+      "url": "https://open.spotify.com/track/4RJz8NfIe09gpKMiRUWKhJ"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1831,26 +1839,18 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "PAPI JUANCHO",
-        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
         }
       ],
-      "duration_ms": 248345,
-      "name": "Parce (feat. Justin Quiles)",
-      "url": "https://open.spotify.com/track/4RJz8NfIe09gpKMiRUWKhJ"
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Astronaut In The Ocean",
-        "url": "https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA"
-      },
-      "artists": [
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        }
-      ],
-      "duration_ms": 132780,
-      "name": "Astronaut In The Ocean",
-      "url": "https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "UN DIA (ONE DAY) (Feat. Tainy)",
         "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
       },
@@ -2023,18 +2007,18 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+        "name": "Astronaut In The Ocean",
+        "url": "https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
         }
       ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+      "duration_ms": 132780,
+      "name": "Astronaut In The Ocean",
+      "url": "https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -2071,6 +2055,22 @@
       "duration_ms": 189320,
       "name": "Tacones Rojos",
       "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -2555,22 +2555,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Celestial",
-        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Celestial",
-      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "1 of 1",
         "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
       },
@@ -2587,18 +2571,18 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 150853,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
+      "duration_ms": 209026,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -2639,6 +2623,22 @@
       "duration_ms": 413110,
       "name": "Cay\u00f3 La Noche (feat. Cruzzi, Abhir Hathi, Bejo, EL IMA) [Remix]",
       "url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 150853,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
     },
     {
       "added_at": "2025-06-06 18:29:24",

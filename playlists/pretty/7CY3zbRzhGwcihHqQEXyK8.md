@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 likes - 763 songs - 1 day 14 hr 37 min
+[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 likes - 784 songs - 1 day 15 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -771,5 +771,26 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 | 761 | [Against Love](https://open.spotify.com/track/2zKoKBAxF5uG9qtODbiqD7) | [Un Chien](https://open.spotify.com/artist/2x91QqwZbX6pVlXV2kZI4f) | [Un Chien](https://open.spotify.com/album/3CvTKI8o9FBzMKPMpbRyAe) | 3:51 |
 | 762 | [The Dreamer](https://open.spotify.com/track/2JrSoXWDawggpETPlRTGm8) | [Un Chien](https://open.spotify.com/artist/2x91QqwZbX6pVlXV2kZI4f) | [Un Chien](https://open.spotify.com/album/3CvTKI8o9FBzMKPMpbRyAe) | 4:18 |
 | 763 | [Speak Slowly](https://open.spotify.com/track/6gD5RXQvnasbRDWXwd0JhB) | [Un Chien](https://open.spotify.com/artist/2x91QqwZbX6pVlXV2kZI4f) | [Un Chien](https://open.spotify.com/album/3CvTKI8o9FBzMKPMpbRyAe) | 6:33 |
+| 764 | [First Theme On Piano](https://open.spotify.com/track/6HrxcfLatipAxG3xLrsOf8) | [NoLongerNull](https://open.spotify.com/artist/12xc327EsVjOW5LepkAus5) | [NoLongerNull DEMO COLLECTION 4](https://open.spotify.com/album/0Y3ytE2WSwrFpeQX3iDyG7) | 3:06 |
+| 765 | [Deeper](https://open.spotify.com/track/7J7DuQIGYdMixav9GpQwPE) | [NoLongerNull](https://open.spotify.com/artist/12xc327EsVjOW5LepkAus5) | [NoLongerNull DEMO COLLECTION 4](https://open.spotify.com/album/0Y3ytE2WSwrFpeQX3iDyG7) | 2:44 |
+| 766 | [Respite, Waxing Damnation](https://open.spotify.com/track/1J4paGKvgtGqWD1ghxcl8D) | [NoLongerNull](https://open.spotify.com/artist/12xc327EsVjOW5LepkAus5) | [NoLongerNull DEMO COLLECTION 4](https://open.spotify.com/album/0Y3ytE2WSwrFpeQX3iDyG7) | 2:00 |
+| 767 | [Why Bother](https://open.spotify.com/track/7ueEBM5QhKy7bzL4nT7ixA) | [NoLongerNull](https://open.spotify.com/artist/12xc327EsVjOW5LepkAus5) | [NoLongerNull DEMO COLLECTION 4](https://open.spotify.com/album/0Y3ytE2WSwrFpeQX3iDyG7) | 2:16 |
+| 768 | [Vicious Cycle](https://open.spotify.com/track/2qEXorIKqDddzcG72eZlHQ) | [NoLongerNull](https://open.spotify.com/artist/12xc327EsVjOW5LepkAus5) | [NoLongerNull DEMO COLLECTION 4](https://open.spotify.com/album/0Y3ytE2WSwrFpeQX3iDyG7) | 1:56 |
+| 769 | [Facade](https://open.spotify.com/track/4JcwV7WgbYHgriRi6dN07N) | [NoLongerNull](https://open.spotify.com/artist/12xc327EsVjOW5LepkAus5) | [NoLongerNull DEMO COLLECTION 4](https://open.spotify.com/album/0Y3ytE2WSwrFpeQX3iDyG7) | 2:57 |
+| 770 | [I Made A Promise](https://open.spotify.com/track/6jekFN05So0mVyXOINUsPU) | [NoLongerNull](https://open.spotify.com/artist/12xc327EsVjOW5LepkAus5) | [NoLongerNull DEMO COLLECTION 4](https://open.spotify.com/album/0Y3ytE2WSwrFpeQX3iDyG7) | 2:38 |
+| 771 | [I Heard Your Voice Again](https://open.spotify.com/track/19USc99M8pjAgnSIX8JKLB) | [NoLongerNull](https://open.spotify.com/artist/12xc327EsVjOW5LepkAus5) | [NoLongerNull DEMO COLLECTION 4](https://open.spotify.com/album/0Y3ytE2WSwrFpeQX3iDyG7) | 2:43 |
+| 772 | [They Breathe, They Move](https://open.spotify.com/track/0PiNTAJoXP4wiWNvXdkL0k) | [NoLongerNull](https://open.spotify.com/artist/12xc327EsVjOW5LepkAus5) | [NoLongerNull DEMO COLLECTION 4](https://open.spotify.com/album/0Y3ytE2WSwrFpeQX3iDyG7) | 2:14 |
+| 773 | [Go Fish](https://open.spotify.com/track/0CcnUGRxRxbarz16auPheZ) | [NoLongerNull](https://open.spotify.com/artist/12xc327EsVjOW5LepkAus5) | [NoLongerNull DEMO COLLECTION 4](https://open.spotify.com/album/0Y3ytE2WSwrFpeQX3iDyG7) | 1:28 |
+| 774 | [Wasteshredder](https://open.spotify.com/track/4OgnPv1RhwuzHRZbF0J6iC) | [NoLongerNull](https://open.spotify.com/artist/12xc327EsVjOW5LepkAus5) | [NoLongerNull DEMO COLLECTION 4](https://open.spotify.com/album/0Y3ytE2WSwrFpeQX3iDyG7) | 1:04 |
+| 775 | [R U N](https://open.spotify.com/track/2Y55WusVHbGUIW3ON9aydc) | [NoLongerNull](https://open.spotify.com/artist/12xc327EsVjOW5LepkAus5) | [NoLongerNull DEMO COLLECTION 4](https://open.spotify.com/album/0Y3ytE2WSwrFpeQX3iDyG7) | 3:35 |
+| 776 | [Sewer Creature](https://open.spotify.com/track/6irylU4UtzJ4cqvn7FxgMK) | [NoLongerNull](https://open.spotify.com/artist/12xc327EsVjOW5LepkAus5) | [NoLongerNull DEMO COLLECTION 4](https://open.spotify.com/album/0Y3ytE2WSwrFpeQX3iDyG7) | 2:49 |
+| 777 | [Blasphemy](https://open.spotify.com/track/7o3Z42bDcXovPA3wZbBrke) | [NoLongerNull](https://open.spotify.com/artist/12xc327EsVjOW5LepkAus5) | [NoLongerNull DEMO COLLECTION 4](https://open.spotify.com/album/0Y3ytE2WSwrFpeQX3iDyG7) | 2:12 |
+| 778 | [Big Sister is Watching](https://open.spotify.com/track/7i3Wg99gyp3Cc86zrkT1Nm) | [NoLongerNull](https://open.spotify.com/artist/12xc327EsVjOW5LepkAus5) | [NoLongerNull DEMO COLLECTION 4](https://open.spotify.com/album/0Y3ytE2WSwrFpeQX3iDyG7) | 3:41 |
+| 779 | [I Dream of Dreaming](https://open.spotify.com/track/4sL54VJOLmi7NVVdvVoG5H) | [NoLongerNull](https://open.spotify.com/artist/12xc327EsVjOW5LepkAus5) | [NoLongerNull DEMO COLLECTION 4](https://open.spotify.com/album/0Y3ytE2WSwrFpeQX3iDyG7) | 2:21 |
+| 780 | [I Dream of Electric Sheep](https://open.spotify.com/track/7sfjZ44vLJbhfFJ4wcnXcg) | [NoLongerNull](https://open.spotify.com/artist/12xc327EsVjOW5LepkAus5) | [NoLongerNull DEMO COLLECTION 4](https://open.spotify.com/album/0Y3ytE2WSwrFpeQX3iDyG7) | 1:26 |
+| 781 | [Stick to the Script](https://open.spotify.com/track/5hvyFcKSqXxQEjIBz8x7mu) | [NoLongerNull](https://open.spotify.com/artist/12xc327EsVjOW5LepkAus5) | [NoLongerNull DEMO COLLECTION 4](https://open.spotify.com/album/0Y3ytE2WSwrFpeQX3iDyG7) | 1:45 |
+| 782 | [Beneath The Final Light](https://open.spotify.com/track/30V0lm44DDRT84mJH0VCMR) | [NoLongerNull](https://open.spotify.com/artist/12xc327EsVjOW5LepkAus5) | [NoLongerNull DEMO COLLECTION 4](https://open.spotify.com/album/0Y3ytE2WSwrFpeQX3iDyG7) | 8:09 |
+| 783 | [Death Angel](https://open.spotify.com/track/7K1pmQ0NCcoXfy22j6tO8A) | [NoLongerNull](https://open.spotify.com/artist/12xc327EsVjOW5LepkAus5) | [NoLongerNull DEMO COLLECTION 4](https://open.spotify.com/album/0Y3ytE2WSwrFpeQX3iDyG7) | 2:06 |
+| 784 | [Teehee](https://open.spotify.com/track/4SDnlE6ggKKSReTza2WtFs) | [NoLongerNull](https://open.spotify.com/artist/12xc327EsVjOW5LepkAus5) | [NoLongerNull DEMO COLLECTION 4](https://open.spotify.com/album/0Y3ytE2WSwrFpeQX3iDyG7) | 1:22 |
 
-Snapshot ID: `AAABth9yY0tzIcJWYV9UqS0v0aUzLvdB`
+Snapshot ID: `AAABt36GbUkuGxbQL4tC6dot44QJgG1i`

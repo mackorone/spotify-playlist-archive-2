@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 
 > Pronto pra pool party? Vem com a gente!
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,208 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,200 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 15 | [Medley da Gaiola \- DENNIS Remix](https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Medley da Gaiola \(DENNIS Remix\)](https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb) | 3:59 |
 | 16 | [A boba fui eu \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Spotify Singles](https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk) | 3:12 |
 | 17 | [Dona Maria](https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Dona Maria](https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur) | 3:07 |
-| 18 | [Agora é Tudo Meu](https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Agora é Tudo Meu](https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g) | 2:51 |
+| 18 | [Devagarinho](https://open.spotify.com/track/70rCH90CeRGzCrVr4fSbqg) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Devagarinho](https://open.spotify.com/album/2zwaFYibcoqD1IQpZOJttd) | 2:24 |
 | 19 | [Terremoto](https://open.spotify.com/track/7G2XZhDNHo7SSDWSVxC0UT) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Terremoto](https://open.spotify.com/album/7q0BEiH1SJeiPDW8xQ0v8i) | 2:26 |
-| 20 | [Devagarinho](https://open.spotify.com/track/70rCH90CeRGzCrVr4fSbqg) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Devagarinho](https://open.spotify.com/album/2zwaFYibcoqD1IQpZOJttd) | 2:24 |
-| 21 | [Pouco a Pouco \(Ao Vivo\) \(feat\. Sorriso Maroto\)](https://open.spotify.com/track/2lm3Ric7MeBk8hLfsiVokr) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Terra do Nunca \(Ao Vivo\)](https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y) | 3:16 |
+| 20 | [Agora é Tudo Meu](https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Agora é Tudo Meu](https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g) | 2:51 |
+| 21 | [Disk Me](https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:53 |
 | 22 | [Agora Vai Sentar](https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT) | [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Agora Vai Sentar](https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh) | 3:48 |
-| 23 | [Disk Me](https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:53 |
+| 23 | [Pouco a Pouco \(Ao Vivo\) \(feat\. Sorriso Maroto\)](https://open.spotify.com/track/2lm3Ric7MeBk8hLfsiVokr) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Terra do Nunca \(Ao Vivo\)](https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y) | 3:16 |
 | 24 | [NO CHÃO NOVINHA](https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [NO CHÃO NOVINHA](https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh) | 2:16 |
 | 25 | [É Problema](https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [É Problema](https://open.spotify.com/album/67GYNRw2795hr6ZlyyU1Sa) | 3:04 |
 | 26 | [Resenha lá em casa](https://open.spotify.com/track/3NnW2EqJxvHYrRy3upaznl) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Resenha lá em casa](https://open.spotify.com/album/3woJd4AFogSyxqK3wkzPk2) | 3:56 |

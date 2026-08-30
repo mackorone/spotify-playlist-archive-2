@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQkHAMKYFuV.md) - [plain]
 
 > The Latin soundtrack of the 2010s! Cover: Daddy Yankee & Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,054 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,066 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQkHAMKYFuV.md) - [plain]
 | 26 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Primera Cita](https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld) | 3:42 |
 | 27 | [El Perdón \(with Enrique Iglesias\)](https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:25 |
 | 28 | [Si Estuviésemos Juntos](https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:49 |
-| 29 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 |
-| 30 | [Ay Vamos](https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia B Sides](https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp) | 3:46 |
+| 29 | [Ay Vamos](https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia B Sides](https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp) | 3:46 |
+| 30 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 |
 | 31 | [Déjala Que Vuelva](https://open.spotify.com/track/1j6xOGusnyXq3l6IryKF3G) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Ubuntu](https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ) | 3:40 |
 | 32 | [Loca \(feat\. El Cata\)](https://open.spotify.com/track/42k1KeBehAd83lrGt1okiC) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [El Cata](https://open.spotify.com/artist/52aHqEQZ802daFzuMHfcES) | [Sale el Sol](https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW) | 3:03 |
 | 33 | [11 PM](https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 2:55 |
-| 34 | [Me Niego \(feat\. Ozuna & Wisin\)](https://open.spotify.com/track/4ggiDYAkJ7Yk8d5xOr7Xjo) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Ahora](https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD) | 3:41 |
-| 35 | [Bonita](https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Bonita](https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb) | 4:25 |
+| 34 | [Bonita](https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Bonita](https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb) | 4:25 |
+| 35 | [Me Niego \(feat\. Ozuna & Wisin\)](https://open.spotify.com/track/4ggiDYAkJ7Yk8d5xOr7Xjo) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Ahora](https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD) | 3:41 |
 | 36 | [Vente Pa' Ca \(feat\. Maluma\)](https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vente Pa' Ca \(feat\. Maluma\)](https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l) | 4:19 |
 | 37 | [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 |
 | 38 | [Corazón \(feat\. Nego do Borel\)](https://open.spotify.com/track/5cepAtqnEQ6yVG6088zMMu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Nego do Borel](https://open.spotify.com/artist/1B0Rp4SWGnFgGCPU5Pju6E) | [F.A.M.E.](https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx) | 3:04 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQkHAMKYFuV.md) - [plain]
 | 47 | [Robarte un Beso](https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [VIVES](https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK) | 3:14 |
 | 48 | [Háblame De Ti](https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:10 |
 | 49 | [Ya Me Enteré](https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Des/Amor](https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj) | 3:24 |
-| 50 | [Amorfoda](https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Amorfoda](https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg) | 2:33 |
+| 50 | [Traicionera](https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 3:49 |
 
 Snapshot ID: `AAAAANPY4I8YBGYSfJfvQh9E4xh6+MIZ`

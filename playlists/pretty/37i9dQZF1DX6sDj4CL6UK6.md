@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > English songs from Indian artists.<br/>Cover: Tsumyoki
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,128 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,135 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 44 | [No One's Baby](https://open.spotify.com/track/7jBaw5iWZmvbga7nIbp7Y4) | [Kiara Chettri](https://open.spotify.com/artist/6bO1Y6AkZ6jtWqmktvmmJ5) | [No One's Baby](https://open.spotify.com/album/6nMYUfTcGxnYyfjUxj0RJI) | 3:26 |
 | 45 | [Flying](https://open.spotify.com/track/25PEjBqc1LAsalXVeTrjbl) | [Nidhi Wagle](https://open.spotify.com/artist/3QhhebcxZAmtffJDKFLJ4I) | [Flying](https://open.spotify.com/album/43RrK1GFoLwrOKQLBGuZj3) | 2:11 |
 | 46 | [omg \- Stripped Version](https://open.spotify.com/track/4HIr0vK4N4YQgLUZE3aQ80) | [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME), [Anika](https://open.spotify.com/artist/3eQjsu8rKDi7e62oFpnip7) | [omg \(Stripped Version\)](https://open.spotify.com/album/5AfeQ52MnzIkoMGXCrvKkN) | 3:26 |
-| 47 | [skin](https://open.spotify.com/track/4tdkPWkgTvW7XwJXWdA5Gt) | [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [skin](https://open.spotify.com/album/1kWYJoPUqJ2que3kKtb5aC) | 2:55 |
-| 48 | [Jaloux](https://open.spotify.com/track/2ZU8jZLLS5x7BsTBvc0Xf4) | [BombayMami](https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT) | [Jaloux](https://open.spotify.com/album/7sC1UNkygx7EVbmhrba7S8) | 2:48 |
+| 47 | [Jaloux](https://open.spotify.com/track/2ZU8jZLLS5x7BsTBvc0Xf4) | [BombayMami](https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT) | [Jaloux](https://open.spotify.com/album/7sC1UNkygx7EVbmhrba7S8) | 2:48 |
+| 48 | [skin](https://open.spotify.com/track/4tdkPWkgTvW7XwJXWdA5Gt) | [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [skin](https://open.spotify.com/album/1kWYJoPUqJ2que3kKtb5aC) | 2:55 |
 | 49 | [Glimpses](https://open.spotify.com/track/45mn7PSl1pgVo23ufjcGjT) | [Nida](https://open.spotify.com/artist/3uJI2m1BhqeAmoYBzRcuLs), [Derric D'souza](https://open.spotify.com/artist/5d5eoKkR83aVdBq4CCHG1b) | [Glimpses](https://open.spotify.com/album/1sPxlbBKXOEEpaf6tCYuY1) | 3:33 |
-| 50 | [E.L.T](https://open.spotify.com/track/2jFZ4MBoB3GkKYYIppdrTg) | [Saachi](https://open.spotify.com/artist/4Gbsv1WfhPA5JxVdu1b4R7) | [Wishbone](https://open.spotify.com/album/702dFENFJw2NnwDVc6poeC) | 3:38 |
-| 51 | [Don't Know Where Else](https://open.spotify.com/track/3cmw6gkiodCtSwnsWhFp39) | [Takar Nabam](https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H) | [Don't Know Where Else](https://open.spotify.com/album/7bB7ufqbgTFMxwhUC8Gase) | 3:40 |
+| 50 | [Don't Know Where Else](https://open.spotify.com/track/3cmw6gkiodCtSwnsWhFp39) | [Takar Nabam](https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H) | [Don't Know Where Else](https://open.spotify.com/album/7bB7ufqbgTFMxwhUC8Gase) | 3:40 |
+| 51 | [E.L.T](https://open.spotify.com/track/2jFZ4MBoB3GkKYYIppdrTg) | [Saachi](https://open.spotify.com/artist/4Gbsv1WfhPA5JxVdu1b4R7) | [Wishbone](https://open.spotify.com/album/702dFENFJw2NnwDVc6poeC) | 3:38 |
 | 52 | [Talk to me](https://open.spotify.com/track/11nNuyjaqweghwyUySOjzv) | [Shriya](https://open.spotify.com/artist/4dV7hCXD1OPICCUYaAVGNX), [Noah Cerejo](https://open.spotify.com/artist/7csXQDUQgZDhmuqtlLldGw), [Hersh Desai](https://open.spotify.com/artist/0GlehUUFIYJdSpHM3KOj7r) | [Talk to me](https://open.spotify.com/album/3GEioo5CH4UFRa3zFPrx4r) | 2:41 |
 | 53 | [lighthouse](https://open.spotify.com/track/0ugCLPltxIsEaaPOnqyXRO) | [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME), [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph) | [pocket friendly: volume i](https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh) | 2:33 |
 | 54 | [Come Sit By My Bed](https://open.spotify.com/track/15TTMLZbrk30lUdGpFFCjz) | [Tabitha Kagoo](https://open.spotify.com/artist/0frv5xYywAPIxOEixlCDdC), [Anika Bharwani](https://open.spotify.com/artist/50wQD996rRMv7WKstW7kb8), [Jenn Steeves](https://open.spotify.com/artist/6hM5NElb1Y12OIWCkQHp8j) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 3:04 |

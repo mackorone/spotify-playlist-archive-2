@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Where everything is lovely and snuggly <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,809 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,792 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 46 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
 | 47 | [Me & My Dog](https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:26 |
 | 48 | [La Lune](https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:07 |
-| 49 | [This Too Shall Last](https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:42 |
-| 50 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 |
-| 51 | [Slip](https://open.spotify.com/track/3bUUZznrg3tbLYSM0vMXRo) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 3:32 |
+| 49 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 |
+| 50 | [Slip](https://open.spotify.com/track/3bUUZznrg3tbLYSM0vMXRo) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 3:32 |
+| 51 | [This Too Shall Last](https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:42 |
 | 52 | [look up](https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:33 |
 | 53 | [cold/mess](https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 4:41 |
 | 54 | [Guilty](https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:34 |

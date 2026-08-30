@@ -181,7 +181,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 171 | [Crashlanded](https://open.spotify.com/track/4RbWBrPEvvC1KiAXVdfRG9) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 3:07 |
 | 172 | [Not Believe](https://open.spotify.com/track/70APqtXv1yAVqhsdbX6Vdc) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Not Believe](https://open.spotify.com/album/0LIqUSWvwfA4Vw2t7Qe6QO) | 3:25 |
 | 173 | [Strange Times](https://open.spotify.com/track/7kOD9GBPbRmKBC9ulD7dp3) | [Macy Martin](https://open.spotify.com/artist/3jtrkW7BFCTcFA6HXPv0O9) | [Strange Times](https://open.spotify.com/album/67w9yTbAFGNRHjmH4vju7v) | 3:16 |
-| 174 | [Trust You \(with Emily Weisband\)](https://open.spotify.com/track/5nApMDFzAX1yg8rKCmTjfq) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C), [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Trust You \(with Emily Weisband\)](https://open.spotify.com/album/2QLlIALXN4iTQP9ecqRhcy) | 2:42 |
+| 174 | [Trust You \- with Emily Weisband](https://open.spotify.com/track/5nApMDFzAX1yg8rKCmTjfq) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C), [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Trust You \(with Emily Weisband\)](https://open.spotify.com/album/2QLlIALXN4iTQP9ecqRhcy) | 2:42 |
 | 175 | [Get Your Hopes Up](https://open.spotify.com/track/0v6hfuz02fAwjXs8afteqQ) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [There Goes The Neighborhood](https://open.spotify.com/album/6ORGhksRXVC73wovtSdx4O) | 3:20 |
 | 176 | [Scars to Prove It](https://open.spotify.com/track/5afIFNtGZ9fRl1ZnWblazo) | [Thomason](https://open.spotify.com/artist/73fNf3ENJ2EA0UbJhmSaDV) | [Livin' Left to Do](https://open.spotify.com/album/6yMiR9tsCtAhOlnZ3ELpNU) | 3:00 |
 | 177 | [Things I'm Over](https://open.spotify.com/track/08LSXLfxbNXFy93dv0JWPW) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 3:43 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 216 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
 | 217 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `Aca1FAAAAACxXlz4nS2NhwlmjGttz4Lr`
+Snapshot ID: `Aca6PAAAAADgIOsgRdR14Ic3qs2jOwgt`

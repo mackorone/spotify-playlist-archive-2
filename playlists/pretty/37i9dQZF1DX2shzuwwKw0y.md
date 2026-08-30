@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Cover: Jesus Paez, Jesús Chaidez, Los De La Nueva Era, Los Chavalos de la Perla
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,429,622 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,429,465 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

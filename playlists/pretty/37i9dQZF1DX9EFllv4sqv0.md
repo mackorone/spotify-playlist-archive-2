@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EFllv4sqv0.md) - [plain]
 
 > Level up your gaming with these afro tracks\. Cover: Davido
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,352 likes - 77 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,369 likes - 77 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EFllv4sqv0.md) - [plain]
 | 28 | [Dimension \(feat\. Skepta & Rema\)](https://open.spotify.com/track/2Jy4EdqIZswDZvVDh5dx3A) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Dimension \(feat\. Skepta & Rema\)](https://open.spotify.com/album/0Zp33hB1LZhbpMQCNfzeVF) | 3:54 |
 | 29 | [Billionaires Club](https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 3:46 |
 | 30 | [hell and back](https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 2:41 |
-| 31 | [Higher](https://open.spotify.com/track/1N8G6PUj14v0VG8evbRSxp) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/30v3HmAMMHUgEC8ux25PLr) | 2:17 |
-| 32 | [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 |
+| 31 | [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 |
+| 32 | [Higher](https://open.spotify.com/track/1N8G6PUj14v0VG8evbRSxp) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/30v3HmAMMHUgEC8ux25PLr) | 2:17 |
 | 33 | [Dealer](https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dealer](https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or) | 3:00 |
 | 34 | [Gold](https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Gold](https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM) | 3:08 |
 | 35 | [Na Scra](https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Na Scra](https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B) | 2:30 |
-| 36 | [WAR MACHINE](https://open.spotify.com/track/4tw5Za3CCg7QpFj3sGDGww) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:37 |
-| 37 | [alone \- Remix](https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [alone \(Remix\)](https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR) | 2:34 |
+| 36 | [alone \- Remix](https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [alone \(Remix\)](https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR) | 2:34 |
+| 37 | [WAR MACHINE](https://open.spotify.com/track/4tw5Za3CCg7QpFj3sGDGww) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:37 |
 | 38 | [Bank Of America](https://open.spotify.com/track/4Hr6oDlsOeZCyhQiOkDFGC) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:40 |
 | 39 | [Escaladizzy II](https://open.spotify.com/track/2h1aaSSMUspQfHKDl5uISY) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Escaladizzy II](https://open.spotify.com/album/0DSBgUcKAyKmto3gkKDqUu) | 3:33 |
 | 40 | [Mortal Kombat](https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Mortal Kombat](https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr) | 2:01 |

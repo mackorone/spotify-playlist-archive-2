@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Complex rhythms and mesmerizing loops\. Cover: Elephant Gym
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,830 likes - 130 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,877 likes - 130 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 72 | [Valerio Benustelli](https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil) | [Jean Loup](https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U) | [Valerio Benustelli](https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc) | 3:26 |
 | 73 | [Cloudy](https://open.spotify.com/track/31R2zckDu43rRW9inEVtoS) | [Trees Before Fall](https://open.spotify.com/artist/0feW6OzAxJuE9si7Q5B8T8) | [Trees Before Fall](https://open.spotify.com/album/2T1bfNOah0IU8Q5XNYWN4i) | 4:59 |
 | 74 | [Jazztas](https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [Canis Allegro](https://open.spotify.com/album/71YTAB1yF7RROLkgKOLFy6) | 5:02 |
-| 75 | [Sunchaser](https://open.spotify.com/track/6cC7uJWWQq0t4Jl6Pr97fH) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [Sunchaser](https://open.spotify.com/album/2wBSQhIxvczNN4aS2kHJwd) | 4:15 |
-| 76 | [ARUKAS](https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [ARUKAS](https://open.spotify.com/album/0uLI0jDIzYmq6j8nFp833P) | 5:41 |
+| 75 | [ARUKAS](https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [ARUKAS](https://open.spotify.com/album/0uLI0jDIzYmq6j8nFp833P) | 5:41 |
+| 76 | [Sunchaser](https://open.spotify.com/track/6cC7uJWWQq0t4Jl6Pr97fH) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [Sunchaser](https://open.spotify.com/album/2wBSQhIxvczNN4aS2kHJwd) | 4:15 |
 | 77 | [GRVD](https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ) | [LEÑA](https://open.spotify.com/artist/3A3FoilKOXzYIkHm948iBS) | [Ni Hablar](https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s) | 3:41 |
 | 78 | [Beow](https://open.spotify.com/track/69pFXap7G2AGMUXV0Njtab) | [Suffer Like G Did](https://open.spotify.com/artist/7mFJ8ikeW57cChHbHpYiUf) | [Beow](https://open.spotify.com/album/2Kxe4roMOtztT6Qn6fvNgl) | 3:28 |
 | 79 | [El Capitán](https://open.spotify.com/track/2qocldaWoDwzSPR4D1Dqpv) | [Yo Triceratop](https://open.spotify.com/artist/7APdZybMciE2luVovmsSmZ) | [Limerencia: Split](https://open.spotify.com/album/17k2pajUNOQUUoWSjFd4st) | 4:22 |
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 96 | [Caballos \(Horses\)](https://open.spotify.com/track/7dzTIo5FpMtZ7vjBOSAi0l) | [The Polar Dream](https://open.spotify.com/artist/1fH2nvEznZkYOyj0BjOhNp) | [Kiev](https://open.spotify.com/album/0ZXDdJxHjyC4XmF0inrFkt) | 5:03 |
 | 97 | [Queso](https://open.spotify.com/track/7v0tdOisj4IEYUjM8KBCBz) | [Hungría](https://open.spotify.com/artist/0OrifgXKiu7rDYQbFW0Dpx) | [Magyarország vagy halál](https://open.spotify.com/album/5HdscyNkq8Wqeb4ksu775M) | 5:37 |
 | 98 | [Andes](https://open.spotify.com/track/0RqMmK2Cf5TuSekASvzxwL) | [Montaña](https://open.spotify.com/artist/5oZKQvQiZPui8fMeeo5a2S) | [Coordenadas](https://open.spotify.com/album/6SxAPJhbN9xsgcPtEPg9C0) | 3:29 |
-| 99 | [Hornet Vision](https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD) | [nevraska](https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET) | [I left work on my way home december 1st 1955](https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV) | 3:48 |
-| 100 | [Aquabus](https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od) | [Shaolin](https://open.spotify.com/artist/4OwxoHYcS57KWPFNNB6K1E) | [Psych!](https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD) | 4:36 |
+| 99 | [Aquabus](https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od) | [Shaolin](https://open.spotify.com/artist/4OwxoHYcS57KWPFNNB6K1E) | [Psych!](https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD) | 4:36 |
+| 100 | [Hornet Vision](https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD) | [nevraska](https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET) | [I left work on my way home december 1st 1955](https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV) | 3:48 |
 | 101 | [Gagarin](https://open.spotify.com/track/5yY29OtZoi8LoGS2HAv5dO) | [Katana Koala Kiwi](https://open.spotify.com/artist/75lvQnFxY6S4TLI9ljEbm2) | [Gagarin](https://open.spotify.com/album/2xzQosacFq29224Y7Ruz7t) | 3:08 |
 | 102 | [100% Tree](https://open.spotify.com/track/194os0dWNuK2aZIgkJYMKE) | [Dianogah](https://open.spotify.com/artist/1VgnczxN9UlQeFTrh1S8MB) | [Old Material, Larger](https://open.spotify.com/album/43WwZF6LGnqP9Pzl2Z7e8p) | 4:18 |
 | 103 | [14.12](https://open.spotify.com/track/344wbdXGPVYz3ADRrFUdW0) | [Pirámides](https://open.spotify.com/artist/5rADjgosAgoE3fWHogrbvu) | [Caíste al Suelo](https://open.spotify.com/album/5Eb2EeJRJXydzt7afPGowl) | 3:23 |

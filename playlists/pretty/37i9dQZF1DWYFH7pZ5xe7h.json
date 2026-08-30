@@ -1,6 +1,6 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 61054,
+  "num_followers": 61069,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
@@ -739,30 +739,6 @@
     {
       "added_at": "2025-12-22 11:25:43",
       "album": {
-        "name": "Mahler: Symphony No. 1",
-        "url": "https://open.spotify.com/album/1h3x1CJQPdNJRgBK2MTRnM"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 1155933,
-      "name": "Symphony No. 1 in D Major \"Titan\": IV. St\u00fcrmisch Bewegt",
-      "url": "https://open.spotify.com/track/5JBo2pA0UXFoYzQQnQZfZ2"
-    },
-    {
-      "added_at": "2025-12-22 11:25:43",
-      "album": {
         "name": "Brahms, Schumann & Mahler: Lieder",
         "url": "https://open.spotify.com/album/2xnacrNX13CxDlq4ZW0S4Q"
       },
@@ -791,6 +767,30 @@
     {
       "added_at": "2025-12-22 11:25:43",
       "album": {
+        "name": "Mahler: Symphony No. 1",
+        "url": "https://open.spotify.com/album/1h3x1CJQPdNJRgBK2MTRnM"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 1155933,
+      "name": "Symphony No. 1 in D Major \"Titan\": IV. St\u00fcrmisch Bewegt",
+      "url": "https://open.spotify.com/track/5JBo2pA0UXFoYzQQnQZfZ2"
+    },
+    {
+      "added_at": "2025-12-22 11:25:43",
+      "album": {
         "name": "Mahler 9",
         "url": "https://open.spotify.com/album/6auyTe4bhTknFxrvBDDzys"
       },
@@ -811,34 +811,6 @@
       "duration_ms": 1773213,
       "name": "Symphony No. 9 in D Major: I. Andante comodo - Live From Walt Disney Concert Hall, Los Angeles / 2012",
       "url": "https://open.spotify.com/track/3hcCcJC6p3mwQXecsKZrhf"
-    },
-    {
-      "added_at": "2025-12-22 11:25:43",
-      "album": {
-        "name": "Mahler: Symphony No. 2 in C Minor \"Resurrection\"",
-        "url": "https://open.spotify.com/album/7bonMeFynV4RClKhvje0zX"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Lorin Maazel",
-          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
-        },
-        {
-          "name": "Jessye Norman",
-          "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        }
-      ],
-      "duration_ms": 305760,
-      "name": "Symphony No. 2 in C Minor \"Resurrection\": IV. Urlicht. Sehr feierlich, aber schlicht",
-      "url": "https://open.spotify.com/track/4j82Pmshbiv9dNumhlw7CL"
     },
     {
       "added_at": "2025-12-22 11:25:43",
@@ -911,6 +883,34 @@
       "duration_ms": 309209,
       "name": "Symphony No. 8 in E flat - \"Symphony of a Thousand\" - Part One: Hymnus \"Veni creator spiritus\": \"Accende lumen sensibus\"",
       "url": "https://open.spotify.com/track/2hurAdmJRAKfQBZCfVhNAM"
+    },
+    {
+      "added_at": "2025-12-22 11:25:43",
+      "album": {
+        "name": "Mahler: Symphony No. 2 in C Minor \"Resurrection\"",
+        "url": "https://open.spotify.com/album/7bonMeFynV4RClKhvje0zX"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        },
+        {
+          "name": "Jessye Norman",
+          "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        }
+      ],
+      "duration_ms": 305760,
+      "name": "Symphony No. 2 in C Minor \"Resurrection\": IV. Urlicht. Sehr feierlich, aber schlicht",
+      "url": "https://open.spotify.com/track/4j82Pmshbiv9dNumhlw7CL"
     },
     {
       "added_at": "2025-12-22 11:25:43",

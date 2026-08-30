@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 484229,
+  "num_followers": 484216,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -91,18 +91,18 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
+        "name": "The Drums",
+        "url": "https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4"
       },
       "artists": [
         {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
         }
       ],
-      "duration_ms": 191527,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz"
+      "duration_ms": 174306,
+      "name": "Lets Go Surfing",
+      "url": "https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -123,18 +123,18 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "The Drums",
-        "url": "https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4"
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
       },
       "artists": [
         {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
         }
       ],
-      "duration_ms": 174306,
-      "name": "Lets Go Surfing",
-      "url": "https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT"
+      "duration_ms": 191527,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Parking Lot",
-        "url": "https://open.spotify.com/album/4h3yu2Ng1BoBrtjBz5g7zx"
-      },
-      "artists": [
-        {
-          "name": "Krooked Kings",
-          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
-        }
-      ],
-      "duration_ms": 253213,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/46ypwm5vShRtDEwARQHoNM"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "Bouquet",
         "url": "https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 171884,
       "name": "Riding the Wind",
       "url": "https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "Parking Lot",
+        "url": "https://open.spotify.com/album/4h3yu2Ng1BoBrtjBz5g7zx"
+      },
+      "artists": [
+        {
+          "name": "Krooked Kings",
+          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+        }
+      ],
+      "duration_ms": 253213,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/46ypwm5vShRtDEwARQHoNM"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Bangkok",
-        "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
-      },
-      "artists": [
-        {
-          "name": "Alaaska",
-          "url": "https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Bangkok",
-      "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "MOVING ON",
         "url": "https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 248000,
       "name": "MOVING ON",
       "url": "https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "Bangkok",
+        "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
+      },
+      "artists": [
+        {
+          "name": "Alaaska",
+          "url": "https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Bangkok",
+      "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/5DCOPvYMwUPv0UCoFVD1hl"
-      },
-      "artists": [
-        {
-          "name": "Bones and Jones",
-          "url": "https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4"
-        }
-      ],
-      "duration_ms": 275962,
-      "name": "Peace In Me",
-      "url": "https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "Cigarettes In Space",
         "url": "https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 210640,
       "name": "Bali Nights",
       "url": "https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/5DCOPvYMwUPv0UCoFVD1hl"
+      },
+      "artists": [
+        {
+          "name": "Bones and Jones",
+          "url": "https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4"
+        }
+      ],
+      "duration_ms": 275962,
+      "name": "Peace In Me",
+      "url": "https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

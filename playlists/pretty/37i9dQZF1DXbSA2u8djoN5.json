@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop & R'n'B. Cover: Cabron",
-  "num_followers": 23523,
+  "num_followers": 23526,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
-        "name": "Kilian",
-        "url": "https://open.spotify.com/album/07gEvU7e28yrBwcwiEKKd3"
-      },
-      "artists": [
-        {
-          "name": "Petre Stefan",
-          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
-        }
-      ],
-      "duration_ms": 125317,
-      "name": "Kilian",
-      "url": "https://open.spotify.com/track/5wcXxnYF8vCz20zq4lvfDu"
-    },
-    {
-      "added_at": "2026-08-13 21:00:11",
-      "album": {
         "name": "Poti Sa-mi Iei Tot (Doamna si Vagabondu)",
         "url": "https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 193481,
       "name": "Poti Sa-mi Iei Tot - Doamna si Vagabondu",
       "url": "https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy"
+    },
+    {
+      "added_at": "2026-08-13 21:00:11",
+      "album": {
+        "name": "Kilian",
+        "url": "https://open.spotify.com/album/07gEvU7e28yrBwcwiEKKd3"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        }
+      ],
+      "duration_ms": 125317,
+      "name": "Kilian",
+      "url": "https://open.spotify.com/track/5wcXxnYF8vCz20zq4lvfDu"
     },
     {
       "added_at": "2026-08-13 21:00:11",
@@ -651,26 +651,6 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
-        "name": "FURAM CURENT",
-        "url": "https://open.spotify.com/album/4VhpQgUcwET6KxHrSjduQw"
-      },
-      "artists": [
-        {
-          "name": "Satra B.E.N.Z.",
-          "url": "https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut"
-        },
-        {
-          "name": "Radu Guran",
-          "url": "https://open.spotify.com/artist/11st4RhifXO2eIsaIqAMG9"
-        }
-      ],
-      "duration_ms": 211764,
-      "name": "FURAM CURENT",
-      "url": "https://open.spotify.com/track/7mIFHkXxX37Y0mtWUfHl7N"
-    },
-    {
-      "added_at": "2026-08-13 21:00:11",
-      "album": {
         "name": "Toata lumea moare",
         "url": "https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2"
       },
@@ -707,22 +687,22 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
-        "name": "Ani \u0218i Ani La R\u00e2nd",
-        "url": "https://open.spotify.com/album/7lCD0Y24nvG623iKmVIPUV"
+        "name": "FURAM CURENT",
+        "url": "https://open.spotify.com/album/4VhpQgUcwET6KxHrSjduQw"
       },
       "artists": [
         {
-          "name": "Cabron",
-          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
+          "name": "Satra B.E.N.Z.",
+          "url": "https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut"
         },
         {
-          "name": "Ciresan",
-          "url": "https://open.spotify.com/artist/0Mj28B7EnKRpq7SzirqvNy"
+          "name": "Radu Guran",
+          "url": "https://open.spotify.com/artist/11st4RhifXO2eIsaIqAMG9"
         }
       ],
-      "duration_ms": 200610,
-      "name": "Ani \u0218i Ani La R\u00e2nd",
-      "url": "https://open.spotify.com/track/1QFiWgUF28Gd05gshJgmae"
+      "duration_ms": 211764,
+      "name": "FURAM CURENT",
+      "url": "https://open.spotify.com/track/7mIFHkXxX37Y0mtWUfHl7N"
     },
     {
       "added_at": "2026-08-13 21:00:11",
@@ -743,6 +723,26 @@
       "duration_ms": 150000,
       "name": "C\u00e2te pietre ai aruncat",
       "url": "https://open.spotify.com/track/1K2wJdw9otKH4wwoFCO6DD"
+    },
+    {
+      "added_at": "2026-08-13 21:00:11",
+      "album": {
+        "name": "Ani \u0218i Ani La R\u00e2nd",
+        "url": "https://open.spotify.com/album/7lCD0Y24nvG623iKmVIPUV"
+      },
+      "artists": [
+        {
+          "name": "Cabron",
+          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
+        },
+        {
+          "name": "Ciresan",
+          "url": "https://open.spotify.com/artist/0Mj28B7EnKRpq7SzirqvNy"
+        }
+      ],
+      "duration_ms": 200610,
+      "name": "Ani \u0218i Ani La R\u00e2nd",
+      "url": "https://open.spotify.com/track/1QFiWgUF28Gd05gshJgmae"
     },
     {
       "added_at": "2026-08-13 21:00:11",
@@ -771,26 +771,6 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
-        "name": "CALIFORNIA",
-        "url": "https://open.spotify.com/album/2W5Qr2MjxPTcU1I5iqmEmy"
-      },
-      "artists": [
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        },
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        }
-      ],
-      "duration_ms": 139354,
-      "name": "CALIFORNIA",
-      "url": "https://open.spotify.com/track/7egyXWckBQjaK7UHG92btI"
-    },
-    {
-      "added_at": "2026-08-13 21:00:11",
-      "album": {
         "name": "Blur",
         "url": "https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV"
       },
@@ -811,6 +791,26 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
+        "name": "CALIFORNIA",
+        "url": "https://open.spotify.com/album/2W5Qr2MjxPTcU1I5iqmEmy"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "CALIFORNIA",
+      "url": "https://open.spotify.com/track/7egyXWckBQjaK7UHG92btI"
+    },
+    {
+      "added_at": "2026-08-13 21:00:11",
+      "album": {
         "name": "Vise La Plic",
         "url": "https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m"
       },
@@ -823,22 +823,6 @@
       "duration_ms": 166153,
       "name": "Vise La Plic",
       "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"
-    },
-    {
-      "added_at": "2026-08-13 21:00:11",
-      "album": {
-        "name": "Ofiter la pamant",
-        "url": "https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Ofiter la pamant",
-      "url": "https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE"
     },
     {
       "added_at": "2026-08-13 21:00:11",
@@ -859,6 +843,22 @@
       "duration_ms": 169711,
       "name": "Asta-i \u021aara Mea",
       "url": "https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC"
+    },
+    {
+      "added_at": "2026-08-13 21:00:11",
+      "album": {
+        "name": "Ofiter la pamant",
+        "url": "https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Ofiter la pamant",
+      "url": "https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE"
     },
     {
       "added_at": "2026-08-13 21:00:11",

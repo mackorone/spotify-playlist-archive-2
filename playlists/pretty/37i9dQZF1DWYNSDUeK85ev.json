@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 696614,
+  "num_followers": 696634,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "Ahi Ahi",
-        "url": "https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3"
-      },
-      "artists": [
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        }
-      ],
-      "duration_ms": 176796,
-      "name": "Ahi Ahi",
-      "url": "https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "DISCOTEKA (feat. Locura Mix)",
         "url": "https://open.spotify.com/album/64rUVVmLA2xspGjE2nt6dx"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 204480,
       "name": "DISCOTEKA (feat. Locura Mix)",
       "url": "https://open.spotify.com/track/5w7RsSgxxBwdVTSyQDj8Bi"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "Ahi Ahi",
+        "url": "https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        }
+      ],
+      "duration_ms": 176796,
+      "name": "Ahi Ahi",
+      "url": "https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH"
     },
     {
       "added_at": "2026-06-19 03:00:21",

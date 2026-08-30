@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 
 > All the hits you'll need to make your summer sizzle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,090,531 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,091,546 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 | 38 | [Freakin’ Out](https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Freakin’ Out](https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf) | 3:37 |
 | 39 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
 | 40 | [Less than a Lover](https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Less than a Lover](https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn) | 2:25 |
-| 41 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 |
-| 42 | [RIKI](https://open.spotify.com/track/37wfBdDJidbipEG2fEwkWX) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [RIKI](https://open.spotify.com/album/4bWpmQ8V75q46zbIfjVkdT) | 3:03 |
+| 41 | [RIKI](https://open.spotify.com/track/37wfBdDJidbipEG2fEwkWX) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [RIKI](https://open.spotify.com/album/4bWpmQ8V75q46zbIfjVkdT) | 3:03 |
+| 42 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 |
 | 43 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 |
 | 44 | [Sue me](https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 2:50 |
 | 45 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 |
@@ -61,16 +61,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 | 51 | [Ahí](https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 2:56 |
 | 52 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 53 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
-| 54 | [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 |
-| 55 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 |
+| 54 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 |
+| 55 | [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 |
 | 56 | [Body](https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:35 |
 | 57 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
 | 58 | [Austin \(Boots Stop Workin'\)](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 |
 | 59 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
 | 60 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 |
 | 61 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Sybil](https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 |
-| 62 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 |
-| 63 | [Ghetto Love Story](https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Rise Against My Broken Odds](https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB) | 2:58 |
+| 62 | [Ghetto Love Story](https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Rise Against My Broken Odds](https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB) | 2:58 |
+| 63 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 |
 | 64 | [Doors](https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:51 |
 | 65 | [Spend Dat](https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Spend Dat](https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC) | 3:01 |
 | 66 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 |

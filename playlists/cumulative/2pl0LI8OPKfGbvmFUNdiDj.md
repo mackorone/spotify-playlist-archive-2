@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-569 songs - 1 day 8 hr 20 min
+571 songs - 1 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Never Gonna Make You Mine](https://open.spotify.com/track/1SUOjtXdd7WtFlzuQlYo60) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Never Gonna Make You Mine](https://open.spotify.com/album/3hitAWfJNEBSrzYWm2CGrz) | 3:02 | 2026-01-06 | 2026-02-21 |
 | [Nie mehr halbe Wege](https://open.spotify.com/track/5d67NYBPqOhyeSVlVMWy8K) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Nie mehr halbe Wege](https://open.spotify.com/album/7GyjaLz41aITtFW85NAE7T) | 3:25 | 2026-06-17 | 2026-08-08 |
 | [Night After Night](https://open.spotify.com/track/1XDirGFSQxJOw7Lt37Plfm) | [Theo Ford](https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S) | [Timelapse](https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE) | 5:04 | 2025-12-28 | 2026-01-25 |
+| [NO MORE](https://open.spotify.com/track/3qHpMci96Sgq3mam3pdDBz) | [Amanda Holley](https://open.spotify.com/artist/2ASA4rXgSzpdkJ7khMDj5j) | [NO MORE](https://open.spotify.com/album/3qrUMGe7eqlbinJrDOJKJw) | 2:55 | 2026-08-29 |  |
 | [No More Heroes](https://open.spotify.com/track/5O9TUKCbroCDPvgIWqLLsr) | [Chris Corey](https://open.spotify.com/artist/4tGupj3nwiwHdv8hyHhJLZ) | [Midnight Forever](https://open.spotify.com/album/48WzX6lRKNkIVlScImDdGZ) | 3:07 | 2026-02-08 | 2026-07-02 |
 | [No puedo pensar](https://open.spotify.com/track/2QWqsVpYnzMgUeIl2JCvNC) | [Carles Giuliani](https://open.spotify.com/artist/0mIqIlApPH7AVy5DO1Q3A0), [Caro Norte](https://open.spotify.com/artist/4wYRZ47TgRCFTlGuP27e2t) | [No puedo pensar](https://open.spotify.com/album/05DkJnHEO5uj6HRavpncNw) | 2:35 | 2025-11-17 | 2026-01-05 |
 | [Nocturne](https://open.spotify.com/track/0nBPCrqxDHWR8leTgH7aFk) | [ASHE](https://open.spotify.com/artist/5xTp3xrqM94mOTJdfOAUP8) | [Nocturne / Wintermute](https://open.spotify.com/album/1fBhQYKqo508kLWAxpFoGm) | 3:28 | 2025-11-08 | 2025-12-01 |
@@ -429,6 +430,7 @@
 | [She Wants To Walk Away \(Distribution\)](https://open.spotify.com/track/4bzxN8X4P0vLf60nNOxeRn) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [She Wants To Walk Away](https://open.spotify.com/album/2j7luFA0VH7aMbwF70JHCk) | 3:14 | 2026-04-30 | 2026-06-14 |
 | [She's Hiding Her Smile](https://open.spotify.com/track/6Ya1hSqW2kWthZeDAeivZh) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [She's Hiding Her Smile](https://open.spotify.com/album/06dbcxLucTaAoCL0pbdkr0) | 3:44 | 2026-06-29 | 2026-08-08 |
 | [Shine Again](https://open.spotify.com/track/3gvW1GzMz9ZziCm7oMzxFK) | [Radio Rosine](https://open.spotify.com/artist/6PcdAKYKrMZubT4YUfebka) | [Shine Again](https://open.spotify.com/album/1EIhHwdJLtXEvXDWtSpjPc) | 3:39 | 2025-12-20 | 2026-01-15 |
+| [Shut Myself Off](https://open.spotify.com/track/51OiflmOLo6eLNwIbNHt9c) | [Lainey Dionne](https://open.spotify.com/artist/4EaKMngmssLu9FK6TpUfyJ) | [Shut Myself Off](https://open.spotify.com/album/741hJtGdMDGETYWD700vww) | 3:40 | 2026-08-29 |  |
 | [Sin aire](https://open.spotify.com/track/5cOfPn6Krz3MKoBiOKDtJV) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Sin aire](https://open.spotify.com/album/51FfR6nXySt8MN06vr84bh) | 2:37 | 2025-11-05 | 2025-12-01 |
 | [Sins](https://open.spotify.com/track/0e7qshg39yZQKsA7pCfuHx) | [Concourse](https://open.spotify.com/artist/3huqIWF9fBYluGW3Cw1DRe) | [Sins](https://open.spotify.com/album/7upoZURMk4ZcAlulV9Rluu) | 3:28 | 2026-05-13 | 2026-06-14 |
 | [Skydance](https://open.spotify.com/track/15zR06FbjuduwqCaFYs4gw) | [DeLee](https://open.spotify.com/artist/03QtwFNNguDpdprkrCZuz0) | [Skydance](https://open.spotify.com/album/0QuAlKoAMPIogPdcITmRXB) | 2:52 | 2025-11-02 | 2025-12-01 |

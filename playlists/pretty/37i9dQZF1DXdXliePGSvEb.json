@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 78543,
+  "num_followers": 78545,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,26 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "yo,",
+        "url": "https://open.spotify.com/album/2rRdfUZtXxNdY2Qlc2pBgB"
+      },
+      "artists": [
+        {
+          "name": "Peterparker69",
+          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
+        },
+        {
+          "name": "Tennyson",
+          "url": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
+        }
+      ],
+      "duration_ms": 143313,
+      "name": "skyskysky",
+      "url": "https://open.spotify.com/track/06Nlp5oqdxzvTiZL99lxP8"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "Your Mind",
         "url": "https://open.spotify.com/album/2n8p61Ro0BVU2wCOTAhg6D"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 182189,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/2crEwjCQ4DMwvKEjIDslkj"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "yo,",
-        "url": "https://open.spotify.com/album/2rRdfUZtXxNdY2Qlc2pBgB"
-      },
-      "artists": [
-        {
-          "name": "Peterparker69",
-          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
-        },
-        {
-          "name": "Tennyson",
-          "url": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
-        }
-      ],
-      "duration_ms": 143313,
-      "name": "skyskysky",
-      "url": "https://open.spotify.com/track/06Nlp5oqdxzvTiZL99lxP8"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -899,26 +899,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Man\u00eda",
-        "url": "https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy"
-      },
-      "artists": [
-        {
-          "name": "Pangaea",
-          "url": "https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE"
-        },
-        {
-          "name": "Jazz Alonso",
-          "url": "https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY"
-        }
-      ],
-      "duration_ms": 171112,
-      "name": "Man\u00eda",
-      "url": "https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Groove On",
         "url": "https://open.spotify.com/album/3gcuJIU2Tw2SrMkjCgzqWZ"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 209920,
       "name": "Groove On",
       "url": "https://open.spotify.com/track/0iCRScqAaVd4VZlXpJLtHH"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Man\u00eda",
+        "url": "https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy"
+      },
+      "artists": [
+        {
+          "name": "Pangaea",
+          "url": "https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE"
+        },
+        {
+          "name": "Jazz Alonso",
+          "url": "https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY"
+        }
+      ],
+      "duration_ms": 171112,
+      "name": "Man\u00eda",
+      "url": "https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -1055,26 +1055,18 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5"
+        "name": "FTRW!",
+        "url": "https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR"
       },
       "artists": [
         {
-          "name": "Across Boundaries",
-          "url": "https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT"
-        },
-        {
-          "name": "CHRIS STASSY",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        },
-        {
-          "name": "Locklead",
-          "url": "https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw"
+          "name": "Surusinghe",
+          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
         }
       ],
-      "duration_ms": 384007,
-      "name": "Sakura",
-      "url": "https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt"
+      "duration_ms": 251322,
+      "name": "FTRW!",
+      "url": "https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -1103,18 +1095,26 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "FTRW!",
-        "url": "https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR"
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5"
       },
       "artists": [
         {
-          "name": "Surusinghe",
-          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
+          "name": "Across Boundaries",
+          "url": "https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT"
+        },
+        {
+          "name": "CHRIS STASSY",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "Locklead",
+          "url": "https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw"
         }
       ],
-      "duration_ms": 251322,
-      "name": "FTRW!",
-      "url": "https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa"
+      "duration_ms": 384007,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "Odyssey EP",
+        "url": "https://open.spotify.com/album/2SBRzynmqYkPw0Yf6Jn0pK"
+      },
+      "artists": [
+        {
+          "name": "Ede",
+          "url": "https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK"
+        }
+      ],
+      "duration_ms": 345286,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/3uQRqiNdBjjTIvb1bq5FH4"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "ONDATONDA",
         "url": "https://open.spotify.com/album/6ugAB2uGoZ5YrqKoS5ycbG"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 211125,
       "name": "Ondatonda",
       "url": "https://open.spotify.com/track/54msm7wWFdqpbwMln20Mwn"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "Odyssey EP",
-        "url": "https://open.spotify.com/album/2SBRzynmqYkPw0Yf6Jn0pK"
-      },
-      "artists": [
-        {
-          "name": "Ede",
-          "url": "https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK"
-        }
-      ],
-      "duration_ms": 345286,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/3uQRqiNdBjjTIvb1bq5FH4"
     },
     {
       "added_at": "2025-12-03 12:15:55",

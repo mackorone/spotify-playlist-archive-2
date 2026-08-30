@@ -1417,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221082,
+      "name": "Mar Azul",
+      "url": "https://open.spotify.com/track/16x23W9udcF7iPcNfU4k28"
+    },
+    {
+      "album": {
         "name": "Nata Montana",
         "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
       },
@@ -1726,7 +1744,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 170925,
       "name": "Pacas Verdes",
       "url": "https://open.spotify.com/track/2yFQXRSMJgaixzpP6gn8jr"
@@ -1770,7 +1788,7 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 184400,
       "name": "Pancake",
       "url": "https://open.spotify.com/track/7ctRhcAiTBQLsH64s93sN4"
@@ -2456,6 +2474,24 @@
       "duration_ms": 183253,
       "name": "YCQVM",
       "url": "https://open.spotify.com/track/71bGl0FoaBGHNT0CGhVOs1"
+    },
+    {
+      "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198723,
+      "name": "\u00c6ternum",
+      "url": "https://open.spotify.com/track/7GyB9SbHoiWnU1RgdvL6Kr"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO04adET"

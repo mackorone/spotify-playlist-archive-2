@@ -4,7 +4,7 @@
 
 > Epic tunes for the open road.
 
-555 songs - 1 day 10 hr 52 min
+557 songs - 1 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Come With Me Now](https://open.spotify.com/track/6FCmFo5oqhPerHy187op7H) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:39 | 2024-04-19 | 2026-01-05 |
 | [Comin' Home](https://open.spotify.com/track/0SwUDplbBp66rM5sMC0eD7) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Sometimes](https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn) | 5:05 | 2022-05-02 | 2023-05-19 |
 | [Coming Up](https://open.spotify.com/track/0Uw43tfMv0fGcaoEcFgHVy) | [Close Kicks](https://open.spotify.com/artist/3pQw5S2Z06nDHl0s2p7Ooq) | [Coming Up](https://open.spotify.com/album/5HykMtjcH0Za1LcWIdZJsC) | 4:21 | 2026-07-30 |  |
-| [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 | 2024-04-12 |  |
+| [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 | 2024-04-12 | 2026-08-30 |
 | [Constant Craving](https://open.spotify.com/track/0wCrg1LhgPcGMw51qqpI6k) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Recollection](https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE) | 4:37 | 2022-05-02 | 2024-04-19 |
 | [Could I Be Your Girl](https://open.spotify.com/track/7IfWFD4RPeqM5xeGcwzgoR) | [Jann Arden](https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F) | [Living Under June](https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O) | 4:48 | 2022-05-02 | 2022-07-15 |
 | [Could You Be Loved](https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:57 | 2022-09-10 | 2022-09-15 |
@@ -278,6 +278,7 @@
 | [Look at My Life](https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Look at My Life](https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr) | 3:10 | 2026-06-26 |  |
 | [Lost In The Light](https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd) | 3:56 | 2022-09-10 | 2022-09-15 |
 | [Lost Together \- 2012 Remaster](https://open.spotify.com/track/28Ymr4KGQ7yLCKc5llI5Vt) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Lost Together](https://open.spotify.com/album/5ZXD92enrEtg5VbBQh5r71) | 5:27 | 2022-09-10 | 2022-09-15 |
+| [Love Ruins Everything](https://open.spotify.com/track/7EVtAuFIgvaLHMqHGUa3zm) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Love Ruins Everything](https://open.spotify.com/album/2PytRygBv1qPMv06DJ71Gx) | 3:20 | 2026-08-28 |  |
 | [Lover of Mine](https://open.spotify.com/track/61a5lY9pQk8Q4D56WHvp1l) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Alannah Myles](https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv) | 4:37 | 2022-05-02 | 2022-09-11 |
 | [Lovers in a Dangerous Time](https://open.spotify.com/track/6G0M1Wsz6zQQoJig92kbkY) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79), [Ben Grosse](https://open.spotify.com/artist/7jHrQgFiRvAJVTQSnm2HX1) | [Disc One: All Their Greatest Hits 1991 \- 2001](https://open.spotify.com/album/3XHEreZGCpDgR2joJ2SV8K) | 4:06 | 2022-09-10 | 2022-09-15 |
 | [Magic Carpet Ride](https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [The Second](https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN) | 4:31 | 2022-05-02 | 2024-04-19 |
@@ -464,6 +465,7 @@
 | [Take It On Faith](https://open.spotify.com/track/4ZimkIYHB032BXtoZWXVD6) | [Matt Mays](https://open.spotify.com/artist/0VlFTYaJsPHdN3Vb3EvBsn) | [Coyote](https://open.spotify.com/album/1kVIe2RWafhJb1QtFywm6v) | 4:26 | 2022-05-02 | 2022-07-28 |
 | [Takin' Care Of Business](https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman\-Turner Overdrive II](https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH) | 4:49 | 2022-05-02 | 2024-04-19 |
 | [Talk It Over](https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 2](https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9) | 2:58 | 2026-08-21 |  |
+| [Tea Time](https://open.spotify.com/track/31GAlUeCLW7X2wabzWaCYM) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 3:46 | 2026-08-28 |  |
 | [Teenland](https://open.spotify.com/track/75ZayCSH5QELsJho5LhSZZ) | [The Northern Pikes](https://open.spotify.com/artist/2BLAzgwe8OzvLOPTZDBCtw) | [Big Blue Sky](https://open.spotify.com/album/0HzlsU77Vr43wJyCIrCwW0) | 4:02 | 2022-05-02 | 2022-07-26 |
 | [Temptation](https://open.spotify.com/track/3SXz0Ay76V9GyhbXXbG4JM) | [The Tea Party](https://open.spotify.com/artist/6O5Xi2xT3bICu1ZLXqLYRE) | [Transmission](https://open.spotify.com/album/1hBOzWPST7jrMG8YS2fkID) | 3:25 | 2022-05-02 | 2022-07-23 |
 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 | 2022-09-10 | 2022-09-15 |
@@ -529,7 +531,7 @@
 | [Wheat Kings](https://open.spotify.com/track/53o05J0uSWOedPwN4Z0oyo) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Fully Completely](https://open.spotify.com/album/60peDyBYVk0DWanN2GPxhO) | 4:19 | 2022-09-10 | 2022-09-15 |
 | [Wheat Kings](https://open.spotify.com/track/6s7xf54h0BGyohJHlgMj2J) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Yer Favourites](https://open.spotify.com/album/6tcv9H1TNubc9o0gy2eIAG) | 4:19 | 2022-05-02 | 2024-08-10 |
 | [When I Get Drunk \(I Want You Boy\)](https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [When I Get Drunk \(I Want You Boy\)](https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7) | 3:25 | 2026-06-11 |  |
-| [When the Night Feels My Song](https://open.spotify.com/track/18WtHi9VNpl78API5zsgEX) | [Bedouin Soundclash](https://open.spotify.com/artist/2Au2mS47rMRkqbU4XJqKMh) | [Sounding a Mosaic](https://open.spotify.com/album/42iSe586UyMdP0k3SP8yBh) | 3:07 | 2022-05-02 |  |
+| [When the Night Feels My Song](https://open.spotify.com/track/18WtHi9VNpl78API5zsgEX) | [Bedouin Soundclash](https://open.spotify.com/artist/2Au2mS47rMRkqbU4XJqKMh) | [Sounding a Mosaic](https://open.spotify.com/album/42iSe586UyMdP0k3SP8yBh) | 3:07 | 2022-05-02 | 2026-08-30 |
 | [When the Night Feels My Song](https://open.spotify.com/track/5qMc9XB0lALs9VnQmY5qFv) | [Bedouin Soundclash](https://open.spotify.com/artist/2Au2mS47rMRkqbU4XJqKMh) | [Sounding a Mosaic](https://open.spotify.com/album/0AhsJ8sWpUbBJUQRXtR1NE) | 3:07 | 2022-05-02 | 2024-04-19 |
 | [When You Know Someone](https://open.spotify.com/track/2KA5X1bvsobQBETOQ4YClI) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [When You Know Someone](https://open.spotify.com/album/64XNQyeeluFB03RJhIs0dT) | 3:40 | 2024-05-10 | 2025-09-26 |
 | [Where Have All The Good People Gone?](https://open.spotify.com/track/2eLkQvmXz51UKmBIKlFPWb) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [We Were Born In A Flame](https://open.spotify.com/album/3AoWVHZuuu68ZVOy1R55l9) | 4:22 | 2022-05-02 | 2026-08-23 |

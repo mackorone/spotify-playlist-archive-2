@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 
 > The USB essentials that defined our 2025 setlists\. Featuring Chloé Caillet & Luke Alessi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,516 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,515 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 | 65 | [Love Is Gonna Save Us](https://open.spotify.com/track/4YyL9oV3tJzX596f2CfzrE) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Love Is Gonna Save Us](https://open.spotify.com/album/4k3RDMGyLFORmxATJ2yjc6) | 3:26 |
 | 66 | [FREAKY \(JUST MY TYPE\)](https://open.spotify.com/track/37Pvim4Q5XnvMFxaUgBwUl) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [WITH A VENGEANCE](https://open.spotify.com/album/2ZZyA2JIJ49RcwIHpu4mjK) | 4:13 |
 | 67 | [A Gira](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [A Gira](https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E) | 2:32 |
-| 68 | [It Gets Better \- Chris Stussy Remix](https://open.spotify.com/track/4sdydeR6pH5us3lD4Ttu7O) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [It Gets Better \(Chris Stussy Remix\)](https://open.spotify.com/album/0TZXuHZ8XT5SMT37PYncx2) | 4:12 |
+| 68 | [It Gets Better \- Chris Stassy Remix](https://open.spotify.com/track/4sdydeR6pH5us3lD4Ttu7O) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [It Gets Better \(Chris Stassy Remix\)](https://open.spotify.com/album/0TZXuHZ8XT5SMT37PYncx2) | 4:12 |
 | 69 | [Bad Boy \- GENESI Remix](https://open.spotify.com/track/4MKqROsy64whz0A1YyCXGE) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [Bad Boy \(GENESI Remix\)](https://open.spotify.com/album/4Dcsa8dzEEkaqAwdF7q7rM) | 3:08 |
 | 70 | [Galvanize \- Chris Lake Remix](https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Galvanize \(Chris Lake Remix\)](https://open.spotify.com/album/4rxSgHTfUkvO4PCuIQUcMB) | 3:43 |
 | 71 | [Kids](https://open.spotify.com/track/5zWgxdYxIQWfn3JY3gogbz) | [FEZZO](https://open.spotify.com/artist/2tEWqiatl7q8hW7xyMwrtB) | [Kids](https://open.spotify.com/album/22RXS7iEQ1RYMfY97xlUhp) | 2:18 |

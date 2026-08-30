@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhBG1ELU1nr.md) - [plain]
 
 > Uma seleção de hits pra te acompanhar no home office.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,830 likes - 100 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,822 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhBG1ELU1nr.md) - [plain]
 | 30 | [Always On My Mind](https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 3:39 |
 | 31 | [Light My Fire](https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 7:09 |
 | 32 | [Better Man](https://open.spotify.com/track/2B98ljvzqpCVgt5reTHq28) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vitalogy](https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy) | 4:28 |
-| 33 | [Aonde Quer Que Eu Vá](https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Arquivo II 1991 \- 2000](https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6) | 4:17 |
-| 34 | [Close To Me](https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door \(Remastered\)](https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG) | 3:23 |
+| 33 | [Close To Me](https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door \(Remastered\)](https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG) | 3:23 |
+| 34 | [Aonde Quer Que Eu Vá](https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Arquivo II 1991 \- 2000](https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6) | 4:17 |
 | 35 | [Make It Wit Chu](https://open.spotify.com/track/6GyDY0yE47rfk8pcuKhioh) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Era Vulgaris](https://open.spotify.com/album/1w71aBHYJ1zTOsSsmr2Fca) | 4:50 |
 | 36 | [Frozen](https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 6:07 |
 | 37 | [Por você](https://open.spotify.com/track/59ONqMEvrUq2iaiQbfRc3q) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Balada MTV](https://open.spotify.com/album/7fLEv3V5H8p1cKB9Uq0Exc) | 3:32 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhBG1ELU1nr.md) - [plain]
 | 79 | [Losing My Religion](https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(U.S\. Version\)](https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD) | 4:27 |
 | 80 | [I Remember You](https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 5:13 |
 | 81 | [Cryin'](https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 5:08 |
-| 82 | [Here Comes The Sun \- Remastered](https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd) | 3:05 |
-| 83 | [Listen To Your Heart](https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 5:28 |
-| 84 | [Patience](https://open.spotify.com/track/7D5n2kpYH2WSqIyEO9MeXf) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [G N' R Lies](https://open.spotify.com/album/1RCAG3LrDwYsNU5ZiUJlWi) | 5:54 |
+| 82 | [Listen To Your Heart](https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 5:28 |
+| 83 | [Patience](https://open.spotify.com/track/7D5n2kpYH2WSqIyEO9MeXf) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [G N' R Lies](https://open.spotify.com/album/1RCAG3LrDwYsNU5ZiUJlWi) | 5:54 |
+| 84 | [Here Comes The Sun \- Remastered](https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd) | 3:05 |
 | 85 | [Don't Speak](https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC) | 4:23 |
 | 86 | [Layla \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster](https://open.spotify.com/track/3BEZCNZSmVv30vsMNSOCri) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\)](https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg) | 4:49 |
 | 87 | [Open Your Eyes](https://open.spotify.com/track/55fg1bDXyNUsY2KaSMNFpA) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp) | 5:41 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhBG1ELU1nr.md) - [plain]
 | 89 | [Ode To My Family](https://open.spotify.com/track/1eQuRtkMEPhf2DGzpBVTE6) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/2KsgTeLQXz7yDV1joGOd2L) | 4:31 |
 | 90 | [Everybody's Changing](https://open.spotify.com/track/216S5ED9SNRWaHWVjSJGyX) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes and Fears \(Deluxe Edition\)](https://open.spotify.com/album/5QqVXRTiGpLgmo1YNoz9Bk) | 3:36 |
 | 91 | [To Be With You](https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Deep Cuts: The Best Of The Ballads](https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR) | 3:28 |
-| 92 | [Eyes Without A Face \- 1999 \- Remaster](https://open.spotify.com/track/6qI1KfY3nomDW1s0BrUInE) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2GWgADRfO423cyzHa1rKc5) | 4:58 |
-| 93 | [Céu Azul \(Ao Vivo\)](https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Música Popular Caiçara \(Ao Vivo\)](https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU) | 3:16 |
+| 92 | [Céu Azul \(Ao Vivo\)](https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Música Popular Caiçara \(Ao Vivo\)](https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU) | 3:16 |
+| 93 | [Eyes Without A Face \- 1999 \- Remaster](https://open.spotify.com/track/6qI1KfY3nomDW1s0BrUInE) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2GWgADRfO423cyzHa1rKc5) | 4:58 |
 | 94 | [Exagerado](https://open.spotify.com/track/3ZRWcArefd1sfpdw5icCM7) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [A Arte De Cazuza](https://open.spotify.com/album/1D4lMnP5npjJzw9GRtQMJi) | 3:42 |
 | 95 | [Wish You Were Here \- 2011 Remastered Version](https://open.spotify.com/track/5MVrZa7cDtnAoMvCgRAMqb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here \(2011 Remastered Version\)](https://open.spotify.com/album/6qNJATpLgC004oSMhU3tC8) | 5:34 |
 | 96 | [Time After Time](https://open.spotify.com/track/05NEcj4geEg0JthGNSGUI7) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [Time After Time: The Best Of](https://open.spotify.com/album/3jo7zKryN041hqdMGgdcN4) | 3:57 |

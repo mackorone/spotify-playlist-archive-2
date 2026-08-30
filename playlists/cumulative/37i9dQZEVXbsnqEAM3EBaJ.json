@@ -411,6 +411,36 @@
     },
     {
       "album": {
+        "name": "\"Cantabile\": A Classical Landscape",
+        "url": "https://open.spotify.com/album/6mVvvuCN8opYg3Yk9D9VaI"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Monica Huggett",
+          "url": "https://open.spotify.com/artist/4E2Rqf4KfXgR2aVt8FvIkh"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Christopher Hogwood",
+          "url": "https://open.spotify.com/artist/0vBafEFOLXtq5mZuhMgsyL"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161360,
+      "name": "12 Violin Concertos, Op. 4 - \"La stravaganza\" - Concerto No. 12 in G Major, RV 298: 1. Spirituoso e non presto",
+      "url": "https://open.spotify.com/track/2e37RKqWfzhxfc6PmeeBC8"
+    },
+    {
+      "album": {
         "name": "Unparalleled",
         "url": "https://open.spotify.com/album/4KBE39nXfrx9SW3hbMrEG1"
       },
@@ -2114,10 +2144,28 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 319808,
       "name": "A Tale Of Two Tupilaqs",
       "url": "https://open.spotify.com/track/6avlxMTbkpToKPAKHKex1G"
+    },
+    {
+      "album": {
+        "name": "A Tale Of Two Tupilaqs",
+        "url": "https://open.spotify.com/album/7qewTFA6c06somup2nfgcM"
+      },
+      "artists": [
+        {
+          "name": "The Residents",
+          "url": "https://open.spotify.com/artist/0X7nkgtJrvXcn1W8lN9Mtm"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323793,
+      "name": "A Tale Of Two Tupilaqs",
+      "url": "https://open.spotify.com/track/02sL5l61LOnB3jeO4yP9M6"
     },
     {
       "album": {
@@ -2480,7 +2528,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 336186,
       "name": "Abyssal Plain",
       "url": "https://open.spotify.com/track/0kRAtJcAVAlPf4sIpjb8f7"
@@ -6226,7 +6274,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 72528,
       "name": "Auld Lang Syne - Live",
       "url": "https://open.spotify.com/track/6WjCaePjJPkGrG4b7jIsqv"
@@ -7108,6 +7156,24 @@
       "duration_ms": 251521,
       "name": "Barracuda - Live 1985",
       "url": "https://open.spotify.com/track/0PB5asiVnUI2n9Uf1CasUy"
+    },
+    {
+      "album": {
+        "name": "ELEMENTAL Part One: MOURNING EARTH",
+        "url": "https://open.spotify.com/album/79lEcVacCk4wmPtxFmcajJ"
+      },
+      "artists": [
+        {
+          "name": "Fen",
+          "url": "https://open.spotify.com/artist/1MlFNDlH2naWutA9C0nNVB"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415480,
+      "name": "Barrow",
+      "url": "https://open.spotify.com/track/29VBNUyMS5KK4znKPADl0O"
     },
     {
       "album": {
@@ -12964,7 +13030,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 79000,
       "name": "Concerto for Strings and Continuo in G major, RV 151 \"Concerto alla Rustica\": 1. Presto",
       "url": "https://open.spotify.com/track/3dRLCJ236t4ZhKxeQYkYiD"
@@ -18074,7 +18140,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 316306,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/2nSbrtuPsawg8s64WB740M"
@@ -20850,7 +20916,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 207653,
       "name": "Eye On You",
       "url": "https://open.spotify.com/track/3ZiZti6M8mbE8uY8ge0lgI"
@@ -23018,7 +23084,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 189000,
       "name": "Fragments",
       "url": "https://open.spotify.com/track/2YYbU2qJl1ZmRPrAW5nuis"
@@ -42862,7 +42928,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 249750,
       "name": "Nails In The Coffin",
       "url": "https://open.spotify.com/track/1mZjfaQkaaphQiaGmnCJzQ"
@@ -46618,7 +46684,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 321573,
       "name": "Our Kingdom",
       "url": "https://open.spotify.com/track/7ACZ1Niil8WjseGsXq8NfR"
@@ -53926,10 +53992,36 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 265466,
       "name": "Sanctuary (feat. Cl\u00e9mentine Delauney, Ignacia Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/5NRnTHeEbl1KiHONH6vmkM"
+    },
+    {
+      "album": {
+        "name": "Dark Asylum",
+        "url": "https://open.spotify.com/album/45lza7L1i8JsoMdsoLqQEv"
+      },
+      "artists": [
+        {
+          "name": "Kamelot",
+          "url": "https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS"
+        },
+        {
+          "name": "Clementine Delauney",
+          "url": "https://open.spotify.com/artist/390WXtGcP2oKewoNd1tk0O"
+        },
+        {
+          "name": "Ignacia Fernandez",
+          "url": "https://open.spotify.com/artist/28yWMqrjdCiN1roUqkXXNs"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265466,
+      "name": "Sanctuary (feat. Cl\u00e9mentine Delauney, Ignacia Fern\u00e1ndez)",
+      "url": "https://open.spotify.com/track/6IxvI1WO12TJXN7TfCM4VL"
     },
     {
       "album": {
@@ -55268,7 +55360,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 406000,
       "name": "Serenity - Ciaran McAuley, EL\u00cf Extended Remix",
       "url": "https://open.spotify.com/track/4vXBVJG5tOl3q7AdsMNOEo"
@@ -64851,6 +64943,24 @@
     },
     {
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/064UVjs0ry86dP8JLssD45"
+      },
+      "artists": [
+        {
+          "name": "Xandria",
+          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296440,
+      "name": "The Poetry of the Real World",
+      "url": "https://open.spotify.com/track/2EX3tA289WH6k4iqiF791p"
+    },
+    {
+      "album": {
         "name": "The Prodigal Ones",
         "url": "https://open.spotify.com/album/3fTCl3lz6B08gV5WO8a2sI"
       },
@@ -71658,7 +71768,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 294659,
       "name": "Watch As We Rise",
       "url": "https://open.spotify.com/track/1bC2XEOmfPsIdWGVCMqzcl"
@@ -74470,7 +74580,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 133002,
       "name": "World Peace",
       "url": "https://open.spotify.com/track/2CMsmyqYOdhDCDvrDxJAdc"

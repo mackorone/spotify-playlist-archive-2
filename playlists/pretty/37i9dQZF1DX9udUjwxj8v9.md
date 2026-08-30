@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,352 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,351 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,16 +17,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 7 | [Vem meu amor](https://open.spotify.com/track/6Vi3zrYtd2n53YUiYLTnNC) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [A Música do Olodum](https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm) | 2:36 |
 | 8 | [Me Abraça](https://open.spotify.com/track/63lNKw8FiWJG5xsXYeMaY4) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Hora H](https://open.spotify.com/album/5ReSNT2PPdG3fNI8rl8852) | 4:10 |
 | 9 | [Dorival](https://open.spotify.com/track/6OXilF9moyWn0YHX0iyKtr) | [Academia da Berlinda](https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC) | [Nada Sem Ela](https://open.spotify.com/album/15NX1MFPiauDujhbHQKk44) | 5:06 |
-| 10 | [Frevo Mulher \- Ao Vivo](https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [O Grande Encontro 20 Anos: Alceu, Elba e Geraldo \(Ao Vivo\)](https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC) | 5:06 |
-| 11 | [O Canto da Cidade](https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [O Canto da Cidade](https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl) | 3:24 |
+| 10 | [O Canto da Cidade](https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [O Canto da Cidade](https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl) | 3:24 |
+| 11 | [Frevo Mulher \- Ao Vivo](https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [O Grande Encontro 20 Anos: Alceu, Elba e Geraldo \(Ao Vivo\)](https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC) | 5:06 |
 | 12 | [A Luz De Tieta](https://open.spotify.com/track/2QC8Y1mUL709fOZWO8okcR) | [Timbalada](https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Axé Bahia](https://open.spotify.com/album/63VoP8enjIIB5EBNAwx4OZ) | 3:14 |
 | 13 | [Faraó](https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX) | [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD) | [Tete a Tete Margareth](https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK) | 5:34 |
 | 14 | [Vai Passar](https://open.spotify.com/track/6xTxXhEXQyJJGlQtGSNsIp) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque](https://open.spotify.com/album/7gPPAMMYpqGNrhKwLGNibG) | 6:11 |
 | 15 | [Raiz de Todo Bem \- Ao Vivo](https://open.spotify.com/track/3chGzdnaSzyd2W8Tlvboib) | [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [Saulo Ao Vivo](https://open.spotify.com/album/3OWLJAZKsy6UA5moqT3NYk) | 3:25 |
 | 16 | [Vai Sacudir, Vai Abalar](https://open.spotify.com/track/2J0nljHgO5EfqN4tW7rftk) | [Cheiro de Amor](https://open.spotify.com/artist/2elJHGuwL43ahofvuD6KGs) | [É Demais Meu Rei!!!](https://open.spotify.com/album/4vkiwrvTcZ3XqVkhOdjV4t) | 4:06 |
 | 17 | [Haja Amor](https://open.spotify.com/track/07aDFrAVLD02sKGzlZby46) | [Luiz Caldas](https://open.spotify.com/artist/4fLuPn1SvWJVFmooqIkvWh) | [Lá Vem O Guarda](https://open.spotify.com/album/60IRlbKPEpYmIQCOQoaX4l) | 3:35 |
-| 18 | [Eu também quero beijar](https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Geração Pop](https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU) | 4:04 |
-| 19 | [Margarida Perfumada \(Ao Vivo\)](https://open.spotify.com/track/2XoeCdi8REPsSNmqeNXFQz) | [Timbalada](https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Tribal Bahia](https://open.spotify.com/album/6VYGsl41yXhkEimis7ikqI) | 5:07 |
+| 18 | [Margarida Perfumada \(Ao Vivo\)](https://open.spotify.com/track/2XoeCdi8REPsSNmqeNXFQz) | [Timbalada](https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Tribal Bahia](https://open.spotify.com/album/6VYGsl41yXhkEimis7ikqI) | 5:07 |
+| 19 | [Eu também quero beijar](https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Geração Pop](https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU) | 4:04 |
 | 20 | [Deusa do amor \- Ao vivo](https://open.spotify.com/track/7c60MUlDMw6ZI1Ft4LxLBY) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [A Música do Olodum](https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm) | 3:07 |
 | 21 | [Meia Lua Inteira](https://open.spotify.com/track/3uHnCqpyvmVuEG6XgTdCeP) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Minha Historia](https://open.spotify.com/album/0wNCVCDvgvbf8O5oFe1GtR) | 3:42 |
 | 22 | [Beleza Rara \- Ao Vivo](https://open.spotify.com/track/05jQu16DV9TMkGAsNl6QiP) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Bloco do Silva \(Ao Vivo\)](https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI) | 3:35 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 47 | [Nobre Vagabundo](https://open.spotify.com/track/2LUSX1OqewkHC3oCdxSZAF) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [20 Grandes Êxitos](https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R) | 3:53 |
 | 48 | [Estação da Luz](https://open.spotify.com/track/20jqOQnJnF89ju9DMfQ2Kk) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [Estação da Luz](https://open.spotify.com/album/0Jsqnl2N8Ixy1hEh5p0YbO) | 3:22 |
 | 49 | [Maria Bethânia, a Menina Dos Olhos de Oyá \(Samba Enredo 2016\)](https://open.spotify.com/track/2ruyKkGZ1gfRccpDpwwaF4) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Mangueira \- a Menina Dos Meus Olhos](https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC) | 1:03 |
-| 50 | [Caio No Suingue](https://open.spotify.com/track/0TdGBoZxgV22792QMKp3Ud) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn), [Pedro Luis E A Parede](https://open.spotify.com/artist/0gr5W0V12A1QsoG9lRdfQT) | [Vagabundo Ao Vivo](https://open.spotify.com/album/3n95npT8f24QSsH7KL4KVU) | 4:49 |
+| 50 | [De Graça \- Remix](https://open.spotify.com/track/5L0E4QYwuYAZtD2vHQoXU0) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Baile Tropical](https://open.spotify.com/artist/1xF7SuO9EW4mBUM4mZLgmk) | [De Graça \(Remix\)](https://open.spotify.com/album/6kER6F54CxC6tgFKRuzQrU) | 5:42 |
 
 Snapshot ID: `AAAAALo65T4q/fro1BE/9l2i3duZh/UG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,339 likes - 365 songs - 22 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,346 likes - 365 songs - 22 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 107 | [gloria \(with sza\)](https://open.spotify.com/track/0wgOhYnqZKjOHr6bmdz0aN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 4:47 |
 | 108 | [Hard Feelings/Loveless](https://open.spotify.com/track/1Dp7JGFNjvg8Nk0CtMCcnr) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 6:07 |
 | 109 | [I Look in People's Windows](https://open.spotify.com/track/1Zai5UJ2di3qEuR2HeT2s8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 2:11 |
-| 110 | [We Almost Broke Up Again Last Night](https://open.spotify.com/track/6wkYQMrFfb0huLB5Qn19Iv) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:23 |
-| 111 | [Merry Christmas, Please Don't Call](https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Merry Christmas, Please Don't Call](https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW) | 3:22 |
+| 110 | [Merry Christmas, Please Don't Call](https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Merry Christmas, Please Don't Call](https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW) | 3:22 |
+| 111 | [We Almost Broke Up Again Last Night](https://open.spotify.com/track/6wkYQMrFfb0huLB5Qn19Iv) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:23 |
 | 112 | [Free](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:54 |
 | 113 | [Sober](https://open.spotify.com/track/7eElVgPcxDqmgGrSwVFI74) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:17 |
 | 114 | [man at the garden](https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:53 |
@@ -144,14 +144,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 134 | [C'mon \- Single Version](https://open.spotify.com/track/53c9tTEHXWL5GkYNalbXZ3) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK), [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [C'mon](https://open.spotify.com/album/0A5iPbGFWxVSN9m7EjlKl1) | 3:34 |
 | 135 | [Secrets from a Girl \(Who's Seen it All\)](https://open.spotify.com/track/1toRu029yjgrleWg2w3gNU) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:38 |
 | 136 | [Wild At Heart](https://open.spotify.com/track/5RJot1fR8C90lLXzHtUqpo) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 4:06 |
-| 137 | [Blouse](https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:15 |
-| 138 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
+| 137 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
+| 138 | [Blouse](https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:15 |
 | 139 | [Modern Girl](https://open.spotify.com/track/45bMR5YEj1fsOVkcHbVW6s) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:43 |
 | 140 | [Baby Boy](https://open.spotify.com/track/5K7dEG6yDQ981HO7kFMVqm) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:31 |
 | 141 | [Crowded Places](https://open.spotify.com/track/6kNMg11e0ApnTmExdayfA1) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Crowded Places](https://open.spotify.com/album/5kBfpqZQEERHLnFCDGoX9D) | 4:22 |
 | 142 | [New York](https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 2:34 |
-| 143 | [Choreomania](https://open.spotify.com/track/7xdHw4C522RbsxHL9KD9L6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:33 |
-| 144 | [AAAHH MEN!](https://open.spotify.com/track/2qGvxAKXbajPFRb9ybIMOD) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:13 |
+| 143 | [AAAHH MEN!](https://open.spotify.com/track/2qGvxAKXbajPFRb9ybIMOD) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:13 |
+| 144 | [Choreomania](https://open.spotify.com/track/7xdHw4C522RbsxHL9KD9L6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:33 |
 | 145 | [Wild Heart](https://open.spotify.com/track/7pK4jm4HiNaYVzL2zbQSoG) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 3:20 |
 | 146 | [California](https://open.spotify.com/track/4TYPnvjBbEfcDkk1UxpvYB) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:11 |
 | 147 | [Goodmorning](https://open.spotify.com/track/1K13OsIMc0HLgEJHZoWH78) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:13 |
@@ -208,8 +208,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 198 | [Alfie's Song \(Not So Typical Love Song\)](https://open.spotify.com/track/4xYzcWOLM685vCa5AkJXe9) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Alfie's Song \(Not So Typical Love Song\)](https://open.spotify.com/album/7mxEr6CfzmRQN3c7PoAQIP) | 3:01 |
 | 199 | [45](https://open.spotify.com/track/6GXxOycOvD7pp0F4ee6X5R) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 3:23 |
 | 200 | [March March](https://open.spotify.com/track/3TCQaTVKBHYMBPVx1sTB8v) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 3:53 |
-| 201 | [Helen of Troy \- Bonus Track](https://open.spotify.com/track/5luI0qmsWNYRRTJCWn8rcb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power \(Deluxe Edition\)](https://open.spotify.com/album/3lK2JRwfIOn2NaYtgEGTmZ) | 2:51 |
-| 202 | [THAT GUY](https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [THAT GUY](https://open.spotify.com/album/7IhsOD81HB5CbNwPMt0lWn) | 2:47 |
+| 201 | [THAT GUY](https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [THAT GUY](https://open.spotify.com/album/7IhsOD81HB5CbNwPMt0lWn) | 2:47 |
+| 202 | [Helen of Troy \- Bonus Track](https://open.spotify.com/track/5luI0qmsWNYRRTJCWn8rcb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power \(Deluxe Edition\)](https://open.spotify.com/album/3lK2JRwfIOn2NaYtgEGTmZ) | 2:51 |
 | 203 | [Couples Therapy](https://open.spotify.com/track/0Nta861K14dJO3yIWdvqzJ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 2:41 |
 | 204 | [Pills](https://open.spotify.com/track/6jcKQzA6fxIrof4AlrojG1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 4:40 |
 | 205 | [Crumble](https://open.spotify.com/track/3ls9lmPJ7xROR2VL5Kv1Gz) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:07 |
@@ -374,4 +374,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 364 | [W.95th Street High](https://open.spotify.com/track/6D4wRSYyOHfJkYs2VelrbW) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 4:21 |
 | 365 | [I Will Stay Here](https://open.spotify.com/track/0Je3AfZFiRde3KcvZYlCS0) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:46 |
 
-Snapshot ID: `Aca1FAAAAACmqdhHbcWrrnvYTrjXaixW`
+Snapshot ID: `Aca6PAAAAAANrDSpDudsSGfACsEj84Vo`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTfbQdQ8l7H.md) - [plain]
 
 > Unforgettable love songs from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,218 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,390 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTfbQdQ8l7H.md) - [plain]
 | 55 | [jar of hearts](https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [lovestrong.](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) | 4:06 |
 | 56 | [Girls Like You](https://open.spotify.com/track/7npLlaPu9Mfno8hjk5OagD) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 3:35 |
 | 57 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
-| 58 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 |
-| 59 | [Million Reasons](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:25 |
+| 58 | [Million Reasons](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:25 |
+| 59 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 |
 | 60 | [Imagination](https://open.spotify.com/track/21TcDbGosp7w9YhTjOszgA) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten \(Deluxe\)](https://open.spotify.com/album/5Jov5724Nz13A302HM2eKG) | 3:37 |
 | 61 | [What Lovers Do \(feat\. SZA\)](https://open.spotify.com/track/0GxQ1A5L9xnMOytbP6eKBG) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 3:19 |
 | 62 | [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:45 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTfbQdQ8l7H.md) - [plain]
 | 72 | [I Like Me Better](https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:17 |
 | 73 | [Someone Like You](https://open.spotify.com/track/6QPKYGnAW9QozVz2dSWqRg) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 4:45 |
 | 74 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 |
-| 75 | [Dancing On My Own](https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own](https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga) | 4:20 |
+| 75 | [Just Give Me a Reason \(feat\. Nate Ruess\)](https://open.spotify.com/track/4VC5nFbYO4avKksJ9jN4pY) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/0pqKb2y8h2BWS46HMfmEgD) | 4:02 |
 
 Snapshot ID: `AAAAAKw7TZ8derHhkNuzFoCzQAmcfKRj`

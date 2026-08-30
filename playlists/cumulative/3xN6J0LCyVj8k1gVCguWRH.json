@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 417339,
       "name": "A Different Age",
       "url": "https://open.spotify.com/track/22p8X4T50Bsu00ahA4qa4p"
@@ -4250,7 +4250,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 176400,
       "name": "All for Themselves",
       "url": "https://open.spotify.com/track/4LikVDbCpxOPhQU9yGYSXH"
@@ -8512,7 +8512,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 170887,
       "name": "Baby, You're a Star",
       "url": "https://open.spotify.com/track/3C2tcQtlIutUYDsKkL2W6F"
@@ -19065,6 +19065,24 @@
     },
     {
       "album": {
+        "name": "Cheese Dance",
+        "url": "https://open.spotify.com/album/2OyJuflb74ga7ThHlp2wTX"
+      },
+      "artists": [
+        {
+          "name": "Louise Chiasson",
+          "url": "https://open.spotify.com/artist/6DfDbAdLy9wTYXTwD4SetH"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160255,
+      "name": "Cheese Dance",
+      "url": "https://open.spotify.com/track/31KTUP1B1qgQJpErYyZgwO"
+    },
+    {
+      "album": {
         "name": "Cheirinho (Feat. YO\u00d9N)",
         "url": "https://open.spotify.com/album/2l22Z4Yjv0gQpkqp5CGVpw"
       },
@@ -28444,7 +28462,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 233814,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/44G9JlOm6GM4jE8ZZBsvWz"
@@ -30110,7 +30128,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 236456,
       "name": "Driveway Conversations",
       "url": "https://open.spotify.com/track/1bCgdbxK4HxHPFkRBqVtUi"
@@ -31556,6 +31574,24 @@
       "duration_ms": 235333,
       "name": "El Negro Sabroso (Banda)",
       "url": "https://open.spotify.com/track/3DFsxiMt0LbVIS77ZFdgUC"
+    },
+    {
+      "album": {
+        "name": "El Regreso",
+        "url": "https://open.spotify.com/album/76L6W0JFLaresrGGkDWFD9"
+      },
+      "artists": [
+        {
+          "name": "Ruta 68",
+          "url": "https://open.spotify.com/artist/5R9CnRiJRks4CvcMCbgbwm"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193409,
+      "name": "El Regreso",
+      "url": "https://open.spotify.com/track/4phmdDvyLVIk4pTLVEdpHm"
     },
     {
       "album": {
@@ -35518,7 +35554,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 192533,
       "name": "Feel The Vibe",
       "url": "https://open.spotify.com/track/5oo6XoZG7SMgthlGy7vgZE"
@@ -67107,6 +67143,24 @@
     },
     {
       "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/2XZHwJJXwi4tG9GghZkSLc"
+      },
+      "artists": [
+        {
+          "name": "PhD",
+          "url": "https://open.spotify.com/artist/6iUFBjFb7pcoSRdeGOXhwu"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221960,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/47PVVeYplvdV9KZqXWm7FQ"
+    },
+    {
+      "album": {
         "name": "Maybe It's You",
         "url": "https://open.spotify.com/album/5EvUx0cDdwv7CFQomeh5yJ"
       },
@@ -67140,6 +67194,24 @@
       "duration_ms": 149931,
       "name": "Maybe She Knows",
       "url": "https://open.spotify.com/track/1JEkio51J9H2gXtf91hfeL"
+    },
+    {
+      "album": {
+        "name": "Maybe Someday",
+        "url": "https://open.spotify.com/album/00GwV89IGss1Qshd559aTK"
+      },
+      "artists": [
+        {
+          "name": "A Fit Team",
+          "url": "https://open.spotify.com/artist/7e4arKgx96HYs4Moo8RXEx"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176480,
+      "name": "Maybe Someday",
+      "url": "https://open.spotify.com/track/6BM2r1FNEMzDrfeUgrJPml"
     },
     {
       "album": {
@@ -67784,6 +67856,24 @@
       "duration_ms": 174756,
       "name": "Mejor Que Ayer",
       "url": "https://open.spotify.com/track/5IQHbsxJg0DENGuaMRNDUA"
+    },
+    {
+      "album": {
+        "name": "Mekkita",
+        "url": "https://open.spotify.com/album/5gL3MeyGcILdNdFaM4oKHJ"
+      },
+      "artists": [
+        {
+          "name": "Yuma",
+          "url": "https://open.spotify.com/artist/0Bsuh3pep7ZxBGmLvX1BoD"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196730,
+      "name": "Mekkita",
+      "url": "https://open.spotify.com/track/4uLdasHnf9seKwT8y4kwoI"
     },
     {
       "album": {
@@ -72626,7 +72716,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 204643,
       "name": "Needed U - Radio Edit",
       "url": "https://open.spotify.com/track/2LeRyUtliUB6myxbG8EOYJ"
@@ -78778,7 +78868,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 143158,
       "name": "origami (stallion)",
       "url": "https://open.spotify.com/track/18aOYRSs9RFUnzF6j0anFP"
@@ -94267,6 +94357,24 @@
     },
     {
       "album": {
+        "name": "on living and dying well",
+        "url": "https://open.spotify.com/album/1LkGZmzN3GRnbtCscml5Qp"
+      },
+      "artists": [
+        {
+          "name": "prom hearts",
+          "url": "https://open.spotify.com/artist/05o6cQG8kPUnZJs9DD8Tyk"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142112,
+      "name": "skin",
+      "url": "https://open.spotify.com/track/0zLy9gBAsAtqK4QUriTGAc"
+    },
+    {
+      "album": {
         "name": "Skinny Dipping",
         "url": "https://open.spotify.com/album/5rohcX0M6cNgydvdgbpChC"
       },
@@ -94939,6 +95047,24 @@
     },
     {
       "album": {
+        "name": "SMOKE MY BLUNT",
+        "url": "https://open.spotify.com/album/60TfjQ3TaxXT7rWWpfrZxO"
+      },
+      "artists": [
+        {
+          "name": "Rebels No Savage",
+          "url": "https://open.spotify.com/artist/62s1cqqKA86rvmScXeLYT6"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163414,
+      "name": "SMOKE MY BLUNT",
+      "url": "https://open.spotify.com/track/6DrWipXV8gLcxm93FTZqlw"
+    },
+    {
+      "album": {
         "name": "For Your Comfort and Safety",
         "url": "https://open.spotify.com/album/4IpUHjxOCnd3NmSVGZd2q5"
       },
@@ -95120,7 +95246,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 201232,
       "name": "Snowbird",
       "url": "https://open.spotify.com/track/2SFTm4FNVliOv0ENwy5knz"
@@ -95500,6 +95626,24 @@
       "duration_ms": 240040,
       "name": "So Plain to See",
       "url": "https://open.spotify.com/track/1k3XUMiF7zFi0O4xcClula"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0L7KCLpB2qYmWmPjWE2Kcd"
+      },
+      "artists": [
+        {
+          "name": "Ryan Crane",
+          "url": "https://open.spotify.com/artist/2nC0r3aoPdOEt8CPoyG1EB"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177728,
+      "name": "So Right",
+      "url": "https://open.spotify.com/track/5rBDY2WyzRXpMrAY9R1fou"
     },
     {
       "album": {
@@ -105718,7 +105862,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 199999,
       "name": "The Magic Wand",
       "url": "https://open.spotify.com/track/3RQDMFTN5PRkRgAgyeKh3b"
@@ -106062,7 +106206,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 264249,
       "name": "The Pathless Chosen",
       "url": "https://open.spotify.com/track/6rSFz0PDec0FRBKKz27A4f"
@@ -110752,7 +110896,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 195348,
       "name": "Try",
       "url": "https://open.spotify.com/track/6XYvAnnEshBwGtPXGySA41"
@@ -118602,7 +118746,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 202052,
       "name": "White dress",
       "url": "https://open.spotify.com/track/5PM6S3UCc5s5NzxwnexLvR"

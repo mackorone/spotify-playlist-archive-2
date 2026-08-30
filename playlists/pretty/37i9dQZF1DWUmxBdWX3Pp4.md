@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos de Trap Latino  📸  Brray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,116,906 likes - 101 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,116,870 likes - 101 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 32 | [Zodiaco](https://open.spotify.com/track/3NrAgRyxGJ4wD4lIxspNjq) | [Custom](https://open.spotify.com/artist/0cZRCTXUF6Bn7r7LTl6f7x), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [La Exce](https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj) | [Zodiaco](https://open.spotify.com/album/7pbWV4PAw7qNMCLrJBnqb9) | 4:00 |
 | 33 | [CLIMA \(with Foreign Teck\)](https://open.spotify.com/track/6HWm8rj8kX5AXUZAyciF14) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [CLIMA \(with Foreign Teck\)](https://open.spotify.com/album/5DllpnHoUTYe6Wjd5trxJP) | 2:44 |
 | 34 | [Narcotics \(with Bryant Myers\)](https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Narcotics \(with Bryant Myers\)](https://open.spotify.com/album/1SpjWWwAvgm4LLMFtqOwUc) | 2:53 |
-| 35 | [Las Piponas \(Remix\)](https://open.spotify.com/track/281YJmnThveWjsWVic9Ym6) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Piponas \(Remix\)](https://open.spotify.com/album/6FnnT3IOidLkfgQtrC2RJb) | 4:04 |
+| 35 | [Las Piponas \- Remix](https://open.spotify.com/track/281YJmnThveWjsWVic9Ym6) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Piponas \(Remix\)](https://open.spotify.com/album/6FnnT3IOidLkfgQtrC2RJb) | 4:04 |
 | 36 | [PACTO \(feat\. Bryant Myers & Dei V\) \- Remix](https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [PACTO \(Remix\) \[feat\. Bryant Myers & Dei V\]](https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6) | 5:46 |
 | 37 | [MERCEDES CAROTA](https://open.spotify.com/track/3TYOH7ta0101NYssoH5GlU) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:22 |
 | 38 | [THUNDER Y LIGHTNING](https://open.spotify.com/track/4pcafPzLDSqQktqSpxHL3E) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:37 |

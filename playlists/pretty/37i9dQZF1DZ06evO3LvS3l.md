@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 
 > This is David Allan Coe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,974 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,976 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 | 45 | [\(If I Could Climb\) The Walls of the Bottle](https://open.spotify.com/track/29mXFLxchnrdvlCA1QrcfT) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [The Mysterious Rhinestone Cowboy](https://open.spotify.com/album/2CSVTNZdiHUM9U0IgeHQJi) | 2:15 |
 | 46 | [Cheap Thrills](https://open.spotify.com/track/5c0bsFoyO1rvsoCnxHCYJx) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Castles in the Sand](https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib) | 2:42 |
 | 47 | [Human Emotions](https://open.spotify.com/track/72bCNd02AUSuuR1YICoswh) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Human Emotions](https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk) | 4:28 |
-| 48 | [Sweet Vibrations \(Some Folks Call It Love\)](https://open.spotify.com/track/41wFXSrdWefbvAlbKI55N6) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Once Upon a Rhyme](https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom) | 3:02 |
-| 49 | [Satisfied Mind](https://open.spotify.com/track/2TupUbFN9bwUOaIhiZo7q2) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Texas Moon \(Deluxe Edition\)](https://open.spotify.com/album/0R5C0Zgqj6l4iyHYOv2zfj) | 4:26 |
+| 48 | [Satisfied Mind](https://open.spotify.com/track/2TupUbFN9bwUOaIhiZo7q2) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Texas Moon \(Deluxe Edition\)](https://open.spotify.com/album/0R5C0Zgqj6l4iyHYOv2zfj) | 4:26 |
+| 49 | [Sweet Vibrations \(Some Folks Call It Love\)](https://open.spotify.com/track/41wFXSrdWefbvAlbKI55N6) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Once Upon a Rhyme](https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom) | 3:02 |
 | 50 | [Southern Star](https://open.spotify.com/track/6X8awE7FqsGMyZCkH1psD7) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [A Matter of Life and Death](https://open.spotify.com/album/5iAcxskUK5WGatU8Yzkp2e) | 2:39 |
 
-Snapshot ID: `ao9+AAAAAAB0iaPaIYK0zW5e/OrN/9Ff`
+Snapshot ID: `apDPgAAAAABbHHBuBLe3x80RUk8Fr/6i`

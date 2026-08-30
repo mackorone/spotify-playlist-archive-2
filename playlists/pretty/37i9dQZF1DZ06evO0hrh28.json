@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 255842,
+  "num_followers": 255826,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAAfIlNKT9QEhQghVAg7YoDm",
+  "snapshot_id": "apDPgAAAAADPrFgnd3Cq4oT5hHOQACUQ",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": ".mp3",
+        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 120600,
+      "name": "Exclusive.mp3",
+      "url": "https://open.spotify.com/track/5f4mOETLngamMDTJnbF9s7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Midnight Sun: Girls Trip",
         "url": "https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 195913,
       "name": "Girl's Girl - Girls Trip",
       "url": "https://open.spotify.com/track/1eA6Uh2q01uLdV8aXupWtY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": ".mp3",
-        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 120600,
-      "name": "Exclusive.mp3",
-      "url": "https://open.spotify.com/track/5f4mOETLngamMDTJnbF9s7"
     },
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "+ Te Vale",
-        "url": "https://open.spotify.com/album/2IfwhcfV1PJqIOUMNG8Uqs"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 144732,
-      "name": "+ Te Vale",
-      "url": "https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BOTA",
         "url": "https://open.spotify.com/album/3dR7Ki6FZ7ZzERpGaDqizJ"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 178173,
       "name": "BOTA",
       "url": "https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "+ Te Vale",
+        "url": "https://open.spotify.com/album/2IfwhcfV1PJqIOUMNG8Uqs"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 144732,
+      "name": "+ Te Vale",
+      "url": "https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ"
     },
     {
       "added_at": null,
@@ -711,22 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apambichao",
-        "url": "https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT"
+        "name": "KUSTOM",
+        "url": "https://open.spotify.com/album/4kXaM6fo4q2hK6b6Sra4qp"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         },
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 162360,
-      "name": "Cumbia Playera",
-      "url": "https://open.spotify.com/track/7JWUbHhM6oeCJ31L949K5x"
+      "duration_ms": 201509,
+      "name": "DAMN GIRL",
+      "url": "https://open.spotify.com/track/6WxhGNMIfCQBSWAYU4pupc"
     },
     {
       "added_at": null,
@@ -747,22 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "KUSTOM",
-        "url": "https://open.spotify.com/album/4kXaM6fo4q2hK6b6Sra4qp"
+        "name": "Apambichao",
+        "url": "https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT"
       },
       "artists": [
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         },
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 201509,
-      "name": "DAMN GIRL",
-      "url": "https://open.spotify.com/track/6WxhGNMIfCQBSWAYU4pupc"
+      "duration_ms": 162360,
+      "name": "Cumbia Playera",
+      "url": "https://open.spotify.com/track/7JWUbHhM6oeCJ31L949K5x"
     },
     {
       "added_at": null,

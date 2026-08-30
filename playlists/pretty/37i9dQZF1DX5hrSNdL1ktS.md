@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Uzielito Mix, Mátalos Papi
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,670 likes - 68 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,813 likes - 68 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [2K16](https://open.spotify.com/track/7ltPg1coX21JZpLGgxy6yL) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Chino El Gorila](https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6), [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3), [Jose Dolche](https://open.spotify.com/artist/52wmMMnrrpKH0caPjpTiUy) | [2K16](https://open.spotify.com/album/15rFrJKP6Siy00f1Od1tKM) | 3:38 |
 | 2 | [A Solas](https://open.spotify.com/track/6mOaJN1BXMw5VqfTQ35IDl) | [Happykid](https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2), [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP) | [A Solas](https://open.spotify.com/album/0Py1nV2j9bTuOtMmSJeBPy) | 2:38 |
 | 3 | [Ñero Session 22](https://open.spotify.com/track/2sA4BiSW5smAMy8grMvvky) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Carit Br](https://open.spotify.com/artist/7n1ph39OlZ6pVHVmal0bkD), [Jey F](https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr) | [Ñero Session 22](https://open.spotify.com/album/1bp925EiYLF4RBNK2kqxl9) | 2:51 |
-| 4 | [DISCOTEKA](https://open.spotify.com/track/7k2qFJuwJsbr0oPWLX8VPq) | [Jeram](https://open.spotify.com/artist/5E36FyctDwf80xnkxUVLXa), [Gamma](https://open.spotify.com/artist/2oVJ0v9GTFzoeXQNBtRPXW) | [DISCOTEKA](https://open.spotify.com/album/45saQEOhCzbkppquJlrR4e) | 2:28 |
+| 4 | [DISCOTEKA](https://open.spotify.com/track/7k2qFJuwJsbr0oPWLX8VPq) | [Jeram](https://open.spotify.com/artist/5E36FyctDwf80xnkxUVLXa), [Gamma](https://open.spotify.com/artist/3YoSUL3j6hD0rwapcrv4VV) | [DISCOTEKA](https://open.spotify.com/album/45saQEOhCzbkppquJlrR4e) | 2:28 |
 | 5 | [Balenciaga](https://open.spotify.com/track/4VGFK69hVzkQ4K5qR4ypdF) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Balenciaga](https://open.spotify.com/album/3pJMrZyVDFg8HTNjsDrTq3) | 2:33 |
 | 6 | [Brasiñero](https://open.spotify.com/track/7pMA8qYpb1t3G7OXIez00a) | [El More](https://open.spotify.com/artist/6ZkosMYAiABvJfjHlM1gkS), [Dj Drewther](https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx) | [Brasiñero](https://open.spotify.com/album/4ORp0ienDVsqLMYYEiDhxa) | 2:22 |
 | 7 | [Cochinola](https://open.spotify.com/track/3wgY2lmmvDkTRlecd2zYJf) | [YEEIBB](https://open.spotify.com/artist/5y9LlAERCgXdE38NXyYZFa), [Em Whyte](https://open.spotify.com/artist/7ghwHOAXR1xQEMGAqNAx8m), [Dj Bryan Kingz](https://open.spotify.com/artist/7AGxtfqyUNkefJ3aUJ8Qoz) | [Cochinola](https://open.spotify.com/album/4ZuomLl9fL2MEP3TkzDpMS) | 2:57 |

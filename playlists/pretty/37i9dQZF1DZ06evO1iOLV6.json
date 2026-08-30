@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 12817,
+  "num_followers": 12821,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABbLjPzfN24yhrA553r6F+V",
+  "snapshot_id": "apDPgAAAAACUM0v3wwVHs6H0pMx/aFVD",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 199198,
-      "name": "Abule",
-      "url": "https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God Over Everything",
         "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 221603,
       "name": "No Kissing Baby",
       "url": "https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 199198,
+      "name": "Abule",
+      "url": "https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK"
     },
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MA GIRL",
-        "url": "https://open.spotify.com/album/6xWy3uu4pnbYBhYbkA1S8h"
-      },
-      "artists": [
-        {
-          "name": "Toofan",
-          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 208042,
-      "name": "MA GIRL",
-      "url": "https://open.spotify.com/track/3TVbIYJN2QGLOAdveevG2g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WORLD BEST",
         "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
       },
@@ -615,6 +595,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MA GIRL",
+        "url": "https://open.spotify.com/album/6xWy3uu4pnbYBhYbkA1S8h"
+      },
+      "artists": [
+        {
+          "name": "Toofan",
+          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 208042,
+      "name": "MA GIRL",
+      "url": "https://open.spotify.com/track/3TVbIYJN2QGLOAdveevG2g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "African Soldier",
         "url": "https://open.spotify.com/album/6JtlTYRqiTbgJdYnVYnkan"
       },
@@ -631,26 +631,6 @@
       "duration_ms": 166000,
       "name": "African Soldier",
       "url": "https://open.spotify.com/track/5O6WAlXfzQDsWhaqaQsh77"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alagbe",
-        "url": "https://open.spotify.com/album/5rTOCA3AYjkVc01JULfZhn"
-      },
-      "artists": [
-        {
-          "name": "Qdot",
-          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 173293,
-      "name": "Magbe (feat. Patoranking)",
-      "url": "https://open.spotify.com/track/2eMMRo8tqHXxnFBl9cbqK7"
     },
     {
       "added_at": null,
@@ -679,38 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
+        "name": "Alagbe",
+        "url": "https://open.spotify.com/album/5rTOCA3AYjkVc01JULfZhn"
       },
       "artists": [
         {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+          "name": "Qdot",
+          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
         },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 209502,
-      "name": "Something Nice",
-      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 189598,
-      "name": "Yo Body",
-      "url": "https://open.spotify.com/track/7gw2JZuedwF7jQEaoG8vPP"
+      "duration_ms": 173293,
+      "name": "Magbe (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/2eMMRo8tqHXxnFBl9cbqK7"
     },
     {
       "added_at": null,
@@ -735,22 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rudi (feat. Patoranking)",
-        "url": "https://open.spotify.com/album/7GBbTkIxylA9vWLPJkBNDt"
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
       },
       "artists": [
         {
-          "name": "Rich Mavoko",
-          "url": "https://open.spotify.com/artist/0KajUilOQQilNNtReM67Kp"
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
         },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 219820,
-      "name": "Rudi (feat. Patoranking)",
-      "url": "https://open.spotify.com/track/5UTUhxdfkdIxXoXSJzOeUO"
+      "duration_ms": 209502,
+      "name": "Something Nice",
+      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
     },
     {
       "added_at": null,
@@ -775,6 +739,42 @@
       "duration_ms": 217710,
       "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
       "url": "https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 189598,
+      "name": "Yo Body",
+      "url": "https://open.spotify.com/track/7gw2JZuedwF7jQEaoG8vPP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rudi (feat. Patoranking)",
+        "url": "https://open.spotify.com/album/7GBbTkIxylA9vWLPJkBNDt"
+      },
+      "artists": [
+        {
+          "name": "Rich Mavoko",
+          "url": "https://open.spotify.com/artist/0KajUilOQQilNNtReM67Kp"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 219820,
+      "name": "Rudi (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/5UTUhxdfkdIxXoXSJzOeUO"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happy Day",
-        "url": "https://open.spotify.com/album/34hT5nhS00WwzxLY9IhbUD"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 260146,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/2SWqkpJmHPnLFaEf4HW7xr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sober (Soo Bad)",
         "url": "https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU"
       },
@@ -895,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patoranking",
-        "url": "https://open.spotify.com/album/4AQnC9nJPONOcveexfbjYm"
+        "name": "Happy Day",
+        "url": "https://open.spotify.com/album/34hT5nhS00WwzxLY9IhbUD"
       },
       "artists": [
         {
@@ -904,9 +888,9 @@
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 245133,
-      "name": "Another Level",
-      "url": "https://open.spotify.com/track/7vuoXyvpNMhZJScAdeN0dz"
+      "duration_ms": 260146,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/2SWqkpJmHPnLFaEf4HW7xr"
     },
     {
       "added_at": null,
@@ -927,6 +911,22 @@
       "duration_ms": 196260,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/64fpNsRxryIfsBNcy4N7K4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patoranking",
+        "url": "https://open.spotify.com/album/4AQnC9nJPONOcveexfbjYm"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 245133,
+      "name": "Another Level",
+      "url": "https://open.spotify.com/track/7vuoXyvpNMhZJScAdeN0dz"
     },
     {
       "added_at": null,
@@ -963,6 +963,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 175316,
+      "name": "Control Me",
+      "url": "https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A.W.A.M.",
         "url": "https://open.spotify.com/album/26Q4esPJ7U0noOyhSCxb1S"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 219375,
       "name": "Players",
       "url": "https://open.spotify.com/track/4rxPLU1Xvz61CUOckR6utg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 175316,
-      "name": "Control Me",
-      "url": "https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv"
     }
   ],
   "unique_name": "This Is Patoranking",

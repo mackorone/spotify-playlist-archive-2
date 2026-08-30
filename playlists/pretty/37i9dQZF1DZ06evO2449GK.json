@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 64975,
+  "num_followers": 64981,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAADkE2alxwiD6YnResFwRHLN",
+  "snapshot_id": "apDPgAAAAAAi4NtFLJIRzv3VglNbT+T7",
   "tracks": [
     {
       "added_at": null,
@@ -186,15 +186,11 @@
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Sho-Hai",
-          "url": "https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK"
         }
       ],
-      "duration_ms": 223461,
-      "name": "El Rey del Despecho",
-      "url": "https://open.spotify.com/track/5Andam5kQoD57q7XF8l0PE"
+      "duration_ms": 185806,
+      "name": "Suero Casero",
+      "url": "https://open.spotify.com/track/7qnyvO9BqJFON0Vh3IE0Kv"
     },
     {
       "added_at": null,
@@ -266,11 +262,15 @@
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Sho-Hai",
+          "url": "https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK"
         }
       ],
-      "duration_ms": 185806,
-      "name": "Suero Casero",
-      "url": "https://open.spotify.com/track/7qnyvO9BqJFON0Vh3IE0Kv"
+      "duration_ms": 223461,
+      "name": "El Rey del Despecho",
+      "url": "https://open.spotify.com/track/5Andam5kQoD57q7XF8l0PE"
     },
     {
       "added_at": null,

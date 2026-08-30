@@ -1,12 +1,12 @@
 {
   "description": "This is Noah Kahan. The essential tracks, all in one playlist.",
-  "num_followers": 488876,
+  "num_followers": 489581,
   "original_name": "This Is Noah Kahan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAB1/1AtRseKzt3eEtE9N0TD",
+  "snapshot_id": "apDPgAAAAABdop/bvdoZy2NukexPzgrk",
   "tracks": [
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 215341,
+      "name": "The View Between Villages",
+      "url": "https://open.spotify.com/track/6PdWPdgPoVCT9WLFMVnhxx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sarah's Place (feat. Noah Kahan)",
         "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 214056,
       "name": "Sarah's Place (feat. Noah Kahan)",
       "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 215341,
-      "name": "The View Between Villages",
-      "url": "https://open.spotify.com/track/6PdWPdgPoVCT9WLFMVnhxx"
     },
     {
       "added_at": null,

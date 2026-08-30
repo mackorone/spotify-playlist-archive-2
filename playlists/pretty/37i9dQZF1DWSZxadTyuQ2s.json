@@ -1,6 +1,6 @@
 {
   "description": "The sound of Afrobeats echoing around the world. Cover: Skyla Tylaa & Chloe",
-  "num_followers": 42038,
+  "num_followers": 42088,
   "original_name": "Global Afrobeats",
   "owner": {
     "name": "Spotify",
@@ -407,74 +407,6 @@
     {
       "added_at": "2026-08-28 00:01:47",
       "album": {
-        "name": "FUN",
-        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 188981,
-      "name": "FUN",
-      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
-    },
-    {
-      "added_at": "2026-08-28 00:01:47",
-      "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 192935,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
-    },
-    {
-      "added_at": "2026-08-28 00:01:47",
-      "album": {
-        "name": "Tornado",
-        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 174823,
-      "name": "Tornado",
-      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
-    },
-    {
-      "added_at": "2026-08-28 00:01:47",
-      "album": {
-        "name": "TARGET",
-        "url": "https://open.spotify.com/album/0vLMIEdRFpotqEiG1nZWyn"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
-        }
-      ],
-      "duration_ms": 114545,
-      "name": "TARGET",
-      "url": "https://open.spotify.com/track/6EsrWgxRfGjmXYwtIIjRcu"
-    },
-    {
-      "added_at": "2026-08-28 00:01:47",
-      "album": {
         "name": "Santa",
         "url": "https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia"
       },
@@ -499,8 +431,24 @@
     {
       "added_at": "2026-08-28 00:01:47",
       "album": {
-        "name": "Baby (Is it a Crime)",
-        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 192935,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
+    },
+    {
+      "added_at": "2026-08-28 00:01:47",
+      "album": {
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
       },
       "artists": [
         {
@@ -508,9 +456,65 @@
           "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 164151,
-      "name": "Baby (Is it a Crime)",
-      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
+      "duration_ms": 188981,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
+    },
+    {
+      "added_at": "2026-08-28 00:01:47",
+      "album": {
+        "name": "TARGET",
+        "url": "https://open.spotify.com/album/0vLMIEdRFpotqEiG1nZWyn"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        }
+      ],
+      "duration_ms": 114545,
+      "name": "TARGET",
+      "url": "https://open.spotify.com/track/6EsrWgxRfGjmXYwtIIjRcu"
+    },
+    {
+      "added_at": "2026-08-28 00:01:47",
+      "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 174823,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
+    },
+    {
+      "added_at": "2026-08-28 00:01:47",
+      "album": {
+        "name": "5ive",
+        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 136036,
+      "name": "With You (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS"
     },
     {
       "added_at": "2026-08-28 00:01:47",
@@ -543,22 +547,18 @@
     {
       "added_at": "2026-08-28 00:01:47",
       "album": {
-        "name": "5ive",
-        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
+        "name": "Baby (Is it a Crime)",
+        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 136036,
-      "name": "With You (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS"
+      "duration_ms": 164151,
+      "name": "Baby (Is it a Crime)",
+      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
     },
     {
       "added_at": "2026-08-28 00:01:47",
@@ -811,6 +811,30 @@
     {
       "added_at": "2026-08-28 00:01:47",
       "album": {
+        "name": "One Condition",
+        "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 234977,
+      "name": "One Condition",
+      "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
+    },
+    {
+      "added_at": "2026-08-28 00:01:47",
+      "album": {
         "name": "COCA BODY",
         "url": "https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa"
       },
@@ -835,22 +859,6 @@
     {
       "added_at": "2026-08-28 00:01:47",
       "album": {
-        "name": "Hot Body",
-        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Hot Body",
-      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
-    },
-    {
-      "added_at": "2026-08-28 00:01:47",
-      "album": {
         "name": "MY HEALER",
         "url": "https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ"
       },
@@ -871,26 +879,18 @@
     {
       "added_at": "2026-08-28 00:01:47",
       "album": {
-        "name": "One Condition",
-        "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
+        "name": "Hot Body",
+        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
       },
       "artists": [
         {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 234977,
-      "name": "One Condition",
-      "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
+      "duration_ms": 160000,
+      "name": "Hot Body",
+      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
       "added_at": "2026-08-28 00:01:47",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2026-08-28 00:01:47",
       "album": {
+        "name": "Gaou la (feat. 6uff)",
+        "url": "https://open.spotify.com/album/3jIgXwF5wIe2GhF3NBSsrp"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+        }
+      ],
+      "duration_ms": 147169,
+      "name": "Gaou la (feat. 6uff)",
+      "url": "https://open.spotify.com/track/0TVPbrQyDW6Rhi7hJa024K"
+    },
+    {
+      "added_at": "2026-08-28 00:01:47",
+      "album": {
         "name": "TATTUU",
         "url": "https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 194734,
       "name": "TATTUU",
       "url": "https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM"
-    },
-    {
-      "added_at": "2026-08-28 00:01:47",
-      "album": {
-        "name": "Gaou la (feat. 6uff)",
-        "url": "https://open.spotify.com/album/3jIgXwF5wIe2GhF3NBSsrp"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "6uff",
-          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "Gaou la (feat. 6uff)",
-      "url": "https://open.spotify.com/track/0TVPbrQyDW6Rhi7hJa024K"
     },
     {
       "added_at": "2026-08-28 00:01:47",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2026-08-28 00:01:47",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/5spgzPm7x3HPsfQLMDZYPY"
-      },
-      "artists": [
-        {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
-        },
-        {
-          "name": "Warren Saada",
-          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
-        }
-      ],
-      "duration_ms": 187351,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG"
-    },
-    {
-      "added_at": "2026-08-28 00:01:47",
-      "album": {
         "name": "JUNCTION",
         "url": "https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe"
       },
@@ -1499,6 +1479,26 @@
     {
       "added_at": "2026-08-28 00:01:47",
       "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/5spgzPm7x3HPsfQLMDZYPY"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        },
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "duration_ms": 187351,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG"
+    },
+    {
+      "added_at": "2026-08-28 00:01:47",
+      "album": {
         "name": "R.U. (Raw & Unfiltered) Vol.1",
         "url": "https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE"
       },
@@ -1515,6 +1515,30 @@
       "duration_ms": 200314,
       "name": "Private Chef (feat. Mc Morena)",
       "url": "https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt"
+    },
+    {
+      "added_at": "2026-08-28 00:01:47",
+      "album": {
+        "name": "Bandela",
+        "url": "https://open.spotify.com/album/7uNr2HQBIkX1WTVvWAN6K1"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        },
+        {
+          "name": "Armageddon",
+          "url": "https://open.spotify.com/artist/1m8LYS7KgDBdAI8r1dhAYP"
+        },
+        {
+          "name": "Anderson",
+          "url": "https://open.spotify.com/artist/4J7UmEdjzftguZjIKlc1m6"
+        }
+      ],
+      "duration_ms": 225745,
+      "name": "Bandela",
+      "url": "https://open.spotify.com/track/1G8CAiMVLP7wenG4sF084G"
     },
     {
       "added_at": "2026-08-28 00:01:47",
@@ -1591,26 +1615,6 @@
       "duration_ms": 163837,
       "name": "All You Need",
       "url": "https://open.spotify.com/track/5gPkTBrIBBiLvP56xgDf5Q"
-    },
-    {
-      "added_at": "2026-08-28 00:01:47",
-      "album": {
-        "name": "PRESSURE",
-        "url": "https://open.spotify.com/album/5rdwzI9gxT5QsDkGHJtwv4"
-      },
-      "artists": [
-        {
-          "name": "K-Trap",
-          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 136533,
-      "name": "PRESSURE",
-      "url": "https://open.spotify.com/track/6aRUdMoZ5iNZrisubVw0SC"
     }
   ],
   "unique_name": "Global Afrobeats",

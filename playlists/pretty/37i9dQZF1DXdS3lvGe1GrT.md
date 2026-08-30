@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday! Cover: Theo Kandel
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,309 likes - 86 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,411 likes - 86 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

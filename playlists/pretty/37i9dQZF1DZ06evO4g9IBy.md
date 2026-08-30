@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 
 > This is Stevie Nicks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,192 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,212 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 | 45 | [Sleeping Angel \(From Fast Times at Ridgemont High\) \- 2016 Remaster](https://open.spotify.com/track/35I5lX6yE00YSu7PEgES54) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(Deluxe Edition\)](https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8) | 4:40 |
 | 46 | [Crystal](https://open.spotify.com/track/2a9l6PrSo1dNxIJuxxYjJZ) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Buckingham Nicks](https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv) | 3:49 |
 | 47 | [I Sing for Things](https://open.spotify.com/track/3Dk4epAbgbSezElqPQCXvq) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 3:44 |
-| 48 | [Maybe Love Will Change Your Mind](https://open.spotify.com/track/3FmNXP5tWfjZAImUxzns74) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Street Angel](https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS) | 4:19 |
+| 48 | [What Has Rock And Roll Ever Done For You](https://open.spotify.com/track/1KpaeuKdvzMVuNnko3Pahu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rockstar \(Deluxe\)](https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN) | 5:01 |
 | 49 | [Blue Lamp \- 2016 Remaster](https://open.spotify.com/track/1ai4kUdzv3xq4EVh6DNWEB) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(Deluxe Edition\)](https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8) | 3:50 |
 | 50 | [Don't Let Me Down Again](https://open.spotify.com/track/171YcHaEjFRml5BZQzyjH9) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Buckingham Nicks](https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv) | 3:51 |
 
-Snapshot ID: `ao9+AAAAAAAuDMH+io0Zfa6n+jr2xyFg`
+Snapshot ID: `apDPgAAAAADbUyYKbCHcy638GzNO3aRM`

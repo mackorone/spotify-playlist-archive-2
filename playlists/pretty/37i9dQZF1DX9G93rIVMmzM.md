@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > heavy vibes for cuffing season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,273 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,384 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 65 | [Crawling Into You](https://open.spotify.com/track/2EVVaTiZFIXwkV74McpZy5) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Promo 2019](https://open.spotify.com/album/6DKO5xmgzhet0tQD8zXMZ5) | 3:23 |
 | 66 | [Fuse](https://open.spotify.com/track/0UYOncanPfTJVemojPksIP) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [GALORE](https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP) | 3:11 |
 | 67 | [Stay](https://open.spotify.com/track/5eD6Uxpntflv7HMCZ4P83Q) | [Leaving Time](https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y) | [I + II](https://open.spotify.com/album/05FbjkY4JGm3rrntaeGJDx) | 2:10 |
-| 68 | [Lonely Day \- Spotify Singles](https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Lonely Day \- Spotify Singles](https://open.spotify.com/album/2GUhX1GveJBRtgpyUQhTSY) | 2:36 |
-| 69 | [Beneath A Lightless Star](https://open.spotify.com/track/6SFaNYwzDMCNGPIjXvtoth) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Beneath A Lightless Star](https://open.spotify.com/album/2IOEZbMDjDzI6Kn6H1qsYL) | 5:10 |
+| 68 | [Beneath A Lightless Star](https://open.spotify.com/track/6SFaNYwzDMCNGPIjXvtoth) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Beneath A Lightless Star](https://open.spotify.com/album/2IOEZbMDjDzI6Kn6H1qsYL) | 5:10 |
+| 69 | [Lonely Day \- Spotify Singles](https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Lonely Day \- Spotify Singles](https://open.spotify.com/album/2GUhX1GveJBRtgpyUQhTSY) | 2:36 |
 | 70 | [Ant In The Afterbirth \- feat\. Loathe](https://open.spotify.com/track/3vnKDiO4TOYH4xsLZwV01D) | [NOWHERE2RUN](https://open.spotify.com/artist/3ARwlqMR3e96RXdxpAhx4s), [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Ant In The Afterbirth \(feat\. Loathe\)](https://open.spotify.com/album/1JrG5deJUS6MhKH0C2PE3E) | 3:42 |
 | 71 | [i want the light to swallow me whole](https://open.spotify.com/track/6eOX4hlAQymOc3LV14L3nj) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [i want the light to swallow me whole](https://open.spotify.com/album/0nKnzpsT7uW5CtdqUXQ2i3) | 3:38 |
 | 72 | [Blur Into One](https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM) | [Graywave](https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR) | [Blur Into One](https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z) | 3:50 |
@@ -99,13 +99,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 89 | [Give Blood](https://open.spotify.com/track/1Ult8Ht7snBt5DOGcECkZV) | [SOM](https://open.spotify.com/artist/0l5d2oD9unQCRRogw47e2Q) | [Give Blood](https://open.spotify.com/album/6TNhU5xuppWcHNSvDEBpsv) | 4:22 |
 | 90 | [CHILDREN OF SORROW](https://open.spotify.com/track/0m1JXimp3o6AP7yBtCXCKd) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [CHILDREN OF SORROW](https://open.spotify.com/album/7Kb3GTVE5cBCvXOPxoLzlr) | 3:20 |
 | 91 | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 4:01 |
-| 92 | [Spiders](https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe Version\)](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 3:35 |
-| 93 | [Closer](https://open.spotify.com/track/2oDqmfa2g8W893LlwJG1qu) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) | 6:13 |
+| 92 | [Closer](https://open.spotify.com/track/2oDqmfa2g8W893LlwJG1qu) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) | 6:13 |
+| 93 | [Spiders](https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down \(Deluxe Version\)](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 3:35 |
 | 94 | [Surrender](https://open.spotify.com/track/5gcuhVVuh0BFDJo5m62HJ0) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Surrender](https://open.spotify.com/album/4kGdD69S719G72vgoRxUEl) | 3:36 |
-| 95 | [Blood on the Sheets](https://open.spotify.com/track/7pCoALlwKHdGFfnkpgH0A1) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Blood on the Sheets](https://open.spotify.com/album/5vNNEtI5ScBzU3Reba9Y5i) | 3:49 |
+| 95 | [Alkaline](https://open.spotify.com/track/2bhO18WXe8NbFpc7sAQcEw) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs) | 3:34 |
 | 96 | [THE DRAIN](https://open.spotify.com/track/0LSgZIdGUQtaXxlFN9thhc) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [SWARM](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3) | [THE DRAIN](https://open.spotify.com/album/5QKeZAJVAx2OtEsMALM0Cz) | 3:45 |
-| 97 | [Holy Touch](https://open.spotify.com/track/4OX2oCV4aZHnmCf1Woh0FG) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Holy Touch](https://open.spotify.com/album/1Ew7k7kcMCmJ19GoDntcrN) | 3:44 |
-| 98 | [Alkaline](https://open.spotify.com/track/2bhO18WXe8NbFpc7sAQcEw) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs) | 3:34 |
+| 97 | [Blood on the Sheets](https://open.spotify.com/track/7pCoALlwKHdGFfnkpgH0A1) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Blood on the Sheets](https://open.spotify.com/album/5vNNEtI5ScBzU3Reba9Y5i) | 3:49 |
+| 98 | [Holy Touch](https://open.spotify.com/track/4OX2oCV4aZHnmCf1Woh0FG) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Holy Touch](https://open.spotify.com/album/1Ew7k7kcMCmJ19GoDntcrN) | 3:44 |
 | 99 | [Your face](https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj) | 3:47 |
 | 100 | [Adrenalize](https://open.spotify.com/track/0z09OVa4ZNJ4oQydl9XolX) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Blood](https://open.spotify.com/album/1azQBA4tlIPpqXcABHVYkl) | 4:15 |
 

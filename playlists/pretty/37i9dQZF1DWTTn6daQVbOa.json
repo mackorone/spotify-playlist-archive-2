@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 1176455,
+  "num_followers": 1176666,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 296462,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Verities & Balderdash",
+        "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
+      },
+      "artists": [
+        {
+          "name": "Harry Chapin",
+          "url": "https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c"
+        }
+      ],
+      "duration_ms": 222951,
+      "name": "Cat's in the Cradle",
+      "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Nights Are Forever",
         "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 159106,
       "name": "I'd Really Love to See You Tonight",
       "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Manna",
-        "url": "https://open.spotify.com/album/1X5oLLoyljROH4eCIae1PO"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 155773,
-      "name": "If",
-      "url": "https://open.spotify.com/track/40W8Mm9t3ZO1iNQlls35lL"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -863,18 +863,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Verities & Balderdash",
-        "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
+        "name": "Manna",
+        "url": "https://open.spotify.com/album/1X5oLLoyljROH4eCIae1PO"
       },
       "artists": [
         {
-          "name": "Harry Chapin",
-          "url": "https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c"
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
         }
       ],
-      "duration_ms": 222951,
-      "name": "Cat's in the Cradle",
-      "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
+      "duration_ms": 155773,
+      "name": "If",
+      "url": "https://open.spotify.com/track/40W8Mm9t3ZO1iNQlls35lL"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -891,6 +891,22 @@
       "duration_ms": 165160,
       "name": "Ben - Single Version",
       "url": "https://open.spotify.com/track/3vZMkLS1jP7NdNhzqGfUSW"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Rocky Mountain High",
+        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 285797,
+      "name": "Rocky Mountain High",
+      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -923,22 +939,6 @@
       "duration_ms": 241746,
       "name": "Just When I Needed You Most",
       "url": "https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Rocky Mountain High",
-        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 285797,
-      "name": "Rocky Mountain High",
-      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Blue Moves",
-        "url": "https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "Sorry Seems To Be The Hardest Word",
-      "url": "https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 257786,
       "name": "Jealous Guy - Remastered 2010",
       "url": "https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Blue Moves",
+        "url": "https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "Sorry Seems To Be The Hardest Word",
+      "url": "https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Closeup",
-        "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
+        "name": "Anytime... Anywhere",
+        "url": "https://open.spotify.com/album/3IcnPxM10hCMb6W2gCapAY"
       },
       "artists": [
         {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+          "name": "Rita Coolidge",
+          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
         }
       ],
-      "duration_ms": 212013,
-      "name": "My Eyes Adored You",
-      "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
+      "duration_ms": 220520,
+      "name": "We're All Alone",
+      "url": "https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Anytime... Anywhere",
-        "url": "https://open.spotify.com/album/3IcnPxM10hCMb6W2gCapAY"
+        "name": "Closeup",
+        "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
       },
       "artists": [
         {
-          "name": "Rita Coolidge",
-          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
         }
       ],
-      "duration_ms": 220520,
-      "name": "We're All Alone",
-      "url": "https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI"
+      "duration_ms": 212013,
+      "name": "My Eyes Adored You",
+      "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "In Full Bloom",
-        "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
-      },
-      "artists": [
-        {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
-        }
-      ],
-      "duration_ms": 291760,
-      "name": "Wishing on a Star",
-      "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "The Manhattans (Expanded Version)",
         "url": "https://open.spotify.com/album/3FlfDtvO4nTwdfJQRzLgyv"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 266733,
       "name": "Kiss and Say Goodbye",
       "url": "https://open.spotify.com/track/0rHiGIRASJq8snJGFJMpnI"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "In Full Bloom",
+        "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
+      },
+      "artists": [
+        {
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+        }
+      ],
+      "duration_ms": 291760,
+      "name": "Wishing on a Star",
+      "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Let's Keep It That Way",
-        "url": "https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR"
-      },
-      "artists": [
-        {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        }
-      ],
-      "duration_ms": 220266,
-      "name": "You Needed Me",
-      "url": "https://open.spotify.com/track/5d4E1hgkLyb7sXr5J3InnM"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Doctor Hook",
         "url": "https://open.spotify.com/album/0WmdelW8OCAAsxayYY7vHm"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 228333,
       "name": "Sylvia's Mother",
       "url": "https://open.spotify.com/track/4hLk7Bjz1XJWNDiqovvgBW"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Let's Keep It That Way",
+        "url": "https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 220266,
+      "name": "You Needed Me",
+      "url": "https://open.spotify.com/track/5d4E1hgkLyb7sXr5J3InnM"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Behind Closed Doors",
+        "url": "https://open.spotify.com/album/6waJgGNygMY0KJb3g06uA6"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+        }
+      ],
+      "duration_ms": 167416,
+      "name": "The Most Beautiful Girl",
+      "url": "https://open.spotify.com/track/542C7PqR1oEfl63hlhQO4V"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Blue Lights in the Basement",
         "url": "https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 280800,
       "name": "The Closer I Get to You",
       "url": "https://open.spotify.com/track/1UdoFJDUHWu4oWH5JlwmDP"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Behind Closed Doors",
-        "url": "https://open.spotify.com/album/6waJgGNygMY0KJb3g06uA6"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
-        }
-      ],
-      "duration_ms": 167416,
-      "name": "The Most Beautiful Girl",
-      "url": "https://open.spotify.com/track/542C7PqR1oEfl63hlhQO4V"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "It's Impossible",
-        "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "And I Love You So",
-      "url": "https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "People Like Us",
         "url": "https://open.spotify.com/album/4HjNY35duY5p5ntqoyIlpp"
       },
@@ -2171,6 +2155,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "It's Impossible",
+        "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "And I Love You So",
+      "url": "https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Saturday Night Fever (The Original Movie Soundtrack Deluxe Edition)",
         "url": "https://open.spotify.com/album/3xaCKtqadm4KnviPFKEjs7"
       },
@@ -2183,6 +2183,22 @@
       "duration_ms": 243933,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/0qp2BkreL7bxaFdc25VihQ"
+    },
+    {
+      "added_at": "2024-12-27 17:35:00",
+      "album": {
+        "name": "I Am Woman",
+        "url": "https://open.spotify.com/album/1gzSC9J3Ffyl2m2MCVO4c1"
+      },
+      "artists": [
+        {
+          "name": "Helen Reddy",
+          "url": "https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO"
+        }
+      ],
+      "duration_ms": 205880,
+      "name": "I Am Woman",
+      "url": "https://open.spotify.com/track/3l2hbXdvmaH3tUd3qWLKgm"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2215,22 +2231,6 @@
       "duration_ms": 177626,
       "name": "Never Can Say Goodbye",
       "url": "https://open.spotify.com/track/59Rn3cbfrBjhHzXTG9BcUT"
-    },
-    {
-      "added_at": "2024-12-27 17:35:00",
-      "album": {
-        "name": "I Am Woman",
-        "url": "https://open.spotify.com/album/1gzSC9J3Ffyl2m2MCVO4c1"
-      },
-      "artists": [
-        {
-          "name": "Helen Reddy",
-          "url": "https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO"
-        }
-      ],
-      "duration_ms": 205880,
-      "name": "I Am Woman",
-      "url": "https://open.spotify.com/track/3l2hbXdvmaH3tUd3qWLKgm"
     },
     {
       "added_at": "2022-09-23 05:26:33",

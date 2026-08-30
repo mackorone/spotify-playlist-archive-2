@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Varanasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,966 likes - 50 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,976 likes - 50 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 30 | [Celebration of Vennela](https://open.spotify.com/track/0QQTNr2eNT7Ju3x174in3B) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Dasara \(Telugu\)](https://open.spotify.com/album/2AMgY8htFx9X91zgB09Pta) | 0:46 |
 | 31 | [The Raid](https://open.spotify.com/track/4rXh49XtpUTwQtKaWy9x1o) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Game Changer \(Telugu\)](https://open.spotify.com/album/1in6kxFXYn8dHEnjChR4RO) | 1:22 |
 | 32 | [Dizzy Dance](https://open.spotify.com/track/58NdvwKBAX4Ml4DNnfUlEW) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 3:35 |
-| 33 | [Pushpa To Be Continued](https://open.spotify.com/track/4FAExsUfyPhBWZh40fIyrJ) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Pushpa The Rise \- OST](https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk) | 1:52 |
+| 33 | [Panjaa Titles Theme](https://open.spotify.com/track/0znGOM7mIuYsGgckd99sLh) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Panjaa OST](https://open.spotify.com/album/49Yh0sldV33hnIote5vH5e) | 1:51 |
 | 34 | [Goodachari Main Theme](https://open.spotify.com/track/66pcLcrEnus8gEcbmsN4vs) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Goodachari](https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5) | 2:57 |
-| 35 | [Nenu Na Rakshasi\(Theme\)](https://open.spotify.com/track/01uskjjgcPpm4gUgfe3CuP) | [Anup Rubens](https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp) | [Nenu Naa Raakshasi](https://open.spotify.com/album/2VkPKVHmwhmwJMK7Dl3F8i) | 1:55 |
-| 36 | [Panjaa Titles Theme](https://open.spotify.com/track/0znGOM7mIuYsGgckd99sLh) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Panjaa OST](https://open.spotify.com/album/49Yh0sldV33hnIote5vH5e) | 1:51 |
+| 35 | [Pushpa To Be Continued](https://open.spotify.com/track/4FAExsUfyPhBWZh40fIyrJ) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Pushpa The Rise \- OST](https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk) | 1:52 |
+| 36 | [Nenu Na Rakshasi\(Theme\)](https://open.spotify.com/track/01uskjjgcPpm4gUgfe3CuP) | [Anup Rubens](https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp) | [Nenu Naa Raakshasi](https://open.spotify.com/album/2VkPKVHmwhmwJMK7Dl3F8i) | 1:55 |
 | 37 | [Surya's Saturday](https://open.spotify.com/track/1yPKhZYC785EHBuqddCg18) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 1:22 |
 | 38 | [Soul's Reunite](https://open.spotify.com/track/1DFbomfZEGaVDAmiSi97IR) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss) | [Athidhi \- OST](https://open.spotify.com/album/2EyiXSFf0tC6geQkFg8d0B) | 0:51 |
 | 39 | [Soul Of Kshanam](https://open.spotify.com/track/5RqKlrB2F5uLRtOchVPJRS) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Kshanam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WvpxyKl3UVyoCU7BOFxSn) | 1:51 |

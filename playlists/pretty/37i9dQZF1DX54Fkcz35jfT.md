@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/  Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: ROTTENGRAFFTY
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,997 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,006 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,12 +77,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 67 | [EVER](https://open.spotify.com/track/0IQLk94VE32tdGlC7lUsPW) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EVER](https://open.spotify.com/album/3sA5Hdfaqv5XKc1ujCPTYS) | 4:02 |
 | 68 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 |
 | 69 | [Love song](https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1) | 2:33 |
-| 70 | [Loo% Who%](https://open.spotify.com/track/6g4Is4isktqRSyE0v4AbDd) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [Lost God of SASORI](https://open.spotify.com/album/5S1kW1jHBlg22tckMUY5Z1) | 4:08 |
-| 71 | [INCOMPLETE](https://open.spotify.com/track/5qmYsAjOo7AVWcVSvQm8Wh) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [INCOMPLETE](https://open.spotify.com/album/7oN3hZbZ7xPkMbB4MC8vac) | 3:35 |
+| 70 | [INCOMPLETE](https://open.spotify.com/track/5qmYsAjOo7AVWcVSvQm8Wh) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [INCOMPLETE](https://open.spotify.com/album/7oN3hZbZ7xPkMbB4MC8vac) | 3:35 |
+| 71 | [Loo% Who%](https://open.spotify.com/track/6g4Is4isktqRSyE0v4AbDd) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [Lost God of SASORI](https://open.spotify.com/album/5S1kW1jHBlg22tckMUY5Z1) | 4:08 |
 | 72 | [Matatabi](https://open.spotify.com/track/5ESsDYmXOxYf2kgTJ4ANW4) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Matatabi](https://open.spotify.com/album/0J6JjcNYWHJ3mPrMAodZGG) | 2:48 |
-| 73 | [SUPER NATURAL HIGH \- feat\. 唾奇](https://open.spotify.com/track/7H2G4gNAop4IEmLSJJP6L7) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1) | [PALEDUSK](https://open.spotify.com/album/60WzIOT8v9ww4FeKfndWwI) | 3:18 |
+| 73 | [yoake](https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [yoake](https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A) | 4:49 |
 | 74 | [Straight Up \(feat\. Kj\)](https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ), [Kj](https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq) | [Straight Up \(feat\. Kj\)](https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5) | 4:12 |
-| 75 | [yoake](https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [yoake](https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A) | 4:49 |
+| 75 | [SUPER NATURAL HIGH \- feat\. 唾奇](https://open.spotify.com/track/7H2G4gNAop4IEmLSJJP6L7) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1) | [PALEDUSK](https://open.spotify.com/album/60WzIOT8v9ww4FeKfndWwI) | 3:18 |
 | 76 | [DUA･RHYTHM](https://open.spotify.com/track/4gTa2HNlJEfGr9q1s2PsFD) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [DUA･RHYTHM](https://open.spotify.com/album/4Cfgh8X6COsvtyirAF5iBF) | 3:33 |
 | 77 | [Save Yourself](https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw) | 3:17 |
 | 78 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 |

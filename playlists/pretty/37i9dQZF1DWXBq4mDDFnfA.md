@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 
 > Relax to the sound of classical guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,076 likes - 69 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,117 likes - 69 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

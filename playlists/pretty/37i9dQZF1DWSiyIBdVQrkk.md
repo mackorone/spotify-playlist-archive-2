@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in classic and contemporary Reggae\. Cover: Original Koffee, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,122,898 likes - 110 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,122,746 likes - 110 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 53 | [Jah Army](https://open.spotify.com/track/4MAadSz8azCoDgBNX27f0Z) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Revelation Part 1: The Root Of Life](https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73) | 4:43 |
 | 54 | [Chill Out](https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Chill Out](https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL) | 4:02 |
 | 55 | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/track/1MmSKeGyQtsw01TZ4P2AaQ) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/album/6Z1RymNPBPYeamjtuAergh) | 3:22 |
-| 56 | [Butterflies](https://open.spotify.com/track/6rJ4Wf8HZZNIukRXINmuv6) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Butterflies](https://open.spotify.com/album/0nMqTIKccDako5MXgaGD8i) | 2:34 |
-| 57 | [Speak Life](https://open.spotify.com/track/21RALCUrU5kzPxas0f12hv) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 5:05 |
+| 56 | [Speak Life](https://open.spotify.com/track/21RALCUrU5kzPxas0f12hv) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 5:05 |
+| 57 | [Butterflies](https://open.spotify.com/track/6rJ4Wf8HZZNIukRXINmuv6) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Butterflies](https://open.spotify.com/album/0nMqTIKccDako5MXgaGD8i) | 2:34 |
 | 58 | [BIG 45](https://open.spotify.com/track/4DspPUPn1uLYAEJSBfvPar) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [BIG 45](https://open.spotify.com/album/60SiKHElErD0EPxgU53Qjg) | 3:44 |
 | 59 | [Above Water](https://open.spotify.com/track/4oKGdjLZitVsCCFxdkocoF) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [Above Water](https://open.spotify.com/album/3RffHpKsbuS5AbWHGKYMGr) | 3:34 |
 | 60 | [Sweet Love](https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sweet Love](https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU) | 3:32 |
@@ -111,12 +111,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 101 | [Angel](https://open.spotify.com/track/6dViIgkYIRccNImPln58rS) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rayvon](https://open.spotify.com/artist/1oqC0QCUYf3c2pPB8h5EAj) | [Hot Shot \(International Version \#2\)](https://open.spotify.com/album/6NmFmPX56pcLBOFMhIiKvF) | 3:55 |
 | 102 | [Murder She Wrote \(Original Mix\)](https://open.spotify.com/track/0p4uJwIIGfN3tfTFvwALwB) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Murder She Wrote Single](https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ) | 4:07 |
 | 103 | [I Wish You Were Here](https://open.spotify.com/track/4AVIdds2A4E4UsZcVU0Uso) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Jah Victory](https://open.spotify.com/album/7CoH3Na9J73DUay9gLU4fk) | 4:27 |
-| 104 | [Israelites](https://open.spotify.com/track/0di7hMT6o1ogeUN1XDB9Ft) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Israelites](https://open.spotify.com/album/46BSjIgwm2NarXXFM8fEjX) | 2:35 |
+| 104 | [Welcome To Jamrock](https://open.spotify.com/track/2e5Vm6VvdlTzuNcRSikeU6) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/1jL9mDhM5cMAwJD9brYyW5) | 3:33 |
 | 105 | [Turn Your Lights Down Low](https://open.spotify.com/track/1ILZVxd4FCgURhwRRNKQ85) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Chant Down Babylon](https://open.spotify.com/album/3P9TIaf3gZfBhIIUpAqbBD) | 5:46 |
-| 106 | [Welcome To Jamrock](https://open.spotify.com/track/2e5Vm6VvdlTzuNcRSikeU6) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/1jL9mDhM5cMAwJD9brYyW5) | 3:33 |
+| 106 | [Israelites](https://open.spotify.com/track/0di7hMT6o1ogeUN1XDB9Ft) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Israelites](https://open.spotify.com/album/46BSjIgwm2NarXXFM8fEjX) | 2:35 |
 | 107 | [Beach In Hawaii](https://open.spotify.com/track/1ZPsdTkzhDeHjA5c2Rnt2I) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/1r2BhDNMDn9BszceZZ7wVI) | 3:40 |
-| 108 | [Bam Bam](https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN) | 3:16 |
-| 109 | [You Can Get It If You Really Want](https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 2:38 |
+| 108 | [Slow Down \(with H.E.R.\)](https://open.spotify.com/track/73FDJgnjt6ZcxoiavN6XrS) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Slow Down \(with H.E.R.\)](https://open.spotify.com/album/2Z6sqSTQprW8el0lCqojKi) | 3:15 |
+| 109 | [Bam Bam](https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN) | 3:16 |
 | 110 | [Waiting In Vain](https://open.spotify.com/track/7FILn9Akg2468HPNsRZCkq) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(The Definitive Remasters\)](https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9) | 4:16 |
 
 Snapshot ID: `AAAAAMaB4xJHIhZ76vWijgtAFCIJI6qa`

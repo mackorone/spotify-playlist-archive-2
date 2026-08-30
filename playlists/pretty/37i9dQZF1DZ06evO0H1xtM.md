@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,240 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,297 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 4 | [El Mayor de los Ranas \- En Vivo](https://open.spotify.com/track/7mEPibyVIOAjjHcSD0K0vn) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [El Mayor de los Ranas \(En Vivo\)](https://open.spotify.com/album/0jPsXfPTGGqzLS1ETChzf7) | 2:54 |
 | 5 | [Si Fuera Fácil](https://open.spotify.com/track/0c8Jj4m8nORPaOSpcr5gx0) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/5QHkQIUSlHrdunxUefdVYd) | 2:50 |
 | 6 | [Solo Me Dejaste](https://open.spotify.com/track/3K7Cn4Fusqlo19eKZb5x8S) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Solo Me Dejaste](https://open.spotify.com/album/6UIsH8V9ulcnrSzRaKMoK5) | 3:06 |
-| 7 | [ELOVRGA](https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ELOVRGA](https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR) | 3:14 |
-| 8 | [El Doctor](https://open.spotify.com/track/2LbzI8ZFmjmZ0BcIriUyaw) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/5qUKBY3uF5adXBiWfEQvBA) | 3:54 |
+| 7 | [El Doctor](https://open.spotify.com/track/2LbzI8ZFmjmZ0BcIriUyaw) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/5qUKBY3uF5adXBiWfEQvBA) | 3:54 |
+| 8 | [ELOVRGA](https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ELOVRGA](https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR) | 3:14 |
 | 9 | [La Guerita](https://open.spotify.com/track/3ScaLvfm2RJvLaXETbIYut) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [La Guerita](https://open.spotify.com/album/5rlkSYkSIuJQ6Kycoo5pPi) | 3:04 |
 | 10 | [Hoy Todo Cambio](https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 3:23 |
 | 11 | [Modo Maldito](https://open.spotify.com/track/2VmeNiaRsq0Z2gcMcQvHb8) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:14 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 23 | [Alucin](https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Alucin](https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB) | 3:17 |
 | 24 | [La Vida Ruina \(feat\. Ariel Camacho\)](https://open.spotify.com/track/7KXL3yfanDowu6shK3Vl0d) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH) | [La Vida Ruina \(Version Deluxe\)](https://open.spotify.com/album/2rmX6k8ORoR3KThIalinvb) | 3:33 |
 | 25 | [Princesa](https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Princesa](https://open.spotify.com/album/6c9OpYLQ5un43FUvQELOlR) | 2:31 |
-| 26 | [Pasado Pisado \(En Vivo\)](https://open.spotify.com/track/0UOC6WyT7l1hFAj3J8iliN) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Pasado Pisado \(En Vivo\)](https://open.spotify.com/album/6JXeoZRPoTaa58ESqnEQdz) | 2:36 |
+| 26 | [Pasado Pisado \- En Vivo](https://open.spotify.com/track/0UOC6WyT7l1hFAj3J8iliN) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Pasado Pisado \(En Vivo\)](https://open.spotify.com/album/6JXeoZRPoTaa58ESqnEQdz) | 2:36 |
 | 27 | [Eres Mi Crush](https://open.spotify.com/track/6IhH9EuHGeFQbo49BJ4G7R) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Eres Mi Crush](https://open.spotify.com/album/6lUMeRzrbJekHBXcBZvSkJ) | 2:40 |
 | 28 | [Puro Campeón](https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Puro Campeón](https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm) | 3:16 |
 | 29 | [Mi Morenita](https://open.spotify.com/track/4Xly6Wx7KtcJc739Y4myOt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [JPL](https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd) | [Mi Morenita](https://open.spotify.com/album/1TFykciPJZ54BYl8iZybM1) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 49 | [Quizás](https://open.spotify.com/track/37Ph4FT2ioHk2Ok5Qwckxn) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Quizás](https://open.spotify.com/album/2RnhBBUbdWbm5aGweKRzfv) | 2:52 |
 | 50 | [Tu No Eres Lo Que Quería](https://open.spotify.com/track/5dzDXov0yNDEPl1GYNpzrh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Subiendo De Nivel](https://open.spotify.com/album/0H58hvJ4R2WRJEKPG6lOmw) | 1:50 |
 
-Snapshot ID: `ao9+AAAAAABXCJcRfQFSn+yI2Q22brDa`
+Snapshot ID: `apDPgAAAAAC1AqFaI/bwsj5PEPEtz6oi`

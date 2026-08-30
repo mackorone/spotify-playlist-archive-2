@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > e don cast
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,081 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,109 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 18 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 |
 | 19 | [Broken Souls](https://open.spotify.com/track/2oVzb93uUGTqWSOCNdRb9v) | [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr), [Tiimie](https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9) | [Broken Souls](https://open.spotify.com/album/63J8rxYIz90Md1056lJUnp) | 2:37 |
 | 20 | [BYE BYE](https://open.spotify.com/track/6nTQY7MENn4JietjaoOjhj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:58 |
-| 21 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
+| 21 | [Pour Me Water](https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:26 |
 | 22 | [Juice & Liquor](https://open.spotify.com/track/4isHpjM4xVhRI74vGjUm4R) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Juice & Liquor](https://open.spotify.com/album/5MlDvYvYASREJcq5nJN0OZ) | 2:57 |
-| 23 | [Pour Me Water](https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:26 |
+| 23 | [A1 \(Feeling Disorder\)](https://open.spotify.com/track/5lsnlGFJTOytJFgJH5tuMu) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [A1 \(Feeling Disorder\)](https://open.spotify.com/album/310NyAQdWMgHJNjq7AKLvo) | 2:05 |
 | 24 | [Boulevard](https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Freestyle EP](https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO) | 1:52 |
-| 25 | [A1 \(Feeling Disorder\)](https://open.spotify.com/track/5lsnlGFJTOytJFgJH5tuMu) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [A1 \(Feeling Disorder\)](https://open.spotify.com/album/310NyAQdWMgHJNjq7AKLvo) | 2:05 |
+| 25 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
 | 26 | [Ogechi](https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Ogechi](https://open.spotify.com/album/3RrnJMe8E4SmVIzo393sLg) | 2:32 |
 | 27 | [Private Chef \(feat\. Mc Morena\)](https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [R.U\. \(Raw & Unfiltered\) Vol.1](https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE) | 3:20 |
 | 28 | [Cry \(shayo\) \(feat\. Lojay\)](https://open.spotify.com/track/7IK3W4llnnZsSxA9Dm8uhr) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Cheers To Life.](https://open.spotify.com/album/2fZCPTAas21v7AF9pVytgj) | 2:48 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 40 | [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 |
 | 41 | [Don't Call Me Back](https://open.spotify.com/track/4THTRhTTIcqJFTfjMGNqhv) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Mayorkun](https://open.spotify.com/artist/39CW71Je0OSO9DRBFkwxbs) | [Love & Light](https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu) | 2:32 |
 | 42 | [DON'T LOVE ME](https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [DON'T LOVE ME](https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9) | 3:01 |
-| 43 | [If You Leave](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 2:43 |
-| 44 | [HOPE YOU HAPPY](https://open.spotify.com/track/1tNcAolwSKvTrTpRSpSJBs) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [BITTERSWEET](https://open.spotify.com/album/0qdBkeGB93wyaVMSkDNZqT) | 2:46 |
+| 43 | [HOPE YOU HAPPY](https://open.spotify.com/track/1tNcAolwSKvTrTpRSpSJBs) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [BITTERSWEET](https://open.spotify.com/album/0qdBkeGB93wyaVMSkDNZqT) | 2:46 |
+| 44 | [If You Leave](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 2:43 |
 | 45 | [Goodgirl](https://open.spotify.com/track/6adCGcQBhdqQbrb2b1aoGv) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Goodgirl](https://open.spotify.com/album/0cfboUkpHeZwjcw8xvY0vK) | 2:43 |
 | 46 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 |
 | 47 | [Confession](https://open.spotify.com/track/0Z1NN59C1dt9NSpSR4xwMC) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Confession](https://open.spotify.com/album/75yZELVuJuLN67uBEYxn6y) | 2:35 |

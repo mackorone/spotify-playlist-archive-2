@@ -1,13 +1,29 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 160657,
+  "num_followers": 160672,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAADxrlCl/ZI8litoTzQi2be0",
+  "snapshot_id": "apDPgAAAAACClP23dDE/25QVl39CcCdd",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Terco",
+        "url": "https://open.spotify.com/album/1NqMUNU9QxwLQNFKxeca1g"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "El Terco",
+      "url": "https://open.spotify.com/track/5lSFtOj0QXN9OFrOhssiAl"
+    },
     {
       "added_at": null,
       "album": {
@@ -691,22 +707,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Vives En M\u00ed (Cu\u00e1l Adi\u00f3s?) [Banda]",
-        "url": "https://open.spotify.com/album/4J1HHM3K8s6iBq8bsrG1EK"
+        "name": "Desde La Playa Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1APPJC5KbjeamY8oscMlt9"
       },
       "artists": [
         {
-          "name": "Max Peraza",
-          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
         },
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 218493,
-      "name": "Ya No Vives En M\u00ed (Cu\u00e1l Adi\u00f3s?) - Banda",
-      "url": "https://open.spotify.com/track/2sr9me0DSRx58cJS7NFa8l"
+      "duration_ms": 194875,
+      "name": "Andamos Borrachos Todos - En Vivo",
+      "url": "https://open.spotify.com/track/3w5D4oqMwV9D3WJl0CsiuH"
     },
     {
       "added_at": null,
@@ -747,34 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde La Playa Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1APPJC5KbjeamY8oscMlt9"
+        "name": "Ya No Vives En M\u00ed (Cu\u00e1l Adi\u00f3s?) [Banda]",
+        "url": "https://open.spotify.com/album/4J1HHM3K8s6iBq8bsrG1EK"
       },
       "artists": [
         {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        },
-        {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
         },
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 194875,
-      "name": "Andamos Borrachos Todos - En Vivo",
-      "url": "https://open.spotify.com/track/3w5D4oqMwV9D3WJl0CsiuH"
+      "duration_ms": 218493,
+      "name": "Ya No Vives En M\u00ed (Cu\u00e1l Adi\u00f3s?) - Banda",
+      "url": "https://open.spotify.com/track/2sr9me0DSRx58cJS7NFa8l"
     },
     {
       "added_at": null,
@@ -891,26 +907,6 @@
       "duration_ms": 254368,
       "name": "Ac\u00e1 Entre Nos - En Vivo",
       "url": "https://open.spotify.com/track/6SHXtSKhx53gMd4V9zK5QS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El \u00daltimo Minuto",
-        "url": "https://open.spotify.com/album/4lx4yigcoGuTxFWptr1aps"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 211150,
-      "name": "El \u00daltimo Minuto",
-      "url": "https://open.spotify.com/track/4ZcEXJttYmZQloj11vYB7U"
     }
   ],
   "unique_name": "This Is Pancho Barraza",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > The latest in world music\. From the continent, to the islands with Kofi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,568 likes - 99 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,600 likes - 99 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

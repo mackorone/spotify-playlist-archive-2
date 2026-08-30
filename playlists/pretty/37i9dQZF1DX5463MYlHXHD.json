@@ -1,6 +1,6 @@
 {
   "description": "Vieja escuela y de ahora \ud83d\udcf8 Mala Fama.",
-  "num_followers": 595554,
+  "num_followers": 595645,
   "original_name": "Cumbia villera",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
+        "name": "100% Negro Cumbiero",
+        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "El humo de mi fasito",
+      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
         "name": "No Est\u00e1 en la Flecha Sino en el Indio",
         "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 185453,
       "name": "Esc\u00e1pate Conmigo",
       "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
-        "name": "100% Negro Cumbiero",
-        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "El humo de mi fasito",
-      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Triste Palomita",
-        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
-      },
-      "artists": [
-        {
-          "name": "Escucha!",
-          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
-        }
-      ],
-      "duration_ms": 182808,
-      "name": "Sera que nunca le sucedio",
-      "url": "https://open.spotify.com/track/5llQvY4EAgURqmbcFj75Gi"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Me Muero de Amor (En Vivo)",
         "url": "https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88"
       },
@@ -427,6 +411,22 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
+        "name": "Triste Palomita",
+        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
+      },
+      "artists": [
+        {
+          "name": "Escucha!",
+          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
+        }
+      ],
+      "duration_ms": 182808,
+      "name": "Sera que nunca le sucedio",
+      "url": "https://open.spotify.com/track/5llQvY4EAgURqmbcFj75Gi"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
         "name": "La 2da del Boxeador",
         "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
       },
@@ -459,26 +459,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "PONTE PERRO | DJ TAO Turreo Sessions #24",
-        "url": "https://open.spotify.com/album/5S53ufaOE0vScVuQ17GKOH"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Ponte Perro",
-          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
-        }
-      ],
-      "duration_ms": 149504,
-      "name": "PONTE PERRO | DJ TAO Turreo Sessions #24",
-      "url": "https://open.spotify.com/track/0T25HZGE0WwyELWBlXQVbY"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Perrito Malvado",
         "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 280895,
       "name": "Perrito Malvado",
       "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "PONTE PERRO | DJ TAO Turreo Sessions #24",
+        "url": "https://open.spotify.com/album/5S53ufaOE0vScVuQ17GKOH"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        }
+      ],
+      "duration_ms": 149504,
+      "name": "PONTE PERRO | DJ TAO Turreo Sessions #24",
+      "url": "https://open.spotify.com/track/0T25HZGE0WwyELWBlXQVbY"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -599,22 +599,18 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Sencillo",
-        "url": "https://open.spotify.com/album/5iFfv4w4GLj8dA1OEyT5tX"
+        "name": "M\u00e1s Solida",
+        "url": "https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC"
       },
       "artists": [
         {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        },
-        {
-          "name": "Kekelandia",
-          "url": "https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy"
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
         }
       ],
-      "duration_ms": 230243,
-      "name": "El Amor Se Fue",
-      "url": "https://open.spotify.com/track/4foclxTsJ6LvApqtcP1Tc3"
+      "duration_ms": 201053,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/2VnehfkcQBTzwMT0MYIfxx"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -635,18 +631,42 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "M\u00e1s Solida",
-        "url": "https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC"
+        "name": "Sencillo",
+        "url": "https://open.spotify.com/album/5iFfv4w4GLj8dA1OEyT5tX"
       },
       "artists": [
         {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        },
+        {
+          "name": "Kekelandia",
+          "url": "https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy"
         }
       ],
-      "duration_ms": 201053,
-      "name": "Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/2VnehfkcQBTzwMT0MYIfxx"
+      "duration_ms": 230243,
+      "name": "El Amor Se Fue",
+      "url": "https://open.spotify.com/track/4foclxTsJ6LvApqtcP1Tc3"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "CALLEJERO FINO | Mission 10",
+        "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 168994,
+      "name": "CALLEJERO FINO | Mission 10",
+      "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -671,26 +691,6 @@
       "duration_ms": 174580,
       "name": "Auto Al Piso",
       "url": "https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
-        "name": "CALLEJERO FINO | Mission 10",
-        "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 168994,
-      "name": "CALLEJERO FINO | Mission 10",
-      "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -723,22 +723,6 @@
       "duration_ms": 217013,
       "name": "Soy Soltero",
       "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
-        "name": "Triste Palomita",
-        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
-      },
-      "artists": [
-        {
-          "name": "Escucha!",
-          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
-        }
-      ],
-      "duration_ms": 234864,
-      "name": "Triste Palomita",
-      "url": "https://open.spotify.com/track/1SX37vPJPxTVA9HLAw0Gm2"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -783,6 +767,22 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
+        "name": "Triste Palomita",
+        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
+      },
+      "artists": [
+        {
+          "name": "Escucha!",
+          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
+        }
+      ],
+      "duration_ms": 234864,
+      "name": "Triste Palomita",
+      "url": "https://open.spotify.com/track/1SX37vPJPxTVA9HLAw0Gm2"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
         "name": "BM | DJ TAO Turreo Sessions #17",
         "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "M\u00e1s Solida",
-        "url": "https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 206186,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/0jwK1Db1clUXBKCPnr19iM"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Para Que Volver (Remix)",
         "url": "https://open.spotify.com/album/14Zy4BPJID3Ft96E7K8Pt6"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "El Polaco - Agradeciendo a Dios",
-        "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
+        "name": "M\u00e1s Solida",
+        "url": "https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC"
       },
       "artists": [
         {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
         }
       ],
-      "duration_ms": 203026,
-      "name": "Porque te fuiste",
-      "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
+      "duration_ms": 206186,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/0jwK1Db1clUXBKCPnr19iM"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -891,6 +875,22 @@
       "duration_ms": 237586,
       "name": "Porque te vas",
       "url": "https://open.spotify.com/track/1PgqERsYRG7eEmk3C5Ltls"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "El Polaco - Agradeciendo a Dios",
+        "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Porque te fuiste",
+      "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Los Maleantes",
-        "url": "https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q"
-      },
-      "artists": [
-        {
-          "name": "La Piedra Urbana",
-          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
-        }
-      ],
-      "duration_ms": 164780,
-      "name": "Sentado en la Esquina",
-      "url": "https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "A Todo Remix",
         "url": "https://open.spotify.com/album/35MkUNVLgqZFRxlXc3Tgod"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 207121,
       "name": "D\u00e9jala",
       "url": "https://open.spotify.com/track/3LVOGJxNkd5b6nJoqLFpeT"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "Los Maleantes",
+        "url": "https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q"
+      },
+      "artists": [
+        {
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+        }
+      ],
+      "duration_ms": 164780,
+      "name": "Sentado en la Esquina",
+      "url": "https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "El Autentico Creador De La Cumbia Callejera",
-        "url": "https://open.spotify.com/album/4zruxAuHRzEjbpGB07ycdq"
+        "name": "Triste Palomita",
+        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
       },
       "artists": [
         {
-          "name": "Pala Ancha",
-          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
+          "name": "Escucha!",
+          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
         }
       ],
-      "duration_ms": 215640,
-      "name": "Carta A Un Amigo",
-      "url": "https://open.spotify.com/track/4ddL0CTugJEPHOyxOc7K02"
+      "duration_ms": 230448,
+      "name": "Sigue bailando mi amor",
+      "url": "https://open.spotify.com/track/5YMmXk3DlySsw2z5BS47Hq"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Triste Palomita",
-        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
+        "name": "El Autentico Creador De La Cumbia Callejera",
+        "url": "https://open.spotify.com/album/4zruxAuHRzEjbpGB07ycdq"
       },
       "artists": [
         {
-          "name": "Escucha!",
-          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
+          "name": "Pala Ancha",
+          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
         }
       ],
-      "duration_ms": 230448,
-      "name": "Sigue bailando mi amor",
-      "url": "https://open.spotify.com/track/5YMmXk3DlySsw2z5BS47Hq"
+      "duration_ms": 215640,
+      "name": "Carta A Un Amigo",
+      "url": "https://open.spotify.com/track/4ddL0CTugJEPHOyxOc7K02"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Cumbia Callejera",
-        "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
-      },
-      "artists": [
-        {
-          "name": "Pala Ancha",
-          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
-        }
-      ],
-      "duration_ms": 290377,
-      "name": "El Drog\u00f3n",
-      "url": "https://open.spotify.com/track/6KQxrxnR44E7IswemXSKnE"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Homenaje a Colombia",
         "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 275200,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "Cumbia Callejera",
+        "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
+      },
+      "artists": [
+        {
+          "name": "Pala Ancha",
+          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
+        }
+      ],
+      "duration_ms": 290377,
+      "name": "El Drog\u00f3n",
+      "url": "https://open.spotify.com/track/6KQxrxnR44E7IswemXSKnE"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Triste Palomita",
-        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
-      },
-      "artists": [
-        {
-          "name": "Escucha!",
-          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
-        }
-      ],
-      "duration_ms": 256463,
-      "name": "Quiero una chica",
-      "url": "https://open.spotify.com/track/41sxeJzkP7TMCEDAvmaXBO"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Barrio Prendido",
         "url": "https://open.spotify.com/album/1y2ar7cUSgVihUHXeCI21J"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 240008,
       "name": "Barrio Prendido",
       "url": "https://open.spotify.com/track/2I3qA0KslRCxFTfZnPyDhf"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "Triste Palomita",
+        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
+      },
+      "artists": [
+        {
+          "name": "Escucha!",
+          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
+        }
+      ],
+      "duration_ms": 256463,
+      "name": "Quiero una chica",
+      "url": "https://open.spotify.com/track/41sxeJzkP7TMCEDAvmaXBO"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Podran Imitarnos, Jam\u00e1s Igualarnos",
-        "url": "https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX"
-      },
-      "artists": [
-        {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
-        }
-      ],
-      "duration_ms": 170319,
-      "name": "El Fog\u00f3n",
-      "url": "https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Quien Te Hace Bailar",
         "url": "https://open.spotify.com/album/2r4rjtAQQz4VCodWCY1GdR"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 169680,
       "name": "Poco a Poco",
       "url": "https://open.spotify.com/track/7DOUhxMyjnZzwrZJafjxZ5"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "Podran Imitarnos, Jam\u00e1s Igualarnos",
+        "url": "https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX"
+      },
+      "artists": [
+        {
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+        }
+      ],
+      "duration_ms": 170319,
+      "name": "El Fog\u00f3n",
+      "url": "https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
+        "name": "Ritmo Sustancia",
+        "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        }
+      ],
+      "duration_ms": 268720,
+      "name": "Pocos Quedan",
+      "url": "https://open.spotify.com/track/1u2IbfH3dDRURiowHVul46"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
         "name": "El Autentico Creador De La Cumbia Callejera",
         "url": "https://open.spotify.com/album/4zruxAuHRzEjbpGB07ycdq"
       },
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Ritmo Sustancia",
-        "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
+        "name": "Me Vas a Hacer Llorar",
+        "url": "https://open.spotify.com/album/4sHb67vKNCwIU7bsxoSrQf"
       },
       "artists": [
         {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+          "name": "Debora",
+          "url": "https://open.spotify.com/artist/4MFYWIUUwy9yzkVaMSyuYk"
         }
       ],
-      "duration_ms": 268720,
-      "name": "Pocos Quedan",
-      "url": "https://open.spotify.com/track/1u2IbfH3dDRURiowHVul46"
+      "duration_ms": 227680,
+      "name": "La Miel de Tus Labios",
+      "url": "https://open.spotify.com/track/06OLRKwj3Sp2k9jBokQSsi"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1531,18 +1547,18 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Me Vas a Hacer Llorar",
-        "url": "https://open.spotify.com/album/4sHb67vKNCwIU7bsxoSrQf"
+        "name": "Ritmo Sustancia",
+        "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
       },
       "artists": [
         {
-          "name": "Debora",
-          "url": "https://open.spotify.com/artist/4MFYWIUUwy9yzkVaMSyuYk"
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
         }
       ],
-      "duration_ms": 227680,
-      "name": "La Miel de Tus Labios",
-      "url": "https://open.spotify.com/track/06OLRKwj3Sp2k9jBokQSsi"
+      "duration_ms": 157093,
+      "name": "Guampa Chata",
+      "url": "https://open.spotify.com/track/6386yQ4ObRBt7hmPgmTLVA"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1559,22 +1575,6 @@
       "duration_ms": 143213,
       "name": "Arriba, Arriba",
       "url": "https://open.spotify.com/track/1l37tXRzuBzbOlNCgGlEG1"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
-        "name": "Ritmo Sustancia",
-        "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
-      },
-      "artists": [
-        {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        }
-      ],
-      "duration_ms": 157093,
-      "name": "Guampa Chata",
-      "url": "https://open.spotify.com/track/6386yQ4ObRBt7hmPgmTLVA"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
+        "name": "Amar y yo - Produccion Pablo Lescano - Damas Gratis",
+        "url": "https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV"
+      },
+      "artists": [
+        {
+          "name": "Amar y yo",
+          "url": "https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8"
+        }
+      ],
+      "duration_ms": 198253,
+      "name": "Sentate en el pelado",
+      "url": "https://open.spotify.com/track/4fqDmV6uRZtNgYg5h4FnGP"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
         "name": "DJ ALEX, EL NOBA - TEKA | E6",
         "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 137500,
       "name": "DJ ALEX, EL NOBA - TEKA | E6",
       "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
-        "name": "Amar y yo - Produccion Pablo Lescano - Damas Gratis",
-        "url": "https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV"
-      },
-      "artists": [
-        {
-          "name": "Amar y yo",
-          "url": "https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8"
-        }
-      ],
-      "duration_ms": 198253,
-      "name": "Sentate en el pelado",
-      "url": "https://open.spotify.com/track/4fqDmV6uRZtNgYg5h4FnGP"
     },
     {
       "added_at": "2026-06-23 12:55:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/72OyC97gX3XH2NtUk9BgiV">Oscar Hammerstein II \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680 likes - 125 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 681 likes - 125 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 | 63 | [The Next Ten Minutes Ago](https://open.spotify.com/track/1tjRhMpR7h9UdGMfvfho36) | [Laura Osnes](https://open.spotify.com/artist/2TkSDFFCkyiMrHyL1a5BbF), [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub) | [R&H Goes Pop!](https://open.spotify.com/album/6zf0YjLPz8wY6hE6RrmwkI) | 5:30 |
 | 64 | [Soliloquy](https://open.spotify.com/track/62mne52yH6QFDPGyPRNuWe) | [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 6:47 |
 | 65 | [June Is Bustin' Out All Over](https://open.spotify.com/track/35v2Do9CxST0n70iCTsCg9) | [Renée Fleming](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8), ['Carousel' 2018 Broadway Cast](https://open.spotify.com/artist/44fYxkNmeiCghL4JfwfWJt) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 6:45 |
-| 66 | [Chi\-Town Christmas](https://open.spotify.com/track/77Ebl1kH2QncjJMNsOWnws) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Merry Christmas Lil Mama: The Gift That Keeps On Giving](https://open.spotify.com/album/1ytfpLuUC11zEpbq4yM9Uu) | 1:57 |
-| 67 | [What's The Use Of Wond'rin'?](https://open.spotify.com/track/0GizGMSb4RtwnAk2TGsEJL) | [Jessie Mueller](https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy), [Renée Fleming](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 3:19 |
+| 66 | [What's The Use Of Wond'rin'?](https://open.spotify.com/track/0GizGMSb4RtwnAk2TGsEJL) | [Jessie Mueller](https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy), [Renée Fleming](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 3:19 |
+| 67 | [Chi\-Town Christmas](https://open.spotify.com/track/77Ebl1kH2QncjJMNsOWnws) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Merry Christmas Lil Mama: The Gift That Keeps On Giving](https://open.spotify.com/album/1ytfpLuUC11zEpbq4yM9Uu) | 1:57 |
 | 68 | [Finale](https://open.spotify.com/track/4ijeob1Gf0P365Slo9I9ai) | [Nellie Forbush](https://open.spotify.com/artist/7hb3ZNPr7nR8AaSEw4Rf2S), [Emile De Becque](https://open.spotify.com/artist/1plfcn0c0NhdTZhoaEm6Qd), [Children](https://open.spotify.com/artist/089Mk5umvwZesiwAqZr3IC) | [South Pacific \(Original Soundtrack Recording\)](https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN) | 2:58 |
 | 69 | [Lonely Room](https://open.spotify.com/track/5vtzs0BHkPsNSkVMtuOWm9) | [Patrick Vaill](https://open.spotify.com/artist/1cWKS6fpFeWUjlskPfZm1x) | [Oklahoma! \(2019 Broadway Cast Recording\)](https://open.spotify.com/album/3JctweW8WZzHbU8gw0J8NP) | 2:56 |
 | 70 | [My Lord And Master](https://open.spotify.com/track/2WIdd3pjdZ8wwGghGIZtPJ) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn), [Ted Sperling](https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The King And I \(The 2015 Broadway Cast Recording\)](https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB) | 2:11 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 | 124 | [Something New Is In My Heart](https://open.spotify.com/track/7paZD2GsTE1lW1Rd60Il4T) | [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Sigmund Romberg](https://open.spotify.com/album/5UQlTOzFZPRoeYxFQ1rSVI) | 3:05 |
 | 125 | [Are You Love?](https://open.spotify.com/track/1UQw9iHInxKrcUpImks6tg) | [Sigmund Romberg](https://open.spotify.com/artist/04aXJJTCmpNfMOTSUf3Whr), [Jean Danton](https://open.spotify.com/artist/18ZDRc8M2oFZJZosfgbNXi), [Thomas Stumpf](https://open.spotify.com/artist/36BGKQzn3UNiw7GVjylEV4) | [American Dreamer](https://open.spotify.com/album/3w5Y0uWAjiF12Zs6eZ3Wqb) | 3:19 |
 
-Snapshot ID: `Aca1FAAAAAAjkhDGC6R6Sk+inKlQnf/g`
+Snapshot ID: `Aca6PAAAAACKRip5DM2vTbhnrZH/McUk`

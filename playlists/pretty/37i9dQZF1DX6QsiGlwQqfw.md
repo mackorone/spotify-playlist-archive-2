@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 
 > Instrumentals from the North Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,701 likes - 48 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,707 likes - 48 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 21 | [Raag Mishra Shirvranjani Taal Deepchandi](https://open.spotify.com/track/1pvvfWnFF3va8LrjbUDx8S) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Aashish Khan](https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Jugalbandi II](https://open.spotify.com/album/5shZ28NNUrgvj8bsSuAo40) | 21:49 |
 | 22 | [Komal Rishabh Asavari \- Jhaptaal](https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 13:55 |
 | 23 | [Raga Marwa \- Alap](https://open.spotify.com/track/4gNLtfZf390GJoNeO8T1Fl) | [Kushal Das](https://open.spotify.com/artist/1YIqdGEWAFDGcaSCtCscli) | [Inde Du Nord \- North India : Raga Marwa Surbahar](https://open.spotify.com/album/745wcG6CErNyGb0v1pE1QP) | 20:34 |
-| 24 | [Rachna Mishra Khamaj \(From "A Sublime Trance"\)](https://open.spotify.com/track/0qvkFBUyu1Ze5vCI5UJSSG) | [Pandit Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Indian Classical Instrumental \- Pandit Shiv Kumar Sharma Special](https://open.spotify.com/album/63P7cBmEFfK72zbWGZJFtQ) | 6:21 |
-| 25 | [Celebration: Raga manj khamaj](https://open.spotify.com/track/4eJ8C6nGTK7G8GtlgXpfW9) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Tanmoy Bose](https://open.spotify.com/artist/3WQoD0L9z8eoD8b0m74dPl), [Kenji Ota](https://open.spotify.com/artist/040krAnKe0UWfJkm7NBMyT) | [Home](https://open.spotify.com/album/7yzxuIjdVvqj6xbT9N7G8X) | 18:25 |
+| 24 | [Celebration: Raga manj khamaj](https://open.spotify.com/track/4eJ8C6nGTK7G8GtlgXpfW9) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Tanmoy Bose](https://open.spotify.com/artist/3WQoD0L9z8eoD8b0m74dPl), [Kenji Ota](https://open.spotify.com/artist/040krAnKe0UWfJkm7NBMyT) | [Home](https://open.spotify.com/album/7yzxuIjdVvqj6xbT9N7G8X) | 18:25 |
+| 25 | [Rachna Mishra Khamaj \(From "A Sublime Trance"\)](https://open.spotify.com/track/0qvkFBUyu1Ze5vCI5UJSSG) | [Pandit Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Indian Classical Instrumental \- Pandit Shiv Kumar Sharma Special](https://open.spotify.com/album/63P7cBmEFfK72zbWGZJFtQ) | 6:21 |
 | 26 | [Peace & Harmony](https://open.spotify.com/track/6bMM8EO0e92d4E0XshNrB7) | [Rahul Sharma](https://open.spotify.com/artist/3BAOzRjHe8qlURUC3fDSTf) | [Ethereal \- Splendour of Mewar](https://open.spotify.com/album/4psBgEkC4mOMoWnoxUZPAn) | 2:43 |
 | 27 | [Raga Jansanmohini \- Alap Jod Zala \- Gat Vilambit Roopak Taal \- Gat Drut Teentaal](https://open.spotify.com/track/0UPhauX8iJHJAzHMEN7ULN) | [Pandit Vibhav Nageshkar](https://open.spotify.com/artist/4wIohauC6Hl22Kt2F2bD1m), [Zarin Daruwala](https://open.spotify.com/artist/3xXsIF0r4I6TRbRdY1SS78) | [Zarin Daruwala](https://open.spotify.com/album/5jdzlSnMHnc9QasQimxhGb) | 6:58 |
 | 28 | [Rag Hemant](https://open.spotify.com/track/4pC7qAyC6kcW1JDswFrgNd) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Indian Architexture](https://open.spotify.com/album/4XLInOcNNNzsE6AzZ1coHI) | 28:51 |

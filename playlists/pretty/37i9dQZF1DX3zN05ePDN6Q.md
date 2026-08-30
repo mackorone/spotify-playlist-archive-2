@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Makalister, Luiz Barata, Montosz, Nitcho
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,108 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,114 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [SALA VERMELHA \#57 \- Matheus Coringa](https://open.spotify.com/track/40xBCZS56J1oY2gCn12Dn7) | [Matheus Coringa](https://open.spotify.com/artist/3dZNzNVuTLL2UlQCkyEQqF), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ), [Saggaz](https://open.spotify.com/artist/2DKmmoq6Zab4urXubUoVHe) | [SALA VERMELHA \#57 \- Matheus Coringa](https://open.spotify.com/album/0GU92iL0Y9phjswUK4TrtS) | 2:36 |
 | 75 | [PERFIL \#107 \- RESILIÊNCIA](https://open.spotify.com/track/6hZREi3EtO4s0kfY9caSLT) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [PERFIL \#107 \- RESILIÊNCIA](https://open.spotify.com/album/2K2I0p8Gk1SX1NZvPKoJ1s) | 2:47 |
 
-Snapshot ID: `AAAAAGMDS2HKJLR+rdgWmIhB1rJt2/PL`
+Snapshot ID: `AAAAALLZqfBRXyz5LbYb5snobCY0hURH`

@@ -4,7 +4,7 @@
 
 > Fall fast asleep with deep noise
 
-731 songs - 1 day 14 hr 27 min
+732 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Brown Sleep Noise](https://open.spotify.com/track/5UBonaClAZVfzxJNn8nnhh) | [Sleep Miracle](https://open.spotify.com/artist/5Sw5q4pL5JDz22cOeoqxNS) | [Brown Sleep Noise](https://open.spotify.com/album/2NEpp4wrvFoeL3isMKpyXr) | 4:08 | 2021-12-01 | 2022-12-21 |
 | [Brown Sleep Noise](https://open.spotify.com/track/3m570ualu3Di7dSg3Kul4g) | [XLD Library](https://open.spotify.com/artist/3nohoYUaqIOqoYxHnjNK7q) | [Brown Noise Sleep](https://open.spotify.com/album/3Sz4bGmuVVziSuy5Q4bER4) | 2:34 | 2022-11-18 |  |
 | [Brown Sleep Noise](https://open.spotify.com/track/0TPUdioC1SBhbuDVUmcxz2) | [XLX Library](https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp) | [Brown Meditative Noise](https://open.spotify.com/album/1u9d2rLpjKoXGOhz9wPukr) | 2:08 | 2021-12-01 | 2022-12-21 |
+| [Brown Sonorous](https://open.spotify.com/track/4QbH1QoBzfks0OHUGp5LBB) | [Synthetic Architect](https://open.spotify.com/artist/7CUcdQhE3WLGPzn3sEJNd5) | [Brownian Sleep](https://open.spotify.com/album/4sUSkr3ueXVdSd1tBo6p2H) | 2:53 | 2026-08-14 |  |
 | [Brown Sound](https://open.spotify.com/track/22jQ55hft660XwyS7FAKXZ) | [True White](https://open.spotify.com/artist/5vhaG8WchlssMkNH1VefUl) | [Brown Comfort](https://open.spotify.com/album/3E10zcfQkAdmeEpVhkEs3t) | 3:30 | 2022-11-18 | 2023-01-28 |
 | [Brown Static](https://open.spotify.com/track/1l651JzwUbe5RBw10qwS8i) | [Dreamstatic](https://open.spotify.com/artist/24sCSCuOs5lxNXY5SsMUdj) | [Static Noise](https://open.spotify.com/album/6Vbl7uS5vqvFSb1nr6CyJX) | 3:16 | 2022-11-18 |  |
 | [Brown Static](https://open.spotify.com/track/5ZexqaW3wJIDyl4gQDXRLQ) | [Worry Less](https://open.spotify.com/artist/49CQw3DOUXwNq8mV3EaFux) | [Brown Static](https://open.spotify.com/album/4tAIai7czgoClWb51SIcaw) | 2:46 | 2026-03-31 |  |
@@ -567,7 +568,7 @@
 | [Pink Sundown](https://open.spotify.com/track/4Dc0wjSmEiKOz0ymExmmkf) | [Dormant Clouds](https://open.spotify.com/artist/08MfBIg9r4Dzm2ISLs1Us7) | [Pink Sundown](https://open.spotify.com/album/4VndUjrTaivnUdHE6WblC8) | 3:15 | 2022-08-02 | 2025-11-15 |
 | [Pink Universe](https://open.spotify.com/track/0Arhl0vegC9JMLHjPNpPa7) | [Somnolence](https://open.spotify.com/artist/0np7yt4AmDMRNvEuYgOIXm) | [Pink Universe](https://open.spotify.com/album/6b9ImVVuhEfY1TxpqOuZAs) | 2:59 | 2022-11-18 | 2026-05-31 |
 | [Pink Velvet](https://open.spotify.com/track/21F8cDnV49vkfKztMyTNOn) | [Ecstatix](https://open.spotify.com/artist/4Z2EaSwZpqDleK7b7qYSvx) | [Pink Velvet](https://open.spotify.com/album/1Ni2VrzcMl2XXuN19rIUPf) | 3:33 | 2026-03-31 |  |
-| [Pink Velvet Dreams](https://open.spotify.com/track/07iZrwOl5MRS6hkqQiuuzC) | [Noise Chillantro](https://open.spotify.com/artist/5on19ok7di3nj6e4OEh5PU) | [Pink Velvet Dreams](https://open.spotify.com/album/1AaDcM51jeWlhLAhB3gLeW) | 5:23 | 2024-02-09 |  |
+| [Pink Velvet Dreams](https://open.spotify.com/track/07iZrwOl5MRS6hkqQiuuzC) | [Noise Chillantro](https://open.spotify.com/artist/5on19ok7di3nj6e4OEh5PU) | [Pink Velvet Dreams](https://open.spotify.com/album/1AaDcM51jeWlhLAhB3gLeW) | 5:23 | 2024-02-09 | 2026-08-30 |
 | [Pink Winds](https://open.spotify.com/track/46KIgyisohiTkHPVWxE1ia) | [Spiritual Essence](https://open.spotify.com/artist/0noRWYJspgODzUSRy5yD98) | [Pinkosphere](https://open.spotify.com/album/555ZCFbz8lYoxEYlDr8l5F) | 3:06 | 2022-11-18 |  |
 | [Pink World Noise 03.03 \(REMASTERED\)](https://open.spotify.com/track/3JIrvyaMeg8Uts813PeAfn) | [Noise Rex](https://open.spotify.com/artist/0usgNFvCTCk0XWskQpdhAy) | [Soothing Pink Noise](https://open.spotify.com/album/4FxaPv28JDKabUP62Bi0vv) | 2:59 | 2021-12-01 | 2023-02-17 |
 | [Pinkosphere](https://open.spotify.com/track/1k00OrcYTdsvL4bqowrNyT) | [Spiritual Essence](https://open.spotify.com/artist/0noRWYJspgODzUSRy5yD98) | [Pinkosphere](https://open.spotify.com/album/555ZCFbz8lYoxEYlDr8l5F) | 2:56 | 2022-11-18 | 2025-07-31 |

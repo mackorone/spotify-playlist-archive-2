@@ -1384,28 +1384,6 @@
     {
       "album": {
         "name": "El Sera y El Chavo (En Vivo)",
-        "url": "https://open.spotify.com/album/5L6W0E2hMD2URy4uYbTOQh"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "date_added": "2026-05-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177000,
-      "name": "El Sera y El Chavo (En Vivo)",
-      "url": "https://open.spotify.com/track/0zF4ncyttvlP9whKdkEVlh"
-    },
-    {
-      "album": {
-        "name": "El Sera y El Chavo (En Vivo)",
         "url": "https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C"
       },
       "artists": [
@@ -1424,6 +1402,28 @@
       "duration_ms": 177000,
       "name": "El Sera y El Chavo (En Vivo)",
       "url": "https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq"
+    },
+    {
+      "album": {
+        "name": "El Sera y El Chavo (En Vivo)",
+        "url": "https://open.spotify.com/album/5L6W0E2hMD2URy4uYbTOQh"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "El Sera y El Chavo - En Vivo",
+      "url": "https://open.spotify.com/track/0zF4ncyttvlP9whKdkEVlh"
     },
     {
       "album": {
@@ -1556,24 +1556,6 @@
     {
       "album": {
         "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/5WBBN9fuNvwyKyZmwY8HxM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "date_added": "2026-05-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 195070,
-      "name": "El Yuko (En vivo)",
-      "url": "https://open.spotify.com/track/2Q7WUNDbsHITZO54t9JSUZ"
-    },
-    {
-      "album": {
-        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/2afRqawHtnyPriVtiMlMed"
       },
       "artists": [
@@ -1591,25 +1573,39 @@
     },
     {
       "album": {
-        "name": "Jalando La Bandona (En Vivo)",
-        "url": "https://open.spotify.com/album/7Hvlt44BchPib2I0DEc45E"
+        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/5WBBN9fuNvwyKyZmwY8HxM"
       },
       "artists": [
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Los Populares Del Llano",
-          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
         }
       ],
-      "date_added": "2026-08-17",
+      "date_added": "2026-05-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 184343,
-      "name": "En La Cima (En vivo)",
-      "url": "https://open.spotify.com/track/3u91mTsR3Wo0GxiWZGhCl8"
+      "duration_ms": 195070,
+      "name": "El Yuko - En vivo",
+      "url": "https://open.spotify.com/track/2Q7WUNDbsHITZO54t9JSUZ"
+    },
+    {
+      "album": {
+        "name": "La Otra Cara",
+        "url": "https://open.spotify.com/album/3PXMIloVcTFvoOKsFrloNt"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169702,
+      "name": "Ella Esta Triste",
+      "url": "https://open.spotify.com/track/5Y2Q1SyaHSkk5hvYDXNpqZ"
     },
     {
       "album": {
@@ -1654,6 +1650,28 @@
       "duration_ms": 186000,
       "name": "En La Cima (feat. Los Populares del Llano) - En Vivo",
       "url": "https://open.spotify.com/track/0WhZSuX5NPDFhNKNM79dC0"
+    },
+    {
+      "album": {
+        "name": "Jalando La Bandona (En Vivo)",
+        "url": "https://open.spotify.com/album/7Hvlt44BchPib2I0DEc45E"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Los Populares Del Llano",
+          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
+        }
+      ],
+      "date_added": "2026-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184343,
+      "name": "En La Cima - En vivo",
+      "url": "https://open.spotify.com/track/3u91mTsR3Wo0GxiWZGhCl8"
     },
     {
       "album": {
@@ -1918,7 +1936,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 184957,
       "name": "Jim\u00e9nez",
       "url": "https://open.spotify.com/track/2dSA46CcqwT2jtXZPWjVak"
@@ -2190,24 +2208,6 @@
     {
       "album": {
         "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/5WBBN9fuNvwyKyZmwY8HxM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "date_added": "2026-05-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 164258,
-      "name": "La Muchacha Del Salado \"La Nicholette\" (En vivo)",
-      "url": "https://open.spotify.com/track/2L3jQPodSgtQFcBB4A5FoQ"
-    },
-    {
-      "album": {
-        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/2afRqawHtnyPriVtiMlMed"
       },
       "artists": [
@@ -2222,6 +2222,24 @@
       "duration_ms": 164257,
       "name": "La Muchacha Del Salado \"La Nicholette\" - En Vivo",
       "url": "https://open.spotify.com/track/0TZn8rEFwG0JbpFqMD6b7x"
+    },
+    {
+      "album": {
+        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/5WBBN9fuNvwyKyZmwY8HxM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164258,
+      "name": "La Muchacha Del Salado \"La Nicholette\" - En vivo",
+      "url": "https://open.spotify.com/track/2L3jQPodSgtQFcBB4A5FoQ"
     },
     {
       "album": {
@@ -2701,28 +2719,6 @@
     },
     {
       "album": {
-        "name": "Jalando La Bandona (En Vivo)",
-        "url": "https://open.spotify.com/album/7Hvlt44BchPib2I0DEc45E"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Los Populares Del Llano",
-          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
-        }
-      ],
-      "date_added": "2026-05-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 172466,
-      "name": "Prohibido (En vivo)",
-      "url": "https://open.spotify.com/track/1qGPyiu4WWIp3sc4jfQeO8"
-    },
-    {
-      "album": {
         "name": "Jalando La Bandona (feat. Los Populares del Llano) [En Vivo]",
         "url": "https://open.spotify.com/album/73JejPFzvxbgBDxUAH54Z0"
       },
@@ -2742,6 +2738,28 @@
       "duration_ms": 172000,
       "name": "Prohibido (feat. Los Populares del Llano) - En Vivo",
       "url": "https://open.spotify.com/track/5JBqC2isnLsXdv1otoJuyl"
+    },
+    {
+      "album": {
+        "name": "Jalando La Bandona (En Vivo)",
+        "url": "https://open.spotify.com/album/7Hvlt44BchPib2I0DEc45E"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Los Populares Del Llano",
+          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172466,
+      "name": "Prohibido - En vivo",
+      "url": "https://open.spotify.com/track/1qGPyiu4WWIp3sc4jfQeO8"
     },
     {
       "album": {

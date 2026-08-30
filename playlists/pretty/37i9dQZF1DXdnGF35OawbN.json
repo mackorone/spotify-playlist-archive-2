@@ -1,6 +1,6 @@
 {
   "description": "El soundtrack del verano 2026 \ud83c\udfdd\ufe0f Cover: Kapo",
-  "num_followers": 3417464,
+  "num_followers": 3417078,
   "original_name": "Verano Forever",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-08-28 01:52:00",
       "album": {
-        "name": "54+1",
-        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
-    },
-    {
-      "added_at": "2026-08-28 01:52:00",
-      "album": {
         "name": "RIKI",
         "url": "https://open.spotify.com/album/4bWpmQ8V75q46zbIfjVkdT"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 183934,
       "name": "RIKI",
       "url": "https://open.spotify.com/track/37wfBdDJidbipEG2fEwkWX"
+    },
+    {
+      "added_at": "2026-08-28 01:52:00",
+      "album": {
+        "name": "54+1",
+        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
     },
     {
       "added_at": "2026-08-28 01:52:00",
@@ -367,18 +367,22 @@
     {
       "added_at": "2026-08-28 01:52:00",
       "album": {
-        "name": "Y Que Fue?",
-        "url": "https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw"
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
       },
       "artists": [
         {
-          "name": "Don Miguelo",
-          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 163759,
-      "name": "Y Que Fue?",
-      "url": "https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD"
+      "duration_ms": 176568,
+      "name": "Ah\u00ed",
+      "url": "https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm"
     },
     {
       "added_at": "2026-08-28 01:52:00",
@@ -399,22 +403,18 @@
     {
       "added_at": "2026-08-28 01:52:00",
       "album": {
-        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
-        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+        "name": "Y Que Fue?",
+        "url": "https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
         }
       ],
-      "duration_ms": 176568,
-      "name": "Ah\u00ed",
-      "url": "https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm"
+      "duration_ms": 163759,
+      "name": "Y Que Fue?",
+      "url": "https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD"
     },
     {
       "added_at": "2026-08-28 01:52:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-08-28 01:52:00",
       "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
+    {
+      "added_at": "2026-08-28 01:52:00",
+      "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 239986,
       "name": "Me Gustas Tu",
       "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
-    },
-    {
-      "added_at": "2026-08-28 01:52:00",
-      "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
       "added_at": "2026-08-28 01:52:00",
@@ -547,6 +547,26 @@
     {
       "added_at": "2026-08-28 01:52:00",
       "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 210047,
+      "name": "Verano Rosa",
+      "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
+    },
+    {
+      "added_at": "2026-08-28 01:52:00",
+      "album": {
         "name": "Caraluna",
         "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 184547,
       "name": "si te pillara",
       "url": "https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd"
-    },
-    {
-      "added_at": "2026-08-28 01:52:00",
-      "album": {
-        "name": "Tropicoqueta",
-        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 210047,
-      "name": "Verano Rosa",
-      "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
     },
     {
       "added_at": "2026-08-28 01:52:00",
@@ -631,6 +631,22 @@
       "duration_ms": 214642,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
+    },
+    {
+      "added_at": "2026-08-28 01:52:00",
+      "album": {
+        "name": "MATADORA",
+        "url": "https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 144650,
+      "name": "MATADORA",
+      "url": "https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx"
     },
     {
       "added_at": "2026-08-28 01:52:00",
@@ -675,22 +691,6 @@
       "duration_ms": 213001,
       "name": "pa ti toa <3",
       "url": "https://open.spotify.com/track/54NQtnCL950bGIHlZUMMDH"
-    },
-    {
-      "added_at": "2026-08-28 01:52:00",
-      "album": {
-        "name": "MATADORA",
-        "url": "https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 144650,
-      "name": "MATADORA",
-      "url": "https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx"
     },
     {
       "added_at": "2026-08-28 01:52:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-08-28 01:52:00",
       "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 289131,
+      "name": "T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z"
+    },
+    {
+      "added_at": "2026-08-28 01:52:00",
+      "album": {
         "name": "Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 192313,
       "name": "M\u00f3naco",
       "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
-    },
-    {
-      "added_at": "2026-08-28 01:52:00",
-      "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 289131,
-      "name": "T\u00fa Con \u00c9l",
-      "url": "https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z"
     },
     {
       "added_at": "2026-08-28 01:52:00",
@@ -1299,18 +1299,22 @@
     {
       "added_at": "2026-08-28 01:52:00",
       "album": {
-        "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
-        "url": "https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC"
+        "name": "Perlas Negras",
+        "url": "https://open.spotify.com/album/5IPuOgZp4wLcGprLrfjSy0"
       },
       "artists": [
         {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 140461,
-      "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
-      "url": "https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ"
+      "duration_ms": 203357,
+      "name": "Perlas Negras",
+      "url": "https://open.spotify.com/track/3piSbt4J3UElNC2d5jhjJr"
     },
     {
       "added_at": "2026-08-28 01:52:00",
@@ -1335,22 +1339,18 @@
     {
       "added_at": "2026-08-28 01:52:00",
       "album": {
-        "name": "Perlas Negras",
-        "url": "https://open.spotify.com/album/5IPuOgZp4wLcGprLrfjSy0"
+        "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
+        "url": "https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
         }
       ],
-      "duration_ms": 203357,
-      "name": "Perlas Negras",
-      "url": "https://open.spotify.com/track/3piSbt4J3UElNC2d5jhjJr"
+      "duration_ms": 140461,
+      "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
+      "url": "https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ"
     },
     {
       "added_at": "2026-08-28 01:52:00",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2026-08-28 01:52:00",
       "album": {
-        "name": "LA GUARACHA (Oh Oh Oh)",
-        "url": "https://open.spotify.com/album/2I5gxj9pxbyE7o0TpcadAN"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Martinwhite",
-          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
-        }
-      ],
-      "duration_ms": 200307,
-      "name": "LA GUARACHA (Oh Oh Oh)",
-      "url": "https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM"
-    },
-    {
-      "added_at": "2026-08-28 01:52:00",
-      "album": {
         "name": "Me Mareo",
         "url": "https://open.spotify.com/album/4aS33VYowVrUJTMd8c5OXc"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 168209,
       "name": "Me Mareo",
       "url": "https://open.spotify.com/track/0F1svfSx95E3qDBySn719G"
+    },
+    {
+      "added_at": "2026-08-28 01:52:00",
+      "album": {
+        "name": "LA GUARACHA (Oh Oh Oh)",
+        "url": "https://open.spotify.com/album/2I5gxj9pxbyE7o0TpcadAN"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        }
+      ],
+      "duration_ms": 200307,
+      "name": "LA GUARACHA (Oh Oh Oh)",
+      "url": "https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM"
     },
     {
       "added_at": "2026-08-28 01:52:00",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2026-08-28 01:52:00",
       "album": {
-        "name": "Desah\u00f3gate",
-        "url": "https://open.spotify.com/album/2lRg660je3IBftd8DnTgNK"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 118588,
-      "name": "Desah\u00f3gate",
-      "url": "https://open.spotify.com/track/1BSB5vq75OxagxoJbjnnjs"
-    },
-    {
-      "added_at": "2026-08-28 01:52:00",
-      "album": {
         "name": "Una Vida Pasada",
         "url": "https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 218500,
       "name": "Una Vida Pasada",
       "url": "https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl"
+    },
+    {
+      "added_at": "2026-08-28 01:52:00",
+      "album": {
+        "name": "Desah\u00f3gate",
+        "url": "https://open.spotify.com/album/2lRg660je3IBftd8DnTgNK"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 118588,
+      "name": "Desah\u00f3gate",
+      "url": "https://open.spotify.com/track/1BSB5vq75OxagxoJbjnnjs"
     },
     {
       "added_at": "2026-08-28 01:52:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2026-08-28 01:52:00",
       "album": {
-        "name": "love love FLAKK",
-        "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 131712,
-      "name": "PA\u00d1UELITO DE SEDA",
-      "url": "https://open.spotify.com/track/2EobCyeDCcozA1qD1iFjDO"
-    },
-    {
-      "added_at": "2026-08-28 01:52:00",
-      "album": {
         "name": "Priti",
         "url": "https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 130969,
       "name": "Priti",
       "url": "https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO"
+    },
+    {
+      "added_at": "2026-08-28 01:52:00",
+      "album": {
+        "name": "love love FLAKK",
+        "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 131712,
+      "name": "PA\u00d1UELITO DE SEDA",
+      "url": "https://open.spotify.com/track/2EobCyeDCcozA1qD1iFjDO"
     },
     {
       "added_at": "2026-08-28 01:52:00",

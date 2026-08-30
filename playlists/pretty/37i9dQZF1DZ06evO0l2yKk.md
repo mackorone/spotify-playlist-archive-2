@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 
 > This is Cardenales De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,183 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,237 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 | 49 | [Mía](https://open.spotify.com/track/78y0q35fwtH6nLW7X7gxqS) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Desde el Sur Hasta el Norte](https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050) | 3:31 |
 | 50 | [Bailotea](https://open.spotify.com/track/1fyLW3o7YFf1FokqoJHC9d) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [De Norte A Sur](https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw) | 3:02 |
 
-Snapshot ID: `ao9+AAAAAACKfmfq4BK8elMGBYu5wQSl`
+Snapshot ID: `apDPgAAAAABDzLMCHB25a46+1AlLTQta`

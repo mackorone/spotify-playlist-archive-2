@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,293 likes - 85 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,559 likes - 85 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 14 | [Jardin d'hiver](https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Chambre avec vue](https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH) | 2:48 |
 | 15 | [Que je t'aime](https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Ilo Veyou](https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP) | 3:43 |
 | 16 | [J'attendrai](https://open.spotify.com/track/0ik9ZRMOJjA9GK2QCcuVXj) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Dalida By Ibrahim Maalouf](https://open.spotify.com/album/6yEmVECRBuuBzZzGkSvTUH) | 4:19 |
-| 17 | [Le Temps D'Un Jazz](https://open.spotify.com/track/5NWxFc2xocyRyx0sak1H9Z) | [DANIEL ROURE](https://open.spotify.com/artist/7chv9cbzN45866WLtedtIO) | [Le Temps D'un Jazz](https://open.spotify.com/album/1SCXuUhchyBCqujs642Uc9) | 3:53 |
-| 18 | [Lettre A P](https://open.spotify.com/track/56j3S6jECUqwOExBifwy4B) | [Paris Combo](https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G) | [Attraction](https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS) | 3:42 |
+| 17 | [Lettre A P](https://open.spotify.com/track/56j3S6jECUqwOExBifwy4B) | [Paris Combo](https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G) | [Attraction](https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS) | 3:42 |
+| 18 | [Le Temps D'Un Jazz](https://open.spotify.com/track/5NWxFc2xocyRyx0sak1H9Z) | [DANIEL ROURE](https://open.spotify.com/artist/7chv9cbzN45866WLtedtIO) | [Le Temps D'un Jazz](https://open.spotify.com/album/1SCXuUhchyBCqujs642Uc9) | 3:53 |
 | 19 | [Sous le ciel de Paris](https://open.spotify.com/track/5nG9avzwlv693nrs10GZXW) | [Lara Louise](https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI) | [Sous le ciel de Paris](https://open.spotify.com/album/4GExjXdEO3WjgQnWH7nLKe) | 3:14 |
-| 20 | [Liberté](https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Little French Songs \(Deluxe Version Without Videos\)](https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx) | 3:36 |
-| 21 | [Au café de la paix](https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM) | [Les ronds de carotte](https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw) | 4:05 |
+| 20 | [Au café de la paix](https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM) | [Les ronds de carotte](https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw) | 4:05 |
+| 21 | [Liberté](https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Little French Songs \(Deluxe Version Without Videos\)](https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx) | 3:36 |
 | 22 | [Paris](https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4) | [Márcio Faraco](https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ) | [Cajueiro](https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq) | 3:21 |
 | 23 | [Je Cherche Un Homme](https://open.spotify.com/track/3dlZQnkxnxZjTV860ixUHx) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [Miss Kitt To You](https://open.spotify.com/album/2iWbUYKAbWPRV0XWL3W5IO) | 2:52 |
 | 24 | [La chanson d'Orphée \(Manha Do Carnaval\)](https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Bossa Nova](https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf) | 3:06 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 40 | [Menilmontant](https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy) | [Zazou](https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA) | [Merle Noir](https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod) | 4:49 |
 | 41 | [Tout Doucement](https://open.spotify.com/track/0OGo0CHKYXBzb9A9KdtQLz) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:23 |
 | 42 | [Les mots d'amour](https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Lovely Difficult](https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB) | 3:47 |
-| 43 | [Je voudrais me divertir](https://open.spotify.com/track/0uaVqzoBegeh8lfOzf4uso) | [Nicola Són](https://open.spotify.com/artist/7bdsnZAVc7rztEpxfr7kCM), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Nord Destin](https://open.spotify.com/album/6pmNJH43ZyjBR3wOsdCNHZ) | 4:07 |
-| 44 | [Je m'ennuie](https://open.spotify.com/track/4Qw9NyyIYkgGzcmRnrZPrT) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Rose](https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7) | 4:32 |
+| 43 | [Je m'ennuie](https://open.spotify.com/track/4Qw9NyyIYkgGzcmRnrZPrT) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Rose](https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7) | 4:32 |
+| 44 | [Je voudrais me divertir](https://open.spotify.com/track/0uaVqzoBegeh8lfOzf4uso) | [Nicola Són](https://open.spotify.com/artist/7bdsnZAVc7rztEpxfr7kCM), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Nord Destin](https://open.spotify.com/album/6pmNJH43ZyjBR3wOsdCNHZ) | 4:07 |
 | 45 | [Il Faut Du Temps Au Temps](https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD) | [Makali](https://open.spotify.com/artist/5LPtx0dSaHzNXSj8y6RLqO) | [De La Chanson Et Puis C'Est Tout...](https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe) | 2:30 |
 | 46 | [Plus Je T'embrasse](https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Whisper For You](https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7) | 2:29 |
 | 47 | [Cette Nuit là](https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5) | [Les Chauds Lapins](https://open.spotify.com/artist/59bbK26UZulXXlScPLSerQ) | [Amourettes](https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co) | 2:30 |

@@ -4,7 +4,7 @@
 
 > This is Slipmami\. The essential tracks, all in one playlist.
 
-80 songs - 3 hr 34 min
+81 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Jogada Que É Foda](https://open.spotify.com/track/4StZobTljFrwK85NRxkBHg) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem \(Deluxe\)](https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv) | 2:28 | 2023-12-30 |  |
 | [acha que a vida é um morango](https://open.spotify.com/track/4ZiwvRBx6kNjd6mkGdPLBQ) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Malvatrem](https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL) | 2:36 | 2023-12-30 | 2024-04-06 |
 | [acha que a vida é um morango](https://open.spotify.com/track/7l7NzgtELvaxXi4H9yT2Nw) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Malvatrem](https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh) | 2:36 | 2024-04-06 |  |
+| [bem\-vinda](https://open.spotify.com/track/4M0ljH7IjCgIhMRaCLE7eq) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [PUT@RIA & POE$IA \(mixtape\)](https://open.spotify.com/album/43T5mcn5KkRMK81HgYNfb7) | 2:45 | 2026-08-30 |  |
 | [BÔNUS TRACK](https://open.spotify.com/track/2A33hs2ntyZ52cXMn34ljk) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [b o u t](https://open.spotify.com/artist/3djiMLvUhyywlWQgpYDR41), [Brasil Grime Show](https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT) | [BÔNUS TRACK](https://open.spotify.com/album/3KMHDHQCUSXewfIPRUfo25) | 3:48 | 2023-12-30 | 2026-06-12 |
 | [Cosmo e Wanda](https://open.spotify.com/track/2AZFs8hGLEC00btCoKQGFb) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Cosmo e Wanda](https://open.spotify.com/album/4e7KAQn2VK5U9452GKBay5) | 2:12 | 2024-06-01 |  |
 | [cria de caxias](https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Cria de Caxias](https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4) | 2:07 | 2024-09-06 |  |
@@ -57,7 +58,7 @@
 | [Novinho](https://open.spotify.com/track/2SjuOuO0otxPJahfA3H7SV) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Rafu](https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk) | [Gostosa Posturada](https://open.spotify.com/album/0wAogaPUucF4zLQUUzW2Je) | 3:15 | 2025-11-28 |  |
 | [Novinho](https://open.spotify.com/track/4Sb6JzypvlH5V8DBQ6alMq) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Rafu](https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk) | [Gostosa Posturada](https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF) | 3:15 | 2023-12-30 | 2025-11-28 |
 | [Não Gosto](https://open.spotify.com/track/23dDG4rg0mZT3YwKOTgF8T) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Até aqui, Slip nos ajudou](https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS) | 2:54 | 2024-09-15 |  |
-| [O PAPO](https://open.spotify.com/track/5vCNAAU8tzGTExuDLNjs7n) | [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [MONTE RUSH+](https://open.spotify.com/album/3Diovb4bH559HziAhlI21P) | 2:15 | 2023-12-30 |  |
+| [O PAPO](https://open.spotify.com/track/5vCNAAU8tzGTExuDLNjs7n) | [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [MONTE RUSH+](https://open.spotify.com/album/3Diovb4bH559HziAhlI21P) | 2:15 | 2023-12-30 | 2026-08-30 |
 | [Oompa Loompa](https://open.spotify.com/track/17YRNfsbyA7wTOEhANAyK7) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Malvatrem](https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL) | 3:14 | 2023-12-30 | 2024-04-06 |
 | [Oompa Loompa](https://open.spotify.com/track/7jkJFBfBHW78JccPtxMdOU) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Malvatrem](https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh) | 3:14 | 2024-04-06 |  |
 | [Outro Som de Sacanagem](https://open.spotify.com/track/4PylJL83J3Pl6m4NN2tmhm) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Vhulto](https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Outro Som de Sacanagem](https://open.spotify.com/album/3V0bygxwuP7I5rdeSZ20rh) | 1:55 | 2023-12-30 |  |

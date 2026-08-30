@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Sommerferien, Eis in der Hand und ganz viel Badespaß!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,753 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,762 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 45 | [Wir wollen Sonne \(Verde e amarelo\)](https://open.spotify.com/track/47ALOYPkzNdCqqzcS58Wsu) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Sommerkinder](https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH) | 3:39 |
 | 46 | [Sommer](https://open.spotify.com/track/4fqDukYPhU2b4fwPXl2vNc) | [Kinders](https://open.spotify.com/artist/63MX07R69cmkANXsTcgpwN), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7), [Remmi Demmi](https://open.spotify.com/artist/4bLZXiel2Er87VCdVLMEeW), [Matti MC](https://open.spotify.com/artist/0c0NoscMWOTJGeYNsbAUjE) | [Sommer](https://open.spotify.com/album/07lh3EusxSMocrboK796JF) | 3:05 |
 | 47 | [Mücken nerven Leute](https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w) | [Laing](https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC), [Unter meinem Bett](https://open.spotify.com/artist/7y89sMv0ADqEMEOo2tOIM7) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 3:11 |
-| 48 | [Sommertag](https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Sommertag](https://open.spotify.com/album/7MOstpjqCCqLl5QFufgSdf) | 2:08 |
-| 49 | [Was müssen das für Bäume sein](https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO) | [Ulla Meinecke](https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen](https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD) | 3:35 |
+| 48 | [Was müssen das für Bäume sein](https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO) | [Ulla Meinecke](https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen](https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD) | 3:35 |
+| 49 | [Sommertag](https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Sommertag](https://open.spotify.com/album/7MOstpjqCCqLl5QFufgSdf) | 2:08 |
 | 50 | [Jetzt kommt die Biene Maja](https://open.spotify.com/track/1hNHctnuG5O74TamlCXKKY) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Die Biene Maja \- Meine Lieder](https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma) | 3:03 |
 
 Snapshot ID: `AAAAACT8mYsUOaEbV6cRzPcUkaDtBTJV`

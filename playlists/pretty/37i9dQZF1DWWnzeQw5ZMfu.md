@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: ROLE MODEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,694 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,698 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

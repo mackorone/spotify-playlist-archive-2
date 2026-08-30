@@ -1603,24 +1603,6 @@
     },
     {
       "album": {
-        "name": "\u9f8d\u304c\u5982\u304f8\u5916\u4f1d Pirates in Hawaii (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0kNNuuPwoT8RxIal5gogOe"
-      },
-      "artists": [
-        {
-          "name": "\u771f\u5cf6\u543e\u6717(\u5b87\u57a3\u79c0\u6210)",
-          "url": "https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn"
-        }
-      ],
-      "date_added": "2025-02-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 252840,
-      "name": "Midnight Desire (Full Spec Edition)",
-      "url": "https://open.spotify.com/track/1rktDHrMkyg7J4eQOltLOk"
-    },
-    {
-      "album": {
         "name": "Captain Majima - EP",
         "url": "https://open.spotify.com/album/6pBoDdXiQbk9Q70XbSCQtZ"
       },
@@ -1636,6 +1618,24 @@
       "duration_ms": 254800,
       "name": "Midnight Desire (Full Spec Edition)",
       "url": "https://open.spotify.com/track/1IyBI6VAYuXfzr9ZCO8USg"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f8\u5916\u4f1d Pirates in Hawaii (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0kNNuuPwoT8RxIal5gogOe"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u5cf6\u543e\u6717(\u5b87\u57a3\u79c0\u6210)",
+          "url": "https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252840,
+      "name": "Midnight Desire - Full Spec Edition",
+      "url": "https://open.spotify.com/track/1rktDHrMkyg7J4eQOltLOk"
     },
     {
       "album": {

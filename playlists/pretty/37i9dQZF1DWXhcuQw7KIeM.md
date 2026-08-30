@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North.
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,378 likes - 75 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,487 likes - 75 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 31 | [Ylfa Spere](https://open.spotify.com/track/1qA1LY2FHhsCWDai6Byfsb) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Ylfa Spere](https://open.spotify.com/album/74Waqk73z57ISc8IGhzsB3) | 3:35 |
 | 32 | [Norðrljós](https://open.spotify.com/track/0Sjps7HTP1MUPUXqBMXTt0) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Norðrljós](https://open.spotify.com/album/4UC8HNvhmz0b0ZspOcbmCa) | 3:20 |
 | 33 | [Seidfylgjur](https://open.spotify.com/track/0kyH6SWNBMNnBiK8R15dwl) | [Rúnahild](https://open.spotify.com/artist/6B28AjXpmQglsDG2hHAwg3) | [Seidfylgjur](https://open.spotify.com/album/6gFf0gVsTsA1gB3d1Whj8e) | 4:20 |
-| 34 | [Ella](https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Ella](https://open.spotify.com/album/4Bb09POxCDNaLQPXWO4qv9) | 3:54 |
-| 35 | [Umai](https://open.spotify.com/track/3C821qtpWKmA0acEYMjXLQ) | [Shireen](https://open.spotify.com/artist/5seY97ZUURo9gKO34z2G06) | [Matriarch](https://open.spotify.com/album/4ENwBjtTvOOWfl0hrbVAyD) | 6:18 |
+| 34 | [Umai](https://open.spotify.com/track/3C821qtpWKmA0acEYMjXLQ) | [Shireen](https://open.spotify.com/artist/5seY97ZUURo9gKO34z2G06) | [Matriarch](https://open.spotify.com/album/4ENwBjtTvOOWfl0hrbVAyD) | 6:18 |
+| 35 | [Ella](https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Ella](https://open.spotify.com/album/4Bb09POxCDNaLQPXWO4qv9) | 3:54 |
 | 36 | [Stay](https://open.spotify.com/track/3foIGbQ1FPZYJJ7RQ6v4Nj) | [Numenorean](https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc) | [Adore](https://open.spotify.com/album/4Yf0HZRHPCZvRteeDMLcul) | 2:21 |
 | 37 | [The Elm](https://open.spotify.com/track/6kGb58FphWqHUAbDQyw72G) | [Suldusk](https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg) | [Lunar Falls](https://open.spotify.com/album/1HUzttzwHcJeFyIBGeLXL3) | 3:30 |
 | 38 | [Vindr](https://open.spotify.com/track/6zcPcvIJ1pf9eAdrWFHdgR) | [Asynje](https://open.spotify.com/artist/42mveNsBgkZr7J2aMZQouQ), [Nanna Barslev](https://open.spotify.com/artist/5icXwn4kNVG6IZz7TmaaFI) | [Galdr](https://open.spotify.com/album/5EIujAPdoMNJepCWvKA6Tn) | 5:18 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 53 | [Huginn ok Muninn](https://open.spotify.com/track/2Xxvm29k94TTwGmAX7UhBA) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [Huginn ok Muninn](https://open.spotify.com/album/29kFr26QuyvyBsRyzwrFkb) | 5:13 |
 | 54 | [Set the Sails](https://open.spotify.com/track/6ZOx4ehXa8K2LESIQzIaqA) | [Storm Seeker](https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c) | [Set the Sails](https://open.spotify.com/album/32yJV9RCY9rHW8Hc2isL1c) | 3:16 |
 | 55 | [Sun and the Morning Star](https://open.spotify.com/track/5UcGAYuUcxiGt7Wc2SwWBu) | [Romuvos](https://open.spotify.com/artist/0GlwrXB5cmvWo091lMFeud) | [Sun and the Morning Star](https://open.spotify.com/album/5Lg1rhYDzoYgL6XFEnHnKA) | 5:23 |
-| 56 | [Hibjørnen](https://open.spotify.com/track/10D9EfOCDrswH6b33eqvQW) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Hibjørnen](https://open.spotify.com/album/2nLM3Cr0Gj0sKvQQXXkJvb) | 3:02 |
-| 57 | [Relics of the Natural Realm](https://open.spotify.com/track/5cbnif2ROYIXzqWWJ6ZUMa) | [Sojourner](https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X) | [Perennial](https://open.spotify.com/album/3zxt9rDcbBMJBPL6fmgTeJ) | 5:20 |
-| 58 | [Les](https://open.spotify.com/track/4zrkDm3R7bM53Tvknv5dks) | [Theodor Bastard](https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF) | [Volch'ya Yagoda](https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS) | 4:09 |
+| 56 | [Relics of the Natural Realm](https://open.spotify.com/track/5cbnif2ROYIXzqWWJ6ZUMa) | [Sojourner](https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X) | [Perennial](https://open.spotify.com/album/3zxt9rDcbBMJBPL6fmgTeJ) | 5:20 |
+| 57 | [Les](https://open.spotify.com/track/4zrkDm3R7bM53Tvknv5dks) | [Theodor Bastard](https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF) | [Volch'ya Yagoda](https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS) | 4:09 |
+| 58 | [Hibjørnen](https://open.spotify.com/track/10D9EfOCDrswH6b33eqvQW) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Hibjørnen](https://open.spotify.com/album/2nLM3Cr0Gj0sKvQQXXkJvb) | 3:02 |
 | 59 | [Anaia](https://open.spotify.com/track/3zV5XvBjP9uvQlfW2z7hCC) | [IANAI](https://open.spotify.com/artist/1yGcDrrvQWSoki7RrXWPhh), [Client N](https://open.spotify.com/artist/4ItT2MdjEl4l5HrxkWT9QF) | [Sunir](https://open.spotify.com/album/4LmG2mr04QCWGQ51SiDrWA) | 6:38 |
 | 60 | [Saga of the North](https://open.spotify.com/track/5YuyHtVMCHDEcaNGgiTQOL) | [Tokt](https://open.spotify.com/artist/01CEsyk6W2k8Pgw5TrEty0) | [Tales from the North](https://open.spotify.com/album/3BG4tlGVST1q4yrHshwHLx) | 3:32 |
 | 61 | [Adler fliegen](https://open.spotify.com/track/0zhifYXC21jjDwivaFBgQU) | [Die Apokalyptischen Reiter](https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn) | [Adler fliegen](https://open.spotify.com/album/2sRCokQ9XwnEPPGt5OwbYL) | 3:38 |

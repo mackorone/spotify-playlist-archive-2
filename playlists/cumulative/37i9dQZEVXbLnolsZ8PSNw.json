@@ -4928,7 +4928,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 258296,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
@@ -9280,7 +9280,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 142222,
       "name": "Clean Baby Sleep White Noise (Loopable no fade)",
       "url": "https://open.spotify.com/track/3BgK59BTBUs8iQtnegfMfz"
@@ -9556,7 +9556,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 186453,
       "name": "Coat of Many Colors",
       "url": "https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z"
@@ -14113,6 +14113,24 @@
     },
     {
       "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156856,
+      "name": "EMERALD EYES",
+      "url": "https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36"
+    },
+    {
+      "album": {
         "name": "Even In Arcadia",
         "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
       },
@@ -15848,6 +15866,24 @@
       "duration_ms": 225905,
       "name": "Ferrari Horses",
       "url": "https://open.spotify.com/track/5erCwioOcRwP59NJUAtEK3"
+    },
+    {
+      "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/50E5Op3ZjRibJGZjGBcGR6"
     },
     {
       "album": {
@@ -34054,7 +34090,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 286967,
       "name": "Orbiter",
       "url": "https://open.spotify.com/track/77fL8ATR0dpUDLI0XLmDBV"

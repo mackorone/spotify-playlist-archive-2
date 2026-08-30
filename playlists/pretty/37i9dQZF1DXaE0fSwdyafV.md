@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 
 > It's the witching hours\. Cover: Florence + The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,465 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,464 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 26 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 |
 | 27 | [Like Real People Do](https://open.spotify.com/track/57V4uc2b2diZ4RPHXWecb9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:18 |
 | 28 | [Stargazing](https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones \(Deluxe\)](https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ) | 3:37 |
-| 29 | [Spooky](https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty..\. Definitely \(Expanded Edtion\)](https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN) | 2:44 |
-| 30 | [Eyes on Fire](https://open.spotify.com/track/3XHrTm6WE2BOHafLwTT3GR) | [Blue Foundation](https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr) | [Life Of A Ghost](https://open.spotify.com/album/5Chvs2hsJcGowLm4PgigEl) | 5:02 |
+| 29 | [Eyes on Fire](https://open.spotify.com/track/3XHrTm6WE2BOHafLwTT3GR) | [Blue Foundation](https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr) | [Life Of A Ghost](https://open.spotify.com/album/5Chvs2hsJcGowLm4PgigEl) | 5:02 |
+| 30 | [Spooky](https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty..\. Definitely \(Expanded Edtion\)](https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN) | 2:44 |
 | 31 | [Edge of Seventeen](https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 5:29 |
 | 32 | [Dreams](https://open.spotify.com/track/1lbXEepatjRVjoG8pZMtdp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:14 |
 | 33 | [Age of Consent \- 2015 Remaster](https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Power Corruption and Lies](https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ) | 5:15 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 37 | [Fallingwater](https://open.spotify.com/track/2CPLGREl5ahzA2WPBMkpxh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 4:31 |
 | 38 | [I'm Your Man](https://open.spotify.com/track/6YO2dalWyZSobXSY3UUPv9) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:29 |
 | 39 | [Right Down the Line](https://open.spotify.com/track/5wnIDrgujfOoHAHXVRpUMF) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/0ZD5b1lLNLZH8rMq1bOhkh) | 4:27 |
-| 40 | [Halloween](https://open.spotify.com/track/2GDxR0ZGYqDQUElSQxBiNS) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:31 |
-| 41 | [notre dame](https://open.spotify.com/track/4ni2PRjuIORNFXvWB74SqX) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [notre dame](https://open.spotify.com/album/6FG85HWGBfk6AbHszOjuSN) | 4:18 |
+| 40 | [notre dame](https://open.spotify.com/track/4ni2PRjuIORNFXvWB74SqX) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [notre dame](https://open.spotify.com/album/6FG85HWGBfk6AbHszOjuSN) | 4:18 |
+| 41 | [Halloween](https://open.spotify.com/track/2GDxR0ZGYqDQUElSQxBiNS) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:31 |
 | 42 | [Burn Your Village](https://open.spotify.com/track/16Ggpcwd7ZxTveNBNN4GWT) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Rituals On The Bank Of A Familiar River](https://open.spotify.com/album/0sxjVtCBiHWdZLWyndytPJ) | 4:04 |
 | 43 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 |
 | 44 | [Writer In The Dark](https://open.spotify.com/track/193Dm5SqYy3hTSbuzxbwKc) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:36 |

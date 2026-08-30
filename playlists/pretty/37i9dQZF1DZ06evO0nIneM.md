@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 
 > This is BLØF\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,473 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,481 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 | 15 | [Liefs Uit Londen](https://open.spotify.com/track/0KCcRzDsTMAbivhwGzdFZx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Helder \(inclusief Live Bonus Tracks\)](https://open.spotify.com/album/72x70QVko5v9g0F1GCtAi0) | 3:58 |
 | 16 | [Zaterdag](https://open.spotify.com/track/141mW0BgAlJLZugUvKQuyM) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Boven](https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6) | 4:44 |
 | 17 | [Dichterbij Dan Ooit](https://open.spotify.com/track/7GUINjT9Hi5zxqL4MgVtwY) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Blauwe Ruis](https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK) | 4:21 |
-| 18 | [Over De Dam](https://open.spotify.com/track/5a6UWbPBj1cAipfZzwDXRj) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Aan](https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59) | 4:10 |
-| 19 | [Laat Me Los](https://open.spotify.com/track/1G7e24hHShCgVSDrtu9k9k) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 3:58 |
+| 18 | [Laat Me Los](https://open.spotify.com/track/1G7e24hHShCgVSDrtu9k9k) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 3:58 |
+| 19 | [Over De Dam](https://open.spotify.com/track/5a6UWbPBj1cAipfZzwDXRj) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Aan](https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59) | 4:10 |
 | 20 | [Mannenharten](https://open.spotify.com/track/1RkgroVbrTs8gFeHJ4znJt) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Zo Van Ah Yeah](https://open.spotify.com/album/1HWYzaevKQh0f5aIC2tlxe) | 3:32 |
 | 21 | [Alles Is Liefde](https://open.spotify.com/track/0cKngKox9JinYgGOSNIT3A) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Alles Is Liefde](https://open.spotify.com/album/00t8725Mi7kTI3vspkGvfQ) | 3:29 |
 | 22 | [Hou Vol Hou Vast](https://open.spotify.com/track/4oUOerXJ5liI48Swoegk0d) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Alles Blijft Anders](https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC) | 4:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 | 49 | [Een Manier Om Thuis Te Komen](https://open.spotify.com/track/1FECUzfklLYzvIZhoiiwQG) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Umoja](https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt) | 5:11 |
 | 50 | [Regen](https://open.spotify.com/track/46V1YQy4dwmVG9zB5PkawO) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Francis](https://open.spotify.com/album/1pgAdTVfRnyzn4AqNXOUZ2) | 3:26 |
 
-Snapshot ID: `ao9+AAAAAAC5aryuYqkPPz4UyMVk8M7u`
+Snapshot ID: `apDPgAAAAAA6g6Q4ChsCqW9EcLdHjg8v`

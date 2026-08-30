@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dancefloor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,806 likes - 75 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,003 likes - 75 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 38 | [No Tengo Dinero](https://open.spotify.com/track/27Mvfc9nYszQDF6S84J39D) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Singles 83/87](https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4) | 3:20 |
 | 39 | [Visitors](https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn) | [Koto](https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0) | [Greatest Hits &amp; Remixes](https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo) | 3:32 |
 | 40 | [Barbara](https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Barbara e altri Carella](https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo) | 4:06 |
-| 41 | [Magico… di notte \- Pekka Remix](https://open.spotify.com/track/6J4aJyqlNCaWUrbxphFEGs) | [Alan Sorrenti](https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq), [Pekka](https://open.spotify.com/artist/2NvhTV15q4C30KMgyo7LDm) | [Magico… di notte \(Pekka Remix\)](https://open.spotify.com/album/33prMFWRolx0tl0Wqi6hw4) | 3:03 |
-| 42 | [Neutron Dance](https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [The Division](https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV) | 6:36 |
+| 41 | [Neutron Dance](https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [The Division](https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV) | 6:36 |
+| 42 | [Magico… di notte \- Pekka Remix](https://open.spotify.com/track/6J4aJyqlNCaWUrbxphFEGs) | [Alan Sorrenti](https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq), [Pekka](https://open.spotify.com/artist/2NvhTV15q4C30KMgyo7LDm) | [Magico… di notte \(Pekka Remix\)](https://open.spotify.com/album/33prMFWRolx0tl0Wqi6hw4) | 3:03 |
 | 43 | [I Wanna Be Your Lover](https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ) | [La Bionda](https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i) | [The Collection](https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT) | 3:13 |
 | 44 | [Masterpiece](https://open.spotify.com/track/7vOs0UNehTDMera8uv6fXh) | [Gazebo](https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1) | [Viewpoint](https://open.spotify.com/album/2hGI6J931bSqHmpirIY9Fb) | 4:14 |
 | 45 | [La Viaggiatrice You \- ELASI Remix](https://open.spotify.com/track/1SOkB4qB1UmnAECvmkjYJF) | [Patty Pravo](https://open.spotify.com/artist/2Yi5fknmHBqqKjHF6cXQyh), [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [La Viaggiatrice You \(ELASI Remix\)](https://open.spotify.com/album/0M5vmygnCLAHqnLDNqvTyX) | 2:54 |

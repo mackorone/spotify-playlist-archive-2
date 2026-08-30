@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pcjIHtCtNOL6UG7yMKv1k">SECH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,194 likes - 184 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,195 likes - 184 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 126 | [La Mesera](https://open.spotify.com/track/3DJHqEPwg9F8DUOvc3iRAi) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [The Sensation](https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU) | 3:14 |
 | 127 | [En Lo Oscuro](https://open.spotify.com/track/5HsVMsv3IT1t3IdaHeCo0N) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 2:21 |
 | 128 | [¿Qué Somos?](https://open.spotify.com/track/30d3QDKSRgsiPr8yenfSYK) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 2:52 |
-| 129 | [BLINBLINEO \(feat\. Omar Courtz\)](https://open.spotify.com/track/0SOCRjLkavUZKS4xLYFQWK) | [The Academy: Segunda Misión](https://open.spotify.com/artist/4C3ZmIqca9MWwThLaYbfXu), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [The Academy: Segunda Misión](https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu) | 3:56 |
-| 130 | [TOY PERDIO](https://open.spotify.com/track/2CxgzjYpCAQqeB2J2OPd5H) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 2:55 |
+| 129 | [TOY PERDIO](https://open.spotify.com/track/2CxgzjYpCAQqeB2J2OPd5H) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 2:55 |
+| 130 | [BLINBLINEO \(feat\. Omar Courtz\)](https://open.spotify.com/track/0SOCRjLkavUZKS4xLYFQWK) | [The Academy: Segunda Misión](https://open.spotify.com/artist/4C3ZmIqca9MWwThLaYbfXu), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [The Academy: Segunda Misión](https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu) | 3:56 |
 | 131 | [Victoria](https://open.spotify.com/track/1kJMKvx1vAK7xt8vjO7Kym) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [La Nueva Ola](https://open.spotify.com/album/25w0kbwVprNRy6RisuqLOt) | 3:35 |
 | 132 | [Picasso](https://open.spotify.com/track/7LylJimmD7ChDg0TnNybAx) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:05 |
 | 133 | [Cumpleaños](https://open.spotify.com/track/6xBV9IPuFJmy1bzeEaePdJ) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [The Sensation](https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU) | 3:18 |
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 183 | [Definitivamente](https://open.spotify.com/track/2Dms2O1sG4cAzEMHbBp5ST) | [Tomy DJ](https://open.spotify.com/artist/6e7knXUrhWcp85TTN6za9z) | [Definitivamente](https://open.spotify.com/album/2CjZWrOpdiFhSR6eZlFbUO) | 3:23 |
 | 184 | [Sin DJ](https://open.spotify.com/track/7hwkJDetmwkoVMnG7xoCSu) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [GHETTO CHILD](https://open.spotify.com/album/58pf971AkkgVetgudNWweN) | 2:03 |
 
-Snapshot ID: `Aca1FAAAAABth+6l+YKHYlvQMPiHf0e+`
+Snapshot ID: `Aca6PAAAAAAvRDjxNqXletI1pxhoaWNc`

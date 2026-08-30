@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 
 > the best things in life can't be contained.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,324,489 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,324,381 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 54 | [Johnny](https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:59 |
 | 55 | [Old Black Magic](https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Fever Breaks](https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS) | 4:46 |
 | 56 | [Get Up](https://open.spotify.com/track/61YuCtYvNxDecX2qlR62z3) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Reckless Skyline](https://open.spotify.com/album/7DjQyYdYrfB3DcgoULegGK) | 3:44 |
-| 57 | [Miles Away](https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [People Are My Drug](https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl) | 4:01 |
-| 58 | [Crumbled](https://open.spotify.com/track/5daoW1nT2JllZjmSKg0lnn) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [Crumbled](https://open.spotify.com/album/0JBgcEn8eL5ptwsHBV50mA) | 3:13 |
-| 59 | [Come Find Me](https://open.spotify.com/track/4b36RncsINpQaOxeEbLB6q) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf), [Eric Straube](https://open.spotify.com/artist/1JqWg1y0s3ZAqHYbfuAAJZ), [Chris Qualls](https://open.spotify.com/artist/1Q0uAs7926hdflLJ58XUvZ) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:36 |
+| 57 | [Crumbled](https://open.spotify.com/track/5daoW1nT2JllZjmSKg0lnn) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [Crumbled](https://open.spotify.com/album/0JBgcEn8eL5ptwsHBV50mA) | 3:13 |
+| 58 | [Come Find Me](https://open.spotify.com/track/4b36RncsINpQaOxeEbLB6q) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf), [Eric Straube](https://open.spotify.com/artist/1JqWg1y0s3ZAqHYbfuAAJZ), [Chris Qualls](https://open.spotify.com/artist/1Q0uAs7926hdflLJ58XUvZ) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:36 |
+| 59 | [Miles Away](https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [People Are My Drug](https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl) | 4:01 |
 | 60 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 |
 | 61 | [October \(October Version\)](https://open.spotify.com/track/3yNu9MBN7cBxMY17fxinZD) | [HAPPY LANDING](https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6) | [October \(October Version\)](https://open.spotify.com/album/3uf5rVvGGDmnbWBH0ZvJse) | 4:37 |
 | 62 | [Backpush](https://open.spotify.com/track/7hvKZ3NHYhcM4wiNccX4EF) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Backpush](https://open.spotify.com/album/0vKhuvHMBrPryyetnK4mWj) | 3:02 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 72 | [Teenage Drug](https://open.spotify.com/track/2FpLyV7tVMRHJAq3foYHPU) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [En Garde](https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy) | 3:40 |
 | 73 | [Expectations](https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/6zP9AZREIcUvAjpX2lKRIl) | 3:55 |
 | 74 | [If Something Breaks](https://open.spotify.com/track/7DjrbcooF37ZDOLjOK33xN) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Other Love Songs](https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ) | 4:56 |
-| 75 | [A Random Act Of Kindness](https://open.spotify.com/track/5GepgBdAV6eI3RoijuHZua) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 4:14 |
-| 76 | [Wishing Girl](https://open.spotify.com/track/4mg7HYMVMmdACnDpEGETiK) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Wishing Girl](https://open.spotify.com/album/0MNyqTTXzC3al4QRSLrf6z) | 3:12 |
+| 75 | [Wishing Girl](https://open.spotify.com/track/4mg7HYMVMmdACnDpEGETiK) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Wishing Girl](https://open.spotify.com/album/0MNyqTTXzC3al4QRSLrf6z) | 3:12 |
+| 76 | [A Random Act Of Kindness](https://open.spotify.com/track/5GepgBdAV6eI3RoijuHZua) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 4:14 |
 | 77 | [These Cold Nights](https://open.spotify.com/track/6sT74ZUI79YngZKOE5mbux) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [These Cold Nights](https://open.spotify.com/album/3VFxogXEXNQQXQeAMlTbn9) | 3:36 |
 | 78 | [Falling Asleep At The Wheel](https://open.spotify.com/track/5H1va3j5Bmr4zdBVgTwUti) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Falling Asleep At The Wheel](https://open.spotify.com/album/2CndY3GLsa0e0gliCDPMsK) | 3:23 |
 | 79 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 82 | [Mountain Man](https://open.spotify.com/track/63YnmHKlutFFkgfFB0OcPU) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [Mountain Man](https://open.spotify.com/album/69Vry8bfaTqkz88FDDEbNG) | 3:58 |
 | 83 | [Summertime Mama](https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 2:56 |
 | 84 | [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 |
-| 85 | [Prospector's Blues](https://open.spotify.com/track/1tfvW4LgacPraNoPKcYeFc) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Prospector's Blues](https://open.spotify.com/album/0IgccMfQHxbZw6WGV0DGqW) | 3:59 |
-| 86 | [Star to Star](https://open.spotify.com/track/3Ju1WFIZEe5hEZsKpfjC4B) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:49 |
+| 85 | [Star to Star](https://open.spotify.com/track/3Ju1WFIZEe5hEZsKpfjC4B) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:49 |
+| 86 | [Prospector's Blues](https://open.spotify.com/track/1tfvW4LgacPraNoPKcYeFc) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Prospector's Blues](https://open.spotify.com/album/0IgccMfQHxbZw6WGV0DGqW) | 3:59 |
 | 87 | [Futures](https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 4:45 |
 | 88 | [Ghost](https://open.spotify.com/track/2BECFMSvqH5xq5RXMNVO0r) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Ghost](https://open.spotify.com/album/34U30cuzRVT1nQX0Hf9LUS) | 3:25 |
 | 89 | [Gimme the Beat Back](https://open.spotify.com/track/056W9KxE1pktCEsiydW6ZX) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Gimme the Beat Back](https://open.spotify.com/album/76VRoxpT60WNLRxMwovLfY) | 2:45 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 96 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 |
 | 97 | [Dynamite](https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Dynamite](https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq) | 3:21 |
 | 98 | [Man Made by Delusion](https://open.spotify.com/track/5MfrKMzZ2eU9FTiLjgMKmy) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [5am Paradise](https://open.spotify.com/album/68bhX8AcCObSmY57ogdl4J) | 3:24 |
-| 99 | [Fields of Gold](https://open.spotify.com/track/72EsFNeQy959UicF9Q6H4i) | [Daughter of Swords](https://open.spotify.com/artist/4PAN1zWvarcHxfPhJOAHMg) | [Dawnbreaker](https://open.spotify.com/album/44wumRa2cbldLimmZdHbow) | 3:31 |
-| 100 | [Love Gone Wrong](https://open.spotify.com/track/4x3c8AbiCt9HV9E4rXsseZ) | [Lula Wiles](https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY) | [What Will We Do](https://open.spotify.com/album/3sEu90OiFEw1J1MZFvae7X) | 3:56 |
+| 99 | [Love Gone Wrong](https://open.spotify.com/track/4x3c8AbiCt9HV9E4rXsseZ) | [Lula Wiles](https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY) | [What Will We Do](https://open.spotify.com/album/3sEu90OiFEw1J1MZFvae7X) | 3:56 |
+| 100 | [Fields of Gold](https://open.spotify.com/track/72EsFNeQy959UicF9Q6H4i) | [Daughter of Swords](https://open.spotify.com/artist/4PAN1zWvarcHxfPhJOAHMg) | [Dawnbreaker](https://open.spotify.com/album/44wumRa2cbldLimmZdHbow) | 3:31 |
 
 Snapshot ID: `AAAAALFB9EgHXoOJn/Kf+tWS6kBJ0L5S`

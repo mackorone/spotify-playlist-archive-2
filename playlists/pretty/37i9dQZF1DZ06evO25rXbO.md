@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 
 > This is Gorillaz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,249,878 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,249,984 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 | 49 | [Controllah \(feat\. MC Bin Laden\)](https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Cracker Island \(Deluxe\)](https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2) | 2:30 |
 | 50 | [Revolving Doors](https://open.spotify.com/track/4IekHBYUwUNLILgA9R22OD) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Fall](https://open.spotify.com/album/5jJGGsAztgUEXUHHZ2zrah) | 3:26 |
 
-Snapshot ID: `ao9+AAAAAACcjVg6HL4dyX0dmgjPMnmG`
+Snapshot ID: `apDPgAAAAABkemkAuQzTJXQO/nbDT0DE`

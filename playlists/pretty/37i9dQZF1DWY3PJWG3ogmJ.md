@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,007 likes - 120 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,045 likes - 120 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 26 | [Visions in My Head](https://open.spotify.com/track/1JvMOOYZjXLQCZ5p5b0JJD) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Inked in Blood \(Deluxe Version\)](https://open.spotify.com/album/4t3LpnsYsu1RBOwHkmwh8k) | 4:14 |
 | 27 | [Hornet's Nest](https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Hornet's Nest](https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB) | 4:39 |
 | 28 | [Return to Strength](https://open.spotify.com/track/4dwkRSahcpLc1idfrxeuvk) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [Keepers Of The Faith](https://open.spotify.com/album/6hu0pi5xOAgeHvXphLLc4W) | 2:40 |
-| 29 | [Barren and Breathless Macrocosm](https://open.spotify.com/track/5LoE9oTVlb2x59rKfkyyTZ) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Trevor Strnad](https://open.spotify.com/artist/1M5Gj4up3YtKtUY8xecMRb) | [Melancholy](https://open.spotify.com/album/5IgHVlikizQFBPieV1uk8v) | 4:56 |
-| 30 | [All Pride No Pain](https://open.spotify.com/track/35qULvfVsRGHE2u4OkNzI0) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Southern Hostility](https://open.spotify.com/album/5NGFaarv4KxVYH9LvaMLso) | 3:27 |
+| 29 | [All Pride No Pain](https://open.spotify.com/track/35qULvfVsRGHE2u4OkNzI0) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Southern Hostility](https://open.spotify.com/album/5NGFaarv4KxVYH9LvaMLso) | 3:27 |
+| 30 | [Barren and Breathless Macrocosm](https://open.spotify.com/track/5LoE9oTVlb2x59rKfkyyTZ) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Trevor Strnad](https://open.spotify.com/artist/1M5Gj4up3YtKtUY8xecMRb) | [Melancholy](https://open.spotify.com/album/5IgHVlikizQFBPieV1uk8v) | 4:56 |
 | 31 | [TOMBSTONE](https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [TOMBSTONE](https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr) | 2:58 |
 | 32 | [The Beauty of Suffering](https://open.spotify.com/track/0rnei6XtEFfLo5EzciKXXo) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Spiritbox](https://open.spotify.com/album/158bnWWnX3VhlcoD4mcsK5) | 5:37 |
 | 33 | [Scratch the Surface](https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Nonstop](https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU) | 2:45 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 44 | [Übermacht](https://open.spotify.com/track/3CNN8lGt2bMKWylhaNnR50) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Of Truth And Sacrifice](https://open.spotify.com/album/75nIP8284NK6VM5mCQCq36) | 5:25 |
 | 45 | [Divine](https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Divine](https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA) | 3:39 |
 | 46 | [Blood in the Sands of Time](https://open.spotify.com/track/4evo7dv7goRstcgHFhcJMQ) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Chuck Billy](https://open.spotify.com/artist/62PhVjMmDVdX7u8pHx7N2C) | [Elegy](https://open.spotify.com/album/1YwAkYsGTgNMWaayCgxjsb) | 5:22 |
-| 47 | [Trial by Fire](https://open.spotify.com/track/0DRhN7G5jfmZZqUyN6uy1B) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3) | [Welcome to the West Coast II](https://open.spotify.com/album/0koMGPUKzfeKYT376Unywa) | 3:17 |
-| 48 | [Bleeding Sun](https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Bleeding Sun](https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO) | 3:39 |
+| 47 | [Bleeding Sun](https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Bleeding Sun](https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO) | 3:39 |
+| 48 | [Trial by Fire](https://open.spotify.com/track/0DRhN7G5jfmZZqUyN6uy1B) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3) | [Welcome to the West Coast II](https://open.spotify.com/album/0koMGPUKzfeKYT376Unywa) | 3:17 |
 | 49 | [All Love Is Lost \(feat\. Max Cavalera\)](https://open.spotify.com/track/3AsOm7qVG0IWyLFKRH7v6V) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i), [Max Cavalera](https://open.spotify.com/artist/6p9q2PEuRNRMIXy0mxtDaf) | [Bloodlust](https://open.spotify.com/album/6mbEfaoHDNBiXhlUQzzn4m) | 3:36 |
 | 50 | [In Darkness](https://open.spotify.com/track/0Y7kbZ3s7AYKGc0N8BJngA) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [In Darkness](https://open.spotify.com/album/1OKhPR0IeOTmyM5dqxSpMD) | 2:37 |
 | 51 | [At War with Love](https://open.spotify.com/track/5FQWkrXcQjbmTVgVWnP0Ed) | [Nasty](https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB) | [Realigion](https://open.spotify.com/album/4afXSzVyWCZMHFAuJdwG4R) | 3:33 |
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 114 | [Inner Vision](https://open.spotify.com/track/2PPdSiyMUv0qAGvwrwfVYg) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Inner Vision](https://open.spotify.com/album/3jxe6ypHw4ZxPRJYxI7MFX) | 1:54 |
 | 115 | [The Outlaw](https://open.spotify.com/track/5C2rlT1Tt9QztEI6dtsZT6) | [Wake up Frankie](https://open.spotify.com/artist/0a3b8EtIuUttBtZ2mIhLuv), [Antti Wirman](https://open.spotify.com/artist/2H08RJiVCpxloQiDKTgTMA) | [The Outlaw](https://open.spotify.com/album/61PjFKUEeTtJhWPlU3SnKQ) | 3:46 |
 | 116 | [One with You](https://open.spotify.com/track/2ChqOkTSX0SRqVoiEFvTU9) | [Backtrack](https://open.spotify.com/artist/71N7xIvnaOFGetZL5nhWsl) | [Bad to My World](https://open.spotify.com/album/5ysQoh4zeljDcOwgFZnNQS) | 2:29 |
-| 117 | [Ultimate](https://open.spotify.com/track/330RnswrHmcXgIgee4ZVOU) | [Nasty](https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB) | [Ultimate](https://open.spotify.com/album/1LnDkfF4HHBYhhKsHCeGjO) | 2:31 |
-| 118 | [Suffer More](https://open.spotify.com/track/27rwFWkrEWwUVWqvIM2g6u) | [Bather](https://open.spotify.com/artist/502NaboBTzKab9HiLVk8FM) | [Suffer More](https://open.spotify.com/album/7hs4LtxbmiZB8bBKLjvI2k) | 4:14 |
+| 117 | [Suffer More](https://open.spotify.com/track/27rwFWkrEWwUVWqvIM2g6u) | [Bather](https://open.spotify.com/artist/502NaboBTzKab9HiLVk8FM) | [Suffer More](https://open.spotify.com/album/7hs4LtxbmiZB8bBKLjvI2k) | 4:14 |
+| 118 | [Ultimate](https://open.spotify.com/track/330RnswrHmcXgIgee4ZVOU) | [Nasty](https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB) | [Ultimate](https://open.spotify.com/album/1LnDkfF4HHBYhhKsHCeGjO) | 2:31 |
 | 119 | [Rot](https://open.spotify.com/track/7osC19M6Eeo3Z9F2iQeRhi) | [Violent Life Violent Death](https://open.spotify.com/artist/1QkWQgDOLAGXZOd8FnD5sQ) | [Come, Heavy Breath](https://open.spotify.com/album/1HrLzhNTNkDNzzDlo3trDi) | 2:50 |
 | 120 | [Cosmic Maelstrom](https://open.spotify.com/track/0qUi4EcvYS5FBJXv1AGGJn) | [Cult of Lilith](https://open.spotify.com/artist/4PFwvUhk0VluHpOCa4OKHk) | [Cosmic Maelstrom](https://open.spotify.com/album/4XuK6MYuIAbKcFDs5Tuoqa) | 5:28 |
 

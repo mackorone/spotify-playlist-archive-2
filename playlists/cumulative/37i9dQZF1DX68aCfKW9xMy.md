@@ -4,7 +4,7 @@
 
 > La casa de los corazones rotos.
 
-427 songs - 23 hr 25 min
+428 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Cuál Adiós](https://open.spotify.com/track/3WWOgwKCsqi5GCO5eRoen0) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Ya No Vives En Mí](https://open.spotify.com/album/3GcFU0ICHxdr3rkWoRXcfE) | 3:29 | 2022-01-07 | 2024-10-10 |
 | [Cuál Adiós](https://open.spotify.com/track/5R9lPFnoJGppR1MsI7vHxy) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Ya No Vives En Mí](https://open.spotify.com/album/61NkuD5RHMUdi46sxcvCKE) | 3:29 | 2022-05-23 | 2024-04-19 |
 | [Cuánto A Que Te Olvido](https://open.spotify.com/track/5EQDA6xM2wUfrKOoT6QoRn) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Cuánto A Que Te Olvido](https://open.spotify.com/album/7FkvXmGwNgh74yRwVAaQRw) | 3:23 | 2022-05-23 |  |
+| [Cómo Fui A Enamorarme De Ti](https://open.spotify.com/track/435dRHWUd9Kav1N96MUFCH) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Kilates 20 Éxitos](https://open.spotify.com/album/0B2714WqW6QKPN15X9GG5s) | 3:20 | 2026-02-27 |  |
 | [Cómo Me Haces Falta](https://open.spotify.com/track/1dtpnvjay5bEhEuui09YWx) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [La Colección de Covers, Vol\. 1](https://open.spotify.com/album/5wRMWOVabGtz0ulOwZMusZ) | 3:48 | 2022-12-16 | 2023-04-16 |
 | [De Cuando Acá](https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [De Cuando Acá](https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki) | 2:58 | 2022-04-18 | 2023-06-19 |
 | [De Trago En Trago](https://open.spotify.com/track/5lWE6BsxJE9RoXbkvkGR60) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [De Trago En Trago](https://open.spotify.com/album/0YMa5EGXvE8uwAIyNDnxyJ) | 4:01 | 2022-05-06 | 2022-06-21 |
@@ -357,7 +358,7 @@
 | [Te Apuesto \- En vivo](https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:48 | 2022-01-07 |  |
 | [Te Deseo Lo Mejor](https://open.spotify.com/track/5ZyUe1pOBYblWLN2E3xJXu) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Te Deseo Lo Mejor](https://open.spotify.com/album/3TJYqNwsxy6on2wKnQSOUc) | 2:20 | 2022-06-20 |  |
 | [Te Equivocaste](https://open.spotify.com/track/1aYCO1g5B1Jrg3kz6TXL3o) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Te Equivocaste](https://open.spotify.com/album/3bab9IovKQWPggPRGFNueq) | 4:35 | 2022-01-07 | 2022-09-03 |
-| [Te Felicito](https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Te Felicito](https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7) | 3:44 | 2022-11-07 |  |
+| [Te Felicito](https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Te Felicito](https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7) | 3:44 | 2022-11-07 | 2026-08-30 |
 | [Te Hubieras Ido Antes](https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:11 | 2022-06-20 |  |
 | [Te Irá Mejor Sin Mí](https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Pegadito Al Corazón](https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7) | 2:56 | 2022-01-07 |  |
 | [Te Irá Mejor Sin Mí](https://open.spotify.com/track/5VGpOXAaau0DdzzOzhApPh) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mi Mexico Querido](https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa) | 2:56 | 2023-12-22 | 2024-04-19 |

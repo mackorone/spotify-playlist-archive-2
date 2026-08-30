@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 107 | [Dör](https://open.spotify.com/track/33Djiqd6WW8EdaNXANfb2z) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 3:04 |
 | 108 | [Taxi](https://open.spotify.com/track/1TOs6ut9EItTeAC6fl1qPI) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 3:22 |
 | 109 | [8 långa år](https://open.spotify.com/track/7xmCFkZj2r5k9ot9NMOwYg) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 1:16 |
-| 110 | [King Arthur](https://open.spotify.com/track/6jGAa9rhZpjfUZTtvO9RoR) | [Ziggy Maxwell](https://open.spotify.com/artist/6CU3o4SjJwW3qdEI6VDDiE) | [King Arthur](https://open.spotify.com/album/6mg7NJ6uTMeT8qfgdovo6U) | 3:24 |
-| 111 | [Vem e han?](https://open.spotify.com/track/6C9TItG1c9g9JSTUMzQTiZ) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:16 |
+| 110 | [Vem e han?](https://open.spotify.com/track/6C9TItG1c9g9JSTUMzQTiZ) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:16 |
+| 111 | [King Arthur](https://open.spotify.com/track/6jGAa9rhZpjfUZTtvO9RoR) | [Ziggy Maxwell](https://open.spotify.com/artist/6CU3o4SjJwW3qdEI6VDDiE) | [King Arthur](https://open.spotify.com/album/6mg7NJ6uTMeT8qfgdovo6U) | 3:24 |
 | 112 | [Patos \(feat\. Conakry & FNY\)](https://open.spotify.com/track/0Snq5llMCUPQWdQtY75Qv9) | [Finess](https://open.spotify.com/artist/4PcgIWHeqqLmAi7kCGiNet), [Conakry](https://open.spotify.com/artist/0tp6dtAt6YCkVnxhrTS9S2), [F.N.Y](https://open.spotify.com/artist/04yNJEB7tEAEie8UWjzTAI) | [En dag kommer vi skina \- EP](https://open.spotify.com/album/2oWzqPK3soR5ARHBLoXBfh) | 3:48 |
 | 113 | [Forever Yours](https://open.spotify.com/track/21lRcbCWJSbXNy5MMuQgWd) | [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [EiGHTYF!VE](https://open.spotify.com/album/6Uu4ZxPscUcIbCsZyQVXCB) | 2:52 |
 | 114 | [3D](https://open.spotify.com/track/2OtCO79wkJ0wGpTQqgaG1u) | [Tash Blake](https://open.spotify.com/artist/2BTuO9Djg1SvpQ6fupdlnB) | [3D](https://open.spotify.com/album/0w5santyjrfiZPqul2isJn) | 1:56 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 116 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 | 117 | [kärlek \(is not enough\)](https://open.spotify.com/track/1Oy70R2c04QKHyssE4ZBHj) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [kärlek \(is not enough\)](https://open.spotify.com/album/3BIYIXIDa88Wu6uLhiKzql) | 2:53 |
 
-Snapshot ID: `Aca1FAAAAACTrOaBQKHl7FZV02TUgvjR`
+Snapshot ID: `Aca6PAAAAAA7NL06F/uuhwP6dF7gT2y6`

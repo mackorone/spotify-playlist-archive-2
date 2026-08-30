@@ -1,6 +1,6 @@
 {
   "description": "Fcukers on the cover bby",
-  "num_followers": 218004,
+  "num_followers": 218044,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
@@ -267,18 +267,26 @@
     {
       "added_at": "2026-08-07 19:48:03",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+        "name": "Demon Days",
+        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
       },
       "artists": [
         {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Shaun Ryder",
+          "url": "https://open.spotify.com/artist/3ONSkkEnOSZVNogu98dvTY"
+        },
+        {
+          "name": "Roses Gabor",
+          "url": "https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r"
         }
       ],
-      "duration_ms": 229640,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
+      "duration_ms": 244999,
+      "name": "DARE (feat. Shaun Ryder & Roses Gabor)",
+      "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
     },
     {
       "added_at": "2026-08-07 19:48:03",
@@ -363,26 +371,18 @@
     {
       "added_at": "2026-08-07 19:48:03",
       "album": {
-        "name": "Demon Days",
-        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
       "artists": [
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Shaun Ryder",
-          "url": "https://open.spotify.com/artist/3ONSkkEnOSZVNogu98dvTY"
-        },
-        {
-          "name": "Roses Gabor",
-          "url": "https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r"
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         }
       ],
-      "duration_ms": 244999,
-      "name": "DARE (feat. Shaun Ryder & Roses Gabor)",
-      "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
+      "duration_ms": 229640,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
     },
     {
       "added_at": "2026-08-07 19:48:03",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-08-07 19:48:03",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 276173,
-      "name": "Helena Beat",
-      "url": "https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx"
-    },
-    {
-      "added_at": "2026-08-07 19:48:03",
-      "album": {
         "name": "Robbers & Cowards",
         "url": "https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 218786,
       "name": "Hang Me Up To Dry",
       "url": "https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8"
+    },
+    {
+      "added_at": "2026-08-07 19:48:03",
+      "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 276173,
+      "name": "Helena Beat",
+      "url": "https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx"
     },
     {
       "added_at": "2026-08-07 19:48:03",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-08-07 19:48:03",
       "album": {
-        "name": "L.U.C.K.Y",
-        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 138706,
-      "name": "L.U.C.K.Y",
-      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
-    },
-    {
-      "added_at": "2026-08-07 19:48:03",
-      "album": {
         "name": "The Warning",
         "url": "https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 347880,
       "name": "Over And Over",
       "url": "https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA"
+    },
+    {
+      "added_at": "2026-08-07 19:48:03",
+      "album": {
+        "name": "L.U.C.K.Y",
+        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 138706,
+      "name": "L.U.C.K.Y",
+      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
     },
     {
       "added_at": "2026-08-07 19:48:03",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-08-07 19:48:03",
       "album": {
-        "name": "Mickey Avalon",
-        "url": "https://open.spotify.com/album/3UG9rC8sFazZjbzCsS4tWV"
-      },
-      "artists": [
-        {
-          "name": "Mickey Avalon",
-          "url": "https://open.spotify.com/artist/546WiMGysEqWZTzP8hJvB2"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "My Dick",
-      "url": "https://open.spotify.com/track/2tN2Kvzm2ITh1jnMKjjWBZ"
-    },
-    {
-      "added_at": "2026-08-07 19:48:03",
-      "album": {
         "name": "Made In The Dark",
         "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 234240,
       "name": "Ready For The Floor",
       "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
+    },
+    {
+      "added_at": "2026-08-07 19:48:03",
+      "album": {
+        "name": "Mickey Avalon",
+        "url": "https://open.spotify.com/album/3UG9rC8sFazZjbzCsS4tWV"
+      },
+      "artists": [
+        {
+          "name": "Mickey Avalon",
+          "url": "https://open.spotify.com/artist/546WiMGysEqWZTzP8hJvB2"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "My Dick",
+      "url": "https://open.spotify.com/track/2tN2Kvzm2ITh1jnMKjjWBZ"
     },
     {
       "added_at": "2026-08-07 19:48:03",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-08-07 19:48:03",
       "album": {
-        "name": "The Virgins",
-        "url": "https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj"
-      },
-      "artists": [
-        {
-          "name": "The Virgins",
-          "url": "https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru"
-        }
-      ],
-      "duration_ms": 180120,
-      "name": "Rich Girls",
-      "url": "https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ"
-    },
-    {
-      "added_at": "2026-08-07 19:48:03",
-      "album": {
         "name": "Saturdays = Youth",
         "url": "https://open.spotify.com/album/4HshNHpHWtmaw8sDrOXNuE"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 304906,
       "name": "We Own The Sky",
       "url": "https://open.spotify.com/track/44jJCNW8frQLEWpYuAQz47"
+    },
+    {
+      "added_at": "2026-08-07 19:48:03",
+      "album": {
+        "name": "The Virgins",
+        "url": "https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj"
+      },
+      "artists": [
+        {
+          "name": "The Virgins",
+          "url": "https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru"
+        }
+      ],
+      "duration_ms": 180120,
+      "name": "Rich Girls",
+      "url": "https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ"
     },
     {
       "added_at": "2026-08-07 19:48:03",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-08-07 19:48:03",
       "album": {
-        "name": "Youth Novels",
-        "url": "https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "I'm Good, I'm Gone",
-      "url": "https://open.spotify.com/track/2GjycBB2VHP4NSIzUrJkrE"
-    },
-    {
-      "added_at": "2026-08-07 19:48:03",
-      "album": {
         "name": "Girl",
         "url": "https://open.spotify.com/album/5sFj47dMyRaQo3sVoElik2"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 165000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/4jnzloLGQNJy7sYjabVSaZ"
+    },
+    {
+      "added_at": "2026-08-07 19:48:03",
+      "album": {
+        "name": "Youth Novels",
+        "url": "https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "I'm Good, I'm Gone",
+      "url": "https://open.spotify.com/track/2GjycBB2VHP4NSIzUrJkrE"
     }
   ],
   "unique_name": "Indie Sleaze",

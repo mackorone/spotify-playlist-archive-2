@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Fresh from the recording to your ears\. Latest Hindi music, right here\. Cover: Awarapan 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,018,236 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,018,319 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAAijCQVMvk1qxBzeaussv+q",
+  "snapshot_id": "apDPgAAAAACPpik1Vhx/gAMqEUBVz+fv",
   "tracks": [
     {
       "added_at": null,
@@ -339,38 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 358558,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 259366,
-      "name": "Smooth",
-      "url": "https://open.spotify.com/track/1ZZCkUToFBOEwjssB1hzU4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DILLAGENCE II",
         "url": "https://open.spotify.com/album/2FO2Y8abEsCT10uLce2Thh"
       },
@@ -395,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
       },
       "artists": [
         {
@@ -404,9 +372,9 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 321642,
-      "name": "Devil's Pie",
-      "url": "https://open.spotify.com/track/5ILWEn8WXPezgpHkGHDk8s"
+      "duration_ms": 259366,
+      "name": "Smooth",
+      "url": "https://open.spotify.com/track/1ZZCkUToFBOEwjssB1hzU4"
     },
     {
       "added_at": null,
@@ -420,9 +388,25 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 302840,
-      "name": "Sugah Daddy",
-      "url": "https://open.spotify.com/track/53l4LGUeZKCDZI1u25kQDN"
+      "duration_ms": 358558,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 321642,
+      "name": "Devil's Pie",
+      "url": "https://open.spotify.com/track/5ILWEn8WXPezgpHkGHDk8s"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "Sugah Daddy",
+      "url": "https://open.spotify.com/track/53l4LGUeZKCDZI1u25kQDN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live At The Jazz Cafe, London",
         "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
       },
@@ -483,22 +483,6 @@
       "duration_ms": 246560,
       "name": "Can't Hide Love - Live At The Jazz Cafe, London/1995",
       "url": "https://open.spotify.com/track/2gpTbzVPDMtxsDjLn2FrII"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 231906,
-      "name": "Till It's Done (Tutu)",
-      "url": "https://open.spotify.com/track/1tgmyTEKDOkwyvyE37AJDj"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
       "duration_ms": 267626,
       "name": "So Far To Go",
       "url": "https://open.spotify.com/track/5Hu9CX99Rdyuyweh5mGcah"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 289026,
+      "name": "Ain't That Easy",
+      "url": "https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 289026,
-      "name": "Ain't That Easy",
-      "url": "https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live At The Jazz Cafe, London",
         "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 319533,
       "name": "The Hypnotic",
       "url": "https://open.spotify.com/track/5dCi1Y8lJT6o97MtEINbjU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "Till It's Done (Tutu)",
+      "url": "https://open.spotify.com/track/1tgmyTEKDOkwyvyE37AJDj"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,941 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,003 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,20 +14,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 | 4 | [When You're Gone](https://open.spotify.com/track/3EXrtClWmgsM7dw75Mw2M1) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:56 |
 | 5 | [Dreams \- Remastered 2026](https://open.spotify.com/track/458JkK5eJhh4C4s6nTuz7g) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(Remastered 2026\)](https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN) | 4:33 |
 | 6 | [Ode To My Family \- 2025 Remastered](https://open.spotify.com/track/3k8qSv5e8ALW6tA9cpY9mm) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 4:30 |
-| 7 | [Animal Instinct](https://open.spotify.com/track/3J58Ccc5iTbCRnYx2xjo6d) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:31 |
-| 8 | [When You're Gone](https://open.spotify.com/track/2Qdnk7tbc4onLOIPd1eSNE) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Stars: The Best Of The Cranberries 1992\-2002](https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl) | 3:52 |
+| 7 | [When You're Gone](https://open.spotify.com/track/2Qdnk7tbc4onLOIPd1eSNE) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Stars: The Best Of The Cranberries 1992\-2002](https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl) | 3:52 |
+| 8 | [Animal Instinct](https://open.spotify.com/track/3J58Ccc5iTbCRnYx2xjo6d) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:31 |
 | 9 | [Linger \- Acoustic Version](https://open.spotify.com/track/1nxebACXgKGhpB2DPs3qP0) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL) | 4:55 |
 | 10 | [Sunday \- Remastered 2026](https://open.spotify.com/track/2nTcgF0BGEJBI3argOQWps) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(Remastered 2026\)](https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN) | 3:30 |
-| 11 | [Just My Imagination](https://open.spotify.com/track/0f0k0OJ9VbaLHX4J1t2qUy) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:41 |
-| 12 | [Salvation](https://open.spotify.com/track/1ayRJ4dlr48VJ3FK6uPq2i) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 2:22 |
+| 11 | [Salvation](https://open.spotify.com/track/1ayRJ4dlr48VJ3FK6uPq2i) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 2:22 |
+| 12 | [Just My Imagination](https://open.spotify.com/track/0f0k0OJ9VbaLHX4J1t2qUy) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:41 |
 | 13 | [Dreams \- Acoustic Version](https://open.spotify.com/track/2J8xeXaGojJxfwlgcXISez) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL) | 4:24 |
 | 14 | [I Can't Be With You \- 2025 Remastered](https://open.spotify.com/track/2JNllfsg7fMN18EJB9VrLT) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 3:07 |
-| 15 | [Promises](https://open.spotify.com/track/15Trb1S2FDZSMLDzWfnlbg) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 5:27 |
-| 16 | [I Still Do \- Remastered 2026](https://open.spotify.com/track/3hoTEkYJjO3mDofJAPsxkp) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(Remastered 2026\)](https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN) | 3:17 |
+| 15 | [I Still Do \- Remastered 2026](https://open.spotify.com/track/3hoTEkYJjO3mDofJAPsxkp) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(Remastered 2026\)](https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN) | 3:17 |
+| 16 | [Promises](https://open.spotify.com/track/15Trb1S2FDZSMLDzWfnlbg) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 5:27 |
 | 17 | [Go Your Own Way](https://open.spotify.com/track/0VuhdSYkAOmhASbt5vnkdO) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed \(The Complete Sessions 1996\-1997\)](https://open.spotify.com/album/6re8Qh8GMzxH92LO1xj2jU) | 4:01 |
 | 18 | [Twenty One \- 2025 Remastered](https://open.spotify.com/track/6XKcZYMX7TObdA8pdRt8k5) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 3:07 |
-| 19 | [You And Me](https://open.spotify.com/track/6jEcFhllWB0clBHFylomJZ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:35 |
-| 20 | [Free To Decide](https://open.spotify.com/track/42e1QfTyPYWuoddr0ghc0i) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:25 |
+| 19 | [Free To Decide](https://open.spotify.com/track/42e1QfTyPYWuoddr0ghc0i) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:25 |
+| 20 | [You And Me](https://open.spotify.com/track/6jEcFhllWB0clBHFylomJZ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:35 |
 | 21 | [In the End](https://open.spotify.com/track/4hckTii6dURNqlfS9JNjjK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 2:56 |
 | 22 | [Ridiculous Thoughts \- 2025 Remastered](https://open.spotify.com/track/0s5hFVQIEpNGAChxCbypmb) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 4:31 |
 | 23 | [Pretty \- Remastered 2026](https://open.spotify.com/track/0VZyPv9Rk7sCe7900NnCBG) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(Remastered 2026\)](https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 | 49 | [The Glory](https://open.spotify.com/track/5Bd2LPvlOY3do39MIph1RD) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 5:14 |
 | 50 | [Cordell](https://open.spotify.com/track/7rExM1JfHUgEyIPLot5CZL) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Gold](https://open.spotify.com/album/5zjZVqXPI7J5qtBsZMjlI8) | 3:40 |
 
-Snapshot ID: `ao9+AAAAAAAYq7REio4hDR+hT4MfpocQ`
+Snapshot ID: `apDPgAAAAAAY43weP837NF9vnqC4cCdC`

@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 260699,
+  "num_followers": 260724,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABt7/ynN6Mhh5mLqwYAv+as",
+  "snapshot_id": "apDPgAAAAABMbOc/SE9ymc2GJuZDf9VR",
   "tracks": [
     {
       "added_at": null,
@@ -95,6 +95,38 @@
       "duration_ms": 308250,
       "name": "Lo Que Importa",
       "url": "https://open.spotify.com/track/3gxmfNwq3FP5G8W5q7I7nF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre Compas",
+        "url": "https://open.spotify.com/album/0Trve0GFSb3wp7VlQKFjSx"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        }
+      ],
+      "duration_ms": 262269,
+      "name": "Soltar",
+      "url": "https://open.spotify.com/track/4I9MoG4cjf4TsStLNiqSmk"
     },
     {
       "added_at": null,
@@ -383,6 +415,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sui G\u00e9neris",
+        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 201687,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/7uQOMsqi4Hnpuoa3o7gZEB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Indecisa",
         "url": "https://open.spotify.com/album/4WmmIG2ztaEwn6th4z7xR8"
       },
@@ -407,26 +459,6 @@
       "duration_ms": 212045,
       "name": "Indecisa",
       "url": "https://open.spotify.com/track/6kvIndExSuKqaPuZmA9z4K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sui G\u00e9neris",
-        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 201687,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/7uQOMsqi4Hnpuoa3o7gZEB"
     },
     {
       "added_at": null,
@@ -603,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo No Me Quiero Morir",
+        "url": "https://open.spotify.com/album/4z1fFOEDva3J9sggX3kwK0"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "Yo No Me Quiero Morir",
+      "url": "https://open.spotify.com/track/5xXaJHNtyBghk2F6AnP2PI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nombre y Apellido",
         "url": "https://open.spotify.com/album/1w2Yqtcb9tTGRx93hKSawe"
       },
@@ -627,26 +679,6 @@
       "duration_ms": 271208,
       "name": "Nombre y Apellido",
       "url": "https://open.spotify.com/track/5T3GPd0C19r3y4ahADtiXH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yo No Me Quiero Morir",
-        "url": "https://open.spotify.com/album/4z1fFOEDva3J9sggX3kwK0"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "Yo No Me Quiero Morir",
-      "url": "https://open.spotify.com/track/5xXaJHNtyBghk2F6AnP2PI"
     },
     {
       "added_at": null,
@@ -1039,26 +1071,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sui G\u00e9neris",
-        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 280487,
-      "name": "Vamos a Dar el Roll",
-      "url": "https://open.spotify.com/track/16GzftkFYQk71qlyYjFLhZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Inmensidades",
         "url": "https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY"
       },
@@ -1079,6 +1091,26 @@
       "duration_ms": 231416,
       "name": "Lumbre",
       "url": "https://open.spotify.com/track/4grtH2EEl14ZJL0fry7Zcg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sui G\u00e9neris",
+        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 280487,
+      "name": "Vamos a Dar el Roll",
+      "url": "https://open.spotify.com/track/16GzftkFYQk71qlyYjFLhZ"
     },
     {
       "added_at": null,
@@ -1127,22 +1159,6 @@
       "duration_ms": 256799,
       "name": "Naranja a Morado",
       "url": "https://open.spotify.com/track/3CcUQabK3Vn0RUjZI7lfPz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sui G\u00e9neris",
-        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 241549,
-      "name": "Voy a Estar Bien",
-      "url": "https://open.spotify.com/track/2QrRQQh6xNSBl1ZXBcJ6HD"
     }
   ],
   "unique_name": "This Is Charles Ans",

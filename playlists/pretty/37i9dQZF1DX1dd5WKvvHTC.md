@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:78Rk1F0jGdipWWfrhyWwt3?si">Patrick Droney</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,215 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,237 likes - 40 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

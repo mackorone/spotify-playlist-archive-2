@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-176 songs - 7 hr 51 min
+177 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Special](https://open.spotify.com/track/2fTWKA83JIAdEJk8vLUvy6) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Ion Feel Nun](https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL) | 2:31 | 2023-12-18 | 2025-02-02 |
 | [Special](https://open.spotify.com/track/6skKn3fQ37z7m5hfl9jAr3) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Ion Feel Nun](https://open.spotify.com/album/3fqV2haNIJQ5nn8qyVLzpU) | 2:31 | 2023-06-06 | 2023-09-03 |
 | [Special Remix \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5sXYCAzaTHonbB7OVqU0TI) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:41 | 2022-10-28 |  |
-| [Spin](https://open.spotify.com/track/04ZrEsPyVGsahWXTegcO33) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 2:21 | 2022-10-28 |  |
+| [Spin](https://open.spotify.com/track/04ZrEsPyVGsahWXTegcO33) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 2:21 | 2022-10-28 | 2026-08-30 |
 | [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/1jBSRWaJIQ0AaF0UQ91IbG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Spinnin' \(feat\. EST Gee / FAST X Soundtrack\)](https://open.spotify.com/album/5YjvUivNXjwSZFFKa4ffbb) | 2:47 | 2023-05-20 | 2023-06-18 |
 | [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/15rAPSEAcdP4wE8jBkicV6) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s) | 2:47 | 2023-06-17 | 2023-06-24 |
 | [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/4Kgy1BDA6IM9ahZNrYbCZq) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF) | 2:47 | 2023-06-23 | 2025-11-20 |
@@ -182,6 +182,7 @@
 | [WOULDN'T HOLD YOU UP](https://open.spotify.com/track/2y526hGkXuetJy3duEqIRq) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [WOULDN'T HOLD YOU UP](https://open.spotify.com/album/20G2sl0k5dMI6yDnyqWhOq) | 1:34 | 2026-02-11 | 2026-03-16 |
 | [WOULDN'T HOLD YOU UP](https://open.spotify.com/track/6zUKuZMJflZgPWMS23nh7I) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [NOT A CHANCE IN HELL](https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS) | 1:34 | 2026-03-16 |  |
 | [XXL](https://open.spotify.com/track/0JdXWoF5EjmFfDQaUFvaov) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:42 | 2023-08-25 | 2024-01-28 |
+| [YA DIGG \(feat\. EST SkiMike\)](https://open.spotify.com/track/6JknNJZvYjuuzAbdgIsOrg) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [EST SkiMike](https://open.spotify.com/artist/0mTO44C2BfHj0YR2Qv4WAq) | [YA DIGG \(feat\. EST SkiMike\)](https://open.spotify.com/album/5smTyvHpobgvjAzmhgjlbh) | 2:48 | 2026-08-30 |  |
 | [YOU HEAR ME THO](https://open.spotify.com/track/2nGUl0oc9DGIful2EqadW2) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [YOU HEAR ME THO](https://open.spotify.com/album/5gCuDvedKVLRv6o4mbW2di) | 2:21 | 2026-01-19 | 2026-03-20 |
 | [Young Shiners](https://open.spotify.com/track/1g2nx2OTpQqGV3hF1BnpIK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:35 | 2025-08-24 |  |
 

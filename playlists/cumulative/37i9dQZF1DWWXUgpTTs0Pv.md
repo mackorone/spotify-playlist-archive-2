@@ -4,12 +4,12 @@
 
 > Family friendly country songs to listen to together.
 
-176 songs - 10 hr 12 min
+177 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 | 2020-09-29 |  |
-| [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2024-01-15 |  |
+| [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2024-01-15 | 2026-08-30 |
 | [5\-1\-5\-0](https://open.spotify.com/track/2WKCH4ISejDV9ad7iPp5XU) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Home](https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv) | 3:02 | 2024-01-15 |  |
 | [Ain't Always The Cowboy](https://open.spotify.com/track/77XoAnllT85lmR9WP0D8dS) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Heartache Medication](https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD) | 3:40 | 2020-09-29 |  |
 | [American Honey](https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 3:44 | 2024-02-16 |  |
@@ -65,6 +65,7 @@
 | [God's Country](https://open.spotify.com/track/4TCeFZNjGNQIpCuZmJkkE2) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Fully Loaded: God's Country](https://open.spotify.com/album/4Kd33JPxTOcjTM29FrKoyT) | 3:24 | 2020-09-29 | 2026-02-12 |
 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 | 2024-01-15 |  |
 | [Good Girl](https://open.spotify.com/track/3NgcaTIgVh77DdwAInp996) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Tullahoma](https://open.spotify.com/album/2jGU6wUOYlyscEVAh6dtg5) | 3:09 | 2020-09-29 | 2024-01-16 |
+| [Grandpa \(Tell Me 'Bout The Good Old Days\)](https://open.spotify.com/track/0ogTZlmFqg5xyFCMpRAEb4) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Rockin' With The Rhythm](https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq) | 4:14 | 2026-05-25 |  |
 | [Growing Up](https://open.spotify.com/track/2qLlnVfkyIMtkViemtRtYb) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Growing Up](https://open.spotify.com/album/56Y7sj73J1tdMkXgRPSaMX) | 3:34 | 2021-04-09 | 2024-01-16 |
 | [Happy Anywhere](https://open.spotify.com/track/3jNItMY8Hoz2IXe7PCELVx) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Country Life](https://open.spotify.com/album/1Bt8HqQX6XLbzfFfczzGHv) | 2:51 | 2020-09-29 | 2022-11-13 |
 | [Happy Anywhere \(feat\. Gwen Stefani\)](https://open.spotify.com/track/2DwbFtfC6sXBiVDPmju8Dd) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Happy Anywhere \(feat\. Gwen Stefani\)](https://open.spotify.com/album/4K4Zt6ttyStgYV5B3bWuBi) | 2:50 | 2020-09-29 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 106244,
+  "num_followers": 106274,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAACcrjFLVMe51VvbYI/9yZM8",
+  "snapshot_id": "apDPgAAAAABq/FkIWWKx5XPSeJrEs8I7",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legal Alien - Top Secrets",
+        "url": "https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 353280,
+      "name": "Asia",
+      "url": "https://open.spotify.com/track/55fQM5yPg6bv7mTUAok8FF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
       },
@@ -323,26 +339,6 @@
       "duration_ms": 306640,
       "name": "Ausencia",
       "url": "https://open.spotify.com/track/1r6oqZhRYStrYWSeGKuCFP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Top Secrets",
-        "url": "https://open.spotify.com/album/6ZgO4zBDcGJgLUCk2z0NLy"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Legal Alien",
-          "url": "https://open.spotify.com/artist/7vfizYhRy90JbEGQHUih3T"
-        }
-      ],
-      "duration_ms": 353773,
-      "name": "Asia",
-      "url": "https://open.spotify.com/track/3CfIDPm4i05VYkF0SvEWdb"
     },
     {
       "added_at": null,

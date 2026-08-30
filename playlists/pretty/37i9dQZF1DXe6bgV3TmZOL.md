@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,495,908 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,495,838 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,15 +23,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 13 | [Before I Forget](https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses \(Special Edition\)](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:38 |
 | 14 | [Coming Undone](https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [See You On the Other Side](https://open.spotify.com/album/2c7ynrgZP08xNtkJi9MhjF) | 3:19 |
 | 15 | [Walk](https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:15 |
-| 16 | [Another Life](https://open.spotify.com/track/0YZEYxd1oiqZRFhnnmTKKi) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Disguise](https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00) | 3:25 |
+| 16 | [Nookie](https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 4:49 |
 | 17 | [Down with the Sickness](https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness](https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY) | 4:39 |
-| 18 | [Nookie](https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 4:49 |
+| 18 | [Another Life](https://open.spotify.com/track/0YZEYxd1oiqZRFhnnmTKKi) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Disguise](https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00) | 3:25 |
 | 19 | [Whiskey In The Jar](https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 5:04 |
 | 20 | [Cowboys from Hell](https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:03 |
 | 21 | [Even If It Kills Me](https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Even If It Kills Me](https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x) | 3:32 |
-| 22 | [Afraid Of The Dark](https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Afraid Of The Dark](https://open.spotify.com/album/7e9ka8itzOI5qCIKXIyCy2) | 4:38 |
+| 22 | [Mudshovel](https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Dysfunction](https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w) | 4:42 |
 | 23 | [Make It Make Sense](https://open.spotify.com/track/4KFGxkAAP5D1HIBSwMv7d1) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Make It Make Sense](https://open.spotify.com/album/3TBw5z9f7WZ6Per1aTNkuC) | 3:08 |
-| 24 | [Mudshovel](https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Dysfunction](https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w) | 4:42 |
+| 24 | [Afraid Of The Dark](https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Afraid Of The Dark](https://open.spotify.com/album/7e9ka8itzOI5qCIKXIyCy2) | 4:38 |
 | 25 | [Left For Good](https://open.spotify.com/track/4pjSe7n2609YnMWnrJ3OVJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Left For Good](https://open.spotify.com/album/3i3GvVgRCQzAYbMeWUSzMq) | 3:53 |
 | 26 | [See U in Hell \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/track/26wlaTdnrLNmpz5usoU2T3) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [See U in Hell \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/album/2brmv8QcoqNsngywe6NYxs) | 4:03 |
 | 27 | [Paradise](https://open.spotify.com/track/0tbAUZAHXDemjIRZoKtWiD) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V), [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Paradise](https://open.spotify.com/album/4ixCpPB7DbIoThOljd0xHo) | 3:17 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 77 | [You Get One](https://open.spotify.com/track/3xmxc9kBETkweMBUNe1Ht3) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [The Plot In You](https://open.spotify.com/album/6PJzcqwj8n19g9cdDWRiTf) | 3:00 |
 | 78 | [Bled for Days](https://open.spotify.com/track/38i5zDVbBEZNxnHGsto6kn) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 3:45 |
 | 79 | [Deutschland](https://open.spotify.com/track/1T8IRUJBga0JXioJZvxjBR) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Deutschland](https://open.spotify.com/album/3R7mUm3SZhV3BIIY7FMrU1) | 5:22 |
-| 80 | [Parasite Eve](https://open.spotify.com/track/5OxclJsdFESni44YlpNpkR) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Parasite Eve](https://open.spotify.com/album/5PMPY8a70DCHnQic13XueL) | 4:51 |
-| 81 | [River Of Sorrows](https://open.spotify.com/track/2X9xNcQnRPNLa9fUvl218u) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [CURSED](https://open.spotify.com/album/2ic9y0c0Y7goGxrre1ud7Q) | 4:02 |
+| 80 | [River Of Sorrows](https://open.spotify.com/track/2X9xNcQnRPNLa9fUvl218u) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [CURSED](https://open.spotify.com/album/2ic9y0c0Y7goGxrre1ud7Q) | 4:02 |
+| 81 | [Parasite Eve](https://open.spotify.com/track/5OxclJsdFESni44YlpNpkR) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Parasite Eve](https://open.spotify.com/album/5PMPY8a70DCHnQic13XueL) | 4:51 |
 | 82 | [Circle The Drain](https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 3:35 |
 | 83 | [Take Out the Gunman](https://open.spotify.com/track/5I1ueVGJA6VZRkgkMyiHcP) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [La Gárgola](https://open.spotify.com/album/6ctiVzuLDrwlsHkgsatIqg) | 4:18 |
 | 84 | [Addicted to Pain](https://open.spotify.com/track/2I75GCnEOzCvNpxCR3XYZH) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Fortress](https://open.spotify.com/album/14XXkmq6rjlKTxRkelMtZx) | 4:16 |

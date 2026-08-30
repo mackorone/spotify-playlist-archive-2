@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,960,995 likes - 260 songs - 13 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,960,917 likes - 260 songs - 13 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 | 66 | [NIGHT \-English ver.\-](https://open.spotify.com/track/6xITCUnfaUXYnv7ZJjxg44) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GIANT](https://open.spotify.com/album/2vVMz605sZeoefSLbbBNeb) | 2:55 |
 | 67 | [Falling Up \-English ver.\-](https://open.spotify.com/track/1YvGqbthhtnrTHCasoPD7b) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Falling Up \-English ver.\-](https://open.spotify.com/album/6QPOVu0BT8kEGFFQLyB5ob) | 3:10 |
 | 68 | [VAY \(Feat\. 창빈 of Stray Kids\)](https://open.spotify.com/track/54KjiczcYLLYNVX49JtFKA) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/3PJbTq65fNFTzXt26YEp0p) | 2:41 |
-| 69 | [Come Play \(from the series Arcane League of Legends\)](https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Come Play \(from the series Arcane League of Legends\)](https://open.spotify.com/album/6Eb8iWappWpZgkqxDWiIGU) | 2:41 |
+| 69 | [Come Play \- from the series Arcane League of Legends](https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Come Play \(from the series Arcane League of Legends\)](https://open.spotify.com/album/6Eb8iWappWpZgkqxDWiIGU) | 2:41 |
 | 70 | [Chk Chk Boom](https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 2:28 |
 | 71 | [SLASH \- From “Deadpool & Wolverine”](https://open.spotify.com/track/2MKGrYH1PyPAUKu2Sl8IaT) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLASH \(From “Deadpool & Wolverine”\)](https://open.spotify.com/album/7pu8cy2ZNnN2rlLlkXXwq9) | 3:11 |
 | 72 | [MOUNTAINS](https://open.spotify.com/track/6jTOFMDc15rrTj9ZN0b7eN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 3:07 |

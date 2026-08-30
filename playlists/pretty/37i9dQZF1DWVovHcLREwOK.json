@@ -1,6 +1,6 @@
 {
   "description": "Mant\u00e9m a energia positiva!",
-  "num_followers": 275175,
+  "num_followers": 275204,
   "original_name": "Hits Felizes",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
         "name": "TRANSLATION",
         "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 222522,
       "name": "GIRL LIKE ME",
       "url": "https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Kansas Anymore (The Longest Goodbye)",
-        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 218660,
-      "name": "Sally, When The Wine Runs Out",
-      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
         }
       ],
-      "duration_ms": 232200,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
+      "duration_ms": 218660,
+      "name": "Sally, When The Wine Runs Out",
+      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -1047,6 +1031,22 @@
       "duration_ms": 215160,
       "name": "Friday I'm In Love",
       "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 217746,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "Training Season",
         "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 218004,
-      "name": "I Can Do It With a Broken Heart",
-      "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "DAISY",
         "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 215250,
       "name": "malibU",
       "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 218004,
+      "name": "I Can Do It With a Broken Heart",
+      "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 204852,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 204852,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "My Head & My Heart",
-      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2026-03-27 00:00:34",

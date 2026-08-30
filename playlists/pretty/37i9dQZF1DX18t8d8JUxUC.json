@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: selines",
-  "num_followers": 35385,
+  "num_followers": 35390,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
-        "name": "El Invento",
-        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "El Invento",
-      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
         "name": "Qu\u00e9 Tal",
         "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
+        "name": "El Invento",
+        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
         "name": "Me Empiezo a Enamorar",
         "url": "https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 202090,
       "name": "Me Empiezo a Enamorar",
       "url": "https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
-        "name": "julia",
-        "url": "https://open.spotify.com/album/7MBsjo49lqjaHf1Sc9KoGu"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 192419,
-      "name": "julia",
-      "url": "https://open.spotify.com/track/6hjWNJFzuqXfBT0DDJORYS"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -783,6 +767,22 @@
       "duration_ms": 198853,
       "name": "Camino de Arena",
       "url": "https://open.spotify.com/track/6jLUUaXfTUExzE4zNIp3q9"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
+        "name": "julia",
+        "url": "https://open.spotify.com/album/7MBsjo49lqjaHf1Sc9KoGu"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 192419,
+      "name": "julia",
+      "url": "https://open.spotify.com/track/6hjWNJFzuqXfBT0DDJORYS"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 202610,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
         "name": "Veintitr\u00e9s",
         "url": "https://open.spotify.com/album/7ARpIwyTK8jDS5lDCoBdFL"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 208029,
       "name": "Veintitr\u00e9s",
       "url": "https://open.spotify.com/track/2co4KEm7qwRBLkBhhy6Z8h"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 202610,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
+        "name": "Pasar\u00e1s",
+        "url": "https://open.spotify.com/album/3lSjYPhPyPXIxOEYKIGi9e"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 256920,
+      "name": "Pasar\u00e1s",
+      "url": "https://open.spotify.com/track/4jJ1iOeBNSBLhhtJhfxJxQ"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
         "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
         "url": "https://open.spotify.com/album/17gVN1sl8a6wg1yBLPyCiE"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 198430,
       "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
       "url": "https://open.spotify.com/track/34ajEsNwrD90F2K80UjeLs"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
-        "name": "Pasar\u00e1s",
-        "url": "https://open.spotify.com/album/3lSjYPhPyPXIxOEYKIGi9e"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 256920,
-      "name": "Pasar\u00e1s",
-      "url": "https://open.spotify.com/track/4jJ1iOeBNSBLhhtJhfxJxQ"
     },
     {
       "added_at": "2026-06-17 15:34:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > The best indie rock vibes — classic and current.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,300,503 likes - 150 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,300,470 likes - 150 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 35 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 |
 | 36 | [Don't Take The Money](https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:35 |
 | 37 | [Osmosis](https://open.spotify.com/track/7BDPv8Z4CzJFRnwWmB6C8y) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Good Kid 3](https://open.spotify.com/album/1sfZzqkDMiJiYXfO0hQPKh) | 2:53 |
-| 38 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 |
-| 39 | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 5:32 |
+| 38 | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 5:32 |
+| 39 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 |
 | 40 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
 | 41 | [I Wanna Get Better](https://open.spotify.com/track/1BwhFXqoIsePt21WyWIttb) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 3:24 |
 | 42 | [zzz](https://open.spotify.com/track/6jMbYChkL89v2SlsrjyURG) | [60 juno](https://open.spotify.com/artist/6BMp2cQhN9C3Vl8PLzLvw9) | [zzz](https://open.spotify.com/album/4gklfgELi4bE9MhaPe9PDF) | 2:57 |
@@ -112,11 +112,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 102 | [The Place That Makes Me Happy](https://open.spotify.com/track/6fOemgTsBaM10g8Rz3unmT) | [The Moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [The Place That Makes Me Happy](https://open.spotify.com/album/6UklsqQkhLmsEqFZZuVKkW) | 3:01 |
 | 103 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 |
 | 104 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
-| 105 | [She Wants To Go Dancing](https://open.spotify.com/track/3CTBfot80XAOyuaJ1jcN5z) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [She Wants To Go Dancing](https://open.spotify.com/album/1UuqWBMwyWnevv8qMBCzyO) | 3:08 |
-| 106 | [Don't Wanna](https://open.spotify.com/track/5hMffqN6nHPltws5nhjTpR) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:21 |
+| 105 | [Don't Wanna](https://open.spotify.com/track/5hMffqN6nHPltws5nhjTpR) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:21 |
+| 106 | [She Wants To Go Dancing](https://open.spotify.com/track/3CTBfot80XAOyuaJ1jcN5z) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [She Wants To Go Dancing](https://open.spotify.com/album/1UuqWBMwyWnevv8qMBCzyO) | 3:08 |
 | 107 | [Meticulous](https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Love Hate Music Box](https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj) | 3:01 |
-| 108 | [Boys](https://open.spotify.com/track/4nAmlRetwMEZr2TsXuHcpD) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [LP3](https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX) | 4:13 |
-| 109 | [Naive](https://open.spotify.com/track/29XbgaYB4Hs8vlLmpzkRgj) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Naïve](https://open.spotify.com/album/06XZphFaqEl3gTtQp8a3hb) | 3:26 |
+| 108 | [Naive](https://open.spotify.com/track/29XbgaYB4Hs8vlLmpzkRgj) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Naïve](https://open.spotify.com/album/06XZphFaqEl3gTtQp8a3hb) | 3:26 |
+| 109 | [Boys](https://open.spotify.com/track/4nAmlRetwMEZr2TsXuHcpD) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [LP3](https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX) | 4:13 |
 | 110 | [Classical](https://open.spotify.com/track/4DlGLD32K7shuL8ub067DL) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:19 |
 | 111 | [Bag of Bones](https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Bag of Bones](https://open.spotify.com/album/4tWOuqMX9aMpFxvNU1WkYl) | 4:04 |
 | 112 | [Lemon Tree](https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lemon Tree](https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G) | 4:08 |
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 124 | [Dead](https://open.spotify.com/track/2LaHq6oy3DYrsmreXlmlwx) | [Quarters](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Into The Rift](https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y) | 3:39 |
 | 125 | [Sway](https://open.spotify.com/track/2u4ugBC7qiil1W02UTXPJU) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Let Yourself Free](https://open.spotify.com/album/3EEUq4UWicsmDfWWkmImGE) | 2:16 |
 | 126 | [I Don't Want to Talk](https://open.spotify.com/track/1KO4aiGkvF1eMTBrzL4vAd) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [I Don't Want to Talk](https://open.spotify.com/album/29l8Ddx32NKjtpeZic3U1I) | 3:43 |
-| 127 | [Midwest](https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Midwest](https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc) | 4:08 |
-| 128 | [palmtreedays\_1644.wav](https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [palmtreedays\_1644.wav](https://open.spotify.com/album/2T0C483fPDytj1MQWkFa3T) | 4:08 |
+| 127 | [palmtreedays\_1644.wav](https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [palmtreedays\_1644.wav](https://open.spotify.com/album/2T0C483fPDytj1MQWkFa3T) | 4:08 |
+| 128 | [Midwest](https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Midwest](https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc) | 4:08 |
 | 129 | [I'm in Love](https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I'm in Love](https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH) | 3:16 |
 | 130 | [Just Before The Morning](https://open.spotify.com/track/0bu0to8kgrXDzWklgZ3BuQ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Time Will Wait For No One](https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y) | 3:34 |
 | 131 | [What's In My Head](https://open.spotify.com/track/5xu1GzyT4hYPDfb57unbeW) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [The Pit \(Bonus Track Version\)](https://open.spotify.com/album/4xUcuRAy6gGtHCfLbOK7sP) | 3:07 |
@@ -150,12 +150,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 140 | [Body](https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Body](https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3) | 3:20 |
 | 141 | [Shudder](https://open.spotify.com/track/1w5m4J6icg6zmt0KuneqST) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [The Sweater Club](https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N) | 2:47 |
 | 142 | [New York](https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [New York](https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa) | 2:43 |
-| 143 | [Go Boy](https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Go Boy](https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E) | 2:56 |
-| 144 | [Gloria](https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Gloria](https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC) | 2:32 |
+| 143 | [Gloria](https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Gloria](https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC) | 2:32 |
+| 144 | [Go Boy](https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Go Boy](https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E) | 2:56 |
 | 145 | [Talk is Cheap](https://open.spotify.com/track/45DFMibGGTU5cqIi1cU1EZ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Dr\. Dog](https://open.spotify.com/album/4gjV2tn14HAQusWUf4GKtl) | 4:30 |
 | 146 | [All the Noise](https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [All the Noise](https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc) | 2:59 |
-| 147 | [Shell](https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Shell](https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL) | 2:20 |
-| 148 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 |
+| 147 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 |
+| 148 | [Shell](https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Shell](https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL) | 2:20 |
 | 149 | [Persuasion](https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 2:48 |
 | 150 | [Back To The Start](https://open.spotify.com/track/3rf2zzhaqAu5Rx4n14YqiU) | [Cary Brothers](https://open.spotify.com/artist/21R50WhyQI5HxWOTr6MyY1) | [Back To The Start](https://open.spotify.com/album/5c09bkL58RiNSPUwKJnlj4) | 3:28 |
 

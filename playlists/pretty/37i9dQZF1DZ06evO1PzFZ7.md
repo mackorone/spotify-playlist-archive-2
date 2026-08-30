@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 
 > This is Ángela Aguilar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,231 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,233 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 24 | [Toda Una Vida](https://open.spotify.com/track/1zHkID56I9lGu9Sj6izj9Q) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Trio Los Panchos](https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 2:42 |
 | 25 | [Te Quiero para Mí](https://open.spotify.com/track/0F4yOUbUuoo4lC5Qet3uHd) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 4:47 |
 | 26 | [Libre Corazón](https://open.spotify.com/track/6kmXRPVlr9k085Dfseqed9) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Nadie Se Va Como Llegó](https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35) | 3:06 |
-| 27 | [Fue un Placer Conocerte](https://open.spotify.com/track/1tR9gMkQ507oO0XTcMweQj) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T) | 3:30 |
-| 28 | [Me Gustas Mucho](https://open.spotify.com/track/7c6L2XlUPwcmMlijRNu9Sd) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 2:50 |
+| 27 | [Me Gustas Mucho](https://open.spotify.com/track/7c6L2XlUPwcmMlijRNu9Sd) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 2:50 |
+| 28 | [Fue un Placer Conocerte](https://open.spotify.com/track/1tR9gMkQ507oO0XTcMweQj) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T) | 3:30 |
 | 29 | [Quizás Quizás Quizás](https://open.spotify.com/track/2fHuEEJMbtXsw5BitInQzA) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Trio Los Panchos](https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:13 |
 | 30 | [Corazón De Piedra](https://open.spotify.com/track/39mVA9QegitCKVdSxTEvij) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Nadie Se Va Como Llegó](https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35) | 2:40 |
 | 31 | [Gotitas Saladas](https://open.spotify.com/track/5Sas859pm039G13F5wEuyK) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Gotitas Saladas](https://open.spotify.com/album/3qm5AFyntlDrD2NbcVGGdU) | 3:23 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 45 | [Piensa en Mí](https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:46 |
 | 46 | [Mis Amigas Las Flores](https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mis Amigas Las Flores](https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji) | 2:58 |
 | 47 | [Maldita Primavera](https://open.spotify.com/track/2PKd8lbXAp9LJaysyEtGuE) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Yuri y Sus Amigos del Regional Mexicano](https://open.spotify.com/album/6tRva9OrjfJ1wzU44X2y3V) | 3:46 |
-| 48 | [La Ley del Monte](https://open.spotify.com/track/59tgqSSqUMsEbwSG2GNr5X) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Tributo al Rey Con Banda \(Grandes Duetos Vol\. 1\)](https://open.spotify.com/album/2RSWtgg7UBSu2YuKI02Oug) | 3:05 |
-| 49 | [Amor, Amor de Mis Amores](https://open.spotify.com/track/15hJAORUQLQnnP6gM9DHrL) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK) | 1:53 |
+| 48 | [Amor, Amor de Mis Amores](https://open.spotify.com/track/15hJAORUQLQnnP6gM9DHrL) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK) | 1:53 |
+| 49 | [La Ley del Monte](https://open.spotify.com/track/59tgqSSqUMsEbwSG2GNr5X) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Tributo al Rey Con Banda \(Grandes Duetos Vol\. 1\)](https://open.spotify.com/album/2RSWtgg7UBSu2YuKI02Oug) | 3:05 |
 | 50 | [Baila Esta Cumbia](https://open.spotify.com/track/5YbeAaSHZv7ZDAM6CJE872) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP) | 2:55 |
 
-Snapshot ID: `ao9+AAAAAADht3YVH33MdrOH2U5s72vh`
+Snapshot ID: `apDPgAAAAAB/6b+7yWm5jdLNeYtW+vxg`

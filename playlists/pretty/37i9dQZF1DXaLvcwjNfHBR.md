@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,916 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,922 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

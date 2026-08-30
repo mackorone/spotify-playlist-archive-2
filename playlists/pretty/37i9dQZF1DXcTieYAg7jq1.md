@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Frank Mastra
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,687 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,728 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

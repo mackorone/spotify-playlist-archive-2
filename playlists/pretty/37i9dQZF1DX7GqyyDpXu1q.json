@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 95674,
+  "num_followers": 95680,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -471,18 +471,22 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "three twenty four",
-        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
+        "name": "All of Your Stones",
+        "url": "https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy"
       },
       "artists": [
         {
-          "name": "Ole 60",
-          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
+        },
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
         }
       ],
-      "duration_ms": 189048,
-      "name": "smoke & a light",
-      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
+      "duration_ms": 429488,
+      "name": "I Need You (feat. Ashley Monroe)",
+      "url": "https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -503,22 +507,18 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "All of Your Stones",
-        "url": "https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy"
+        "name": "three twenty four",
+        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
       },
       "artists": [
         {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
-        },
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
         }
       ],
-      "duration_ms": 429488,
-      "name": "I Need You (feat. Ashley Monroe)",
-      "url": "https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u"
+      "duration_ms": 189048,
+      "name": "smoke & a light",
+      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
     },
     {
       "added_at": "2026-04-10 16:28:54",

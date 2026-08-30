@@ -477,6 +477,24 @@
     },
     {
       "album": {
+        "name": "bite the bullet",
+        "url": "https://open.spotify.com/album/4hwA1AqKKOZakN6BerVdo6"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134533,
+      "name": "bite the bullet",
+      "url": "https://open.spotify.com/track/3k4CtUyfaSlBftplzCrkro"
+    },
+    {
+      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/0OwVeTY6EU5CuHNhEhc4kJ"
       },

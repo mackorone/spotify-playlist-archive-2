@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,894 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,887 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 44 | [Jurassic Park](https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 2:26 |
 | 45 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 |
 | 46 | [Chaos From Within](https://open.spotify.com/track/1N8K9up7uz8EuyEiOoy9pq) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 1:50 |
-| 47 | [Playing Dead](https://open.spotify.com/track/4KuwjTOfniivWFKJz3p1yW) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Get Lost, Find Yourself](https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW) | 3:29 |
-| 48 | [Everything You Want Me to Be](https://open.spotify.com/track/44DORmYYzUfVP1YKFgkLZn) | [Coldfront](https://open.spotify.com/artist/4aP6zYaS4ms7xcghP2L32y) | [Float Around](https://open.spotify.com/album/6xi0HS84N10LbQRyOXtO3z) | 3:24 |
-| 49 | [SOS](https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [SOS](https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711) | 3:19 |
+| 47 | [SOS](https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [SOS](https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711) | 3:19 |
+| 48 | [Playing Dead](https://open.spotify.com/track/4KuwjTOfniivWFKJz3p1yW) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Get Lost, Find Yourself](https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW) | 3:29 |
+| 49 | [Everything You Want Me to Be](https://open.spotify.com/track/44DORmYYzUfVP1YKFgkLZn) | [Coldfront](https://open.spotify.com/artist/4aP6zYaS4ms7xcghP2L32y) | [Float Around](https://open.spotify.com/album/6xi0HS84N10LbQRyOXtO3z) | 3:24 |
 | 50 | [Like That](https://open.spotify.com/track/6FxIFdX1jeJYwPozaeqaZj) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 2:57 |
 | 51 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 |
 | 52 | [Strain Your Memory](https://open.spotify.com/track/1d1az3MIWrJvcNrgNMJTYA) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Hello Exile](https://open.spotify.com/album/5baJxk2fGaLorySaf6173S) | 4:04 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 80 | [Minds Like Minefields](https://open.spotify.com/track/4hKsDk5XzS7oYi0aWGIBvH) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [E.P.](https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY) | 3:15 |
 | 81 | [Won't Give Up The Fight](https://open.spotify.com/track/60O4BYfrtOOcq9rywcEyi3) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 3:02 |
 | 82 | [Paradise Lost, a poem by John Milton](https://open.spotify.com/track/3kL1eGyxKYipkJoGGjxy0J) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Paradise Lost, a poem by John Milton](https://open.spotify.com/album/4EhnHqtmJ6mBQwHO2nXxLn) | 2:47 |
-| 83 | [Stay Awhile](https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 3:24 |
-| 84 | [Fools Gold](https://open.spotify.com/track/2dOPwODAXiOrkuFXLMTGd5) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [Nothing Grows Here](https://open.spotify.com/album/3KtiLWd9uMx5dVe3n2nW2p) | 4:16 |
+| 83 | [Fools Gold](https://open.spotify.com/track/2dOPwODAXiOrkuFXLMTGd5) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [Nothing Grows Here](https://open.spotify.com/album/3KtiLWd9uMx5dVe3n2nW2p) | 4:16 |
+| 84 | [Stay Awhile](https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 3:24 |
 | 85 | [A Long Time Ago In A Galaxy Called LA](https://open.spotify.com/track/5miZeAqW2OLH3iBIKiL9hQ) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [A Long Time Ago In A Galaxy Called LA](https://open.spotify.com/album/1wLpt4NmhTBOdiqz39USqB) | 3:27 |
 | 86 | [Wallflower](https://open.spotify.com/track/7oXIbtib1VHQAJCvuSg3rx) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Wallflower](https://open.spotify.com/album/7KDXQC3QK8gvw2Y2lExNcr) | 2:23 |
 | 87 | [Cop Outs and Cover Ups](https://open.spotify.com/track/1eky0UG5NxlVNtcPrNOPSl) | [We Still Dream](https://open.spotify.com/artist/1hYf0dAHtryg8JfaQd5c5o) | [Therapy](https://open.spotify.com/album/7BHmLI3iFYEbbKqb2r97a6) | 3:07 |

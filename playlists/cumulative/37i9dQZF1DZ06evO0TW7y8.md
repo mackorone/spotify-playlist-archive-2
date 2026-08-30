@@ -4,7 +4,7 @@
 
 > This is Jorja Smith\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 22 min
+80 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Burn](https://open.spotify.com/track/099qKQ9zvTWcMDsNsasKpI) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:34 | 2025-08-02 |  |
 | [Bussdown](https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:21 | 2025-08-02 | 2026-02-22 |
 | [By Any Means](https://open.spotify.com/track/2UWnZrXLXIyfMgNvJr2KUa) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [By Any Means](https://open.spotify.com/album/5KGU6dXP8K978diRu0eetZ) | 3:45 | 2025-08-02 |  |
-| [Carry Me Home](https://open.spotify.com/track/6fracv4du3sDwo1XKcPrkw) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Project 11](https://open.spotify.com/album/0aytGzjInPwluxhlSLxoot) | 4:42 | 2025-08-02 | 2026-08-24 |
+| [Carry Me Home](https://open.spotify.com/track/6fracv4du3sDwo1XKcPrkw) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Project 11](https://open.spotify.com/album/0aytGzjInPwluxhlSLxoot) | 4:42 | 2025-08-02 |  |
 | [Come Over \(Remix\)](https://open.spotify.com/track/5RBc2SUllAJG4gUZdXTBIj) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Come Over \(Remix\)](https://open.spotify.com/album/4RhemXpQlqhaNdz2WTkzBt) | 2:25 | 2025-08-02 |  |
 | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26) | 3:34 | 2025-08-02 |  |
 | [Coming Home \(feat\. Jorja Smith\)](https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:42 | 2026-08-02 |  |
@@ -82,10 +82,11 @@
 | [Try Me](https://open.spotify.com/track/0pvp14nDtb1DnEgRrmcBpY) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:33 | 2025-08-02 | 2025-11-10 |
 | [Tyrant \(feat\. Jorja Smith\)](https://open.spotify.com/track/4FZOSDwALdWxcGcRbwXWJ8) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:24 | 2025-08-02 |  |
 | [What Are The Odds](https://open.spotify.com/track/7pXOVush7EakPluHkka7hr) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What Are The Odds](https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa) | 2:37 | 2026-08-23 |  |
-| [What's Done Is Done](https://open.spotify.com/track/36KQjAcAbpCtmFau9vzBL9) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What's Done Is Done](https://open.spotify.com/album/5OQtEHy6nPlWNd4dMbrdJk) | 2:53 | 2026-05-17 |  |
+| [What's Done Is Done](https://open.spotify.com/track/0kImcnXuI3y1Jc5SBjvOvd) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What Are The Odds](https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa) | 2:53 | 2026-08-30 |  |
+| [What's Done Is Done](https://open.spotify.com/track/36KQjAcAbpCtmFau9vzBL9) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What's Done Is Done](https://open.spotify.com/album/5OQtEHy6nPlWNd4dMbrdJk) | 2:53 | 2026-05-17 | 2026-08-30 |
 | [Where Did I Go?](https://open.spotify.com/track/79OKfIXCPbNhZa3h1ZREag) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:11 | 2025-08-02 |  |
 | [Wifey Riddim](https://open.spotify.com/track/4QmoRTOUyrBb0butY0aYtX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Wifey Riddim](https://open.spotify.com/album/6GLYQfBSP4JHsec83wYB9c) | 2:28 | 2025-08-02 | 2025-10-12 |
 | [With You](https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [With You](https://open.spotify.com/album/0CcGtpurfGXXiMJrcVJ6YY) | 3:21 | 2025-08-02 |  |
-| [Young Heart](https://open.spotify.com/track/5hoFLBNfgpgEJvC8cj1GiU) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What Are The Odds](https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa) | 4:00 | 2026-08-24 |  |
+| [Young Heart](https://open.spotify.com/track/5hoFLBNfgpgEJvC8cj1GiU) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What Are The Odds](https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa) | 4:00 | 2026-08-24 | 2026-08-30 |
 
 \*This playlist was first scraped on 2025-08-02. Prior content cannot be recovered.

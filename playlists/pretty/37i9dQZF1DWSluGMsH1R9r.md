@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 
 > Calm piano music for enhanced concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,446,840 likes - 162 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,446,806 likes - 162 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 | 24 | [Golden Hour](https://open.spotify.com/track/1bVd2VtJpXWVOMDYnathl2) | [Henry Flower](https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E) | [Golden Hour](https://open.spotify.com/album/4qtTth2FVrTn0vOxyMHd64) | 2:21 |
 | 25 | [The light is there](https://open.spotify.com/track/1aHkqLrb44WJtIxXxz93qp) | [Eve St\. Claire](https://open.spotify.com/artist/3MSaDulfIzPkitDIJeZxDO) | [The light is there](https://open.spotify.com/album/4sLCogCSRNefB8zbmhcEj2) | 2:03 |
 | 26 | [Into the Unknown](https://open.spotify.com/track/58fzqWnRTNaQsUM8pVeyoY) | [Mont Eval](https://open.spotify.com/artist/0QRraRSvyFyBeQLp44amC4) | [Into the Unknown](https://open.spotify.com/album/4LEyZZo2zNN9kmBiaQSKiR) | 2:52 |
-| 27 | [Truth Within](https://open.spotify.com/track/3mRO22aXY2HAdEVFluFrXI) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Truth Within](https://open.spotify.com/album/0LW4Hr1eiR2BodmRD9iDev) | 2:21 |
-| 28 | [Escallonia](https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Escallonia](https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh) | 2:09 |
+| 27 | [Escallonia](https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Escallonia](https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh) | 2:09 |
+| 28 | [Truth Within](https://open.spotify.com/track/3mRO22aXY2HAdEVFluFrXI) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Truth Within](https://open.spotify.com/album/0LW4Hr1eiR2BodmRD9iDev) | 2:21 |
 | 29 | [Hiraeth](https://open.spotify.com/track/7Bu7bhBR0ZzJYV6rXy2WBE) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Hiraeth](https://open.spotify.com/album/0X7oAZw91zTDeDYBo8csfR) | 2:27 |
 | 30 | [Regarde les flammes danser](https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Regarde les flammes danser](https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV) | 2:11 |
 | 31 | [In Green](https://open.spotify.com/track/65X0IiKlzsco1zlM18opk6) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [In Green](https://open.spotify.com/album/0ron8ZEWZaCkrL3cg4H0VE) | 2:34 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 | 50 | [Time Is a River](https://open.spotify.com/track/6V2bLU0kshksarML59YS4U) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Time Is a River](https://open.spotify.com/album/35yjbZXzQHCSflB1ocHKub) | 2:42 |
 | 51 | [From a Distance](https://open.spotify.com/track/7DSAwNkmall9lAltVsoWFw) | [Mindy Thurma](https://open.spotify.com/artist/6EGDXCYZx9z4BxMPCvU7ui) | [From a Distance](https://open.spotify.com/album/7joeG2oftim1xUZGqznAxa) | 2:27 |
 | 52 | [Remember those quiet evenings](https://open.spotify.com/track/6K6xmEal7cYw4UaWr5W88w) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Remember those quiet evenings](https://open.spotify.com/album/7CWDWm6UhHaEvXvNbSxzjl) | 2:36 |
-| 53 | [The Opening](https://open.spotify.com/track/5usmLdjDelMj2inEm5MmAP) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [The Opening](https://open.spotify.com/album/0bsAKVLQlW0IpVYZtOmCxb) | 2:20 |
-| 54 | [Last Summer](https://open.spotify.com/track/6zWlb8ign5eEFLES2wnrZZ) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Last Summer](https://open.spotify.com/album/2Ut8GPa6BSH6cDTUnc890v) | 2:20 |
+| 53 | [Last Summer](https://open.spotify.com/track/6zWlb8ign5eEFLES2wnrZZ) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Last Summer](https://open.spotify.com/album/2Ut8GPa6BSH6cDTUnc890v) | 2:20 |
+| 54 | [The Opening](https://open.spotify.com/track/5usmLdjDelMj2inEm5MmAP) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [The Opening](https://open.spotify.com/album/0bsAKVLQlW0IpVYZtOmCxb) | 2:20 |
 | 55 | [Flower Wings](https://open.spotify.com/track/0Q9AH52EwC19MjsaJpVf9S) | [Léon Mignard](https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL) | [Flower Wings](https://open.spotify.com/album/40VuQEGGWo9QHWSHQiUhWv) | 2:18 |
 | 56 | [somewhere else, together](https://open.spotify.com/track/4Pl37bufUvxJOhLJIfLCcl) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [somewhere else, together](https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX) | 3:09 |
 | 57 | [Slowly 慢慢地](https://open.spotify.com/track/4qly3FfGri8B6IwAFOfO9T) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Slowly 慢慢地](https://open.spotify.com/album/5gQPws4thKwNUF73TcUGIx) | 2:09 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 | 62 | [Slowness Within](https://open.spotify.com/track/37yMja7S79WxV3EmvEKR5F) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Slowness Within](https://open.spotify.com/album/17sb0A1FVV1alrS66l2vIa) | 2:07 |
 | 63 | [Fleur De Vie](https://open.spotify.com/track/3XI8tZp7AGsBwtl3x3jJQ9) | [Jonas Bergsson](https://open.spotify.com/artist/46L8889dejsvPsDQIUMlvZ) | [Fleur De Vie](https://open.spotify.com/album/2OfATe9Y1JiETaENiHb6o9) | 2:56 |
 | 64 | [Southern Air](https://open.spotify.com/track/1WiDUpSUjuQkOzOCvbSkzY) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Southern Air](https://open.spotify.com/album/6q7W9ZSRvSUvxR8PF1be6G) | 3:46 |
-| 65 | [Beauty](https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Beauty](https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5) | 2:19 |
-| 66 | [Rowan](https://open.spotify.com/track/2Kc5LcEp1QG3tCTI4Bi21n) | [Ben Moldau](https://open.spotify.com/artist/5juEtUD0Fb07yd0VwhSsiA) | [Rowan](https://open.spotify.com/album/2hhg6pdR80dNaSL421A7sw) | 2:48 |
+| 65 | [Rowan](https://open.spotify.com/track/2Kc5LcEp1QG3tCTI4Bi21n) | [Ben Moldau](https://open.spotify.com/artist/5juEtUD0Fb07yd0VwhSsiA) | [Rowan](https://open.spotify.com/album/2hhg6pdR80dNaSL421A7sw) | 2:48 |
+| 66 | [Beauty](https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Beauty](https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5) | 2:19 |
 | 67 | [Secret Meadow](https://open.spotify.com/track/0CtYYa8anV9WcP4R7WEP6c) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Secret Meadow](https://open.spotify.com/album/3vqbinG3yAqZhYdCuq9eKM) | 2:27 |
 | 68 | [Nocté](https://open.spotify.com/track/0o83HI5x861cqRsFcRT3U7) | [Van Kahloo](https://open.spotify.com/artist/2We8E0eZ1LBJexjxeMFzCn) | [Nocté](https://open.spotify.com/album/6c93p8mX7rQtckEI2waoYK) | 2:21 |
 | 69 | [Stigen](https://open.spotify.com/track/5XE7UW7R8zolee4CMLfIPr) | [Carl Sture](https://open.spotify.com/artist/71XFcbr4HdMBCGe6uTfsvQ) | [Stigen](https://open.spotify.com/album/5CnR7KZSqePtcSbHuAQkX0) | 2:54 |
@@ -107,18 +107,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 | 97 | [Rest](https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [Rest](https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj) | 2:54 |
 | 98 | [Campania](https://open.spotify.com/track/2Nf6J9vOtyzP4gX6xBvLv9) | [Gilded Reverie](https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym) | [Campania](https://open.spotify.com/album/10Ol0BRzxel4NoqxFSJgC8) | 2:21 |
 | 99 | [A passing season](https://open.spotify.com/track/0kcNgvxO5miMzPqkFYoeqK) | [Rowan Guthrie](https://open.spotify.com/artist/5UZOjfjGjEFQ5v3HGf02YG) | [A passing season](https://open.spotify.com/album/7uFAhV4JjbE5B7xgvxYTx7) | 2:55 |
-| 100 | [Tranquil Landscape](https://open.spotify.com/track/6oODbMYfHjqWHTZp3wMheG) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Tranquil Landscape](https://open.spotify.com/album/2Ki1eCrONyJr7GPJdoC9ta) | 3:07 |
-| 101 | [Healing](https://open.spotify.com/track/2e68vzuzRv3GFUtYDO7NBE) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Healing](https://open.spotify.com/album/2DrvBABoXgq25yR3hNIFBP) | 2:06 |
-| 102 | [Steady](https://open.spotify.com/track/6Wo45l5WHTJzJsc2JwvsuF) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Steady](https://open.spotify.com/album/5vXDx8lXDSDCz4TGJ3Yahp) | 2:20 |
+| 100 | [Steady](https://open.spotify.com/track/6Wo45l5WHTJzJsc2JwvsuF) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Steady](https://open.spotify.com/album/5vXDx8lXDSDCz4TGJ3Yahp) | 2:20 |
+| 101 | [Tranquil Landscape](https://open.spotify.com/track/6oODbMYfHjqWHTZp3wMheG) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Tranquil Landscape](https://open.spotify.com/album/2Ki1eCrONyJr7GPJdoC9ta) | 3:07 |
+| 102 | [Healing](https://open.spotify.com/track/2e68vzuzRv3GFUtYDO7NBE) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Healing](https://open.spotify.com/album/2DrvBABoXgq25yR3hNIFBP) | 2:06 |
 | 103 | [Quiet Suns](https://open.spotify.com/track/14bchJRy9GEEC8Ctb9YBPr) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Quiet Suns](https://open.spotify.com/album/1Bmt8Tgb1ofB11VNUGLZzc) | 2:11 |
 | 104 | [Black coal of dream](https://open.spotify.com/track/4QTsrZ1o0SRgx6FhdonuCi) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Black coal of dream](https://open.spotify.com/album/6Qr73LPNXy4GOM7t4SsfO4) | 2:05 |
 | 105 | [Sogni di Positano](https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Sogni di Positano](https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x) | 3:27 |
-| 106 | [Après tout](https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz) | [Alexis Pavot](https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk) | [Après Tout](https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3) | 2:27 |
+| 106 | [Emanate](https://open.spotify.com/track/0X4e6EoRi8NyVoCsJIbYz8) | [Aldo Talete](https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W) | [Emanate](https://open.spotify.com/album/7Eb7FSjOX0Tf9GTtHW8XuS) | 2:59 |
 | 107 | [Interim](https://open.spotify.com/track/60CfZTCT1iHQdnjNrnvpZP) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Interim](https://open.spotify.com/album/1P6PbFhwgTaXXjsl9H6Nh0) | 2:19 |
-| 108 | [Shadows On The Lawn](https://open.spotify.com/track/0GcwEkklAbxpJIiNCafBct) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Shadows On The Lawn](https://open.spotify.com/album/5SPQjNTPLyfJOXTPy4AUNN) | 2:13 |
-| 109 | [Emanate](https://open.spotify.com/track/0X4e6EoRi8NyVoCsJIbYz8) | [Aldo Talete](https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W) | [Emanate](https://open.spotify.com/album/7Eb7FSjOX0Tf9GTtHW8XuS) | 2:59 |
-| 110 | [Desde el alma](https://open.spotify.com/track/1e1WFPBz50KtAuNyHitfW4) | [Justin Dell](https://open.spotify.com/artist/7nQzEyE1TWkfthJfE0fs43) | [Desde el alma](https://open.spotify.com/album/5ET1TQqwwpsQhU17Y0QlBU) | 2:09 |
-| 111 | [Nowhere](https://open.spotify.com/track/13ZdrqLb7T8qeZktOecD6I) | [Aubrey Lo](https://open.spotify.com/artist/4elUDNmdnkDoBslirNXZf5) | [Nowhere](https://open.spotify.com/album/6qKgI8XrspuFdKoIMZx8OQ) | 2:16 |
+| 108 | [Après tout](https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz) | [Alexis Pavot](https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk) | [Après Tout](https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3) | 2:27 |
+| 109 | [Shadows On The Lawn](https://open.spotify.com/track/0GcwEkklAbxpJIiNCafBct) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Shadows On The Lawn](https://open.spotify.com/album/5SPQjNTPLyfJOXTPy4AUNN) | 2:13 |
+| 110 | [Nowhere](https://open.spotify.com/track/13ZdrqLb7T8qeZktOecD6I) | [Aubrey Lo](https://open.spotify.com/artist/4elUDNmdnkDoBslirNXZf5) | [Nowhere](https://open.spotify.com/album/6qKgI8XrspuFdKoIMZx8OQ) | 2:16 |
+| 111 | [Desde el alma](https://open.spotify.com/track/1e1WFPBz50KtAuNyHitfW4) | [Justin Dell](https://open.spotify.com/artist/7nQzEyE1TWkfthJfE0fs43) | [Desde el alma](https://open.spotify.com/album/5ET1TQqwwpsQhU17Y0QlBU) | 2:09 |
 | 112 | [Morning Light](https://open.spotify.com/track/7yTxnKpCWKf4aquBYtkFJ7) | [Kyo Himura](https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1) | [Morning Light](https://open.spotify.com/album/4sTkIu2zQegGH1eC9SPXxg) | 2:26 |
 | 113 | [haverdal](https://open.spotify.com/track/0yCNW5tD9V7PlAzGtByxiQ) | [reinë](https://open.spotify.com/artist/4KMRoxw1UPjNsfY53yIfYR) | [haverdal](https://open.spotify.com/album/5ONeHMUpDcjoL9rPwc2pZY) | 2:33 |
 | 114 | [Armonia](https://open.spotify.com/track/7twgqnezfkPggDImVdAdfT) | [Elion Veero](https://open.spotify.com/artist/23t1xJeBxLCYomcRBWqVtO) | [Armonia](https://open.spotify.com/album/6AQymVdiw5JbFH9GU6P1oG) | 3:00 |

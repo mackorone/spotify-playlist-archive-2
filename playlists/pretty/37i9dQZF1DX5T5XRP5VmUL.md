@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > Get in the holiday spirit with these festive essentials ✨❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,526 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,517 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,15 +65,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 55 | [Happy Trails](https://open.spotify.com/track/1WRNwhOwNDBxKpkXMeV1zK) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Happy Trails](https://open.spotify.com/album/692vnJ4ZSRqgoCldC2zmGr) | 3:07 |
 | 56 | [Winter Things](https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:38 |
 | 57 | [Nothing Like Christmas](https://open.spotify.com/track/4XDscazKuEDnTFmMDoX7nL) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Nothing Like Christmas](https://open.spotify.com/album/1gZdV7rZkQi1XUzGkAXMJ2) | 3:19 |
-| 58 | [Driving Home for Christmas \- 2019 Remaster](https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Dancing with Strangers \(Deluxe Edition, 2019 Remaster\)](https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4) | 4:01 |
-| 59 | [Like It's Christmas](https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Like It's Christmas](https://open.spotify.com/album/2SOQX9qSOQhxc0PsI5LNnu) | 3:20 |
+| 58 | [Like It's Christmas](https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Like It's Christmas](https://open.spotify.com/album/2SOQX9qSOQhxc0PsI5LNnu) | 3:20 |
+| 59 | [Driving Home for Christmas \- 2019 Remaster](https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Dancing with Strangers \(Deluxe Edition, 2019 Remaster\)](https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4) | 4:01 |
 | 60 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:26 |
 | 61 | [Love to Keep Me Warm](https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi) | 2:38 |
 | 62 | [DJ Play A Christmas Song](https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:29 |
 | 63 | [River](https://open.spotify.com/track/6QjfeWvTkJTgMJcifKXoa5) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [River](https://open.spotify.com/album/6eFMdTriLrFtrE1xLXsVJs) | 3:17 |
-| 64 | [Sleigh Ride](https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:55 |
+| 64 | [Run Rudolph Run \- Spotify Singles Holiday](https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Run Rudolph Run \- Spotify Singles Holiday](https://open.spotify.com/album/1pSxnWkixgHxo9jnGK66nb) | 2:35 |
 | 65 | [Run Outta Mistletoe](https://open.spotify.com/track/3RG2ckEP3Mb2pKuDsuR2YP) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Run Outta Mistletoe](https://open.spotify.com/album/5wIDdUcs5RFHu33dc9CnZy) | 2:43 |
-| 66 | [Run Rudolph Run \- Spotify Singles Holiday](https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Run Rudolph Run \- Spotify Singles Holiday](https://open.spotify.com/album/1pSxnWkixgHxo9jnGK66nb) | 2:35 |
+| 66 | [Sleigh Ride](https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:55 |
 | 67 | [I'll Be Home for Christmas](https://open.spotify.com/track/6kDt7UcDZJMrAluOxTSWV1) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [I'll Be Home for Christmas](https://open.spotify.com/album/0BeZLG9XcyUSSxhIS1QgpS) | 3:00 |
 | 68 | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU) | 2:05 |
 | 69 | [Christmas Without You](https://open.spotify.com/track/1QLZKzC2pjP4ySf4ALrNhm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Christmas Without You](https://open.spotify.com/album/4vxk8Q78WLINHtJpDSuvq7) | 2:49 |

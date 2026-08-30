@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,342 songs - 5 day 1 hr 26 min
+2,343 songs - 5 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1367,6 +1367,7 @@
 | [Minns du? \(feat\. Thomas Stenström\)](https://open.spotify.com/track/2lhyyg07nsxZ6pB35ZtCcp) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Minns du? \(feat\. Thomas Stenström\)](https://open.spotify.com/album/3hlEXqB62kybF7SvlRDQbJ) | 2:52 | 2024-02-08 | 2024-04-05 |
 | [Mint Condition](https://open.spotify.com/track/4NdP6vAQZMx2LNzvszOGxx) | [David Ritschard](https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf) | [Mint Condition](https://open.spotify.com/album/0T286uB0xqD29h3vF4SvqV) | 2:22 | 2026-08-13 |  |
 | [Miracle](https://open.spotify.com/track/6wTYe0HC4MIpNpjuxX9R5E) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Miracle](https://open.spotify.com/album/5WFkoeD18MlAtIPCPWULZa) | 3:05 | 2026-08-20 |  |
+| [Mirakel](https://open.spotify.com/track/4KtrEuk2Trxdyn2NmgTMTN) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Mirakel](https://open.spotify.com/album/3vYNeWBvpRGwyTDdBjVy4I) | 4:38 | 2026-08-27 |  |
 | [Misemotional](https://open.spotify.com/track/02veTwzG1FDUKtcFzpC9mJ) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Misemotional](https://open.spotify.com/album/0EtJROuWrnhxRTm1EjH9RK) | 3:34 | 2023-10-19 | 2024-01-26 |
 | [Miss The Party](https://open.spotify.com/track/1u70gXN0eulrXoeZEiIXyv) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Learning Experience](https://open.spotify.com/album/2oFo9ugJ7G6jRAGh1uX3Wp) | 3:12 | 2022-04-07 | 2023-05-08 |
 | [Miss You On My Own](https://open.spotify.com/track/0pP83CapV6oZE6XSExUnBP) | [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Miss You On My Own](https://open.spotify.com/album/18i1cm2aN0wqLiVc8qmU9i) | 3:07 | 2024-01-25 | 2024-03-15 |
@@ -1710,7 +1711,7 @@
 | [SANNINGEN SVIDER](https://open.spotify.com/track/0yVA82YrlsFKXIuIHJhtEk) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [SANNINGEN SVIDER](https://open.spotify.com/album/6BoTdKPbMgyVNAbBAfw7Kz) | 3:16 | 2024-11-14 | 2024-12-18 |
 | [Santiago](https://open.spotify.com/track/2H4wjqbzWgCKEPPdk9tPqQ) | [GAMMAL](https://open.spotify.com/artist/3O6DpqAKwn7L1KS9s9x0w5) | [Santiago](https://open.spotify.com/album/1WaSYY1PuUo1SteFBJSSJc) | 2:58 | 2022-05-12 | 2022-12-24 |
 | [Sarah](https://open.spotify.com/track/21xzvjoTUhKV2QYyIGDo8J) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [En gång i tiden](https://open.spotify.com/album/4shw3FqZjRgJinMpCBfNCr) | 3:13 | 2021-12-16 | 2022-03-11 |
-| [Satan var en ängel](https://open.spotify.com/track/1ps4CnpPnbZ45WUY3ZT59X) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Satan var en ängel](https://open.spotify.com/album/0ADxyy1l1b43inf1fDCd4t) | 2:58 | 2026-04-09 |  |
+| [Satan var en ängel](https://open.spotify.com/track/1ps4CnpPnbZ45WUY3ZT59X) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Satan var en ängel](https://open.spotify.com/album/0ADxyy1l1b43inf1fDCd4t) | 2:58 | 2026-04-09 | 2026-08-30 |
 | [Satanized](https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2) | 3:56 | 2025-03-07 | 2025-06-20 |
 | [Satellit](https://open.spotify.com/track/0hQSNorAGipIT7lF8ssyIz) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Satellit](https://open.spotify.com/album/69LrfrvfBFYag9DoBuXtep) | 3:01 | 2023-08-03 | 2023-11-17 |
 | [Satellite](https://open.spotify.com/track/1emiVL0MBzCXEsELdsWDEl) | [Natalie Carrion](https://open.spotify.com/artist/2ofcid66LbQTeWrc9C3IO4) | [Satellite](https://open.spotify.com/album/6NCT6T1se8jEqAdeG6hgbh) | 3:06 | 2024-05-02 | 2024-06-01 |

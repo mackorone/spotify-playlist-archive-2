@@ -3410,7 +3410,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 127058,
       "name": "Channel 4",
       "url": "https://open.spotify.com/track/2oh5lRVcuSJKXuIYaQyTna"
@@ -24710,6 +24710,24 @@
       "duration_ms": 140127,
       "name": "When I See You",
       "url": "https://open.spotify.com/track/6ANnNFLIzVkJsabPH1CiNa"
+    },
+    {
+      "album": {
+        "name": "when it is gone",
+        "url": "https://open.spotify.com/album/29I8NfLlSHlmMZ61GXaDEU"
+      },
+      "artists": [
+        {
+          "name": "Kichiro",
+          "url": "https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125901,
+      "name": "when it is gone",
+      "url": "https://open.spotify.com/track/0zF8x6GLmKw9Qg5L8ydvAG"
     },
     {
       "album": {

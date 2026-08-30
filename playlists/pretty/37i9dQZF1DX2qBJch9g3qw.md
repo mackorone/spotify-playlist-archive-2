@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 
 > lost in a haze
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,093 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,076 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 | 25 | [can't stop](https://open.spotify.com/track/266NPG21d1RGm5GHxchVF3) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX) | 3:08 |
 | 26 | [Brown Sugar](https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 4:22 |
 | 27 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
-| 28 | [I Want You Around](https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:32 |
-| 29 | [Next Lifetime](https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:26 |
+| 28 | [Next Lifetime](https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:26 |
+| 29 | [I Want You Around](https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:32 |
 | 30 | [NIGHT OFF](https://open.spotify.com/track/7c3YkPGBLWhqhLwbUHSInq) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [NIGHT OFF](https://open.spotify.com/album/0xHjdCVcRbdQvwT42ieEAB) | 2:53 |
 | 31 | [Jezebel](https://open.spotify.com/track/5qehd5xIsEaifMFy3jcoYr) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 5:29 |
 | 32 | [CPR](https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:23 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 | 38 | [AUCTION](https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [AUCTION](https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU) | 3:20 |
 | 39 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 |
 | 40 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
-| 41 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
-| 42 | [Downers](https://open.spotify.com/track/1fnU60yGjhsP1QY335rH2m) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers](https://open.spotify.com/album/1luS1QdwBrhQzsnbJlyySt) | 3:38 |
+| 41 | [Downers](https://open.spotify.com/track/1fnU60yGjhsP1QY335rH2m) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers](https://open.spotify.com/album/1luS1QdwBrhQzsnbJlyySt) | 3:38 |
+| 42 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
 | 43 | [no cinderella](https://open.spotify.com/track/6MLRXGIIpGXOR7ZvQm3xHF) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [no cinderella](https://open.spotify.com/album/1H0KnxzyaQmncQHMqbRJ3D) | 2:23 |
 | 44 | [Doc Whiler](https://open.spotify.com/track/2xkib9MAHlGtxJRhIesSAX) | [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [Since Winona](https://open.spotify.com/album/7D9vZwRiwIzwEXHzsVutdK) | 2:29 |
 | 45 | [Miss You](https://open.spotify.com/track/5zHB3dyXGTS00HuvgSnBUj) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Miss You](https://open.spotify.com/album/2lNL8dWOB8s3RpJ8RcmNqZ) | 3:51 |

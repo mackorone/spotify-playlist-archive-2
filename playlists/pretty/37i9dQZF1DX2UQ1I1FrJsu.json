@@ -1,6 +1,6 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 154377,
+  "num_followers": 154444,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-08-28 04:01:58",
       "album": {
-        "name": "Heaven Knows",
-        "url": "https://open.spotify.com/album/1epDNJxNJsI7FsptoEWEIg"
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
       },
       "artists": [
         {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 181920,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/5Hg1m5uhSPL75ejQgPOmyc"
+      "duration_ms": 350000,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/4S0NYVAQdIb81uLoZoQmgq"
     },
     {
       "added_at": "2026-08-28 04:01:58",
@@ -879,18 +879,18 @@
     {
       "added_at": "2026-08-28 04:01:58",
       "album": {
-        "name": "Love Deluxe",
-        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/1epDNJxNJsI7FsptoEWEIg"
       },
       "artists": [
         {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
         }
       ],
-      "duration_ms": 350000,
-      "name": "Kiss of Life",
-      "url": "https://open.spotify.com/track/4S0NYVAQdIb81uLoZoQmgq"
+      "duration_ms": 181920,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/5Hg1m5uhSPL75ejQgPOmyc"
     },
     {
       "added_at": "2026-08-28 04:01:58",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-08-28 04:01:58",
       "album": {
-        "name": "Queen Alone",
-        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
-    },
-    {
-      "added_at": "2026-08-28 04:01:58",
-      "album": {
         "name": "Brown Sugar",
         "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 344893,
       "name": "When We Get By",
       "url": "https://open.spotify.com/track/1DNkxLaGqAIU43kHQkunoE"
+    },
+    {
+      "added_at": "2026-08-28 04:01:58",
+      "album": {
+        "name": "Queen Alone",
+        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
     },
     {
       "added_at": "2026-08-28 04:01:58",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-08-28 04:01:58",
       "album": {
-        "name": "Lotus 72 D",
-        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Roberto",
-          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
-        }
-      ],
-      "duration_ms": 180490,
-      "name": "Lotus 72 D - Fast Version",
-      "url": "https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB"
-    },
-    {
-      "added_at": "2026-08-28 04:01:58",
-      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 199477,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U"
+    },
+    {
+      "added_at": "2026-08-28 04:01:58",
+      "album": {
+        "name": "Lotus 72 D",
+        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Roberto",
+          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
+        }
+      ],
+      "duration_ms": 180490,
+      "name": "Lotus 72 D - Fast Version",
+      "url": "https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB"
     },
     {
       "added_at": "2026-08-28 04:01:58",

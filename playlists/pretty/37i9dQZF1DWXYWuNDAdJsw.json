@@ -1,6 +1,6 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 1001740,
+  "num_followers": 1001716,
   "original_name": "perrear y llorar \ud83e\udd72",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,30 @@
     {
       "added_at": "2026-05-30 05:30:54",
       "album": {
+        "name": "Los Vaqueros Wild Wild Mixes",
+        "url": "https://open.spotify.com/album/0lSruNExlVqHp7Ox1xpWgu"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        },
+        {
+          "name": "Ken-Y",
+          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
+        },
+        {
+          "name": "Marioso",
+          "url": "https://open.spotify.com/artist/3vK6vMiSDE0xwZXm1Z2bRz"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "Quizas - Remix",
+      "url": "https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y"
+    },
+    {
+      "added_at": "2026-05-30 05:30:54",
+      "album": {
         "name": "Climaxxx",
         "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
       },
@@ -747,30 +771,6 @@
       "duration_ms": 286506,
       "name": "Cuaderno",
       "url": "https://open.spotify.com/track/7anSoGdgtmJTAPZBzcPhO6"
-    },
-    {
-      "added_at": "2026-05-30 05:30:54",
-      "album": {
-        "name": "Los Vaqueros Wild Wild Mixes",
-        "url": "https://open.spotify.com/album/0lSruNExlVqHp7Ox1xpWgu"
-      },
-      "artists": [
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        },
-        {
-          "name": "Ken-Y",
-          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
-        },
-        {
-          "name": "Marioso",
-          "url": "https://open.spotify.com/artist/3vK6vMiSDE0xwZXm1Z2bRz"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "Quizas - Remix",
-      "url": "https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y"
     },
     {
       "added_at": "2026-05-30 05:30:54",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-05-30 05:30:54",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 188906,
+      "name": "Devuelveme",
+      "url": "https://open.spotify.com/track/5uvucCRBTkxv7VxIDLOqe7"
+    },
+    {
+      "added_at": "2026-05-30 05:30:54",
+      "album": {
         "name": "\u00danica",
         "url": "https://open.spotify.com/album/12wlkuPrZmoBdnLImqvPOM"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 144957,
       "name": "\u00danica",
       "url": "https://open.spotify.com/track/0xHAfrziD261HeNYVmYqNF"
-    },
-    {
-      "added_at": "2026-05-30 05:30:54",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "Devuelveme",
-      "url": "https://open.spotify.com/track/5uvucCRBTkxv7VxIDLOqe7"
     },
     {
       "added_at": "2026-05-30 05:30:54",
@@ -1375,22 +1375,18 @@
     {
       "added_at": "2026-05-30 05:30:54",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+        "name": "54+1",
+        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 200746,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/1h9P5WJwyvK8OB7O2YiXgp"
+      "duration_ms": 193435,
+      "name": "Cuando Me Acerco A Ti",
+      "url": "https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7"
     },
     {
       "added_at": "2026-05-30 05:30:54",
@@ -1415,18 +1411,22 @@
     {
       "added_at": "2026-05-30 05:30:54",
       "album": {
-        "name": "54+1",
-        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 193435,
-      "name": "Cuando Me Acerco A Ti",
-      "url": "https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7"
+      "duration_ms": 200746,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/1h9P5WJwyvK8OB7O2YiXgp"
     },
     {
       "added_at": "2026-05-30 05:30:54",

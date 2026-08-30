@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Charles Ans, Sabino, Yubeili, Caztro en portada",
-  "num_followers": 868661,
+  "num_followers": 868770,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-08-28 06:00:20",
       "album": {
-        "name": "PASE Y PASE",
-        "url": "https://open.spotify.com/album/7z9NCCZBv2lnejkFRlUlAm"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 181149,
-      "name": "PASE Y PASE",
-      "url": "https://open.spotify.com/track/3UI9nM0xrI0ywhqoZQvLFt"
-    },
-    {
-      "added_at": "2026-08-28 06:00:20",
-      "album": {
         "name": "Qu\u00e9 Andas Haciendo",
         "url": "https://open.spotify.com/album/5aglfekM0ZJCRb83xKQ2Re"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 199994,
       "name": "Qu\u00e9 Andas Haciendo",
       "url": "https://open.spotify.com/track/2Pv1g4OMtsdeQw3QF5v1it"
+    },
+    {
+      "added_at": "2026-08-28 06:00:20",
+      "album": {
+        "name": "PASE Y PASE",
+        "url": "https://open.spotify.com/album/7z9NCCZBv2lnejkFRlUlAm"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 181149,
+      "name": "PASE Y PASE",
+      "url": "https://open.spotify.com/track/3UI9nM0xrI0ywhqoZQvLFt"
     },
     {
       "added_at": "2026-08-28 06:00:20",
@@ -935,6 +935,26 @@
     {
       "added_at": "2026-08-28 06:00:20",
       "album": {
+        "name": "Es Triiste",
+        "url": "https://open.spotify.com/album/2bmyBADrmrhJ9XZjRaRXFw"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "Kreamly",
+          "url": "https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk"
+        }
+      ],
+      "duration_ms": 185567,
+      "name": "Es Triiste",
+      "url": "https://open.spotify.com/track/04245jmXa38WxGA4clZMXC"
+    },
+    {
+      "added_at": "2026-08-28 06:00:20",
+      "album": {
         "name": "Agu\u00e1ntame",
         "url": "https://open.spotify.com/album/4kqVBDAIxv4CdFbSX0AXVF"
       },
@@ -975,26 +995,6 @@
     {
       "added_at": "2026-08-28 06:00:20",
       "album": {
-        "name": "Es Triiste",
-        "url": "https://open.spotify.com/album/2bmyBADrmrhJ9XZjRaRXFw"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "Kreamly",
-          "url": "https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk"
-        }
-      ],
-      "duration_ms": 185567,
-      "name": "Es Triiste",
-      "url": "https://open.spotify.com/track/04245jmXa38WxGA4clZMXC"
-    },
-    {
-      "added_at": "2026-08-28 06:00:20",
-      "album": {
         "name": "Reminiscencia",
         "url": "https://open.spotify.com/album/1iE4WOrDA6qhVTAYwgOrKK"
       },
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2026-08-28 06:00:20",
       "album": {
-        "name": "T\u00fa Ni En Cuenta",
-        "url": "https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 203801,
-      "name": "T\u00fa Ni En Cuenta",
-      "url": "https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH"
-    },
-    {
-      "added_at": "2026-08-28 06:00:20",
-      "album": {
         "name": "A La Luz De La luna",
         "url": "https://open.spotify.com/album/5FknMjAXtPKD26VySnMtNs"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 165212,
       "name": "A La Luz De La luna",
       "url": "https://open.spotify.com/track/6VZiBmPwjTdNjyrOLKkCNa"
+    },
+    {
+      "added_at": "2026-08-28 06:00:20",
+      "album": {
+        "name": "T\u00fa Ni En Cuenta",
+        "url": "https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 203801,
+      "name": "T\u00fa Ni En Cuenta",
+      "url": "https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH"
     },
     {
       "added_at": "2026-08-28 06:00:20",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-08-28 06:00:20",
       "album": {
-        "name": "Tu Falta De Querer",
-        "url": "https://open.spotify.com/album/1LmPvZc8SPVeQRyiOcOdxW"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 193684,
-      "name": "Tu Falta De Querer",
-      "url": "https://open.spotify.com/track/6AKvMFodvPaTWlbLExloiO"
-    },
-    {
-      "added_at": "2026-08-28 06:00:20",
-      "album": {
         "name": "No Quiero Ser",
         "url": "https://open.spotify.com/album/1CuQVVHLLaq1jwttcXnhYk"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 189333,
       "name": "No Quiero Ser",
       "url": "https://open.spotify.com/track/1JePDU1OWEqihZiksVKIbt"
+    },
+    {
+      "added_at": "2026-08-28 06:00:20",
+      "album": {
+        "name": "Tu Falta De Querer",
+        "url": "https://open.spotify.com/album/1LmPvZc8SPVeQRyiOcOdxW"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 193684,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/6AKvMFodvPaTWlbLExloiO"
     },
     {
       "added_at": "2026-08-28 06:00:20",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-08-28 06:00:20",
       "album": {
-        "name": "Fuertes Declaraciones",
-        "url": "https://open.spotify.com/album/2r66uR6h6BTZivk268eW3A"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        }
-      ],
-      "duration_ms": 151455,
-      "name": "Fuertes Declaraciones",
-      "url": "https://open.spotify.com/track/0LM3ZWJoMBd4r5cRaDhxp2"
-    },
-    {
-      "added_at": "2026-08-28 06:00:20",
-      "album": {
         "name": "Perdonarte, \u00bfPara Qu\u00e9?",
         "url": "https://open.spotify.com/album/3LLzCUi4FDCG7C3HYyENn8"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 193432,
       "name": "Perdonarte, \u00bfPara Qu\u00e9?",
       "url": "https://open.spotify.com/track/3lJpgC9I7R3Botguwpi6j8"
+    },
+    {
+      "added_at": "2026-08-28 06:00:20",
+      "album": {
+        "name": "Fuertes Declaraciones",
+        "url": "https://open.spotify.com/album/2r66uR6h6BTZivk268eW3A"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "duration_ms": 151455,
+      "name": "Fuertes Declaraciones",
+      "url": "https://open.spotify.com/track/0LM3ZWJoMBd4r5cRaDhxp2"
     },
     {
       "added_at": "2026-08-28 06:00:20",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-08-28 06:00:20",
       "album": {
-        "name": "TRAES FAMITA",
-        "url": "https://open.spotify.com/album/3HDLcikjXdqQu3Puu9bEz1"
-      },
-      "artists": [
-        {
-          "name": "Juanchito",
-          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
-        }
-      ],
-      "duration_ms": 213846,
-      "name": "TRAES FAMITA",
-      "url": "https://open.spotify.com/track/2n8dheUxYdPblcw2COfl0f"
-    },
-    {
-      "added_at": "2026-08-28 06:00:20",
-      "album": {
         "name": "Yo No Dije",
         "url": "https://open.spotify.com/album/09jfMTx04SaHmWSB1Mq3Kl"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 215243,
       "name": "Yo No Dije",
       "url": "https://open.spotify.com/track/20a8C1jCjzelRsDfJUstty"
+    },
+    {
+      "added_at": "2026-08-28 06:00:20",
+      "album": {
+        "name": "TRAES FAMITA",
+        "url": "https://open.spotify.com/album/3HDLcikjXdqQu3Puu9bEz1"
+      },
+      "artists": [
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        }
+      ],
+      "duration_ms": 213846,
+      "name": "TRAES FAMITA",
+      "url": "https://open.spotify.com/track/2n8dheUxYdPblcw2COfl0f"
     },
     {
       "added_at": "2026-08-28 06:00:20",

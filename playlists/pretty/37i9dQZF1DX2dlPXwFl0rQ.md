@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Mariana Soane y Majo Aguilar en portada 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,614 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,635 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 65 | [No Más Canciones De Amor](https://open.spotify.com/track/5KUXDV43C0Id3obmoiMVTz) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Más Canciones De Amor](https://open.spotify.com/album/06OW44HrziPwbrneC0HrIQ) | 2:31 |
 | 66 | [Yo Te Extrañaré](https://open.spotify.com/track/5eaoQpGpFBQrMUjWk3lruo) | [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB), [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Yo Te Extrañaré](https://open.spotify.com/album/39CrI0ILTQ6Ia0zHaBNpda) | 4:50 |
 | 67 | [No que no](https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [No que no](https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF) | 3:09 |
-| 68 | [El Cigarrillo](https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [El Cigarrillo](https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl) | 3:39 |
-| 69 | [Cómo Le Hacen Los Dolidos](https://open.spotify.com/track/3hACkfWTkqO9XYfScnGjXp) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Cómo Le Hacen Los Dolidos](https://open.spotify.com/album/0eLLMT6TGrsPZyyM8VBE9q) | 2:46 |
+| 68 | [Cómo Le Hacen Los Dolidos](https://open.spotify.com/track/3hACkfWTkqO9XYfScnGjXp) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Cómo Le Hacen Los Dolidos](https://open.spotify.com/album/0eLLMT6TGrsPZyyM8VBE9q) | 2:46 |
+| 69 | [El Cigarrillo](https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [El Cigarrillo](https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl) | 3:39 |
 | 70 | [ADN](https://open.spotify.com/track/5oNsLQSQZllwUkJJm1hjwq) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp), [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [ADN](https://open.spotify.com/album/1Fa5QSbxfTYsn5wXUhFpiJ) | 2:53 |
 | 71 | [¿Por Qué No Vienes?](https://open.spotify.com/track/5OMUiJlu6MR1JAS7PVuIOY) | [Vicky Terrazas](https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG) | [¿Por Qué No Vienes?](https://open.spotify.com/album/0YkM3kQNfaCjr5cUjNktzm) | 3:35 |
 | 72 | [De Lo Que Me Salvé](https://open.spotify.com/track/3njGgBsNB4RnxqYKc1YDh2) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [De Lo Que Me Salvé](https://open.spotify.com/album/4pqSQejVHrDuLaTdu3mmj0) | 3:31 |

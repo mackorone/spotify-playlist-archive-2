@@ -1,6 +1,6 @@
 {
   "description": "Kick nostalgia up a notch with these throwback bangers. ",
-  "num_followers": 82058,
+  "num_followers": 82077,
   "original_name": "Rewind: Naija Hits",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,26 @@
     {
       "added_at": "2025-08-26 11:12:59",
       "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/5ml5qP7IbT2FDujhSNpSRT"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 233012,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/4GW2SIyvB5fy8xtK1eO8PS"
+    },
+    {
+      "added_at": "2025-08-26 11:12:59",
+      "album": {
         "name": "Know No Better",
         "url": "https://open.spotify.com/album/4PJtsH62RuojHmS3VCAHXx"
       },
@@ -267,26 +287,6 @@
       "duration_ms": 204654,
       "name": "Particula",
       "url": "https://open.spotify.com/track/2mZLaQDdLplafm3Y5HMr51"
-    },
-    {
-      "added_at": "2025-08-26 11:12:59",
-      "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/5ml5qP7IbT2FDujhSNpSRT"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 233012,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/4GW2SIyvB5fy8xtK1eO8PS"
     },
     {
       "added_at": "2025-08-26 11:12:59",
@@ -395,18 +395,22 @@
     {
       "added_at": "2025-08-26 11:12:59",
       "album": {
-        "name": "Rema Compilation",
-        "url": "https://open.spotify.com/album/5H6TAMOUgLUX1RfSOG1Al5"
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 179775,
-      "name": "Dumebi",
-      "url": "https://open.spotify.com/track/6CJD4LDNULzE645JA2XHpx"
+      "duration_ms": 221603,
+      "name": "No Kissing Baby",
+      "url": "https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH"
     },
     {
       "added_at": "2025-08-26 11:12:59",
@@ -427,22 +431,18 @@
     {
       "added_at": "2025-08-26 11:12:59",
       "album": {
-        "name": "God Over Everything",
-        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+        "name": "Rema Compilation",
+        "url": "https://open.spotify.com/album/5H6TAMOUgLUX1RfSOG1Al5"
       },
       "artists": [
         {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 221603,
-      "name": "No Kissing Baby",
-      "url": "https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH"
+      "duration_ms": 179775,
+      "name": "Dumebi",
+      "url": "https://open.spotify.com/track/6CJD4LDNULzE645JA2XHpx"
     },
     {
       "added_at": "2025-08-26 11:12:59",
@@ -479,6 +479,26 @@
     {
       "added_at": "2025-08-26 11:12:59",
       "album": {
+        "name": "My Woman, My Everything (feat. Wandecoal) - Single",
+        "url": "https://open.spotify.com/album/0cUhwhoX9Yi7vhJgHfgRm4"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 233717,
+      "name": "My Woman, My Everything (feat. Wandecoal)",
+      "url": "https://open.spotify.com/track/5MAScTGPHzWAeivPjpATa9"
+    },
+    {
+      "added_at": "2025-08-26 11:12:59",
+      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 270315,
       "name": "Risky",
       "url": "https://open.spotify.com/track/56HnJIjgi41kpjh6L3Y1Ca"
-    },
-    {
-      "added_at": "2025-08-26 11:12:59",
-      "album": {
-        "name": "My Woman, My Everything (feat. Wandecoal) - Single",
-        "url": "https://open.spotify.com/album/0cUhwhoX9Yi7vhJgHfgRm4"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 233717,
-      "name": "My Woman, My Everything (feat. Wandecoal)",
-      "url": "https://open.spotify.com/track/5MAScTGPHzWAeivPjpATa9"
     },
     {
       "added_at": "2025-08-26 11:12:59",
@@ -575,6 +575,26 @@
     {
       "added_at": "2025-08-26 11:12:59",
       "album": {
+        "name": "Oleku (feat. Brymo)",
+        "url": "https://open.spotify.com/album/2mHvknGmv5MyUlTeoD7KBc"
+      },
+      "artists": [
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "Brymo",
+          "url": "https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u"
+        }
+      ],
+      "duration_ms": 291363,
+      "name": "Oleku (feat. Brymo)",
+      "url": "https://open.spotify.com/track/0mDRuZmReEm6DquPLJlcEm"
+    },
+    {
+      "added_at": "2025-08-26 11:12:59",
+      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 214205,
       "name": "FIA",
       "url": "https://open.spotify.com/track/6sfdU1tGLpXhjjLjGJa0zA"
-    },
-    {
-      "added_at": "2025-08-26 11:12:59",
-      "album": {
-        "name": "Oleku (feat. Brymo)",
-        "url": "https://open.spotify.com/album/2mHvknGmv5MyUlTeoD7KBc"
-      },
-      "artists": [
-        {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        },
-        {
-          "name": "Brymo",
-          "url": "https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u"
-        }
-      ],
-      "duration_ms": 291363,
-      "name": "Oleku (feat. Brymo)",
-      "url": "https://open.spotify.com/track/0mDRuZmReEm6DquPLJlcEm"
     },
     {
       "added_at": "2025-08-26 11:12:59",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-08-26 11:12:59",
       "album": {
+        "name": "Rema Compilation",
+        "url": "https://open.spotify.com/album/5H6TAMOUgLUX1RfSOG1Al5"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 227456,
+      "name": "Corny",
+      "url": "https://open.spotify.com/track/2LOlSWqi18gZeJb5aZ63dE"
+    },
+    {
+      "added_at": "2025-08-26 11:12:59",
+      "album": {
         "name": "Blow My Mind",
         "url": "https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 199173,
       "name": "Blow My Mind",
       "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
-    },
-    {
-      "added_at": "2025-08-26 11:12:59",
-      "album": {
-        "name": "Rema Compilation",
-        "url": "https://open.spotify.com/album/5H6TAMOUgLUX1RfSOG1Al5"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 227456,
-      "name": "Corny",
-      "url": "https://open.spotify.com/track/2LOlSWqi18gZeJb5aZ63dE"
     },
     {
       "added_at": "2025-08-26 11:12:59",

@@ -1,12 +1,12 @@
 {
   "description": "This is David Allan Coe. The essential tracks, all in one playlist.",
-  "num_followers": 28974,
+  "num_followers": 28976,
   "original_name": "This Is David Allan Coe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAB0iaPaIYK0zW5e/OrN/9Ff",
+  "snapshot_id": "apDPgAAAAABbHHBuBLe3x80RUk8Fr/6i",
   "tracks": [
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Once Upon a Rhyme",
-        "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "Sweet Vibrations (Some Folks Call It Love)",
-      "url": "https://open.spotify.com/track/41wFXSrdWefbvAlbKI55N6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Texas Moon (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0R5C0Zgqj6l4iyHYOv2zfj"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 266000,
       "name": "Satisfied Mind",
       "url": "https://open.spotify.com/track/2TupUbFN9bwUOaIhiZo7q2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Once Upon a Rhyme",
+        "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 182026,
+      "name": "Sweet Vibrations (Some Folks Call It Love)",
+      "url": "https://open.spotify.com/track/41wFXSrdWefbvAlbKI55N6"
     },
     {
       "added_at": null,

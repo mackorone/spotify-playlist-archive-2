@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Xamã, Pabllo Vitar, Bruno & Marrone, Carol Biazin e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,307,460 likes - 67 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,307,285 likes - 67 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

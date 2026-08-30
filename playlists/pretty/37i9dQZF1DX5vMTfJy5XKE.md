@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: The Pretty Reckless
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,631 likes - 241 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,614 likes - 241 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 132 | [The Holiday \- Acoustic](https://open.spotify.com/track/20pP3XAQUyd8lTgdwKB3Nc) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [The Holiday](https://open.spotify.com/album/6Y7ATU10sypGIp7X0uDNaj) | 4:00 |
 | 133 | [O Holy Night](https://open.spotify.com/track/56Udu90nu3LoUyygPPpDLS) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [O Holy Night](https://open.spotify.com/album/6XmhNeoQjmUvTFCYWI2Htv) | 5:13 |
 | 134 | [Navidad Navidad](https://open.spotify.com/track/3TtB7oQnbmvBl7okHFw49s) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Navidad Navidad](https://open.spotify.com/album/7K2IiI8GdfNyUba7Z7CSWp) | 2:33 |
-| 135 | [Last Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/track/2JuCzvXu9tIUU2ZDDgQ0vG) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Last Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/1WQWzqG7uf68jQohlrsaR1) | 3:43 |
+| 135 | [Last Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2JuCzvXu9tIUU2ZDDgQ0vG) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Last Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/1WQWzqG7uf68jQohlrsaR1) | 3:43 |
 | 136 | [Skip My House](https://open.spotify.com/track/4FHs1JTMBEHiN6qQxJ0ZlM) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Skip My House](https://open.spotify.com/album/1fOjzK6YS7bpxbTC4nsOpm) | 3:06 |
 | 137 | [The First Noel](https://open.spotify.com/track/0zZS5f3qS0iql0GNmapr2C) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [The First Noel](https://open.spotify.com/album/2xws45Dyh4qmerwUIUzXOK) | 2:56 |
 | 138 | [Christmas Card \- from Dean Street](https://open.spotify.com/track/0hPe1PRVOk4bNgWIvAfKxu) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [The Business of Christmas](https://open.spotify.com/album/56g3uFA0IZy1ZIwIk6j5O4) | 2:54 |

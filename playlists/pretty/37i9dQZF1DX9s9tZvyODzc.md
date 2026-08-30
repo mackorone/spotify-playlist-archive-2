@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9s9tZvyODzc.md) - [plain]
 
 > Dale play y dejá que la música te lleve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,669 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,717 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9s9tZvyODzc.md) - [plain]
 | 24 | [Será](https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Esperando el Milagro](https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT) | 3:01 |
 | 25 | [Afuera](https://open.spotify.com/track/3Z2pbcrWI4Q8z1r1meLOKv) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ) | [Afuera](https://open.spotify.com/album/7H0QtsXzjY2X80RQABI9K7) | 3:25 |
 | 26 | [Para no olvidar](https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
-| 27 | [Luna de Miel en la Mano](https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Locura](https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r) | 5:16 |
-| 28 | [Ella Dijo](https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Sistema Nervioso Central](https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4) | 4:44 |
+| 27 | [Ella Dijo](https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Sistema Nervioso Central](https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4) | 4:44 |
+| 28 | [Luna de Miel en la Mano](https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Locura](https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r) | 5:16 |
 | 29 | [Lago en el Cielo](https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 5:08 |
 | 30 | [ARRANCÁRMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCÁRMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
 | 31 | [Personalmente](https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Despierta](https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz) | 4:10 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9s9tZvyODzc.md) - [plain]
 | 74 | [Nos Veremos Otra Vez](https://open.spotify.com/track/1FBdUVBQsG8suMoKaF3GOi) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Seru Giran 92](https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4) | 3:58 |
 | 75 | [Fue Amor](https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:12 |
 | 76 | [Yo Te Diré](https://open.spotify.com/track/2Io2LJQRWDMfhhfqPu2KG1) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Hotel Miranda!](https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO) | 3:27 |
-| 77 | [AYER TE VI \(feat\. Zoe Gotusso\)](https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 |
-| 78 | [QUEMARÁS](https://open.spotify.com/track/43WrAH7AnSucEvN7HGW0BF) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [QUEMARÁS](https://open.spotify.com/album/2nLlI9VteZMztr78YS9DHo) | 4:23 |
+| 77 | [QUEMARÁS](https://open.spotify.com/track/43WrAH7AnSucEvN7HGW0BF) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [QUEMARÁS](https://open.spotify.com/album/2nLlI9VteZMztr78YS9DHo) | 4:23 |
+| 78 | [AYER TE VI \(feat\. Zoe Gotusso\)](https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 |
 | 79 | [Los Dos](https://open.spotify.com/track/39m0KJWhZUojRFi9k1m21E) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Los Dos](https://open.spotify.com/album/0Ws2WWNt8G4V9O61K6eZSK) | 3:31 |
 | 80 | [Los Salieris De Charly](https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Mensajes Del Alma](https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE) | 6:02 |
 | 81 | [Cirugía \(Portal Sessions\)](https://open.spotify.com/track/5ssgbRdJTVgTLmkJ7gmPuF) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs), [Portal Sessions](https://open.spotify.com/artist/5EU23oxWb2gKorPhZRJfXN) | [Cirugía \(Portal Sessions\)](https://open.spotify.com/album/4Dy7IxsvlG9rEt0lGECFDr) | 3:38 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9s9tZvyODzc.md) - [plain]
 | 97 | [Roma](https://open.spotify.com/track/56E8G34SfyjtNO2p7L3exO) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Los Lobos](https://open.spotify.com/album/6eE0K6iXOBrNTXHBahxCaP) | 3:48 |
 | 98 | [Costumbres Argentinas](https://open.spotify.com/track/4ux5icXP18e2stlh7nlEqQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Costumbres Argentinas](https://open.spotify.com/album/3HCeEi8EpRkgDRRw6wm62w) | 3:05 |
 | 99 | [Desearía](https://open.spotify.com/track/7kWoPjENU4e10m1u0JJNEu) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Desearía](https://open.spotify.com/album/3mlt9U1oPcQiMWfG0iFngf) | 3:21 |
-| 100 | [sé que va a venir](https://open.spotify.com/track/4CdsEPDWvoNL249vSYhxyp) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Inhibidor](https://open.spotify.com/album/3pKSAQaC5qUpRAhRg5BRVk) | 4:01 |
+| 100 | [Así Es el Calor](https://open.spotify.com/track/5nFTy6FXjPG9rJOY6tp6cP) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Así Es el Calor](https://open.spotify.com/album/5AIeThdtQJ8U6W2o88bpwo) | 3:00 |
 
 Snapshot ID: `AAAAAIDzdUARBmFOI+FNytTkMKlCW0oE`

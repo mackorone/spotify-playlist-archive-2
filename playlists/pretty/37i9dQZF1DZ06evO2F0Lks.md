@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 
 > This is Carrie Underwood\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,316 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,326 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 | 20 | [If It Was Up To Me](https://open.spotify.com/track/1fKrN4psGIjlo4sccpisJc) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Walk Through Fire](https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t) | 3:14 |
 | 21 | [Great Is Thy Faithfulness](https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 4:21 |
 | 22 | [The Champion \- Bonus Track](https://open.spotify.com/track/2F6JxWMP2ZfmVErc3ZTmqQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:42 |
-| 23 | [Something in the Water](https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:58 |
-| 24 | [Heartbeat](https://open.spotify.com/track/05BgC2247XGi8ySwBzOO0o) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:30 |
+| 23 | [Heartbeat](https://open.spotify.com/track/05BgC2247XGi8ySwBzOO0o) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:30 |
+| 24 | [Something in the Water](https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:58 |
 | 25 | [Wasted](https://open.spotify.com/track/5d98TnYzxQmFE4vKgzWXuT) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 4:34 |
 | 26 | [Amazing Grace](https://open.spotify.com/track/0i67q5f6SBh6QvDgJV4f1v) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 2:56 |
 | 27 | [See You Again](https://open.spotify.com/track/7jP7iCJ1cXVXYHWIkYtP6d) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 | 49 | [I Wanna Remember \(feat\. Carrie Underwood\)](https://open.spotify.com/track/124KRi7jkm9Skq89xIK28V) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Into The Mystery](https://open.spotify.com/album/2vDmR7Be0zQwcxDnHAqe5X) | 3:33 |
 | 50 | [Look at Me](https://open.spotify.com/track/30vfmE5gZLW1VtghknFwTn) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 3:16 |
 
-Snapshot ID: `ao9+AAAAAABTgogv0WbzC9X5JdEe9mm/`
+Snapshot ID: `apDPgAAAAAA4/8pIBhlQlLseM9S23UrS`

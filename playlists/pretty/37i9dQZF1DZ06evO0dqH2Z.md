@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dqH2Z.md) - [plain]
 
 > This is Tigers Jaw\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,891 likes - 41 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,891 likes - 41 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,15 +39,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dqH2Z.md) - [plain]
 | 29 | [Berlin \(feat\. Tigers Jaw\)](https://open.spotify.com/track/7jRtmIC2bixxr2RYGbPBgp) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV), [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [A Brief Intermission in the Flattening of Time](https://open.spotify.com/album/6Yczxf4YZevAC8ge5Sb1H3) | 3:06 |
 | 30 | [Favorite](https://open.spotify.com/track/7nBCUygrEGaU0Hvr9u6ntW) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [spin](https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY) | 2:03 |
 | 31 | [New Detroit](https://open.spotify.com/track/1n2OIgDDCHgm0YpvK62OLx) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [I Won't Care How You Remember Me](https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7) | 2:44 |
-| 32 | [Lodging](https://open.spotify.com/track/2VhuYwx3NFIljVMQAxbcIp) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Balance and Composure & Tigers Jaw Split](https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3) | 3:00 |
-| 33 | [Nervous Kids](https://open.spotify.com/track/2lVXTGaCiCi4N6POZGrcyh) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Charmer](https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI) | 2:55 |
+| 32 | [Nervous Kids](https://open.spotify.com/track/2lVXTGaCiCi4N6POZGrcyh) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Charmer](https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI) | 2:55 |
+| 33 | [Lodging](https://open.spotify.com/track/2VhuYwx3NFIljVMQAxbcIp) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Balance and Composure & Tigers Jaw Split](https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3) | 3:00 |
 | 34 | [Coil/Recoil](https://open.spotify.com/track/69L8rEPccsIYFOLsVvl5Xs) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn) | 2:01 |
 | 35 | [Cat's Cradle](https://open.spotify.com/track/6Wrt1iG9AKqkavwSXh1aNz) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [I Won't Care How You Remember Me](https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7) | 2:36 |
 | 36 | [Cool](https://open.spotify.com/track/3WcRJUHkVzgkXkqyz344Dm) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Charmer](https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI) | 2:40 |
 | 37 | [Let Go/Trashed Floors](https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn) | 1:40 |
 | 38 | [Lemon Mouth](https://open.spotify.com/track/06pB48LiLMGL3nx0rkmdnO) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [I Won't Care How You Remember Me](https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7) | 3:09 |
-| 39 | [Slow Come On](https://open.spotify.com/track/7dnlCMw9Nzgc5OW0WabYv2) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Charmer](https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI) | 3:15 |
+| 39 | [Distress Signal](https://open.spotify.com/track/0WNkiBlZdhn6JXzyCki4gO) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Charmer](https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI) | 2:41 |
 | 40 | [Commit](https://open.spotify.com/track/1CLnmxh6Inys4vSibwM4ud) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [I Won't Care How You Remember Me](https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7) | 2:33 |
 | 41 | [Soft Spoken](https://open.spotify.com/track/545zjzTleoTGh2Y0zKnABc) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Charmer](https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI) | 2:43 |
 
-Snapshot ID: `ao9+AAAAAAD6eCY2yelo3RLhc+I0Svf/`
+Snapshot ID: `apDPgAAAAABw5eK9xGHN8tno9wxKgnKF`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 
 > Allerbeste songs van de 90's! Cover: No Doubt
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,053 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,069 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 |
-| 2 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
-| 3 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:02 |
+| 2 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:02 |
+| 3 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
 | 4 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 |
 | 5 | [The Road Ahead \(Miles Of The Unknown\)](https://open.spotify.com/track/0MGMHRiLmoAurQLfKRKpcG) | [City To City](https://open.spotify.com/artist/7vDb491yruvfnR8vu2dH4o) | [The Road Ahead](https://open.spotify.com/album/1tUsiiCcTn7pZoa9Ypceak) | 4:06 |
 | 6 | [Earth Song](https://open.spotify.com/track/4GCGH6TJ69neckwITeBFXK) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 6:45 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 | 29 | [I Want It That Way](https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [The Hits\-\-Chapter One](https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r) | 3:33 |
 | 30 | [When You're Gone](https://open.spotify.com/track/7p9dd71JR2ucoAuO1Sy0VZ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [On A Day Like Today](https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV) | 3:24 |
 | 31 | [You](https://open.spotify.com/track/6lbme14HiDWYmGiw1I2Dv6) | [Ten Sharp](https://open.spotify.com/artist/0ap24Mjt6qlze8v667KlaF) | [You](https://open.spotify.com/album/6LoXZrgX1DhvUN6hFhs0AW) | 4:32 |
-| 32 | [Something Happened on the Way to Heaven \- 2016 Remaster](https://open.spotify.com/track/4ziqqoW1o3P5EhNqK6CPb1) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 4:51 |
-| 33 | [Torn](https://open.spotify.com/track/3APayTEWiUl9Ssep4BOXR2) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Glorious: The Singles 97\-07](https://open.spotify.com/album/5snQakFpbHsJmrAvhgeuHX) | 4:04 |
+| 32 | [Torn](https://open.spotify.com/track/3APayTEWiUl9Ssep4BOXR2) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Glorious: The Singles 97\-07](https://open.spotify.com/album/5snQakFpbHsJmrAvhgeuHX) | 4:04 |
+| 33 | [Something Happened on the Way to Heaven \- 2016 Remaster](https://open.spotify.com/track/4ziqqoW1o3P5EhNqK6CPb1) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 4:51 |
 | 34 | [Let Me Entertain You](https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Life Thru A Lens](https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN) | 4:22 |
 | 35 | [Life](https://open.spotify.com/track/5LGqFIVBf3ZUeFBpc87CFS) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [Supernatural](https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i) | 3:36 |
 | 36 | [Ironic](https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 3:48 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 | 93 | [Don't Look Back in Anger](https://open.spotify.com/track/698mT3CTx8JEnp7twwJrGG) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's the Story\) Morning Glory?](https://open.spotify.com/album/5NCJ52G67LVp5elc367Sjs) | 4:47 |
 | 94 | [Quit Playing Games \(With My Heart\)](https://open.spotify.com/track/10TwZnDyL3tfpwBV85Wevs) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [The New Best Of \(All Hits & Remixes\) 2016](https://open.spotify.com/album/39gSR80KryAcX955TARfGg) | 3:53 |
 | 95 | [Would I Lie To You?](https://open.spotify.com/track/1A3iXoekVzV95cq89XiiuX) | [Charles & Eddie](https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD) | [Would I Lie To You](https://open.spotify.com/album/0LnItV3dnYTejvxvJsW20n) | 3:24 |
-| 96 | [Jesus He Knows Me](https://open.spotify.com/track/5WjHfw8Y5D947Qk5qw71YY) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [The Platinum Collection](https://open.spotify.com/album/3we7A7UllAuA6QH6U9jmHs) | 4:17 |
-| 97 | [Aan De Kust](https://open.spotify.com/track/7mvxl7tRdYZsJ9jxgIJrVa) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:33 |
+| 96 | [Aan De Kust](https://open.spotify.com/track/7mvxl7tRdYZsJ9jxgIJrVa) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:33 |
+| 97 | [Jesus He Knows Me](https://open.spotify.com/track/5WjHfw8Y5D947Qk5qw71YY) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [The Platinum Collection](https://open.spotify.com/album/3we7A7UllAuA6QH6U9jmHs) | 4:17 |
 | 98 | [Love Shine a Light](https://open.spotify.com/track/0WdBh2BQOq9U7PMk6sWzMz) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Love Shine a Light \(15th Anniversary Edition\)](https://open.spotify.com/album/29gNuIQQWjYgtsDOeoYkTk) | 3:07 |
 | 99 | [Say What You Want](https://open.spotify.com/track/4MIB4aXVS0M0KNVcbQlyOP) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [White On Blonde](https://open.spotify.com/album/6jYkl1sYBLOnqcNCeoEMAw) | 3:53 |
 | 100 | [Big Big World](https://open.spotify.com/track/6nzZXE4iUSpG4LSlSGNH5e) | [Emilia](https://open.spotify.com/artist/1sPuAjy8SuvfwXNVgt52jg) | [100 Essential Love Songs \(Online version\)](https://open.spotify.com/album/3UgnOTcOt4JlplBn3eL82v) | 3:22 |

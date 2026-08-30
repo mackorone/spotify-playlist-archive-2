@@ -1,6 +1,6 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 379595,
+  "num_followers": 379625,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
@@ -539,18 +539,22 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
-        "name": "Bites",
-        "url": "https://open.spotify.com/album/48uIwIUdrqvY27C7sXF9CA"
+        "name": "DISCO4 :: PART II",
+        "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
       "artists": [
         {
-          "name": "Skinny Puppy",
-          "url": "https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns"
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        },
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
         }
       ],
-      "duration_ms": 416706,
-      "name": "Assimilate",
-      "url": "https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF"
+      "duration_ms": 314720,
+      "name": "ISN\u2019T EVERYONE",
+      "url": "https://open.spotify.com/track/7Kx1m2vb4QPgHKVKvpvrFv"
     },
     {
       "added_at": "2025-02-10 19:48:47",
@@ -571,22 +575,18 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
-        "name": "DISCO4 :: PART II",
-        "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
+        "name": "Bites",
+        "url": "https://open.spotify.com/album/48uIwIUdrqvY27C7sXF9CA"
       },
       "artists": [
         {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        },
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+          "name": "Skinny Puppy",
+          "url": "https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns"
         }
       ],
-      "duration_ms": 314720,
-      "name": "ISN\u2019T EVERYONE",
-      "url": "https://open.spotify.com/track/7Kx1m2vb4QPgHKVKvpvrFv"
+      "duration_ms": 416706,
+      "name": "Assimilate",
+      "url": "https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF"
     },
     {
       "added_at": "2025-02-10 19:48:47",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
-        "name": "Emigrate",
-        "url": "https://open.spotify.com/album/6F84H4YaytAQkJk6cvP0ri"
-      },
-      "artists": [
-        {
-          "name": "Emigrate",
-          "url": "https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1"
-        }
-      ],
-      "duration_ms": 257493,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/3GwzYHGrRn7wMfRtvbjg2U"
-    },
-    {
-      "added_at": "2025-02-10 19:48:47",
-      "album": {
         "name": "RAT WARS ULTRA EDITION",
         "url": "https://open.spotify.com/album/1YgdGBECp0uqqLvYSlflsS"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 221290,
       "name": "FREE TO DIE",
       "url": "https://open.spotify.com/track/5QlaYAjyS0zuoA9zGk4c3R"
+    },
+    {
+      "added_at": "2025-02-10 19:48:47",
+      "album": {
+        "name": "Emigrate",
+        "url": "https://open.spotify.com/album/6F84H4YaytAQkJk6cvP0ri"
+      },
+      "artists": [
+        {
+          "name": "Emigrate",
+          "url": "https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1"
+        }
+      ],
+      "duration_ms": 257493,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/3GwzYHGrRn7wMfRtvbjg2U"
     },
     {
       "added_at": "2025-02-10 19:48:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 
 > KAROL G nos inspira 🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,221 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,189 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 14 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
 | 15 | [Villano Antillano: Bzrp Music Sessions, Vol\. 51/66](https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Villano Antillano: Bzrp Music Sessions, Vol\. 51/66](https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR) | 3:07 |
 | 16 | [EL BARCO](https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:23 |
-| 17 | [Acróstico \- Milan + Sasha](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico \(Milan + Sasha\)](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
-| 18 | [blackout 🧊](https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [blackout 🧊](https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E) | 3:02 |
+| 17 | [blackout 🧊](https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [blackout 🧊](https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E) | 3:02 |
+| 18 | [Acróstico \- Milan + Sasha](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico \(Milan + Sasha\)](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
 | 19 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 |
 | 20 | [Piel Morena](https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:42 |
 | 21 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 |

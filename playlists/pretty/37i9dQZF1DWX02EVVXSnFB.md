@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 
 > <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco</a>'s favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,804 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,809 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 | 22 | [Don't Play](https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Mood Talk](https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:46 |
 | 23 | [Deja Vu](https://open.spotify.com/track/13LojN5HDhICPdgLz6QmIG) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Con Cook](https://open.spotify.com/artist/6akmHflFVzgeDWJtP98n7v) | [Deja Vu](https://open.spotify.com/album/5UcjmnionWq0WqmpxXmfjD) | 2:05 |
 | 24 | [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 |
-| 25 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/5hLiKFmVc7vRUKTvnlpJYR) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(+6\)](https://open.spotify.com/album/37nzbaUgb3Y5Tfx1JhObvR) | 3:11 |
+| 25 | [24 \(Turn It Up\) \- Radio Edit](https://open.spotify.com/track/5hLiKFmVc7vRUKTvnlpJYR) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(+6\)](https://open.spotify.com/album/37nzbaUgb3Y5Tfx1JhObvR) | 3:11 |
 | 26 | [Sing It Back \(feat\. Dana Williams\)](https://open.spotify.com/track/6j8TmyhwPunLSpeNA4kVnI) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [Sing It Back \(feat\. Dana Williams\)](https://open.spotify.com/album/6zAWHfeYvpUBY7hZ5TmnTp) | 3:13 |
 | 27 | [Set The Roof](https://open.spotify.com/track/3FiPLOhNiB2Ox4ut1jJxE2) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Set The Roof](https://open.spotify.com/album/5DUPSEYAsHkWIF2DZ3rXty) | 4:28 |
 | 28 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 |

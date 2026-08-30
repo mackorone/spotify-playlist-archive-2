@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 
 > Nosotros ponemos la música y tú los pasos ;\)<br/>Can't stop, won't stop dancing!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,803,104 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,803,050 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 | 84 | [Mi Reina](https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Mi Reina](https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9) | 3:03 |
 | 85 | [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 |
 | 86 | [Enhorabuena](https://open.spotify.com/track/6Js2Fy0gdSAkpD780TYJGu) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Enhorabuena](https://open.spotify.com/album/1p2JgxJxYfju0cSvAnfuPo) | 2:48 |
-| 87 | [Celosa](https://open.spotify.com/track/4aEyI7nU1uCm4G0YpR7NvQ) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Celosa](https://open.spotify.com/album/4U98hPFmBA89MrkxPgaa23) | 3:22 |
-| 88 | [ATARI](https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:56 |
+| 87 | [ATARI](https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:56 |
+| 88 | [Celosa](https://open.spotify.com/track/4aEyI7nU1uCm4G0YpR7NvQ) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Celosa](https://open.spotify.com/album/4U98hPFmBA89MrkxPgaa23) | 3:22 |
 | 89 | [Brinca \(Acuario\)](https://open.spotify.com/track/7rdgssw9cq1TloP5HbopVx) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ASTROPICAL](https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz) | [ASTROPICAL](https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl) | 3:39 |
 | 90 | [Pasaporte](https://open.spotify.com/track/3LkVlYZK41uDwBHX26m8mi) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [Pasaporte](https://open.spotify.com/album/6jGjJCN5uEufVPfbbdjVbf) | 4:26 |
 | 91 | [PLIS](https://open.spotify.com/track/1regh1ryWna3MRTKu401uD) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [un](https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr) | 3:42 |

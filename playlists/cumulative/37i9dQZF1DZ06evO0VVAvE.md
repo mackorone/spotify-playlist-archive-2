@@ -4,7 +4,7 @@
 
 > This is T.I BLAZE\. The essential tracks, all in one playlist.
 
-60 songs - 2 hr 44 min
+61 songs - 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Basic](https://open.spotify.com/track/46d3smHJFMcz3RbANz19nS) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Saqi NFG](https://open.spotify.com/artist/2ZuybLhxJk89IgAGhjCb5n) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc) | 4:38 | 2025-07-12 | 2025-09-30 |
 | [Beamer](https://open.spotify.com/track/4i3wDQa5VBDPUiREGaS44Z) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:46 | 2025-07-12 |  |
 | [Bere Mi \(Reimagined\)](https://open.spotify.com/track/30NZZsZNZFr9DBTAQpttez) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Bere Mi \(Reimagined\)](https://open.spotify.com/album/42x5ZLOr1xOkVJ7jSzaLui) | 2:57 | 2025-07-12 |  |
+| [Chokehold](https://open.spotify.com/track/1TjEMCS5Swwh5uPBsLszKh) | [Rhythm Vault](https://open.spotify.com/artist/3l3a3qtkbnMKKVXyZIXeSS), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Chokehold](https://open.spotify.com/album/6FkqVMy5DhIhsgE3z7Kz76) | 2:34 | 2026-08-30 |  |
 | [Chop Am](https://open.spotify.com/track/0XgBmphE6i1zkr6n69LGET) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:33 | 2026-08-26 | 2026-08-28 |
 | [Controlla](https://open.spotify.com/track/24A2eZ8yd8vWwYmDocknNy) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 2:53 | 2025-07-12 |  |
 | [Daddy Yo](https://open.spotify.com/track/4BanorzpNi9WBZOpFTi6Ug) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:24 | 2025-07-12 |  |

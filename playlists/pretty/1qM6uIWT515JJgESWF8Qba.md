@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 556 likes - 62 songs - 3 hr 59 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 557 likes - 64 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,5 +70,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 60 | [Eloise](https://open.spotify.com/track/084dZY5tSg1EZcMmdQWKeK) | [Amber Elara](https://open.spotify.com/artist/7bu9U2hCgdooaao3ukguFW) | [Eloise](https://open.spotify.com/album/40vDrrYPKoNHVbqNzjPyvT) | 3:45 |
 | 61 | [Bar Flies](https://open.spotify.com/track/7BnfRSLTfFgOgvXD7ibXeZ) | [Blind Apes](https://open.spotify.com/artist/3v5zCvN6258XxR9XeBwlvi) | [Left Hand Down](https://open.spotify.com/album/3mMT8G0EGa8mWpKv86snTE) | 3:59 |
 | 62 | [Bajo Llave](https://open.spotify.com/track/1hA0NMXvi3EkTCJgwzWmn8) | [Danel](https://open.spotify.com/artist/1IhKepzJXk7ZsHc0tyy4Fo) | [Ante Todo](https://open.spotify.com/album/0kLrbPrwRgbGmpbHHfYNpC) | 3:45 |
+| 63 | [Chase the Feeling](https://open.spotify.com/track/5oFYQLAdS7YlQSMl6C2PzT) | [Station 301](https://open.spotify.com/artist/1ApohnXtENC8CFKfOmuoyx) | [Chase the Feeling](https://open.spotify.com/album/3QbZWdf9GH6lOH7wlc8qRa) | 2:35 |
+| 64 | [Falling Behind](https://open.spotify.com/track/79QEpZ2GCWHgBL6L7OugjA) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Falling Behind](https://open.spotify.com/album/3ESOHDThYhkb5hfhikkBqQ) | 2:16 |
 
-Snapshot ID: `AAACHdI6IkKKJto4bz/Omnd2zjX4P1GB`
+Snapshot ID: `AAACHyPJqP35cu38sOFZxlLX+vrZ+dH1`

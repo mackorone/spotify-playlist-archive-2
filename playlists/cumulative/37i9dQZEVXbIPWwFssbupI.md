@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,779 songs - 6 day 1 hr 17 min
+2,780 songs - 6 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1077,6 +1077,7 @@
 | [Houdini](https://open.spotify.com/track/6D8y7Bck8h11byRY88Pt2z) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:05 | 2024-05-04 | 2024-05-28 |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-06-04 | 2024-06-17 |
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-10 |
+| [How Much](https://open.spotify.com/track/5FI2Ujk6VWPCWTWN1EWrAQ) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [How Much](https://open.spotify.com/album/3Jn6F3rYZfU6N88ZWWLuuF) | 2:29 | 2026-08-29 |  |
 | [HRTBRK \#6](https://open.spotify.com/track/4oujvmTUXlPr6jWTWuzfAK) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [HRTBRK \#6](https://open.spotify.com/album/4XYz0YM0cZjGhzgqyj2glP) | 2:51 | 2023-01-21 | 2023-02-12 |
 | [Hubert et Saïd](https://open.spotify.com/track/0D9rH9AWYV1zdi7P41B1hC) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 3:16 | 2021-11-14 | 2021-11-21 |
 | [Human Nature](https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:05 | 2026-05-05 | 2026-05-22 |
@@ -1829,7 +1830,7 @@
 | [Ok Ok](https://open.spotify.com/track/4VYEnxm7lmtG5sEEbcmORB) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-09-01 | 2021-09-02 |
 | [Ok Ok pt 2](https://open.spotify.com/track/1QCqedB1ibmRO9x7Ikb5LI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-08-31 | 2021-09-01 |
 | [OLA OLA OLA](https://open.spotify.com/track/5zaiTkMn6VsJDJIOtxVa0b) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Bosh](https://open.spotify.com/artist/6Mm2g25BTeJ6BICPFWGkPg), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [OLA OLA OLA](https://open.spotify.com/album/3PcirtHuQkR4aiYPPvfskn) | 2:25 | 2021-08-01 | 2021-09-17 |
-| [Olivia Valere](https://open.spotify.com/track/6UThEXDDl7N3CWeFxYTMnm) | [Lagui](https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4) | [En Croix](https://open.spotify.com/album/2W1UqRYHgB4vEG4dEdtbhv) | 2:46 | 2026-08-19 |  |
+| [Olivia Valere](https://open.spotify.com/track/6UThEXDDl7N3CWeFxYTMnm) | [Lagui](https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4) | [En Croix](https://open.spotify.com/album/2W1UqRYHgB4vEG4dEdtbhv) | 2:46 | 2026-08-19 | 2026-08-30 |
 | [Omerta](https://open.spotify.com/track/60vv2FTa31yyaYlJuDC7rI) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [OMERTA](https://open.spotify.com/album/6GBLnzPmNPkumYGkHBEzDQ) | 1:32 | 2023-03-11 | 2023-03-13 |
 | [On My Love](https://open.spotify.com/track/0K6iKgHPPhAb4Acmg9aD77) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love \(Sped Up\)](https://open.spotify.com/album/5Q5PomrTdI13qpmEeM393B) | 3:42 | 2023-11-12 | 2024-01-07 |
 | [ON N'EST JAMAIS MIEUX COMPRIS QUE PAR SOI\-MÊME](https://open.spotify.com/track/7syLTsRspqS6HXCaOrOLfT) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [VIEUX SONS](https://open.spotify.com/album/5YkdGNYVnai3pDHlDHLwsX) | 3:20 | 2024-08-30 | 2024-09-01 |

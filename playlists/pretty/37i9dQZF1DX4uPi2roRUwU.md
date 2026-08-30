@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 
 > Diese Beats machen garantiert gute Laune!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,337,757 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,337,715 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 | 5 | [Self Aware](https://open.spotify.com/track/6xupcsJHo3wW2tSVKwu4mf) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Self Aware](https://open.spotify.com/album/5A94ZGE648fjXkHHSfh1xv) | 2:31 |
 | 6 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |
 | 7 | [New Religion](https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog) | 2:54 |
-| 8 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 |
+| 8 | [Black Friday \- pretty like the sun](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 |
 | 9 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 |
 | 10 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj) | 2:36 |
 | 11 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Sybil](https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 | 56 | [Makeba \- Ian Asher Remix](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Makeba \(Ian Asher Remix\)](https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj) | 2:05 |
 | 57 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 |
 | 58 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
-| 59 | [World Away](https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [World Away](https://open.spotify.com/album/6k2I7QkXRPlWzylh7UsFIx) | 3:07 |
+| 59 | [Alors On Danse \(feat\. Stromae\)](https://open.spotify.com/track/19eIZmuXlBmLTha1lPHef7) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Alors On Danse \(feat\. Stromae\)](https://open.spotify.com/album/1hOCJ4eNjtYKIH9ZmNGc8p) | 2:48 |
 | 60 | [That's When You Know](https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [That's When You Know](https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ) | 3:13 |
 
 Snapshot ID: `AAAAAJ2yW4wrIB21ewOzxE5SIOB/zpm4`

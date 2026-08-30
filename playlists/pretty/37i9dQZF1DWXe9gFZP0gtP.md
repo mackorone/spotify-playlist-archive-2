@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,955,936 likes - 205 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,956,316 likes - 205 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 204 | [Astrale](https://open.spotify.com/track/5QR4QqRJj3icfqfHfnFvL7) | [Celestine Wake](https://open.spotify.com/artist/02eBA32yEVKnpFU995YA9d) | [Astrale](https://open.spotify.com/album/6Tpk9bKc7KhtASp3oYEzf0) | 2:24 |
 | 205 | [Ascension](https://open.spotify.com/track/2LkVMxzdgR9tzDDFDW9wU4) | [Remi Ainsley](https://open.spotify.com/artist/0rIQ2dXfAr8DbyfHr8LDcs) | [Ascension](https://open.spotify.com/album/2exTBF2PtjgPp6EhL2hNsk) | 2:47 |
 
-Snapshot ID: `AAAAAJDF5hOAYbwlBn0dxeCRU4MIcYtb`
+Snapshot ID: `AAAAAIf0momii2PvRUn7cY1Z5yfAGV2B`

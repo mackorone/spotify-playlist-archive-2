@@ -42134,7 +42134,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 249560,
       "name": "Fast Lane",
       "url": "https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig"
@@ -45366,7 +45366,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 195800,
       "name": "For Hot 97",
       "url": "https://open.spotify.com/track/0qCJuVo2eL3wMBVqL3oTjD"
@@ -106590,7 +106590,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 170920,
       "name": "Realer N Realer",
       "url": "https://open.spotify.com/track/4VMiNOpnjRwSCwmHaUfOMM"
@@ -108338,7 +108338,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 223173,
       "name": "Rich As Fuck",
       "url": "https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE"
@@ -160786,7 +160786,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 207546,
       "name": "\u50d5\u304c\u541b\u306b\u51fa\u6765\u308b\u3053\u3068",
       "url": "https://open.spotify.com/track/4zYWl3eovDB7WWtbqoZH22"
@@ -163170,6 +163170,24 @@
       "duration_ms": 276520,
       "name": "\u5fc3\u505a\u3057",
       "url": "https://open.spotify.com/track/3PK6LUPq0vRGkjcNgOi4Oy"
+    },
+    {
+      "album": {
+        "name": "25\u6642\u3001\u30ca\u30a4\u30c8\u30b3\u30fc\u30c9\u3067\u3002 SEKAI ALBUM vol.3",
+        "url": "https://open.spotify.com/album/0alAqCK9UfmE4o0cIpKDeo"
+      },
+      "artists": [
+        {
+          "name": "25\u6642\u3001\u30ca\u30a4\u30c8\u30b3\u30fc\u30c9\u3067\u3002",
+          "url": "https://open.spotify.com/artist/1VMXuPyhNldYomz8ojLKP7"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269360,
+      "name": "\u5fc3\u505a\u3057 (feat. \u5bb5\u5d0e\u594f&\u671d\u6bd4\u5948\u307e\u3075\u3086&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/49ey1Q2urymICndIuwUkxp"
     },
     {
       "album": {

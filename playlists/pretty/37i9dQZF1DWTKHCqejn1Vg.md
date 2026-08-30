@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,680 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,681 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 45 | [nvrmnd](https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:33 |
 | 46 | [DRIVE ME](https://open.spotify.com/track/1oTO8USKys3ODc1sCyn0xA) | [Da Yeon Baek](https://open.spotify.com/artist/7f6sYlRGB312kc3MLCXm5l) | [DRIVE ME](https://open.spotify.com/album/4k2mX9YvrPdMy8Cgur16Cl) | 3:58 |
 | 47 | [I Don’t Disappoint](https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:30 |
-| 48 | [i said it](https://open.spotify.com/track/26a0JIitgz3Ut1CNnf2HgW) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [i said it](https://open.spotify.com/album/4Bwf79TKUV0FYcc9e9A3GN) | 2:27 |
-| 49 | [Chase](https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [CHASE \- The 1st Mini Album](https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S) | 3:26 |
+| 48 | [Chase](https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [CHASE \- The 1st Mini Album](https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S) | 3:26 |
+| 49 | [i said it](https://open.spotify.com/track/26a0JIitgz3Ut1CNnf2HgW) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [i said it](https://open.spotify.com/album/4Bwf79TKUV0FYcc9e9A3GN) | 2:27 |
 | 50 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 |
 | 51 | [muah](https://open.spotify.com/track/0AHhkuNuqjFPzMfi72JIxr) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [AFTER UPSET](https://open.spotify.com/album/3hv9aXwK1pz50JrCXZqiVh) | 2:09 |
 | 52 | [Turn Off Your Phone \(Feat\. ELO\) \- Remix](https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [ELO](https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:03 |

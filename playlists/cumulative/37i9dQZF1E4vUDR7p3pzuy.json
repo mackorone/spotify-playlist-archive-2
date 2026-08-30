@@ -1718,7 +1718,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 192269,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/5i8CS0PDiM4F1TLwvMA6Ki"
@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 182400,
       "name": "Breaking Out",
       "url": "https://open.spotify.com/track/4upw5Hwlgyf9H9n2isNEEA"
@@ -3564,7 +3564,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 202890,
       "name": "Compulsion",
       "url": "https://open.spotify.com/track/1aUaR57F0CKd5wLkDCOY86"
@@ -4834,7 +4834,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 259250,
       "name": "Desire",
       "url": "https://open.spotify.com/track/1U7zkwLHRzqtktC47X88Z8"
@@ -5546,7 +5546,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 93409,
       "name": "El Guardi\u00e1n del Equilibrio",
       "url": "https://open.spotify.com/track/07IKnUvTgGULbfLJ6emblG"
@@ -6930,7 +6930,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 216032,
       "name": "Friday Escape",
       "url": "https://open.spotify.com/track/5OBnjLijavtXpnzEQKbYxL"
@@ -8870,7 +8870,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 253384,
       "name": "If Only",
       "url": "https://open.spotify.com/track/0cmDlTOXaIdvvNvFXRKaqf"
@@ -11294,6 +11294,28 @@
       "duration_ms": 318634,
       "name": "Me vs You",
       "url": "https://open.spotify.com/track/7syrqaq98tcJGwSgCEOs60"
+    },
+    {
+      "album": {
+        "name": "Can I Crash on Your Planet?",
+        "url": "https://open.spotify.com/album/1wFOzKEfF4NZHrl0BIEDVN"
+      },
+      "artists": [
+        {
+          "name": "Kamikaze Roadrunners",
+          "url": "https://open.spotify.com/artist/4j1KAPsZMdA46J9gt7pzsw"
+        },
+        {
+          "name": "Jessica Lawrence",
+          "url": "https://open.spotify.com/artist/39RiGfEJOKzgRoWYcZil5F"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204335,
+      "name": "Meanings",
+      "url": "https://open.spotify.com/track/4a16ZTsbSOYDD0hInoysrR"
     },
     {
       "album": {
@@ -16919,6 +16941,24 @@
     },
     {
       "album": {
+        "name": "Tainted Love",
+        "url": "https://open.spotify.com/album/0i8iGXiMhp4EJE4MKpDTAw"
+      },
+      "artists": [
+        {
+          "name": "Louise Fraser",
+          "url": "https://open.spotify.com/artist/2zCWl1wURHEV19MQDNHxro"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169636,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/7bdOnqywTDMfwJxMx0qwne"
+    },
+    {
+      "album": {
         "name": "Take Me",
         "url": "https://open.spotify.com/album/3k3dT06QrtYEx74M13uwEk"
       },
@@ -19584,10 +19624,28 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 275902,
       "name": "Velvet Goodbye",
       "url": "https://open.spotify.com/track/3QUXFRz4Wf5F6AUhC935HN"
+    },
+    {
+      "album": {
+        "name": "Somewhere Between Us (Highways Between Us)",
+        "url": "https://open.spotify.com/album/026wC8BmguHwZ06GeHzptV"
+      },
+      "artists": [
+        {
+          "name": "Emily Steed",
+          "url": "https://open.spotify.com/artist/0V2T8oDayX52qzRqYlSzhR"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275902,
+      "name": "Velvet Goodbye",
+      "url": "https://open.spotify.com/track/4gKVoKdVpGJdRLEV8sOvvZ"
     },
     {
       "album": {
@@ -20944,6 +21002,24 @@
       "duration_ms": 252633,
       "name": "With blood",
       "url": "https://open.spotify.com/track/3rj1cHATwCfHp6P9Yi2YAL"
+    },
+    {
+      "album": {
+        "name": "Ghost Web",
+        "url": "https://open.spotify.com/album/7nQjOV6kGtrBsJ4OfUjnLl"
+      },
+      "artists": [
+        {
+          "name": "Spider Sisterz",
+          "url": "https://open.spotify.com/artist/0AERolV65masEtQwJJRduw"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150526,
+      "name": "Wolves Surrounding Me",
+      "url": "https://open.spotify.com/track/1YllL7HsQfFLdlcFfwpiYD"
     },
     {
       "album": {

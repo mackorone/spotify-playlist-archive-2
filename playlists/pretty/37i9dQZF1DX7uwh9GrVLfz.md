@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: TOTALFAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,008 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,017 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [OUR CHANT](https://open.spotify.com/track/6u8ZiaiFwdoBmLPxx8ZONa) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [OUR CHANT](https://open.spotify.com/album/78JNVsNhCKNNoRNMNraZVJ) | 3:35 |
 | 2 | [またな](https://open.spotify.com/track/5FZ32cd2cviCR4c9dba7TR) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [またな](https://open.spotify.com/album/5SKqpV3v5PYM5soTFl4ueG) | 3:09 |
-| 3 | [あなたに](https://open.spotify.com/track/1egQB7JmuDdaWdWtODlrja) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:15 |
-| 4 | [Nannmonee](https://open.spotify.com/track/3XNnq2oo1zmHDseKZKaYEF) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [Nannmonee](https://open.spotify.com/album/1VgCfL80E3Guto10xfO83R) | 2:51 |
+| 3 | [Nannmonee](https://open.spotify.com/track/3XNnq2oo1zmHDseKZKaYEF) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [Nannmonee](https://open.spotify.com/album/1VgCfL80E3Guto10xfO83R) | 2:51 |
+| 4 | [あなたに](https://open.spotify.com/track/1egQB7JmuDdaWdWtODlrja) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:15 |
 | 5 | [The more you smile, the more I fall for summer!](https://open.spotify.com/track/4Z0PY79HJHH3nRPG8gRzTi) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [The more you smile, the more I fall for summer!](https://open.spotify.com/album/2bZDNY34mPUexTMZ6GqxAw) | 4:14 |
 | 6 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
 | 7 | [Road to the future](https://open.spotify.com/track/2UtxS2QNxkW0kGnqvyZfkX) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [Road to the future](https://open.spotify.com/album/4g9wkbquO5cb4XRmNlwxBC) | 4:12 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 62 | [C7](https://open.spotify.com/track/6X6ZSDU1g2gYh2foPRfYnT) | [GO!GO!7188](https://open.spotify.com/artist/66ngkg99OYT8xfzYy660Wu) | [ベスト　オブ　ゴー！ゴー！](https://open.spotify.com/album/3BC0ULmefgz7GFXOUYGY7k) | 4:15 |
 | 63 | [Our Song](https://open.spotify.com/track/1cljv0pFujhPmdNDSJNTim) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [Our Song](https://open.spotify.com/album/3vOAwUmsvyNXiXBiWwwS8n) | 2:42 |
 | 64 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
-| 65 | [リュミエール](https://open.spotify.com/track/6u7D7lRx9YA2sQtWPzKXWJ) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [リュミエール](https://open.spotify.com/album/13uuVnO6TJvUJxTkS3lpuP) | 4:34 |
-| 66 | [今夜](https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [梵唄 \-bonbai\-](https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx) | 4:25 |
+| 65 | [今夜](https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [梵唄 \-bonbai\-](https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx) | 4:25 |
+| 66 | [リュミエール](https://open.spotify.com/track/6u7D7lRx9YA2sQtWPzKXWJ) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [リュミエール](https://open.spotify.com/album/13uuVnO6TJvUJxTkS3lpuP) | 4:34 |
 | 67 | [クラーク博士と僕](https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ) | [suxingcyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [メジャーデビューというボケ](https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ) | 2:18 |
 | 68 | [HOTARU NO HIKARI featuring AIR](https://open.spotify.com/track/7u0uQ6LPgE5weRPJx8XzzF) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [GRAVITY](https://open.spotify.com/album/7AotoltMCQTbLyVq73371i) | 3:40 |
 | 69 | [禁断症状](https://open.spotify.com/track/0Vfgnv75toBF6micnr8Du6) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [大人の都合マジうぜえ](https://open.spotify.com/album/5D1JbpndO17mX5irHBEvCw) | 2:16 |
@@ -84,13 +84,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 74 | [超常現象を信んじてみる。](https://open.spotify.com/track/2OHFPkN0QscT2R6EL6tDm1) | [テレビ大陸音頭](https://open.spotify.com/artist/2kaZBRLaNSBdNuFKJCfqjt) | [VS Tairiku Ondo](https://open.spotify.com/album/7rwrDS4LF3SZ0ikQ5e6oXv) | 3:31 |
 | 75 | [ずっきゅん♡](https://open.spotify.com/track/6Mc9ye2PRb8Fb2AggnvFV7) | [カライドスコープ](https://open.spotify.com/artist/5VPAcL1oXbwABg16QXigGK) | [ずっきゅん♡](https://open.spotify.com/album/5HuFjY4PmfgCk3JDxdbJ2o) | 3:00 |
 | 76 | [Chain Reaction](https://open.spotify.com/track/2Nu30TK5pHMHxjiVJQ7gxr) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:23 |
-| 77 | [Ohichyo](https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [77 Days](https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib) | 2:23 |
-| 78 | [GOLD YOUTH](https://open.spotify.com/track/1LPGdMiMhY6LXEMoIAa7ZK) | [FUNNY THINK](https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC) | [GOLD YOUTH](https://open.spotify.com/album/4GYC2moJkrip8Hct4XskBe) | 2:41 |
+| 77 | [GOLD YOUTH](https://open.spotify.com/track/1LPGdMiMhY6LXEMoIAa7ZK) | [FUNNY THINK](https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC) | [GOLD YOUTH](https://open.spotify.com/album/4GYC2moJkrip8Hct4XskBe) | 2:41 |
+| 78 | [Ohichyo](https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [77 Days](https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib) | 2:23 |
 | 79 | [Say My Name](https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6) | 1:48 |
 | 80 | [Summertime Blue](https://open.spotify.com/track/1Cia7gpB6Kqd9qlbSs0V48) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [愛彌々2](https://open.spotify.com/album/7HFOgeQ6lNbNPI4TzsaYcO) | 4:29 |
 | 81 | [応援歌](https://open.spotify.com/track/4Jr2oNi8Tt6W5WZHYvqAsd) | [The Inazuma Sentai](https://open.spotify.com/artist/5tJXdkYUGeqkd1OiHDaNLD) | [勝手にロックンロール](https://open.spotify.com/album/3iXjHOdyjZ7mkiFVeF2CFZ) | 5:29 |
-| 82 | [Stray God](https://open.spotify.com/track/0MiTNFH5xyJ8d6sFqy3U3A) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [Goodbye My Roots](https://open.spotify.com/album/6U12GCvRQpAqhFSob0xHju) | 1:39 |
-| 83 | [Place of Fire \- Beginning mix](https://open.spotify.com/track/7vcx8In5HIZGG5ZsH0J6IH) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Beginning](https://open.spotify.com/album/69fiqV5Tge5nuNaaf1MJye) | 4:14 |
+| 82 | [Place of Fire \- Beginning mix](https://open.spotify.com/track/7vcx8In5HIZGG5ZsH0J6IH) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Beginning](https://open.spotify.com/album/69fiqV5Tge5nuNaaf1MJye) | 4:14 |
+| 83 | [Stray God](https://open.spotify.com/track/0MiTNFH5xyJ8d6sFqy3U3A) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [Goodbye My Roots](https://open.spotify.com/album/6U12GCvRQpAqhFSob0xHju) | 1:39 |
 | 84 | [Underclass HERO](https://open.spotify.com/track/0tWhtN7KksQk7HzzxMawVY) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [Underclass HERO](https://open.spotify.com/album/3yPtvypfL1CxNnxeztlNQh) | 3:38 |
 | 85 | [Rest In Punk](https://open.spotify.com/track/5bHgEvzoyK9OAVtQhGWLMJ) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest In Punk](https://open.spotify.com/album/7n7WePqrUPA7JcC7XY9lY4) | 2:32 |
 | 86 | [僕たちの悲しみはどこへ行く](https://open.spotify.com/track/4DumuLS6YMKJvk5rEhO75f) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [生きるとは鼻くそくらいの希望を持つことだ](https://open.spotify.com/album/1BRf610HGiqoBmqfM1vwYK) | 4:44 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 90 | [HAPPY BIRTHDAY](https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 2:44 |
 | 91 | [BEK](https://open.spotify.com/track/4XADQSC4BZQle5UYYkGhSY) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:06 |
 | 92 | [死亡フラグを立てないで](https://open.spotify.com/track/3EqQOKYHWfaqKBkeU5YKsv) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [死亡フラグを立てないで](https://open.spotify.com/album/5lkOWi2hkb6Rj72eE2E3aG) | 4:35 |
-| 93 | [心臓](https://open.spotify.com/track/2oQNY8QXZK8KHqpFeL5Cqn) | [鈴木実貴子ズ](https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0) | [心臓](https://open.spotify.com/album/5FUozpgA27RvqwQpjBysOw) | 3:19 |
-| 94 | [These Magic Words](https://open.spotify.com/track/3RbS00mL3QbGKEupNTmn9s) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 2:54 |
+| 93 | [These Magic Words](https://open.spotify.com/track/3RbS00mL3QbGKEupNTmn9s) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 2:54 |
+| 94 | [心臓](https://open.spotify.com/track/2oQNY8QXZK8KHqpFeL5Cqn) | [鈴木実貴子ズ](https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0) | [心臓](https://open.spotify.com/album/5FUozpgA27RvqwQpjBysOw) | 3:19 |
 | 95 | [さよなら涙](https://open.spotify.com/track/1NB6vlygOL59DbwiGh621c) | [ジ・エンプティ](https://open.spotify.com/artist/3p6DykZwSDYVolqQyaFtvf) | [神様からの贈物 e.p.](https://open.spotify.com/album/2ld5ZXZ4Jv3TpsJ8TLJCmY) | 2:31 |
 | 96 | [Suffer](https://open.spotify.com/track/3wBJ9ZwrL74MC4IjfUwrBb) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Suffer](https://open.spotify.com/album/4wdkJEh3CqOjgNx9FW5JDn) | 2:19 |
 | 97 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 |
-| 98 | [MUZIC](https://open.spotify.com/track/1LrmWErruRbgfafzcilZNS) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [MUZIC](https://open.spotify.com/album/4UfnTbzbPnLbF6K1RttHp5) | 3:42 |
-| 99 | [CHAMPiONS](https://open.spotify.com/track/25DKLVXbY747FnWBpum6k5) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [CHAMPiONS](https://open.spotify.com/album/1tgzTFdkXKzMhZhsHZs0PD) | 4:01 |
+| 98 | [CHAMPiONS](https://open.spotify.com/track/25DKLVXbY747FnWBpum6k5) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [CHAMPiONS](https://open.spotify.com/album/1tgzTFdkXKzMhZhsHZs0PD) | 4:01 |
+| 99 | [MUZIC](https://open.spotify.com/track/1LrmWErruRbgfafzcilZNS) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [MUZIC](https://open.spotify.com/album/4UfnTbzbPnLbF6K1RttHp5) | 3:42 |
 | 100 | [PAC\-MANISM](https://open.spotify.com/track/06OI5rkTs4hHrlUGjD1UUw) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [PAC\-MANISM](https://open.spotify.com/album/4Rl64ebxCFoq7NuECnR9Nu) | 2:07 |
 
 Snapshot ID: `AAAAANQ+HtP0eLfdAU1Azfq45uFt0D5/`

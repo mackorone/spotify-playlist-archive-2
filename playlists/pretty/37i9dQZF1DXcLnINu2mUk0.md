@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Rony Fuego
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,614 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,617 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,15 +22,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 12 | [show my shine](https://open.spotify.com/track/6O8EiOfOS1eYM4b6Wroxq0) | [Solbee](https://open.spotify.com/artist/6QUhW3F6mOIKgq2X0dEDNd) | [show my shine](https://open.spotify.com/album/0zSIXfMCYCb39WZ6ntmGER) | 3:13 |
 | 13 | [Cartas Na Mesa](https://open.spotify.com/track/4fZcTqpyQUNDNXARwYjV2F) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Cartas Na Mesa](https://open.spotify.com/album/6AByrhMO1L3PFSBuQy5LAh) | 3:08 |
 | 14 | [Fruta Proibida](https://open.spotify.com/track/5hNigQs5ima4nOigK7ladV) | [Venus](https://open.spotify.com/artist/0JvMGnHp2N3pLEzsqpw7Hu) | [Fruta Proibida](https://open.spotify.com/album/4VUE0eKHwPzQ0PO7cHO04K) | 2:31 |
-| 15 | [Por Enquanto](https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Por Enquanto](https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n) | 2:22 |
+| 15 | [Carro \(feat\. Dillaz\)](https://open.spotify.com/track/5yS8wgwBnmjpXwGislck0n) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Finda](https://open.spotify.com/album/5BBWda4ImqHa9rZ6Qy4f19) | 3:22 |
 | 16 | [JÁ TÁ TARDE](https://open.spotify.com/track/2eUL8ZydJ3j3D2fNheqxuI) | [Balata](https://open.spotify.com/artist/0E3h7iT1bT5h7kZ52qsica), [Fraga](https://open.spotify.com/artist/0Fg2MQOKY2fF3IRX12X7YJ) | [JÁ TÁ TARDE](https://open.spotify.com/album/3IZ5X0uAK51OF7zPRnv9VX) | 3:24 |
 | 17 | [YOU](https://open.spotify.com/track/67hRfkimnr96M2zPmcfrJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [YOU](https://open.spotify.com/album/7fR9AC0fV437sT5qBEWFhk) | 3:29 |
-| 18 | [Carro \(feat\. Dillaz\)](https://open.spotify.com/track/5yS8wgwBnmjpXwGislck0n) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Finda](https://open.spotify.com/album/5BBWda4ImqHa9rZ6Qy4f19) | 3:22 |
+| 18 | [Por Enquanto](https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Por Enquanto](https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n) | 2:22 |
 | 19 | [Impec](https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Deepak Looper](https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf) | 3:13 |
 | 20 | [TA TUDO BEM](https://open.spotify.com/track/15ERxM3x0D2HzqdhPxsbd2) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 4:32 |
-| 21 | [Agradecido](https://open.spotify.com/track/2qeTrAkcS5cFP8ptFix18T) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Agradecido](https://open.spotify.com/album/4xqDWbbExMyT3F6Z8hz7wa) | 4:54 |
+| 21 | [Fica](https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Fica](https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr) | 4:20 |
 | 22 | [Even](https://open.spotify.com/track/1cTamrfYAUHnoiMf2gpq55) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po) | [IT WILL HURT BOTH WAYS](https://open.spotify.com/album/4GeL7dcG2LxnYTsypnE9MJ) | 3:07 |
-| 23 | [Fica](https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Fica](https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr) | 4:20 |
+| 23 | [Agradecido](https://open.spotify.com/track/2qeTrAkcS5cFP8ptFix18T) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Agradecido](https://open.spotify.com/album/4xqDWbbExMyT3F6Z8hz7wa) | 4:54 |
 | 24 | [Contra Probabilidades](https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Contra Probabilidades](https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8) | 3:23 |
 | 25 | [Direção Paris](https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 4:02 |
 | 26 | [Cacau](https://open.spotify.com/track/4jq69Jq3ZxYXTeXu9JhmIO) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Reservado](https://open.spotify.com/album/1fv3j4QZFpWTljyn1Ay6sM) | 2:38 |

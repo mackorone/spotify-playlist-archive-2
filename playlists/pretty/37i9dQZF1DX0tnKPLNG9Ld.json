@@ -1,6 +1,6 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 131876,
+  "num_followers": 131920,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-07-14 11:41:00",
       "album": {
-        "name": "Guitars A La Lee",
-        "url": "https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 129066,
-      "name": "Sweet Happy Life",
-      "url": "https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr"
-    },
-    {
-      "added_at": "2026-07-14 11:41:00",
-      "album": {
         "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
         "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 238120,
       "name": "Cheek To Cheek",
       "url": "https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy"
+    },
+    {
+      "added_at": "2026-07-14 11:41:00",
+      "album": {
+        "name": "Guitars A La Lee",
+        "url": "https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 129066,
+      "name": "Sweet Happy Life",
+      "url": "https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr"
     },
     {
       "added_at": "2026-07-14 11:41:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-07-14 11:41:00",
       "album": {
-        "name": "Gemini Changes",
-        "url": "https://open.spotify.com/album/5HN2TpEnroUaWuWwPQovBB"
-      },
-      "artists": [
-        {
-          "name": "Morgana King",
-          "url": "https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH"
-        }
-      ],
-      "duration_ms": 130506,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/5WTduEM9fllIf3eBmfGuOX"
-    },
-    {
-      "added_at": "2026-07-14 11:41:00",
-      "album": {
         "name": "Count Basie Swings - Joe Williams Sings",
         "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 110933,
       "name": "It's A Big Wide Wonderful World",
       "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
+    },
+    {
+      "added_at": "2026-07-14 11:41:00",
+      "album": {
+        "name": "Gemini Changes",
+        "url": "https://open.spotify.com/album/5HN2TpEnroUaWuWwPQovBB"
+      },
+      "artists": [
+        {
+          "name": "Morgana King",
+          "url": "https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH"
+        }
+      ],
+      "duration_ms": 130506,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/5WTduEM9fllIf3eBmfGuOX"
     },
     {
       "added_at": "2026-07-14 11:41:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-07-14 11:41:00",
       "album": {
-        "name": "The Cat Walk",
-        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 453800,
-      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
-    },
-    {
-      "added_at": "2026-07-14 11:41:00",
-      "album": {
         "name": "Julian \"Cannonball\" Adderley",
         "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 254800,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
+    },
+    {
+      "added_at": "2026-07-14 11:41:00",
+      "album": {
+        "name": "The Cat Walk",
+        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 453800,
+      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
     },
     {
       "added_at": "2026-07-14 11:41:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2026-07-14 11:41:00",
       "album": {
-        "name": "Sings The Jerome Kern Song Book, Vol.1 & 2",
-        "url": "https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd"
+        "name": "Lady Sings The Blues",
+        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
       },
       "artists": [
         {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 122800,
-      "name": "You Couldn't Be Cuter",
-      "url": "https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO"
+      "duration_ms": 132160,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
     },
     {
       "added_at": "2026-07-14 11:41:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2026-07-14 11:41:00",
       "album": {
-        "name": "Lady Sings The Blues",
-        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
+        "name": "Sings The Jerome Kern Song Book, Vol.1 & 2",
+        "url": "https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
         }
       ],
-      "duration_ms": 132160,
-      "name": "Too Marvelous For Words",
-      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
+      "duration_ms": 122800,
+      "name": "You Couldn't Be Cuter",
+      "url": "https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO"
     },
     {
       "added_at": "2026-07-14 11:41:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-07-14 11:41:00",
       "album": {
-        "name": "Anthology-Lou Rawls",
-        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Scotch & Soda",
-      "url": "https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql"
-    },
-    {
-      "added_at": "2026-07-14 11:41:00",
-      "album": {
         "name": "April In Paris (Expanded Edition)",
         "url": "https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 315000,
       "name": "Corner Pocket",
       "url": "https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY"
+    },
+    {
+      "added_at": "2026-07-14 11:41:00",
+      "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Scotch & Soda",
+      "url": "https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql"
     },
     {
       "added_at": "2026-07-14 11:41:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-07-14 11:41:00",
       "album": {
+        "name": "The Complete Decca Recordings",
+        "url": "https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "One O'Clock Jump",
+      "url": "https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2"
+    },
+    {
+      "added_at": "2026-07-14 11:41:00",
+      "album": {
         "name": "Brown And Roach Incorporated",
         "url": "https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 387000,
       "name": "Stompin' At The Savoy",
       "url": "https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v"
-    },
-    {
-      "added_at": "2026-07-14 11:41:00",
-      "album": {
-        "name": "The Complete Decca Recordings",
-        "url": "https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "One O'Clock Jump",
-      "url": "https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2"
     },
     {
       "added_at": "2026-07-14 11:41:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-07-14 11:41:00",
       "album": {
-        "name": "When You're Away",
-        "url": "https://open.spotify.com/album/0zcp9PFB5tBzLS8V9ZPqgK"
-      },
-      "artists": [
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 228520,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/6mDS8U8TRHIpAQbjKeb53B"
-    },
-    {
-      "added_at": "2026-07-14 11:41:00",
-      "album": {
         "name": "Return To Forever",
         "url": "https://open.spotify.com/album/6M0IAJHwQ6dFNtTkFsXCJc"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 266000,
       "name": "What Game Shall We Play Today",
       "url": "https://open.spotify.com/track/0mC8MfVqQ1pHGKCdfhiHye"
+    },
+    {
+      "added_at": "2026-07-14 11:41:00",
+      "album": {
+        "name": "When You're Away",
+        "url": "https://open.spotify.com/album/0zcp9PFB5tBzLS8V9ZPqgK"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 228520,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/6mDS8U8TRHIpAQbjKeb53B"
     },
     {
       "added_at": "2026-07-14 11:41:00",

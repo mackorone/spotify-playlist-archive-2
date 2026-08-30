@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 42835,
+  "num_followers": 42839,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAD+CnssgfpZD2uBBwY/rquN",
+  "snapshot_id": "apDPgAAAAAAb3I7N92zSh4t9x/pjKg0/",
   "tracks": [
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
-        "url": "https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 189496,
-      "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HIT IT (feat. Saweetie & Lele Pons)",
         "url": "https://open.spotify.com/album/1xSMnmIJ4Eeqo7zTm84OO3"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 235428,
       "name": "HIT IT (feat. Saweetie & Lele Pons)",
       "url": "https://open.spotify.com/track/3F450ZpnsuW5G7YMmjMLmi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
+        "url": "https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 189496,
+      "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Best",
+        "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 121053,
+      "name": "My Best",
+      "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
         "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 167586,
       "name": "Swan Song",
       "url": "https://open.spotify.com/track/790TzR1UxBXVMFSGq8p7bv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Best",
-        "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 121053,
-      "name": "My Best",
-      "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 152241,
-      "name": "Baby Boo",
-      "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "QUAVO HUNCHO",
         "url": "https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1"
       },
@@ -707,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 152241,
+      "name": "Baby Boo",
+      "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Is It The Way",
         "url": "https://open.spotify.com/album/4yvcCQ6riOr6XvigkpItWN"
       },
@@ -719,6 +719,26 @@
       "duration_ms": 152973,
       "name": "Is It The Way",
       "url": "https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get It Girl (from Insecure: Music From The HBO Original Series, Season 5)",
+        "url": "https://open.spotify.com/album/7HTABc351qZLd8vX6y2Res"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Raedio",
+          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
+        }
+      ],
+      "duration_ms": 165302,
+      "name": "Get It Girl (from Insecure: Music From The HBO Original Series, Season 5)",
+      "url": "https://open.spotify.com/track/2QcWBgN96CO3eex8VSKJOh"
     },
     {
       "added_at": null,
@@ -743,26 +763,6 @@
       "duration_ms": 176373,
       "name": "MARADONA (feat. Justin Quiles and Saweetie)",
       "url": "https://open.spotify.com/track/6qM6LhryeIWAhrRT0f1ybk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get It Girl (from Insecure: Music From The HBO Original Series, Season 5)",
-        "url": "https://open.spotify.com/album/7HTABc351qZLd8vX6y2Res"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "Raedio",
-          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
-        }
-      ],
-      "duration_ms": 165302,
-      "name": "Get It Girl (from Insecure: Music From The HBO Original Series, Season 5)",
-      "url": "https://open.spotify.com/track/2QcWBgN96CO3eex8VSKJOh"
     },
     {
       "added_at": null,
@@ -915,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SHOT O' CLOCK",
+        "url": "https://open.spotify.com/album/0FGFaLjqjVkavZbKtFTWXJ"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 150457,
+      "name": "SHOT O' CLOCK",
+      "url": "https://open.spotify.com/track/1c99LA5Cf1agM5NMMAzVwc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "boffum",
         "url": "https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 127862,
       "name": "boffum",
       "url": "https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SHOT O' CLOCK",
-        "url": "https://open.spotify.com/album/0FGFaLjqjVkavZbKtFTWXJ"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 150457,
-      "name": "SHOT O' CLOCK",
-      "url": "https://open.spotify.com/track/1c99LA5Cf1agM5NMMAzVwc"
     },
     {
       "added_at": null,

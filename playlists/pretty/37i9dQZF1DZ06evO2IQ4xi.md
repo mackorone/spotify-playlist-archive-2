@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 
 > This is Doechii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,744 likes - 45 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,743 likes - 45 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 31 | [Pacer](https://open.spotify.com/track/14MdehDJ3lgRO6SVe60eHk) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Pacer](https://open.spotify.com/album/0C4bcDFbb7cQf2W3WH6RVm) | 2:56 |
 | 32 | [Stressed \- A COLORS SHOW](https://open.spotify.com/track/2LABRdDstu1xkm1A48PqX7) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Stressed \- A COLORS SHOW](https://open.spotify.com/album/5nhA2yEHizEgbcrhQANder) | 3:06 |
 | 33 | [Beat A B!tch Up](https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Beat A B!tch Up](https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2) | 2:47 |
-| 34 | [60 Seconds](https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 0:58 |
-| 35 | [EGYPT \- Remix](https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [EGYPT \(Remix\)](https://open.spotify.com/album/3XC0hyQcq2vsrpGXZKtGs2) | 2:45 |
-| 36 | [What's Your Name?](https://open.spotify.com/track/3MLvQJFO1ofeMnrz5tS1RE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 2:39 |
+| 34 | [EGYPT \- Remix](https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [EGYPT \(Remix\)](https://open.spotify.com/album/3XC0hyQcq2vsrpGXZKtGs2) | 2:45 |
+| 35 | [What's Your Name?](https://open.spotify.com/track/3MLvQJFO1ofeMnrz5tS1RE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 2:39 |
+| 36 | [60 Seconds](https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 0:58 |
 | 37 | [Shit](https://open.spotify.com/track/5A1brlnMQDvsDl9W2IOY69) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Bra\-Less](https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv) | 2:00 |
 | 38 | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/track/610faOY46uYOBi3KXazpSj) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n) | 4:30 |
 | 39 | [Phenomenal \(feat\. Doechii\)](https://open.spotify.com/track/5iDrSIUAbuajDctFTGRRiR) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 3:37 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 44 | [This Bitch Matters](https://open.spotify.com/track/6o7XKljPp21NuqMwqAcDRP) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 1:41 |
 | 45 | [Oh The Places You'll Go](https://open.spotify.com/track/3yO5tcTaJcJwoWdlPfcacz) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 1:32 |
 
-Snapshot ID: `ao9+AAAAAACcb3YuGatzzlQyu9DeGUrm`
+Snapshot ID: `apDPgAAAAACndQVwUxJLcbAYJPDKYTCe`

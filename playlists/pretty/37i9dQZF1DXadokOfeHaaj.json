@@ -1,12 +1,12 @@
 {
   "description": "The best new electronic indie music. Cover: Maribou State",
-  "num_followers": 43857,
+  "num_followers": 43864,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOkCpLouK91WQOA2RdRAkLnZCh9Z",
+  "snapshot_id": "AAAAAEBZCkBLxeuDkAjVOJlmYE29U/x7",
   "tracks": [
     {
       "added_at": "2026-08-20 23:00:28",
@@ -247,26 +247,18 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Party Time (feat. Aatig)",
-        "url": "https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl"
+        "name": "End Of Summer",
+        "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
       },
       "artists": [
         {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 199072,
-      "name": "Party Time (feat. Aatig)",
-      "url": "https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW"
+      "duration_ms": 432566,
+      "name": "End Of Summer",
+      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -323,18 +315,26 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "End Of Summer",
-        "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
+        "name": "Party Time (feat. Aatig)",
+        "url": "https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
         }
       ],
-      "duration_ms": 432566,
-      "name": "End Of Summer",
-      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
+      "duration_ms": 199072,
+      "name": "Party Time (feat. Aatig)",
+      "url": "https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -423,22 +423,18 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Withness",
-        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/0j0sUSMQbwoktczLWHF7sm"
       },
       "artists": [
         {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "3DDY",
-          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
         }
       ],
-      "duration_ms": 199196,
-      "name": "It's So Nice (ft. 3DDY)",
-      "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
+      "duration_ms": 221280,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/4dcmCYvb3NWBn0MQoVhg6z"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -459,6 +455,26 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
+        "name": "Withness",
+        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "duration_ms": 199196,
+      "name": "It's So Nice (ft. 3DDY)",
+      "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
         "name": "\u00d6",
         "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 178280,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/0j0sUSMQbwoktczLWHF7sm"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 221280,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/4dcmCYvb3NWBn0MQoVhg6z"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -531,22 +531,26 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Good Girl",
-        "url": "https://open.spotify.com/album/1OJ2oUJcjDuiIEPrU5trpp"
+        "name": "Mind Off",
+        "url": "https://open.spotify.com/album/247Ew1nob3sG5wYK7cdzsp"
       },
       "artists": [
         {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
         },
         {
-          "name": "Beaux Neptune",
-          "url": "https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj"
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Orsay",
+          "url": "https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4"
         }
       ],
-      "duration_ms": 194887,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/3CWjCDuORRYDKZjdQRra4f"
+      "duration_ms": 212750,
+      "name": "Mind Off",
+      "url": "https://open.spotify.com/track/1NW7RoUrFx7H9H5k258BVM"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -587,26 +591,22 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Mind Off",
-        "url": "https://open.spotify.com/album/247Ew1nob3sG5wYK7cdzsp"
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/1OJ2oUJcjDuiIEPrU5trpp"
       },
       "artists": [
         {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
         },
         {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "Orsay",
-          "url": "https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4"
+          "name": "Beaux Neptune",
+          "url": "https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj"
         }
       ],
-      "duration_ms": 212750,
-      "name": "Mind Off",
-      "url": "https://open.spotify.com/track/1NW7RoUrFx7H9H5k258BVM"
+      "duration_ms": 194887,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/3CWjCDuORRYDKZjdQRra4f"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Joy Without Sound",
-        "url": "https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Joy Without Sound",
-      "url": "https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
         "name": "if you wanna party, come over to my house",
         "url": "https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 171613,
       "name": "if you wanna party, come over to my house",
       "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
+        "name": "Joy Without Sound",
+        "url": "https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Joy Without Sound",
+      "url": "https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Kairos",
-        "url": "https://open.spotify.com/album/38nkBOhEeSbz0MBcgZKMaD"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 182105,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/2jj66DFOhFPJQMnLYpAAUl"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
         "name": "JOY (Light In The Dark)",
         "url": "https://open.spotify.com/album/4O6IC1c67UMYoDaZp0FMWS"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 296045,
       "name": "JOY (Light In The Dark)",
       "url": "https://open.spotify.com/track/6rZfjIl7gepUSwkmi22luo"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
+        "name": "Kairos",
+        "url": "https://open.spotify.com/album/38nkBOhEeSbz0MBcgZKMaD"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 182105,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2jj66DFOhFPJQMnLYpAAUl"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/3AKbeXvey1HmmyYEcWZRqq"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 165388,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/6JGrKJtW3CxLscWj7OJMYt"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
         "name": "Hypnotised",
         "url": "https://open.spotify.com/album/1KeOKmz86ujYQKPcmVO8SO"
       },
@@ -1079,34 +1063,18 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Last October",
-        "url": "https://open.spotify.com/album/6EqGtuFdenyq037JmYDZF4"
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/3AKbeXvey1HmmyYEcWZRqq"
       },
       "artists": [
         {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
         }
       ],
-      "duration_ms": 188452,
-      "name": "Last October",
-      "url": "https://open.spotify.com/track/2mQI9h4mI5MlHJGnF2WJSU"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
-        "name": "Bond Girl",
-        "url": "https://open.spotify.com/album/1gVfQOK0JCDALKvueOfMBn"
-      },
-      "artists": [
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        }
-      ],
-      "duration_ms": 151003,
-      "name": "Bond Girl",
-      "url": "https://open.spotify.com/track/0t4r8UtTpyhTHflgKoyRsZ"
+      "duration_ms": 165388,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/6JGrKJtW3CxLscWj7OJMYt"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -1127,6 +1095,38 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
+        "name": "Bond Girl",
+        "url": "https://open.spotify.com/album/1gVfQOK0JCDALKvueOfMBn"
+      },
+      "artists": [
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "duration_ms": 151003,
+      "name": "Bond Girl",
+      "url": "https://open.spotify.com/track/0t4r8UtTpyhTHflgKoyRsZ"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
+        "name": "Last October",
+        "url": "https://open.spotify.com/album/6EqGtuFdenyq037JmYDZF4"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "duration_ms": 188452,
+      "name": "Last October",
+      "url": "https://open.spotify.com/track/2mQI9h4mI5MlHJGnF2WJSU"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
         "name": "Casableu",
         "url": "https://open.spotify.com/album/0lAe8AD0yI2r0o5ibNXvgk"
       },
@@ -1139,26 +1139,6 @@
       "duration_ms": 218666,
       "name": "Casableu",
       "url": "https://open.spotify.com/track/62Og36IHCGO6MqmxUqU58B"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
-        "name": "When the Magic Comes",
-        "url": "https://open.spotify.com/album/5ZvR5EsbkiEzjbZTAyxGRp"
-      },
-      "artists": [
-        {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        },
-        {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        }
-      ],
-      "duration_ms": 210168,
-      "name": "When the Magic Comes",
-      "url": "https://open.spotify.com/track/35pjjQ26PZhiDcuheub7rX"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -1179,6 +1159,26 @@
       "duration_ms": 225391,
       "name": "Woman",
       "url": "https://open.spotify.com/track/0nVA2gw5AKuuJjiVKwJvhB"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
+        "name": "When the Magic Comes",
+        "url": "https://open.spotify.com/album/5ZvR5EsbkiEzjbZTAyxGRp"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "duration_ms": 210168,
+      "name": "When the Magic Comes",
+      "url": "https://open.spotify.com/track/35pjjQ26PZhiDcuheub7rX"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "hav u a sec",
-        "url": "https://open.spotify.com/album/16Gl86UJDr0uQe244RYCui"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 298132,
-      "name": "hav u a sec",
-      "url": "https://open.spotify.com/track/24cyaMZTXupAMeBAdgOyC6"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
         "name": "Sd-3",
         "url": "https://open.spotify.com/album/1zKvlBFE8d9zNjcBjzitcS"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 160263,
       "name": "Pink Bape Lighter",
       "url": "https://open.spotify.com/track/4N9U71O0mWNEDRKVVrQwBi"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
+        "name": "hav u a sec",
+        "url": "https://open.spotify.com/album/16Gl86UJDr0uQe244RYCui"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 298132,
+      "name": "hav u a sec",
+      "url": "https://open.spotify.com/track/24cyaMZTXupAMeBAdgOyC6"
     }
   ],
   "unique_name": "Indie Electronic ",

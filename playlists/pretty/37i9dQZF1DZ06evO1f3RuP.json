@@ -1,12 +1,12 @@
 {
   "description": "This is BAYLI. The essential tracks, all in one playlist.",
-  "num_followers": 325,
+  "num_followers": 328,
   "original_name": "This Is BAYLI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAACEPM5Wctu/87/3cdf5ma1+",
+  "snapshot_id": "apDPgAAAAABD5SGi2uvVJk8sW3et+NiI",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "stories from new york",
+        "url": "https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 137104,
+      "name": "say it back",
+      "url": "https://open.spotify.com/track/4QEeNtaEmDgP9BtiKArNo5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ethical Plum",
         "url": "https://open.spotify.com/album/1mue0bRSOvTGisXjsFGNAz"
       },
@@ -487,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories from new york",
-        "url": "https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt"
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
       },
       "artists": [
         {
@@ -496,9 +512,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 137104,
-      "name": "say it back",
-      "url": "https://open.spotify.com/track/4QEeNtaEmDgP9BtiKArNo5"
+      "duration_ms": 120400,
+      "name": "ur mine",
+      "url": "https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql"
     },
     {
       "added_at": null,
@@ -515,22 +531,6 @@
       "duration_ms": 114484,
       "name": "TELLY BAG",
       "url": "https://open.spotify.com/track/2fre7Ba0EuJp578flYyYlO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 120400,
-      "name": "ur mine",
-      "url": "https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 142142,
+      "name": "into me",
+      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hi_TEK MZK, VOL. 1",
         "url": "https://open.spotify.com/album/0JfA1fy7oeUWjWamy3Xgj7"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 187600,
       "name": "PURPLE APE",
       "url": "https://open.spotify.com/track/3HHu5kbCDG8I7oBjUduOQu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 142142,
-      "name": "into me",
-      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
     },
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Push N Pull",
-        "url": "https://open.spotify.com/album/6NJUaLB7QJap4J0rTWwYrV"
-      },
-      "artists": [
-        {
-          "name": "Runyu Qian",
-          "url": "https://open.spotify.com/artist/4ImAOESUJEOZ44ubwuoj1X"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Push N Pull",
-      "url": "https://open.spotify.com/track/1Ze2YUR6IEAUhfhJgsP6f8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SICK!",
         "url": "https://open.spotify.com/album/1uQyVaCOSTSbLHLzYHr4b7"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 126743,
       "name": "SICK!",
       "url": "https://open.spotify.com/track/1IpP0gGsWlkag2S4U0vooG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Push N Pull",
+        "url": "https://open.spotify.com/album/6NJUaLB7QJap4J0rTWwYrV"
+      },
+      "artists": [
+        {
+          "name": "Runyu Qian",
+          "url": "https://open.spotify.com/artist/4ImAOESUJEOZ44ubwuoj1X"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Push N Pull",
+      "url": "https://open.spotify.com/track/1Ze2YUR6IEAUhfhJgsP6f8"
     },
     {
       "added_at": null,

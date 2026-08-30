@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 
 > "Si mañana yo me muero, no se pongan a llorar, mejor me pasean con banda por mi pueblito natal" Valentin Elizalde en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,997 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,007 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 16 | [Cien años](https://open.spotify.com/track/760r2LXNtMaHDKMQ5wkXbi) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:31 |
 | 17 | [Eso Y Más](https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:39 |
 | 18 | [El Karma](https://open.spotify.com/track/34eVjAbZ5CzAtZIVMDHL1C) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:15 |
-| 19 | [Amor Eterno](https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 6:49 |
-| 20 | [Álbum JGL](https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Álbum JGL](https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL) | 2:50 |
+| 19 | [Álbum JGL](https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Álbum JGL](https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL) | 2:50 |
+| 20 | [Amor Eterno](https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 6:49 |
 | 21 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 |
 | 22 | [Me Gustas](https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:27 |
 | 23 | [El Señor de los Cielos](https://open.spotify.com/track/7GuMMcKE6CzkMx53uvE2bN) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:35 |

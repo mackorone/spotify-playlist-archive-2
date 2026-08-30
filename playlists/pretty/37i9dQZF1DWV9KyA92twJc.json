@@ -715,22 +715,6 @@
     {
       "added_at": "2026-06-18 21:00:48",
       "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 188059,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
-    },
-    {
-      "added_at": "2026-06-18 21:00:48",
-      "album": {
         "name": "Training Season",
         "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "added_at": "2026-06-18 21:00:48",
+      "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
     },
     {
       "added_at": "2026-06-18 21:00:48",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2026-06-18 21:00:48",
       "album": {
-        "name": "\u05d0\u05e6\u05dc\u05e0\u05d5 \u05d6\u05d4 \u05db\u05db\u05d4",
-        "url": "https://open.spotify.com/album/3VtgH4Wr3CDgIl4zKdF4ew"
-      },
-      "artists": [
-        {
-          "name": "Jasmin Moallem",
-          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
-        },
-        {
-          "name": "\u05d1\u05df \u05e6\u05d5\u05e8",
-          "url": "https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb"
-        }
-      ],
-      "duration_ms": 213707,
-      "name": "\u05d0\u05e6\u05dc\u05e0\u05d5 \u05d6\u05d4 \u05db\u05db\u05d4",
-      "url": "https://open.spotify.com/track/3q7lIfOj1j5HyVFlVr0vFj"
-    },
-    {
-      "added_at": "2026-06-18 21:00:48",
-      "album": {
         "name": "I LOVE YOU (feat. Armani White)",
         "url": "https://open.spotify.com/album/7zd33p1hPWK24q3v3LhKeD"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 191950,
       "name": "I LOVE YOU (feat. Armani White)",
       "url": "https://open.spotify.com/track/5mDm5j6WG9bkl5AR19vJzh"
+    },
+    {
+      "added_at": "2026-06-18 21:00:48",
+      "album": {
+        "name": "\u05d0\u05e6\u05dc\u05e0\u05d5 \u05d6\u05d4 \u05db\u05db\u05d4",
+        "url": "https://open.spotify.com/album/3VtgH4Wr3CDgIl4zKdF4ew"
+      },
+      "artists": [
+        {
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+        },
+        {
+          "name": "\u05d1\u05df \u05e6\u05d5\u05e8",
+          "url": "https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb"
+        }
+      ],
+      "duration_ms": 213707,
+      "name": "\u05d0\u05e6\u05dc\u05e0\u05d5 \u05d6\u05d4 \u05db\u05db\u05d4",
+      "url": "https://open.spotify.com/track/3q7lIfOj1j5HyVFlVr0vFj"
     },
     {
       "added_at": "2026-06-18 21:00:48",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-06-18 21:00:48",
       "album": {
-        "name": "\u05e9\u05e7\u05d5\u05e3",
-        "url": "https://open.spotify.com/album/5YBVC6yXAL3Y5ENJpM0kbZ"
-      },
-      "artists": [
-        {
-          "name": "\u05d3\u05d5\u05d3\u05d0",
-          "url": "https://open.spotify.com/artist/5L1ugF8Mi2varnr83WO9do"
-        }
-      ],
-      "duration_ms": 227205,
-      "name": "\u05dc\u05d0 \u05dc\u05d4\u05de\u05e6\u05d9\u05d0",
-      "url": "https://open.spotify.com/track/6WDVPVfGdcL1d574NP7BVP"
-    },
-    {
-      "added_at": "2026-06-18 21:00:48",
-      "album": {
         "name": "\u05d1\u05d0\u05de\u05e4\u05e8\u05d9\u05dd",
         "url": "https://open.spotify.com/album/68jOubWGq2KpQexGxt6lP6"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 147000,
       "name": "\u05d1\u05d0\u05de\u05e4\u05e8\u05d9\u05dd",
       "url": "https://open.spotify.com/track/3FihyZ7YA7vrNiSUfWww10"
+    },
+    {
+      "added_at": "2026-06-18 21:00:48",
+      "album": {
+        "name": "\u05e9\u05e7\u05d5\u05e3",
+        "url": "https://open.spotify.com/album/5YBVC6yXAL3Y5ENJpM0kbZ"
+      },
+      "artists": [
+        {
+          "name": "\u05d3\u05d5\u05d3\u05d0",
+          "url": "https://open.spotify.com/artist/5L1ugF8Mi2varnr83WO9do"
+        }
+      ],
+      "duration_ms": 227205,
+      "name": "\u05dc\u05d0 \u05dc\u05d4\u05de\u05e6\u05d9\u05d0",
+      "url": "https://open.spotify.com/track/6WDVPVfGdcL1d574NP7BVP"
     },
     {
       "added_at": "2026-06-18 21:00:48",

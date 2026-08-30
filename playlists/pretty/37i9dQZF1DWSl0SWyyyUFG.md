@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. COSME TADEO en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,842 likes - 150 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,937 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 40 | [Como Este Loco](https://open.spotify.com/track/5tf3V8LihD79bK9Tg8d841) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [Como Este Loco](https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f) | 3:41 |
 | 41 | [Mil Cartas](https://open.spotify.com/track/43X0I9YHv8Nxkq5fJ1CD1K) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Al Ataque](https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv) | 3:21 |
 | 42 | [Busca Otro Amor](https://open.spotify.com/track/0d70DBNHHVgJC0GQ90BIrY) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora](https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM) | 3:15 |
-| 43 | [Al Mismo Nivel](https://open.spotify.com/track/1evKB90fOuaj6oMSBESdhK) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Una Aventura](https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu) | 3:05 |
-| 44 | [Música Romántica](https://open.spotify.com/track/6ikzzpUSP2DAb10ThgzRIa) | [Jorge Luis Cabrera con Banda Tierra Blanca](https://open.spotify.com/artist/3z5x6g8Vdhann3CHdeLZLr) | [Música Romántica](https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD) | 3:52 |
-| 45 | [Vamonos de Fiesta](https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:08 |
-| 46 | [Aventurero Y Loco](https://open.spotify.com/track/5lF5XniaT9e3EJMnDmSUsA) | [Banda La Pirinola](https://open.spotify.com/artist/5PTt3pmQAnQwYOBVEAFU0Y) | [Banda La Pirinola](https://open.spotify.com/album/2B1eN4sLg3mjruRkO0X5G5) | 3:27 |
+| 43 | [Música Romántica](https://open.spotify.com/track/6ikzzpUSP2DAb10ThgzRIa) | [Jorge Luis Cabrera con Banda Tierra Blanca](https://open.spotify.com/artist/3z5x6g8Vdhann3CHdeLZLr) | [Música Romántica](https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD) | 3:52 |
+| 44 | [Al Mismo Nivel](https://open.spotify.com/track/1evKB90fOuaj6oMSBESdhK) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Una Aventura](https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu) | 3:05 |
+| 45 | [Aventurero Y Loco](https://open.spotify.com/track/5lF5XniaT9e3EJMnDmSUsA) | [Banda La Pirinola](https://open.spotify.com/artist/5PTt3pmQAnQwYOBVEAFU0Y) | [Banda La Pirinola](https://open.spotify.com/album/2B1eN4sLg3mjruRkO0X5G5) | 3:27 |
+| 46 | [Vamonos de Fiesta](https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:08 |
 | 47 | [Qué Puedo Hacer por Ti](https://open.spotify.com/track/0QqFvqQ9Lujnc7QaYBEw09) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [16 Bandazos de Oro](https://open.spotify.com/album/3vvyIFJn2hM6I2L5A2WdWg) | 3:27 |
 | 48 | [Cuatro Milpas](https://open.spotify.com/track/0vl7HCsQ8gDOKwgcBYEKYx) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora](https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM) | 3:35 |
 | 49 | [Caliente Caliente](https://open.spotify.com/track/3wERA0j49lmCJkguFtHWUJ) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:14 |

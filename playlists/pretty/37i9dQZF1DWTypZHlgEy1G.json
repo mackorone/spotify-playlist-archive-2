@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 532615,
+  "num_followers": 532610,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/0ghJEu8n6iOLO5dzHxOBN5"
+      },
+      "artists": [
+        {
+          "name": "Claude Nougaro",
+          "url": "https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR"
+        }
+      ],
+      "duration_ms": 199586,
+      "name": "Armstrong",
+      "url": "https://open.spotify.com/track/2tBJhIMLX1bDjlaE8sSb4Y"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Les Choses De La Vie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OabVhWVDlxtZLqp6KMURV"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 171640,
       "name": "La chanson d'H\u00e9l\u00e8ne",
       "url": "https://open.spotify.com/track/5zcGOXyESkZHfMNsVfGii9"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/0ghJEu8n6iOLO5dzHxOBN5"
-      },
-      "artists": [
-        {
-          "name": "Claude Nougaro",
-          "url": "https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR"
-        }
-      ],
-      "duration_ms": 199586,
-      "name": "Armstrong",
-      "url": "https://open.spotify.com/track/2tBJhIMLX1bDjlaE8sSb4Y"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Infiniment",
-        "url": "https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf"
+        "name": "Love Me Please Love Me",
+        "url": "https://open.spotify.com/album/4V5xtW0tFqjJUlAWHHv1Rg"
       },
       "artists": [
         {
-          "name": "Jacques Brel",
-          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+          "name": "Michel Polnareff",
+          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
         }
       ],
-      "duration_ms": 186533,
-      "name": "Vesoul",
-      "url": "https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC"
+      "duration_ms": 193706,
+      "name": "La poup\u00e9e qui fait non",
+      "url": "https://open.spotify.com/track/3OqYJWnF2v4B88YHEPuOmD"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Love Me Please Love Me",
-        "url": "https://open.spotify.com/album/4V5xtW0tFqjJUlAWHHv1Rg"
+        "name": "Infiniment",
+        "url": "https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf"
       },
       "artists": [
         {
-          "name": "Michel Polnareff",
-          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
         }
       ],
-      "duration_ms": 193706,
-      "name": "La poup\u00e9e qui fait non",
-      "url": "https://open.spotify.com/track/3OqYJWnF2v4B88YHEPuOmD"
+      "duration_ms": 186533,
+      "name": "Vesoul",
+      "url": "https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC"
     },
     {
       "added_at": "2024-07-25 13:22:22",

@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: Diffrent",
-  "num_followers": 107273,
+  "num_followers": 107288,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2026-08-27 23:00:30",
       "album": {
+        "name": "Ur Way",
+        "url": "https://open.spotify.com/album/3uXixh1r8lizDG33DgUUUu"
+      },
+      "artists": [
+        {
+          "name": "Sensu",
+          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
+        },
+        {
+          "name": "ELOQ",
+          "url": "https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw"
+        }
+      ],
+      "duration_ms": 198776,
+      "name": "Ur Way",
+      "url": "https://open.spotify.com/track/48aHq417z6EDt6b7wGyOnT"
+    },
+    {
+      "added_at": "2026-08-27 23:00:30",
+      "album": {
         "name": "Twizted",
         "url": "https://open.spotify.com/album/6trB3dbxRummr0pcx1dUpz"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 284444,
       "name": "Twizted",
       "url": "https://open.spotify.com/track/4hZ17ryjXAq6OjpoH3CSke"
-    },
-    {
-      "added_at": "2026-08-27 23:00:30",
-      "album": {
-        "name": "Ur Way",
-        "url": "https://open.spotify.com/album/3uXixh1r8lizDG33DgUUUu"
-      },
-      "artists": [
-        {
-          "name": "Sensu",
-          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
-        },
-        {
-          "name": "ELOQ",
-          "url": "https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw"
-        }
-      ],
-      "duration_ms": 198776,
-      "name": "Ur Way",
-      "url": "https://open.spotify.com/track/48aHq417z6EDt6b7wGyOnT"
     },
     {
       "added_at": "2026-08-27 23:00:30",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-08-27 23:00:30",
       "album": {
+        "name": "SAGA004",
+        "url": "https://open.spotify.com/album/5ggTXqpDKZIemTJHM9mEis"
+      },
+      "artists": [
+        {
+          "name": "Main Phase",
+          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+        }
+      ],
+      "duration_ms": 209323,
+      "name": "Sunpetal",
+      "url": "https://open.spotify.com/track/4eZ86BB6u2BZXj7ilo1mk4"
+    },
+    {
+      "added_at": "2026-08-27 23:00:30",
+      "album": {
         "name": "Can't Deny",
         "url": "https://open.spotify.com/album/4pazCPqxyf0G5hgJ0dS6A6"
       },
@@ -1235,54 +1251,6 @@
     {
       "added_at": "2026-08-27 23:00:30",
       "album": {
-        "name": "SAGA004",
-        "url": "https://open.spotify.com/album/5ggTXqpDKZIemTJHM9mEis"
-      },
-      "artists": [
-        {
-          "name": "Main Phase",
-          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
-        }
-      ],
-      "duration_ms": 209323,
-      "name": "Sunpetal",
-      "url": "https://open.spotify.com/track/4eZ86BB6u2BZXj7ilo1mk4"
-    },
-    {
-      "added_at": "2026-08-27 23:00:30",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/4Hebki4NfBurbLY2v9AyyW"
-      },
-      "artists": [
-        {
-          "name": "Krafty Kuts",
-          "url": "https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/2ZuUriBVIxjBqvPVESAZHM"
-    },
-    {
-      "added_at": "2026-08-27 23:00:30",
-      "album": {
-        "name": "Cru",
-        "url": "https://open.spotify.com/album/5de3SMpwYt1g6z2lam3cCU"
-      },
-      "artists": [
-        {
-          "name": "TOM LECHEF",
-          "url": "https://open.spotify.com/artist/0saQAX63InOdwPBfJhj5wd"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "Cru",
-      "url": "https://open.spotify.com/track/41Oa5fohSoOoJeAGXEFROw"
-    },
-    {
-      "added_at": "2026-08-27 23:00:30",
-      "album": {
         "name": "Dip 'N Run",
         "url": "https://open.spotify.com/album/7pFS3N0CZO5HKXcG9w1yeI"
       },
@@ -1303,18 +1271,50 @@
     {
       "added_at": "2026-08-27 23:00:30",
       "album": {
-        "name": "Naughties",
-        "url": "https://open.spotify.com/album/3vtgWRCNRarRGSj1nFDofe"
+        "name": "Cru",
+        "url": "https://open.spotify.com/album/5de3SMpwYt1g6z2lam3cCU"
       },
       "artists": [
         {
-          "name": "KiLLOWEN",
-          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+          "name": "TOM LECHEF",
+          "url": "https://open.spotify.com/artist/0saQAX63InOdwPBfJhj5wd"
         }
       ],
-      "duration_ms": 146893,
-      "name": "Naughties",
-      "url": "https://open.spotify.com/track/7zzQAlN6An9YQfIK7KT8DP"
+      "duration_ms": 210857,
+      "name": "Cru",
+      "url": "https://open.spotify.com/track/41Oa5fohSoOoJeAGXEFROw"
+    },
+    {
+      "added_at": "2026-08-27 23:00:30",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4Hebki4NfBurbLY2v9AyyW"
+      },
+      "artists": [
+        {
+          "name": "Krafty Kuts",
+          "url": "https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2"
+        }
+      ],
+      "duration_ms": 204705,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/2ZuUriBVIxjBqvPVESAZHM"
+    },
+    {
+      "added_at": "2026-08-27 23:00:30",
+      "album": {
+        "name": "Draw a Line",
+        "url": "https://open.spotify.com/album/6013D40HaXsPO1qfGmBICH"
+      },
+      "artists": [
+        {
+          "name": "Lu.Re",
+          "url": "https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN"
+        }
+      ],
+      "duration_ms": 205162,
+      "name": "Draw a Line",
+      "url": "https://open.spotify.com/track/1UXf9TE4d3UuQqVU3baBOL"
     }
   ],
   "unique_name": "New UK Garage",

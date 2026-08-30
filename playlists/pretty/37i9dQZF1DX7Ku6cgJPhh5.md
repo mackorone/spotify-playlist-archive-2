@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 
 > Amp up your commute with rock hits, new and old.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,688 likes - 125 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,808 likes - 125 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 | 13 | [Neighbors Blues](https://open.spotify.com/track/3Gbadm56klrQ11LCPsyy7z) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Frozen Charlotte](https://open.spotify.com/album/0VV4lddlDaShTgEzohQ7Jj) | 5:04 |
 | 14 | [All The Small Things](https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:47 |
 | 15 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 |
-| 16 | [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 |
-| 17 | [The Kids Aren't Alright](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:00 |
+| 16 | [The Kids Aren't Alright](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:00 |
+| 17 | [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 |
 | 18 | [Your Favorite Toy](https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Your Favorite Toy](https://open.spotify.com/album/1GlbwU0fG3s91TwcuTh4ea) | 2:56 |
 | 19 | [November Rain](https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 8:56 |
 | 20 | [Wish You Were Here](https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 5:38 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 | 40 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 |
 | 41 | [Dragula](https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:42 |
 | 42 | [Paralyzer](https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Them Vs\. You Vs\. Me \(Deluxe Edition\)](https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ) | 3:28 |
-| 43 | [So Far So Fake](https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 3:56 |
+| 43 | [Down with the Sickness](https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness](https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY) | 4:39 |
 | 44 | [My Hero](https://open.spotify.com/track/7u5dBtASrtOuBTTZjJrvuJ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:18 |
-| 45 | [Down with the Sickness](https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness](https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY) | 4:39 |
+| 45 | [So Far So Fake](https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 3:56 |
 | 46 | [Animal I Have Become](https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:51 |
 | 47 | [Blurry](https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 5:03 |
 | 48 | [Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 2:39 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 | 92 | [Hash Pipe](https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:06 |
 | 93 | [Judith](https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Mer De Noms](https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO) | 4:07 |
 | 94 | [Bother](https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Stone Sour](https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn) | 4:00 |
-| 95 | [Smooth Criminal](https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:29 |
-| 96 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 |
-| 97 | [I Miss the Misery](https://open.spotify.com/track/60rHc4AkLlP4XVSATvBb6K) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of...](https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A) | 3:03 |
-| 98 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |
-| 99 | [No Excuses](https://open.spotify.com/track/4PtZE0h5oyPhCtPjg3NeYQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Jar Of Flies](https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc) | 4:15 |
+| 95 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 |
+| 96 | [I Miss the Misery](https://open.spotify.com/track/60rHc4AkLlP4XVSATvBb6K) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of...](https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A) | 3:03 |
+| 97 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |
+| 98 | [No Excuses](https://open.spotify.com/track/4PtZE0h5oyPhCtPjg3NeYQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Jar Of Flies](https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc) | 4:15 |
+| 99 | [Smooth Criminal](https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:29 |
 | 100 | [Cherub Rock \- 2011 Remaster](https://open.spotify.com/track/3ow0TQVttXQF8rLckmXgRx) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 4:58 |
 | 101 | [Who Are You](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 6:21 |
 | 102 | [The Outsider](https://open.spotify.com/track/6CqYhhUPJORx1vvdTNc8jv) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 4:06 |
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ku6cgJPhh5.md) - [plain]
 | 122 | [Until The Sun Explodes](https://open.spotify.com/track/0xeoETh1ChVy1k7TGAS9O8) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Until The Sun Explodes](https://open.spotify.com/album/1PNDImWE25WgKW8CwdWREX) | 2:58 |
 | 123 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 |
 | 124 | [Be With You](https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Be With You](https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n) | 3:35 |
-| 125 | [Under the Graveyard](https://open.spotify.com/track/0C4bx13JIMSWOAxd8TaoVq) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Under the Graveyard](https://open.spotify.com/album/2Kv2WwhJr6cudEIrzxPqXD) | 4:57 |
+| 125 | [Paper Machete](https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [In Times New Roman...](https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk) | 3:22 |
 
 Snapshot ID: `AAAAAExFtSEJ9O0uUHtQFe3Qyap58LnA`

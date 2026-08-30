@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 
 > Lagu\-lagu sedih yang menyayat hati 😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,200,004 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,199,998 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 32 | [Kata Mereka Ini Berlebihan](https://open.spotify.com/track/6wj06az0WX7fClA2w319dO) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D) | 3:11 |
 | 33 | [Lampu Kuning](https://open.spotify.com/track/6Npkwd5gv61SR6QZbTyNf9) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Nonfiksi](https://open.spotify.com/album/5Y5dkZeSlePrTopuETspAh) | 3:59 |
 | 34 | [Mencintaimu](https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Mencintaimu](https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY) | 4:34 |
-| 35 | [Rahasia Hati](https://open.spotify.com/track/1X80KdFJpedU4as4WGIgYM) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Paradoks](https://open.spotify.com/album/1qJp3Va3JzFE3FPVClJDQc) | 3:11 |
-| 36 | [Tanpa Pesan Terakhir](https://open.spotify.com/track/4v9JJX3ZzuFFOKrMOYHTVZ) | [Seventeen](https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ) | [Dunia Yang Indah](https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5) | 4:49 |
-| 37 | [Menjaga Hati](https://open.spotify.com/track/7er7WofjVw4QwPAyxH39jH) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [The Special One](https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp) | 3:57 |
-| 38 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 |
-| 39 | [Apa Mungkin](https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin](https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31) | 3:58 |
-| 40 | [Langit Abu\-Abu](https://open.spotify.com/track/2FaquTc3FYvNm7RuO1gD6O) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:22 |
+| 35 | [Tanpa Pesan Terakhir](https://open.spotify.com/track/4v9JJX3ZzuFFOKrMOYHTVZ) | [Seventeen](https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ) | [Dunia Yang Indah](https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5) | 4:49 |
+| 36 | [Rahasia Hati](https://open.spotify.com/track/1X80KdFJpedU4as4WGIgYM) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Paradoks](https://open.spotify.com/album/1qJp3Va3JzFE3FPVClJDQc) | 3:11 |
+| 37 | [Apa Mungkin](https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin](https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31) | 3:58 |
+| 38 | [Langit Abu\-Abu](https://open.spotify.com/track/2FaquTc3FYvNm7RuO1gD6O) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:22 |
+| 39 | [Menjaga Hati](https://open.spotify.com/track/7er7WofjVw4QwPAyxH39jH) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [The Special One](https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp) | 3:57 |
+| 40 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 |
 | 41 | [It's Only Me \- Studio Version](https://open.spotify.com/track/2CoxJRIhTKvHyFIq9FcDO5) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [It's Only Me \(Studio Version\)](https://open.spotify.com/album/2BQkplVABAVVOzvZzRkBQ4) | 3:23 |
 | 42 | [Dirimu Yang Dulu](https://open.spotify.com/track/4NTJKqpoAlTG3RcPB3y4C7) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Dirimu Yang Dulu](https://open.spotify.com/album/1XwDxY39rQn75hkx763Kri) | 4:00 |
 | 43 | [Risalah Hati](https://open.spotify.com/track/0cc9lgdfHqeS8t9BzbFFmj) | [Dewa](https://open.spotify.com/artist/35dWPb7Tmq0WESp6KAUJ8w) | [Bintang Lima](https://open.spotify.com/album/3LRdN6TlxSk6DJqpSWwdFQ) | 4:52 |

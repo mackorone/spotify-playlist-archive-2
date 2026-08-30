@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 326746,
+  "num_followers": 326829,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAACotd0xQlMhQFs19Rlmgcup",
+  "snapshot_id": "apDPgAAAAACEMIIhwthr4uudtmw0d2vh",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni\u00f1a Elegante",
-        "url": "https://open.spotify.com/album/0h0GPh2jkZANpj0Oxj1J8T"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Ni\u00f1a Elegante",
-      "url": "https://open.spotify.com/track/2pPjtn3Pd3nTueJXeizwGk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Table Dance",
         "url": "https://open.spotify.com/album/4nSjpMHDYUWAccg82HsmYM"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 244308,
       "name": "Table Dance",
       "url": "https://open.spotify.com/track/2zylpNFyb4YzbppEdzGqv6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni\u00f1a Elegante",
+        "url": "https://open.spotify.com/album/0h0GPh2jkZANpj0Oxj1J8T"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Ni\u00f1a Elegante",
+      "url": "https://open.spotify.com/track/2pPjtn3Pd3nTueJXeizwGk"
     },
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piel Con Piel",
-        "url": "https://open.spotify.com/album/7GxFfPCbKkOHhi1GFA1hSW"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 243920,
-      "name": "Piel Con Piel",
-      "url": "https://open.spotify.com/track/3R0PgPUdZUtd6dGq6yRwc7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nunca Voy a Morir",
         "url": "https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 215593,
       "name": "F\u00famale",
       "url": "https://open.spotify.com/track/3hGLX73IKzLla1OMNgh95F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piel Con Piel",
+        "url": "https://open.spotify.com/album/7GxFfPCbKkOHhi1GFA1hSW"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "Piel Con Piel",
+      "url": "https://open.spotify.com/track/3R0PgPUdZUtd6dGq6yRwc7"
     },
     {
       "added_at": null,

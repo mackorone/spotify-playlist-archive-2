@@ -4,7 +4,7 @@
 
 > This is Grupo Los de la O\. The essential tracks, all in one playlist.
 
-78 songs - 3 hr 57 min
+79 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [French Inhale](https://open.spotify.com/track/4fMuM5gdpDeXmd7oDPqPct) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Tras las Rejas](https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN) | 2:57 | 2024-01-29 |  |
 | [Fuga Pa Cali 2](https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:16 | 2024-01-29 |  |
 | [Fuga Pa' Cali \- En Vivo](https://open.spotify.com/track/3WjorfFU6IxlbopMintsT0) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:23 | 2024-01-29 |  |
+| [FULL LA CARTERA](https://open.spotify.com/track/1I5C0R6eWeSAAzdathVLEF) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [FULL LA CARTERA](https://open.spotify.com/album/07QelWwLzT9S2qPpGBh74r) | 2:35 | 2026-08-30 |  |
 | [Hennessy](https://open.spotify.com/track/0Qhip2DzxhgLDh5yAmr988) | [Amilkar Galaviz](https://open.spotify.com/artist/13IcxOeQD6jVtvtzCuDjX4), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Hennessy](https://open.spotify.com/album/3WVEjByqvQ5PDr1Fbs8G5i) | 3:09 | 2025-11-03 | 2026-04-10 |
 | [Hipocresía](https://open.spotify.com/track/3W776OCqqcv2IqphOc0j15) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 4](https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp) | 2:52 | 2025-07-24 | 2025-11-19 |
 | [Holy Molly](https://open.spotify.com/track/0tL39kApl53imatnaQiY4H) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 2:59 | 2024-01-29 |  |
@@ -60,7 +61,7 @@
 | [Legado](https://open.spotify.com/track/5jd85MnXpMNa6OxhLJKwQQ) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Proyecto A](https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ) | 2:42 | 2024-01-29 | 2026-08-02 |
 | [Mejor Sin Ti](https://open.spotify.com/track/56gY9CWrtD5BMiKPxsLv5y) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Resiliencia](https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w) | 3:25 | 2024-06-06 |  |
 | [Mentiras](https://open.spotify.com/track/3jRZg6U0m9Ir115Wt66ebU) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 3:54 | 2024-01-29 |  |
-| [Mi Círculo Vicioso](https://open.spotify.com/track/5OAaWOy7nfXBCy4VRQ6tmS) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Mi Círculo Vicioso](https://open.spotify.com/album/6IgXzPjWIIBWJHCjRqGBiw) | 3:39 | 2024-01-29 |  |
+| [Mi Círculo Vicioso](https://open.spotify.com/track/5OAaWOy7nfXBCy4VRQ6tmS) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Mi Círculo Vicioso](https://open.spotify.com/album/6IgXzPjWIIBWJHCjRqGBiw) | 3:39 | 2024-01-29 | 2026-08-30 |
 | [Miran Mi Brillo](https://open.spotify.com/track/3Y3aXFZit9oCIt0Hk3wFVb) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Kilos De Oro](https://open.spotify.com/album/74HlrlKwzkzH7s0dyTgVjY) | 3:40 | 2024-01-29 | 2025-07-20 |
 | [Nivel 6](https://open.spotify.com/track/4IT93xOoYImvzF5k4wDRJU) | [Hybert Daniel](https://open.spotify.com/artist/4XUmhvUbf4A6lrEZtYhjIZ), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Nivel 6](https://open.spotify.com/album/2SkfwiVgHZmE4s0iA0YQp6) | 2:23 | 2024-01-29 | 2024-06-02 |
 | [No Critican](https://open.spotify.com/track/5JeUhEtXsRIo03h1LJ7DSn) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 4](https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp) | 2:20 | 2025-07-21 | 2025-08-17 |

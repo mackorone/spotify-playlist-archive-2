@@ -4,7 +4,7 @@
 
 > mostly furry
 
-528 songs - 1 day 1 hr 32 min
+529 songs - 1 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Drivin' To The Moonlight](https://open.spotify.com/track/49y72iLboKC9BOz3Jxnebd) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Drivin' To The Moonlight](https://open.spotify.com/album/3i5lBpOaIAeqQpg06UDKCz) | 2:24 | 2024-05-15 |  |
 | [Driving Into Starlight](https://open.spotify.com/track/5W1xVhAoPe4M4fDhkVMGvz) | [YamikaDesu](https://open.spotify.com/artist/0MNjBbWyyQQtJtDIRn2930) | [Our Summer Dreams](https://open.spotify.com/album/1lBRF308MyR8tggVA9Qw6M) | 3:51 | 2026-08-05 |  |
 | [Driving Into Starlight \- Instrumental](https://open.spotify.com/track/740hp2iHLZbfagAXaaBlOo) | [YamikaDesu](https://open.spotify.com/artist/0MNjBbWyyQQtJtDIRn2930) | [Our Summer Dreams](https://open.spotify.com/album/1lBRF308MyR8tggVA9Qw6M) | 3:51 | 2026-08-05 |  |
-| [Dual Wield \(femtanyl Remix\)](https://open.spotify.com/track/3nwKpWrsZXcO1SqbhnkvG3) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0), [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [Dual Wield \(femtanyl Remix\)](https://open.spotify.com/album/6cjIv3IFP2s7dhz9tC7xZ8) | 3:52 | 2026-08-24 |  |
+| [Dual Wield \- femtanyl Remix](https://open.spotify.com/track/3nwKpWrsZXcO1SqbhnkvG3) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0), [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [Dual Wield \(femtanyl Remix\)](https://open.spotify.com/album/6cjIv3IFP2s7dhz9tC7xZ8) | 3:52 | 2026-08-24 |  |
 | [Dumbest Girl Alive](https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:17 | 2026-07-17 |  |
 | [EDGE PLAY](https://open.spotify.com/track/43saXiFb4mEm9ajLfiMoji) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [EDGE PLAY](https://open.spotify.com/album/6I75QTK7OKFpWj2hbHfB8I) | 1:24 | 2023-11-18 | 2026-07-27 |
 | [EDGE PLAY \- FURRY RAVER REMIX](https://open.spotify.com/track/2LslfETQSqe0qHEkGgJuSi) | [theSpackster](https://open.spotify.com/artist/7lxDzdUasFvfuMwNGU55Sg), [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [EDGE PLAY \(FURRY RAVER REMIX\)](https://open.spotify.com/album/0KM1JlCbomdxUyMCwEv31M) | 1:37 | 2023-11-18 | 2026-07-27 |
@@ -405,6 +405,7 @@
 | [Scintilla Sempiternal](https://open.spotify.com/track/6I44DYyObfRaxsIbAkqFvx) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [Dreamscape](https://open.spotify.com/album/4pEPXJ41scirEpDmSp6Gnt) | 0:49 | 2025-04-24 |  |
 | [Secret Admirer](https://open.spotify.com/track/0eVqSbd07cd2paUVbq62s4) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Secret Admirer](https://open.spotify.com/album/2rUxYbrF4kbUl2mmgykFhK) | 2:18 | 2023-11-20 |  |
 | [See You!](https://open.spotify.com/track/5jMjVsD58SVEvy9B5K2moH) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8), [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [See You!](https://open.spotify.com/album/5ad7LqvENSCzfNkVEz7hgl) | 2:48 | 2024-07-12 |  |
+| [Seven Run](https://open.spotify.com/track/75snRWqGIsPV1bPwQl35bJ) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Seven Run](https://open.spotify.com/album/7I68LrOWt2J5w9h6Enn17c) | 1:37 | 2026-08-29 |  |
 | [Shadow in the Dark](https://open.spotify.com/track/4bIAlhrgDknR6iPH1ZW4ES) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 4:14 | 2024-12-07 |  |
 | [Shadow of an Angel](https://open.spotify.com/track/2XNoEG8aWCCFoTrPQuLpa3) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Shadow of an Angel](https://open.spotify.com/album/57vR2NuHJGRZIyh8zL3bNV) | 2:08 | 2024-05-15 |  |
 | [Sheep to Goat \- Remix](https://open.spotify.com/track/3cNTZtOpNPOLsrPmJh3MIw) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Shwabadi](https://open.spotify.com/artist/7CCLirH6tIf750hgYn1Y4X) | [Sheep to Goat \(Remix\)](https://open.spotify.com/album/2WS6xqt3RG0R3tLlFuilvy) | 3:21 | 2024-01-20 |  |

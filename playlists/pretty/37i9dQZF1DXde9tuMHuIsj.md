@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Brray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,479,940 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,479,929 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 48 | [Loyalty 4 Ever](https://open.spotify.com/track/1IWwMgp1Wm6VobriqpuDp4) | [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Loyalty 4 Ever](https://open.spotify.com/album/6paSdgWQaYeRJtvhiHdvg1) | 2:15 |
 | 49 | [3 Doritos](https://open.spotify.com/track/4yZ9RRt3lZ66WxzHYuuC3R) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [3 Doritos](https://open.spotify.com/album/5D4duHLbasUQe8fosEc1kG) | 2:23 |
 | 50 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 |
-| 51 | [Las Piponas \(Remix\)](https://open.spotify.com/track/281YJmnThveWjsWVic9Ym6) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Piponas \(Remix\)](https://open.spotify.com/album/6FnnT3IOidLkfgQtrC2RJb) | 4:04 |
+| 51 | [Las Piponas \- Remix](https://open.spotify.com/track/281YJmnThveWjsWVic9Ym6) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Piponas \(Remix\)](https://open.spotify.com/album/6FnnT3IOidLkfgQtrC2RJb) | 4:04 |
 | 52 | [GANAS](https://open.spotify.com/track/4KE9Ne3hgh18B3Th4xcylg) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Dimelo Magic](https://open.spotify.com/artist/1s09WzlGc9wC1ChjTOiMtg), [OGBOOY](https://open.spotify.com/artist/0FHcoqof3mhgLgcPGW8EAF) | [GANAS](https://open.spotify.com/album/5kvrX3U5XjJVzCbtr71K7T) | 3:10 |
 | 53 | [La Ruta](https://open.spotify.com/track/7D8tKs61tdzzDdG9w6kdu4) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [SR\. SANTOS](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:04 |
 | 54 | [Tokicha](https://open.spotify.com/track/5uPGtSSHtN28xUhX7W4eAp) | [J Castle](https://open.spotify.com/artist/7nNS9kiCWRqHGBcWxLB0Pk), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Tokicha](https://open.spotify.com/album/6zAlmaTBclBxZ63eeWHPSe) | 2:21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 
 > Tu dosis diaria de rock 📸 Las Pastillas del Abuelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,802 likes - 80 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,840 likes - 80 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 43 | [Reyes de la Noche](https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Toro Rojo](https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO) | 4:10 |
 | 44 | [De Nada Sirve](https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:57 |
 | 45 | [Madrugada](https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:41 |
-| 46 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
-| 47 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 |
+| 46 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 |
+| 47 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
 | 48 | [Descontrolado](https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 2:54 |
 | 49 | [Al Vacío](https://open.spotify.com/track/2Et0SWz6wuSONAROBvCY71) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Aunque Cueste Ver El Sol](https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J) | 4:23 |
 | 50 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 74 | [Ya No Mires Atrás](https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 3:43 |
 | 75 | [Cheques](https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg) | [Spinetta Y Los Socios Del Desierto](https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi) | [Spinetta y los Socios del Desierto](https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt) | 4:03 |
 | 76 | [Post\-Crucifixion](https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Lo Mejor de Pescado Rabioso](https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw) | 3:46 |
-| 77 | [Haditas](https://open.spotify.com/track/6Rqc7r9cZ7IG8c8xvPyQvK) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Díscolo](https://open.spotify.com/album/22MYjYwCITSV9lJQfkPiJw) | 3:03 |
-| 78 | [Tu Vida Mi Vida](https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [La Ciudad Liberada](https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH) | 4:12 |
+| 77 | [Tu Vida Mi Vida](https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [La Ciudad Liberada](https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH) | 4:12 |
+| 78 | [Haditas](https://open.spotify.com/track/6Rqc7r9cZ7IG8c8xvPyQvK) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Díscolo](https://open.spotify.com/album/22MYjYwCITSV9lJQfkPiJw) | 3:03 |
 | 79 | [Tu Encanto](https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Tu Encanto](https://open.spotify.com/album/5sNubtE2kol6DLs6o9y0K0) | 3:31 |
 | 80 | [Nada Es Igual](https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 2:58 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,176 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,193 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 83 | [Ricochet](https://open.spotify.com/track/4o6bBmo3q1JCZtKEUhwXsX) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Ultrasound](https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt) | 3:51 |
 | 84 | [Cry Again](https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Cry Again](https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB) | 3:02 |
 | 85 | [You Got The Groove \- slow + reverbed](https://open.spotify.com/track/0JPiPZT6Nj1WFv5Tq7Ec2w) | [FrankJavCee](https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E) | [You Got The Groove](https://open.spotify.com/album/61mCAP8vGPcJUFD3PHWjmI) | 3:57 |
-| 86 | [Beyond Nostalgia](https://open.spotify.com/track/1HzfSdHgnSPMwS8jgFa4Ls) | [3D BLAST](https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2) | [Iconic Bitch](https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S) | 3:53 |
-| 87 | [Glass Mind](https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB) | [Glass Mind](https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez) | 3:39 |
+| 86 | [Glass Mind](https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB) | [Glass Mind](https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez) | 3:39 |
+| 87 | [Beyond Nostalgia](https://open.spotify.com/track/1HzfSdHgnSPMwS8jgFa4Ls) | [3D BLAST](https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2) | [Iconic Bitch](https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S) | 3:53 |
 | 88 | [Fire Magic](https://open.spotify.com/track/080PmEUcM6GjVE13suRCfq) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Fire Magic](https://open.spotify.com/album/5I70VHdIilo0dbckapINnW) | 3:17 |
 | 89 | [Sneakers for Men](https://open.spotify.com/track/09Y1oU16bH9WllukYJABBF) | [Eyeliner](https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI) | [Buy Now](https://open.spotify.com/album/0CfFoSKMVSd1T50G4eekah) | 3:47 |
 | 90 | [Turn the Fridge On](https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky) | [Donor Lens](https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA) | [Midnight Store](https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl) | 2:37 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 93 | [Floppy Disk Prism](https://open.spotify.com/track/4PX57QU943gWujcaDhTAX5) | [Vaporwavez](https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3), [VAAV Social Club](https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM), [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68) | [Floppy Disk Prism](https://open.spotify.com/album/7qTY0v8YjlxieRbap6FvKG) | 2:44 |
 | 94 | [Spring Water](https://open.spotify.com/track/1ulOpZGsWSZcaBQd1diOj8) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt) | [Tropics 1](https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO) | 3:35 |
 | 95 | [Tennis](https://open.spotify.com/track/5BBZrCQzJBKt3zLhlQFStc) | [SPORTSGIRL](https://open.spotify.com/artist/2gj2a0b2PhwlDaQerfUoES) | [Sports](https://open.spotify.com/album/5UVd1H64YlB3Z5gnDXa8og) | 5:06 |
-| 96 | [Fever Dream \- slowed + reverb](https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO) | [sunnbrella](https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB) | [Fever Dream \(slowed + reverb\)](https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ) | 3:52 |
-| 97 | [Stop Me \- Rework 2021](https://open.spotify.com/track/5UcAT22ECpcjMjb0UExpDH) | [Dan Mason ダン·メイソン](https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa) | [Reworks 2021 \(Rework 2021\)](https://open.spotify.com/album/3y4u801R1u6FnChsCTzUKg) | 5:18 |
+| 96 | [Stop Me \- Rework 2021](https://open.spotify.com/track/5UcAT22ECpcjMjb0UExpDH) | [Dan Mason ダン·メイソン](https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa) | [Reworks 2021 \(Rework 2021\)](https://open.spotify.com/album/3y4u801R1u6FnChsCTzUKg) | 5:18 |
+| 97 | [Fever Dream \- slowed + reverb](https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO) | [sunnbrella](https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB) | [Fever Dream \(slowed + reverb\)](https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ) | 3:52 |
 | 98 | [Gallery](https://open.spotify.com/track/7d48ebXAXOgmjqluwB0NnL) | [Duett](https://open.spotify.com/artist/2nEHZVjgsEYb0gQTegmQ81) | [Leisure](https://open.spotify.com/album/33FpBl1TJqvFaLoOCHLqZA) | 3:42 |
 | 99 | [Dillards](https://open.spotify.com/track/3jcJiuBKrGKQmdW4xdDiuW) | [Deadmalls](https://open.spotify.com/artist/2qFdnNDKLAb4RDfijF9gKt) | [Touched By an Angle, Vol\. 2](https://open.spotify.com/album/4zGSJQ8cPjwHbmeDtHrkfO) | 3:17 |
 | 100 | [新しい時代, Yes!](https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK) | [VANITAS命死](https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI) | [新しい時代, Yes!](https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP) | 4:37 |

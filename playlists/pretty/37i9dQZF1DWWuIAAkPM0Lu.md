@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag og ny musik bl.a\. fra Minds of 99, HUGORM, Dahlin og mange flere ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,277 likes - 95 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,278 likes - 95 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 35 | [Nothing's Gonna Change \(feat\. Mattias Kolstrup\)](https://open.spotify.com/track/59Nv3rWjOkEVFtthRBVfQ7) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN), [Mattias Kolstrup](https://open.spotify.com/artist/76eNWShp2OZBflNjOY2jEG) | [Nothing's Gonna Change \(feat\. Mattias Kolstrup\)](https://open.spotify.com/album/69s0oWMM1mQfo9EbipTgHR) | 2:50 |
 | 36 | [Mary Jane](https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Mary Jane](https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm) | 2:31 |
 | 37 | [Det gør ondt når man elsker](https://open.spotify.com/track/0ddN8pXYDYJnC18MNrKX4e) | [Jacob Bellens](https://open.spotify.com/artist/4HEZdTnwi6G8nAotn7x6nz) | [Det gør ondt når man elsker](https://open.spotify.com/album/6fihKweJ5Gb2stKlgxU5vE) | 3:16 |
-| 38 | [Sømand Af Verden](https://open.spotify.com/track/1K3RT2BaENwRbOd0nKIePw) | [Matilde Alexandra](https://open.spotify.com/artist/3lvjpKicO9fzBY533DmnhO) | [Sømand Af Verden](https://open.spotify.com/album/4WvHCE652kNavAltBeL97h) | 3:28 |
+| 38 | [Sømand Af Verden](https://open.spotify.com/track/1K3RT2BaENwRbOd0nKIePw) | [Matilde Alexandra](https://open.spotify.com/artist/49EE2hM80yLCDi8FIPBnIR) | [Sømand Af Verden](https://open.spotify.com/album/4WvHCE652kNavAltBeL97h) | 3:28 |
 | 39 | [Change Of Heart](https://open.spotify.com/track/3Fwcep3iMqqag7lPYyrWuz) | [Blush](https://open.spotify.com/artist/5mtHbGSw5MGG5llo4rgZDB) | [Change Of Heart](https://open.spotify.com/album/4fEAEuf8xMf4eCyMOHm7LJ) | 3:12 |
 | 40 | [mærkmitliv](https://open.spotify.com/track/5Iaj4NWPJMks0OcNG7mEh2) | [henfald](https://open.spotify.com/artist/7xdgpvJ5qbdideNzDsw7qa) | [mærkmitliv](https://open.spotify.com/album/44paTleinkaML2sS9T8VdQ) | 3:05 |
 | 41 | [Changes](https://open.spotify.com/track/5zVxHTRoRFuxp4gotGFyvW) | [Sūn Byrd](https://open.spotify.com/artist/32PUtLgz3SzD5Ihjdxoa6r) | [Changes](https://open.spotify.com/album/1j5mPwO98YGsmxLRTVIvyV) | 3:06 |

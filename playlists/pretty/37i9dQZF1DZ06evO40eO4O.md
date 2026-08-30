@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40eO4O.md) - [plain]
 
 > This is Angela Torres\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,817 likes - 39 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,845 likes - 39 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40eO4O.md) - [plain]
 | 38 | [El Camino \(feat\. Ángela Torres\)](https://open.spotify.com/track/0BEIXJ00DmdrERdf1WwhI4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Buena Vida](https://open.spotify.com/album/1awXzHG1Y8xFuJQ75tnnO2) | 3:27 |
 | 39 | [Ropa Usada](https://open.spotify.com/track/42486PSR7Ed3VBGNhMFtP0) | [Diego Uma](https://open.spotify.com/artist/1GdiNwO4ULE3airQyDbIMI), [Martin Bosa](https://open.spotify.com/artist/0rQJnIVSGk1Bt9MQZIGBp4), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Kevsho](https://open.spotify.com/artist/2ZRWQ32bmdN6cdXr1TVGLh), [Sofía Saborido](https://open.spotify.com/artist/6yYuD9tFDOZFKA3HytWtVT), [Federico Sack](https://open.spotify.com/artist/0K2z0O8rZrG3SxQy59ZsQr) | [Porno y Helado \- \(Banda Sonora De La Segunda Temporada De La Serie Original De Amazon Prime\)](https://open.spotify.com/album/1GmqlbHDnKDsr5AWjv1EuE) | 1:57 |
 
-Snapshot ID: `ao9+AAAAAAA3k1siWOR9nUEtetMwvLBB`
+Snapshot ID: `apDPgAAAAACshFRazR1hJKuleBmemPf4`

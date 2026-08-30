@@ -137,7 +137,7 @@
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2023-10-13 | 2024-05-08 |
 | [NOW OR NEVER](https://open.spotify.com/track/2xRSV9JyN6xJe0Puyitnzj) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [NOW OR NEVER](https://open.spotify.com/album/2X6c4OK7DZVbEAOHTfaIfi) | 3:22 | 2025-01-28 | 2025-02-23 |
 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 | 2024-02-01 | 2024-10-01 |
-| [One Love](https://open.spotify.com/track/3r6Am8NvUDbuS2Yqv76ivi) | [ARASHI](https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C) | [One Love](https://open.spotify.com/album/7F8ppyVavEzGbDHyKey3h3) | 4:45 | 2026-07-08 |  |
+| [One Love](https://open.spotify.com/track/3r6Am8NvUDbuS2Yqv76ivi) | [ARASHI](https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C) | [One Love](https://open.spotify.com/album/7F8ppyVavEzGbDHyKey3h3) | 4:45 | 2026-07-08 | 2026-08-30 |
 | [Only You](https://open.spotify.com/track/02tUwSRyXj8fJkYdmYu3Nh) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Only You](https://open.spotify.com/album/5vQp1CHni8dGiDYr6H0Tkx) | 4:02 | 2025-12-02 | 2026-03-04 |
 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2023-10-13 | 2025-06-18 |
 | [Permission to Dance](https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:07 | 2023-10-13 |  |
@@ -393,7 +393,7 @@
 | [革命道中 \- On The Way](https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [革命道中 \- On The Way](https://open.spotify.com/album/6uBwz7fKYpTHQqEvbpRMQu) | 3:17 | 2025-08-04 |  |
 | [高嶺の花子さん](https://open.spotify.com/track/2jdbZGFp8KVTuk0YxDNL4l) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ラブストーリー](https://open.spotify.com/album/6Elim2fDkGOu1ObNwZHvuQ) | 4:54 | 2023-10-24 |  |
 | [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 | 2024-02-01 | 2025-03-26 |
-| [魔法の絨毯](https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [I believe in you](https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL) | 3:28 | 2024-08-24 | 2026-08-06 |
+| [魔法の絨毯](https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [I believe in you](https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL) | 3:28 | 2024-08-24 |  |
 | [黒毛和牛上塩タン焼680円](https://open.spotify.com/track/6BVy2lDVrBUjBjvn3dQPTy) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [愛 am BEST](https://open.spotify.com/album/3jS3oDhaBIMrtYYXxYf24B) | 3:51 | 2026-05-15 |  |
 
 \*This playlist was first scraped on 2023-10-14. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvTlrqdAobS.md) - [plain]
 
 > Every summer needs a soundtrack\. 🐊🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,234 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,278 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

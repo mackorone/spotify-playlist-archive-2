@@ -1,6 +1,6 @@
 {
   "description": "Tu dosis diaria de rock \ud83d\udcf8 Las Pastillas del Abuelo",
-  "num_followers": 195802,
+  "num_followers": 195840,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-08-28 03:00:19",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 277011,
-      "name": "Los Calientes",
-      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
-    },
-    {
-      "added_at": "2026-08-28 03:00:19",
-      "album": {
         "name": "El N\u00famero Imperfecto",
         "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 238573,
       "name": "Magia Veneno",
       "url": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
+    },
+    {
+      "added_at": "2026-08-28 03:00:19",
+      "album": {
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 277011,
+      "name": "Los Calientes",
+      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
     },
     {
       "added_at": "2026-08-28 03:00:19",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-08-28 03:00:19",
       "album": {
-        "name": "D\u00edscolo",
-        "url": "https://open.spotify.com/album/22MYjYwCITSV9lJQfkPiJw"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Haditas",
-      "url": "https://open.spotify.com/track/6Rqc7r9cZ7IG8c8xvPyQvK"
-    },
-    {
-      "added_at": "2026-08-28 03:00:19",
-      "album": {
         "name": "La Ciudad Liberada",
         "url": "https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 252867,
       "name": "Tu Vida Mi Vida",
       "url": "https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL"
+    },
+    {
+      "added_at": "2026-08-28 03:00:19",
+      "album": {
+        "name": "D\u00edscolo",
+        "url": "https://open.spotify.com/album/22MYjYwCITSV9lJQfkPiJw"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Haditas",
+      "url": "https://open.spotify.com/track/6Rqc7r9cZ7IG8c8xvPyQvK"
     },
     {
       "added_at": "2026-08-28 03:00:19",

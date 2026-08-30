@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 
 > rolitas perras pa' agarrar cura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,939 likes - 67 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,976 likes - 67 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [El Arbol De La Horca \(En Vivo\)](https://open.spotify.com/track/5QbaBYltzSpsU0Dkg4zFaL) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Alex Ramirez Y Su Grupo Profetas](https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2) | 3:10 |
+| 1 | [El Arbol De La Horca \- En Vivo](https://open.spotify.com/track/5QbaBYltzSpsU0Dkg4zFaL) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Alex Ramirez Y Su Grupo Profetas](https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2) | 3:10 |
 | 2 | [Recorriendo La Sierra](https://open.spotify.com/track/7vRfTKrkeAtqdF0vHcAhrh) | [Los Norteños De Cosala](https://open.spotify.com/artist/2CM1HLA6vmph9mqtMhFC7g) | [20 Exitos Puros Corridos](https://open.spotify.com/album/3qtc7l9HmA81FSC4DyRnAE) | 3:38 |
 | 3 | [El Pocho 43](https://open.spotify.com/track/3dh0r1yRhQK48Dy11gAYzw) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Pocho 43](https://open.spotify.com/album/5Xh2F18vrwX7NozpAT1rAN) | 3:47 |
 | 4 | [La Chuparrosa](https://open.spotify.com/track/4YdOW4F4jKqUuNExlF9mgj) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Exitos De Oro](https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP) | 2:28 |

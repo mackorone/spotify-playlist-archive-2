@@ -2089,6 +2089,24 @@
     },
     {
       "album": {
+        "name": "LUNA NERA",
+        "url": "https://open.spotify.com/album/6xA7Wo1jDgIoGWZaCjx176"
+      },
+      "artists": [
+        {
+          "name": "ISIDE",
+          "url": "https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204231,
+      "name": "LUNA NERA",
+      "url": "https://open.spotify.com/track/7GDtPLktomNn5oQrD26aKj"
+    },
+    {
+      "album": {
         "name": "Male",
         "url": "https://open.spotify.com/album/3r06PlP8UOSokqGzE0XWxW"
       },

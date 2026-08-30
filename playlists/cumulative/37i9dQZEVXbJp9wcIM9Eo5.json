@@ -6042,7 +6042,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 243070,
       "name": "Dardos",
       "url": "https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ"
@@ -8268,7 +8268,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu"
@@ -8290,7 +8290,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
@@ -10096,6 +10096,24 @@
       "duration_ms": 190431,
       "name": "Frecuencia",
       "url": "https://open.spotify.com/track/56bPsRfOKla3bGGmVz1uk4"
+    },
+    {
+      "album": {
+        "name": "LINAJE",
+        "url": "https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336026,
+      "name": "FREESTYLE",
+      "url": "https://open.spotify.com/track/7FcV9ysZVFnmAOYwipRSGp"
     },
     {
       "album": {
@@ -13670,7 +13688,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 192111,
       "name": "LA VILLA",
       "url": "https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI"
@@ -15218,7 +15236,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 196800,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
@@ -21752,7 +21770,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 198058,
       "name": "Pvta Luna",
       "url": "https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU"
@@ -29538,7 +29556,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 375381,
       "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
       "url": "https://open.spotify.com/track/3jqk4fue7CILssCv8UpJe0"

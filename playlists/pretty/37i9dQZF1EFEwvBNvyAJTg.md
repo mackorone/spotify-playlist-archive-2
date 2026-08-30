@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 110 | [Love My Neighbour](https://open.spotify.com/track/09tpe143lHWH4ncKfaNmgA) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Love My Neighbour](https://open.spotify.com/album/3yqdHu9gT5kOOpNyU8jALL) | 3:01 |
 | 111 | [Yours or Mine](https://open.spotify.com/track/012Q6yHuHJR7qkQ7q6zZv4) | [Rak\-Su](https://open.spotify.com/artist/5UyRaawCsdiVrro0WWgIVB) | [Yours or Mine](https://open.spotify.com/album/63FkQa3rp7kGD4qdr0vgvl) | 2:59 |
 | 112 | [Come Alive](https://open.spotify.com/track/4HjEhcygmxh1gSGGLSAFF5) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:51 |
-| 113 | [All Night, Pt\. I](https://open.spotify.com/track/3ymE3yy569MmSfb8lrouw9) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [No Logic](https://open.spotify.com/album/7D9Cg5C2gXofYhGEUbCWuh) | 3:29 |
-| 114 | [Drum Machine](https://open.spotify.com/track/1nKvzyWhcP4KYAXeOMrul5) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Sweat](https://open.spotify.com/album/2ZrlQz1UiDn1pCThyICAeD) | 3:16 |
+| 113 | [Drum Machine](https://open.spotify.com/track/1nKvzyWhcP4KYAXeOMrul5) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Sweat](https://open.spotify.com/album/2ZrlQz1UiDn1pCThyICAeD) | 3:16 |
+| 114 | [All Night, Pt\. I](https://open.spotify.com/track/3ymE3yy569MmSfb8lrouw9) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [No Logic](https://open.spotify.com/album/7D9Cg5C2gXofYhGEUbCWuh) | 3:29 |
 | 115 | [Get With You](https://open.spotify.com/track/1cshIDD9PMf58mmOquIa9S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Get With You](https://open.spotify.com/album/7EeOH5oj2MgNjVFblGR6Ea) | 1:51 |
 | 116 | [Adidas](https://open.spotify.com/track/06HKxLqbWQ5wDPn5i0CP0C) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Adidas](https://open.spotify.com/album/4COlKY7Juqsy5EPddDEeRN) | 3:11 |
 | 117 | [Ghost](https://open.spotify.com/track/5bEaYySrMGO82K3ZHqlM8T) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 2:54 |
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 187 | [Crush](https://open.spotify.com/track/5cjyHKXAV1OCX8MpjoAglp) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Super Deluxe Edition\)](https://open.spotify.com/album/1nB0GYarRd5bnenhk2FdA7) | 2:46 |
 | 188 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `Aca1PAAAAABbCsK36YlP7uPugYnvxUT2`
+Snapshot ID: `Aca6MgAAAADuRxnEe6yhOy7eOMFBNIDh`

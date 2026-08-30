@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,269 likes - 96 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,253 likes - 96 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

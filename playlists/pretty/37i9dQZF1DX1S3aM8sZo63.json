@@ -1,12 +1,12 @@
 {
   "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. Joss Favela en portada \ud83d\udcf8",
-  "num_followers": 1073218,
+  "num_followers": 1073160,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOppsjoavtcnqiGKCeoXXvJT3gBn",
+  "snapshot_id": "AAAAAEpz2s0zO/xgUDtbv5vGvd1+4cym",
   "tracks": [
     {
       "added_at": "2026-08-21 16:15:23",
@@ -555,18 +555,18 @@
     {
       "added_at": "2026-07-03 06:00:29",
       "album": {
-        "name": "Sue\u00f1o Guajiro",
-        "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
+        "name": "Entre Dios y El Diablo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
       },
       "artists": [
         {
-          "name": "Colmillo Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 183800,
-      "name": "Sue\u00f1o Guajiro",
-      "url": "https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ"
+      "duration_ms": 181986,
+      "name": "Amor Confuso",
+      "url": "https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ"
     },
     {
       "added_at": "2026-07-03 06:00:29",
@@ -587,18 +587,18 @@
     {
       "added_at": "2026-07-03 06:00:29",
       "album": {
-        "name": "Entre Dios y El Diablo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+        "name": "Sue\u00f1o Guajiro",
+        "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Colmillo Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
         }
       ],
-      "duration_ms": 181986,
-      "name": "Amor Confuso",
-      "url": "https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ"
+      "duration_ms": 183800,
+      "name": "Sue\u00f1o Guajiro",
+      "url": "https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ"
     },
     {
       "added_at": "2026-07-03 06:00:29",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-07-03 06:00:29",
       "album": {
+        "name": "Our Wave Nuestra Ola",
+        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 239497,
+      "name": "Ojitos de Miel",
+      "url": "https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8"
+    },
+    {
+      "added_at": "2026-07-03 06:00:29",
+      "album": {
         "name": "Bebe Dame",
         "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
-    },
-    {
-      "added_at": "2026-07-03 06:00:29",
-      "album": {
-        "name": "Our Wave Nuestra Ola",
-        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 239497,
-      "name": "Ojitos de Miel",
-      "url": "https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8"
     },
     {
       "added_at": "2026-07-03 06:00:29",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-07-03 06:00:29",
       "album": {
-        "name": "Directo al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4UBZzHIHJjeDrqs8aTshMd"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 216157,
-      "name": "Directo al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1DrgCuJsScMhFaTXdMc8pr"
-    },
-    {
-      "added_at": "2026-07-03 06:00:29",
-      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/3GVsiC0rnhSEFID1RUBzPw"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 201926,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/3EMEDF8iBEGeiR4ZEPRrFs"
+    },
+    {
+      "added_at": "2026-07-03 06:00:29",
+      "album": {
+        "name": "Directo al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4UBZzHIHJjeDrqs8aTshMd"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 216157,
+      "name": "Directo al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1DrgCuJsScMhFaTXdMc8pr"
     },
     {
       "added_at": "2026-07-03 06:00:29",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2026-07-03 06:00:29",
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Te Quiero As\u00ed",
-      "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
-    },
-    {
-      "added_at": "2026-07-03 06:00:29",
-      "album": {
         "name": "Gracias Por Tanto Amor",
         "url": "https://open.spotify.com/album/4wfSUW57G8e9iWV0Yfxkr4"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 214082,
       "name": "Gracias Por Tanto Amor",
       "url": "https://open.spotify.com/track/4buZgvxXI3mxuGjYK0DlE9"
+    },
+    {
+      "added_at": "2026-07-03 06:00:29",
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Te Quiero As\u00ed",
+      "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
     },
     {
       "added_at": "2026-07-03 06:00:29",

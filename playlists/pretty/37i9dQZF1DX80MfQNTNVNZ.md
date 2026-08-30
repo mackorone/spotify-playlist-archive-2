@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,219 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,240 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 33 | [THEMSELVES](https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [BACKWARD](https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701) | 2:46 |
 | 34 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 |
 | 35 | [LOVE, LOVE, LOVE](https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [LOVE, LOVE, LOVE](https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f) | 4:02 |
-| 36 | [FourSixty \- Feat\. Aaron Taylor](https://open.spotify.com/track/4tUALmirGtgnBfkyHQbCp6) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Lotus Glow](https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv) | 3:12 |
-| 37 | [Feel Missing](https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:18 |
+| 36 | [Feel Missing](https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:18 |
+| 37 | [FourSixty \- Feat\. Aaron Taylor](https://open.spotify.com/track/4tUALmirGtgnBfkyHQbCp6) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Lotus Glow](https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv) | 3:12 |
 | 38 | [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 |
 | 39 | [Funny Friends](https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Distracted](https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL) | 2:35 |
 | 40 | [Supernova](https://open.spotify.com/track/2fQo9apVAYggTBzaFPUh9B) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Supernova](https://open.spotify.com/album/0iu2xltdgI77Bkryi5JTNe) | 2:21 |

@@ -931,6 +931,24 @@
     },
     {
       "album": {
+        "name": "Chase the Feeling",
+        "url": "https://open.spotify.com/album/3QbZWdf9GH6lOH7wlc8qRa"
+      },
+      "artists": [
+        {
+          "name": "Station 301",
+          "url": "https://open.spotify.com/artist/1ApohnXtENC8CFKfOmuoyx"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Chase the Feeling",
+      "url": "https://open.spotify.com/track/5oFYQLAdS7YlQSMl6C2PzT"
+    },
+    {
+      "album": {
         "name": "Cherry Vice",
         "url": "https://open.spotify.com/album/2GwrxKasqTphRbauTYFc3h"
       },
@@ -1774,6 +1792,24 @@
       "duration_ms": 259008,
       "name": "Falling Ashes",
       "url": "https://open.spotify.com/track/2qtTj2YxabvM10StglYGLl"
+    },
+    {
+      "album": {
+        "name": "Falling Behind",
+        "url": "https://open.spotify.com/album/3ESOHDThYhkb5hfhikkBqQ"
+      },
+      "artists": [
+        {
+          "name": "Nic Li",
+          "url": "https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136958,
+      "name": "Falling Behind",
+      "url": "https://open.spotify.com/track/79QEpZ2GCWHgBL6L7OugjA"
     },
     {
       "album": {

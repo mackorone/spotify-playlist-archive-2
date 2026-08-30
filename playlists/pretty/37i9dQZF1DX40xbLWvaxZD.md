@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く8」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリストが登場
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,856 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,863 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 7 | [Now or Never](https://open.spotify.com/track/0vLg5LHz0fl8ZGdONMeQH6) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [吉田 沙織](https://open.spotify.com/artist/57wo2Em3UktCMqpCRK5pFv), [Jon Underdown](https://open.spotify.com/artist/71fh3uJgmqp4ZK1WVIBJO8) | [龍が如く8外伝 Pirates in Hawaii \(Original Soundtrack\)](https://open.spotify.com/album/0kNNuuPwoT8RxIal5gogOe) | 4:02 |
 | 8 | [ゴロー海賊団のテーマ \(Full Spec Edition \(Inst\)\)](https://open.spotify.com/track/0yJY91GPMAXj1wGFBAqcR1) | [真島吾朗\(宇垣秀成\)](https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn) | [Captain Majima \- EP](https://open.spotify.com/album/6pBoDdXiQbk9Q70XbSCQtZ) | 3:13 |
 | 9 | [36.5℃の太陽 \(Full Spec Edition\)](https://open.spotify.com/track/7pGA3tZKDycTO7HIhfWpqg) | [真島吾朗\(宇垣秀成\)](https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn) | [Captain Majima \- EP](https://open.spotify.com/album/6pBoDdXiQbk9Q70XbSCQtZ) | 4:59 |
-| 10 | [Midnight Desire \(Full Spec Edition\)](https://open.spotify.com/track/1rktDHrMkyg7J4eQOltLOk) | [真島吾朗\(宇垣秀成\)](https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn) | [龍が如く8外伝 Pirates in Hawaii \(Original Soundtrack\)](https://open.spotify.com/album/0kNNuuPwoT8RxIal5gogOe) | 4:12 |
+| 10 | [Midnight Desire \- Full Spec Edition](https://open.spotify.com/track/1rktDHrMkyg7J4eQOltLOk) | [真島吾朗\(宇垣秀成\)](https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn) | [龍が如く8外伝 Pirates in Hawaii \(Original Soundtrack\)](https://open.spotify.com/album/0kNNuuPwoT8RxIal5gogOe) | 4:12 |
 | 11 | [GO! 愁傷SUMMER \- Full Spec Edition](https://open.spotify.com/track/2OqF4eX5fDu7TFDXdShzTJ) | [春日一番\(中谷一博\)](https://open.spotify.com/artist/2STZnJDjAUm8VoELOCW7HS), [足立宏一\(大塚明夫\)](https://open.spotify.com/artist/09ew4rdUAxzgLV29w2Eg1s), [SEGA GAME MUSIC](https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk), [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く8 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/2AelC7ow2KCRBskC2kIWOD) | 4:30 |
 | 12 | [Honolulu City Lights \- Full Spec Edition](https://open.spotify.com/track/3HBbzgtqsYTc5ITp3yYOIl) | [不二宮千歳（伊波杏樹）](https://open.spotify.com/artist/6JnlDxRgrLIPuWmQKrVf43), [SEGA GAME MUSIC](https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk), [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く8 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/2AelC7ow2KCRBskC2kIWOD) | 4:27 |
 | 13 | [好きになれる人を好きになれたならば \- Full Spec Edition](https://open.spotify.com/track/16qzNAVLV7puj2hy0vLCSA) | [ハン・ジュンギ（中村悠一）](https://open.spotify.com/artist/28Hu4UV4KLAz7uV7PbkLXT), [SEGA GAME MUSIC](https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk), [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く8 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/2AelC7ow2KCRBskC2kIWOD) | 5:38 |

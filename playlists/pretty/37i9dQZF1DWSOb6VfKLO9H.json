@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 110932,
+  "num_followers": 110966,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -307,26 +307,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Vakantie",
-        "url": "https://open.spotify.com/album/2BXnoTFrD8mbIwYHyzZl4f"
-      },
-      "artists": [
-        {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 165077,
-      "name": "Vakantie (with Jonna Fraser)",
-      "url": "https://open.spotify.com/track/2sE0IOF0pCl7hd4pi5QpgI"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Co\u00f1o",
         "url": "https://open.spotify.com/album/4Wd8Pb7i1RlfqhEBe6FqqA"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 137595,
       "name": "Co\u00f1o",
       "url": "https://open.spotify.com/track/7tXCV0UwFwBxqum6i25you"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Slaaptekort",
+        "url": "https://open.spotify.com/album/62mwenWca7ZVvsUFaHYNwu"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        },
+        {
+          "name": "Sevn Alias",
+          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
+        }
+      ],
+      "duration_ms": 250700,
+      "name": "Slapend Rijk",
+      "url": "https://open.spotify.com/track/3QW4Z0otVIQEPWxP7K4v3M"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -431,8 +431,28 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Slaaptekort",
-        "url": "https://open.spotify.com/album/62mwenWca7ZVvsUFaHYNwu"
+        "name": "Vakantie",
+        "url": "https://open.spotify.com/album/2BXnoTFrD8mbIwYHyzZl4f"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 165077,
+      "name": "Vakantie (with Jonna Fraser)",
+      "url": "https://open.spotify.com/track/2sE0IOF0pCl7hd4pi5QpgI"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Allemaal Een Droom",
+        "url": "https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J"
       },
       "artists": [
         {
@@ -440,13 +460,29 @@
           "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
         },
         {
-          "name": "Sevn Alias",
-          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
+          "name": "Numidia",
+          "url": "https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU"
         }
       ],
-      "duration_ms": 250700,
-      "name": "Slapend Rijk",
-      "url": "https://open.spotify.com/track/3QW4Z0otVIQEPWxP7K4v3M"
+      "duration_ms": 155433,
+      "name": "Tout Est Bon",
+      "url": "https://open.spotify.com/track/1tA3foex0E78CzVzNkDhdf"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "We Moeten Door",
+        "url": "https://open.spotify.com/album/5pSpczaiQq2pXJlFOeGHqE"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "duration_ms": 204787,
+      "name": "Officieel",
+      "url": "https://open.spotify.com/track/3e0gMtgOOLGPFLzPWR7xzb"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -475,38 +511,6 @@
       "duration_ms": 214387,
       "name": "Hij Is Van Mij (feat. Bizzey)",
       "url": "https://open.spotify.com/track/6716bTJI7qiHJFFSR0Ethe"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "We Moeten Door",
-        "url": "https://open.spotify.com/album/5pSpczaiQq2pXJlFOeGHqE"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 204787,
-      "name": "Officieel",
-      "url": "https://open.spotify.com/track/3e0gMtgOOLGPFLzPWR7xzb"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Hella Cash",
-        "url": "https://open.spotify.com/album/2WZfGDZheVpQX8DweaJayk"
-      },
-      "artists": [
-        {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
-        }
-      ],
-      "duration_ms": 175663,
-      "name": "Catch Up",
-      "url": "https://open.spotify.com/track/34IUrlhbMSYf5tniU2kHJF"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -543,22 +547,18 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Allemaal Een Droom",
-        "url": "https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J"
+        "name": "Hella Cash",
+        "url": "https://open.spotify.com/album/2WZfGDZheVpQX8DweaJayk"
       },
       "artists": [
         {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        },
-        {
-          "name": "Numidia",
-          "url": "https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU"
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
         }
       ],
-      "duration_ms": 155433,
-      "name": "Tout Est Bon",
-      "url": "https://open.spotify.com/track/1tA3foex0E78CzVzNkDhdf"
+      "duration_ms": 175663,
+      "name": "Catch Up",
+      "url": "https://open.spotify.com/track/34IUrlhbMSYf5tniU2kHJF"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -607,30 +607,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
+        "name": "Vestival Presents Meisjes Blijven Meisjes",
+        "url": "https://open.spotify.com/album/5WHSsJ9oy5HyYJG6ImDypg"
       },
       "artists": [
         {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
         },
         {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+          "name": "Two Crooks",
+          "url": "https://open.spotify.com/artist/0KbxWTWxxOTbm3eiCAEYVV"
         },
         {
-          "name": "Brysa",
-          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
         },
         {
-          "name": "Ashafar",
-          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
         }
       ],
-      "duration_ms": 173534,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb"
+      "duration_ms": 201266,
+      "name": "Meisjes Blijven Meisjes",
+      "url": "https://open.spotify.com/track/2hXMXk9oDfndwPMg3Fqmmj"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -667,30 +667,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Vestival Presents Meisjes Blijven Meisjes",
-        "url": "https://open.spotify.com/album/5WHSsJ9oy5HyYJG6ImDypg"
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
       },
       "artists": [
         {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
         },
         {
-          "name": "Two Crooks",
-          "url": "https://open.spotify.com/artist/0KbxWTWxxOTbm3eiCAEYVV"
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
         },
         {
-          "name": "Emms",
-          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+          "name": "Brysa",
+          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
         },
         {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+          "name": "Ashafar",
+          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
         }
       ],
-      "duration_ms": 201266,
-      "name": "Meisjes Blijven Meisjes",
-      "url": "https://open.spotify.com/track/2hXMXk9oDfndwPMg3Fqmmj"
+      "duration_ms": 173534,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -851,26 +851,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Metro 53",
-        "url": "https://open.spotify.com/album/4U7fHezhSTb9KhYI32Ct5W"
-      },
-      "artists": [
-        {
-          "name": "SBMG",
-          "url": "https://open.spotify.com/artist/3HL2hJ9MmM9eazDokIndkr"
-        },
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        }
-      ],
-      "duration_ms": 204410,
-      "name": "LIT",
-      "url": "https://open.spotify.com/track/76OfzNtY3nG5hCnh5COSjt"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "We Don't Stop",
         "url": "https://open.spotify.com/album/040y4hBxeWnxEXp6Nwoypu"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 149027,
       "name": "Vervloekt",
       "url": "https://open.spotify.com/track/0TSXMqkkZy7yV7jno8Nv4a"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Metro 53",
+        "url": "https://open.spotify.com/album/4U7fHezhSTb9KhYI32Ct5W"
+      },
+      "artists": [
+        {
+          "name": "SBMG",
+          "url": "https://open.spotify.com/artist/3HL2hJ9MmM9eazDokIndkr"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "duration_ms": 204410,
+      "name": "LIT",
+      "url": "https://open.spotify.com/track/76OfzNtY3nG5hCnh5COSjt"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -951,30 +951,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/0OHlRgCJsOHimcwZ4Dq9t1"
-      },
-      "artists": [
-        {
-          "name": "Dyna",
-          "url": "https://open.spotify.com/artist/0icP5fTpaY52Ll9QHNRrFT"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 170242,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/40Jfl936Y8gYHU0klKu3SN"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Francis",
         "url": "https://open.spotify.com/album/1pgAdTVfRnyzn4AqNXOUZ2"
       },
@@ -999,6 +975,30 @@
       "duration_ms": 185834,
       "name": "Louboutin",
       "url": "https://open.spotify.com/track/1nYj5Hv2ON80QokibDMvOE"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/0OHlRgCJsOHimcwZ4Dq9t1"
+      },
+      "artists": [
+        {
+          "name": "Dyna",
+          "url": "https://open.spotify.com/artist/0icP5fTpaY52Ll9QHNRrFT"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 170242,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/40Jfl936Y8gYHU0klKu3SN"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "LION",
-        "url": "https://open.spotify.com/album/5otMiiTCoXNJlvOWnQNV2X"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Yung Felix",
-          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
-        }
-      ],
-      "duration_ms": 177994,
-      "name": "PARANOIA",
-      "url": "https://open.spotify.com/track/5kHMdJLmN364FvFfky3AXI"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Juppige Geintjes",
         "url": "https://open.spotify.com/album/2kh8ShoAm8PmHOhJTfWoNE"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 177623,
       "name": "Tis Oke Mop",
       "url": "https://open.spotify.com/track/72hyNFiBQIUxq6wPjDLnMm"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "LION",
+        "url": "https://open.spotify.com/album/5otMiiTCoXNJlvOWnQNV2X"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        }
+      ],
+      "duration_ms": 177994,
+      "name": "PARANOIA",
+      "url": "https://open.spotify.com/track/5kHMdJLmN364FvFfky3AXI"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/1KPFU6sP0o457VZsUESt7N"
+      },
+      "artists": [
+        {
+          "name": "Equalz",
+          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
+        }
+      ],
+      "duration_ms": 146794,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/1VsClV89BOYGlN7RITBHYc"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Dashawn",
         "url": "https://open.spotify.com/album/1Oxf0qjQqyYUvFDhLcKFb0"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 167184,
       "name": "Chemistry (feat. Mula B)",
       "url": "https://open.spotify.com/track/32KaEzzoNXtjTyMT55ZT7y"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/1KPFU6sP0o457VZsUESt7N"
-      },
-      "artists": [
-        {
-          "name": "Equalz",
-          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
-        }
-      ],
-      "duration_ms": 146794,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/1VsClV89BOYGlN7RITBHYc"
     },
     {
       "added_at": "2024-07-19 06:38:33",

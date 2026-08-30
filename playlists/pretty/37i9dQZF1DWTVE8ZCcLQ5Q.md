@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Kouth e e outros artistas diferenciados estão no nosso RADAR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,888 likes - 52 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,870 likes - 52 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

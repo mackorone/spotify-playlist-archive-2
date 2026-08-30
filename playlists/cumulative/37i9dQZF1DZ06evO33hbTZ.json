@@ -723,6 +723,36 @@
     },
     {
       "album": {
+        "name": "Parlour Worship Medley",
+        "url": "https://open.spotify.com/album/4op2MUKLfQTezGoT91rga1"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "BBO",
+          "url": "https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd"
+        },
+        {
+          "name": "PROMISE EFFIONG",
+          "url": "https://open.spotify.com/artist/427FC2Bm4pD6DM2CBt8A90"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1832300,
+      "name": "Parlour Worship Medley",
+      "url": "https://open.spotify.com/track/1q3aYKfRrBtotd39lkEYzC"
+    },
+    {
+      "album": {
         "name": "Psalm 8",
         "url": "https://open.spotify.com/album/6bofpfSpiFNcdUC8TS8534"
       },

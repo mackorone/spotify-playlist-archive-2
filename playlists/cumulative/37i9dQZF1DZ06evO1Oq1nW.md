@@ -4,7 +4,7 @@
 
 > This is The O'Jays\. The essential tracks, all in one playlist.
 
-81 songs - 6 hr 26 min
+82 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [God Bless My Mama](https://open.spotify.com/track/49dn4HaJFrZLuonXfTynti) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT), [Eddie Levert](https://open.spotify.com/artist/2IvCFI40bNhf40fRPO7cA0), [Walter Williams](https://open.spotify.com/artist/7l643twfn8Rq1l4iON1aKp) | [Brawl in Cell Block 99 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6K96xGtU1rfAcKfnrKr09U) | 4:38 | 2022-05-25 | 2022-10-13 |
 | [Gotta Get My Broom Out](https://open.spotify.com/track/3Ibu9FkTHDdUehnCqM0WUB) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Super Bad](https://open.spotify.com/album/32JJSl2dK1v6F2bzoDwmJP) | 2:25 | 2025-01-11 | 2025-01-20 |
 | [Help \(Somebody Please\)](https://open.spotify.com/track/4tx4PHgBlLZbG98HpXMUBm) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 4:59 | 2022-05-25 |  |
-| [How Time Flies](https://open.spotify.com/track/5CFDmizzBXLyvU1smZk0xI) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 5:13 | 2022-05-25 |  |
+| [How Time Flies](https://open.spotify.com/track/5CFDmizzBXLyvU1smZk0xI) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 5:13 | 2022-05-25 | 2026-08-30 |
 | [Hurry Up & Come Back](https://open.spotify.com/track/2VLnmkD9L2GgbepawJJUzV) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Identify Yourself](https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd) | 5:05 | 2022-05-25 | 2026-08-27 |
 | [I Dig Your Act](https://open.spotify.com/track/5W5CPwVkrL1qZ4hzNS86sT) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back On Top \(Expanded Edition\)](https://open.spotify.com/album/1UoqJdBAZYHrNEc4eIgC4A) | 2:15 | 2024-03-30 | 2026-08-27 |
 | [I Dig Your Act](https://open.spotify.com/track/4XZ5cpaPA4w1kC5AYvKHvs) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Northern Soul \- The Soundtrack to Your Life](https://open.spotify.com/album/2Hi3JXS5bN6SitN9zeLHWP) | 2:16 | 2023-04-18 | 2024-03-13 |
@@ -60,6 +60,7 @@
 | [One Night Affair](https://open.spotify.com/track/50KfjOUY5oRlFpWRzhtIKY) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The O'Jays In Philly](https://open.spotify.com/album/5Zs8zwez1HT4WbUZrc4AfP) | 2:18 | 2022-10-12 | 2025-01-29 |
 | [People Keep Tellin' Me](https://open.spotify.com/track/23zcctQcy5iglNa4W93ChD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 3:58 | 2022-05-27 | 2026-04-07 |
 | [Put Our Heads Together](https://open.spotify.com/track/0pukPFDJHfirD3pebGYL1a) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [When Will I See You Again](https://open.spotify.com/album/1oOMRwM09IKQwzydqUm4x1) | 5:40 | 2022-05-25 |  |
+| [Put Out The Fire](https://open.spotify.com/track/3DiPLOZI9cjEjt8F3bzBZ6) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [For The Love](https://open.spotify.com/album/4ZQlgmfOJPsz0prHkcneau) | 4:10 | 2026-08-30 |  |
 | [Put Your Hands Together](https://open.spotify.com/track/57yGqjGKJUIzgKWdIZo9aR) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 4:07 | 2022-05-25 |  |
 | [She's Only a Woman](https://open.spotify.com/track/1iU8nEMGJxqCpvr6SCwJ2k) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Family Reunion \(Expanded Edition\)](https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD) | 5:42 | 2022-05-25 |  |
 | [Shiftless, Shady, Jealous Kind of People](https://open.spotify.com/track/03oob3RtQLmaAoCWFH0Zj2) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 3:35 | 2022-07-09 | 2022-07-11 |

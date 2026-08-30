@@ -1219,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "9mm",
+        "url": "https://open.spotify.com/album/6WT3D17SOnrenCunzynCgK"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210400,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/1MGrdDiI0RUOwTp9AZh1tJ"
+    },
+    {
+      "album": {
         "name": "A Bar Song (Tipsy)",
         "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
       },
@@ -2530,6 +2548,24 @@
       "duration_ms": 197976,
       "name": "American Town",
       "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
+    },
+    {
+      "album": {
+        "name": "Amira",
+        "url": "https://open.spotify.com/album/00brwhGxxVji3sWi8ACisb"
+      },
+      "artists": [
+        {
+          "name": "Cizzo",
+          "url": "https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "Amira",
+      "url": "https://open.spotify.com/track/6GpCoUl3H52mKyepmWMQya"
     },
     {
       "album": {
@@ -4418,7 +4454,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -12020,7 +12056,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 150617,
       "name": "dr\u00f8mmefanger (feat. URO)",
       "url": "https://open.spotify.com/track/4XgxdK8qm0K6EVUmg7ROMl"
@@ -12172,6 +12208,28 @@
       "duration_ms": 132589,
       "name": "Du & Jeg (Gobs X Jimilian)",
       "url": "https://open.spotify.com/track/0AEd8cP7Rf7UmcErWxt1qT"
+    },
+    {
+      "album": {
+        "name": "Du er min bror!",
+        "url": "https://open.spotify.com/album/6iNbS5eb45c9Oq3jygPul8"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        },
+        {
+          "name": "Kn\u00e6gt",
+          "url": "https://open.spotify.com/artist/2ma469IFw27u95sH9V72l6"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186347,
+      "name": "Du er min bror!",
+      "url": "https://open.spotify.com/track/62lRojjdpj5z2YYGFQDqYq"
     },
     {
       "album": {
@@ -21338,6 +21396,28 @@
       "duration_ms": 176059,
       "name": "How It\u2019s Done",
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
+    },
+    {
+      "album": {
+        "name": "HUGGET I STEN (feat. Ghita N\u00f8rby)",
+        "url": "https://open.spotify.com/album/2O851kvUcHCgPDMEKBOMCh"
+      },
+      "artists": [
+        {
+          "name": "HUGORM",
+          "url": "https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2"
+        },
+        {
+          "name": "Ghita N\u00f8rby",
+          "url": "https://open.spotify.com/artist/1y1c5O8MFc0EJ0s5WJUf66"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250476,
+      "name": "HUGGET I STEN (feat. Ghita N\u00f8rby)",
+      "url": "https://open.spotify.com/track/4EaCmBlUdXEC42iwcsvn10"
     },
     {
       "album": {
@@ -42028,7 +42108,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 242727,
       "name": "sp\u00f8gelse",
       "url": "https://open.spotify.com/track/1n6JDny8iDA8btrO21y53p"
@@ -47154,7 +47234,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 146363,
       "name": "Ud Af Boksen",
       "url": "https://open.spotify.com/track/6k510Mf6Qz34GVfYLx81W9"

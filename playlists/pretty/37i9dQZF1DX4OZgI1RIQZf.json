@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 140651,
+  "num_followers": 140648,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
+        "name": "Holiday in Lily Dale",
+        "url": "https://open.spotify.com/album/1S70ipYvTPlGMGVY44JxzZ"
+      },
+      "artists": [
+        {
+          "name": "Get Well Soon",
+          "url": "https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s"
+        }
+      ],
+      "duration_ms": 293901,
+      "name": "Holiday in Lily Dale",
+      "url": "https://open.spotify.com/track/2EPP24G3UlFz3zxZZgTtlQ"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
         "name": "Stay In Your Grave (feat. Alice Cooper)",
         "url": "https://open.spotify.com/album/08vLRPd996FPgpqffEUzq9"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 211626,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/7lsXE4f6JvbQC2bVUsEQHI"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
-        "name": "Holiday in Lily Dale",
-        "url": "https://open.spotify.com/album/1S70ipYvTPlGMGVY44JxzZ"
-      },
-      "artists": [
-        {
-          "name": "Get Well Soon",
-          "url": "https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s"
-        }
-      ],
-      "duration_ms": 293901,
-      "name": "Holiday in Lily Dale",
-      "url": "https://open.spotify.com/track/2EPP24G3UlFz3zxZZgTtlQ"
     },
     {
       "added_at": "2026-08-28 07:24:22",

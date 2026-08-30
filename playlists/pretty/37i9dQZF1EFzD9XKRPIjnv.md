@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,495 likes - 162 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,496 likes - 162 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 109 | [Detour](https://open.spotify.com/track/2nijz65bLAu51eZLFQ0naN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 4:07 |
 | 110 | [Love Myself \(The High Note\)](https://open.spotify.com/track/0BrSj3Jcx8hK6B4G1ZqMs8) | [Tracee Ellis Ross](https://open.spotify.com/artist/3e317QrU8NZcH2yKSckopt) | [Love Myself \(The High Note\)](https://open.spotify.com/album/168h5YSeGvlsR45g4MpllW) | 3:27 |
 | 111 | [Me \(feat\. BOI\)](https://open.spotify.com/track/6fPxuq3eIFGdDozpg1YMOI) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq), [BOI](https://open.spotify.com/artist/7y73UWza7rolywdtTdYJV4) | [Sizzlar](https://open.spotify.com/album/4AVhMub7KtxGzPlBrKJ6L7) | 3:25 |
-| 112 | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/track/6jW0scPonEHW9zjPspVHrn) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 2:54 |
-| 113 | [Real Life](https://open.spotify.com/track/55DjzBeLLyBMhIaKFHuXBa) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f) | 3:20 |
+| 112 | [Real Life](https://open.spotify.com/track/55DjzBeLLyBMhIaKFHuXBa) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f) | 3:20 |
+| 113 | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/track/6jW0scPonEHW9zjPspVHrn) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 2:54 |
 | 114 | [Good Mood](https://open.spotify.com/track/6ZsnUckT0Akf3dMypNLcBy) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [SODA](https://open.spotify.com/album/35YO8fr159vkhfppudG2Wj) | 2:59 |
 | 115 | [Like I Do](https://open.spotify.com/track/1roF7kFDaf9dE1TWBpSzAD) | [Tracee Ellis Ross](https://open.spotify.com/artist/3e317QrU8NZcH2yKSckopt), [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK) | [The High Note \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XdtJ70FW02NVQzCCDYeoB) | 2:54 |
 | 116 | [Candy](https://open.spotify.com/track/5NwBOCI0trPlbtfocWrt2q) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:06 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 161 | [I'm Blue](https://open.spotify.com/track/4fxjwpYb69BFXlVDZVUnGH) | [Marlowe Wilton](https://open.spotify.com/artist/2T33g5HKf9IdpHnx0swzwY) | [I'm Blue](https://open.spotify.com/album/3dALB5GpC5arbXCUEpHNoO) | 3:03 |
 | 162 | [Why](https://open.spotify.com/track/5h09Ksb1ctl0naenwVkrau) | [The Fabulous Cadillacs](https://open.spotify.com/artist/1pxfJicxxf1Ce8OEJnorT3) | [Classics \- The Fabulous Cadillacs](https://open.spotify.com/album/2IJa1TA0j0t06LWl1dt8Ft) | 1:50 |
 
-Snapshot ID: `Aca1FAAAAACFJRiq1YJVIhoZjP4Kajkr`
+Snapshot ID: `Aca6PAAAAACsnIJCdvQyIfYdoRH3ZwBU`

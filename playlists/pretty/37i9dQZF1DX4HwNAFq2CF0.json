@@ -1,6 +1,6 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Angine de Poitrine",
-  "num_followers": 77655,
+  "num_followers": 77660,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "The Suburbs (Deluxe)",
-        "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 315026,
-      "name": "The Suburbs",
-      "url": "https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "Servant Of The Mind (Deluxe)",
         "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 267826,
       "name": "Shotgun Blues",
       "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "The Suburbs (Deluxe)",
+        "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 315026,
+      "name": "The Suburbs",
+      "url": "https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
-      "added_at": "2026-05-29 16:00:59",
-      "album": {
-        "name": "Going Shopping",
-        "url": "https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 261747,
-      "name": "Going Shopping",
-      "url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP"
-    },
-    {
       "added_at": "2026-05-06 20:31:40",
       "album": {
         "name": "POWER UP",
@@ -787,6 +771,22 @@
       "duration_ms": 185131,
       "name": "Shot In The Dark",
       "url": "https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz"
+    },
+    {
+      "added_at": "2026-05-29 16:00:59",
+      "album": {
+        "name": "Going Shopping",
+        "url": "https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 261747,
+      "name": "Going Shopping",
+      "url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1437,22 +1437,6 @@
       "url": "https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA"
     },
     {
-      "added_at": "2026-07-10 01:13:08",
-      "album": {
-        "name": "Violins",
-        "url": "https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 250386,
-      "name": "Violins",
-      "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
-    },
-    {
       "added_at": "2026-05-06 20:31:40",
       "album": {
         "name": "Dirty Honey",
@@ -1483,6 +1467,22 @@
       "duration_ms": 322000,
       "name": "Always There",
       "url": "https://open.spotify.com/track/2xQJwReGvxioWM9jeehAEh"
+    },
+    {
+      "added_at": "2026-07-10 01:13:08",
+      "album": {
+        "name": "Violins",
+        "url": "https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 250386,
+      "name": "Violins",
+      "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
+        "name": "Together Right",
+        "url": "https://open.spotify.com/album/5wiYwpkw5aYVKIot1wmrO9"
+      },
+      "artists": [
+        {
+          "name": "Finger Eleven",
+          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
+        }
+      ],
+      "duration_ms": 181120,
+      "name": "Together Right",
+      "url": "https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
         "name": "Ohio Players",
         "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 167312,
       "name": "Beautiful People (Stay High)",
       "url": "https://open.spotify.com/track/2meH4dMuvGlooo2tpiPjJp"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
-        "name": "Otherness",
-        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 304986,
-      "name": "Sans Soleil",
-      "url": "https://open.spotify.com/track/2HxHylSuO7W9hLL2t1Dk3s"
     }
   ],
   "unique_name": "Rock Favourites",

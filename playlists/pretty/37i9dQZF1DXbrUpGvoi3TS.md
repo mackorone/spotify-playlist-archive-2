@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,620,554 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,620,502 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 76 | [You Said You'd Grow Old With Me](https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Wide Awake](https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn) | 3:44 |
 | 77 | [Hold Me While You Wait](https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Hold Me While You Wait](https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL) | 3:25 |
 | 78 | [Higher Love](https://open.spotify.com/track/7apw8m9lHQjvuUVfMAm4kZ) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Early in the Morning \(Special Edition\)](https://open.spotify.com/album/33HjgKPNuu4pYcTzAShz2i) | 3:35 |
-| 79 | [birthday cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [birthday cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 |
-| 80 | [Wherever You Will Go](https://open.spotify.com/track/0IF7bHzCXCZoKNog5vBC4g) | [Charlene Soraia](https://open.spotify.com/artist/0qk8MxMzgnfFECvDO3cc0X) | [Wherever You Will Go](https://open.spotify.com/album/3cp5RYHZb5KUyglxaHd3Lh) | 3:17 |
+| 79 | [Wherever You Will Go](https://open.spotify.com/track/0IF7bHzCXCZoKNog5vBC4g) | [Charlene Soraia](https://open.spotify.com/artist/0qk8MxMzgnfFECvDO3cc0X) | [Wherever You Will Go](https://open.spotify.com/album/3cp5RYHZb5KUyglxaHd3Lh) | 3:17 |
+| 80 | [birthday cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [birthday cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 |
 | 81 | [Wanted](https://open.spotify.com/track/0f1svjHSiaCJif6noKKVHa) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Hunter Hayes \(Encore\)](https://open.spotify.com/album/4wg9qbqOVgnaA2eBGg74yK) | 3:48 |
 | 82 | [Undrunk](https://open.spotify.com/track/1Pj5oOFzLYELyyeh1IYRK0) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:03 |
 | 83 | [Broken\-Hearted Girl](https://open.spotify.com/track/31acMiV67UgKn1ScFChFxo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:37 |

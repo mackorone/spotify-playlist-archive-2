@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 
 > Roses are red, violet are blue, its been fun but i'm leaving you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,091 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,099 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 | 28 | [Dead To Me](https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:19 |
 | 29 | [I Don't Fuck With You](https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 4:44 |
 | 30 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 |
-| 31 | [Too Good](https://open.spotify.com/track/3BtuIIrQlkujKPuWF2B85z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:23 |
-| 32 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 |
+| 31 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 |
+| 32 | [Too Good](https://open.spotify.com/track/3BtuIIrQlkujKPuWF2B85z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:23 |
 | 33 | [Maniac](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:05 |
 | 34 | [Part Of Me](https://open.spotify.com/track/6yARPLK0PV4heEyh7pVMGz) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/4zLOhyT4XIzyyl7KoSHWcE) | 3:36 |
 | 35 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 | 38 | [Truth Hurts](https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O) | 2:53 |
 | 39 | [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/557un1HgwYMuqfWGSTmnxw) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE \- Platinum Edition](https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9) | 3:12 |
 | 40 | [Apologize](https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:28 |
-| 41 | [Don't](https://open.spotify.com/track/1huvTbEYtgltjQRXzrNKGi) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 3:39 |
-| 42 | [These Boots Are Made for Walkin'](https://open.spotify.com/track/2PneNdtypG6XcgmWmGd9FI) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Boots](https://open.spotify.com/album/4qyuqoJb1ffoE11trJgsXc) | 2:47 |
+| 41 | [These Boots Are Made for Walkin'](https://open.spotify.com/track/2PneNdtypG6XcgmWmGd9FI) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Boots](https://open.spotify.com/album/4qyuqoJb1ffoE11trJgsXc) | 2:47 |
+| 42 | [Don't](https://open.spotify.com/track/1huvTbEYtgltjQRXzrNKGi) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 3:39 |
 | 43 | [Telephone](https://open.spotify.com/track/7rl7ao5pb9BhvAzPdWStxi) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2) | 3:40 |
 | 44 | [Shout Out to My Ex](https://open.spotify.com/track/0ErK6K0kYr0Ow2RkPMhmMs) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 4:06 |
-| 45 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 |
-| 46 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
+| 45 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
+| 46 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 |
 | 47 | [Elastic Heart](https://open.spotify.com/track/5S9lfZu1YF8xKkgSsqL2Bd) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 4:17 |
 | 48 | [Love Myself](https://open.spotify.com/track/36phXHOKx8rO7CMp2vNX4x) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [HAIZ](https://open.spotify.com/album/1ABRc0UFHY3x6rKQeFBTQ0) | 3:38 |
 | 49 | [Stronger](https://open.spotify.com/track/5QhBKPqsnX1uY9fZNaAtZg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:23 |

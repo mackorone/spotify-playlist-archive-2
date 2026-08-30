@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Tyler Ballgame
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,886 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,896 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 32 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 |
 | 33 | [Hold My Love](https://open.spotify.com/track/6YkUGh3Tl6dNVYRz0rgyLo) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Hold My Love](https://open.spotify.com/album/5nHPiP5rhIa3VJhRKqguBR) | 3:24 |
 | 34 | [Elderberry Wine](https://open.spotify.com/track/00lSB9CSyOcsxKVtbPbniL) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:35 |
-| 35 | [Los Angeles](https://open.spotify.com/track/5TSj6ySt4WqDuljv61Q4D5) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:57 |
-| 36 | [Feeling](https://open.spotify.com/track/59S8JfBTZo1jZhwCgwzEYz) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Dog Eared](https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi) | 3:20 |
-| 37 | [Blue Ridge Run](https://open.spotify.com/track/5GZI4tMGES215gvXieul9v) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Blue Ridge Run](https://open.spotify.com/album/0QpJuq9cdEAVWWS4shEpkM) | 3:05 |
+| 35 | [Blue Ridge Run](https://open.spotify.com/track/5GZI4tMGES215gvXieul9v) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Blue Ridge Run](https://open.spotify.com/album/0QpJuq9cdEAVWWS4shEpkM) | 3:05 |
+| 36 | [Los Angeles](https://open.spotify.com/track/5TSj6ySt4WqDuljv61Q4D5) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:57 |
+| 37 | [Feeling](https://open.spotify.com/track/59S8JfBTZo1jZhwCgwzEYz) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Dog Eared](https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi) | 3:20 |
 | 38 | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0) | 4:53 |
 | 39 | [The Bend](https://open.spotify.com/track/4CwtjbfPWEA5YNVFBEAsV1) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [The Bend](https://open.spotify.com/album/5hoF6Qgg5SKKuKW4uknLk7) | 4:02 |
 | 40 | [Real Thing](https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Real Thing](https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv) | 3:25 |
@@ -82,13 +82,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 72 | [If I Had Never Lost My Mind...](https://open.spotify.com/track/7Gv7nvp2Rg2tiB2Ru24ETH) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [If I Had Never Lost My Mind...](https://open.spotify.com/album/0rdw28ZkCG4fAzRzIF4iah) | 3:10 |
 | 73 | [generations in the making](https://open.spotify.com/track/5uLNEjToaNlAGaN2qvbjdQ) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [if i'm honest for once](https://open.spotify.com/album/1KO7Ww4aCb59EumfKV2BhM) | 4:17 |
 | 74 | [Time Flies](https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Time Flies](https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt) | 3:10 |
-| 75 | [Northern Star](https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Postcards to Heaven](https://open.spotify.com/album/4T1awA0BJdq5BPKuXyoMPz) | 2:41 |
-| 76 | [Returning To Myself](https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl) | 4:17 |
+| 75 | [Returning To Myself](https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl) | 4:17 |
+| 76 | [Northern Star](https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Postcards to Heaven](https://open.spotify.com/album/4T1awA0BJdq5BPKuXyoMPz) | 2:41 |
 | 77 | [Goodbye, Old Friend](https://open.spotify.com/track/7ICqrDwJVol0urvgt2GGGY) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:44 |
 | 78 | [Nostalgic for Nothing](https://open.spotify.com/track/1IyuQt0f9LFMIkyNeI84Cd) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Nostalgic for Nothing](https://open.spotify.com/album/70nRLtk0vROIVpOD100D2c) | 3:25 |
 | 79 | [Sad and Beautiful World](https://open.spotify.com/track/6UFDma78AVAyHaN4i88R8i) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Sad And Beautiful World](https://open.spotify.com/album/07aZwFEzDfh0BALXf1o6FH) | 4:06 |
-| 80 | [Ashes & Smoke](https://open.spotify.com/track/5z4vkBqAyhYRksxBdaFRYP) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Ashes & Smoke](https://open.spotify.com/album/5PqLpOfcwK2Vh9OQQIPEA5) | 3:05 |
-| 81 | [KISSING](https://open.spotify.com/track/4RSkew0j4MPCAq7WfVfi8P) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Daisy](https://open.spotify.com/album/5l746yNWWESUlLuveqla2p) | 2:40 |
+| 80 | [KISSING](https://open.spotify.com/track/4RSkew0j4MPCAq7WfVfi8P) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Daisy](https://open.spotify.com/album/5l746yNWWESUlLuveqla2p) | 2:40 |
+| 81 | [Ashes & Smoke](https://open.spotify.com/track/5z4vkBqAyhYRksxBdaFRYP) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Ashes & Smoke](https://open.spotify.com/album/5PqLpOfcwK2Vh9OQQIPEA5) | 3:05 |
 | 82 | [Dandelions](https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dandelions](https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw) | 4:09 |
 | 83 | [Poison In My Well](https://open.spotify.com/track/5sTW2d86vNwfiJ2VNjUsrq) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Poison In My Well](https://open.spotify.com/album/1lQPaWzjstwG1X3hWZb11A) | 3:08 |
 | 84 | [Like The Rain](https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Love Again](https://open.spotify.com/album/55GVOmy6g6oRXIuUklMxnS) | 3:07 |

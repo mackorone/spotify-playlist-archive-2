@@ -4,7 +4,7 @@
 
 > This is Alabama Shakes\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 36 min
+53 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,8 @@
 | [Be Mine](https://open.spotify.com/track/6OXj4cEa6vAAs0jsJVFHxS) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 4:14 | 2024-02-20 | 2024-07-27 |
 | [Boys & Girls](https://open.spotify.com/track/1TpL09uv8EygfJy4aULnqg) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/6GRzHtepSikfr1k8zxcpbH) | 3:25 | 2023-09-25 | 2024-08-06 |
 | [Don't Wanna Fight](https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY) | 3:52 | 2023-09-25 |  |
+| [Easy](https://open.spotify.com/track/2WouvVAjyFRCEnJboXFDpx) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 4:15 | 2026-08-30 |  |
+| [Friends](https://open.spotify.com/track/3Kvjw6Rs6fA1vt3WQ3HWoj) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 3:07 | 2026-08-30 |  |
 | [Future People](https://open.spotify.com/track/4iRiiVUx1ytFW3OEAsfKIL) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:21 | 2023-09-25 |  |
 | [Garden](https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Garden](https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw) | 4:59 | 2026-08-07 | 2026-08-29 |
 | [Garden](https://open.spotify.com/track/6G7FXaaVK74VLH8G0gswZD) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 4:59 | 2026-08-29 |  |
@@ -31,6 +33,7 @@
 | [Heavy Chevy \- Bonus Track](https://open.spotify.com/track/1KFND1mnZBEF5B848A4oDR) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 2:26 | 2024-08-06 | 2024-08-09 |
 | [Hold On](https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 3:46 | 2024-08-06 |  |
 | [Hold On](https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 3:46 | 2023-09-25 | 2024-08-06 |
+| [How Love's Supposed To Go](https://open.spotify.com/track/7vkRvlDZqIFfGQgMaodifL) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 3:36 | 2026-08-30 |  |
 | [I Ain't The Same](https://open.spotify.com/track/3KovbvpV7cqIw4gg2CihPu) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 2:55 | 2024-08-09 |  |
 | [I Ain't The Same](https://open.spotify.com/track/3NZdB4XxTQYZgRdrZRm60h) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 2:55 | 2023-09-25 | 2024-08-09 |
 | [I Feel Hope Coming](https://open.spotify.com/track/6yFkQeeTv3DDhTQynN2WVV) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Feel Hope Coming](https://open.spotify.com/album/1lnUiFfaZhH6YHZpeWzyBZ) | 5:11 | 2026-07-12 |  |
@@ -47,11 +50,15 @@
 | [Shoegaze](https://open.spotify.com/track/09nDcxFx9DAkpfxDjse4gZ) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 2:59 | 2023-09-25 |  |
 | [Someday](https://open.spotify.com/track/41xg3SjdwFyAp0kao72944) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:19 | 2024-01-01 | 2024-06-24 |
 | [Sound & Color](https://open.spotify.com/track/7tHxwM0lDw0FwlCT4VAggT) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:02 | 2023-09-25 |  |
+| [Tea Time](https://open.spotify.com/track/31GAlUeCLW7X2wabzWaCYM) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 3:46 | 2026-08-30 |  |
 | [The Greatest](https://open.spotify.com/track/24wMQTr2g3fRZtdr8FXBX0) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY) | 3:49 | 2023-09-25 | 2023-11-11 |
 | [This Feeling](https://open.spotify.com/track/3KUEwttAC1vwVx8EmDR2qY) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/3q6QbjJGKQpDXT6XDZij6Y) | 4:28 | 2023-11-10 | 2026-08-01 |
 | [This Feeling](https://open.spotify.com/track/7xM33k6Z3ADF8pEmIClcnz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 4:28 | 2023-09-25 |  |
+| [Tied To You](https://open.spotify.com/track/7G02THuuYVlP3BxZleQE17) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 4:40 | 2026-08-30 |  |
+| [Time](https://open.spotify.com/track/2VJNDgdnV2OftCehOWMeuM) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 4:58 | 2026-08-30 |  |
 | [Until There's Nothing Left](https://open.spotify.com/track/0S6wKHJNqjACfIfGIGX6xR) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Dotr](https://open.spotify.com/album/4XyaObpQDL61LtLerqAeHx) | 3:50 | 2025-01-24 |  |
 | [Until There's Nothing Left](https://open.spotify.com/track/1Mx0bF3jajHH3zvMHfaleV) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Until There’s Nothing Left](https://open.spotify.com/album/1KPZFUZfy0l7uFKLzrVjHL) | 3:50 | 2024-08-31 | 2025-01-24 |
+| [Waist Deep](https://open.spotify.com/track/39nKUjHiC7XEnkQq7jc6ub) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 4:31 | 2026-08-30 |  |
 | [You Ain't Alone](https://open.spotify.com/track/5J2EJXBh4gDN9ZIgMmksog) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/6GRzHtepSikfr1k8zxcpbH) | 4:44 | 2023-09-25 | 2024-08-09 |
 | [You Ain't Alone](https://open.spotify.com/track/6ztmULOCCXDLtuixz29GYz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 4:44 | 2025-01-28 | 2025-08-28 |
 

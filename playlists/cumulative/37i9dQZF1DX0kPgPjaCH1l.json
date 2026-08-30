@@ -758,7 +758,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 163944,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/7BOgyrWA7OURpdJ9YksRFR"
@@ -1310,6 +1310,24 @@
       "duration_ms": 160757,
       "name": "Hat-trick",
       "url": "https://open.spotify.com/track/6kq3Twa8T9Rf9nxpf111hx"
+    },
+    {
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/6NR3x6Epq5M7f07qkzaOMr"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/4qp6UT9ZozI9JAtI5sAC13"
     },
     {
       "album": {

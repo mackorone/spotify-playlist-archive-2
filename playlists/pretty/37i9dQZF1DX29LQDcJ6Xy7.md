@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,595 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,625 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 30 | [Save Yourself](https://open.spotify.com/track/13ZS2V2RsGWguOYYvIqDN5) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Darkest Days](https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg) | 4:13 |
 | 31 | [Golgotha Tenement Blues](https://open.spotify.com/track/20yvxFLMl0n4nvrDaqZ6ol) | [Machines Of Loving Grace](https://open.spotify.com/artist/7p8Z7MmqMYCa7ZKQKxRBKO) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 4:00 |
 | 32 | [Last](https://open.spotify.com/track/0vyoxWYsDYduwnYuiEHOZg) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Broken](https://open.spotify.com/album/4jyWDa1yM9ul7zgUdR80hw) | 4:44 |
-| 33 | [Assimilate](https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF) | [Skinny Puppy](https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns) | [Bites](https://open.spotify.com/album/48uIwIUdrqvY27C7sXF9CA) | 6:56 |
+| 33 | [ISN’T EVERYONE](https://open.spotify.com/track/7Kx1m2vb4QPgHKVKvpvrFv) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:14 |
 | 34 | [Just One Fix](https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 5:10 |
-| 35 | [ISN’T EVERYONE](https://open.spotify.com/track/7Kx1m2vb4QPgHKVKvpvrFv) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:14 |
+| 35 | [Assimilate](https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF) | [Skinny Puppy](https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns) | [Bites](https://open.spotify.com/album/48uIwIUdrqvY27C7sXF9CA) | 6:56 |
 | 36 | [After the Flesh](https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK) | [My Life With The Thrill Kill Kult](https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 2:59 |
 | 37 | [Guilty](https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg) | [Gravity Kills](https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB) | [Gravity Kills](https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm) | 4:02 |
 | 38 | [Jagdzeit](https://open.spotify.com/track/1mTCbTpcM1nKkH0wGf70Zq) | [Megaherz](https://open.spotify.com/artist/4tM8qmqg5cEZPHNLNQwHeb) | [Götterdämmerung](https://open.spotify.com/album/4JL1w8tZb0C07FcLYQROra) | 4:18 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 45 | [HYËNA](https://open.spotify.com/track/2mPYdoSr3T9VLi94oV7ob5) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [HYËNA](https://open.spotify.com/album/3S4k4I4hvcCiLExpGaSPUa) | 5:02 |
 | 46 | [A Daisy Chain 4 Satan \- Acid & Flowers Mix](https://open.spotify.com/track/5FwLDsdAgRVc3lZjam3euf) | [My Life With The Thrill Kill Kult](https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD) | [Confessions of a Knife](https://open.spotify.com/album/07qAwgxJzZYQCPTQc157eT) | 5:31 |
 | 47 | [Genius](https://open.spotify.com/track/4GtKwWPKlVWrhmCmOGFb51) | [Pitchshifter](https://open.spotify.com/artist/10aXVE8RSUCeMzaFvBnZ2i) | [www.pitchshifter.com](https://open.spotify.com/album/1KcvOypLPHDBkkk3KW9Vun) | 4:06 |
-| 48 | [My World](https://open.spotify.com/track/3GwzYHGrRn7wMfRtvbjg2U) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1) | [Emigrate](https://open.spotify.com/album/6F84H4YaytAQkJk6cvP0ri) | 4:17 |
-| 49 | [FREE TO DIE](https://open.spotify.com/track/5QlaYAjyS0zuoA9zGk4c3R) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [RAT WARS ULTRA EDITION](https://open.spotify.com/album/1YgdGBECp0uqqLvYSlflsS) | 3:41 |
+| 48 | [FREE TO DIE](https://open.spotify.com/track/5QlaYAjyS0zuoA9zGk4c3R) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [RAT WARS ULTRA EDITION](https://open.spotify.com/album/1YgdGBECp0uqqLvYSlflsS) | 3:41 |
+| 49 | [My World](https://open.spotify.com/track/3GwzYHGrRn7wMfRtvbjg2U) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1) | [Emigrate](https://open.spotify.com/album/6F84H4YaytAQkJk6cvP0ri) | 4:17 |
 | 50 | [PUMPED UP KICKS](https://open.spotify.com/track/3ncucOcYMOd7VQ1jyAA6BU) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [PUMPED UP KICKS](https://open.spotify.com/album/0nCRRcaqMHBnb0hfKnfTPO) | 4:31 |
 | 51 | [The Thing I Hate](https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Darkest Days](https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg) | 3:36 |
 | 52 | [Headhunter V1.0](https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896) | [Front 242](https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX) | [Front By Front](https://open.spotify.com/album/3bJDzdsqXwjo9EXupegwIR) | 5:02 |

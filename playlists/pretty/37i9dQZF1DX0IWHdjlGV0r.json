@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover:  Shiva",
-  "num_followers": 129865,
+  "num_followers": 129874,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
-        "name": "Una vita fa",
-        "url": "https://open.spotify.com/album/7leF68HTvHBT2xOTXb7CDl"
-      },
-      "artists": [
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        }
-      ],
-      "duration_ms": 143487,
-      "name": "Una vita fa",
-      "url": "https://open.spotify.com/track/37rCWMWi55l8HibKLrDCS2"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 221631,
       "name": "MADAME - L'anima (feat. Madame)",
       "url": "https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
+        "name": "Una vita fa",
+        "url": "https://open.spotify.com/album/7leF68HTvHBT2xOTXb7CDl"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        }
+      ],
+      "duration_ms": 143487,
+      "name": "Una vita fa",
+      "url": "https://open.spotify.com/track/37rCWMWi55l8HibKLrDCS2"
     },
     {
       "added_at": "2026-08-26 22:01:25",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
-        "name": "26",
-        "url": "https://open.spotify.com/album/67SBrrE0LhCNEJpar5MQ0P"
-      },
-      "artists": [
-        {
-          "name": "Ele A",
-          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
-        }
-      ],
-      "duration_ms": 151011,
-      "name": "Nn \u00e8 divertente",
-      "url": "https://open.spotify.com/track/5JBpzVzJmlvr8cgApQHceV"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
         "name": "\u00c8 FINITA LA PACE",
         "url": "https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 227179,
       "name": "PENTOTHAL",
       "url": "https://open.spotify.com/track/3WS0TcakSQfE0t1fFTQwDW"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
+        "name": "26",
+        "url": "https://open.spotify.com/album/67SBrrE0LhCNEJpar5MQ0P"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "duration_ms": 151011,
+      "name": "Nn \u00e8 divertente",
+      "url": "https://open.spotify.com/track/5JBpzVzJmlvr8cgApQHceV"
     },
     {
       "added_at": "2026-08-26 22:01:25",
@@ -1555,18 +1555,22 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
-        "name": "Anno Zero",
-        "url": "https://open.spotify.com/album/7shtYxDm2JIN1hmypbmYBr"
+        "name": "Nerissima",
+        "url": "https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER"
       },
       "artists": [
         {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
         }
       ],
-      "duration_ms": 154074,
-      "name": "NIKITA",
-      "url": "https://open.spotify.com/track/4Nz4if133Xq9o06pgIkfOu"
+      "duration_ms": 121212,
+      "name": "Vicini ma Lontani",
+      "url": "https://open.spotify.com/track/1rUtOIReT93YATZLv4GqNy"
     }
   ],
   "unique_name": "Arsenico ",

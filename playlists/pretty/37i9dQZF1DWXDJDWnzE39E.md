@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women who open up the pit\. Cover: Amy Lee of Evanescence, Poppy & Courtney LaPlante of Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,456 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,532 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 49 | [Kundalini](https://open.spotify.com/track/0D3z7YrhFHbdahOjPbtByX) | [Deadlands](https://open.spotify.com/artist/75ItOLlAwbDFJFx3PhyzTc), [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [Kundalini](https://open.spotify.com/album/6DkgH5CJarjWJN0JMzKkzm) | 3:34 |
 | 50 | [ICONIC](https://open.spotify.com/track/5Ppth5M7hMNzW64Snwmzyt) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [ICONIC](https://open.spotify.com/album/2OeQSCyzpoWeldbn3X57Wf) | 3:26 |
 | 51 | [Ipecac](https://open.spotify.com/track/7FYjr2z55jeW8RrjfFmh0J) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 2:18 |
-| 52 | [Labyrinth](https://open.spotify.com/track/27fpZXWUZbS4v1fIcPpJEF) | [Showing Teeth](https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv) | [Labyrinth](https://open.spotify.com/album/28Hi8MXegxVlzYlI6FCXEE) | 2:40 |
-| 53 | [Ghost Of Me](https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Ghost Of Me](https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov) | 3:51 |
+| 52 | [Ghost Of Me](https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Ghost Of Me](https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov) | 3:51 |
+| 53 | [Labyrinth](https://open.spotify.com/track/27fpZXWUZbS4v1fIcPpJEF) | [Showing Teeth](https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv) | [Labyrinth](https://open.spotify.com/album/28Hi8MXegxVlzYlI6FCXEE) | 2:40 |
 | 54 | [Perfume Of The Timeless](https://open.spotify.com/track/4UNYF5dLLQ9acbNxenGTpc) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 8:12 |
 | 55 | [The Path To Decay](https://open.spotify.com/track/4uaQ7adjRXgBWuSzlAH9vS) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE), [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi) | [The 13th Floor](https://open.spotify.com/album/4n9Gd9GTci9XdXsadWTlTp) | 4:17 |
 | 56 | [I Wish You Were Dead](https://open.spotify.com/track/0jGmBA9jESBGNHE9FK6mST) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Sleepless Empire](https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8) | 2:52 |
@@ -85,13 +85,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 75 | [Exoskeleton](https://open.spotify.com/track/7eP2AL5TLlVUmGNmFyAAXD) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Myriad](https://open.spotify.com/album/3wGofyxNWI01dZbQV97czC) | 4:34 |
 | 76 | [Fresh Blood, Fresh Pussy](https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [Witch Club Satan](https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp) | 3:35 |
 | 77 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
-| 78 | [BITE DOWN](https://open.spotify.com/track/3FS58QCiryR8nE0d8F5hhH) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [BITE DOWN](https://open.spotify.com/album/15KzBKCsWnQGYxauI5cpKr) | 2:05 |
-| 79 | [Steelbound](https://open.spotify.com/track/66TqKIWKHH2iQsOLzMexjo) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Steelbound](https://open.spotify.com/album/6E2T5mFE5FlMN3VeITyryI) | 4:26 |
+| 78 | [Steelbound](https://open.spotify.com/track/66TqKIWKHH2iQsOLzMexjo) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Steelbound](https://open.spotify.com/album/6E2T5mFE5FlMN3VeITyryI) | 4:26 |
+| 79 | [BITE DOWN](https://open.spotify.com/track/3FS58QCiryR8nE0d8F5hhH) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [BITE DOWN](https://open.spotify.com/album/15KzBKCsWnQGYxauI5cpKr) | 2:05 |
 | 80 | [Murder Scene](https://open.spotify.com/track/6YXwxIPFt3R340CnoFxjf9) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Murder Scene](https://open.spotify.com/album/69xdy6jTcmgmCrZbd4ilob) | 2:47 |
 | 81 | [Popular Monster](https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Popular Monster](https://open.spotify.com/album/73OBNhPJKktJ2cQFh0x1VC) | 3:50 |
 | 82 | [Ceremony](https://open.spotify.com/track/67gqSywShfhuuYwDbcJ2hG) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [Ceremony](https://open.spotify.com/album/7gcIgsU1vw9E2GwZDMaIcp) | 3:19 |
-| 83 | [The Plague On Both Your Houses](https://open.spotify.com/track/3VauFwfAiJ4wm3EWc8P3iY) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [World Domination](https://open.spotify.com/album/1PMmd57x3WmnxAbns3ptpy) | 3:58 |
-| 84 | [Year of the Rat](https://open.spotify.com/track/3tSPzD7A31dohGDH2DAAhZ) | [Tristania](https://open.spotify.com/artist/2EOmvmVtYMTgn45w9mWUTV) | [Rubicon](https://open.spotify.com/album/6dlToGhcA5HASShTBq60Q8) | 4:35 |
+| 83 | [Year of the Rat](https://open.spotify.com/track/3tSPzD7A31dohGDH2DAAhZ) | [Tristania](https://open.spotify.com/artist/2EOmvmVtYMTgn45w9mWUTV) | [Rubicon](https://open.spotify.com/album/6dlToGhcA5HASShTBq60Q8) | 4:35 |
+| 84 | [The Plague On Both Your Houses](https://open.spotify.com/track/3VauFwfAiJ4wm3EWc8P3iY) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [World Domination](https://open.spotify.com/album/1PMmd57x3WmnxAbns3ptpy) | 3:58 |
 | 85 | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/track/0PkWNpQAsH7xQHtzYJHgSD) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO) | 3:58 |
 | 86 | [Neon Lights](https://open.spotify.com/track/1SiIFmd9cSHOfE43NSP10x) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Sorrowbreaker](https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q) | 3:10 |
 | 87 | [Sleeping with the Enemy](https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Sleeping with the Enemy](https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA) | 3:32 |
@@ -102,10 +102,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 92 | [Thorn In My Side](https://open.spotify.com/track/7jDhrmsTOZ6TeT9LcC14OF) | [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3) | [Thorn In My Side](https://open.spotify.com/album/1c8liuYJUzptwOiOubrKRh) | 3:45 |
 | 93 | [Wicked Woman](https://open.spotify.com/track/0s0ik3hbf0S1EgYfjX8TrF) | [Coven](https://open.spotify.com/artist/6eTKX1Kyy9gMamdDyj736Y) | [Witchcraft Destroys Minds And Reaps Souls](https://open.spotify.com/album/3aJozZhPbj8hKmJePJ2LtF) | 2:57 |
 | 94 | [Never Again \(Parasite\)](https://open.spotify.com/track/5gXIDQDs0ur8CjPg6BFLoG) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Never Again \(Parasite\)](https://open.spotify.com/album/6JiZnSdiYzpqUBdmHZVnWv) | 3:24 |
-| 95 | [Fallen Angel](https://open.spotify.com/track/21uc6y1U0VojXe4MN1A5YO) | [Lucifer](https://open.spotify.com/artist/4fqjeVEalB6iB3BhKu5HwZ) | [Lucifer V](https://open.spotify.com/album/25AfzUCFletNF8W67nZdWu) | 3:09 |
-| 96 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Bang Ya Head](https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5) | 3:36 |
-| 97 | [Ava of Death](https://open.spotify.com/track/3PGVf5SlJVHgz0zKC12pmq) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Ava of Death](https://open.spotify.com/album/3Sya5RIH8NDaJ3X9rhhXdG) | 4:06 |
-| 98 | [Weeping Willow](https://open.spotify.com/track/3d0l1isydFqQz7TNWx9wtR) | [The Hellfreaks](https://open.spotify.com/artist/2gwo7JN0Ug8xOQZKevs5Pr) | [Pitch Black Sunset](https://open.spotify.com/album/7gnr6a0QR9Cq8HQtENW1MB) | 4:28 |
+| 95 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Bang Ya Head](https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5) | 3:36 |
+| 96 | [Fallen Angel](https://open.spotify.com/track/21uc6y1U0VojXe4MN1A5YO) | [Lucifer](https://open.spotify.com/artist/4fqjeVEalB6iB3BhKu5HwZ) | [Lucifer V](https://open.spotify.com/album/25AfzUCFletNF8W67nZdWu) | 3:09 |
+| 97 | [Weeping Willow](https://open.spotify.com/track/3d0l1isydFqQz7TNWx9wtR) | [The Hellfreaks](https://open.spotify.com/artist/2gwo7JN0Ug8xOQZKevs5Pr) | [Pitch Black Sunset](https://open.spotify.com/album/7gnr6a0QR9Cq8HQtENW1MB) | 4:28 |
+| 98 | [Ava of Death](https://open.spotify.com/track/3PGVf5SlJVHgz0zKC12pmq) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Ava of Death](https://open.spotify.com/album/3Sya5RIH8NDaJ3X9rhhXdG) | 4:06 |
 | 99 | [Breathe You In](https://open.spotify.com/track/680R0ratdk9o2M6nko18GG) | [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Breathe You In](https://open.spotify.com/album/4tEKPkZKnt44d7hRQHLBfc) | 3:40 |
 | 100 | [Cloaked](https://open.spotify.com/track/05mgMVDS9j4Wtci4MVSJWU) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Where Myth Becomes Memory](https://open.spotify.com/album/6feZT48cizyeg8cFVjX8pO) | 3:54 |
 

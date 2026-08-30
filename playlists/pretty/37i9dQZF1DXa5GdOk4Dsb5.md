@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Reforzando la alianza Colombia\-México\. Con Natanael Cano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,129 likes - 81 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,151 likes - 81 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 25 | [Todo Lo Fue](https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 3:12 |
 | 26 | [HOLLYWOOD](https://open.spotify.com/track/5GTBdEjZe7zEDp1N0eCZE4) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 4:44 |
 | 27 | [Voy A Conquistarte](https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:54 |
-| 28 | [Guaro \(Remix\)](https://open.spotify.com/track/5sMHuOIvtsSuFZafTcF19Q) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM), [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX), [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv), [Juan Pablo Navarrete](https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi) | [Guaro \(Remix\)](https://open.spotify.com/album/1YiKQVj2jiaNCmuOjGASsq) | 3:42 |
+| 28 | [Guaro \- Remix](https://open.spotify.com/track/5sMHuOIvtsSuFZafTcF19Q) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM), [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX), [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv), [Juan Pablo Navarrete](https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi) | [Guaro \(Remix\)](https://open.spotify.com/album/1YiKQVj2jiaNCmuOjGASsq) | 3:42 |
 | 29 | [Prisión De Amor](https://open.spotify.com/track/3Lpg4XUPBhscufuiSCNd30) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Herencia De Familia](https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV) | 3:08 |
 | 30 | [Según Quién](https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:22 |
 | 31 | [MLP](https://open.spotify.com/track/4DAMvNqHt0s8zJr6JwOoye) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [MLP](https://open.spotify.com/album/3iYLojQkMaQHojjIiOTlqM) | 2:28 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 80 | [daño](https://open.spotify.com/track/136BeIIoBGrrU9fI1jbcDR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [DINASTÍA](https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a) | 3:17 |
 | 81 | [Pienso En Ti](https://open.spotify.com/track/6ZA4xgOuvzkWc8ow843Q3t) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [No Es de Madera](https://open.spotify.com/album/5hf6WT0Zv9JyQCiZNo6hGv) | 2:37 |
 
-Snapshot ID: `AAAAAC3wjjd1sHEIy3Xy4OlXyv6w1I1R`
+Snapshot ID: `AAAAALgeR1aGqyErCS01/9O8nPqROQWy`

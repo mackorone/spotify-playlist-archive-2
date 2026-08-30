@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38AmhQ.md) - [plain]
 
 > This is John Williamson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,598 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,601 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38AmhQ.md) - [plain]
 | 16 | [Cootamundra Wattle](https://open.spotify.com/track/0gyWlfuZqPzfBdbE5sF3kM) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mallee Boy](https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3) | 3:52 |
 | 17 | [Flower on the Water](https://open.spotify.com/track/5nKQJrsJlVjtZBjQgkXaCj) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Chandelier of Stars](https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi) | 3:13 |
 | 18 | [Three Sons](https://open.spotify.com/track/3MHWH1UtxXtRyVm6m1DkNR) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [The Way It Is](https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx) | 3:33 |
-| 19 | [Diggers of the Anzac \(This Is Gallipoli\)](https://open.spotify.com/track/3la6OrVG3kkgZfnA9zb4nV) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Old Man Emu](https://open.spotify.com/album/39Uimqur7UcRay3BIZbj0b) | 3:42 |
+| 19 | [I Can't Feel Those Chains Any Longer \- Live](https://open.spotify.com/track/6BasQoqS5PIPzbJ5QfCDc9) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [A Hell of a Career](https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn) | 3:32 |
 | 20 | [Galleries of Pink Galahs](https://open.spotify.com/track/6nn65PSai61Mh8eWEC6Yit) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mallee Boy](https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3) | 4:10 |
-| 21 | [I Can't Feel Those Chains Any Longer \- Live](https://open.spotify.com/track/6BasQoqS5PIPzbJ5QfCDc9) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [A Hell of a Career](https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn) | 3:32 |
-| 22 | [This Is Australia Calling](https://open.spotify.com/track/42ZwdT2pu6qZUkEZReNsDW) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Anthems \- A Celebration of Australia](https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy) | 3:31 |
+| 21 | [This Is Australia Calling](https://open.spotify.com/track/42ZwdT2pu6qZUkEZReNsDW) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Anthems \- A Celebration of Australia](https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy) | 3:31 |
+| 22 | [Diggers of the Anzac \(This Is Gallipoli\)](https://open.spotify.com/track/3la6OrVG3kkgZfnA9zb4nV) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Old Man Emu](https://open.spotify.com/album/39Uimqur7UcRay3BIZbj0b) | 3:42 |
 | 23 | [The Shed](https://open.spotify.com/track/6HDThdBIQptMjGvt37SMpI) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Road Thru The Heart](https://open.spotify.com/album/51f2xjO7nDkp1jDevmXH0i) | 2:39 |
 | 24 | [Three Rivers Hotel](https://open.spotify.com/track/2AW8dwJEdOfumSVNwxfeIg) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mallee Boy](https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3) | 3:09 |
 | 25 | [I Was Only 19 \- Live](https://open.spotify.com/track/2ccxbWZGAWXk7SHduGYELK) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Looking for a Story](https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg) | 5:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38AmhQ.md) - [plain]
 | 49 | [The Vasectomy Song](https://open.spotify.com/track/1BELARDQLHoVfA0GuedJZn) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Old Farts in Caravan Parks](https://open.spotify.com/album/2rUqoqGrm1mDXeLbSgIBTu) | 3:54 |
 | 50 | [Beautiful Words \(Come From You\)](https://open.spotify.com/track/1JfTPxJEv6mF8t8e3qmRm9) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [How Many Songs](https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI) | 2:45 |
 
-Snapshot ID: `ao9+AAAAAAAV062oDrKkDTGDngDfQ04U`
+Snapshot ID: `apDPgAAAAAArlOoSBV6Gg8dRnz1OWhPB`

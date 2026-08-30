@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 
 > songs that make you feel like you're levitating
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,574,880 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,574,936 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 | 11 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 12 | [Skyfall](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Skyfall](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) | 4:46 |
 | 13 | [But, I loved](https://open.spotify.com/track/2yopReiRBsaWcuCW4Ge5QZ) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [But, I loved](https://open.spotify.com/album/3TL74molXWcYuTcR2XOl1m) | 3:37 |
-| 14 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 |
-| 15 | [New Person, Same Old Mistakes](https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 6:03 |
+| 14 | [New Person, Same Old Mistakes](https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 6:03 |
+| 15 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 |
 | 16 | [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 |
 | 17 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 |
 | 18 | [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 | 50 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 |
 | 51 | [Open Arms \(feat\. Travis Scott\)](https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:59 |
 | 52 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 |
-| 53 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 |
-| 54 | [Steeeam](https://open.spotify.com/track/09RamrocZneYcLYLRIxYha) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:50 |
+| 53 | [Steeeam](https://open.spotify.com/track/09RamrocZneYcLYLRIxYha) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:50 |
+| 54 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 |
 | 55 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 |
 | 56 | [Genesis](https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:15 |
 | 57 | [Double Fantasy \(with Future\)](https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm) | 4:28 |

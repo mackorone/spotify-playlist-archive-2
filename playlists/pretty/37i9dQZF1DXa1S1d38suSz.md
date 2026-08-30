@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1S1d38suSz.md) - [plain]
 
 > Tú, nosotros y esta lista de canciones\. Foto: KAROL G, Marco Antonio Solís
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,418 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,559 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

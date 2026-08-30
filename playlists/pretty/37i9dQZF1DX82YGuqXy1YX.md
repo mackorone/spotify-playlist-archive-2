@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82YGuqXy1YX.md) - [plain]
 
 > All the artists playing at FORM Arcosanti 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262 likes - 37 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 268 likes - 37 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82YGuqXy1YX.md) - [plain]
 | 22 | [Flames shards goo](https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 3:48 |
 | 23 | [Hypersoft Lovejinx Junkdream](https://open.spotify.com/track/1C9fCrGgtkkqS8UsB8KwA4) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Friend](https://open.spotify.com/album/1TwmkxFywYn6qn4PFTejOe) | 4:03 |
 | 24 | [Eden](https://open.spotify.com/track/3QIcezZQJD2Vkb0SkhnQyp) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Written into Changes](https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU) | 4:07 |
-| 25 | [Confession](https://open.spotify.com/track/6mOZSB8gmObud9MwsOte3e) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi) | 4:32 |
-| 26 | [Circlesz](https://open.spotify.com/track/0TWqzeAGWe1utMzN7MIJPb) | [GENA](https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [The Pleasure Is Yours](https://open.spotify.com/album/2PW3hhgsQRGgJbPIhHCYrS) | 2:21 |
+| 25 | [Circlesz](https://open.spotify.com/track/0TWqzeAGWe1utMzN7MIJPb) | [GENA](https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [The Pleasure Is Yours](https://open.spotify.com/album/2PW3hhgsQRGgJbPIhHCYrS) | 2:21 |
+| 26 | [Confession](https://open.spotify.com/track/6mOZSB8gmObud9MwsOte3e) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi) | 4:32 |
 | 27 | [Max Potential](https://open.spotify.com/track/3wCTxgp40YtdPAWWaqPVKI) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [The Passionate Ones](https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS) | 3:52 |
 | 28 | [Stillness Blues](https://open.spotify.com/track/2gciAqLCO3sPUWF6WDIR2F) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [Magazine](https://open.spotify.com/album/5nT9mBH0yosh5yRuCqpKW3) | 1:18 |
 | 29 | [Wind](https://open.spotify.com/track/7FhHFW6ghJbgLFYK7YpHaJ) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [My Garden](https://open.spotify.com/album/3uKTwMTQGmTTxBSXqOQzIm) | 5:27 |

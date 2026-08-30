@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > music to get fly to ft\. Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,042 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,023 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 13 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 |
 | 14 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 |
 | 15 | [Not My Problem](https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Not My Problem \(Flyer Than U\)](https://open.spotify.com/album/6G6eCUDFNO5A8rgWrxKddR) | 2:39 |
-| 16 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
-| 17 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
+| 16 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
+| 17 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
 | 18 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 |
 | 19 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 |
 | 20 | [Timeless \(feat\. Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 67 | [Crystalfilm](https://open.spotify.com/track/5bBrbeCtAntjU0SOUXnIC8) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 4:49 |
 | 68 | [11:30](https://open.spotify.com/track/4wMdqBMvVKpNPpRFiBRiXO) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:01 |
 | 69 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 |
-| 70 | [60 Seconds](https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 0:58 |
-| 71 | [In My Head](https://open.spotify.com/track/5a5q1sFcpMoPRk5fRGWq2W) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Far Away](https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn) | 1:44 |
+| 70 | [In My Head](https://open.spotify.com/track/5a5q1sFcpMoPRk5fRGWq2W) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Far Away](https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn) | 1:44 |
+| 71 | [60 Seconds](https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 0:58 |
 | 72 | [Dance With The Devil](https://open.spotify.com/track/45wa8hJ0kmnoFHe3Q2b7wD) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Dance With The Devil](https://open.spotify.com/album/5G78ENtLhRyWmGjXL2CGTo) | 3:30 |
 | 73 | [Protect My Energy](https://open.spotify.com/track/64DqILfBnCXzhEDGUHZet1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:08 |
 | 74 | [Be With U \(feat\. DETO BLACK\)](https://open.spotify.com/track/3AzfXSz7wBlTCHovkU8uCk) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Sexy](https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq) | 3:09 |

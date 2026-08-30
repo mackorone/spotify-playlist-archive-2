@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABegMjuZh5cqcsUeJKCLA5o",
+  "snapshot_id": "apDPgAAAAACYsYYycUVQQ1AtSAOJ4TQm",
   "tracks": [
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loco Malandro",
+        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 110682,
+      "name": "Los 3 Del NM",
+      "url": "https://open.spotify.com/track/3zufohszplV5IN3S7j6bTI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "48th Piso",
         "url": "https://open.spotify.com/album/2BCVLLW454geMDr78qVkHj"
       },
@@ -611,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Almanza Friesians Ranch, Vol. 1",
-        "url": "https://open.spotify.com/album/7d0oBxthOSCSsLWjnUHzLf"
+        "name": "Lujos De La Vida",
+        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
       },
       "artists": [
         {
@@ -620,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 173354,
-      "name": "El De La Codeina",
-      "url": "https://open.spotify.com/track/6vJ7oKNUELxzWx2tZHCgNe"
+      "duration_ms": 171000,
+      "name": "Carta A Mi Familia",
+      "url": "https://open.spotify.com/track/0Gz93UNrTFYWpGDziBHGMJ"
     },
     {
       "added_at": null,
@@ -647,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lujos De La Vida",
-        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 172554,
-      "name": "El Sobrino",
-      "url": "https://open.spotify.com/track/3I6BLpbHPGMp4bHr39Kezz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Classroom Love",
         "url": "https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o"
       },
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco Malandro",
-        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
+        "name": "En Vivo Desde Almanza Friesians Ranch, Vol. 1",
+        "url": "https://open.spotify.com/album/7d0oBxthOSCSsLWjnUHzLf"
       },
       "artists": [
         {
@@ -688,9 +688,25 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 110682,
-      "name": "Los 3 Del NM",
-      "url": "https://open.spotify.com/track/3zufohszplV5IN3S7j6bTI"
+      "duration_ms": 173354,
+      "name": "El De La Codeina",
+      "url": "https://open.spotify.com/track/6vJ7oKNUELxzWx2tZHCgNe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lujos De La Vida",
+        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 172554,
+      "name": "El Sobrino",
+      "url": "https://open.spotify.com/track/3I6BLpbHPGMp4bHr39Kezz"
     },
     {
       "added_at": null,
@@ -707,22 +723,6 @@
       "duration_ms": 216448,
       "name": "Mundo Desgraciado",
       "url": "https://open.spotify.com/track/3hiximGfpxNy8fgsbWm4hm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lujos De La Vida",
-        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Carta A Mi Familia",
-      "url": "https://open.spotify.com/track/0Gz93UNrTFYWpGDziBHGMJ"
     },
     {
       "added_at": null,

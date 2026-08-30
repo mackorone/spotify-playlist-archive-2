@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,593 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,594 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 19 | [Te Quería \- Chancha Vía Circuito Remix](https://open.spotify.com/track/4GN265cGlXdMk8dJIsYtMe) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Te Quería \(Chancha Vía Circuito Remix\)](https://open.spotify.com/album/3d37Om0o9bnqgsng08wJML) | 4:05 |
 | 20 | [Muchas Estrellas](https://open.spotify.com/track/6tSdo6xgGwQjWMBJYn9kat) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Brawlio](https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK) | [Muchas Estrellas](https://open.spotify.com/album/1JtE86fRCzw0UCIKpNCzm9) | 4:31 |
 | 21 | [Serenata Plateada](https://open.spotify.com/track/1lQJm0qUacjrCeSNlsInL2) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [New Latam Beats From Argentina \(Disco A\)](https://open.spotify.com/album/0xl8eIaxb1yPsyMPNSaS86) | 5:25 |
-| 22 | [La Línea Del Rio \- Remix](https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY), [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH) | [La Línea Del Rio \(Remix\)](https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN) | 9:06 |
+| 22 | [Baile De Máscaras](https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ) | [El Extravagante](https://open.spotify.com/artist/0b2zfVa4duZMphcIAK4EA5), [Camilo Zanetti](https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l) | [Walüng II](https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY) | 4:04 |
 | 23 | [Cañaveral](https://open.spotify.com/track/59SisvjSeXXmlO39EKze2d) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cañaveral](https://open.spotify.com/album/2x4XQ6Fj0DUh66uiT1vYTB) | 2:58 |
-| 24 | [Baile De Máscaras](https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ) | [El Extravagante](https://open.spotify.com/artist/0b2zfVa4duZMphcIAK4EA5), [Camilo Zanetti](https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l) | [Walüng II](https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY) | 4:04 |
+| 24 | [La Línea Del Rio \- Remix](https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY), [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH) | [La Línea Del Rio \(Remix\)](https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN) | 9:06 |
 | 25 | [Cuchi Leguizamón yo te amo para siempre](https://open.spotify.com/track/7cr9lcMgO93UQ93BUeIsVh) | [San Ignacio](https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr), [Xanducero](https://open.spotify.com/artist/3P4H2P2LQKEf3IFvk6BSVW), [Silvio Astier](https://open.spotify.com/artist/7EUorvzcNTKxqyEu5Gm8TW), [Remiseria Temperley](https://open.spotify.com/artist/7tfHRoS5y3i6f3yzRyDvQo) | [Sencilla es mi canoa como mis afectos](https://open.spotify.com/album/5DmxBW7dFKNOSPdj5p7uXO) | 6:23 |
 | 26 | [Madre de la Sierra](https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2) | [Poranguí](https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG) | [Madre de la Sierra](https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk) | 4:35 |
 | 27 | [Tac Tac Tac \- Joaquín Cornejo Remix](https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p), [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx) | [Espuma de Mar \~ remixes](https://open.spotify.com/album/2EUVw7Ft8Fnbku8lRwiwv0) | 3:44 |

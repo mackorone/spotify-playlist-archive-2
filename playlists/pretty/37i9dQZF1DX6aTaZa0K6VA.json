@@ -1,6 +1,6 @@
 {
   "description": "Super mega hits!  Foto: Alex Warren",
-  "num_followers": 6555518,
+  "num_followers": 6554663,
   "original_name": "Pop Up",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-08-28 06:00:11",
       "album": {
-        "name": "the cure",
-        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 297090,
-      "name": "the cure",
-      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
-    },
-    {
-      "added_at": "2026-08-28 06:00:11",
-      "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 197142,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2026-08-28 06:00:11",
+      "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
     },
     {
       "added_at": "2026-08-28 06:00:11",
@@ -751,22 +751,18 @@
     {
       "added_at": "2026-08-28 06:00:11",
       "album": {
-        "name": "Just Keep Watching (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
       },
       "artists": [
         {
           "name": "Tate McRae",
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
         }
       ],
-      "duration_ms": 142550,
-      "name": "Just Keep Watching (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
       "added_at": "2026-08-28 06:00:11",
@@ -839,18 +835,22 @@
     {
       "added_at": "2026-08-28 06:00:11",
       "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+        "name": "Just Keep Watching (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
       },
       "artists": [
         {
           "name": "Tate McRae",
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
         }
       ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+      "duration_ms": 142550,
+      "name": "Just Keep Watching (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
       "added_at": "2026-08-28 06:00:11",
@@ -1675,8 +1675,8 @@
     {
       "added_at": "2026-08-28 06:00:11",
       "album": {
-        "name": "When He\u2019s Gone",
-        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
+        "name": "Hazel Eyes",
+        "url": "https://open.spotify.com/album/2XTj67uPs9qtSwn9vl33rh"
       },
       "artists": [
         {
@@ -1684,9 +1684,9 @@
           "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 186360,
-      "name": "When He\u2019s Gone",
-      "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
+      "duration_ms": 291530,
+      "name": "Constant Companion",
+      "url": "https://open.spotify.com/track/0ggQNb6DOsWhG89CWkjYHd"
     },
     {
       "added_at": "2026-08-28 06:00:11",
@@ -1703,22 +1703,6 @@
       "duration_ms": 156582,
       "name": "Sorry I'm Here For Someone Else",
       "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
-    },
-    {
-      "added_at": "2026-08-28 06:00:11",
-      "album": {
-        "name": "SS26",
-        "url": "https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "SS26",
-      "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH"
     },
     {
       "added_at": "2026-08-28 06:00:11",
@@ -1743,6 +1727,22 @@
       "duration_ms": 231174,
       "name": "Born Again (feat. Doja Cat & RAYE)",
       "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
+    },
+    {
+      "added_at": "2026-08-28 06:00:11",
+      "album": {
+        "name": "SS26",
+        "url": "https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "SS26",
+      "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH"
     }
   ],
   "unique_name": "Pop Up",

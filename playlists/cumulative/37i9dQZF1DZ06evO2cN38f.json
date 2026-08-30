@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Through The Wall",
+        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207253,
+      "name": "Crave",
+      "url": "https://open.spotify.com/track/7oYiep2CEMcE5NvkwjAzuP"
+    },
+    {
+      "album": {
         "name": "Play With The Changes",
         "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
       },
@@ -454,10 +472,32 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 240099,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/2lmBzqE0LWxlzfazwJxggj"
+    },
+    {
+      "album": {
+        "name": "Never Enough (Chad Hugo Remix)",
+        "url": "https://open.spotify.com/album/2hMJtwvV3pu6ciDuzLUgPz"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "Chad Hugo",
+          "url": "https://open.spotify.com/artist/6HObKCGcJkXr84jyo0ZzPp"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179995,
+      "name": "Never Enough - Chad Hugo Remix",
+      "url": "https://open.spotify.com/track/3Mg7BwwtjTwS5ScqZ98Tcb"
     },
     {
       "album": {

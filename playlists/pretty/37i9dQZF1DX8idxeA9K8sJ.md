@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 
 > Recuerda los éxitos ochenteros que sonaron en la radio mexicana\. Flans en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,088,823 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,088,946 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 30 | [Con Todos Menos Conmigo](https://open.spotify.com/track/4d7N2lqEJMbQwVy1LCqhXv) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:04 |
 | 31 | [El Hombre Que Yo Amo](https://open.spotify.com/track/2yIUUOe7UVhvxQmaLVqRKr) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Myriam Hernandez](https://open.spotify.com/album/2ev6My86W8Ri5qXygB645A) | 3:36 |
 | 32 | [De Mi Enamórate](https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Mujer De Todos Mujer De Nadie](https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK) | 3:30 |
-| 33 | [La Muralla Verde](https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 2:41 |
-| 34 | [Simplemente Amigos](https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi) | 3:47 |
-| 35 | [Eres](https://open.spotify.com/track/08fbpynRAv6hPqqPZISRsa) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Sin Tu Amor](https://open.spotify.com/album/6f9QuizfwLCv9SvU8DtsO4) | 3:15 |
+| 33 | [Eres](https://open.spotify.com/track/08fbpynRAv6hPqqPZISRsa) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Sin Tu Amor](https://open.spotify.com/album/6f9QuizfwLCv9SvU8DtsO4) | 3:15 |
+| 34 | [La Muralla Verde](https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 2:41 |
+| 35 | [Simplemente Amigos](https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi) | 3:47 |
 | 36 | [Volcán](https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Volcan](https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry) | 4:45 |
 | 37 | [Amante Bandido](https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bandido](https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di) | 4:21 |
 | 38 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [La Historia De Magneto](https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu) | 4:25 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 59 | [Amor, Amor](https://open.spotify.com/track/3mPsvF84MBbrwj0YEhODQq) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Amor Amor](https://open.spotify.com/album/6ULY5Bnnyu0VbMZY1i6TyJ) | 4:29 |
 | 60 | [Toda la Vida](https://open.spotify.com/track/6X8J99PRgZx5m2xVe6Ou7c) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Desnudo Emmanuel](https://open.spotify.com/album/2iCrYYzvzCQYt7IOBq9eyG) | 4:49 |
 | 61 | [Besos De Ceniza](https://open.spotify.com/track/55DQStH29qHXa29EgJa7fb) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 2:56 |
-| 62 | [Sueños Compartidos](https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [El Angel Del Rock Vol\. 2](https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x) | 4:14 |
-| 63 | [No Me Vuelvo a Enamorar](https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:19 |
+| 62 | [No Me Vuelvo a Enamorar](https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:19 |
+| 63 | [Sueños Compartidos](https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [El Angel Del Rock Vol\. 2](https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x) | 4:14 |
 | 64 | [Si no te tengo a ti](https://open.spotify.com/track/6IeJcGYibtUKl9QnAupnYi) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 4:46 |
 | 65 | [La Chica De Humo \- MTV Unplugged](https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [MTV Unplugged: Con El Alma Desnuda](https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J) | 4:58 |
 | 66 | [No Voy en Tren](https://open.spotify.com/track/0rliTXrA8nLBuJcxDuueWU) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Parte De La Religion](https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9) | 3:01 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 91 | [Yo No Me Llamo Javier](https://open.spotify.com/track/4bus2q9CQeh0c4qboNWJTz) | [Los Toreros Muertos](https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI) | [30 Años de Éxitos](https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo) | 4:23 |
 | 92 | [Toda La Vida \- MTV Unplugged](https://open.spotify.com/track/3ldtYU2YTeuwWYkMFicLxW) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [MTV Unplugged: Con El Alma Desnuda](https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J) | 4:41 |
 | 93 | [Eres](https://open.spotify.com/track/3KOqFaJbPoJohjoV29TjtB) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p), [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [Vive](https://open.spotify.com/album/0eUyiqzZ7Tlu9G68IFP32G) | 3:21 |
-| 94 | [Con sólo una mirada](https://open.spotify.com/track/0POxwfqUM5qR8TC6apYYEf) | [Ole Ole](https://open.spotify.com/artist/7qHvHD5y98by1dMKGHT1kY) | [1990](https://open.spotify.com/album/1k9M8zReIeDD7nTHQ6ULx7) | 4:09 |
-| 95 | [Enamorandonos \(Just Like Starting Over\)](https://open.spotify.com/track/1hbk34GiyNamnyGtKLe44U) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [La Más Completa Colección \(CD2\)](https://open.spotify.com/album/33Ng6NDvjCn5FfWN14Z3F5) | 4:02 |
+| 94 | [Enamorandonos \(Just Like Starting Over\)](https://open.spotify.com/track/1hbk34GiyNamnyGtKLe44U) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [La Más Completa Colección \(CD2\)](https://open.spotify.com/album/33Ng6NDvjCn5FfWN14Z3F5) | 4:02 |
+| 95 | [Con sólo una mirada](https://open.spotify.com/track/0POxwfqUM5qR8TC6apYYEf) | [Ole Ole](https://open.spotify.com/artist/7qHvHD5y98by1dMKGHT1kY) | [1990](https://open.spotify.com/album/1k9M8zReIeDD7nTHQ6ULx7) | 4:09 |
 | 96 | [Quién piensa en ti \- 2015 Remastered Version](https://open.spotify.com/track/5dzhWgvobFV8CrKkUuz0RR) | [Gonzalo](https://open.spotify.com/artist/0FsYddqHUXQ0DvMWJL3ci0) | [Sus dos LP's en Hispavox \(2015 Remastered\)](https://open.spotify.com/album/6XBLf1YGU6qWRJySAtCQBP) | 3:31 |
 | 97 | [Abrázame](https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [Rocio Banquells](https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz) | 4:11 |
 | 98 | [Fiesta En América](https://open.spotify.com/track/5x6K9Bz1StBFAWTNMRAwmn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/5aabwyD2EqwA17390Og3Ff) | 3:44 |

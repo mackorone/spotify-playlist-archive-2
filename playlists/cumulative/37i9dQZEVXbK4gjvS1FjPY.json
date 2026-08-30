@@ -768,7 +768,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 326490,
       "name": "About You",
       "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg"
@@ -2700,10 +2700,28 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 156034,
       "name": "BAD",
       "url": "https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3"
+    },
+    {
+      "album": {
+        "name": "GOLDEN HOUR : Part.5",
+        "url": "https://open.spotify.com/album/3QU53E1zqpvOyIidg5PcZp"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156034,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/7xIX566RcjiBHRBrFzFEh3"
     },
     {
       "album": {
@@ -3870,6 +3888,24 @@
     {
       "album": {
         "name": "BiiiG",
+        "url": "https://open.spotify.com/album/0mGLpKNB8tHBD6xcBBNIg4"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164208,
+      "name": "BiiiG",
+      "url": "https://open.spotify.com/track/0VC5xxxnR60IMlKQpQN33R"
+    },
+    {
+      "album": {
+        "name": "BiiiG",
         "url": "https://open.spotify.com/album/0TAVFAYcXBx6wMmUQYCWfq"
       },
       "artists": [
@@ -3880,7 +3916,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 164208,
       "name": "BiiiG",
       "url": "https://open.spotify.com/track/4pZi0VxU2C8zuxCYfEtFuL"
@@ -10393,6 +10429,24 @@
     },
     {
       "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199166,
+      "name": "FALLEN ANGEL",
+      "url": "https://open.spotify.com/track/75QkBCdRc5DGgcyPiVSg4b"
+    },
+    {
+      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt"
       },
@@ -13404,6 +13458,24 @@
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
+    },
+    {
+      "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186720,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO"
     },
     {
       "album": {
@@ -24218,7 +24290,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 231173,
       "name": "Payphone",
       "url": "https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A"
@@ -24240,7 +24312,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 231386,
       "name": "Payphone",
       "url": "https://open.spotify.com/track/4P0osvTXoSYZZC2n8IFH3c"
@@ -27490,7 +27562,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"

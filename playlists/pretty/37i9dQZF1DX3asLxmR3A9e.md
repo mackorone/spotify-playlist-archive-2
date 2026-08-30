@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 
 > The Indie highlights of 2014\. Cover: BANKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,230 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,283 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 44 | [My Silver Lining](https://open.spotify.com/track/6tCLQ3LO1V9l6qdrrwdV6q) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/3fVthsmWSbJpGp7gjxf5xI) | 3:35 |
 | 45 | [Chocolate](https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:44 |
 | 46 | [Fever](https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 4:06 |
-| 47 | [Happy Idiot](https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Seeds](https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX) | 3:03 |
-| 48 | [Gold](https://open.spotify.com/track/1Ll09EiN5ffeFl1xNZB2Uk) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK) | 4:45 |
+| 47 | [Gold](https://open.spotify.com/track/1Ll09EiN5ffeFl1xNZB2Uk) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK) | 4:45 |
+| 48 | [Happy Idiot](https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Seeds](https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX) | 3:03 |
 | 49 | [I Wanna Get Better](https://open.spotify.com/track/1BwhFXqoIsePt21WyWIttb) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 3:24 |
 | 50 | [Toes](https://open.spotify.com/track/754wVXWrtf1X3ZHQOFFsnR) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:14 |
 | 51 | [Weight of Love](https://open.spotify.com/track/3xMQOd1C3TXsjQ3pmzOmkC) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 6:50 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 65 | [I Forget Where We Were](https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 4:41 |
 | 66 | [Warned You](https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Shawcross](https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs) | 2:16 |
 | 67 | [Tiger Striped Sky](https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ) | 4:01 |
-| 68 | [Work This Body](https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 2:57 |
-| 69 | [Lazaretto](https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lazaretto](https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6) | 3:39 |
+| 68 | [Lazaretto](https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lazaretto](https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6) | 3:39 |
+| 69 | [Work This Body](https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 2:57 |
 | 70 | [Pools](https://open.spotify.com/track/7jO2B8Xgfu7D9vj60XiG7Y) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:48 |
 | 71 | [In Dreams](https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 3:33 |
 | 72 | [Green Mountain State](https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Chapter Of The Forest](https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP) | 4:34 |

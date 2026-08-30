@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-777 songs - 2 day 0 hr 37 min
+778 songs - 2 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,7 @@
 | [Lampu Merah](https://open.spotify.com/track/6E7DsxwI4eOcMHLYRUDCaw) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Pilot](https://open.spotify.com/album/2Ykep6jay9dIiAB9eJq7vo) | 4:58 | 2024-01-31 | 2024-02-14 |
 | [Lampu Merah](https://open.spotify.com/track/7uwo3VQxUlRtKudAjluuTr) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Pilot](https://open.spotify.com/album/2fm5dfglCcyJ4yVxjIP0qU) | 4:58 | 2023-11-27 | 2024-02-01 |
 | [Langit Abu\-Abu](https://open.spotify.com/track/2FaquTc3FYvNm7RuO1gD6O) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:22 | 2022-03-11 | 2023-02-20 |
-| [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 | 2021-03-27\* | 2026-08-28 |
+| [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 | 2021-03-27\* |  |
 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2022-10-22 | 2022-10-24 |
 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 | 2021-03-27\* | 2021-09-19 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-25 | 2022-10-09 |
@@ -459,7 +459,8 @@
 | [Nala](https://open.spotify.com/track/3AdEZRmsa3zviTr2Whx3zI) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:20 | 2022-03-07 | 2022-03-17 |
 | [Nanti Kita Seperti Ini](https://open.spotify.com/track/1wZ8V8SMpmfUIkgpHJWEtv) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Nanti Kita Seperti Ini](https://open.spotify.com/album/2TjXliFxw66ENz3sopHxsA) | 3:29 | 2023-12-02 | 2023-12-09 |
 | [Nanti Kita Seperti Ini](https://open.spotify.com/track/2NjbJR8y083mOV59255QSe) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Nanti Kita Seperti Ini](https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT) | 3:29 | 2023-06-28 | 2024-05-17 |
-| [Nanti Kita Seperti Ini](https://open.spotify.com/track/3y8RcMPYG22fRnrOi4oFJ1) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Nanti Kita Seperti Ini](https://open.spotify.com/album/4dyBsn9yy3PXeBgIEUvZI5) | 3:29 | 2024-10-02 |  |
+| [Nanti Kita Seperti Ini](https://open.spotify.com/track/3y8RcMPYG22fRnrOi4oFJ1) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Nanti Kita Seperti Ini](https://open.spotify.com/album/4dyBsn9yy3PXeBgIEUvZI5) | 3:29 | 2024-10-02 | 2026-08-30 |
+| [Nanti Kita Seperti Ini](https://open.spotify.com/track/6N3O7WIEHSHssbw5HVh5nx) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Hati dan Perasaan](https://open.spotify.com/album/0DrZHy9hdQBge6NPOgDqtk) | 3:29 | 2026-08-29 |  |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-07-26 | 2021-11-21 |
 | [Nemen \- Hiphop Dangdut Version](https://open.spotify.com/track/3Q6DjwdB1gfLJMq1xkGov9) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen \(Hiphop Dangdut Version\)](https://open.spotify.com/album/11lUbzZyDxoBy4yJYASpQy) | 4:34 | 2023-12-02 | 2024-09-08 |
 | [Nemen \- Hiphop Dangdut Version](https://open.spotify.com/track/6UoW3rtYmYB6DE5xzNors8) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen \(Hiphop Dangdut Version\)](https://open.spotify.com/album/7MpDfyRq8fXGiIQi2ownvc) | 4:34 | 2023-09-07 | 2023-12-03 |
@@ -526,7 +527,7 @@
 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-08-18 | 2021-09-05 |
 | [Rabun Jauh](https://open.spotify.com/track/670sqeIKIxTu0DweRjnjKt) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Rabun Jauh](https://open.spotify.com/album/0gD4VL7vdxZfeUkRfTpLRM) | 2:55 | 2026-05-01 | 2026-05-03 |
 | [Rahasia Hati](https://open.spotify.com/track/1X80KdFJpedU4as4WGIgYM) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Paradoks](https://open.spotify.com/album/1qJp3Va3JzFE3FPVClJDQc) | 3:11 | 2023-09-17 | 2024-12-25 |
-| [Rahasia Hati](https://open.spotify.com/track/6zrnrcry6OHVFo3EDt6PYa) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [King of Soundtrack](https://open.spotify.com/album/2nFXZYwcFX49uehczLGoFM) | 4:10 | 2024-09-29 |  |
+| [Rahasia Hati](https://open.spotify.com/track/6zrnrcry6OHVFo3EDt6PYa) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [King of Soundtrack](https://open.spotify.com/album/2nFXZYwcFX49uehczLGoFM) | 4:10 | 2024-09-29 | 2026-08-30 |
 | [Rahasia Hati \- Remastered 2023](https://open.spotify.com/track/2ZzsUu74KQFwnkBIOryp0d) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Perjalanan 1999 \- 2003 \(Remastered 2023\)](https://open.spotify.com/album/4QCGE9az4wKzhytBcgoZbm) | 3:10 | 2024-12-24 | 2024-12-26 |
 | [Rahmatun Lil’Alameen](https://open.spotify.com/track/4gcQ4sBOIX8s510XrNZQUA) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Rahmatun Lil’Alameen](https://open.spotify.com/album/0XDt4wF7I0dpj6ii47DQoF) | 3:50 | 2023-02-27 | 2023-05-10 |
 | [Rainbow](https://open.spotify.com/track/2TyDgN8q5NgOuiR8yYyBYj) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:51 | 2021-05-12 | 2021-05-17 |

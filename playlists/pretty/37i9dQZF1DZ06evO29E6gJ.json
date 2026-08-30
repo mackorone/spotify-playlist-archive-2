@@ -1,12 +1,12 @@
 {
   "description": "This is Los Alegres De Teran. The essential tracks, all in one playlist.",
-  "num_followers": 13206,
+  "num_followers": 13207,
   "original_name": "This Is Los Alegres De Teran",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAACkXcj/E0wslpjPHvsJ99SS",
+  "snapshot_id": "apDPgAAAAAAV2hwQe/08Cnbc2jPImJP9",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Alegres De Ter\u00e1n",
-        "url": "https://open.spotify.com/album/6sOGprinuy8hdIHdEf4wAZ"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 176574,
-      "name": "Tomando Licor",
-      "url": "https://open.spotify.com/track/3JJDTrzSLZTPxd3EfiLOIS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Exitos de Los Alegres de Ter\u00e1n, vol. 1",
         "url": "https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 116000,
       "name": "Desilusi\u00f3n",
       "url": "https://open.spotify.com/track/4NEZkAs4jxwUSdyXfn6Q8w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Alegres De Ter\u00e1n",
+        "url": "https://open.spotify.com/album/6sOGprinuy8hdIHdEf4wAZ"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 176574,
+      "name": "Tomando Licor",
+      "url": "https://open.spotify.com/track/3JJDTrzSLZTPxd3EfiLOIS"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Relampagos Del Norte En Vivo (Live)",
-        "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Alma Rendida",
-      "url": "https://open.spotify.com/track/6OjIo12chRbuy3VM5LMnZ7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LA TRAICIONERA (Remastered)",
         "url": "https://open.spotify.com/album/116YnDmd7Vevo95B70AUdq"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 120306,
       "name": "Margarita",
       "url": "https://open.spotify.com/track/3AHRnIxggLXyUdw5Wi5DtH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Relampagos Del Norte En Vivo (Live)",
+        "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Alma Rendida",
+      "url": "https://open.spotify.com/track/6OjIo12chRbuy3VM5LMnZ7"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frente a Frente Los Alegres de Ter\u00e1n vs Los Invasores de Nuevo Le\u00f3n",
-        "url": "https://open.spotify.com/album/4Vnb9izUKk4ee79qfydeyf"
+        "name": "Fogata Norte\u00f1a",
+        "url": "https://open.spotify.com/album/779btSeHZhLy2Bam2WAHAj"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 168640,
-      "name": "Por El Amor A Mi Madre",
-      "url": "https://open.spotify.com/track/2mZDnPwVfV3nQ7LhplzMsd"
+      "duration_ms": 174640,
+      "name": "Ya Supe Lupe",
+      "url": "https://open.spotify.com/track/7jukbOcwfMWVni2PfoTN9I"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fogata Norte\u00f1a",
-        "url": "https://open.spotify.com/album/779btSeHZhLy2Bam2WAHAj"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Ya Supe Lupe",
-      "url": "https://open.spotify.com/track/7jukbOcwfMWVni2PfoTN9I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Rosalito",
         "url": "https://open.spotify.com/album/2k8xoNgEwu8xMeZ6FaC9FZ"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 146106,
       "name": "Cuatro Milpas",
       "url": "https://open.spotify.com/track/4dvpL6KEvqwcibf5Sm7TqU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frente a Frente Los Alegres de Ter\u00e1n vs Los Invasores de Nuevo Le\u00f3n",
+        "url": "https://open.spotify.com/album/4Vnb9izUKk4ee79qfydeyf"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "Por El Amor A Mi Madre",
+      "url": "https://open.spotify.com/track/2mZDnPwVfV3nQ7LhplzMsd"
     },
     {
       "added_at": null,

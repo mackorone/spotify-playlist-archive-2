@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,567 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,624 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 84 | [](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 0:00 |
 | 85 | [Eon Lens](https://open.spotify.com/track/15qiprD5zSvHE0JF8duU3J) | [Next To Blue](https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco) | [Eon Lens](https://open.spotify.com/album/12ya6nZTDp02vO0W8uCwL6) | 5:43 |
 | 86 | [Affection](https://open.spotify.com/track/6FLFW2V2ne8lJ3c6HFQ1cm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Affection](https://open.spotify.com/album/0oDifJioDcsvb3rt03OPPp) | 3:40 |
-| 87 | [Vital Loop](https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Vital Loop](https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3) | 3:56 |
-| 88 | [how2feel](https://open.spotify.com/track/0jMHvOP80LTKOQ8HMxE3yf) | [how2fly](https://open.spotify.com/artist/6pFQJsHFGonpyeIbXOYwkE) | [how2feel](https://open.spotify.com/album/6i9uwLdKpZTxrC65hJZArc) | 2:52 |
+| 87 | [how2feel](https://open.spotify.com/track/0jMHvOP80LTKOQ8HMxE3yf) | [how2fly](https://open.spotify.com/artist/6pFQJsHFGonpyeIbXOYwkE) | [how2feel](https://open.spotify.com/album/6i9uwLdKpZTxrC65hJZArc) | 2:52 |
+| 88 | [Vital Loop](https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Vital Loop](https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3) | 3:56 |
 | 89 | [Pantalini](https://open.spotify.com/track/6WDzcqc4VIgMggSMFBnWVt) | [Machweo](https://open.spotify.com/artist/5Mr3g9Iu3I1jnGYi2ATlH3) | [Musica da Festa](https://open.spotify.com/album/1k6Fms9OmPKI3jh4ylxPmC) | 3:59 |
 | 90 | [Implosion\-Explosion](https://open.spotify.com/track/5teWqTjZx7kMto0UUKGCZK) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [The Tunnel and the Clearing](https://open.spotify.com/album/0D9pj1z6nbPPfJipQGeMfo) | 5:33 |
 | 91 | [Aquarium](https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Views/Octopus EP](https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU) | 3:04 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 95 | [Saw You for the First Time](https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 6:44 |
 | 96 | [Sugar for the Pill](https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6) | 4:30 |
 | 97 | [Honey](https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb) | 4:22 |
-| 98 | [Time Moves Slow](https://open.spotify.com/track/5XK1xClRUXSwCUu4I0E1RV) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Sam Herring](https://open.spotify.com/artist/4sfhX4TAhZ7KlbMnYAROQS) | [IV](https://open.spotify.com/album/1KgiVPDV0v0pn1MslihNHB) | 4:33 |
-| 99 | [Way Ur Touchin Me](https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Save Me](https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk) | 4:59 |
-| 100 | [Promise](https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Promise](https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9) | 3:29 |
+| 98 | [Promise](https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Promise](https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9) | 3:29 |
+| 99 | [aisatsana \[102\]](https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 5:21 |
+| 100 | [Time Moves Slow](https://open.spotify.com/track/5XK1xClRUXSwCUu4I0E1RV) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Sam Herring](https://open.spotify.com/artist/4sfhX4TAhZ7KlbMnYAROQS) | [IV](https://open.spotify.com/album/1KgiVPDV0v0pn1MslihNHB) | 4:33 |
 
 Snapshot ID: `AAAAAGOYJ6J0mxCPY7S1s/ZlyxV2uG9i`

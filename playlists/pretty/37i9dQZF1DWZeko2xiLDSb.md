@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 
 > soundtrack long, dark days with warm favourites
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,869 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,867 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 53 | [Crowded Places](https://open.spotify.com/track/6kNMg11e0ApnTmExdayfA1) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Crowded Places](https://open.spotify.com/album/5kBfpqZQEERHLnFCDGoX9D) | 4:22 |
 | 54 | [Secret Life \(feat\. Lana Del Rey\)](https://open.spotify.com/track/0dagxop90zpA32LDwjAGVk) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 3:06 |
 | 55 | [pourquoi la mort te fait peur](https://open.spotify.com/track/5lHMVaQfDiEY6k4qZgEfFH) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [les failles](https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz) | 3:36 |
-| 56 | [High Alone](https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [High Alone](https://open.spotify.com/album/4BQ1TJuCDSaS0XNOBs7aBF) | 3:53 |
-| 57 | [Say What You Will](https://open.spotify.com/track/5vUZMotVhkVcizIP0qrgr8) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Say What You Will](https://open.spotify.com/album/2SCoCvaMwKuORfPTK7B33O) | 4:40 |
+| 56 | [Say What You Will](https://open.spotify.com/track/5vUZMotVhkVcizIP0qrgr8) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Say What You Will](https://open.spotify.com/album/2SCoCvaMwKuORfPTK7B33O) | 4:40 |
+| 57 | [High Alone](https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [High Alone](https://open.spotify.com/album/4BQ1TJuCDSaS0XNOBs7aBF) | 3:53 |
 | 58 | [LOVE IN THE DARK](https://open.spotify.com/track/5x2lZUtUdC4OifINwav94P) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:59 |
 | 59 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 |
 | 60 | [Buddy's Rendezvous](https://open.spotify.com/track/1I5zEkyDQTJ6TeDxyXBSQ5) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 4:59 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 94 | [I Believe in You](https://open.spotify.com/track/0Ml7rd3x4n1CVqqqWa1OVj) | [more\*](https://open.spotify.com/artist/1PNlt30lRnQITXc9vMnv7i) | [I Believe in You](https://open.spotify.com/album/7r4vwcfdbzyR1L2tHugI6G) | 4:09 |
 | 95 | [Grey Gardens](https://open.spotify.com/track/1GtXKifkH5YAWcXhP3fpZR) | [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [Later that day, the day before, or the day before that](https://open.spotify.com/album/6wDFz92HEpBsdQ23F0hmZe) | 3:10 |
 | 96 | [A Case of You](https://open.spotify.com/track/3T0jdpgl4uKsHfYNI0r5Er) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Duvet Day Songs](https://open.spotify.com/album/1lMRhtNybZjQXMRwlMaSEO) | 4:23 |
-| 97 | [Snowpath](https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Snowpath](https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT) | 2:13 |
-| 98 | [Heavy Snow](https://open.spotify.com/track/4KkTT6zm7CIYIPUIceNtgM) | [Julie Doiron](https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT) | [I Can Wonder What You Did With Your Day](https://open.spotify.com/album/6L9fsxsnt4HjSMjBY7NHzn) | 3:00 |
+| 97 | [Heavy Snow](https://open.spotify.com/track/4KkTT6zm7CIYIPUIceNtgM) | [Julie Doiron](https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT) | [I Can Wonder What You Did With Your Day](https://open.spotify.com/album/6L9fsxsnt4HjSMjBY7NHzn) | 3:00 |
+| 98 | [Snowpath](https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Snowpath](https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT) | 2:13 |
 | 99 | [Cascades \(Dirt Road Version\)](https://open.spotify.com/track/2ncSAOGjuNkgxxFAtoFUc8) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Cascades \(Dirt Road Version\)](https://open.spotify.com/album/0zP4ZEOGdygWu1iHEvzPC7) | 3:04 |
 | 100 | [Seasons Change](https://open.spotify.com/track/3XlKF7jaEQhVc3FcmN6ao1) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Semblance](https://open.spotify.com/album/1CIUceDTCKIYWgSQuj383i) | 2:29 |
 

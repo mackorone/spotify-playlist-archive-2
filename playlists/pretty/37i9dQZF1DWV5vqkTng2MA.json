@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Josh Gilligan",
-  "num_followers": 428011,
+  "num_followers": 428035,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-08-28 04:02:11",
       "album": {
-        "name": "Songs About You",
-        "url": "https://open.spotify.com/album/4fjThpTcrlhAbO8o50vMFc"
-      },
-      "artists": [
-        {
-          "name": "Solon Holt",
-          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
-        }
-      ],
-      "duration_ms": 217099,
-      "name": "Songs About You",
-      "url": "https://open.spotify.com/track/2Q2r9GPlQF6d9WdrPDKUtV"
-    },
-    {
-      "added_at": "2026-08-28 04:02:11",
-      "album": {
         "name": "Trespasser",
         "url": "https://open.spotify.com/album/5LsTcgEL5o7ivH0CUeAgXm"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 215486,
       "name": "Main Street U.S.A.",
       "url": "https://open.spotify.com/track/0vBLkHfCoJ7SEVyzDW86Co"
+    },
+    {
+      "added_at": "2026-08-28 04:02:11",
+      "album": {
+        "name": "Songs About You",
+        "url": "https://open.spotify.com/album/4fjThpTcrlhAbO8o50vMFc"
+      },
+      "artists": [
+        {
+          "name": "Solon Holt",
+          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
+        }
+      ],
+      "duration_ms": 217099,
+      "name": "Songs About You",
+      "url": "https://open.spotify.com/track/2Q2r9GPlQF6d9WdrPDKUtV"
     },
     {
       "added_at": "2026-08-28 04:02:11",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-08-28 04:02:11",
       "album": {
+        "name": "All I Really Wanna Do",
+        "url": "https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 222080,
+      "name": "All I Really Wanna Do",
+      "url": "https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K"
+    },
+    {
+      "added_at": "2026-08-28 04:02:11",
+      "album": {
         "name": "In the Hour of Chaos",
         "url": "https://open.spotify.com/album/3kscpGV3VPWFFX7lPf0DuL"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 250520,
       "name": "Searchlight (ft. Kashus Culpepper)",
       "url": "https://open.spotify.com/track/0cEwQVCHALAXWAHqIiqudp"
-    },
-    {
-      "added_at": "2026-08-28 04:02:11",
-      "album": {
-        "name": "All I Really Wanna Do",
-        "url": "https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "All I Really Wanna Do",
-      "url": "https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K"
     },
     {
       "added_at": "2026-08-28 04:02:11",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-08-28 04:02:11",
       "album": {
-        "name": "Wandering Star",
-        "url": "https://open.spotify.com/album/70NqxOOQGVxrqUPYWa9xX4"
-      },
-      "artists": [
-        {
-          "name": "Haylie Davis",
-          "url": "https://open.spotify.com/artist/0Q2pP2uTgpT8UsuGvB3wH3"
-        }
-      ],
-      "duration_ms": 210517,
-      "name": "I Was Wrong",
-      "url": "https://open.spotify.com/track/6UJPMPsiXUFl2tI0XlZzh6"
-    },
-    {
-      "added_at": "2026-08-28 04:02:11",
-      "album": {
         "name": "Lay Down In a Pickup",
         "url": "https://open.spotify.com/album/2fGhy7gI0d0R5etraxu7YF"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 206806,
       "name": "Lay Down In a Pickup",
       "url": "https://open.spotify.com/track/6wsdEj8UWkIptEkBTIRAv0"
+    },
+    {
+      "added_at": "2026-08-28 04:02:11",
+      "album": {
+        "name": "Wandering Star",
+        "url": "https://open.spotify.com/album/70NqxOOQGVxrqUPYWa9xX4"
+      },
+      "artists": [
+        {
+          "name": "Haylie Davis",
+          "url": "https://open.spotify.com/artist/0Q2pP2uTgpT8UsuGvB3wH3"
+        }
+      ],
+      "duration_ms": 210517,
+      "name": "I Was Wrong",
+      "url": "https://open.spotify.com/track/6UJPMPsiXUFl2tI0XlZzh6"
     },
     {
       "added_at": "2026-08-28 04:02:11",
@@ -763,6 +763,26 @@
       "duration_ms": 234681,
       "name": "Moonlit Breakers (feat. Dijon)",
       "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
+    },
+    {
+      "added_at": "2026-08-28 04:02:11",
+      "album": {
+        "name": "The Illusion Of Love (feat. Lukas Nelson)",
+        "url": "https://open.spotify.com/album/2ORyv79ovybfjEdkR4OM9A"
+      },
+      "artists": [
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        },
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        }
+      ],
+      "duration_ms": 283427,
+      "name": "The Illusion Of Love (feat. Lukas Nelson)",
+      "url": "https://open.spotify.com/track/3wbTGRx1ggj8QKIdJXcgpl"
     },
     {
       "added_at": "2026-08-28 04:02:11",
@@ -899,6 +919,22 @@
     {
       "added_at": "2026-08-28 04:02:11",
       "album": {
+        "name": "Lost Child",
+        "url": "https://open.spotify.com/album/6JpOa88t7gWJ2rpjW8JQol"
+      },
+      "artists": [
+        {
+          "name": "Jim James",
+          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        }
+      ],
+      "duration_ms": 211346,
+      "name": "Lost Child",
+      "url": "https://open.spotify.com/track/12nINXObjFpoofWmixLUrD"
+    },
+    {
+      "added_at": "2026-08-28 04:02:11",
+      "album": {
         "name": "It's Been Too Long (Since I've Loved Someone)",
         "url": "https://open.spotify.com/album/08VCMe5xh0XERXQrtqFhnv"
       },
@@ -967,22 +1003,6 @@
     {
       "added_at": "2026-08-28 04:02:11",
       "album": {
-        "name": "Aviary: Act 1",
-        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
-      },
-      "artists": [
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 222937,
-      "name": "Slipping",
-      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
-    },
-    {
-      "added_at": "2026-08-28 04:02:11",
-      "album": {
         "name": "Dance For Love",
         "url": "https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE"
       },
@@ -995,6 +1015,22 @@
       "duration_ms": 262536,
       "name": "Dance For Love",
       "url": "https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ"
+    },
+    {
+      "added_at": "2026-08-28 04:02:11",
+      "album": {
+        "name": "Aviary: Act 1",
+        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
+      },
+      "artists": [
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 222937,
+      "name": "Slipping",
+      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
     },
     {
       "added_at": "2026-08-28 04:02:11",
@@ -1103,22 +1139,6 @@
     {
       "added_at": "2026-08-28 04:02:11",
       "album": {
-        "name": "Weekend Lover & Used To It",
-        "url": "https://open.spotify.com/album/1SFDJYF9MZl8LesS75fDhs"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rose",
-          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Used To It",
-      "url": "https://open.spotify.com/track/1tp8uFC4YE09X3Wjpmn2gv"
-    },
-    {
-      "added_at": "2026-08-28 04:02:11",
-      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
       },
@@ -1131,6 +1151,22 @@
       "duration_ms": 269133,
       "name": "Demons",
       "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
+    },
+    {
+      "added_at": "2026-08-28 04:02:11",
+      "album": {
+        "name": "Weekend Lover & Used To It",
+        "url": "https://open.spotify.com/album/1SFDJYF9MZl8LesS75fDhs"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Used To It",
+      "url": "https://open.spotify.com/track/1tp8uFC4YE09X3Wjpmn2gv"
     },
     {
       "added_at": "2026-08-28 04:02:11",
@@ -1199,22 +1235,6 @@
     {
       "added_at": "2026-08-28 04:02:11",
       "album": {
-        "name": "Lost Child",
-        "url": "https://open.spotify.com/album/6JpOa88t7gWJ2rpjW8JQol"
-      },
-      "artists": [
-        {
-          "name": "Jim James",
-          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
-        }
-      ],
-      "duration_ms": 211346,
-      "name": "Lost Child",
-      "url": "https://open.spotify.com/track/12nINXObjFpoofWmixLUrD"
-    },
-    {
-      "added_at": "2026-08-28 04:02:11",
-      "album": {
         "name": "Reelin'",
         "url": "https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C"
       },
@@ -1263,22 +1283,6 @@
     {
       "added_at": "2026-08-28 04:02:11",
       "album": {
-        "name": "Wait Til I Get Over",
-        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
-        }
-      ],
-      "duration_ms": 204024,
-      "name": "See It Through",
-      "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
-    },
-    {
-      "added_at": "2026-08-28 04:02:11",
-      "album": {
         "name": "Electric Fever",
         "url": "https://open.spotify.com/album/1tHxFtjR1uoi3OOLQxFua5"
       },
@@ -1295,18 +1299,18 @@
     {
       "added_at": "2026-08-28 04:02:11",
       "album": {
-        "name": "Cold Times",
-        "url": "https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7"
+        "name": "Wait Til I Get Over",
+        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
       },
       "artists": [
         {
-          "name": "Brent Cowles",
-          "url": "https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF"
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
         }
       ],
-      "duration_ms": 213720,
-      "name": "Cold Times",
-      "url": "https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm"
+      "duration_ms": 204024,
+      "name": "See It Through",
+      "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
     },
     {
       "added_at": "2026-08-28 04:02:11",
@@ -1323,6 +1327,22 @@
       "duration_ms": 220586,
       "name": "What You Don't Do",
       "url": "https://open.spotify.com/track/2txZKGnh75sFb3FFnuwjgF"
+    },
+    {
+      "added_at": "2026-08-28 04:02:11",
+      "album": {
+        "name": "Cold Times",
+        "url": "https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7"
+      },
+      "artists": [
+        {
+          "name": "Brent Cowles",
+          "url": "https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "Cold Times",
+      "url": "https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm"
     },
     {
       "added_at": "2026-08-28 04:02:11",
@@ -1363,6 +1383,22 @@
     {
       "added_at": "2026-08-28 04:02:11",
       "album": {
+        "name": "Landfill Poetry",
+        "url": "https://open.spotify.com/album/0FQC88MBO0njsv7tnfBTI3"
+      },
+      "artists": [
+        {
+          "name": "Riley Downing",
+          "url": "https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6"
+        }
+      ],
+      "duration_ms": 257522,
+      "name": "Hay Hay Hay",
+      "url": "https://open.spotify.com/track/6VHLbJATDyuk4w4dWbe4aC"
+    },
+    {
+      "added_at": "2026-08-28 04:02:11",
+      "album": {
         "name": "Hands on the Radio",
         "url": "https://open.spotify.com/album/08noPcSJhhNl1KayiNivkS"
       },
@@ -1395,22 +1431,6 @@
     {
       "added_at": "2026-08-28 04:02:11",
       "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq"
-      },
-      "artists": [
-        {
-          "name": "Jon Muq",
-          "url": "https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe"
-        }
-      ],
-      "duration_ms": 246453,
-      "name": "Bend",
-      "url": "https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4"
-    },
-    {
-      "added_at": "2026-08-28 04:02:11",
-      "album": {
         "name": "Something In The Water",
         "url": "https://open.spotify.com/album/4F6r0ZQAOMukT5HIhZJGkM"
       },
@@ -1423,6 +1443,22 @@
       "duration_ms": 203986,
       "name": "Something In The Water",
       "url": "https://open.spotify.com/track/5mSZyyhus6o620qkJbZ8yG"
+    },
+    {
+      "added_at": "2026-08-28 04:02:11",
+      "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq"
+      },
+      "artists": [
+        {
+          "name": "Jon Muq",
+          "url": "https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe"
+        }
+      ],
+      "duration_ms": 246453,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4"
     },
     {
       "added_at": "2026-08-28 04:02:11",
@@ -1495,22 +1531,6 @@
     {
       "added_at": "2026-08-28 04:02:11",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
-      },
-      "artists": [
-        {
-          "name": "The Main Squeeze",
-          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
-        }
-      ],
-      "duration_ms": 237587,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
-    },
-    {
-      "added_at": "2026-08-28 04:02:11",
-      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/58m6x0iCKILGzU5jNlN2C0"
       },
@@ -1523,6 +1543,22 @@
       "duration_ms": 213733,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/4vmgP10TH0YYqJkzr8yLW0"
+    },
+    {
+      "added_at": "2026-08-28 04:02:11",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
+      },
+      "artists": [
+        {
+          "name": "The Main Squeeze",
+          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
+        }
+      ],
+      "duration_ms": 237587,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
     },
     {
       "added_at": "2026-08-28 04:02:11",
@@ -1619,42 +1655,6 @@
       "duration_ms": 234801,
       "name": "Choose Love",
       "url": "https://open.spotify.com/track/1IRZD7Wz6WRy06v2BEofAr"
-    },
-    {
-      "added_at": "2026-08-28 04:02:11",
-      "album": {
-        "name": "Blown Away",
-        "url": "https://open.spotify.com/album/2gKCl4Xw662KFd1VjSRjgM"
-      },
-      "artists": [
-        {
-          "name": "Ben Goldsmith",
-          "url": "https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8"
-        }
-      ],
-      "duration_ms": 194064,
-      "name": "Blown Away",
-      "url": "https://open.spotify.com/track/7mHBL0aq8D9DLGchZWMG48"
-    },
-    {
-      "added_at": "2026-08-28 04:02:11",
-      "album": {
-        "name": "Here You Come Again (with Max Abrams)",
-        "url": "https://open.spotify.com/album/71a6eZrAINJtg9PXcp7cWb"
-      },
-      "artists": [
-        {
-          "name": "The Mavericks",
-          "url": "https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O"
-        },
-        {
-          "name": "Max Abrams",
-          "url": "https://open.spotify.com/artist/5nniLGuXKnrlNZHQ2VaTD9"
-        }
-      ],
-      "duration_ms": 210826,
-      "name": "Here You Come Again (with Max Abrams)",
-      "url": "https://open.spotify.com/track/2YLLW5WnSLXgYbChmaP2kJ"
     }
   ],
   "unique_name": "the new retro",

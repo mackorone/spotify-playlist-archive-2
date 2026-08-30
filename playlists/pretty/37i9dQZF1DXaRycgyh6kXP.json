@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 294567,
+  "num_followers": 294624,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "Vital Loop",
-        "url": "https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3"
-      },
-      "artists": [
-        {
-          "name": "Kelbin",
-          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
-        }
-      ],
-      "duration_ms": 236659,
-      "name": "Vital Loop",
-      "url": "https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
         "name": "how2feel",
         "url": "https://open.spotify.com/album/6i9uwLdKpZTxrC65hJZArc"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 172394,
       "name": "how2feel",
       "url": "https://open.spotify.com/track/0jMHvOP80LTKOQ8HMxE3yf"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "Vital Loop",
+        "url": "https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3"
+      },
+      "artists": [
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+        }
+      ],
+      "duration_ms": 236659,
+      "name": "Vital Loop",
+      "url": "https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -1675,6 +1675,38 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 209806,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 321880,
+      "name": "aisatsana [102]",
+      "url": "https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/1KgiVPDV0v0pn1MslihNHB"
       },
@@ -1691,38 +1723,6 @@
       "duration_ms": 273866,
       "name": "Time Moves Slow",
       "url": "https://open.spotify.com/track/5XK1xClRUXSwCUu4I0E1RV"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk"
-      },
-      "artists": [
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 299448,
-      "name": "Way Ur Touchin Me",
-      "url": "https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        }
-      ],
-      "duration_ms": 209806,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs"
     }
   ],
   "unique_name": "Electronica Romantica",

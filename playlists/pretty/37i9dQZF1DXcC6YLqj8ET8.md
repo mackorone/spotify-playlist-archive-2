@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 
 > Electronic Trap House with Arab spices\. Cover: DJ KABOO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,242 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,238 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 28 | [Get It Poppin \- Original Mix](https://open.spotify.com/track/0slgFvDaJE9xxF0IXQoe81) | [Costel Van Dein](https://open.spotify.com/artist/2yA021LnprERtbeHcjAquF), [Vaigandt](https://open.spotify.com/artist/2Yg9H6o3ge1uOiq3o4xLRk) | [Get It Poppin'](https://open.spotify.com/album/0sZMAjVIVLwP8sg5ptuh81) | 3:37 |
 | 29 | [Dystopia](https://open.spotify.com/track/25N0bGioFvZgujpnpYH4qV) | [Ahmed Romel](https://open.spotify.com/artist/5hp5V0IfVuZWmYeUqomqEs) | [Dystopia](https://open.spotify.com/album/2OkBDPfWUdeDjsWumFazvZ) | 3:32 |
 | 30 | [Mazikah](https://open.spotify.com/track/0fkbXZEqvcaJipXpgsKXBn) | [El\-M3allem](https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW) | [Mazikah](https://open.spotify.com/album/1N4z2tg7JhxoUqjNn7pJIt) | 3:33 |
-| 31 | [Drop It Again](https://open.spotify.com/track/3PUjFJPKqz1j5MHV0MihsW) | [YZKN](https://open.spotify.com/artist/7mU3kpBBx4OCYdNJhjcKxy) | [Drop It Again](https://open.spotify.com/album/2DTyk0x1qem3lw71ZWVo9Q) | 2:42 |
-| 32 | [La Câlin](https://open.spotify.com/track/4wm54RgVLbAtk5v4A9I9x5) | [Serhat Durmus](https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD) | [La Câlin](https://open.spotify.com/album/1OzQ5JSUO7UqTeCgtzIrpH) | 2:52 |
+| 31 | [La Câlin](https://open.spotify.com/track/4wm54RgVLbAtk5v4A9I9x5) | [Serhat Durmus](https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD) | [La Câlin](https://open.spotify.com/album/1OzQ5JSUO7UqTeCgtzIrpH) | 2:52 |
+| 32 | [Drop It Again](https://open.spotify.com/track/3PUjFJPKqz1j5MHV0MihsW) | [YZKN](https://open.spotify.com/artist/7mU3kpBBx4OCYdNJhjcKxy) | [Drop It Again](https://open.spotify.com/album/2DTyk0x1qem3lw71ZWVo9Q) | 2:42 |
 | 33 | [Token Baashi](https://open.spotify.com/track/39qUZ7zIlDXziDOvRE2UCN) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [TH3 DARP](https://open.spotify.com/artist/10W6SIbkGGVlY8yYrUxwmw) | [Token Baashi](https://open.spotify.com/album/0C2K0s3mOC7lvSoCRWmb9f) | 3:41 |
 | 34 | [Oriental](https://open.spotify.com/track/1C3PeqYtCFVFxUBdFZoxeT) | [OSAK](https://open.spotify.com/artist/7E52EFOelXp541PpFcbtrf) | [Oriental](https://open.spotify.com/album/3L45kcBwrsdrjQDiNdHEqk) | 4:28 |
 | 35 | [ALMAZAT](https://open.spotify.com/track/1l18f7daLQymXuUy6fQD6W) | [El\-M3allem](https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW) | [ALMAZAT](https://open.spotify.com/album/0s8UGDaOTmxfXDi1VAsowZ) | 3:08 |

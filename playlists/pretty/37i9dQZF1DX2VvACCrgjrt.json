@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1311833,
+  "num_followers": 1311790,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/5U6bJLke6HXBUp6Q40caJN"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/00kTtwFuoRVfFiH8wJabBu"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "LA NOCHE",
         "url": "https://open.spotify.com/album/3iBDg8qZiUWJy0kiZHI3Cv"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 212244,
       "name": "LA NOCHE",
       "url": "https://open.spotify.com/track/5vu69csqeUJheoQWPd2MoM"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/5U6bJLke6HXBUp6Q40caJN"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/00kTtwFuoRVfFiH8wJabBu"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "CODEINE",
-        "url": "https://open.spotify.com/album/2uZwbhNezNHN6gQUzzFSok"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "CODEINE",
-      "url": "https://open.spotify.com/track/2G0g0aPbH53A0FNvmaNUEN"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Searching",
         "url": "https://open.spotify.com/album/1oE0OceAJ497lJgVI6xsje"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 152288,
       "name": "Searching",
       "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "CODEINE",
+        "url": "https://open.spotify.com/album/2uZwbhNezNHN6gQUzzFSok"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "CODEINE",
+      "url": "https://open.spotify.com/track/2G0g0aPbH53A0FNvmaNUEN"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1801,22 +1801,6 @@
       "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Let Me Clear My Throat",
-        "url": "https://open.spotify.com/album/2b6Uc8pfLq9SeITcAobTMt"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 161818,
-      "name": "Let Me Clear My Throat",
-      "url": "https://open.spotify.com/track/7dP5EtY64b0dWwcWXb8Xlq"
-    },
-    {
       "added_at": "2026-07-24 04:02:19",
       "album": {
         "name": "In The Dark",
@@ -1855,6 +1839,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Hooligans",
+        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 239090,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "That Girl",
         "url": "https://open.spotify.com/album/2GrHl0zWCoffhmjGsVM90k"
       },
@@ -1867,6 +1867,22 @@
       "duration_ms": 229384,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Let Me Clear My Throat",
+        "url": "https://open.spotify.com/album/2b6Uc8pfLq9SeITcAobTMt"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "duration_ms": 161818,
+      "name": "Let Me Clear My Throat",
+      "url": "https://open.spotify.com/track/7dP5EtY64b0dWwcWXb8Xlq"
     },
     {
       "added_at": "2026-08-07 04:01:21",
@@ -1887,22 +1903,6 @@
       "duration_ms": 138461,
       "name": "Alive",
       "url": "https://open.spotify.com/track/0R9Yx21kRzOGeHxw79CizW"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Hooligans",
-        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 239090,
-      "name": "Hooligans",
-      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2157,6 +2157,26 @@
       "url": "https://open.spotify.com/track/1BfhZT1HacQ1l4V4uXFxCq"
     },
     {
+      "added_at": "2026-08-14 04:01:19",
+      "album": {
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/1Xu8mgOVIAD33DLsYTaSMI"
+      },
+      "artists": [
+        {
+          "name": "Rag",
+          "url": "https://open.spotify.com/artist/73gfd3OeRub99Q0c6JVHaH"
+        },
+        {
+          "name": "Litz",
+          "url": "https://open.spotify.com/artist/40NgrGQvfjgw4eSoBFzWpz"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/5iEeVYUufEdHhuddGqaTFH"
+    },
+    {
       "added_at": "2026-06-12 04:01:37",
       "album": {
         "name": "Confessions",
@@ -2193,62 +2213,6 @@
       "url": "https://open.spotify.com/track/0clHsShVOKyXflPbH5adcg"
     },
     {
-      "added_at": "2026-08-14 04:01:19",
-      "album": {
-        "name": "Mask Off",
-        "url": "https://open.spotify.com/album/1Xu8mgOVIAD33DLsYTaSMI"
-      },
-      "artists": [
-        {
-          "name": "Rag",
-          "url": "https://open.spotify.com/artist/73gfd3OeRub99Q0c6JVHaH"
-        },
-        {
-          "name": "Litz",
-          "url": "https://open.spotify.com/artist/40NgrGQvfjgw4eSoBFzWpz"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/5iEeVYUufEdHhuddGqaTFH"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Count On You",
-        "url": "https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        },
-        {
-          "name": "Sian-Lee",
-          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
-        }
-      ],
-      "duration_ms": 165923,
-      "name": "Count On You",
-      "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
-    },
-    {
-      "added_at": "2026-07-17 04:01:08",
-      "album": {
-        "name": "Down To The Sound",
-        "url": "https://open.spotify.com/album/1ueCEnO7sgkc6JeA0rV4Wl"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 196158,
-      "name": "Down To The Sound",
-      "url": "https://open.spotify.com/track/6hcEfqQL5wcVzBq2qf5p3A"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Ice Cold",
@@ -2281,6 +2245,26 @@
       "url": "https://open.spotify.com/track/1fq81fwfle9L3Z0dRERDvP"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Count On You",
+        "url": "https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Sian-Lee",
+          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
+        }
+      ],
+      "duration_ms": 165923,
+      "name": "Count On You",
+      "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
+    },
+    {
       "added_at": "2026-05-15 15:18:31",
       "album": {
         "name": "Move Your Body",
@@ -2299,6 +2283,22 @@
       "duration_ms": 170000,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/3HH2w8W7uaauucUTOYcoAW"
+    },
+    {
+      "added_at": "2026-07-17 04:01:08",
+      "album": {
+        "name": "Down To The Sound",
+        "url": "https://open.spotify.com/album/1ueCEnO7sgkc6JeA0rV4Wl"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 196158,
+      "name": "Down To The Sound",
+      "url": "https://open.spotify.com/track/6hcEfqQL5wcVzBq2qf5p3A"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2365,38 +2365,6 @@
       "url": "https://open.spotify.com/track/4ZOGujJtpygBRvPj8KZKFn"
     },
     {
-      "added_at": "2026-07-31 04:01:22",
-      "album": {
-        "name": "The System",
-        "url": "https://open.spotify.com/album/36Q8YaY9X8aF20U1q8EVG5"
-      },
-      "artists": [
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        }
-      ],
-      "duration_ms": 162923,
-      "name": "The System",
-      "url": "https://open.spotify.com/track/1BxS1s7yzTi8RVOQKGASQ6"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Tease",
-        "url": "https://open.spotify.com/album/7pkI6v49HH4NPz79BdvCvx"
-      },
-      "artists": [
-        {
-          "name": "N2N",
-          "url": "https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "Tease",
-      "url": "https://open.spotify.com/track/6uyPxNh9jZSdwQkfaOF9FF"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Cocaine Inside My Blunts (Dave Summer Remix)",
@@ -2417,20 +2385,52 @@
       "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
     },
     {
-      "added_at": "2026-04-17 04:02:12",
+      "added_at": "2026-07-31 04:01:22",
       "album": {
-        "name": "In My System",
-        "url": "https://open.spotify.com/album/0YnjAx0aZhETxrbYILoGLn"
+        "name": "The System",
+        "url": "https://open.spotify.com/album/36Q8YaY9X8aF20U1q8EVG5"
       },
       "artists": [
         {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
         }
       ],
-      "duration_ms": 180004,
-      "name": "In My System",
-      "url": "https://open.spotify.com/track/5XFEApc6uwSKYTbZTMwnbx"
+      "duration_ms": 162923,
+      "name": "The System",
+      "url": "https://open.spotify.com/track/1BxS1s7yzTi8RVOQKGASQ6"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Earthquake",
+        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
+      },
+      "artists": [
+        {
+          "name": "SKILAH",
+          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
+        }
+      ],
+      "duration_ms": 182272,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Tease",
+        "url": "https://open.spotify.com/album/7pkI6v49HH4NPz79BdvCvx"
+      },
+      "artists": [
+        {
+          "name": "N2N",
+          "url": "https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "Tease",
+      "url": "https://open.spotify.com/track/6uyPxNh9jZSdwQkfaOF9FF"
     }
   ],
   "unique_name": "Nasty Bits",

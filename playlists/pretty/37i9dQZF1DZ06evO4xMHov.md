@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,417 likes - 50 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,415 likes - 50 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 38 | [Os Que Esperam \- Ao Vivo](https://open.spotify.com/track/3cURlCdbyZ81pYQuI6iuP2) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Reino de Justiça \(Ao Vivo\)](https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi) | 4:25 |
 | 39 | [Em Tua Presença \- Ao Vivo](https://open.spotify.com/track/2xpotltTAOvJbWJgJKCUoI) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 13:10 |
 | 40 | [Grande é o Senhor \- Ao Vivo](https://open.spotify.com/track/2mYzwAhfjxNkUu6pJvZyCJ) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Grande é o Senhor \(Ao Vivo\)](https://open.spotify.com/album/5oqDl5IyyhOejgBcl2pDv9) | 6:53 |
-| 41 | [Não Mais Escravos](https://open.spotify.com/track/6YsaTCFVqFiGrarkEATPmI) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Não Mais Escravos](https://open.spotify.com/album/01R8ujMToULv8ECGBgglFB) | 6:47 |
-| 42 | [Ousado Amor](https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ousado Amor](https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE) | 13:46 |
+| 41 | [Ousado Amor](https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ousado Amor](https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE) | 13:46 |
+| 42 | [Não Mais Escravos](https://open.spotify.com/track/6YsaTCFVqFiGrarkEATPmI) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Não Mais Escravos](https://open.spotify.com/album/01R8ujMToULv8ECGBgglFB) | 6:47 |
 | 43 | [Acende o Fogo / Eu Me Prostro \- Ao Vivo](https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Acende o Fogo / Eu Me Prostro \(Ao Vivo\)](https://open.spotify.com/album/1nwCVNk24Z3iKotK788Dvw) | 8:28 |
 | 44 | [Medley Coração Igual ao Teu \- Ao Vivo](https://open.spotify.com/track/1o0XzYCjhPLMsQ9PXLwlNH) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Mariana Valadão](https://open.spotify.com/artist/4ABs1DvG7IqLjBpYvOQedm), [Helena Tannure](https://open.spotify.com/artist/7yilUzReOHGdRaqypuG7f5) | [Medley Coração Igual ao Teu \(Ao Vivo\)](https://open.spotify.com/album/5s1zqwFYmzOAVgMtG1n2PK) | 7:17 |
 | 45 | [Nossas Mãos Te Exaltarão](https://open.spotify.com/track/2MrEBUg4rn1oyv8Q2OGpKl) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Nossas Mãos Te Exaltarão](https://open.spotify.com/album/6TZo4gIsBIWXWthYoxxDFq) | 8:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 49 | [Incomparável \- Ao Vivo](https://open.spotify.com/track/2pN3oRT2BJyghB5vsljMuZ) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 5:31 |
 | 50 | [Meu Universo \- Acústico](https://open.spotify.com/track/1z1VXBSMZzbQF4pvJwDjga) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Música e Palavra \(Acústico\)](https://open.spotify.com/album/1526KV4Bw2ehCYTuP6YZe4) | 4:27 |
 
-Snapshot ID: `ao9+AAAAAADJLkE/hufE1UpS75efVGcf`
+Snapshot ID: `apDPgAAAAAC5TqL5KignrvhXJiOYruCh`

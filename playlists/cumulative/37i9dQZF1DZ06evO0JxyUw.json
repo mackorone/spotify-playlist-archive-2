@@ -567,6 +567,28 @@
     },
     {
       "album": {
+        "name": "Genie in a Bottle (Levi Mix)",
+        "url": "https://open.spotify.com/album/2cUZ5RyG48l4PurHGi4iNu"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "Genie in a Bottle (Levi Mix)",
+      "url": "https://open.spotify.com/track/1jIH1ugCqobuVG13P59POG"
+    },
+    {
+      "album": {
         "name": "Mi Reflejo",
         "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
       },
@@ -784,7 +806,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 181946,
       "name": "Keeps Gettin' Better",
       "url": "https://open.spotify.com/track/0j0n5CUS1g3QSwDWg8r5qq"

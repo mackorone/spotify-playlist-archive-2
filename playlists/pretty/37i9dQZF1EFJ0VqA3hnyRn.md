@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 706 likes - 286 songs - 16 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 707 likes - 286 songs - 16 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,8 +199,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 189 | [Make U A Believer](https://open.spotify.com/track/3d9qL4raQJ9NlV7aCUXhLb) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Hard II Love](https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz) | 4:06 |
 | 190 | [Give It to Me](https://open.spotify.com/track/6Im7Bn2FHuuBqfWgNkqgWa) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Future History \(Deluxe Edition\)](https://open.spotify.com/album/31tCg5RXhY5jpagfCPcQa2) | 3:24 |
 | 191 | [Live by the Gun \(feat\. Akon\)](https://open.spotify.com/track/0CxCpL8uCAwThYevFxv6bb) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:42 |
-| 192 | [Keep On Lookin'](https://open.spotify.com/track/6J254v0NfP9dw2Uzg7U0Ow) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Ciara](https://open.spotify.com/album/4iGuSUpSeXQKckIuQGwPg7) | 3:17 |
-| 193 | [shades on](https://open.spotify.com/track/3hHjRr3nokxcYCYyshQ3ic) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [early life crisis](https://open.spotify.com/album/161Te6W2Bylj3YmpI4Svit) | 2:09 |
+| 192 | [shades on](https://open.spotify.com/track/3hHjRr3nokxcYCYyshQ3ic) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [early life crisis](https://open.spotify.com/album/161Te6W2Bylj3YmpI4Svit) | 2:09 |
+| 193 | [Keep On Lookin'](https://open.spotify.com/track/6J254v0NfP9dw2Uzg7U0Ow) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Ciara](https://open.spotify.com/album/4iGuSUpSeXQKckIuQGwPg7) | 3:17 |
 | 194 | [Time Will Tell](https://open.spotify.com/track/5Wc1eKzbECfRnCIwNmPr5y) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Time Will Tell](https://open.spotify.com/album/4hjnguQ5l9tn9tY0syzBmB) | 2:58 |
 | 195 | [Lullaby](https://open.spotify.com/track/1EIhpG65DWoQDPSxwGu311) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:46 |
 | 196 | [I WOKE UP](https://open.spotify.com/track/6mqevjxkKFzckFuiNDE4GQ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:28 |
@@ -251,8 +251,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 241 | [I Love the Islands](https://open.spotify.com/track/4bf60q6ihExnmiYP7v23tP) | [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf), [Rock City](https://open.spotify.com/artist/4JLxuWOMYM50zRMCjYaHvH) | [Savage Island](https://open.spotify.com/album/0CQIoZZVBqdQMCE5gMESzw) | 3:44 |
 | 242 | [Grown Man Cry](https://open.spotify.com/track/4nuq3ahtDol0fj6oBOpc2b) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [The Artist](https://open.spotify.com/album/4lYhbvNpqi84aKPr6FiX85) | 3:38 |
 | 243 | [All On Your Body](https://open.spotify.com/track/0cJ2E7TrVBe5mOOl0Eq8Wg) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale) | [Neon](https://open.spotify.com/album/22CbLhGKCX4cWs8ajlo1bm) | 2:49 |
-| 244 | [Time After Time](https://open.spotify.com/track/6aZnSlxQmeChHpuKMmYh0u) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Time After Time](https://open.spotify.com/album/4GpRAwq2wyt7GttDqZGLjA) | 3:33 |
-| 245 | [DITTO](https://open.spotify.com/track/0W2dHEtjgJRGbcTIaqSjMe) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 3:10 |
+| 244 | [DITTO](https://open.spotify.com/track/0W2dHEtjgJRGbcTIaqSjMe) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 3:10 |
+| 245 | [Time After Time](https://open.spotify.com/track/6aZnSlxQmeChHpuKMmYh0u) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Time After Time](https://open.spotify.com/album/4GpRAwq2wyt7GttDqZGLjA) | 3:33 |
 | 246 | [Help Me](https://open.spotify.com/track/0Bbqzj2W6ZUa5jsDj8E9Vv) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [The Sellout](https://open.spotify.com/album/6IIf2u92YUo0n67nh8zdU8) | 4:37 |
 | 247 | [My Bih](https://open.spotify.com/track/0qGMWc9QuQ3KTfzqtbvvfW) | [Kirko Bangz](https://open.spotify.com/artist/2r8r62VGJKGi463aH1HJUZ) | [Back Flossin](https://open.spotify.com/album/3vmo3yZ1f2Rj6lK6lHTECy) | 3:11 |
 | 248 | [Love Shop](https://open.spotify.com/track/4LVtZf0n6YPL62AbeBFvaH) | [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [No Gravity](https://open.spotify.com/album/2keR8rEBTmRLpDKxWaoBDc) | 3:22 |
@@ -295,4 +295,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 285 | [Trick or Treat](https://open.spotify.com/track/1OeEONCaGm6b2ZtdgQOopI) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 1:52 |
 | 286 | [Ghosts](https://open.spotify.com/track/5FB0kBWrG11JP9IbaK502G) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 2:25 |
 
-Snapshot ID: `Aca1FAAAAACB49opFL1waw4juCtfwJn6`
+Snapshot ID: `Aca6PAAAAAAs8ily0Ipwn97YsVDVT4qo`

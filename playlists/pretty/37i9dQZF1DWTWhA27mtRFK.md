@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 
 > Open your mind to these classics from the golden era of New Age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,068 likes - 65 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,155 likes - 65 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 | 7 | [Ever New](https://open.spotify.com/track/6nXk3XcfNmwtig7acQxRbc) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Keyboard Fantasies](https://open.spotify.com/album/3U4V4WwMxXaHIjRnDQqaXK) | 7:08 |
 | 8 | [Temple of Silence](https://open.spotify.com/track/5RVcMhbIaIfekTjo7zL8ij) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Annette Cantor](https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t) | [Garden of the Gods](https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR) | 9:16 |
 | 9 | [L'Azzuro](https://open.spotify.com/track/7icrlwHpkpnxEL2tVrdOxV) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 5:12 |
-| 10 | [Chariots Of Fire \- Edit](https://open.spotify.com/track/4Kb6Z3oN3JYolzFrCOpHCU) | [Evangelos Papathanassiou](https://open.spotify.com/artist/2qSakUn77ILbQV46xnASun), [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Chariots of fire \- Paris 1924\-2024](https://open.spotify.com/album/1Yg06p7lbe8N6QCBFB5qK9) | 3:22 |
+| 10 | [Chariots Of Fire \- Edit](https://open.spotify.com/track/4Kb6Z3oN3JYolzFrCOpHCU) | [Evangelos Papathanassiou](https://open.spotify.com/artist/2qSakUn77ILbQV46xnASun), [Vangelis](https://open.spotify.com/artist/5rhlxILuaQlIlOPU2HCifz) | [Chariots of fire \- Paris 1924\-2024](https://open.spotify.com/album/1Yg06p7lbe8N6QCBFB5qK9) | 3:22 |
 | 11 | [Adiemus](https://open.spotify.com/track/54CAG8n70kKVbFV6l1zF4G) | [Karl Jenkins](https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd), [Mike Ratledge](https://open.spotify.com/artist/5qwzRqCWqo8sLL9fLAytbD), [Jody K\. Jenkins](https://open.spotify.com/artist/4FjeS3mNCRfJqN4jRTr4Er), [Adiemus](https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Mary Carewe](https://open.spotify.com/artist/2ZYdpQgTZ31R3tjiX25XNT) | [Adiemus \- Songs Of Sanctuary](https://open.spotify.com/album/1SeuDxCewZcCdxLUFACb8G) | 3:57 |
 | 12 | [Oxygène, Pt\. 4](https://open.spotify.com/track/4pbzF8W8RnqlN5epqkI1Qf) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L) | 4:06 |
 | 13 | [Kindred Spirit](https://open.spotify.com/track/3DnYVJJH3H6P7Svy4x2DYT) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 8:19 |

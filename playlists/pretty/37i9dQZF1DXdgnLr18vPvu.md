@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgnLr18vPvu.md) - [plain]
 
 > Game day is our favorite day of the week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,656 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,631 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgnLr18vPvu.md) - [plain]
 | 76 | [T.N.T.](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 3:35 |
 | 77 | [Verano Rosa](https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:30 |
 | 78 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
-| 79 | [Listen to the Music](https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Toulouse Street](https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm) | 3:47 |
-| 80 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:31 |
+| 79 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:31 |
+| 80 | [Listen to the Music](https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Toulouse Street](https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm) | 3:47 |
 | 81 | [Be Her](https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Be Her](https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90) | 3:37 |
 | 82 | [All Of The Lights](https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:59 |
 | 83 | [Sugar, We're Goin Down](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:49 |
@@ -99,12 +99,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgnLr18vPvu.md) - [plain]
 | 89 | [Mexico Honey](https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:43 |
 | 90 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 |
 | 91 | [Sweet Caroline](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd) | 3:23 |
-| 92 | [My House](https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [My House](https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH) | 3:12 |
-| 93 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 |
+| 92 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 |
+| 93 | [My House](https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [My House](https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH) | 3:12 |
 | 94 | [She Got the Best of Me](https://open.spotify.com/track/698eQRku24PIYPQPHItKlA) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:03 |
 | 95 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:50 |
-| 96 | [Brunette](https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [What Not To](https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl) | 2:19 |
-| 97 | [Super Bass](https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday \(Complete Edition\)](https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw) | 3:20 |
+| 96 | [Super Bass](https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday \(Complete Edition\)](https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw) | 3:20 |
+| 97 | [Brunette](https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [What Not To](https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl) | 2:19 |
 | 98 | [Can't Hold Us \(feat\. Ray Dalton\)](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Macklemore & Ryan Lewis](https://open.spotify.com/artist/6WLvgbfYXQPO396oJEYCsi), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Heist](https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8) | 4:18 |
 | 99 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
 | 100 | [Blame It on the Boogie](https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny](https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a) | 3:35 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di ARIETE con Angelina Mango, Shiva, Alex Warren, JENNIE, Alfa con Gigi D'Alessio e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,124 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,116 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

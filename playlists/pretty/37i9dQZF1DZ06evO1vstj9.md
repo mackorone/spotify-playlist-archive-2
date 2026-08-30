@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 
 > This is Elmiene\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,970 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,978 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 | 2 | [Comets + Gold](https://open.spotify.com/track/5OTOTazu9IXnD7jspyv43f) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Comets + Gold](https://open.spotify.com/album/2eZnw2HtWAVA9vDsJL7T1W) | 3:08 |
 | 3 | [Someday](https://open.spotify.com/track/5nV3xjY5nlQwAgpuSeinNG) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Someday](https://open.spotify.com/album/7p0qGzJYOpmXp18zjT8vo8) | 2:41 |
 | 4 | [Reclusive](https://open.spotify.com/track/2E3c3APiNL1g2syAGwBHCP) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [sounds for someone](https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum) | 3:06 |
-| 5 | [Mad At Fire](https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Mad At Fire](https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz) | 3:51 |
-| 6 | [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 |
+| 5 | [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 |
+| 6 | [Mad At Fire](https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Mad At Fire](https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz) | 3:51 |
 | 7 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 |
 | 8 | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE) | 4:11 |
 | 9 | [By Now](https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets Some Mo'](https://open.spotify.com/album/6hRz8TthZfkHlZ288hcCd4) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 | 49 | [Remember](https://open.spotify.com/track/4L2xiqRQ5IKQoIwn3XaVkr) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time \(Again\)](https://open.spotify.com/album/4iJJ7qtR7T8v0CarMWIM04) | 3:55 |
 | 50 | [Coraline \- Live From 525](https://open.spotify.com/track/3K5n6dkpyYLlqWuEWiGz20) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Live From 525](https://open.spotify.com/album/09FRB4tzCfBnHUS1E4XvdA) | 2:50 |
 
-Snapshot ID: `ao9+AAAAAAA7bLbxA9GqdOdQfimkNc52`
+Snapshot ID: `apDPgAAAAABAic08h83Sdkd5BGwHQikP`

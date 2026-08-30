@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 556,
+  "num_followers": 557,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACHdI6IkKKJto4bz/Omnd2zjX4P1GB",
+  "snapshot_id": "AAACHyPJqP35cu38sOFZxlLX+vrZ+dH1",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1003,6 +1003,38 @@
       "duration_ms": 225094,
       "name": "Bajo Llave",
       "url": "https://open.spotify.com/track/1hA0NMXvi3EkTCJgwzWmn8"
+    },
+    {
+      "added_at": "2026-08-29 19:43:48",
+      "album": {
+        "name": "Chase the Feeling",
+        "url": "https://open.spotify.com/album/3QbZWdf9GH6lOH7wlc8qRa"
+      },
+      "artists": [
+        {
+          "name": "Station 301",
+          "url": "https://open.spotify.com/artist/1ApohnXtENC8CFKfOmuoyx"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Chase the Feeling",
+      "url": "https://open.spotify.com/track/5oFYQLAdS7YlQSMl6C2PzT"
+    },
+    {
+      "added_at": "2026-08-29 19:49:11",
+      "album": {
+        "name": "Falling Behind",
+        "url": "https://open.spotify.com/album/3ESOHDThYhkb5hfhikkBqQ"
+      },
+      "artists": [
+        {
+          "name": "Nic Li",
+          "url": "https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU"
+        }
+      ],
+      "duration_ms": 136958,
+      "name": "Falling Behind",
+      "url": "https://open.spotify.com/track/79QEpZ2GCWHgBL6L7OugjA"
     }
   ],
   "unique_name": "Local Rock Bands",

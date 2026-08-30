@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 
 > Indie jams that sound like lounging under the sun with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,213 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,217 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 5 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
 | 6 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
 | 7 | [The Difference](https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Difference](https://open.spotify.com/album/3QgFzksD4J43TnGIJOOrRV) | 2:19 |
-| 8 | [I Wonder](https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 4:03 |
+| 8 | [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 |
 | 9 | [Sea Gets Hotter](https://open.spotify.com/track/5ZK62nSchTamBy8F6HIZov) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:17 |
-| 10 | [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 |
+| 10 | [I Wonder](https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 4:03 |
 | 11 | [Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Sundress](https://open.spotify.com/album/3AlyvIIMZyT5LjWFeK5LSl) | 2:38 |
 | 12 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 |
 | 13 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 41 | [Warm](https://open.spotify.com/track/4rxD9Ar3OlsgGOnblWUKqr) | [Dre'es](https://open.spotify.com/artist/4pc5r183mYvIzGyFv2S0hO), [Lali Bi Baby](https://open.spotify.com/artist/1oaQGhAjHfjKF7Mqh8FY7O) | [Warm](https://open.spotify.com/album/6VCVsHg0OzSEKRnFLtOQcg) | 4:15 |
 | 42 | [Ways to Go](https://open.spotify.com/track/57nNNkgk768QVXq3uHxu5e) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spreading Rumours](https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf) | 3:35 |
 | 43 | [Bodies](https://open.spotify.com/track/59JXLBosh2OFLMCARkINnB) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:04 |
-| 44 | [Better Give U Up](https://open.spotify.com/track/4c60yLpE5lXvICT0pyEaZ5) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [French Kiwi Juice](https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi) | 4:16 |
-| 45 | [Disco Yes](https://open.spotify.com/track/2fvdQ1Uq04qE4RLN5zKBXS) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:40 |
+| 44 | [Disco Yes](https://open.spotify.com/track/2fvdQ1Uq04qE4RLN5zKBXS) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:40 |
+| 45 | [Better Give U Up](https://open.spotify.com/track/4c60yLpE5lXvICT0pyEaZ5) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [French Kiwi Juice](https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi) | 4:16 |
 | 46 | [But Not Kiss](https://open.spotify.com/track/78nMVqRwap5hysPgnziW4u) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 3:42 |
 | 47 | [Sexy Villain](https://open.spotify.com/track/27sBcXtgTBSJRdUxei1a7J) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:08 |
 | 48 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 55 | [Prism](https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:52 |
 | 56 | [Soaked](https://open.spotify.com/track/4zIiarkbaDt2cm6sukb1Xt) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 4:00 |
 | 57 | [1st Time](https://open.spotify.com/track/4udjo5nLK61pKajakfrndc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [1st Time](https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG) | 3:01 |
-| 58 | [I Wanna Help Your Mind](https://open.spotify.com/track/08ZZ7SILfKcreLtA3K6Gqr) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [I Wanna Help Your Mind](https://open.spotify.com/album/2G6xRZxWrt9mBXgHclg2i4) | 2:51 |
-| 59 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
+| 58 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
+| 59 | [I Wanna Help Your Mind](https://open.spotify.com/track/08ZZ7SILfKcreLtA3K6Gqr) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [I Wanna Help Your Mind](https://open.spotify.com/album/2G6xRZxWrt9mBXgHclg2i4) | 2:51 |
 | 60 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 |
 | 61 | [Just Say](https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz) | [Just Say](https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG) | 2:46 |
 | 62 | [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 |

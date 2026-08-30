@@ -1,12 +1,12 @@
 {
   "description": "This is Miles Davis. The essential tracks, all in one playlist.",
-  "num_followers": 249631,
+  "num_followers": 249659,
   "original_name": "This Is Miles Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAA0Orwj0Xk+EWZ1OUPJpfuV",
+  "snapshot_id": "apDPgAAAAAAZ5GIFeN0i+otWDx1B5Mpo",
   "tracks": [
     {
       "added_at": null,
@@ -51,38 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kind Of Blue",
-        "url": "https://open.spotify.com/album/1weenld61qoidwYuZ1GESA"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        }
-      ],
-      "duration_ms": 588410,
-      "name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
-      "url": "https://open.spotify.com/track/3NvYPUNu6nwQgN31UnoDbn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "'Round About Midnight",
         "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
@@ -111,6 +79,38 @@
       "duration_ms": 355333,
       "name": "'Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/5vb7At47uO0yPGfmYnAHuw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kind Of Blue",
+        "url": "https://open.spotify.com/album/1weenld61qoidwYuZ1GESA"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        }
+      ],
+      "duration_ms": 588410,
+      "name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
+      "url": "https://open.spotify.com/track/3NvYPUNu6nwQgN31UnoDbn"
     },
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 181988,
-      "name": "Boplicity",
-      "url": "https://open.spotify.com/track/0Wz6DLq8NBoi1viEqrdH9B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "'Round About Midnight",
         "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 474626,
       "name": "Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 181988,
+      "name": "Boplicity",
+      "url": "https://open.spotify.com/track/0Wz6DLq8NBoi1viEqrdH9B"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 193546,
-      "name": "Jeru",
-      "url": "https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "'Round About Midnight",
         "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 420693,
       "name": "All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 193546,
+      "name": "Jeru",
+      "url": "https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+        "name": "Porgy And Bess",
+        "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 200296,
-      "name": "Moon Dreams",
-      "url": "https://open.spotify.com/track/3GRRmV65lSUxQ82GHyVAZO"
+      "duration_ms": 197426,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/25H0Wd1ugPRXGM2LlpjVXM"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porgy And Bess",
-        "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 197426,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/25H0Wd1ugPRXGM2LlpjVXM"
+      "duration_ms": 200296,
+      "name": "Moon Dreams",
+      "url": "https://open.spotify.com/track/3GRRmV65lSUxQ82GHyVAZO"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 192992,
-      "name": "Venus De Milo",
-      "url": "https://open.spotify.com/track/5e6IB3ls75JPn0tpXggs4W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seven Steps To Heaven (Expanded Edition)",
         "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
       },
@@ -495,22 +479,6 @@
       "duration_ms": 403826,
       "name": "I Fall In Love Too Easily",
       "url": "https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Night of Miles Davis",
-        "url": "https://open.spotify.com/album/16cOIJcGCSl6UAqh0K8Ygi"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 225146,
-      "name": "Yesterdays",
-      "url": "https://open.spotify.com/track/1NPbR9xEe9mtaW4wRkryPQ"
     },
     {
       "added_at": null,
@@ -556,9 +524,25 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 168760,
-      "name": "Deception",
-      "url": "https://open.spotify.com/track/6Tq8Fj8jZQIO24XhXV5Dno"
+      "duration_ms": 192992,
+      "name": "Venus De Milo",
+      "url": "https://open.spotify.com/track/5e6IB3ls75JPn0tpXggs4W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Night of Miles Davis",
+        "url": "https://open.spotify.com/album/16cOIJcGCSl6UAqh0K8Ygi"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 225146,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/1NPbR9xEe9mtaW4wRkryPQ"
     },
     {
       "added_at": null,
@@ -595,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "Deception",
+      "url": "https://open.spotify.com/track/6Tq8Fj8jZQIO24XhXV5Dno"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 542400,
       "name": "Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/0PHqHvmg4TIaANfbsvDMTR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 154340,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em"
     },
     {
       "added_at": null,
@@ -687,6 +671,22 @@
       "duration_ms": 172330,
       "name": "Au bar du Petit Bac - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
       "url": "https://open.spotify.com/track/4x1wPhR48abeSDr6o25NAv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 154340,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miles '54: The Prestige Recordings (Remastered 2024)",
-        "url": "https://open.spotify.com/album/3n0Rai2wkPIKr2CsfRkaNg"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 372332,
-      "name": "Blue Haze - Remastered 2024",
-      "url": "https://open.spotify.com/track/2u1f3xfVNZ1q8RXnalGsKO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ascenseur pour l'\u00e9chafaud",
         "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Miles '54: The Prestige Recordings (Remastered 2024)",
+        "url": "https://open.spotify.com/album/3n0Rai2wkPIKr2CsfRkaNg"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 372332,
+      "name": "Blue Haze - Remastered 2024",
+      "url": "https://open.spotify.com/track/2u1f3xfVNZ1q8RXnalGsKO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tutu",
         "url": "https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7"
       },
@@ -787,102 +787,6 @@
       "duration_ms": 316666,
       "name": "Tutu",
       "url": "https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doo-Bop",
-        "url": "https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 297440,
-      "name": "The Doo-Bop Song",
-      "url": "https://open.spotify.com/track/6lbzLUoma85KVbQqBpvBrw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bags' Groove (Rudy Van Gelder 2008 Remaster)",
-        "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        },
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        },
-        {
-          "name": "Kenny Clarke",
-          "url": "https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa"
-        },
-        {
-          "name": "Percy Heath",
-          "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
-        }
-      ],
-      "duration_ms": 312480,
-      "name": "Oleo - RVG Remastered 2008",
-      "url": "https://open.spotify.com/track/6xPwn3TDhmKr2LWwg15a3i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 129861,
-      "name": "L'assassinat de Carala - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/6kAg8FCndlSgVWWm0mrngy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Porgy And Bess",
-        "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 253933,
-      "name": "I Loves You, Porgy (From \"Porgy & Bess\")",
-      "url": "https://open.spotify.com/track/4udO0OrgJ1Z4CtL9GiOYw9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doo-Bop",
-        "url": "https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/6WfytwIOVy3rdh2j7qFoEh"
     },
     {
       "added_at": null,
@@ -919,6 +823,102 @@
     {
       "added_at": null,
       "album": {
+        "name": "Doo-Bop",
+        "url": "https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 297440,
+      "name": "The Doo-Bop Song",
+      "url": "https://open.spotify.com/track/6lbzLUoma85KVbQqBpvBrw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 129861,
+      "name": "L'assassinat de Carala - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/6kAg8FCndlSgVWWm0mrngy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Porgy And Bess",
+        "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "I Loves You, Porgy (From \"Porgy & Bess\")",
+      "url": "https://open.spotify.com/track/4udO0OrgJ1Z4CtL9GiOYw9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bags' Groove (Rudy Van Gelder 2008 Remaster)",
+        "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        },
+        {
+          "name": "Kenny Clarke",
+          "url": "https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa"
+        },
+        {
+          "name": "Percy Heath",
+          "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
+        }
+      ],
+      "duration_ms": 312480,
+      "name": "Oleo - RVG Remastered 2008",
+      "url": "https://open.spotify.com/track/6xPwn3TDhmKr2LWwg15a3i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doo-Bop",
+        "url": "https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/6WfytwIOVy3rdh2j7qFoEh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Miles Ahead (Expanded Edition)",
         "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 323262,
       "name": "It Never Entered My Mind - Remastered 2026",
       "url": "https://open.spotify.com/track/5AvWM1pGI4UoTePbibtDC9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 129680,
-      "name": "Julien dans l'ascenseur - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/187EUpV70OeUMCGwz1GaT7"
     },
     {
       "added_at": null,
@@ -999,6 +983,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 129680,
+      "name": "Julien dans l'ascenseur - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/187EUpV70OeUMCGwz1GaT7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Embraceable",
         "url": "https://open.spotify.com/album/2j5GUDLnu0vbZCK1fgHo7c"
       },
@@ -1027,6 +1027,38 @@
       "duration_ms": 363410,
       "name": "My Funny Valentine - Remastered 2026",
       "url": "https://open.spotify.com/track/3hh9LKcW1eQkBP3XjtvZpI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bags' Groove (Rudy Van Gelder 2008 Remaster)",
+        "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        },
+        {
+          "name": "Kenny Clarke",
+          "url": "https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa"
+        },
+        {
+          "name": "Percy Heath",
+          "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "But Not For Me - Take 1 / RVG Remastered 2008",
+      "url": "https://open.spotify.com/track/16xrvoly0kWh4Rruc73XlL"
     },
     {
       "added_at": null,
@@ -1063,38 +1095,6 @@
       "duration_ms": 635066,
       "name": "Straight, No Chaser (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/7l5In0rLyHmqJhKlzZPtYo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bags' Groove (Rudy Van Gelder 2008 Remaster)",
-        "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        },
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        },
-        {
-          "name": "Kenny Clarke",
-          "url": "https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa"
-        },
-        {
-          "name": "Percy Heath",
-          "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
-        }
-      ],
-      "duration_ms": 276800,
-      "name": "But Not For Me - Take 1 / RVG Remastered 2008",
-      "url": "https://open.spotify.com/track/16xrvoly0kWh4Rruc73XlL"
     },
     {
       "added_at": null,

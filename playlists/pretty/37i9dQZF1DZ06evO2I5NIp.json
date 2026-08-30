@@ -1,12 +1,12 @@
 {
   "description": "This is Shemekia Copeland. The essential tracks, all in one playlist.",
-  "num_followers": 6016,
+  "num_followers": 6017,
   "original_name": "This Is Shemekia Copeland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABVJDF44lmqoFi8VXQV91r2",
+  "snapshot_id": "apDPgAAAAAD7FKo5r82OiUmcuBl+CN8l",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 234906,
-      "name": "When A Woman's Had Enough",
-      "url": "https://open.spotify.com/track/0NM6L05PewFO039wYaFjq9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Morgan Freeman's Symphonic Blues Experience",
         "url": "https://open.spotify.com/album/2pCUARTi6tBF0hMZtTz5ox"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 221546,
       "name": "Traveling Riverside Blues",
       "url": "https://open.spotify.com/track/1q6a5AZllhZb7jIM7ToThW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 234906,
+      "name": "When A Woman's Had Enough",
+      "url": "https://open.spotify.com/track/0NM6L05PewFO039wYaFjq9"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 243333,
-      "name": "Livin' On Love",
-      "url": "https://open.spotify.com/track/4b2b3mqvydxobI09OKyFus"
+      "duration_ms": 279640,
+      "name": "Too Close",
+      "url": "https://open.spotify.com/track/72feSuQENqrGxdtFEkzAsn"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 279640,
-      "name": "Too Close",
-      "url": "https://open.spotify.com/track/72feSuQENqrGxdtFEkzAsn"
+      "duration_ms": 243333,
+      "name": "Livin' On Love",
+      "url": "https://open.spotify.com/track/4b2b3mqvydxobI09OKyFus"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "The Push I Need",
-      "url": "https://open.spotify.com/track/72jXCg5cXZMzT3FNdr0ioY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outskirts of Love",
         "url": "https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 245173,
       "name": "Outskirts Of Love",
       "url": "https://open.spotify.com/track/4i7CJNvFHCiA9uN1OVMFMw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "The Push I Need",
+      "url": "https://open.spotify.com/track/72jXCg5cXZMzT3FNdr0ioY"
     },
     {
       "added_at": null,

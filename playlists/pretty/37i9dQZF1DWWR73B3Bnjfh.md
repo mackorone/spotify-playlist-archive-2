@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,278 likes - 75 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,448 likes - 75 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,16 +25,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 15 | [I Waited For You](https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Volume 2](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 3:29 |
 | 16 | [Lonely Woman \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/23VGdNEZzKVCpIazC3ZHK6) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Song For My Father](https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE) | 7:02 |
 | 17 | [Where Are You \- Remastered](https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 5:10 |
-| 18 | [The Midnight Sun Will Never Set](https://open.spotify.com/track/2tDKzLQnVYVj6pr8Ha0EBw) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 3:57 |
-| 19 | [Blue Lester](https://open.spotify.com/track/427fYkFx1Arn2qGQeGVGNT) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Blue Lester: The Immortal Lester Young](https://open.spotify.com/album/0knfA8bBrs5nQc4Q2ixFBt) | 3:25 |
+| 18 | [Blue Lester](https://open.spotify.com/track/427fYkFx1Arn2qGQeGVGNT) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Blue Lester: The Immortal Lester Young](https://open.spotify.com/album/0knfA8bBrs5nQc4Q2ixFBt) | 3:25 |
+| 19 | [The Midnight Sun Will Never Set](https://open.spotify.com/track/2tDKzLQnVYVj6pr8Ha0EBw) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 3:57 |
 | 20 | [All The Way \- Rudy Van Gelder Edition / 2007 / Digital Remaster](https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Candy \(Remastered\)](https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL) | 7:27 |
 | 21 | [My Foolish Heart](https://open.spotify.com/track/1y0U0HAe5QfTRzOsz74bOt) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Makes It Happen](https://open.spotify.com/album/7uElhe7eCpY1w89SWtBcSr) | 2:46 |
 | 22 | [Out Of Nowhere](https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Jazz Masters](https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt) | 4:08 |
 | 23 | [Black Coffee](https://open.spotify.com/track/6zoe2w8ubQOTM7XFGU2tUE) | [Duke Pearson](https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44) | [Profile](https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG) | 4:31 |
 | 24 | [These Foolish Things \(Remind Me Of You\)](https://open.spotify.com/track/2YOak7hL5XozgxIyBge01e) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 4:41 |
-| 25 | [Something I Dreamed Last Night](https://open.spotify.com/track/1ve0606S2phkNq4AoTRS3V) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Steamin' \[Rudy Van Gelder edition\]](https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ) | 6:11 |
+| 25 | [Blue And Sentimental \- Remastered 2007/Rudy Van Gelder Edition](https://open.spotify.com/track/4kFv25xG46k1MH0D8741Pb) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Blue And Sentimental \(Remastered\)](https://open.spotify.com/album/5TYNurFvKuz9z5L4Klwsl6) | 7:28 |
 | 26 | [Here's That Rainy Day](https://open.spotify.com/track/1m0dIj1PvGldkiwJUYzc1l) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [The Boss Is Back!](https://open.spotify.com/album/737Arukc7X3Nc9F5FYuBmz) | 6:07 |
-| 27 | [Blue And Sentimental \- Remastered 2007/Rudy Van Gelder Edition](https://open.spotify.com/track/4kFv25xG46k1MH0D8741Pb) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Blue And Sentimental \(Remastered\)](https://open.spotify.com/album/5TYNurFvKuz9z5L4Klwsl6) | 7:28 |
+| 27 | [Something I Dreamed Last Night](https://open.spotify.com/track/1ve0606S2phkNq4AoTRS3V) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Steamin' \[Rudy Van Gelder edition\]](https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ) | 6:11 |
 | 28 | [502 Blues \(Drinkin' And Drivin'\) \- Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/0F8xfPspwyXxRjsiW12mya) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 6:34 |
 | 29 | [Bewitched](https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Modern Art](https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6) | 4:26 |
 | 30 | [Violets For Your Furs \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane \[Rudy Van Gelder Remaster\]](https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg) | 6:15 |

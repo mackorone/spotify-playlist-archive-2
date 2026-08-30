@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,058 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,057 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 | 42 | [Nice To Meet Ya](https://open.spotify.com/track/3cphb8kdsjElYR7r5icK3H) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Nice To Meet Ya](https://open.spotify.com/album/3KrYBAbfxlssMirZLs6HzZ) | 2:38 |
 | 43 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 |
 | 44 | [Tomorrow Is Closed](https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:58 |
-| 45 | [Paralyzed](https://open.spotify.com/track/6KOQLj5dcYuFSN6srNs96u) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Paralyzed](https://open.spotify.com/album/4b5VmGfGFXxivUx1vshO9o) | 3:04 |
-| 46 | [Connection](https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Connection](https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX) | 2:28 |
+| 45 | [Connection](https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Connection](https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX) | 2:28 |
+| 46 | [Paralyzed](https://open.spotify.com/track/6KOQLj5dcYuFSN6srNs96u) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Paralyzed](https://open.spotify.com/album/4b5VmGfGFXxivUx1vshO9o) | 3:04 |
 | 47 | [How Do You Love Somebody](https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [How Do You Love Somebody](https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc) | 3:00 |
 | 48 | [Over Each Other](https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Over Each Other](https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP) | 2:50 |
 | 49 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 | 55 | [love race \(feat\. Kellin Quinn\)](https://open.spotify.com/track/1F9kEuwT29fgqlovIclu81) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [love race \(feat\. Kellin Quinn\)](https://open.spotify.com/album/3q4wUTOTsRASPClG5Fg3tk) | 3:08 |
 | 56 | [This Is Me \(From the Greatest Showman\)](https://open.spotify.com/track/3lCHADWP8ohxnfBiUqAN3o) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [This Is Me \(From The Greatest Showman\)](https://open.spotify.com/album/0Ubwwj4JBI6MVmOmEan8K8) | 3:54 |
 | 57 | [Shower Beer](https://open.spotify.com/track/6Kf0pq9FXBBwMkrgEKDT6S) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 3:11 |
-| 58 | [WANNA BE \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/058pBOh77XQJNg3YWGr4jN) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:38 |
-| 59 | [Feeling Lonely](https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 3:17 |
+| 58 | [Feeling Lonely](https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 3:17 |
+| 59 | [WANNA BE \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/058pBOh77XQJNg3YWGr4jN) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:38 |
 | 60 | [Temple Of Ekur](https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:19 |
 | 61 | [Irrelevant](https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Irrelevant](https://open.spotify.com/album/02wEEiMLBV64tAhyPCtD4J) | 3:52 |
 | 62 | [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 | 67 | [Remind Me](https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Remind Me](https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt) | 3:31 |
 | 68 | [Carry On](https://open.spotify.com/track/58hzFlHm1gKIJzRMSt0vWV) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Carry On](https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH) | 2:49 |
 | 69 | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC) | 3:25 |
-| 70 | [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK) | 2:29 |
-| 71 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 |
+| 70 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 |
+| 71 | [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK) | 2:29 |
 | 72 | [Halo \(feat\. PIA MARIA\)](https://open.spotify.com/track/6WVHfpzYW3HooQaCC80opC) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [PIA MARIA](https://open.spotify.com/artist/76FvAg4V0F4hX5rNFF0MFZ) | [Halo \(feat\. PIA MARIA\)](https://open.spotify.com/album/3IW2pdhIz1KqoJDr6sxe24) | 2:39 |
 | 73 | [why are you here](https://open.spotify.com/track/63h44N1oLElnzut7RxZt6Z) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [why are you here](https://open.spotify.com/album/0Cdk8wZXVrYX2ZyCwjTEjs) | 2:55 |
 | 74 | [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 |
-| 75 | [Take on Me](https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 3:43 |
+| 75 | [No Apologies](https://open.spotify.com/track/3tOsMX89CIiuf2x2n5EQyb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 |
 
 Snapshot ID: `AAAAABGYszsq464QyiFg2kYyeToU7Nih`

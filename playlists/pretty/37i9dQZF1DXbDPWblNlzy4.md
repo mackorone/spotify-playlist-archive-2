@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Aitana
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,261 likes - 53 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,259 likes - 53 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

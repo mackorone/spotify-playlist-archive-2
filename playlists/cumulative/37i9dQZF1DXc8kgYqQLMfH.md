@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,338 songs - 2 day 3 hr 11 min
+1,339 songs - 2 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Cereal](https://open.spotify.com/track/7zmnH5VY7m2TDJjMnr1g7k) | [Lightbulb Factory](https://open.spotify.com/artist/78iAJp4pn43kp0qykn8j84) | [Rumble](https://open.spotify.com/album/62H1oUwmHeqO1wUciIpWoZ) | 3:31 | 2021-11-10 | 2023-04-12 |
 | [cereal](https://open.spotify.com/track/6LGikEEOdHCfH4kpOprvfX) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [cereal](https://open.spotify.com/album/2qyyubGuuT6z3BGX4WoCwL) | 1:42 | 2022-10-28 | 2025-07-16 |
 | [Changes](https://open.spotify.com/track/6OI6ZzRcB3YqGn5ufAfj6I) | [Banco Swiss](https://open.spotify.com/artist/13lknPOa6VwjkuWzHcrg4J) | [Changes](https://open.spotify.com/album/31XIGAQMgeq8cOU2HZ0AzY) | 2:29 | 2022-11-25 | 2025-03-15 |
-| [Channel 4](https://open.spotify.com/track/2oh5lRVcuSJKXuIYaQyTna) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Channel 4](https://open.spotify.com/album/4OiNQcBMisLzzftNlQbfq2) | 2:07 | 2024-02-02 |  |
+| [Channel 4](https://open.spotify.com/track/2oh5lRVcuSJKXuIYaQyTna) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Channel 4](https://open.spotify.com/album/4OiNQcBMisLzzftNlQbfq2) | 2:07 | 2024-02-02 | 2026-08-30 |
 | [channel vibe](https://open.spotify.com/track/48rD1oCPeNhKNmmk9M02jL) | [Max Kellen](https://open.spotify.com/artist/01DXCHumnPqMICVTYhOdUU) | [channel vibe](https://open.spotify.com/album/1PiyFneVStcfr9VQoC7s3V) | 2:10 | 2022-07-15 | 2025-07-16 |
 | [Chasing Dreams](https://open.spotify.com/track/7HpNwwS5G8mUjcTshcMKzi) | [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt), [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Wonderland Chapter II](https://open.spotify.com/album/3HOZF0LXJjt0vhrJ3idypD) | 2:17 | 2021-11-10 | 2022-05-20 |
 | [chassing the lights](https://open.spotify.com/track/7nlDM7i676eZkcxlxvpJgG) | [Roppany](https://open.spotify.com/artist/7CtCqvAtkty3esFsNW6tLn) | [chassing the lights](https://open.spotify.com/album/6HBQsscOXZKP0S3sLgK4r5) | 1:46 | 2022-09-02 | 2023-04-12 |
@@ -1308,6 +1308,7 @@
 | [what's\-oup?](https://open.spotify.com/track/4bKT8NrOI1ZezuO2HAQegW) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [what's\-oup?](https://open.spotify.com/album/6YvQ0RoCU730vgHUn74I8p) | 2:37 | 2023-02-17 | 2025-07-16 |
 | [Whats Over There](https://open.spotify.com/track/1HH3LSSd4jiXwJfYonnlAX) | [Fryst](https://open.spotify.com/artist/4uX8CtNxSK7yqTTTKWngAS) | [Whats Over There](https://open.spotify.com/album/4XWTHMGOSFDSQoWVGF6f3M) | 2:19 | 2023-09-29 | 2025-07-16 |
 | [When I See You](https://open.spotify.com/track/6ANnNFLIzVkJsabPH1CiNa) | [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa), [Second Harbor](https://open.spotify.com/artist/4MjEXq0X0k1Sn1JZNaz3yM) | [When I See You](https://open.spotify.com/album/5EKkFX7EyjungYP6o4vx8I) | 2:20 | 2022-05-13 | 2022-06-10 |
+| [when it is gone](https://open.spotify.com/track/0zF8x6GLmKw9Qg5L8ydvAG) | [Kichiro](https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo) | [when it is gone](https://open.spotify.com/album/29I8NfLlSHlmMZ61GXaDEU) | 2:05 | 2026-08-28 |  |
 | [Where the Light Rests](https://open.spotify.com/track/5mGFAkKKMqfjRAU3hkHMSC) | [Pale Fiction](https://open.spotify.com/artist/4rMd74iv02uwHdEs5Dc4XV) | [Where the Light Rests](https://open.spotify.com/album/23cJFMZBT8OzAgv0PXuBMp) | 2:08 | 2026-03-11 | 2026-04-10 |
 | [where were u](https://open.spotify.com/track/4lPug66ovwaHAqWJ1lUFLW) | [inthedark](https://open.spotify.com/artist/3VODOokOAtBPtnB1aAWtf6) | [where were u](https://open.spotify.com/album/2HAjfWz1lAJFKhGdO7QJ15) | 2:12 | 2022-06-24 | 2023-01-20 |
 | [wherever you go](https://open.spotify.com/track/4BihRR1aNqljFZ2kVYS6Xq) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [wherever you go](https://open.spotify.com/album/2SGlbnB45alvXoKJ35Lt3M) | 2:27 | 2025-09-19 | 2025-10-05 |

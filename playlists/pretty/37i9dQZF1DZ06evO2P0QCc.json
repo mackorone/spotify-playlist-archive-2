@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 126066,
+  "num_followers": 126078,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAADKWpmrZQanWHTETvaisHLK",
+  "snapshot_id": "apDPgAAAAACk8KuUCRws0mGGR2STq5ic",
   "tracks": [
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eden Vol. II",
-        "url": "https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 217318,
-      "name": "Amargo Adi\u00f3s",
-      "url": "https://open.spotify.com/track/61gYpH7WnkEc4lDVxjc4fm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A la Larga Te Acostumbras",
         "url": "https://open.spotify.com/album/5jk2mKBw1wNaDuCHy0lwvz"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 186613,
       "name": "Tengo un Amor",
       "url": "https://open.spotify.com/track/7F0iPNyf2Zmxmu7r220B5m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eden Vol. II",
+        "url": "https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 217318,
+      "name": "Amargo Adi\u00f3s",
+      "url": "https://open.spotify.com/track/61gYpH7WnkEc4lDVxjc4fm"
     },
     {
       "added_at": null,
@@ -671,22 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonando desde el Auditorio Nacional",
-        "url": "https://open.spotify.com/album/3KIOJqMlw5Mon5X6NfVLr8"
+        "name": "Ska Wars Monterrey",
+        "url": "https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x"
       },
       "artists": [
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
         }
       ],
-      "duration_ms": 226466,
-      "name": "Ara\u00f1a Ska - Sonando desde el Auditorio Nacional",
-      "url": "https://open.spotify.com/track/4SKvkWO5CPTTkkzOt4P3SP"
+      "duration_ms": 205720,
+      "name": "Breve Historia de Amor y una Mujer",
+      "url": "https://open.spotify.com/track/2syJSllQmem8RDSSTxLo4W"
     },
     {
       "added_at": null,
@@ -727,18 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ska Wars Monterrey",
-        "url": "https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x"
+        "name": "Sonando desde el Auditorio Nacional",
+        "url": "https://open.spotify.com/album/3KIOJqMlw5Mon5X6NfVLr8"
       },
       "artists": [
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
         }
       ],
-      "duration_ms": 205720,
-      "name": "Breve Historia de Amor y una Mujer",
-      "url": "https://open.spotify.com/track/2syJSllQmem8RDSSTxLo4W"
+      "duration_ms": 226466,
+      "name": "Ara\u00f1a Ska - Sonando desde el Auditorio Nacional",
+      "url": "https://open.spotify.com/track/4SKvkWO5CPTTkkzOt4P3SP"
     },
     {
       "added_at": null,

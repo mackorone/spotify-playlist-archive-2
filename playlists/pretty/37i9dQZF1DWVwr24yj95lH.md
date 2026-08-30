@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 
 > The best Grunge heirs' songs\. Cover: Creed
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,253 likes - 70 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,247 likes - 70 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 37 | [Santa Monica](https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [Sparkle And Fade](https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0) | 3:11 |
 | 38 | [Awake](https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Awake](https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4) | 5:04 |
 | 39 | [Photograph](https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons](https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3) | 4:18 |
-| 40 | [Real World](https://open.spotify.com/track/70fe354BpVKEvMY0de78YO) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:51 |
-| 41 | [Meant to Live](https://open.spotify.com/track/2md2i5QvelRFnafpnd6LOg) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [The Beautiful Letdown \(Deluxe Version\)](https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9) | 3:21 |
+| 40 | [Meant to Live](https://open.spotify.com/track/2md2i5QvelRFnafpnd6LOg) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [The Beautiful Letdown \(Deluxe Version\)](https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9) | 3:21 |
+| 41 | [Real World](https://open.spotify.com/track/70fe354BpVKEvMY0de78YO) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:51 |
 | 42 | [Psycho](https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Famous](https://open.spotify.com/album/64gmkAgWQqEGJtvAaGm2La) | 3:30 |
 | 43 | [Vitamin R \(Leading Us Along\)](https://open.spotify.com/track/04NGX0b5Tgs7VsErfn5OA1) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [This Type Of Thinking \(Could Do Us In\)](https://open.spotify.com/album/3zuIMH8P0GKtV5LR6zwGLB) | 3:43 |
 | 44 | [Savin' Me](https://open.spotify.com/track/4Gd9PUEuOTOJtbgd4YxLXM) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons](https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3) | 3:39 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 46 | [Angel](https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Savages](https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn) | 3:22 |
 | 47 | [Trippin' on a Hole in a Paper Heart](https://open.spotify.com/track/2gdtLnVGGg80Kj9GiqP0vH) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Tiny Music...Songs from the Vatican Gift Shop](https://open.spotify.com/album/2JJEIN6LvQJQTJDfnYdDAe) | 2:55 |
 | 48 | [I Will Buy You A New Life](https://open.spotify.com/track/2fhfoZqqTJ8jo4HvWseNfM) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [So Much For The Afterglow](https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM) | 3:58 |
-| 49 | [Away From The Sun](https://open.spotify.com/track/3THdexHRmED4euIY91Zrxc) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:52 |
-| 50 | [You](https://open.spotify.com/track/5J19HPdmJHOEu32iyZEt5k) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n) | [Candlebox](https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb) | 4:57 |
+| 49 | [You](https://open.spotify.com/track/5J19HPdmJHOEu32iyZEt5k) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n) | [Candlebox](https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb) | 4:57 |
+| 50 | [Away From The Sun](https://open.spotify.com/track/3THdexHRmED4euIY91Zrxc) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:52 |
 | 51 | [Outside](https://open.spotify.com/track/5D6rk7Zr7FRy5m2fDte5fp) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE) | 4:53 |
 | 52 | [Freak](https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:46 |
 | 53 | [Selling The Drama](https://open.spotify.com/track/5hE3T2329sdMmIrHxjhQDL) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/3XbMeJ9zrtH806HuHWkZF2) | 3:28 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 66 | [Anthem For The Underdog](https://open.spotify.com/track/6FFwt1ea9hJ4MfMQLywahm) | [12 Stones](https://open.spotify.com/artist/0DrXhci3WAyo0WJv1RBOG6) | [Anthem For The Underdog \(Bonus Track Version\)](https://open.spotify.com/album/2Qp0yu0Uaw3C83YNYqfgdv) | 3:04 |
 | 67 | [Why I'm Here](https://open.spotify.com/track/0hgOGzUYKKQbQcWDoJpM6H) | [Oleander](https://open.spotify.com/artist/7038Bglq6YmpBu6wPvQJiz) | [February Son](https://open.spotify.com/album/3DxLga8esIW4kag2FGPWMI) | 3:58 |
 | 68 | [Shade](https://open.spotify.com/track/2keOybXUjBXImmAjk7UapM) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:02 |
-| 69 | [Astounded](https://open.spotify.com/track/0WBL72ulf4mkcflIO0W5cq) | [Tantric](https://open.spotify.com/artist/4tMZahYVKJdjbC1GHVtNnV) | [Tantric \(U.S\. Version\-Enh'd\)](https://open.spotify.com/album/08nOgpgThrvOYlvM6nUOmJ) | 4:21 |
-| 70 | [Gone Away \(A Song For Starr\)](https://open.spotify.com/track/3Vxib4vvhfLPyphsln3of2) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [Year Of The Spider](https://open.spotify.com/album/0XxmvWFp66NnlSxco9i7yr) | 3:14 |
+| 69 | [Gone Away \(A Song For Starr\)](https://open.spotify.com/track/3Vxib4vvhfLPyphsln3of2) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [Year Of The Spider](https://open.spotify.com/album/0XxmvWFp66NnlSxco9i7yr) | 3:14 |
+| 70 | [Astounded](https://open.spotify.com/track/0WBL72ulf4mkcflIO0W5cq) | [Tantric](https://open.spotify.com/artist/4tMZahYVKJdjbC1GHVtNnV) | [Tantric \(U.S\. Version\-Enh'd\)](https://open.spotify.com/album/08nOgpgThrvOYlvM6nUOmJ) | 4:21 |
 
 Snapshot ID: `AAAAAAMnpgNFmDRnTaUQSvyAdC1ANI5E`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 
 > soft and sweet
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,980 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,972 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 21 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 |
 | 22 | [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 |
 | 23 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 |
-| 24 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
-| 25 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
+| 24 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
+| 25 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
 | 26 | [lacy](https://open.spotify.com/track/6QT6j7rKt7Vk3IuV2AUO9W) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:57 |
 | 27 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
 | 28 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:04 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 60 | [Silver Spoon](https://open.spotify.com/track/6hO8bfYNOb97gzVDgcYVND) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [Silver Spoon](https://open.spotify.com/album/3ziaoXrlwiwwJXwRtoeyPJ) | 4:14 |
 | 61 | [ORIGAMI](https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 3:02 |
 | 62 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 |
-| 63 | [Never Gunna Give You Up](https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Never Gunna Give You Up](https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno) | 2:45 |
-| 64 | [Home Sweet Home](https://open.spotify.com/track/56CqQv5oOJmu70guWHLTTx) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Dream](https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi) | 3:28 |
+| 63 | [Home Sweet Home](https://open.spotify.com/track/56CqQv5oOJmu70guWHLTTx) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Dream](https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi) | 3:28 |
+| 64 | [Never Gunna Give You Up](https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Never Gunna Give You Up](https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno) | 2:45 |
 | 65 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 |
 | 66 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 |
 | 67 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 |

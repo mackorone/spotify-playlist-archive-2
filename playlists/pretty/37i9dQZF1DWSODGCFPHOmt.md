@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas\. Cover: Ilusion Eterno
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,816 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,815 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,12 +87,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 77 | [Blanca Navidad](https://open.spotify.com/track/6MM2yVmmVOtPKTDPGmmGy0) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Blanca Navidad](https://open.spotify.com/album/0zV6NFZnGLuSrfKPQcupTc) | 2:29 |
 | 78 | [Mi Burrito Sabanero](https://open.spotify.com/track/6I5I4L2kRifxJ2RyAAaeca) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Mi Burrito Sabanero](https://open.spotify.com/album/69Ez1GJ0OaOsMlNwj0nbPp) | 3:10 |
 | 79 | [Navidad, Feel The Magic](https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Navidad, Feel The Magic](https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO) | 2:45 |
-| 80 | [Feliz Navidad](https://open.spotify.com/track/6Ra9tH3xV7bN7oHwYol2hi) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Navidad Con Bebeto](https://open.spotify.com/album/6HiQ6te1m4K2WqHYmB09ql) | 3:07 |
-| 81 | [El Burrito Sabanero](https://open.spotify.com/track/469MSmQG8v0E8p2JEX0mrY) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Iskander](https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p), [SanJuan](https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq) | [El Burrito Sabanero](https://open.spotify.com/album/6d75W2OV6wICNxwSu4KCFU) | 3:51 |
+| 80 | [El Burrito Sabanero](https://open.spotify.com/track/469MSmQG8v0E8p2JEX0mrY) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Iskander](https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p), [SanJuan](https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq) | [El Burrito Sabanero](https://open.spotify.com/album/6d75W2OV6wICNxwSu4KCFU) | 3:51 |
+| 81 | [Feliz Navidad](https://open.spotify.com/track/6Ra9tH3xV7bN7oHwYol2hi) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Navidad Con Bebeto](https://open.spotify.com/album/6HiQ6te1m4K2WqHYmB09ql) | 3:07 |
 | 82 | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/5kEHTKyHAq67kLHA7K8Ueh) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Navidad Fiesta Universal](https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb) | 3:14 |
-| 83 | [Ven A Cantar](https://open.spotify.com/track/7hq4SaGBw2QVe5jo9XHYa7) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 3:51 |
-| 84 | [El Año Viejo](https://open.spotify.com/track/3oZMKFvh00SNtwzuzAh6kP) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 4:18 |
-| 85 | [Cada Diciembre](https://open.spotify.com/track/6vYw8xnCYqUggR61dGE1OX) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Cada Diciembre](https://open.spotify.com/album/0HvnVL2VTStW5X5tT0nTOI) | 2:27 |
+| 83 | [El Año Viejo](https://open.spotify.com/track/3oZMKFvh00SNtwzuzAh6kP) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 4:18 |
+| 84 | [Cada Diciembre](https://open.spotify.com/track/6vYw8xnCYqUggR61dGE1OX) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Cada Diciembre](https://open.spotify.com/album/0HvnVL2VTStW5X5tT0nTOI) | 2:27 |
+| 85 | [Ven A Cantar](https://open.spotify.com/track/7hq4SaGBw2QVe5jo9XHYa7) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 3:51 |
 | 86 | [Campanas Navideñas](https://open.spotify.com/track/34UR0VBlJPPhTYzuGrYyXW) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 3:17 |
 | 87 | [Los Peces en el Río](https://open.spotify.com/track/2tanhbR7OE2KRuOqKp6WIP) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 2:55 |
 | 88 | [Llego Navidad](https://open.spotify.com/track/4hqBRTQBM6WpKaUlpX5wtA) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Llego Navidad](https://open.spotify.com/album/7pmgBUyaWtngkQ0qd5UUlg) | 3:24 |

@@ -4756,7 +4756,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 72528,
       "name": "Auld Lang Syne - Live",
       "url": "https://open.spotify.com/track/6WjCaePjJPkGrG4b7jIsqv"
@@ -11336,7 +11336,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 169613,
       "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
       "url": "https://open.spotify.com/track/2LfIvkV7kBvqo3tx1H9sqw"
@@ -11598,7 +11598,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 150442,
       "name": "Can\u2019t Take My Eyes Off You",
       "url": "https://open.spotify.com/track/7yHcJjkRyh4PXtU5EOLaVS"
@@ -21756,7 +21756,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 271371,
       "name": "Evening Song No.3 for Solo Violin",
       "url": "https://open.spotify.com/track/58JaKRhM1DnaK1vLGT3Oy9"
@@ -32176,7 +32176,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 176363,
       "name": "Hookah Baby",
       "url": "https://open.spotify.com/track/5K32Q21Oc1weiMtLDqVULI"
@@ -50214,7 +50214,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 279779,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/21WWur6B3kTFoIRPxQlBlZ"
@@ -51996,7 +51996,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 160879,
       "name": "Only",
       "url": "https://open.spotify.com/track/5Rfg5cZiaEnhNfJz1eSO9q"
@@ -54074,7 +54074,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 184248,
       "name": "petal",
       "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
@@ -55542,7 +55542,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 180369,
       "name": "Poured",
       "url": "https://open.spotify.com/track/3zPMFEgOwgYsdyFzRgw4Ly"
@@ -60546,7 +60546,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 289187,
       "name": "Saw You Stand",
       "url": "https://open.spotify.com/track/5bfBYLi32nYvrKbtPi78ek"
@@ -73203,6 +73203,28 @@
     },
     {
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/7eWXspfV18aZfvVRHRA1XN"
+      },
+      "artists": [
+        {
+          "name": "Kash'd Out",
+          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215786,
+      "name": "Tightrope (with Wax)",
+      "url": "https://open.spotify.com/track/18GgkLkahh1NquRxdnt0St"
+    },
+    {
+      "album": {
         "name": "Tightrope (with Wax)",
         "url": "https://open.spotify.com/album/0gHPOld7Ud0C3VeywRsplr"
       },
@@ -73218,7 +73240,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 215786,
       "name": "Tightrope (with Wax)",
       "url": "https://open.spotify.com/track/68yIM8WJTw1sSfrH8iAXuB"
@@ -82374,7 +82396,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 231901,
       "name": "YOU CAN ALWAYS COME BACK HOME",
       "url": "https://open.spotify.com/track/2vqBRoGsI41kO1f7sIp6qE"

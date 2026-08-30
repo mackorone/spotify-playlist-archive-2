@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,489 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,490 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 26 | [Chop Time, No Friend](https://open.spotify.com/track/4qbEAsnEwISp19ebujxhg4) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:48 |
 | 27 | [DON'T JEALOUS ME](https://open.spotify.com/track/1yvFoBp2Bq1ilD0518ZpQx) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut), [Lord Afrixana](https://open.spotify.com/artist/2MfKVXjjRUAUEeh4b4y8Sc), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 2:35 |
 | 28 | [No\. 1 Fan](https://open.spotify.com/track/08Nq5kTcYSrrHm19bAD0UJ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See What We've Done](https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d) | 1:57 |
-| 29 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 |
-| 30 | [Dabebi](https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:58 |
-| 31 | [Casanova](https://open.spotify.com/track/3coiPTHUXzjOQT1e1qKX9t) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Casanova](https://open.spotify.com/album/1ka9tiXxiUc6BHN5ZsNhgx) | 2:15 |
+| 29 | [Dabebi](https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:58 |
+| 30 | [Casanova](https://open.spotify.com/track/3coiPTHUXzjOQT1e1qKX9t) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Casanova](https://open.spotify.com/album/1ka9tiXxiUc6BHN5ZsNhgx) | 2:15 |
+| 31 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 |
 | 32 | [Fààjí](https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Fààjí](https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt) | 2:29 |
 | 33 | [Business](https://open.spotify.com/track/6Px2Esj5oY27ZvkbkLSA5d) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0) | [Life is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU) | 4:02 |
 | 34 | [KEYS TO THE KINGDOM](https://open.spotify.com/track/3KZK9MF3bAixN5UWOHVTbf) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 49 | [Attention](https://open.spotify.com/track/5sjuPu1wyt0n5hybW07RyQ) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [F1 The Album](https://open.spotify.com/album/2HwRKkEp7jXbxXwcGyZYHK) | 2:53 |
 | 50 | [Marry](https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Marry](https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm) | 3:29 |
 
-Snapshot ID: `ao9+AAAAAADrMl0QcqWzaGsozG+jZH3w`
+Snapshot ID: `apDPgAAAAADJyxpuy4kPdiI60sSaI5aX`

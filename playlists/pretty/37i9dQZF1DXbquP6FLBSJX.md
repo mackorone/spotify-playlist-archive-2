@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbquP6FLBSJX.md) - [plain]
 
 > Unwind in time to these 70s classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,645 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,647 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbquP6FLBSJX.md) - [plain]
 | 47 | [Rivers of Babylon](https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Nightflight to Venus](https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd) | 4:21 |
 | 48 | [Sara Smile](https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Daryl Hall & John Oates \(The Silver Album\)](https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA) | 3:05 |
 | 49 | [Georgy Porgy](https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 4:07 |
-| 50 | [Sailing](https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Atlantic Crossing](https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN) | 4:37 |
+| 50 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul) | 4:33 |
 
 Snapshot ID: `AAAAACjFJUSaiXcdrdhX1AhJK5JTDYJZ`

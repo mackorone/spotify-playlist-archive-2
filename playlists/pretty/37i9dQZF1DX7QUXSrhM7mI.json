@@ -1,6 +1,6 @@
 {
   "description": "A dreamy, beautiful musical companion to your time for rest and relaxation.",
-  "num_followers": 97630,
+  "num_followers": 97634,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2026-07-26 19:49:10",
       "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Nobody New",
+      "url": "https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg"
+    },
+    {
+      "added_at": "2026-07-26 19:49:10",
+      "album": {
         "name": "Hell N Back (feat. Summer Walker)",
         "url": "https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 195147,
       "name": "Hell N Back (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC"
-    },
-    {
-      "added_at": "2026-07-26 19:49:10",
-      "album": {
-        "name": "Back To Me",
-        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Nobody New",
-      "url": "https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg"
     },
     {
       "added_at": "2026-07-26 19:49:10",

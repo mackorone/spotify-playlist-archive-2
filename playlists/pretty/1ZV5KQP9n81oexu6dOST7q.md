@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZV5KQP9n81oexu6dOST7q.md) - [plain]
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 50,004 likes - 106 songs - 5 hr 23 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 49,998 likes - 106 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/1ZV5KQP9n81oexu6dOST7q.md) - [plain]
 | 98 | [Another Life](https://open.spotify.com/track/5vSwn5J5QdE5g6FJm7gg9E) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Another Life](https://open.spotify.com/album/1FlZN9twq2MMzucN76UOU0) | 2:19 |
 | 99 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |
 | 100 | [Move \(feat\. Camila Cabello & Malachiii\)](https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG) | [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC) | [Move \(feat\. Camila Cabello & Malachiii\)](https://open.spotify.com/album/1Jo5dOD8bFEWnPIXKlORVp) | 3:00 |
-| 101 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 |
+| 101 | [Black Friday \- pretty like the sun](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 |
 | 102 | [Bad Memories \- Felix Jaehn Remix](https://open.spotify.com/track/04R4oiYD4NU6ZkdwlaJSep) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(Felix Jaehn Remix\)](https://open.spotify.com/album/1BDhBICG1Iowos7dCtSizl) | 2:29 |
 | 103 | [Kiss](https://open.spotify.com/track/31YoV8zUWlnEZWjoyEL1Yk) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Kiss](https://open.spotify.com/album/0ZLsgnTsexXc2QvVeUlI6s) | 2:19 |
 | 104 | [NOW'S A GOOD TIME TO BE](https://open.spotify.com/track/2Qu8Kb8WJwUMUwr5y9R1f9) | [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [NAGTTB+](https://open.spotify.com/album/6lte94zyWde7fR0o8XKQPZ) | 2:27 |

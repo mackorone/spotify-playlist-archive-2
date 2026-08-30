@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 244663,
+  "num_followers": 244684,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAD/SqU9tNKwLNFGQU5G/K93",
+  "snapshot_id": "apDPgAAAAAAWtg4uj0A30uTdlp92T1PN",
   "tracks": [
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norte\u00f1a",
-        "url": "https://open.spotify.com/album/3VBpaVReuh97r9Fb7gwxUQ"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 227413,
-      "name": "Volver a Ti",
-      "url": "https://open.spotify.com/track/5m3zoNUv4WO35cfzjbLGK9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cole\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/45km4FUN3OHr7bqR5Evpyh"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 244975,
       "name": "Ilus\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/4zVlZoP2PTXu9LddkZR3Lt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norte\u00f1a",
+        "url": "https://open.spotify.com/album/3VBpaVReuh97r9Fb7gwxUQ"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 227413,
+      "name": "Volver a Ti",
+      "url": "https://open.spotify.com/track/5m3zoNUv4WO35cfzjbLGK9"
     },
     {
       "added_at": null,
@@ -783,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "VIGENTE",
+        "url": "https://open.spotify.com/album/5DAgbaRJwSxH1EiTAa0JRx"
+      },
+      "artists": [
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 200125,
+      "name": "Lo Que Por Ti Yo Siento",
+      "url": "https://open.spotify.com/track/2ZPxOkXzHTULbQk5qv4B9s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Esta Ma\u00f1ana Y Otros Cuentos",
         "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 207160,
       "name": "Te solt\u00e9 la rienda",
       "url": "https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VIGENTE",
-        "url": "https://open.spotify.com/album/5DAgbaRJwSxH1EiTAa0JRx"
-      },
-      "artists": [
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 200125,
-      "name": "Lo Que Por Ti Yo Siento",
-      "url": "https://open.spotify.com/track/2ZPxOkXzHTULbQk5qv4B9s"
     },
     {
       "added_at": null,

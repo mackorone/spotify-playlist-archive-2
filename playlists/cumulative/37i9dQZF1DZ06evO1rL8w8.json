@@ -218,7 +218,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 229013,
       "name": "Carteles Unidos",
       "url": "https://open.spotify.com/track/5s1jaW59HgyU9RSv1z3UNY"
@@ -1224,6 +1224,24 @@
       "duration_ms": 144989,
       "name": "Me Amanezco Con Mi Ex",
       "url": "https://open.spotify.com/track/4fWFkrtNHcRH0F4GAwVzsI"
+    },
+    {
+      "album": {
+        "name": "Me Caliento Como Brasa",
+        "url": "https://open.spotify.com/album/6v0nDS1Uy9DAahj3w4uVgf"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174538,
+      "name": "Me Caliento Como Brasa",
+      "url": "https://open.spotify.com/track/4m70EqCzc6eCdqEp8TOcLV"
     },
     {
       "album": {

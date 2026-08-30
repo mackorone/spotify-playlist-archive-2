@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 6100,
+  "num_followers": 6103,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAD4mW9ggfruNlZ9j7T0lGMz",
+  "snapshot_id": "apDPgAAAAABjlWuMorUduflvY2He5Q+f",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 164155,
-      "name": "Na You",
-      "url": "https://open.spotify.com/track/1GaztXz2h5pFWjPwgqjWHg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greater",
         "url": "https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 318727,
       "name": "Dependable God",
       "url": "https://open.spotify.com/track/2YuL1yKBLeduuGOTZQvANU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 164155,
+      "name": "Na You",
+      "url": "https://open.spotify.com/track/1GaztXz2h5pFWjPwgqjWHg"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
-        "url": "https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 2509230,
-      "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
-      "url": "https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You are Lifted (Spontaneous Worship)",
         "url": "https://open.spotify.com/album/3GL93N3e9sBtznX6BIHzng"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 2461616,
       "name": "You are Lifted (Spontaneous Worship)",
       "url": "https://open.spotify.com/track/4O9kmanzq6i11XhGOyNXfN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
+        "url": "https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 2509230,
+      "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
+      "url": "https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL"
     },
     {
       "added_at": null,
@@ -819,6 +819,34 @@
       "duration_ms": 182488,
       "name": "Joy",
       "url": "https://open.spotify.com/track/0vUWg5NoY2umz4SQnkkEU6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parlour Worship Medley",
+        "url": "https://open.spotify.com/album/4op2MUKLfQTezGoT91rga1"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "BBO",
+          "url": "https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd"
+        },
+        {
+          "name": "PROMISE EFFIONG",
+          "url": "https://open.spotify.com/artist/427FC2Bm4pD6DM2CBt8A90"
+        }
+      ],
+      "duration_ms": 1832300,
+      "name": "Parlour Worship Medley",
+      "url": "https://open.spotify.com/track/1q3aYKfRrBtotd39lkEYzC"
     },
     {
       "added_at": null,

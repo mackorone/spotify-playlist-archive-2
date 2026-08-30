@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 397700,
+  "num_followers": 397716,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,18 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Heart of the Matter",
-        "url": "https://open.spotify.com/album/0g8sy5xfRXLxvlgxYsfSEt"
+        "name": "Northern Star",
+        "url": "https://open.spotify.com/album/5R4PL73ePjYo53hfmicqFP"
       },
       "artists": [
         {
-          "name": "Tim Akkerman",
-          "url": "https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u"
-        },
-        {
-          "name": "The Ivy League",
-          "url": "https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO"
+          "name": "Nambyar",
+          "url": "https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9"
         }
       ],
-      "duration_ms": 244472,
-      "name": "Heart of the Matter",
-      "url": "https://open.spotify.com/track/6OkmVYAiybfvlSjrGnCTPb"
+      "duration_ms": 192080,
+      "name": "Northern Star",
+      "url": "https://open.spotify.com/track/4cfVHLsWpN7dwbLRLsSoSn"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -815,34 +811,22 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Northern Star",
-        "url": "https://open.spotify.com/album/5R4PL73ePjYo53hfmicqFP"
+        "name": "Heart of the Matter",
+        "url": "https://open.spotify.com/album/0g8sy5xfRXLxvlgxYsfSEt"
       },
       "artists": [
         {
-          "name": "Nambyar",
-          "url": "https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9"
-        }
-      ],
-      "duration_ms": 192080,
-      "name": "Northern Star",
-      "url": "https://open.spotify.com/track/4cfVHLsWpN7dwbLRLsSoSn"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
-        "name": "Happy, Pt. 2",
-        "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
-      },
-      "artists": [
+          "name": "Tim Akkerman",
+          "url": "https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u"
+        },
         {
-          "name": "Douglas Firs",
-          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
+          "name": "The Ivy League",
+          "url": "https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO"
         }
       ],
-      "duration_ms": 230715,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
+      "duration_ms": 244472,
+      "name": "Heart of the Matter",
+      "url": "https://open.spotify.com/track/6OkmVYAiybfvlSjrGnCTPb"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -863,6 +847,22 @@
       "duration_ms": 193749,
       "name": "Illusion (feat. Tangarine) - acoustic",
       "url": "https://open.spotify.com/track/4Y86dcLLPyk5CKfGAzEjFc"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
+        "name": "Happy, Pt. 2",
+        "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
+      },
+      "artists": [
+        {
+          "name": "Douglas Firs",
+          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
+        }
+      ],
+      "duration_ms": 230715,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "What Makes A King",
-        "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
-      },
-      "artists": [
-        {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
-        }
-      ],
-      "duration_ms": 168433,
-      "name": "What Makes A King",
-      "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 237545,
       "name": "Uncharted - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
+        "name": "What Makes A King",
+        "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
+      },
+      "artists": [
+        {
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+        }
+      ],
+      "duration_ms": 168433,
+      "name": "What Makes A King",
+      "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
+        "name": "Your Spirit (From \"Team Spirit: Next Gen\")",
+        "url": "https://open.spotify.com/album/7KE4vswEm8fYEq3WKmQucw"
+      },
+      "artists": [
+        {
+          "name": "OSKI",
+          "url": "https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ"
+        }
+      ],
+      "duration_ms": 211862,
+      "name": "Your Spirit - From \"Team Spirit: Next Gen\"",
+      "url": "https://open.spotify.com/track/6WlW10QVG34BDyAZOCXL4N"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
         "name": "Brotherhood",
         "url": "https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT"
       },
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Your Spirit (From \"Team Spirit: Next Gen\")",
-        "url": "https://open.spotify.com/album/7KE4vswEm8fYEq3WKmQucw"
+        "name": "Who Am I",
+        "url": "https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6"
       },
       "artists": [
         {
-          "name": "OSKI",
-          "url": "https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ"
+          "name": "Faela",
+          "url": "https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm"
         }
       ],
-      "duration_ms": 211862,
-      "name": "Your Spirit - From \"Team Spirit: Next Gen\"",
-      "url": "https://open.spotify.com/track/6WlW10QVG34BDyAZOCXL4N"
+      "duration_ms": 145403,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -1187,22 +1203,6 @@
       "duration_ms": 177306,
       "name": "Falling Easy",
       "url": "https://open.spotify.com/track/4s0eEqOyR0ybLtBo5fkPB6"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
-        "name": "Who Am I",
-        "url": "https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6"
-      },
-      "artists": [
-        {
-          "name": "Faela",
-          "url": "https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm"
-        }
-      ],
-      "duration_ms": 145403,
-      "name": "Who Am I",
-      "url": "https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 186438,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
         "name": "We Come Alive",
         "url": "https://open.spotify.com/album/2eKWhwVxNOZOy0cg0LIqjY"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "I'm Always On Stage",
-        "url": "https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB"
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
         }
       ],
-      "duration_ms": 243546,
-      "name": "I'm Always On Stage",
-      "url": "https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J"
+      "duration_ms": 186438,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -1323,6 +1307,22 @@
       "duration_ms": 199000,
       "name": "Always Lost",
       "url": "https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
+        "name": "I'm Always On Stage",
+        "url": "https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 243546,
+      "name": "I'm Always On Stage",
+      "url": "https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/3rd9u0gRWSDMCkO7UcF0jV"
-      },
-      "artists": [
-        {
-          "name": "Celine Cairo",
-          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
-        }
-      ],
-      "duration_ms": 248019,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/5q5bSQnrPsdxvmb17kAIxU"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
         "name": "Redeeming Grace",
         "url": "https://open.spotify.com/album/0GKWgZFnokGG8vSSPoDqfQ"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 265866,
       "name": "Afraid Of What You Might Find",
       "url": "https://open.spotify.com/track/7cnbRTFRYERD9bPO6SkDUx"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/3rd9u0gRWSDMCkO7UcF0jV"
+      },
+      "artists": [
+        {
+          "name": "Celine Cairo",
+          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
+        }
+      ],
+      "duration_ms": 248019,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/5q5bSQnrPsdxvmb17kAIxU"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
+        "name": "For A Minute",
+        "url": "https://open.spotify.com/album/5YEaUXCdPjPfRvasyl89gH"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 215514,
+      "name": "For A Minute",
+      "url": "https://open.spotify.com/track/55qf0ylgBDcQaKj0eWYpJb"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/2lSPk8E1AEcvji5Ohf1vPI"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 164493,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
-        "name": "For A Minute",
-        "url": "https://open.spotify.com/album/5YEaUXCdPjPfRvasyl89gH"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 215514,
-      "name": "For A Minute",
-      "url": "https://open.spotify.com/track/55qf0ylgBDcQaKj0eWYpJb"
     }
   ],
   "unique_name": "'t Koffiehuis",

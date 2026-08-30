@@ -1,12 +1,12 @@
 {
   "description": "This is Ladysmith Black Mambazo. The essential tracks, all in one playlist.",
-  "num_followers": 28399,
+  "num_followers": 28402,
   "original_name": "This Is Ladysmith Black Mambazo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABbsvwd0jOy1irDhTEFD1Vq",
+  "snapshot_id": "apDPgAAAAACUKWQF/P5ukDqwrCNshMOl",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Feathers And Stone (Deluxe)",
+        "url": "https://open.spotify.com/album/6oj2eJdvXjOnKFb1fJD02V"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 265043,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/1i8LXTJ2WeRWIsWItLB45G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu"
       },
@@ -263,26 +283,6 @@
       "duration_ms": 238346,
       "name": "Lift Me Up (feat. Nico & Vinz, Ladysmith Black Mambazo)",
       "url": "https://open.spotify.com/track/2YgD8aDme4OP5kPIp7PCZy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feathers And Stone (Deluxe)",
-        "url": "https://open.spotify.com/album/6oj2eJdvXjOnKFb1fJD02V"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 265043,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/1i8LXTJ2WeRWIsWItLB45G"
     },
     {
       "added_at": null,
@@ -323,6 +323,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/4RAgpLIfNKUoRBnsYFjpfw"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 339026,
+      "name": "Knockin' on Heaven's Door",
+      "url": "https://open.spotify.com/track/6oUuWLqoMd6ZCQJf6BQ10m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/6E6fumzB50Dwmzc7MUkXuC"
       },
@@ -355,46 +375,6 @@
       "duration_ms": 253093,
       "name": "Woza kuJesu",
       "url": "https://open.spotify.com/track/0sgAqutrF0ZJOl1xyGuJeo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nostalgic Moments",
-        "url": "https://open.spotify.com/album/5LOf3nKArt5FPYukAKFhdo"
-      },
-      "artists": [
-        {
-          "name": "The Soil",
-          "url": "https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 257306,
-      "name": "Hamba Uyosebenza",
-      "url": "https://open.spotify.com/track/3X18zAWjiu5uUCcDwwAg92"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heavenly",
-        "url": "https://open.spotify.com/album/4RAgpLIfNKUoRBnsYFjpfw"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 339026,
-      "name": "Knockin' on Heaven's Door",
-      "url": "https://open.spotify.com/track/6oUuWLqoMd6ZCQJf6BQ10m"
     },
     {
       "added_at": null,
@@ -439,6 +419,66 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nostalgic Moments",
+        "url": "https://open.spotify.com/album/5LOf3nKArt5FPYukAKFhdo"
+      },
+      "artists": [
+        {
+          "name": "The Soil",
+          "url": "https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 257306,
+      "name": "Hamba Uyosebenza",
+      "url": "https://open.spotify.com/track/3X18zAWjiu5uUCcDwwAg92"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Honeyeater\u2019s Song",
+        "url": "https://open.spotify.com/album/5X3ksxWPGMs450naH43i2P"
+      },
+      "artists": [
+        {
+          "name": "Stornoway",
+          "url": "https://open.spotify.com/artist/1UzKSuyOqKgUupcNNEtnF1"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 226746,
+      "name": "The Honeyeater\u2019s Song",
+      "url": "https://open.spotify.com/track/2hH2xGkD9AxL7fZQTy7avE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ladysmith Black Mambazo and Friends",
+        "url": "https://open.spotify.com/album/6cpHdWDHybVXLm2bTmGVPh"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        },
+        {
+          "name": "China Black",
+          "url": "https://open.spotify.com/artist/0FUK4HMK3TUViRcmrXKxlp"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "Swing Low Sweet Chariot",
+      "url": "https://open.spotify.com/track/4MYV1v55kw2RuUFveQNk60"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mind The Moon",
         "url": "https://open.spotify.com/album/3msNbiI057b6ypzeOTjgxJ"
       },
@@ -475,46 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ladysmith Black Mambazo and Friends",
-        "url": "https://open.spotify.com/album/6cpHdWDHybVXLm2bTmGVPh"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        },
-        {
-          "name": "China Black",
-          "url": "https://open.spotify.com/artist/0FUK4HMK3TUViRcmrXKxlp"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "Swing Low Sweet Chariot",
-      "url": "https://open.spotify.com/track/4MYV1v55kw2RuUFveQNk60"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Honeyeater\u2019s Song",
-        "url": "https://open.spotify.com/album/5X3ksxWPGMs450naH43i2P"
-      },
-      "artists": [
-        {
-          "name": "Stornoway",
-          "url": "https://open.spotify.com/artist/1UzKSuyOqKgUupcNNEtnF1"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 226746,
-      "name": "The Honeyeater\u2019s Song",
-      "url": "https://open.spotify.com/track/2hH2xGkD9AxL7fZQTy7avE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Umthombo Wamanzi",
         "url": "https://open.spotify.com/album/3k6szoYKddJg1GI0iU5xzB"
       },
@@ -547,38 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Journey Of Dreams",
-        "url": "https://open.spotify.com/album/3vMHGUT6cjoHD4jIopv9tL"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 206133,
-      "name": "Umusa Kankulunkulu (Mercy of God)",
-      "url": "https://open.spotify.com/track/0GqlEEum0IeztVdE5RhllQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shaka Zulu",
-        "url": "https://open.spotify.com/album/6BqoNCQsupSaLBkl8u1uME"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "King of Kings",
-      "url": "https://open.spotify.com/track/24xmFCREF5JiqKBhLHqgKL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ukusindiswa",
         "url": "https://open.spotify.com/album/7HtYb7MM86DATnw7TGfhAl"
       },
@@ -595,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ezulwini Siyakhona",
-        "url": "https://open.spotify.com/album/2GYchgNPt3xy6WmmDnrMtA"
+        "name": "Journey Of Dreams",
+        "url": "https://open.spotify.com/album/3vMHGUT6cjoHD4jIopv9tL"
       },
       "artists": [
         {
@@ -604,9 +572,41 @@
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 216880,
-      "name": "Ngithunyiwe Kini",
-      "url": "https://open.spotify.com/track/6ThqVtBjdeFExHA8JFF6w1"
+      "duration_ms": 206133,
+      "name": "Umusa Kankulunkulu (Mercy of God)",
+      "url": "https://open.spotify.com/track/0GqlEEum0IeztVdE5RhllQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ezinkulu",
+        "url": "https://open.spotify.com/album/5w7fCN6djX1UXL1rTG9Rnh"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 291920,
+      "name": "Bamnqobile",
+      "url": "https://open.spotify.com/track/3FTyDZ9W072Lqq31ZM8zys"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shaka Zulu",
+        "url": "https://open.spotify.com/album/6BqoNCQsupSaLBkl8u1uME"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "King of Kings",
+      "url": "https://open.spotify.com/track/24xmFCREF5JiqKBhLHqgKL"
     },
     {
       "added_at": null,
@@ -643,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walk In The Light",
-        "url": "https://open.spotify.com/album/249AbniRkHnopD6Ued4qRj"
+        "name": "Ezulwini Siyakhona",
+        "url": "https://open.spotify.com/album/2GYchgNPt3xy6WmmDnrMtA"
       },
       "artists": [
-        {
-          "name": "Sipho Makhabane",
-          "url": "https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2"
-        },
         {
           "name": "Ladysmith Black Mambazo",
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 316700,
-      "name": "Walk In The Light",
-      "url": "https://open.spotify.com/track/4B1itxpEdwz5889AOdbLfX"
+      "duration_ms": 216880,
+      "name": "Ngithunyiwe Kini",
+      "url": "https://open.spotify.com/track/6ThqVtBjdeFExHA8JFF6w1"
     },
     {
       "added_at": null,
@@ -679,18 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ezinkulu",
-        "url": "https://open.spotify.com/album/5w7fCN6djX1UXL1rTG9Rnh"
+        "name": "Walk In The Light",
+        "url": "https://open.spotify.com/album/249AbniRkHnopD6Ued4qRj"
       },
       "artists": [
+        {
+          "name": "Sipho Makhabane",
+          "url": "https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2"
+        },
         {
           "name": "Ladysmith Black Mambazo",
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 291920,
-      "name": "Bamnqobile",
-      "url": "https://open.spotify.com/track/3FTyDZ9W072Lqq31ZM8zys"
+      "duration_ms": 316700,
+      "name": "Walk In The Light",
+      "url": "https://open.spotify.com/track/4B1itxpEdwz5889AOdbLfX"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Isitimela",
-        "url": "https://open.spotify.com/album/2sQk0d0DJltKIbsyAmYhC2"
+        "name": "Ezinkulu",
+        "url": "https://open.spotify.com/album/5w7fCN6djX1UXL1rTG9Rnh"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 240200,
-      "name": "Thandiwe Wami",
-      "url": "https://open.spotify.com/track/2dsDkaeatIyTbda5gr6iIF"
+      "duration_ms": 275613,
+      "name": "Amafutha Esibane",
+      "url": "https://open.spotify.com/track/5msU28j9wIWfTAK9Zcewrm"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ezinkulu",
-        "url": "https://open.spotify.com/album/5w7fCN6djX1UXL1rTG9Rnh"
+        "name": "Isitimela",
+        "url": "https://open.spotify.com/album/2sQk0d0DJltKIbsyAmYhC2"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 275613,
-      "name": "Amafutha Esibane",
-      "url": "https://open.spotify.com/track/5msU28j9wIWfTAK9Zcewrm"
+      "duration_ms": 240200,
+      "name": "Thandiwe Wami",
+      "url": "https://open.spotify.com/track/2dsDkaeatIyTbda5gr6iIF"
     },
     {
       "added_at": null,
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Journey Of Dreams",
-        "url": "https://open.spotify.com/album/3vMHGUT6cjoHD4jIopv9tL"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 337240,
-      "name": "Wayibambezela (Don't Wast Her Time)",
-      "url": "https://open.spotify.com/track/69VCHwrbpiJILTEH7IW6Sw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Book of Roses",
         "url": "https://open.spotify.com/album/3f3DZviJ9w39tCBsj2go2F"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 149733,
       "name": "Passage to Promise",
       "url": "https://open.spotify.com/track/7rFbSBTKulTxbuM3Z8ncSe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Journey Of Dreams",
+        "url": "https://open.spotify.com/album/3vMHGUT6cjoHD4jIopv9tL"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 337240,
+      "name": "Wayibambezela (Don't Wast Her Time)",
+      "url": "https://open.spotify.com/track/69VCHwrbpiJILTEH7IW6Sw"
     },
     {
       "added_at": null,

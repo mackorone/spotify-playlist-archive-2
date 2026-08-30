@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABs/dnlDT4cwkcr/i6EAN8k",
+  "snapshot_id": "apDPgAAAAACKsGiaAX9PbCfFcZ6m1ZMX",
   "tracks": [
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Sleep? (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 119715,
-      "name": "2055 (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/0VhA1feaHVoftAyZ5fGGHA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Gets Late Here",
         "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 164256,
       "name": "Flava (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/3VDpWtgUilVuM2WICHgr9n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Sleep? (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 119715,
+      "name": "2055 (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/0VhA1feaHVoftAyZ5fGGHA"
     },
     {
       "added_at": null,
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "1738 (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 230293,
+      "name": "1738 (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Funk Wav Bounces Vol. 2",
         "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
       },
@@ -651,22 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "1738 (feat. Coi Leray)",
-        "url": "https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm"
+        "name": "BE MORE GRATEFUL",
+        "url": "https://open.spotify.com/album/3JoiYj7Wu5cM6X6rHJAVdg"
       },
       "artists": [
         {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         },
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 230293,
-      "name": "1738 (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H"
+      "duration_ms": 143920,
+      "name": "BOOMERANG (with Coi Leray)",
+      "url": "https://open.spotify.com/track/4oqDtRwOFu8Ejw4SB3Toql"
     },
     {
       "added_at": null,
@@ -687,26 +707,6 @@
       "duration_ms": 162386,
       "name": "Upnow (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/4NWmEDnhyn4kUZGyCgx047"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BE MORE GRATEFUL",
-        "url": "https://open.spotify.com/album/3JoiYj7Wu5cM6X6rHJAVdg"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 143920,
-      "name": "BOOMERANG (with Coi Leray)",
-      "url": "https://open.spotify.com/track/4oqDtRwOFu8Ejw4SB3Toql"
     },
     {
       "added_at": null,
@@ -843,22 +843,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lemon Cars",
-        "url": "https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm"
+        "name": "The One (Sprite Limelight)",
+        "url": "https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV"
       },
       "artists": [
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
         }
       ],
-      "duration_ms": 221016,
-      "name": "Coke Bottle Body",
-      "url": "https://open.spotify.com/track/4rcoYD8ZynhOMzSsoW1Sm7"
+      "duration_ms": 135733,
+      "name": "The One (Sprite Limelight)",
+      "url": "https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW"
     },
     {
       "added_at": null,
@@ -879,6 +875,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lemon Cars",
+        "url": "https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "duration_ms": 221016,
+      "name": "Coke Bottle Body",
+      "url": "https://open.spotify.com/track/4rcoYD8ZynhOMzSsoW1Sm7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wanna Come Thru",
         "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 131900,
       "name": "Wanna Come Thru",
       "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The One (Sprite Limelight)",
-        "url": "https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 135733,
-      "name": "The One (Sprite Limelight)",
-      "url": "https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW"
     },
     {
       "added_at": null,

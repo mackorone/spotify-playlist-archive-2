@@ -4,7 +4,7 @@
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-127 songs - 7 hr 25 min
+128 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [El Fiestón](https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El Fiestón](https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx) | 3:22 | 2023-03-24 |  |
 | [El Problema Eras Tú](https://open.spotify.com/track/5chSieINSaqzNxMtht6zEC) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El Problema Eras Tú](https://open.spotify.com/album/4xKwnqFUiCk5lgMmJfUuRd) | 3:12 | 2026-05-31 | 2026-08-07 |
 | [Entre Mis Manos](https://open.spotify.com/track/1hs4FsYr28Ef1JYlIcYrcp) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Adehese](https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi) | [Entre Mis Manos](https://open.spotify.com/album/0wrNtmAbTwV3MzAoqIE5ih) | 3:40 | 2024-09-29 | 2025-06-18 |
-| [Entre Mis Manos](https://open.spotify.com/track/41WuR767LDesQv7lwU8biR) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Adehese](https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi) | [Entre Mis Manos](https://open.spotify.com/album/1l2ELHhHYUZOLjunbwWRJK) | 3:40 | 2025-06-20 |  |
+| [Entre Mis Manos](https://open.spotify.com/track/41WuR767LDesQv7lwU8biR) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Adehese](https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi) | [Entre Mis Manos](https://open.spotify.com/album/1l2ELHhHYUZOLjunbwWRJK) | 3:40 | 2025-06-20 | 2026-08-30 |
 | [Eres Mi Aire](https://open.spotify.com/track/1sNoZW9xuJkNPeeBJgqLpG) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Bones](https://open.spotify.com/album/2tw4c2z6HkCKsrIfrhNy86) | 3:45 | 2023-05-17 | 2024-04-28 |
 | [Eres Mi Aire](https://open.spotify.com/track/6TFD7lH9k8A8PC4CRns4IT) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Bones](https://open.spotify.com/album/3JQEMF8g2t7S3LwKnCDRAO) | 3:45 | 2023-03-24 | 2023-05-16 |
 | [FLOW DE KBRONA](https://open.spotify.com/track/50dxDw7ixs6OHRWWUycDSD) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lady Yeska](https://open.spotify.com/artist/5wbGMxTkF76IVFgDjchC0J) | [FLOW DE KBRONA](https://open.spotify.com/album/2455udYuceypufLWw5LnWn) | 4:06 | 2026-01-31 | 2026-03-23 |
@@ -128,6 +128,7 @@
 | [Terremoto](https://open.spotify.com/track/2RiEHEoEOKk4v3pKb522RR) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [Terremoto](https://open.spotify.com/album/6jSnmwRfQxofOlRzKEFBAa) | 3:27 | 2025-06-20 |  |
 | [Terremoto](https://open.spotify.com/track/3AbJALTHShkODDRfL5BH8p) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [Terremoto](https://open.spotify.com/album/3IWMKaP4kN3mgqpkQFhrMu) | 3:27 | 2023-03-24 | 2025-06-20 |
 | [Toqué Fondo](https://open.spotify.com/track/31UaO89hcqvZpv0ZxS0CBD) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [Toqué Fondo](https://open.spotify.com/album/3pP50Wip0grdAxzPo7eDbC) | 3:46 | 2023-03-24 | 2023-06-16 |
+| [TOXICONICA](https://open.spotify.com/track/7vFRSrW3nGsmggKMAOBUof) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW) | [TOXICONICA](https://open.spotify.com/album/3Eo5FBKcl9wxiviyeYNxHz) | 2:29 | 2026-08-30 |  |
 | [Tóxico](https://open.spotify.com/track/2waVXWweKkBdpSEMuH6HMV) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Tóxico](https://open.spotify.com/album/772jAkiIpQ9XXGh54OGaHl) | 3:49 | 2023-03-24 | 2023-07-06 |
 | [Tú](https://open.spotify.com/track/0DN0nP4u5jjfgbSUp6hf3O) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Tú](https://open.spotify.com/album/29zNxf58MwcAz9lY7LaIUA) | 2:58 | 2025-05-25 | 2025-11-09 |
 | [Vas a Volver](https://open.spotify.com/track/5A6ALVribfvYq8yUv97mlp) | [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Vas a Volver](https://open.spotify.com/album/7Dc3OsO2OyxVWcG0G6YdQF) | 3:23 | 2023-03-24 | 2024-02-24 |

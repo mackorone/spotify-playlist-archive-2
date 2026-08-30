@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[kiara](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,258 likes - 516 songs - 1 day 1 hr 7 min
+[kiara](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,259 likes - 517 songs - 1 day 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -522,7 +522,8 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 512 | [MAN BITES DOG](https://open.spotify.com/track/3q1YU1tLWr9UwYxfYuQcRH) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [MAN BITES DOG](https://open.spotify.com/album/4GRPvwkbXfKXNGfrIJAGCE) | 3:48 |
 | 513 | [IS THIS IT](https://open.spotify.com/track/1pWW3mI6kZLuec2A7FbIZ1) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [MAN BITES DOG](https://open.spotify.com/album/4GRPvwkbXfKXNGfrIJAGCE) | 3:57 |
 | 514 | [WAR GIRL](https://open.spotify.com/track/5iKc6UCKvDqIkyrHbO8pUR) | [astrid](https://open.spotify.com/artist/5XnEaGhnWsAywwADYeeZi1), [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [WAR GIRL](https://open.spotify.com/album/0ecmuZLP3AQM3MqrxZovi7) | 3:13 |
-| 515 | [Dual Wield \(femtanyl Remix\)](https://open.spotify.com/track/3nwKpWrsZXcO1SqbhnkvG3) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0), [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [Dual Wield \(femtanyl Remix\)](https://open.spotify.com/album/6cjIv3IFP2s7dhz9tC7xZ8) | 3:52 |
+| 515 | [Dual Wield \- femtanyl Remix](https://open.spotify.com/track/3nwKpWrsZXcO1SqbhnkvG3) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0), [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [Dual Wield \(femtanyl Remix\)](https://open.spotify.com/album/6cjIv3IFP2s7dhz9tC7xZ8) | 3:52 |
 | 516 | [MAGFEST](https://open.spotify.com/track/61nYrNZFXChbd8HQnCM7do) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [MAGFEST](https://open.spotify.com/album/3tXUvtmuSLx2fwFuZmGLbZ) | 3:14 |
+| 517 | [Seven Run](https://open.spotify.com/track/75snRWqGIsPV1bPwQl35bJ) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Seven Run](https://open.spotify.com/album/7I68LrOWt2J5w9h6Enn17c) | 1:37 |
 
-Snapshot ID: `AAAB7thqXicpNBKk2KrH+gVPN1st3txz`
+Snapshot ID: `AAAB72Fi3sUic71XPn495Pps1sPabSvT`

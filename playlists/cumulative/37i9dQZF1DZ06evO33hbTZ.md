@@ -4,7 +4,7 @@
 
 > This is Victor Thompson\. The essential tracks, all in one playlist.
 
-56 songs - 7 hr 17 min
+57 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Not Moved](https://open.spotify.com/track/13j5QYsM8B4s8K5l1vTIKI) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/04gvFEpR8FICwnjxuf7B4Z) | 4:40 | 2026-06-16 |  |
 | [OMG](https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Morgan Williams](https://open.spotify.com/artist/0UYbfCmHb3NhhYVLoMxXie) | [OMG](https://open.spotify.com/album/66y97RsgjPCEUB7AlsZaiT) | 2:23 | 2025-07-27 |  |
 | [Onyeoma](https://open.spotify.com/track/56bI295LwjNMrrMfCKUf8h) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [According To Brother Nwachukwu](https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY) | 3:13 | 2025-07-15 |  |
+| [Parlour Worship Medley](https://open.spotify.com/track/1q3aYKfRrBtotd39lkEYzC) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [BBO](https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd), [PROMISE EFFIONG](https://open.spotify.com/artist/427FC2Bm4pD6DM2CBt8A90) | [Parlour Worship Medley](https://open.spotify.com/album/4op2MUKLfQTezGoT91rga1) | 30:32 | 2026-08-30 |  |
 | [Psalm 8](https://open.spotify.com/track/1lXslR0zZxDkdEK9uWaJQc) | [FLEIVA MUSIC](https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Psalm 8](https://open.spotify.com/album/6bofpfSpiFNcdUC8TS8534) | 3:19 | 2026-07-15 |  |
 | [Reckless Love](https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 4:47 | 2025-07-15 |  |
 | [Spontaneous Endless Worship](https://open.spotify.com/track/1wxbaC0dbPDrgdnlQp1rlg) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Spontaneous Endless Worship](https://open.spotify.com/album/634VScodKaUDFqUDwCiLzN) | 5:35 | 2025-07-15 |  |

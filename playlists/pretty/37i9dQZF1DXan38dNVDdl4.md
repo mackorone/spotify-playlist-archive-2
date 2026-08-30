@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The biggest Dancehall playlist in the world\. Cover: Shenseea, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,606,451 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,606,516 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 31 | [6 Mill](https://open.spotify.com/track/4gPySp6bn5kRKsdBCH7vaB) | [X Kappe](https://open.spotify.com/artist/3DMhm1hoN9JBuc2MnET1xV), [Pimpdon](https://open.spotify.com/artist/2E6Jaf037DfPsy67zVrOcu) | [6 Mill](https://open.spotify.com/album/20r7vh5LROV6Y4CkVB7Az1) | 2:55 |
 | 32 | [RIFLE](https://open.spotify.com/track/3QZSYMCI1CWUNtNFlMxaqF) | [Prince Swanny](https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm) | [RIFLE](https://open.spotify.com/album/05bhReG3C3daxfO4n3iHuD) | 2:15 |
 | 33 | [Brandy](https://open.spotify.com/track/7qnssTxiSTHXxCwqIGKmgC) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Brandy](https://open.spotify.com/album/6Cx7wn9u6sGHkPvJAEC3nL) | 3:15 |
-| 34 | [Adios](https://open.spotify.com/track/6qioSHUPcdaQIAx1rJth6x) | [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW), [Dan Sky](https://open.spotify.com/artist/2RzpIVYbZlHnFKYxaaJctA) | [Adios](https://open.spotify.com/album/1NVRREtuGrERZxoCLQnSAd) | 2:57 |
+| 34 | [Adios](https://open.spotify.com/track/6qioSHUPcdaQIAx1rJth6x) | [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW), [Dan Sky](https://open.spotify.com/artist/2G5UBBE85rjbKweC4P24ad) | [Adios](https://open.spotify.com/album/1NVRREtuGrERZxoCLQnSAd) | 2:57 |
 | 35 | [BADMAN \(REMIX\)](https://open.spotify.com/track/3pUGqKv7omVmoUmRe4g7J4) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Ayetian](https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P) | [BADMAN \(REMIX\)](https://open.spotify.com/album/1vzXOj3qLT6DbFoiwDVKyt) | 3:25 |
 | 36 | [BOSS UP](https://open.spotify.com/track/458u353fkPaERY2SoOGPl3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [BOSS UP](https://open.spotify.com/album/4cxSdv07XksJwlpiXc1WHn) | 2:31 |
 | 37 | [Volcano](https://open.spotify.com/track/7j814G7LQwC38b0xSB1rJV) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Antaeus](https://open.spotify.com/artist/12Y5bYSO6NGz0KRKsKZG3t) | [Volcano](https://open.spotify.com/album/5XWjlYn9G2l33AwtI2Uw8E) | 2:58 |

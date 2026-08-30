@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,412 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,496 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 22 | [Such A Good Feeling \- Radio Edit](https://open.spotify.com/track/6eKyW6xYhzQQLq1Rff5uh2) | [Brothers In Rhythm](https://open.spotify.com/artist/0f2HTJx4jowMoiHBH4GzdU) | [Such A Good Feeling](https://open.spotify.com/album/76IesqEEpKbaN6zDzJVhXp) | 3:46 |
 | 23 | [Injected with a Poison](https://open.spotify.com/track/6pjNPFhhzSho4EYffiV8Pa) | [Praga Khan](https://open.spotify.com/artist/571MZ41OAhLQwOHzW6XfRb) | [Conquers Your Love \(Remastered\)](https://open.spotify.com/album/1TvcBifosVJDio8eHJjuoz) | 5:03 |
 | 24 | [Maximum Style \(Lover To Lover\)](https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b) | [Tom & Jerry](https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 4:05 |
-| 25 | [Feel Real Good](https://open.spotify.com/track/0JaqIqqFzNkQFoCJTFrakV) | [Manix](https://open.spotify.com/artist/3NxpC1snwKVakSDm2hLNsI) | [Reinforced Presents Callin For Reinforcements](https://open.spotify.com/album/5w8cU8ixaBD5NjjNnFG7mA) | 4:40 |
-| 26 | [40 Miles](https://open.spotify.com/track/7yZuzE8dyvegAEsGo3yyRo) | [Congress](https://open.spotify.com/artist/34g0SuVnC8oefEeUlmYXBT) | [40 Miles](https://open.spotify.com/album/0FGGbq9a4SLw27m9WZ5DHA) | 5:28 |
+| 25 | [40 Miles](https://open.spotify.com/track/7yZuzE8dyvegAEsGo3yyRo) | [Congress](https://open.spotify.com/artist/34g0SuVnC8oefEeUlmYXBT) | [40 Miles](https://open.spotify.com/album/0FGGbq9a4SLw27m9WZ5DHA) | 5:28 |
+| 26 | [Feel Real Good](https://open.spotify.com/track/0JaqIqqFzNkQFoCJTFrakV) | [Manix](https://open.spotify.com/artist/3NxpC1snwKVakSDm2hLNsI) | [Reinforced Presents Callin For Reinforcements](https://open.spotify.com/album/5w8cU8ixaBD5NjjNnFG7mA) | 4:40 |
 | 27 | [This Style](https://open.spotify.com/track/2rYo8S1hlnyx7aH9h87So2) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [This Style](https://open.spotify.com/album/7acwlv5XvgMfSXtGQiMnDR) | 5:34 |
 | 28 | [Don't You Want Me \- Edit](https://open.spotify.com/track/5xmZDSLfUKwgTxfEqVv7g0) | [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 3:09 |
 | 29 | [It's a Jazz Thing \- Utah Jazz Remix](https://open.spotify.com/track/5eoOlqmQgdThwZolUnW6OH) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr), [Utah Jazz](https://open.spotify.com/artist/1qDIEHxFTJPRYmLO40RL5e) | [It's a Jazz Thing / It's a Big up Thing \(Remixes\)](https://open.spotify.com/album/2IeYXZiKQaxmd5xXeQm8db) | 6:00 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 34 | [Code Red](https://open.spotify.com/track/4m3WUb2XPPaVgLBUc5SsNJ) | [Conquering Lion](https://open.spotify.com/artist/5ihLdJPtkczDQGJitNiWcG) | [Code Red](https://open.spotify.com/album/3J7BL97p8taetIOLtaXyI6) | 4:31 |
 | 35 | [It's Just a Feeling \- Original 12" Mix](https://open.spotify.com/track/6vC83pgcZz1mO8d2O9Ou9o) | [Terrorize](https://open.spotify.com/artist/70WGcXsH1VPrgXz9kqPda3) | [It's Just a Feeling](https://open.spotify.com/album/4lSWcfjt86cZjznefKNKLs) | 6:52 |
 | 36 | [A Trip To Trumpton](https://open.spotify.com/track/3pxGMD0kIX25alO1EVFvdG) | [Urban Hype](https://open.spotify.com/artist/3bc9afAmYFjpZAlUCdivKO) | [All Night Rave](https://open.spotify.com/album/2dpR2JrtEh2DOs4bOVr2vU) | 3:33 |
-| 37 | [Anasthasia](https://open.spotify.com/track/5uEjOkEKaOs5BFkGGahSR7) | [T99](https://open.spotify.com/artist/7A6k2eqQT5MnGj6Mq9vwcS) | [The Sound Of Belgium](https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN) | 4:33 |
-| 38 | [E\-Vapor\-8](https://open.spotify.com/track/4iAKdClYxItZVrTrwzkIvA) | [Altern 8](https://open.spotify.com/artist/4rOv05Duzyn6YkBfQepDYC) | [Greatest: Altern 8](https://open.spotify.com/album/76hA5i0UE8UfqMJJHiLBUe) | 5:21 |
+| 37 | [E\-Vapor\-8](https://open.spotify.com/track/4iAKdClYxItZVrTrwzkIvA) | [Altern 8](https://open.spotify.com/artist/4rOv05Duzyn6YkBfQepDYC) | [Greatest: Altern 8](https://open.spotify.com/album/76hA5i0UE8UfqMJJHiLBUe) | 5:21 |
+| 38 | [Anasthasia](https://open.spotify.com/track/5uEjOkEKaOs5BFkGGahSR7) | [T99](https://open.spotify.com/artist/7A6k2eqQT5MnGj6Mq9vwcS) | [The Sound Of Belgium](https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN) | 4:33 |
 | 39 | [Kinetic \- Frank De Wulf Remix](https://open.spotify.com/track/1rEwHLv7SHNSFhmOLx6svp) | [Golden Girls](https://open.spotify.com/artist/03H68X0SYi03kXB8Lj0OR2) | [The Sound Of Belgium](https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN) | 5:48 |
 | 40 | [Raving I'm Raving \- Remix.Mp3](https://open.spotify.com/track/0xi6k3xSyrxWG0oeQMQJnk) | [Shut Up and Dance](https://open.spotify.com/artist/5m8iUPCoViiUr1fXKjX7ej) | [Death Is Not the End](https://open.spotify.com/album/4eBXRI4mExUO5zSZULCYnK) | 4:22 |
 | 41 | [Cubes](https://open.spotify.com/track/6SWyIMaXdpLkhiItiS40yw) | [Modular Expansion](https://open.spotify.com/artist/7gzna5FLH7KeMHxbqImL7P) | [Unit 1](https://open.spotify.com/album/5w3AS9phJPcCVQMcvefeHt) | 4:05 |

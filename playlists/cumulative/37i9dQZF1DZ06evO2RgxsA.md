@@ -4,7 +4,7 @@
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-142 songs - 5 hr 41 min
+143 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Usa\-Holes](https://open.spotify.com/track/4AI2o7lsEDj5eEjE2qgT1b) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 2:13 | 2022-09-16 | 2025-08-23 |
 | [We Called It America](https://open.spotify.com/track/01ao83UjxvRIQazIxruwmH) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg) | 2:07 | 2025-08-22 |  |
 | [We Called It America](https://open.spotify.com/track/5UkBszllVTOdWs9mKVJSE2) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/5l2QTQ0OoyQw9luosyCe9X) | 2:07 | 2022-09-16 | 2025-08-22 |
+| [We Did It Our Way \(live 10/6/24\)](https://open.spotify.com/track/1hSbFDblQ8H7fYrDtMhYaQ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [40 Years Of Fuckin' Up: Soundtrack + Score](https://open.spotify.com/album/5hM0luqn90CkruMS90At60) | 3:37 | 2026-08-30 |  |
 | [We Got Two Jealous Agains](https://open.spotify.com/track/2tahr8bIxTlu2jpO8kj8Gi) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 2:03 | 2022-09-21 | 2022-10-13 |
 | [We Threw Gasoline.......](https://open.spotify.com/track/5DLHSd1oWuutQW60XrPHAP) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn) | 2:44 | 2022-09-16 | 2025-08-18 |
 | [We Threw Gasoline.......](https://open.spotify.com/track/6wcqe8MLykOTbm2tY8KMTe) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g) | 2:44 | 2025-08-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 
 > Sortez les pantalons pattes d‘eph et les chemises en satin !
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,806 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,814 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 28 | [Love Hangover](https://open.spotify.com/track/4poc2NX2Ap8MnZjOtoiGir) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross](https://open.spotify.com/album/7BHw2NR6r6GRfsaojQL9xk) | 7:48 |
 | 29 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/68oPWciPnkCZBNbq0HfFJE) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [The Original Hits](https://open.spotify.com/album/4Ls1kWhm4Lqgdteck35U7r) | 6:34 |
 | 30 | [Alexandrie Alexandra](https://open.spotify.com/track/19DVBvNrJMl9jRHjVZHk38) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Best Of](https://open.spotify.com/album/5UnV3CeKQ4r3uoW0koFS08) | 4:22 |
-| 31 | [I'll Never Forget \(My Favorite Disco\)](https://open.spotify.com/track/7KOS9ptdLAdy3hJxuvpHfc) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 4:34 |
-| 32 | [You Got What It Takes](https://open.spotify.com/track/7gLflLqsZlOeLSlkx6XHrW) | [Bobby Thurston](https://open.spotify.com/artist/3iPWVg3McWlor6EUf9Jc7l) | [You Got What It Takes](https://open.spotify.com/album/0uw28qwpfGCHCV4SDCOO7c) | 9:33 |
+| 31 | [You Got What It Takes](https://open.spotify.com/track/7gLflLqsZlOeLSlkx6XHrW) | [Bobby Thurston](https://open.spotify.com/artist/3iPWVg3McWlor6EUf9Jc7l) | [You Got What It Takes](https://open.spotify.com/album/0uw28qwpfGCHCV4SDCOO7c) | 9:33 |
+| 32 | [I'll Never Forget \(My Favorite Disco\)](https://open.spotify.com/track/7KOS9ptdLAdy3hJxuvpHfc) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 4:34 |
 | 33 | [Why \- 12" Version](https://open.spotify.com/track/3hI05NM8JnJvQLZMUnRvMa) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Soup for One \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rC8ILJkAi4b0p3uqaxZrK) | 8:13 |
 | 34 | [Searching to Find the One \- Remix](https://open.spotify.com/track/2yzNqrykiRq4pwAlpe0bvL) | [Unlimited Touch](https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm) | [Searching to Find the One](https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q) | 7:24 |
 | 35 | [Cette année\-là](https://open.spotify.com/track/1nZMyRPYCe4ElwXggr9FJo) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Best Of](https://open.spotify.com/album/5UnV3CeKQ4r3uoW0koFS08) | 3:12 |

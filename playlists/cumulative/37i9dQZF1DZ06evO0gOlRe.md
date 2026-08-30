@@ -4,7 +4,7 @@
 
 > This is Alexander Stewart\. The essential tracks, all in one playlist.
 
-86 songs - 4 hr 2 min
+87 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Let Me Hate You](https://open.spotify.com/track/0T5IGPG06a7eiEA0AhTzZ6) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Let Me Hate You](https://open.spotify.com/album/541ALHb5R7lQuceoBLiKFk) | 3:16 | 2024-01-10 | 2025-10-29 |
 | [Let Me In](https://open.spotify.com/track/0xyq7KSKTw9Uk0TyiBN4eT) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:58 | 2025-10-26 |  |
 | [Life at First Sight](https://open.spotify.com/track/54TAOgQWiq0jBDZ1D5F8vC) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Life at First Sight](https://open.spotify.com/album/7pQfFjGdIT73op3XXM6G7J) | 3:21 | 2024-06-23 |  |
+| [Missing Piece](https://open.spotify.com/track/0cnx25C8BdsEEumqvzXjAF) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Missing Piece](https://open.spotify.com/album/3ISKoozRNGwImVBOrOYw6R) | 2:48 | 2026-08-30 |  |
 | [Need You More](https://open.spotify.com/track/5P1oDdVOnO17KrB26DS5CC) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:42 | 2025-10-26 | 2025-11-23 |
 | [No Thanks](https://open.spotify.com/track/7sf18eK8GKYiffwszSB3mS) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:40 | 2024-01-10 | 2025-12-25 |
 | [Not Ready Yet](https://open.spotify.com/track/5UYvsw1P7codQIsxOjlpDM) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:24 | 2025-10-26 | 2026-07-31 |

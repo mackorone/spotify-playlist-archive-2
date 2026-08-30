@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 
 > this is your moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,326 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,330 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 17 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 |
 | 18 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
 | 19 | [ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 4:25 |
-| 20 | [Fine Line](https://open.spotify.com/track/6VzcQuzTNTMFnJ6rBSaLH9) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:17 |
-| 21 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
+| 20 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
+| 21 | [Fine Line](https://open.spotify.com/track/6VzcQuzTNTMFnJ6rBSaLH9) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:17 |
 | 22 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
 | 23 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
 | 24 | [On Melancholy Hill](https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:53 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 32 | [Wait](https://open.spotify.com/track/01Q3OyB05mLgH01fpdAMPP) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry up, We're Dreaming](https://open.spotify.com/album/6EB14IXV5oyOiItGBv7mtG) | 5:43 |
 | 33 | [Motion Sickness](https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:49 |
 | 34 | [Bubble Gum](https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bubble Gum](https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2) | 2:55 |
-| 35 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 |
-| 36 | [Sarah](https://open.spotify.com/track/2Wk8vEamlVBBalBi24NnU1) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/2Vg8YkTkuG4Y9MD4hB4KNN) | 2:56 |
+| 35 | [Sarah](https://open.spotify.com/track/2Wk8vEamlVBBalBi24NnU1) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/2Vg8YkTkuG4Y9MD4hB4KNN) | 2:56 |
+| 36 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 |
 | 37 | [Tired](https://open.spotify.com/track/6F5mZpEEjhsAW8UEqbIpz1) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:19 |
 | 38 | [Cherry](https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:19 |
 | 39 | [Strangers](https://open.spotify.com/track/5Cc0Pe8p7c2OJxMj07ywvc) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 5:44 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 43 | [Beach Baby](https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 2:40 |
 | 44 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 |
 | 45 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 |
-| 46 | [Be My Mistake](https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:16 |
-| 47 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 |
+| 46 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 |
+| 47 | [Be My Mistake](https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:16 |
 | 48 | [Sometimes \(Backwood\)](https://open.spotify.com/track/1ElGmhauttS9p7LwmHG9uM) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sometimes \(Backwood\)](https://open.spotify.com/album/3hdw3AH6dkRpONWlJnotZn) | 2:33 |
 | 49 | [A&W](https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 7:13 |
 | 50 | [Don't Delete The Kisses](https://open.spotify.com/track/3K94Fd5ZQkPCW8wV6oyk22) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Visions Of A Life](https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz) | 4:35 |
@@ -93,14 +93,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 83 | [Evangeline](https://open.spotify.com/track/0TPNqKRhUmqv3rzWfKTmoP) | [Chloe Ament](https://open.spotify.com/artist/3bAJYz1UylrqS4DgaU9aOu) | [burn & breathe](https://open.spotify.com/album/61hjvdKUnhMHIpHEnANlFd) | 5:22 |
 | 84 | [Contently Miserable](https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW) | [Rory Ryan](https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk) | [Contently Miserable](https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT) | 3:35 |
 | 85 | [Outside](https://open.spotify.com/track/1ozbAvJ5hZmycQbh4GQGjI) | [Jordan Nash](https://open.spotify.com/artist/3FdBkTRuQog4cyBE1FRR7A) | [Outside](https://open.spotify.com/album/0baK4pePflG8hjaOPxiyiJ) | 2:36 |
-| 86 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
-| 87 | [Vessel](https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Vessel](https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd) | 3:28 |
+| 86 | [Vessel](https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Vessel](https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd) | 3:28 |
+| 87 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
 | 88 | [Burner](https://open.spotify.com/track/2arEFpdh3Wh1VqO3S2IiUz) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Burner](https://open.spotify.com/album/6QEubYvTOj36YYpFRQpSAg) | 3:20 |
 | 89 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 |
 | 90 | [The Spins](https://open.spotify.com/track/51pshtuYkgUQnt5huMPbKL) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/0WzOtZBpXvWdNdH7hCJ4qo) | 3:15 |
-| 91 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 |
-| 92 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 |
-| 93 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 |
+| 91 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 |
+| 92 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 |
+| 93 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 |
 | 94 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 |
 | 95 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 |
 | 96 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 |

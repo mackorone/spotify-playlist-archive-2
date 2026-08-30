@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Queens of the Stone Age
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,287 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,279 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 26 | [Gummy Bear](https://open.spotify.com/track/3QyuHDL1hZyISsSfCrjgP9) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [Gummy Bear](https://open.spotify.com/album/2xRcRgR5v3IarPPqByXE6Y) | 2:44 |
 | 27 | [What I Need](https://open.spotify.com/track/7KhRUljgpU7zKMWSCiqCHT) | [lahgo](https://open.spotify.com/artist/0a54VvQLtAxcXeFh5nMlyB) | [What I Need](https://open.spotify.com/album/3Ze7N7q2EaXdHT49plOMkU) | 3:01 |
 | 28 | [Everybody Told Me](https://open.spotify.com/track/5X913iypPGaXfBAFDYVwyN) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [GOTTA GET OUT](https://open.spotify.com/album/3mzfWcRxRWAstm92UwJ9td) | 4:40 |
-| 29 | [Lay Me Down \(B\-Side\)](https://open.spotify.com/track/5caJrAFM6Uqs1Gv9JeYXof) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO \(10th Anniversary Edition\)](https://open.spotify.com/album/0nKJjIek7EpGsG6X85CojE) | 3:43 |
+| 29 | [Lay Me Down \- B\-Side](https://open.spotify.com/track/5caJrAFM6Uqs1Gv9JeYXof) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO \(10th Anniversary Edition\)](https://open.spotify.com/album/0nKJjIek7EpGsG6X85CojE) | 3:43 |
 | 30 | [Closer](https://open.spotify.com/track/0OgIjOcARxnYgm5iL5P6AA) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Closer](https://open.spotify.com/album/07uewP6C55i9uDV9B2kdoy) | 3:09 |
 | 31 | [Think Bad](https://open.spotify.com/track/6vjZBqmpV7qJa0qppQ7Z7v) | [C.O.F.F.I.N](https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3) | [Think Bad](https://open.spotify.com/album/06vzJJeAR0wks3eblV5eyG) | 2:08 |
 | 32 | [Kid In A Candy Store](https://open.spotify.com/track/4PVg0EjwywuSYHm8MqCG5y) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Kid In A Candy Store](https://open.spotify.com/album/1rIgwnBWlFTwfMfsMMzHVq) | 4:08 |

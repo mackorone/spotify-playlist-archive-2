@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 
 > Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s\. \(한 시절 감성을 대표했던 싸이월드 BGM을 감상해보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,473 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,486 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 33 | [행복하지말아요](https://open.spotify.com/track/5XyvfAC8S62CHQL2Z3BVYP) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Mc The Max \- Solitude Love…](https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133) | 5:58 |
 | 34 | [Monologue](https://open.spotify.com/track/0ay8fHEeIE1n4Mt6qKaTyt) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Morning Of Buzz](https://open.spotify.com/album/0ZEhWeY6nR0uGZddxRpLGX) | 4:19 |
 | 35 | [귀로](https://open.spotify.com/track/5B6ewNeXBcIDHqzsgAn6Dk) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 4:26 |
-| 36 | [It's love](https://open.spotify.com/track/4VZw0oTcsBxgdcbe1Pmntg) | [Mose](https://open.spotify.com/artist/33E9Bj65ASz6dOPF4uZYc0) | [Love, deep longing](https://open.spotify.com/album/1hZ1wLaogDtyLFXAjZg2kX) | 4:16 |
-| 37 | [sweet little kitty](https://open.spotify.com/track/0wdchmE75VwSL2zTAgbFra) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Made In Korea?](https://open.spotify.com/album/1Gm4TRAlvSj5RB8pM3wmRk) | 3:50 |
+| 36 | [sweet little kitty](https://open.spotify.com/track/0wdchmE75VwSL2zTAgbFra) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Made In Korea?](https://open.spotify.com/album/1Gm4TRAlvSj5RB8pM3wmRk) | 3:50 |
+| 37 | [It's love](https://open.spotify.com/track/4VZw0oTcsBxgdcbe1Pmntg) | [Mose](https://open.spotify.com/artist/33E9Bj65ASz6dOPF4uZYc0) | [Love, deep longing](https://open.spotify.com/album/1hZ1wLaogDtyLFXAjZg2kX) | 4:16 |
 | 38 | [점점](https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:31 |
 | 39 | [The man and the woman](https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI), [Jang Hye Jin](https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH) | [Re \- Feel](https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w) | 4:32 |
 | 40 | [체념](https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:59 |
-| 41 | [Hug](https://open.spotify.com/track/2NMhPQgZ0rd3kq98KJViID) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Tri\-Angle \- The 1st Album](https://open.spotify.com/album/1013imXHa490acqEZkQpeX) | 3:49 |
-| 42 | [flying duck](https://open.spotify.com/track/00ddDV60MFTJkWSGC7IGIv) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Third Eye](https://open.spotify.com/album/4ANwiBBR2ZV7UI5jolOBzz) | 4:05 |
+| 41 | [flying duck](https://open.spotify.com/track/00ddDV60MFTJkWSGC7IGIv) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Third Eye](https://open.spotify.com/album/4ANwiBBR2ZV7UI5jolOBzz) | 4:05 |
+| 42 | [Hug](https://open.spotify.com/track/2NMhPQgZ0rd3kq98KJViID) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Tri\-Angle \- The 1st Album](https://open.spotify.com/album/1013imXHa490acqEZkQpeX) | 3:49 |
 | 43 | [With Coffee…](https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:35 |
 | 44 | [당신은...나는 바보 입니다 \- Acoustic Version](https://open.spotify.com/track/01lS0GX5TV41xmUN2uGRP5) | [심태윤](https://open.spotify.com/artist/47IYfcTa5R8aNB2v6L7I2x) | [Princess Hours \(Original Television Soundtrack\)](https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu) | 4:18 |
 | 45 | [I Love You](https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [I Love You](https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq) | 4:06 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 61 | [청소](https://open.spotify.com/track/5jSfmXYUqubnGlgEyr7hg7) | [THE RAY](https://open.spotify.com/artist/3T5ikG9OwvWrWbr5Eypv7g) | [The Ray's Rainbow](https://open.spotify.com/album/6tIZiqTX4XYp3H2nvtqKb7) | 3:55 |
 | 62 | [그대는 눈물겹다](https://open.spotify.com/track/18yfSV6Jhh9lhAPzZoIkfq) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Love Is Time Sixth Sense](https://open.spotify.com/album/6VjZu0I92vdfh4dGEP9qCQ) | 5:02 |
 | 63 | [달리기](https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [Choose My Life\-U](https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd) | 3:33 |
-| 64 | [정말 사랑했을까](https://open.spotify.com/track/0xuXybbYxNqKKD4NMr63g4) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:32 |
-| 65 | [좋아 좋아](https://open.spotify.com/track/1ioWMsy1V8yJv2O98tOD69) | [Seo Young Eun](https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB) | [Remake Romantic 2](https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ) | 3:13 |
+| 64 | [좋아 좋아](https://open.spotify.com/track/1ioWMsy1V8yJv2O98tOD69) | [Seo Young Eun](https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB) | [Remake Romantic 2](https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ) | 3:13 |
+| 65 | [정말 사랑했을까](https://open.spotify.com/track/0xuXybbYxNqKKD4NMr63g4) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:32 |
 | 66 | [A Letter to you Part.2](https://open.spotify.com/track/7fRegG6DYNpGClPDCp851s) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [The Way I Am](https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk) | 4:07 |
 | 67 | [사랑은 아프려고 하는 거죠](https://open.spotify.com/track/12cLqyHjFWZg1As1pP7C1w) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [The Rusted Love](https://open.spotify.com/album/40qmiVHSRqP78RbDJ8Y8n4) | 5:58 |
 | 68 | [I'm sorry](https://open.spotify.com/track/1QR3xt4FeHEqESaZylDAoY) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [\#007 Another Days…](https://open.spotify.com/album/0QMnDxAi0gDANQrGJMuxeq) | 4:38 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 70 | [Nothing Better](https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 4:23 |
 | 71 | [사랑과 우정사이](https://open.spotify.com/track/6UWXnJ4MpEeVkBLXmF90aj) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [sg WANNA BE \- Classic Odyssey](https://open.spotify.com/album/6nGXlSP0HjarsA0szIhLnv) | 3:57 |
 | 72 | [여자이니까](https://open.spotify.com/track/0tawSXXpPaKN4zoTpe8dx9) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [투유 프로젝트 \- 슈가맨 Pt.36](https://open.spotify.com/album/405tMm63Ou53fIs0BmdeH9) | 3:46 |
-| 73 | [17171771](https://open.spotify.com/track/4iNwoAcnUc4qgjOs5cfN5Z) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [All You Need Is Love](https://open.spotify.com/album/4c8k1xAs85AWq6npv9NYZj) | 3:02 |
-| 74 | [Hawaian Couple](https://open.spotify.com/track/1Yd6CizL523PL8IsdkmKCD) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT) | [Purple Drop](https://open.spotify.com/album/1OSnHPkpPMWO8BEqwKfURo) | 3:38 |
-| 75 | [I Pray 4 U](https://open.spotify.com/track/0Ujhi3iIJx9WRjJa1nZXYT) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [Perfect Man \- The 5th Album](https://open.spotify.com/album/69Lv2IpuvYd0ccNJR3AOlV) | 3:50 |
+| 73 | [Hawaian Couple](https://open.spotify.com/track/1Yd6CizL523PL8IsdkmKCD) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT) | [Purple Drop](https://open.spotify.com/album/1OSnHPkpPMWO8BEqwKfURo) | 3:38 |
+| 74 | [I Pray 4 U](https://open.spotify.com/track/0Ujhi3iIJx9WRjJa1nZXYT) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [Perfect Man \- The 5th Album](https://open.spotify.com/album/69Lv2IpuvYd0ccNJR3AOlV) | 3:50 |
+| 75 | [17171771](https://open.spotify.com/track/4iNwoAcnUc4qgjOs5cfN5Z) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [All You Need Is Love](https://open.spotify.com/album/4c8k1xAs85AWq6npv9NYZj) | 3:02 |
 | 76 | [Life Is Cool](https://open.spotify.com/track/3kslq6hNK1NPQBZKa6bDfW) | [Sweetbox](https://open.spotify.com/artist/2YCJYQq4i8MMxbNM59OWmy) | [sweetbox The Best](https://open.spotify.com/album/7w2Xfa9r5FkS4u7l9T7TqM) | 2:48 |
 | 77 | [아무리 생각해도 난 너를](https://open.spotify.com/track/6Ml3XSfeVLUJEZ8OK6aLC6) | [SWEET SORROW](https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb) | [나는가수다 시즌3 1회 '자신의 대표곡'](https://open.spotify.com/album/4taROD1UypCjbIgisuLolT) | 4:33 |
 | 78 | [Nocturne](https://open.spotify.com/track/6Dpb6KTOb3iEm89DAHwLGk) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [Glass Mask](https://open.spotify.com/album/7klNdBJ1KRmBQtdZyhzM51) | 4:13 |

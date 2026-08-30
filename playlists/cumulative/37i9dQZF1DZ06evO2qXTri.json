@@ -1616,7 +1616,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 276629,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC"
@@ -2218,6 +2218,28 @@
       "duration_ms": 254347,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/0K600gHS06x0lTFSErYMRs"
+    },
+    {
+      "album": {
+        "name": "Thank You For Everything",
+        "url": "https://open.spotify.com/album/7dT0K5S2DMfgwU0Rm81Zka"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396666,
+      "name": "Thank You For Everything (with Karen Clark-Sheard)",
+      "url": "https://open.spotify.com/track/68fFSCTE1b7AmubG9XNmVZ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK\n",
-  "num_followers": 123810,
+  "num_followers": 123833,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -175,26 +175,6 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
-        "name": "Cho M\u00ecnh Em",
-        "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
-      },
-      "artists": [
-        {
-          "name": "Binz",
-          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
-        },
-        {
-          "name": "\u0110en",
-          "url": "https://open.spotify.com/artist/1HMF5R4KSzEMxB54ihlOdj"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Cho M\u00ecnh Em",
-      "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
-    },
-    {
-      "added_at": "2026-08-20 17:00:23",
-      "album": {
         "name": "THE WXRDIES",
         "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 194000,
       "name": "Tr\u1edf V\u1ec1",
       "url": "https://open.spotify.com/track/0oL2jCTf9P9a7flY5mCpYu"
+    },
+    {
+      "added_at": "2026-08-20 17:00:23",
+      "album": {
+        "name": "Cho M\u00ecnh Em",
+        "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
+      },
+      "artists": [
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        },
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1HMF5R4KSzEMxB54ihlOdj"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Cho M\u00ecnh Em",
+      "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
     },
     {
       "added_at": "2026-08-20 17:00:23",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
+        "name": "Anh Lu\u00f4n Nh\u01b0 V\u1eady",
+        "url": "https://open.spotify.com/album/7ev0TaSrDUDTgSeEVmYi2F"
+      },
+      "artists": [
+        {
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+        }
+      ],
+      "duration_ms": 212732,
+      "name": "Anh Lu\u00f4n Nh\u01b0 V\u1eady",
+      "url": "https://open.spotify.com/track/3CyGK8BeJ5iCunpzvHyINs"
+    },
+    {
+      "added_at": "2026-08-20 17:00:23",
+      "album": {
         "name": "Em B\u00e9",
         "url": "https://open.spotify.com/album/4h6b472LS8MBZuNZzKQQDN"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 180000,
       "name": "ABG",
       "url": "https://open.spotify.com/track/4oHNffwl7J3lMBNjvcYue2"
-    },
-    {
-      "added_at": "2026-08-20 17:00:23",
-      "album": {
-        "name": "Anh Lu\u00f4n Nh\u01b0 V\u1eady",
-        "url": "https://open.spotify.com/album/7ev0TaSrDUDTgSeEVmYi2F"
-      },
-      "artists": [
-        {
-          "name": "B Ray",
-          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
-        }
-      ],
-      "duration_ms": 212732,
-      "name": "Anh Lu\u00f4n Nh\u01b0 V\u1eady",
-      "url": "https://open.spotify.com/track/3CyGK8BeJ5iCunpzvHyINs"
     },
     {
       "added_at": "2026-08-20 17:00:23",

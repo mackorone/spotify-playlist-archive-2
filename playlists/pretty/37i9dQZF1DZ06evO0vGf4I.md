@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 
 > This is Travis Scott\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,633,396 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,633,411 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 | 31 | [SKELETONS](https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:25 |
 | 32 | [Rosary \(feat\. Travis Scott\)](https://open.spotify.com/track/4FUQtedaG22FWZ6lGyRApm) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:14 |
 | 33 | [Cinderella](https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 2:49 |
-| 34 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:20 |
-| 35 | [Niagara Falls \(Foot or 2\) \[with Travis Scott & 21 Savage\]](https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:27 |
+| 34 | [Niagara Falls \(Foot or 2\) \[with Travis Scott & 21 Savage\]](https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:27 |
+| 35 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:20 |
 | 36 | [Nightcrawler \(feat\. Swae Lee & Chief Keef\)](https://open.spotify.com/track/3xby7fOyqmeON8jsnom0AT) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:21 |
 | 37 | [Embarrassed \(feat\. Travis Scott\)](https://open.spotify.com/track/6w9GrSUaQQIaMBYtabge7p) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:12 |
 | 38 | [TIL FURTHER NOTICE \(feat\. James Blake & 21 Savage\)](https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 | 49 | [KICK OUT](https://open.spotify.com/track/2LgrNOU8GQYASgz7lIDVt3) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/5GBAHu7EH8HWX5tBCjL0SA) | 2:50 |
 | 50 | [TOPIA TWINS \(feat\. Rob49 & 21 Savage\)](https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:43 |
 
-Snapshot ID: `ao9+AAAAAAChgKAfAzFlCabRe+Hb3bDc`
+Snapshot ID: `apDPgAAAAAD1uOF0ZZFLjFtsN0nA89Yf`

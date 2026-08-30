@@ -4,7 +4,7 @@
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-169 songs - 8 hr 39 min
+170 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [El Mono \- En Vivo](https://open.spotify.com/track/5WOTy1vVAhux7p6UfkMUL0) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7) | 3:13 | 2024-01-29 | 2024-03-18 |
 | [El Piyi](https://open.spotify.com/track/2H2FRs6FumXmwjkxcOggU4) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5) | 3:11 | 2024-08-23 | 2025-03-08 |
 | [El Piyi](https://open.spotify.com/track/3h6yZoWyDVjWU7YGpWfY2f) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk) | 3:11 | 2024-01-29 | 2024-08-23 |
-| [El Piyi](https://open.spotify.com/track/4aJPDh3dn3MVppavGXs3ao) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x) | 3:11 | 2025-03-08 |  |
+| [El Piyi](https://open.spotify.com/track/4aJPDh3dn3MVppavGXs3ao) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x) | 3:11 | 2025-03-08 | 2026-08-30 |
 | [El Ruddy](https://open.spotify.com/track/0WRDEEv5z9DMmKECGxBK2b) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3) | 3:03 | 2025-03-04 |  |
 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 | 2024-01-29 | 2024-08-22 |
 | [El Ruddy](https://open.spotify.com/track/2UOliGFIZuENZphbgPohpN) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG) | 3:03 | 2024-08-22 | 2025-03-04 |
@@ -167,6 +167,7 @@
 | [TU TU TU](https://open.spotify.com/track/0L5gbpFGU06vqSHacOxgka) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [MIJA NO TE ASUSTES](https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO) | 2:31 | 2025-02-23 |  |
 | [Tuvo Que Tuvo / El Enamorado](https://open.spotify.com/track/6N2GVCzasRYLCSxRYsITfG) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Bailemos Bebe](https://open.spotify.com/album/0syTyLMkktbjJQi6o89rWG) | 3:43 | 2024-01-29 | 2024-03-07 |
 | [Un Día Antes](https://open.spotify.com/track/4HIefvvG2aMsrSuTgx9vxL) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 2:52 | 2025-05-11 | 2026-02-03 |
+| [Un Nuevo Dia](https://open.spotify.com/track/12T7RfowF2egyheD8ojXXB) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Renacer](https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi) | 2:32 | 2026-08-30 |  |
 | [Vencedor](https://open.spotify.com/track/50oepi2tLLJMl8rAsEyRRy) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Vencedor](https://open.spotify.com/album/6cDOkIgadHgQ30JIaxGTAV) | 3:03 | 2026-02-11 | 2026-08-16 |
 | [Vengache Pa’ Aca](https://open.spotify.com/track/6FoFdGkO3BZ1HElmfj7PZl) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Vengache Pa’ Aca](https://open.spotify.com/album/4GOxdFhYCiDqefzmrJt4sF) | 2:43 | 2026-03-28 |  |
 | [VVS](https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:42 | 2024-01-29 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udc49 Free Pitch : audiartist.com | Insta : stardust_from_sun | Email : musiqueslibre2droit@gmail.com | \ud83c\udfb8 Rock &#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul. Soulful rhythms, timeless riffs, and electrifying energy. Follow now and vibe with the best of rock and blues!",
-  "num_followers": 1883,
+  "num_followers": 1884,
   "original_name": "\ud83c\udfb8 Rock Music Hits   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), So",
   "owner": {
     "name": "Audiartist",
     "url": "https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24"
   },
-  "snapshot_id": "AAAMT0lRAvIvdVzW/B0Dl2Jr5GK6P05F",
+  "snapshot_id": "AAAMVvvI//z4s4MVa28fuh16fUZGOaat",
   "tracks": [
     {
       "added_at": "2026-02-17 12:01:17",
@@ -401,6 +401,22 @@
       "url": "https://open.spotify.com/track/2VqLPBZXPZRdC28oPsXWBH"
     },
     {
+      "added_at": "2026-08-29 13:54:57",
+      "album": {
+        "name": "Knottamun",
+        "url": "https://open.spotify.com/album/7gEP4C4P6qQ4TWXc1JPk5G"
+      },
+      "artists": [
+        {
+          "name": "DriftKin",
+          "url": "https://open.spotify.com/artist/2ckHeRf1toBEDN7mos54nm"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Knottamun",
+      "url": "https://open.spotify.com/track/4cj2mmO3p7ai4wqntGHkLL"
+    },
+    {
       "added_at": "2026-05-14 06:47:33",
       "album": {
         "name": "Don't Go Into Decline",
@@ -703,6 +719,22 @@
       "duration_ms": 174933,
       "name": "I Can't Fix You",
       "url": "https://open.spotify.com/track/7mGsPsTVvPzPW242YUGr1s"
+    },
+    {
+      "added_at": "2026-08-29 18:10:50",
+      "album": {
+        "name": "Roots & Wings",
+        "url": "https://open.spotify.com/album/2E7yNO54IXDhJwDdRZ5ZM0"
+      },
+      "artists": [
+        {
+          "name": "Amani Burnham",
+          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Sideways Thru Time",
+      "url": "https://open.spotify.com/track/69frz2HsGAuNaF2XX2FKsp"
     },
     {
       "added_at": "2026-04-05 14:09:46",
@@ -1375,6 +1407,86 @@
       "duration_ms": 489770,
       "name": "Alone",
       "url": "https://open.spotify.com/track/5qtFvwy63Pls8Vhio66vsy"
+    },
+    {
+      "added_at": "2026-08-29 16:16:09",
+      "album": {
+        "name": "Upward",
+        "url": "https://open.spotify.com/album/4eMfidDZm9uUpNh5vzEdn9"
+      },
+      "artists": [
+        {
+          "name": "Romain Cantaffa",
+          "url": "https://open.spotify.com/artist/0zqzHXo7w3a8J2EkcCAtZp"
+        }
+      ],
+      "duration_ms": 289318,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/40TWIKfxGH34kdGvbDDhh8"
+    },
+    {
+      "added_at": "2026-08-29 16:16:25",
+      "album": {
+        "name": "Allergic to Fame",
+        "url": "https://open.spotify.com/album/4zfxUEAKMF4aRaf5Adg52Z"
+      },
+      "artists": [
+        {
+          "name": "Billy Zain",
+          "url": "https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA"
+        }
+      ],
+      "duration_ms": 210686,
+      "name": "Allergic to Fame",
+      "url": "https://open.spotify.com/track/5agiIrE4RO8HpYO615Vekd"
+    },
+    {
+      "added_at": "2026-08-29 16:17:15",
+      "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/1F88ivvyccsrMS0v1QVsoj"
+      },
+      "artists": [
+        {
+          "name": "Forgetful Alien",
+          "url": "https://open.spotify.com/artist/7hnJgsJnztAgmqfge0YFcT"
+        }
+      ],
+      "duration_ms": 271475,
+      "name": "See Through Me",
+      "url": "https://open.spotify.com/track/1coeZ5PUtWnmzMx2mYLBOi"
+    },
+    {
+      "added_at": "2026-08-29 16:17:17",
+      "album": {
+        "name": "Motte im Licht",
+        "url": "https://open.spotify.com/album/6EfYlGtKeF6uPVPX1lM4ul"
+      },
+      "artists": [
+        {
+          "name": "Christaris",
+          "url": "https://open.spotify.com/artist/65bycLZE7csn1qM95wLuCa"
+        }
+      ],
+      "duration_ms": 258444,
+      "name": "Motte im Licht",
+      "url": "https://open.spotify.com/track/5AUZEUtej5mBjYsl0qHOlT"
+    },
+    {
+      "added_at": "2026-08-29 22:48:54",
+      "album": {
+        "name": "Not the Bad Boy",
+        "url": "https://open.spotify.com/album/4fHVgR7PMm8nO8FPpaxIx1"
+      },
+      "artists": [
+        {
+          "name": "Tim Allan",
+          "url": "https://open.spotify.com/artist/1PAvHNGevlHvYXRC5JityS"
+        }
+      ],
+      "duration_ms": 165833,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/0lEyuxEtiz90tgC542d3Iz"
     }
   ],
   "unique_name": "\ud83c\udfb8 Rock Music Hits   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), So",

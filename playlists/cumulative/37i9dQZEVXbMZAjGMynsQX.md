@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Costa Rica.
 
-1,708 songs - 4 day 0 hr 40 min
+1,709 songs - 4 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [All You Had To Do Was Stay \(Taylor's Version\)](https://open.spotify.com/track/6GXgd1BPD9bUpqw5AntGV5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:13 | 2023-10-28 | 2023-10-30 |
 | [ALO \(feat\. Tutu\)](https://open.spotify.com/track/66grJSnNQplFGXEpV5CKKK) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Fronti](https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr), [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Tutu](https://open.spotify.com/artist/2oJG42nDNigJngS1nlWm2W) | [EL PEOR HOMBRE DEL MUNDO](https://open.spotify.com/album/5SRrJ19R5JyGcGHE3r8nnb) | 5:08 | 2026-06-30 | 2026-07-03 |
 | [Aloha](https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Aloha \(feat\. Darell, Mambo Kingz & Dj Luian\)](https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH) | 4:01 | 2021-04-15 | 2021-09-22 |
-| [Altas & Bajas](https://open.spotify.com/track/6vzp6lYI9RG1h7yTqcx7ZQ) | [Andiex](https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY) | [Altas & Bajas](https://open.spotify.com/album/0J9cdbipFSBaHgRrDwWpAj) | 3:37 | 2026-06-26 |  |
+| [Altas & Bajas](https://open.spotify.com/track/6vzp6lYI9RG1h7yTqcx7ZQ) | [Andiex](https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY) | [Altas & Bajas](https://open.spotify.com/album/0J9cdbipFSBaHgRrDwWpAj) | 3:37 | 2026-06-26 | 2026-08-30 |
 | [Alucin](https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Alucin](https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB) | 3:17 | 2024-03-02 | 2024-04-02 |
 | [ALV](https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:44 | 2024-01-28 | 2024-02-01 |
 | [Alégale Al Umpire](https://open.spotify.com/track/3KQwuuHarLTIZIUXtwDmPN) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 3:28 | 2026-03-28 | 2026-04-02 |
@@ -1044,6 +1044,7 @@
 | [NO ME QUIERO CASAR](https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:45 | 2023-10-14 | 2026-02-22 |
 | [NO PODEMOS SER AMIGOS.](https://open.spotify.com/track/4T31PPb8DMhzTp7kUZ3U42) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [OMAKASE](https://open.spotify.com/album/79TuXcubVSnQDvvvzEbIY2) | 3:23 | 2026-05-23 | 2026-05-25 |
 | [No Puedo Vivir Sin Él](https://open.spotify.com/track/6zRVWT0bZaBfe9H5z4naf4) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:38 | 2025-06-21 | 2025-07-01 |
+| [NO SE META](https://open.spotify.com/track/3HJHTdcKyJgTXvzJHmpauk) | [Letty](https://open.spotify.com/artist/74MZU4b17r235ScmDonxpn) | [NO SE META](https://open.spotify.com/album/6XwPz6mqpwFKSg2VhCFmJD) | 2:32 | 2026-08-29 |  |
 | [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 | 2022-07-09 | 2024-10-29 |
 | [NO SE VA \- EN VIVO](https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 3:13 | 2023-08-04 | 2023-08-31 |
 | [NO SE VA \- EN VIVO](https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:13 | 2023-09-17 | 2024-02-02 |

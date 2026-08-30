@@ -1,6 +1,6 @@
 {
   "description": "Extra van je vrije tijd genieten voor jong en oud.",
-  "num_followers": 119202,
+  "num_followers": 119226,
   "original_name": "Quality Time",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 223613,
-      "name": "Go Your Own Way - 2004 Remaster",
-      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Mama Said",
         "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 242640,
       "name": "It Ain't Over 'Til It's Over",
       "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 223613,
+      "name": "Go Your Own Way - 2004 Remaster",
+      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -291,6 +291,22 @@
       "duration_ms": 275440,
       "name": "Don't Go Breaking My Heart",
       "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Jolene (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -359,22 +375,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Toulouse Street",
-        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Listen to the Music",
-      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Eagles (2013 Remaster)",
         "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
       },
@@ -387,6 +387,22 @@
       "duration_ms": 211577,
       "name": "Take It Easy - 2013 Remaster",
       "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Toulouse Street",
+        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Listen to the Music",
+      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -407,22 +423,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Jolene (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Buffalo Springfield",
         "url": "https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB"
       },
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Point Of Know Return (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA"
-      },
-      "artists": [
-        {
-          "name": "Kansas",
-          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
-        }
-      ],
-      "duration_ms": 206266,
-      "name": "Dust in the Wind",
-      "url": "https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 266200,
       "name": "1979 - Remastered 2012",
       "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Point Of Know Return (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA"
+      },
+      "artists": [
+        {
+          "name": "Kansas",
+          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
+        }
+      ],
+      "duration_ms": 206266,
+      "name": "Dust in the Wind",
+      "url": "https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Tattoo You (2009 Re-Mastered)",
-        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Start Me Up - Remastered 2009",
-      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "No Secrets",
         "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 258411,
       "name": "You're So Vain",
       "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Start Me Up - Remastered 2009",
+      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Harvest Moon",
-        "url": "https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        }
-      ],
-      "duration_ms": 303213,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Escapology",
         "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 263866,
       "name": "Feel",
       "url": "https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Harvest Moon",
+        "url": "https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "duration_ms": 303213,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Hot Chocolate",
         "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 244920,
       "name": "You Sexy Thing",
       "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
-      },
-      "artists": [
-        {
-          "name": "Deep Blue Something",
-          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
-        }
-      ],
-      "duration_ms": 257373,
-      "name": "Breakfast At Tiffany's",
-      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Wheels Of Fire",
         "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 298333,
       "name": "White Room",
       "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
+      },
+      "artists": [
+        {
+          "name": "Deep Blue Something",
+          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
+        }
+      ],
+      "duration_ms": 257373,
+      "name": "Breakfast At Tiffany's",
+      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Labour Of Love II",
-        "url": "https://open.spotify.com/album/1mMfvPS1HZsxtU958F4Eq9"
-      },
-      "artists": [
-        {
-          "name": "UB40",
-          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Kingston Town",
-      "url": "https://open.spotify.com/track/1YnVYHXoak0syv4xBRHQRb"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Zenyatta Mondatta (Remastered 2003)",
         "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 242666,
       "name": "Don't Stand So Close To Me",
       "url": "https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Labour Of Love II",
+        "url": "https://open.spotify.com/album/1mMfvPS1HZsxtU958F4Eq9"
+      },
+      "artists": [
+        {
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Kingston Town",
+      "url": "https://open.spotify.com/track/1YnVYHXoak0syv4xBRHQRb"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Atlantic Crossing",
-        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 277960,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Close To You",
         "url": "https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 273933,
       "name": "(They Long To Be) Close To You",
       "url": "https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Atlantic Crossing",
+        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 277960,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2039,6 +2039,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "Ladies of the Canyon",
+        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 134800,
+      "name": "Big Yellow Taxi",
+      "url": "https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "The Collection (Standard Edition)",
         "url": "https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg"
       },
@@ -2067,22 +2083,6 @@
       "duration_ms": 309520,
       "name": "You've Got a Friend",
       "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Ladies of the Canyon",
-        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
-      },
-      "artists": [
-        {
-          "name": "Joni Mitchell",
-          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
-        }
-      ],
-      "duration_ms": 134800,
-      "name": "Big Yellow Taxi",
-      "url": "https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
-        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
-      },
-      "artists": [
-        {
-          "name": "The Righteous Brothers",
-          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Bat Out Of Hell II: Back Into Hell",
         "url": "https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 380497,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/1msXkHv84LKikJGKcfdGBu"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
+        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
+      },
+      "artists": [
+        {
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2539,22 +2539,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Crazy Little Thing Called Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Feargal Sharkey",
         "url": "https://open.spotify.com/album/1fnuPLerUrbVfzcHyY6H5N"
       },
@@ -2567,6 +2551,22 @@
       "duration_ms": 281800,
       "name": "A Good Heart",
       "url": "https://open.spotify.com/track/4umQbcdBF3YVsNBvvnFLiX"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Crazy Little Thing Called Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2699,22 +2699,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 217386,
-      "name": "Love Of My Life - Remastered 2011",
-      "url": "https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "You've Got The Love",
         "url": "https://open.spotify.com/album/77JmKGdCSo3JuNelG5fofU"
       },
@@ -2743,6 +2727,22 @@
       "duration_ms": 240960,
       "name": "Slippery People - Live",
       "url": "https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "Love Of My Life - Remastered 2011",
+      "url": "https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2779,22 +2779,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "A Kind Of Magic (2011 Remaster)",
-        "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 264253,
-      "name": "A Kind Of Magic - Remastered 2011",
-      "url": "https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Postcards From Heaven",
         "url": "https://open.spotify.com/album/1Pl9C2X0IiwBUyRqAwpbV1"
       },
@@ -2823,6 +2807,22 @@
       "duration_ms": 356520,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/2F9jMklOJOl65znIH4kc8C"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "A Kind Of Magic (2011 Remaster)",
+        "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 264253,
+      "name": "A Kind Of Magic - Remastered 2011",
+      "url": "https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3091,22 +3091,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/1xB1tmm50ZhXwrNs89u7Jx"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 238920,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/1hEh8Hc9lBAFWUghHBsCel"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Out Of Time (U.S. Version)",
         "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
       },
@@ -3119,6 +3103,22 @@
       "duration_ms": 267733,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/1xB1tmm50ZhXwrNs89u7Jx"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 238920,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/1hEh8Hc9lBAFWUghHBsCel"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3139,22 +3139,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "I Do Not Want What I Haven't Got",
-        "url": "https://open.spotify.com/album/34hQFIwGTLf03BZQmGL0iy"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 280040,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/3nvuPQTw2zuFAVuLsC9IYQ"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "New Light",
         "url": "https://open.spotify.com/album/5fEgDYFPUcvQy21TYoLEZ0"
       },
@@ -3167,6 +3151,22 @@
       "duration_ms": 216014,
       "name": "New Light",
       "url": "https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "I Do Not Want What I Haven't Got",
+        "url": "https://open.spotify.com/album/34hQFIwGTLf03BZQmGL0iy"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 280040,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/3nvuPQTw2zuFAVuLsC9IYQ"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3235,22 +3235,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/2yPVB4tLlnfBl8SgcX8qDv"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 288333,
-      "name": "The Boys Of Summer",
-      "url": "https://open.spotify.com/track/7KY40pRBPKQSaSe0j5nKUK"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Extreme II - Pornograffitti",
         "url": "https://open.spotify.com/album/7GOk2a0toWcEMGEm8uKLyz"
       },
@@ -3267,18 +3251,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "The Joshua Tree (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/2qKmY7yt0kXdzSQxYAu9eZ"
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/2yPVB4tLlnfBl8SgcX8qDv"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
         }
       ],
-      "duration_ms": 277480,
-      "name": "I Still Haven't Found What I'm Looking For - Remastered 2007",
-      "url": "https://open.spotify.com/track/7gozgbG5EBTukCFWToTRA5"
+      "duration_ms": 288333,
+      "name": "The Boys Of Summer",
+      "url": "https://open.spotify.com/track/7KY40pRBPKQSaSe0j5nKUK"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3295,6 +3279,22 @@
       "duration_ms": 257480,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/5jafMI8FLibnjkYTZ33m0c"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "The Joshua Tree (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/2qKmY7yt0kXdzSQxYAu9eZ"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 277480,
+      "name": "I Still Haven't Found What I'm Looking For - Remastered 2007",
+      "url": "https://open.spotify.com/track/7gozgbG5EBTukCFWToTRA5"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3399,22 +3399,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 256653,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/5sbw5zIz9ck2pOEDXUR0QU"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Silk Degrees",
         "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
       },
@@ -3431,18 +3415,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Super Trouper",
-        "url": "https://open.spotify.com/album/1nVUhbpkGwlTKxSIF6UJyM"
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
         }
       ],
-      "duration_ms": 294720,
-      "name": "The Winner Takes It All",
-      "url": "https://open.spotify.com/track/5kBZR12AntJUTo9UeAsKqP"
+      "duration_ms": 256653,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/5sbw5zIz9ck2pOEDXUR0QU"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3459,6 +3443,22 @@
       "duration_ms": 200000,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/1nVUhbpkGwlTKxSIF6UJyM"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 294720,
+      "name": "The Winner Takes It All",
+      "url": "https://open.spotify.com/track/5kBZR12AntJUTo9UeAsKqP"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3511,18 +3511,34 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Sweet Baby James",
-        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+        "name": "Fickle Heart (Plus Two Bonus Cuts)",
+        "url": "https://open.spotify.com/album/0sXMbAJXXbkoJDbrbIiQgo"
       },
       "artists": [
         {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+          "name": "Sniff 'n' The Tears",
+          "url": "https://open.spotify.com/artist/3EPScT793Qw5hkf8tvVpRV"
         }
       ],
-      "duration_ms": 200579,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+      "duration_ms": 240746,
+      "name": "Driver's Seat",
+      "url": "https://open.spotify.com/track/0fJFBbpUxTwjhh1ScBQjeX"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/0YcQyzstsSbcnLCk4h7AUh"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1gGY6qfslDtJ4OoWQGKtkE"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3543,18 +3559,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Fickle Heart (Plus Two Bonus Cuts)",
-        "url": "https://open.spotify.com/album/0sXMbAJXXbkoJDbrbIiQgo"
+        "name": "Sweet Baby James",
+        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
       },
       "artists": [
         {
-          "name": "Sniff 'n' The Tears",
-          "url": "https://open.spotify.com/artist/3EPScT793Qw5hkf8tvVpRV"
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 240746,
-      "name": "Driver's Seat",
-      "url": "https://open.spotify.com/track/0fJFBbpUxTwjhh1ScBQjeX"
+      "duration_ms": 200579,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3571,22 +3587,6 @@
       "duration_ms": 204386,
       "name": "Would I Lie To You?",
       "url": "https://open.spotify.com/track/62R1MRux3R0v2cngA2xdJn"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Boys & Girls",
-        "url": "https://open.spotify.com/album/0YcQyzstsSbcnLCk4h7AUh"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/1gGY6qfslDtJ4OoWQGKtkE"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3631,18 +3631,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
+        "name": "Ice On Fire (Remastered With Bonus Tracks)",
+        "url": "https://open.spotify.com/album/77IyyuuRV7IDN1ri7mBEuI"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 252373,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/74MfBIVOVHzQiJqfJ1dgTo"
+      "duration_ms": 343240,
+      "name": "Nikita",
+      "url": "https://open.spotify.com/track/5lBI9isMBEHRn5Wxde058W"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3667,18 +3667,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Ice On Fire (Remastered With Bonus Tracks)",
-        "url": "https://open.spotify.com/album/77IyyuuRV7IDN1ri7mBEuI"
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 343240,
-      "name": "Nikita",
-      "url": "https://open.spotify.com/track/5lBI9isMBEHRn5Wxde058W"
+      "duration_ms": 252373,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/74MfBIVOVHzQiJqfJ1dgTo"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3731,6 +3731,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "Nothing Like The Sun",
+        "url": "https://open.spotify.com/album/4ecNI9MO1rG2p5Q9xUxQ4X"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 266960,
+      "name": "Englishman In New York",
+      "url": "https://open.spotify.com/track/5wVylZHmBid99XzEsz8Fk7"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Some Girls",
         "url": "https://open.spotify.com/album/54sqbAXxR1jFfyXb1WvrHK"
       },
@@ -3759,22 +3775,6 @@
       "duration_ms": 233866,
       "name": "Say What You Want",
       "url": "https://open.spotify.com/track/4MIB4aXVS0M0KNVcbQlyOP"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Nothing Like The Sun",
-        "url": "https://open.spotify.com/album/4ecNI9MO1rG2p5Q9xUxQ4X"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 266960,
-      "name": "Englishman In New York",
-      "url": "https://open.spotify.com/track/5wVylZHmBid99XzEsz8Fk7"
     },
     {
       "added_at": "2024-11-13 17:10:11",

@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: El Cuarteto de Nos",
-  "num_followers": 127117,
+  "num_followers": 127124,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -43,18 +43,22 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "El Ultimo Concierto B (Remastered)",
-        "url": "https://open.spotify.com/album/0k9Oh11PrdeZ6ngoJGhWMk"
+        "name": "Arruinarse (feat. Airbag) [En Vivo En River Plate]",
+        "url": "https://open.spotify.com/album/28d02LdDvtRAuB3oojgsQ0"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        },
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 291373,
-      "name": "De M\u00fasica Ligera - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/3lWvP5u93wOdPlqIydFW7g"
+      "duration_ms": 349806,
+      "name": "Arruinarse - En Vivo En River Plate",
+      "url": "https://open.spotify.com/track/7GSS3AEO9emTV5yXJ66V0i"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -79,22 +83,18 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Arruinarse (feat. Airbag) [En Vivo En River Plate]",
-        "url": "https://open.spotify.com/album/28d02LdDvtRAuB3oojgsQ0"
+        "name": "El Ultimo Concierto B (Remastered)",
+        "url": "https://open.spotify.com/album/0k9Oh11PrdeZ6ngoJGhWMk"
       },
       "artists": [
         {
-          "name": "Tan Bionica",
-          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
-        },
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 349806,
-      "name": "Arruinarse - En Vivo En River Plate",
-      "url": "https://open.spotify.com/track/7GSS3AEO9emTV5yXJ66V0i"
+      "duration_ms": 291373,
+      "name": "De M\u00fasica Ligera - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/3lWvP5u93wOdPlqIydFW7g"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "El Rock De Mi Vida",
-        "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 263573,
-      "name": "Reyes de la Noche",
-      "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "Concierto Obras 30 y 31 Julio, Parte Uno (En Vivo)",
         "url": "https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 267240,
       "name": "Una Nueva Noche Fria - Vivo - Mezclado y Masterizado 2017",
       "url": "https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "El Rock De Mi Vida",
+        "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 263573,
+      "name": "Reyes de la Noche",
+      "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Divididos en Argentinos Juniors (En Vivo)",
-        "url": "https://open.spotify.com/album/77GGWQhMJlJsr5yinJ6wGP"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        },
-        {
-          "name": "Claudio Marciello",
-          "url": "https://open.spotify.com/artist/4gHjWV2oalYMkHYfBCt3Lr"
-        }
-      ],
-      "duration_ms": 293061,
-      "name": "S\u00e9 Vos - En Vivo",
-      "url": "https://open.spotify.com/track/1jmIpHXJVBKZZGOHVMvg9C"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "Hasta Estallar (En Vivo)",
         "url": "https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 280810,
       "name": "Hasta Estallar (En Vivo)",
       "url": "https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "Divididos en Argentinos Juniors (En Vivo)",
+        "url": "https://open.spotify.com/album/77GGWQhMJlJsr5yinJ6wGP"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        },
+        {
+          "name": "Claudio Marciello",
+          "url": "https://open.spotify.com/artist/4gHjWV2oalYMkHYfBCt3Lr"
+        }
+      ],
+      "duration_ms": 293061,
+      "name": "S\u00e9 Vos - En Vivo",
+      "url": "https://open.spotify.com/track/1jmIpHXJVBKZZGOHVMvg9C"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Ritual Piojoso (En Vivo en River Plate)",
-        "url": "https://open.spotify.com/album/7v7UBXatukF69a99XWjjX6"
+        "name": "Ni\u00f1o Abuelo (Vivo en Obras 20/12/2024)",
+        "url": "https://open.spotify.com/album/3CaxPS84kJiMTUWuK2GYiC"
       },
       "artists": [
         {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
         }
       ],
-      "duration_ms": 284048,
-      "name": "Pac\u00edfico - En Vivo en River Plate",
-      "url": "https://open.spotify.com/track/4YDACzNhZTeo9YvYC533SP"
+      "duration_ms": 280661,
+      "name": "Ni\u00f1o Abuelo - Vivo en Obras 20/12/2024",
+      "url": "https://open.spotify.com/track/4Lk0Y7rY5tlE5C89aBpK56"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Ni\u00f1o Abuelo (Vivo en Obras 20/12/2024)",
-        "url": "https://open.spotify.com/album/3CaxPS84kJiMTUWuK2GYiC"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 280661,
-      "name": "Ni\u00f1o Abuelo - Vivo en Obras 20/12/2024",
-      "url": "https://open.spotify.com/track/4Lk0Y7rY5tlE5C89aBpK56"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "XV A\u00f1os - En Vivo Estadio Obras",
         "url": "https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 377832,
       "name": "Para Que Sigamos Siendo (En Vivo Estadio Obras)",
       "url": "https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "Ritual Piojoso (En Vivo en River Plate)",
+        "url": "https://open.spotify.com/album/7v7UBXatukF69a99XWjjX6"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 284048,
+      "name": "Pac\u00edfico - En Vivo en River Plate",
+      "url": "https://open.spotify.com/track/4YDACzNhZTeo9YvYC533SP"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Fanky (En Vivo)",
-        "url": "https://open.spotify.com/album/1Tq3ZmiF3AR38Qmbd5hvZ6"
-      },
-      "artists": [
-        {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
-        }
-      ],
-      "duration_ms": 303952,
-      "name": "Fanky (En Vivo)",
-      "url": "https://open.spotify.com/track/0y4NWYQEikgDDE9SyyU6RU"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "Sheriff (En Vivo en Baradero Diciembre 2024)",
         "url": "https://open.spotify.com/album/4jPHjFUhjhLpCYzyDTjtJ0"
       },
@@ -1711,22 +1695,34 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
-        "url": "https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x"
+        "name": "Fanky (En Vivo)",
+        "url": "https://open.spotify.com/album/1Tq3ZmiF3AR38Qmbd5hvZ6"
       },
       "artists": [
         {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        },
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
         }
       ],
-      "duration_ms": 268960,
-      "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
-      "url": "https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX"
+      "duration_ms": 303952,
+      "name": "Fanky (En Vivo)",
+      "url": "https://open.spotify.com/track/0y4NWYQEikgDDE9SyyU6RU"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "El Rito de los Corazones Sangrando: En Vivo Festival Madres 20 a\u00f1os \u00a1Ni Un Paso Atr\u00e1s!",
+        "url": "https://open.spotify.com/album/2C73XAjTXOnBic34nyQLDY"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 278360,
+      "name": "El Rito de los Corazones Sangrando: En Vivo Festival Madres 20 a\u00f1os \u00a1Ni Un Paso Atr\u00e1s! - En Vivo",
+      "url": "https://open.spotify.com/track/5RynIxt5eh5TFkWUo65BkE"
     }
   ],
   "unique_name": "Vivo de Rock",

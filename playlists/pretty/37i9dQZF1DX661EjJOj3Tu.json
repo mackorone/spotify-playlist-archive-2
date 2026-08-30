@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Gracias por la m\u00fasica, Eddie Palmieri \ud83d\udd4a\ufe0f",
-  "num_followers": 513178,
+  "num_followers": 513180,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -283,30 +283,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Tradiciones",
-        "url": "https://open.spotify.com/album/2iLgvf9Z92h7zQXTnjucmm"
-      },
-      "artists": [
-        {
-          "name": "Afro-Peruvian Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/0kaMzfrj9wlJYAr6VwzkAL"
-        },
-        {
-          "name": "Lorenzo Ferrero",
-          "url": "https://open.spotify.com/artist/6br0HOs1Qp9CKJngm28FyG"
-        },
-        {
-          "name": "Anibal Seminario",
-          "url": "https://open.spotify.com/artist/7n3f7wHCA7cB2bqrjjRD6p"
-        }
-      ],
-      "duration_ms": 291636,
-      "name": "Cuadra 11",
-      "url": "https://open.spotify.com/track/0LFUNTV7xNFurTxhF9IrWU"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Trumpet Evolution",
         "url": "https://open.spotify.com/album/2LPMsaLCnE7HOVvMRPV16A"
       },
@@ -339,6 +315,30 @@
       "duration_ms": 221954,
       "name": "Mango",
       "url": "https://open.spotify.com/track/1YiIduNkxaZtiojkkQxk2R"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Tradiciones",
+        "url": "https://open.spotify.com/album/2iLgvf9Z92h7zQXTnjucmm"
+      },
+      "artists": [
+        {
+          "name": "Afro-Peruvian Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/0kaMzfrj9wlJYAr6VwzkAL"
+        },
+        {
+          "name": "Lorenzo Ferrero",
+          "url": "https://open.spotify.com/artist/6br0HOs1Qp9CKJngm28FyG"
+        },
+        {
+          "name": "Anibal Seminario",
+          "url": "https://open.spotify.com/artist/7n3f7wHCA7cB2bqrjjRD6p"
+        }
+      ],
+      "duration_ms": 291636,
+      "name": "Cuadra 11",
+      "url": "https://open.spotify.com/track/0LFUNTV7xNFurTxhF9IrWU"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -711,6 +711,26 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "The Bronx Pyramid",
+        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Henriquez",
+          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 321420,
+      "name": "Descarga Entre Amigos (feat. Rub\u00e9n Blades)",
+      "url": "https://open.spotify.com/track/2wDWb88s7POYtWg5757eiE"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Flor De Piel",
         "url": "https://open.spotify.com/album/3thQXVuy3QaPfGgh3wwli6"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 412133,
       "name": "Nocturnal",
       "url": "https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "The Bronx Pyramid",
-        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Henriquez",
-          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 321420,
-      "name": "Descarga Entre Amigos (feat. Rub\u00e9n Blades)",
-      "url": "https://open.spotify.com/track/2wDWb88s7POYtWg5757eiE"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -847,8 +847,8 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Acertijos",
-        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
+        "name": "The Pedrito Martinez Group",
+        "url": "https://open.spotify.com/album/2qmw3qCOSM8FkZkiaRE04L"
       },
       "artists": [
         {
@@ -856,13 +856,13 @@
           "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
         },
         {
-          "name": "Issac Delgado",
-          "url": "https://open.spotify.com/artist/4wuS7EjF68zCo3df1hzNjK"
+          "name": "Steve Gadd",
+          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
         }
       ],
-      "duration_ms": 271013,
-      "name": "Ciudadano",
-      "url": "https://open.spotify.com/track/17jgU7oVMlFNcely4wpkQ4"
+      "duration_ms": 352779,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/36484w7R8IJmkFfPVyT6cv"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -935,8 +935,8 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "The Pedrito Martinez Group",
-        "url": "https://open.spotify.com/album/2qmw3qCOSM8FkZkiaRE04L"
+        "name": "Acertijos",
+        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
       },
       "artists": [
         {
@@ -944,13 +944,13 @@
           "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
         },
         {
-          "name": "Steve Gadd",
-          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
+          "name": "Issac Delgado",
+          "url": "https://open.spotify.com/artist/4wuS7EjF68zCo3df1hzNjK"
         }
       ],
-      "duration_ms": 352779,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/36484w7R8IJmkFfPVyT6cv"
+      "duration_ms": 271013,
+      "name": "Ciudadano",
+      "url": "https://open.spotify.com/track/17jgU7oVMlFNcely4wpkQ4"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Indigenous",
         "url": "https://open.spotify.com/album/1dUdmpLdWTWb7zpw9H20hT"
       },
@@ -1011,6 +1027,22 @@
       "duration_ms": 349165,
       "name": "Sabor A Mi",
       "url": "https://open.spotify.com/track/0zE1yiL5X6HZKSkvbuqncC"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Acertijos",
+        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
+        }
+      ],
+      "duration_ms": 364237,
+      "name": "Yo S\u00ed Quiero",
+      "url": "https://open.spotify.com/track/6KLC0zmNHvqTrQLsQlxw21"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1039,38 +1071,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Acertijos",
-        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Martinez",
-          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
-        }
-      ],
-      "duration_ms": 364237,
-      "name": "Yo S\u00ed Quiero",
-      "url": "https://open.spotify.com/track/6KLC0zmNHvqTrQLsQlxw21"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "El Grito - Suite para Orquesta de Jazz",
         "url": "https://open.spotify.com/album/186WD7asPEHmL9JtYmw8mA"
       },
@@ -1083,6 +1083,22 @@
       "duration_ms": 376546,
       "name": "El Grito",
       "url": "https://open.spotify.com/track/3EuORO2yfaSCohhkqOg6DI"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 214300,
+      "name": "Piscis",
+      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1135,54 +1151,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Listen Here",
-        "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 435226,
-      "name": "La Gitana",
-      "url": "https://open.spotify.com/track/6lzEHfCfIodmHLU5IRVTHP"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 214300,
-      "name": "Piscis",
-      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "cuarto de colores",
-        "url": "https://open.spotify.com/album/7ijTXugrPlHTRSuzo7u2Br"
-      },
-      "artists": [
-        {
-          "name": "Edmar Casta\u00f1eda",
-          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Sonrisas",
-      "url": "https://open.spotify.com/track/5KgVtIQvN2FcOyhalfXpsP"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "A Arte de Viver",
         "url": "https://open.spotify.com/album/5EUo3iiVNR2uCHIgeyHeay"
       },
@@ -1199,6 +1167,38 @@
       "duration_ms": 153507,
       "name": "Papo Final",
       "url": "https://open.spotify.com/track/1uyZTB0xrmqxwbxxvstFZp"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Listen Here",
+        "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 435226,
+      "name": "La Gitana",
+      "url": "https://open.spotify.com/track/6lzEHfCfIodmHLU5IRVTHP"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "cuarto de colores",
+        "url": "https://open.spotify.com/album/7ijTXugrPlHTRSuzo7u2Br"
+      },
+      "artists": [
+        {
+          "name": "Edmar Casta\u00f1eda",
+          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Sonrisas",
+      "url": "https://open.spotify.com/track/5KgVtIQvN2FcOyhalfXpsP"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1239,6 +1239,30 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Una Noche Con Rub\u00e9n Blades",
+        "url": "https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ"
+      },
+      "artists": [
+        {
+          "name": "Jazz At Lincoln Center Orchestra",
+          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
+        },
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 407832,
+      "name": "Don't Like Goodbyes - Bonus Track",
+      "url": "https://open.spotify.com/track/36GHJdOaMJLh8b5iv4gxhu"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Todas Las Voces",
         "url": "https://open.spotify.com/album/7IMCnusXQEtCVuELxrg36l"
       },
@@ -1267,30 +1291,6 @@
       "duration_ms": 267245,
       "name": "Brazilian Love Affair",
       "url": "https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Una Noche Con Rub\u00e9n Blades",
-        "url": "https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ"
-      },
-      "artists": [
-        {
-          "name": "Jazz At Lincoln Center Orchestra",
-          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
-        },
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 407832,
-      "name": "Don't Like Goodbyes - Bonus Track",
-      "url": "https://open.spotify.com/track/36GHJdOaMJLh8b5iv4gxhu"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Te Escucho",
+        "url": "https://open.spotify.com/album/4YKvsvmt6eSImzRk33GtS8"
+      },
+      "artists": [
+        {
+          "name": "Sofia Ribeiro",
+          "url": "https://open.spotify.com/artist/4JoiBPu2O2zJl01pQKbven"
+        },
+        {
+          "name": "ELENI",
+          "url": "https://open.spotify.com/artist/1K46CdLoq9HrDcTCMGvSJh"
+        }
+      ],
+      "duration_ms": 230550,
+      "name": "Te Escucho",
+      "url": "https://open.spotify.com/track/4h7TaUKl9oPS6c7mvnFgF7"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "El Suelo Mio",
         "url": "https://open.spotify.com/album/3wYZp4aSYfIAA2bVZzTdq4"
       },
@@ -1355,22 +1375,6 @@
       "duration_ms": 209760,
       "name": "El Suelo Mio",
       "url": "https://open.spotify.com/track/4C3nxAQpqNoCTQat7Wdy4t"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "The Standards",
-        "url": "https://open.spotify.com/album/5Xmy6H88sP0z6XdsMTLHYr"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 243381,
-      "name": "They Can't Take That Away from Me",
-      "url": "https://open.spotify.com/track/0MRFCYhfI8n1DrLKv0lSKC"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1391,6 +1395,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "The Standards",
+        "url": "https://open.spotify.com/album/5Xmy6H88sP0z6XdsMTLHYr"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 243381,
+      "name": "They Can't Take That Away from Me",
+      "url": "https://open.spotify.com/track/0MRFCYhfI8n1DrLKv0lSKC"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Indigenous",
         "url": "https://open.spotify.com/album/1dUdmpLdWTWb7zpw9H20hT"
       },
@@ -1403,26 +1423,6 @@
       "duration_ms": 243944,
       "name": "Sombras Del Pasado",
       "url": "https://open.spotify.com/track/39gM45pNgzKLcR8FUTtOwV"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Te Escucho",
-        "url": "https://open.spotify.com/album/4YKvsvmt6eSImzRk33GtS8"
-      },
-      "artists": [
-        {
-          "name": "Sofia Ribeiro",
-          "url": "https://open.spotify.com/artist/4JoiBPu2O2zJl01pQKbven"
-        },
-        {
-          "name": "ELENI",
-          "url": "https://open.spotify.com/artist/1K46CdLoq9HrDcTCMGvSJh"
-        }
-      ],
-      "duration_ms": 230550,
-      "name": "Te Escucho",
-      "url": "https://open.spotify.com/track/4h7TaUKl9oPS6c7mvnFgF7"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Dear Diz (Every Day I Think Of You)",
+        "url": "https://open.spotify.com/album/2GSUGpLdpMUY0ITmHhP5iB"
+      },
+      "artists": [
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        }
+      ],
+      "duration_ms": 408920,
+      "name": "Salt Peanuts! (Mani Salado)",
+      "url": "https://open.spotify.com/track/12PIYgeuoKpo4xkuhblTz3"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Acertijos",
         "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 311920,
       "name": "My Father's Eyes",
       "url": "https://open.spotify.com/track/4j44KbgdZjKygQlGoDZaPc"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Dear Diz (Every Day I Think Of You)",
-        "url": "https://open.spotify.com/album/2GSUGpLdpMUY0ITmHhP5iB"
-      },
-      "artists": [
-        {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
-        }
-      ],
-      "duration_ms": 408920,
-      "name": "Salt Peanuts! (Mani Salado)",
-      "url": "https://open.spotify.com/track/12PIYgeuoKpo4xkuhblTz3"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Border-Free",
+        "url": "https://open.spotify.com/album/0Xgi6Q0v2Xc4Do7vn98OWM"
+      },
+      "artists": [
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 549366,
+      "name": "Congadanza",
+      "url": "https://open.spotify.com/track/2WAc2I5nwTKkBL5QB1fAdB"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "The Latin Side of Horace Silver",
         "url": "https://open.spotify.com/album/6Plg1VTOVvb6kt2Gxcd7Ix"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 306857,
       "name": "NY Latin Jazz Mambo",
       "url": "https://open.spotify.com/track/7CUsMkg3J43xFzyidb4fZz"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Border-Free",
-        "url": "https://open.spotify.com/album/0Xgi6Q0v2Xc4Do7vn98OWM"
-      },
-      "artists": [
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 549366,
-      "name": "Congadanza",
-      "url": "https://open.spotify.com/track/2WAc2I5nwTKkBL5QB1fAdB"
     },
     {
       "added_at": "2025-08-07 16:57:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the Black queer community\. Cover: Durand Bernarr
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,883 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,882 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 44 | [IN THE AIR](https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 2:16 |
 | 45 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
 | 46 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 |
-| 47 | [Hate the Club \(feat\. Masego\)](https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 4:38 |
+| 47 | [Clothes Off \(feat\. kwn\)](https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [While We Wait 2](https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA) | 3:49 |
 | 48 | [do what i say](https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [do what i say](https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E) | 3:08 |
 | 49 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
 | 50 | [BAD BITCHES](https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 3:45 |

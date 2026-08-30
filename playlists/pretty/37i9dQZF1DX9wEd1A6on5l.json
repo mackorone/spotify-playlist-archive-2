@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 120010,
+  "num_followers": 120037,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
-        "name": "Tornado",
-        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 174823,
-      "name": "Tornado",
-      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
         "name": "FUN",
         "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 188981,
       "name": "FUN",
       "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 174823,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -515,26 +515,6 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
-        "name": "BODY (danz)",
-        "url": "https://open.spotify.com/album/1xnMv2ReoYX0A9qiOukR0i"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 147696,
-      "name": "BODY (danz)",
-      "url": "https://open.spotify.com/track/51WcemyU0PlssXhhsspBYh"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
         "name": "Starrgirl",
         "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 168331,
       "name": "Ms. Paper (feat. Theodora)",
       "url": "https://open.spotify.com/track/0e6cXkbHc57qMSN3DwmfSI"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
+        "name": "BODY (danz)",
+        "url": "https://open.spotify.com/album/1xnMv2ReoYX0A9qiOukR0i"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 147696,
+      "name": "BODY (danz)",
+      "url": "https://open.spotify.com/track/51WcemyU0PlssXhhsspBYh"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -595,26 +595,6 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
-        "name": "Gimme Dat Ting",
-        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
-        }
-      ],
-      "duration_ms": 243755,
-      "name": "Gimme Dat Ting (with NO11)",
-      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
         "name": "On my mind",
         "url": "https://open.spotify.com/album/43w6KiIP8mCiOCc1RFVcvT"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 163994,
       "name": "On my mind",
       "url": "https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
+        "name": "Gimme Dat Ting",
+        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        }
+      ],
+      "duration_ms": 243755,
+      "name": "Gimme Dat Ting (with NO11)",
+      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -675,6 +675,66 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
+        "name": "Dantata",
+        "url": "https://open.spotify.com/album/5TvChx29MTUHYx9Xw9Hgnn"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 171111,
+      "name": "Dantata",
+      "url": "https://open.spotify.com/track/7s1qMnMylBNHNF4odSWG1d"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        }
+      ],
+      "duration_ms": 164444,
+      "name": "STARLIFE (feat. Blaqbonez & YKB)",
+      "url": "https://open.spotify.com/track/3ngsykTTzxpBHhBN516JY6"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
+        "name": "MOTION SICKNESS",
+        "url": "https://open.spotify.com/album/0uyDxHJsxv7meDo3jI8geM"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "MOTION SICKNESS (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/24NCQmCRmHlUr1syzQ6fse"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
         "name": "Blue Disco",
         "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
       },
@@ -715,26 +775,6 @@
       "duration_ms": 184437,
       "name": "ANGELS",
       "url": "https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
-        "name": "MOTION SICKNESS",
-        "url": "https://open.spotify.com/album/0uyDxHJsxv7meDo3jI8geM"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "MOTION SICKNESS (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/24NCQmCRmHlUr1syzQ6fse"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -803,30 +843,6 @@
       "duration_ms": 127565,
       "name": "Guide",
       "url": "https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "YKB",
-          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
-        }
-      ],
-      "duration_ms": 164444,
-      "name": "STARLIFE (feat. Blaqbonez & YKB)",
-      "url": "https://open.spotify.com/track/3ngsykTTzxpBHhBN516JY6"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -1011,6 +1027,22 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
+        "name": "BACK 2 U",
+        "url": "https://open.spotify.com/album/6kcf7BlqJJFW62YaOsQ00C"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 162296,
+      "name": "BACK 2 U",
+      "url": "https://open.spotify.com/track/2lhdZrEfgsTjxqjCRXSer0"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
         "name": "LAPOPIANO",
         "url": "https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim"
       },
@@ -1023,22 +1055,6 @@
       "duration_ms": 139285,
       "name": "LAPOPIANO",
       "url": "https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
-        "name": "Dantata",
-        "url": "https://open.spotify.com/album/5TvChx29MTUHYx9Xw9Hgnn"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 171111,
-      "name": "Dantata",
-      "url": "https://open.spotify.com/track/7s1qMnMylBNHNF4odSWG1d"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
-        "name": "On The Road",
-        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
+        "name": "FOR YOU",
+        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
       },
       "artists": [
         {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         }
       ],
-      "duration_ms": 185973,
-      "name": "Masculine Love",
-      "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
+      "duration_ms": 148672,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -1107,18 +1123,34 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
-        "name": "FOR YOU",
-        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
         }
       ],
-      "duration_ms": 148672,
-      "name": "FOR YOU",
-      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
+      "duration_ms": 185973,
+      "name": "Masculine Love",
+      "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 149605,
+      "name": "FYNE",
+      "url": "https://open.spotify.com/track/4YZlGQCYgs1d0jZ6cK08D4"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -1143,6 +1175,22 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 129391,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
         "name": "Business",
         "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
       },
@@ -1155,42 +1203,6 @@
       "duration_ms": 193087,
       "name": "Slow",
       "url": "https://open.spotify.com/track/2lkWbvwdxXlC93cXaSLnfI"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 149605,
-      "name": "FYNE",
-      "url": "https://open.spotify.com/track/4YZlGQCYgs1d0jZ6cK08D4"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
-        "name": "Orindowo",
-        "url": "https://open.spotify.com/album/5M3NG4sis4WH64CY10CkRE"
-      },
-      "artists": [
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        },
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 167787,
-      "name": "Orindowo",
-      "url": "https://open.spotify.com/track/4ytHRcSgxIyC6xwUsKzA6D"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -1215,6 +1227,26 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
+        "name": "Orindowo",
+        "url": "https://open.spotify.com/album/5M3NG4sis4WH64CY10CkRE"
+      },
+      "artists": [
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 167787,
+      "name": "Orindowo",
+      "url": "https://open.spotify.com/track/4ytHRcSgxIyC6xwUsKzA6D"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
         "name": "Waist",
         "url": "https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil"
       },
@@ -1227,22 +1259,6 @@
       "duration_ms": 165625,
       "name": "Waist",
       "url": "https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
-        "name": "Happy Song",
-        "url": "https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 129391,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -1287,6 +1303,22 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 153070,
+      "name": "CLEAR",
+      "url": "https://open.spotify.com/track/2fdVCzqacaAJmUWglCLUK0"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
         "name": "Attack",
         "url": "https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM"
       },
@@ -1299,22 +1331,6 @@
       "duration_ms": 153000,
       "name": "Attack",
       "url": "https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
-        "name": "Uncle Pele / Sew-Tape",
-        "url": "https://open.spotify.com/album/59cWQDtXikHHxtrdYI1KGc"
-      },
-      "artists": [
-        {
-          "name": "Dxtiny",
-          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Uncle Pele",
-      "url": "https://open.spotify.com/track/6BdhR1gE0lAGdPbHi53sOp"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -1355,6 +1371,22 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
+        "name": "Uncle Pele / Sew-Tape",
+        "url": "https://open.spotify.com/album/59cWQDtXikHHxtrdYI1KGc"
+      },
+      "artists": [
+        {
+          "name": "Dxtiny",
+          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Uncle Pele",
+      "url": "https://open.spotify.com/track/6BdhR1gE0lAGdPbHi53sOp"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
         "name": "Secret",
         "url": "https://open.spotify.com/album/78JbjwdI8BdGYAwbseH06b"
       },
@@ -1375,18 +1407,18 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+        "name": "Mortal Kombat",
+        "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
         }
       ],
-      "duration_ms": 153070,
-      "name": "CLEAR",
-      "url": "https://open.spotify.com/track/2fdVCzqacaAJmUWglCLUK0"
+      "duration_ms": 121061,
+      "name": "Mortal Kombat",
+      "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -1411,22 +1443,6 @@
       "duration_ms": 145328,
       "name": "Okpeke (Dance for Me)",
       "url": "https://open.spotify.com/track/4vi0W5kYanPq7TzDMR51I3"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
-        "name": "Mortal Kombat",
-        "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
-      },
-      "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        }
-      ],
-      "duration_ms": 121061,
-      "name": "Mortal Kombat",
-      "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -1495,22 +1511,6 @@
       "duration_ms": 169500,
       "name": "CELINE DION",
       "url": "https://open.spotify.com/track/0D1vNTcDR3SuZtPFUoTGej"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
-        "name": "BANGER BOY",
-        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 146165,
-      "name": "SHEGE",
-      "url": "https://open.spotify.com/track/7kf67G87lsYqfnooZB913F"
     }
   ],
   "unique_name": "Party Dey!",

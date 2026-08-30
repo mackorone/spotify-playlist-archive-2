@@ -1,6 +1,6 @@
 {
   "description": "Interpol en portada.",
-  "num_followers": 680313,
+  "num_followers": 680257,
   "original_name": "el indie no es un g\u00e9nero ",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-08-28 06:00:01",
       "album": {
+        "name": "Beaches In Tennessee",
+        "url": "https://open.spotify.com/album/4AB0To8YbkXhU8VHDdiEDQ"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "Beaches In Tennessee",
+      "url": "https://open.spotify.com/track/20TOJbuP4XyGBEFbwB8Vbm"
+    },
+    {
+      "added_at": "2026-08-28 06:00:01",
+      "album": {
         "name": "STORM",
         "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 173433,
       "name": "STORM II",
       "url": "https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq"
-    },
-    {
-      "added_at": "2026-08-28 06:00:01",
-      "album": {
-        "name": "Beaches In Tennessee",
-        "url": "https://open.spotify.com/album/4AB0To8YbkXhU8VHDdiEDQ"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "Beaches In Tennessee",
-      "url": "https://open.spotify.com/track/20TOJbuP4XyGBEFbwB8Vbm"
     },
     {
       "added_at": "2026-08-28 06:00:01",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-08-28 06:00:01",
       "album": {
-        "name": "Promise?",
-        "url": "https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 192100,
-      "name": "Promise?",
-      "url": "https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4"
-    },
-    {
-      "added_at": "2026-08-28 06:00:01",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 198386,
       "name": "Love Takes Miles",
       "url": "https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF"
+    },
+    {
+      "added_at": "2026-08-28 06:00:01",
+      "album": {
+        "name": "Promise?",
+        "url": "https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 192100,
+      "name": "Promise?",
+      "url": "https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4"
     },
     {
       "added_at": "2026-08-28 06:00:01",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-08-28 06:00:01",
       "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 160720,
+      "name": "Islands",
+      "url": "https://open.spotify.com/track/0Rqwa6i410IwhTiugt6vXi"
+    },
+    {
+      "added_at": "2026-08-28 06:00:01",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/4iOj6nJVkB4K9nbfLFIHC0"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 156780,
       "name": "Blue",
       "url": "https://open.spotify.com/track/3T7vWvqWxZJnx9i5Az5rX4"
-    },
-    {
-      "added_at": "2026-08-28 06:00:01",
-      "album": {
-        "name": "xx",
-        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "Islands",
-      "url": "https://open.spotify.com/track/0Rqwa6i410IwhTiugt6vXi"
     },
     {
       "added_at": "2026-08-28 06:00:01",

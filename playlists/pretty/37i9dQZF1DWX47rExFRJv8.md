@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 
 > The biggest songs in Latin America in 2018\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,042 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,077 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 | 27 | [Clandestino](https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Clandestino](https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf) | 3:51 |
 | 28 | [Presiento](https://open.spotify.com/track/2V4hc5gplg7EXlrRUvD4rp) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Balas Perdidas \(Edición Especial\)](https://open.spotify.com/album/1o5GGiUcnDHS9Y6OK9VBTM) | 2:54 |
 | 29 | [Dime Si Te Acuerdas](https://open.spotify.com/track/3kG1jgWIDmjJkXhOiOmioO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Dime Si Te Acuerdas](https://open.spotify.com/album/3rnV3xx6ipgydVX9ADJKh1) | 3:07 |
-| 30 | [Te Amo](https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Te Amo](https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI) | 3:21 |
-| 31 | [La Forma en Que Me Miras](https://open.spotify.com/track/6t94PGXYAuo9GbJEnMpPcW) | [Super Yei](https://open.spotify.com/artist/6HqgxkTt9KGyt27zYrwVan), [Sammy Baby](https://open.spotify.com/artist/47YyZs6zl7kuFE1yw85O6z), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Rafa Pabón](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [La Forma en Que Me Miras](https://open.spotify.com/album/4C1RvpT7vJ7H8j21larWQU) | 5:07 |
+| 30 | [La Forma en Que Me Miras](https://open.spotify.com/track/6t94PGXYAuo9GbJEnMpPcW) | [Super Yei](https://open.spotify.com/artist/6HqgxkTt9KGyt27zYrwVan), [Sammy Baby](https://open.spotify.com/artist/47YyZs6zl7kuFE1yw85O6z), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Rafa Pabón](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [La Forma en Que Me Miras](https://open.spotify.com/album/4C1RvpT7vJ7H8j21larWQU) | 5:07 |
+| 31 | [Te Amo](https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Te Amo](https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI) | 3:21 |
 | 32 | [Celoso](https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Celoso](https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm) | 2:59 |
 | 33 | [Mala Mía](https://open.spotify.com/track/62o8KoI44JfN7aYxgTnPvh) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Mala Mía](https://open.spotify.com/album/3Bj8Yd9ANO4KufZkqOmG0W) | 3:03 |
 | 34 | [A Solas \(Remix\)](https://open.spotify.com/track/1fXEkSum1vbTa3w0yvYzYW) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 4:33 |

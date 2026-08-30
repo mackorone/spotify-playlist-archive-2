@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 55353,
+  "num_followers": 55366,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAACYot1RG4/Vj5XvyMJSbTTX",
+  "snapshot_id": "apDPgAAAAACAmsbuXqsrv3SRnVGxCs7Q",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 298666,
-      "name": "Gimme Shelter",
-      "url": "https://open.spotify.com/track/1ENXYUosf6ifDYaIAj2trr"
+      "duration_ms": 243906,
+      "name": "Everybody Wants to Rule the World",
+      "url": "https://open.spotify.com/track/4LXwDXCJnTPoWexw3BJFVZ"
     },
     {
       "added_at": null,
@@ -324,15 +324,15 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 243906,
-      "name": "Everybody Wants to Rule the World",
-      "url": "https://open.spotify.com/track/4LXwDXCJnTPoWexw3BJFVZ"
+      "duration_ms": 298666,
+      "name": "Gimme Shelter",
+      "url": "https://open.spotify.com/track/1ENXYUosf6ifDYaIAj2trr"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Horses",
-        "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C"
+        "name": "Radio Ethiopia",
+        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 244640,
-      "name": "Break It Up",
-      "url": "https://open.spotify.com/track/5zE0J5kDTbcQeMYnxRj0QY"
+      "duration_ms": 189733,
+      "name": "Ask the Angels",
+      "url": "https://open.spotify.com/track/6BmAr1i0Jnk8ztzRVQHyEi"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Ethiopia",
-        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 189733,
-      "name": "Ask the Angels",
-      "url": "https://open.spotify.com/track/6BmAr1i0Jnk8ztzRVQHyEi"
+      "duration_ms": 244640,
+      "name": "Break It Up",
+      "url": "https://open.spotify.com/track/5zE0J5kDTbcQeMYnxRj0QY"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gone Again",
-        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 251120,
-      "name": "Summer Cannibals",
-      "url": "https://open.spotify.com/track/4DYuuaIJ05vMp1FaISwkyn"
+      "duration_ms": 554186,
+      "name": "Birdland",
+      "url": "https://open.spotify.com/track/0imH2Uj2Vbxjl8QekmZHE2"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horses",
-        "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C"
+        "name": "Gone Again",
+        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 554186,
-      "name": "Birdland",
-      "url": "https://open.spotify.com/track/0imH2Uj2Vbxjl8QekmZHE2"
+      "duration_ms": 251120,
+      "name": "Summer Cannibals",
+      "url": "https://open.spotify.com/track/4DYuuaIJ05vMp1FaISwkyn"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
       "duration_ms": 201800,
       "name": "Pumping",
       "url": "https://open.spotify.com/track/49TDyRgRbpvpDOZJOslDlh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 161413,
+      "name": "Elegie",
+      "url": "https://open.spotify.com/track/2Vvck2UY0DMK6yjQkmwqff"
     },
     {
       "added_at": null,
@@ -535,22 +551,6 @@
       "duration_ms": 281026,
       "name": "Piss Factory",
       "url": "https://open.spotify.com/track/5KLKSxNQQqg8hOaHVqEwuk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Horses",
-        "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 161413,
-      "name": "Elegie",
-      "url": "https://open.spotify.com/track/2Vvck2UY0DMK6yjQkmwqff"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peace & Noise",
+        "url": "https://open.spotify.com/album/3ZsYwM93Semk99fceeRz2r"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "1959",
+      "url": "https://open.spotify.com/track/6E1y6W1ZTojaBdtHGKDbGK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Banga",
         "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
       },
@@ -699,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace & Noise",
-        "url": "https://open.spotify.com/album/3ZsYwM93Semk99fceeRz2r"
+        "name": "Gung Ho",
+        "url": "https://open.spotify.com/album/6H6ntLDDo8dC7dHKg1UYSE"
       },
       "artists": [
         {
@@ -708,9 +724,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 238546,
-      "name": "1959",
-      "url": "https://open.spotify.com/track/6E1y6W1ZTojaBdtHGKDbGK"
+      "duration_ms": 183289,
+      "name": "Glitter In Their Eyes",
+      "url": "https://open.spotify.com/track/3XGLnUh9XzH1KiAobnpzsv"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
       "duration_ms": 200106,
       "name": "My Generation - Live at The Agora, Cleveland, Ohio - January 26, 1976",
       "url": "https://open.spotify.com/track/3tlIFVwnp2lRfjRaSYxtT0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gung Ho",
-        "url": "https://open.spotify.com/album/6H6ntLDDo8dC7dHKg1UYSE"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 183289,
-      "name": "Glitter In Their Eyes",
-      "url": "https://open.spotify.com/track/3XGLnUh9XzH1KiAobnpzsv"
     },
     {
       "added_at": null,

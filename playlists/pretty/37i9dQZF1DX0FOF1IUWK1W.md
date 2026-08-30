@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Countrybeat, Mari Fernandez o e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,762,944 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,762,794 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 40 | [Carnívoro](https://open.spotify.com/track/65aH3l8LEmRp3HuH5XpKoH) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6) | [Carnívoro](https://open.spotify.com/album/1Wytj2S8Of5HMUmOJN1ULa) | 3:36 |
 | 41 | [Eu Te Seguro \- Ao Vivo](https://open.spotify.com/track/4V2rUOmaevK0C1bKAkeFf5) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Panda Sem Moderação 2, Vol.3](https://open.spotify.com/album/2sDHEgQXJv3VxmitGB0wh3) | 2:28 |
 | 42 | [Posso Até Não Te Dar Flores](https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp) | [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9) | [Posso Até Não Te Dar Flores](https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF) | 2:38 |
-| 43 | [Ignora \(Ao Vivo\)](https://open.spotify.com/track/0dI5yI0wplyuwBMEGKXeJC) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Velhos Hábitos Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/5yHzNUDYfdl02KiOqld5mm) | 2:59 |
+| 43 | [Ignora \- Ao Vivo](https://open.spotify.com/track/0dI5yI0wplyuwBMEGKXeJC) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Velhos Hábitos Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/5yHzNUDYfdl02KiOqld5mm) | 2:59 |
 | 44 | [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 |
 | 45 | [Diário de um Cafajeste](https://open.spotify.com/track/6kaWah1Acn1dtNjAy6sm1p) | [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP) | [Diário de um Cafajeste](https://open.spotify.com/album/3KcnMYtFSEkkHfNsy6KwuA) | 5:57 |
 | 46 | [Admita \- Ao Vivo](https://open.spotify.com/track/2YKc5o2kQ6e1Pch1DwpjkO) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Admita \(Ao Vivo\)](https://open.spotify.com/album/5LSlkNPGCk88r7UzXC33e2) | 2:55 |

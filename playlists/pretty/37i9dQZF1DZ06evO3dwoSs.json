@@ -1,12 +1,12 @@
 {
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
-  "num_followers": 573148,
+  "num_followers": 573161,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABRDM1gY7zLQuqoTrtVOYcQ",
+  "snapshot_id": "apDPgAAAAACOso6izsc1mVfOQQsQUrrG",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
       "duration_ms": 167264,
       "name": "This Is The Way (feat. DMX)",
       "url": "https://open.spotify.com/track/41uRcFai0Ta90sBnYB4OgK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 249750,
-      "name": "Nails In The Coffin",
-      "url": "https://open.spotify.com/track/1mZjfaQkaaphQiaGmnCJzQ"
     },
     {
       "added_at": null,
@@ -72,9 +56,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 241500,
-      "name": "In Time",
-      "url": "https://open.spotify.com/track/6in3OVQ12MZXq1nL7eZliB"
+      "duration_ms": 249750,
+      "name": "Nails In The Coffin",
+      "url": "https://open.spotify.com/track/1mZjfaQkaaphQiaGmnCJzQ"
     },
     {
       "added_at": null,
@@ -136,9 +120,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 195161,
-      "name": "Eye Of The Storm",
-      "url": "https://open.spotify.com/track/5vyCur07bbCO8F41cNwgXr"
+      "duration_ms": 241500,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/6in3OVQ12MZXq1nL7eZliB"
     },
     {
       "added_at": null,
@@ -200,9 +184,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/3kNxNSNAu5I9ZIb6RcYkZf"
+      "duration_ms": 195161,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/5vyCur07bbCO8F41cNwgXr"
     },
     {
       "added_at": null,
@@ -264,9 +248,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 236250,
-      "name": "Unscathed",
-      "url": "https://open.spotify.com/track/1GzTfKNEPBDk8yBqh9I0Vr"
+      "duration_ms": 210000,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/3kNxNSNAu5I9ZIb6RcYkZf"
     },
     {
       "added_at": null,
@@ -328,9 +312,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 240208,
-      "name": "De Oppresso Liber",
-      "url": "https://open.spotify.com/track/57Q1xt7MDEGuN5My2ATEB2"
+      "duration_ms": 236250,
+      "name": "Unscathed",
+      "url": "https://open.spotify.com/track/1GzTfKNEPBDk8yBqh9I0Vr"
     },
     {
       "added_at": null,
@@ -392,9 +376,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 212250,
-      "name": "Joke\u2019s On Me",
-      "url": "https://open.spotify.com/track/6hKGuIGm2XX9VtrMHKg4aI"
+      "duration_ms": 240208,
+      "name": "De Oppresso Liber",
+      "url": "https://open.spotify.com/track/57Q1xt7MDEGuN5My2ATEB2"
     },
     {
       "added_at": null,

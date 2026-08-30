@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Mack Keane
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,945 likes - 1,127 songs - 2 day 19 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,959 likes - 1,127 songs - 2 day 19 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 24 | [Genie In A Bottle \- Spotify Singles](https://open.spotify.com/track/1XhTyKFFySgEHONZYsZcdT) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [Genie In A Bottle \- Spotify Singles](https://open.spotify.com/album/6LmGzRqpz6W0XV7fysHXuG) | 3:11 |
 | 25 | [O Holy Night \- Spotify Singles Holiday](https://open.spotify.com/track/7L3OGWgJMQdXSbY3zgUt1Q) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [O Holy Night \- Spotify Singles Holiday](https://open.spotify.com/album/7CtbtLDxCIS5bhtVCHTSvL) | 3:00 |
 | 26 | [O Come All Ye Faithful \- Spotify Singles Holiday](https://open.spotify.com/track/6iO6ZLKaJF13fuF5HUFSEM) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [O Come All Ye Faithful \(Spotify Singles Holiday\)](https://open.spotify.com/album/6oBl2LRITtZjDTPBYCnuWK) | 3:05 |
-| 27 | [Last Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/track/2JuCzvXu9tIUU2ZDDgQ0vG) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Last Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/1WQWzqG7uf68jQohlrsaR1) | 3:43 |
+| 27 | [Last Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2JuCzvXu9tIUU2ZDDgQ0vG) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Last Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/1WQWzqG7uf68jQohlrsaR1) | 3:43 |
 | 28 | [Christmas Lights \- Spotify Singles Holiday](https://open.spotify.com/track/5sZR7OC7uHArUWvNyunS3T) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Christmas Lights \(Spotify Singles Holiday\)](https://open.spotify.com/album/2Mo9WFAGGbSwon6iNm2lOk) | 3:22 |
 | 29 | [Nació Pa' Leyenda \- Spotify Singles](https://open.spotify.com/track/2OWyDDiLOC6PACqh7Xac8y) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Grupo Restaurado](https://open.spotify.com/artist/47ryVplCCIIsbwcBFcg8Oc) | [Nació Pa' Leyenda \- Spotify Singles](https://open.spotify.com/album/2gzPNct7gehdFkAgPn9n2y) | 2:23 |
 | 30 | [the fruits \- Spotify Singles](https://open.spotify.com/track/3dFyhY5UE2c9OvMb0hOlNn) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Spotify Singles](https://open.spotify.com/album/39IpKI9d9ZwyLFvJwuveKj) | 3:17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GFJ6vkCaiW.md) - [plain]
 
 > Video musik lagu\-lagu Indonesia hanya untuk pengguna premium\. Cover: Difki Khalif
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,017 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,025 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

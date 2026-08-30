@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 
 > The essential pop rock songs from the 80s\. Cover: The Go\-Go's
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,815 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,093 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 61 | [Never Tear Us Apart](https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:05 |
 | 62 | [867\-5309 / Jenny](https://open.spotify.com/track/6iX1f3r7oUJnMbGgQ2gx1j) | [Tommy Tutone](https://open.spotify.com/artist/1n2LWYgwtGp7EzDapUoniE) | [Tommy Tutone \- 2](https://open.spotify.com/album/7aks5lgwJAdiZLN51UjkU1) | 3:46 |
 | 63 | [Sara](https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:52 |
-| 64 | [Gypsy \- 2016 Remaster](https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:27 |
-| 65 | [Young Turks](https://open.spotify.com/track/6sBA8b9bT8Z8G8TkVDvNTK) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Tonight I'm Yours \(Expanded Edition\)](https://open.spotify.com/album/6gDOvRUvES84YOBkMEQTbD) | 5:03 |
+| 64 | [Young Turks](https://open.spotify.com/track/6sBA8b9bT8Z8G8TkVDvNTK) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Tonight I'm Yours \(Expanded Edition\)](https://open.spotify.com/album/6gDOvRUvES84YOBkMEQTbD) | 5:03 |
+| 65 | [Gypsy \- 2016 Remaster](https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:27 |
 | 66 | [You Might Think](https://open.spotify.com/track/35wVRTJlUu2kDkqXFegOKt) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:04 |
 | 67 | [The Longest Time](https://open.spotify.com/track/5DH7nDryMhpixm4G4B7RP9) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:43 |
 | 68 | [A View to a Kill](https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 3:37 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 97 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/4k5FeWIdUaBx5OZdvrSYP1) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango in the Night \(2017 Remaster\)](https://open.spotify.com/album/7CWZNdANL2ZYQs3JfdxoM5) | 3:46 |
 | 98 | [Goody Two Shoes](https://open.spotify.com/track/760xFXFj5Fksa3jawSCn5g) | [Adam Ant](https://open.spotify.com/artist/3QP0XPDwbvGivqDAaJ5f5G) | [Friend Or Foe](https://open.spotify.com/album/2GAvEhQNAUpsx1DF2SfyNA) | 3:29 |
 | 99 | [I Missed Again \- 2015 Remaster](https://open.spotify.com/track/3VNzK4gTzkWwMn8CGPbhXj) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Face Value \(Deluxe Editon\)](https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln) | 3:46 |
-| 100 | [Everyday I Write The Book](https://open.spotify.com/track/1P9523tBg56NRc78lX2i4l) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Punch The Clock](https://open.spotify.com/album/0jo7K3IkLusU2dbYLvQIOs) | 3:54 |
+| 100 | [Head Over Heels](https://open.spotify.com/track/1p46bniF6fC9kT1v5yjJOI) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Greatest](https://open.spotify.com/album/6qDHT0nQqu8GhK2jFa5LNp) | 3:36 |
 
 Snapshot ID: `AAAAAJjXcS7o7ieR1FX8+f7B3UIBog8y`

@@ -1,6 +1,6 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 21018,
+  "num_followers": 21021,
   "original_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
@@ -323,18 +323,22 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "A-TEEN Part. 2",
-        "url": "https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J"
+        "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
       },
       "artists": [
         {
-          "name": "So Soo Bin",
-          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        },
+        {
+          "name": "SUNG HAN BIN",
+          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
         }
       ],
-      "duration_ms": 204942,
-      "name": "I'II be your star",
-      "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
+      "duration_ms": 202173,
+      "name": "Luv Luv Luv",
+      "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -355,22 +359,18 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
+        "name": "A-TEEN Part. 2",
+        "url": "https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J"
       },
       "artists": [
         {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        },
-        {
-          "name": "SUNG HAN BIN",
-          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
         }
       ],
-      "duration_ms": 202173,
-      "name": "Luv Luv Luv",
-      "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
+      "duration_ms": 204942,
+      "name": "I'II be your star",
+      "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
-      },
-      "artists": [
-        {
-          "name": "Jinyoung",
-          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
-        }
-      ],
-      "duration_ms": 222305,
-      "name": "Shining on Your Night",
-      "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
         "name": "Queen of Tears (Original Television Soundtrack), Pt.10",
         "url": "https://open.spotify.com/album/54gULZ4uWxUIqt8Ehj2wAf"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 220880,
       "name": "Heart Flutter",
       "url": "https://open.spotify.com/track/0lpRU36tC5Cq5crfYOCB6b"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
+        "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
+        }
+      ],
+      "duration_ms": 222305,
+      "name": "Shining on Your Night",
+      "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "Law and The City, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3kCelYZb943ElkmLIctqol"
-      },
-      "artists": [
-        {
-          "name": "DOKO",
-          "url": "https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Can i love u?",
-      "url": "https://open.spotify.com/track/0dSwwQO6nZk1uMbn0aV7Ud"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
         "name": "Ours",
         "url": "https://open.spotify.com/album/3Z30H63fJdpvn3YzhD0zZO"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "A Korean Odyssey (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP"
+        "name": "Law and The City, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3kCelYZb943ElkmLIctqol"
       },
       "artists": [
         {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+          "name": "DOKO",
+          "url": "https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag"
         }
       ],
-      "duration_ms": 244764,
-      "name": "I Will Be By Your Side",
-      "url": "https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm"
+      "duration_ms": 206000,
+      "name": "Can i love u?",
+      "url": "https://open.spotify.com/track/0dSwwQO6nZk1uMbn0aV7Ud"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -835,6 +819,22 @@
       "duration_ms": 215120,
       "name": "Be My Love",
       "url": "https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
+        "name": "A Korean Odyssey (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 244764,
+      "name": "I Will Be By Your Side",
+      "url": "https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "So Pretty",
-        "url": "https://open.spotify.com/album/5fYd7d5kXmnzaTFai0UANH"
-      },
-      "artists": [
-        {
-          "name": "Oh Si Young",
-          "url": "https://open.spotify.com/artist/0l5rg9dt1t4L9MZWfm8bTI"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "So Pretty",
-      "url": "https://open.spotify.com/track/4uGrFDHsKE6R6RTWK64Dcz"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
         "name": "Ten Reasons I Love You(2021)",
         "url": "https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 250813,
       "name": "Ten Reasons I Love You(2021)",
       "url": "https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
+        "name": "So Pretty",
+        "url": "https://open.spotify.com/album/5fYd7d5kXmnzaTFai0UANH"
+      },
+      "artists": [
+        {
+          "name": "Oh Si Young",
+          "url": "https://open.spotify.com/artist/0l5rg9dt1t4L9MZWfm8bTI"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "So Pretty",
+      "url": "https://open.spotify.com/track/4uGrFDHsKE6R6RTWK64Dcz"
     }
   ],
   "unique_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",

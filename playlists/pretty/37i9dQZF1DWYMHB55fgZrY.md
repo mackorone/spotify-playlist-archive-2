@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 
 > Los próceres de la historia del rock nacional\. el Xava Drago por siempre
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,682 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,717 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 46 | [Solín](https://open.spotify.com/track/4OnOwfpbZCwHnFNDqgjOuS) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:11 |
 | 47 | [La Carencia](https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Un Panteon Muy Vivo](https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP) | 7:03 |
 | 48 | [Peligroso Pop](https://open.spotify.com/track/5lwPvoxq9H3eAawY4236zP) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Hola Chicuelos](https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf) | 3:36 |
-| 49 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
-| 50 | [Voto Latino](https://open.spotify.com/track/6InAFCfwjgsUtDoaOCwwZL) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [¿Dónde Jugarán Las Niñas?](https://open.spotify.com/album/7EIqLMVIGdxmuXIscBAyn0) | 2:58 |
+| 49 | [Voto Latino](https://open.spotify.com/track/6InAFCfwjgsUtDoaOCwwZL) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [¿Dónde Jugarán Las Niñas?](https://open.spotify.com/album/7EIqLMVIGdxmuXIscBAyn0) | 2:58 |
+| 50 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
 | 51 | [Dead \- En Vivo](https://open.spotify.com/track/7xFn3dihBf60SS4m1wDDt5) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 3:57 |
 | 52 | [Siento Que...](https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant](https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c) | 3:29 |
 | 53 | [Nalguita](https://open.spotify.com/track/3vEkB7InOc5P7Vs3CNkCB2) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Tasty + B Sides](https://open.spotify.com/album/5IO0ppb7WMdyanUnnBCR0M) | 4:14 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 70 | [Cada Vez Que Me Voy](https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [D.D\. Y Ponle Play](https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW) | 2:54 |
 | 71 | [De Que el Amor Apesta](https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 4:38 |
 | 72 | [Peligro](https://open.spotify.com/track/44iy4xK9Dtk4XSNAHJu7Ha) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Pa´Morirse De Amor](https://open.spotify.com/album/5Xgpjw5Gciq9armO3ov2ua) | 3:42 |
-| 73 | [Carretera](https://open.spotify.com/track/4pKR2c4mbEhez3prGd8pJ3) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [En Esta Ciudad](https://open.spotify.com/album/4zFowI60PGLkWQ9VGNAQnk) | 3:27 |
-| 74 | [Que Grosero](https://open.spotify.com/track/5bNA2LQPTzZoye58HtZjsp) | [Ultrasonicas](https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV) | [Ultrasonicas](https://open.spotify.com/album/5zTNebmzsdtRxPYrxRxGr7) | 2:58 |
+| 73 | [Que Grosero](https://open.spotify.com/track/5bNA2LQPTzZoye58HtZjsp) | [Ultrasonicas](https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV) | [Ultrasonicas](https://open.spotify.com/album/5zTNebmzsdtRxPYrxRxGr7) | 2:58 |
+| 74 | [Carretera](https://open.spotify.com/track/4pKR2c4mbEhez3prGd8pJ3) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [En Esta Ciudad](https://open.spotify.com/album/4zFowI60PGLkWQ9VGNAQnk) | 3:27 |
 | 75 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 |
 | 76 | [Chavo de Onda](https://open.spotify.com/track/5OefRQlG7PuOMXuRLq5wuf) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [Adicto al Rock N Roll](https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ) | 3:28 |
 | 77 | [Ojos Claros, Labios Rosas](https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 4:22 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 89 | [Me Enamoré En La Cola De Las Torillas](https://open.spotify.com/track/5dQxHCVmt6PNqNsza6XI63) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Piel De Banqueta](https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce) | 2:59 |
 | 90 | [El Adiós de un Alcohólico](https://open.spotify.com/track/7cBzB83d9uSfzaHjQ9LJzj) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En el Camino](https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3) | 5:00 |
 | 91 | [Don Quijote Marihuana](https://open.spotify.com/track/6Xn9nL00DDLBjH828A6kjX) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Don Quijote Marihuana](https://open.spotify.com/album/291EdpOOlMU2htCxHirMuJ) | 4:41 |
-| 92 | [De Mis Pasos](https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Aqui](https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ) | 3:18 |
-| 93 | [Abuso de autoridad](https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 2:03 |
-| 94 | [Dormir Soñando \- Versión Sinfónico \[En Vivo\]](https://open.spotify.com/track/68BdNYZS8uj9l6fvm11jfZ) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Rock En Tu Idioma Sinfónico, Vol.2 \(En Vivo\)](https://open.spotify.com/album/1VdXpzYXEl3GZwghlc1icV) | 3:38 |
+| 92 | [Dormir Soñando \- Versión Sinfónico \[En Vivo\]](https://open.spotify.com/track/68BdNYZS8uj9l6fvm11jfZ) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Rock En Tu Idioma Sinfónico, Vol.2 \(En Vivo\)](https://open.spotify.com/album/1VdXpzYXEl3GZwghlc1icV) | 3:38 |
+| 93 | [De Mis Pasos](https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Aqui](https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ) | 3:18 |
+| 94 | [Abuso de autoridad](https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 2:03 |
 | 95 | [Nasty Sex](https://open.spotify.com/track/1XoFXjGDhvFrIy6xT7WlcR) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Viva El Rock Latino 2015](https://open.spotify.com/album/32T2hxjfQJfO41Vp2sG4rb) | 5:22 |
 | 96 | [Matando Gueros](https://open.spotify.com/track/2gjr6Seh7mH5Tsgmo5DqjQ) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Mantando Gueros](https://open.spotify.com/album/6ljMqIyil2pDBcZlsysK76) | 2:23 |
 | 97 | [Paquita Disco](https://open.spotify.com/track/4CJaBuM4AhPM7jJNnKZqc3) | [La Lupita](https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB) | [Rock Milenium](https://open.spotify.com/album/2AusEMAvDewcPfe635W38x) | 2:47 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 269055,
+  "num_followers": 269077,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAAxrLR5U7QthNMZzQewI5XQ",
+  "snapshot_id": "apDPgAAAAADC4Zhk9cyEgQr2eZv4MP0w",
   "tracks": [
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Boy (with Young Thug)",
-        "url": "https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 157355,
-      "name": "Bad Boy (with Young Thug)",
-      "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "100 GIGS",
         "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 278000,
       "name": "It's Up (feat. Young Thug & 21 Savage)",
       "url": "https://open.spotify.com/track/1qIwin7JMVuX70qN6wD8ww"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Boy (with Young Thug)",
+        "url": "https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 157355,
+      "name": "Bad Boy (with Young Thug)",
+      "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slime Season",
+        "url": "https://open.spotify.com/album/3KSeRpEslZsZGRnJHe5nXt"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/2KztZVOEdCkJJHIXcdy6lM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "pick up the phone (feat. Quavo)",
         "url": "https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 252262,
       "name": "pick up the phone (feat. Quavo)",
       "url": "https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slime Season",
-        "url": "https://open.spotify.com/album/3KSeRpEslZsZGRnJHe5nXt"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/2KztZVOEdCkJJHIXcdy6lM"
     },
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "xperiment",
-        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 207114,
-      "name": "drug kit (with Young Thug)",
-      "url": "https://open.spotify.com/track/1QW7B0KaSknMeHfhBTRWky"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
         "url": "https://open.spotify.com/album/3Xp4gYT4TT35MitP4T11Xt"
       },
@@ -755,26 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 136266,
-      "name": "pushin P (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
+      "duration_ms": 207114,
+      "name": "drug kit (with Young Thug)",
+      "url": "https://open.spotify.com/track/1QW7B0KaSknMeHfhBTRWky"
     },
     {
       "added_at": null,
@@ -803,6 +779,30 @@
       "duration_ms": 226000,
       "name": "That Go! (feat. T-Shyne)",
       "url": "https://open.spotify.com/track/6rUmUJ2drFemHTH73bFAKQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 136266,
+      "name": "pushin P (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BUSINESS IS BUSINESS",
-        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 155733,
-      "name": "Went Thru It",
-      "url": "https://open.spotify.com/track/7fYI5lJNkyJMtTdhIVPy07"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slime & B",
         "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 230253,
       "name": "City Girls",
       "url": "https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 155733,
+      "name": "Went Thru It",
+      "url": "https://open.spotify.com/track/7fYI5lJNkyJMtTdhIVPy07"
     },
     {
       "added_at": null,
@@ -915,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BUSINESS IS BUSINESS",
-        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "Jonesboro",
-      "url": "https://open.spotify.com/track/4mRcWpEcBCXNzrapIH76R7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slime Language 2 (Deluxe)",
         "url": "https://open.spotify.com/album/3XADnbi4uhYXb7RuSJ7bre"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 188440,
       "name": "Slam the Door",
       "url": "https://open.spotify.com/track/07Vwzgzl5dRyU7AMpJbIE3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "Jonesboro",
+      "url": "https://open.spotify.com/track/4mRcWpEcBCXNzrapIH76R7"
     },
     {
       "added_at": null,
@@ -1059,22 +1059,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoodie SZN",
-        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+        "name": "Barter 6",
+        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
       },
       "artists": [
         {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/0wVlws1JGleYZSVRWjj9B7"
         }
       ],
-      "duration_ms": 220888,
-      "name": "Just Like Me (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/0uH6JssU7mWkTT9mqeqEvL"
+      "duration_ms": 202533,
+      "name": "With That (feat. Duke)",
+      "url": "https://open.spotify.com/track/6o4nVtywF4F75RkOcDxrtd"
     }
   ],
   "unique_name": "This Is Young Thug",

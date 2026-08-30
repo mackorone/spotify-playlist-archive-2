@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 184803,
       "name": "Amelie",
       "url": "https://open.spotify.com/track/0O5KcmgOeEgublW6ySQ6Vc"
@@ -4162,7 +4162,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 225459,
       "name": "Davide e Golia",
       "url": "https://open.spotify.com/track/0qGIqm3xGuugqoXzpnP6sX"
@@ -4900,6 +4900,28 @@
       "duration_ms": 173858,
       "name": "dont let me go",
       "url": "https://open.spotify.com/track/2qvGI2uUNgNheWnfxQr25W"
+    },
+    {
+      "album": {
+        "name": "DOOM",
+        "url": "https://open.spotify.com/album/0wqNe0EDDKNpJ9SYMEVyLr"
+      },
+      "artists": [
+        {
+          "name": "nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        },
+        {
+          "name": "3D",
+          "url": "https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127248,
+      "name": "Doom",
+      "url": "https://open.spotify.com/track/6lb1rcBfpEUmoGvbWhBxFL"
     },
     {
       "album": {
@@ -6873,6 +6895,28 @@
     },
     {
       "album": {
+        "name": "HABITAT",
+        "url": "https://open.spotify.com/album/5S2RzVtE5dwhqZHK9UH767"
+      },
+      "artists": [
+        {
+          "name": "nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        },
+        {
+          "name": "3D",
+          "url": "https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "guerra dentro",
+      "url": "https://open.spotify.com/track/2aPz4c03AsOhTgbuSnfrCs"
+    },
+    {
+      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -7966,7 +8010,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 223346,
       "name": "I Fall Apart",
       "url": "https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh"
@@ -8664,7 +8708,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 146333,
       "name": "Il Filmografo",
       "url": "https://open.spotify.com/track/5nqOdSrqurNq8ejE7Ujc9l"
@@ -11644,7 +11688,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 284708,
       "name": "Maquiav\u00e9lico",
       "url": "https://open.spotify.com/track/2RYOtMt9aj0p2mP5ofomFd"
@@ -11894,7 +11938,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 169411,
       "name": "Me vs. Me",
       "url": "https://open.spotify.com/track/5tLAqhNvczUx9ufC9LgzmX"
@@ -11920,7 +11964,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 136881,
       "name": "Me, Myself & I",
       "url": "https://open.spotify.com/track/6Ln7dIucQFcVGmh1NrvIva"
@@ -13004,7 +13048,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 168308,
       "name": "Never Be Alright",
       "url": "https://open.spotify.com/track/6v5vr3SqSczkqIIVeW8RjZ"
@@ -13674,7 +13718,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 179372,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/0nrQctfuJf5yEjPKHlMiBp"
@@ -14244,7 +14288,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 208212,
       "name": "PIET\u00c0 (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/0IkOUXIMztRh6yBAPD1OzF"
@@ -14952,7 +14996,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 120160,
       "name": "RIP",
       "url": "https://open.spotify.com/track/3xa8ejQLxZNElGUc71yDZz"
@@ -15822,7 +15866,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 163381,
       "name": "SE NON PROVO DOLORE",
       "url": "https://open.spotify.com/track/7kycm3mVY7yaNOtgiAK6lr"
@@ -17054,7 +17098,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 152903,
       "name": "starcrossed girl",
       "url": "https://open.spotify.com/track/0rJ9ON5rJZMUb3jn8PidOX"
@@ -17340,7 +17384,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-13",
+      "date_removed": null,
       "duration_ms": 187431,
       "name": "STUPIDO",
       "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
@@ -19615,6 +19659,28 @@
     },
     {
       "album": {
+        "name": "Piove Ancora",
+        "url": "https://open.spotify.com/album/4YFbmYCyhx8cC8AvOVT8DO"
+      },
+      "artists": [
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        },
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Vedova Nera",
+      "url": "https://open.spotify.com/track/03f5a1nr1YqewRSSBxeB0k"
+    },
+    {
+      "album": {
         "name": "Memu Vayasuku Vachham",
         "url": "https://open.spotify.com/album/2hgyE4PJD9S9fjmCeENRSL"
       },
@@ -19644,7 +19710,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 138937,
       "name": "Vidas Pasadas",
       "url": "https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr"

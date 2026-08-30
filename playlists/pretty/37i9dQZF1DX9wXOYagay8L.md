@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: Marcus Harvey
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,935 likes - 95 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,996 likes - 95 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

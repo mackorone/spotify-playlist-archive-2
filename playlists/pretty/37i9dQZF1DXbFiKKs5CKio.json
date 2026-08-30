@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 73261,
+  "num_followers": 73265,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-08-07 14:24:16",
       "album": {
+        "name": "93",
+        "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
+      },
+      "artists": [
+        {
+          "name": "Kynnie",
+          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "Me Curar",
+      "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
+    },
+    {
+      "added_at": "2026-08-07 14:24:16",
+      "album": {
         "name": "Abre Alas",
         "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
       },
@@ -575,18 +591,18 @@
     {
       "added_at": "2026-08-07 14:24:16",
       "album": {
-        "name": "93",
-        "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
+        "name": "TRAN\u00c7A",
+        "url": "https://open.spotify.com/album/33o0Id7mFVN77Vn4tKx8EQ"
       },
       "artists": [
         {
-          "name": "Kynnie",
-          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
+          "name": "Trajano",
+          "url": "https://open.spotify.com/artist/3LxEjKaojOdrfAZ4HrdJQy"
         }
       ],
-      "duration_ms": 226073,
-      "name": "Me Curar",
-      "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
+      "duration_ms": 269062,
+      "name": "OFERENDA",
+      "url": "https://open.spotify.com/track/4knACzeO6UUyh8mVMzhAk2"
     },
     {
       "added_at": "2026-08-07 14:24:16",
@@ -603,22 +619,6 @@
       "duration_ms": 220728,
       "name": "Fim\u2026",
       "url": "https://open.spotify.com/track/44AB55f9QlY6BLwtjNJ6FS"
-    },
-    {
-      "added_at": "2026-08-07 14:24:16",
-      "album": {
-        "name": "TRAN\u00c7A",
-        "url": "https://open.spotify.com/album/33o0Id7mFVN77Vn4tKx8EQ"
-      },
-      "artists": [
-        {
-          "name": "Trajano",
-          "url": "https://open.spotify.com/artist/3LxEjKaojOdrfAZ4HrdJQy"
-        }
-      ],
-      "duration_ms": 269062,
-      "name": "OFERENDA",
-      "url": "https://open.spotify.com/track/4knACzeO6UUyh8mVMzhAk2"
     },
     {
       "added_at": "2026-08-07 14:24:16",

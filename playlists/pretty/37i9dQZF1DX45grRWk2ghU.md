@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 
 > Every Lollapalooza a new main pop girl rises
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,667 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 867,819 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 52 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
 | 53 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 |
 | 54 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 |
-| 55 | [What Dreams Are Made Of](https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [The Lizzie McGuire Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh) | 4:02 |
-| 56 | [MachineGirl](https://open.spotify.com/track/3xmL9LoL5tl9KYqWIbxQRN) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:36 |
+| 55 | [MachineGirl](https://open.spotify.com/track/3xmL9LoL5tl9KYqWIbxQRN) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:36 |
+| 56 | [What Dreams Are Made Of](https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [The Lizzie McGuire Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh) | 4:02 |
 | 57 | [EVERYTHING I'VE EVER WANTED](https://open.spotify.com/track/40p1AU9WjnKzgUTQu3FBEN) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | 2:15 |
 | 58 | [Stars Are Blind](https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Paris \(U.S\. Standard Version\)](https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs) | 3:56 |
 | 59 | [Unlock it \(Lock It\) \- feat\. Kim Petras and Jay Park](https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 3:52 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 71 | [Cool Girl](https://open.spotify.com/track/3tJ4y2Zqx6gM9xOAuFfsSF) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Lady Wood](https://open.spotify.com/album/1tuekzsMZQOuiMejKP6t2Y) | 3:19 |
 | 72 | [DOIT4ME](https://open.spotify.com/track/0FyhBw60Tk0UyVqJEJqn9N) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | 3:01 |
 | 73 | [Sour Candy \(with BLACKPINK\)](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:37 |
-| 74 | [THIS IS FOR](https://open.spotify.com/track/1GMGVYS12lGWK9UWMJ2iZP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR \(DELUXE\)](https://open.spotify.com/album/4vk90WpE6wOlE3wCO0md1U) | 2:11 |
-| 75 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 |
+| 74 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 |
+| 75 | [THIS IS FOR](https://open.spotify.com/track/1GMGVYS12lGWK9UWMJ2iZP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR \(DELUXE\)](https://open.spotify.com/album/4vk90WpE6wOlE3wCO0md1U) | 2:11 |
 
 Snapshot ID: `AAAAAP5WjEDMKpTKOFGzeF3Qd8smO6jd`

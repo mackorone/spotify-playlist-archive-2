@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 
 > La playlist des plus grands hits Electro & Dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,733 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,845 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 | 17 | [Infinity 2008 \- Klaas Vocal Edit](https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE) | [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy), [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Infinity 2008](https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY) | 3:12 |
 | 18 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [GIGI D'AGOSTINO](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 |
 | 19 | [Party Rock Anthem](https://open.spotify.com/track/7mitXLIMCflkhZiD34uEQI) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lauren Bennett](https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP), [GoonRock](https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh) | [Sorry For Party Rocking](https://open.spotify.com/album/0D49RvtlLCKyxeDKDnBU2R) | 4:22 |
-| 20 | [Vogue](https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 5:17 |
-| 21 | [Around the World](https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 7:09 |
+| 20 | [Around the World](https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 7:09 |
+| 21 | [Vogue](https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 5:17 |
 | 22 | [Baianá](https://open.spotify.com/track/780be5fB7823aHG06mwTat) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W) | 3:00 |
 | 23 | [This Is What It Feels Like](https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Intense](https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF) | 3:24 |
 | 24 | [Losing It](https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It](https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv) | 4:08 |

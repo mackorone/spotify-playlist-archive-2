@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNSDUeK85ev.md) - [plain]
 
 > La playlist que prende la fiesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,614 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,634 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNSDUeK85ev.md) - [plain]
 | 23 | [POSEIDON](https://open.spotify.com/track/174aKoJaBUSw87F0erUV5y) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [POSEIDON](https://open.spotify.com/album/0oHVJ97dewqN8vxZGNn79L) | 2:22 |
 | 24 | [Tu Turrito](https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Tu Turrito](https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02) | 2:44 |
 | 25 | [Ya No Más](https://open.spotify.com/track/4gQG2Ic7hnJMAcqunk4ERT) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB), [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Ya No Más](https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl) | 2:38 |
-| 26 | [Ahi Ahi](https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [Ahi Ahi](https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3) | 2:56 |
-| 27 | [DISCOTEKA \(feat\. Locura Mix\)](https://open.spotify.com/track/5w7RsSgxxBwdVTSyQDj8Bi) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [DISCOTEKA \(feat\. Locura Mix\)](https://open.spotify.com/album/64rUVVmLA2xspGjE2nt6dx) | 3:24 |
+| 26 | [DISCOTEKA \(feat\. Locura Mix\)](https://open.spotify.com/track/5w7RsSgxxBwdVTSyQDj8Bi) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [DISCOTEKA \(feat\. Locura Mix\)](https://open.spotify.com/album/64rUVVmLA2xspGjE2nt6dx) | 3:24 |
+| 27 | [Ahi Ahi](https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [Ahi Ahi](https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3) | 2:56 |
 | 28 | [PÉGATE](https://open.spotify.com/track/3YZWI2eI7X2B0xuSHNFCc2) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [DJ Roman](https://open.spotify.com/artist/3Da9oMHorNECMUqxi2g80Y) | [PÉGATE](https://open.spotify.com/album/1FSiNmVh42DRSWKWm0jrYB) | 2:17 |
 | 29 | [El Mismo Aire](https://open.spotify.com/track/7onMf0QvWgRba2MRxG27yj) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [El Mismo Aire](https://open.spotify.com/album/6LXcy5pa27VqUaqLmM6AH6) | 3:29 |
 | 30 | [El humo de mi fasito](https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 3:32 |

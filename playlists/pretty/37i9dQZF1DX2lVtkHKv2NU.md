@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 
 > me gustas mucho\. <3 I've got a crush on you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,238 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,272 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 | 66 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 |
 | 67 | [Priti](https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Priti](https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB) | 2:10 |
 | 68 | [Rosa Pastel](https://open.spotify.com/track/6Z0ybnsUBhbZ9ZjPW64eoF) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Gran Disco Mini Precio \- Dulce Beat](https://open.spotify.com/album/3eFmEZkrFFPAhEX0xpTSir) | 3:05 |
-| 69 | [oh to be loved](https://open.spotify.com/track/7wR4drNkIHfT3JkDbL5jIg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be loved](https://open.spotify.com/album/5cF4Ayv8e7RDvHQXZVUmhj) | 3:45 |
-| 70 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 |
+| 69 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 |
+| 70 | [oh to be loved](https://open.spotify.com/track/7wR4drNkIHfT3JkDbL5jIg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be loved](https://open.spotify.com/album/5cF4Ayv8e7RDvHQXZVUmhj) | 3:45 |
 | 71 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
 | 72 | [XT4S1S](https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [XT4S1S](https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC) | 3:39 |
 | 73 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
@@ -88,15 +88,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 | 78 | [Cuando Estamos Solas](https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Cuando Estamos Solas](https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv) | 2:40 |
 | 79 | [¿Es En Serio?](https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Es En Serio?](https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5) | 3:13 |
 | 80 | [24/7](https://open.spotify.com/track/1ZpuuKGjzo8x5NQwBZLrRj) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [24/7](https://open.spotify.com/album/3C9AaBc0H8DfTUHUWYS3tI) | 2:52 |
-| 81 | [Aeropuerto](https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Aeropuerto](https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn) | 3:32 |
-| 82 | [Quisiera Enamorarme](https://open.spotify.com/track/3ZhfWEFlqebiUEcc3YbR7D) | [Me Dicen Jos](https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV), [Julia Amoroso](https://open.spotify.com/artist/6chzluS9BC5JE8m6DWSUzF) | [Quisiera Enamorarme](https://open.spotify.com/album/40t2ZbDA27Jqt3EhHMNwYk) | 3:06 |
+| 81 | [Quisiera Enamorarme](https://open.spotify.com/track/3ZhfWEFlqebiUEcc3YbR7D) | [Me Dicen Jos](https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV), [Julia Amoroso](https://open.spotify.com/artist/6chzluS9BC5JE8m6DWSUzF) | [Quisiera Enamorarme](https://open.spotify.com/album/40t2ZbDA27Jqt3EhHMNwYk) | 3:06 |
+| 82 | [Aeropuerto](https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Aeropuerto](https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn) | 3:32 |
 | 83 | [Verano En NY](https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Verano En NY](https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD) | 3:06 |
 | 84 | [Drogada de Emociones](https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 2:40 |
 | 85 | [OK.](https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [OK.](https://open.spotify.com/album/0AANQfneLU0IRecx5ORTR4) | 2:36 |
 | 86 | [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 |
 | 87 | [PILATES](https://open.spotify.com/track/6w3cKSW3HCFx4Z47tRHiwv) | [ARIA BELA](https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz) | [PILATES](https://open.spotify.com/album/3MuMW080QRlLuVNwyNH8BA) | 2:44 |
-| 88 | [KINTSUGI](https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [KINTSUGI](https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ) | 3:57 |
-| 89 | [Musas en Mi](https://open.spotify.com/track/2z5Lw3cfLUpfXJymwKH6An) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Musas en Mi](https://open.spotify.com/album/4DpsoTA4hQJ3C92jvokX1s) | 5:34 |
+| 88 | [Musas en Mi](https://open.spotify.com/track/2z5Lw3cfLUpfXJymwKH6An) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Musas en Mi](https://open.spotify.com/album/4DpsoTA4hQJ3C92jvokX1s) | 5:34 |
+| 89 | [KINTSUGI](https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [KINTSUGI](https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ) | 3:57 |
 | 90 | [BI](https://open.spotify.com/track/3A2h5cSKjTgIVwVsti2EdT) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [BI](https://open.spotify.com/album/5eDuna8HWeNest7b5MVSb3) | 2:29 |
 | 91 | [BELLA](https://open.spotify.com/track/5aWBfICPZSTUSAHdyxRy9R) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [BELLA](https://open.spotify.com/album/6fexRvGSeG2sHlla8LIanp) | 2:52 |
 | 92 | [Sylvia Plath](https://open.spotify.com/track/5aBuF2Pa3x9gZKwnshRLhz) | [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE) | [Sylvia Plath](https://open.spotify.com/album/4YvQEEbnFEqUROQDsxJ6xN) | 5:10 |

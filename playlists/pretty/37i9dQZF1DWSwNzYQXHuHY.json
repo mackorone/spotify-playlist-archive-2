@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12854,
+  "num_followers": 12856,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-07-03 07:31:26",
       "album": {
-        "name": "Good Person (2022)",
-        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
-      },
-      "artists": [
-        {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Good Person (2022)",
-      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
-    },
-    {
-      "added_at": "2026-07-03 07:31:26",
-      "album": {
         "name": "Lovely Runner, Pt. 4 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5imt2fu9plNVvxIsHqdqpX"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 198620,
       "name": "May I Love You?",
       "url": "https://open.spotify.com/track/3yByTfbbmapjLSzGUw6S67"
+    },
+    {
+      "added_at": "2026-07-03 07:31:26",
+      "album": {
+        "name": "Good Person (2022)",
+        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Good Person (2022)",
+      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
     },
     {
       "added_at": "2026-07-03 07:31:26",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-07-03 07:31:26",
       "album": {
+        "name": "Dynamite Kiss (Original Television Soundtrack), Pt.3",
+        "url": "https://open.spotify.com/album/1wD9dXi6cZXqbAueDxpvuS"
+      },
+      "artists": [
+        {
+          "name": "Kim Min Seok (MeloMance)",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Special Day",
+      "url": "https://open.spotify.com/track/70EAgvy4fUexEViBeylMzS"
+    },
+    {
+      "added_at": "2026-07-03 07:31:26",
+      "album": {
         "name": "monodrama (feat. KURO)",
         "url": "https://open.spotify.com/album/6m0ImyuGH2zCmlpJy7PpZB"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 173286,
       "name": "monodrama (feat. KURO)",
       "url": "https://open.spotify.com/track/7Fyj1PrZfWjbm1qlVu5aM9"
-    },
-    {
-      "added_at": "2026-07-03 07:31:26",
-      "album": {
-        "name": "Dynamite Kiss (Original Television Soundtrack), Pt.3",
-        "url": "https://open.spotify.com/album/1wD9dXi6cZXqbAueDxpvuS"
-      },
-      "artists": [
-        {
-          "name": "Kim Min Seok (MeloMance)",
-          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Special Day",
-      "url": "https://open.spotify.com/track/70EAgvy4fUexEViBeylMzS"
     },
     {
       "added_at": "2026-07-03 07:31:26",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-07-03 07:31:26",
       "album": {
-        "name": "Don't Be",
-        "url": "https://open.spotify.com/album/3BUhSOUTG5ZiaCibNp4jh6"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Don't Be",
-      "url": "https://open.spotify.com/track/64bNYe3z0jbajk5udtcHFu"
-    },
-    {
-      "added_at": "2026-07-03 07:31:26",
-      "album": {
         "name": "Love(Prod.Rocoberry)",
         "url": "https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH"
       },
@@ -531,6 +515,22 @@
     {
       "added_at": "2026-07-03 07:31:26",
       "album": {
+        "name": "Don't Be",
+        "url": "https://open.spotify.com/album/3BUhSOUTG5ZiaCibNp4jh6"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Don't Be",
+      "url": "https://open.spotify.com/track/64bNYe3z0jbajk5udtcHFu"
+    },
+    {
+      "added_at": "2026-07-03 07:31:26",
+      "album": {
         "name": "Wanna Love You",
         "url": "https://open.spotify.com/album/3Eam0dNMM4SGKL3oP6rwEf"
       },
@@ -543,6 +543,26 @@
       "duration_ms": 220472,
       "name": "Wanna Love You",
       "url": "https://open.spotify.com/track/2XXPhWXi5yEh8p3LL6FYyk"
+    },
+    {
+      "added_at": "2026-07-03 07:31:26",
+      "album": {
+        "name": "One-way Love (Feat. h3hyeon)",
+        "url": "https://open.spotify.com/album/3xWjFuxEduU4dC5pFDKPvX"
+      },
+      "artists": [
+        {
+          "name": "Ryeojin",
+          "url": "https://open.spotify.com/artist/54HLAGvxNZ89emaGdlf6Tr"
+        },
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        }
+      ],
+      "duration_ms": 156976,
+      "name": "One-way Love (Feat. h3hyeon)",
+      "url": "https://open.spotify.com/track/6MmTxJOXZW3OKgQZ7a7nkn"
     },
     {
       "added_at": "2026-07-03 07:31:26",
@@ -575,26 +595,6 @@
       "duration_ms": 153000,
       "name": "You're Mine, You're My Man",
       "url": "https://open.spotify.com/track/3Vz2Jtj6j1XHQqHbJavHdG"
-    },
-    {
-      "added_at": "2026-07-03 07:31:26",
-      "album": {
-        "name": "One-way Love (Feat. h3hyeon)",
-        "url": "https://open.spotify.com/album/3xWjFuxEduU4dC5pFDKPvX"
-      },
-      "artists": [
-        {
-          "name": "Ryeojin",
-          "url": "https://open.spotify.com/artist/54HLAGvxNZ89emaGdlf6Tr"
-        },
-        {
-          "name": "h3hyeon",
-          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
-        }
-      ],
-      "duration_ms": 156976,
-      "name": "One-way Love (Feat. h3hyeon)",
-      "url": "https://open.spotify.com/track/6MmTxJOXZW3OKgQZ7a7nkn"
     },
     {
       "added_at": "2026-07-03 07:31:26",
@@ -851,18 +851,18 @@
     {
       "added_at": "2026-07-03 07:31:26",
       "album": {
-        "name": "Reaching",
-        "url": "https://open.spotify.com/album/7bnEpJb2YFnRwWZ5fwmgOl"
+        "name": "LOVECHAPTER",
+        "url": "https://open.spotify.com/album/4taRaj6jpJSs4cp5KFbPJZ"
       },
       "artists": [
         {
-          "name": "MINHYUK (MONSTA X)",
-          "url": "https://open.spotify.com/artist/1lnrTVtTQtQS77320ZmX5V"
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Reaching",
-      "url": "https://open.spotify.com/track/3YigBhekrP5JPrU9Ahpr2a"
+      "duration_ms": 168000,
+      "name": "Stuck with You",
+      "url": "https://open.spotify.com/track/3IJASXMNdfp8z130pvy8p8"
     }
   ],
   "unique_name": "\uc378 !",

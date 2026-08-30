@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 
 > Hey, Trippie Redd<br/>that's DOPE!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,053,055 likes - 99 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,052,968 likes - 99 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

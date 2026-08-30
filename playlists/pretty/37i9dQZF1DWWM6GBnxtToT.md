@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 
 > These songs will put a smile on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,324 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,314 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 31 | [Go Out](https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Go Out](https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4) | 2:34 |
 | 32 | [Bleach](https://open.spotify.com/track/0Xct3eGoj7gMnxTdnimiJN) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Bleach](https://open.spotify.com/album/4LqbOcnsIgwtuzrcxHMq2L) | 3:29 |
 | 33 | [Unpack Your Bags \- Radio Edit](https://open.spotify.com/track/5BJClY9W1julZmgjWaNFb3) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Unpack Your Bags \(Radio Edit\)](https://open.spotify.com/album/2oCc55ntQAwff7LHwnBQWU) | 3:04 |
-| 34 | [cbb to b sad](https://open.spotify.com/track/56b4sQ1Sxi3ox5CoCmcp49) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [shame](https://open.spotify.com/album/5h31KRuPwb3EEgUW0b4k6l) | 4:28 |
-| 35 | [wait outside](https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [wait outside](https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E) | 2:31 |
+| 34 | [wait outside](https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [wait outside](https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E) | 2:31 |
+| 35 | [cbb to b sad](https://open.spotify.com/track/56b4sQ1Sxi3ox5CoCmcp49) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [shame](https://open.spotify.com/album/5h31KRuPwb3EEgUW0b4k6l) | 4:28 |
 | 36 | [Mister Burns](https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Mister Burns](https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi) | 2:35 |
 | 37 | [Sabada](https://open.spotify.com/track/6bDu7PiUOUuXrviwss6aJD) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Sabada](https://open.spotify.com/album/73JoE5TQ7DiMbRCrbKD7uD) | 3:45 |
 | 38 | [Mexico](https://open.spotify.com/track/6HSEHDSU9XmdxheOyQBn1I) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Mexico](https://open.spotify.com/album/0uJ1vzYedMJ8ASp1TFQyEr) | 3:12 |
@@ -101,9 +101,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 91 | [Divine](https://open.spotify.com/track/06eMGYbD8sbYmxaQ11KWNM) | [Good Wilson](https://open.spotify.com/artist/72tmD7IO0OwXgkswzuURye) | [Divine](https://open.spotify.com/album/3TRXJ67MWVvbi1kVXm7ICe) | 3:23 |
 | 92 | [Geometric](https://open.spotify.com/track/0IRAtFcPIqysHbfNAfArgK) | [Karmic](https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr) | [Geometric](https://open.spotify.com/album/5ARMVAvzgckxtlo09wDi17) | 3:17 |
 | 93 | [Open \(feat\. Cailin Russo\)](https://open.spotify.com/track/1P48tbboGkgiE6HPwguSOO) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R), [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [Open \(feat\. Cailin Russo\)](https://open.spotify.com/album/0oS7wSnaV0S4PUss03i6jF) | 3:32 |
-| 94 | [Kate's Not Here \- Day Wave & Lawrence Rothman Remix](https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N), [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Kate's Not Here \(Day Wave & Lawrence Rothman Remix\)](https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x) | 3:07 |
-| 95 | [What Were You Hoping to Find?](https://open.spotify.com/track/18q3MaOdhbwYq4j2RswgN7) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [What Were You Hoping to Find?](https://open.spotify.com/album/3Q5bDksRVfWytZluEMWajp) | 3:45 |
-| 96 | [Shot Shot Cherry](https://open.spotify.com/track/2YtGRSOyUBzvmavhAV73XD) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/5S047vXGgxCioGnpxQFuhe) | 2:32 |
+| 94 | [What Were You Hoping to Find?](https://open.spotify.com/track/18q3MaOdhbwYq4j2RswgN7) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [What Were You Hoping to Find?](https://open.spotify.com/album/3Q5bDksRVfWytZluEMWajp) | 3:45 |
+| 95 | [Shot Shot Cherry](https://open.spotify.com/track/2YtGRSOyUBzvmavhAV73XD) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/5S047vXGgxCioGnpxQFuhe) | 2:32 |
+| 96 | [Kate's Not Here \- Day Wave & Lawrence Rothman Remix](https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N), [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Kate's Not Here \(Day Wave & Lawrence Rothman Remix\)](https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x) | 3:07 |
 | 97 | [Sixth Gear](https://open.spotify.com/track/3qRW8jmfgjhqGQZePnNiD4) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Sixth Gear](https://open.spotify.com/album/4mtghzQfcOaIqXaQ72qEek) | 3:17 |
 | 98 | [Feel It All](https://open.spotify.com/track/26SdeD5OY1YzFsDQCNnCIp) | [Kita Menari](https://open.spotify.com/artist/1noOoapXyyCG1nYTH436qw) | [Feel It All](https://open.spotify.com/album/7p4YxLifRcs95dxZo8aVXd) | 4:07 |
 | 99 | [Moonshine \- Chronometric Edit](https://open.spotify.com/track/3y3m0x6cIF0tGC1DTuAlNA) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Moonshine](https://open.spotify.com/album/4BNKxY0s8jTrRoMQwYsGlY) | 3:12 |

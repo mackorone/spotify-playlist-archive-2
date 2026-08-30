@@ -1,6 +1,6 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 234136,
+  "num_followers": 234140,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW"
     },
     {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "The Boy With the Arab Strap",
-        "url": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 314066,
-      "name": "The Boy With the Arab Strap",
-      "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
-    },
-    {
       "added_at": "2026-08-14 13:22:54",
       "album": {
         "name": "Big World",
@@ -399,6 +383,22 @@
       "duration_ms": 181333,
       "name": "What I Had",
       "url": "https://open.spotify.com/track/73X9SAt8qtPtbUjY1Ngl1N"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "The Florist",
+        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 190601,
+      "name": "The Florist",
+      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "The Florist",
-        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
+        "name": "The Boy With the Arab Strap",
+        "url": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ"
       },
       "artists": [
         {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
         }
       ],
-      "duration_ms": 190601,
-      "name": "The Florist",
-      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
+      "duration_ms": 314066,
+      "name": "The Boy With the Arab Strap",
+      "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Morning Phase",
-        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 271106,
-      "name": "Heart Is A Drum",
-      "url": "https://open.spotify.com/track/573nT62vtbezncIwCfxIm7"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 270840,
       "name": "Seventeen Going Under - Acoustic",
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Morning Phase",
+        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 271106,
+      "name": "Heart Is A Drum",
+      "url": "https://open.spotify.com/track/573nT62vtbezncIwCfxIm7"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "I Should Go (Solo Version)",
-        "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 151178,
-      "name": "I Should Go - Solo Version",
-      "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Running/Planning",
         "url": "https://open.spotify.com/album/31gACQVSidtVeFzL4hUGy2"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 266586,
       "name": "Running/Planning",
       "url": "https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "I Should Go (Solo Version)",
+        "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 151178,
+      "name": "I Should Go - Solo Version",
+      "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Energizer",
-        "url": "https://open.spotify.com/album/5L0OP0vBGpyU6q6urm9aHs"
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
       },
       "artists": [
         {
-          "name": "girlsweetvoiced",
-          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
         }
       ],
-      "duration_ms": 151306,
-      "name": "Energizer",
-      "url": "https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU"
+      "duration_ms": 240080,
+      "name": "Bluebird Singing",
+      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Songs For The Canyon",
-        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+        "name": "Energizer",
+        "url": "https://open.spotify.com/album/5L0OP0vBGpyU6q6urm9aHs"
       },
       "artists": [
         {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
         }
       ],
-      "duration_ms": 240080,
-      "name": "Bluebird Singing",
-      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
+      "duration_ms": 151306,
+      "name": "Energizer",
+      "url": "https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "a leith ross song",
-        "url": "https://open.spotify.com/album/3HbZ4Auys97D5iSTsjYJP4"
-      },
-      "artists": [
-        {
-          "name": "Kayla Grace",
-          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
-        }
-      ],
-      "duration_ms": 147133,
-      "name": "a leith ross song",
-      "url": "https://open.spotify.com/track/1TUlVxsllap9YEh7KMGUTi"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "For Melancholy Brunettes (& sad women)",
         "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Daisy",
-        "url": "https://open.spotify.com/album/6FrjprlGLkS4u8x6Y5uTPG"
+        "name": "a leith ross song",
+        "url": "https://open.spotify.com/album/3HbZ4Auys97D5iSTsjYJP4"
       },
       "artists": [
         {
-          "name": "Lola Blue",
-          "url": "https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at"
+          "name": "Kayla Grace",
+          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
         }
       ],
-      "duration_ms": 182624,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/1lTJTWRQtYT9bVYcD5tiHn"
+      "duration_ms": 147133,
+      "name": "a leith ross song",
+      "url": "https://open.spotify.com/track/1TUlVxsllap9YEh7KMGUTi"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/6FrjprlGLkS4u8x6Y5uTPG"
+      },
+      "artists": [
+        {
+          "name": "Lola Blue",
+          "url": "https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at"
+        }
+      ],
+      "duration_ms": 182624,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/1lTJTWRQtYT9bVYcD5tiHn"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY"
       },
@@ -1059,22 +1059,6 @@
       "duration_ms": 142097,
       "name": "Crown",
       "url": "https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "My Favourite Book Is One I\u2019ve Read A Bunch / Little Rib",
-        "url": "https://open.spotify.com/album/1V4b9g4OT4KHNWJKvweYj3"
-      },
-      "artists": [
-        {
-          "name": "Dermot Henry",
-          "url": "https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H"
-        }
-      ],
-      "duration_ms": 214549,
-      "name": "My Favourite Book Is One I\u2019ve Read A Bunch",
-      "url": "https://open.spotify.com/track/6Exa22JWVZdxT2ZPWjnfPC"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1095,18 +1079,34 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "unposted letters",
-        "url": "https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG"
+        "name": "My Favourite Book Is One I\u2019ve Read A Bunch / Little Rib",
+        "url": "https://open.spotify.com/album/1V4b9g4OT4KHNWJKvweYj3"
       },
       "artists": [
         {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+          "name": "Dermot Henry",
+          "url": "https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H"
         }
       ],
-      "duration_ms": 205230,
-      "name": "unposted letters",
-      "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
+      "duration_ms": 214549,
+      "name": "My Favourite Book Is One I\u2019ve Read A Bunch",
+      "url": "https://open.spotify.com/track/6Exa22JWVZdxT2ZPWjnfPC"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Look Out!",
+        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Look Out!",
+      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Look Out!",
-        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
+        "name": "unposted letters",
+        "url": "https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG"
       },
       "artists": [
         {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
         }
       ],
-      "duration_ms": 176506,
-      "name": "Look Out!",
-      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
+      "duration_ms": 205230,
+      "name": "unposted letters",
+      "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/6iAoohJqkZCOo6SdzkXyZI"
     },
     {
-      "added_at": "2026-08-14 13:22:54",
-      "album": {
-        "name": "Water Under The Bridge",
-        "url": "https://open.spotify.com/album/3tQj0CwWvbhF36Abxebtua"
-      },
-      "artists": [
-        {
-          "name": "Morgan Harper-Jones",
-          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
-        }
-      ],
-      "duration_ms": 234374,
-      "name": "Water Under The Bridge",
-      "url": "https://open.spotify.com/track/33xcJRnmibqubn8C9pklSN"
-    },
-    {
       "added_at": "2026-06-18 23:01:00",
       "album": {
         "name": "Accidental Tattoo",
@@ -1217,6 +1201,22 @@
       "url": "https://open.spotify.com/track/0JxUqyj3Zum5eT9fY7MJjd"
     },
     {
+      "added_at": "2026-08-14 13:22:54",
+      "album": {
+        "name": "Water Under The Bridge",
+        "url": "https://open.spotify.com/album/3tQj0CwWvbhF36Abxebtua"
+      },
+      "artists": [
+        {
+          "name": "Morgan Harper-Jones",
+          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
+        }
+      ],
+      "duration_ms": 234374,
+      "name": "Water Under The Bridge",
+      "url": "https://open.spotify.com/track/33xcJRnmibqubn8C9pklSN"
+    },
+    {
       "added_at": "2026-06-18 23:01:00",
       "album": {
         "name": "Crash Landing",
@@ -1231,38 +1231,6 @@
       "duration_ms": 334216,
       "name": "Crash Landing",
       "url": "https://open.spotify.com/track/38UijG8bkv7lBoo3xoSbgA"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "Grenadine",
-        "url": "https://open.spotify.com/album/3MBqDqbQylcQWNGVkFcQvU"
-      },
-      "artists": [
-        {
-          "name": "Sorcha Richardson",
-          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
-        }
-      ],
-      "duration_ms": 188777,
-      "name": "Grenadine",
-      "url": "https://open.spotify.com/track/2mmRj1egR3rhLwfpUZazfv"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "Lover (Don\u2019t Let Me Down)",
-        "url": "https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 250794,
-      "name": "Lover (Don't Let Me Down)",
-      "url": "https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1283,18 +1251,34 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb"
+        "name": "Lover (Don\u2019t Let Me Down)",
+        "url": "https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD"
       },
       "artists": [
         {
-          "name": "Swapmeet",
-          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
         }
       ],
-      "duration_ms": 204202,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL"
+      "duration_ms": 250794,
+      "name": "Lover (Don't Let Me Down)",
+      "url": "https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Grenadine",
+        "url": "https://open.spotify.com/album/3MBqDqbQylcQWNGVkFcQvU"
+      },
+      "artists": [
+        {
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+        }
+      ],
+      "duration_ms": 188777,
+      "name": "Grenadine",
+      "url": "https://open.spotify.com/track/2mmRj1egR3rhLwfpUZazfv"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1311,6 +1295,22 @@
       "duration_ms": 214387,
       "name": "Victoria Falls",
       "url": "https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb"
+      },
+      "artists": [
+        {
+          "name": "Swapmeet",
+          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+        }
+      ],
+      "duration_ms": 204202,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "duration_ms": 190842,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "Wavepool",
         "url": "https://open.spotify.com/album/6tgfkgWahbKBM3q1GV4XgL"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 209822,
       "name": "Why",
       "url": "https://open.spotify.com/track/4t778t8afctJv2Wc3H85HU"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "Cinnamon",
-        "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
-      },
-      "artists": [
-        {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
-        }
-      ],
-      "duration_ms": 190842,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
     },
     {
       "added_at": "2026-06-18 23:01:00",

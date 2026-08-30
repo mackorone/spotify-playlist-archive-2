@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAm0NxvFu7q.md) - [plain]
 
 > recent trending tracks in rock, alt, metal, and punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,103 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,126 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

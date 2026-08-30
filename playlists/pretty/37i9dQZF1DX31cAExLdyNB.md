@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,247 likes - 69 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,261 likes - 69 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Latch](https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:15 |
+| 1 | [Inner Light](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Inner Light](https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD) | 4:17 |
 | 2 | [What Love Is](https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [What Love Is](https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS) | 3:40 |
-| 3 | [Inner Light](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Inner Light](https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD) | 4:17 |
+| 3 | [Latch](https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:15 |
 | 4 | [All My Friends](https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Real Cultural Shit](https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0) | 4:03 |
 | 5 | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D) | 2:59 |
 | 6 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 35 | [El Big Bang](https://open.spotify.com/track/61svvvUEUPodjZvXhXv74e) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Big Bang](https://open.spotify.com/album/21sw5hm7AanjSg7mZrBYxz) | 4:03 |
 | 36 | [Algo De Verdad](https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Algo De Verdad](https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV) | 2:27 |
 | 37 | [THREE STRIKES \(feat\. Khalid\) \- TSHA remix](https://open.spotify.com/track/4Tq3g2KMag5tgmmEnO91lA) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [THREE STRIKES \(feat\. Khalid\)](https://open.spotify.com/album/62rnq2H2kSqfAWSOic6X6f) | 4:26 |
-| 38 | [me acostumbro](https://open.spotify.com/track/6xqwYV9XH89Ug1HXItusje) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [me acostumbro](https://open.spotify.com/album/6VdyxAmkc5YNXo7TqipDwj) | 2:50 |
-| 39 | [Takotsubo](https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz) | [Floreana](https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ) | [Cuadros](https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK) | 3:23 |
+| 38 | [Takotsubo](https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz) | [Floreana](https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ) | [Cuadros](https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK) | 3:23 |
+| 39 | [me acostumbro](https://open.spotify.com/track/6xqwYV9XH89Ug1HXItusje) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [me acostumbro](https://open.spotify.com/album/6VdyxAmkc5YNXo7TqipDwj) | 2:50 |
 | 40 | [Vine Hasta Marte](https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Vine Hasta Marte](https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg) | 3:44 |
 | 41 | [Keep Moving](https://open.spotify.com/track/5cHRRQ4JYlMW04DrwuG03b) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/65EO9bzFMe8Psq1nrR3938) | 4:00 |
 | 42 | [Digging Deeper](https://open.spotify.com/track/7iKNMytdMotGpqTxyRL4qA) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Digging Deeper](https://open.spotify.com/album/0bZtJTjE90SXIW0PIChpnl) | 3:17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,110,335 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,110,440 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 20 | [Helena](https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Famous Monsters](https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE) | 3:19 |
 | 21 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 |
 | 22 | [Still Waiting](https://open.spotify.com/track/4rLKjYqJjLU0Odg52kGL2O) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA) | 2:40 |
-| 23 | [Institutionalized](https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Suicidal Tendencies](https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO) | 3:49 |
+| 23 | [When Your Heart Stops Beating](https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA) | 3:12 |
 | 24 | [God Save The Queen](https://open.spotify.com/track/2mHchPRtQWet3iIS3jANr1) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 3:19 |
-| 25 | [When Your Heart Stops Beating](https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA) | 3:12 |
+| 25 | [Institutionalized](https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Suicidal Tendencies](https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO) | 3:49 |
 | 26 | [Sell Out](https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Turn The Radio Off](https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn) | 3:47 |
 | 27 | [New Noise](https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [The Shape Of Punk To Come \(Deluxe Edition\)](https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2) | 5:10 |
 | 28 | [All My Friends Are Nobodies](https://open.spotify.com/track/451h1BW2NaOBnMXnbRJhkG) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 |

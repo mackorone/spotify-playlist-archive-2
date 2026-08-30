@@ -9433,6 +9433,24 @@
     },
     {
       "album": {
+        "name": "Forest Walk",
+        "url": "https://open.spotify.com/album/5GCExMCQUDRMYIkzevbw1T"
+      },
+      "artists": [
+        {
+          "name": "Pegassi",
+          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191350,
+      "name": "Forest Walk",
+      "url": "https://open.spotify.com/track/5kG0NSEJsuFOHSzFAii9Ld"
+    },
+    {
+      "album": {
         "name": "Forests",
         "url": "https://open.spotify.com/album/5P5FEpvLLANtp0hcIFyXAH"
       },
@@ -11172,7 +11190,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 152432,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1KpWOjSqJMdXaEVh2rMwQl"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gQonLbZD9s.md) - [plain]
 
 > The best uptempo pop for the workout girlies
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,472,106 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,472,158 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gQonLbZD9s.md) - [plain]
 | 43 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
 | 44 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
 | 45 | [Dynamite](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:22 |
-| 46 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
-| 47 | [Still Into You](https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Still Into You](https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5) | 2:31 |
+| 46 | [Still Into You](https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Still Into You](https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5) | 2:31 |
+| 47 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
 | 48 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 |
 | 49 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 |
 | 50 | [Hollaback Girl](https://open.spotify.com/track/0eqH0ALoDQevq59YcQ53KE) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love\. Angel\. Music\. Baby.](https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR) | 3:19 |
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gQonLbZD9s.md) - [plain]
 | 59 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 |
 | 60 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 |
 | 61 | [Domino](https://open.spotify.com/track/6MAdEUilV2p9RQUqE5bMAK) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) | 3:51 |
-| 62 | [WHERE IS MY HUSBAND! \- Remix](https://open.spotify.com/track/0vYSTV1Lye2Z2zktF6P39C) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [WHERE IS MY HUSBAND! \(Remix\)](https://open.spotify.com/album/0v51IyQgTnzyfKP4yBg0AC) | 2:33 |
-| 63 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 |
-| 64 | [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 |
-| 65 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
+| 62 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 |
+| 63 | [WHERE IS MY HUSBAND! \- Remix](https://open.spotify.com/track/0vYSTV1Lye2Z2zktF6P39C) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [WHERE IS MY HUSBAND! \(Remix\)](https://open.spotify.com/album/0v51IyQgTnzyfKP4yBg0AC) | 2:33 |
+| 64 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
+| 65 | [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 |
 | 66 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 |
 | 67 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 |
 | 68 | [Little Miss](https://open.spotify.com/track/24GdDBCqLhHEe2cAFvgUrL) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Little Miss](https://open.spotify.com/album/5ychqszZ89oPl6rBKSkGc6) | 2:23 |

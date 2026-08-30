@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Dh2wgiAwVX.md) - [plain]
 
 > ¡Tu dosis de energía para alegrarte el día!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,785,854 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,785,788 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Dh2wgiAwVX.md) - [plain]
 | 50 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 |
 | 51 | [Te hacen falta dos](https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Apambichao](https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT) | 2:41 |
 | 52 | [Vasos Vacíos \- Remasterizado 2008](https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El Ritmo Mundial](https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh) | 4:39 |
-| 53 | [NO LE DIGO QUE NO](https://open.spotify.com/track/5NOVfpl0Xm8D6vIl0sKJeL) | [Los Buyer](https://open.spotify.com/artist/3xl8Gk7AszFwtV0BMW0Q0J), [Pikeras](https://open.spotify.com/artist/3Rk6ZWHH97W7zdoehmzt5G) | [NO LE DIGO QUE NO](https://open.spotify.com/album/0olpYQpV0MSYXhvFj2DDLn) | 2:25 |
-| 54 | [Pareja Del Año](https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pareja Del Año](https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ) | 3:15 |
+| 53 | [Pareja Del Año](https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pareja Del Año](https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ) | 3:15 |
+| 54 | [NO LE DIGO QUE NO](https://open.spotify.com/track/5NOVfpl0Xm8D6vIl0sKJeL) | [Los Buyer](https://open.spotify.com/artist/3xl8Gk7AszFwtV0BMW0Q0J), [Pikeras](https://open.spotify.com/artist/3Rk6ZWHH97W7zdoehmzt5G) | [NO LE DIGO QUE NO](https://open.spotify.com/album/0olpYQpV0MSYXhvFj2DDLn) | 2:25 |
 | 55 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
 | 56 | [La Mejor Versión de Mi \- Remix](https://open.spotify.com/track/2dy3TKVDEbIeWxeIb8JWqZ) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [La Mejor Versión de Mi \(Remix\)](https://open.spotify.com/album/0OChMQnL4dpFZQH93uPb1d) | 3:49 |
 | 57 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 |

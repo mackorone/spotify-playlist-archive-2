@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: Meridian Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,543 likes - 60 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,528 likes - 60 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 28 | [Tamarugal \(Para de Mirarme\)](https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A) | [Felipe Schuster](https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE) | [La Montaña](https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV) | 3:33 |
 | 29 | [Nene](https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Nene](https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG) | 3:21 |
 | 30 | [Levanta Muertos](https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Fuego Nuevo](https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh) | 5:00 |
-| 31 | [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 |
-| 32 | [Puro Comer](https://open.spotify.com/track/1qPhcG9LKdW4MgAvR6yPx1) | [Elegante & La Imperial](https://open.spotify.com/artist/4CJ85bxslxMaG092YvHV27) | [El Sonido de las Lobas](https://open.spotify.com/album/3vTBoO0EqS3yqtQ1mCPtjo) | 4:20 |
+| 31 | [Puro Comer](https://open.spotify.com/track/1qPhcG9LKdW4MgAvR6yPx1) | [Elegante & La Imperial](https://open.spotify.com/artist/4CJ85bxslxMaG092YvHV27) | [El Sonido de las Lobas](https://open.spotify.com/album/3vTBoO0EqS3yqtQ1mCPtjo) | 4:20 |
+| 32 | [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 |
 | 33 | [Pájaro de Mar](https://open.spotify.com/track/2h6FAxXm6crebk5AEVsChg) | [Indus](https://open.spotify.com/artist/3NaTDSUj7DxcuG1oJPuQ63), [Las Alegres Ambulancias](https://open.spotify.com/artist/2I2AW3q2mvPfWpRmybkosr) | [Indus Meets Palenque Records, Vol\. 2](https://open.spotify.com/album/6ZhlLTZtTuVyH3W3O079p2) | 3:35 |
-| 34 | [Fuego de Cumbia / Dub de Sangre Pura \- Dub Mix](https://open.spotify.com/track/4o5CcQ1vD1Ikr0yeEcb9s6) | [Los Gaiteros de San Jacinto](https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO) | [Dub de Gaita](https://open.spotify.com/album/7aFGsX83VM3UQBtUk3S6Gk) | 5:46 |
-| 35 | [Tambor Del Monte](https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Corriente EP](https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql) | 3:51 |
+| 34 | [Tambor Del Monte](https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Corriente EP](https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql) | 3:51 |
+| 35 | [Fuego de Cumbia / Dub de Sangre Pura \- Dub Mix](https://open.spotify.com/track/4o5CcQ1vD1Ikr0yeEcb9s6) | [Los Gaiteros de San Jacinto](https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO) | [Dub de Gaita](https://open.spotify.com/album/7aFGsX83VM3UQBtUk3S6Gk) | 5:46 |
 | 36 | [Sierra Madre \(Remix\)](https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Danger AK](https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH), [Noe Gonzalez Molina](https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg) | [Sierra Madre \(Remix\)](https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns) | 5:05 |
 | 37 | [Tierra Mojá \- Cerrero Dub Mix](https://open.spotify.com/track/57LjA8Nq2X6gut8TRpfhZZ) | [Los Gaiteros de Ovejas](https://open.spotify.com/artist/3VUqC0Q4XHN2PBuFQeredd), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6) | [Tierra Mojá \(Dub Mix\)](https://open.spotify.com/album/5nNgttpJa3yf9foArittyG) | 5:07 |
 | 38 | [Mapalé](https://open.spotify.com/track/4FYOLa4OMokaDwZCUVXZvz) | [La Cumbia Chicharra](https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr), [Emilie Rambaud](https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG) | [Hijo de Tigre](https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB) | 4:21 |

@@ -422,10 +422,28 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 375586,
       "name": "1991",
       "url": "https://open.spotify.com/track/1O0bIhJ2mBpZPFHzENJx9z"
+    },
+    {
+      "album": {
+        "name": "Your Turn In Blue",
+        "url": "https://open.spotify.com/album/4UyXo6gUfAUxmYSoeqt71E"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375586,
+      "name": "1991",
+      "url": "https://open.spotify.com/track/6nGF68wbwznDX18bfTUMda"
     },
     {
       "album": {
@@ -2922,7 +2940,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 158494,
       "name": "Animal",
       "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
@@ -3226,6 +3244,24 @@
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
+        "name": "Your Turn In Blue",
+        "url": "https://open.spotify.com/album/4UyXo6gUfAUxmYSoeqt71E"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119573,
+      "name": "AR15",
+      "url": "https://open.spotify.com/track/5WB7MidkZ2WqS4Q4Nw1ezI"
     },
     {
       "album": {
@@ -3862,7 +3898,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 305765,
       "name": "Babblarnas vaggvisa",
       "url": "https://open.spotify.com/track/4lQfnSLKKSKlep9ASNoTbo"
@@ -4040,7 +4076,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -5737,6 +5773,24 @@
     },
     {
       "album": {
+        "name": "Your Turn In Blue",
+        "url": "https://open.spotify.com/album/4UyXo6gUfAUxmYSoeqt71E"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143880,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/6oKfJ32pa24KsZHrZVjGXc"
+    },
+    {
+      "album": {
         "name": "Best to Come",
         "url": "https://open.spotify.com/album/0VXg7veba1x8FYZfV08meA"
       },
@@ -6502,7 +6556,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 177428,
       "name": "bloodstream",
       "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
@@ -9488,7 +9542,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 186453,
       "name": "Coat of Many Colors",
       "url": "https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z"
@@ -10564,7 +10618,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 288670,
       "name": "Dancing on My Own",
       "url": "https://open.spotify.com/track/2UT3iEU7uQAXNUxCKfiZAj"
@@ -12602,6 +12656,28 @@
       "duration_ms": 132597,
       "name": "Don't You Hold Me Down",
       "url": "https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim"
+    },
+    {
+      "album": {
+        "name": "Don't You Worry Child (feat. John Martin)",
+        "url": "https://open.spotify.com/album/7FFclZ0fJ6RyKVj8PVcSYP"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212862,
+      "name": "Don't You Worry Child (feat. John Martin) - Radio Edit",
+      "url": "https://open.spotify.com/track/5tALkmrC4bRfrSDLimAzuq"
     },
     {
       "album": {
@@ -19523,6 +19599,24 @@
     },
     {
       "album": {
+        "name": "Your Turn In Blue",
+        "url": "https://open.spotify.com/album/4UyXo6gUfAUxmYSoeqt71E"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139920,
+      "name": "GG",
+      "url": "https://open.spotify.com/track/6mwuhYhhovHMFvDOvr1B2Y"
+    },
+    {
+      "album": {
         "name": "Ghetto Psykos (GS)",
         "url": "https://open.spotify.com/album/2edTCevZZxtQ4zK7MlVWXf"
       },
@@ -19950,7 +20044,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 120545,
       "name": "Godnattvisan",
       "url": "https://open.spotify.com/track/5MxHurfskrN1RvkKez2ofd"
@@ -21668,7 +21762,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
@@ -22686,6 +22780,24 @@
       "duration_ms": 211294,
       "name": "Higher Power",
       "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"
+    },
+    {
+      "album": {
+        "name": "Highway to Heaven",
+        "url": "https://open.spotify.com/album/4WXSyC7wKpLZ49I8Io73Hr"
+      },
+      "artists": [
+        {
+          "name": "Lovet",
+          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186375,
+      "name": "Highway to Heaven",
+      "url": "https://open.spotify.com/track/4z1ex5e2r3hyY9Qd43afdm"
     },
     {
       "album": {
@@ -30963,6 +31075,24 @@
     },
     {
       "album": {
+        "name": "Your Turn In Blue",
+        "url": "https://open.spotify.com/album/4UyXo6gUfAUxmYSoeqt71E"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179360,
+      "name": "Lilla Flicka",
+      "url": "https://open.spotify.com/track/62bjwp48qvoNksriJTRFmo"
+    },
+    {
+      "album": {
         "name": "Ein\u00e1r",
         "url": "https://open.spotify.com/album/1LJeZmd25DaFGgjYDZzfVy"
       },
@@ -31440,7 +31570,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
@@ -33697,6 +33827,24 @@
     },
     {
       "album": {
+        "name": "Your Turn In Blue",
+        "url": "https://open.spotify.com/album/4UyXo6gUfAUxmYSoeqt71E"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121133,
+      "name": "Matadoren",
+      "url": "https://open.spotify.com/track/7csipHDyLCVoXOhbuQa3Iq"
+    },
+    {
+      "album": {
         "name": "Matadoren",
         "url": "https://open.spotify.com/album/0gpZBMK8pkrJwk6mhAItG2"
       },
@@ -33708,7 +33856,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 121133,
       "name": "Matadoren",
       "url": "https://open.spotify.com/track/7rorbMNPjLsuK2kNA8gVw3"
@@ -35123,6 +35271,24 @@
     },
     {
       "album": {
+        "name": "Mirakel",
+        "url": "https://open.spotify.com/album/3vYNeWBvpRGwyTDdBjVy4I"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278240,
+      "name": "Mirakel",
+      "url": "https://open.spotify.com/track/4KtrEuk2Trxdyn2NmgTMTN"
+    },
+    {
+      "album": {
         "name": "Sista minuten",
         "url": "https://open.spotify.com/album/6HkiZ3xdqbDcHiWYtyR3mN"
       },
@@ -35362,6 +35528,24 @@
       "duration_ms": 175810,
       "name": "Mitt i juni",
       "url": "https://open.spotify.com/track/19sBWLGTeiYSFYJeOmI2RN"
+    },
+    {
+      "album": {
+        "name": "Your Turn In Blue",
+        "url": "https://open.spotify.com/album/4UyXo6gUfAUxmYSoeqt71E"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144946,
+      "name": "MOB",
+      "url": "https://open.spotify.com/track/25w9n4fLiTuC4wcbl0hFy6"
     },
     {
       "album": {
@@ -38420,6 +38604,24 @@
       "duration_ms": 284866,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
+    },
+    {
+      "album": {
+        "name": "One (Your Name)",
+        "url": "https://open.spotify.com/album/5aLY2ivPGXvFX770ihBnmd"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169920,
+      "name": "One - Radio Edit",
+      "url": "https://open.spotify.com/track/41KPpw0EZCytxNkmEMJVgr"
     },
     {
       "album": {
@@ -41968,7 +42170,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 339893,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
@@ -44113,6 +44315,24 @@
     },
     {
       "album": {
+        "name": "Save The World",
+        "url": "https://open.spotify.com/album/5nBGi1L2vQCe0AT1T38OVl"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213337,
+      "name": "Save The World",
+      "url": "https://open.spotify.com/track/0R42XHlMMu4hBgOvdICIsU"
+    },
+    {
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -44638,6 +44858,24 @@
       "duration_ms": 175522,
       "name": "SEVILLA",
       "url": "https://open.spotify.com/track/1YRrnU7iBSHsdyG5AVIC2Y"
+    },
+    {
+      "album": {
+        "name": "Your Turn In Blue",
+        "url": "https://open.spotify.com/album/4UyXo6gUfAUxmYSoeqt71E"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170866,
+      "name": "SF90",
+      "url": "https://open.spotify.com/track/5R5JRXGSikZhzkKriw8JDg"
     },
     {
       "album": {
@@ -49214,7 +49452,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -51525,6 +51763,24 @@
     },
     {
       "album": {
+        "name": "Your Turn In Blue",
+        "url": "https://open.spotify.com/album/4UyXo6gUfAUxmYSoeqt71E"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195520,
+      "name": "The Mud",
+      "url": "https://open.spotify.com/track/2XOVfr5XNpYOYRwzfDm2FG"
+    },
+    {
+      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -51590,7 +51846,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
@@ -53550,7 +53806,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 190344,
       "name": "Tusen sp\u00e4nn",
       "url": "https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM"
@@ -55430,7 +55686,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 138947,
       "name": "Vila med mig",
       "url": "https://open.spotify.com/track/5JxKpEkR3Gqvf4OA8VLrBR"
@@ -56139,6 +56395,24 @@
     },
     {
       "album": {
+        "name": "Your Turn In Blue",
+        "url": "https://open.spotify.com/album/4UyXo6gUfAUxmYSoeqt71E"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196893,
+      "name": "V\u00e4nta",
+      "url": "https://open.spotify.com/track/2oh6kzJStaQBeMYZzDXvWo"
+    },
+    {
+      "album": {
         "name": "V\u00e4ntar p\u00e5 en solig dag",
         "url": "https://open.spotify.com/album/0ZIEy5kwu7qDDDbPR0P4Jk"
       },
@@ -56373,7 +56647,7 @@
     },
     {
       "album": {
-        "name": "Wait So Long",
+        "name": "Wait So Long (Why Do I Have To)",
         "url": "https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl"
       },
       "artists": [
@@ -56384,9 +56658,9 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 199479,
-      "name": "Wait So Long",
+      "name": "Wait So Long (Why Do I Have To)",
       "url": "https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT"
     },
     {

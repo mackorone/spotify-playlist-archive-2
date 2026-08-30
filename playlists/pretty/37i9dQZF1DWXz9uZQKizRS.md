@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Hugo Tarres
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,041 likes - 99 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,043 likes - 99 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

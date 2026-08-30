@@ -4,7 +4,7 @@
 
 > This is KAROL G\. The essential tracks, all in one playlist.
 
-98 songs - 5 hr 18 min
+99 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Ay, DiOs Mío!](https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Ay, DiOs Mío!](https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63) | 3:09 | 2023-09-21 | 2024-06-19 |
 | [Bandida Entrenada](https://open.spotify.com/track/3o0nsMGWZMpp3GOEZkVuSR) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:15 | 2025-10-11 | 2025-10-25 |
 | [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 | 2026-08-10 |  |
-| [Bebiendo Lágrimas](https://open.spotify.com/track/2vsEAGuk1vvzDKmEqrK8jS) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:00 | 2026-08-09 |  |
+| [Bebiendo Lágrimas](https://open.spotify.com/track/2vsEAGuk1vvzDKmEqrK8jS) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:00 | 2026-08-09 | 2026-08-30 |
 | [BICHOTA](https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 2:58 | 2024-06-14 | 2026-08-12 |
 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 | 2023-09-21 | 2024-06-14 |
 | [CAIRO](https://open.spotify.com/track/16dUQ4quIHDe4ZZ0wF1EMN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:18 | 2023-09-21 | 2025-05-16 |
@@ -29,6 +29,7 @@
 | [China](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [China](https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh) | 5:01 | 2023-09-21 | 2026-04-13 |
 | [China](https://open.spotify.com/track/0KkIkfsLEJbrcIhYsCL7L5) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 5:01 | 2026-04-13 |  |
 | [Coleccionando Heridas](https://open.spotify.com/track/3ddJ8Vbc5tYPxq5zKRVke6) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:24 | 2025-06-22 |  |
+| [Con quién andará?](https://open.spotify.com/track/3xbhYZfPldyCNrVMX2wxJC) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:01 | 2026-08-30 |  |
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-02-16 |  |
 | [CONTIGO VOY A MUERTE](https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:39 | 2023-09-21 |  |
 | [Créeme](https://open.spotify.com/track/1mT47pKLXUwPYGwB91GcNz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Créeme](https://open.spotify.com/album/0bVsozItEQQVu2M5FnpnrG) | 3:32 | 2023-09-21 | 2024-04-20 |

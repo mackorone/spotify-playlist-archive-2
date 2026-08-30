@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 101265,
+  "num_followers": 101276,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAADFq6UeMXqoflkhDvzsJ3jk",
+  "snapshot_id": "apDPgAAAAAAFrQf1roux49xyggNxCeXm",
   "tracks": [
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Prometido Es Deuda (Vol.4)",
+        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 192395,
+      "name": "Que Linda Se Le Ve",
+      "url": "https://open.spotify.com/track/4M2GA9Lb86oxivtlSfiAx9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paris & Grecia",
         "url": "https://open.spotify.com/album/3kufVIruxrPYRml0XECQka"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 165587,
       "name": "Paris & Grecia",
       "url": "https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Prometido Es Deuda (Vol.4)",
-        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 192395,
-      "name": "Que Linda Se Le Ve",
-      "url": "https://open.spotify.com/track/4M2GA9Lb86oxivtlSfiAx9"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni\u00f1as De Revista",
-        "url": "https://open.spotify.com/album/2QmlUOcMPlmTgz6HYKjfak"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 147480,
-      "name": "Ni\u00f1as De Revista",
-      "url": "https://open.spotify.com/track/36cIzzlI5ZA9MJUnH7vVG7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Guero",
         "url": "https://open.spotify.com/album/1KeF2YyOYQz9VSfrJtRXuq"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 124331,
       "name": "El Guero",
       "url": "https://open.spotify.com/track/56xZRR6LDp1KpIb28RdEwO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni\u00f1as De Revista",
+        "url": "https://open.spotify.com/album/2QmlUOcMPlmTgz6HYKjfak"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 147480,
+      "name": "Ni\u00f1as De Revista",
+      "url": "https://open.spotify.com/track/36cIzzlI5ZA9MJUnH7vVG7"
     },
     {
       "added_at": null,

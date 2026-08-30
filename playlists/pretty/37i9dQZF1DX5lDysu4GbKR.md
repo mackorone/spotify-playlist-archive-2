@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Stripped back vibes\. Cover:  Mack Keane
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,666 likes - 170 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,635 likes - 170 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

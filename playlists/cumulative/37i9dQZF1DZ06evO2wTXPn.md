@@ -4,7 +4,7 @@
 
 > This is KURT\. The essential tracks, all in one playlist.
 
-95 songs - 5 hr 25 min
+96 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Como Nadie Más](https://open.spotify.com/track/1t8mt1PDXNzRxr2RPt9Ji0) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 4:06 | 2023-03-19 | 2025-02-25 |
 | [Con Las Ganas](https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Con Las Ganas](https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9) | 4:01 | 2023-03-19 |  |
 | [Contigo](https://open.spotify.com/track/0QvIVwQqVzEkZbo6cO5LES) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:47 | 2023-03-19 |  |
+| [Desde Antes De Nacer](https://open.spotify.com/track/36aZuiCE3UhgUJXrSeVDKf) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Desde Antes De Nacer](https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3) | 2:46 | 2026-08-30 |  |
 | [Diosa](https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Diosa](https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG) | 3:06 | 2023-06-17 | 2026-04-30 |
 | [Diosa](https://open.spotify.com/track/6PCraJHi3KJGHleSU0Qviw) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4) | 3:07 | 2026-01-24 |  |
 | [Dolerá](https://open.spotify.com/track/4ai1InCLeygWk2dwvvYCpX) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:59 | 2023-04-30 | 2024-07-20 |
@@ -44,7 +45,7 @@
 | [Kapitel 4.4 & Kapitel 5.1 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/5hMl0n8DL41e7jRaI5fTVR) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:40 | 2023-03-20 | 2023-03-22 |
 | [Kapitel 5.2 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/1BdmIEWEmG9nwqzIHQnU9M) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 5:19 | 2023-03-26 | 2023-04-02 |
 | [Kapitel 5.3 & Kapitel 6.1 \- Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/track/43ol5y74hLh1p3VPJnagBh) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kurt 3\. Ein Horn – eine Mission](https://open.spotify.com/album/0ZLGPv1Lv3ubHlCb1M4OQH) | 3:16 | 2023-03-24 | 2023-03-30 |
-| [Kintsugi](https://open.spotify.com/track/3pa99b4KAVFpO5NxGcfa1H) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/4ovjXs66STqIxRyHqoYtML) | 3:07 | 2024-02-10 |  |
+| [Kintsugi](https://open.spotify.com/track/3pa99b4KAVFpO5NxGcfa1H) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/4ovjXs66STqIxRyHqoYtML) | 3:07 | 2024-02-10 | 2026-08-30 |
 | [Kintsugi](https://open.spotify.com/track/0qMdf5PiE1CDLriElfp6Mr) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4) | 3:08 | 2024-07-05 | 2024-08-14 |
 | [La Mujer Perfecta](https://open.spotify.com/track/5XR1WyZ0uOSHRNhP85QxT4) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:37 | 2023-03-19 |  |
 | [La Mujer Perfecta](https://open.spotify.com/track/4nhbJAwQUwWxF3t3JwTROe) | [Sindicato Del Ritmo](https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Mujer Perfecta](https://open.spotify.com/album/7b480lZwd4K0cxB9geNa4p) | 3:38 | 2023-12-13 |  |

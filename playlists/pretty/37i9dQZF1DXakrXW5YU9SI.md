@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Słońce, leżak i letnia błogość w dźwiękach ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,304 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,298 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,16 +35,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 25 | [The Time Of My Life](https://open.spotify.com/track/08JkZRttDnq5SkZ9vCPSjJ) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [The Time Of My Life](https://open.spotify.com/album/5QFHiTkr2OHLAPRWvaD0Hw) | 3:35 |
 | 26 | [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 |
 | 27 | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt) | 3:43 |
-| 28 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 |
+| 28 | [Sunshine](https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Sunshine](https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do) | 3:11 |
 | 29 | [What if I miss you for the rest of my life?](https://open.spotify.com/track/432pM7gIHQmksVaU3B50pN) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [LAB SONGS NG MGA TANGA](https://open.spotify.com/album/3CvI8CDpDzz6Q2nDuXWKXs) | 3:06 |
-| 30 | [Sunshine](https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Sunshine](https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do) | 3:11 |
+| 30 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 |
 | 31 | [Nareszcie](https://open.spotify.com/track/1p4M9If0oTyeUsGsmAfmAI) | [Męskie Granie Orkiestra](https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Nareszcie](https://open.spotify.com/album/70G6XGkSM2CWedDGAS22Dm) | 3:02 |
 | 32 | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h) | 2:30 |
-| 33 | [Look at My Life](https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Look at My Life](https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr) | 3:10 |
-| 34 | [Lost Boys](https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP) | 4:14 |
-| 35 | [The Wave](https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [The Wave](https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj) | 3:22 |
-| 36 | [When He’s Gone](https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [When He’s Gone](https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA) | 3:06 |
-| 37 | [Promise?](https://open.spotify.com/track/1A1rVBUWzL4wOM6gSR30lg) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:12 |
+| 33 | [Lost Boys](https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP) | 4:14 |
+| 34 | [The Wave](https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [The Wave](https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj) | 3:22 |
+| 35 | [Look at My Life](https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Look at My Life](https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr) | 3:10 |
+| 36 | [Promise?](https://open.spotify.com/track/1A1rVBUWzL4wOM6gSR30lg) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:12 |
+| 37 | [When He’s Gone](https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [When He’s Gone](https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA) | 3:06 |
 | 38 | [tylko kochaj mnie](https://open.spotify.com/track/5cYTaKj5sd6gQLqsLptOsQ) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [tylko kochaj mnie](https://open.spotify.com/album/7Lq0KISXdnGyMfdlsWNgGi) | 2:41 |
 | 39 | [na błysk](https://open.spotify.com/track/02xdXJE0MMWJP9LGI7W1tS) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [na błysk](https://open.spotify.com/album/6l4WefLj0rzKsHc2sNgkwG) | 3:49 |
 | 40 | [From Down Here](https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [From Down Here](https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u) | 4:01 |

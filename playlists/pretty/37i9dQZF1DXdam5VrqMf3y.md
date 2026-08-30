@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: Ravyn Lenae
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,332 likes - 93 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,321 likes - 93 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [O Holy Night \- Spotify Singles Holiday](https://open.spotify.com/track/7L3OGWgJMQdXSbY3zgUt1Q) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [O Holy Night \- Spotify Singles Holiday](https://open.spotify.com/album/7CtbtLDxCIS5bhtVCHTSvL) | 3:00 |
 | 2 | [It Feels Like Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/track/34sUWOEjFKrj8Rzk1HHicq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [It Feels Like Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/00rjYYXmDIrf2SlTBU2vCn) | 2:14 |
-| 3 | [Last Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/track/2JuCzvXu9tIUU2ZDDgQ0vG) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Last Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/1WQWzqG7uf68jQohlrsaR1) | 3:43 |
+| 3 | [Last Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2JuCzvXu9tIUU2ZDDgQ0vG) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Last Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/1WQWzqG7uf68jQohlrsaR1) | 3:43 |
 | 4 | [O Come All Ye Faithful \- Spotify Singles Holiday](https://open.spotify.com/track/6iO6ZLKaJF13fuF5HUFSEM) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [O Come All Ye Faithful \(Spotify Singles Holiday\)](https://open.spotify.com/album/6oBl2LRITtZjDTPBYCnuWK) | 3:05 |
 | 5 | [Christmas Lights \- Spotify Singles Holiday](https://open.spotify.com/track/5sZR7OC7uHArUWvNyunS3T) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Christmas Lights \(Spotify Singles Holiday\)](https://open.spotify.com/album/2Mo9WFAGGbSwon6iNm2lOk) | 3:22 |
 | 6 | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x) | 2:46 |

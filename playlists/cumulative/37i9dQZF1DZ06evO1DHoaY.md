@@ -4,7 +4,7 @@
 
 > This is Bob Marley & The Wailers\. The essential tracks, all in one playlist.
 
-77 songs - 5 hr 1 min
+78 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 | 2024-02-01 | 2024-02-21 |
 | [Three Little Birds](https://open.spotify.com/track/7yFvSYKk3g5g8e7Ffl16ws) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 3:00 | 2024-02-20 |  |
 | [Time Will Tell](https://open.spotify.com/track/5AMy058KlCyQfHK6Mim42N) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya \- Deluxe Edition](https://open.spotify.com/album/2MnN6FfnhDf4Zk5g0dIAJv) | 3:25 | 2024-02-01 |  |
+| [Trenchtown Rock \- Live At The Hammersmith Odeon, London, UK \- June, 1976](https://open.spotify.com/track/2tDAKitkEAzVCmiFRGYEj9) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Roots, Rock, Reggae \(Live At The Hammersmith Odeon, London, UK \- June 1976\)](https://open.spotify.com/album/7BOZnuMh0OXao3TRQrg8Dh) | 4:08 | 2026-08-30 |  |
 | [Turn Your Lights Down Low](https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Chant Down Babylon](https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7) | 5:46 | 2024-02-01 |  |
 | [Waiting In Vain](https://open.spotify.com/track/09Nck1nvRcg1Y14SNfWwtJ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 4:16 | 2024-02-19 |  |
 | [Waiting In Vain](https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 4:16 | 2024-02-01 | 2024-02-20 |

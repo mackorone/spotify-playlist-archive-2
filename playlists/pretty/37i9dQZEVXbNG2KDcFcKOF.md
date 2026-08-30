@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNG2KDcFcKOF.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Global.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,858,716 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,859,296 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,14 +13,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNG2KDcFcKOF.md) - [plain]
 | 3 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
 | 4 | [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 |
 | 5 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
-| 6 | [The One That Got Away](https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
+| 6 | [The One That Got Away](https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM) | 3:47 |
 | 7 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 8 | [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 |
 | 9 | [hate that i made you love me](https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:17 |
 | 10 | [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 |
 | 11 | [Billie Jean](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:53 |
 | 12 | [the cure](https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 4:57 |
-| 13 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
+| 13 | [Iris](https://open.spotify.com/track/4DPdJvSMB6hmrjgC5eC85d) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Stay with You](https://open.spotify.com/album/7ttozw5DWCdQaqfzCMevPc) | 4:49 |
 | 14 | [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 |
 | 15 | [stupid song](https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:29 |
 | 16 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNG2KDcFcKOF.md) - [plain]
 | 49 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 |
 | 50 | [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:53 |
 
-Snapshot ID: `MiUj0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MiZUgAAAAAAAAAAAAAAAAAAAAAAAAGVu`

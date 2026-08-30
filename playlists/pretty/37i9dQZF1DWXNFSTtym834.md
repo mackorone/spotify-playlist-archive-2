@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 
 > The biggest metal songs of the 2000s\. Cover: Bullet For My Valentine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,410,220 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,410,354 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 40 | [Feel So Numb](https://open.spotify.com/track/6KnNDix4Owr4vNmsPhLmxD) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 3:53 |
 | 41 | [The Heretic Anthem](https://open.spotify.com/track/3OYZWMm5m2DEwq2Tc1ukTh) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa \(10th Anniversary Edition\)](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:14 |
 | 42 | [Lateralus](https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 9:24 |
-| 43 | [Nobody](https://open.spotify.com/track/581mukhDjta60CCwpvnjL9) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 3:56 |
-| 44 | [Primo Victoria](https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Primo Victoria \(Re\-Armed\)](https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0) | 4:10 |
+| 43 | [Primo Victoria](https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Primo Victoria \(Re\-Armed\)](https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0) | 4:10 |
+| 44 | [Nobody](https://open.spotify.com/track/581mukhDjta60CCwpvnjL9) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 3:56 |
 | 45 | [The Only](https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Shadow Zone](https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3) | 2:51 |
 | 46 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 |
 | 47 | [Holy Diver](https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:10 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 97 | [Praise](https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Animosity](https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1) | 3:38 |
 | 98 | [The Way You Like It](https://open.spotify.com/track/6adhpSbrhat9S0WEVjf4HP) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [Adema](https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh) | 3:39 |
 | 99 | [Frantic](https://open.spotify.com/track/2J3XzDLjbXkny8qhr33zTh) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 5:50 |
-| 100 | [Rot](https://open.spotify.com/track/78SOBkauu6CnXV2OtpDrHK) | [Dry Kill Logic](https://open.spotify.com/artist/01JN808vH1vhH7O7IsyRgX) | [The Darker Side of Nonsense](https://open.spotify.com/album/2MwTe2PM8IAZy84vfYtpEz) | 4:32 |
+| 100 | [Angel](https://open.spotify.com/track/0HSqXHUdHUbDjWxYIClohv) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Angel Of Retribution](https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1) | 4:24 |
 
 Snapshot ID: `AAAAALtDIECkbj4XTokMdNVfPPfk1lVj`

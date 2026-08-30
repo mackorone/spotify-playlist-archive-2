@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FusBW.md) - [plain]
 
 > This is RIOPY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,246 likes - 42 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,245 likes - 42 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lily’s Lullaby](https://open.spotify.com/track/7sximELhhshAcurlFEDhU5) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 3:59 |
 | 2 | [Le rêve d'une note](https://open.spotify.com/track/2xDBwhsdKnawySo4jswvjT) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Le Rêve d'une note](https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY) | 3:09 |
-| 3 | [I Love You](https://open.spotify.com/track/0nFiXjQUmqZJnskf6nKi70) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [RIOPY](https://open.spotify.com/album/0MdHcPWZcFK3Su33QEERbt) | 4:23 |
+| 3 | [Wyden Down](https://open.spotify.com/track/08nsrwYHcNROgOxu0JDUbk) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [RIOPY](https://open.spotify.com/album/0MdHcPWZcFK3Su33QEERbt) | 3:27 |
 | 4 | [Grandfather please stand on the shoulders of my father while he's deep\-sea fishing \(feat\. RIOPY\)](https://open.spotify.com/track/55LnC7VuUvayQ3fW0CvDL6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:00 |
 | 5 | [Bee](https://open.spotify.com/track/77Xd7aikO9NRmzC6ISXIvY) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [\[extended\] BLISS](https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS) | 2:12 |
 | 6 | [Ukiyo](https://open.spotify.com/track/1w1vmGM5nzNsQviR9dC4Sc) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Tree of Light](https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf) | 3:55 |
-| 7 | [Wyden Down](https://open.spotify.com/track/08nsrwYHcNROgOxu0JDUbk) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [RIOPY](https://open.spotify.com/album/0MdHcPWZcFK3Su33QEERbt) | 3:27 |
+| 7 | [I Love You](https://open.spotify.com/track/0nFiXjQUmqZJnskf6nKi70) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [RIOPY](https://open.spotify.com/album/0MdHcPWZcFK3Su33QEERbt) | 4:23 |
 | 8 | [Memory of Water](https://open.spotify.com/track/6VUXskL75b1kqK3hIHegWW) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 2:17 |
 | 9 | [La Vernatelle](https://open.spotify.com/track/1uZfUDfJEWrpjFAtGbosU1) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [\[extended\] BLISS](https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS) | 2:50 |
 | 10 | [Theme Music for a Dream](https://open.spotify.com/track/1k3ZB5BjdvFTsryiCjbVkd) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Tree of Light](https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf) | 3:29 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FusBW.md) - [plain]
 | 41 | [Meditation 111](https://open.spotify.com/track/4OpzaBPXTZkBKyiQVYxMag) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 111](https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC) | 2:22 |
 | 42 | [POWER OF THE SEA](https://open.spotify.com/track/71zbGaP14EKdamvIz0taPB) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 432](https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC) | 4:37 |
 
-Snapshot ID: `ao9+AAAAAAAusdIjHlDOeJHsojGD9WoD`
+Snapshot ID: `apDPgAAAAADt1CRytF5GD9R5m5niORnQ`

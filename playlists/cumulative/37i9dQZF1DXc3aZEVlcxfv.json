@@ -309,6 +309,32 @@
     },
     {
       "album": {
+        "name": "All Over Me",
+        "url": "https://open.spotify.com/album/7jMOJrMAvlIcTSsiSimmTJ"
+      },
+      "artists": [
+        {
+          "name": "Precious Marc",
+          "url": "https://open.spotify.com/artist/3oFa0DpAlB8ayyBuXA2WDB"
+        },
+        {
+          "name": "Skerz beatz",
+          "url": "https://open.spotify.com/artist/4dhY6CUts7Uklc5Poshg7a"
+        },
+        {
+          "name": "Ko'rale",
+          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176741,
+      "name": "All Over Me",
+      "url": "https://open.spotify.com/track/4iVGBdNJHUBcQZKHkKhMTN"
+    },
+    {
+      "album": {
         "name": "The Message",
         "url": "https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd"
       },
@@ -8606,7 +8632,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 217333,
       "name": "Miracle Walking - Radio Edit",
       "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"

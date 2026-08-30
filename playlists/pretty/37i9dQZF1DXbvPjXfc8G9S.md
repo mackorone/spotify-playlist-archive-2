@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvPjXfc8G9S.md) - [plain]
 
 > Los mejores éxitos de hoy en Colombia\. Foto: Karol G
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,852 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,861 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvPjXfc8G9S.md) - [plain]
 | 9 | [Las mas bonitas son p\#tas](https://open.spotify.com/track/4vJaNTSA8fYLLLSauHmkLe) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las mas bonitas son p\#tas](https://open.spotify.com/album/6ylkMDI1T3kWWSeDdD8yyO) | 2:39 |
 | 10 | [Estoy Pa' Ti](https://open.spotify.com/track/4KYEVjuYfB2qaA5paEB4kn) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Estoy Pa' Ti](https://open.spotify.com/album/4zC8NSzZJ6VTMj74A5WLuu) | 3:10 |
 | 11 | [TUKI TUKI](https://open.spotify.com/track/0bn8tRZZtmn6Zdq82T1mOf) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Flame 火炎](https://open.spotify.com/artist/31eYHfjltzC2VyNsoVHHR9) | [EL TRAP DE KOLOMBIA](https://open.spotify.com/album/6md4LMWhSDKqVXhkXKGzmU) | 3:11 |
-| 12 | [Las Piponas \(Remix\)](https://open.spotify.com/track/281YJmnThveWjsWVic9Ym6) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Piponas \(Remix\)](https://open.spotify.com/album/6FnnT3IOidLkfgQtrC2RJb) | 4:04 |
+| 12 | [Las Piponas \- Remix](https://open.spotify.com/track/281YJmnThveWjsWVic9Ym6) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Piponas \(Remix\)](https://open.spotify.com/album/6FnnT3IOidLkfgQtrC2RJb) | 4:04 |
 | 13 | [DÓNDE](https://open.spotify.com/track/4zqFA9MOG86u7uugR8QFDU) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [POR SI ALGUIEN NOS ESCUCHA](https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe) | 3:13 |
 | 14 | [Amor](https://open.spotify.com/track/6r6IPuFvUX72kQGc9b46rk) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Memorias <3](https://open.spotify.com/album/47vZWbCPtkrihW631OcCWi) | 3:19 |
 | 15 | [GANAS REMIX](https://open.spotify.com/track/57vNJ68zPmGIkgiDreQv6S) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [GANAS REMIX](https://open.spotify.com/album/51ZB7xmzN8RVLJfCeXJmOH) | 5:26 |

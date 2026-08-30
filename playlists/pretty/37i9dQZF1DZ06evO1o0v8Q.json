@@ -1,13 +1,33 @@
 {
   "description": "This is Turnstile. The essential tracks, all in one playlist.",
-  "num_followers": 50405,
+  "num_followers": 50466,
   "original_name": "This Is Turnstile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAB/q+e1OAdvXFxGPUmIrCu2",
+  "snapshot_id": "apDPgAAAAABCY2A2BU53tGjQPDUTsozV",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 253520,
+      "name": "SEEIN\u2019 STARS: ELTON JOHN VERSION",
+      "url": "https://open.spotify.com/track/3lCQJyHHzQNVkFptuEioPx"
+    },
     {
       "added_at": null,
       "album": {
@@ -387,6 +407,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "BIRDS: SLAYYYTER VERSION",
+      "url": "https://open.spotify.com/track/45vsoreF31oxkbKL9V7d3R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nonstop Feeling",
         "url": "https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6"
       },
@@ -499,6 +539,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 168213,
+      "name": "LIGHT DESIGN: BLOOD ORANGE VERSION",
+      "url": "https://open.spotify.com/track/0sT7s0um30BUnwkErK8nlM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Move Thru Me",
         "url": "https://open.spotify.com/album/6UOOi8etpSCbXlWHtpDIgL"
       },
@@ -547,6 +607,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "CEILING: HAYLEY WILLIAMS VERSION",
+      "url": "https://open.spotify.com/track/5jz3Lk4kb4dgOwIg4HLKxV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Step to Rhythm",
         "url": "https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz"
       },
@@ -575,6 +655,26 @@
       "duration_ms": 103421,
       "name": "The Dream",
       "url": "https://open.spotify.com/track/04jmrsQI3WUHaUTZ6sZ6eM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "Dying Fetus",
+          "url": "https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie"
+        }
+      ],
+      "duration_ms": 117666,
+      "name": "BIRDS: DYING FETUS VERSION",
+      "url": "https://open.spotify.com/track/1buHH2OSyvdfQxcH4n5WIx"
     },
     {
       "added_at": null,

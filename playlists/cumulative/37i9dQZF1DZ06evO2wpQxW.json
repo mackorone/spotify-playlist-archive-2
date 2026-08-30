@@ -912,7 +912,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 185246,
       "name": "Me Enamor\u00e9 Solo",
       "url": "https://open.spotify.com/track/1p8ktN7uVGq04LIYYyveRQ"
@@ -1096,6 +1096,24 @@
       "duration_ms": 135920,
       "name": "Para Qu\u00e9 Pensarla Tanto",
       "url": "https://open.spotify.com/track/2AegxIS0LbtMXM8vktSh0W"
+    },
+    {
+      "album": {
+        "name": "Pata De Perro",
+        "url": "https://open.spotify.com/album/6NymS09wSk1y3Nd3v1Boq3"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133636,
+      "name": "Pata De Perro",
+      "url": "https://open.spotify.com/track/7JHjg4NnMbDU8CKPyoyuqb"
     },
     {
       "album": {

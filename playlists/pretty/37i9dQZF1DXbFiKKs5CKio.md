@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,261 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,265 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 27 | [me chama de sua](https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [BRUNÊ](https://open.spotify.com/artist/5h3hEweoebaD7dHjZEmKRf), [DeVito Cxrleone](https://open.spotify.com/artist/6VrY01U9G7eJtIFlvG4U0k) | [Love Songs, Vol\. I](https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON) | 2:19 |
 | 28 | [Romance Fora de Hora](https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Na Miúda](https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0) | 2:44 |
 | 29 | [PASSARINHO](https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl) | [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR) | [PASSARINHO](https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8) | 3:21 |
-| 30 | [Abre Alas](https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni) | [Patricia Marx](https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Abre Alas](https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5) | 5:11 |
-| 31 | [Me Curar](https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [93](https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ) | 3:46 |
-| 32 | [Fim…](https://open.spotify.com/track/44AB55f9QlY6BLwtjNJ6FS) | [Trivia](https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g) | [MOMENTUM](https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx) | 3:40 |
-| 33 | [OFERENDA](https://open.spotify.com/track/4knACzeO6UUyh8mVMzhAk2) | [Trajano](https://open.spotify.com/artist/3LxEjKaojOdrfAZ4HrdJQy) | [TRANÇA](https://open.spotify.com/album/33o0Id7mFVN77Vn4tKx8EQ) | 4:29 |
+| 30 | [Me Curar](https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [93](https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ) | 3:46 |
+| 31 | [Abre Alas](https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni) | [Patricia Marx](https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Abre Alas](https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5) | 5:11 |
+| 32 | [OFERENDA](https://open.spotify.com/track/4knACzeO6UUyh8mVMzhAk2) | [Trajano](https://open.spotify.com/artist/3LxEjKaojOdrfAZ4HrdJQy) | [TRANÇA](https://open.spotify.com/album/33o0Id7mFVN77Vn4tKx8EQ) | 4:29 |
+| 33 | [Fim…](https://open.spotify.com/track/44AB55f9QlY6BLwtjNJ6FS) | [Trivia](https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g) | [MOMENTUM](https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx) | 3:40 |
 | 34 | [Se Foi](https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Hip Hop Machine \#18](https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS) | 5:57 |
 | 35 | [amor não é suficiente](https://open.spotify.com/track/0mhohS3IL2uHRQHhRu36JW) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [amor não é suficiente](https://open.spotify.com/album/5lJ3be5dBEoJHnyprHg4mF) | 2:40 |
 | 36 | [Me Amas](https://open.spotify.com/track/0ui76V04K1vmUplSX3BZM4) | [idontcare](https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e) | [Como é bom poder dizer eu te amo](https://open.spotify.com/album/21295uHlotpc6pU7N7dso1) | 2:23 |

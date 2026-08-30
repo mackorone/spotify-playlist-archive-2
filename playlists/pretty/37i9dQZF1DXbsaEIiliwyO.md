@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: FLOW
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,964 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,965 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 | 43 | [LOST IN PARADISE](https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J) | 5:27 |
 | 44 | [冬のはなし](https://open.spotify.com/track/3VrKkcEm7RYXBI9RLv7SL7) | [ギヴン](https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j) | [gift](https://open.spotify.com/album/7wR9KWzI8aoR89ryUPDhmr) | 3:28 |
 | 45 | [ポラリス](https://open.spotify.com/track/28DlaPydCnrs8NxYOnUPZ8) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Q.E.D](https://open.spotify.com/album/4DifEg0usPQvzxk6K9H04Z) | 3:44 |
-| 46 | [メガネを外して](https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [メガネを外して](https://open.spotify.com/album/5sHKJwFpJERdma9qtdm7Gl) | 3:09 |
+| 46 | [Harukamirai](https://open.spotify.com/track/2vDPSojrX4aL7aiCPD7kja) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [Iroirotoiro](https://open.spotify.com/album/79V1HfDMIGhRzw4waum5cm) | 2:57 |
 | 47 | [サムライハート\(Some Like It Hot!!\)](https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:11 |
-| 48 | [Harukamirai](https://open.spotify.com/track/2vDPSojrX4aL7aiCPD7kja) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [Iroirotoiro](https://open.spotify.com/album/79V1HfDMIGhRzw4waum5cm) | 2:57 |
+| 48 | [メガネを外して](https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [メガネを外して](https://open.spotify.com/album/5sHKJwFpJERdma9qtdm7Gl) | 3:09 |
 | 49 | [リライト](https://open.spotify.com/track/3txqYlzoDZGLoW8MGll9tQ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ソルファ](https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04) | 3:45 |
 | 50 | [夢幻](https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [夢幻](https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ) | 4:01 |
 

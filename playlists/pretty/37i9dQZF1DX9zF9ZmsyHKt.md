@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,637 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,660 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 34 | [Paixão no Lendário Rubi](https://open.spotify.com/track/0XW5DXXvsCSUaD3IpSnKq6) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq), [Valéria Paiva](https://open.spotify.com/artist/2j2TgiOSC2bsZlRiN5MFaS) | [Paixão no Lendário Rubi](https://open.spotify.com/album/3TCx83Wfw1XcrqyCx7x2s3) | 4:23 |
 | 35 | [Agora Somos Ex](https://open.spotify.com/track/3XL2i8IhA4YJaOZ4gASuEx) | [Asas Livres](https://open.spotify.com/artist/0cyzEOy6DVvL0pPDnW61Xx) | [Agora Somos Ex](https://open.spotify.com/album/4m1SAIKfDy3s63InxRzLPX) | 3:40 |
 | 36 | [Reacender a Chama](https://open.spotify.com/track/3kH39Eb5UCv8Wl81U9sJK9) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [TecnoShow](https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua) | 3:43 |
-| 37 | [Fica ou Sai \- Ao Vivo](https://open.spotify.com/track/7uFUgHj2oYSgnGQwnQbxpJ) | [Rebeca Lindsay](https://open.spotify.com/artist/3yMbb5fw0spHqSkVZpsuGq) | [Fica ou Sai \(Ao Vivo\)](https://open.spotify.com/album/0XRhuNGN7G2OKsDvKRoIJx) | 2:21 |
+| 37 | [Esse Jogo Acabou](https://open.spotify.com/track/7r7JTB4CTLtILAQ4cR4mH1) | [Rebeca Lindsay](https://open.spotify.com/artist/3yMbb5fw0spHqSkVZpsuGq) | [Esse Jogo Acabou](https://open.spotify.com/album/6Jk9HrMwJEKjR1XHsrHDQH) | 3:09 |
 | 38 | [Grito Seu Nome](https://open.spotify.com/track/3JQLEtwCzTNwrjbbxoVDZE) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Sucessos](https://open.spotify.com/album/6UqGyxulGDAtJGQiy5gRP8) | 3:03 |
 | 39 | [Para de Negar](https://open.spotify.com/track/1V6yPFiUioG4ZXWqQQmazb) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86) | [Para de Negar](https://open.spotify.com/album/6JuP0kg9xQgbLqt4XiH4gm) | 2:51 |
 | 40 | [Búfalo do Marajó](https://open.spotify.com/track/76tnBMbH2D5HbvZ3g5ZRSI) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Allanzinho](https://open.spotify.com/artist/73qBqoOL5FnxUSdtTl5JQ0) | [BOROGODÓ 2](https://open.spotify.com/album/19zfL8aj6RlLqajsgOwQKo) | 2:38 |
 | 41 | [Clima de Rodeio](https://open.spotify.com/track/1WBLJW3c8uaEMe5FBPaqyF) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [Clima de Rodeio](https://open.spotify.com/album/1RKyc13s0UFhSd00vYdCEi) | 1:56 |
-| 42 | [Esse Jogo Acabou](https://open.spotify.com/track/7r7JTB4CTLtILAQ4cR4mH1) | [Rebeca Lindsay](https://open.spotify.com/artist/3yMbb5fw0spHqSkVZpsuGq) | [Esse Jogo Acabou](https://open.spotify.com/album/6Jk9HrMwJEKjR1XHsrHDQH) | 3:09 |
+| 42 | [Fica ou Sai \- Ao Vivo](https://open.spotify.com/track/7uFUgHj2oYSgnGQwnQbxpJ) | [Rebeca Lindsay](https://open.spotify.com/artist/3yMbb5fw0spHqSkVZpsuGq) | [Fica ou Sai \(Ao Vivo\)](https://open.spotify.com/album/0XRhuNGN7G2OKsDvKRoIJx) | 2:21 |
 | 43 | [São Amores](https://open.spotify.com/track/48qHCv2FnLa5uVCAcPveU1) | [Banda Quero Mais](https://open.spotify.com/artist/2qKQ4jiEt7kpYuLyTsNQqz) | [São Amores](https://open.spotify.com/album/55Rl0AQKQwbAKyI41H088s) | 3:19 |
 | 44 | [Esperança](https://open.spotify.com/track/65XEiVtu5lTjBqsAfJeafb) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86), [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Esperança](https://open.spotify.com/album/2mwMZXG1mfvuSNAGun4qZL) | 2:55 |
 | 45 | [Só no Caquiado](https://open.spotify.com/track/01FtRxIfpX9M67Zpj35dY2) | [Banda Sayonara](https://open.spotify.com/artist/4WudSn9b3V05mnxaH9uNks) | [Só no Caquiado](https://open.spotify.com/album/2g2IrM7y3lkzsl5xrvzKYP) | 2:56 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 58 | [Se Quebrou \- Ao Vivo em Portugal](https://open.spotify.com/track/4jLBnsN4lIFmSJG4Yoj0lu) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Uma noite Amazônica \(Ao Vivo em Portugal\)](https://open.spotify.com/album/1UATryKcX3smDVVk4XWJ8R) | 3:32 |
 | 59 | [Chá de Maracujá](https://open.spotify.com/track/7mgJccGu4ecfRchYjOKWTY) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo em Caruaru](https://open.spotify.com/album/0DvLLkxdRyaf4LeKhZg1sb) | 3:27 |
 | 60 | [Príncipe Encantado](https://open.spotify.com/track/3xXCzYlV8U1Bin2tjVwGnX) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [O Ritmo que Conquistou o Brasil](https://open.spotify.com/album/0yjytTotHFUh68zECxBSIr) | 3:45 |
-| 61 | [Seu Novo Eu \- Ao Vivo](https://open.spotify.com/track/127oSFjtR6MbXGCRKzz39U) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj), [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb) | [Seu Novo Eu \(Ao Vivo\)](https://open.spotify.com/album/0Zs6je7qxwW5lTpdd6saMx) | 3:19 |
+| 61 | [Vem Meu Amor](https://open.spotify.com/track/45bMR3o3SPGBRNf6CBFian) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:36 |
 | 62 | [Covarde](https://open.spotify.com/track/5e1qwugRLDFpIU9ccGgsiG) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj), [Suanny Batidão](https://open.spotify.com/artist/6CORseMwKZPTq5dHcB5ogK) | [Covarde](https://open.spotify.com/album/2yrlUWv6v6IoaYVFeWZpnd) | 2:29 |
 | 63 | [Haja Paciência](https://open.spotify.com/track/3ZsTuBLM2zCPnMxOGgepZH) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Verão VB 2024](https://open.spotify.com/album/6sBpsha1YNZBbVARh4SZR3) | 2:40 |
 | 64 | [Não Deixei De Amar](https://open.spotify.com/track/1F7NChVuwGbrPf7DIQQ9eK) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj), [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Não Deixei De Amar](https://open.spotify.com/album/5dEzsBRLiiXgDF7bqUyha9) | 2:42 |
-| 65 | [Vem Meu Amor](https://open.spotify.com/track/45bMR3o3SPGBRNf6CBFian) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:36 |
+| 65 | [Seu Novo Eu \- Ao Vivo](https://open.spotify.com/track/127oSFjtR6MbXGCRKzz39U) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj), [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb) | [Seu Novo Eu \(Ao Vivo\)](https://open.spotify.com/album/0Zs6je7qxwW5lTpdd6saMx) | 3:19 |
 
 Snapshot ID: `AAAAAKBntdHE1OM2rM3bEAUAC7FmYjWy`

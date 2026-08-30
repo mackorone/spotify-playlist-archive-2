@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 
 > This is Taio Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,269 likes - 43 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,273 likes - 43 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 19 | [Dirty Picture](https://open.spotify.com/track/00qyVgLK2j92HYoFaNCnVD) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:38 |
 | 20 | [Signs](https://open.spotify.com/track/3bOoVnf3pItMfU5PMossd9) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Signs](https://open.spotify.com/album/0iimd0kXrAa4g8wJ7piCXq) | 2:53 |
 | 21 | [I Can Be](https://open.spotify.com/track/49YfIDm5WBGKyUxL8Vt5FV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:45 |
-| 22 | [Shotcaller](https://open.spotify.com/track/0lDKFNICklCakXQibsADpK) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:24 |
-| 23 | [No Other One \- Remastered](https://open.spotify.com/track/5kcgBrYujE674rAnACCNkM) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Rokstarr \(Special Edition\)](https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm) | 3:37 |
+| 22 | [No Other One \- Remastered](https://open.spotify.com/track/5kcgBrYujE674rAnACCNkM) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Rokstarr \(Special Edition\)](https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm) | 3:37 |
+| 23 | [Shotcaller](https://open.spotify.com/track/0lDKFNICklCakXQibsADpK) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:24 |
 | 24 | [Row The Body \(feat\. French Montana\)](https://open.spotify.com/track/5qmR4IEKBUpgPa14pGuWuS) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Row The Body \(feat\. French Montana\)](https://open.spotify.com/album/0SK5cDgoWVerVQbHne2epR) | 3:57 |
 | 25 | [Can't Say Go](https://open.spotify.com/track/1ys0QvZtGmKK1A9gNYIoBU) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:23 |
 | 26 | [Take Me Back \- 2010 Remix](https://open.spotify.com/track/0ZnimFEb14Ciz5dvQJAQ3k) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:26 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 42 | [Imagine \- Big Brothers Big Sisters Charity Single](https://open.spotify.com/track/1YPrvXgBooolvvFZG8Mk7p) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Imagine](https://open.spotify.com/album/0eGpcYy98DaVtXiJh44tdj) | 3:00 |
 | 43 | [She's Always Gone! \- NapsterLive](https://open.spotify.com/track/2kfko5FM1exgSB3JoaNZNs) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:33 |
 
-Snapshot ID: `ao9+AAAAAADFApC1NZJip4ncmIYf5oW6`
+Snapshot ID: `apDPgAAAAABupEaKLxcpQtGshjkDwcIe`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > 🧘🏼‍♀️🌻🏕️🏞️🏊🏻‍♀️🌅🌷⛰️🚴🏼‍♂️🍺🌳
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,904 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,905 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 34 | [Всі ці фарби](https://open.spotify.com/track/6wr8FECmej9ungciGPSiNb) | [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [Більше ніж здається](https://open.spotify.com/album/1cj2zkpVBJdVyyCGDR6sRJ) | 3:00 |
 | 35 | [обережно! розбите!](https://open.spotify.com/track/23os5lle4XZzaOQmMTKaPM) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [обережно! розбите!](https://open.spotify.com/album/7zH9MCmyBWI9P03w3mn34i) | 3:00 |
 | 36 | [Воля \- full version](https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb) | [Maryna Krut](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Воля \(full version\)](https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf) | 2:44 |
-| 37 | [Під крилом](https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Під крилом](https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf) | 2:19 |
-| 38 | [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 |
+| 37 | [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 |
+| 38 | [Під крилом](https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Під крилом](https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf) | 2:19 |
 | 39 | [Касета](https://open.spotify.com/track/2FQ7IeXv68DH72sTHdR9tn) | [Tof](https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y), [Білий Бо](https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM) | [Касета](https://open.spotify.com/album/1sw8pB9yJTdZhesv8Jf5LA) | 3:03 |
 | 40 | [Забудь мене](https://open.spotify.com/track/38GSd0ICt6kGMJlBaVYdPf) | [NICHKA](https://open.spotify.com/artist/4wePP7WrVuqGPqkXe2P3mJ), [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [Забудь мене](https://open.spotify.com/album/7qOH8jaMcqpIFa3ktnEbKw) | 2:33 |
 | 41 | [КЛИЧУ](https://open.spotify.com/track/3RGUgIjRIdT3bhxl7DFjqc) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [КЛИЧУ](https://open.spotify.com/album/0KrgSWn6t4DMm96YlP7Atv) | 3:10 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 45 | [Так люблять лиш раз](https://open.spotify.com/track/2rwEbC0qA6VYrADOuiSh7N) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Так люблять лиш раз](https://open.spotify.com/album/6om0I6dHkp1ZtVDRAPpeF8) | 3:43 |
 | 46 | [Про тебе, звісно](https://open.spotify.com/track/7IOexzgQGFToaiXIeQibSt) | [POPIL](https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he), [Targan](https://open.spotify.com/artist/7lnWKp3xbQcXqu2bgwMEVs) | [Про тебе, звісно](https://open.spotify.com/album/4b4bnSXcYx3WyYmhZt3wco) | 3:27 |
 | 47 | [Фурія](https://open.spotify.com/track/3v1XYRl73UBCTJUZX9lzNd) | [BRYANGIN](https://open.spotify.com/artist/77naAAukVgb5Vy4V6bjRy8) | [Фурія](https://open.spotify.com/album/7aoCba2Hesr4NvXSeIbNyR) | 3:08 |
-| 48 | [Станемо тишею](https://open.spotify.com/track/2FnTCTmdUdOt3PlWDThCQs) | [Kadnay](https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ) | [Станемо тишею](https://open.spotify.com/album/3EajDdMOQJCs2j2m6fKIPG) | 3:09 |
-| 49 | [Свідомість](https://open.spotify.com/track/20jsajSXoBYHXY1wAgE79k) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Свідомість](https://open.spotify.com/album/1aVoH8UWRQVrF1laF8UQpl) | 2:37 |
+| 48 | [Свідомість](https://open.spotify.com/track/20jsajSXoBYHXY1wAgE79k) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Свідомість](https://open.spotify.com/album/1aVoH8UWRQVrF1laF8UQpl) | 2:37 |
+| 49 | [Станемо тишею](https://open.spotify.com/track/2FnTCTmdUdOt3PlWDThCQs) | [Kadnay](https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ) | [Станемо тишею](https://open.spotify.com/album/3EajDdMOQJCs2j2m6fKIPG) | 3:09 |
 | 50 | [Злови мене](https://open.spotify.com/track/0NsMhvgrvPKj0gMVQcyuue) | [YARIMA](https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc) | [Вояж](https://open.spotify.com/album/4XhJmmWPWjytr2YBGYThOr) | 2:16 |
 | 51 | [Лину](https://open.spotify.com/track/2SyrQZYHL1Q3yZbVX5UVKc) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Музичний щоденник\. Частина №1](https://open.spotify.com/album/0ClFr44iWLQp8zCilHSJaM) | 1:52 |
 | 52 | [я є рана / я є ніж](https://open.spotify.com/track/0RlHrI103DK2g6oI7YzE5O) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [я є рана / я є ніж](https://open.spotify.com/album/1Xu46wHIEnQ86soI44DtmG) | 3:05 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 54 | [ellipsis](https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [ellipsis](https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ) | 4:03 |
 | 55 | [Я тебе не чую](https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Я тебе не чую](https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op) | 2:35 |
 | 56 | [бути оптимістом](https://open.spotify.com/track/3VwyqCE0bV1t4bY1rp5w5p) | [Liza Bibikova](https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz) | [бути оптимістом](https://open.spotify.com/album/4kHNdGMPIu00fBtXV5m9es) | 3:00 |
-| 57 | [Світ повен любві](https://open.spotify.com/track/3WxE8ZoW9BYxfWFEVMJuGR) | [Artistka Chuprynenko](https://open.spotify.com/artist/099tHc1nWooG9wPtUYX9Mi) | [Екскурсії по городу](https://open.spotify.com/album/1orSqMtnDMqO5QEXN4FaVd) | 4:18 |
-| 58 | [Кого ти вигадав?](https://open.spotify.com/track/3ZHshNzetuJ6CWsMoYSZbB) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Кого ти вигадав?](https://open.spotify.com/album/0zzcXw3obSrwf3HRjx0zYO) | 3:06 |
-| 59 | [Останній раз](https://open.spotify.com/track/0VmvJ7BE6iXwiFNJGF00IT) | [ba.latskii](https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz) | [ТИ.](https://open.spotify.com/album/5m4Hr1lqxhY4SmwH9tBAZd) | 2:58 |
-| 60 | [Спірічуал](https://open.spotify.com/track/2oTMeZP9JBsDBL0SKnjWcA) | [Blooms Corda](https://open.spotify.com/artist/3mlUhGSEvqMhUNu7uWB9hA) | [Найдорожчі речі у світі](https://open.spotify.com/album/5ghlX8TOnOWY6vf8OQlZGF) | 4:15 |
+| 57 | [Останній раз](https://open.spotify.com/track/0VmvJ7BE6iXwiFNJGF00IT) | [ba.latskii](https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz) | [ТИ.](https://open.spotify.com/album/5m4Hr1lqxhY4SmwH9tBAZd) | 2:58 |
+| 58 | [Світ повен любві](https://open.spotify.com/track/3WxE8ZoW9BYxfWFEVMJuGR) | [Artistka Chuprynenko](https://open.spotify.com/artist/099tHc1nWooG9wPtUYX9Mi) | [Екскурсії по городу](https://open.spotify.com/album/1orSqMtnDMqO5QEXN4FaVd) | 4:18 |
+| 59 | [Кого ти вигадав?](https://open.spotify.com/track/3ZHshNzetuJ6CWsMoYSZbB) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Кого ти вигадав?](https://open.spotify.com/album/0zzcXw3obSrwf3HRjx0zYO) | 3:06 |
+| 60 | [Can You Believe](https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Can You Believe](https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG) | 3:55 |
 
 Snapshot ID: `AAAAAN4UrAKTisUPPdUbb5+bD79l4LD3`

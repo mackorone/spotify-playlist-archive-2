@@ -1,6 +1,6 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1860946,
+  "num_followers": 1860799,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-04-03 04:02:09",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 167786,
+      "name": "TUS GAFITAS",
+      "url": "https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon"
+    },
+    {
+      "added_at": "2026-04-03 04:02:09",
+      "album": {
         "name": "Wapa",
         "url": "https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq"
       },
@@ -379,18 +395,18 @@
     {
       "added_at": "2026-04-03 04:02:09",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 167786,
-      "name": "TUS GAFITAS",
-      "url": "https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon"
+      "duration_ms": 162533,
+      "name": "Sauvignon Blanc",
+      "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
     },
     {
       "added_at": "2026-04-03 04:02:09",
@@ -411,22 +427,6 @@
       "duration_ms": 161249,
       "name": "Cu\u00e9ntame",
       "url": "https://open.spotify.com/track/0LwRPPWBsdUKZ7pMmGvEnM"
-    },
-    {
-      "added_at": "2026-04-03 04:02:09",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Sauvignon Blanc",
-      "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
     },
     {
       "added_at": "2026-04-03 04:02:09",
@@ -527,26 +527,6 @@
     {
       "added_at": "2026-04-03 04:02:09",
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 212914,
-      "name": "SI ES AMOR",
-      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
-    },
-    {
-      "added_at": "2026-04-03 04:02:09",
-      "album": {
         "name": "De Adentro Pa Afuera",
         "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 214506,
       "name": "\u00cdndigo",
       "url": "https://open.spotify.com/track/6i28Cxd4CUiHmcowzQW38w"
+    },
+    {
+      "added_at": "2026-04-03 04:02:09",
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 212914,
+      "name": "SI ES AMOR",
+      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
     },
     {
       "added_at": "2026-04-03 04:02:09",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-04-03 04:02:09",
       "album": {
+        "name": "cuatro",
+        "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 249884,
+      "name": "La Boda",
+      "url": "https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX"
+    },
+    {
+      "added_at": "2026-04-03 04:02:09",
+      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/11DqCI7qqSdScS5cOrFpwr"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 125482,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/7GzRxRiDEBBa42S6Nx3IHJ"
-    },
-    {
-      "added_at": "2026-04-03 04:02:09",
-      "album": {
-        "name": "cuatro",
-        "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 249884,
-      "name": "La Boda",
-      "url": "https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX"
     },
     {
       "added_at": "2026-04-03 04:02:09",

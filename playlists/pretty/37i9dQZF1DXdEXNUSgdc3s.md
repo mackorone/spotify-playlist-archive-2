@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,851 likes - 110 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,869 likes - 110 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-676 songs - 1 day 21 hr 24 min
+677 songs - 1 day 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [All Around](https://open.spotify.com/track/3OrBVGYz6opSiyzn4xruDa) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [All Around](https://open.spotify.com/album/5H0eZ8emSE3bW2QSkhuFZp) | 2:44 | 2025-07-25 | 2025-08-16 |
 | [All Joy](https://open.spotify.com/track/2Gpmj69SvjOvQ8VulFin1O) | [Laolu Adewumi](https://open.spotify.com/artist/4bLvRbw3aelMQlVPBnxFG7) | [All Joy](https://open.spotify.com/album/122hkcSAoi32jiFRRdCtLD) | 2:53 | 2025-03-07 | 2026-02-27 |
 | [All My Life](https://open.spotify.com/track/3l6ek8A46LHzqPDSbWfBXw) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [All My Life](https://open.spotify.com/album/1HMUdkIPCBsOBJy7518Hh6) | 4:31 | 2026-03-27 | 2026-06-16 |
+| [All Over Me](https://open.spotify.com/track/4iVGBdNJHUBcQZKHkKhMTN) | [Precious Marc](https://open.spotify.com/artist/3oFa0DpAlB8ayyBuXA2WDB), [Skerz beatz](https://open.spotify.com/artist/4dhY6CUts7Uklc5Poshg7a), [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [All Over Me](https://open.spotify.com/album/7jMOJrMAvlIcTSsiSimmTJ) | 2:56 | 2026-08-21 |  |
 | [All That Matters](https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 6:10 | 2024-09-27 | 2025-02-28 |
 | [All The Way](https://open.spotify.com/track/5xoTK2L3G7eLbUdHo4TnpU) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Afolake](https://open.spotify.com/artist/6BQJqR87wQhMbTca9VP8H8), [Tite Tunez](https://open.spotify.com/artist/4kkaELRqmzjvexnCIKPyBT) | [All The Way](https://open.spotify.com/album/6UkFSOzDVAsJkXjmOG3iwB) | 3:07 | 2025-06-06 | 2025-09-12 |
 | [Alleluia](https://open.spotify.com/track/401mrYPv21Zs2USsU6bauy) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Alleluia](https://open.spotify.com/album/4nVUeDkkqCnhG8hQ8sLvVO) | 4:23 | 2026-03-01 |  |
@@ -415,7 +416,7 @@
 | [Million Little Miracles \(feat\. Joe L Barnes\)](https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 6:45 | 2025-01-31 |  |
 | [Miracle](https://open.spotify.com/track/1ff4qa3kRpo1mqtbVazbGC) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m) | [No Label](https://open.spotify.com/album/0ghyhpA9XBMUK7d7D8IniC) | 2:38 | 2025-10-31 | 2025-11-28 |
 | [Miracle my way](https://open.spotify.com/track/0yfst0o9UenwXbOMaFZDcI) | [IFE MOJ](https://open.spotify.com/artist/3U2I43J4bODnDwtbkW7kCv) | [Miracle my way](https://open.spotify.com/album/1H2N7cAXMVJqKI1WVVYrro) | 2:59 | 2025-05-23 | 2025-06-20 |
-| [Miracle Walking \- Radio Edit](https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [Miracle Walking \(Radio Edit\)](https://open.spotify.com/album/0nLp271aFrYDf0EM9997ih) | 3:37 | 2026-03-13 |  |
+| [Miracle Walking \- Radio Edit](https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [Miracle Walking \(Radio Edit\)](https://open.spotify.com/album/0nLp271aFrYDf0EM9997ih) | 3:37 | 2026-03-13 | 2026-08-30 |
 | [Miracles Like Lies](https://open.spotify.com/track/1xHczeiVLFFYxrdAQLVteY) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [Miracles Like Lies](https://open.spotify.com/album/53r1RXoTN1VStVSsoNWoBo) | 4:12 | 2025-08-22 | 2025-08-29 |
 | [Miyeruwe](https://open.spotify.com/track/49W1rWTLscuPm49Uztjha5) | [Bada Godwin](https://open.spotify.com/artist/3OpSfWD36e1vwrf16uou9F), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Miyeruwe](https://open.spotify.com/album/5sz29dKcDx5uIBRGpMLwrn) | 5:25 | 2025-08-22 | 2025-10-31 |
 | [Mo Wa Dupe \- Reimagined](https://open.spotify.com/track/0rCCwRhEacakKBeYHD8fW6) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [Mo Wa Dupe \(Reimagined\)](https://open.spotify.com/album/0iDkNc5nIfR3Op5u78S20z) | 3:31 | 2026-01-02 | 2026-03-13 |

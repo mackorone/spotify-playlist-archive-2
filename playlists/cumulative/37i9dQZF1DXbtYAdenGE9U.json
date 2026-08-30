@@ -1615,24 +1615,6 @@
     },
     {
       "album": {
-        "name": "Trance Top 1000 - The Best Of",
-        "url": "https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe"
-      },
-      "artists": [
-        {
-          "name": "Three Drives On A Vinyl",
-          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
-        }
-      ],
-      "date_added": "2023-12-27",
-      "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
-      "duration_ms": 219000,
-      "name": "Greece 2000",
-      "url": "https://open.spotify.com/track/5x6YUq1d8jP6Z9ZXgb9REq"
-    },
-    {
-      "album": {
         "name": "Greece 2000",
         "url": "https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n"
       },
@@ -1670,10 +1652,32 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 219000,
       "name": "Greece 2000 - Edit",
       "url": "https://open.spotify.com/track/3JxBHvOkVvgZTtQ9shl4fI"
+    },
+    {
+      "album": {
+        "name": "Trance Top 1000 - The Best Of",
+        "url": "https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe"
+      },
+      "artists": [
+        {
+          "name": "Three Drives On A Vinyl",
+          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
+        },
+        {
+          "name": "Three Drives",
+          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Greece 2000 - Edit",
+      "url": "https://open.spotify.com/track/5x6YUq1d8jP6Z9ZXgb9REq"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 89190,
+  "num_followers": 89205,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -711,26 +711,6 @@
     {
       "added_at": "2026-06-25 22:00:27",
       "album": {
-        "name": "Links, Rechts",
-        "url": "https://open.spotify.com/album/2HBAW9ingSIQRPMDnS0fK1"
-      },
-      "artists": [
-        {
-          "name": "Arimann",
-          "url": "https://open.spotify.com/artist/3jl4GQ2J4tR0IWHQjfHRuZ"
-        },
-        {
-          "name": "C-strike",
-          "url": "https://open.spotify.com/artist/2AZfTQyB9onUlkVMMp1elq"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Links, Rechts",
-      "url": "https://open.spotify.com/track/3oyGbOtE0jr8PMgteEjpZN"
-    },
-    {
-      "added_at": "2026-06-25 22:00:27",
-      "album": {
         "name": "Van Goes Tot Purmerend (Altijd Larstig & Rob Gasd'rop en FeestDJRuud Remix)",
         "url": "https://open.spotify.com/album/6eauvU44jAYmb66jXi3ZMS"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 150193,
       "name": "Van Goes Tot Purmerend - Altijd Larstig & Rob Gasd'rop en FeestDJRuud Remix",
       "url": "https://open.spotify.com/track/5M0ngOXI5ivJW4UJq5FwsS"
+    },
+    {
+      "added_at": "2026-06-25 22:00:27",
+      "album": {
+        "name": "Links, Rechts",
+        "url": "https://open.spotify.com/album/2HBAW9ingSIQRPMDnS0fK1"
+      },
+      "artists": [
+        {
+          "name": "Arimann",
+          "url": "https://open.spotify.com/artist/3jl4GQ2J4tR0IWHQjfHRuZ"
+        },
+        {
+          "name": "C-strike",
+          "url": "https://open.spotify.com/artist/2AZfTQyB9onUlkVMMp1elq"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Links, Rechts",
+      "url": "https://open.spotify.com/track/3oyGbOtE0jr8PMgteEjpZN"
     },
     {
       "added_at": "2026-06-25 22:00:27",
@@ -847,6 +847,26 @@
     {
       "added_at": "2026-06-25 22:00:27",
       "album": {
+        "name": "Adio Amore (Hardstyle Remix)",
+        "url": "https://open.spotify.com/album/34VlLaD14KcAg5zCsVVxz2"
+      },
+      "artists": [
+        {
+          "name": "Zanger Alex",
+          "url": "https://open.spotify.com/artist/7dX46liQvHKgYXekJTB2lO"
+        },
+        {
+          "name": "Lanterfantje",
+          "url": "https://open.spotify.com/artist/3q6u7Aifk5DkiIMR7KtIT8"
+        }
+      ],
+      "duration_ms": 210105,
+      "name": "Adio Amore - Hardstyle Remix",
+      "url": "https://open.spotify.com/track/4fe1Rx9n6MwzeSPCgcn5mK"
+    },
+    {
+      "added_at": "2026-06-25 22:00:27",
+      "album": {
         "name": "In Mijn Bloed (feat. Eelco)",
         "url": "https://open.spotify.com/album/58J28k6uKH7deW2yBxs5w9"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 191174,
       "name": "In Mijn Bloed (feat. Eelco)",
       "url": "https://open.spotify.com/track/0wzj3pDbsajHGuTeVWrpxE"
-    },
-    {
-      "added_at": "2026-06-25 22:00:27",
-      "album": {
-        "name": "Adio Amore (Hardstyle Remix)",
-        "url": "https://open.spotify.com/album/34VlLaD14KcAg5zCsVVxz2"
-      },
-      "artists": [
-        {
-          "name": "Zanger Alex",
-          "url": "https://open.spotify.com/artist/7dX46liQvHKgYXekJTB2lO"
-        },
-        {
-          "name": "Lanterfantje",
-          "url": "https://open.spotify.com/artist/3q6u7Aifk5DkiIMR7KtIT8"
-        }
-      ],
-      "duration_ms": 210105,
-      "name": "Adio Amore - Hardstyle Remix",
-      "url": "https://open.spotify.com/track/4fe1Rx9n6MwzeSPCgcn5mK"
     },
     {
       "added_at": "2026-06-25 22:00:27",

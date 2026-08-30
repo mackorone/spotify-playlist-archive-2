@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 
 > This is Victony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,777 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,787 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 43 | [All Power](https://open.spotify.com/track/12TjLPC70MRIDDnx8Ob3x4) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 3:12 |
 | 44 | [Glory II \(with Fridayy\)](https://open.spotify.com/track/0NCw0Nx9qn6Mqya3PN5RIg) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Glory II \(with Fridayy\)](https://open.spotify.com/album/5KNIe8ATKowEk9Xvzo753f) | 2:55 |
 | 45 | [My Darling](https://open.spotify.com/track/1NCWMu8Iy5S4I9tI8AifTj) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY) | 3:13 |
-| 46 | [Gangsta Cry](https://open.spotify.com/track/3hUc6LvbawUZOUEspluMDs) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 2:24 |
+| 46 | [Amen](https://open.spotify.com/track/3SdqGKArsHk8bNCUBLVKs7) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 2:54 |
 | 47 | [Chop & Slide](https://open.spotify.com/track/3WsH5oWObB3Lo1Q0cQjSwq) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 2:48 |
 | 48 | [Like2 \- Part II \(with Skillibeng & Victony\)](https://open.spotify.com/track/2nNenfkc5uv1b9zkLZ5rOl) | [CallMeTheKidd](https://open.spotify.com/artist/1q3rVmTrPa51ofrwEfC6Kc), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Like2 \- Part II \(with Skillibeng & Victony\)](https://open.spotify.com/album/1dXuMmtv9aE9H5FbpxGzPa) | 3:13 |
 | 49 | [Bother Me \(feat\. Victony\)](https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Bother Me \(feat\. Victony\)](https://open.spotify.com/album/7svkXljH25hpPavMawyyb2) | 3:00 |
-| 50 | [Amen](https://open.spotify.com/track/3SdqGKArsHk8bNCUBLVKs7) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 2:54 |
+| 50 | [Gangsta Cry](https://open.spotify.com/track/3hUc6LvbawUZOUEspluMDs) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 2:24 |
 
-Snapshot ID: `ao9+AAAAAACIdqXdTuUOxhDRGwe0NJAt`
+Snapshot ID: `apDPgAAAAACDyPZlSK57VnsjSmkPdwch`

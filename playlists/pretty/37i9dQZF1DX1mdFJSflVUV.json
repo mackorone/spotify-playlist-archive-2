@@ -1,6 +1,6 @@
 {
   "description": "Canciones para subirse al auto y cantar sin parar.",
-  "num_followers": 965829,
+  "num_followers": 965882,
   "original_name": "Canta en el auto",
   "owner": {
     "name": "Spotify",
@@ -539,38 +539,6 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
-        "name": "A M\u00ed",
-        "url": "https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "A M\u00ed",
-      "url": "https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
         "name": "Yonaguni",
         "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
       },
@@ -603,6 +571,38 @@
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
+        "name": "A M\u00ed",
+        "url": "https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "A M\u00ed",
+      "url": "https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa"
     },
     {
       "added_at": "2025-11-19 18:19:27",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
+        "name": "Alta Suciedad",
+        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "Flaca",
+      "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
         "name": "Sue\u00f1os L\u00edquidos",
         "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
       },
@@ -719,26 +735,6 @@
       "duration_ms": 352160,
       "name": "En El Muelle de San Blas",
       "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
-        "name": "Nine Track Mind",
-        "url": "https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 217706,
-      "name": "We Don't Talk Anymore (feat. Selena Gomez)",
-      "url": "https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj"
     },
     {
       "added_at": "2025-11-19 18:19:27",
@@ -759,18 +755,22 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
-        "name": "Alta Suciedad",
-        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
+        "name": "Nine Track Mind",
+        "url": "https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 277653,
-      "name": "Flaca",
-      "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
+      "duration_ms": 217706,
+      "name": "We Don't Talk Anymore (feat. Selena Gomez)",
+      "url": "https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj"
     },
     {
       "added_at": "2025-11-19 18:19:27",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
+        "name": "Extreme II - Pornograffitti",
+        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "duration_ms": 334106,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
-        "name": "Extreme II - Pornograffitti",
-        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
-      },
-      "artists": [
-        {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
-        }
-      ],
-      "duration_ms": 334106,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
         "name": "Me Reh\u00faso",
         "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
       },
@@ -871,22 +871,6 @@
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 221800,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
     },
     {
       "added_at": "2025-11-19 18:19:27",
@@ -907,6 +891,22 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 343413,
-      "name": "Coraz\u00f3n part\u00edo",
-      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 267826,
       "name": "Ciega, Sordomuda",
       "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 343413,
+      "name": "Coraz\u00f3n part\u00edo",
+      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
     },
     {
       "added_at": "2025-11-19 18:19:27",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
         "name": "Ella Baila Sola",
         "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Blank Space",
-      "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
     },
     {
       "added_at": "2025-11-19 18:19:27",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
         "name": "Con Altura",
         "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 161626,
       "name": "Con Altura",
       "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2025-11-19 18:19:27",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 139146,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
         "name": "Homerun",
         "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 178534,
       "name": "Por Eso Vine",
       "url": "https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 139146,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
     },
     {
       "added_at": "2025-11-19 18:19:27",

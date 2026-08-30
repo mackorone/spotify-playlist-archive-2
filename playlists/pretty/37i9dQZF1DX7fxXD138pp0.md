@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fxXD138pp0.md) - [plain]
 
 > Lo siento, pero mis bias si se topan\. 📸 Fuerza Regia
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,036 likes - 30 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,041 likes - 30 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

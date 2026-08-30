@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAB9fousGi/9dsT2YLf9BAfK",
+  "snapshot_id": "apDPgAAAAABxwYoPwJrnmcbQc47EwpgR",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Asi Hablamos en Tijuana",
-        "url": "https://open.spotify.com/album/1ZJdq8T70yjgAoQ5dq6t7Z"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 167223,
-      "name": "Asi Hablamos en Tijuana",
-      "url": "https://open.spotify.com/track/5yR0SsJoB4Z8ZnUU2DTOaU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cita Conmigo",
         "url": "https://open.spotify.com/album/2M4gAYg1NVtmuQ4m0I22tV"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 161000,
       "name": "Cita Conmigo",
       "url": "https://open.spotify.com/track/0UjIWUuqNWmWZPeysFtfsg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Asi Hablamos en Tijuana",
+        "url": "https://open.spotify.com/album/1ZJdq8T70yjgAoQ5dq6t7Z"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 167223,
+      "name": "Asi Hablamos en Tijuana",
+      "url": "https://open.spotify.com/track/5yR0SsJoB4Z8ZnUU2DTOaU"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mujeres de Alto Mando",
-        "url": "https://open.spotify.com/album/70gu3eMDc8pJy22GwJl1Ul"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 168400,
-      "name": "Mujeres de Alto Mando",
-      "url": "https://open.spotify.com/track/6oJozP9toHyPCTbQZqIWJg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Ya Sabemos",
         "url": "https://open.spotify.com/album/67CjEklPcdGxEU7N0cEc74"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 216166,
       "name": "Si Ya Sabemos",
       "url": "https://open.spotify.com/track/3oVsOCJklldPBdUBttee1O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mujeres de Alto Mando",
+        "url": "https://open.spotify.com/album/70gu3eMDc8pJy22GwJl1Ul"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 168400,
+      "name": "Mujeres de Alto Mando",
+      "url": "https://open.spotify.com/track/6oJozP9toHyPCTbQZqIWJg"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre la Guerra y el Amor",
-        "url": "https://open.spotify.com/album/4dGWpZzWmzh35ofyU6GqzO"
+        "name": "Sin \u00c9l",
+        "url": "https://open.spotify.com/album/5IXf6mhhYXL9Pv51E3DAMJ"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 178826,
-      "name": "Entre la Guerra y el Amor",
-      "url": "https://open.spotify.com/track/1EV0IQkQqklR3vPQhjW3cU"
+      "duration_ms": 193223,
+      "name": "Sin \u00c9l",
+      "url": "https://open.spotify.com/track/1zAV4lROpjgXQkqO1he6lI"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin \u00c9l",
-        "url": "https://open.spotify.com/album/5IXf6mhhYXL9Pv51E3DAMJ"
+        "name": "Entre la Guerra y el Amor",
+        "url": "https://open.spotify.com/album/4dGWpZzWmzh35ofyU6GqzO"
       },
       "artists": [
         {
@@ -420,25 +420,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 193223,
-      "name": "Sin \u00c9l",
-      "url": "https://open.spotify.com/track/1zAV4lROpjgXQkqO1he6lI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contundente",
-        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 221554,
-      "name": "Qu\u00e9 Tanto Es Tantito?",
-      "url": "https://open.spotify.com/track/5Qm6PxMTwB7KAz6BFnKhtJ"
+      "duration_ms": 178826,
+      "name": "Entre la Guerra y el Amor",
+      "url": "https://open.spotify.com/track/1EV0IQkQqklR3vPQhjW3cU"
     },
     {
       "added_at": null,
@@ -459,38 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 140662,
-      "name": "Pinocho",
-      "url": "https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Uno de los Buenos",
-        "url": "https://open.spotify.com/album/2AvHahqBPECo32t4COxfak"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 176768,
-      "name": "Uno de los Buenos",
-      "url": "https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contundente",
         "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
       },
@@ -503,22 +455,6 @@
       "duration_ms": 254003,
       "name": "Lo Que No Me Gusta",
       "url": "https://open.spotify.com/track/2XTJsfeUb2fDqaXoKoqjFg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Me Queda M\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/3hIJDpOqh6zItKT6qSRXao"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 201467,
-      "name": "No Me Queda M\u00e1s (En Vivo)",
-      "url": "https://open.spotify.com/track/4Zj0D44I1YGp4AKlaLSxB9"
     },
     {
       "added_at": null,
@@ -539,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Cigarra",
-        "url": "https://open.spotify.com/album/1tLktQp93a09iikH7GVb5t"
+        "name": "Uno de los Buenos",
+        "url": "https://open.spotify.com/album/2AvHahqBPECo32t4COxfak"
       },
       "artists": [
         {
@@ -548,9 +484,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 241726,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/7Bf08fFrNYt08PjCD3xsxb"
+      "duration_ms": 176768,
+      "name": "Uno de los Buenos",
+      "url": "https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b"
     },
     {
       "added_at": null,
@@ -571,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esa Hembra Es Mala (En Vivo)",
-        "url": "https://open.spotify.com/album/7FiCupAPcUBRsVnTKDUaUJ"
+        "name": "Contundente",
+        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
       },
       "artists": [
         {
@@ -580,9 +516,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 263807,
-      "name": "Esa Hembra Es Mala (En Vivo)",
-      "url": "https://open.spotify.com/track/6aOa9RIM1Jc0m9Ek1IUKgP"
+      "duration_ms": 221554,
+      "name": "Qu\u00e9 Tanto Es Tantito?",
+      "url": "https://open.spotify.com/track/5Qm6PxMTwB7KAz6BFnKhtJ"
     },
     {
       "added_at": null,
@@ -596,15 +532,15 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 200728,
-      "name": "Yo soy Buena Mujer",
-      "url": "https://open.spotify.com/track/5TPe8X3ngcYaglWrocitbz"
+      "duration_ms": 140662,
+      "name": "Pinocho",
+      "url": "https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L"
     },
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde El Master Q (En Vivo)",
-        "url": "https://open.spotify.com/album/3KyXJSMceOazb5KJs7vfYz"
+        "name": "No Me Queda M\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/3hIJDpOqh6zItKT6qSRXao"
       },
       "artists": [
         {
@@ -612,9 +548,25 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 167339,
-      "name": "Calidad (En Vivo)",
-      "url": "https://open.spotify.com/track/4VKJhvRnTiogp2jkHWuQ1q"
+      "duration_ms": 201467,
+      "name": "No Me Queda M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/4Zj0D44I1YGp4AKlaLSxB9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Cigarra",
+        "url": "https://open.spotify.com/album/1tLktQp93a09iikH7GVb5t"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 241726,
+      "name": "La Cigarra",
+      "url": "https://open.spotify.com/track/7Bf08fFrNYt08PjCD3xsxb"
     },
     {
       "added_at": null,
@@ -635,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sentimientos de Cart\u00f3n",
-        "url": "https://open.spotify.com/album/4z1gM4gFNKpYSSA13ATbZx"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 192818,
-      "name": "Sentimientos de Cart\u00f3n",
-      "url": "https://open.spotify.com/track/3XJadYsV0wGDjXB51gh6uY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Loter\u00eda",
         "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
@@ -660,15 +596,15 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 199582,
-      "name": "Si no vas a Volver para Quedarte",
-      "url": "https://open.spotify.com/track/270VW4EqAzP7tzliEmpmuq"
+      "duration_ms": 200728,
+      "name": "Yo soy Buena Mujer",
+      "url": "https://open.spotify.com/track/5TPe8X3ngcYaglWrocitbz"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Azules Reflejos (En Vivo)",
-        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
+        "name": "Esa Hembra Es Mala (En Vivo)",
+        "url": "https://open.spotify.com/album/7FiCupAPcUBRsVnTKDUaUJ"
       },
       "artists": [
         {
@@ -676,9 +612,25 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 207644,
-      "name": "Chapul\u00edn - En Vivo",
-      "url": "https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R"
+      "duration_ms": 263807,
+      "name": "Esa Hembra Es Mala - En Vivo",
+      "url": "https://open.spotify.com/track/6aOa9RIM1Jc0m9Ek1IUKgP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde El Master Q (En Vivo)",
+        "url": "https://open.spotify.com/album/3KyXJSMceOazb5KJs7vfYz"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 167339,
+      "name": "Calidad (En Vivo)",
+      "url": "https://open.spotify.com/track/4VKJhvRnTiogp2jkHWuQ1q"
     },
     {
       "added_at": null,
@@ -699,6 +651,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 199582,
+      "name": "Si no vas a Volver para Quedarte",
+      "url": "https://open.spotify.com/track/270VW4EqAzP7tzliEmpmuq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sentimientos de Cart\u00f3n",
+        "url": "https://open.spotify.com/album/4z1gM4gFNKpYSSA13ATbZx"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 192818,
+      "name": "Sentimientos de Cart\u00f3n",
+      "url": "https://open.spotify.com/track/3XJadYsV0wGDjXB51gh6uY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Bohemia (En Vivo)",
         "url": "https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 247737,
       "name": "Fuiste T\u00fa - En Vivo",
       "url": "https://open.spotify.com/track/5LbFRwae0FGQG8uQ8OcYA5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Azules Reflejos (En Vivo)",
+        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 207644,
+      "name": "Chapul\u00edn - En Vivo",
+      "url": "https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R"
     },
     {
       "added_at": null,
@@ -747,6 +747,38 @@
       "duration_ms": 137120,
       "name": "La Mejor Versi\u00f3n de Mi",
       "url": "https://open.spotify.com/track/51WdGGIKOxvlGZ7zIjxeGW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Bohemia (En Vivo)",
+        "url": "https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 242177,
+      "name": "Cielo Rojo - En Vivo",
+      "url": "https://open.spotify.com/track/39YoHBqfGPFxl8kN2xrqJe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ah\u00ed Va la Loca",
+        "url": "https://open.spotify.com/album/55RhyDsAQgggQohtZ8YLDs"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 203684,
+      "name": "Ah\u00ed Va la Loca",
+      "url": "https://open.spotify.com/track/6VCladFiLiyBBYeCRRZ4bD"
     },
     {
       "added_at": null,
@@ -791,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ah\u00ed Va la Loca",
-        "url": "https://open.spotify.com/album/55RhyDsAQgggQohtZ8YLDs"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 203684,
-      "name": "Ah\u00ed Va la Loca",
-      "url": "https://open.spotify.com/track/6VCladFiLiyBBYeCRRZ4bD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Desde Tijuana",
         "url": "https://open.spotify.com/album/115RR5wcAhaupZF8E3mlM8"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 186986,
       "name": "Le\u00f1a De Pirul",
       "url": "https://open.spotify.com/track/0lEyhGy7iaERlW7CdQ1zYj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Bohemia (En Vivo)",
-        "url": "https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 242177,
-      "name": "Cielo Rojo - En Vivo",
-      "url": "https://open.spotify.com/track/39YoHBqfGPFxl8kN2xrqJe"
     }
   ],
   "unique_name": "This Is Adriana R\u00edos",

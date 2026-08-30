@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > Unwind and relax to the soft sound of jazz piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,999 likes - 82 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,026 likes - 82 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 9 | [Everything Happens to Me](https://open.spotify.com/track/34n5jH1GILDlv376VLMmDm) | [Nimelle](https://open.spotify.com/artist/0rFMKPWPxL6DpWH4aFDDME) | [Everything Happens to Me](https://open.spotify.com/album/1YCNmU1CSAyVsrEzw7oSNz) | 2:42 |
 | 10 | [Blue Note](https://open.spotify.com/track/0BzOZXNa54CINFXZMmphbX) | [Russell Preston](https://open.spotify.com/artist/4NsaPckmCaT1Va19CbRqig) | [Blue Note](https://open.spotify.com/album/0sPWUFAwOne7o6330rZeP2) | 2:42 |
 | 11 | [Passing Time](https://open.spotify.com/track/7JCZMTeSLF2VgXGFSQxrS8) | [Miles Hartfield](https://open.spotify.com/artist/0rRnduLmaVVPR7hcsAectW) | [Passing Time](https://open.spotify.com/album/0Had12L7iHS4sg3ZH9INvc) | 2:04 |
-| 12 | [World Spinning](https://open.spotify.com/track/5jeCcXDCQ9Si433XSmb0Js) | [Alex Flynn](https://open.spotify.com/artist/64CqRzs6YJbEYzCHJWHXdF) | [World Spinning](https://open.spotify.com/album/6BRZGCg1sBoAaweLlbUdHh) | 2:19 |
-| 13 | [Tales of the night breeze](https://open.spotify.com/track/6anvx91Qu1k2zNABNIYDOK) | [Ilse Fisher](https://open.spotify.com/artist/2WWIVn4Edfmjx7pD5t4kPt) | [Tales of the night breeze](https://open.spotify.com/album/1aonWpWS7U4VY1nZU0k9Ch) | 3:02 |
+| 12 | [Tales of the night breeze](https://open.spotify.com/track/6anvx91Qu1k2zNABNIYDOK) | [Ilse Fisher](https://open.spotify.com/artist/2WWIVn4Edfmjx7pD5t4kPt) | [Tales of the night breeze](https://open.spotify.com/album/1aonWpWS7U4VY1nZU0k9Ch) | 3:02 |
+| 13 | [World Spinning](https://open.spotify.com/track/5jeCcXDCQ9Si433XSmb0Js) | [Alex Flynn](https://open.spotify.com/artist/64CqRzs6YJbEYzCHJWHXdF) | [World Spinning](https://open.spotify.com/album/6BRZGCg1sBoAaweLlbUdHh) | 2:19 |
 | 14 | [The Night Forgot Our Names](https://open.spotify.com/track/5AVnesv0aPqtiub0UmMjNw) | [Georg Harvester](https://open.spotify.com/artist/2w9g3qs7EAeQFeRC91BaBs) | [The Night Forgot Our Names](https://open.spotify.com/album/3flAwqL9DL2A1MpWb0UQo5) | 2:35 |
 | 15 | [Brooklyn Lights](https://open.spotify.com/track/6QZ8YKI12M3YxAI83hpERc) | [Seth Bluebird](https://open.spotify.com/artist/1DyC6srMJye16IeKdJYplZ) | [Brooklyn Lights](https://open.spotify.com/album/6D64hYWbeTBlzuy8BZmVda) | 2:13 |
 | 16 | [Soulfully](https://open.spotify.com/track/6ztls9EIQ5BtPOo2bbmQ3D) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Soulfully](https://open.spotify.com/album/1aiakRrbaOPZy5mr4dkZAf) | 2:58 |
@@ -64,21 +64,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 54 | [More than love](https://open.spotify.com/track/3fYzBnvEKKQdNWt18hUKSG) | [Laura Romano](https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8) | [More than love](https://open.spotify.com/album/7aQarAAHVveMNtKYqWHL4m) | 2:53 |
 | 55 | [Midnight on 5th Avenue](https://open.spotify.com/track/6qSZ4ntHZPh6FplkbDwOdv) | [Hans Bukowski](https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi) | [Midnight on 5th Avenue](https://open.spotify.com/album/5e3YlISXye6cegkORKd27J) | 3:00 |
 | 56 | [A Touch of Kindness](https://open.spotify.com/track/30Ts0oF1ycdLf7hxQCD1sF) | [Johnny Blackwood](https://open.spotify.com/artist/0Cp7RkxzaI0pJm1GvYHuSe) | [A Touch of Kindness](https://open.spotify.com/album/3bUEwUGZO7l2nr4WPZwwx3) | 2:16 |
-| 57 | [Skógafoss](https://open.spotify.com/track/0yGxX6e3dXHreh1YXjQJxs) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Skógafoss](https://open.spotify.com/album/6mYArGcIpsQxuUXvVQ03qK) | 3:21 |
-| 58 | [Moonlit Moods](https://open.spotify.com/track/1l3zd90ouLAM4yEwmRSQUK) | [Lecce Mchano](https://open.spotify.com/artist/0KHaLdxI5krYRoJtHFlLbR) | [Moonlit Moods](https://open.spotify.com/album/75mZ4x4uJIz5pdvOpvdjls) | 2:12 |
+| 57 | [Moonlit Moods](https://open.spotify.com/track/1l3zd90ouLAM4yEwmRSQUK) | [Lecce Mchano](https://open.spotify.com/artist/0KHaLdxI5krYRoJtHFlLbR) | [Moonlit Moods](https://open.spotify.com/album/75mZ4x4uJIz5pdvOpvdjls) | 2:12 |
+| 58 | [Skógafoss](https://open.spotify.com/track/0yGxX6e3dXHreh1YXjQJxs) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Skógafoss](https://open.spotify.com/album/6mYArGcIpsQxuUXvVQ03qK) | 3:21 |
 | 59 | [No More Talk](https://open.spotify.com/track/2a2BJiTnJrD0qnf6FtbiMW) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [No More Talk](https://open.spotify.com/album/6NB7QDJfD9DbmkoHKrSwA0) | 2:42 |
 | 60 | [Heart And Soul](https://open.spotify.com/track/5PNaAhQXH46UU7YjM0dpKs) | [Randall Peterson](https://open.spotify.com/artist/7zzSNdjam1c2HhMOElF140) | [Heart And Soul](https://open.spotify.com/album/35EC2QYo6vOT7gg7FAaRd4) | 3:13 |
 | 61 | [It's Probably True](https://open.spotify.com/track/5IyPuOrKPiLirp64hEfvG5) | [Kim Lawrence](https://open.spotify.com/artist/6uRFzRVkhIKxnOohUy45N4) | [It's Probably True](https://open.spotify.com/album/0Txq2OlEdEfyh8eUXpuPz7) | 2:52 |
-| 62 | [For One Night Only](https://open.spotify.com/track/0HOhMMTzxpW8xygjVSxgpt) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [For One Night Only](https://open.spotify.com/album/0XXtHDAZ0LARMC649OzMap) | 2:45 |
-| 63 | [Our Last Night](https://open.spotify.com/track/1kn5wHyoMHdVWG7nGfK4uq) | [Lecce Mchano](https://open.spotify.com/artist/0KHaLdxI5krYRoJtHFlLbR) | [Our Last Night](https://open.spotify.com/album/0MWb0DUPUyt6bMaRWbPDSs) | 2:28 |
-| 64 | [Be Calm My Friend](https://open.spotify.com/track/1if9t68jDrFkOqFyrAKHVz) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [Be Calm My Friend](https://open.spotify.com/album/07deTUhd4hd0QK8DBnhgCW) | 3:17 |
-| 65 | [Glimpses](https://open.spotify.com/track/0VnkjcBfivHlr8mVOUBhJd) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Glimpses](https://open.spotify.com/album/648vxZjA8JRJ27UqggddM3) | 2:43 |
-| 66 | [A clear sky](https://open.spotify.com/track/1DSNkvCQFJEIgVpiuzwmTN) | [Leah Lambert](https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4) | [A Clear Sky](https://open.spotify.com/album/3X6zukY7hjJlhMW4TcbxFY) | 2:50 |
-| 67 | [A Few Horizons](https://open.spotify.com/track/2s2stQDViffflCkrdkC8MD) | [Harper Avery](https://open.spotify.com/artist/6wkcjnTRQKVK4YoRcWgy8L) | [A Few Horizons](https://open.spotify.com/album/4mx4n0shq5AdIy5TfFNaGP) | 2:20 |
+| 62 | [Our Last Night](https://open.spotify.com/track/1kn5wHyoMHdVWG7nGfK4uq) | [Lecce Mchano](https://open.spotify.com/artist/0KHaLdxI5krYRoJtHFlLbR) | [Our Last Night](https://open.spotify.com/album/0MWb0DUPUyt6bMaRWbPDSs) | 2:28 |
+| 63 | [For One Night Only](https://open.spotify.com/track/0HOhMMTzxpW8xygjVSxgpt) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [For One Night Only](https://open.spotify.com/album/0XXtHDAZ0LARMC649OzMap) | 2:45 |
+| 64 | [Glimpses](https://open.spotify.com/track/0VnkjcBfivHlr8mVOUBhJd) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Glimpses](https://open.spotify.com/album/648vxZjA8JRJ27UqggddM3) | 2:43 |
+| 65 | [Be Calm My Friend](https://open.spotify.com/track/1if9t68jDrFkOqFyrAKHVz) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [Be Calm My Friend](https://open.spotify.com/album/07deTUhd4hd0QK8DBnhgCW) | 3:17 |
+| 66 | [A Few Horizons](https://open.spotify.com/track/2s2stQDViffflCkrdkC8MD) | [Harper Avery](https://open.spotify.com/artist/6wkcjnTRQKVK4YoRcWgy8L) | [A Few Horizons](https://open.spotify.com/album/4mx4n0shq5AdIy5TfFNaGP) | 2:20 |
+| 67 | [A clear sky](https://open.spotify.com/track/1DSNkvCQFJEIgVpiuzwmTN) | [Leah Lambert](https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4) | [A Clear Sky](https://open.spotify.com/album/3X6zukY7hjJlhMW4TcbxFY) | 2:50 |
 | 68 | [Here with Me](https://open.spotify.com/track/1Ea4Xe2SCtPJmdeJk4bI17) | [Jakob Schröder](https://open.spotify.com/artist/2bZm8QiZFS3VRCfRqVP5kE) | [Here with Me](https://open.spotify.com/album/5zn6x74Z6tctMhmWTHBxHf) | 3:17 |
 | 69 | [Last thought](https://open.spotify.com/track/4NxOiE9mgIrdo3aCyD0vCi) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [Last thought](https://open.spotify.com/album/3xJcKbBZtAWKeSEOOeLDAe) | 2:49 |
-| 70 | [Drift Away](https://open.spotify.com/track/70bHt1pbqpofJt4JaP6TUD) | [Nova Blanche](https://open.spotify.com/artist/5jiNBpPFvATaOvPifxoOGf) | [Drift Away](https://open.spotify.com/album/76BJgGibNh2LYqQfZETaQR) | 2:45 |
-| 71 | [Right Up](https://open.spotify.com/track/4fxc65XRk6q6EfUpdhBTP3) | [Montenegro Garner](https://open.spotify.com/artist/0jEJWpBlQoEGME65oJi0ms) | [Right Up](https://open.spotify.com/album/1bh9rnAoHm9lRBzsZJy74i) | 3:12 |
+| 70 | [Right Up](https://open.spotify.com/track/4fxc65XRk6q6EfUpdhBTP3) | [Montenegro Garner](https://open.spotify.com/artist/0jEJWpBlQoEGME65oJi0ms) | [Right Up](https://open.spotify.com/album/1bh9rnAoHm9lRBzsZJy74i) | 3:12 |
+| 71 | [Drift Away](https://open.spotify.com/track/70bHt1pbqpofJt4JaP6TUD) | [Nova Blanche](https://open.spotify.com/artist/5jiNBpPFvATaOvPifxoOGf) | [Drift Away](https://open.spotify.com/album/76BJgGibNh2LYqQfZETaQR) | 2:45 |
 | 72 | [Says Nothing](https://open.spotify.com/track/6OmanS9tVYUZhYdOOlbowM) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [Says Nothing](https://open.spotify.com/album/1SkzCnyBGWs8cw3MESTZ9m) | 2:44 |
 | 73 | [Staying for Tomorrow](https://open.spotify.com/track/61MUfbGgxhdkzlVlgx2ur3) | [Hveiti Brauo](https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK) | [Staying for Tomorrow](https://open.spotify.com/album/4nACEscwiD9bixym2zCTmc) | 3:23 |
 | 74 | [I'm Coming Home](https://open.spotify.com/track/2HcSR6uNSe18KXGrHEG3Oi) | [Trey Patton](https://open.spotify.com/artist/16YBPq22nB5oyX5exXWfSn) | [I'm Coming Home](https://open.spotify.com/album/3KqaOrhsc00OigqSepxDUT) | 2:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > i just want a bit of your unlimited love
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,927 likes - 115 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,042 likes - 115 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 82 | [let's not take it too far](https://open.spotify.com/track/6rpXZwtkQbcr13yfZMvmot) | [noaa!](https://open.spotify.com/artist/2wsxJN6r2WeTwSpDqeH4ag) | [let's not take it too far](https://open.spotify.com/album/0PmZ66FsrVABaqVzjgGIcK) | 2:31 |
 | 83 | [Bounce](https://open.spotify.com/track/5HVJP7mmAjZ5NyMpA6nSas) | [Tommy Fleece](https://open.spotify.com/artist/4vv1Y8dwByLcOJ8Wdsxrfg) | [Bounce](https://open.spotify.com/album/2h9BYQl9c0oxsxwkvh5OIl) | 2:00 |
 | 84 | [wakeup\(crazy\)](https://open.spotify.com/track/3IR1kOzcLjPbSipZyp1o30) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Angst](https://open.spotify.com/artist/1nFcEfO5iLptFlrBCiDztw) | [wakeup\(crazy\)](https://open.spotify.com/album/7lm1i1YAKTD4La9WRkGXak) | 3:15 |
-| 85 | [ELECTRIC \(Olswel Remix\)](https://open.spotify.com/track/4w77ahaIzhDDF26LDsxsQ2) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Olswel](https://open.spotify.com/artist/5aFfTz3PUiklCHbgz2Aylb) | [ELECTRIC \(Olswel Remix\)](https://open.spotify.com/album/4qP9LMu4FrAj47XeKGArxo) | 3:41 |
+| 85 | [ELECTRIC \- Olswel Remix](https://open.spotify.com/track/4w77ahaIzhDDF26LDsxsQ2) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Olswel](https://open.spotify.com/artist/5aFfTz3PUiklCHbgz2Aylb) | [ELECTRIC \(Olswel Remix\)](https://open.spotify.com/album/4qP9LMu4FrAj47XeKGArxo) | 3:41 |
 | 86 | [front row](https://open.spotify.com/track/4tx4UcIntYBpKS5OOoT4Iu) | [whyhaze](https://open.spotify.com/artist/4QqnuHKfpTHncKt0om35AE) | [front row](https://open.spotify.com/album/3OKlAffdLNrxzLMbLD3DGy) | 1:57 |
 | 87 | [8](https://open.spotify.com/track/4T0cCAE96WqdubcRDKUBEt) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [8 forever](https://open.spotify.com/album/4xleBs30XxZmR5VHSbDnVA) | 2:06 |
 | 88 | [The Troubles](https://open.spotify.com/track/7tqpFCQNkitXkddXaPHYwc) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [The Troubles](https://open.spotify.com/album/6xXCPQaky7QKVnJea96Nl1) | 1:56 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 96 | [Missing](https://open.spotify.com/track/5H2Y0X0FN3vMt4lRvdi5dJ) | [Ethanplus](https://open.spotify.com/artist/6BjkYyzfLLbbHn8SBpjh6s) | [Missing](https://open.spotify.com/album/63z2McWDqC8jLc2vFNZIBW) | 1:48 |
 | 97 | [START OVER](https://open.spotify.com/track/23iKYWszFScsU02y1HJb92) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [START OVER](https://open.spotify.com/album/6JzeTEulNDFMqji6Jq6JY4) | 2:50 |
 | 98 | [Enjoy Yourself \- very cool tutorials Remix](https://open.spotify.com/track/7MVgoiNaYhQaQmkEfzdGU6) | [berryblue](https://open.spotify.com/artist/7LwsFYi5ugJCKFsXmMVyua), [very cool tutorials](https://open.spotify.com/artist/15AcC9c53zJObzwpvgY5yO) | [Enjoy Yourself \(very cool tutorials Remix\)](https://open.spotify.com/album/6E1ZtxNZe5CjMni64qIfHF) | 2:42 |
-| 99 | [Do It \(Yves Remix\)](https://open.spotify.com/track/27v8QdBidbC5idqWHqPBBj) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Do It \(Yves Remix\)](https://open.spotify.com/album/0GuK2xpYuOvNbFqhRuSRa3) | 3:17 |
+| 99 | [Do It \- Yves Remix](https://open.spotify.com/track/27v8QdBidbC5idqWHqPBBj) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Do It \(Yves Remix\)](https://open.spotify.com/album/0GuK2xpYuOvNbFqhRuSRa3) | 3:17 |
 | 100 | [4me?](https://open.spotify.com/track/1V57UV83BZdTSR1N0Nd8cI) | [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [4me?](https://open.spotify.com/album/0Y8iEEG9eYOq6saas4yZYD) | 2:27 |
 | 101 | [Sojourn](https://open.spotify.com/track/3xXJHuTxbSF69tfqg061iT) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Piss In The Wind](https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT) | 2:56 |
 | 102 | [LoveKGirls \- + dj g2g & PZZS in the club remix](https://open.spotify.com/track/50EaFn7229y7hVF51avRuj) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [dj g2g](https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL), [Mega Mongoliad](https://open.spotify.com/artist/6xHMrHVijOcbhaRLAMnCLT), [PZZS](https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF) | [alliWantforXMASisurRemix](https://open.spotify.com/album/2u4oWCijaOyc94QtYXMqoY) | 2:59 |

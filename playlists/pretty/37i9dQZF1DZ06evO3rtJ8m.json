@@ -1,12 +1,12 @@
 {
   "description": "This is Big Thief. The essential tracks, all in one playlist.",
-  "num_followers": 47671,
+  "num_followers": 47682,
   "original_name": "This Is Big Thief",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAB9+NOSOMh6vqP11RrQl+LR",
+  "snapshot_id": "apDPgAAAAAAgR8NlJqofid9bqWPyiaXH",
   "tracks": [
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two Hands",
-        "url": "https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo"
+        "name": "Masterpiece (2023 Remaster)",
+        "url": "https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 211560,
-      "name": "Forgotten Eyes",
-      "url": "https://open.spotify.com/track/3uVlbYb1nUwwcYziaJk9LD"
+      "duration_ms": 139256,
+      "name": "Vegas - 2023 Remaster",
+      "url": "https://open.spotify.com/track/2KgWGc5KgyNS0scSS6KLmJ"
     },
     {
       "added_at": null,
@@ -427,54 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Masterpiece (2023 Remaster)",
-        "url": "https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 139256,
-      "name": "Vegas - 2023 Remaster",
-      "url": "https://open.spotify.com/track/2KgWGc5KgyNS0scSS6KLmJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "U.F.O.F.",
-        "url": "https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 188413,
-      "name": "UFOF",
-      "url": "https://open.spotify.com/track/3Hbwbuk3ChdUf7M6Cn7uQB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Capacity",
-        "url": "https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 330106,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/67bAFRTpTgZU00FUUEhvKE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Two Hands",
         "url": "https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo"
       },
@@ -484,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 232466,
-      "name": "Two Hands",
-      "url": "https://open.spotify.com/track/75Y8OgF0HypPrCKcbYu3no"
+      "duration_ms": 211560,
+      "name": "Forgotten Eyes",
+      "url": "https://open.spotify.com/track/3uVlbYb1nUwwcYziaJk9LD"
     },
     {
       "added_at": null,
@@ -507,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "U.F.O.F.",
-        "url": "https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 210306,
-      "name": "Orange",
-      "url": "https://open.spotify.com/track/4xaVx8jb12zUS6l2Ckx6nW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Capacity",
         "url": "https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd"
       },
@@ -532,9 +468,25 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 184600,
-      "name": "Pretty Things",
-      "url": "https://open.spotify.com/track/31AqPCVn9DPDiq4IfBU6WG"
+      "duration_ms": 330106,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/67bAFRTpTgZU00FUUEhvKE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "U.F.O.F.",
+        "url": "https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 188413,
+      "name": "UFOF",
+      "url": "https://open.spotify.com/track/3Hbwbuk3ChdUf7M6Cn7uQB"
     },
     {
       "added_at": null,
@@ -548,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 123320,
-      "name": "Rock and Sing",
-      "url": "https://open.spotify.com/track/5kfH55pli3gCkprV3OJerd"
+      "duration_ms": 232466,
+      "name": "Two Hands",
+      "url": "https://open.spotify.com/track/75Y8OgF0HypPrCKcbYu3no"
     },
     {
       "added_at": null,
@@ -571,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Capacity",
+        "url": "https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 184600,
+      "name": "Pretty Things",
+      "url": "https://open.spotify.com/track/31AqPCVn9DPDiq4IfBU6WG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "U.F.O.F.",
         "url": "https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP"
       },
@@ -580,9 +548,25 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 227533,
-      "name": "Open Desert",
-      "url": "https://open.spotify.com/track/79GNPyz34aVNeAZXXVlrLv"
+      "duration_ms": 210306,
+      "name": "Orange",
+      "url": "https://open.spotify.com/track/4xaVx8jb12zUS6l2Ckx6nW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Two Hands",
+        "url": "https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 123320,
+      "name": "Rock and Sing",
+      "url": "https://open.spotify.com/track/5kfH55pli3gCkprV3OJerd"
     },
     {
       "added_at": null,
@@ -599,22 +583,6 @@
       "duration_ms": 172484,
       "name": "Breathe in My Lungs",
       "url": "https://open.spotify.com/track/6sSlJJp9lHRL1tPY1QEUmB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Two Hands",
-        "url": "https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 282320,
-      "name": "Wolf",
-      "url": "https://open.spotify.com/track/5dW8gOPZsZRQOzjdmcOREc"
     },
     {
       "added_at": null,
@@ -648,9 +616,25 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 187306,
-      "name": "Century",
-      "url": "https://open.spotify.com/track/5VgHyTScSLqpTai6oQjird"
+      "duration_ms": 227533,
+      "name": "Open Desert",
+      "url": "https://open.spotify.com/track/79GNPyz34aVNeAZXXVlrLv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Two Hands",
+        "url": "https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 282320,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/5dW8gOPZsZRQOzjdmcOREc"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
       "duration_ms": 198280,
       "name": "Love In Mine",
       "url": "https://open.spotify.com/track/5KK4WRj0kYRJatZN3lEG52"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "U.F.O.F.",
+        "url": "https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Century",
+      "url": "https://open.spotify.com/track/5VgHyTScSLqpTai6oQjird"
     },
     {
       "added_at": null,

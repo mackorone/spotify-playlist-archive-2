@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,861 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,928 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,21 +92,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 82 | [No Creo](https://open.spotify.com/track/3AatxyEZQLtJ06Q3iFnKEQ) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [No Creo](https://open.spotify.com/album/5UJHiUjGUoCV5fGKo3QjWZ) | 3:37 |
 | 83 | [ETERNIDAD](https://open.spotify.com/track/4mM6PM85CSGiRNj7y8fOFD) | [Daren](https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP), [Jorge Cuellar](https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB) | [ETERNIDAD](https://open.spotify.com/album/6uTbojuC06kCClkCESJQWQ) | 2:55 |
 | 84 | [Te Vas A Recordar](https://open.spotify.com/track/7uEruRFEeMn57hrmZhA4w5) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Te Vas A Recordar](https://open.spotify.com/album/1toqZv5ko57peyVVpYJFvo) | 2:34 |
-| 85 | [SI QUIERES ME VOY](https://open.spotify.com/track/4mH1PguBBoWaIzqRle0NVv) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [AMAR TE DUELE](https://open.spotify.com/album/5nYI4FLiWm1kwCKkwbX2BL) | 3:31 |
-| 86 | [Amor De Cuentos](https://open.spotify.com/track/3bV4QB5JZAueeyo9W2EEWr) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [Proximo Paso](https://open.spotify.com/album/6MwNDzZOVY9vcbhyqfJKuc) | 2:43 |
+| 85 | [Amor De Cuentos](https://open.spotify.com/track/3bV4QB5JZAueeyo9W2EEWr) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [Proximo Paso](https://open.spotify.com/album/6MwNDzZOVY9vcbhyqfJKuc) | 2:43 |
+| 86 | [SI QUIERES ME VOY](https://open.spotify.com/track/4mH1PguBBoWaIzqRle0NVv) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [AMAR TE DUELE](https://open.spotify.com/album/5nYI4FLiWm1kwCKkwbX2BL) | 3:31 |
 | 87 | [Verbo](https://open.spotify.com/track/6THdoQ84J4S3JArCVfLMmj) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [Verbo](https://open.spotify.com/album/69wDGyvBsPJX6pd9miTEXp) | 2:48 |
 | 88 | [Vestido Negro](https://open.spotify.com/track/5nkK1Ndk8f2tE7l7MRDjyh) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5) | [Vestido Negro](https://open.spotify.com/album/34VSDhNg7x8hHOkVxPzaVO) | 3:17 |
 | 89 | [Amor Con Detalle](https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Fases del Amor](https://open.spotify.com/album/3J1EDYS7W0KkhrLPrBMNy5) | 3:36 |
 | 90 | [Aqui Nadie Va Llorar](https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Aqui Nadie Va Llorar](https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq) | 3:15 |
 | 91 | [Vete Ya](https://open.spotify.com/track/68KxNaYseDqDC1xlTSbLL0) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vete Ya](https://open.spotify.com/album/3YLjdhKEcFnwrQve9vVaOY) | 2:37 |
-| 92 | [Sin Ti](https://open.spotify.com/track/2beqL6C5zRet6fXvSXhXPz) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [Sin Ti](https://open.spotify.com/album/64AKuMd5pjsKwBtvWeEhx4) | 2:40 |
-| 93 | [Tu Nueva Etapa](https://open.spotify.com/track/4qesrlnBKu1ZTSiJImSHzS) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl), [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Tu Nueva Etapa](https://open.spotify.com/album/5wN5T8lbSVU6Y1CBZMNid1) | 2:55 |
-| 94 | [Sal De Mi Mente](https://open.spotify.com/track/7atCMUpKf4UyJPDJiKHnbk) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Sal De Mi Mente](https://open.spotify.com/album/2phpqidiCvEWZx7aVgMQdM) | 2:55 |
+| 92 | [Tu Nueva Etapa](https://open.spotify.com/track/4qesrlnBKu1ZTSiJImSHzS) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl), [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Tu Nueva Etapa](https://open.spotify.com/album/5wN5T8lbSVU6Y1CBZMNid1) | 2:55 |
+| 93 | [Sal De Mi Mente](https://open.spotify.com/track/7atCMUpKf4UyJPDJiKHnbk) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Sal De Mi Mente](https://open.spotify.com/album/2phpqidiCvEWZx7aVgMQdM) | 2:55 |
+| 94 | [Sin Ti](https://open.spotify.com/track/2beqL6C5zRet6fXvSXhXPz) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [Sin Ti](https://open.spotify.com/album/64AKuMd5pjsKwBtvWeEhx4) | 2:40 |
 | 95 | [Otra Vez](https://open.spotify.com/track/7CdoGE5Kprr9nFiYLMivrf) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Otra Vez](https://open.spotify.com/album/3KJQfNQxV6Nrncg7UXoKt9) | 4:06 |
 | 96 | [Sigues Siendo Tu \- En vivo](https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 5 \(En vivo\)](https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7) | 3:35 |
 | 97 | [SAD EYES](https://open.spotify.com/track/3ApV2EqK706aKHyiaq8gLY) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [SILENCIO HABLA](https://open.spotify.com/album/0RwAGxwkMubOZcfmvUMFoS) | 3:32 |
 | 98 | [Y Que Voy Hacer](https://open.spotify.com/track/5VuCkeLxzPmjMfdRsHhox8) | [Agushto Papa](https://open.spotify.com/artist/1v04yGSzSyXhmxR1SD5hfS), [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Agushto Papa Presents: Hidden Gems Vol\. 1](https://open.spotify.com/album/1YZjlOb4atenIItM3ljEyC) | 2:58 |
-| 99 | [772 Love \- Remix](https://open.spotify.com/track/2LfiTqcOuH5o4TfIOCuGX3) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Vanesita](https://open.spotify.com/artist/35VZmpEAaX3Z8UP8Mps5sm) | [772 Love \(Remix\)](https://open.spotify.com/album/3JtQYgtu4EWsuFk3tCbQOY) | 3:12 |
-| 100 | [Te Juro Jamás](https://open.spotify.com/track/5L5AYy2Vh2QeWDbJm5Tm4I) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Te Juro Jamás](https://open.spotify.com/album/7qmbZJx55TMAJgQblzEa5x) | 3:00 |
+| 99 | [La Neta](https://open.spotify.com/track/6KLCHorfObfTNApurEUdAq) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [La Neta](https://open.spotify.com/album/1TQtXw5mgUBjaYx73KXSap) | 2:17 |
+| 100 | [772 Love \- Remix](https://open.spotify.com/track/2LfiTqcOuH5o4TfIOCuGX3) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Vanesita](https://open.spotify.com/artist/35VZmpEAaX3Z8UP8Mps5sm) | [772 Love \(Remix\)](https://open.spotify.com/album/3JtQYgtu4EWsuFk3tCbQOY) | 3:12 |
 
 Snapshot ID: `AAAAAJqxGEKjiZTlb7o7vwxa0caZx/DM`

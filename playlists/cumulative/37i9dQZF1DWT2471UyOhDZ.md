@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Westside Cowboy
 
-509 songs - 1 day 8 hr 46 min
+510 songs - 1 day 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,12 +425,13 @@
 | [Taxi Man](https://open.spotify.com/track/2yyQJXCYvxndsR8UXmG5Ow) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [Taxi Man](https://open.spotify.com/album/2tZAU1L7wW2jlRvimsZdNi) | 4:15 | 2025-01-31 | 2025-02-02 |
 | [Teachers](https://open.spotify.com/track/0XFPAjBsHwYeMnMfYeTGr4) | [Ed O'Brien](https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE) | [Blue Morpho](https://open.spotify.com/album/6U0M6Tp6DMGduBdp5rVzqe) | 5:18 | 2026-06-12 |  |
 | [teeth](https://open.spotify.com/track/5RVajwoNIYW0zPt8PqS71y) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this old house](https://open.spotify.com/album/1QWJ3ijFhCMroSOOAR61Qf) | 5:04 | 2024-06-14 | 2024-07-20 |
-| [Television Love](https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Television Love](https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0) | 4:40 | 2025-07-03 |  |
+| [Television Love](https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Television Love](https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0) | 4:40 | 2025-07-03 | 2026-08-30 |
 | [That Golden Time](https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6) | 4:50 | 2024-06-14 | 2024-08-01 |
 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 | 2024-08-14 | 2025-10-24 |
 | [The Banjo Song](https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [The Banjo Song](https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn) | 3:49 | 2026-01-12 |  |
 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 | 2024-06-14 | 2025-05-24 |
 | [The Best Tears of Your Life](https://open.spotify.com/track/0HELrIzuk3GhtxoGkYrZfa) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:28 | 2024-06-14 | 2025-02-16 |
+| [The Cherry Farm](https://open.spotify.com/track/5k8tcbz1dQUyCcP2GlVRwY) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [The Cherry Farm](https://open.spotify.com/album/5IsfijJGDAIof1NXts7gAq) | 2:58 | 2026-08-28 |  |
 | [The Ever After](https://open.spotify.com/track/5kop1pa4mJso9v6Uz9wvNf) | [James Ellis Ford](https://open.spotify.com/artist/4rzx4iwzF4sCJns8pelK55) | [The Ever After](https://open.spotify.com/album/6mlnFCmVsUFI9ZeAesrogh) | 5:18 | 2026-07-31 | 2026-08-21 |
 | [The Fall](https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT) | [THEATRE](https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc) | [The Fall](https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx) | 4:19 | 2026-04-30 |  |
 | [The Fun Of It](https://open.spotify.com/track/0sZiA8PyKTcp1uijfYKE7l) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h), [Andreya Casablanca](https://open.spotify.com/artist/7Kvs0jEg9fdQfAnM8ITyUa) | [The Fun Of It](https://open.spotify.com/album/5GGexOrSca2hpeBUXgdj3K) | 3:37 | 2024-10-06 | 2024-10-16 |

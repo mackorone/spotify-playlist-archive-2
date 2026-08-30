@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 24355,
+  "num_followers": 24361,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABMsptRnn4xacZLr2X9sG1p",
+  "snapshot_id": "apDPgAAAAACxSycRlMnbmfOkohqlSLaH",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Shame Is True (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 168773,
-      "name": "She Lied To The FBI",
-      "url": "https://open.spotify.com/track/3rQWKxOJtn2EXr6j3KfHdO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Mourning",
         "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 171200,
       "name": "We've Had Enough",
       "url": "https://open.spotify.com/track/7HiVHdZfH5zK9pNttg9yX2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 168773,
+      "name": "She Lied To The FBI",
+      "url": "https://open.spotify.com/track/3rQWKxOJtn2EXr6j3KfHdO"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleeding Out",
-        "url": "https://open.spotify.com/album/4yKCLT3LpFkIurLQzGyVsO"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 181016,
-      "name": "Bleeding Out",
-      "url": "https://open.spotify.com/track/77XAAsMujIEoEVpRhsYIEK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Mourning",
         "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 207973,
       "name": "Continental",
       "url": "https://open.spotify.com/track/5ZAi4uu4ECJBivRPD937WB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bleeding Out",
+        "url": "https://open.spotify.com/album/4yKCLT3LpFkIurLQzGyVsO"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 181016,
+      "name": "Bleeding Out",
+      "url": "https://open.spotify.com/track/77XAAsMujIEoEVpRhsYIEK"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 240213,
+      "name": "All on Black",
+      "url": "https://open.spotify.com/track/3bW28EUV2h0gBv0hCIdMYH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Agony & Irony (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 240760,
       "name": "I Found Away",
       "url": "https://open.spotify.com/track/3ylngIyRJLoXVFxJr5xnW3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Mourning",
-        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 240213,
-      "name": "All on Black",
-      "url": "https://open.spotify.com/track/3bW28EUV2h0gBv0hCIdMYH"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe I'll Catch Fire",
-        "url": "https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK"
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
       },
       "artists": [
         {
@@ -749,8 +749,8 @@
         }
       ],
       "duration_ms": 187480,
-      "name": "Maybe I'll Catch Fire",
-      "url": "https://open.spotify.com/track/1SAu5cfWXQPqd3CppSkhWA"
+      "name": "I Wanna Be A Warhol",
+      "url": "https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Shame Is True (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+        "name": "Maybe I'll Catch Fire",
+        "url": "https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK"
       },
       "artists": [
         {
@@ -781,8 +781,8 @@
         }
       ],
       "duration_ms": 187480,
-      "name": "I Wanna Be A Warhol",
-      "url": "https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6"
+      "name": "Maybe I'll Catch Fire",
+      "url": "https://open.spotify.com/track/1SAu5cfWXQPqd3CppSkhWA"
     },
     {
       "added_at": null,

@@ -3720,7 +3720,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -9615,6 +9615,24 @@
     },
     {
       "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199166,
+      "name": "FALLEN ANGEL",
+      "url": "https://open.spotify.com/track/75QkBCdRc5DGgcyPiVSg4b"
+    },
+    {
+      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt"
       },
@@ -12544,6 +12562,24 @@
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
+    },
+    {
+      "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186720,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO"
     },
     {
       "album": {
@@ -28082,7 +28118,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -28100,7 +28136,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -30292,7 +30328,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 187973,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
@@ -31570,7 +31606,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"
@@ -33214,7 +33250,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 305626,
       "name": "Zombie - 2025 Remastered",
       "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr"

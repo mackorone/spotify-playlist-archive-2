@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wqhGxxo3uL.md) - [plain]
 
 > hairbrush as a microphone type songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,301 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,325 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wqhGxxo3uL.md) - [plain]
 | 45 | [All I Want](https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 2:57 |
 | 46 | [Bejeweled](https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 |
 | 47 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 |
-| 48 | [Thumbs](https://open.spotify.com/track/6WC5fhc9XMaCrUNKNjm9xE) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [EVOLution](https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R) | 3:36 |
-| 49 | [Really Don't Care](https://open.spotify.com/track/5vTPxzm4h2bY9rYyVrGEU5) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:21 |
+| 48 | [Really Don't Care](https://open.spotify.com/track/5vTPxzm4h2bY9rYyVrGEU5) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:21 |
+| 49 | [Thumbs](https://open.spotify.com/track/6WC5fhc9XMaCrUNKNjm9xE) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [EVOLution](https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R) | 3:36 |
 | 50 | [Ready or Not](https://open.spotify.com/track/5xvUgoVED1F4mBu8FL0HaW) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 3:20 |
 | 51 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 |
 | 52 | [Shout Out to My Ex](https://open.spotify.com/track/0ErK6K0kYr0Ow2RkPMhmMs) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 4:06 |

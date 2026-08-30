@@ -4,7 +4,7 @@
 
 > This is The Kid LAROI\. The essential tracks, all in one playlist.
 
-107 songs - 4 hr 51 min
+108 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Reminds Me Of You](https://open.spotify.com/track/5YSHygGN9D0mID1NsVd5my) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Reminds Me Of You](https://open.spotify.com/album/16ilcI6xOgSh3Jd3bxF6MI) | 2:38 | 2023-12-18 |  |
 | [SHE DON'T NEED TO KNOW](https://open.spotify.com/track/4R6McrWJ5fpVuzsNwoukI9) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [SHE DON'T NEED TO KNOW](https://open.spotify.com/album/45oJTfBl4jrQ9nGCvYpksv) | 2:30 | 2025-08-31 |  |
 | [Shot For Me \- Spotify Singles](https://open.spotify.com/track/4rVpFdm9XDYC27qxJvjLRS) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Spotify Singles](https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy) | 1:57 | 2024-07-22 | 2025-09-10 |
+| [SLEEP](https://open.spotify.com/track/0eXJqGwphplL1PYYVMIMGj) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [SLEEP](https://open.spotify.com/album/62VWUx1DkN9FBe4WGKBiOG) | 2:31 | 2026-08-30 |  |
 | [SLOW IT DOWN](https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [SLOW IT DOWN](https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN) | 2:22 | 2024-11-17 | 2026-01-04 |
 | [SO DONE](https://open.spotify.com/track/5YnxnTS89l3FElIwfIAeSs) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:06 | 2023-12-18 |  |
 | [SORRY](https://open.spotify.com/track/1pF83Xsd9JUGJukVAfwLV5) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 3:12 | 2024-09-29 | 2024-10-12 |
@@ -104,7 +105,7 @@
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-12-18 |  |
 | [TRAGIC \(feat\. Youngboy Never Broke Again & Internet Money\)](https://open.spotify.com/track/6ilmDtTR9yGrZCIOnMLNQy) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:33 | 2023-12-18 | 2025-07-21 |
 | [Unstable \(feat\. The Kid LAROI\)](https://open.spotify.com/track/137mSruegm1u6x9NvwiagR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:38 | 2023-12-18 |  |
-| [Wasting Angels \(with The Kid LAROI\)](https://open.spotify.com/track/2OcSE0EXzgUuqkM1NIJPHJ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 4:03 | 2023-12-18 |  |
+| [Wasting Angels \(with The Kid LAROI\)](https://open.spotify.com/track/2OcSE0EXzgUuqkM1NIJPHJ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 4:03 | 2023-12-18 | 2026-08-30 |
 | [WEAKEST FEELING](https://open.spotify.com/track/3oBaEcfWBNEBDP5UArDCxt) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET \(DELUXE\)](https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3) | 2:42 | 2026-04-26 |  |
 | [WHAT JUST HAPPENED](https://open.spotify.com/track/2djNsYsA71cIs4A8YaF59J) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [WHAT JUST HAPPENED](https://open.spotify.com/album/5cFhETbBm8L6tybXY4AZSj) | 2:42 | 2023-12-18 | 2023-12-21 |
 | [WHAT JUST HAPPENED](https://open.spotify.com/track/4dHLZ0bs1Xzue1xAxg9v15) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:42 | 2023-12-20 | 2026-05-10 |

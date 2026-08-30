@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXX3HHYIWJwh.md) - [plain]
 
 > ホームパーティーを楽しむためのプレイリスト。女子会、ガールズナイトのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,486 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,484 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXX3HHYIWJwh.md) - [plain]
 | 35 | [Let you go](https://open.spotify.com/track/3NQJrSDeyKGmUVqjQmzSVq) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [HIROTO \(INI\)](https://open.spotify.com/artist/4K4TI6LdTWSKtRT3b7OC7m) | [Let you go](https://open.spotify.com/album/43L1TE2SrCQqFTPo44roFp) | 3:33 |
 | 36 | [SHEESH](https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:50 |
 | 37 | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD) | 3:32 |
-| 38 | [Lean In, Kiss Me](https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Lean In, Kiss Me](https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6) | 2:38 |
-| 39 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
+| 38 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
+| 39 | [Lean In, Kiss Me](https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Lean In, Kiss Me](https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6) | 2:38 |
 | 40 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 |
 | 41 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 |
 | 42 | [RUNWAY](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [RUNWAY](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 |

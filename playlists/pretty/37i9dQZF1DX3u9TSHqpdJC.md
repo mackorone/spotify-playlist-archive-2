@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best pop songs from new, independent artists as chosen by our editors\.  Cover: Lauren Juzang Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,273 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,289 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 23 | [hurt me](https://open.spotify.com/track/56hoNdnffCWzh1toUVDUfg) | [Maria Taktouk](https://open.spotify.com/artist/207Vgvsb7qqxajcD1LvWoL) | [MARIA](https://open.spotify.com/album/458xr5gXcZeM9PJCnvKL5U) | 2:59 |
 | 24 | [Hit & Run](https://open.spotify.com/track/0VoPr66RRMVRD2LLIuqzw2) | [Enola Bedard](https://open.spotify.com/artist/4FhVSiLEO4NPE3gZiaMg7Y) | [Rouge](https://open.spotify.com/album/3ck2ziXg7uIlJ8apM1neJ0) | 2:17 |
 | 25 | [CONCENTR888 \- MASH UP](https://open.spotify.com/track/1p34wjjCUCAuCXq9ssInnL) | [Jourdin Pauline](https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk) | [CONCENTR888 \(MASH UP\)](https://open.spotify.com/album/5dIYM3eTETtGXn6e9jH0OX) | 3:29 |
-| 26 | [kill switch](https://open.spotify.com/track/2lvz3o16FUDuGOQyr83Afm) | [Sophia Willingham](https://open.spotify.com/artist/1uL7IYgtoRk00bosKsnBVg), [Elisheva](https://open.spotify.com/artist/5wygSRMx1cdP30d3IkZTsD) | [kill switch](https://open.spotify.com/album/7vpGv35o4wXu23WqywsRCy) | 2:12 |
+| 26 | [kill switch](https://open.spotify.com/track/2lvz3o16FUDuGOQyr83Afm) | [Sophia Willingham](https://open.spotify.com/artist/1uL7IYgtoRk00bosKsnBVg), [Eli McAleny](https://open.spotify.com/artist/5wygSRMx1cdP30d3IkZTsD) | [kill switch](https://open.spotify.com/album/7vpGv35o4wXu23WqywsRCy) | 2:12 |
 | 27 | [Magazines](https://open.spotify.com/track/0AZxU5r0k0LR606KrvSa4m) | [Moriah Mensah](https://open.spotify.com/artist/4jgCVCIIT2pPaemZBYMOYJ) | [Magazines](https://open.spotify.com/album/1HLtrRtsdRBk9sC9ROZtfO) | 2:35 |
 | 28 | [oh, lover](https://open.spotify.com/track/7uqtB0u3EtELNUkLXsq7oZ) | [Blue](https://open.spotify.com/artist/5HYr56zZb4EGU5aySKy9Ja) | [oh, lover](https://open.spotify.com/album/25KD39kHJsWvPhQVGI7Qc9) | 2:52 |
 | 29 | [Lady In the GPS](https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Who Could Not Be Broken](https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il) | 2:41 |

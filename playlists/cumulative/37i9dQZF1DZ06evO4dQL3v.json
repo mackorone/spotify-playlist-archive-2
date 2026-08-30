@@ -882,7 +882,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 162226,
       "name": "El Recogerdor",
       "url": "https://open.spotify.com/track/2UVRSSmngX62AUbzh5BqqP"
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 162360,
       "name": "La Noche Que Chicago Se Muri\u00f3",
       "url": "https://open.spotify.com/track/2EqtWXQ6kX9VsjB91Sf944"
@@ -1610,7 +1610,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 128213,
       "name": "Las Murallas De Jaramillo",
       "url": "https://open.spotify.com/track/1LfSw95WcgRHzS0auTgh4A"
@@ -2012,6 +2012,24 @@
       "duration_ms": 171080,
       "name": "Para Cuando Regrese",
       "url": "https://open.spotify.com/track/7qU8JSgwO1GOdTmfoT1Jrm"
+    },
+    {
+      "album": {
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178306,
+      "name": "Pedro Anaya - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/3T6Jr91eDGzUCscoSRnIKz"
     },
     {
       "album": {

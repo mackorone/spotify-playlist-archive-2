@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47 likes - 144 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 48 likes - 144 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 35 | [Don't You Worry \- From The Voice Of Germany](https://open.spotify.com/track/3OTsWUJC0WGd6wZlz5AQcG) | [POLA](https://open.spotify.com/artist/0uykiUx30wWeZy2CnhfF4C), [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Don't You Worry \(From The Voice Of Germany\)](https://open.spotify.com/album/5VcRQkloKPbkJbsf13UxJS) | 2:54 |
 | 36 | [Something I Said](https://open.spotify.com/track/6G580OEhNGxpoIhESLGJer) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Something I Said](https://open.spotify.com/album/2IUckyI6j37ShT0rgQGGWd) | 4:08 |
 | 37 | [Erase](https://open.spotify.com/track/4Ak5fQbKiNLFoi4MHGIi0Y) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Erase](https://open.spotify.com/album/4VC1vcqYAFhRJnc1v4wLML) | 3:59 |
-| 38 | [What Should I Do](https://open.spotify.com/track/7znBM6xGojd8eGzbKbMFER) | [Mike Rogers](https://open.spotify.com/artist/5oSJP58Y84CLGZgJor08Jl), [Abee](https://open.spotify.com/artist/6m2g4euj5zHX4iI1Ufc7g2) | [Loose Ideas \- EP](https://open.spotify.com/album/7Fc92uSZYiIcFBBUSrCwAD) | 2:55 |
-| 39 | [Let Me](https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Let Me](https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8) | 2:52 |
+| 38 | [Let Me](https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Let Me](https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8) | 2:52 |
+| 39 | [What Should I Do](https://open.spotify.com/track/7znBM6xGojd8eGzbKbMFER) | [Mike Rogers](https://open.spotify.com/artist/5oSJP58Y84CLGZgJor08Jl), [Abee](https://open.spotify.com/artist/6m2g4euj5zHX4iI1Ufc7g2) | [Loose Ideas \- EP](https://open.spotify.com/album/7Fc92uSZYiIcFBBUSrCwAD) | 2:55 |
 | 40 | [Crush](https://open.spotify.com/track/7sejIu4IkJNO64hVmgwGLu) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko) | [Crush](https://open.spotify.com/album/0PqMtDy7Xr6jNI6gddjYXg) | 2:35 |
 | 41 | [Under The Influence](https://open.spotify.com/track/4HjJ8y3A5fPE5EY42v6oUn) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY) | [Under The Influence](https://open.spotify.com/album/0Ltfj4RLfRD1oEC5a2C7Q7) | 2:54 |
 | 42 | [Ghost](https://open.spotify.com/track/0NE5S84TrFAf22XCzd4dxb) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [This Too Shall Last](https://open.spotify.com/album/4qTIqL57z8zDVaU9gsyKKi) | 2:41 |
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 119 | [Sugar Rush](https://open.spotify.com/track/07jlo8nEfBOOkL3Rn1CTGN) | [Lion Sphere](https://open.spotify.com/artist/0z3YxKBfeFgP4PK1JQAdTw) | [Sugar Rush](https://open.spotify.com/album/1xZHrkLd5Nk9xMouzDEzHK) | 2:44 |
 | 120 | [Lovefool](https://open.spotify.com/track/6kYs7BzNz8uo8v2ofrZcVF) | [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [Lovefool](https://open.spotify.com/album/12jDom2LoFIXzPQxdPAtM5) | 2:18 |
 | 121 | [Golden \- aus "Angry Birds 2 \- Der Film"](https://open.spotify.com/track/4kOMmI3oj5KYGyzbwSudWs) | [Lukas Rieger](https://open.spotify.com/artist/0QPfdFGUGhEOrYAzdUw1Xx) | [Justice](https://open.spotify.com/album/1ryFzCTmkh8M2aKpI9Jnkn) | 2:36 |
-| 122 | [Tonight](https://open.spotify.com/track/5iFLF2ivhu5FhEuRb8mZvQ) | [Arpad](https://open.spotify.com/artist/5GBl1D2wTdYnNbmOVBfl87) | [Tonight](https://open.spotify.com/album/5kL4mILARwBilOo4ZPyxrs) | 3:06 |
-| 123 | [All Night Long](https://open.spotify.com/track/55IEdCXiAa3A7Mcy8t9n2v) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Wanderer](https://open.spotify.com/album/4D9GygCWZnsM3qD7xZpzDO) | 2:41 |
+| 122 | [All Night Long](https://open.spotify.com/track/55IEdCXiAa3A7Mcy8t9n2v) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Wanderer](https://open.spotify.com/album/4D9GygCWZnsM3qD7xZpzDO) | 2:41 |
+| 123 | [Tonight](https://open.spotify.com/track/5iFLF2ivhu5FhEuRb8mZvQ) | [Arpad](https://open.spotify.com/artist/5GBl1D2wTdYnNbmOVBfl87) | [Tonight](https://open.spotify.com/album/5kL4mILARwBilOo4ZPyxrs) | 3:06 |
 | 124 | [Give & Take](https://open.spotify.com/track/5REoSlUK3GE3sz796vEnQA) | [Kirsty Grant](https://open.spotify.com/artist/4UjMmexJsVYtV8BguV7h1e) | [Give & Take](https://open.spotify.com/album/3pZ6sDrRXyTuWf6Y6KByze) | 2:50 |
 | 125 | [Adult Films](https://open.spotify.com/track/4ulPR5zyHO2PUY0NWhjXAH) | [Zac Tenenbaum](https://open.spotify.com/artist/4HM930lrcxfj68pX2Xiu4I), [TwoWorldsApart](https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B), [ilayda](https://open.spotify.com/artist/2JctEubYrAEVMCbHAfdYPU) | [Adult Films](https://open.spotify.com/album/7t5inmowqO4WoBmmvYzLK8) | 2:56 |
 | 126 | [Fiancé](https://open.spotify.com/track/764fINoQQmvNeAleav2Uuy) | [Nicole Cross](https://open.spotify.com/artist/3YrM00mKs7wqOtBPmeSoEo) | [Shapeshifter](https://open.spotify.com/album/18uJ2Vxf0jUeE1ZmcaVZnT) | 3:15 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 143 | [Let Me Go](https://open.spotify.com/track/0O7mRBcpMI336QFM2y4mI5) | [Mike Schmid](https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB) | [Midnight Revelator](https://open.spotify.com/album/2hZZwGD9YjvOterIIyyiUs) | 4:13 |
 | 144 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `Aca1FAAAAAD4Y3o628c9OxQOKjEM2d8X`
+Snapshot ID: `Aca6PAAAAABXrvoZIDdmlSf2CJ9RHVGD`

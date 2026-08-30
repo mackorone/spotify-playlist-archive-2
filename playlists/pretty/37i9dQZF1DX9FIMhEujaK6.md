@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,784 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,894 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 42 | [Wish I Didn't Miss You](https://open.spotify.com/track/4v97GYG6llDkMHeMg4ORTB) | [Sonny Noto](https://open.spotify.com/artist/2nTTK1iTlA31QadqzoU9nu) | [Wish I Didn't Miss You](https://open.spotify.com/album/0wZkE50QdGCprRvzaP8Oam) | 3:12 |
 | 43 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 |
 | 44 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
-| 45 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 |
-| 46 | [Most Perfect People \(Are Mostly Not Perfect\)](https://open.spotify.com/track/6xTyX0WLjYpm5iZP1DJwvS) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Most Perfect People \(Are Mostly Not Perfect\)](https://open.spotify.com/album/6K7WuxpOo0zujnk4lJ23SY) | 3:05 |
+| 45 | [Most Perfect People \(Are Mostly Not Perfect\)](https://open.spotify.com/track/6xTyX0WLjYpm5iZP1DJwvS) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Most Perfect People \(Are Mostly Not Perfect\)](https://open.spotify.com/album/6K7WuxpOo0zujnk4lJ23SY) | 3:05 |
+| 46 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 |
 | 47 | [Better](https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Better](https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J) | 2:32 |
 | 48 | [Watching Me Dance](https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Watching Me Dance](https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg) | 3:33 |
 | 49 | [Casableu](https://open.spotify.com/track/62Og36IHCGO6MqmxUqU58B) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Casableu](https://open.spotify.com/album/0lAe8AD0yI2r0o5ibNXvgk) | 3:38 |
 | 50 | [Sisters and Brothers](https://open.spotify.com/track/56SDusGcG8YbuZp3DPLfx9) | [TMPLE](https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8) | [Sisters and Brothers](https://open.spotify.com/album/1L6XROA4tB3v2Vxe4pfhyN) | 4:07 |
 
-Snapshot ID: `AAAAANi8vP0KRtTs0BLs2RnDDJ9D/aBr`
+Snapshot ID: `AAAAAJEvdt9DbiwYzAOnfUPD0CtQlfWi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIwKIKzFFPk.md) - [plain]
 
 > Music from "BLEACH" ! ©久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,163 likes - 102 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,298 likes - 102 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

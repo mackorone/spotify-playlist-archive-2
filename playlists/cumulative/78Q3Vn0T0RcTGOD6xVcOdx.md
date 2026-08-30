@@ -4,7 +4,7 @@
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-335 songs - 19 hr 40 min
+338 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Gust of Wind](https://open.spotify.com/track/0jOgtUgw1nPs4AQbnyEwOW) | [The Sea Birds](https://open.spotify.com/artist/75s8s8imlt1qNn1CBqFiOs) | [Worries of a Different Kind](https://open.spotify.com/album/7BZLLgHMEcp2zOR7d30u5N) | 3:24 | 2025-02-01 | 2026-06-12 |
 | [Hace Tiempo](https://open.spotify.com/track/4a9YNWAPVNVvlt9EwiQ609) | [La Meca](https://open.spotify.com/artist/0tM8G5TfWBjmw2iUm0Kl6o) | [Hace Tiempo](https://open.spotify.com/album/3rFGq2bNcZBs6Brv7PRIwt) | 3:05 | 2025-08-26 | 2026-04-06 |
 | [Harry Kane](https://open.spotify.com/track/18vspHGkRqKpTTKLtch9cJ) | [Doriima](https://open.spotify.com/artist/1rjtnSQuAcnWSU6J1GT4RO) | [Harry Kane](https://open.spotify.com/album/0lY96Stm5gOUJwPRpTNKKJ) | 2:22 | 2025-05-20 | 2026-04-06 |
+| [Here, Here We Go Again](https://open.spotify.com/track/1aoS4v22mAUOGH6QSP2kO6) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [Here, Here We Go Again](https://open.spotify.com/album/7Ddr30cVQKX9Ifriov5f15) | 2:44 | 2026-08-29 |  |
 | [Hipnotizarme](https://open.spotify.com/track/7lYpukPIr6rmEnr6akxNY7) | [Hades THC](https://open.spotify.com/artist/3mZWdB1lqbnwVVwMhn8X2r) | [Hipnotizarme](https://open.spotify.com/album/0cjHarKYnFnnBto8WmknSQ) | 2:02 | 2025-03-07 | 2026-04-06 |
 | [History](https://open.spotify.com/track/1KVYvFFHGIiakOYjVfGNt8) | [Afd](https://open.spotify.com/artist/790m3H8XONRYeX6S5iMDgu) | [History](https://open.spotify.com/album/4YxxtbYa4z21LcQBnStbSq) | 2:34 | 2025-03-21 | 2026-04-06 |
 | [Holy Skin](https://open.spotify.com/track/0cJ0zbnipjXU4WU89Y41FJ) | [Hades THC](https://open.spotify.com/artist/3mZWdB1lqbnwVVwMhn8X2r) | [Holy Skin](https://open.spotify.com/album/232lQANDSVg41ANv4Ei3hp) | 3:20 | 2025-03-07 | 2026-04-06 |
@@ -327,9 +328,11 @@
 | [Voices](https://open.spotify.com/track/0rVgFvhC6Bn1BDFX6BjseZ) | [Disco Dreams](https://open.spotify.com/artist/5KRlBkGzQFsekajKbhN7WX) | [Mystic Daze](https://open.spotify.com/album/2PdHmqqIYXFH8tOJdGSJLF) | 3:45 | 2025-02-01 | 2026-06-12 |
 | [Voltage \- Remix](https://open.spotify.com/track/6tXWPOGIQpvNLaWDmBq6uf) | [BLOODSYNC](https://open.spotify.com/artist/1JWs4C5mewNsMPQEKpacJx), [Mutant Rebels](https://open.spotify.com/artist/66gPvtIROnMPimZ44r3uRZ) | [Voltage](https://open.spotify.com/album/7fK79PgDGNr0PW30unzEWc) | 3:28 | 2026-06-13 |  |
 | [Wake Up](https://open.spotify.com/track/3Fssjt2iU3o9es02hHG7zU) | [Tim West](https://open.spotify.com/artist/3sFIhAnBDrkqKhA3gpzaiN) | [Wake Up](https://open.spotify.com/album/4zB2XulbZ8AF79LrbbUQ03) | 3:25 | 2025-01-26 | 2026-06-12 |
+| [WAKE UP, WAKE UP THIS IS REAL](https://open.spotify.com/track/5wpNGT7mQ1mSSs2HJdfbg5) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [WAKE UP, WAKE UP THIS IS REAL](https://open.spotify.com/album/7FxLh6BDWM8sunWkhjE9H4) | 3:44 | 2026-08-29 |  |
 | [Waste My Time](https://open.spotify.com/track/0sSSch8UYVzAcbtwOELzAl) | [YogieYo](https://open.spotify.com/artist/0TRG00teI853lKg1tolH8R) | [Waste My Time](https://open.spotify.com/album/04cB9DqVEsWRiFwZDKDxzn) | 1:42 | 2025-01-26 | 2026-06-12 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 | 2025-01-24 | 2026-06-12 |
 | [Wet Sequence](https://open.spotify.com/track/4ebispnT2FwPHpCZ4FYESU) | [MOHAA](https://open.spotify.com/artist/6PSioLt0RTf8cPQLVhCEoT), [Vapor Loop](https://open.spotify.com/artist/74r57qxsA5sbwOMYJgKLcO), [Nebruk](https://open.spotify.com/artist/097AaJD5m9i4cuDnfWw5BU) | [Mood Structure](https://open.spotify.com/album/20nYGgiH0kR7A6VJIL4tnh) | 5:23 | 2026-06-13 |  |
+| [WHERE MY HEART BELONGS](https://open.spotify.com/track/6jMVEiP1DVsmQermVsfskg) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [WHERE MY HEART BELONGS](https://open.spotify.com/album/4oy3B9jhaeFdFsoNblxYRU) | 3:43 | 2026-08-29 |  |
 | [Where To Go](https://open.spotify.com/track/4hPhB3jNkFFiJU4WcJjSQ3) | [Sweet Rain](https://open.spotify.com/artist/2PL4nPVLLMex1oZtHsJSFf), [Ava Serene](https://open.spotify.com/artist/4FWAWSF1PDAG2DeGCH2MbH) | [Where To Go](https://open.spotify.com/album/7gfApV0fAHELNY0NoEiMii) | 3:07 | 2025-01-26 | 2026-06-12 |
 | [Whispers in the static](https://open.spotify.com/track/4RZk8GZLWPmxj9y4woV8IO) | [Gisella Engel](https://open.spotify.com/artist/1t3O7vVm8VOKfLAkuL8Ku1) | [Whispers in the dark](https://open.spotify.com/album/3SQGPgK2GPlhVDHLRjucuD) | 2:23 | 2026-06-13 |  |
 | [WIG SPLIT](https://open.spotify.com/track/5lNbvteKOOh8dXW5VAGUMA) | [eneteka](https://open.spotify.com/artist/6RHLAgaaDfd253CDttKmKn) | [NIÑO PROBLEMA](https://open.spotify.com/album/5ylmrdvMnQzN7ANzrCzVHc) | 1:57 | 2025-06-15 | 2026-04-06 |

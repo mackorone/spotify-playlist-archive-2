@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,145 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,146 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 27 | [Power to All Our Friends](https://open.spotify.com/track/4oJxJpFIGUHlX6limr6rH1) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [40 Golden Greats](https://open.spotify.com/album/0SW33rIKZ2v0EmfqRLKufz) | 3:03 |
 | 28 | [Elle était si jolie](https://open.spotify.com/track/6zExa9fc43F6uxNdaVmcUR) | [Alain Barrière](https://open.spotify.com/artist/0ZKY5JXrPqZ761rg10WqtW) | [Pure..\. France](https://open.spotify.com/album/7qHQ8U2HlkyXsBoSfoidkr) | 2:57 |
 | 29 | [אי שם](https://open.spotify.com/track/6XTFPBCx1F8q9V2CgXnUWO) | [Ilanit](https://open.spotify.com/artist/6Rs5PyjfGBoAYfsA0Kocsj) | [אי שם](https://open.spotify.com/album/20DzOLF3saURVlu1S4SFY3) | 2:52 |
-| 30 | [Nous les amoureux](https://open.spotify.com/track/35PWl4T8d2U3a5AboajXXw) | [Jean\-Claude Pascal](https://open.spotify.com/artist/42UBmNWaHgsHF305Q32lIy) | [nous les amoureux](https://open.spotify.com/album/5PiFvrgJCnWMc8jbc3dPrK) | 3:07 |
-| 31 | [Ding\-A\-Dong \(English Version\) \- Remastered](https://open.spotify.com/track/2dZ5FvhW12NB8mQPhdBu7U) | [Teach In](https://open.spotify.com/artist/0but8haas2eybMUZvFV90H) | [Ding\-A\-Dong Winner Eurovision Festival 1975 \(Remastered\)](https://open.spotify.com/album/7rCzZoWFHzNRqvnYgZYoh0) | 2:27 |
+| 30 | [Ding\-A\-Dong \(English Version\) \- Remastered](https://open.spotify.com/track/2dZ5FvhW12NB8mQPhdBu7U) | [Teach In](https://open.spotify.com/artist/0but8haas2eybMUZvFV90H) | [Ding\-A\-Dong Winner Eurovision Festival 1975 \(Remastered\)](https://open.spotify.com/album/7rCzZoWFHzNRqvnYgZYoh0) | 2:27 |
+| 31 | [Nous les amoureux](https://open.spotify.com/track/35PWl4T8d2U3a5AboajXXw) | [Jean\-Claude Pascal](https://open.spotify.com/artist/42UBmNWaHgsHF305Q32lIy) | [nous les amoureux](https://open.spotify.com/album/5PiFvrgJCnWMc8jbc3dPrK) | 3:07 |
 | 32 | [Save Your Kisses For Me \- Re\-Recording](https://open.spotify.com/track/6SLwazNlnXu3cwn9sYhRZd) | [Brotherhood of Man](https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo) | [The Definitive Collection](https://open.spotify.com/album/0zzbdqmC8w5izz5VxxDI43) | 3:03 |
 | 33 | [I See A Star](https://open.spotify.com/track/7qsXX1PCCCsGusfjU7gTFu) | [Mouth & MacNeal](https://open.spotify.com/artist/51RYnAHfrE4xnMomva5kFq) | [How Do You Do?](https://open.spotify.com/album/48yOqmMIGCwGJIKSeQxeVJ) | 2:56 |
 | 34 | [Congratulations \- 1998 Remaster](https://open.spotify.com/track/2qs5ZcLByNTctJKbhAZ9JE) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [The Singles Collection](https://open.spotify.com/album/6YZb35WBIM7ZlJf782E6gO) | 2:35 |

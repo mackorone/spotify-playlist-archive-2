@@ -4,7 +4,7 @@
 
 > This is PARTYNEXTDOOR\. The essential tracks, all in one playlist.
 
-92 songs - 5 hr 26 min
+93 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Damage](https://open.spotify.com/track/0GYSkimHYYaiL2AE9dz9Dl) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 3:33 | 2023-06-29 | 2023-09-03 |
 | [DEEPER](https://open.spotify.com/track/4JeD0FGslDsMeeahEGZa2L) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 2:52 | 2025-02-16 |  |
 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 | 2025-02-19 |  |
+| [Don't Know How](https://open.spotify.com/track/7IRPfVfGH62QSBMo3ydCKu) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\) \[10\-YEAR EDITION\]](https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26) | 2:54 | 2026-08-30 |  |
 | [Don't Run](https://open.spotify.com/track/4rKlOGw7Q0si6csx1Xq2IQ) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 4:03 | 2023-06-29 | 2026-08-18 |
 | [Dreamin](https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Dreamin](https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd) | 2:27 | 2024-11-07 |  |
 | [East Liberty](https://open.spotify.com/track/2nOTvYKyk51OSs90GvMgLW) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/52SPzTxOUOS996NCHoGN0r) | 2:52 | 2024-09-13 |  |
@@ -57,7 +58,7 @@
 | [NOTHING LESS](https://open.spotify.com/track/5AONS2YjYFpZ6UZ8qiL4le) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 3:28 | 2023-06-29 | 2025-02-16 |
 | [One I Want \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/5MuhncU8rh6xe894EKjX2P) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [The Space Between](https://open.spotify.com/album/6tHcEzChizk2IXd5Kxl5hs) | 3:32 | 2023-06-29 | 2024-04-28 |
 | [Only U](https://open.spotify.com/track/3Ox7FJrgNNBfctIGPgj40s) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 2:55 | 2023-06-29 |  |
-| [PEACE OF MIND](https://open.spotify.com/track/3FA8JpHhWwDXkroqRFLLFe) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 5:03 | 2023-06-29 |  |
+| [PEACE OF MIND](https://open.spotify.com/track/3FA8JpHhWwDXkroqRFLLFe) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 5:03 | 2023-06-29 | 2026-08-30 |
 | [PERSIAN RUGS](https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 2:54 | 2023-06-29 |  |
 | [PIMMIE'S DILEMMA](https://open.spotify.com/track/3CY3zAjrxKVInh2Lq1QiRb) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 1:58 | 2025-02-16 | 2025-06-18 |
 | [Preach](https://open.spotify.com/track/1OHoBC4icbuNhpSxP400sv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 3:56 | 2023-06-29 |  |

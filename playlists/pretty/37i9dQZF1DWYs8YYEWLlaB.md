@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\. Kapak: Lvbel C5
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,890 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,925 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 20 | [Daha İyi](https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Daha İyi](https://open.spotify.com/album/7rkBjeuLQ7UgSty5yAOLpx) | 3:18 |
 | 21 | [UYUYAMADIN DİMİ?](https://open.spotify.com/track/6ldLZlXIkKaaM9Y4bErh07) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [PARDON MUTLULUKLAR](https://open.spotify.com/album/2YGROYa6Vg9KXEcr9DwYBP) | 2:38 |
 | 22 | [Ömrüm](https://open.spotify.com/track/4e54GhjU0PAXwbGvbwAPz6) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Ömrüm](https://open.spotify.com/album/6FQixEQWNUYSu7FPuKLCDN) | 2:54 |
-| 23 | [İhtimal](https://open.spotify.com/track/3Pish4TJEZLRpXAovXHX0d) | [KARM6](https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r) | [Serotonin](https://open.spotify.com/album/4nYgiGWOldX0wcbDHTuhj8) | 2:26 |
-| 24 | [Eller Üzer](https://open.spotify.com/track/2wV6HTsxC6lk4XbMkzU3hA) | [Serkan Nişancı](https://open.spotify.com/artist/5fEL815uzQRkyzW9wOfUTd) | [Eller Üzer](https://open.spotify.com/album/5pMJtaEOanoR0cWndtA0p4) | 3:18 |
+| 23 | [Eller Üzer](https://open.spotify.com/track/2wV6HTsxC6lk4XbMkzU3hA) | [Serkan Nişancı](https://open.spotify.com/artist/5fEL815uzQRkyzW9wOfUTd) | [Eller Üzer](https://open.spotify.com/album/5pMJtaEOanoR0cWndtA0p4) | 3:18 |
+| 24 | [İhtimal](https://open.spotify.com/track/3Pish4TJEZLRpXAovXHX0d) | [KARM6](https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r) | [Serotonin](https://open.spotify.com/album/4nYgiGWOldX0wcbDHTuhj8) | 2:26 |
 | 25 | [Yaşanacaksa](https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:46 |
 | 26 | [Hermès 2.0](https://open.spotify.com/track/1ONwgLvPUbapdtMsMxpxx9) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Hermès 2.0](https://open.spotify.com/album/26LqIfnZFtbLTKq0aYzwb5) | 1:21 |
 | 27 | [Kalpsiz Bir Serseri \- Live](https://open.spotify.com/track/5PdcxLk48vWQqMeY4qqdsZ) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Kalpsiz Bir Serseri \(Live\)](https://open.spotify.com/album/3R7BUFaIAw3RPuf6eybWHB) | 3:44 |

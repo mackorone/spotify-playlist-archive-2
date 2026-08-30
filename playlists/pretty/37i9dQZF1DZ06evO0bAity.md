@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 
 > This is DZ Deathrays\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,396 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,395 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 | 15 | [Easing Out Of Control](https://open.spotify.com/track/4mwK104Wm12C3cTMXwq5Op) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Easing Out Of Control](https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj) | 3:34 |
 | 16 | [MURDER ME \- DZ Deathrays Remix](https://open.spotify.com/track/7eCn4VV1zyhpoirclsM5zs) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [MURDER ME \(DZ Deathrays Remix\)](https://open.spotify.com/album/2pweLGsYYpzyy56gETkLPl) | 4:05 |
 | 17 | [Still No Change](https://open.spotify.com/track/7evhmpAOrk9f9Ecl2HRUwl) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 3:32 |
-| 18 | [Fear The Anchor](https://open.spotify.com/track/3XPitvPYDSmoqcehdRkfAr) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu), [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [Positive Rising \(Pt\. 2/ Deluxe\)](https://open.spotify.com/album/7u1AwMaq12tfVeXuL9LkfU) | 1:54 |
+| 18 | [King B](https://open.spotify.com/track/6xqUpuxqktp3eLQEPUDHyM) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:20 |
 | 19 | [Demolition](https://open.spotify.com/track/0ei1UjbzNN37t9cL9rDSyA) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Easing Out Of Control](https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj) | 3:24 |
-| 20 | [King B](https://open.spotify.com/track/6xqUpuxqktp3eLQEPUDHyM) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:20 |
+| 20 | [Fear The Anchor](https://open.spotify.com/track/3XPitvPYDSmoqcehdRkfAr) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu), [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [Positive Rising \(Pt\. 2/ Deluxe\)](https://open.spotify.com/album/7u1AwMaq12tfVeXuL9LkfU) | 1:54 |
 | 21 | [Keep Myself on Edge](https://open.spotify.com/track/7KZbJBjcUE0x4rHbk0fQU0) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:34 |
 | 22 | [Blood On My Leather](https://open.spotify.com/track/2yX5Hz2SvtGvfNnI879xrf) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Blood On My Leather](https://open.spotify.com/album/0AdRZ0MgfYiWC1Xm8YKpAh) | 2:33 |
 | 23 | [Sideways](https://open.spotify.com/track/5zITXIKc2Z9uTeABr8GiEb) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Easing Out Of Control](https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj) | 2:41 |
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 | 32 | [Hope for the Best](https://open.spotify.com/track/3nQI4mYa0NPQ89dK8OKHyW) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:07 |
 | 33 | [Black Rat](https://open.spotify.com/track/5Q5IpqEc3N5dWeetxVFAhq) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:31 |
 | 34 | [Guillotine](https://open.spotify.com/track/6EOm9UHVPvCjPUz4UxA9Xk) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 2:11 |
-| 35 | [Hot Potato](https://open.spotify.com/track/47BpBh1URWXLF26ckpGT4S) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [ReWiggled](https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2) | 1:15 |
+| 35 | [No Sleep](https://open.spotify.com/track/7K2EiQPCwiaWjXiWXl8dzu) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/1PtUEGMscPJp6ZkFFoMWUX) | 2:51 |
 | 36 | [Grounded or Dead](https://open.spotify.com/track/6M7nNhyPts6QFD7xaDu2On) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:53 |
-| 37 | [No Sleep](https://open.spotify.com/track/7K2EiQPCwiaWjXiWXl8dzu) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/1PtUEGMscPJp6ZkFFoMWUX) | 2:51 |
+| 37 | [Hot Potato](https://open.spotify.com/track/47BpBh1URWXLF26ckpGT4S) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [ReWiggled](https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2) | 1:15 |
 | 38 | [Feeling Good, Feeling Great](https://open.spotify.com/track/6ovHi1JMowwLaPHTph0tSB) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 3:18 |
 | 39 | [Run To Paradise](https://open.spotify.com/track/5Farmm0MaT8hCsOLOZyhHV) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Run To Paradise](https://open.spotify.com/album/1gg1EagawFhWLP64wcbqJT) | 3:14 |
-| 40 | [Eat You Up](https://open.spotify.com/track/4IdkJYJlNwXydIMR7VeYF9) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 2:55 |
-| 41 | [Dollar Chills](https://open.spotify.com/track/7KdEhcj5B69l9sVBgnff0o) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 2:55 |
-| 42 | [Hypercolour](https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 4:24 |
-| 43 | [The Mess Up](https://open.spotify.com/track/2l1DgrC0PobfxiFwtN8BEo) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Ruined My Life](https://open.spotify.com/album/6DmNm4kgQ8ImBla8OvEahZ) | 3:39 |
-| 44 | [Love & Destruction](https://open.spotify.com/track/2S9kwb2VoCxX8jY5SuLNiX) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:37 |
-| 45 | [Daybreak \(with DZ Deathrays\)](https://open.spotify.com/track/3URWgobZp0BviTbfuxtuib) | [Hellcat Speedracer](https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Daybreak](https://open.spotify.com/album/0kYX3kcnzxoyG8mRCurZuf) | 2:49 |
+| 40 | [Love & Destruction](https://open.spotify.com/track/2S9kwb2VoCxX8jY5SuLNiX) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:37 |
+| 41 | [Hypercolour](https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 4:24 |
+| 42 | [Dollar Chills](https://open.spotify.com/track/7KdEhcj5B69l9sVBgnff0o) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 2:55 |
+| 43 | [Daybreak \(with DZ Deathrays\)](https://open.spotify.com/track/3URWgobZp0BviTbfuxtuib) | [Hellcat Speedracer](https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Daybreak](https://open.spotify.com/album/0kYX3kcnzxoyG8mRCurZuf) | 2:49 |
+| 44 | [Eat You Up](https://open.spotify.com/track/4IdkJYJlNwXydIMR7VeYF9) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 2:55 |
+| 45 | [The Mess Up](https://open.spotify.com/track/2l1DgrC0PobfxiFwtN8BEo) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Ruined My Life](https://open.spotify.com/album/6DmNm4kgQ8ImBla8OvEahZ) | 3:39 |
 | 46 | [Gebbie Street](https://open.spotify.com/track/02v5ggYAHVdQYMzbfq5Y2Q) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 3:55 |
-| 47 | [All Or Nothing](https://open.spotify.com/track/67iASH0fHqwSDx8oncwTRk) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [All Or Nothing](https://open.spotify.com/album/2ysCUWGrCt6kxvLfAEqKqG) | 3:23 |
-| 48 | [Play Dead Until You're Dead](https://open.spotify.com/track/1n8eG2CaqtEIrxPj2ijG6l) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/1PtUEGMscPJp6ZkFFoMWUX) | 4:02 |
-| 49 | [Cops / Capacity](https://open.spotify.com/track/1yqmcfHazwWohYFsI7pSnP) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 2:52 |
-| 50 | [Dumb It Down](https://open.spotify.com/track/3flaoSMm3t1rGv0JChT5pR) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 4:36 |
+| 47 | [First Night Fever](https://open.spotify.com/track/5mrS231CkYfC7eazO5H1pA) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [First Night Fever](https://open.spotify.com/album/0YNMoXT9Cxp5BJcA33NLfo) | 3:07 |
+| 48 | [All Or Nothing](https://open.spotify.com/track/67iASH0fHqwSDx8oncwTRk) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [All Or Nothing](https://open.spotify.com/album/2ysCUWGrCt6kxvLfAEqKqG) | 3:23 |
+| 49 | [Make Yourself Mad](https://open.spotify.com/track/575WHTkmnohs1agEfIoRGS) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Make Yourself Mad](https://open.spotify.com/album/7gRumG1rTgiTrHuH6S7Fxe) | 2:40 |
+| 50 | [Play Dead Until You're Dead](https://open.spotify.com/track/1n8eG2CaqtEIrxPj2ijG6l) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/1PtUEGMscPJp6ZkFFoMWUX) | 4:02 |
 
-Snapshot ID: `ao9+AAAAAABG1+7+P9zymoIB0oXHLdgX`
+Snapshot ID: `apDPgAAAAADaRm2zZIZ7z4ai5F+stps2`

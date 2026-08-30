@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,118 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,120 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,15 +29,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 19 | [Me Tocó Morir](https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:24 |
 | 20 | [El Diablo](https://open.spotify.com/track/51PKgx0ep9pIKJxJvTBnqx) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Mundo Feliz](https://open.spotify.com/album/0K1gJZEM3OPo9hnxUDZBW6) | 3:35 |
 | 21 | [Calaveras y Diablitos](https://open.spotify.com/track/7mPx5N0Yg9s5U0Cd13WA8q) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Originales \- 20 Exitos](https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc) | 4:20 |
-| 22 | [Sobre La Tumba De Mi Padre](https://open.spotify.com/track/6jVcf6qobg1VLoYah4jomr) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Íconos 25 Éxitos](https://open.spotify.com/album/0GKxtrQuqpABUvukziRENV) | 3:51 |
-| 23 | [La Despedida](https://open.spotify.com/track/136nrRA3pcFuerzpyFL5Y4) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e) | 2:54 |
-| 24 | [Moños Negros](https://open.spotify.com/track/1DAIPsYEXEOaOlJaG8Lv0w) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Moños Negros](https://open.spotify.com/album/5amUm1QKYdr7cW3T4uoUX9) | 3:22 |
-| 25 | [El Día de Tu Muerte](https://open.spotify.com/track/0si30sd2Zl0lXnNUC8FxyS) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Yang](https://open.spotify.com/album/3dhNpAkl8UJoj5N1MDLbUy) | 2:43 |
+| 22 | [La Despedida](https://open.spotify.com/track/136nrRA3pcFuerzpyFL5Y4) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e) | 2:54 |
+| 23 | [Sobre La Tumba De Mi Padre](https://open.spotify.com/track/6jVcf6qobg1VLoYah4jomr) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Íconos 25 Éxitos](https://open.spotify.com/album/0GKxtrQuqpABUvukziRENV) | 3:51 |
+| 24 | [El Día de Tu Muerte](https://open.spotify.com/track/0si30sd2Zl0lXnNUC8FxyS) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Yang](https://open.spotify.com/album/3dhNpAkl8UJoj5N1MDLbUy) | 2:43 |
+| 25 | [Moños Negros](https://open.spotify.com/track/1DAIPsYEXEOaOlJaG8Lv0w) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Moños Negros](https://open.spotify.com/album/5amUm1QKYdr7cW3T4uoUX9) | 3:22 |
 | 26 | [La Muerte del Palomo](https://open.spotify.com/track/7rB942OGrgCnvgte3oItUe) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 3:27 |
 | 27 | [Un Alma En Pena](https://open.spotify.com/track/6LUsEtfv5RsUmJdhY2VNsS) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 2:22 |
 | 28 | [Don Diablo](https://open.spotify.com/track/0imrhMFOWQ9XYDCnLfecYV) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 3:47 |
-| 29 | [El Abuelo](https://open.spotify.com/track/3XL9NdAfiirtappFSAZyCr) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Abuelo](https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1) | 3:07 |
-| 30 | [Dios nunca muere](https://open.spotify.com/track/6mIjLHD3t1bcsUwQjyh4wn) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Inmortales de Pedro Infante \(USA\)](https://open.spotify.com/album/4ZMUQuAe77nOQXZ6aIoMg8) | 2:45 |
+| 29 | [Dios nunca muere](https://open.spotify.com/track/6mIjLHD3t1bcsUwQjyh4wn) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Inmortales de Pedro Infante \(USA\)](https://open.spotify.com/album/4ZMUQuAe77nOQXZ6aIoMg8) | 2:45 |
+| 30 | [El Abuelo](https://open.spotify.com/track/3XL9NdAfiirtappFSAZyCr) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Abuelo](https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1) | 3:07 |
 | 31 | [Frankestein](https://open.spotify.com/track/59hECJ8oyCMJOuY0A1zhzL) | [Mister Chivo](https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw) | [¡¡En Escena!!](https://open.spotify.com/album/6dyxIMSQ3DDb41D2Myhp1U) | 4:25 |
 | 32 | [Que te vaya bonito](https://open.spotify.com/track/1XsYSawDnMWDwQHiEeUzXe) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Chavela Vargas\. Sus 40 Grandes Canciones](https://open.spotify.com/album/0c4CIsqk0vOViJXGmrW9WP) | 3:22 |
 | 33 | [Tata Dios](https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:29 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 45 | [Canción de las Brujas \- Remasterizado](https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 3:16 |
 | 46 | [Colores](https://open.spotify.com/track/5dLoAn6kUOAlO6Aolf9rey) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [Flor de Biznaga](https://open.spotify.com/album/4LWaaqC9aAr5OhNsWqOZ3J) | 6:10 |
 | 47 | [El Diablito Loco](https://open.spotify.com/track/1VrjnASRwJ4MTHz5HtyGAq) | [Leda Moreno](https://open.spotify.com/artist/5zwnyjAYKiyVoXPMtfdcXd) | [El Diablito Loco](https://open.spotify.com/album/3IYh2snfaDTZY9GO0UKnWP) | 2:27 |
-| 48 | [Se le apagó la luz \- Versión Básico](https://open.spotify.com/track/5SuMtg9alskh2TE554OMBO) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Basico](https://open.spotify.com/album/33SeVIcoXAiWcqGhQaEZFF) | 4:36 |
-| 49 | [La Calaca \- Remasterizada 2006](https://open.spotify.com/track/7hmDplqSftS7uQMxsEY9BU) | [Amparo Ochoa](https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8) | ["Por Siempre" Lo Mejor de Amparo Ochoa \(Remasterizada 2006\)](https://open.spotify.com/album/1H9VCendIQLE3QFcKDwQ5Q) | 5:10 |
+| 48 | [La Calaca \- Remasterizada 2006](https://open.spotify.com/track/7hmDplqSftS7uQMxsEY9BU) | [Amparo Ochoa](https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8) | ["Por Siempre" Lo Mejor de Amparo Ochoa \(Remasterizada 2006\)](https://open.spotify.com/album/1H9VCendIQLE3QFcKDwQ5Q) | 5:10 |
+| 49 | [Se le apagó la luz \- Versión Básico](https://open.spotify.com/track/5SuMtg9alskh2TE554OMBO) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Basico](https://open.spotify.com/album/33SeVIcoXAiWcqGhQaEZFF) | 4:36 |
 | 50 | [Muerte Querida \- Remasterizado 2008](https://open.spotify.com/track/0wBg0TvK3auirlBeX6Ggvi) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Rey Azúcar](https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc) | 4:18 |
 | 51 | [Calaverita](https://open.spotify.com/track/47NMBNmAQhLuyVSEI9IKBN) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Buenaventura](https://open.spotify.com/album/1hEVnJ09psV81C2PBGEjCk) | 3:20 |
 | 52 | [Mujer Antigua, La Bruja](https://open.spotify.com/track/7rEBX9KE26h09AjNX75LGM) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Caribe Mar Sincopado](https://open.spotify.com/album/2hCmmR9twhWkwWAm3vgGfx) | 7:28 |

@@ -2749,6 +2749,24 @@
     },
     {
       "album": {
+        "name": "Easy Target",
+        "url": "https://open.spotify.com/album/03VjqmwPth08wqClWNU6yu"
+      },
+      "artists": [
+        {
+          "name": "Mthandeni SK",
+          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 605622,
+      "name": "Amakhala Eyiqhwaga",
+      "url": "https://open.spotify.com/track/5I3KxHHY8xjJRGK7KZCy9i"
+    },
+    {
+      "album": {
         "name": "Isibuko",
         "url": "https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR"
       },
@@ -2946,6 +2964,24 @@
       "duration_ms": 509789,
       "name": "Amalobolo (feat. Stixx, Nia Pearl)",
       "url": "https://open.spotify.com/track/2pqIaYg12ziqIpVtdVESGt"
+    },
+    {
+      "album": {
+        "name": "Easy Target",
+        "url": "https://open.spotify.com/album/03VjqmwPth08wqClWNU6yu"
+      },
+      "artists": [
+        {
+          "name": "Mthandeni SK",
+          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275435,
+      "name": "Amalunda",
+      "url": "https://open.spotify.com/track/7ycMOVGaVDscG45V77pRhF"
     },
     {
       "album": {
@@ -9556,7 +9592,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 230625,
       "name": "Buyelekhaya (feat. Thami Mthabela)",
       "url": "https://open.spotify.com/track/5pVeDbjv2a1VivRNiOc5j5"
@@ -10706,7 +10742,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 283582,
       "name": "Chocolate Gaga",
       "url": "https://open.spotify.com/track/0sz5lMk2ifLqcbqHTFVLeC"
@@ -14011,6 +14047,36 @@
     },
     {
       "album": {
+        "name": "Isithembu",
+        "url": "https://open.spotify.com/album/0SpkbEmC1ZDLoEHGXn8kOl"
+      },
+      "artists": [
+        {
+          "name": "Zulu Queens",
+          "url": "https://open.spotify.com/artist/5csAaiFcC1qKkVPgUJfXID"
+        },
+        {
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "Feza",
+          "url": "https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261076,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/0L4SSGbkayyR1RxePf4T4C"
+    },
+    {
+      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/2Ivj87ZpYPeIt57s4kgrsZ"
       },
@@ -14034,7 +14100,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 261076,
       "name": "Distance",
       "url": "https://open.spotify.com/track/36eEND5G3RbI4XD7Xupnmv"
@@ -23919,6 +23985,28 @@
     },
     {
       "album": {
+        "name": "Easy Target",
+        "url": "https://open.spotify.com/album/03VjqmwPth08wqClWNU6yu"
+      },
+      "artists": [
+        {
+          "name": "Mthandeni SK",
+          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
+        },
+        {
+          "name": "Sne Ntuli",
+          "url": "https://open.spotify.com/artist/7a3R5VMZYPhutTAMipMBAc"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245551,
+      "name": "Ichunu",
+      "url": "https://open.spotify.com/track/0Tsh3IERUKlFeBBJ8BHcTx"
+    },
+    {
+      "album": {
         "name": "Business As Usual",
         "url": "https://open.spotify.com/album/6OqZbsm8shmyhkFkC0W2Tg"
       },
@@ -24436,7 +24524,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 296100,
       "name": "Imfene Yakho",
       "url": "https://open.spotify.com/track/6OZCjoMHM7V0xL0IJ87Fhl"
@@ -24478,6 +24566,24 @@
       "duration_ms": 966466,
       "name": "Imfula",
       "url": "https://open.spotify.com/track/5PNJieSonc6GqnSEGxIJYb"
+    },
+    {
+      "album": {
+        "name": "Easy Target",
+        "url": "https://open.spotify.com/album/03VjqmwPth08wqClWNU6yu"
+      },
+      "artists": [
+        {
+          "name": "Mthandeni SK",
+          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217417,
+      "name": "Imikhonto",
+      "url": "https://open.spotify.com/track/0VTKvgrmCluiFuRxDq5tsZ"
     },
     {
       "album": {
@@ -26262,7 +26368,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 237662,
       "name": "Isibaya Sikababa",
       "url": "https://open.spotify.com/track/2rHahLGm4dlLrEGmEN3lOb"
@@ -27192,7 +27298,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 284003,
       "name": "Izinkinga Zami",
       "url": "https://open.spotify.com/track/3cSHiNQ5ntNfERXSxJOPAR"
@@ -27394,7 +27500,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 443394,
       "name": "Izospana",
       "url": "https://open.spotify.com/track/6tvBXtUeHKxDL1oZMas2mF"
@@ -31770,7 +31876,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 249120,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP"
@@ -35726,7 +35832,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 535310,
       "name": "Methodist Medley",
       "url": "https://open.spotify.com/track/4iitLhHIPZIyTPt9HfsykG"
@@ -38324,7 +38430,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 291422,
       "name": "National Anthem",
       "url": "https://open.spotify.com/track/0XYP8RrumQd3Iua4NJ7DMh"
@@ -45868,7 +45974,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -47776,7 +47882,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 60081,
       "name": "Sample",
       "url": "https://open.spotify.com/track/2qa3X1zH5beq8hx6mVairO"
@@ -53848,7 +53954,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
@@ -55894,7 +56000,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 257040,
       "name": "Thethelela Dlozi Lami (Gwijo)",
       "url": "https://open.spotify.com/track/0JlGVzWeFl2b5k4YF9ZT43"
@@ -58881,6 +58987,24 @@
     },
     {
       "album": {
+        "name": "Easy Target",
+        "url": "https://open.spotify.com/album/03VjqmwPth08wqClWNU6yu"
+      },
+      "artists": [
+        {
+          "name": "Mthandeni SK",
+          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260336,
+      "name": "uMalume Uyanyomfa",
+      "url": "https://open.spotify.com/track/0YwZe2HQU2mLfUORFsVE2z"
+    },
+    {
+      "album": {
         "name": "Tintswalo",
         "url": "https://open.spotify.com/album/3fP8voyvyaUZWxZrOVisez"
       },
@@ -59520,6 +59644,28 @@
       "duration_ms": 480066,
       "name": "Umshini Ka Zuma (feat. M.J & Azi)",
       "url": "https://open.spotify.com/track/1VCMFdzMGR3jJexhw0Xua5"
+    },
+    {
+      "album": {
+        "name": "Easy Target",
+        "url": "https://open.spotify.com/album/03VjqmwPth08wqClWNU6yu"
+      },
+      "artists": [
+        {
+          "name": "Mthandeni SK",
+          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
+        },
+        {
+          "name": "JAIVA ZIMNIKE",
+          "url": "https://open.spotify.com/artist/4ZlfxI1JT94psDrMWKiyxl"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300225,
+      "name": "Umshini Wokuthunga",
+      "url": "https://open.spotify.com/track/57zlZvpmhgHQxg5lCqd1vV"
     },
     {
       "album": {
@@ -61562,7 +61708,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 278804,
       "name": "Vuka Vuka Ksile!!! - Remix",
       "url": "https://open.spotify.com/track/0Dh9VhB2hjN4pkvPvreIzw"

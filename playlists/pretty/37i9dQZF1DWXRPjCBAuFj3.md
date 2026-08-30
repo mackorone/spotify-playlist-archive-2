@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > E lei traballa dentro all'auto e l'auto è tutta scassata
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,673 likes - 103 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,706 likes - 103 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

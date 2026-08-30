@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,229 likes - 283 songs - 13 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,230 likes - 283 songs - 13 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -292,4 +292,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 282 | [Spend It \(feat\. OK! Kyasia\)](https://open.spotify.com/track/6zfRheqLFZe0IvaEbpZsmM) | [That Girl Lay Lay](https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ), [OK Kyasia](https://open.spotify.com/artist/1GTgb0xt0CIQjAZs4vFWQG) | [Spend It \(feat\. OK! Kyasia\)](https://open.spotify.com/album/67iNUhgvTMn24eSEDKzrRi) | 2:28 |
 | 283 | [Set Trip](https://open.spotify.com/track/4K0VtxxPpiQ1BJ4EUK803r) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Illuminati](https://open.spotify.com/album/2EtFM5N9CfL29S56ZK1LhK) | 2:25 |
 
-Snapshot ID: `Aca1HgAAAAAdAqPwiMMS4c3l4+yb2RNe`
+Snapshot ID: `Aca6PAAAAAC2j7dvizjjm1/9Vf6rzh8g`

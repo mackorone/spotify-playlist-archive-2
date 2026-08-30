@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Aku Jeje
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,872 likes - 103 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,860 likes - 103 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

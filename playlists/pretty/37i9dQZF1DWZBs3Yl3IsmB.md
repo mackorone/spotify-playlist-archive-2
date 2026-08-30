@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBs3Yl3IsmB.md) - [plain]
 
 > \(no lyrics\) ✨ soft and chill instrumentals to relax, focus, or anything in between
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,563 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,593 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

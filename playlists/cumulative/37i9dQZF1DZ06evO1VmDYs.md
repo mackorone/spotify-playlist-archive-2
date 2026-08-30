@@ -4,7 +4,7 @@
 
 > This is Weezer\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 45 min
+88 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Hero](https://open.spotify.com/track/4Fj6KslSYYQ1kAbafiKoz0) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Hero](https://open.spotify.com/album/4FrRRR86MYCjoLFV8dgnm5) | 3:56 | 2024-05-11 | 2024-07-21 |
 | [Hoops](https://open.spotify.com/track/1If6M9icZkYzcj1XvfMyRI) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 2:35 | 2026-08-23 |  |
 | [I Just Threw Out The Love Of My Dreams](https://open.spotify.com/track/35SRuRfp5BvD1yArmXKNHO) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 2:37 | 2024-05-11 |  |
-| [I've Had It Up To Here](https://open.spotify.com/track/1n3z9C5QWGFcn5sueTO694) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) | 2:49 | 2026-02-22 | 2026-08-28 |
+| [I've Had It Up To Here](https://open.spotify.com/track/1n3z9C5QWGFcn5sueTO694) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) | 2:49 | 2026-02-22 |  |
 | [In The Garage](https://open.spotify.com/track/3If9Idk1rglOqubIsJcpmv) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 3:55 | 2024-05-11 |  |
 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 | 2024-05-12 |  |
 | [Island in the Sun \- Live from Spotify NYC](https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Spotify Sessions](https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T) | 3:44 | 2024-05-11 | 2026-08-23 |
@@ -80,7 +80,7 @@
 | [Take on Me](https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 3:43 | 2024-05-11 |  |
 | [Thank God for Girls](https://open.spotify.com/track/5uywMR3hTeVPoWaFDSliJb) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\)](https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz) | 3:30 | 2024-05-11 | 2025-11-29 |
 | [The Good Life](https://open.spotify.com/track/5CjwXdq5Z73Va0XCPFG5Aq) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 4:17 | 2024-05-11 |  |
-| [The Show Must Go On](https://open.spotify.com/track/1tMBNEwqLoaZ3RPJqcSRG1) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 3:23 | 2026-08-23 |  |
+| [The Show Must Go On](https://open.spotify.com/track/1tMBNEwqLoaZ3RPJqcSRG1) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 3:23 | 2026-08-23 | 2026-08-30 |
 | [The World Has Turned And Left Me Here](https://open.spotify.com/track/06isZAG9Bgm4jhPj7V0Rhx) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:19 | 2024-05-11 |  |
 | [Think Fast \(feat\. Weezer\)](https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 3:42 | 2024-05-11 |  |
 | [This Is Such A Pity](https://open.spotify.com/track/1Gg2fM3kis2b3egi64bsDd) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Make Believe](https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz) | 3:25 | 2025-12-10 | 2026-03-05 |
@@ -90,7 +90,8 @@
 | [Undone \- The Sweater Song](https://open.spotify.com/track/5WhtlIoxoZrMmuaWWEQhwV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 5:05 | 2024-05-11 |  |
 | [Up In the Clouds](https://open.spotify.com/track/4JpAqx578F0rpHEsxgHE9D) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 3:39 | 2026-08-23 |  |
 | [Waiting On You](https://open.spotify.com/track/3ovTVlWIAzB1XGG8dWPtFl) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 4:11 | 2024-12-19 | 2026-08-23 |
-| [We Might as Well Be Strangers \(ft\. Wednesday\)](https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [We Might as Well Be Strangers \(ft\. Wednesday\)](https://open.spotify.com/album/0L6BByZ7oX4EOrx1nHd2SS) | 3:34 | 2026-06-05 |  |
+| [We Might as Well Be Strangers \(ft\. Wednesday\)](https://open.spotify.com/track/4O0KzEvuPxIT0iom2QOdPO) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 3:34 | 2026-08-30 |  |
+| [We Might as Well Be Strangers \(ft\. Wednesday\)](https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [We Might as Well Be Strangers \(ft\. Wednesday\)](https://open.spotify.com/album/0L6BByZ7oX4EOrx1nHd2SS) | 3:34 | 2026-06-05 | 2026-08-30 |
 | [Why Bother?](https://open.spotify.com/track/43Qr1YBCY3vSVCvZuR0PCb) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 2:08 | 2024-05-11 |  |
 | [You Gave Your Love To Me Softly](https://open.spotify.com/track/6nfLKum9Lr2AuLkeDMoJ8e) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 1:58 | 2024-05-11 |  |
 | [You Might Think \- From "Cars 2"/Soundtrack Version](https://open.spotify.com/track/5tKlIgkTo8QZBVLGkyhEso) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Cars 2 \(Original Soundtrack\)](https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3) | 3:07 | 2024-05-11 |  |

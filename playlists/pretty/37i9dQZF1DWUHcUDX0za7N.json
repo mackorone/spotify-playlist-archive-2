@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Phyno",
-  "num_followers": 85652,
+  "num_followers": 85683,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-08-28 00:02:04",
       "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 102400,
+      "name": "TYPO",
+      "url": "https://open.spotify.com/track/4BkRYui4PKN8GY7ieFEP5F"
+    },
+    {
+      "added_at": "2026-08-28 00:02:04",
+      "album": {
         "name": "Gbewa",
         "url": "https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1"
       },
@@ -539,18 +555,18 @@
     {
       "added_at": "2026-08-28 00:02:04",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+        "name": "Anybody",
+        "url": "https://open.spotify.com/album/1hvFnDu5h6JzFPi7u3vIKv"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
         }
       ],
-      "duration_ms": 102400,
-      "name": "TYPO",
-      "url": "https://open.spotify.com/track/4BkRYui4PKN8GY7ieFEP5F"
+      "duration_ms": 150073,
+      "name": "Anybody",
+      "url": "https://open.spotify.com/track/0fXjbDO6HtqfyQBuPYPUuK"
     },
     {
       "added_at": "2026-08-28 00:02:04",
@@ -579,22 +595,6 @@
     {
       "added_at": "2026-08-28 00:02:04",
       "album": {
-        "name": "Anybody",
-        "url": "https://open.spotify.com/album/1hvFnDu5h6JzFPi7u3vIKv"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 150073,
-      "name": "Anybody",
-      "url": "https://open.spotify.com/track/0fXjbDO6HtqfyQBuPYPUuK"
-    },
-    {
-      "added_at": "2026-08-28 00:02:04",
-      "album": {
         "name": "STREET THERAPIST",
         "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
       },
@@ -611,6 +611,26 @@
       "duration_ms": 147118,
       "name": "Chose Me",
       "url": "https://open.spotify.com/track/3WFHfn4CPnm1uNnDYJ0KzG"
+    },
+    {
+      "added_at": "2026-08-28 00:02:04",
+      "album": {
+        "name": "Splendid (with ODUMODUBLVCK)",
+        "url": "https://open.spotify.com/album/4ynSvpsyERXcp6TCMW8EXA"
+      },
+      "artists": [
+        {
+          "name": "Osaze & Marcus",
+          "url": "https://open.spotify.com/artist/41TLQZzGqqKFI9haJjCAhy"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Splendid (with ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/0M5fXyCkMgXEGeugrrU19n"
     },
     {
       "added_at": "2026-08-28 00:02:04",
@@ -663,26 +683,6 @@
     {
       "added_at": "2026-08-28 00:02:04",
       "album": {
-        "name": "Splendid (with ODUMODUBLVCK)",
-        "url": "https://open.spotify.com/album/4ynSvpsyERXcp6TCMW8EXA"
-      },
-      "artists": [
-        {
-          "name": "Osaze & Marcus",
-          "url": "https://open.spotify.com/artist/41TLQZzGqqKFI9haJjCAhy"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Splendid (with ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/0M5fXyCkMgXEGeugrrU19n"
-    },
-    {
-      "added_at": "2026-08-28 00:02:04",
-      "album": {
         "name": "Ijoba",
         "url": "https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-08-28 00:02:04",
       "album": {
-        "name": "Pass By",
-        "url": "https://open.spotify.com/album/4tQXRSWzl4XdaUjjixyJye"
-      },
-      "artists": [
-        {
-          "name": "Yan Yan",
-          "url": "https://open.spotify.com/artist/0hHqk1w4aXPLfywJfbthSC"
-        }
-      ],
-      "duration_ms": 189675,
-      "name": "Pass By",
-      "url": "https://open.spotify.com/track/6VhAUz0pXdCZnIXsIMX4zC"
-    },
-    {
-      "added_at": "2026-08-28 00:02:04",
-      "album": {
         "name": "Business",
         "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 193087,
       "name": "Slow",
       "url": "https://open.spotify.com/track/2lkWbvwdxXlC93cXaSLnfI"
+    },
+    {
+      "added_at": "2026-08-28 00:02:04",
+      "album": {
+        "name": "Pass By",
+        "url": "https://open.spotify.com/album/4tQXRSWzl4XdaUjjixyJye"
+      },
+      "artists": [
+        {
+          "name": "Yan Yan",
+          "url": "https://open.spotify.com/artist/0hHqk1w4aXPLfywJfbthSC"
+        }
+      ],
+      "duration_ms": 189675,
+      "name": "Pass By",
+      "url": "https://open.spotify.com/track/6VhAUz0pXdCZnIXsIMX4zC"
     },
     {
       "added_at": "2026-08-28 00:02:04",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-08-28 00:02:04",
       "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 153070,
+      "name": "CLEAR",
+      "url": "https://open.spotify.com/track/2fdVCzqacaAJmUWglCLUK0"
+    },
+    {
+      "added_at": "2026-08-28 00:02:04",
+      "album": {
         "name": "then 1t g0t crazier",
         "url": "https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": "2026-08-28 00:02:04",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 153070,
-      "name": "CLEAR",
-      "url": "https://open.spotify.com/track/2fdVCzqacaAJmUWglCLUK0"
-    },
-    {
-      "added_at": "2026-08-28 00:02:04",
-      "album": {
         "name": "2:02PM IN LONDON (FREESTYLE)",
         "url": "https://open.spotify.com/album/1Tn7MQ77vIlV8aXIVYLxqR"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 223689,
       "name": "2:02PM IN LONDON (FREESTYLE)",
       "url": "https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4"
-    },
-    {
-      "added_at": "2026-08-28 00:02:04",
-      "album": {
-        "name": "Mortal Kombat",
-        "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
-      },
-      "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        }
-      ],
-      "duration_ms": 121061,
-      "name": "Mortal Kombat",
-      "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
     },
     {
       "added_at": "2026-08-28 00:02:04",
@@ -867,6 +851,22 @@
       "duration_ms": 147169,
       "name": "Gaou la (feat. 6uff)",
       "url": "https://open.spotify.com/track/0TVPbrQyDW6Rhi7hJa024K"
+    },
+    {
+      "added_at": "2026-08-28 00:02:04",
+      "album": {
+        "name": "Mortal Kombat",
+        "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        }
+      ],
+      "duration_ms": 121061,
+      "name": "Mortal Kombat",
+      "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
     },
     {
       "added_at": "2026-08-28 00:02:04",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-08-28 00:02:04",
       "album": {
-        "name": "Hat-Trick",
-        "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
-      },
-      "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        }
-      ],
-      "duration_ms": 137892,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
-    },
-    {
-      "added_at": "2026-08-28 00:02:04",
-      "album": {
         "name": "BlownBoy RU",
         "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 180000,
       "name": "Giveaway",
       "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
+    },
+    {
+      "added_at": "2026-08-28 00:02:04",
+      "album": {
+        "name": "Hat-Trick",
+        "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        }
+      ],
+      "duration_ms": 137892,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
     },
     {
       "added_at": "2026-08-28 00:02:04",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-08-28 00:02:04",
       "album": {
-        "name": "BLACK SHEEPIZEN (THE 13th DISCIPLE)",
-        "url": "https://open.spotify.com/album/4t3RZ4NB4N28vDajQ0KuqR"
-      },
-      "artists": [
-        {
-          "name": "TUFF KING",
-          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
-        }
-      ],
-      "duration_ms": 293877,
-      "name": "Suppressed Desires",
-      "url": "https://open.spotify.com/track/1xj4D82rjajEPBEaKgbITW"
-    },
-    {
-      "added_at": "2026-08-28 00:02:04",
-      "album": {
         "name": "THE RETURN (Eze Ony\u1ecbk\u1ecd)",
         "url": "https://open.spotify.com/album/7FPpLQbBQbsd8WW45xMllH"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 209142,
       "name": "Oku",
       "url": "https://open.spotify.com/track/04pjyMy5pDorNmCOPOS1pT"
+    },
+    {
+      "added_at": "2026-08-28 00:02:04",
+      "album": {
+        "name": "BLACK SHEEPIZEN (THE 13th DISCIPLE)",
+        "url": "https://open.spotify.com/album/4t3RZ4NB4N28vDajQ0KuqR"
+      },
+      "artists": [
+        {
+          "name": "TUFF KING",
+          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
+        }
+      ],
+      "duration_ms": 293877,
+      "name": "Suppressed Desires",
+      "url": "https://open.spotify.com/track/1xj4D82rjajEPBEaKgbITW"
     },
     {
       "added_at": "2026-08-28 00:02:04",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-08-28 00:02:04",
       "album": {
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140527,
+      "name": "SHAOLIN",
+      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
+    },
+    {
+      "added_at": "2026-08-28 00:02:04",
+      "album": {
         "name": "Promise Land",
         "url": "https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 252903,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/4hm34en9vhwHwHsOTHrHzM"
-    },
-    {
-      "added_at": "2026-08-28 00:02:04",
-      "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140527,
-      "name": "SHAOLIN",
-      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
     },
     {
       "added_at": "2026-08-28 00:02:04",

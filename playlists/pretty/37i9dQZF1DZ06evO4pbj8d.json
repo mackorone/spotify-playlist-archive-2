@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 12303,
+  "num_followers": 12308,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAB8VDaKAmZT8fv4xFPXc3Qu",
+  "snapshot_id": "apDPgAAAAADV6SyFt4MoHM5TB4ldLive",
   "tracks": [
     {
       "added_at": null,
@@ -83,8 +83,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kind",
-        "url": "https://open.spotify.com/album/2ZENNXHOYLKc6SyadrAwn8"
+        "name": "My Girl",
+        "url": "https://open.spotify.com/album/48rv1iGnI8ggoWnKNalXRR"
       },
       "artists": [
         {
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 247372,
-      "name": "Kind",
-      "url": "https://open.spotify.com/track/558Ue9d7sVURrvSiWQPYW2"
+      "duration_ms": 185054,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/25TrYuBFlgMIaaQDYZNJoa"
     },
     {
       "added_at": null,
@@ -115,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Girl",
-        "url": "https://open.spotify.com/album/48rv1iGnI8ggoWnKNalXRR"
+        "name": "Kind",
+        "url": "https://open.spotify.com/album/2ZENNXHOYLKc6SyadrAwn8"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 185054,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/25TrYuBFlgMIaaQDYZNJoa"
+      "duration_ms": 247372,
+      "name": "Kind",
+      "url": "https://open.spotify.com/track/558Ue9d7sVURrvSiWQPYW2"
     },
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miles Away",
-        "url": "https://open.spotify.com/album/5M91Xs1ghKkipZgS3wjrj9"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 177478,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/2WQqvurvxYL66vN8dWj55I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 201483,
       "name": "Friends (with Mt. Joy)",
       "url": "https://open.spotify.com/track/4smxhbkhynwlqp8cjVxuxg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miles Away",
+        "url": "https://open.spotify.com/album/5M91Xs1ghKkipZgS3wjrj9"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 177478,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/2WQqvurvxYL66vN8dWj55I"
     },
     {
       "added_at": null,
@@ -239,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sage (Feat. Adekunle Gold)",
-        "url": "https://open.spotify.com/album/7xOoOG9UTWxSnYWOiMEOor"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 173398,
-      "name": "Sage (Feat. Adekunle Gold)",
-      "url": "https://open.spotify.com/track/6YqpwusGcdhwS4ZFp1D0CX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 179202,
       "name": "We're All Gonna Die (with Noah Kahan)",
       "url": "https://open.spotify.com/track/5hqTZiZ6Kj3QOvhhr27W3L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sage (Feat. Adekunle Gold)",
+        "url": "https://open.spotify.com/album/7xOoOG9UTWxSnYWOiMEOor"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 173398,
+      "name": "Sage (Feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/6YqpwusGcdhwS4ZFp1D0CX"
     },
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 216167,
+      "name": "Taking Things For Granted",
+      "url": "https://open.spotify.com/track/3I6n5FDKw6TCjPw7JjLHSG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
         "url": "https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 270426,
       "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
       "url": "https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Proof Of Life",
-        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 216167,
-      "name": "Taking Things For Granted",
-      "url": "https://open.spotify.com/track/3I6n5FDKw6TCjPw7JjLHSG"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OBSERVATIONS FROM A CROWDED ROOM",
-        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 189859,
-      "name": "I\u2019D MISS THE BIRDS",
-      "url": "https://open.spotify.com/track/2FVEApwIvd5154zX8m7Rx1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 189722,
       "name": "Changes",
       "url": "https://open.spotify.com/track/76nW7HHrLWElA2t2zJMt1k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OBSERVATIONS FROM A CROWDED ROOM",
+        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 189859,
+      "name": "I\u2019D MISS THE BIRDS",
+      "url": "https://open.spotify.com/track/2FVEApwIvd5154zX8m7Rx1"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 149500,
-      "name": "STRONG ONES",
-      "url": "https://open.spotify.com/track/2ZHO25QseXKr2ip1vuXvOg"
+      "duration_ms": 196008,
+      "name": "AM I?",
+      "url": "https://open.spotify.com/track/1J2prWTjfIrfjQBHa74RH4"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 196008,
-      "name": "AM I?",
-      "url": "https://open.spotify.com/track/1J2prWTjfIrfjQBHa74RH4"
+      "duration_ms": 149500,
+      "name": "STRONG ONES",
+      "url": "https://open.spotify.com/track/2ZHO25QseXKr2ip1vuXvOg"
     },
     {
       "added_at": null,

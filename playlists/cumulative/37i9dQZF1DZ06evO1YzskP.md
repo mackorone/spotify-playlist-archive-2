@@ -4,14 +4,14 @@
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-145 songs - 7 hr 7 min
+146 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Al Modo Culiacán](https://open.spotify.com/track/63eQoXTDQFMi8hO5D0fcUx) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Instruxion](https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4) | [Al Modo Culiacán](https://open.spotify.com/album/6Y3QJ12QIF9hD9jyIZq7gk) | 1:51 | 2024-01-29 | 2024-07-07 |
 | [ALUCINACIONES](https://open.spotify.com/track/21XR5z4CSZDDc6WVAwrGk8) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [ALUCINACIONES](https://open.spotify.com/album/4iw04bHaDtM9qgtXCo950k) | 3:04 | 2025-02-23 | 2025-08-31 |
 | [AMARGURA](https://open.spotify.com/track/0QQnauodMwr7tLCmhG1L3O) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp) | 3:18 | 2024-01-29 | 2024-03-01 |
-| [Amigo 09](https://open.spotify.com/track/5XmiWFjqBClnlcAgDD69Vb) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr) | 2:49 | 2025-05-31 |  |
+| [Amigo 09](https://open.spotify.com/track/5XmiWFjqBClnlcAgDD69Vb) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr) | 2:49 | 2025-05-31 | 2026-08-30 |
 | [Amigo 09](https://open.spotify.com/track/6u2zEs6QmaVYbuQFzh8JVQ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:49 | 2024-01-29 | 2025-05-31 |
 | [Ante la gente](https://open.spotify.com/track/3X10K4WsoLqqbrMomStv4W) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [REGRESA](https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr) | 3:49 | 2025-12-26 | 2026-04-25 |
 | [Apenas es Martes](https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Apenas es Martes](https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx) | 3:36 | 2024-01-29 | 2026-07-19 |
@@ -145,6 +145,7 @@
 | [Somos Mayiza](https://open.spotify.com/track/4M6GLOcjYod234PrPPat4r) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Somos Mayiza](https://open.spotify.com/album/76oTb9XZQqKwiXa8U8UxoW) | 3:12 | 2025-06-01 |  |
 | [SUPERESTRELLA](https://open.spotify.com/track/06W6nXdcPEMCv4VD1g89Rt) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [SUPERESTRELLA](https://open.spotify.com/album/31bTbGhBUXIHosoC1BAbyA) | 2:36 | 2026-08-08 |  |
 | [Sálvame](https://open.spotify.com/track/3zO9fdTPrJ1eCxEFdCboN1) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Sálvame](https://open.spotify.com/album/6BlzQb5tqTUSLQwmFVYMNB) | 3:13 | 2024-12-22 | 2025-12-24 |
+| [Sólo Un Día](https://open.spotify.com/track/47GXXBeBf5Sn4URZCrN1t3) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Sólo Un Día](https://open.spotify.com/album/1QxspiuEU6PfmiUyboMSPv) | 3:21 | 2026-08-30 |  |
 | [Tiempos De Guerra](https://open.spotify.com/track/4H8FjCpqI9EXaau6T5yILG) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:45 | 2024-01-29 | 2025-06-02 |
 | [Tiempos De Guerra](https://open.spotify.com/track/6FU9EaAAUBVhC1xwMPiKQ9) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [La Receta Del Corrido](https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr) | 2:45 | 2025-06-02 |  |
 | [TMS](https://open.spotify.com/track/5VzwO9WrXtlcOgdMxCsT44) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Villegas](https://open.spotify.com/artist/6q8Pg7R3cevAcZjiVsawPn) | [TMS](https://open.spotify.com/album/6oqZJRc2yor8igHIayg5sq) | 2:41 | 2026-06-20 |  |

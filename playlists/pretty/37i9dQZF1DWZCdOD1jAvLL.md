@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Stank face activated\. Cover: Kelland, Rhyder
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,722 likes - 94 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,718 likes - 94 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 63 | [Rock The Rhythm \(I Like That\)](https://open.spotify.com/track/5IH4qsWYYpC4o1SNm1aQX2) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [Richard Vission](https://open.spotify.com/artist/3EBdhh05GoAX3lIqJSPVXt), [Static Revenger](https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD) | [Club Rompas, Vol\. 2](https://open.spotify.com/album/5TbqhCXehVUcD9htuxteQX) | 2:49 |
 | 64 | [REZORECTA II](https://open.spotify.com/track/2TTLm6EM65GtJq2E7Fup8o) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC) | [REZORECTA II](https://open.spotify.com/album/5lFYwo7MQufGrPGe5Uka1J) | 4:30 |
 | 65 | [Motion Detected](https://open.spotify.com/track/4NOsf6p2Xnqpupe3dnR4xn) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Motion Detected](https://open.spotify.com/album/4m7RgMtt0PoU4tsgM2xOQ2) | 3:12 |
-| 66 | [Sun Goes Down \(feat\. Camden Cox\)](https://open.spotify.com/track/6foHOZ75gZg19BphIKEFw4) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Sun Goes Down \(feat\. Camden Cox\)](https://open.spotify.com/album/16sGFu6kYUl8S1Au9enD7k) | 5:46 |
+| 66 | [Sun Goes Down](https://open.spotify.com/track/6foHOZ75gZg19BphIKEFw4) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Sun Goes Down](https://open.spotify.com/album/16sGFu6kYUl8S1Au9enD7k) | 5:46 |
 | 67 | [NEED YOU TONIGHT](https://open.spotify.com/track/3SCx4mLXTc6FHWSbnTqZ0v) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [HOTLIFE](https://open.spotify.com/album/2Yu4om24Rz6igbGawd8Aak) | 5:29 |
 | 68 | [Don't Cha](https://open.spotify.com/track/4J3qGm51suBgqxJS59L6j4) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Don't Cha \(with BLOND:ISH\)](https://open.spotify.com/album/20H5mNlmlG9sn4QyVpLtIA) | 2:54 |
 | 69 | [Actin' Tough](https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM) | [Dean Turnley](https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd) | [Actin' Tough](https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ) | 3:07 |

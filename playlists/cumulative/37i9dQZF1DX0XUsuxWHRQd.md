@@ -4,7 +4,7 @@
 
 > New music from Rod Wave,  Young Thug's YSL and Yung Miami.
 
-2,866 songs - 6 day 4 hr 53 min
+2,867 songs - 6 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,7 +416,7 @@
 | [Bussin](https://open.spotify.com/track/7lcI4X8RZxK4zIknJcwpBq) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Bussin](https://open.spotify.com/album/5cs7xv0RHTRhw9S7vw529n) | 2:16 | 2022-02-11 | 2022-04-02 |
 | [Bussin \(feat\. Lil Pump\)](https://open.spotify.com/track/4eZKAB9uNMIG0yNri34PBp) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [Dirt Bag](https://open.spotify.com/album/4eAiHYd3nih3os2BqHm0vt) | 2:14 | 2019-08-09 | 2019-10-11 |
 | [Bussin \(with Rob49\)](https://open.spotify.com/track/2k2ygnRjt8MLu22HWsqym2) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Bussin \(with Rob49\)](https://open.spotify.com/album/4k19gVgEFR3eja9YAore44) | 2:44 | 2024-03-29 | 2024-05-04 |
-| [Butterflies](https://open.spotify.com/track/3lF4ZPLhWIfbiR2G74PGdn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Butterflies](https://open.spotify.com/album/6WxOLlIblUtwDp03fLZBmW) | 3:13 | 2026-08-21 |  |
+| [Butterflies](https://open.spotify.com/track/3lF4ZPLhWIfbiR2G74PGdn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Butterflies](https://open.spotify.com/album/6WxOLlIblUtwDp03fLZBmW) | 3:13 | 2026-08-21 | 2026-08-30 |
 | [By My Lonely](https://open.spotify.com/track/25AEevSO1lu4EKMIP5Sy5p) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [I'm Him](https://open.spotify.com/album/7JgDLtQ8g7RrfNdLf4Dk2I) | 2:10 | 2019-09-27 | 2019-10-11 |
 | [By My Side](https://open.spotify.com/track/6czMVryRhYgdMJz47iki8s) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [By My Side](https://open.spotify.com/album/0ZrJErz3iGVMuEf8TPZNox) | 3:27 | 2026-02-13 | 2026-02-21 |
 | [By Myself \(feat\. Dj E Money & G6reddot\)](https://open.spotify.com/track/3ktptX2yF9kOTairLxOPWj) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Dj E Money](https://open.spotify.com/artist/5vLXLmhOx2FLRo0ZwAd1Ue), [G6reddot](https://open.spotify.com/artist/4KN1fLTWx19e2jmVpotGmq) | [By Myself \(feat\. Dj E Money & G6reddot\)](https://open.spotify.com/album/2z6owfrCNbOou2vZCjtzbJ) | 3:57 | 2025-07-25 | 2025-08-10 |
@@ -1654,6 +1654,7 @@
 | [No Angels \(with Lola Brooke\)](https://open.spotify.com/track/41s7nEKyANNfGaxRyMyFGI) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:30 | 2023-06-23 | 2023-08-19 |
 | [No Bap](https://open.spotify.com/track/1mSYxiYncRwdKx6cT0bQoP) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 2:00 | 2023-07-14 | 2023-07-29 |
 | [No Bars](https://open.spotify.com/track/4aJYaQide0vBqT3ErvVKvp) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [No Bars](https://open.spotify.com/album/4Ad0AJ7kZ296e7wu8Ri4QJ) | 2:56 | 2023-07-14 | 2023-07-22 |
+| [No Brakes \(feat\. Drake\)](https://open.spotify.com/track/4kzHrtFZN81CuF0HHTiDyu) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [The Documentary III](https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo) | 2:18 | 2026-08-29 |  |
 | [NO CALL NO SHOW \(feat\. NAV\)](https://open.spotify.com/track/48AgSXjkND0Ufv0sOCAhPi) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [SAME DIFFERENCE](https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS) | 5:16 | 2026-04-03 | 2026-04-11 |
 | [No Cap \(feat\. Rich The Kid\)](https://open.spotify.com/track/7mrhHSuzD5DbREtXat77rK) | [83 Babies](https://open.spotify.com/artist/0IBDUrXqsJZAAnipcupIRc), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [No Cap \(feat\. Rich The Kid\)](https://open.spotify.com/album/0ttGal8Gg0Okxy5GF0Mm7X) | 4:20 | 2019-10-04 | 2019-10-11 |
 | [No Cap \(feat\. Rich The Kid\)](https://open.spotify.com/track/7gYE3GWQN3Jf6z9J8EEbdy) | [83 Babies](https://open.spotify.com/artist/0IBDUrXqsJZAAnipcupIRc), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [No Cap \(feat\. Rich The Kid\)](https://open.spotify.com/album/03CDw8u9lCLG7onVXlHvaw) | 4:20 | 2019-07-12 | 2019-10-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Luna Simao
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,905 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,901 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 30 | [Fußmatte](https://open.spotify.com/track/3gFLsFwuD2r7rjUldi108r) | [Luna Simao](https://open.spotify.com/artist/7zXcUC3oYfken45edomJZC) | [Fußmatte](https://open.spotify.com/album/5IY4Lr2ZZKBVRqirL6rbiD) | 3:09 |
 | 31 | [BUTCH IM TANK \(L.M.S\)](https://open.spotify.com/track/3T3bx5A1F0lM5NETm0fD2h) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [BUTCH IM TANK \(L.M.S\)](https://open.spotify.com/album/4JhusyOulp7HWQDnFQ8CGu) | 2:59 |
 | 32 | [Wachsen \(feat\. MOLA\)](https://open.spotify.com/track/5rk1wfhIEJvvLn5aKHwXcg) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Wachsen \(feat\. MOLA\)](https://open.spotify.com/album/0CE7lHehDeXFkx5pAMUTL7) | 2:29 |
-| 33 | [chasing love and missing people](https://open.spotify.com/track/0b0mBhKTaAbLyFcUanja51) | [Malou Lovis](https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U) | [chasing love and missing people](https://open.spotify.com/album/1aopweZWLHNYjHoYJwJvqn) | 2:53 |
-| 34 | [c.260611](https://open.spotify.com/track/6Lv6GBv5FGEANBQ3a5eXF4) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [c.260611](https://open.spotify.com/album/2LclI5yd7z9ZmyFMDFXFsu) | 1:45 |
+| 33 | [c.260611](https://open.spotify.com/track/6Lv6GBv5FGEANBQ3a5eXF4) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [c.260611](https://open.spotify.com/album/2LclI5yd7z9ZmyFMDFXFsu) | 1:45 |
+| 34 | [chasing love and missing people](https://open.spotify.com/track/0b0mBhKTaAbLyFcUanja51) | [Malou Lovis](https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U) | [chasing love and missing people](https://open.spotify.com/album/1aopweZWLHNYjHoYJwJvqn) | 2:53 |
 | 35 | [Opium](https://open.spotify.com/track/5nL5mdMNimzgHSZN6ji8kp) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Opium](https://open.spotify.com/album/5G6N3XR8brzL9dZBPSQ741) | 2:26 |
 | 36 | [This Is Nice](https://open.spotify.com/track/1PATluDwNKgyj88RJA4a1Z) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [This Is Nice](https://open.spotify.com/album/1XdY3LFfrRMLpQOtirJq0l) | 2:38 |
 | 37 | [Nokia](https://open.spotify.com/track/1eTrlwomm1doXZJQ7dKPUM) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN) | [Nokia](https://open.spotify.com/album/6tM1eD2UjRMeHC1s2BH9Kn) | 5:17 |

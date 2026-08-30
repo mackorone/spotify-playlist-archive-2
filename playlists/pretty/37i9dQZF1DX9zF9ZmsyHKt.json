@@ -1,6 +1,6 @@
 {
   "description": "O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batid\u00e3o",
-  "num_followers": 362637,
+  "num_followers": 362660,
   "original_name": "Melodys Marcantes",
   "owner": {
     "name": "Spotify",
@@ -623,8 +623,8 @@
     {
       "added_at": "2026-08-14 13:23:40",
       "album": {
-        "name": "Fica ou Sai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0XRhuNGN7G2OKsDvKRoIJx"
+        "name": "Esse Jogo Acabou",
+        "url": "https://open.spotify.com/album/6Jk9HrMwJEKjR1XHsrHDQH"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/3yMbb5fw0spHqSkVZpsuGq"
         }
       ],
-      "duration_ms": 141754,
-      "name": "Fica ou Sai - Ao Vivo",
-      "url": "https://open.spotify.com/track/7uFUgHj2oYSgnGQwnQbxpJ"
+      "duration_ms": 189885,
+      "name": "Esse Jogo Acabou",
+      "url": "https://open.spotify.com/track/7r7JTB4CTLtILAQ4cR4mH1"
     },
     {
       "added_at": "2026-08-14 13:23:40",
@@ -707,8 +707,8 @@
     {
       "added_at": "2026-08-14 13:23:40",
       "album": {
-        "name": "Esse Jogo Acabou",
-        "url": "https://open.spotify.com/album/6Jk9HrMwJEKjR1XHsrHDQH"
+        "name": "Fica ou Sai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0XRhuNGN7G2OKsDvKRoIJx"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3yMbb5fw0spHqSkVZpsuGq"
         }
       ],
-      "duration_ms": 189885,
-      "name": "Esse Jogo Acabou",
-      "url": "https://open.spotify.com/track/7r7JTB4CTLtILAQ4cR4mH1"
+      "duration_ms": 141754,
+      "name": "Fica ou Sai - Ao Vivo",
+      "url": "https://open.spotify.com/track/7uFUgHj2oYSgnGQwnQbxpJ"
     },
     {
       "added_at": "2026-08-14 13:23:40",
@@ -1031,22 +1031,18 @@
     {
       "added_at": "2026-08-14 13:23:40",
       "album": {
-        "name": "Seu Novo Eu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0Zs6je7qxwW5lTpdd6saMx"
+        "name": "Marcantes",
+        "url": "https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX"
       },
       "artists": [
         {
           "name": "Viviane Batid\u00e3o",
           "url": "https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj"
-        },
-        {
-          "name": "Zaynara",
-          "url": "https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb"
         }
       ],
-      "duration_ms": 199157,
-      "name": "Seu Novo Eu - Ao Vivo",
-      "url": "https://open.spotify.com/track/127oSFjtR6MbXGCRKzz39U"
+      "duration_ms": 276526,
+      "name": "Vem Meu Amor",
+      "url": "https://open.spotify.com/track/45bMR3o3SPGBRNf6CBFian"
     },
     {
       "added_at": "2026-08-14 13:23:40",
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2026-08-14 13:23:40",
       "album": {
-        "name": "Marcantes",
-        "url": "https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX"
+        "name": "Seu Novo Eu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0Zs6je7qxwW5lTpdd6saMx"
       },
       "artists": [
         {
           "name": "Viviane Batid\u00e3o",
           "url": "https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj"
+        },
+        {
+          "name": "Zaynara",
+          "url": "https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb"
         }
       ],
-      "duration_ms": 276526,
-      "name": "Vem Meu Amor",
-      "url": "https://open.spotify.com/track/45bMR3o3SPGBRNf6CBFian"
+      "duration_ms": 199157,
+      "name": "Seu Novo Eu - Ao Vivo",
+      "url": "https://open.spotify.com/track/127oSFjtR6MbXGCRKzz39U"
     }
   ],
   "unique_name": "Melodys Marcantes",

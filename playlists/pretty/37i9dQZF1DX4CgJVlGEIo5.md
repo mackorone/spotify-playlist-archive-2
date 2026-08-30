@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 
 > Cherish the day with these low\-key favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,935 likes - 82 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,937 likes - 82 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 3 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 |
 | 4 | [Let Her Go \(feat\. Ed Sheeran\) \- Anniversary Edition](https://open.spotify.com/track/1nHKI4L5pWrN5CUvW07nHP) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [All The Little Lights \(Anniversary Edition\)](https://open.spotify.com/album/25bKp06DTIMODKnzXQf4gR) | 4:16 |
 | 5 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:58 |
-| 6 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 |
-| 7 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 |
+| 6 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 |
+| 7 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 |
 | 8 | [This Too Shall Last](https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:42 |
 | 9 | [Simple Song](https://open.spotify.com/track/70HWRkitkAKfos500LBk0T) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [The Boy Who Cried Wolf](https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV) | 3:48 |
 | 10 | [Heart's Content](https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 3:34 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 34 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
 | 35 | [95](https://open.spotify.com/track/38U9MNddSnOBKEhV6g94gw) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Picture This](https://open.spotify.com/album/5RvSeWeeZHU1blLJqcOgnu) | 3:54 |
 | 36 | [Caroline](https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:35 |
-| 37 | [Beat of My Heart](https://open.spotify.com/track/44fTa1co7zmof732liprRg) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [Tides](https://open.spotify.com/album/0Bf1RY3TNvIrvsKlTZYJjk) | 3:35 |
-| 38 | [Miles Away](https://open.spotify.com/track/1iy9FLjmcGQdjAXWi1y4D1) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Miles Away](https://open.spotify.com/album/2qki4e1IDCRpNJvyGE4xjD) | 3:52 |
+| 37 | [Miles Away](https://open.spotify.com/track/1iy9FLjmcGQdjAXWi1y4D1) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Miles Away](https://open.spotify.com/album/2qki4e1IDCRpNJvyGE4xjD) | 3:52 |
+| 38 | [Beat of My Heart](https://open.spotify.com/track/44fTa1co7zmof732liprRg) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [Tides](https://open.spotify.com/album/0Bf1RY3TNvIrvsKlTZYJjk) | 3:35 |
 | 39 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
 | 40 | [If I Didn’t Love You](https://open.spotify.com/track/3zQu8poEmXrOYEeju3ohuJ) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 4:06 |
 | 41 | [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 |

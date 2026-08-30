@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Hanzel La H, Hades66,  Arcángel, Luar La L, Kendo Kaponi y Ñengo Flow plantando cara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,867 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,890 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 | 37 | [COMPETENCIA](https://open.spotify.com/track/1hrRcfsancQb92OcifmMV1) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA PANTERA NEGRA](https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z) | 3:10 |
 | 38 | [NO HAGO TRAP](https://open.spotify.com/track/0Z3g8AK7UWHoPPgJqv6iUj) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [166](https://open.spotify.com/album/6apkynw8DBUza2600Wm70t) | 2:10 |
 | 39 | [Huelemos Rosado](https://open.spotify.com/track/23cLCLCiEdYFb5raIdmEa1) | [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Huelemos Rosado](https://open.spotify.com/album/1n2OROTZFLYfNXT5W1BJMt) | 2:18 |
-| 40 | [Las Piponas \(Remix\)](https://open.spotify.com/track/281YJmnThveWjsWVic9Ym6) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Piponas \(Remix\)](https://open.spotify.com/album/6FnnT3IOidLkfgQtrC2RJb) | 4:04 |
+| 40 | [Las Piponas \- Remix](https://open.spotify.com/track/281YJmnThveWjsWVic9Ym6) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Piponas \(Remix\)](https://open.spotify.com/album/6FnnT3IOidLkfgQtrC2RJb) | 4:04 |
 | 41 | [La Franquicia](https://open.spotify.com/track/7wveZaf1jTbvYJ0bqF3693) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Papi Arca](https://open.spotify.com/album/0TnXanpr5ASzEcS5lEaKRN) | 2:27 |
 | 42 | [La K y la J \(feat\. Kris R.\)](https://open.spotify.com/track/33WXomaEcsTpggOEpu9iQZ) | [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [The Essence](https://open.spotify.com/artist/1pe9Q1b2o1PueqfqjkoT5C) | [La K y la J \(feat\. Kris R.\)](https://open.spotify.com/album/6AoQAO5fem0he9Mcr6XSGD) | 3:15 |
 | 43 | [Sport+ RMX](https://open.spotify.com/track/52IODvPwFf6LEzNOGKMSrZ) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sport+ RMX](https://open.spotify.com/album/1BtoYJ33HGhv3x5Sn8hg3L) | 3:39 |

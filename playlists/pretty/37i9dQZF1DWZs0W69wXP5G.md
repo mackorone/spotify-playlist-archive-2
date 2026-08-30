@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 > Everything Broadway\-adjacent\. Cover:  Hamilton at the 2025 Tony Awards
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,220 likes - 85 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,223 likes - 85 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 679465,
+  "num_followers": 679515,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABwckih+BysO6OOAmC1+1Uv",
+  "snapshot_id": "apDPgAAAAADrbnM6qj5ESYIq1XGAfVgl",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KILL YOURSELF Part XII: The Dark Glacier Saga",
-        "url": "https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 123468,
-      "name": "2nd Hand",
-      "url": "https://open.spotify.com/track/3YeQsJs1FdLI3w0BqWwpmk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THY KINGDOM COME",
         "url": "https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 180054,
       "name": "Full of Grace (I Refuse to Tend My Own Grave)",
       "url": "https://open.spotify.com/track/5mSRLKGJ0Uc7FW7SlJFKaP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KILL YOURSELF Part XII: The Dark Glacier Saga",
+        "url": "https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 123468,
+      "name": "2nd Hand",
+      "url": "https://open.spotify.com/track/3YeQsJs1FdLI3w0BqWwpmk"
     },
     {
       "added_at": null,

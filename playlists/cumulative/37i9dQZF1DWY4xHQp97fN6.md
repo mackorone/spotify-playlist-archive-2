@@ -4,7 +4,7 @@
 
 > Mood: Turnt Cover: Lil Baby
 
-1,212 songs - 2 day 9 hr 27 min
+1,213 songs - 2 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -720,6 +720,7 @@
 | [NISSAN ALTIMA](https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [NISSAN ALTIMA](https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ) | 2:08 | 2024-08-31 | 2024-09-28 |
 | [No Amiris](https://open.spotify.com/track/0dyiqgUWu1NimAZtx1XVi8) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [GHETTO](https://open.spotify.com/album/0CsE05G84CsmW5Uqgh1WC3) | 2:27 | 2023-11-10 | 2024-03-16 |
 | [No Angels \(with Lola Brooke\)](https://open.spotify.com/track/41s7nEKyANNfGaxRyMyFGI) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:30 | 2023-06-23 | 2023-09-30 |
+| [No Brakes \(feat\. Drake\)](https://open.spotify.com/track/4kzHrtFZN81CuF0HHTiDyu) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [The Documentary III](https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo) | 2:18 | 2026-08-29 |  |
 | [NO CALL NO SHOW \(feat\. NAV\)](https://open.spotify.com/track/48AgSXjkND0Ufv0sOCAhPi) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [SAME DIFFERENCE](https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS) | 5:16 | 2026-04-03 | 2026-05-09 |
 | [No Face](https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Face](https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h) | 2:17 | 2024-08-31 | 2026-05-19 |
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2021-09-03 | 2022-04-23 |

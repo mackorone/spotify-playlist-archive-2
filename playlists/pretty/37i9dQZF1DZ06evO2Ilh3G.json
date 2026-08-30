@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 120168,
+  "num_followers": 120171,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABNzSfk9PUmpZyAXS2PhcmY",
+  "snapshot_id": "apDPgAAAAACC+xVGjdzSw+4iN+GnVAlo",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Style Rare (with Gunna)",
-        "url": "https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0"
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
       },
       "artists": [
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 208800,
-      "name": "Style Rare (with Gunna)",
-      "url": "https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni"
+      "duration_ms": 96013,
+      "name": "ON THE RIVER",
+      "url": "https://open.spotify.com/track/1aLpfH1M7Y4ZngOmSiHk0l"
     },
     {
       "added_at": null,
@@ -707,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+        "name": "Style Rare (with Gunna)",
+        "url": "https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0"
       },
       "artists": [
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 96013,
-      "name": "ON THE RIVER",
-      "url": "https://open.spotify.com/track/1aLpfH1M7Y4ZngOmSiHk0l"
+      "duration_ms": 208800,
+      "name": "Style Rare (with Gunna)",
+      "url": "https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni"
     },
     {
       "added_at": null,

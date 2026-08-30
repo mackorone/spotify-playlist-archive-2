@@ -2071,24 +2071,6 @@
     },
     {
       "album": {
-        "name": "Last Christmas (Spotify Singles Holiday)",
-        "url": "https://open.spotify.com/album/1WQWzqG7uf68jQohlrsaR1"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "date_added": "2025-10-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 223213,
-      "name": "Last Christmas (Spotify Singles Holiday)",
-      "url": "https://open.spotify.com/track/2JuCzvXu9tIUU2ZDDgQ0vG"
-    },
-    {
-      "album": {
         "name": "Last Christmas (Recorded At Metropolis Studios, London)",
         "url": "https://open.spotify.com/album/60HYitDBZuRnyquGeoaDtj"
       },
@@ -2104,6 +2086,24 @@
       "duration_ms": 216547,
       "name": "Last Christmas - Recorded At Metropolis Studios, London",
       "url": "https://open.spotify.com/track/7vaojIyvb52pVcNAWf2sG5"
+    },
+    {
+      "album": {
+        "name": "Last Christmas (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/1WQWzqG7uf68jQohlrsaR1"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223213,
+      "name": "Last Christmas - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/2JuCzvXu9tIUU2ZDDgQ0vG"
     },
     {
       "album": {

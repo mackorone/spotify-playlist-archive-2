@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAB23bkbEm3+wxIJr+syU/OE",
+  "snapshot_id": "apDPgAAAAABkk6edgiGcWEfmum9Vty3I",
   "tracks": [
     {
       "added_at": null,
@@ -563,30 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zaystreet",
-        "url": "https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Zaytoven",
-          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 209099,
-      "name": "Black Migo",
-      "url": "https://open.spotify.com/track/31l9ecQfaEpEBe78KmpraS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Streetz Krazy",
         "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
       },
@@ -603,6 +579,26 @@
       "duration_ms": 176901,
       "name": "Come Eat Wit Us",
       "url": "https://open.spotify.com/track/7loTO2VOr9KxJRL7cJPkw4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wish Me Well 2",
+        "url": "https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Bloodshed",
+      "url": "https://open.spotify.com/track/1EkSpJmeQoevNGEMSGwOS4"
     },
     {
       "added_at": null,
@@ -627,22 +623,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wish Me Well 2",
-        "url": "https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR"
+        "name": "Zaystreet",
+        "url": "https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf"
       },
       "artists": [
         {
-          "name": "YFN Lucci",
-          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
-        },
-        {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Zaytoven",
+          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 213026,
-      "name": "Bloodshed",
-      "url": "https://open.spotify.com/track/1EkSpJmeQoevNGEMSGwOS4"
+      "duration_ms": 209099,
+      "name": "Black Migo",
+      "url": "https://open.spotify.com/track/31l9ecQfaEpEBe78KmpraS"
     },
     {
       "added_at": null,
@@ -775,30 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trap House 3",
-        "url": "https://open.spotify.com/album/4iTLFFT8jaDsQcLnS08vvL"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "Muddy (feat. Young Dolph & Young Scooter)",
-      "url": "https://open.spotify.com/track/282NTCv9r0PUgcS9c1b3iK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fast Lane Juugin",
         "url": "https://open.spotify.com/album/2Xt54zrcPX0QoWOSI0maoX"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 184613,
       "name": "Big Guwap (feat. Young Scooter)",
       "url": "https://open.spotify.com/track/66szIKCdNwvZ9lY4j8t1kO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trap House 3",
+        "url": "https://open.spotify.com/album/4iTLFFT8jaDsQcLnS08vvL"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Muddy (feat. Young Dolph & Young Scooter)",
+      "url": "https://open.spotify.com/track/282NTCv9r0PUgcS9c1b3iK"
     },
     {
       "added_at": null,
@@ -943,22 +943,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Young Jefe",
-        "url": "https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q"
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/47Q0J5RzfzIrTd6KBYmsbK"
       },
       "artists": [
         {
-          "name": "Shy Glizzy",
-          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         },
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 213773,
-      "name": "Medellin (feat. Young Scooter)",
-      "url": "https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL"
+      "duration_ms": 201880,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/1OwslJYziEr3VrE7CFmVd3"
     },
     {
       "added_at": null,
@@ -979,22 +979,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Timing",
-        "url": "https://open.spotify.com/album/47Q0J5RzfzIrTd6KBYmsbK"
+        "name": "Young Jefe",
+        "url": "https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Shy Glizzy",
+          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
         },
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 201880,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/1OwslJYziEr3VrE7CFmVd3"
+      "duration_ms": 213773,
+      "name": "Medellin (feat. Young Scooter)",
+      "url": "https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL"
     },
     {
       "added_at": null,

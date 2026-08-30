@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > longe dos perigos noturnos
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,110 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,120 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 59 | [I NEED IT \(feat\. Syd & Tank\)](https://open.spotify.com/track/0cqy3SDGmrYNND6Ej2Il0q) | [Camper](https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [I NEED IT \(feat\. Syd & Tank\)](https://open.spotify.com/album/2rsp9SfNHnsTgdtBVfNXlG) | 3:44 |
 | 60 | [Coração \- A COLORS SHOW](https://open.spotify.com/track/7Cc6xpJYfWtv5rd6njoscP) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Coração \- A COLORS SHOW](https://open.spotify.com/album/50E5vM6nba29Ue1RDs16kk) | 2:52 |
 | 61 | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7) | 3:21 |
-| 62 | [Tricks Are For Kids](https://open.spotify.com/track/4G59GzF7Enxx2XiGKbYkVw) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [Tricks Are For Kids](https://open.spotify.com/album/1OuyXG6n4qbD91SUPss8pO) | 2:20 |
-| 63 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Seamless \(with Kehlani\)](https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV) | 3:15 |
+| 62 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Seamless \(with Kehlani\)](https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV) | 3:15 |
+| 63 | [Tricks Are For Kids](https://open.spotify.com/track/4G59GzF7Enxx2XiGKbYkVw) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [Tricks Are For Kids](https://open.spotify.com/album/1OuyXG6n4qbD91SUPss8pO) | 2:20 |
 | 64 | [Choosin'](https://open.spotify.com/track/6ixs1OVZpJ4gIPDdpzZqvn) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Choosin'](https://open.spotify.com/album/6bW3Tm54WdO1OdHtBKckdy) | 2:56 |
 | 65 | [Distant Lover](https://open.spotify.com/track/6Eknh5d7pw38C7ZqhydyKj) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Distant Lover](https://open.spotify.com/album/0oz4ODkiBDQxvR1t3XIy9J) | 2:58 |
 | 66 | [What's Going On \(Don't Rush\)](https://open.spotify.com/track/4FBhmyeFonHfP20kClXg20) | [Lizzen](https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [What's Going On \(Don't Rush\)](https://open.spotify.com/album/2R6KXVWCi4eUSVoVwKoWAd) | 3:24 |

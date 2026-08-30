@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 
 > This is Parker McCollum\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,240 likes - 49 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,256 likes - 49 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 | 36 | [Memphis Rain](https://open.spotify.com/track/5Z1JPGFIbXejEyXG76jnJV) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci) | 4:12 |
 | 37 | [Santa Fe](https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Postcards From Texas](https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK) | 3:03 |
 | 38 | [Galveston Bay](https://open.spotify.com/track/7a2hpT1sCwzcRyLl5pCTUI) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P) | 4:06 |
-| 39 | [Paper Umbrellas](https://open.spotify.com/track/52MQYkbFuv9UzA8wz927xO) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Paper Umbrellas](https://open.spotify.com/album/1alHcx2t1SKjGgF4P9Q0pz) | 3:29 |
+| 39 | [Hallie Ray Light](https://open.spotify.com/track/3jSe4YNN2wloL5eI6j1yty) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Hollywood Gold](https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4) | 3:41 |
 | 40 | [Learn to Fly](https://open.spotify.com/track/0B2kWR9V7Z4JZOtXgWG8Qr) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci) | 3:30 |
-| 41 | [Hallie Ray Light](https://open.spotify.com/track/3jSe4YNN2wloL5eI6j1yty) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Hollywood Gold](https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4) | 3:41 |
+| 41 | [Paper Umbrellas](https://open.spotify.com/track/52MQYkbFuv9UzA8wz927xO) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Paper Umbrellas](https://open.spotify.com/album/1alHcx2t1SKjGgF4P9Q0pz) | 3:29 |
 | 42 | [All Day](https://open.spotify.com/track/3RA49JwahNc3mWkvnpnHjX) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P) | 3:46 |
 | 43 | [The One Before The One](https://open.spotify.com/track/4q0xcRhjaHS2xdOzyj1OnF) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum \(The Deluxe Edition\)](https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql) | 3:40 |
 | 44 | [South of the City Lights](https://open.spotify.com/track/1zf5HO14cdCxaCNXlhwvbV) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci) | 4:13 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 | 48 | [She'll Dance For Whiskey \- Landman \- Songs From and Inspired by the Paramount+ Original Series \(Volume I\)](https://open.spotify.com/track/5zxhqSzYH5P0ECHP5UzgtL) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [She'll Dance For Whiskey \[Landman \- Songs From and Inspired by the Paramount+ Original Series \(Volume I\)\]](https://open.spotify.com/album/7gQRSCEwEUpimIawyBcBvG) | 4:47 |
 | 49 | [Shallow](https://open.spotify.com/track/5faEa8OZmHnxRbBAYC2gWZ) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [In Between: The Collection](https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz) | 3:27 |
 
-Snapshot ID: `ao9+AAAAAABmrq+NcvZMzz/2DPEKm1G9`
+Snapshot ID: `apDPgAAAAADRJr/fX+PrFNWruSrKfLJQ`

@@ -1,12 +1,12 @@
 {
   "description": "This is Daniel Caesar. The essential tracks, all in one playlist.",
-  "num_followers": 446842,
+  "num_followers": 446952,
   "original_name": "This Is Daniel Caesar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAAWyr/WVpvFVLrXnEFdea00",
+  "snapshot_id": "apDPgAAAAADbZcCn5LQH6W7VGlVKluSt",
   "tracks": [
     {
       "added_at": null,
@@ -175,18 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Son Of Spergy",
-        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
+        "name": "Indecision (feat. Daniel Caesar)",
+        "url": "https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU"
       },
       "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
         {
           "name": "Daniel Caesar",
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 174384,
-      "name": "Emily\u2019s Song",
-      "url": "https://open.spotify.com/track/1tWZGEvn2MIs0knr5XMNWE"
+      "duration_ms": 186000,
+      "name": "Indecision (feat. Daniel Caesar)",
+      "url": "https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS"
     },
     {
       "added_at": null,
@@ -227,22 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Indecision (feat. Daniel Caesar)",
-        "url": "https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU"
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
       },
       "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        },
         {
           "name": "Daniel Caesar",
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Indecision (feat. Daniel Caesar)",
-      "url": "https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS"
+      "duration_ms": 174384,
+      "name": "Emily\u2019s Song",
+      "url": "https://open.spotify.com/track/1tWZGEvn2MIs0knr5XMNWE"
     },
     {
       "added_at": null,

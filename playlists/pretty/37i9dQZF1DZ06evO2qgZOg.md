@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 
 > This is Skillet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,355 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,385 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 18 | [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 |
 | 19 | [I Want to Live](https://open.spotify.com/track/4Ahphc0UzRSoMpJRHgnGQK) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:28 |
 | 20 | [Sick of It](https://open.spotify.com/track/4EYpOdL69yWuIRc49AyeZa) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 3:10 |
-| 21 | [Showtime](https://open.spotify.com/track/0LX82kX5rUJ1PTOKybET6m) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:33 |
+| 21 | [Take It All Back](https://open.spotify.com/track/1486GTNZyKS12K9NSP1QRj) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/0JNxzwUAvDPOboU7nmP9GU) | 3:24 |
 | 22 | [Save Me](https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:43 |
 | 23 | [Undefeated](https://open.spotify.com/track/7sCQbcrVlIKoIjOpR3Oj5N) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:35 |
-| 24 | [Take It All Back](https://open.spotify.com/track/1486GTNZyKS12K9NSP1QRj) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/0JNxzwUAvDPOboU7nmP9GU) | 3:24 |
+| 24 | [Showtime](https://open.spotify.com/track/0LX82kX5rUJ1PTOKybET6m) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:33 |
 | 25 | [What I Believe](https://open.spotify.com/track/5aUl2cPg4O7yXXdzWQVTYO) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 3:19 |
 | 26 | [The Last Night](https://open.spotify.com/track/37CMjUAU8fL6YqZVTplZqZ) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:30 |
 | 27 | [Stars](https://open.spotify.com/track/6VMT3SzIMbNoR5lsUsniQY) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 49 | [Circus for a Psycho](https://open.spotify.com/track/3AhEF2J0fy33PdGYEkzqm2) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 4:31 |
 | 50 | [Open Wounds](https://open.spotify.com/track/2UfKuGYONPAuopJtpGfZyA) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Collide](https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW) | 3:14 |
 
-Snapshot ID: `ao9+AAAAAABvwAeXGq+bW/fhGjG9c6WU`
+Snapshot ID: `apDPgAAAAAD537Sd/YlseuBdBFziwq9P`

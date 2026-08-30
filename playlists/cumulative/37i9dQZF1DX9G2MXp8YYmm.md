@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Feride Hilal Akın
 
-719 songs - 1 day 12 hr 31 min
+720 songs - 1 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Hileli](https://open.spotify.com/track/4eBE6hpwm7aJxIY4iwgwU8) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Ajda Pekkan](https://open.spotify.com/artist/27XMnTLvCO7t3qGlQyTMkF) | [Hileli](https://open.spotify.com/album/1Dim5nq14eGHzcfGhLqUWU) | 3:22 | 2026-05-07 |  |
 | [Hiç Akıllanası Yok](https://open.spotify.com/track/5gsAq9VJ5upMjuvLMyaVAm) | [Ömür Gedik](https://open.spotify.com/artist/3Fnj0gjfxDYyjIZchYWcrg) | [Hiç Akıllanası Yok](https://open.spotify.com/album/5QIvhABzNufqGPm014o2Gs) | 3:20 | 2026-05-01 | 2026-05-23 |
 | [Hiç De Öyle Olmadı](https://open.spotify.com/track/5A6w9QZiCTTyS799dfHDeF) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Kırlar](https://open.spotify.com/album/6KBFknDUvv8okkhIqRmZRc) | 2:41 | 2025-08-21 | 2025-10-17 |
+| [HİKAYE SARAR BAŞA](https://open.spotify.com/track/3fb8wp1tBGBNLOAr1QJELf) | [SELIN ](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [HİKAYE SARAR BAŞA](https://open.spotify.com/album/1l8H9AXS3MHskpG7oCDaRg) | 2:52 | 2026-08-27 |  |
 | [HODRİ MEYDAN](https://open.spotify.com/track/7IVyGl2LapK633TQEhn6rz) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [HODRİ MEYDAN](https://open.spotify.com/album/3jwcQNmy7GNGjY3gfQ4PTZ) | 2:00 | 2024-12-19 | 2025-03-03 |
 | [Hoşuna Gidiyo](https://open.spotify.com/track/29IrCyfdn18grnSQ3ynguE) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [Hoşuna Gidiyo](https://open.spotify.com/album/78Dk6oqNWoSFBJpUfM4rtm) | 2:31 | 2024-08-22 | 2024-10-11 |
 | [Hürrem](https://open.spotify.com/track/0mQxlAQVm5jVuExsofCiPM) | [Melis Kar](https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj) | [Hürrem](https://open.spotify.com/album/4J5VzGkcJRoo1tGKbAL4PP) | 2:15 | 2024-07-11 | 2024-09-06 |
@@ -581,7 +582,7 @@
 | [Taksi](https://open.spotify.com/track/1zaRUHOFCtifiWjjhyi1Pp) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Taksi](https://open.spotify.com/album/7uYFRPl5MJSJ1ty0BZuFS0) | 2:28 | 2025-07-31 | 2025-12-13 |
 | [TAM BENİM TİPİM](https://open.spotify.com/track/3L6zMl24x9TPfPVudKmRtD) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [TAM BENİM TİPİM](https://open.spotify.com/album/6DkPkDBzkKE8LWBES8k820) | 2:37 | 2026-06-25 | 2026-07-24 |
 | [Tam Da Şu Anda](https://open.spotify.com/track/3FmRJPzylI6fuDIso7jejM) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Tam Da Şu Anda](https://open.spotify.com/album/0iFTqZJlHdCMSSfPTMQ0Kt) | 2:19 | 2025-05-01 | 2026-07-03 |
-| [Tamam Aşkım](https://open.spotify.com/track/6rjrjYkf1aruXBunAwkNId) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Tamam Aşkım](https://open.spotify.com/album/1o6gC3VfDsfka9kI871t5J) | 3:38 | 2026-07-23 |  |
+| [Tamam Aşkım](https://open.spotify.com/track/6rjrjYkf1aruXBunAwkNId) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Tamam Aşkım](https://open.spotify.com/album/1o6gC3VfDsfka9kI871t5J) | 3:38 | 2026-07-23 | 2026-08-30 |
 | [Tane Tane](https://open.spotify.com/track/0vaQeqqDD8f6Bx5IZWg2Ld) | [AYDEED](https://open.spotify.com/artist/0YHObPo0wpyvS1VLHfwuVz) | [\#SOLO](https://open.spotify.com/album/0JZ9dahUOYdeNATgNMLvwS) | 2:40 | 2025-11-13 | 2026-03-20 |
 | [Tanrıçalar Memleketi \- Yenge](https://open.spotify.com/track/1Ryq7tkaCuKbwNvE62Nhgm) | [Ceylan Ertem](https://open.spotify.com/artist/2crPPfVdmrxn5yUHLQVqOI) | [Sana Rağmen](https://open.spotify.com/album/12l5mGd9dNfG2BsFYQ76gE) | 3:14 | 2025-02-06 | 2025-03-03 |
 | [Tavan](https://open.spotify.com/track/5sv3lmlUBl6A8A7W9H3ZEg) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P) | [Tavan](https://open.spotify.com/album/4n9WkOP2pL03tFdRCgidvb) | 3:43 | 2024-08-22 | 2024-08-27 |

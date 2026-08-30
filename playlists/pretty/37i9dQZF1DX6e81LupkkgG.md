@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,987 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,967 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 86 | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI) | 3:40 |
 | 87 | [Broken is the man](https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 2:12 |
 | 88 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 |
-| 89 | [Ô Sorte](https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Urbano](https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A) | 2:09 |
-| 90 | [Stardust](https://open.spotify.com/track/60gs0cMpDerQrMDmGOj8LX) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:53 |
+| 89 | [Stardust](https://open.spotify.com/track/60gs0cMpDerQrMDmGOj8LX) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:53 |
+| 90 | [Ô Sorte](https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Urbano](https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A) | 2:09 |
 | 91 | [Everybody Needs Someone \(feat\. Vance Joy\)](https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Everybody Needs Someone \(feat\. Vance Joy\)](https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ) | 2:58 |
 | 92 | [Sand](https://open.spotify.com/track/3HYUKa1HkaSRk4C0xK4O5q) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Sand](https://open.spotify.com/album/6K8VcnG6HUSp59xNOpEJhP) | 3:39 |
 | 93 | [Swan Upon Leda](https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk) | 3:42 |

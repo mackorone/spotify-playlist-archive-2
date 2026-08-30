@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 275689,
+  "num_followers": 275728,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-08-20 23:00:31",
       "album": {
-        "name": "Casableu",
-        "url": "https://open.spotify.com/album/0lAe8AD0yI2r0o5ibNXvgk"
-      },
-      "artists": [
-        {
-          "name": "Duke Boara",
-          "url": "https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Casableu",
-      "url": "https://open.spotify.com/track/62Og36IHCGO6MqmxUqU58B"
-    },
-    {
-      "added_at": "2026-08-20 23:00:31",
-      "album": {
         "name": "Ghosts",
         "url": "https://open.spotify.com/album/7qsfQ7phMfTmrS57H3ssZl"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2026-08-20 23:00:31",
       "album": {
-        "name": "October",
-        "url": "https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8"
+        "name": "Casableu",
+        "url": "https://open.spotify.com/album/0lAe8AD0yI2r0o5ibNXvgk"
       },
       "artists": [
         {
-          "name": "Icarus",
-          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
+          "name": "Duke Boara",
+          "url": "https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56"
         }
       ],
-      "duration_ms": 354102,
-      "name": "October",
-      "url": "https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW"
+      "duration_ms": 218666,
+      "name": "Casableu",
+      "url": "https://open.spotify.com/track/62Og36IHCGO6MqmxUqU58B"
     },
     {
       "added_at": "2026-08-20 23:00:31",
@@ -755,6 +739,22 @@
       "duration_ms": 208000,
       "name": "If You're Here With Me",
       "url": "https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc"
+    },
+    {
+      "added_at": "2026-08-20 23:00:31",
+      "album": {
+        "name": "October",
+        "url": "https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8"
+      },
+      "artists": [
+        {
+          "name": "Icarus",
+          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
+        }
+      ],
+      "duration_ms": 354102,
+      "name": "October",
+      "url": "https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW"
     },
     {
       "added_at": "2026-08-20 23:00:31",

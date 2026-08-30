@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > Luke Combs and Country hits that will have you singing every word.
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,875 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,866 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 15 | [Spin You Around \(1/24\)](https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Spin You Around \(1/24\)](https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It) | 3:29 |
 | 16 | [Just Like Johnny](https://open.spotify.com/track/3Sg0jiuv2ckmxTBX4tLJQq) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Old No\. 7](https://open.spotify.com/album/6xbAU0Dd22IURpRcpHy0lj) | 3:19 |
 | 17 | [Am I Okay?](https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:55 |
-| 18 | [Where It Ends](https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:59 |
-| 19 | [What He'll Never Have](https://open.spotify.com/track/61SRKyox0R9jCzci4JXKBS) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Livin' My Best Life \(Still\)](https://open.spotify.com/album/3B38AH4XMqDiI9W2Yd6mDT) | 2:33 |
+| 18 | [What He'll Never Have](https://open.spotify.com/track/61SRKyox0R9jCzci4JXKBS) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Livin' My Best Life \(Still\)](https://open.spotify.com/album/3B38AH4XMqDiI9W2Yd6mDT) | 2:33 |
+| 19 | [Where It Ends](https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:59 |
 | 20 | [Wild as Her](https://open.spotify.com/track/3kXH9BQq0TyNliiP1MIE6N) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Blacktop](https://open.spotify.com/album/6nIkyQ0HO6MDucznnn8DXi) | 3:20 |
 | 21 | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j) | 3:44 |
 | 22 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-1,842 songs - 4 day 5 hr 8 min
+1,843 songs - 4 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1212,6 +1212,7 @@
 | [Ohnana](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Ohnana](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2024-07-03 | 2025-03-09 |
 | [Ohtani](https://open.spotify.com/track/7MJVcGtxARJzYfU6CIttGa) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 3:18 | 2025-04-05 | 2025-04-07 |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-05-07 | 2026-06-14 |
+| [Ojos Brujos](https://open.spotify.com/track/0nlOi8arjQH6MSaC9zKkeq) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Ojos Brujos](https://open.spotify.com/album/6FAUpTZ5NlNBafW41tgCWH) | 4:10 | 2026-08-29 |  |
 | [Olvidar](https://open.spotify.com/track/4cIADL8ZSxyz78stzb4F6X) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Olvidar](https://open.spotify.com/album/74EUdXqT952F9FpGvqD59x) | 2:57 | 2025-01-04 | 2025-01-06 |
 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 | 2024-09-26 | 2024-10-11 |
 | [ONDE MI](https://open.spotify.com/track/3K7HWBL2SIQIKjGcRY0t0z) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [ONDE MI](https://open.spotify.com/album/7dyNC0p1I9V8vAC88TmOJC) | 2:43 | 2026-04-17 | 2026-04-26 |
@@ -1558,7 +1559,7 @@
 | [Solcito](https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Solcito](https://open.spotify.com/album/3BzCHEyuOsxZrWq3M3CsR2) | 2:24 | 2025-03-22 | 2025-06-12 |
 | [Soldadito marinero](https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Lo mas lejos a tu lado](https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n) | 4:14 | 2025-11-02 | 2025-11-06 |
 | [SOLEAO](https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SOLEAO](https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP) | 3:38 | 2025-05-31 | 2025-07-20 |
-| [SOLEAO](https://open.spotify.com/track/4OsBqqMwFabHATATT527tH) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 3:38 | 2025-07-19 |  |
+| [SOLEAO](https://open.spotify.com/track/4OsBqqMwFabHATATT527tH) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 3:38 | 2025-07-19 | 2026-08-30 |
 | [Solita y SueltAAA](https://open.spotify.com/track/3gtZLsncEuG3gNO4Qswhuf) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [AfroLOVA' 23](https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP) | 2:35 | 2023-07-22 | 2023-07-27 |
 | [Solo](https://open.spotify.com/track/1wPAOYQJcGSqvXkqcQHExr) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Solo](https://open.spotify.com/album/1288f3Kr8eeE0ZWcyoyEjs) | 3:24 | 2021-03-27\* | 2021-08-11 |
 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 | 2024-09-27 | 2025-01-07 |

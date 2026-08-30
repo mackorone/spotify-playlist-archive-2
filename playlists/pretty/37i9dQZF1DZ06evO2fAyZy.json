@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 102006,
+  "num_followers": 102012,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAACNUQlXdLnmqG1cT9BJy5uN",
+  "snapshot_id": "apDPgAAAAADUYUsNzQbbDvnU3srwlDx7",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "Miss Me More",
-      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Closing Time",
         "url": "https://open.spotify.com/album/4M14ePO4UooHzwWZNh2XPl"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 158049,
       "name": "Closing Time (with Kelsea Ballerini)",
       "url": "https://open.spotify.com/track/2ROIH7TfO1dpBX6O3PPjBw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "Miss Me More",
+      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
     },
     {
       "added_at": null,
@@ -534,11 +534,19 @@
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
         }
       ],
-      "duration_ms": 211843,
-      "name": "MUSCLE MEMORY",
-      "url": "https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ"
+      "duration_ms": 175229,
+      "name": "YOU'RE DRUNK, GO HOME",
+      "url": "https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd"
     },
     {
       "added_at": null,
@@ -598,19 +606,11 @@
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        },
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
         }
       ],
-      "duration_ms": 175229,
-      "name": "YOU'RE DRUNK, GO HOME",
-      "url": "https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd"
+      "duration_ms": 211843,
+      "name": "MUSCLE MEMORY",
+      "url": "https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+        "name": "PATTERNS Commentary Album",
+        "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 178746,
-      "name": "Leave Me Again",
-      "url": "https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo"
+      "duration_ms": 186906,
+      "name": "Beg For Your Love",
+      "url": "https://open.spotify.com/track/2OvDg8MoPWvr6xsd9egdPt"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PATTERNS Commentary Album",
-        "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 186906,
-      "name": "Beg For Your Love",
-      "url": "https://open.spotify.com/track/2OvDg8MoPWvr6xsd9egdPt"
+      "duration_ms": 178746,
+      "name": "Leave Me Again",
+      "url": "https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo"
     },
     {
       "added_at": null,

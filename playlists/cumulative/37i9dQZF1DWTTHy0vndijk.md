@@ -4,7 +4,7 @@
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: TUIDE\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
 
-562 songs - 1 day 6 hr 29 min
+563 songs - 1 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [5th Season \(SSFWL\)](https://open.spotify.com/track/2o0H0o6gWgnegtqkuOhtZk) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [THE FIFTH SEASON](https://open.spotify.com/album/7nRRZFQgQKQsXG7mQIuQPA) | 4:00 | 2022-07-28 | 2023-08-19 |
 | [A Girl Like Me](https://open.spotify.com/track/5O3I7UPYpdJHLwA6Nw3Qhx) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.2 Narcissus](https://open.spotify.com/album/1Y9ADL4odfgfgO7rwyL3zu) | 2:55 | 2021-11-29 | 2022-06-04 |
 | [A\-MOONO\-KE \(I’m OK\)](https://open.spotify.com/track/07Betr7cYIq5D9F2X9MnCT) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [A\-MOONO\-KE](https://open.spotify.com/album/3cDziy5BC62rGFTHokSlIM) | 2:57 | 2023-08-23 | 2023-09-07 |
+| [ABD](https://open.spotify.com/track/3gIRS0mQKCRn5e2vEz8f1w) | [TUIDE](https://open.spotify.com/artist/2uxeKIw5ancTu92x28Ctkf) | [TUNE & PLAY](https://open.spotify.com/album/6ctU4KzuUCZk9ZR8n0p6FN) | 1:59 | 2026-08-28 |  |
 | [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 | 2021-11-29 |  |
 | [Ah\-Choo](https://open.spotify.com/track/4Kl017IgdJxdlvgnvrpYlE) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz8](https://open.spotify.com/album/4WkapgTIqmLu5HUF75X6Y8) | 3:38 | 2021-11-29 | 2022-07-28 |
 | [Air](https://open.spotify.com/track/0E2NCsPqw2jMpBuui126Uo) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 4 : Air>](https://open.spotify.com/album/6LuU1ePuYgNV6Rltq4OAcf) | 2:27 | 2024-05-10 | 2024-06-08 |
@@ -335,7 +336,7 @@
 | [Nun Nu Nan Na](https://open.spotify.com/track/7ladzyHoK60op9Zq7wy9UN) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [Nun Nu Nan Na](https://open.spotify.com/album/7p3NTiZoaZRzgPmwlGMHtM) | 3:28 | 2022-01-04 | 2022-06-24 |
 | [O.O.O \(Over&Over&Over\)](https://open.spotify.com/track/6k3U1g0Tu11V1AcVzSt6re) | [Girls Planet 999](https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W) | [Girls Planet 999 \- O.O.O \(Over&Over&Over\)](https://open.spotify.com/album/2IZkygDdvEokN7CCSjrck6) | 4:07 | 2021-11-29 | 2023-06-16 |
 | [Obliviate](https://open.spotify.com/track/4cyVnu1W88UuIdNusX8D1A) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 7th Mini Album \[Unforgettable\]](https://open.spotify.com/album/5M1EFepUUqZig7XzN6qtB8) | 3:22 | 2021-11-29 | 2022-07-28 |
-| [Off The Record](https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Off The Record](https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW) | 3:08 | 2023-10-06 |  |
+| [Off The Record](https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Off The Record](https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW) | 3:08 | 2023-10-06 | 2026-08-30 |
 | [Oh \(Yes I Am\)](https://open.spotify.com/track/5l8Vpgx92aqAuniKsSKbyZ) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) | 3:15 | 2022-06-24 | 2022-07-13 |
 | [Oh My](https://open.spotify.com/track/1rTMIstU7GaHqRyYlPrHGd) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Oh My](https://open.spotify.com/album/5wSh6Aw0IamviaLSPnW7vV) | 2:58 | 2025-04-09 | 2025-05-19 |
 | [OMG \(FRNK Remix\)](https://open.spotify.com/track/4yjDMKCAeLovlo9ih0AgXW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:30 | 2023-12-21 | 2024-05-16 |

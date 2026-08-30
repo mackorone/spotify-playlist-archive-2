@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 
 > This is Riley Green\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,860 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,910 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 | 4 | [Don't Mind If I Do](https://open.spotify.com/track/1FHIZknONrV2c20w0x5AVG) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 3:38 |
 | 5 | [Go Again](https://open.spotify.com/track/6TLJax0EYimCJxCF1Zg69e) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [Go Again](https://open.spotify.com/album/1DqoGBZHjDONQkSs5p1q2g) | 4:00 |
 | 6 | [Think As You Drunk](https://open.spotify.com/track/20FhqUEadmPYCrJYzeyPSx) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Think As You Drunk](https://open.spotify.com/album/10I3RS2Ijy9GCVZZAVG7Al) | 3:48 |
-| 7 | [Imagine That](https://open.spotify.com/track/6ENZYKXPoqa5qOcb24pnR7) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Imagine That](https://open.spotify.com/album/68ZuaQ3UjPkEfaSNBhwjKX) | 3:39 |
+| 7 | [Different 'Round Here](https://open.spotify.com/track/7HRW1XRyOITRJWrygoKL9u) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 2:56 |
 | 8 | [Change My Mind](https://open.spotify.com/track/6puede6hRbNP5SdPmS2PT0) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 3:19 |
-| 9 | [Different 'Round Here](https://open.spotify.com/track/7HRW1XRyOITRJWrygoKL9u) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 2:56 |
+| 9 | [Imagine That](https://open.spotify.com/track/6ENZYKXPoqa5qOcb24pnR7) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Imagine That](https://open.spotify.com/album/68ZuaQ3UjPkEfaSNBhwjKX) | 3:39 |
 | 10 | [When She Comes Home Tonight](https://open.spotify.com/track/3QE9qyQrIgefznSchAYJPB) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Outlaws Like Us](https://open.spotify.com/album/6PorC2h1FBX9xatc7ChceS) | 4:10 |
 | 11 | [There Was This Girl](https://open.spotify.com/track/7grWGhX8SHNmyGOkMNVMCt) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:14 |
 | 12 | [My Way](https://open.spotify.com/track/0e5adFzW2uzQQ8M0cjiQqX) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [My Way](https://open.spotify.com/album/1wPZ5lvt250QMwi6d0lqDA) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 | 49 | [Cowboy As It Gets](https://open.spotify.com/track/42iJyKsPH1rbCeLcVK8XT4) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Don't Mind If I Do \(Deluxe\)](https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx) | 4:16 |
 | 50 | [That’s What I’ve Been Told](https://open.spotify.com/track/2TjAkXVq0SU5Q25vLXOjib) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Behind The Bar](https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5) | 3:50 |
 
-Snapshot ID: `ao9+AAAAAABQJ17vX+TwlNTpMUdD0aAh`
+Snapshot ID: `apDPgAAAAAD8kMNpYBkbav8kAy7h4X5V`

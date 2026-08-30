@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,323 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,335 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 38 | [El Amor No Tiene Edad](https://open.spotify.com/track/1YLEL2AzuL2yIxadFhgFw8) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Lo Basico](https://open.spotify.com/album/6CE7YrsZV7r70OadZDrPTS) | 2:25 |
 | 39 | [Pedro Avilés](https://open.spotify.com/track/2O5PXvFcz0MrjLYdcDmyJS) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Amor No Tiene Edad](https://open.spotify.com/album/5ld9ikvXhVrDJ0D3OwPY5K) | 3:09 |
 | 40 | [El Muchacho Alegre](https://open.spotify.com/track/01LeEyv86LvofZivnABTXN) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Décimo Aniversario](https://open.spotify.com/album/31w209dWhowxYQiiTqA83o) | 3:19 |
-| 41 | [Profundamente](https://open.spotify.com/track/4xfBuv8JI74VklmZb3pjoB) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Esto Es Lo Nuestro \- 20 Exitos](https://open.spotify.com/album/7EVGFNX0svFH7FhInsIo2h) | 3:13 |
-| 42 | [Prohibido \- En Vivo](https://open.spotify.com/track/7bpZfP6LLBJF9YxTkMHbmx) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Desde Mazatlán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6VE5VAjHrptT2rWYr8xeIW) | 2:58 |
+| 41 | [Prohibido \- En Vivo](https://open.spotify.com/track/7bpZfP6LLBJF9YxTkMHbmx) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Desde Mazatlán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6VE5VAjHrptT2rWYr8xeIW) | 2:58 |
+| 42 | [Profundamente](https://open.spotify.com/track/4xfBuv8JI74VklmZb3pjoB) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Esto Es Lo Nuestro \- 20 Exitos](https://open.spotify.com/album/7EVGFNX0svFH7FhInsIo2h) | 3:13 |
 | 43 | [Verdad](https://open.spotify.com/track/6eSHAK97hICMhLd6UWbPGM) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Grandes Exitos](https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA) | 3:19 |
 | 44 | [Te Vas Amor \- En Vivo](https://open.spotify.com/track/2YHLZsnlSJgVGN7MfNQyVt) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Te Vas Amor \(En Vivo\)](https://open.spotify.com/album/1qKcJWObSOGkvQHvjOilNS) | 2:17 |
 | 45 | [Mi Corazón Te Quiere](https://open.spotify.com/track/6GtlSqp6S72hz1eRndGo8N) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Cuando Regreso A Tus Brazos](https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 49 | [La Loba del Mar](https://open.spotify.com/track/01l0Stxns89Z2b4UCRZQgZ) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Como Una Huella Digital](https://open.spotify.com/album/2dkCnatj0xFwKpng8Sxgn3) | 2:23 |
 | 50 | [Alguien Dijo](https://open.spotify.com/track/6BdXHbTKLO4uAWbuGnJUgl) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Alguien Dijo](https://open.spotify.com/album/2UuzkzzWqxu3RHINTMrVMn) | 2:17 |
 
-Snapshot ID: `ao9+AAAAAAA3XBf0zjVUk8w/g7ZCHXkS`
+Snapshot ID: `apDPgAAAAAD2B1TRUb8CiRHweiqYIs6M`

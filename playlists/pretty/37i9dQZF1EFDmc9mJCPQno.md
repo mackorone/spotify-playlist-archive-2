@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1xzZPyV5jY8bYYNtAUkyOx">Lauren Aquilina</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,230 likes - 134 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,229 likes - 134 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 98 | [Cruel To Be Kind](https://open.spotify.com/track/6TrwwLTF6FqnqIqgwDb2SB) | [Ea Kaya](https://open.spotify.com/artist/2cMDCP6zOLaPPbOXMD4193) | [Cruel To Be Kind](https://open.spotify.com/album/2Y5krCslXIJ2BGz6LNU3sP) | 2:53 |
 | 99 | [fix](https://open.spotify.com/track/66Zc5zZOrGOovGP5VDSu1d) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [BUZZKILL](https://open.spotify.com/album/41oBhRyeuyMHkVdp2LYVJE) | 2:52 |
 | 100 | [Midnight Mouths \- filous Remix](https://open.spotify.com/track/4AbHAaspsLIQNwGzWR4bqe) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Midnight Mouths \(filous Remix\)](https://open.spotify.com/album/316VVViBiKIcbTSamsojmG) | 4:05 |
-| 101 | [Lovers Or Liars](https://open.spotify.com/track/081IPSY9UWk6RdARdzWVy4) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Liars](https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i) | 3:54 |
-| 102 | [Limoncello](https://open.spotify.com/track/1MzrmkSpQO3z0xBIWkh9s0) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [XO, My Cyberlove](https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q) | 2:39 |
+| 101 | [Limoncello](https://open.spotify.com/track/1MzrmkSpQO3z0xBIWkh9s0) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [XO, My Cyberlove](https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q) | 2:39 |
+| 102 | [Lovers Or Liars](https://open.spotify.com/track/081IPSY9UWk6RdARdzWVy4) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Liars](https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i) | 3:54 |
 | 103 | [Warning Sign](https://open.spotify.com/track/2nBGVekdWfakwlKWYzc5mI) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Future Dust](https://open.spotify.com/album/7sRAdyIMXnDLFiC6sVo2ke) | 5:02 |
 | 104 | [What Are You Hungry For?](https://open.spotify.com/track/5uMisLlk3BbM2vK4Y3DjVH) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [What Are You Hungry For?](https://open.spotify.com/album/3s4u9GIC3K7AUrnVs8hZTS) | 3:00 |
 | 105 | [Square One](https://open.spotify.com/track/0qc4TkLNFjmIhxffll7hME) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Liars](https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i) | 3:41 |
@@ -135,12 +135,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 125 | [Most Viewed](https://open.spotify.com/track/0YYJRs8ENvqnU7BQf8wVrm) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Most Viewed](https://open.spotify.com/album/1tQArKbrcX6BbyVED8aIYr) | 3:14 |
 | 126 | [no one cares](https://open.spotify.com/track/0aQXCpOF4zFstiNhWAGtXD) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [no one cares](https://open.spotify.com/album/05YHG0o3540O1xXDSAyx0j) | 3:00 |
 | 127 | [Mom Song](https://open.spotify.com/track/2nD16TvMgRJL15XRfy8Bju) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/6TrJSxKjdKynXNEwt42PbF) | 2:35 |
-| 128 | [death](https://open.spotify.com/track/2VrMoRFZLk2NYuZpfxC06B) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [committed to a bit](https://open.spotify.com/album/7pzCbXIKBn1wqJSNI8icip) | 3:44 |
-| 129 | [SMALL WORLD](https://open.spotify.com/track/0bhHPERhSMKnog5ZbOgOJT) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [SMALL WORLD](https://open.spotify.com/album/1P0SxBpLCSlXfsyY5u9u6t) | 2:26 |
+| 128 | [SMALL WORLD](https://open.spotify.com/track/0bhHPERhSMKnog5ZbOgOJT) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [SMALL WORLD](https://open.spotify.com/album/1P0SxBpLCSlXfsyY5u9u6t) | 2:26 |
+| 129 | [death](https://open.spotify.com/track/2VrMoRFZLk2NYuZpfxC06B) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [committed to a bit](https://open.spotify.com/album/7pzCbXIKBn1wqJSNI8icip) | 3:44 |
 | 130 | [Wrong](https://open.spotify.com/track/5FWCrwlmk1Kq1jy8khhxvA) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Heavy Love](https://open.spotify.com/album/4g30lAhSUDEOUhs4Izez2s) | 3:12 |
 | 131 | [Off\-World](https://open.spotify.com/track/7actzHWTsZYrimLJtDUGEC) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Off\-World](https://open.spotify.com/album/4ffjvDRam4xYWMy85hNtdb) | 3:40 |
 | 132 | [It's Mean When You Don't Mean It](https://open.spotify.com/track/06qDeXAlTAspztapKBCQXs) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [The Wrong Side of 25](https://open.spotify.com/album/1ts3tatZuXKtmyTbyqybKS) | 4:09 |
 | 133 | [Ponytail](https://open.spotify.com/track/356sykgkwuqWnvXwq1M1l0) | [XO](https://open.spotify.com/artist/3uRDnagY9HyAPIo7Y34V4r) | [Fashionably Late](https://open.spotify.com/album/1NJ9tmNuz88hJ10dPLLOQH) | 2:36 |
 | 134 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
 
-Snapshot ID: `Aca1FAAAAABsEQz1qTOorFkxr7YX1Se0`
+Snapshot ID: `Aca6PAAAAABUggMdGtqAA1HWlO2lpDwj`

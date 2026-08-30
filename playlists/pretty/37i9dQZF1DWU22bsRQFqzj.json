@@ -1,6 +1,6 @@
 {
   "description": "Sei nella tua running era e stai preparando a tua prossima mezza maratona \ud83c\udfc3\ud83c\udffb",
-  "num_followers": 137473,
+  "num_followers": 137497,
   "original_name": "Hit Per Correre",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2026-08-27 22:02:31",
       "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2026-08-27 22:02:31",
+      "album": {
         "name": "Turn The Lights Off",
         "url": "https://open.spotify.com/album/2dFpvDuPJp8QOKDfVEcrzw"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 162717,
       "name": "Turn The Lights Off",
       "url": "https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb"
-    },
-    {
-      "added_at": "2026-08-27 22:02:31",
-      "album": {
-        "name": "i like the way you kiss me",
-        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
       "added_at": "2026-08-27 22:02:31",
@@ -251,6 +251,22 @@
     {
       "added_at": "2026-08-27 22:02:31",
       "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 193829,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW"
+    },
+    {
+      "added_at": "2026-08-27 22:02:31",
+      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 143330,
       "name": "Guess featuring billie eilish",
       "url": "https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx"
-    },
-    {
-      "added_at": "2026-08-27 22:02:31",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 193829,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW"
     },
     {
       "added_at": "2026-08-27 22:02:31",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-08-27 22:02:31",
       "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
-    },
-    {
-      "added_at": "2026-08-27 22:02:31",
-      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 153526,
       "name": "Club classics",
       "url": "https://open.spotify.com/track/0CySZwyRJ0vyUqtSjM9i2k"
+    },
+    {
+      "added_at": "2026-08-27 22:02:31",
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
     },
     {
       "added_at": "2026-08-27 22:02:31",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-08-27 22:02:31",
       "album": {
-        "name": "Never Going Home",
-        "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        }
-      ],
-      "duration_ms": 169944,
-      "name": "Never Going Home",
-      "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
-    },
-    {
-      "added_at": "2026-08-27 22:02:31",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 176766,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
+    },
+    {
+      "added_at": "2026-08-27 22:02:31",
+      "album": {
+        "name": "Never Going Home",
+        "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "duration_ms": 169944,
+      "name": "Never Going Home",
+      "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
     },
     {
       "added_at": "2026-08-27 22:02:31",
@@ -1183,22 +1183,26 @@
     {
       "added_at": "2026-08-27 22:02:31",
       "album": {
-        "name": "Actual Life 3 (January 1 - September 9 2022)",
-        "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
+        "name": "Fine Day Anthem",
+        "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         },
         {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Opus III",
+          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
         }
       ],
-      "duration_ms": 201230,
-      "name": "Danielle (smile on my face)",
-      "url": "https://open.spotify.com/track/09Rv6ctDE0t9z8zk5FINg8"
+      "duration_ms": 193690,
+      "name": "Fine Day Anthem",
+      "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
     },
     {
       "added_at": "2026-08-27 22:02:31",
@@ -1231,26 +1235,22 @@
     {
       "added_at": "2026-08-27 22:02:31",
       "album": {
-        "name": "Fine Day Anthem",
-        "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
+        "name": "Actual Life 3 (January 1 - September 9 2022)",
+        "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
       },
       "artists": [
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         },
         {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        },
-        {
-          "name": "Opus III",
-          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
         }
       ],
-      "duration_ms": 193690,
-      "name": "Fine Day Anthem",
-      "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
+      "duration_ms": 201230,
+      "name": "Danielle (smile on my face)",
+      "url": "https://open.spotify.com/track/09Rv6ctDE0t9z8zk5FINg8"
     },
     {
       "added_at": "2026-08-27 22:02:31",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-08-27 22:02:31",
       "album": {
-        "name": "SATURATION III",
-        "url": "https://open.spotify.com/album/5c2AzoNyr46fCQM5d8mxE0"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 193154,
-      "name": "BOOGIE",
-      "url": "https://open.spotify.com/track/3NuN59jpH3B5cNa2M4r7XG"
-    },
-    {
-      "added_at": "2026-08-27 22:02:31",
-      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/3fAbIQ4KlgfrbFmIPDJQO0"
       },
@@ -1391,22 +1375,18 @@
     {
       "added_at": "2026-08-27 22:02:31",
       "album": {
-        "name": "SOMA",
-        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
+        "name": "SATURATION III",
+        "url": "https://open.spotify.com/album/5c2AzoNyr46fCQM5d8mxE0"
       },
       "artists": [
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
         }
       ],
-      "duration_ms": 203571,
-      "name": "Noche Without You",
-      "url": "https://open.spotify.com/track/00FMfKay6lHHQpFLTSaCZe"
+      "duration_ms": 193154,
+      "name": "BOOGIE",
+      "url": "https://open.spotify.com/track/3NuN59jpH3B5cNa2M4r7XG"
     },
     {
       "added_at": "2026-08-27 22:02:31",
@@ -1427,6 +1407,26 @@
       "duration_ms": 134570,
       "name": "Never Be Lonely",
       "url": "https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj"
+    },
+    {
+      "added_at": "2026-08-27 22:02:31",
+      "album": {
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 203571,
+      "name": "Noche Without You",
+      "url": "https://open.spotify.com/track/00FMfKay6lHHQpFLTSaCZe"
     },
     {
       "added_at": "2026-08-27 22:02:31",
@@ -1619,30 +1619,6 @@
     {
       "added_at": "2026-08-27 22:02:31",
       "album": {
-        "name": "pAPi wiTH tOKisCha",
-        "url": "https://open.spotify.com/album/2RcRUBfoS0jugdKTTHAF48"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "pAPi wiTH tOKisCha",
-      "url": "https://open.spotify.com/track/5j2NMCTCQ5R4yV6CUwR1nG"
-    },
-    {
-      "added_at": "2026-08-27 22:02:31",
-      "album": {
         "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
         "url": "https://open.spotify.com/album/1MZ3ZQqAV3wFjHjaOe6KFz"
       },
@@ -1663,6 +1639,30 @@
       "duration_ms": 156960,
       "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/6i7zAdNhzUN2k1HcrBxPHG"
+    },
+    {
+      "added_at": "2026-08-27 22:02:31",
+      "album": {
+        "name": "pAPi wiTH tOKisCha",
+        "url": "https://open.spotify.com/album/2RcRUBfoS0jugdKTTHAF48"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "pAPi wiTH tOKisCha",
+      "url": "https://open.spotify.com/track/5j2NMCTCQ5R4yV6CUwR1nG"
     },
     {
       "added_at": "2026-08-27 22:02:31",

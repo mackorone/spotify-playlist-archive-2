@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Remi Wolf
 
-2,504 songs - 5 day 13 hr 32 min
+2,506 songs - 5 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1192,7 +1192,7 @@
 | [I’m Not Perfect \(But I’m Trying\)](https://open.spotify.com/track/10LBv5a9JLom1L6a05goUV) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [I’m Not Perfect \(But I’m Trying\)](https://open.spotify.com/album/2O8gAp74lbXQ9z74ZK7E3N) | 3:26 | 2022-10-28 | 2023-02-11 |
 | [I’m okay, i’m just a little depressed](https://open.spotify.com/track/1O8LgRxgkJ8LUXyYohTcyZ) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [SUPERBLOOM](https://open.spotify.com/album/3w8Ki3we6v5ClhTZwvXcqD) | 3:38 | 2020-11-10 | 2021-02-28 |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-04-29 | 2023-07-01 |
-| [Jackie](https://open.spotify.com/track/24XXGis7TNNjgzKKuFhoPB) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Jackie](https://open.spotify.com/album/1SF3E1PRFrTKmcLnAnheaa) | 3:13 | 2026-08-24 |  |
+| [Jackie](https://open.spotify.com/track/24XXGis7TNNjgzKKuFhoPB) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Jackie](https://open.spotify.com/album/1SF3E1PRFrTKmcLnAnheaa) | 3:13 | 2026-08-24 | 2026-08-30 |
 | [Jaded](https://open.spotify.com/track/1rwbl2Yj5KTRTuR33Gr30R) | [Tae](https://open.spotify.com/artist/3lcTi8VZbKKXUa0gpyLQx2) | [Jaded](https://open.spotify.com/album/4JNujar6UbfatJArQheVXK) | 3:12 | 2021-08-14 | 2021-08-15 |
 | [James Dean](https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/61YMV5YCWzd4FmQAeBmraP) | 4:26 | 2023-03-24 | 2024-03-23 |
 | [James Dean](https://open.spotify.com/track/77Gdk4vNjXNxQ3fTBu3Nbq) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/2oLPnNQQIreeFE4csdq5An) | 4:26 | 2023-03-17 | 2023-05-11 |
@@ -1419,6 +1419,7 @@
 | [mario kart \(feat\. Travis Barker\)](https://open.spotify.com/track/30ymFh1FOJFYrxHNwP1NQU) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [drinking under the streetlights](https://open.spotify.com/album/5U4bpnZJBgFxmkhLMDmXEz) | 3:15 | 2021-06-04 | 2022-04-15 |
 | [Mariposa](https://open.spotify.com/track/1DoTOLMkoBQBvwL03teDcX) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Mariposa](https://open.spotify.com/album/3odwLJIqls0IKMF5WlQg65) | 3:41 | 2020-10-13\* | 2021-01-21 |
 | [Marseille](https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations](https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV) | 3:56 | 2025-04-04 | 2026-02-05 |
+| [Mary Jane](https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Mary Jane](https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm) | 2:31 | 2026-08-28 |  |
 | [mason jar](https://open.spotify.com/track/44MDRUBb2OWMXznojxHMS4) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [mason jar / wanna be](https://open.spotify.com/album/0fKp8beezInGKO2Rqw7cLh) | 3:40 | 2021-10-29 | 2022-01-17 |
 | [Massive Escape \- Arlie Remix](https://open.spotify.com/track/68rtq5ugG2ac3CQJRkVOKm) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg), [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Massive Escape \(Arlie Remix\)](https://open.spotify.com/album/5cmU7KKqlejkXB7ZtfnGMg) | 2:58 | 2022-05-20 | 2022-07-18 |
 | [Matty Healy](https://open.spotify.com/track/20Do7D6tZkclXfNBa9z45X) | [Georgia Twinn](https://open.spotify.com/artist/2O0h682EGdSff234pcv201) | [Matty Healy](https://open.spotify.com/album/6dBjAT41RnXZcYvdU4NpGI) | 2:30 | 2021-05-04 | 2021-05-28 |
@@ -1825,7 +1826,7 @@
 | [Ripple](https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Ripple](https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB) | 2:41 | 2025-01-24 | 2026-05-16 |
 | [Risk It All](https://open.spotify.com/track/110004u5CbqwZ6mD0elr6l) | [Jackson Harris](https://open.spotify.com/artist/0pW16l7mPsVjS9CdmvOstz) | [Risk It All](https://open.spotify.com/album/2RU5jhdjyOleSiJIBRJKvn) | 3:33 | 2021-05-07 | 2021-05-24 |
 | [Roadkill](https://open.spotify.com/track/3Rlj2kckSXwhcv1NarJyEn) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On a Conditional Form](https://open.spotify.com/album/65l2wbCvQ1XGtZ4PbKqF2i) | 2:55 | 2021-01-18 | 2021-06-03 |
-| [Roamer](https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [AngieAngieAngie](https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl) | 2:19 | 2026-02-20 |  |
+| [Roamer](https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [AngieAngieAngie](https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl) | 2:19 | 2026-02-20 | 2026-08-30 |
 | [Robbed](https://open.spotify.com/track/6xft4ovLvZ3gqNJdSlq7AF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:44 | 2024-05-03 | 2025-01-18 |
 | [Rock Back & Forth](https://open.spotify.com/track/1pEpnFsBtUQEtA7TfKS1EH) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [Rock Back & Forth](https://open.spotify.com/album/3VC2jwx5b1PTfiO6AQ2Pz2) | 3:05 | 2021-03-22 | 2021-05-28 |
 | [Rocket On My Feet](https://open.spotify.com/track/2VRuPvRr4dNrd7ITIu1ia7) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Rocket On My Feet](https://open.spotify.com/album/0TgONTUERlpYs61qIHb5IR) | 4:07 | 2022-02-25 | 2022-04-21 |
@@ -2300,6 +2301,7 @@
 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-05-10 | 2024-08-31 |
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-06-30 | 2024-10-26 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-16 | 2026-03-21 |
+| [Tough Luck \(When You Don’t Call\)](https://open.spotify.com/track/109AVLNWp2BnTXTzF4j6XE) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Tough Luck \(When You Don’t Call\)](https://open.spotify.com/album/6MHa4abEhvIof8YZtErpLk) | 3:32 | 2026-08-28 |  |
 | [Tracksuit](https://open.spotify.com/track/2ZpQbgoZMeICzRrmq45NiK) | [Maz](https://open.spotify.com/artist/0Co1iSj5JPAHPnyPBynYpr) | [Tracksuit](https://open.spotify.com/album/1w1OS0ZUAvrzzvKj9OuzBj) | 2:38 | 2026-08-24 |  |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-23 | 2025-08-30 |
 | [trash tv](https://open.spotify.com/track/5Ht7XiNME36YH0716Svm1j) | [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ) | [Digital Pacific](https://open.spotify.com/album/6kVa8HTm59PW9Kk60RM7hc) | 3:18 | 2021-02-13 | 2021-03-23 |

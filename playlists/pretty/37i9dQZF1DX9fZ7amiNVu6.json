@@ -1,6 +1,6 @@
 {
   "description": "Kick back and enjoy these classic summer songs.",
-  "num_followers": 607228,
+  "num_followers": 607428,
   "original_name": "Feel Good Summer",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Facing Future",
-        "url": "https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9"
-      },
-      "artists": [
-        {
-          "name": "Israel Kamakawiwo'ole",
-          "url": "https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr"
-        }
-      ],
-      "duration_ms": 308026,
-      "name": "Somewhere Over The Rainbow/What A Wonderful World",
-      "url": "https://open.spotify.com/track/25U7raB3ZSszayTYClh4hF"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Christopher Cross",
         "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
       },
@@ -379,18 +363,18 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Oh, Pretty Woman",
-        "url": "https://open.spotify.com/album/2jTbcSPVTBRAoc3mHU6hy0"
+        "name": "Facing Future",
+        "url": "https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9"
       },
       "artists": [
         {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+          "name": "Israel Kamakawiwo'ole",
+          "url": "https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr"
         }
       ],
-      "duration_ms": 178929,
-      "name": "Oh, Pretty Woman",
-      "url": "https://open.spotify.com/track/48i055G1OT5KxGGftwFxWy"
+      "duration_ms": 308026,
+      "name": "Somewhere Over The Rainbow/What A Wonderful World",
+      "url": "https://open.spotify.com/track/25U7raB3ZSszayTYClh4hF"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -407,6 +391,22 @@
       "duration_ms": 160906,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "Oh, Pretty Woman",
+        "url": "https://open.spotify.com/album/2jTbcSPVTBRAoc3mHU6hy0"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 178929,
+      "name": "Oh, Pretty Woman",
+      "url": "https://open.spotify.com/track/48i055G1OT5KxGGftwFxWy"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "London Calling (Remastered)",
-        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 192454,
-      "name": "Train in Vain (Stand by Me) - Remastered",
-      "url": "https://open.spotify.com/track/6ITuEsxEy2qPhqMowdDAeI"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Super Trouper",
         "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 259733,
       "name": "Our Last Summer",
       "url": "https://open.spotify.com/track/6hHXft1nFyvfVv6UoRToPZ"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 192454,
+      "name": "Train in Vain (Stand by Me) - Remastered",
+      "url": "https://open.spotify.com/track/6ITuEsxEy2qPhqMowdDAeI"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
+        "name": "The Very Best Of The Staple Singers",
+        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "I'll Take You There",
+      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
         "name": "Idlewild South (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/1K9yhJFW4FR8Rc1VURWA5T"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "The Very Best Of The Staple Singers",
-        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/0ESCnyuOCpztPojn8m0uqi"
       },
       "artists": [
         {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
         }
       ],
-      "duration_ms": 196826,
-      "name": "I'll Take You There",
-      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
+      "duration_ms": 172733,
+      "name": "Please Mr. Postman",
+      "url": "https://open.spotify.com/track/74jZhGv0fdLaf9q8AZZ15k"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -1119,22 +1135,6 @@
       "duration_ms": 215080,
       "name": "September",
       "url": "https://open.spotify.com/track/3wpLkju0bJy89kjgdRys0j"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/0ESCnyuOCpztPojn8m0uqi"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "Please Mr. Postman",
-      "url": "https://open.spotify.com/track/74jZhGv0fdLaf9q8AZZ15k"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "If You Can Believe Your Eyes & Ears",
-        "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
-      },
-      "artists": [
-        {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "Monday, Monday - Single Version",
-      "url": "https://open.spotify.com/track/3EFb1qDgIqf9MegIryKtDj"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Dance Party",
         "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 165226,
       "name": "Dancing In The Street",
       "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "If You Can Believe Your Eyes & Ears",
+        "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "Monday, Monday - Single Version",
+      "url": "https://open.spotify.com/track/3EFb1qDgIqf9MegIryKtDj"
     },
     {
       "added_at": "2024-07-14 16:19:42",

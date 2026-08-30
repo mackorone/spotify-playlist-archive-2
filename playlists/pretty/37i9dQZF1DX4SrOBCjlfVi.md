@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring AZ Chike and Tyler, The Creator,  Rod Wave, Ken Carson and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,175 likes - 76 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,233 likes - 76 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

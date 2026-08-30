@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 
 > A selection of relaxing, spiritual, and instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,103 likes - 40 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,102 likes - 40 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 6 | [Halfaouine](https://open.spotify.com/track/12QGmnEmcpgFajECmRfg6u) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [Le Voyage De Sahar](https://open.spotify.com/album/2rqw1pAaWrXmsAZFM3IUXO) | 2:06 |
 | 7 | [Al bint el shalabiya](https://open.spotify.com/track/269AmdV2hBIdEJkysPDIBd) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [The Beirut Oriental Ensemble](https://open.spotify.com/artist/6N646pfdfynkHnoKEnpBFN) | [HandMade](https://open.spotify.com/album/1VZ827wwKIonSOc7g5YTW9) | 4:50 |
 | 8 | [Hijaz](https://open.spotify.com/track/0KZdkSChCmUrUP3m5nZ05A) | [Aarif Jaman](https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh) | [Oud \(The Legend of Arabic Music\)](https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg) | 3:18 |
-| 9 | [Taqsîm en maqâm : Nahawand\-kabîr](https://open.spotify.com/track/6UWZUL60UVWXE2CwbntY7B) | [Munir Bashir](https://open.spotify.com/artist/7u3rioJ6JfINqENIQ67k6A) | [Iraq \- Irak : The Art of the 'ûd \(Collection Ocora Radio\-France\)](https://open.spotify.com/album/2M1g6EKg4ZfqH5mOI87e9x) | 9:35 |
-| 10 | [Nafas](https://open.spotify.com/track/2MOrdaDFhHoyTpefyvQWCF) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT), [Selim Kusur](https://open.spotify.com/artist/3B2ZGMKcVz6MLE2R3SYcSi), [Glen Velez](https://open.spotify.com/artist/15iQ5XT6Esaps90Qp8XlXr), [Setrak Sarkissian](https://open.spotify.com/artist/1QLQGJzb3i3sH7rAuVaAsc) | [Nafas](https://open.spotify.com/album/4LwyNUteskctw7AwVmQSQy) | 1:34 |
+| 9 | [Nafas](https://open.spotify.com/track/2MOrdaDFhHoyTpefyvQWCF) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT), [Selim Kusur](https://open.spotify.com/artist/3B2ZGMKcVz6MLE2R3SYcSi), [Glen Velez](https://open.spotify.com/artist/15iQ5XT6Esaps90Qp8XlXr), [Setrak Sarkissian](https://open.spotify.com/artist/1QLQGJzb3i3sH7rAuVaAsc) | [Nafas](https://open.spotify.com/album/4LwyNUteskctw7AwVmQSQy) | 1:34 |
+| 10 | [Taqsîm en maqâm : Nahawand\-kabîr](https://open.spotify.com/track/6UWZUL60UVWXE2CwbntY7B) | [Munir Bashir](https://open.spotify.com/artist/7u3rioJ6JfINqENIQ67k6A) | [Iraq \- Irak : The Art of the 'ûd \(Collection Ocora Radio\-France\)](https://open.spotify.com/album/2M1g6EKg4ZfqH5mOI87e9x) | 9:35 |
 | 11 | [Interl'Oud](https://open.spotify.com/track/0rxhy4Vi3vo1TH8ylMZOY3) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Abu Nawas Rhapsody](https://open.spotify.com/album/21B3ckDMGBE7WzorsseUkl) | 1:43 |
 | 12 | [Shooting The Statues](https://open.spotify.com/track/0Wsmxn4VqS2xwS3lkOqmgS) | [Amine Bouhafa](https://open.spotify.com/artist/50FuOJ5QTp0kIsLEE2FP5l) | [Timbuktu \- Original Motion Picture Soundtrack](https://open.spotify.com/album/32wjemmAcqEaWVBuVvy6VZ) | 1:13 |
 | 13 | [The Land of the Sun](https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [The Land of the Sun](https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre) | 3:58 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 36 | [Meçhul](https://open.spotify.com/track/4btMC5zessMUb1G9JUTT6q) | [Mercan Dede](https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY) | [Dünya, Vol\. 1 \(Gün Doğumu\)](https://open.spotify.com/album/2Qocr6xEdeOsTOFGzTdTw9) | 7:39 |
 | 37 | [Lamentations bipolaires](https://open.spotify.com/track/3j0obpF6E4yxU6fUXoQ0xu) | [Abderraouf Ouertani](https://open.spotify.com/artist/7fLHLIzQkhIOqrotQlR1rA), [Patrick Villanueva](https://open.spotify.com/artist/3NluZeUS7m52HzFmA4uojj) | [Duo Deux Rives](https://open.spotify.com/album/2VIiaWaN6unj1ORZ630O7N) | 5:35 |
 | 38 | [Hijaz](https://open.spotify.com/track/3oINCsaTDaEaKVpgr344vM) | [Mohai Eddine](https://open.spotify.com/artist/7xAZRH3XRgD0S4ku0X9Ng3) | [Authentic Instrumental Music By the Most Famous Arab Artists](https://open.spotify.com/album/7jtHS5TeiUrjJ6NpOkuP3w) | 5:06 |
-| 39 | [Qanoun Improvisation](https://open.spotify.com/track/50JMemVAIno0plc9HqbFOu) | [Mohammed Antar and Oriental Secrets Ensemble](https://open.spotify.com/artist/2jwkIGB8WGIbWPfj5IC69H) | [Oriental Breeze](https://open.spotify.com/album/26kvGzUIQrtJI2kREW1bmc) | 2:02 |
-| 40 | [Helvetica](https://open.spotify.com/track/48ZnykZzekPgVoh5VgNMIP) | [Basel Rajoub](https://open.spotify.com/artist/68rxFd814z29ByrpJtXcNp) | [The Queen of Turquoise](https://open.spotify.com/album/0grbcgG8W8C8yqHvIzn0dB) | 5:40 |
+| 39 | [Helvetica](https://open.spotify.com/track/48ZnykZzekPgVoh5VgNMIP) | [Basel Rajoub](https://open.spotify.com/artist/68rxFd814z29ByrpJtXcNp) | [The Queen of Turquoise](https://open.spotify.com/album/0grbcgG8W8C8yqHvIzn0dB) | 5:40 |
+| 40 | [Qanoun Improvisation](https://open.spotify.com/track/50JMemVAIno0plc9HqbFOu) | [Mohammed Antar and Oriental Secrets Ensemble](https://open.spotify.com/artist/2jwkIGB8WGIbWPfj5IC69H) | [Oriental Breeze](https://open.spotify.com/album/26kvGzUIQrtJI2kREW1bmc) | 2:02 |
 
 Snapshot ID: `AAAAAK1EHisJ89P6/z1thQQb6KN3wQww`

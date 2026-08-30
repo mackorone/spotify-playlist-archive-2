@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 
 > y de la buena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,361,425 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,361,472 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

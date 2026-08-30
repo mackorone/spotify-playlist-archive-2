@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Braxton Keith",
-  "num_followers": 399776,
+  "num_followers": 399761,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Fan of You",
-        "url": "https://open.spotify.com/album/2EKBJst1lNOakc8jbaSBEv"
-      },
-      "artists": [
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        }
-      ],
-      "duration_ms": 221816,
-      "name": "Fan of You",
-      "url": "https://open.spotify.com/track/2fqB6LSwNdGV1JQC3f8esT"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
         "name": "Times Are Changing",
         "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 219481,
       "name": "Shines Through",
       "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
+        "name": "Fan of You",
+        "url": "https://open.spotify.com/album/2EKBJst1lNOakc8jbaSBEv"
+      },
+      "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        }
+      ],
+      "duration_ms": 221816,
+      "name": "Fan of You",
+      "url": "https://open.spotify.com/track/2fqB6LSwNdGV1JQC3f8esT"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Worry is a Sickness",
-        "url": "https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf"
-      },
-      "artists": [
-        {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
-        }
-      ],
-      "duration_ms": 254836,
-      "name": "Worry is a Sickness",
-      "url": "https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
         "name": "Hard Land",
         "url": "https://open.spotify.com/album/3bfLBgtrzDaYpM4uLwfvbK"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 227583,
       "name": "Ghosts of the Panhandle Wind",
       "url": "https://open.spotify.com/track/04iNvh91y5NoiaaHsfDNuX"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
+        "name": "Worry is a Sickness",
+        "url": "https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "duration_ms": 254836,
+      "name": "Worry is a Sickness",
+      "url": "https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb"
     },
     {
       "added_at": "2026-08-07 04:01:44",

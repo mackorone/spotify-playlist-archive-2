@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNrHCawrTC8.md) - [plain]
 
 > revisit one of hip\-hop's most of exciting eras
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,022 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,068 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNrHCawrTC8.md) - [plain]
 | 47 | [212](https://open.spotify.com/track/4D3eJvbNKjMF8DRQFVIHsG) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Lazy Jay](https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR) | [1991 \- EP](https://open.spotify.com/album/5fkZoSOBJyj0PaDo1LUabM) | 3:23 |
 | 48 | [Call from the Bank \(feat\. Mgmt\)](https://open.spotify.com/track/4aHN7SjWuXXG9fhpxGaME6) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [The Marathon](https://open.spotify.com/album/0hxGA0AAOMvmzYHPzybcOr) | 2:59 |
 | 49 | [Survival Tactics](https://open.spotify.com/track/4pNT8XTKWb2vhcsqwzdXCT) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Capital Steez](https://open.spotify.com/artist/0oQuXVLDJB7J4wNff4F99l) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 3:22 |
-| 50 | [Make Her Say \- Album Version \(Edited\)](https://open.spotify.com/track/2r4kJwQ7TjHU1IXFfT1Ist) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Make Her Say](https://open.spotify.com/album/1tfP7ytFEzqLCC4kL5M7aP) | 3:57 |
+| 50 | [Make Her Say](https://open.spotify.com/track/2r4kJwQ7TjHU1IXFfT1Ist) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Make Her Say](https://open.spotify.com/album/1tfP7ytFEzqLCC4kL5M7aP) | 3:57 |
 | 51 | [I'm a Real 1](https://open.spotify.com/track/3u6uUpi5kvtGqYZjQFgDH8) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Just Re'd up 2](https://open.spotify.com/album/6LYs6vCaIZd3kemw1JDGti) | 2:48 |
 | 52 | [Blue Suede](https://open.spotify.com/track/6w6SW8zyEcyxwSR7Wya45a) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Hell Can Wait](https://open.spotify.com/album/7mxpMxmMM8RN39YRlo08v7) | 3:38 |
 | 53 | [IV\. Sweatpants](https://open.spotify.com/track/3x4I4nRuZp5NdtGvCPw6Ms) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:00 |

@@ -775,6 +775,22 @@
     {
       "added_at": "2026-01-16 15:27:38",
       "album": {
+        "name": "Saving Up",
+        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 207514,
+      "name": "Saving Up",
+      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
+    },
+    {
+      "added_at": "2026-01-16 15:27:38",
+      "album": {
         "name": "Rain On Me (with Ariana Grande)",
         "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 182200,
       "name": "Rain On Me (with Ariana Grande)",
       "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
-    },
-    {
-      "added_at": "2026-01-16 15:27:38",
-      "album": {
-        "name": "Saving Up",
-        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 207514,
-      "name": "Saving Up",
-      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
     },
     {
       "added_at": "2026-01-16 15:27:38",

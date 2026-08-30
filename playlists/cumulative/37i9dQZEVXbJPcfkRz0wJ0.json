@@ -6560,7 +6560,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 186453,
       "name": "Coat of Many Colors",
       "url": "https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z"
@@ -8706,7 +8706,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 249600,
       "name": "Don't Stop Believin' (2022 Remaster)",
       "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
@@ -11334,6 +11334,24 @@
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/50E5Op3ZjRibJGZjGBcGR6"
     },
     {
       "album": {
@@ -13996,7 +14014,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 179491,
       "name": "Here You Come Again",
       "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
@@ -19410,7 +19428,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 233478,
       "name": "Locked out of Heaven",
       "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
@@ -26334,7 +26352,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 360000,
       "name": "Rain Sounds for Sleeping, Pt. 06 (Continuous No Gaps)",
       "url": "https://open.spotify.com/track/7gF2mPcjipv2hLGHY7bi17"

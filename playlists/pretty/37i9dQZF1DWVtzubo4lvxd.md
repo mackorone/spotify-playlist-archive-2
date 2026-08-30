@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,036 likes - 75 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,028 likes - 75 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 36 | [couch sitters](https://open.spotify.com/track/0jImgMHObhq0VhS6f9Qlla) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [couch sitters](https://open.spotify.com/album/25RSOMykbvd0dc9fTK8qkG) | 2:34 |
 | 37 | [St\. Clements](https://open.spotify.com/track/4AzvNQcn1I4sZ2wJrW5ATq) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP), [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [St\. Clements](https://open.spotify.com/album/1XXmc02uygqHueQUYutfZZ) | 1:17 |
 | 38 | [Myth](https://open.spotify.com/track/5TIc53pvTiR7tzz08OwiUj) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Myth](https://open.spotify.com/album/2uEzVjqCcDFdfbgRjyMn4s) | 1:55 |
-| 39 | [Desire](https://open.spotify.com/track/5BMDnItXLkEKbVhDJlM1DE) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:11 |
-| 40 | [aigo](https://open.spotify.com/track/6fkrNwyHgSU1oaNUqRbFZh) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [aigo](https://open.spotify.com/album/23QUwYqYmJJ8oFU9zLWqa3) | 2:24 |
+| 39 | [aigo](https://open.spotify.com/track/6fkrNwyHgSU1oaNUqRbFZh) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [aigo](https://open.spotify.com/album/23QUwYqYmJJ8oFU9zLWqa3) | 2:24 |
+| 40 | [Desire](https://open.spotify.com/track/5BMDnItXLkEKbVhDJlM1DE) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:11 |
 | 41 | [Make Up](https://open.spotify.com/track/61JERhZCmTcba3dkm2k53O) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Nineteen](https://open.spotify.com/album/69fOwmdCZIaWPE4OLLnuQi) | 1:06 |
 | 42 | [Rose Garden](https://open.spotify.com/track/37I8L2Cx6PScWXn0tkN4wV) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Imaginary](https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA) | 2:06 |
-| 43 | [Cherry Pie Jam](https://open.spotify.com/track/4kebaMUJlFbzPacKwcAGLZ) | [Hollow Clouds](https://open.spotify.com/artist/6j46UIFeyGBhixGhFvxdrh) | [Cherry Pie Jam](https://open.spotify.com/album/50T1ZXJe0cQlOxOGpqWCBl) | 3:37 |
-| 44 | [Life](https://open.spotify.com/track/5Pxb3DpymMiRl8JDiOXTPE) | [Lost Son](https://open.spotify.com/artist/0hcPMmuJcGcRhzAzYRrWVF) | [Life](https://open.spotify.com/album/766qimmxJrU3wXg0coClg9) | 1:19 |
+| 43 | [Life](https://open.spotify.com/track/5Pxb3DpymMiRl8JDiOXTPE) | [Lost Son](https://open.spotify.com/artist/0hcPMmuJcGcRhzAzYRrWVF) | [Life](https://open.spotify.com/album/766qimmxJrU3wXg0coClg9) | 1:19 |
+| 44 | [Cherry Pie Jam](https://open.spotify.com/track/4kebaMUJlFbzPacKwcAGLZ) | [Hollow Clouds](https://open.spotify.com/artist/6j46UIFeyGBhixGhFvxdrh) | [Cherry Pie Jam](https://open.spotify.com/album/50T1ZXJe0cQlOxOGpqWCBl) | 3:37 |
 | 45 | [with me](https://open.spotify.com/track/1eMfoDF9GAViOTX7FC30C6) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [with me](https://open.spotify.com/album/5GyspQ4x1DcMw1I4LrQJSx) | 2:17 |
 | 46 | [i dream of you every night](https://open.spotify.com/track/4Z5aQZdyQ8Fc3R7PE17T0e) | [lostlife.](https://open.spotify.com/artist/40OFkxP3djvsCg7Aj3d7sk) | [i dream of you every night](https://open.spotify.com/album/1aypmsUBuVvA4gG9mb40KL) | 2:27 |
 | 47 | [Fuji.](https://open.spotify.com/track/2xWavyjB5Nif5Cy8lRLX4Q) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [Swimming](https://open.spotify.com/album/2eN8bdTlnXQJlA4cKVYX4L) | 1:48 |
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 60 | [Everywhere Home](https://open.spotify.com/track/5iEcmnWLroqZNsDOeLdAqw) | [Aytun](https://open.spotify.com/artist/7cPjAZYOPseCzqxvEoqeLY), [Can Menek](https://open.spotify.com/artist/0scw6tyxsoUys8IX5GzoZJ), [DJ Daddy E](https://open.spotify.com/artist/00oHhGfAfmXp67aR5QrkRQ) | [Everywhere Home](https://open.spotify.com/album/3hSioPf1pQddF0pUKDK2s0) | 4:10 |
 | 61 | [Vanilla Sky](https://open.spotify.com/track/01DW6OboQNUWIUQTx56m3W) | [Trell Daniels](https://open.spotify.com/artist/1CEqyczKKYNhzgqCjH7G7Q) | [Vanilla Sky](https://open.spotify.com/album/5BFVG3uO4KhcVi1rHZDDxD) | 2:03 |
 | 62 | [Froosh](https://open.spotify.com/track/3VQIAOQRwGwFvBaR7E36O1) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Froosh](https://open.spotify.com/album/0nlcA5P03I6t06WdlLy5FF) | 1:57 |
-| 63 | [Floating Free](https://open.spotify.com/track/4T50e4TUj1kMFWi66QaBEq) | [Veritas](https://open.spotify.com/artist/2S6iwClVoSNnpOcCzyMeUj) | [Floating Free](https://open.spotify.com/album/1o57MZ6drrqBMNsahZNvPu) | 4:08 |
-| 64 | [Real Life](https://open.spotify.com/track/4kSWrE6OOHPJt4TizgkckZ) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW) | [Polo Beats](https://open.spotify.com/album/0aCbGwTjoC0h4F6SJN2OzE) | 1:38 |
-| 65 | [It's Time](https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr) | [Time Brings Change](https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0) | 1:50 |
-| 66 | [motions](https://open.spotify.com/track/6D03xabyvMD0AGWThiRn9U) | [leaf beach](https://open.spotify.com/artist/5fQYCNYjrT9c4ZssNrC0gh), [Karavelo](https://open.spotify.com/artist/1urkG0cqnV7Jjhdv4O9D3f) | [motions](https://open.spotify.com/album/7gPow41HZ6Kx3DdgGwvvSF) | 2:18 |
-| 67 | [BEACH](https://open.spotify.com/track/1iN5j0yTid7A3VzEx8lwhe) | [Farazi](https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg) | [CRAFT](https://open.spotify.com/album/3XHlFqpOeA7B0s8ZX7sX3a) | 2:46 |
-| 68 | [Getting Lost](https://open.spotify.com/track/2qu7wb9uya6Kh1YqgHyxOy) | [Veritas](https://open.spotify.com/artist/2S6iwClVoSNnpOcCzyMeUj) | [Getting Lost](https://open.spotify.com/album/37kZUfnuctnnWXvDEATO21) | 3:52 |
-| 69 | [Green Cats Cave](https://open.spotify.com/track/1tHjVZCBWEERhd2IIa1m5J) | [Aöm](https://open.spotify.com/artist/3lQeibogltk6xDaXJKCMjf) | [Green Cats Cave](https://open.spotify.com/album/0LIEVUcK68HEtUvfbY4E2o) | 2:42 |
+| 63 | [It's Time](https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr) | [Time Brings Change](https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0) | 1:50 |
+| 64 | [Floating Free](https://open.spotify.com/track/4T50e4TUj1kMFWi66QaBEq) | [Veritas](https://open.spotify.com/artist/2S6iwClVoSNnpOcCzyMeUj) | [Floating Free](https://open.spotify.com/album/1o57MZ6drrqBMNsahZNvPu) | 4:08 |
+| 65 | [Real Life](https://open.spotify.com/track/4kSWrE6OOHPJt4TizgkckZ) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW) | [Polo Beats](https://open.spotify.com/album/0aCbGwTjoC0h4F6SJN2OzE) | 1:38 |
+| 66 | [BEACH](https://open.spotify.com/track/1iN5j0yTid7A3VzEx8lwhe) | [Farazi](https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg) | [CRAFT](https://open.spotify.com/album/3XHlFqpOeA7B0s8ZX7sX3a) | 2:46 |
+| 67 | [motions](https://open.spotify.com/track/6D03xabyvMD0AGWThiRn9U) | [leaf beach](https://open.spotify.com/artist/5fQYCNYjrT9c4ZssNrC0gh), [Karavelo](https://open.spotify.com/artist/1urkG0cqnV7Jjhdv4O9D3f) | [motions](https://open.spotify.com/album/7gPow41HZ6Kx3DdgGwvvSF) | 2:18 |
+| 68 | [Green Cats Cave](https://open.spotify.com/track/1tHjVZCBWEERhd2IIa1m5J) | [Aöm](https://open.spotify.com/artist/3lQeibogltk6xDaXJKCMjf) | [Green Cats Cave](https://open.spotify.com/album/0LIEVUcK68HEtUvfbY4E2o) | 2:42 |
+| 69 | [Getting Lost](https://open.spotify.com/track/2qu7wb9uya6Kh1YqgHyxOy) | [Veritas](https://open.spotify.com/artist/2S6iwClVoSNnpOcCzyMeUj) | [Getting Lost](https://open.spotify.com/album/37kZUfnuctnnWXvDEATO21) | 3:52 |
 | 70 | [Misty \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/034ZKE6KJpa8yVpAPQ9AMT) | [Sam Barsh](https://open.spotify.com/artist/4vVYohuzsd1OIOpYw2FuER), [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Spotify Singles \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/6JxnS1pZVWSZW4qtr2gfEu) | 1:38 |
 | 71 | [My Promise](https://open.spotify.com/track/2tLMEIVC98DSoq8jjypvg6) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [My Promise](https://open.spotify.com/album/5rL8vcVAck9ba3BC8X0WFg) | 4:01 |
 | 72 | [Feeling Free](https://open.spotify.com/track/5eGZV3CqygFwrRoYeoZmbL) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Feeling Free](https://open.spotify.com/album/2RodOh8h0h5JORsgPu7zmc) | 2:00 |
-| 73 | [its not the time](https://open.spotify.com/track/68cwRG1sfkHrQQinU9Ibv9) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k) | [its not the time](https://open.spotify.com/album/0jp4ud99lCwQTBfHur3bXS) | 1:56 |
-| 74 | [Wherewithal](https://open.spotify.com/track/5X1x7olCET1Kix9YjOMTkN) | [Bokki](https://open.spotify.com/artist/1gmAvUNIqrPSGklxtoj514) | [Wherewithal](https://open.spotify.com/album/3oJGMM6U9KPZmnhgk92Pck) | 2:39 |
-| 75 | [City Rain](https://open.spotify.com/track/2ulWL7DcayhjIa0UOw4v8i) | [G93](https://open.spotify.com/artist/01kKwMSA10JavvAaD0Jj5u) | [City Rain](https://open.spotify.com/album/32Zu5iSwr6KPFFikCB76eT) | 3:33 |
+| 73 | [Wherewithal](https://open.spotify.com/track/5X1x7olCET1Kix9YjOMTkN) | [Bokki](https://open.spotify.com/artist/1gmAvUNIqrPSGklxtoj514) | [Wherewithal](https://open.spotify.com/album/3oJGMM6U9KPZmnhgk92Pck) | 2:39 |
+| 74 | [City Rain](https://open.spotify.com/track/2ulWL7DcayhjIa0UOw4v8i) | [G93](https://open.spotify.com/artist/01kKwMSA10JavvAaD0Jj5u) | [City Rain](https://open.spotify.com/album/32Zu5iSwr6KPFFikCB76eT) | 3:33 |
+| 75 | [its not the time](https://open.spotify.com/track/68cwRG1sfkHrQQinU9Ibv9) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k) | [its not the time](https://open.spotify.com/album/0jp4ud99lCwQTBfHur3bXS) | 1:56 |
 
 Snapshot ID: `AAAAAA9+jXpDhVhj1sau5xGek2X34ult`

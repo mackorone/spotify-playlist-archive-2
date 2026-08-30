@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 
 > Revisit stand out songs from these singer/songwriters\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,799 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,809 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 66 | [Birdcage](https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 3:22 |
 | 67 | [The Girl](https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr) | 6:00 |
 | 68 | [Shrike](https://open.spotify.com/track/5uIYONgpUQ7t0v7D6CTMBt) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 5:00 |
-| 69 | [Know the Night](https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Know the Night](https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm) | 3:10 |
-| 70 | [Half Your Love](https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 2:24 |
-| 71 | [Funtimes in Babylon](https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:39 |
-| 72 | [Surrender](https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Surrender](https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5) | 3:54 |
+| 69 | [Half Your Love](https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 2:24 |
+| 70 | [Know the Night](https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Know the Night](https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm) | 3:10 |
+| 71 | [Surrender](https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Surrender](https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5) | 3:54 |
+| 72 | [Funtimes in Babylon](https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:39 |
 | 73 | [Alco](https://open.spotify.com/track/4gUSSMx93QZOFVHHmXWhHV) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth) | 3:48 |
 | 74 | [Bright Green Vibrant Gray](https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:39 |
 | 75 | [Appointments](https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O) | 4:33 |
@@ -96,16 +96,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 86 | [Freedom](https://open.spotify.com/track/6L1PKCmrvrfsVSDbo6f8Jd) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [Only Pieces of the Truth](https://open.spotify.com/album/5WTMX9SyPDigNcgewZGtLG) | 4:21 |
 | 87 | [John Came Home](https://open.spotify.com/track/6lYLBkRAE90WZuYW649Zek) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Paint Horse](https://open.spotify.com/album/6s0ZlMKxMLMAspUfTI2NzN) | 3:11 |
 | 88 | [Dead Of Night](https://open.spotify.com/track/6jzAkKTa5sRAcIG4N1DkV6) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/4sypyREAQc69dg2X5XY4Df) | 3:59 |
-| 89 | [Dreamer](https://open.spotify.com/track/7FHrMR2i0qZg2C8RJXf8ax) | [Jenn Grant](https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L) | [Orchestra for the Moon](https://open.spotify.com/album/5gNUWbKtTbrPzE860LaTly) | 4:35 |
-| 90 | [Rhododendron](https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:48 |
+| 89 | [Rhododendron](https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:48 |
+| 90 | [Dreamer](https://open.spotify.com/track/7FHrMR2i0qZg2C8RJXf8ax) | [Jenn Grant](https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L) | [Orchestra for the Moon](https://open.spotify.com/album/5gNUWbKtTbrPzE860LaTly) | 4:35 |
 | 91 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 |
 | 92 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 |
 | 93 | [We Can't Be Tamed](https://open.spotify.com/track/2GygOAZfu7hG7WULOP0bCq) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:03 |
 | 94 | [Changes](https://open.spotify.com/track/76nW7HHrLWElA2t2zJMt1k) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:09 |
 | 95 | [Moondog](https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Moondog](https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK) | 5:05 |
 | 96 | [Milk And Honey](https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Tales Of America \(The Second Coming\)](https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V) | 2:54 |
-| 97 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 |
-| 98 | [Chance](https://open.spotify.com/track/25raxlYX65MJqdjoSKIPI0) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo) | 2:59 |
+| 97 | [Chance](https://open.spotify.com/track/25raxlYX65MJqdjoSKIPI0) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo) | 2:59 |
+| 98 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 |
 | 99 | [Define You](https://open.spotify.com/track/3AeQrVZPOszHLdES1OJ1Md) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Challenger](https://open.spotify.com/album/6uK1BjcfTLBHePE1oSU3ro) | 3:34 |
 | 100 | [The Open Road](https://open.spotify.com/track/1Zc2f37KUAPwLEywMMHnbX) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Moments](https://open.spotify.com/album/1woKCA8dTokL647kKXySq6) | 3:20 |
 

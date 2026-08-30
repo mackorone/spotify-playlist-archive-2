@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 25624,
+  "num_followers": 25641,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Bluetory",
-        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
-      },
-      "artists": [
-        {
-          "name": "CNBLUE",
-          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
-        }
-      ],
-      "duration_ms": 217835,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Pieces, Part One",
         "url": "https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 301720,
       "name": "\uc6b0\uc0b0 (feat. \uc724\ud558)",
       "url": "https://open.spotify.com/track/1VnjByC7TUx5A73A4qtgoo"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Bluetory",
+        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
+      },
+      "artists": [
+        {
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+        }
+      ],
+      "duration_ms": 217835,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Girls' Generation",
-        "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        }
-      ],
-      "duration_ms": 199240,
-      "name": "Kissing You",
-      "url": "https://open.spotify.com/track/18fWwTkrIxojEC2gmVyoxS"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Pathos",
         "url": "https://open.spotify.com/album/42FCxz16YLTZ1nw5lVfpaR"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 331154,
       "name": "No matter where",
       "url": "https://open.spotify.com/track/7oT5JOWwxnwcZRI6NLzhWs"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Girls' Generation",
+        "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "duration_ms": 199240,
+      "name": "Kissing You",
+      "url": "https://open.spotify.com/track/18fWwTkrIxojEC2gmVyoxS"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "A bicycle Ride",
-        "url": "https://open.spotify.com/album/4dNI0uPp7lWdClgD8hGTVg"
-      },
-      "artists": [
-        {
-          "name": "Jatanpung",
-          "url": "https://open.spotify.com/artist/0rmwTliQlHxi4uQQ0auZm5"
-        }
-      ],
-      "duration_ms": 222853,
-      "name": "Me to You, You to Me",
-      "url": "https://open.spotify.com/track/1oW9H74WFBF0AsjP2e61YZ"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Back To The Soul Flight",
         "url": "https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 266506,
       "name": "\uadc0\ub85c",
       "url": "https://open.spotify.com/track/5B6ewNeXBcIDHqzsgAn6Dk"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "A bicycle Ride",
+        "url": "https://open.spotify.com/album/4dNI0uPp7lWdClgD8hGTVg"
+      },
+      "artists": [
+        {
+          "name": "Jatanpung",
+          "url": "https://open.spotify.com/artist/0rmwTliQlHxi4uQQ0auZm5"
+        }
+      ],
+      "duration_ms": 222853,
+      "name": "Me to You, You to Me",
+      "url": "https://open.spotify.com/track/1oW9H74WFBF0AsjP2e61YZ"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "Sweet Dream",
+        "url": "https://open.spotify.com/album/5VfVPotg5IHge0C8PFb5Dt"
+      },
+      "artists": [
+        {
+          "name": "Jang Na-ra",
+          "url": "https://open.spotify.com/artist/2ToVzDfnPIfgFiqkXbLsYN"
+        }
+      ],
+      "duration_ms": 236536,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/2gx9ARIznyZBYa6YyWD5fo"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Re - Feel",
         "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 272875,
       "name": "The man and the woman",
       "url": "https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Sweet Dream",
-        "url": "https://open.spotify.com/album/5VfVPotg5IHge0C8PFb5Dt"
-      },
-      "artists": [
-        {
-          "name": "Jang Na-ra",
-          "url": "https://open.spotify.com/artist/2ToVzDfnPIfgFiqkXbLsYN"
-        }
-      ],
-      "duration_ms": 236536,
-      "name": "Sweet Dream",
-      "url": "https://open.spotify.com/track/2gx9ARIznyZBYa6YyWD5fo"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "SOUL FOOD",
-        "url": "https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q"
-      },
-      "artists": [
-        {
-          "name": "BMK",
-          "url": "https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O"
-        }
-      ],
-      "duration_ms": 284106,
-      "name": "When flowering spring comes",
-      "url": "https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Like The Bible",
         "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 299426,
       "name": "\uccb4\ub150",
       "url": "https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "SOUL FOOD",
+        "url": "https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q"
+      },
+      "artists": [
+        {
+          "name": "BMK",
+          "url": "https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O"
+        }
+      ],
+      "duration_ms": 284106,
+      "name": "When flowering spring comes",
+      "url": "https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "SHOO. EUGENE. SEA - The 2nd Album",
-        "url": "https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl"
-      },
-      "artists": [
-        {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
-        }
-      ],
-      "duration_ms": 245773,
-      "name": "Dreams Come True",
-      "url": "https://open.spotify.com/track/6whFRgwg7je2SYzpSfansM"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "The Jadu 3",
         "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 225866,
       "name": "\uae40\ubc25",
       "url": "https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "SHOO. EUGENE. SEA - The 2nd Album",
+        "url": "https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl"
+      },
+      "artists": [
+        {
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+        }
+      ],
+      "duration_ms": 245773,
+      "name": "Dreams Come True",
+      "url": "https://open.spotify.com/track/6whFRgwg7je2SYzpSfansM"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 265379,
-      "name": "\uc544\ub85c\ud558",
-      "url": "https://open.spotify.com/track/1uRB9bYGCSvLSsF4e65UYj"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Like Them",
         "url": "https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 281800,
       "name": "We Should've Been Friends",
       "url": "https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 265379,
+      "name": "\uc544\ub85c\ud558",
+      "url": "https://open.spotify.com/track/1uRB9bYGCSvLSsF4e65UYj"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\uae30\uc5b5\uc18d\uc758 \uba5c\ub85c\ub514",
-        "url": "https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi"
+        "name": "BLAQ Style",
+        "url": "https://open.spotify.com/album/7nEtGoI32qBOQ1VinD31VF"
       },
       "artists": [
         {
-          "name": "Kim Dong Ryul",
-          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+          "name": "MBLAQ",
+          "url": "https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG"
         }
       ],
-      "duration_ms": 285234,
-      "name": "\uac10\uc0ac",
-      "url": "https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS"
+      "duration_ms": 200556,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0Q2uAamKg36f2KH0NSepT7"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "BLAQ Style",
-        "url": "https://open.spotify.com/album/7nEtGoI32qBOQ1VinD31VF"
+        "name": "\uae30\uc5b5\uc18d\uc758 \uba5c\ub85c\ub514",
+        "url": "https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi"
       },
       "artists": [
         {
-          "name": "MBLAQ",
-          "url": "https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG"
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
         }
       ],
-      "duration_ms": 200556,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0Q2uAamKg36f2KH0NSepT7"
+      "duration_ms": 285234,
+      "name": "\uac10\uc0ac",
+      "url": "https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Monologue",
-        "url": "https://open.spotify.com/album/2vdtU1KZ2owCBxjBC5WebE"
-      },
-      "artists": [
-        {
-          "name": "Kim Dong Ryul",
-          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
-        },
-        {
-          "name": "ALEX",
-          "url": "https://open.spotify.com/artist/2nEKRTE6la5urCEnpNnMKZ"
-        }
-      ],
-      "duration_ms": 213813,
-      "name": "Like A Child (feat. ALEX)",
-      "url": "https://open.spotify.com/track/6ANNMivJIkzYXzh8u76IsE"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Op. 4",
         "url": "https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 222171,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Monologue",
+        "url": "https://open.spotify.com/album/2vdtU1KZ2owCBxjBC5WebE"
+      },
+      "artists": [
+        {
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+        },
+        {
+          "name": "ALEX",
+          "url": "https://open.spotify.com/artist/2nEKRTE6la5urCEnpNnMKZ"
+        }
+      ],
+      "duration_ms": 213813,
+      "name": "Like A Child (feat. ALEX)",
+      "url": "https://open.spotify.com/track/6ANNMivJIkzYXzh8u76IsE"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Have A Nice Dream",
-        "url": "https://open.spotify.com/album/1gGFPcgK3adJebbw4XnT47"
+        "name": "Re - Feel",
+        "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
       },
       "artists": [
         {
-          "name": "Rumble Fish",
-          "url": "https://open.spotify.com/artist/1NyreDKOPoI1XxOv7xnyn2"
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
         }
       ],
-      "duration_ms": 256506,
-      "name": "Eurachacha",
-      "url": "https://open.spotify.com/track/5WeDiuGjTVQ38Vf2eHUpX3"
+      "duration_ms": 245159,
+      "name": "I drink again",
+      "url": "https://open.spotify.com/track/68SpcwzDfyFYaM6dMSEtRk"
     }
   ],
   "unique_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",

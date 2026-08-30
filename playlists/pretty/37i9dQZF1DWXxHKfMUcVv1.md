@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,716 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,728 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 24 | [Paso la Vida Pensando](https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Paso la Vida Pensando](https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG) | 4:02 |
 | 25 | [No Llores por Mí](https://open.spotify.com/track/7BZSJ9WnmFStbcwSv6j0In) | [Chapa C](https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb) | [I Will Be: Like Big Stars!](https://open.spotify.com/album/502vjSngsd5WnCtyK1gxjn) | 3:37 |
 | 26 | [Hamaca Paraguaya](https://open.spotify.com/track/0oHEwoLk8e2dCwaFxtQ1qq) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Hamaca Paraguaya](https://open.spotify.com/album/7ja8ZfNGuWbvS3lre15CFp) | 2:38 |
-| 27 | [Mis Noches Sin Ti](https://open.spotify.com/track/1qwQffK92BNbtQj8GSqLGD) | [Paiko](https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd) | [Mis Noches Sin Ti](https://open.spotify.com/album/3G8XztonLrjIsct6j2MqfU) | 3:25 |
+| 27 | [Quiero!](https://open.spotify.com/track/6uUEOBVkxDJZpcDGRnTPRq) | [Paiko](https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd) | [Agua Para El Mar](https://open.spotify.com/album/5INujTECiddlYoZWh72FGZ) | 3:05 |
 | 28 | [A Tu Lado](https://open.spotify.com/track/4CB6Ih8Zuj8XqA9Z0dv0dw) | [Flou](https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk) | [Tácito](https://open.spotify.com/album/4AmKPsiZ7EfXD753LkqFj3) | 4:03 |
 | 29 | [Soy De Mi Tierra](https://open.spotify.com/track/74DxLHmbHDSsUQhs3v8kqI) | [Pablo Benegas](https://open.spotify.com/artist/1w3h0mrPhK98mFPP6eiMgp) | [Canciones Rotas](https://open.spotify.com/album/0gzoNPu1co0CfO6Bmoz2yM) | 3:30 |
 | 30 | [Aguije](https://open.spotify.com/track/5jMW9bjIpyziEv5mu5Next) | [Tierra Adentro](https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4) | [Aguije](https://open.spotify.com/album/6S3Z8Z3WcCRegp66EA5gMh) | 3:11 |
 | 31 | [La Semilla](https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [El Equilibrio](https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ) | 2:49 |
-| 32 | [Quiero!](https://open.spotify.com/track/6uUEOBVkxDJZpcDGRnTPRq) | [Paiko](https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd) | [Agua Para El Mar](https://open.spotify.com/album/5INujTECiddlYoZWh72FGZ) | 3:05 |
+| 32 | [Mis Noches Sin Ti](https://open.spotify.com/track/1qwQffK92BNbtQj8GSqLGD) | [Paiko](https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd) | [Mis Noches Sin Ti](https://open.spotify.com/album/3G8XztonLrjIsct6j2MqfU) | 3:25 |
 | 33 | [Vienes y Te Vas](https://open.spotify.com/track/4L81kjuMNo9Gg6h1Bkyi0F) | [Grupo Ternura](https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq) | [El Rey del Norte](https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf) | 3:18 |
 | 34 | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/track/62bl9t4TYgy7aFeyADxUpT) | [Marcelo Gabriel](https://open.spotify.com/artist/20QPpARaho6RDmUVyzScvf) | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/album/0xGrd5MsHHFwZQurYMKbSr) | 4:39 |
 | 35 | [Soy Latino](https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI) | [Tierra Adentro](https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Cruz](https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp) | [Soy Latino](https://open.spotify.com/album/1CiFEielADxVaFI0o1cb7e) | 3:09 |

@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 189780,
       "name": "5 Foot 9",
       "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
@@ -1088,6 +1088,24 @@
       "duration_ms": 189533,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/3NgcaTIgVh77DdwAInp996"
+    },
+    {
+      "album": {
+        "name": "Rockin' With The Rhythm",
+        "url": "https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq"
+      },
+      "artists": [
+        {
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254640,
+      "name": "Grandpa (Tell Me 'Bout The Good Old Days)",
+      "url": "https://open.spotify.com/track/0ogTZlmFqg5xyFCMpRAEb4"
     },
     {
       "album": {

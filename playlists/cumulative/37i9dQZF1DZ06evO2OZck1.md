@@ -4,7 +4,7 @@
 
 > This is ATARASHII GAKKO!\. The essential tracks, all in one playlist.
 
-82 songs - 4 hr 33 min
+83 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Catch That Train](https://open.spotify.com/track/2bAZynPxk8YwUivqasm4GD) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [From Tokyo with Love](https://open.spotify.com/album/67RBmns85bU6kicPfb7fwB) | 3:33 | 2026-07-26 |  |
 | [Change](https://open.spotify.com/track/3ioX4MCteVUN8LjbtlOC0c) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Change](https://open.spotify.com/album/6tf7wrgiVsVPoiI6wTUwnl) | 3:11 | 2024-07-21 |  |
 | [Chanka Chanka](https://open.spotify.com/track/6BHCsXVZbOSB5wLoqF0Utc) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Chanka Chanka](https://open.spotify.com/album/2cNUjLmnqoE2ZfHlx6SZtN) | 2:59 | 2026-05-10 |  |
+| [Dance Dance](https://open.spotify.com/track/5tF5MyCNL0wnSQHVpmS6mT) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [From Tokyo with Love](https://open.spotify.com/album/67RBmns85bU6kicPfb7fwB) | 3:17 | 2026-08-30 |  |
 | [Drama \(feat\. MILLI\)](https://open.spotify.com/track/0sh3PY1clLciTdqxe5ZZge) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 2:39 | 2024-06-09 |  |
 | [Essa Hoisa](https://open.spotify.com/track/3sCVB9bWkFPMWdM5QSQ3MH) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 2:55 | 2024-06-09 |  |
 | [Fantastico](https://open.spotify.com/track/2yjVMbXE0IICkdxSeBXvfR) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [SNACKTIME](https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb) | 2:53 | 2024-02-11 |  |
@@ -40,7 +41,7 @@
 | [koi geba](https://open.spotify.com/track/4Vvz2vcRqx8tYyl4QdOjoA) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [wakage ga itaru](https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi) | 4:13 | 2023-12-26 |  |
 | [KOIBUMI](https://open.spotify.com/track/1aT8DhQBZcLIMLTBaFIwi6) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [KOIBUMI](https://open.spotify.com/album/2zI6Rce9bvVZtXgazjhD6D) | 4:00 | 2023-12-26 |  |
 | [koinosyadanki feat H ZETTRIO](https://open.spotify.com/track/22t28uO1vo5zM2yWCgGJGN) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 4:15 | 2023-12-26 |  |
-| [Kore de E](https://open.spotify.com/track/1k8tCq3v7ixPBTzgSHKMu3) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [From Tokyo with Love](https://open.spotify.com/album/67RBmns85bU6kicPfb7fwB) | 2:38 | 2026-07-26 |  |
+| [Kore de E](https://open.spotify.com/track/1k8tCq3v7ixPBTzgSHKMu3) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [From Tokyo with Love](https://open.spotify.com/album/67RBmns85bU6kicPfb7fwB) | 2:38 | 2026-07-26 | 2026-08-30 |
 | [Leave It All Behind](https://open.spotify.com/track/2iPZW9H37FBM39iVcmDsnz) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [From Tokyo with Love](https://open.spotify.com/album/67RBmns85bU6kicPfb7fwB) | 3:20 | 2026-07-26 |  |
 | [Maji Yoroshiku](https://open.spotify.com/track/6Wymz2GOKcsAkLF9eBC6lE) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 2:13 | 2024-06-09 | 2026-03-17 |
 | [MANINGEN](https://open.spotify.com/track/7JwDRpLUuqVLeA5lEjnao6) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [MANINGEN](https://open.spotify.com/album/0bI0wQeVFccV7pigdEJ1gR) | 2:51 | 2023-12-26 |  |

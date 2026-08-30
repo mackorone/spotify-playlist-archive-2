@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,734 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,732 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 31 | [Colorado](https://open.spotify.com/track/4dIhkME9H3hzb0wNhA3f1m) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Some People I Know](https://open.spotify.com/album/1BpdKszhtmmlaOqG3McH0g) | 2:57 |
 | 32 | [Little Lies](https://open.spotify.com/track/0mTJW2yluaM5hcXg86Wf5g) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Little Lies](https://open.spotify.com/album/5GjyIxg103YUxifsdLRCuw) | 3:54 |
 | 33 | [Northsiders](https://open.spotify.com/track/4EPLcAKK32fBbMi8yu4aSd) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Beginners](https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY) | 3:43 |
-| 34 | [Thousand \- Acoustic](https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(acoustic\)](https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI) | 3:22 |
-| 35 | [It Must Be Someone Else’s Fault](https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 3:18 |
-| 36 | [We Wait](https://open.spotify.com/track/3QeaXGKRvt8cfHdrfdk5pL) | [Other Lives](https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6) | [For Their Love](https://open.spotify.com/album/1pesl95uJqfN7kIOFozSHt) | 3:41 |
+| 34 | [It Must Be Someone Else’s Fault](https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 3:18 |
+| 35 | [We Wait](https://open.spotify.com/track/3QeaXGKRvt8cfHdrfdk5pL) | [Other Lives](https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6) | [For Their Love](https://open.spotify.com/album/1pesl95uJqfN7kIOFozSHt) | 3:41 |
+| 36 | [Thousand \- Acoustic](https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(acoustic\)](https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI) | 3:22 |
 | 37 | [All We Ever Knew \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Spotify Singles](https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y) | 3:48 |
 | 38 | [Neon Skyline](https://open.spotify.com/track/6CJM0s9pqIDTbSQ9KPnRqa) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Neon Skyline](https://open.spotify.com/album/41M6R2mWLgqU9aKFUvZv8S) | 3:38 |
 | 39 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 42 | [Migration of Souls](https://open.spotify.com/track/2GmGy1eJTvPACm3ekX0hxD) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Migration Stories](https://open.spotify.com/album/6wkWIyipqrQI4xLLxv6IGy) | 3:28 |
 | 43 | [Scattershot](https://open.spotify.com/track/450v4iRyLvyOwNInkQVCbP) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:40 |
 | 44 | [Little Bit Sweet](https://open.spotify.com/track/3xsgF2bDlvb10Dy1VA7rXE) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [Little Bit Sweet](https://open.spotify.com/album/6w5n5ZIDw2AvPuNByudKMf) | 3:48 |
-| 45 | [Survivors \- Acoustic](https://open.spotify.com/track/0HE3TnUyHfk9HW09zzbbxc) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Survivors \(Acoustic\)](https://open.spotify.com/album/2qwkydqrFXErPlx9bWWzcW) | 4:29 |
-| 46 | [Daydreaming](https://open.spotify.com/track/0L9WXYWHUMtTDkxBl6Y6M5) | [Rainbow Girls](https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7) | [Give the People What They Want](https://open.spotify.com/album/1wAjWPzXGAgwzDK9Nkb9vh) | 5:03 |
+| 45 | [Daydreaming](https://open.spotify.com/track/0L9WXYWHUMtTDkxBl6Y6M5) | [Rainbow Girls](https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7) | [Give the People What They Want](https://open.spotify.com/album/1wAjWPzXGAgwzDK9Nkb9vh) | 5:03 |
+| 46 | [Survivors \- Acoustic](https://open.spotify.com/track/0HE3TnUyHfk9HW09zzbbxc) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Survivors \(Acoustic\)](https://open.spotify.com/album/2qwkydqrFXErPlx9bWWzcW) | 4:29 |
 | 47 | [In The Blue](https://open.spotify.com/track/2qirOEQnjo6fzfqlnvxLiG) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Shape & Destroy](https://open.spotify.com/album/0pILyYJr65rEAWnogtd8Xt) | 2:33 |
 | 48 | [Let The Mermaids Flirt With Me](https://open.spotify.com/track/3Y6PWmeriyVFzfrwVFIyOJ) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 4:26 |
 | 49 | [May Your Kindness Remain](https://open.spotify.com/track/71l6dkMk6FSKcL4LcC8hzG) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [May Your Kindness Remain](https://open.spotify.com/album/1U8907wmzKNgvDEW3mk21S) | 3:54 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 92 | [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 |
 | 93 | [You Worry Me](https://open.spotify.com/track/6jwsbxD1nvTc4UGLgRoCa6) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Tearing at the Seams \(Deluxe Edition\)](https://open.spotify.com/album/4A2z1eFKxkLX3sI57R5y5s) | 3:34 |
 | 94 | [Wells Tower Song](https://open.spotify.com/track/0H4SpGyg6pqk5Tpcayz8Jp) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Wells Tower Song](https://open.spotify.com/album/4R2N0yN1m6aYfoUvuYu3yj) | 5:04 |
-| 95 | [Spark, Set Fire](https://open.spotify.com/track/00vPAsfTwvicR45W2PE20o) | [The Western Den](https://open.spotify.com/artist/3AKIOaRG1CUS6JYtgavz1z) | [A Light Left On](https://open.spotify.com/album/6IY3dzTK8UZCJpzMO3TqyH) | 3:51 |
-| 96 | [Break My Heart](https://open.spotify.com/track/5FyIdEQlJrdX312hc7GqJk) | [The Little Stevies](https://open.spotify.com/artist/6ejgq8OX6QDGCprjf0HsVw) | [Stopped Wishing I Was Somewhere Else](https://open.spotify.com/album/6xwJQ2rJiaKrsaWtK29yzH) | 3:40 |
-| 97 | [Summer's End](https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [The Tree of Forgiveness](https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg) | 3:29 |
-| 98 | [Curls](https://open.spotify.com/track/3NLm801woJocONz1NmPJZR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Curls](https://open.spotify.com/album/1cAlKAmWKhORglznBK7sup) | 3:17 |
-| 99 | [Time Will Be The Healer](https://open.spotify.com/track/4IEQtgcG6Iq8mIBVFRK8Mk) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Time Will Be The Healer](https://open.spotify.com/album/4oPzheY2zlc2XYlkBlQpNI) | 4:26 |
-| 100 | [The Woods \- Acoustic](https://open.spotify.com/track/6uaIMhUZXMuT2Zz0vxrFiR) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods \(Acoustic\)](https://open.spotify.com/album/1YkP0hYlF5E4il2VPTFFGZ) | 3:59 |
+| 95 | [Chandelier](https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Chandelier](https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz) | 5:13 |
+| 96 | [Spark, Set Fire](https://open.spotify.com/track/00vPAsfTwvicR45W2PE20o) | [The Western Den](https://open.spotify.com/artist/3AKIOaRG1CUS6JYtgavz1z) | [A Light Left On](https://open.spotify.com/album/6IY3dzTK8UZCJpzMO3TqyH) | 3:51 |
+| 97 | [Break My Heart](https://open.spotify.com/track/5FyIdEQlJrdX312hc7GqJk) | [The Little Stevies](https://open.spotify.com/artist/6ejgq8OX6QDGCprjf0HsVw) | [Stopped Wishing I Was Somewhere Else](https://open.spotify.com/album/6xwJQ2rJiaKrsaWtK29yzH) | 3:40 |
+| 98 | [Summer's End](https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [The Tree of Forgiveness](https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg) | 3:29 |
+| 99 | [Curls](https://open.spotify.com/track/3NLm801woJocONz1NmPJZR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Curls](https://open.spotify.com/album/1cAlKAmWKhORglznBK7sup) | 3:17 |
+| 100 | [Time Will Be The Healer](https://open.spotify.com/track/4IEQtgcG6Iq8mIBVFRK8Mk) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Time Will Be The Healer](https://open.spotify.com/album/4oPzheY2zlc2XYlkBlQpNI) | 4:26 |
 
 Snapshot ID: `AAAAAAFLJnKb+Xw8GTy2fmTBnMO78Nqi`

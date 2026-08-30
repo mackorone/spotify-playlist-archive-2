@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,312 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,318 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 49 | [The Better Me](https://open.spotify.com/track/1DAaHUdfW4Y9hil4zrc2Q9) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:15 |
 | 50 | [One Of Y’all \(feat\. HARDY, Rhett Akins & The Cadillac Three\)](https://open.spotify.com/track/6Ke28oY4R6nbIqkZAjGFui) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x), [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [HIXTAPE: Vol\. 2](https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj) | 3:05 |
 
-Snapshot ID: `ao9+AAAAAAAhaO8LbajAWVQX6fT3HJFW`
+Snapshot ID: `apDPgAAAAAA36oS1DE9zsu5Zbv99ClpG`

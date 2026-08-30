@@ -1835,6 +1835,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "Stages",
+        "url": "https://open.spotify.com/album/1jvCVACSEFyIAEuSeYbIVi"
+      },
+      "artists": [
+        {
+          "name": "Rhys Frank",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Too Good To Be True",
+      "url": "https://open.spotify.com/track/3W4nAf4i6HYMZzfw6iwVVh"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/6rlqFfCAuPnZUFmS8sCIWw"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 209933,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/7p4tetW3qNwSCz92PLGJg5"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "Stages",
-        "url": "https://open.spotify.com/album/1jvCVACSEFyIAEuSeYbIVi"
-      },
-      "artists": [
-        {
-          "name": "Rhys Frank",
-          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "Too Good To Be True",
-      "url": "https://open.spotify.com/track/3W4nAf4i6HYMZzfw6iwVVh"
     },
     {
       "added_at": "2024-07-03 14:32:39",

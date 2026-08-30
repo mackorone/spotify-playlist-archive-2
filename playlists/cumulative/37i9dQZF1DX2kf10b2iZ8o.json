@@ -90,7 +90,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 255506,
       "name": "ALL nOR NOTHING",
       "url": "https://open.spotify.com/track/6yZiC2A5dpF8ArLqG73PCx"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-11",
+      "date_removed": null,
       "duration_ms": 214133,
       "name": "Determined Soul",
       "url": "https://open.spotify.com/track/4mRkFvR1xxqfrdcs4eeJAJ"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 276026,
       "name": "Eternal Fantasia",
       "url": "https://open.spotify.com/track/4gojkZt9thXg4o2wGEF5zq"
@@ -2470,7 +2470,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 262213,
       "name": "Singing Explorers",
       "url": "https://open.spotify.com/track/75Ir3kKNf3SASig0St0gFW"
@@ -3216,7 +3216,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 245493,
       "name": "Yell Song",
       "url": "https://open.spotify.com/track/5qW0XtcObOGqgcnd5BOr3R"
@@ -3352,6 +3352,24 @@
       },
       "artists": [
         {
+          "name": "\u5929\u9053 \u8f1d (CV.\u4ef2\u6751\u5b97\u609f)",
+          "url": "https://open.spotify.com/artist/4ChudPM27mkuOE8htLxJHa"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335200,
+      "name": "\u306a\u3093\u3069\u3067\u3082\u7b11\u304a\u3046",
+      "url": "https://open.spotify.com/track/4WaImo6p8wstLV6npjIFeI"
+    },
+    {
+      "album": {
+        "name": "\u306a\u3093\u3069\u3067\u3082\u7b11\u304a\u3046\u3010SideM\u76e4\u3011",
+        "url": "https://open.spotify.com/album/4LmkEChhEMiTB9HoSeEwV1"
+      },
+      "artists": [
+        {
           "name": "\u67cf\u6728 \u7ffc (CV.\u516b\u4ee3 \u62d3)",
           "url": "https://open.spotify.com/artist/79qSDWnOwCoMXDfdoBKand"
         }
@@ -3376,7 +3394,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 335200,
       "name": "\u306a\u3093\u3069\u3067\u3082\u7b11\u304a\u3046 - SideM Ver.",
       "url": "https://open.spotify.com/track/6pL3zwVUUqewu3r9uakd6H"
@@ -3646,7 +3664,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 284400,
       "name": "\u30ab\u30ec\u30a4\u30c9 TOURHYTHM",
       "url": "https://open.spotify.com/track/2Zy5r8fEzg5hdJMcxmH0lN"
@@ -3780,7 +3798,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 267346,
       "name": "\u30d0\u30fc\u30cb\u30f3\u30fb\u30af\u30fc\u30eb\u3067\u8f1d\u3044\u3066",
       "url": "https://open.spotify.com/track/2dwYu8lDOXLrCwH2fyhrjW"
@@ -3846,6 +3864,24 @@
       "duration_ms": 228333,
       "name": "\u30ea\u30d3\u30f3\u30b0\u30a2\u30a4\u30ba\u30d2\u30fc\u30ed\u30fc",
       "url": "https://open.spotify.com/track/1lfwRXGtNgLirpV3F1W8Wz"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 09",
+        "url": "https://open.spotify.com/album/07KKDIGOJzAnjiALl1vDap"
+      },
+      "artists": [
+        {
+          "name": "\u536f\u6708\u5dfb\u7dd2 (CV.\u5150\u7389\u5353\u4e5f)",
+          "url": "https://open.spotify.com/artist/33NFAXM9xKkQrPmFvb6omi"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303173,
+      "name": "\u30ef\u30f3\u30db\u30fc\u30eb\uff1d\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9\uff01",
+      "url": "https://open.spotify.com/track/2cba0vGkdNHnAm7egmIvVi"
     },
     {
       "album": {

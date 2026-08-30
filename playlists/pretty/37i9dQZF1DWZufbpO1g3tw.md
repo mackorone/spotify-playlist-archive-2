@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 
 > Aficionades que viven la intensidad de botanear ⚽️🌮🍻
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,631 likes - 99 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,632 likes - 99 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 47 | [El Chucu Chucu](https://open.spotify.com/track/2t3IaHduf8zVqnfBetiJnU) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [El Chucu Chucu](https://open.spotify.com/album/1MWi7BMI9eTMb8a7RXNNHu) | 2:43 |
 | 48 | [Como te extraño mi amor](https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:34 |
 | 49 | [El Trato](https://open.spotify.com/track/6d56fS92xq5zwKs33Ozhkf) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [El Trato](https://open.spotify.com/album/6Jsj65c2TXNkU6I0z9H4IB) | 2:59 |
-| 50 | [El Enamorado \(Remix\)](https://open.spotify.com/track/01CdblGvzbCqlvyUhbgKYs) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [El Enamorado \(Remix\)](https://open.spotify.com/album/2Ai8fSISA3BhXA64BsuO8s) | 2:36 |
+| 50 | [El Enamorado \- Remix](https://open.spotify.com/track/01CdblGvzbCqlvyUhbgKYs) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [El Enamorado \(Remix\)](https://open.spotify.com/album/2Ai8fSISA3BhXA64BsuO8s) | 2:36 |
 | 51 | [UN SIGLO SIN TI](https://open.spotify.com/track/2AFC9ad4nGauS1cgm7FCqU) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [UN SIGLO SIN TI](https://open.spotify.com/album/4SoT5hvuP9LLXZM2QuV2Pz) | 2:34 |
 | 52 | [Corazon de Acero](https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Corazon de Acero](https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo) | 3:45 |
 | 53 | [Echar de Menos](https://open.spotify.com/track/0zDtuIjXWKdLfT6rxqESx1) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Echar de Menos](https://open.spotify.com/album/4RCEzY8mKvlYLfkCMBCTiv) | 3:45 |

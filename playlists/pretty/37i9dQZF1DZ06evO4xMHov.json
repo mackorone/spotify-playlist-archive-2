@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 63417,
+  "num_followers": 63415,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAADJLkE/hufE1UpS75efVGcf",
+  "snapshot_id": "apDPgAAAAAC5TqL5KignrvhXJiOYruCh",
   "tracks": [
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Mais Escravos",
-        "url": "https://open.spotify.com/album/01R8ujMToULv8ECGBgglFB"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 407000,
-      "name": "N\u00e3o Mais Escravos",
-      "url": "https://open.spotify.com/track/6YsaTCFVqFiGrarkEATPmI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ousado Amor",
         "url": "https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 826880,
       "name": "Ousado Amor",
       "url": "https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Mais Escravos",
+        "url": "https://open.spotify.com/album/01R8ujMToULv8ECGBgglFB"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 407000,
+      "name": "N\u00e3o Mais Escravos",
+      "url": "https://open.spotify.com/track/6YsaTCFVqFiGrarkEATPmI"
     },
     {
       "added_at": null,

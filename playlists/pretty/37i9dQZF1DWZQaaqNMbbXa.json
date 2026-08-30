@@ -1,6 +1,6 @@
 {
   "description": "Hit the dance floor with your favorite bops! Cover: Bebe Rexha",
-  "num_followers": 601470,
+  "num_followers": 601550,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -559,26 +559,6 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
-        "name": "Rasputin",
-        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
-      },
-      "artists": [
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 186209,
-      "name": "Rasputin",
-      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
-    },
-    {
-      "added_at": "2026-05-01 16:04:53",
-      "album": {
         "name": "Say My Name (Remix)",
         "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 168000,
       "name": "Say My Name - Remix",
       "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
+    },
+    {
+      "added_at": "2026-05-01 16:04:53",
+      "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 186209,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
     },
     {
       "added_at": "2026-05-01 16:04:53",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
-        "name": "It's Not Right But It's Okay",
-        "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
-      },
-      "artists": [
-        {
-          "name": "Mr. Belt & Wezol",
-          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
-        }
-      ],
-      "duration_ms": 152304,
-      "name": "It's Not Right But It's Okay",
-      "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
-    },
-    {
-      "added_at": "2026-05-01 16:04:53",
-      "album": {
         "name": "Pharmacy",
         "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 227073,
       "name": "Runaway (U & I)",
       "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
+    },
+    {
+      "added_at": "2026-05-01 16:04:53",
+      "album": {
+        "name": "It's Not Right But It's Okay",
+        "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        }
+      ],
+      "duration_ms": 152304,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
     },
     {
       "added_at": "2026-05-01 16:04:53",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
-        "name": "Pepas",
-        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
-    },
-    {
-      "added_at": "2026-05-01 16:04:53",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 210090,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0"
+    },
+    {
+      "added_at": "2026-05-01 16:04:53",
+      "album": {
+        "name": "Pepas",
+        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
     },
     {
       "added_at": "2026-05-01 16:04:53",
@@ -963,6 +963,26 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
+        "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix]",
+        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "duration_ms": 214912,
+      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
+      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
+    },
+    {
+      "added_at": "2026-05-01 16:04:53",
+      "album": {
         "name": "Scared to Be Lonely",
         "url": "https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF"
       },
@@ -1003,22 +1023,22 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
-        "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) [Cedric Gervais Remix]",
-        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
+        "name": "Sweet Disposition (a moment, a love)",
+        "url": "https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         },
         {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
         }
       ],
-      "duration_ms": 214912,
-      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
-      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
+      "duration_ms": 212209,
+      "name": "Sweet Disposition (a moment, a love)",
+      "url": "https://open.spotify.com/track/0D57lQnn110jGaup4NguSI"
     },
     {
       "added_at": "2026-05-01 16:04:53",
@@ -1039,26 +1059,6 @@
       "duration_ms": 178946,
       "name": "Turn The Lights Off - Radio Edit",
       "url": "https://open.spotify.com/track/7apywiCuMzvSZIa0SKeH99"
-    },
-    {
-      "added_at": "2026-05-01 16:04:53",
-      "album": {
-        "name": "Sweet Disposition (a moment, a love)",
-        "url": "https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 212209,
-      "name": "Sweet Disposition (a moment, a love)",
-      "url": "https://open.spotify.com/track/0D57lQnn110jGaup4NguSI"
     },
     {
       "added_at": "2026-05-01 16:04:53",
@@ -1279,6 +1279,30 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
+        "name": "Free Wired",
+        "url": "https://open.spotify.com/album/1TuKgkCGIxiIns9Bc5XKRC"
+      },
+      "artists": [
+        {
+          "name": "Far East Movement",
+          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
+        },
+        {
+          "name": "The Cataracs",
+          "url": "https://open.spotify.com/artist/7C64wNX3howEFZjAYRKsfP"
+        },
+        {
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Like A G6",
+      "url": "https://open.spotify.com/track/4DvhkX2ic4zWkQeWMwQ2qf"
+    },
+    {
+      "added_at": "2026-05-01 16:04:53",
+      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -1319,30 +1343,6 @@
       "duration_ms": 174760,
       "name": "My Head & My Heart",
       "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
-    },
-    {
-      "added_at": "2026-05-01 16:04:53",
-      "album": {
-        "name": "Free Wired",
-        "url": "https://open.spotify.com/album/1TuKgkCGIxiIns9Bc5XKRC"
-      },
-      "artists": [
-        {
-          "name": "Far East Movement",
-          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
-        },
-        {
-          "name": "The Cataracs",
-          "url": "https://open.spotify.com/artist/7C64wNX3howEFZjAYRKsfP"
-        },
-        {
-          "name": "DEV",
-          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Like A G6",
-      "url": "https://open.spotify.com/track/4DvhkX2ic4zWkQeWMwQ2qf"
     },
     {
       "added_at": "2026-05-01 16:04:53",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
-        "name": "RITMO (Bad Boys For Life)",
-        "url": "https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 221714,
-      "name": "RITMO (Bad Boys For Life)",
-      "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
-    },
-    {
-      "added_at": "2026-05-01 16:04:53",
-      "album": {
         "name": "More Than A Woman (SG's Paradise Edit)",
         "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 357936,
       "name": "More Than A Woman - SG's Paradise Edit",
       "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
+    },
+    {
+      "added_at": "2026-05-01 16:04:53",
+      "album": {
+        "name": "RITMO (Bad Boys For Life)",
+        "url": "https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 221714,
+      "name": "RITMO (Bad Boys For Life)",
+      "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
     },
     {
       "added_at": "2026-05-01 16:04:53",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Padam Padam",
+      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
+    },
+    {
+      "added_at": "2026-05-01 16:04:53",
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/1Jbwq1BswM8apm7pjRZKq8"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 191387,
       "name": "Hello (feat. Dragonette)",
       "url": "https://open.spotify.com/track/3sl4dcqSwxHVnLfqwF2jly"
-    },
-    {
-      "added_at": "2026-05-01 16:04:53",
-      "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Padam Padam",
-      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
     },
     {
       "added_at": "2026-05-01 16:04:53",
@@ -2083,26 +2083,6 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Bryn Christopher",
-          "url": "https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv"
-        }
-      ],
-      "duration_ms": 201637,
-      "name": "Sweet Lovin' - Radio Edit",
-      "url": "https://open.spotify.com/track/1qp0ptMXNg9hqLH8sk7cc2"
-    },
-    {
-      "added_at": "2026-05-01 16:04:53",
-      "album": {
         "name": "Car Keys (Ayla)",
         "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
       },
@@ -2119,6 +2099,26 @@
       "duration_ms": 147238,
       "name": "Car Keys (Ayla)",
       "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
+    },
+    {
+      "added_at": "2026-05-01 16:04:53",
+      "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Bryn Christopher",
+          "url": "https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv"
+        }
+      ],
+      "duration_ms": 201637,
+      "name": "Sweet Lovin' - Radio Edit",
+      "url": "https://open.spotify.com/track/1qp0ptMXNg9hqLH8sk7cc2"
     },
     {
       "added_at": "2026-05-01 16:04:53",
@@ -2167,6 +2167,26 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
+        "name": "Dior (feat. Chrystal)",
+        "url": "https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        }
+      ],
+      "duration_ms": 169159,
+      "name": "Dior (feat. Chrystal)",
+      "url": "https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ"
+    },
+    {
+      "added_at": "2026-05-01 16:04:53",
+      "album": {
         "name": "Crying On The Dancefloor",
         "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
       },
@@ -2191,26 +2211,6 @@
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
-    },
-    {
-      "added_at": "2026-05-01 16:04:53",
-      "album": {
-        "name": "Dior (feat. Chrystal)",
-        "url": "https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Chrystal",
-          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
-        }
-      ],
-      "duration_ms": 169159,
-      "name": "Dior (feat. Chrystal)",
-      "url": "https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ"
     },
     {
       "added_at": "2026-05-01 16:04:53",

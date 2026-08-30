@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > L’alternatif québécois à plein volume\. Photo: Félix Collin
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,816 likes - 64 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,835 likes - 64 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

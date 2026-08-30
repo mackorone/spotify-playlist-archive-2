@@ -1,6 +1,6 @@
 {
   "description": "Grab a drink and relax to the Jazz played in the background at the bar.",
-  "num_followers": 201798,
+  "num_followers": 201864,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Tommy Flanagan Trio",
-        "url": "https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu"
-      },
-      "artists": [
-        {
-          "name": "Tommy Flanagan Trio",
-          "url": "https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU"
-        }
-      ],
-      "duration_ms": 221893,
-      "name": "In The Blue Of The Evening",
-      "url": "https://open.spotify.com/track/30elPK31lRDN1kFjnt7HRQ"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "Look Out! (Remastered)",
         "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 295200,
       "name": "Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "Tommy Flanagan Trio",
+        "url": "https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu"
+      },
+      "artists": [
+        {
+          "name": "Tommy Flanagan Trio",
+          "url": "https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU"
+        }
+      ],
+      "duration_ms": 221893,
+      "name": "In The Blue Of The Evening",
+      "url": "https://open.spotify.com/track/30elPK31lRDN1kFjnt7HRQ"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Tommy Flanagan Trio",
-        "url": "https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu"
-      },
-      "artists": [
-        {
-          "name": "Tommy Flanagan Trio",
-          "url": "https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU"
-        }
-      ],
-      "duration_ms": 319626,
-      "name": "Velvet Moon",
-      "url": "https://open.spotify.com/track/1eQnTVNUwVaU7dXglhgCFr"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
         "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
@@ -303,18 +287,18 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Volume 2",
-        "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
+        "name": "Tommy Flanagan Trio",
+        "url": "https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+          "name": "Tommy Flanagan Trio",
+          "url": "https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU"
         }
       ],
-      "duration_ms": 209012,
-      "name": "I Waited For You",
-      "url": "https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz"
+      "duration_ms": 319626,
+      "name": "Velvet Moon",
+      "url": "https://open.spotify.com/track/1eQnTVNUwVaU7dXglhgCFr"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -335,6 +319,22 @@
       "duration_ms": 164866,
       "name": "Save Your Love For Me",
       "url": "https://open.spotify.com/track/4ur0Fd4coSwWtP8MWpkjR9"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "Volume 2",
+        "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 209012,
+      "name": "I Waited For You",
+      "url": "https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "First Place Again",
-        "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 331666,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "Baker's Holiday",
         "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 174040,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "First Place Again",
+        "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 331666,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 222880,
-      "name": "Something To Remember You By",
-      "url": "https://open.spotify.com/track/2YBFTDX53KehUg8RQY820l"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
         "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 424493,
       "name": "Autumn In New York",
       "url": "https://open.spotify.com/track/4PkJlDmHpr9o7KUxm0Uflx"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 222880,
+      "name": "Something To Remember You By",
+      "url": "https://open.spotify.com/track/2YBFTDX53KehUg8RQY820l"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -883,50 +883,22 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "The Hawk Relaxes",
-        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
+        "name": "Great Ladies Of Song / Spotlight On Dinah Shore",
+        "url": "https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy"
       },
       "artists": [
         {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "When Day Is Done",
-      "url": "https://open.spotify.com/track/77fv87hNviECO3uWrKKKCM"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
-        "name": "Ella Swings Lightly",
-        "url": "https://open.spotify.com/album/3UC5JUy1CydJYU53KAtbdH"
-      },
-      "artists": [
+          "name": "Dinah Shore",
+          "url": "https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK"
+        },
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
         }
       ],
-      "duration_ms": 154106,
-      "name": "Little White Lies",
-      "url": "https://open.spotify.com/track/2LyNm94f8adOw3frDUHB5o"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
-        "name": "Waiter, Make Mine The Blues",
-        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Waiter, Make Mine Blues",
-      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
+      "duration_ms": 204866,
+      "name": "It Had To Be You",
+      "url": "https://open.spotify.com/track/6nRX1T6aaqZLIA4KUldLTC"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -947,22 +919,50 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Great Ladies Of Song / Spotlight On Dinah Shore",
-        "url": "https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy"
+        "name": "Waiter, Make Mine The Blues",
+        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
       },
       "artists": [
         {
-          "name": "Dinah Shore",
-          "url": "https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK"
-        },
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
         }
       ],
-      "duration_ms": 204866,
-      "name": "It Had To Be You",
-      "url": "https://open.spotify.com/track/6nRX1T6aaqZLIA4KUldLTC"
+      "duration_ms": 200960,
+      "name": "Waiter, Make Mine Blues",
+      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "Ella Swings Lightly",
+        "url": "https://open.spotify.com/album/3UC5JUy1CydJYU53KAtbdH"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 154106,
+      "name": "Little White Lies",
+      "url": "https://open.spotify.com/track/2LyNm94f8adOw3frDUHB5o"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "The Hawk Relaxes",
+        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "When Day Is Done",
+      "url": "https://open.spotify.com/track/77fv87hNviECO3uWrKKKCM"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "My Conception",
-        "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 284933,
-      "name": "My Conception",
-      "url": "https://open.spotify.com/track/0xc3Zk647proIQWvRaXlsh"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
         "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 165400,
       "name": "Them There Eyes",
       "url": "https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "My Conception",
+        "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 284933,
+      "name": "My Conception",
+      "url": "https://open.spotify.com/track/0xc3Zk647proIQWvRaXlsh"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Jazz 'Round Midnight: Ballads",
-        "url": "https://open.spotify.com/album/7vFkvIbJVMmVx9sou1UXZY"
-      },
-      "artists": [
-        {
-          "name": "Arthur Prysock",
-          "url": "https://open.spotify.com/artist/6yJZMmgqsTjH6ooVALu7oT"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "I'm Through With Love",
-      "url": "https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "We Get Requests",
         "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 310973,
       "name": "D & E",
       "url": "https://open.spotify.com/track/6IXPs28Up5f65Wg3sHzBsS"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "Jazz 'Round Midnight: Ballads",
+        "url": "https://open.spotify.com/album/7vFkvIbJVMmVx9sou1UXZY"
+      },
+      "artists": [
+        {
+          "name": "Arthur Prysock",
+          "url": "https://open.spotify.com/artist/6yJZMmgqsTjH6ooVALu7oT"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "I'm Through With Love",
+      "url": "https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
-      },
-      "artists": [
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        }
-      ],
-      "duration_ms": 371960,
-      "name": "Where Or When",
-      "url": "https://open.spotify.com/track/6XgFdmolxw7DgvNQIiCNVB"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "The Hawk Relaxes",
         "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 356973,
       "name": "Moonglow",
       "url": "https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        }
+      ],
+      "duration_ms": 371960,
+      "name": "Where Or When",
+      "url": "https://open.spotify.com/track/6XgFdmolxw7DgvNQIiCNVB"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "I Remember Miles",
-        "url": "https://open.spotify.com/album/0hGqrIcYgj6l11MAbmJEmd"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 334626,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/0nBGIx5yWqxvtf1EEnEGgm"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "The Genius Of Coleman Hawkins (Expanded Edition)",
         "url": "https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 217960,
       "name": "I Wished On The Moon - Stereo Version",
       "url": "https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "I Remember Miles",
+        "url": "https://open.spotify.com/album/0hGqrIcYgj6l11MAbmJEmd"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 334626,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/0nBGIx5yWqxvtf1EEnEGgm"
     },
     {
       "added_at": "2026-04-01 09:07:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Zolita
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,308 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,317 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 33 | [Kind](https://open.spotify.com/track/558Ue9d7sVURrvSiWQPYW2) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Kind](https://open.spotify.com/album/2ZENNXHOYLKc6SyadrAwn8) | 4:07 |
 | 34 | [no one's son](https://open.spotify.com/track/4tmZ2pGbjOBmXUlHQhaiLr) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [no one's son](https://open.spotify.com/album/7aOXQbpHIiptQrjHB8FF4q) | 3:26 |
 | 35 | [CLOUD 9](https://open.spotify.com/track/5shBGzsBhmOZVUxR2nVOFY) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [ADAM](https://open.spotify.com/album/7trR3fOUnxqBvVlAb5L370) | 3:08 |
-| 36 | [Easy](https://open.spotify.com/track/1KGo4UjjOJJOJWOTtfB30u) | [Jace Cameron](https://open.spotify.com/artist/0eGobT6Pu6PU9Xf0kZ5yPw) | [Easy](https://open.spotify.com/album/0p2jEcUPxiZd5R3m0VA0SX) | 3:50 |
-| 37 | [Hell's Belles](https://open.spotify.com/track/4Ni3RfbRDVzC6KWxzcWPLi) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/18OF7zAz0K20cklvIZXAWD) | 3:06 |
+| 36 | [Hell's Belles](https://open.spotify.com/track/4Ni3RfbRDVzC6KWxzcWPLi) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/18OF7zAz0K20cklvIZXAWD) | 3:06 |
+| 37 | [Easy](https://open.spotify.com/track/1KGo4UjjOJJOJWOTtfB30u) | [Jace Cameron](https://open.spotify.com/artist/0eGobT6Pu6PU9Xf0kZ5yPw) | [Easy](https://open.spotify.com/album/0p2jEcUPxiZd5R3m0VA0SX) | 3:50 |
 | 38 | [SORRY I'M OBSESSED WITH YOU](https://open.spotify.com/track/4Arirl7XmsQedbiU566bWb) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [SORRY I'M OBSESSED WITH YOU](https://open.spotify.com/album/3QFu8PfLym8S7VgUwl5WFs) | 2:58 |
-| 39 | [GAY](https://open.spotify.com/track/4kEUczTnlDhiMKRUNHY4Kp) | [Meg Stalter](https://open.spotify.com/artist/2uz4LewowsAwg9k88MRDzG) | [GAY](https://open.spotify.com/album/5o2MYWrsXGASyP5kO71Lwi) | 2:58 |
+| 39 | [Wet Cement](https://open.spotify.com/track/4oCI3xehRbCppofgCyDjPD) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Wet Cement](https://open.spotify.com/album/15Ui4kmZ2qZSseuoAqfmgn) | 2:47 |
 | 40 | [good things come in two's](https://open.spotify.com/track/3iA9oRCn2Gx9Qq55eQkUB9) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [good things come in two's](https://open.spotify.com/album/1amirJFqrFDzvjLrRQqqbk) | 2:20 |
-| 41 | [Wet Cement](https://open.spotify.com/track/4oCI3xehRbCppofgCyDjPD) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Wet Cement](https://open.spotify.com/album/15Ui4kmZ2qZSseuoAqfmgn) | 2:47 |
+| 41 | [GAY](https://open.spotify.com/track/4kEUczTnlDhiMKRUNHY4Kp) | [Meg Stalter](https://open.spotify.com/artist/2uz4LewowsAwg9k88MRDzG) | [GAY](https://open.spotify.com/album/5o2MYWrsXGASyP5kO71Lwi) | 2:58 |
 | 42 | [Losing People](https://open.spotify.com/track/77pNS7sNHCTptHMPawto7i) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Losing People](https://open.spotify.com/album/59GmuL2GM7ssQ9318WRYhR) | 2:34 |
 | 43 | [SUGAR RUSH](https://open.spotify.com/track/2IczQasfpF3dXhnKCKzbPg) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [SUGAR RUSH](https://open.spotify.com/album/3Xcn9Ba7U12iDIJcC86uaP) | 3:37 |
 | 44 | [Normal People](https://open.spotify.com/track/2ORYOv3e4xeA7Al4vnd88q) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [In Retrospect](https://open.spotify.com/album/1hW6ElfFzexmLP19JvPzeJ) | 2:42 |

@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFrPfkOz1Un8.md) - [plain]
 | 8 | [Meridian](https://open.spotify.com/track/7uilb01TiHfrsk1HGCB98V) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/24q33NVA8s2wYs3BKdA7jT) | 4:15 |
 | 9 | [System \(feat\. WizKid\)](https://open.spotify.com/track/0McUpkmKSZI5JYbgOYwxPu) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [We're All Alone In This Together](https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P) | 3:01 |
 | 10 | [Psycho](https://open.spotify.com/track/7454StFiLI0EMexuqtvNv4) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv) | 4:08 |
-| 11 | [Money Talks \(feat\. Dave\)](https://open.spotify.com/track/6nvbfM5pVDXHNEHiZwpjkl) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Money Talks \(feat\. Dave\)](https://open.spotify.com/album/2RPxUxIORttdHmF32D4A4O) | 4:33 |
+| 11 | [Money Talks \- feat\. Dave](https://open.spotify.com/track/6nvbfM5pVDXHNEHiZwpjkl) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Money Talks \(feat\. Dave\)](https://open.spotify.com/album/2RPxUxIORttdHmF32D4A4O) | 4:33 |
 | 12 | [Both Sides Of A Smile \(feat\. James Blake\)](https://open.spotify.com/track/4NtvW4wRWszchumJXoa3EU) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [We're All Alone In This Together](https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P) | 7:59 |
 | 13 | [Paper Cuts](https://open.spotify.com/track/1zrPnhTOPGZL7hHBh15MdA) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Paper Cuts](https://open.spotify.com/album/5NXpUMAZ0olscefFpPJMtI) | 2:59 |
 | 14 | [Greece](https://open.spotify.com/track/7yG364iLzExYFIaIUTbiug) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Rap Game Awful](https://open.spotify.com/album/1gGEh8LZdW7Dt51anEyYBl) | 2:40 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFrPfkOz1Un8.md) - [plain]
 | 37 | [Crazy](https://open.spotify.com/track/3XcD1khvzlkPVvDSpwDlLx) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Easy](https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR) | 2:43 |
 | 38 | [Full Moon](https://open.spotify.com/track/7IUpteTNUxLrbu6nl7kiWz) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Easy](https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR) | 2:55 |
 
-Snapshot ID: `Aca1HgAAAABRfKG063BDWin0uxmzttPH`
+Snapshot ID: `Aca6PAAAAABIyV0z0BiFNCEA5jpuR27W`

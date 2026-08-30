@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 731492,
+  "num_followers": 731547,
   "original_name": "Energy Booster: K-Pop",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "MONA LISA",
-        "url": "https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa"
-      },
-      "artists": [
-        {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        }
-      ],
-      "duration_ms": 137191,
-      "name": "MONA LISA",
-      "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
         "name": "Permission to Dance",
         "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 187585,
       "name": "Permission to Dance",
       "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
+        "name": "MONA LISA",
+        "url": "https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "duration_ms": 137191,
+      "name": "MONA LISA",
+      "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "DEADLINE",
-        "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 195402,
-      "name": "GO",
-      "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 138213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 195402,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "I ONE",
-        "url": "https://open.spotify.com/album/46slN6OuQu3lRKvfUeIBOW"
+        "name": "bomb",
+        "url": "https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp"
       },
       "artists": [
         {
-          "name": "XLOV",
-          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
         }
       ],
-      "duration_ms": 174910,
-      "name": "1&Only",
-      "url": "https://open.spotify.com/track/0lOOUAYUITTHYyGWWAqKIr"
+      "duration_ms": 163243,
+      "name": "jellyous",
+      "url": "https://open.spotify.com/track/0wFU2pYHZi45Ws1VD6aSJX"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "bomb",
-        "url": "https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp"
+        "name": "I ONE",
+        "url": "https://open.spotify.com/album/46slN6OuQu3lRKvfUeIBOW"
       },
       "artists": [
         {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+          "name": "XLOV",
+          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
         }
       ],
-      "duration_ms": 163243,
-      "name": "jellyous",
-      "url": "https://open.spotify.com/track/0wFU2pYHZi45Ws1VD6aSJX"
+      "duration_ms": 174910,
+      "name": "1&Only",
+      "url": "https://open.spotify.com/track/0lOOUAYUITTHYyGWWAqKIr"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "CRAZY",
-        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 164554,
-      "name": "CRAZY",
-      "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
         "name": "Hold On Tight",
         "url": "https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "IT'z ME",
-        "url": "https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U"
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
       },
       "artists": [
         {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 180180,
-      "name": "THAT\u2019S A NO NO",
-      "url": "https://open.spotify.com/track/0q1NTsO5b93R97JdQxtFGx"
+      "duration_ms": 164554,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
+        "name": "IT'z ME",
+        "url": "https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 180180,
+      "name": "THAT\u2019S A NO NO",
+      "url": "https://open.spotify.com/track/0q1NTsO5b93R97JdQxtFGx"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
         "name": "WORLDWIDE",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
@@ -1279,6 +1279,22 @@
       "duration_ms": 204991,
       "name": "MOMMAE (Feat. Ugly Duck)",
       "url": "https://open.spotify.com/track/1LNlfvPQmB0cqYJQQskZ8x"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
+        "name": "minisode 3: TOMORROW",
+        "url": "https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 171427,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "minisode 3: TOMORROW",
-        "url": "https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 171427,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
       },
@@ -1343,22 +1343,6 @@
       "duration_ms": 136627,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
-        "name": "play hard",
-        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
-      },
-      "artists": [
-        {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "OVERDRIVE",
-      "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -1395,6 +1379,22 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
+        "name": "play hard",
+        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "OVERDRIVE",
+      "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
         "name": "The Action",
         "url": "https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD"
       },
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "BOTH SIDES - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh"
-      },
-      "artists": [
-        {
-          "name": "NCT JNJM",
-          "url": "https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "BOTH SIDES",
-      "url": "https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
         "name": "BURNING UP",
         "url": "https://open.spotify.com/album/5zwhhh45Fd78xSX7JWjmF5"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 169546,
       "name": "BURNING UP",
       "url": "https://open.spotify.com/track/3uqgFeHo4Jr1D3gVIHQlD7"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
+        "name": "BOTH SIDES - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh"
+      },
+      "artists": [
+        {
+          "name": "NCT JNJM",
+          "url": "https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "BOTH SIDES",
+      "url": "https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "NA",
-        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        }
-      ],
-      "duration_ms": 162840,
-      "name": "ABCD",
-      "url": "https://open.spotify.com/track/0V2passWyAXnON67kfAj7y"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
         "name": "COUP D'ETAT",
         "url": "https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 224792,
       "name": "CROOKED",
       "url": "https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
+        "name": "NA",
+        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "ABCD",
+      "url": "https://open.spotify.com/track/0V2passWyAXnON67kfAj7y"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "Kill This Love",
-        "url": "https://open.spotify.com/album/3qw2vm3uqKT3EIg95wbg83"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "Kill This Love",
-      "url": "https://open.spotify.com/track/5GK7eDDTVz7CTge1wJrDQW"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
         "name": "3D (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 144106,
       "name": "Delulu",
       "url": "https://open.spotify.com/track/3BWXNAPGGWhCJwsOFolnBB"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
+        "name": "Kill This Love",
+        "url": "https://open.spotify.com/album/3qw2vm3uqKT3EIg95wbg83"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "Kill This Love",
+      "url": "https://open.spotify.com/track/5GK7eDDTVz7CTge1wJrDQW"
     },
     {
       "added_at": "2026-03-16 09:50:34",

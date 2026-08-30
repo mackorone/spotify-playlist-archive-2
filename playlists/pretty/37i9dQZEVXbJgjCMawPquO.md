@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,247 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,250 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 7 | [Amor](https://open.spotify.com/track/6r6IPuFvUX72kQGc9b46rk) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Memorias <3](https://open.spotify.com/album/47vZWbCPtkrihW631OcCWi) | 3:19 |
 | 8 | [Cuando No Era Cantante RMX \- Remix](https://open.spotify.com/track/56V7nzrqr6Sq1uFym4odwa) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [Eso Si Es De Gangster](https://open.spotify.com/album/1NFuCKrxkK9Dyo4cUtbGLb) | 5:27 |
 | 9 | [Me Rehúso](https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:25 |
-| 10 | [Es un Secreto](https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/6sP9EP1NyetOJxmuw2ErZi) | 3:10 |
+| 10 | [Es un Secreto](https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:12 |
 | 11 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 |
 | 12 | [Tu Boda](https://open.spotify.com/track/5mp6OBKCAjN4UYRvhOuUze) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Rico o Muerto, Vol\. 1](https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO) | 3:45 |
 | 13 | [SUPERESTRELLA](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:03 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 32 | [Dardos](https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Better Late Than Never](https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t) | 4:03 |
 | 33 | [Para No Verte Más](https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM) | [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Visperas De Carnaval](https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W) | 3:11 |
 | 34 | [Tal Vez](https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:23 |
-| 35 | [Candy](https://open.spotify.com/track/5MYPciceOHMd7Vl7ntELEq) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2c3UCT6duZO82Fk1QZ9D7G) | 3:27 |
+| 35 | [Candy](https://open.spotify.com/track/2cRtuTadVm0JzoW4NNTIqI) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love and Sex](https://open.spotify.com/album/04NPh9S2gPzYveqlJYQ0V8) | 3:27 |
 | 36 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 |
 | 37 | [NORMAL](https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:01 |
 | 38 | [Cuatro Babys \(feat\. Trap Capos, Noriel, Bryant Myers & Juhn\)](https://open.spotify.com/track/0JoHqmlqE0W0i9prt6kcHR) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Trap Capos](https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Cuatro Babys \(feat\. Trap Capos, Noriel, Bryant Myers & Juhn\)](https://open.spotify.com/album/0bXEsNAuMFPap5TjtUzvK8) | 4:38 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 46 | [Perdóname](https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s) | [La Factoria](https://open.spotify.com/artist/00Lc7Ok0Grodr365KFTSi3), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Nuevas Metas](https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE) | 4:02 |
 | 47 | [El Perdedor](https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:27 |
 | 48 | [Adan y Eva](https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:16 |
-| 49 | [Fanática Sensual](https://open.spotify.com/track/1FWD08y0cTKR31BNn8awLt) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2c3UCT6duZO82Fk1QZ9D7G) | 4:00 |
+| 49 | [Fanatica Sensual](https://open.spotify.com/track/1DrDfpOx4P4LMxFhtOmeyD) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love and Sex](https://open.spotify.com/album/04NPh9S2gPzYveqlJYQ0V8) | 4:00 |
 | 50 | [La Bachata](https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 2:42 |
 
-Snapshot ID: `MiUj0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MiZUgAAAAAAAAAAAAAAAAAAAAAAAAGVu`

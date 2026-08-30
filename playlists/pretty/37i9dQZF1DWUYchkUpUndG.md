@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Nontokozo Mkhize
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,207 likes - 100 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,240 likes - 100 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 58 | [Promise Keeper](https://open.spotify.com/track/0dc4HgMDrpePOh8y10rJ4H) | [Olabayo](https://open.spotify.com/artist/5fwsRZi2lECkP2rqK74aaC) | [Promise Keeper](https://open.spotify.com/album/0O5oTodIicHDVrYraLhMlP) | 3:27 |
 | 59 | [GURASAN RAI](https://open.spotify.com/track/79EdlvvRdVPIyjEaZlwD0V) | [Heavenly Dawap](https://open.spotify.com/artist/7faJDn3syyZvQjkpo111Wg), [Kespan](https://open.spotify.com/artist/0wE2xo1Ov6AgTzHOmYux0w), [Nyam Dung](https://open.spotify.com/artist/2JGJRuhX6UnIOJB7DfW5iW) | [GURASAN RAI](https://open.spotify.com/album/18XAAkya6nWPpbAT1TmjTQ) | 6:02 |
 | 60 | [John Knox](https://open.spotify.com/track/3PDFLdJhC26O7pV1EeMgiS) | [Tissann](https://open.spotify.com/artist/0oXiDrLAR9O9986SCXZj8X), [Day 3](https://open.spotify.com/artist/1V8YmQ4aOqbzU0TksheISz), [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu) | [John Knox](https://open.spotify.com/album/2kfsx7HEjH3T98cVe5D8Ge) | 2:59 |
-| 61 | [Never Fail \- \(Live\)](https://open.spotify.com/track/0oKBjN1FWo93QfGSlMRYWr) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Never Fail \(Live\)](https://open.spotify.com/album/655ThQBweRKmUiNAvTAOoi) | 5:36 |
+| 61 | [Never Fail \- Live](https://open.spotify.com/track/0oKBjN1FWo93QfGSlMRYWr) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Never Fail \(Live\)](https://open.spotify.com/album/655ThQBweRKmUiNAvTAOoi) | 5:36 |
 | 62 | [Yahweh Yahweh](https://open.spotify.com/track/5luPkXtktEKUxL2YLRVDiQ) | [K Praise](https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV) | [Yahweh Yahweh](https://open.spotify.com/album/2lvOK6RPapKVZJ3MdKK9D3) | 3:20 |
 | 63 | [Holy](https://open.spotify.com/track/03shDBearUQYfAu6md17FY) | [Chinma Umeh](https://open.spotify.com/artist/4jQNPCc1U8hzqLT5QJmw6e) | [Holy](https://open.spotify.com/album/2E6rRXTHmplQjTCf2z0nSK) | 6:16 |
 | 64 | [MASOYINA](https://open.spotify.com/track/7BuP00XQMeGNPDSvLsdtPR) | [Mr Yels](https://open.spotify.com/artist/6NpdLK2Iz3GsyZiz9Ur0Pr) | [MASOYINA](https://open.spotify.com/album/7fcKWWhUdEzaaX7AQiYIXZ) | 5:00 |

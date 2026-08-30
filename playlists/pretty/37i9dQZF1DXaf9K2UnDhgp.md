@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 
 > Riffing around the Christmas tree with Fall Out Boy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,307 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,300 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [It Feels Like Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/track/34sUWOEjFKrj8Rzk1HHicq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [It Feels Like Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/00rjYYXmDIrf2SlTBU2vCn) | 2:14 |
 | 2 | [Where Are You Christmas?](https://open.spotify.com/track/7zqv6rEbwXksyE0tk9RCO1) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Where Are You Christmas?](https://open.spotify.com/album/2ThNTAN9IGLdp0xuRLDy0J) | 3:08 |
-| 3 | [Last Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/track/2JuCzvXu9tIUU2ZDDgQ0vG) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Last Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/1WQWzqG7uf68jQohlrsaR1) | 3:43 |
+| 3 | [Last Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2JuCzvXu9tIUU2ZDDgQ0vG) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Last Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/1WQWzqG7uf68jQohlrsaR1) | 3:43 |
 | 4 | [All I Want for Christmas Is You \- 2005](https://open.spotify.com/track/48wRnWDekEx5bCOA9oeVF4) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Gift Wrapped: 20 Songs That Keep On Giving](https://open.spotify.com/album/6VkWzNwwvmUfEBAzrBEIzY) | 3:44 |
 | 5 | [Xmas Time of the Year](https://open.spotify.com/track/4O4eusrM8djmOn91VqOqeV) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Xmas Time of the Year](https://open.spotify.com/album/1CFlIsdNdHNZ5jt3Qmw6fQ) | 2:17 |
 | 6 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/5JBRAkR2DS1rsUQgxcj23t) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [A Very Special Christmas 25th Anniversary](https://open.spotify.com/album/2eMfhq6WQXRARD6wvjWgBw) | 2:19 |

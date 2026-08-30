@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoiPY96kwt.md) - [plain]
 
 > Every couple meets their match\. Listen to the music from BEEF Season 2, now playing on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,812 likes - 59 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,828 likes - 59 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [New Person, Same Old Mistakes \(From BEEF Season 2\)](https://open.spotify.com/track/0NCy4HzwLGqkckGkkgkCKD) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [New Person, Same Old Mistakes \(From BEEF Season 2\)](https://open.spotify.com/album/5QZbv4uATqD3m3YgV79t7n) | 3:14 |
+| 1 | [New Person, Same Old Mistakes \- From BEEF Season 2](https://open.spotify.com/track/0NCy4HzwLGqkckGkkgkCKD) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [New Person, Same Old Mistakes \(From BEEF Season 2\)](https://open.spotify.com/album/5QZbv4uATqD3m3YgV79t7n) | 3:14 |
 | 2 | [BITTERSUITE](https://open.spotify.com/track/7DpUoxGSdlDHfqCYj0otzU) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:58 |
 | 3 | [You & Me \- Flume Remix](https://open.spotify.com/track/1snNAXmmPXCn0dkF9DaPWw) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Settle \(The Remixes\)](https://open.spotify.com/album/0QFMqnSP2kBMTrbfNkj3SB) | 4:42 |
 | 4 | [Wildest Moments](https://open.spotify.com/track/2QPuWjnOa6N5p8fGn3iGly) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Devotion](https://open.spotify.com/album/1T5wmjLCBuuTKTpKsiAn7R) | 3:42 |

@@ -3299,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "Brownian Sleep",
+        "url": "https://open.spotify.com/album/4sUSkr3ueXVdSd1tBo6p2H"
+      },
+      "artists": [
+        {
+          "name": "Synthetic Architect",
+          "url": "https://open.spotify.com/artist/7CUcdQhE3WLGPzn3sEJNd5"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173750,
+      "name": "Brown Sonorous",
+      "url": "https://open.spotify.com/track/4QbH1QoBzfks0OHUGp5LBB"
+    },
+    {
+      "album": {
         "name": "Brown Comfort",
         "url": "https://open.spotify.com/album/3E10zcfQkAdmeEpVhkEs3t"
       },
@@ -10078,7 +10096,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 323686,
       "name": "Pink Velvet Dreams",
       "url": "https://open.spotify.com/track/07iZrwOl5MRS6hkqQiuuzC"

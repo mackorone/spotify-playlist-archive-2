@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 
 > Beloved Latin classics to get you in the Christmas spirit\. Cover: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,341 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,339 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 43 | [Jingle Bell Rock](https://open.spotify.com/track/0Gv1UhtOeQToknqz6hi9CD) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 2:28 |
 | 44 | [Te Deseo Muy Felices Fiestas](https://open.spotify.com/track/7k14Hgdg2U6nM5cF2QtQYE) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Sweet Christmas Ukulele & Jazz](https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi) | 4:13 |
 | 45 | [O Holy Night](https://open.spotify.com/track/7rRhq2CEg8JhFKdtX5vIzz) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 2:55 |
-| 46 | [Llorarás en Navidad](https://open.spotify.com/track/5BgP3UYLNQI8QnaLHM2otE) | [Pablo Montero](https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3) | [Navidad Mexicana](https://open.spotify.com/album/6Buy4rhHYa7wVcSN8fePK7) | 2:58 |
-| 47 | [Rodolfo el Reno de la Nariz Roja](https://open.spotify.com/track/6KSTgcCbtpR2AjK1dmC2pR) | [Sasha](https://open.spotify.com/artist/3cVANA4xg8pLvSvg943xCU) | [Mi Navidad](https://open.spotify.com/album/0dk75UOmEo9FjBX7MJ4ZEK) | 2:30 |
+| 46 | [Rodolfo el Reno de la Nariz Roja](https://open.spotify.com/track/6KSTgcCbtpR2AjK1dmC2pR) | [Sasha](https://open.spotify.com/artist/3cVANA4xg8pLvSvg943xCU) | [Mi Navidad](https://open.spotify.com/album/0dk75UOmEo9FjBX7MJ4ZEK) | 2:30 |
+| 47 | [Llorarás en Navidad](https://open.spotify.com/track/5BgP3UYLNQI8QnaLHM2otE) | [Pablo Montero](https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3) | [Navidad Mexicana](https://open.spotify.com/album/6Buy4rhHYa7wVcSN8fePK7) | 2:58 |
 | 48 | [Mis Deseos / Feliz Navidad \(with Thalia\)](https://open.spotify.com/track/6ZdxGOaZoNzbGrBLjUcrUs) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 4:24 |
 | 49 | [Campanas De Plata](https://open.spotify.com/track/5InDcyTXOBg3inzbwbSYQj) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Eterna Navidad \(US Version\)](https://open.spotify.com/album/78v5jMZria78NZVsostS4t) | 2:23 |
 | 50 | [Jesús](https://open.spotify.com/track/0tvj2F88KQi0rZDpneC5bp) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [La Niña del Tambor](https://open.spotify.com/album/74ffHQoDZJec5trpwgFdRu) | 4:26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > One night only\. Cover: MILLI
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,477 likes - 27 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,465 likes - 27 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

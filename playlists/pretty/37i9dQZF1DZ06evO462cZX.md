@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,734 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,733 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 44 | [Discoteca \- Deorro Remix](https://open.spotify.com/track/5YZX840FQQuMpLFUXE9Cla) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [The Most Winning](https://open.spotify.com/album/0JTaJ6c4DJdF7VkWga0cty) | 3:10 |
 | 45 | [Rise and Shine](https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:26 |
 | 46 | [Gózalo \(with Deorro\)](https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Gózalo \(with Deorro\)](https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy) | 1:54 |
-| 47 | [Se Te Olvidó](https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Se Te Olvidó](https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY) | 2:39 |
-| 48 | [All This Time](https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [All This Time](https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs) | 3:45 |
+| 47 | [All This Time](https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [All This Time](https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs) | 3:45 |
+| 48 | [Se Te Olvidó](https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Se Te Olvidó](https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY) | 2:39 |
 | 49 | [Dime](https://open.spotify.com/track/3G2GGr45h1eceLGyUAoBNc) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:49 |
 | 50 | [Left Right](https://open.spotify.com/track/1lpgyKW9jJSUl4QMFcADHa) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Left Right](https://open.spotify.com/album/1zq0v6b34WAN1J7HqbXLUZ) | 2:35 |
 
-Snapshot ID: `ao9+AAAAAADEPu8kJKh7L7KCRjGsae4E`
+Snapshot ID: `apDPgAAAAABOCSBesBbV44G9QqM9NbBc`

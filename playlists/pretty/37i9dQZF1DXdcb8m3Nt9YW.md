@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > Pura pieza en vivo para destapar un bote y sentirte como si estuvieras ahí\. Cornelio Vega y su Dinastía en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,628 likes - 125 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,724 likes - 125 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 | 81 | [El Chavo \(En Vivo\)](https://open.spotify.com/track/310cx0iUrKSZdqyiDH5vxu) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Chavo \(En Vivo\)](https://open.spotify.com/album/5AuoHfynj2gkZrWm81e9x7) | 4:05 |
 | 82 | [Basta Ya \- En Vivo](https://open.spotify.com/track/4L0BVZLHU4r2HVLPaVRLMh) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [En Vivo](https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74) | 3:43 |
 | 83 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 |
-| 84 | [Pongamonos de Acuerdo \(En Vivo\)](https://open.spotify.com/track/2HO9zqs79FIww8Fr2ntSY9) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Hasta Que Amanezca \(En Vivo\)](https://open.spotify.com/album/0rYJq4WZGAeNCorqFaLSKO) | 2:45 |
+| 84 | [Pongamonos de Acuerdo \- En Vivo](https://open.spotify.com/track/2HO9zqs79FIww8Fr2ntSY9) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Hasta Que Amanezca \(En Vivo\)](https://open.spotify.com/album/0rYJq4WZGAeNCorqFaLSKO) | 2:45 |
 | 85 | [No le Digas a Nadie \- En Vivo](https://open.spotify.com/track/0rLGEE7NTkVuH1IHMeESWC) | [Banda Corona del Rey](https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI) | [Puras Complacencias, Vol\. 2](https://open.spotify.com/album/5uXctxnOwGBIux2rr2WJc5) | 2:44 |
 | 86 | [En Las Cantinas \- En Vivo](https://open.spotify.com/track/0G8TwOjPirVFlzvAJrRgg5) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Puras Pa´Pistear Agustito, Vol.3 \(En Vivo\)](https://open.spotify.com/album/3f57eYRCgi48cJcuLhv6fJ) | 3:06 |
 | 87 | [Tus Mentiras \- En Vivo](https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 4:40 |

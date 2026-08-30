@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > i can't get no sleep
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,085,735 likes - 106 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,085,581 likes - 106 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,781 likes - 149 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,780 likes - 149 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 145 | [Come At Me](https://open.spotify.com/track/70Fhb7TOeROHuO3zO7XXoQ) | [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [I Only See You When I’m Dreamin’](https://open.spotify.com/album/49bg5Bqtr2HhkJOFWqEyNf) | 2:45 |
 | 146 | [I, U, Us \- RIVRS Remix](https://open.spotify.com/track/4g22usiSE89zT5JXZlSx9m) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [RIVRS](https://open.spotify.com/artist/34aOTkYOSP2yYdAanKdhbu) | [I, U, Us \(The Remixes\)](https://open.spotify.com/album/1OQ08PNMnSd2Iizo027Lb5) | 3:39 |
 | 147 | [Don’t Cry \(feat\. Aida Lae\)](https://open.spotify.com/track/3aXsMhbTt3SQTD4iz3ptcc) | [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Don’t Cry \(feat\. Aida Lae\)](https://open.spotify.com/album/20fw7LGasmONYZDICD2cUD) | 2:49 |
-| 148 | [Magic](https://open.spotify.com/track/6Is9lEdN1IJQcD6sfFJiTo) | [Rachel Alejandro](https://open.spotify.com/artist/4oMk1QJuMWUWrNmchRJGWL) | [Heart's Desire](https://open.spotify.com/album/2hx6aKJg9nktlobIjmFiW8) | 3:12 |
-| 149 | [2\-2](https://open.spotify.com/track/7bwBoVmrfB0xMbUose7HYb) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie \(Fan Edition\)](https://open.spotify.com/album/3VYER2TreguhiDUlXnTkli) | 3:01 |
+| 148 | [2\-2](https://open.spotify.com/track/7bwBoVmrfB0xMbUose7HYb) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie \(Fan Edition\)](https://open.spotify.com/album/3VYER2TreguhiDUlXnTkli) | 3:01 |
+| 149 | [Magic](https://open.spotify.com/track/6Is9lEdN1IJQcD6sfFJiTo) | [Rachel Alejandro](https://open.spotify.com/artist/4oMk1QJuMWUWrNmchRJGWL) | [Heart's Desire](https://open.spotify.com/album/2hx6aKJg9nktlobIjmFiW8) | 3:12 |
 
-Snapshot ID: `Aca1FAAAAABxtz7TmBAfHWdKXNXDgkCc`
+Snapshot ID: `Aca6PAAAAAAFtVQRkX7TCJX2efHf/8mH`

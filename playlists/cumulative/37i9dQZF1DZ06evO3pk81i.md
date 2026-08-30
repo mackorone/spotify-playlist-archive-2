@@ -4,7 +4,7 @@
 
 > This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-105 songs - 5 hr 9 min
+106 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [La Bella](https://open.spotify.com/track/3Eaz3p3w8eWm3UBiMW8RrE) | [Alfredo Manzo](https://open.spotify.com/artist/2bLVfd7SyWSloS4isXMazU), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [La Bella](https://open.spotify.com/album/14BQ2d4IWbtNctmhiyV3ur) | 3:58 | 2024-08-08 | 2026-07-20 |
 | [La Fiesta De Mi Rancho \- Remix](https://open.spotify.com/track/74eHdWsJM0p448J9Hsa3oh) | [Monir Bautista](https://open.spotify.com/artist/3vsI26mTGeEkEdWxsibd7g), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [La Fiesta De Mi Rancho \(Remix\)](https://open.spotify.com/album/3K2Anv3vPh9KZ5jufd1tAg) | 2:38 | 2025-06-01 | 2026-07-20 |
 | [Labios Rojos \(Version Norteña\)](https://open.spotify.com/track/3zeOGStcMvRNYhN0QY9S95) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 4:10 | 2025-02-02 |  |
-| [LINDA SONRISA](https://open.spotify.com/track/200nLYuwRwvKrZjT6eSIZP) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Dulce Amargo](https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ) | 2:27 | 2026-07-20 |  |
+| [LINDA SONRISA](https://open.spotify.com/track/200nLYuwRwvKrZjT6eSIZP) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Dulce Amargo](https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ) | 2:27 | 2026-07-20 | 2026-08-30 |
 | [Lo Bueno Y Lo Malo](https://open.spotify.com/track/3max574PT1q80JWMAGkdUY) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Lo Bueno Y Lo Malo](https://open.spotify.com/album/59RvfoVTOMJBng2ViEacq4) | 2:42 | 2024-11-25 |  |
 | [Loko](https://open.spotify.com/track/6MsbMIHQL3ZM6RUWb2F8tU) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Loko](https://open.spotify.com/album/59SSpxu6Lau67i21tUvswt) | 2:08 | 2024-08-08 |  |
 | [Mami](https://open.spotify.com/track/55t8gWMIShuAGtzcmomFvx) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 3:13 | 2025-11-29 |  |
@@ -100,7 +100,8 @@
 | [Te Acordarás De Mí](https://open.spotify.com/track/7Jt0TPSVkYr8Asy4Cms1XR) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Te Acordarás De Mí](https://open.spotify.com/album/63wMKo4Y5yzOAG3ufCs9An) | 2:36 | 2024-08-08 |  |
 | [TE MUEVES MUY BIEN](https://open.spotify.com/track/3qGkq4PS76m3i2BdxtNMgz) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:32 | 2025-08-24 |  |
 | [Te Quiero a Ti \(Version Norteña\)](https://open.spotify.com/track/1iu43Iufwvx3tk4svcNKxZ) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 3:21 | 2025-02-02 | 2026-01-26 |
-| [Te Vi](https://open.spotify.com/track/3HPrqYnWiIybFKtnpbcHRb) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Te Vi](https://open.spotify.com/album/4fYm6Ed22qyJGThEj9saM9) | 2:37 | 2026-06-21 |  |
+| [TE VI](https://open.spotify.com/track/1Xb10PgyzZbUZlji9qY0Nx) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Dulce Amargo](https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ) | 2:37 | 2026-08-30 |  |
+| [Te Vi](https://open.spotify.com/track/3HPrqYnWiIybFKtnpbcHRb) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Te Vi](https://open.spotify.com/album/4fYm6Ed22qyJGThEj9saM9) | 2:37 | 2026-06-21 | 2026-08-30 |
 | [Tesec](https://open.spotify.com/track/3gGiXwtdax32RF2Zb687OB) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 2:12 | 2024-08-08 | 2025-08-24 |
 | [Todita Me Encantas](https://open.spotify.com/track/7neeZNumEtyUe93ybWqr3N) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Todita Me Encantas](https://open.spotify.com/album/15qYJqe46DroUxj9Fa7b74) | 2:17 | 2025-11-02 |  |
 | [Toxicuh](https://open.spotify.com/track/1PV85zmIhRwnW1oC0zNFDs) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Briant Rangel](https://open.spotify.com/artist/3632WStjylo2le6C4k0gcx) | [Emociones](https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw) | 3:21 | 2024-08-08 | 2024-10-28 |

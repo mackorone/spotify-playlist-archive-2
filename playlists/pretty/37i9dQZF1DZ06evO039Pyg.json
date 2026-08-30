@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 337907,
+  "num_followers": 337920,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAACwjJCnis4+cltJFVr3/N2y",
+  "snapshot_id": "apDPgAAAAABmqTr+zaWfPKCbxOY7mAPq",
   "tracks": [
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moon Boy",
-        "url": "https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 212878,
-      "name": "Beautiful Lies",
-      "url": "https://open.spotify.com/track/3BjwSq6phb60SOdTZw5pZY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SLIDER II",
         "url": "https://open.spotify.com/album/3jwPo6mAL7jtRXRWHLkSD0"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 142768,
       "name": "go",
       "url": "https://open.spotify.com/track/7aV29KhhOFLawanslvY7Mg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moon Boy",
+        "url": "https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 212878,
+      "name": "Beautiful Lies",
+      "url": "https://open.spotify.com/track/3BjwSq6phb60SOdTZw5pZY"
     },
     {
       "added_at": null,

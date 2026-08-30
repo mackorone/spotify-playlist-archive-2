@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162094,
+  "num_followers": 162105,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAC1DAU9dihpHkscfSanMP09",
+  "snapshot_id": "apDPgAAAAAA1IbZHYmaKXJaRzWYwkjz9",
   "tracks": [
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo S\u00e9 Quien Soy",
-        "url": "https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd"
-      },
-      "artists": [
-        {
-          "name": "Emir Sensini",
-          "url": "https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20"
-        },
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 239294,
-      "name": "Yo S\u00e9 Quien Soy",
-      "url": "https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COMUNH\u00c3O - Fernandinho Em Casa, vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0bDmTYJxrUlLdVEWdtsyg5"
       },
@@ -831,34 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia 2",
-        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+        "name": "Yo S\u00e9 Quien Soy",
+        "url": "https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd"
       },
       "artists": [
+        {
+          "name": "Emir Sensini",
+          "url": "https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20"
+        },
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 153205,
-      "name": "Crian\u00e7a de Jesus",
-      "url": "https://open.spotify.com/track/6FsX4uGYBj8gjqH245iUWD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aline Barros e Cia 3",
-        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 250543,
-      "name": "Eu Li na B\u00edblia",
-      "url": "https://open.spotify.com/track/73ACUt1xfsU6HAolULv9Fp"
+      "duration_ms": 239294,
+      "name": "Yo S\u00e9 Quien Soy",
+      "url": "https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q"
     },
     {
       "added_at": null,
@@ -879,6 +847,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aline Barros e Cia 3",
+        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 250543,
+      "name": "Eu Li na B\u00edblia",
+      "url": "https://open.spotify.com/track/73ACUt1xfsU6HAolULv9Fp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aline Barros e Cia 2",
+        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 153205,
+      "name": "Crian\u00e7a de Jesus",
+      "url": "https://open.spotify.com/track/6FsX4uGYBj8gjqH245iUWD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Som de Adoradores",
         "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
       },
@@ -895,18 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia 2",
-        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+        "name": "COMUNH\u00c3O - Fernandinho Em Casa, vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0bDmTYJxrUlLdVEWdtsyg5"
       },
       "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 178329,
-      "name": "A Dan\u00e7a do Quaquito",
-      "url": "https://open.spotify.com/track/3o7vf9FujS4DkcDOMVMTug"
+      "duration_ms": 398532,
+      "name": "Vinho e P\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/3cQhO3PiL8GYlfmqqmZC4I"
     }
   ],
   "unique_name": "This Is Aline Barros",

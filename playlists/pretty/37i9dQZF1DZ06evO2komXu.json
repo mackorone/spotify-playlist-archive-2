@@ -1,12 +1,12 @@
 {
   "description": "This is Ayra Starr. The essential tracks, all in one playlist.",
-  "num_followers": 58394,
+  "num_followers": 58427,
   "original_name": "This Is Ayra Starr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAAPwGHYwMeSAZzxGO3Bbv2u",
+  "snapshot_id": "apDPgAAAAABd1Igp73gs65bsImT6lHWh",
   "tracks": [
     {
       "added_at": null,
@@ -284,12 +284,12 @@
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
           "name": "Magixx",
           "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
       "duration_ms": 147600,

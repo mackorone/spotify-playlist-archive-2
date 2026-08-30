@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Soraia Ramos",
-  "num_followers": 249844,
+  "num_followers": 249889,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
+        "name": "Vem Ser Feliz",
+        "url": "https://open.spotify.com/album/5I3p9Ahmt2eLYivBrjKVLK"
+      },
+      "artists": [
+        {
+          "name": "Lurhany",
+          "url": "https://open.spotify.com/artist/3ohRcZusOEIJxhbEiFkDIi"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "Vem Ser Feliz",
+      "url": "https://open.spotify.com/track/6i3jg8knbFP7BzxtO5FOsO"
+    },
+    {
+      "added_at": "2026-08-27 23:00:52",
+      "album": {
         "name": "Lobo da Labo",
         "url": "https://open.spotify.com/album/2ZFqRM7JIZZWT1awS0NQZ9"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 204721,
       "name": "Companhia",
       "url": "https://open.spotify.com/track/7AD5BM9mGIlaZq6yO6QDMy"
-    },
-    {
-      "added_at": "2026-08-27 23:00:52",
-      "album": {
-        "name": "Vem Ser Feliz",
-        "url": "https://open.spotify.com/album/5I3p9Ahmt2eLYivBrjKVLK"
-      },
-      "artists": [
-        {
-          "name": "Lurhany",
-          "url": "https://open.spotify.com/artist/3ohRcZusOEIJxhbEiFkDIi"
-        }
-      ],
-      "duration_ms": 205493,
-      "name": "Vem Ser Feliz",
-      "url": "https://open.spotify.com/track/6i3jg8knbFP7BzxtO5FOsO"
     },
     {
       "added_at": "2026-08-27 23:00:52",
@@ -791,26 +791,6 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
-        "name": "OQA?",
-        "url": "https://open.spotify.com/album/3WwEvwimIwmoYdZqMcFPyT"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Dinorath",
-          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
-        },
-        {
-          "name": "Teo No Beat",
-          "url": "https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2"
-        }
-      ],
-      "duration_ms": 195714,
-      "name": "OQA?",
-      "url": "https://open.spotify.com/track/5DgTqQRjIQMsXlmRV3i967"
-    },
-    {
-      "added_at": "2026-08-27 23:00:52",
-      "album": {
         "name": "Totoloto",
         "url": "https://open.spotify.com/album/4WunUod6SvMME077UZtvFU"
       },
@@ -827,18 +807,22 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
-        "name": "Menina Mulher",
-        "url": "https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm"
+        "name": "OQA?",
+        "url": "https://open.spotify.com/album/3WwEvwimIwmoYdZqMcFPyT"
       },
       "artists": [
         {
-          "name": "Liriany",
-          "url": "https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd"
+          "name": "Chelsea Dinorath",
+          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
+        },
+        {
+          "name": "Teo No Beat",
+          "url": "https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2"
         }
       ],
-      "duration_ms": 201253,
-      "name": "Fa\u00e7o Como",
-      "url": "https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W"
+      "duration_ms": 195714,
+      "name": "OQA?",
+      "url": "https://open.spotify.com/track/5DgTqQRjIQMsXlmRV3i967"
     },
     {
       "added_at": "2026-08-27 23:00:52",
@@ -863,6 +847,22 @@
       "duration_ms": 240000,
       "name": "O Lamento",
       "url": "https://open.spotify.com/track/0dpqMHwFssBIFfpkUu6Fvi"
+    },
+    {
+      "added_at": "2026-08-27 23:00:52",
+      "album": {
+        "name": "Menina Mulher",
+        "url": "https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm"
+      },
+      "artists": [
+        {
+          "name": "Liriany",
+          "url": "https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "Fa\u00e7o Como",
+      "url": "https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W"
     },
     {
       "added_at": "2026-08-27 23:00:52",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
+        "name": "Porta",
+        "url": "https://open.spotify.com/album/2V1L3nWQLyxPE7adD05tDC"
+      },
+      "artists": [
+        {
+          "name": "Button Rose",
+          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Porta",
+      "url": "https://open.spotify.com/track/6qP8HCOpt40MQ8gGJcuVRr"
+    },
+    {
+      "added_at": "2026-08-27 23:00:52",
+      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/3JeqH1j7VffeMz6XmQ5YlN"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 173877,
       "name": "Djan Reforma",
       "url": "https://open.spotify.com/track/5mYj4hLB81UL0iUehhWr5Z"
-    },
-    {
-      "added_at": "2026-08-27 23:00:52",
-      "album": {
-        "name": "Porta",
-        "url": "https://open.spotify.com/album/2V1L3nWQLyxPE7adD05tDC"
-      },
-      "artists": [
-        {
-          "name": "Button Rose",
-          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Porta",
-      "url": "https://open.spotify.com/track/6qP8HCOpt40MQ8gGJcuVRr"
     },
     {
       "added_at": "2026-08-27 23:00:52",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
-        "name": "Simbiose",
-        "url": "https://open.spotify.com/album/52VpYQcLppnMS3V70nvlqK"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Simbiose",
-      "url": "https://open.spotify.com/track/681Mye7rtRNdAgb4zYAxDe"
-    },
-    {
-      "added_at": "2026-08-27 23:00:52",
-      "album": {
         "name": "Sabi Mo Veron",
         "url": "https://open.spotify.com/album/01EtgdsQaYXoosAquRxG59"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 211714,
       "name": "Sabi Mo Veron",
       "url": "https://open.spotify.com/track/1lNzDQpnEFdb58QcRssYA0"
+    },
+    {
+      "added_at": "2026-08-27 23:00:52",
+      "album": {
+        "name": "Simbiose",
+        "url": "https://open.spotify.com/album/52VpYQcLppnMS3V70nvlqK"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Simbiose",
+      "url": "https://open.spotify.com/track/681Mye7rtRNdAgb4zYAxDe"
     },
     {
       "added_at": "2026-08-27 23:00:52",
@@ -1391,18 +1391,22 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
-        "name": "CICLOS",
-        "url": "https://open.spotify.com/album/5XY0auxYieXVEG7pmn6ANc"
+        "name": "BONITO (feat. Nelson Freitas)",
+        "url": "https://open.spotify.com/album/1ouBXmHjEBEgOapQFI7BBI"
       },
       "artists": [
         {
           "name": "Irina Barros",
           "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        },
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
         }
       ],
-      "duration_ms": 151579,
-      "name": "14",
-      "url": "https://open.spotify.com/track/2PNLTYeAebJgoMOxYb7i2S"
+      "duration_ms": 166588,
+      "name": "BONITO (feat. Nelson Freitas)",
+      "url": "https://open.spotify.com/track/1H9KcHMX76G2CmcxpQKjR5"
     },
     {
       "added_at": "2026-08-27 23:00:52",
@@ -1515,22 +1519,18 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
-        "name": "BONITO (feat. Nelson Freitas)",
-        "url": "https://open.spotify.com/album/1ouBXmHjEBEgOapQFI7BBI"
+        "name": "CICLOS",
+        "url": "https://open.spotify.com/album/5XY0auxYieXVEG7pmn6ANc"
       },
       "artists": [
         {
           "name": "Irina Barros",
           "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        },
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
         }
       ],
-      "duration_ms": 166588,
-      "name": "BONITO (feat. Nelson Freitas)",
-      "url": "https://open.spotify.com/track/1H9KcHMX76G2CmcxpQKjR5"
+      "duration_ms": 151579,
+      "name": "14",
+      "url": "https://open.spotify.com/track/2PNLTYeAebJgoMOxYb7i2S"
     },
     {
       "added_at": "2026-08-27 23:00:52",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
-        "name": "Conecta",
-        "url": "https://open.spotify.com/album/1qfrpd4rp5JWmRG6kVbwUI"
-      },
-      "artists": [
-        {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
-        },
-        {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
-        }
-      ],
-      "duration_ms": 195364,
-      "name": "Conecta",
-      "url": "https://open.spotify.com/track/6BRvWO6nio9hUdWyQBntkn"
-    },
-    {
-      "added_at": "2026-08-27 23:00:52",
-      "album": {
         "name": "Vida Linda",
         "url": "https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 175346,
       "name": "Vida Linda",
       "url": "https://open.spotify.com/track/6PFCS07ThHLVYlOM5LeJFP"
+    },
+    {
+      "added_at": "2026-08-27 23:00:52",
+      "album": {
+        "name": "Conecta",
+        "url": "https://open.spotify.com/album/1qfrpd4rp5JWmRG6kVbwUI"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        },
+        {
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        }
+      ],
+      "duration_ms": 195364,
+      "name": "Conecta",
+      "url": "https://open.spotify.com/track/6BRvWO6nio9hUdWyQBntkn"
     },
     {
       "added_at": "2026-08-27 23:00:52",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
-        "name": "Pa Qu\u00ea?",
-        "url": "https://open.spotify.com/album/69atZMQiuCuX5pl8jlPZiB"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 176102,
-      "name": "Pa Qu\u00ea?",
-      "url": "https://open.spotify.com/track/24D8iaNYZIlZEplxSeCZOr"
-    },
-    {
-      "added_at": "2026-08-27 23:00:52",
-      "album": {
         "name": "Menta",
         "url": "https://open.spotify.com/album/5m12RKdPcPwMzRwb9EIECk"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 196330,
       "name": "Menta",
       "url": "https://open.spotify.com/track/6WXfOiRWXLAPjWGkExCaUj"
+    },
+    {
+      "added_at": "2026-08-27 23:00:52",
+      "album": {
+        "name": "Pa Qu\u00ea?",
+        "url": "https://open.spotify.com/album/69atZMQiuCuX5pl8jlPZiB"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 176102,
+      "name": "Pa Qu\u00ea?",
+      "url": "https://open.spotify.com/track/24D8iaNYZIlZEplxSeCZOr"
     },
     {
       "added_at": "2026-08-27 23:00:52",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/5paRTOL3SEbtrR11fLu05r"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 134279,
+      "name": "0 a 100",
+      "url": "https://open.spotify.com/track/6b2VNir58EMaPyNIN5Fz3p"
+    },
+    {
+      "added_at": "2026-08-27 23:00:52",
+      "album": {
         "name": "Te Avisei",
         "url": "https://open.spotify.com/album/517j90MdtPA3dGrWmSGiyi"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 208468,
       "name": "Lebam",
       "url": "https://open.spotify.com/track/7523lVFOPO3JfiKX6u9ni7"
-    },
-    {
-      "added_at": "2026-08-27 23:00:52",
-      "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/5paRTOL3SEbtrR11fLu05r"
-      },
-      "artists": [
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 134279,
-      "name": "0 a 100",
-      "url": "https://open.spotify.com/track/6b2VNir58EMaPyNIN5Fz3p"
     },
     {
       "added_at": "2026-08-27 23:00:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 
 > Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,381 likes - 60 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,364 likes - 60 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 39 | [Dark](https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Lingering](https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S) | 3:13 |
 | 40 | [Bell Under Water](https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Until](https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH) | 5:17 |
 | 41 | [I Should Live in Salt \- The National Cover \- Live from Spotify, London](https://open.spotify.com/track/1LF3VWJhOqD2VuuruLMSmu) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Spotify Live](https://open.spotify.com/album/315m5F9Xqwhfptakbs0fG8) | 4:12 |
-| 42 | [Send My Regards](https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Send My Regards](https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH) | 4:07 |
-| 43 | [Ricochet](https://open.spotify.com/track/5dkeCTaxNQDlFiJEkpbMsx) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Ricochet](https://open.spotify.com/album/5sp2DSZbmZoy1FhjNbCAS2) | 3:18 |
+| 42 | [Ricochet](https://open.spotify.com/track/5dkeCTaxNQDlFiJEkpbMsx) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Ricochet](https://open.spotify.com/album/5sp2DSZbmZoy1FhjNbCAS2) | 3:18 |
+| 43 | [Send My Regards](https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Send My Regards](https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH) | 4:07 |
 | 44 | [Home](https://open.spotify.com/track/0eOPBCItAtCgtQZj5vxNRa) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Home](https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe) | 4:32 |
 | 45 | [Rainy Day Song](https://open.spotify.com/track/0Wn5iTOKfn86p7LKLMKeA4) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [All These Dreams](https://open.spotify.com/album/2GZyBo8c4yu7EmWb6zNaUa) | 3:21 |
 | 46 | [Damn It All](https://open.spotify.com/track/3e2mV0O3hnVJuvdCcb7cwH) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [If I Was \(Deluxe Edition\)](https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS) | 6:26 |

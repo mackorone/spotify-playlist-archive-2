@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 
 > Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,092,597 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,092,270 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 16 | [Letting Go](https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Letting Go](https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI) | 3:30 |
 | 17 | [Raise Hell](https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 4:08 |
 | 18 | [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 |
-| 19 | [Ain't No Grave](https://open.spotify.com/track/0ymhUnNSuTEdKCRYEVpWOS) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 3:21 |
-| 20 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 |
+| 19 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 |
+| 20 | [Ain't No Grave](https://open.spotify.com/track/0ymhUnNSuTEdKCRYEVpWOS) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 3:21 |
 | 21 | [Caesar Knows](https://open.spotify.com/track/7skCLVpO2PbGfPib1FgD5C) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [34 N\. River](https://open.spotify.com/album/1DBaSoZDEr2HG4X3TTDjjw) | 2:36 |
 | 22 | [Fast and Slow](https://open.spotify.com/track/7omE4K9WTUmbD9TzVPyTjZ) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Already Gone](https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE) | 4:09 |
 | 23 | [Bad Moves](https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Bad Moves](https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy) | 4:06 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 45 | [Gone](https://open.spotify.com/track/5xZV3jkOFbKLH7ywEqGORA) | [The Show Ponies](https://open.spotify.com/artist/0N12PNPrehNU9PVsJMfdzi) | [We're Not Lost](https://open.spotify.com/album/3uoPG7wceVYCXEYg426Hjb) | 2:38 |
 | 46 | [Girlfriend](https://open.spotify.com/track/0usJbmjMMRdC89y8sUsldR) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 2:53 |
 | 47 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
-| 48 | [Make a Sound](https://open.spotify.com/track/1Ap29R9m0UyLBH2uJHpcTy) | [Bruce Peninsula](https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe) | [No Earthly Sound](https://open.spotify.com/album/5eVVVY0zVykT1hePDZFVMI) | 3:21 |
-| 49 | [On The Road Again](https://open.spotify.com/track/6f2o3F3BoPwlicA0ko2gAb) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Calla Lily](https://open.spotify.com/album/44QrG8cDITqHHGZcGfeZWr) | 2:53 |
+| 48 | [On The Road Again](https://open.spotify.com/track/6f2o3F3BoPwlicA0ko2gAb) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Calla Lily](https://open.spotify.com/album/44QrG8cDITqHHGZcGfeZWr) | 2:53 |
+| 49 | [Make a Sound](https://open.spotify.com/track/1Ap29R9m0UyLBH2uJHpcTy) | [Bruce Peninsula](https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe) | [No Earthly Sound](https://open.spotify.com/album/5eVVVY0zVykT1hePDZFVMI) | 3:21 |
 | 50 | [Be Afraid](https://open.spotify.com/track/4YtvmIkKHaSBOv1VPmZf6p) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Reunions](https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz) | 3:19 |
 | 51 | [Young Man's Game](https://open.spotify.com/track/5xGt18Bb0D0DvYwytFDuhD) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:11 |
 | 52 | [Who Are You Now](https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:17 |

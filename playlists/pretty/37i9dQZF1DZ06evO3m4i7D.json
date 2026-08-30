@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAAheOn4omOKGzCS8URIfDJk",
+  "snapshot_id": "apDPgAAAAAD8AmMRD2A2F78FZhdBCBsH",
   "tracks": [
     {
       "added_at": null,
@@ -687,30 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GUZBYE",
-        "url": "https://open.spotify.com/album/0RJZJxSvOBnKSNU9nXQ6zD"
-      },
-      "artists": [
-        {
-          "name": "miguel cornejo",
-          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "GUZBYE",
-      "url": "https://open.spotify.com/track/6qNktE3ki1AqZThqp5EL7u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pari Pari",
         "url": "https://open.spotify.com/album/13oqvn7XeZixU1JA5RRZxr"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 153984,
       "name": "Pari Pari",
       "url": "https://open.spotify.com/track/39UW1y3kBC6UOvKqc9vw1u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GUZBYE",
+        "url": "https://open.spotify.com/album/0RJZJxSvOBnKSNU9nXQ6zD"
+      },
+      "artists": [
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "GUZBYE",
+      "url": "https://open.spotify.com/track/6qNktE3ki1AqZThqp5EL7u"
     },
     {
       "added_at": null,
@@ -891,6 +891,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entre Covers y Recuerdos",
+        "url": "https://open.spotify.com/album/2ewaJEXfIQtBGVWqew16k5"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "La Chona",
+      "url": "https://open.spotify.com/track/0ZaMvWl7iYd2kWzpqQeuq6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Licuado",
         "url": "https://open.spotify.com/album/08f4lGUZsvC3g5Pkprj0lg"
       },
@@ -975,6 +999,30 @@
       "duration_ms": 226330,
       "name": "Como Jordan - En Vivo",
       "url": "https://open.spotify.com/track/1yjQtocovqKgWlHUeW9pKW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre Covers y Recuerdos",
+        "url": "https://open.spotify.com/album/2ewaJEXfIQtBGVWqew16k5"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 225770,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/6TxFFqTpYaQMCWBeLTWOFF"
     },
     {
       "added_at": null,

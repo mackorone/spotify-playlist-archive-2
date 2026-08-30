@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 
 > This is Alcolirykoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,975 likes - 37 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,981 likes - 37 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 8 | [Tararea](https://open.spotify.com/track/1S1HkSJ1ndy7Yvc4YPg0Bs) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2) | 3:19 |
 | 9 | [Baño de Ruda](https://open.spotify.com/track/1zuxs70IPIWEsqlrmhohDQ) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Baño de Ruda](https://open.spotify.com/album/4aOWw1CCZUHRPSqd7DQ7Td) | 3:09 |
 | 10 | [Aranjuez](https://open.spotify.com/track/6p7AcEaN1Dy3Pjo4SJdzMM) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm) | 3:54 |
-| 11 | [El Rey del Despecho](https://open.spotify.com/track/5Andam5kQoD57q7XF8l0PE) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Sho\-Hai](https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK) | [Anarcolirykoz](https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I) | 3:43 |
+| 11 | [Suero Casero](https://open.spotify.com/track/7qnyvO9BqJFON0Vh3IE0Kv) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Anarcolirykoz](https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I) | 3:05 |
 | 12 | [El Malo de la Película](https://open.spotify.com/track/66maa6bpHoJjsmtozGChDf) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Polimnia](https://open.spotify.com/artist/1KdN2WeS9Zx3L2eehtzUJP) | [Servicios Ambulatorioz](https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2) | 3:46 |
 | 13 | [La Noche](https://open.spotify.com/track/5Vkk7yLVjeTQfX3MFfK56L) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep), [Ecks One](https://open.spotify.com/artist/4kwGYV3ZRvWaEbRW1VuKBF) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 4:40 |
 | 14 | [Pambelé](https://open.spotify.com/track/57nqMkcGByTnlBBfxCtJs9) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm) | 3:47 |
-| 15 | [Suero Casero](https://open.spotify.com/track/7qnyvO9BqJFON0Vh3IE0Kv) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Anarcolirykoz](https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I) | 3:05 |
+| 15 | [El Rey del Despecho](https://open.spotify.com/track/5Andam5kQoD57q7XF8l0PE) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Sho\-Hai](https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK) | [Anarcolirykoz](https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I) | 3:43 |
 | 16 | [Changó](https://open.spotify.com/track/3QhblCgkjpbYIkB6kfMsyE) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2) | 4:04 |
 | 17 | [Fruko y Sus Presos \(2.018\)](https://open.spotify.com/track/3wLZplvZc5OOSpKRxr9Uky) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/4pnGRjkikanhqwLk0F98iW) | 3:38 |
 | 18 | [La Caza de Nariño](https://open.spotify.com/track/4JryerYhYVxt0KGJVHojSB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Aranjuez](https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm) | 3:41 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 36 | [El Salón de la Injusticia](https://open.spotify.com/track/2x7cgane1Pqh8pxgKhayOu) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 3:50 |
 | 37 | [No Hay Flores en Venus](https://open.spotify.com/track/7phGc1gPOFCbhC5RVLpRCf) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 2:57 |
 
-Snapshot ID: `ao9+AAAAAADkE2alxwiD6YnResFwRHLN`
+Snapshot ID: `apDPgAAAAAAi4NtFLJIRzv3VglNbT+T7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover: Joepraize
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,460 likes - 50 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,495 likes - 50 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 17 | [Amazing](https://open.spotify.com/track/4YGcNSgcjves8AoCXoWT6p) | [GOYE Universe](https://open.spotify.com/artist/6ShGkA7DBJXJR8YlQp1hSa), [Verity Haruna](https://open.spotify.com/artist/0ZEzTZbA2DCKVqMvvatUPd), [Itohan](https://open.spotify.com/artist/20fyD4LblbtXAouj5h8IT1) | [Essence](https://open.spotify.com/album/42cOT2VvLDnNObb0oZ63FU) | 3:15 |
 | 18 | [Million Little Miracles \(feat\. Joe L Barnes\)](https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 6:45 |
 | 19 | [This Is The Gospel](https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [This Is The Gospel](https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn) | 5:05 |
-| 20 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 |
-| 21 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 |
+| 20 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 |
+| 21 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 |
 | 22 | [Modúpẹ́](https://open.spotify.com/track/1xgEfJmlLupisDWHBGPA6d) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG) | [Modúpẹ́](https://open.spotify.com/album/5n7hHoCPVVPyju2TFmYRp1) | 2:44 |
 | 23 | [Jehovah \(feat\. Chris Brown\)](https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:54 |
 | 24 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 |

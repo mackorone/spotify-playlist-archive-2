@@ -1,6 +1,6 @@
 {
   "description": "Hits to boost your mood and fill you with happiness!",
-  "num_followers": 6302630,
+  "num_followers": 6302381,
   "original_name": "Happy Hits!",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "My Head & My Heart",
-      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "I Don't Care (with Justin Bieber)",
         "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 219946,
       "name": "I Don't Care (with Justin Bieber)",
       "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 217783,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Magic In The Hamptons (feat. Lil Yachty)",
         "url": "https://open.spotify.com/album/3p81zUBFZ3zdzxceXKeVSK"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 164640,
       "name": "Magic In The Hamptons (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/2Yer0p7uB2lVBUAtANuuQp"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 217783,
-      "name": "These Walls",
-      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "What A Man Gotta Do",
+        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 180644,
+      "name": "What A Man Gotta Do",
+      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "What A Man Gotta Do",
-        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 180644,
-      "name": "What A Man Gotta Do",
-      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Cover Me In Sunshine",
         "url": "https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 141050,
       "name": "Cover Me In Sunshine",
       "url": "https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "If We Ever Broke Up",
+        "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
+      },
+      "artists": [
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        }
+      ],
+      "duration_ms": 142758,
+      "name": "If We Ever Broke Up",
+      "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Summer Of Love",
         "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 184104,
       "name": "Summer of Love (Shawn Mendes & Tainy)",
       "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "If We Ever Broke Up",
-        "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
-      },
-      "artists": [
-        {
-          "name": "Mae Stephens",
-          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
-        }
-      ],
-      "duration_ms": 142758,
-      "name": "If We Ever Broke Up",
-      "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "What's Love Got to Do with It",
+        "url": "https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 208156,
+      "name": "What's Love Got to Do with It",
+      "url": "https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Savage Love (Laxed - Siren Beat) [BTS Remix]",
         "url": "https://open.spotify.com/album/5O6izFQ2veRaZOcQSyOi4o"
       },
@@ -1467,26 +1487,6 @@
       "duration_ms": 184905,
       "name": "Savage Love (Laxed \u2013 Siren Beat) [BTS Remix]",
       "url": "https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "What's Love Got to Do with It",
-        "url": "https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 208156,
-      "name": "What's Love Got to Do with It",
-      "url": "https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 172692,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
         "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 183725,
       "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
       "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 172692,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb"
     },
     {
       "added_at": "2024-06-13 22:00:00",

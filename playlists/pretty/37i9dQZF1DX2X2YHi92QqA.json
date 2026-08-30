@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\uddd8\ud83c\udffc\u200d\u2640\ufe0f\ud83c\udf3b\ud83c\udfd5\ufe0f\ud83c\udfde\ufe0f\ud83c\udfca\ud83c\udffb\u200d\u2640\ufe0f\ud83c\udf05\ud83c\udf37\u26f0\ufe0f\ud83d\udeb4\ud83c\udffc\u200d\u2642\ufe0f\ud83c\udf7a\ud83c\udf33",
-  "num_followers": 39904,
+  "num_followers": 39905,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-07-24 14:04:54",
       "album": {
-        "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
-        "url": "https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf"
-      },
-      "artists": [
-        {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
-        }
-      ],
-      "duration_ms": 139805,
-      "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
-      "url": "https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC"
-    },
-    {
-      "added_at": "2026-07-24 14:04:54",
-      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 203324,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
+    },
+    {
+      "added_at": "2026-07-24 14:04:54",
+      "album": {
+        "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
+        "url": "https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+        }
+      ],
+      "duration_ms": 139805,
+      "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
+      "url": "https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC"
     },
     {
       "added_at": "2026-07-24 14:04:54",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-07-24 14:04:54",
       "album": {
-        "name": "\u0421\u0442\u0430\u043d\u0435\u043c\u043e \u0442\u0438\u0448\u0435\u044e",
-        "url": "https://open.spotify.com/album/3EajDdMOQJCs2j2m6fKIPG"
-      },
-      "artists": [
-        {
-          "name": "Kadnay",
-          "url": "https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ"
-        }
-      ],
-      "duration_ms": 189890,
-      "name": "\u0421\u0442\u0430\u043d\u0435\u043c\u043e \u0442\u0438\u0448\u0435\u044e",
-      "url": "https://open.spotify.com/track/2FnTCTmdUdOt3PlWDThCQs"
-    },
-    {
-      "added_at": "2026-07-24 14:04:54",
-      "album": {
         "name": "\u0421\u0432\u0456\u0434\u043e\u043c\u0456\u0441\u0442\u044c",
         "url": "https://open.spotify.com/album/1aVoH8UWRQVrF1laF8UQpl"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 157928,
       "name": "\u0421\u0432\u0456\u0434\u043e\u043c\u0456\u0441\u0442\u044c",
       "url": "https://open.spotify.com/track/20jsajSXoBYHXY1wAgE79k"
+    },
+    {
+      "added_at": "2026-07-24 14:04:54",
+      "album": {
+        "name": "\u0421\u0442\u0430\u043d\u0435\u043c\u043e \u0442\u0438\u0448\u0435\u044e",
+        "url": "https://open.spotify.com/album/3EajDdMOQJCs2j2m6fKIPG"
+      },
+      "artists": [
+        {
+          "name": "Kadnay",
+          "url": "https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ"
+        }
+      ],
+      "duration_ms": 189890,
+      "name": "\u0421\u0442\u0430\u043d\u0435\u043c\u043e \u0442\u0438\u0448\u0435\u044e",
+      "url": "https://open.spotify.com/track/2FnTCTmdUdOt3PlWDThCQs"
     },
     {
       "added_at": "2026-07-24 14:04:54",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-07-24 14:04:54",
       "album": {
+        "name": "\u0422\u0418.",
+        "url": "https://open.spotify.com/album/5m4Hr1lqxhY4SmwH9tBAZd"
+      },
+      "artists": [
+        {
+          "name": "ba.latskii",
+          "url": "https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz"
+        }
+      ],
+      "duration_ms": 178777,
+      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0440\u0430\u0437",
+      "url": "https://open.spotify.com/track/0VmvJ7BE6iXwiFNJGF00IT"
+    },
+    {
+      "added_at": "2026-07-24 14:04:54",
+      "album": {
         "name": "\u0415\u043a\u0441\u043a\u0443\u0440\u0441\u0456\u0457 \u043f\u043e \u0433\u043e\u0440\u043e\u0434\u0443",
         "url": "https://open.spotify.com/album/1orSqMtnDMqO5QEXN4FaVd"
       },
@@ -1007,34 +1023,18 @@
     {
       "added_at": "2026-07-24 14:04:54",
       "album": {
-        "name": "\u0422\u0418.",
-        "url": "https://open.spotify.com/album/5m4Hr1lqxhY4SmwH9tBAZd"
+        "name": "Can You Believe",
+        "url": "https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG"
       },
       "artists": [
         {
-          "name": "ba.latskii",
-          "url": "https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 178777,
-      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0440\u0430\u0437",
-      "url": "https://open.spotify.com/track/0VmvJ7BE6iXwiFNJGF00IT"
-    },
-    {
-      "added_at": "2026-07-24 14:04:54",
-      "album": {
-        "name": "\u041d\u0430\u0439\u0434\u043e\u0440\u043e\u0436\u0447\u0456 \u0440\u0435\u0447\u0456 \u0443 \u0441\u0432\u0456\u0442\u0456",
-        "url": "https://open.spotify.com/album/5ghlX8TOnOWY6vf8OQlZGF"
-      },
-      "artists": [
-        {
-          "name": "Blooms Corda",
-          "url": "https://open.spotify.com/artist/3mlUhGSEvqMhUNu7uWB9hA"
-        }
-      ],
-      "duration_ms": 255258,
-      "name": "\u0421\u043f\u0456\u0440\u0456\u0447\u0443\u0430\u043b",
-      "url": "https://open.spotify.com/track/2oTMeZP9JBsDBL0SKnjWcA"
+      "duration_ms": 235531,
+      "name": "Can You Believe",
+      "url": "https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ"
     }
   ],
   "unique_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",

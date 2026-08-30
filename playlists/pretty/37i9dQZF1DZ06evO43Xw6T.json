@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 186692,
+  "num_followers": 186731,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABOTUdj+4hX7sD69jcsDciA",
+  "snapshot_id": "apDPgAAAAAB8CLsk2wO7/lGDN6BvQpUo",
   "tracks": [
     {
       "added_at": null,
@@ -619,6 +619,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "A La Luz De La luna",
+        "url": "https://open.spotify.com/album/5FknMjAXtPKD26VySnMtNs"
+      },
+      "artists": [
+        {
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 165212,
+      "name": "A La Luz De La luna",
+      "url": "https://open.spotify.com/track/6VZiBmPwjTdNjyrOLKkCNa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Puro Dolor",
+        "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 168086,
+      "name": "A Puro Dolor",
+      "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muchacho Alegre",
         "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
       },
@@ -643,38 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Puro Dolor",
-        "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
+        "name": "LOU LOU",
+        "url": "https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn"
       },
       "artists": [
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 168086,
-      "name": "A Puro Dolor",
-      "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A La Luz De La luna",
-        "url": "https://open.spotify.com/album/5FknMjAXtPKD26VySnMtNs"
-      },
-      "artists": [
-        {
-          "name": "Pepe Walker",
-          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
         },
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 165212,
-      "name": "A La Luz De La luna",
-      "url": "https://open.spotify.com/track/6VZiBmPwjTdNjyrOLKkCNa"
+      "duration_ms": 188000,
+      "name": "LOU LOU",
+      "url": "https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8"
     },
     {
       "added_at": null,
@@ -699,22 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOU LOU",
-        "url": "https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn"
+        "name": "INC\u00d3MODO",
+        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         },
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 188000,
-      "name": "LOU LOU",
-      "url": "https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8"
+      "duration_ms": 143402,
+      "name": "DETONA",
+      "url": "https://open.spotify.com/track/7ojqw2j3HrrmXhfykBV88i"
     },
     {
       "added_at": null,
@@ -755,22 +775,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "INC\u00d3MODO",
-        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
       },
       "artists": [
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
         }
       ],
-      "duration_ms": 143402,
-      "name": "DETONA",
-      "url": "https://open.spotify.com/track/7ojqw2j3HrrmXhfykBV88i"
+      "duration_ms": 227854,
+      "name": "Nos Vamos de Dance",
+      "url": "https://open.spotify.com/track/0oSZVn61aTmWDy3TsQRnXR"
     },
     {
       "added_at": null,
@@ -835,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Boss",
-        "url": "https://open.spotify.com/album/6yeUuq8mHmEXuRe4KUiCKk"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 225212,
-      "name": "El Boss",
-      "url": "https://open.spotify.com/track/4L1iecYPJR1qc9tz5Zjkw9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INC\u00d3MODO",
         "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
@@ -871,6 +875,26 @@
       "duration_ms": 164687,
       "name": "TENDIDO",
       "url": "https://open.spotify.com/track/5jgvoAw4cyAYdxhPN7zwZb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Boss",
+        "url": "https://open.spotify.com/album/6yeUuq8mHmEXuRe4KUiCKk"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 225212,
+      "name": "El Boss",
+      "url": "https://open.spotify.com/track/4L1iecYPJR1qc9tz5Zjkw9"
     },
     {
       "added_at": null,
@@ -935,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Se Llevan Serenatas (Deluxe)",
-        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 189869,
-      "name": "SARGENTO",
-      "url": "https://open.spotify.com/track/4zi3rwIYv1Q6slxn620w8P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PLO PLO",
         "url": "https://open.spotify.com/album/5TTxRgyrLUjShv6V8gi08a"
       },
@@ -971,6 +975,26 @@
       "duration_ms": 202720,
       "name": "PLO PLO",
       "url": "https://open.spotify.com/track/0bXXvhAhIVZ85wCd8aKqZa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Se Llevan Serenatas (Deluxe)",
+        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 189869,
+      "name": "SARGENTO",
+      "url": "https://open.spotify.com/track/4zi3rwIYv1Q6slxn620w8P"
     },
     {
       "added_at": null,
@@ -1031,26 +1055,6 @@
       "duration_ms": 181503,
       "name": "Sad Loqueron",
       "url": "https://open.spotify.com/track/1VykDC2twhsRrlhgxJHKRZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amarre",
-        "url": "https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
-        }
-      ],
-      "duration_ms": 179706,
-      "name": "Amarre",
-      "url": "https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp"
     }
   ],
   "unique_name": "This Is Gabito Ballesteros",

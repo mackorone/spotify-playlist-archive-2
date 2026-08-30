@@ -1,6 +1,6 @@
 {
   "description": "Grandes hits pra enfrentar toda lou\u00e7a suja que insiste em brotar na pia!",
-  "num_followers": 443971,
+  "num_followers": 443981,
   "original_name": "Lou\u00e7a Infinita",
   "owner": {
     "name": "Spotify",
@@ -191,30 +191,18 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Bola Rebola",
-        "url": "https://open.spotify.com/album/3p5oLCW4wY9u1TBRiLT1HD"
+        "name": "100% Grupo Revela\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/20PI0BGshx4A5gz0Onl91a"
       },
       "artists": [
         {
-          "name": "Tropkillaz",
-          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+          "name": "Grupo Revela\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
         }
       ],
-      "duration_ms": 193440,
-      "name": "Bola Rebola",
-      "url": "https://open.spotify.com/track/1OUPXna2MCgAt3VNmXJBtg"
+      "duration_ms": 246226,
+      "name": "Deixa Acontecer",
+      "url": "https://open.spotify.com/track/50mawjudhEofTcUIpRmGXr"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -239,18 +227,30 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "100% Grupo Revela\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/20PI0BGshx4A5gz0Onl91a"
+        "name": "Bola Rebola",
+        "url": "https://open.spotify.com/album/3p5oLCW4wY9u1TBRiLT1HD"
       },
       "artists": [
         {
-          "name": "Grupo Revela\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
         }
       ],
-      "duration_ms": 246226,
-      "name": "Deixa Acontecer",
-      "url": "https://open.spotify.com/track/50mawjudhEofTcUIpRmGXr"
+      "duration_ms": 193440,
+      "name": "Bola Rebola",
+      "url": "https://open.spotify.com/track/1OUPXna2MCgAt3VNmXJBtg"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -531,6 +531,26 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "50 Reais",
+        "url": "https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6"
+      },
+      "artists": [
+        {
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 207104,
+      "name": "50 Reais",
+      "url": "https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "SENTAD\u00c3O",
         "url": "https://open.spotify.com/album/6kMwu0LljP1LlrzpQPlvvQ"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 143448,
       "name": "SENTAD\u00c3O",
       "url": "https://open.spotify.com/track/4lKuzrdZrJuCAedbIslF3A"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "50 Reais",
-        "url": "https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6"
-      },
-      "artists": [
-        {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 207104,
-      "name": "50 Reais",
-      "url": "https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -775,26 +775,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Pa\u00eds do Futebol",
-        "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
-      },
-      "artists": [
-        {
-          "name": "MC Guim\u00ea",
-          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 149002,
-      "name": "Pa\u00eds do Futebol",
-      "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Contatinho (Ao Vivo)",
         "url": "https://open.spotify.com/album/4sH660Ggu0Xd9yShQntlmA"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 173229,
       "name": "Contatinho - Ao Vivo",
       "url": "https://open.spotify.com/track/4RC2nzqaQygxoVQOVv3XlT"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Pa\u00eds do Futebol",
+        "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
+      },
+      "artists": [
+        {
+          "name": "MC Guim\u00ea",
+          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 149002,
+      "name": "Pa\u00eds do Futebol",
+      "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Casa 67",
-        "url": "https://open.spotify.com/album/3pQuAFj4vMjHbLlBzectUV"
-      },
-      "artists": [
-        {
-          "name": "Atitude 67",
-          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
-        }
-      ],
-      "duration_ms": 147843,
-      "name": "T\u00e3o Linda",
-      "url": "https://open.spotify.com/track/59WWulo1LM0njpIkcduCMn"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Som No Talo",
         "url": "https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 175046,
       "name": "Tap\u00e3o Na Raba",
       "url": "https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Casa 67",
+        "url": "https://open.spotify.com/album/3pQuAFj4vMjHbLlBzectUV"
+      },
+      "artists": [
+        {
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+        }
+      ],
+      "duration_ms": 147843,
+      "name": "T\u00e3o Linda",
+      "url": "https://open.spotify.com/track/59WWulo1LM0njpIkcduCMn"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "As Quatro Esta\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/5Rbgk96ZERiqT0L9ypqgdS"
-      },
-      "artists": [
-        {
-          "name": "Sandy e Junior",
-          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "Olha O Que O Amor Me Faz / Cita\u00e7\u00e3o: All By Myself - Medley",
-      "url": "https://open.spotify.com/track/1rMcQF59UMomlc0HJy9j5W"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Beijinho no Ombro",
         "url": "https://open.spotify.com/album/0ofNAjXeTd2H2co7rKhKTE"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 164615,
       "name": "Beijinho no Ombro",
       "url": "https://open.spotify.com/track/4k3HBeh98WWN2ybGHC0WQI"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "As Quatro Esta\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/5Rbgk96ZERiqT0L9ypqgdS"
+      },
+      "artists": [
+        {
+          "name": "Sandy e Junior",
+          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Olha O Que O Amor Me Faz / Cita\u00e7\u00e3o: All By Myself - Medley",
+      "url": "https://open.spotify.com/track/1rMcQF59UMomlc0HJy9j5W"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Olha A Explos\u00e3o",
-        "url": "https://open.spotify.com/album/4QEhWb117FJJ8HowEyn6pg"
-      },
-      "artists": [
-        {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        }
-      ],
-      "duration_ms": 162053,
-      "name": "Olha A Explos\u00e3o",
-      "url": "https://open.spotify.com/track/6Q4foUefrAyCt8VxJFML56"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Devagarinho",
         "url": "https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr"
       },
@@ -1599,22 +1583,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "O Mundo D\u00e1 Voltas",
-        "url": "https://open.spotify.com/album/6vsf2KnzQqYCk3ZooylJ7o"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 176642,
-      "name": "O Mundo D\u00e1 Voltas",
-      "url": "https://open.spotify.com/track/72Dd1GTMVp8EaJof85xICq"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Negro Lindo",
         "url": "https://open.spotify.com/album/2zbBp61ZsKJR2CPY3DGuxT"
       },
@@ -1627,6 +1595,38 @@
       "duration_ms": 180000,
       "name": "Tchubirabirom",
       "url": "https://open.spotify.com/track/1Ugs1DpzuJLNjLCuSJ4oJc"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Olha A Explos\u00e3o",
+        "url": "https://open.spotify.com/album/4QEhWb117FJJ8HowEyn6pg"
+      },
+      "artists": [
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "duration_ms": 162053,
+      "name": "Olha A Explos\u00e3o",
+      "url": "https://open.spotify.com/track/6Q4foUefrAyCt8VxJFML56"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "O Mundo D\u00e1 Voltas",
+        "url": "https://open.spotify.com/album/6vsf2KnzQqYCk3ZooylJ7o"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 176642,
+      "name": "O Mundo D\u00e1 Voltas",
+      "url": "https://open.spotify.com/track/72Dd1GTMVp8EaJof85xICq"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1815,26 +1815,18 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Major Lazer Essentials",
-        "url": "https://open.spotify.com/album/16vOvSLYIZO8xZOpBBQnBZ"
+        "name": "Ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/4W9hStkV2XU2CZLdMeDG0T"
       },
       "artists": [
         {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 167310,
-      "name": "Sua Cara",
-      "url": "https://open.spotify.com/track/7ziEXnwO7RIRguxSPXP2xs"
+      "duration_ms": 220733,
+      "name": "Balada - Ao Vivo",
+      "url": "https://open.spotify.com/track/5xeTiizOpClzA1Bb7Ak8YW"
     }
   ],
   "unique_name": "Lou\u00e7a Infinita",

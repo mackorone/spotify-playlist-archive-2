@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 
 > This is Summer Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,044 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,055 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 | 10 | [Always \(feat\. Summer Walker\) \- Bonus](https://open.spotify.com/track/6537jhwnXegjdXhLqorbjE) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 3:42 |
 | 11 | [Just Might \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/43IMaycr34ZR5kS8mlL5hH) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:25 |
 | 12 | [Deep](https://open.spotify.com/track/3LfHBTYZBTqmz43tvVXJBd) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 1:32 |
-| 13 | [Finally Over It](https://open.spotify.com/track/4dlFGIn5KP6AaCZSujM7cj) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:23 |
-| 14 | [To Summer, From Cole \- Audio Hug](https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 2:27 |
+| 13 | [To Summer, From Cole \- Audio Hug](https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 2:27 |
+| 14 | [Finally Over It](https://open.spotify.com/track/4dlFGIn5KP6AaCZSujM7cj) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:23 |
 | 15 | [Tonight](https://open.spotify.com/track/1qC6px1TOZgQFoTSOFUaBr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:56 |
 | 16 | [CPR](https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:23 |
 | 17 | [Eleven \(feat\. Summer Walker\)](https://open.spotify.com/track/18O00Y7yrkJ0pRXm1n21Og) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Eleven \(feat\. Summer Walker\)](https://open.spotify.com/album/27JROxwlU2KnOg1Kgp8Wak) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 | 49 | [How Sway \(with SAILORR\)](https://open.spotify.com/track/7Jx99doIpK62aedrblVeMB) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:13 |
 | 50 | [SWV \(with NO1\-NOAH\)](https://open.spotify.com/track/4ii5S0UcGpdAANl098llgB) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:02 |
 
-Snapshot ID: `ao9+AAAAAACzt+EaWntfwtXNhNEDrNkV`
+Snapshot ID: `apDPgAAAAAAkY6vNQFazH+2DVuwhj2p2`

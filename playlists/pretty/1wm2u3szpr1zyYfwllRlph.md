@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1wm2u3szpr1zyYfwllRlph.md) - [plain]
 
 > Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Lost Frequencies
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 53,459 likes - 100 songs - 5 hr 11 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 53,457 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/1wm2u3szpr1zyYfwllRlph.md) - [plain]
 | 36 | [Stay](https://open.spotify.com/track/1DdmIbutzUGXkktMTkyWYh) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Stay](https://open.spotify.com/album/1w9B74tuel6NHRQplSYx3a) | 2:56 |
 | 37 | [Miss That \(Major League DJz & Piero Farho Remix\)](https://open.spotify.com/track/34IHtqjGPDBTpkR8Qq90LK) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Piero Farho](https://open.spotify.com/artist/52LDi8vYmgfoiEaTBWCWSh) | [Miss That \(Major League DJz & Piero Farho Remix\)](https://open.spotify.com/album/3ZfqTXWUvQNlVCXhmVdOlv) | 5:58 |
 | 38 | [Club Bizarre](https://open.spotify.com/track/2hhDb4rGCJTigdadpRL30x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe), [Alex Christensen](https://open.spotify.com/artist/2NbYIb2nZ2Z8YORBCbugPq) | [Club Bizarre](https://open.spotify.com/album/5GsgYaGtwa2rvmA7knroD4) | 2:47 |
-| 39 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 |
+| 39 | [Black Friday \- pretty like the sun](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 |
 | 40 | [Just The Way You Are](https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Just The Way You Are](https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y) | 2:39 |
 | 41 | [Pulling Me Back](https://open.spotify.com/track/055xwGslsVRd40NwsOrj5I) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Pulling Me Back](https://open.spotify.com/album/3eBm6Mn7LwLSeFhd1Q1nRi) | 2:32 |
 | 42 | [It's Not Right But It's Okay](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [It's Not Right But It's Okay](https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO) | 2:32 |

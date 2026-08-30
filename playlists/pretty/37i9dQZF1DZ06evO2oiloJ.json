@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 255358,
+  "num_followers": 255395,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAAD2WNp/fRgKNqkAMMCbFir",
+  "snapshot_id": "apDPgAAAAAAB9c63gipLhf8hzu8eOPnp",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD",
-        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 159669,
-      "name": "Heart On Ice",
-      "url": "https://open.spotify.com/track/591ks2A0o7ratTpiRdI7M6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pray 4 Love",
         "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 169453,
       "name": "Dark Clouds",
       "url": "https://open.spotify.com/track/5s8a3reYfth5IIqIJMtx40"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 159669,
+      "name": "Heart On Ice",
+      "url": "https://open.spotify.com/track/591ks2A0o7ratTpiRdI7M6"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shooting Star",
-        "url": "https://open.spotify.com/album/14qCy7dx554jMsZuf8braG"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 183850,
-      "name": "Shooting Star",
-      "url": "https://open.spotify.com/track/6D1SdwPIbc6mmLVZqJr4m7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Voice of the Heroes",
         "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 235014,
       "name": "Rich Off Pain (feat. Rod Wave)",
       "url": "https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shooting Star",
+        "url": "https://open.spotify.com/album/14qCy7dx554jMsZuf8braG"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 183850,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/6D1SdwPIbc6mmLVZqJr4m7"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Lap",
-        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 147749,
-      "name": "Passport Junkie",
-      "url": "https://open.spotify.com/track/5srHQMMvaXT2S3nXy1jq6g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SoulFly (Deluxe Version)",
         "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 205714,
       "name": "2019",
       "url": "https://open.spotify.com/track/5uDCagy7HnW0b3qBHfaOAO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Lap",
+        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 147749,
+      "name": "Passport Junkie",
+      "url": "https://open.spotify.com/track/5srHQMMvaXT2S3nXy1jq6g"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Mind",
-        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
+        "name": "Leavin",
+        "url": "https://open.spotify.com/album/3vz6TtkNMj2rdOIsJsTA3I"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 194050,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/5gUiTylvifZnUrynE4FFPu"
+      "duration_ms": 168791,
+      "name": "Leavin",
+      "url": "https://open.spotify.com/track/7Lo6USa0PiDkwSL3SkohSi"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leavin",
-        "url": "https://open.spotify.com/album/3vz6TtkNMj2rdOIsJsTA3I"
+        "name": "Beautiful Mind",
+        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
       },
       "artists": [
         {
@@ -436,25 +436,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 168791,
-      "name": "Leavin",
-      "url": "https://open.spotify.com/track/7Lo6USa0PiDkwSL3SkohSi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SoulFly",
-        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 161018,
-      "name": "Gone Till November",
-      "url": "https://open.spotify.com/track/2LTJYsWOqsjntJpRy2HpY6"
+      "duration_ms": 194050,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/5gUiTylvifZnUrynE4FFPu"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
       "duration_ms": 195668,
       "name": "Angel With An Attitude",
       "url": "https://open.spotify.com/track/2gUEB9jSU0HZhLJIYffeQn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SoulFly",
+        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 161018,
+      "name": "Gone Till November",
+      "url": "https://open.spotify.com/track/2LTJYsWOqsjntJpRy2HpY6"
     },
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last Slimeto",
-        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 141166,
-      "name": "Home Ain't Home (feat. Rod Wave)",
-      "url": "https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Lap",
         "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 163074,
       "name": "Lost In Love (feat. Be Charlotte)",
       "url": "https://open.spotify.com/track/593a80uHcKk6zlG9uecQ53"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last Slimeto",
+        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 141166,
+      "name": "Home Ain't Home (feat. Rod Wave)",
+      "url": "https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Mind",
-        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 174750,
-      "name": "Sweet Little Lies",
-      "url": "https://open.spotify.com/track/0qjoeS8gwEFqf0ju66ledI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Lap",
         "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 163080,
       "name": "Ribbon In The Sky",
       "url": "https://open.spotify.com/track/6jrIg0liFANIULoHFOOeX0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautiful Mind",
+        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 174750,
+      "name": "Sweet Little Lies",
+      "url": "https://open.spotify.com/track/0qjoeS8gwEFqf0ju66ledI"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SoulFly",
-        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 185073,
-      "name": "OMDB",
-      "url": "https://open.spotify.com/track/7Aece36KsB5z5EskkAoFp4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pray 4 Love",
         "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 168586,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/0EVG3d1RVbJjYh43fQDcR9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SoulFly",
+        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 185073,
+      "name": "OMDB",
+      "url": "https://open.spotify.com/track/7Aece36KsB5z5EskkAoFp4"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SoulFly",
-        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 178853,
-      "name": "What's Love??",
-      "url": "https://open.spotify.com/track/4NWJN6qnlOwHmMfOhrC5qZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Westside Connection",
         "url": "https://open.spotify.com/album/5e94NMKRQi00VBepoyo3hG"
       },
@@ -751,6 +735,42 @@
       "duration_ms": 164129,
       "name": "Westside Connection",
       "url": "https://open.spotify.com/track/5MB3ujdz0ChivX9yuyR36Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Look Down",
+        "url": "https://open.spotify.com/album/1aTbw1kHvPGTPWratpM5io"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 159041,
+      "name": "Venusian",
+      "url": "https://open.spotify.com/track/7ivZd4Idu0GRckE7UIzM7d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SoulFly",
+        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 178853,
+      "name": "What's Love??",
+      "url": "https://open.spotify.com/track/4NWJN6qnlOwHmMfOhrC5qZ"
     },
     {
       "added_at": null,
@@ -791,6 +811,22 @@
       "duration_ms": 235987,
       "name": "Rags2Riches 2 (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Look Down",
+        "url": "https://open.spotify.com/album/1aTbw1kHvPGTPWratpM5io"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 192576,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/6uzm4ndjno6GuwRb2Kjeo9"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 
 > The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,888 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,911 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 73 | [El árbol de la horca](https://open.spotify.com/track/2ZN3h7KZgmjF7AMgTL6miJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Corridos bien Pesados para la Bohemia](https://open.spotify.com/album/3nG2ti1HDXSb8ANhXSaupS) | 3:47 |
 | 74 | [El Ultimo Cartucho](https://open.spotify.com/track/3khgsGxNwXijlqyStMvpfh) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:21 |
 | 75 | [Corrido de los Pérez](https://open.spotify.com/track/7rCFnAMjSx3NHJRTR4PijK) | [Los Viejones De Linares](https://open.spotify.com/artist/48f1Wox7CUiX1nDfzgonjW) | [Corridos Famosos](https://open.spotify.com/album/4ATvggsNK4AaZNpare9Tjd) | 3:58 |
-| 76 | [la carga blanca](https://open.spotify.com/track/0E1zqbwu7dZlzrBYBuYnPE) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [CORRIDOS DE CONTRABANDO \(Remastered\)](https://open.spotify.com/album/2n5kAvHsATHI1DblHoBC3s) | 3:18 |
-| 77 | [Un Cruzado en Palestina](https://open.spotify.com/track/3HWKUvYb8H47YIKOghzPcR) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 3](https://open.spotify.com/album/3V5dyQJDa6oQTZzeRf6eNL) | 5:38 |
+| 76 | [Un Cruzado en Palestina](https://open.spotify.com/track/3HWKUvYb8H47YIKOghzPcR) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 3](https://open.spotify.com/album/3V5dyQJDa6oQTZzeRf6eNL) | 5:38 |
+| 77 | [la carga blanca](https://open.spotify.com/track/0E1zqbwu7dZlzrBYBuYnPE) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [CORRIDOS DE CONTRABANDO \(Remastered\)](https://open.spotify.com/album/2n5kAvHsATHI1DblHoBC3s) | 3:18 |
 | 78 | [El Deportado](https://open.spotify.com/track/4HXYP6cpEuJO7ikYR1jMJu) | [Los terribles Del Norte](https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT) | [El Deportado \(Grabación Original Remasterizada\)](https://open.spotify.com/album/15hBTdcPr7Q1DFG9wVtyJq) | 2:48 |
 | 79 | [Pakas De A Kilo](https://open.spotify.com/track/3qCcaEfYemFDg1T1qCGUUD) | [El Halcon De La Sierra](https://open.spotify.com/artist/1KdzlfS9Fli0fwzE2oc9GU) | [El Mero Chaka](https://open.spotify.com/album/3mFKkfROmn7VUiZq3y7f5Q) | 2:24 |
 | 80 | [Paso del norte](https://open.spotify.com/track/4Nq6fPnW3hGWolYhevaopV) | [Los Broncos de Reynosa](https://open.spotify.com/artist/3fzjCvgvfaez28s4JTabRS) | [Exitos de Los Broncos de Reynosa](https://open.spotify.com/album/3WuRR3ZB1IFPuDG4pyWdHT) | 2:54 |

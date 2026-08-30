@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,700 songs - 10 day 13 hr 26 min
+4,703 songs - 10 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [Amore Senza Confini \(another\)](https://open.spotify.com/track/4tv7aEH8yVaAqDMN3VdyHK) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Italian Music vol.2](https://open.spotify.com/album/24QXnweJJo4OYCzxaYW6pq) | 2:42 | 2025-09-18 |  |
 | [Amore Senza Confini \(another\)](https://open.spotify.com/track/0fvCDzTHbSom8KIpgnMqvw) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Italian Music](https://open.spotify.com/album/0P7EboV1NMbmK6iX5ALFyS) | 4:00 | 2025-09-18 |  |
 | [Amore senza tempo](https://open.spotify.com/track/7hf3uPcmDQGWycWHGI7Xi8) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Canzoni d'amore in italiano](https://open.spotify.com/album/5HmX06Lu08Qs5pFbYVpY59) | 2:14 | 2025-06-09 |  |
-| [AMORE TOSSICO](https://open.spotify.com/track/0UbIJmeRprRmRPv94p2uT3) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [AMORE TOSSICO](https://open.spotify.com/album/5BSZRgwmAh7DjBXZGoWbpJ) | 3:36 | 2025-04-04 |  |
+| [AMORE TOSSICO](https://open.spotify.com/track/0UbIJmeRprRmRPv94p2uT3) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [AMORE TOSSICO](https://open.spotify.com/album/5BSZRgwmAh7DjBXZGoWbpJ) | 3:36 | 2025-04-04 | 2026-08-30 |
 | [Amore Tossico](https://open.spotify.com/track/0rvqEQjx40rbK9VtYzFxnf) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Lo Scommettitore](https://open.spotify.com/album/5IfnJZpGKhohKV3yjQUuc0) | 3:36 | 2025-04-04 |  |
 | [Amore tossico](https://open.spotify.com/track/6MgpU9vEh9ti6S9ZfBMyau) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [1825](https://open.spotify.com/album/6VISv9AIaSbaaVpGafOaGx) | 3:36 | 2025-06-08 |  |
 | [Amore Virale](https://open.spotify.com/track/4WbSJR9NdfW44vcqQ6xEh7) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Playlist Italia 2025](https://open.spotify.com/album/6DUX6UOq97rQeTwOKXGzKM) | 2:54 | 2025-09-12 |  |
@@ -569,6 +569,7 @@
 | [camel](https://open.spotify.com/track/0ZJ0v5iMNNnrW0OjTft0Ne) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [FROM DOLMEN TO STONANGE \(Deleted\)](https://open.spotify.com/album/1WKaTJGDIA5YgdaMESyi3m) | 3:14 | 2026-02-01 |  |
 | [camel](https://open.spotify.com/track/52KMSEi0krvsD9rYRmcVQ0) | [ian3celia](https://open.spotify.com/artist/30022KpFyikBjT2dvQ1dHU) | [From dolmen to stonehenge](https://open.spotify.com/album/2DWREFYzrdkMdMLHtmeSpf) | 3:14 | 2026-02-01 |  |
 | [CAMERAS](https://open.spotify.com/track/65Qt4R7sbHwKOL7qUzvd8I) | [Igwe Aka](https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI) | [CAMERAS](https://open.spotify.com/album/1x9tMnt0clwEKkATGR4J5u) | 1:51 | 2025-07-28 |  |
+| [Caminos libres](https://open.spotify.com/track/66CjDz3PkY2ALbNpQPA15v) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 3:42 | 2026-08-29 |  |
 | [can you?](https://open.spotify.com/track/01Q9aPL1XR6UKuwwkpf63P) | [Spectr4l](https://open.spotify.com/artist/0NjArNlxoU8zpBuQW3wnxQ) | [AFTERLIFE](https://open.spotify.com/album/1g1ICp42ZFrRU49HoZ6sIg) | 2:19 | 2025-07-13 |  |
 | [Can't Deal](https://open.spotify.com/track/3HAYqVV6pik5cE73O9m6Xm) | [Infuriate Souls](https://open.spotify.com/artist/4kGaDNHuSf9oJkmVxF370j) | [Infuriate Souls](https://open.spotify.com/album/4cNOmUdpfzp0bohouJRi6X) | 3:16 | 2026-02-18 |  |
 | [Can't get enough](https://open.spotify.com/track/5tSKv5MADPzOAkMMXjnyXp) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [M.I.A](https://open.spotify.com/album/5QhTvdYyeFXWGdgCCScKQu) | 1:43 | 2026-01-17 |  |
@@ -1900,6 +1901,7 @@
 | [Hold On](https://open.spotify.com/track/2MgRsq3PLtGVqex5MkBlUD) | [Belle Sisoski](https://open.spotify.com/artist/1bNd6DQP6ZstuJ2FsFQO6a) | [Hold On](https://open.spotify.com/album/273VxdJ35wo36poWBhxVUg) | 5:36 | 2025-12-04 |  |
 | [Hold On Til You Let Go](https://open.spotify.com/track/6li8lh8OCA9msg7mZUP2FS) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE), [Roseburg](https://open.spotify.com/artist/33zgUwcmU9iZl1QNmprEyO), [YesterKid](https://open.spotify.com/artist/13Iz4aO74JwHOI04cKWlum), [Cinders](https://open.spotify.com/artist/3kbFTAkkC68vVXA87WHDS4), [Drusky](https://open.spotify.com/artist/4PHUpf9OtF3WaHTeZ6thl4) | [Hold On Til You Let Go](https://open.spotify.com/album/1BXaEV0oVzH4Uch6fuClSf) | 3:02 | 2025-05-23 |  |
 | [Holding On Love](https://open.spotify.com/track/1nd9NzkQKI3KHW19xLKCad) | [PUGO](https://open.spotify.com/artist/5P2osTcHMMIZ9RZYQFOYmZ) | [Holding On Love](https://open.spotify.com/album/7rGUG91y5kA89rnJnGL9t0) | 2:49 | 2025-07-25 |  |
+| [Holding onto little things](https://open.spotify.com/track/1hVRpRGxYzrRZnZrqEoKNd) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [The Electric Guitar Monument](https://open.spotify.com/album/4GFENOuE6IiYQykIx8URDf) | 3:25 | 2026-08-29 |  |
 | [Hole in Half](https://open.spotify.com/track/5uDzeJozN3o6y7TN5avkVV) | [Automatic Dead Drive](https://open.spotify.com/artist/65cffZYZPzqFHODis10F3B) | [Hole in Half](https://open.spotify.com/album/3NMWceqAHx7omRe1HMovqq) | 3:25 | 2026-01-04 |  |
 | [Holiday Grooves](https://open.spotify.com/track/5egzQXnnJfzSzldgGlEt1M) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for Christmas 2024](https://open.spotify.com/album/2MwuASrFOvLC9vJ7MTc8Yw) | 3:40 | 2025-09-17 |  |
 | [Holiday Grooves \(another\)](https://open.spotify.com/track/6xBusa0PktrI1IgdyOimFs) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for Christmas 2024](https://open.spotify.com/album/2MwuASrFOvLC9vJ7MTc8Yw) | 2:12 | 2025-09-17 |  |
@@ -2069,6 +2071,7 @@
 | [inthej](https://open.spotify.com/track/2kvANa2pnrrPxOUEjczuUx) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [inthej](https://open.spotify.com/album/2QUpX5PFxU2pCmW88hoPZL) | 1:49 | 2025-07-28 |  |
 | [Into The Blue](https://open.spotify.com/track/04kVji4fpgDPUwrw841PP8) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Sunrise EP](https://open.spotify.com/album/7JDicUKhX8bbuQxM0xxW2J) | 3:09 | 2025-10-09 |  |
 | [Into the Light](https://open.spotify.com/track/2uSrnTz814j3j0Xya0cCyl) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [New Age Relax](https://open.spotify.com/album/5RiMWmGi4npP6fcQJkVk8t) | 3:56 | 2025-09-19 |  |
+| [Into The Light](https://open.spotify.com/track/4XXJ6FatlWmezqQiv8u6KG) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Into The Light](https://open.spotify.com/album/4Zxntf7XGEkNtTvXcIc3dd) | 3:31 | 2026-08-29 |  |
 | [Into the Light \(another\)](https://open.spotify.com/track/1h9JCstjzdJRZ1Qvr8ntpk) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [New Age Relax](https://open.spotify.com/album/5RiMWmGi4npP6fcQJkVk8t) | 2:29 | 2025-09-19 |  |
 | [Into the Open Sky](https://open.spotify.com/track/0TYcWwO1bIGeneetZNO8Ei) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [New Music](https://open.spotify.com/album/66FfQzVqvA99zoTDlgmrqO) | 2:45 | 2025-09-19 |  |
 | [Into the Open Sky \(another\)](https://open.spotify.com/track/5gvks6u83FJHu9vTGK1vqV) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [New Music](https://open.spotify.com/album/66FfQzVqvA99zoTDlgmrqO) | 2:11 | 2025-09-19 |  |
@@ -3328,7 +3331,7 @@
 | [Riding the Waves](https://open.spotify.com/track/3lxKZlfSvw1gSDCBoWIlT7) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Contemporary New Wave](https://open.spotify.com/album/032BuKEVgSbHk3EPcbSZQc) | 3:19 | 2025-09-19 |  |
 | [Riding the Waves \(another\)](https://open.spotify.com/track/6TDSR8kgCz5q7Q62plYaPU) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Contemporary New Wave](https://open.spotify.com/album/032BuKEVgSbHk3EPcbSZQc) | 3:34 | 2025-09-19 |  |
 | [Riempimi la vita](https://open.spotify.com/track/59XiXSJSwRSwlwjVy9tWEJ) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Riempimi la vita](https://open.spotify.com/album/08JDaT5uRu1XPhiSNFCotH) | 4:20 | 2026-08-13 |  |
-| [Riffle gun](https://open.spotify.com/track/180XhecKAAcAiMDFb1wwJt) | [Mirror Vain](https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7) | [Riffle gun](https://open.spotify.com/album/0lkcmLr2UtipAk2VyEBkLY) | 2:56 | 2025-07-26 |  |
+| [Riffle gun](https://open.spotify.com/track/180XhecKAAcAiMDFb1wwJt) | [Mirror Vain](https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7) | [Riffle gun](https://open.spotify.com/album/0lkcmLr2UtipAk2VyEBkLY) | 2:56 | 2025-07-26 | 2026-08-30 |
 | [rifle crew](https://open.spotify.com/track/5JL77p8CYEt7vHEBS9eyVB) | [sniper2004](https://open.spotify.com/artist/7EjJ8vM2BQi4Oxrxm2ytYT) | [i wanna be a sniperrrrr](https://open.spotify.com/album/3hqf7upVvfJhXJDgBfmBMq) | 2:03 | 2025-07-28 |  |
 | [Riflesso di me](https://open.spotify.com/track/5jXmMokEYA03s3KYMg9lUB) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Riflesso di me](https://open.spotify.com/album/1ZMzareBq5KUc7C89dbAMH) | 3:22 | 2026-01-31 |  |
 | [Right Foot](https://open.spotify.com/track/6n2oGIs0n0O97RLXRBy0py) | [TheOtherGuyz](https://open.spotify.com/artist/7JYdSgTEAuN5lW87o8y0QZ) | [Right Foot](https://open.spotify.com/album/2XSyRXxcqK4RHDm7ziTraM) | 5:06 | 2025-08-06 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: Silica Gel",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: The Warning",
   "name": "Rock The World",
   "tracks": [
     {
@@ -4076,7 +4076,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 182986,
       "name": "better",
       "url": "https://open.spotify.com/track/684aK3J9TN158J2DTPJwok"
@@ -4432,6 +4432,24 @@
       "duration_ms": 199095,
       "name": "Birthday Party - Party In The U.S.A. Remix",
       "url": "https://open.spotify.com/track/5vQnarnUG2YuCMU54xtj7X"
+    },
+    {
+      "album": {
+        "name": "Everything\u2019s Falling",
+        "url": "https://open.spotify.com/album/0YJACBRXuL7jthY9RBtlS5"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Bite My Tongue",
+      "url": "https://open.spotify.com/track/414NTfPwNeMYTPLIICa2CH"
     },
     {
       "album": {
@@ -9910,7 +9928,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 217000,
       "name": "Dimly Lit Cadaver",
       "url": "https://open.spotify.com/track/68kd3bIMh83qorfcD0u8f6"
@@ -11216,7 +11234,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 220480,
       "name": "EDGE OF VEGAS",
       "url": "https://open.spotify.com/track/0pBqWYVX7xbxIRdcI2RxW5"
@@ -11783,6 +11801,24 @@
     },
     {
       "album": {
+        "name": "GOTTA GET OUT",
+        "url": "https://open.spotify.com/album/3mzfWcRxRWAstm92UwJ9td"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280082,
+      "name": "Everybody Told Me",
+      "url": "https://open.spotify.com/track/5X913iypPGaXfBAFDYVwyN"
+    },
+    {
+      "album": {
         "name": "King Falcon",
         "url": "https://open.spotify.com/album/6zEu0MDY9o0x1dyOnzTid1"
       },
@@ -11834,6 +11870,24 @@
       "duration_ms": 195229,
       "name": "Everyone\u2019s A Star!",
       "url": "https://open.spotify.com/track/0pcU4T0Gz8XUobyjdoWb6f"
+    },
+    {
+      "album": {
+        "name": "There Near",
+        "url": "https://open.spotify.com/album/4x9eupWjvX2qpy7pAgPAQE"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Jr.",
+          "url": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253556,
+      "name": "Everything At Once",
+      "url": "https://open.spotify.com/track/5Hwv7ZHrkqqNUe5FpKJRf8"
     },
     {
       "album": {
@@ -13182,7 +13236,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 214464,
       "name": "Flight Path",
       "url": "https://open.spotify.com/track/0XiJyhqf5EpBkCXydRUBdk"
@@ -14678,7 +14732,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 286120,
       "name": "Godspeed!",
       "url": "https://open.spotify.com/track/4PgHTCD1Qgs3i45JSr0Job"
@@ -16282,7 +16336,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 265949,
       "name": "hikari",
       "url": "https://open.spotify.com/track/1UmEFz347F6ZM2eluys3vK"
@@ -16420,6 +16474,28 @@
       "duration_ms": 229437,
       "name": "Hold Me Up (Thank You)",
       "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
+    },
+    {
+      "album": {
+        "name": "Holding Cell",
+        "url": "https://open.spotify.com/album/55fuxVQfDxNfZSt22xoUwN"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        },
+        {
+          "name": "Ambrose Kenny-Smith",
+          "url": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179373,
+      "name": "Holding Cell",
+      "url": "https://open.spotify.com/track/3Eqllh5NI6t00WAlfgSrAo"
     },
     {
       "album": {
@@ -16716,7 +16792,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 203424,
       "name": "HOPE",
       "url": "https://open.spotify.com/track/0gBfHrAHah7hoyWiOHSNia"
@@ -18723,6 +18799,24 @@
     },
     {
       "album": {
+        "name": "Insignificant Other",
+        "url": "https://open.spotify.com/album/2eoTB4LtFdMkPNDVT88Vib"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353666,
+      "name": "Insignificant Other",
+      "url": "https://open.spotify.com/track/3NdLNUPkumBUIcacNxPlVE"
+    },
+    {
+      "album": {
         "name": "INSOMNIAC",
         "url": "https://open.spotify.com/album/2e59EpMeBgRjNL4dcAXzB3"
       },
@@ -18882,7 +18976,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 250000,
       "name": "Iron City",
       "url": "https://open.spotify.com/track/7o9gwmscHBXh6sUEYkWQ4e"
@@ -19012,6 +19106,24 @@
       "duration_ms": 212086,
       "name": "It's Supposed To Hurt",
       "url": "https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT"
+    },
+    {
+      "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/4SFaTZZOEnuGRVNvhugVBg"
+      },
+      "artists": [
+        {
+          "name": "Johnny Marr",
+          "url": "https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247373,
+      "name": "It's Time",
+      "url": "https://open.spotify.com/track/75zo79uZOzksHPyf6OX8D0"
     },
     {
       "album": {
@@ -19376,7 +19488,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 183000,
       "name": "Joyce Kilmer Service Area",
       "url": "https://open.spotify.com/track/287HIlovgFFLZJjDkU05R6"
@@ -20231,6 +20343,28 @@
     },
     {
       "album": {
+        "name": "KoK",
+        "url": "https://open.spotify.com/album/19D2E2n4tigW6HVZKfJgCU"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        },
+        {
+          "name": "Yu Su",
+          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 506773,
+      "name": "KoK",
+      "url": "https://open.spotify.com/track/0FkaSDPSLyOHFsFAWsB6ef"
+    },
+    {
+      "album": {
         "name": "Kon! Kon! (feat. Bloodywood)",
         "url": "https://open.spotify.com/album/15RUsiYzHzWFxCZqKjnW4T"
       },
@@ -20560,6 +20694,24 @@
       "duration_ms": 255942,
       "name": "Last Night On Earth - Single Version / Remastered 2024",
       "url": "https://open.spotify.com/track/7Ctp5UnoabCQ9MLG6v8eKw"
+    },
+    {
+      "album": {
+        "name": "Lazy (Radio 1 Evening Session 29th August 1996)",
+        "url": "https://open.spotify.com/album/56WUx1G8GJmDltKCZKgAPb"
+      },
+      "artists": [
+        {
+          "name": "Suede",
+          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198626,
+      "name": "Lazy (Radio 1 Evening Session 29th August 1996)",
+      "url": "https://open.spotify.com/track/4nYPPsoi2NOZjOxvEVOmBk"
     },
     {
       "album": {
@@ -21514,7 +21666,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 175932,
       "name": "Lockjaw",
       "url": "https://open.spotify.com/track/7CWxtMJ6qjMhbPsMTdz3TK"
@@ -22888,7 +23040,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 224306,
       "name": "meaning",
       "url": "https://open.spotify.com/track/23rFnCXBIlKpxuKSorAyeL"
@@ -23484,7 +23636,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 192972,
       "name": "Molecular Gastronomy",
       "url": "https://open.spotify.com/track/2931vEcoEFWljb7Xas1ASK"
@@ -28023,6 +28175,32 @@
     },
     {
       "album": {
+        "name": "POISON feat. Bert McCracken (The Used)",
+        "url": "https://open.spotify.com/album/1a2lPzj5stWhiIOnftpyGD"
+      },
+      "artists": [
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "Bert McCracken",
+          "url": "https://open.spotify.com/artist/7rEzlkwGjVgUXbWi0kDEAA"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "POISON feat. Bert McCracken (The Used)",
+      "url": "https://open.spotify.com/track/35N1r1X3vzTs5hIk42SPBR"
+    },
+    {
+      "album": {
         "name": "Poison Pill",
         "url": "https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca"
       },
@@ -30772,7 +30950,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 178866,
       "name": "Schr\u00f6dinger",
       "url": "https://open.spotify.com/track/3EQTiUIFIxvzJqXyXyjTT1"
@@ -30981,6 +31159,28 @@
     },
     {
       "album": {
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253520,
+      "name": "SEEIN\u2019 STARS: ELTON JOHN VERSION",
+      "url": "https://open.spotify.com/track/3lCQJyHHzQNVkFptuEioPx"
+    },
+    {
+      "album": {
         "name": "Dark Rainbow",
         "url": "https://open.spotify.com/album/4pU6rQzlCfTrSxous1m7CK"
       },
@@ -31050,6 +31250,24 @@
       "duration_ms": 191872,
       "name": "Sentiments",
       "url": "https://open.spotify.com/track/1RV7iXLe9Ydh9J9MiXtOLm"
+    },
+    {
+      "album": {
+        "name": "serena joy",
+        "url": "https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185838,
+      "name": "serena joy",
+      "url": "https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9"
     },
     {
       "album": {
@@ -34380,7 +34598,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 375642,
       "name": "Swallowed By The World",
       "url": "https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9"
@@ -34880,6 +35098,24 @@
       "duration_ms": 156874,
       "name": "Tea On The Kettle",
       "url": "https://open.spotify.com/track/60nHhF2dqeYxbqyZr4X59o"
+    },
+    {
+      "album": {
+        "name": "I Must Be Dreaming",
+        "url": "https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226915,
+      "name": "Tea Time",
+      "url": "https://open.spotify.com/track/31GAlUeCLW7X2wabzWaCYM"
     },
     {
       "album": {
@@ -35928,6 +36164,24 @@
       "duration_ms": 236720,
       "name": "The Rider",
       "url": "https://open.spotify.com/track/0By1Ubg8IXu0JaMUZyDIWB"
+    },
+    {
+      "album": {
+        "name": "THE RISING TIDE / KEEPS ME ALIVE",
+        "url": "https://open.spotify.com/album/5jfY4l1ZadvvYneqsQA38T"
+      },
+      "artists": [
+        {
+          "name": "ILLAN KAAPAN",
+          "url": "https://open.spotify.com/artist/1pMwGxFxWKzqkHHgaYrpZ4"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143177,
+      "name": "THE RISING TIDE",
+      "url": "https://open.spotify.com/track/3JDqHduzsN6uxm0pkM6GK2"
     },
     {
       "album": {
@@ -39697,6 +39951,32 @@
     },
     {
       "album": {
+        "name": "Honest Feeling Album",
+        "url": "https://open.spotify.com/album/1rFjHmhhhlTzz9uzPqZuBU"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        },
+        {
+          "name": "HaHa And The Hairpins",
+          "url": "https://open.spotify.com/artist/1ruD7LPCd8uwJNppN5oaEs"
+        },
+        {
+          "name": "Accorinrin",
+          "url": "https://open.spotify.com/artist/4YagenQ7jsaka5ZP5wCzaV"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143702,
+      "name": "Why The Hell Do I Have To Say Everything From One To Ten Each Time Each Time Each Time Each Time",
+      "url": "https://open.spotify.com/track/20TzDBXQaSd7kqmovMCMma"
+    },
+    {
+      "album": {
         "name": "Wasteland, Baby! (Special Edition)",
         "url": "https://open.spotify.com/album/4qpvDzPCm5PLNLNINaEWM5"
       },
@@ -40356,6 +40636,28 @@
       "duration_ms": 201000,
       "name": "Yamato",
       "url": "https://open.spotify.com/track/4YNQelHwc7eqjrliWoSh2g"
+    },
+    {
+      "album": {
+        "name": "Yeah, Yeah, Yeah, Yeah, Yeah",
+        "url": "https://open.spotify.com/album/4NG6QjqKiqupWuhAarIetU"
+      },
+      "artists": [
+        {
+          "name": "Shane MacGowan",
+          "url": "https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv"
+        },
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204690,
+      "name": "Yeah, Yeah, Yeah, Yeah, Yeah",
+      "url": "https://open.spotify.com/track/2VuEb6YN562K3WlWta87zf"
     },
     {
       "album": {
@@ -41452,7 +41754,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 201920,
       "name": "\u4e00\u9032",
       "url": "https://open.spotify.com/track/78W5EXNzK3p9Rv2pesRCiW"

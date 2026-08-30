@@ -993,6 +993,28 @@
     },
     {
       "album": {
+        "name": "Out My Face (My Baby) (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/0myqS8XRIGw3RYHfmuwF7Y"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203910,
+      "name": "Out My Face (My Baby) (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/124asPU2FC370O180KQPQi"
+    },
+    {
+      "album": {
         "name": "Phat Butt",
         "url": "https://open.spotify.com/album/13lNTRScGj4CVAYszzxioi"
       },

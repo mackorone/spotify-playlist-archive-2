@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 36240,
+  "num_followers": 36256,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAABmrq+NcvZMzz/2DPEKm1G9",
+  "snapshot_id": "apDPgAAAAADRJr/fX+PrFNWruSrKfLJQ",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paper Umbrellas",
-        "url": "https://open.spotify.com/album/1alHcx2t1SKjGgF4P9Q0pz"
+        "name": "Hollywood Gold",
+        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
       },
       "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 209968,
-      "name": "Paper Umbrellas",
-      "url": "https://open.spotify.com/track/52MQYkbFuv9UzA8wz927xO"
+      "duration_ms": 221986,
+      "name": "Hallie Ray Light",
+      "url": "https://open.spotify.com/track/3jSe4YNN2wloL5eI6j1yty"
     },
     {
       "added_at": null,
@@ -671,18 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hollywood Gold",
-        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
+        "name": "Paper Umbrellas",
+        "url": "https://open.spotify.com/album/1alHcx2t1SKjGgF4P9Q0pz"
       },
       "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 221986,
-      "name": "Hallie Ray Light",
-      "url": "https://open.spotify.com/track/3jSe4YNN2wloL5eI6j1yty"
+      "duration_ms": 209968,
+      "name": "Paper Umbrellas",
+      "url": "https://open.spotify.com/track/52MQYkbFuv9UzA8wz927xO"
     },
     {
       "added_at": null,

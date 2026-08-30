@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 
 > This is Los Cadetes De Linares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,572 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,613 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 4 | [Un Viejo Amor](https://open.spotify.com/track/2crKAO9BmgxaCo98HhSAXP) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:40 |
 | 5 | [Prenda Querida](https://open.spotify.com/track/3bTaTy217RmxD0uJHQWcI2) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Los Dos Amigos](https://open.spotify.com/album/6mqogWSSMI2ILayL4oJ73d) | 3:03 |
 | 6 | [El Asesino](https://open.spotify.com/track/1VGeAuxojwsxwvtv610PQX) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Tu Nombre](https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm) | 2:49 |
-| 7 | [Pistoleros Famosos](https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:39 |
-| 8 | [Una Lágrima y Un Recuerdo](https://open.spotify.com/track/1MeNluJL3QMoCuyaMUIpww) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Una Lágrima y Un Recuerdo](https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3) | 2:47 |
+| 7 | [Una Lágrima y Un Recuerdo](https://open.spotify.com/track/1MeNluJL3QMoCuyaMUIpww) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Una Lágrima y Un Recuerdo](https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3) | 2:47 |
+| 8 | [Pistoleros Famosos](https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:39 |
 | 9 | [El Palomito](https://open.spotify.com/track/4GvAD2BDnil27Vd1nnFA60) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Los Dos Amigos](https://open.spotify.com/album/6mqogWSSMI2ILayL4oJ73d) | 3:19 |
 | 10 | [Cruzando el Puente](https://open.spotify.com/track/0kZkbAR95FMFMPomTDUfmA) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Coronas a Mi Madre](https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl) | 2:41 |
 | 11 | [Nomas Las Mujeres Quedan](https://open.spotify.com/track/5HzKotagepRiIhC0af8EqB) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Hijo del Palenque](https://open.spotify.com/album/6IdA7YtdG9xaB1ryP6uzrY) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 49 | [La Discusion Fue Una Yegua](https://open.spotify.com/track/0m0zyyyNNEKXPWSkzU3SHm) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Corridos de Arranque](https://open.spotify.com/album/79RUrWQpAipr8jRffhK4Ez) | 2:47 |
 | 50 | [Un Noble Engaño](https://open.spotify.com/track/6xmQN57KeoivWxIah2OLPg) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Un Noble Engaño](https://open.spotify.com/album/6vPSI7T4CRvX00PpyqLmKO) | 3:03 |
 
-Snapshot ID: `ao9+AAAAAAClQ2v17vQV2pjrVxV7TcIg`
+Snapshot ID: `apDPgAAAAAA2CeeE5xndlRBBXL3BEOw/`

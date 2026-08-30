@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"\nUmamusume: Pretty Derby! \u00a9 Cygames, Inc.",
-  "num_followers": 64448,
+  "num_followers": 64462,
   "original_name": "Umamusume: Pretty Derby",
   "owner": {
     "name": "Spotify",
@@ -1339,30 +1339,6 @@
     {
       "added_at": "2026-08-27 15:00:03",
       "album": {
-        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 11 (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/2in868kwaG4qulhPOSGU8d"
-      },
-      "artists": [
-        {
-          "name": "\u30a6\u30a4\u30cb\u30f3\u30b0\u30c1\u30b1\u30c3\u30c8 (CV. \u6e21\u90e8\u512a\u8863)",
-          "url": "https://open.spotify.com/artist/1yKC4cmXl1vP0XRoPtOCCl"
-        },
-        {
-          "name": "\u30ca\u30ea\u30bf\u30bf\u30a4\u30b7\u30f3 (CV. \u6e21\u90e8\u6075\u5b50)",
-          "url": "https://open.spotify.com/artist/53JcoT7KbEqXVy74mTkvdd"
-        },
-        {
-          "name": "\u30d3\u30ef\u30cf\u30e4\u30d2\u30c7 (CV. \u8fd1\u85e4 \u552f)",
-          "url": "https://open.spotify.com/artist/5GEuPNsUURPOE08y11MZJk"
-        }
-      ],
-      "duration_ms": 320546,
-      "name": "\u6625\u7a7aBLUE - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/3FZh65SbdE0zQpoE3ebtDo"
-    },
-    {
-      "added_at": "2026-08-27 15:00:03",
-      "album": {
         "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 09 (2021 Remastered Version)",
         "url": "https://open.spotify.com/album/5PSYY1VzgdPlCkrcIV4hdi"
       },
@@ -1403,6 +1379,46 @@
     {
       "added_at": "2026-08-27 15:00:03",
       "album": {
+        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 08 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/0vpMeLddwvNZ5neG2OiixY"
+      },
+      "artists": [
+        {
+          "name": "\u30b4\u30fc\u30eb\u30c9\u30b7\u30c1\u30fc (CV. \u9999\u5742\u3055\u304d)",
+          "url": "https://open.spotify.com/artist/1gu7ycwyjZTGDnGLBJt1w2"
+        }
+      ],
+      "duration_ms": 251693,
+      "name": "\u7d20\u9854\u306e\u30b3\u30b3\u30ed - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/0DR97BDr6AAP4sPJA0DjVv"
+    },
+    {
+      "added_at": "2026-08-27 15:00:03",
+      "album": {
+        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 11 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/2in868kwaG4qulhPOSGU8d"
+      },
+      "artists": [
+        {
+          "name": "\u30a6\u30a4\u30cb\u30f3\u30b0\u30c1\u30b1\u30c3\u30c8 (CV. \u6e21\u90e8\u512a\u8863)",
+          "url": "https://open.spotify.com/artist/1yKC4cmXl1vP0XRoPtOCCl"
+        },
+        {
+          "name": "\u30ca\u30ea\u30bf\u30bf\u30a4\u30b7\u30f3 (CV. \u6e21\u90e8\u6075\u5b50)",
+          "url": "https://open.spotify.com/artist/53JcoT7KbEqXVy74mTkvdd"
+        },
+        {
+          "name": "\u30d3\u30ef\u30cf\u30e4\u30d2\u30c7 (CV. \u8fd1\u85e4 \u552f)",
+          "url": "https://open.spotify.com/artist/5GEuPNsUURPOE08y11MZJk"
+        }
+      ],
+      "duration_ms": 320546,
+      "name": "\u6625\u7a7aBLUE - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/3FZh65SbdE0zQpoE3ebtDo"
+    },
+    {
+      "added_at": "2026-08-27 15:00:03",
+      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 02",
         "url": "https://open.spotify.com/album/7vuyl4G8HAAul1jzeKfUNs"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 264653,
       "name": "\u6d99\u3072\u304b\u3063\u3066\u660e\u65e5\u306b\u306a\u308c\uff01",
       "url": "https://open.spotify.com/track/69OVmLUUE7t2iYhqxJe6A8"
-    },
-    {
-      "added_at": "2026-08-27 15:00:03",
-      "album": {
-        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 08 (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/0vpMeLddwvNZ5neG2OiixY"
-      },
-      "artists": [
-        {
-          "name": "\u30b4\u30fc\u30eb\u30c9\u30b7\u30c1\u30fc (CV. \u9999\u5742\u3055\u304d)",
-          "url": "https://open.spotify.com/artist/1gu7ycwyjZTGDnGLBJt1w2"
-        }
-      ],
-      "duration_ms": 251693,
-      "name": "\u7d20\u9854\u306e\u30b3\u30b3\u30ed - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/0DR97BDr6AAP4sPJA0DjVv"
     },
     {
       "added_at": "2026-08-27 15:00:03",

@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-1,049 songs - 2 day 2 hr 28 min
+1,050 songs - 2 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Automatic](https://open.spotify.com/track/1yz6NJ6hXpVvaRbllgXQpI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Automatic](https://open.spotify.com/album/3y0yjUEuag7X0HQSc4aqDF) | 2:56 | 2023-01-20 | 2023-01-28 |
 | [Available](https://open.spotify.com/track/7dxIRBHniuTu8lKYJsTcM5) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws) | [Available](https://open.spotify.com/album/4Zm9Uo3atRc7urLrzvudn0) | 2:39 | 2026-04-24 | 2026-08-01 |
 | [Ave Maria](https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Ave Maria](https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS) | 2:47 | 2024-08-02 | 2024-08-26 |
+| [Away](https://open.spotify.com/track/6Q9DpzGvxP57GD19bUdXOb) | [Billirano](https://open.spotify.com/artist/6Sb1ugPkZ8pwimM3wb378v), [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [Away](https://open.spotify.com/album/33APuT2agLYopTqNvbNAuJ) | 2:50 | 2026-08-28 |  |
 | [Away](https://open.spotify.com/track/7vp8JafiMNyGSNH4vrHogz) | [Cazulee](https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q), [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0) | [Away](https://open.spotify.com/album/38zn2ovgLlxDXUPknFLiAB) | 3:05 | 2025-09-05 | 2025-10-30 |
 | [AWAY](https://open.spotify.com/track/20V2rAm15tqEvhhaqGLAM5) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [AWAY](https://open.spotify.com/album/6JqjSZRSbjgILMHs4PbMLc) | 2:31 | 2026-02-13 | 2026-03-20 |
 | [Away](https://open.spotify.com/track/6gwRyjLzdn1992RpT6sUdb) | [Tmaro](https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd) | [South South Romance: After Hours](https://open.spotify.com/album/2NTNbpQJ74m3GCAK7812ui) | 2:08 | 2026-05-22 | 2026-08-01 |
@@ -433,7 +434,7 @@
 | [I miss you die](https://open.spotify.com/track/7swzo2S4OPXeBmHnSXolVw) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Olayemi](https://open.spotify.com/album/4wIqqlZlsh8cTmyMT2qycY) | 3:20 | 2025-08-01 | 2026-05-29 |
 | [I No Be God](https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [I No Be God](https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw) | 2:18 | 2025-03-21 | 2026-01-15 |
 | [I No Fit Die](https://open.spotify.com/track/1pyPBjAUwnmCu3cROJ6ROL) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [I No Fit Die](https://open.spotify.com/album/1weqTKVEn5JeREhe6vFlv4) | 2:17 | 2024-10-04 | 2024-10-26 |
-| [i think i love you 2](https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [i think i love you 2](https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9) | 2:44 | 2025-03-14 |  |
+| [i think i love you 2](https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [i think i love you 2](https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9) | 2:44 | 2025-03-14 | 2026-08-30 |
 | [i Wey 5000](https://open.spotify.com/track/1M5dFODSjNXQvi374tJt64) | [Uche B](https://open.spotify.com/artist/31pQP1G762IF86wGrd2f3v), [Frontback](https://open.spotify.com/artist/4uuYNKIR4DjaMJCerKYcCD), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [i Wey 5000](https://open.spotify.com/album/4XAUgTFVSRhZALLqYIXoNA) | 2:57 | 2023-04-20 | 2023-05-12 |
 | [I'm Available](https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [I'm Available](https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8) | 3:16 | 2025-11-07 | 2026-07-31 |
 | [I'm Late](https://open.spotify.com/track/1CKF1IRTQ6IpguGRWVuYJ7) | [Loyz](https://open.spotify.com/artist/0talF2YGN6GCxULc9faVSq) | [I'm Late](https://open.spotify.com/album/0uaRB2AQwTbVW5cLaKCZOs) | 2:33 | 2024-01-26 | 2024-02-03 |

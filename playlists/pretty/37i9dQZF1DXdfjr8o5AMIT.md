@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfjr8o5AMIT.md) - [plain]
 
 > The quintessential list of songs to celebrate commencement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,057 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,047 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfjr8o5AMIT.md) - [plain]
 | 13 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 |
 | 14 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 |
 | 15 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 |
-| 16 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 |
-| 17 | [Freakin’ Out](https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Freakin’ Out](https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf) | 3:37 |
+| 16 | [Freakin’ Out](https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Freakin’ Out](https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf) | 3:37 |
+| 17 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 |
 | 18 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 |
 | 19 | [Time of Our Lives](https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:49 |
 | 20 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 |

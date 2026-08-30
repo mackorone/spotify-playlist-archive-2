@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAAcD/Jul8O/+qOnp73N+Ad2",
+  "snapshot_id": "apDPgAAAAADkPJBTJgGSx8BogiKI9QOh",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Feliz De Vez",
+        "url": "https://open.spotify.com/album/1zSWKGWQ3VUPP76F6Ya8RO"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 279475,
+      "name": "Feliz De Vez",
+      "url": "https://open.spotify.com/track/3DrIFTV0EvCGiI4vH38lHm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 416194,
       "name": "Jesus, Meu Primeiro Amor",
       "url": "https://open.spotify.com/track/4DiKminQ3591BMQpmWgZvj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feliz De Vez",
-        "url": "https://open.spotify.com/album/1zSWKGWQ3VUPP76F6Ya8RO"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 279475,
-      "name": "Feliz De Vez",
-      "url": "https://open.spotify.com/track/3DrIFTV0EvCGiI4vH38lHm"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 212137,
-      "name": "Aos Teus P\u00e9s",
-      "url": "https://open.spotify.com/track/0QwjKbaLcj9CgLBGMbkKa3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pra Me Alegrar",
         "url": "https://open.spotify.com/album/58ZfY9CuePCUyHSs5LZjw1"
       },
@@ -555,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
+        "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
       },
       "artists": [
         {
@@ -564,25 +548,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 366461,
-      "name": "Yeshua (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cura-me",
-        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 228948,
-      "name": "Algu\u00e9m",
-      "url": "https://open.spotify.com/track/5ENo74QS0V473XYwZAXt91"
+      "duration_ms": 212137,
+      "name": "Aos Teus P\u00e9s",
+      "url": "https://open.spotify.com/track/0QwjKbaLcj9CgLBGMbkKa3"
     },
     {
       "added_at": null,
@@ -603,6 +571,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 228948,
+      "name": "Algu\u00e9m",
+      "url": "https://open.spotify.com/track/5ENo74QS0V473XYwZAXt91"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 366461,
+      "name": "Yeshua (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sonhos",
         "url": "https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC"
       },
@@ -615,6 +615,42 @@
       "duration_ms": 206657,
       "name": "Seu Lugar",
       "url": "https://open.spotify.com/track/5N4nevHlaNbF5jUNlxUsZo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 314165,
+      "name": "Reden\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4UYh7Ra4xRvIk6G1Z1Zlvy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/67EjXd0XjKBMzlXMm5mpbf"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 496640,
+      "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/74ob8ox5vP0bHKaIyoBTpI"
     },
     {
       "added_at": null,
@@ -691,28 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/67EjXd0XjKBMzlXMm5mpbf"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 496640,
-      "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/74ob8ox5vP0bHKaIyoBTpI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
+        "name": "Meu Bem Maior",
+        "url": "https://open.spotify.com/album/2WdRhfIIk9y1EbZm0TO3ae"
       },
       "artists": [
         {
@@ -720,9 +736,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 314165,
-      "name": "Reden\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4UYh7Ra4xRvIk6G1Z1Zlvy"
+      "duration_ms": 217849,
+      "name": "Meu Bem Maior",
+      "url": "https://open.spotify.com/track/2L45wEZfgukdZIixbyZVA4"
     },
     {
       "added_at": null,
@@ -739,22 +755,6 @@
       "duration_ms": 245481,
       "name": "Cacos Pelo Ch\u00e3o",
       "url": "https://open.spotify.com/track/14Hp6TfLnygHsJEQMhVqhl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meu Bem Maior",
-        "url": "https://open.spotify.com/album/2WdRhfIIk9y1EbZm0TO3ae"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 217849,
-      "name": "Meu Bem Maior",
-      "url": "https://open.spotify.com/track/2L45wEZfgukdZIixbyZVA4"
     },
     {
       "added_at": null,
@@ -947,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yahweh (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1LXAClsJedInbsmLFpr8rJ"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 321023,
-      "name": "Yahweh (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0ky2Ef7jad2YcgqcPKMdqM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre",
         "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 304813,
       "name": "Te Amo Tanto (feat. Fernanda Brum)",
       "url": "https://open.spotify.com/track/1dZmUPNuSob99F8hLnwCfb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yahweh (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1LXAClsJedInbsmLFpr8rJ"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 321023,
+      "name": "Yahweh (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0ky2Ef7jad2YcgqcPKMdqM"
     },
     {
       "added_at": null,

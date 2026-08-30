@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,741 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,730 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 49 | [A Través Del Espejo \(feat\. Kendall Peña & Melanie Espinosa\)](https://open.spotify.com/track/1gCvHsRHayoF9pjScWnbcO) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Lucauy](https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4), [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn), [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [A Través Del Espejo \(feat\. Kendall Peña & Melanie Espinosa\)](https://open.spotify.com/album/2qZv4vmdDS6VnNinS6VgPo) | 3:26 |
 | 50 | [Duerme En Paz](https://open.spotify.com/track/7cWBIjCBlHSC8q6OND9GUz) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Duerme En Paz](https://open.spotify.com/album/63RkToY6nto4dKQDxqgMrG) | 3:04 |
 | 51 | [pero qué cosa](https://open.spotify.com/track/3lIPnDNKdk3NJzRa6EJRlc) | [Fer](https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J) | [pero qué cosa](https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr) | 2:45 |
-| 52 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 |
-| 53 | [Otros Colores](https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Otros Colores](https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS) | 5:51 |
+| 52 | [Otros Colores](https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Otros Colores](https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS) | 5:51 |
+| 53 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 |
 | 54 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 |
 | 55 | [Refugio](https://open.spotify.com/track/2XHOcpj3XkYsv9aa4inXVQ) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Refugio](https://open.spotify.com/album/6rb0q66fl0KXNB9SXW5Ycc) | 3:50 |
 | 56 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 |

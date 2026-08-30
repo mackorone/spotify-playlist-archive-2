@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 
 > Home is where you park it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,396 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 859,424 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 24 | [Around The Sun](https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Around The Sun](https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB) | 3:54 |
 | 25 | [Days Of Lantana](https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Is It?](https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8) | 5:15 |
 | 26 | [the van](https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [the van](https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho) | 2:58 |
-| 27 | [Clocks](https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Clocks](https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT) | 3:17 |
-| 28 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 |
+| 27 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 |
+| 28 | [Clocks](https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Clocks](https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT) | 3:17 |
 | 29 | [Only For A Moment](https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Only For A Moment](https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV) | 2:47 |
 | 30 | [Ocean Wide](https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Ocean Wide](https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R) | 3:04 |
 | 31 | [feel like we used to](https://open.spotify.com/track/3UBNj3GZN0Wf3LjUrxQdH1) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [feel like we used to](https://open.spotify.com/album/1HbbsKtw9xMY90dE4C5yM5) | 2:56 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 47 | [Californian Soil](https://open.spotify.com/track/5hR2CzTCqkuKRWFkphBS9M) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Californian Soil](https://open.spotify.com/album/6zhcaCk0zcQ7I5jpIg7nYg) | 3:41 |
 | 48 | [Same Kind of People](https://open.spotify.com/track/0JJ4Q040PP2kU7AxaZTl9B) | [Bukahara](https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W) | [Same Kind of People](https://open.spotify.com/album/4zFAYEzJFfPkJA7WbGWnIz) | 4:02 |
 | 49 | [Hey You](https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Hey You](https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2) | 3:31 |
-| 50 | [Blue Eyes Forever](https://open.spotify.com/track/5eXxyV07hVH8VxAwYP0VL6) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Oh the Agony, Oh the Ecstasy](https://open.spotify.com/album/4CLlox0P7wxjTjxJsfUXsO) | 3:23 |
-| 51 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
-| 52 | [Serious](https://open.spotify.com/track/68JX90DFYbGnKeq6eVT43G) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Serious](https://open.spotify.com/album/3x9P5ETTIhyNBSHnOLH4Hw) | 2:58 |
+| 50 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
+| 51 | [Serious](https://open.spotify.com/track/68JX90DFYbGnKeq6eVT43G) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Serious](https://open.spotify.com/album/3x9P5ETTIhyNBSHnOLH4Hw) | 2:58 |
+| 52 | [Blue Eyes Forever](https://open.spotify.com/track/5eXxyV07hVH8VxAwYP0VL6) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Oh the Agony, Oh the Ecstasy](https://open.spotify.com/album/4CLlox0P7wxjTjxJsfUXsO) | 3:23 |
 | 53 | [grapejuice](https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [postcard from Berlin](https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko) | 3:14 |
 | 54 | [Breach](https://open.spotify.com/track/04CmffXO0izW3hyshf25Zj) | [Boatkeeper](https://open.spotify.com/artist/50KHQF16VC7NeTwFNnKoJ5) | [Breach](https://open.spotify.com/album/6w03R3cOqEyw58PhPnYoPg) | 3:22 |
 | 55 | [Colorado \- Acoustic Version](https://open.spotify.com/track/1iRoX1aGWT6C48LIdbTWr8) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Colorado \(Acoustic Version\)](https://open.spotify.com/album/3PiUucuaHEp8Sr3eo1OETs) | 2:55 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 75 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
 | 76 | [California](https://open.spotify.com/track/0fsrLRhjX5nkVPlHW0pkt8) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [California](https://open.spotify.com/album/7dQnf1RF1MmvZhxwSHtJ4Z) | 3:13 |
 | 77 | [Rich Man](https://open.spotify.com/track/34batHUDkMhFuUjkxAUmfH) | [KEØMA](https://open.spotify.com/artist/79iWNhmr65X2gvuPl5jB0U) | [Rich Man](https://open.spotify.com/album/6SWwS2mmFaQIU1vE3mEEh1) | 3:56 |
-| 78 | [Wide Awake](https://open.spotify.com/track/0BgEkiedrF5W0tjkvhAUVw) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Wide Awake](https://open.spotify.com/album/4XjE4JTb2fp7C7ZITLZOwW) | 3:23 |
-| 79 | [Lonely Nights](https://open.spotify.com/track/0dRqWsb5yaDSm2Z9TJlqDF) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Lonely Nights](https://open.spotify.com/album/5qvewfz3zp6c9DlCKk4m3w) | 3:20 |
+| 78 | [Lonely Nights](https://open.spotify.com/track/0dRqWsb5yaDSm2Z9TJlqDF) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Lonely Nights](https://open.spotify.com/album/5qvewfz3zp6c9DlCKk4m3w) | 3:20 |
+| 79 | [Wide Awake](https://open.spotify.com/track/0BgEkiedrF5W0tjkvhAUVw) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Wide Awake](https://open.spotify.com/album/4XjE4JTb2fp7C7ZITLZOwW) | 3:23 |
 | 80 | [Somewhere in Chicago](https://open.spotify.com/track/3BsrEIMaUPq97jPCwF7cn0) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Somewhere in Chicago](https://open.spotify.com/album/37mNFjjiRfZRCwfGflAsrM) | 3:05 |
 | 81 | [Ten Is a Number](https://open.spotify.com/track/2PrvcL7D0MehTsVxEPhF4p) | [M Field](https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3) | [M Field](https://open.spotify.com/album/4eDYq0TO7o6a6q65zbOHFg) | 3:13 |
 | 82 | [Find A Home Out There](https://open.spotify.com/track/1itf9PY59hFYaMVcOXv7l9) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Find A Home Out There](https://open.spotify.com/album/0wrBAVUj6e43iJ0x62h0zp) | 3:26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 
 > The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today\. Cover: Amy Taylor \(Amyl and The Sniffers\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,687 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,820 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 31 | [You Hear Yes \(feat\. Mannequin Pussy and Scowl\)](https://open.spotify.com/track/3XSCsuqhAqaVoYkYHHFrNC) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Funeral Soundtrack \#4](https://open.spotify.com/album/612gMZhBmHiDyWwA5phdZl) | 2:43 |
 | 32 | [I Want Candy](https://open.spotify.com/track/2FMcDUopGfjBh3xMsrm78S) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [We Are The '80s](https://open.spotify.com/album/3gTAnUMTCOtCHp0zb4gdSF) | 2:44 |
 | 33 | [Figurine](https://open.spotify.com/track/3eo9ytt9yiJRLUy85Wumnw) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Figurine](https://open.spotify.com/album/27P08yRazykZcJCbgQxheh) | 2:31 |
-| 34 | [Lavender Bones](https://open.spotify.com/track/11RX9JI2RFo70n5XH8U3Mk) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Skinny Dipping](https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F) | 3:24 |
-| 35 | [Hertz](https://open.spotify.com/track/4GIeQy7OzftStBoimCWIMU) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c) | 2:33 |
+| 34 | [Hertz](https://open.spotify.com/track/4GIeQy7OzftStBoimCWIMU) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c) | 2:33 |
+| 35 | [Lavender Bones](https://open.spotify.com/track/11RX9JI2RFo70n5XH8U3Mk) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Skinny Dipping](https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F) | 3:24 |
 | 36 | [Take It Off](https://open.spotify.com/track/6QyBIZEvs11K9lKjyLYtv6) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Spend The Night \(U.S\. Version\)](https://open.spotify.com/album/15wLLULZwFUQ2aDp4PB3nv) | 2:41 |
 | 37 | [i'm gonna tell my therapist on you](https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [i'm gonna tell my therapist on you](https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz) | 2:41 |
 | 38 | [Date With The Night](https://open.spotify.com/track/0EJHhccadE8UvdZ5wGI1SN) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 2:35 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 50 | [Control](https://open.spotify.com/track/6ydPTlLqw0Y1hWmEqCiRQK) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Perfect](https://open.spotify.com/album/1SmNCUA35KrRKfzwk02FSD) | 3:15 |
 | 51 | [Free Money](https://open.spotify.com/track/1wP1qnWy0cZWxnbWkzf9La) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 3:52 |
 | 52 | [Cool Schmool](https://open.spotify.com/track/65bY1D2pZJkNTDrxWncY8W) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth](https://open.spotify.com/album/7lzJitndL2gmgt4cP4tmnj) | 2:03 |
-| 53 | [Trust Me](https://open.spotify.com/track/2MJ99N6jENvKonfgegDtZx) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Bless My Psyche](https://open.spotify.com/album/6l15xlxmDJGC2C8xJNx673) | 3:00 |
-| 54 | [One More Hour](https://open.spotify.com/track/1WtpkJyC5UNqE4dC3iHplB) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Dig Me Out \(Remastered\)](https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42) | 3:19 |
+| 53 | [One More Hour](https://open.spotify.com/track/1WtpkJyC5UNqE4dC3iHplB) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Dig Me Out \(Remastered\)](https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42) | 3:19 |
+| 54 | [Trust Me](https://open.spotify.com/track/2MJ99N6jENvKonfgegDtZx) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Bless My Psyche](https://open.spotify.com/album/6l15xlxmDJGC2C8xJNx673) | 3:00 |
 | 55 | [Brother](https://open.spotify.com/track/20JlEDQcD9ztcH7fpByrUA) | [The Organ](https://open.spotify.com/artist/7aFKbKHCNNDNAG0jSmr9go) | [Grab That Gun](https://open.spotify.com/album/6zvv44hOAYmFoJH7dcx0gF) | 4:01 |
 | 56 | [Worldwide](https://open.spotify.com/track/05TRbrINOYAeoOCRy4jbMW) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Worldwide](https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz) | 2:34 |
 | 57 | [Womanarchist](https://open.spotify.com/track/3Viq6H7Yuo5S9dZDi76CNJ) | [Bad Cop Bad Cop](https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq) | [Warriors](https://open.spotify.com/album/54ThBfBsIYq8IjvMKEFxWc) | 2:52 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 90 | [We Are the One](https://open.spotify.com/track/6o16JFxoLZbrKCdlkC36e0) | [The Avengers](https://open.spotify.com/artist/7eSvd8I9IvSXvz5DhbJ7Oe) | [The American in Me](https://open.spotify.com/album/2YsJTJdqKhc0g9FN6p3bFE) | 2:38 |
 | 91 | [DOOMTOWN](https://open.spotify.com/track/1cLUvmoOfRZYbTedbeB9nC) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [DOOMTOWN](https://open.spotify.com/album/79TiaJjwfwiay0vdDwwa5y) | 3:18 |
 | 92 | [Eraser](https://open.spotify.com/track/4PvQ9zc1eeO1xzURqgR5hH) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming For You](https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI) | 2:44 |
-| 93 | [Bad Reputation](https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:49 |
-| 94 | [FUU](https://open.spotify.com/track/0suF9QVCRfwx0yltoiO6Z3) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF) | 3:50 |
+| 93 | [FUU](https://open.spotify.com/track/0suF9QVCRfwx0yltoiO6Z3) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF) | 3:50 |
+| 94 | [Bad Reputation](https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:49 |
 | 95 | [Miss Understood](https://open.spotify.com/track/5dy7GRBv4dxguEk8UG433S) | [7 Year Bitch](https://open.spotify.com/artist/535KSdsDbNGj6w6eCBkRP5) | [Gato Negro](https://open.spotify.com/album/5wCqvwYFZrp5OZEANiX5t3) | 3:07 |
 | 96 | [Resurrection](https://open.spotify.com/track/63tZNnEOTwXWzsWmBcKjZf) | [Vice Squad](https://open.spotify.com/artist/2bnpJ3162H9AjVDukIheOn) | [The Complete Punk Singles Collection](https://open.spotify.com/album/1lghAJ2RV4kjRwTqLa4M9Q) | 4:03 |
 | 97 | [Savage](https://open.spotify.com/track/0m4r5bLIF9pZrc50oh0N38) | [The Nuns](https://open.spotify.com/artist/4lbdX52isOilRhdB9Zzs1y) | [The Nuns](https://open.spotify.com/album/1oCCvYac2MIYPX4fFJK6iD) | 2:17 |

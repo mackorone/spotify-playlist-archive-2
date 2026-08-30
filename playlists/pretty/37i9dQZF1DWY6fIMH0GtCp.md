@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6fIMH0GtCp.md) - [plain]
 
 > This Hanukkah playlist features all the classics and the funny favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,078 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,077 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6fIMH0GtCp.md) - [plain]
 | 19 | [Maoz Tzur](https://open.spotify.com/track/50l5C1hyJVPU33JDmXtbAf) | [Maccabeats](https://open.spotify.com/artist/2plllpJj0sU7FsdZrn8EHq) | [A Maccabeats Hanukkah](https://open.spotify.com/album/4uhCOOmk62FJOMqMCzL1No) | 3:49 |
 | 20 | [Hanukkah Blessings](https://open.spotify.com/track/5DmKmoHeq1hI9BFMXpj0iu) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Barenaked for the Holidays](https://open.spotify.com/album/3FvNOgLF7R0bEFYxMHMaOx) | 3:27 |
 | 21 | [My Eight Favorite Nights](https://open.spotify.com/track/0FXj1nYG54kmlOQBNVRSmV) | [Distant Cousins](https://open.spotify.com/artist/2K1qlqSkT0CWFKIr9EjDLb) | [My Eight Favorite Nights](https://open.spotify.com/album/2CCfU59kkD45Z0nhs2VBA1) | 1:51 |
-| 22 | [The Dreidel Song \(Hanukkah Edition\)](https://open.spotify.com/track/2YO9O3kn4EH3svNN3qbs3f) | [The Philly Specials](https://open.spotify.com/artist/4JPJvxDtfBlQAiNm8dd7vX) | [The Dreidel Song \(Hanukkah Edition\)](https://open.spotify.com/album/18QI1VMSfvFcE2eh2ocOwS) | 3:54 |
+| 22 | [The Dreidel Song \- Hanukkah Edition](https://open.spotify.com/track/2YO9O3kn4EH3svNN3qbs3f) | [The Philly Specials](https://open.spotify.com/artist/4JPJvxDtfBlQAiNm8dd7vX) | [The Dreidel Song \(Hanukkah Edition\)](https://open.spotify.com/album/18QI1VMSfvFcE2eh2ocOwS) | 3:54 |
 | 23 | [Eight Candles](https://open.spotify.com/track/4pZ5F2nQy0AI2eOkswcjyD) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Hanukkah+](https://open.spotify.com/album/75tzhQxgxrZkqfIb4fE5rT) | 2:32 |
 | 24 | [Rock of Ages \- Ma'oz Tzur](https://open.spotify.com/track/4ZAEJt3vdQazqbAVh4Z90l) | [Marc Cohen](https://open.spotify.com/artist/4Ib4k1R8J1JLZKXXqTac3C) | [The Best of Festival of Light](https://open.spotify.com/album/652rcP4InYytLIRbSI1c7P) | 5:00 |
 | 25 | [Light One Candle](https://open.spotify.com/track/3qt6o8J9BpLRw5IJN5rvfX) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [No Easy Walk to Freedom](https://open.spotify.com/album/1M8E4Kg1l7BJPYZPbdZHsZ) | 3:09 |

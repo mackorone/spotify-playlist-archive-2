@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era\. Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,262 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,265 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 57 | [Swing](https://open.spotify.com/track/1Ok6aF4jh2Ij3dCD33ARkG) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Shorae Moore](https://open.spotify.com/artist/7oa259fCCMN3S80h0Vmxtp) | [Swing](https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F) | 2:54 |
 | 58 | [TheBox](https://open.spotify.com/track/55R9jXpjIkCPMiYzbOzkAV) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Passport](https://open.spotify.com/album/5pQXeCuA6l4kmhWzh4lsig) | 3:55 |
 | 59 | [sundays](https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [sundays](https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP) | 2:54 |
-| 60 | [Coconut Lips](https://open.spotify.com/track/1IZJ3PvtyeRGmWDyH7IJfV) | [GMK](https://open.spotify.com/artist/7dz7BZ952Sbbmww6Y7ix1G), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Coconut Lips](https://open.spotify.com/album/6MsvVk2Ts2wITEcov3Zz5Q) | 3:35 |
+| 60 | [Monica](https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ) | [TMXO](https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP) | [Monica](https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo) | 2:08 |
 
 Snapshot ID: `AAAAACA9HFnHdfOZiKH+qxjYKt6ZllcI`

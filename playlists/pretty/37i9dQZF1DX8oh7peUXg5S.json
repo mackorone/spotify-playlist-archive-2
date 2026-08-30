@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 352488,
+  "num_followers": 352536,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Pasaba por Aqui",
-      "url": "https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
         "name": "Contigo En La Distancia",
         "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 157386,
       "name": "Contigo en la Distancia",
       "url": "https://open.spotify.com/track/7820J99MJU42DADC6DsMfh"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Pasaba por Aqui",
+      "url": "https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v"
     },
     {
       "added_at": "2026-08-06 22:01:18",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
+        "name": "Rug\u00edo de Sentir",
+        "url": "https://open.spotify.com/album/0bexrNYTuhcoEbDjBUUuZm"
+      },
+      "artists": [
+        {
+          "name": "Paco Pecado",
+          "url": "https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp"
+        }
+      ],
+      "duration_ms": 203896,
+      "name": "Rug\u00edo de Sentir",
+      "url": "https://open.spotify.com/track/1ecpwSch9muxwUF5BmOHQs"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
         "name": "Auterretratos",
         "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 179480,
       "name": "Rueda eterna",
       "url": "https://open.spotify.com/track/63tZPvFVEFLZUYngE4km29"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
-        "name": "Rug\u00edo de Sentir",
-        "url": "https://open.spotify.com/album/0bexrNYTuhcoEbDjBUUuZm"
-      },
-      "artists": [
-        {
-          "name": "Paco Pecado",
-          "url": "https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp"
-        }
-      ],
-      "duration_ms": 203896,
-      "name": "Rug\u00edo de Sentir",
-      "url": "https://open.spotify.com/track/1ecpwSch9muxwUF5BmOHQs"
     },
     {
       "added_at": "2026-08-06 22:01:18",

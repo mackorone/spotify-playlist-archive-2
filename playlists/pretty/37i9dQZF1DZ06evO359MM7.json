@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Baby. The essential tracks, all in one playlist.",
-  "num_followers": 450466,
+  "num_followers": 450488,
   "original_name": "This Is Lil Baby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao9+AAAAAAAXkB/sSoI5oHEEXL4ELF6i",
+  "snapshot_id": "apDPgAAAAAAD1s1Uh2GzqwaH70LdUwPa",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Voice of the Heroes",
+        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 235014,
+      "name": "Rich Off Pain (feat. Rod Wave)",
+      "url": "https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sold Out Dates (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/2na1cAK6nayzGL0Mt7AZox"
       },
@@ -507,30 +531,6 @@
       "duration_ms": 197043,
       "name": "Always n Forever (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/6dbENHQHHtWRai4snSvy2w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Voice of the Heroes",
-        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 235014,
-      "name": "Rich Off Pain (feat. Rod Wave)",
-      "url": "https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr"
     },
     {
       "added_at": null,
@@ -879,6 +879,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pray 4 Love (Deluxe)",
+        "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 235987,
+      "name": "Rags2Riches 2 (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One of Them",
         "url": "https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ"
       },
@@ -903,46 +923,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pray 4 Love (Deluxe)",
-        "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
+        "name": "S.K.A.T.E.",
+        "url": "https://open.spotify.com/album/4G3clQWXvxQUHUTLjvXWhl"
       },
       "artists": [
         {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
         },
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 235987,
-      "name": "Rags2Riches 2 (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Choppa (with Lil Baby & Rvssian)",
-        "url": "https://open.spotify.com/album/5yYpXnvCCF9l1z5HP1vNgx"
-      },
-      "artists": [
-        {
-          "name": "Byron Messia",
-          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        }
-      ],
-      "duration_ms": 169195,
-      "name": "Choppa (with Lil Baby & Rvssian)",
-      "url": "https://open.spotify.com/track/2PY7w56NZdvh7YhBxfT4pE"
+      "duration_ms": 224137,
+      "name": "Promises (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/4JfHLSkVCxcJOq0179Se7a"
     },
     {
       "added_at": null,
@@ -971,22 +967,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "S.K.A.T.E.",
-        "url": "https://open.spotify.com/album/4G3clQWXvxQUHUTLjvXWhl"
+        "name": "Choppa (with Lil Baby & Rvssian)",
+        "url": "https://open.spotify.com/album/5yYpXnvCCF9l1z5HP1vNgx"
       },
       "artists": [
         {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
         },
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         }
       ],
-      "duration_ms": 224137,
-      "name": "Promises (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/4JfHLSkVCxcJOq0179Se7a"
+      "duration_ms": 169195,
+      "name": "Choppa (with Lil Baby & Rvssian)",
+      "url": "https://open.spotify.com/track/2PY7w56NZdvh7YhBxfT4pE"
     },
     {
       "added_at": null,

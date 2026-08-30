@@ -942,7 +942,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 191693,
       "name": "Anything",
       "url": "https://open.spotify.com/track/5kiD3qnsuhV2YwH4bq93Yc"
@@ -3194,6 +3194,24 @@
       "duration_ms": 209500,
       "name": "Candyland",
       "url": "https://open.spotify.com/track/0uJDvn1QmKFelHZls8M8fM"
+    },
+    {
+      "album": {
+        "name": "In The Moment",
+        "url": "https://open.spotify.com/album/3efxU6Ni40Qz0is7mBrdSH"
+      },
+      "artists": [
+        {
+          "name": "Pieces Of A Dream",
+          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286271,
+      "name": "Captain of Your Ship",
+      "url": "https://open.spotify.com/track/0vWNQyoJ5UZKaEW9oF5VMS"
     },
     {
       "album": {
@@ -15492,7 +15510,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 318160,
       "name": "Real",
       "url": "https://open.spotify.com/track/6TsnGNY2Hdh58fzo0c1D3Y"

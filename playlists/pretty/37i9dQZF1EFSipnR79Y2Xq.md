@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 729 likes - 114 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 730 likes - 114 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 21 | [Falsa Alarma \- En Vivo](https://open.spotify.com/track/4h3KqkulbPimFtUa1qDqPb) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Puras Pa' Pistear \(En Vivo\)](https://open.spotify.com/album/2gbnONIYF40gLi1zmYiols) | 3:40 |
 | 22 | [Según Mi Reloj](https://open.spotify.com/track/5qN3kW0IR3CatHePsr4MVV) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 2:31 |
 | 23 | [Ayer Me Encontré A Mi Ex \- En Vivo](https://open.spotify.com/track/61V7gfhIa7dxjHwDxHV37K) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Ayer Me Encontré A Mi Ex \(En Vivo\)](https://open.spotify.com/album/7nfGPK65KbRpW6sMqpoxaN) | 2:54 |
-| 24 | [Ahi La Llevo \(En Vivo\)](https://open.spotify.com/track/65h5gYOGQ4p86SRVOyXtzq) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [UVV Vol\. 8 \(En Vivo\)](https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K) | 2:37 |
+| 24 | [Ahi La Llevo \- En Vivo](https://open.spotify.com/track/65h5gYOGQ4p86SRVOyXtzq) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [UVV Vol\. 8 \(En Vivo\)](https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K) | 2:37 |
 | 25 | [Eres Mi Nada](https://open.spotify.com/track/0c0NnNE5ZDrR09ss5tM13G) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Eres Mi Nada / Tu Pasado y Tú](https://open.spotify.com/album/0BZ3dO6C8OGRRyXfV9FLhE) | 2:51 |
 | 26 | [Día De Bajón](https://open.spotify.com/track/3iZFmfp6v6u4sldfg7HgRo) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Día De Bajón](https://open.spotify.com/album/3u6jVCx2tYFPRQtzKpUyaM) | 2:24 |
 | 27 | [Salud Por Eso](https://open.spotify.com/track/4MMmoLigDQsZ8EEd4ulzO8) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2), [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:59 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 29 | [Nada De Nada](https://open.spotify.com/track/7no4jWtFELEYzvZWwo76Pq) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Más Amor Y Más Sabor](https://open.spotify.com/album/1l1odyC95qExDrasUInE2b) | 3:01 |
 | 30 | [Como Antes](https://open.spotify.com/track/0MWTdf11dE1EWnfGvW7OUl) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:46 |
 | 31 | [Mira Quién Lo Dice](https://open.spotify.com/track/38Ch2OJaxX2FvFFV7QaVww) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Llueva Tequila](https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l) | 3:09 |
-| 32 | [Para Que Seas Feliz](https://open.spotify.com/track/72gnC2EYGniydXcALe7JGz) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Para Que Seas Feliz](https://open.spotify.com/album/2vxfgYfznHunbCkzyLaZYv) | 3:42 |
-| 33 | [Todo El Año](https://open.spotify.com/track/1GytzpMnPGFXdZgUL1XAEq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Todo El Año](https://open.spotify.com/album/5x8dVcbbLS13wPODZph64e) | 2:52 |
+| 32 | [Todo El Año](https://open.spotify.com/track/1GytzpMnPGFXdZgUL1XAEq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Todo El Año](https://open.spotify.com/album/5x8dVcbbLS13wPODZph64e) | 2:52 |
+| 33 | [Para Que Seas Feliz](https://open.spotify.com/track/72gnC2EYGniydXcALe7JGz) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Para Que Seas Feliz](https://open.spotify.com/album/2vxfgYfznHunbCkzyLaZYv) | 3:42 |
 | 34 | [TODO](https://open.spotify.com/track/1EmlHrs93OOsyz8lAMfmCW) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [ENCUENTROS](https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw) | 4:02 |
 | 35 | [Andar Soltero](https://open.spotify.com/track/5RlNv7SVUz96curwoPe3zy) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0) | [Top Songs 2022](https://open.spotify.com/album/52kJMVI7KXoWQLcz6p0twI) | 3:11 |
 | 36 | [Otra](https://open.spotify.com/track/50bGZzlFcee3MEmacYBw3e) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [PUNTO Y APARTE](https://open.spotify.com/album/7gweMRej5j0jzExxgwreci) | 3:12 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 113 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
 | 114 | [Vestidito Rojo](https://open.spotify.com/track/3lciIL09CUXIJIIYICafn7) | [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Vestidito Rojo](https://open.spotify.com/album/1z2IHPGKZUPQ0mubjgGNnJ) | 3:12 |
 
-Snapshot ID: `Aca1FAAAAAB2Lh4s+wyncPLRSxNduQFp`
+Snapshot ID: `Aca6PAAAAADkGCTFpZ6TMcfEWG4qmQmT`

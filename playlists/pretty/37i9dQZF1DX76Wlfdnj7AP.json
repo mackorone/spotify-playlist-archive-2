@@ -1,6 +1,6 @@
 {
   "description": "Get your beast mode on!",
-  "num_followers": 11062865,
+  "num_followers": 11062968,
   "original_name": "Beast Mode",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,26 @@
     {
       "added_at": "2026-08-21 13:30:42",
       "album": {
+        "name": "Say My Name (Remix)",
+        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
+      },
+      "artists": [
+        {
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Say My Name - Remix",
+      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
+    },
+    {
+      "added_at": "2026-08-21 13:30:42",
+      "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
-    },
-    {
-      "added_at": "2026-08-21 13:30:42",
-      "album": {
-        "name": "Say My Name (Remix)",
-        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
-      },
-      "artists": [
-        {
-          "name": "Morgan Seatree",
-          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
-        },
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Say My Name - Remix",
-      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
     },
     {
       "added_at": "2026-08-21 13:30:42",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-08-21 13:30:42",
       "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 270697,
-      "name": "redrum",
-      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
-    },
-    {
-      "added_at": "2026-08-21 13:30:42",
-      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 238614,
       "name": "Nonstop",
       "url": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct"
+    },
+    {
+      "added_at": "2026-08-21 13:30:42",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
     },
     {
       "added_at": "2026-08-21 13:30:42",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2026-08-21 13:30:42",
       "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
+    },
+    {
+      "added_at": "2026-08-21 13:30:42",
+      "album": {
         "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
         "url": "https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 172314,
       "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
       "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
-    },
-    {
-      "added_at": "2026-08-21 13:30:42",
-      "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
     },
     {
       "added_at": "2026-08-21 13:30:42",
@@ -1667,30 +1667,6 @@
     {
       "added_at": "2026-08-21 13:30:42",
       "album": {
-        "name": "Game Time (FIFA World Cup 2026\u2122)",
-        "url": "https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "FIFA Sound",
-          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
-        }
-      ],
-      "duration_ms": 206166,
-      "name": "Game Time",
-      "url": "https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr"
-    },
-    {
-      "added_at": "2026-08-21 13:30:42",
-      "album": {
         "name": "I Wanna Go - John Summit Remix",
         "url": "https://open.spotify.com/album/0KlzqKIka3JbqCcpm1rteS"
       },
@@ -1751,6 +1727,30 @@
     {
       "added_at": "2026-08-21 13:30:42",
       "album": {
+        "name": "Game Time (FIFA World Cup 2026\u2122)",
+        "url": "https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "duration_ms": 206166,
+      "name": "Game Time",
+      "url": "https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr"
+    },
+    {
+      "added_at": "2026-08-21 13:30:42",
+      "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
@@ -1763,26 +1763,6 @@
       "duration_ms": 164571,
       "name": "TGIF",
       "url": "https://open.spotify.com/track/31TVho4kOuAeRmLYGIEuWn"
-    },
-    {
-      "added_at": "2026-08-21 13:30:42",
-      "album": {
-        "name": "In This Bih'",
-        "url": "https://open.spotify.com/album/2lV1sjDJzsDktstoTBUCrK"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 210923,
-      "name": "In This Bih'",
-      "url": "https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj"
     },
     {
       "added_at": "2026-08-21 13:30:42",
@@ -1803,6 +1783,26 @@
       "duration_ms": 197142,
       "name": "Derni\u00e8re danse - Techno Mix",
       "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
+    },
+    {
+      "added_at": "2026-08-21 13:30:42",
+      "album": {
+        "name": "In This Bih'",
+        "url": "https://open.spotify.com/album/2lV1sjDJzsDktstoTBUCrK"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 210923,
+      "name": "In This Bih'",
+      "url": "https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj"
     },
     {
       "added_at": "2026-08-21 13:30:42",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2026-08-21 13:30:42",
       "album": {
-        "name": "Don't Be Dumb",
-        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 160966,
-      "name": "HELICOPTER",
-      "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
-    },
-    {
-      "added_at": "2026-08-21 13:30:42",
-      "album": {
         "name": "Astronaut In The Ocean",
         "url": "https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 132780,
       "name": "Astronaut In The Ocean",
       "url": "https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277"
+    },
+    {
+      "added_at": "2026-08-21 13:30:42",
+      "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 160966,
+      "name": "HELICOPTER",
+      "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
     },
     {
       "added_at": "2026-08-21 13:30:42",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2026-08-21 13:30:42",
       "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
-    },
-    {
-      "added_at": "2026-08-21 13:30:42",
-      "album": {
         "name": "MYSTERY OF RAW",
         "url": "https://open.spotify.com/album/4bIsm7G40iX21BGY567Xaw"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 228923,
       "name": "MYSTERY OF RAW",
       "url": "https://open.spotify.com/track/2v4NP088R6LUgFBDF9JqBg"
+    },
+    {
+      "added_at": "2026-08-21 13:30:42",
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
       "added_at": "2026-08-21 13:30:42",

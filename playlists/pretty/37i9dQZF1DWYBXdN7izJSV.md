@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,293 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,304 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 18 | [Angel from Montgomery](https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine](https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp) | 3:44 |
 | 19 | [7 & 7](https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 4:49 |
 | 20 | [The Galway Girl](https://open.spotify.com/track/1KnilWyiAb1Jwa9QJXZGMN) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Transcendental Blues](https://open.spotify.com/album/15FbLxuzw8MuuIC1AOob6k) | 3:05 |
-| 21 | [Waiting Around to Die](https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Townes Van Zandt](https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue) | 2:45 |
-| 22 | [Hasn't Hit Me Yet \- 2012 Remaster](https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July \(2012 Remaster\)](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 5:13 |
+| 21 | [Hasn't Hit Me Yet \- 2012 Remaster](https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July \(2012 Remaster\)](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 5:13 |
+| 22 | [Waiting Around to Die](https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Townes Van Zandt](https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue) | 2:45 |
 | 23 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
 | 24 | [I Wish I Was the Moon](https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 3:34 |
 | 25 | [Our Town](https://open.spotify.com/track/43nP4jKb7yRoyN6onAJ684) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Infamous Angel](https://open.spotify.com/album/2GA3HnSHqkdonyJbfEcz6o) | 5:00 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 51 | [Good Intentions](https://open.spotify.com/track/1xFvog4nYO22Sfw5iarls7) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights from the Chemical Plant](https://open.spotify.com/album/0NwAQ1Z8qlkvBRxm2pjxBM) | 2:47 |
 | 52 | [Question](https://open.spotify.com/track/2m5ItG3IIMsaGYJjZOvUoE) | [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [Satellite Rides](https://open.spotify.com/album/6SVjHaDr6gwCXUEvHoUhpA) | 2:15 |
 | 53 | [Things That Scare Me](https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 2:30 |
-| 54 | [Mountain Girl](https://open.spotify.com/track/18arNEI2X191HSDrRMQqkH) | [Blue Mountain](https://open.spotify.com/artist/4S0WYuq4dnunQV6cL3I49i) | [Dog Days](https://open.spotify.com/album/6bhEViXyntNPGV59UMTMYi) | 4:05 |
-| 55 | [You Can't Fail Me Now](https://open.spotify.com/track/1HrU3nSY7CNMr43DMHnhYw) | [Loudon Wainwright III](https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L) | [Strange Weirdos: Music From And Inspired By The Film Knocked Up](https://open.spotify.com/album/6L1QV8S8MbJxRdm3UqQyz9) | 3:45 |
+| 54 | [You Can't Fail Me Now](https://open.spotify.com/track/1HrU3nSY7CNMr43DMHnhYw) | [Loudon Wainwright III](https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L) | [Strange Weirdos: Music From And Inspired By The Film Knocked Up](https://open.spotify.com/album/6L1QV8S8MbJxRdm3UqQyz9) | 3:45 |
+| 55 | [Mountain Girl](https://open.spotify.com/track/18arNEI2X191HSDrRMQqkH) | [Blue Mountain](https://open.spotify.com/artist/4S0WYuq4dnunQV6cL3I49i) | [Dog Days](https://open.spotify.com/album/6bhEViXyntNPGV59UMTMYi) | 4:05 |
 | 56 | [Quiet Corners & Empty Spaces](https://open.spotify.com/track/7crEMhx5kDsaV7hHmL0gkE) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Paging Mr\. Proust](https://open.spotify.com/album/68Gfrh064D2bJfIAw2jdkn) | 3:06 |
 | 57 | [California Zephyr](https://open.spotify.com/track/4eBvIlQ3EhaP2b8At53Woo) | [Jay Farrar](https://open.spotify.com/artist/4tPRMBm25eaPJaceUBPqTK), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [One Fast Move Or I'm Gone Music From Kerouac's Big Sur](https://open.spotify.com/album/3Lki97wGb11VOTrjCEAgCj) | 2:23 |
-| 58 | [Does My Ring Burn Your Finger](https://open.spotify.com/track/5gABUTybqevRxpFA9Bl2AT) | [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp) | [Cruel Moon](https://open.spotify.com/album/6BCNak8WCST4LLYSGborQk) | 3:15 |
-| 59 | [Sweet Old World](https://open.spotify.com/track/72cC7aXgTx3us9bTOBbLUF) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Wrecking Ball](https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP) | 5:05 |
+| 58 | [Sweet Old World](https://open.spotify.com/track/72cC7aXgTx3us9bTOBbLUF) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Wrecking Ball](https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP) | 5:05 |
+| 59 | [Does My Ring Burn Your Finger](https://open.spotify.com/track/5gABUTybqevRxpFA9Bl2AT) | [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp) | [Cruel Moon](https://open.spotify.com/album/6BCNak8WCST4LLYSGborQk) | 3:15 |
 | 60 | [Chickamauga](https://open.spotify.com/track/3pnfc7f0fix6C6HcOLYxzH) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Anodyne](https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V) | 3:42 |
 | 61 | [Back Against the Wall](https://open.spotify.com/track/1JWqYAwi12yzh2UmoS4BcM) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Notes of Blue](https://open.spotify.com/album/1KH2KuYqXDkFfUhfCLrEbs) | 3:27 |
 | 62 | [Tecumseh Valley](https://open.spotify.com/track/7eby7k1AaLr3YT8z9wE996) | [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY), [Elizabeth Cook](https://open.spotify.com/artist/0dyEUZv8ftA0dzL5vb2Y9s) | [Tecumseh Valley / Pancho & Lefty](https://open.spotify.com/album/79qPXm841M359NMu11XLEH) | 4:40 |

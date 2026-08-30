@@ -4,7 +4,7 @@
 
 > This is Esteban Gabriel\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 37 min
+54 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Damas y Placeres](https://open.spotify.com/track/08o5hHml4niGUHhsmimaHp) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 2:49 | 2023-03-10 |  |
 | [Dejate Llevar](https://open.spotify.com/track/5Hh6zlLBx8LUkQoN8b2fq9) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 3](https://open.spotify.com/album/2ywvd22NBzHPTWdSvpji0m) | 2:30 | 2025-02-16 |  |
 | [Diablitos](https://open.spotify.com/track/2cyXIrnsHJUN0HoRaf4HyR) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 2:15 | 2023-03-10 |  |
+| [Doble Lavado](https://open.spotify.com/track/3QOscwvJgX48bpKUjaypCd) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Doble Lavado](https://open.spotify.com/album/3EETSExnu3h5AAT7KwhPf5) | 2:55 | 2026-08-30 |  |
 | [En Mis Dedos un Gallito](https://open.spotify.com/track/0w05EANAQs2Cf3xj5daRPY) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [En Mis Dedos un Gallito](https://open.spotify.com/album/6MntOYfLUMaSqfabw1KfVb) | 3:08 | 2023-03-10 |  |
 | [En Tus Brazos](https://open.spotify.com/track/6lKbxSmm8KQ6tnkjBSGcDB) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 3](https://open.spotify.com/album/2ywvd22NBzHPTWdSvpji0m) | 2:37 | 2025-02-16 |  |
 | [Es Prohibido](https://open.spotify.com/track/7s4uLGtxqsyxQEjmCkvCok) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 2:50 | 2023-05-09 |  |

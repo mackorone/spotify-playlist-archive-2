@@ -4,7 +4,7 @@
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-354 songs - 1 day 6 hr 51 min
+355 songs - 1 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Lk: Đêm Tâm Sự \- Hai Lối Mộng](https://open.spotify.com/track/7691UfR9dcTLMJIh3MUz7D) | [Thanh Thúy](https://open.spotify.com/artist/6oO3gusjsenDOQn8RDr5JS) | [Tiếng Ca U Hoài](https://open.spotify.com/album/4JsHbGogTL0bKygS0bhRPi) | 4:25 | 2023-10-12 | 2024-04-19 |
 | [Loai Hoa Khong Vo](https://open.spotify.com/track/3hhECOQCFVBzMwy0E3LSYn) | [Lưu Hồng](https://open.spotify.com/artist/2wJg82ZntgAYwgFq0TfmkB) | [Mot Chuyen Bay Dem](https://open.spotify.com/album/0nNDtP6jaNVJ1GjHjP913m) | 6:29 | 2025-05-02 | 2025-06-04 |
 | [Loài Hoa Không Vỡ](https://open.spotify.com/track/3jtwlFJFxcrbWXoQqj6GmK) | [Lưu Hồng](https://open.spotify.com/artist/2wJg82ZntgAYwgFq0TfmkB) | [Sao Chưa Thấy Hồi Âm](https://open.spotify.com/album/1XTictUuGfs5GHqqJlfmpA) | 6:33 | 2024-02-09 | 2024-03-12 |
-| [Loài Hoa Không Vỡ](https://open.spotify.com/track/0w2uQ1Yq2fiJ9EU7rT3cQf) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Loài Hoa Không Vỡ](https://open.spotify.com/album/2UxfyFbJEk4Ex5eQMKqXWR) | 6:25 | 2022-03-11 |  |
+| [Loài Hoa Không Vỡ](https://open.spotify.com/track/0w2uQ1Yq2fiJ9EU7rT3cQf) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Loài Hoa Không Vỡ](https://open.spotify.com/album/2UxfyFbJEk4Ex5eQMKqXWR) | 6:25 | 2022-03-11 | 2026-08-30 |
 | [Lưu Bút Ngày Xanh](https://open.spotify.com/track/56tR6AWgDT46ZAhHb6uJb3) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Buồn Lắm Áo Dài Ơi!](https://open.spotify.com/album/2EmIvznxe2WZPqw6DM9acj) | 6:13 | 2022-03-11 | 2023-08-23 |
 | [Lại Nhớ Người Yêu](https://open.spotify.com/track/6zJMd6pK2dPB5wFkWRh8Rl) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Ngày Em Đi](https://open.spotify.com/album/2aeAcs0wd9gHfmRbwmZZRS) | 4:49 | 2022-03-11 | 2023-12-06 |
 | [Lại Nhớ Người Yêu](https://open.spotify.com/track/4CNLIJjgmvGIlENU624OuZ) | [Thien Quang](https://open.spotify.com/artist/58mUjJjKQywcSmunX8z30H), [Quỳnh Trang](https://open.spotify.com/artist/76p6SuLTYuJutQQYcXMgbw) | [Tuyệt Phẩm Bolero Mới Nhất Của Thiên Quang Và Quỳnh Trang](https://open.spotify.com/album/0LQ1nlsnzIAJMi7uD5ZHeB) | 4:51 | 2022-03-11 | 2022-07-22 |
@@ -198,6 +198,7 @@
 | [Nhành cây trứng cá](https://open.spotify.com/track/2iDbKNaE3rA7B6Lg2yD5tI) | [Thanh Tuyền](https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED) | [Để Tóc Nàng Ngủ Yên](https://open.spotify.com/album/29osoHasyRLYjmEzbMmlDz) | 4:39 | 2025-05-02 | 2025-06-06 |
 | [Nhịp Cầu Tri Âm](https://open.spotify.com/track/2G2oDfnPZT0VCHvzXCJOM0) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw), [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Nhịp Cầu Tri Âm](https://open.spotify.com/album/3CpUiRoMBxPSTlaklbTPXk) | 5:37 | 2022-03-11 | 2023-10-18 |
 | [Nhớ người yêu](https://open.spotify.com/track/1bVM8uzban5ucND7vYumT3) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn), [Hoàng Thục Linh](https://open.spotify.com/artist/5lfRIXoidHgyFNcoI9pJ7L) | [Mùa hè rực rỡ 2013 \(ASIA 73\)](https://open.spotify.com/album/1fdquvnXKABPfEUmAfm2dt) | 4:00 | 2022-03-11 |  |
+| [Nhớ người yêu](https://open.spotify.com/track/3szQt0d2anhP4ToXZqULJa) | [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Nhớ người yêu](https://open.spotify.com/album/3vKakPmZ5zqWlod0zuOndQ) | 5:19 | 2026-03-01 |  |
 | [Nhớ Người Yêu](https://open.spotify.com/track/0ete2gsPNMsqLXTj3Lhcwf) | [Tuong Nguyen](https://open.spotify.com/artist/4Ai58ZXyAVZWgvyxSpiWhK), [Hà Vân](https://open.spotify.com/artist/7fd70imdv1SLkPRVFMLo5x) | [Nhớ Người Yêu](https://open.spotify.com/album/43r4x2TVCGzQ1lgbe3QZWe) | 5:29 | 2022-03-11 | 2022-07-27 |
 | [Những chuyến xe trong đời](https://open.spotify.com/track/1ctE2ULPSNFOcpKFqpS26J) | [Quang Lập](https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ) | [Nhạc lính xưa \- Quang lập](https://open.spotify.com/album/30PQynUSUTz0QULPwxMQjn) | 5:05 | 2024-02-09 | 2025-07-24 |
 | [Những ngày xưa thân ái](https://open.spotify.com/track/065m5SgiXmlREci47MZaLG) | [Duy Khánh](https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O) | [Tiếng Hát Duy Khánh](https://open.spotify.com/album/5h5DvRFhU1YZugPRDNBawY) | 5:26 | 2024-01-05 | 2024-05-24 |

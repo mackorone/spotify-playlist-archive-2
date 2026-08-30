@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > เพลงไวรัลและเพลงในกระแสตอนนี้\. ศิลปิน: DICERED
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,128 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,138 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 | 53 | [จารย์](https://open.spotify.com/track/148XXIHC5yeUDkOvlByiPM) | [YENTED](https://open.spotify.com/artist/4tM1FV7wm8Tp4bXhtWjBmX), [WIN SQWEEZ ANIMAL](https://open.spotify.com/artist/3UgfvbA6i1O9H4rcV70jHi) | [จารย์](https://open.spotify.com/album/0ESQNWzNgjrCmc8FT2Yiql) | 4:20 |
 | 54 | [รักมือสอง](https://open.spotify.com/track/6FngEZyo8Gg5P4fzckJeX4) | [Bedroom Audio](https://open.spotify.com/artist/5NTMa7YJCseQqw70zgF7b5) | [Album](https://open.spotify.com/album/5rLo8es514U1hcjv4aGsM9) | 3:20 |
 | 55 | [ถามเพื่ออะไร](https://open.spotify.com/track/5U6PMPTcwsRtYc2CdXsCb7) | [KLEAR](https://open.spotify.com/artist/2PfxoKmrvMLvTAkn5azNZ6) | [ถามเพื่ออะไร](https://open.spotify.com/album/77wsznRm0RjBLQjBAUEgaS) | 3:45 |
-| 56 | [ไม่เคยได้ลา \(Original Soundtrack From "เทอม 4"\)](https://open.spotify.com/track/2pPYt3e7IIbKhxFJth89ys) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ไม่เคยได้ลา \(Original Soundtrack From "เทอม 4"\)](https://open.spotify.com/album/4m3g6yCxmXxz31OTmgLefR) | 4:41 |
+| 56 | [ไม่เคยได้ลา \- Original Soundtrack From "เทอม 4"](https://open.spotify.com/track/2pPYt3e7IIbKhxFJth89ys) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ไม่เคยได้ลา \(Original Soundtrack From "เทอม 4"\)](https://open.spotify.com/album/4m3g6yCxmXxz31OTmgLefR) | 4:41 |
 | 57 | [จำไว้](https://open.spotify.com/track/4UbYIYA0YmoSfkD7o9fbXJ) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [จำไว้](https://open.spotify.com/album/71lNvoJeFSc0bAKf5GhNrx) | 4:01 |
 | 58 | [ส่วนหนึ่งของชีวิต](https://open.spotify.com/track/1HoCrGXJ4WraZzqUobVZDr) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [ส่วนหนึ่งของชีวิต](https://open.spotify.com/album/4qNTUyLYLkYywSP4iqQlgn) | 4:19 |
 | 59 | [supernatural](https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:43 |

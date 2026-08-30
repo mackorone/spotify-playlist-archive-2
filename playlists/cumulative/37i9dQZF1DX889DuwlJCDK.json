@@ -6202,7 +6202,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 194900,
       "name": "impact tracker",
       "url": "https://open.spotify.com/track/0y7oGLbQ48W51TMileVUu1"
@@ -10556,7 +10556,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 228397,
       "name": "POP!",
       "url": "https://open.spotify.com/track/4ToKmMCpkAAzQudReD0GGT"
@@ -16816,6 +16816,24 @@
       "duration_ms": 169573,
       "name": "\u3057\u3042\u308f\u305b",
       "url": "https://open.spotify.com/track/3yBCSTtiQuM0od1M9YrGMF"
+    },
+    {
+      "album": {
+        "name": "\u3057\u3042\u308f\u305b\u306e\u5b9a\u7fa9",
+        "url": "https://open.spotify.com/album/1ivoFMGpUfaSdAjJxAhXxp"
+      },
+      "artists": [
+        {
+          "name": "\u30d0\u30c1\u30ab\u30f3\u5e02\u56fd\u306b\u611b\u3055\u308c\u305f\u3044",
+          "url": "https://open.spotify.com/artist/1TEvVC6sabCl9knRndyHKu"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245333,
+      "name": "\u3057\u3042\u308f\u305b\u306e\u5b9a\u7fa9",
+      "url": "https://open.spotify.com/track/645sb4fKvMlk6jTrreR2oy"
     },
     {
       "album": {
@@ -32172,6 +32190,24 @@
       "duration_ms": 192186,
       "name": "\u79c1\u7684\u5e78\u798f\u8ad6",
       "url": "https://open.spotify.com/track/4fLiqr8OyysFvF4zhWt6H1"
+    },
+    {
+      "album": {
+        "name": "\u79d8\u5bc6",
+        "url": "https://open.spotify.com/album/3jklHQvT6Slr2Sjh0MJUjU"
+      },
+      "artists": [
+        {
+          "name": "yutori",
+          "url": "https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252275,
+      "name": "\u79d8\u5bc6",
+      "url": "https://open.spotify.com/track/14OFR9Rnfg3KTi4n9jZ0HH"
     },
     {
       "album": {

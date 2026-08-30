@@ -4,7 +4,7 @@
 
 > This is Seyi Vibez\. The essential tracks, all in one playlist.
 
-84 songs - 3 hr 38 min
+85 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [AMA](https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:37 | 2025-11-16 |  |
 | [Amdallah](https://open.spotify.com/track/2BMwyJhryxpPrBlCBV0SYV) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/6pXS8h1VlReJ5QuuKNogQj) | 3:00 | 2026-08-26 | 2026-08-27 |
 | [APALA DISCO \(feat\. Wizkid, Seyi Vibez & Terry Apala\) \- Remix](https://open.spotify.com/track/55nKxeuQ63YLqhtxPWMCgN) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM) | [APALA DISCO \(feat\. Wizkid, Seyi Vibez & Terry Apala\) \[Remix\]](https://open.spotify.com/album/0MgGzcX0gkln7VFFmH25yf) | 3:35 | 2025-07-12 |  |
+| [BACK 2 U](https://open.spotify.com/track/2lhdZrEfgsTjxqjCRXSer0) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [BACK 2 U](https://open.spotify.com/album/6kcf7BlqJJFW62YaOsQ00C) | 2:42 | 2026-08-30 |  |
 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6VX4hVDmDMfClxp6EwDNQP) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:48 | 2025-07-12 |  |
 | [Bank Of America](https://open.spotify.com/track/4Hr6oDlsOeZCyhQiOkDFGC) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:40 | 2025-07-12 |  |
 | [BD Baby](https://open.spotify.com/track/4aXHVmtQgLSk9sQFTVm2g4) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:12 | 2025-07-12 |  |
@@ -49,7 +50,7 @@
 | [GTA](https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GTA](https://open.spotify.com/album/5U7HlyYuQLT3gE5RNVQTzN) | 2:35 | 2026-08-01 |  |
 | [GWAGWALADA](https://open.spotify.com/track/0YeUYYOh25Cn57DKTC8uS4) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:08 | 2025-07-12 |  |
 | [HAPPY SONG](https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 1:59 | 2025-07-12 |  |
-| [Hat\-trick](https://open.spotify.com/track/3oBGX5L3J3Lxupw6iD0tCK) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/6pXS8h1VlReJ5QuuKNogQj) | 2:40 | 2026-08-26 |  |
+| [Hat\-trick](https://open.spotify.com/track/3oBGX5L3J3Lxupw6iD0tCK) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/6pXS8h1VlReJ5QuuKNogQj) | 2:40 | 2026-08-26 | 2026-08-30 |
 | [Hat\-trick](https://open.spotify.com/track/6kq3Twa8T9Rf9nxpf111hx) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 2:40 | 2025-07-12 | 2025-11-16 |
 | [HOW ARE YOU](https://open.spotify.com/track/3RtoMZxgC3lpyfxmZ29Rpu) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [HOW ARE YOU](https://open.spotify.com/album/1teBLhL3UsOfKJtMTntTvs) | 2:38 | 2025-10-31 | 2025-12-01 |
 | [HOW ARE YOU](https://open.spotify.com/track/5296ZsW1OKY8qvvXaRc9ex) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:38 | 2025-12-01 |  |

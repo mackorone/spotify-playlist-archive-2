@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > asia menor en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,032 likes - 45 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,028 likes - 45 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Keith Urban",
-  "num_followers": 136780,
+  "num_followers": 136783,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -555,18 +555,18 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
-        "name": "The Very Best of Travis Tritt",
-        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
+        "name": "Always On My Mind",
+        "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 213706,
-      "name": "Take It Easy - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
+      "duration_ms": 213359,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -603,18 +603,18 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
-        "name": "Always On My Mind",
-        "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
+        "name": "The Very Best of Travis Tritt",
+        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 213359,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
+      "duration_ms": 213706,
+      "name": "Take It Easy - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -751,18 +751,22 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/0Cy6TGrIY2E13BwGHJl6kI"
+        "name": "Wake Me up (Country Version)",
+        "url": "https://open.spotify.com/album/1hnsF3H1B372xHHohhCX0e"
       },
       "artists": [
         {
-          "name": "Gareth",
-          "url": "https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq"
+          "name": "Cooper Alan",
+          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
         }
       ],
-      "duration_ms": 176110,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/77bmyAECj4pwi6uhIjoVo1"
+      "duration_ms": 190666,
+      "name": "Wake Me up (Country Version)",
+      "url": "https://open.spotify.com/track/3dBb0GQCXP9OZlzaijuHmu"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -787,22 +791,18 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
-        "name": "Wake Me up (Country Version)",
-        "url": "https://open.spotify.com/album/1hnsF3H1B372xHHohhCX0e"
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/0Cy6TGrIY2E13BwGHJl6kI"
       },
       "artists": [
         {
-          "name": "Cooper Alan",
-          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
-        },
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+          "name": "Gareth",
+          "url": "https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq"
         }
       ],
-      "duration_ms": 190666,
-      "name": "Wake Me up (Country Version)",
-      "url": "https://open.spotify.com/track/3dBb0GQCXP9OZlzaijuHmu"
+      "duration_ms": 176110,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/77bmyAECj4pwi6uhIjoVo1"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
-        "name": "Still The One",
-        "url": "https://open.spotify.com/album/3FEkrUyrF8yYV2QqD2n4ij"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 232640,
-      "name": "Still The One",
-      "url": "https://open.spotify.com/track/6s1xk1e6YI91p2pUFw1Bfr"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/63ON47KtoeS8yMqZElye5n"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 218923,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/2dUG4qvDpJ32vuwE1qvsMz"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
+        "name": "Still The One",
+        "url": "https://open.spotify.com/album/3FEkrUyrF8yYV2QqD2n4ij"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 232640,
+      "name": "Still The One",
+      "url": "https://open.spotify.com/track/6s1xk1e6YI91p2pUFw1Bfr"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/4a9cTvd7HAAzG0Yb1lPMnN"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hyatt",
-          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
-        },
-        {
-          "name": "Meghan Patrick",
-          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
-        }
-      ],
-      "duration_ms": 219345,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/3vVLYlJejwXv6EeYElTf88"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
         "name": "Reba Duets",
         "url": "https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 223746,
       "name": "Because Of You",
       "url": "https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/4a9cTvd7HAAzG0Yb1lPMnN"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hyatt",
+          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+        },
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "duration_ms": 219345,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/3vVLYlJejwXv6EeYElTf88"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
-        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
-        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
-      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
         "name": "Always On My Mind (feat. Carter Faith)",
         "url": "https://open.spotify.com/album/6B0uwqA82rhMGMNrJgZmBb"
       },
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
+        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
+        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
+      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
         "name": "Blinding Lights (Country Version)",
         "url": "https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt"
       },
@@ -1147,22 +1147,6 @@
       "duration_ms": 186008,
       "name": "Blinding Lights - Country Version",
       "url": "https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
-        "name": "American Heartbreak",
-        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 177867,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/7Cz3jTJOZkwU0WCKBTDWLP"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -1183,6 +1167,22 @@
       "duration_ms": 232250,
       "name": "Outskirts of Heaven (feat. Craig Campbell)",
       "url": "https://open.spotify.com/track/2BzVAwyvy5yHbPkMUGhRRH"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 177867,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/7Cz3jTJOZkwU0WCKBTDWLP"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -1299,6 +1299,30 @@
       "duration_ms": 257733,
       "name": "Walking In Memphis",
       "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 233362,
+      "name": "(I Can\u2019t Get No) Satisfaction",
+      "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -1451,30 +1475,6 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 233362,
-      "name": "(I Can\u2019t Get No) Satisfaction",
-      "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
         "name": "There\u2019s Your Trouble - Spotify Singles",
         "url": "https://open.spotify.com/album/3mdDFYUab8j947TvSXLeMC"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 259466,
-      "name": "I Told You So",
-      "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
         "name": "Cowboy Take Me Away",
         "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 269306,
       "name": "Cowboy Take Me Away",
       "url": "https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 259466,
+      "name": "I Told You So",
+      "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
     },
     {
       "added_at": "2026-08-28 04:02:08",

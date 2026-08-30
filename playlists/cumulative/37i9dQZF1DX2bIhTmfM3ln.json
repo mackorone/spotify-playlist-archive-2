@@ -1566,6 +1566,28 @@
     {
       "album": {
         "name": "Away",
+        "url": "https://open.spotify.com/album/33APuT2agLYopTqNvbNAuJ"
+      },
+      "artists": [
+        {
+          "name": "Billirano",
+          "url": "https://open.spotify.com/artist/6Sb1ugPkZ8pwimM3wb378v"
+        },
+        {
+          "name": "Ruhdee",
+          "url": "https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170721,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/6Q9DpzGvxP57GD19bUdXOb"
+    },
+    {
+      "album": {
+        "name": "Away",
         "url": "https://open.spotify.com/album/38zn2ovgLlxDXUPknFLiAB"
       },
       "artists": [
@@ -8730,7 +8752,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-30",
       "duration_ms": 164400,
       "name": "i think i love you 2",
       "url": "https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5"

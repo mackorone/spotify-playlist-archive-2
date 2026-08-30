@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs",
-  "num_followers": 767141,
+  "num_followers": 767197,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -1121,7 +1121,7 @@
         }
       ],
       "duration_ms": 258466,
-      "name": "Dust in the Wind (From 'Queen of the Ring - Music From The Motion Picture')",
+      "name": "Dust in the Wind - From 'Queen of the Ring - Music From The Motion Picture'",
       "url": "https://open.spotify.com/track/503JPUMXxOdBet88wQUwg1"
     },
     {
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-06-30 16:09:15",
       "album": {
+        "name": "We Are The Champions/We Will Rock You",
+        "url": "https://open.spotify.com/album/3KdcKmGcb0ICBH939ttbTX"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 231887,
+      "name": "We Are The Champions/We Will Rock You",
+      "url": "https://open.spotify.com/track/1OIa6nm7DoivdwKrb1ff5S"
+    },
+    {
+      "added_at": "2026-06-30 16:09:15",
+      "album": {
         "name": "Drunk Enough To Dance",
         "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
       },
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2026-06-30 16:09:15",
       "album": {
-        "name": "INERTIA",
-        "url": "https://open.spotify.com/album/5WQ2aXsGMKlakBEoHFyOqk"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 217292,
-      "name": "MASTERS OF WAR",
-      "url": "https://open.spotify.com/track/0EJlSUNoYL931cYAQspN5i"
-    },
-    {
-      "added_at": "2026-06-30 16:09:15",
-      "album": {
         "name": "Wild Card/A Word To The Wise",
         "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
       },
@@ -1335,6 +1335,22 @@
       "duration_ms": 187826,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ"
+    },
+    {
+      "added_at": "2026-06-30 16:09:15",
+      "album": {
+        "name": "INERTIA",
+        "url": "https://open.spotify.com/album/5WQ2aXsGMKlakBEoHFyOqk"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 217292,
+      "name": "MASTERS OF WAR",
+      "url": "https://open.spotify.com/track/0EJlSUNoYL931cYAQspN5i"
     },
     {
       "added_at": "2026-06-30 16:09:15",
@@ -1367,22 +1383,6 @@
       "duration_ms": 291440,
       "name": "Sweet Dreams (Are Made Of This)",
       "url": "https://open.spotify.com/track/0Xq7FPQaLJgIHSB605YUMy"
-    },
-    {
-      "added_at": "2026-06-30 16:09:15",
-      "album": {
-        "name": "We Are The Champions/We Will Rock You",
-        "url": "https://open.spotify.com/album/3KdcKmGcb0ICBH939ttbTX"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 231887,
-      "name": "We Are The Champions/We Will Rock You",
-      "url": "https://open.spotify.com/track/1OIa6nm7DoivdwKrb1ff5S"
     },
     {
       "added_at": "2026-06-30 16:09:15",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2026-06-30 16:09:15",
       "album": {
-        "name": "The Curse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD"
       },
       "artists": [
         {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 206133,
-      "name": "You Give Love A Bad Name",
-      "url": "https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe"
+      "duration_ms": 152377,
+      "name": "My Sharona - Live Session from Abbey Road Studios, London, UK",
+      "url": "https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH"
     }
   ],
   "unique_name": "Rock Covers",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dX3aBjsxqd.md) - [plain]
 
 > Relax to these mellow cello melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,048 likes - 93 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,092 likes - 93 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

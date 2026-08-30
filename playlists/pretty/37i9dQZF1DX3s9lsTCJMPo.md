@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean\. Cover: Kes
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,891 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,901 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 28 | [The Hammer](https://open.spotify.com/track/5YpbrgU7v8QalNZJv1B9fY) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 5:09 |
 | 29 | [Sing In The Party](https://open.spotify.com/track/02KBvh3N2OobcJebwyHGJJ) | [Scrunter](https://open.spotify.com/artist/4fcEF7tAojSzwIeOfj7sqd) | [Soca Gold](https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw) | 5:52 |
 | 30 | [N.O.W\. \(No One Waiting\)](https://open.spotify.com/track/0dENBYxK7LjyqCC2fSN9tR) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t), [Destra Garcia](https://open.spotify.com/artist/288xQS2bj5XdAQNF3MghLp) | [In My Feelings](https://open.spotify.com/album/7cUTMtzLnLjf3WFd0ctyDF) | 3:36 |
-| 31 | [Your Body Working](https://open.spotify.com/track/4uYEsArYXSas1ZTtdBSXN8) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Soca758 Vol\. 3](https://open.spotify.com/album/5RaYUnX7cpWEzeb8is2YW4) | 3:25 |
-| 32 | [Get On](https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA) | [Fay\-Ann Lyons](https://open.spotify.com/artist/3FaDIXA3ByDklrL4mcoCYb) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:03 |
+| 31 | [Get On](https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA) | [Fay\-Ann Lyons](https://open.spotify.com/artist/3FaDIXA3ByDklrL4mcoCYb) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:03 |
+| 32 | [Your Body Working](https://open.spotify.com/track/4uYEsArYXSas1ZTtdBSXN8) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Soca758 Vol\. 3](https://open.spotify.com/album/5RaYUnX7cpWEzeb8is2YW4) | 3:25 |
 | 33 | [Calypso Music](https://open.spotify.com/track/4dwCppS8jnWDzDUSH8hYBG) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 7:13 |
 | 34 | [Soka Junkie](https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz) | [Mr\. Dale](https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:14 |
 | 35 | [Doh Back Back](https://open.spotify.com/track/43P9uBVBo2Vpc7XsmJNBhq) | [Sparrow](https://open.spotify.com/artist/6sEmGgkNrUVlZLhfBuWt5H) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 6:12 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 41 | [De River](https://open.spotify.com/track/5FcWpanb1uSr5RGb0y9Pz1) | [Blue Ventures](https://open.spotify.com/artist/12gfbAibcI9iJfNAu1QnhO) | [Soca Switch Vol\. 5](https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7) | 4:32 |
 | 42 | [If Ah Rude Ah Rude](https://open.spotify.com/track/0SJM6td3gcXuGkdo4ZAxW1) | [Devon George](https://open.spotify.com/artist/6uw11NfwK3mkHsXWEM62sG) | [Man Ah Bad Man](https://open.spotify.com/album/53gpvRksVdGeCTEUvg8Vc3) | 5:00 |
 | 43 | [Bitin Incex](https://open.spotify.com/track/4u51ZO3SBvSRoMizfo4tAJ) | [Ronnie McIntosh](https://open.spotify.com/artist/5kQZG7cSCTZfyfpnajlofH) | [Calypsoca 2002](https://open.spotify.com/album/1atO2z6cSHJprfLYmWuxUs) | 4:31 |
-| 44 | [Doh Wine](https://open.spotify.com/track/4lYJVJLdK1ax0gncPz8dNW) | [Colin Lucas](https://open.spotify.com/artist/30e4w7lTeWNqIvmAOxAhig) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 7:18 |
-| 45 | [Gyal Farm](https://open.spotify.com/track/0YKJ3Hl6QbtoQ46sQtBd7Q) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:41 |
+| 44 | [Gyal Farm](https://open.spotify.com/track/0YKJ3Hl6QbtoQ46sQtBd7Q) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:41 |
+| 45 | [Doh Wine](https://open.spotify.com/track/4lYJVJLdK1ax0gncPz8dNW) | [Colin Lucas](https://open.spotify.com/artist/30e4w7lTeWNqIvmAOxAhig) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 7:18 |
 | 46 | [I Come Out To Play](https://open.spotify.com/track/5KE4hUCBgrfkGc8aKnG7aM) | [Shadow](https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a) | [The Best of the Shadow Vol\. 1](https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI) | 5:08 |
 | 47 | [In The Mean Time](https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp) | [Allison Hinds](https://open.spotify.com/artist/08j4ULdyXMuSRPsDYPf8Me) | [Soca Gold 1998](https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME) | 4:16 |
 | 48 | [Higher World of Music](https://open.spotify.com/track/2OeQyi8oEx2oiKNaK8zFmt) | [Lord Shorty Creator of Soca Music](https://open.spotify.com/artist/5V9Gp2KOpza5UJ4hqdo1E2) | [Soca Explosion](https://open.spotify.com/album/6eXrGVAex4Wb1TRr6DNqeM) | 5:09 |

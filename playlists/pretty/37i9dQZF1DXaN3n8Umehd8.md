@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 
 > El fuego del amor que enciende la pista de baile\. Eddie Santiago en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,569 likes - 45 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,615 likes - 45 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,095 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,144 likes - 70 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 23 | [Bad Girl](https://open.spotify.com/track/2bLQ0HMyuUWI7uPRzCy5Lo) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Bad Girl](https://open.spotify.com/album/3v96qe3pw2Jz8xw0BrNXAH) | 3:34 |
 | 24 | [魔法の絨毯](https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [I believe in you](https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL) | 3:28 |
 | 25 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 |
-| 26 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
-| 27 | [ツキミソウ](https://open.spotify.com/track/6sElEqOIGENWjpxGFeo5ct) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [開幕宣言](https://open.spotify.com/album/2l0vCKtHcqHyticG9vDDCg) | 5:12 |
+| 26 | [ツキミソウ](https://open.spotify.com/track/6sElEqOIGENWjpxGFeo5ct) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [開幕宣言](https://open.spotify.com/album/2l0vCKtHcqHyticG9vDDCg) | 5:12 |
+| 27 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
 | 28 | [青と夏](https://open.spotify.com/track/0a3587n25Xhw098UeEbeJq) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [青と夏](https://open.spotify.com/album/3U7I6bqhI8IsRvPLLaVN6v) | 4:30 |
 | 29 | [そっけない](https://open.spotify.com/track/2ntXQnx4ZUraj1u5Hwqjem) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [ANTI ANTI GENERATION](https://open.spotify.com/album/0a69ul4zJx8c6ZBy2carWF) | 6:32 |
 | 30 | [Love Song](https://open.spotify.com/track/2aAuO61alPO20xyePFHjdf) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [Love Song](https://open.spotify.com/album/5NWIfXCP5VKNlZmkfDnPuV) | 4:46 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 51 | [今宵の月のように](https://open.spotify.com/track/0wMfMGp7nz7JMNw7tei9f5) | [Elephant Kashimashi](https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm) | [明日に向かって走れ\-月夜の歌\-](https://open.spotify.com/album/515BiJpfiA4Cf6OD8iyom0) | 4:12 |
 | 52 | [Topping](https://open.spotify.com/track/59vn9z2EUT8GStAdmDNf3y) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Topping](https://open.spotify.com/album/41tisXYtO2LPc1kGG0kEKn) | 2:46 |
 | 53 | [題名のない今日](https://open.spotify.com/track/6skNbV22epX2yHu4O2hYSx) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Life Goes On](https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe) | 3:13 |
-| 54 | [本当はね、](https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:21 |
-| 55 | [BAD LOVE](https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [BAD LOVE](https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB) | 3:05 |
+| 54 | [BAD LOVE](https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [BAD LOVE](https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB) | 3:05 |
+| 55 | [本当はね、](https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:21 |
 | 56 | [姿](https://open.spotify.com/track/5okAqlWhkOADHjd61PKslW) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 3:27 |
 | 57 | [怪盗](https://open.spotify.com/track/10Eyo4juZQFthKqlJgGMdp) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [怪盗](https://open.spotify.com/album/4WQ8gG1ItkCzFBnG7P20YR) | 3:16 |
 | 58 | [ブルーアンビエンス](https://open.spotify.com/track/1S1WSh4uCprvucg6Hx57Eh) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ブルーアンビエンス](https://open.spotify.com/album/4fbghPZI7ZAQIbO4V7yrVj) | 4:10 |

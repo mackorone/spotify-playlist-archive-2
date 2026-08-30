@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,637,075 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,637,060 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 8 | [Ordinary World](https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran](https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T) | 5:40 |
 | 9 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
 | 10 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
-| 11 | [Blackbird \- Remastered 2009](https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:18 |
+| 11 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:43 |
 | 12 | [Take the World Apart](https://open.spotify.com/track/4qqUsutDnU3ZSZbZiLrzNB) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Take the World Apart](https://open.spotify.com/album/3rXiySdCNMOD2mB55SpNUd) | 2:44 |
-| 13 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:43 |
+| 13 | [Blackbird \- Remastered 2009](https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:18 |
 | 14 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 |
 | 15 | [Into the Mystic \- 2013 Remaster](https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 3:25 |
 | 16 | [She's Always a Woman](https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:21 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 64 | [May You Never](https://open.spotify.com/track/6ofam9RHTG7UBUa6uO2MjP) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [Solid Air](https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp) | 3:40 |
 | 65 | [The Weight](https://open.spotify.com/track/2UgZeV435iztRTLrUeOrtk) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Best Of The Band](https://open.spotify.com/album/4RMbnuwtOMbN3INQcaJwUr) | 4:34 |
 | 66 | [Donna Donna](https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 3:12 |
-| 67 | [Crayon Angels](https://open.spotify.com/track/7iKnwGAMdY6LYLILGnsGhT) | [Judee Sill](https://open.spotify.com/artist/2IkwqvwEnXFlZEq6eFP1wL) | [Judee Sill](https://open.spotify.com/album/2zaIMRTlztlfkxLoo5nPtf) | 2:45 |
+| 67 | [Red Dirt Girl](https://open.spotify.com/track/41QWKQjT6riBhHAGYHU9Xu) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Hickory Wind](https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX) | 4:05 |
 | 68 | [It's All Over Now Baby Blue](https://open.spotify.com/track/7hoWkhuHv9b3jiCbxX1kMm) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Rich Kid Blues](https://open.spotify.com/album/7m06IfHTHIxJHPlOrCybrk) | 3:49 |
-| 69 | [Red Dirt Girl](https://open.spotify.com/track/41QWKQjT6riBhHAGYHU9Xu) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Hickory Wind](https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX) | 4:05 |
+| 69 | [Crayon Angels](https://open.spotify.com/track/7iKnwGAMdY6LYLILGnsGhT) | [Judee Sill](https://open.spotify.com/artist/2IkwqvwEnXFlZEq6eFP1wL) | [Judee Sill](https://open.spotify.com/album/2zaIMRTlztlfkxLoo5nPtf) | 2:45 |
 | 70 | [900 Miles](https://open.spotify.com/track/0zVduthKvT1FEsUGFWT9Xo) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [The New Folk Sound Of Terry Callier \(Deluxe Edition\)](https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7) | 5:07 |
 | 71 | [When I'm Gone](https://open.spotify.com/track/0yQ9vnsC7CyPMwAQ3BlWcJ) | [Phil Ochs](https://open.spotify.com/artist/3JhQGw54MOytJP3GZ8KNPo) | [There But For Fortune](https://open.spotify.com/album/5uhYaHfiH4leO4tbdEOZJe) | 4:13 |
 | 72 | [Just Like a Woman](https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 4:50 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 74 | [Older Chests](https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
 | 75 | [Carolina In My Mind](https://open.spotify.com/track/2Fv3LSqbgv5lrdClrc6XKc) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [James Taylor Live](https://open.spotify.com/album/38OACLXl1hgUnsuCUv13HC) | 5:01 |
 | 76 | [Universal Soldier](https://open.spotify.com/track/4MCI71gpCGwHsK2rv7c8pv) | [Buffy Sainte\-Marie](https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x) | [It's My Way](https://open.spotify.com/album/3xqpKfDsGJYbCdMndvxZmd) | 2:20 |
-| 77 | [Black Is the Colour](https://open.spotify.com/track/29tvuiMPkb9q56VRoLVQKD) | [Tia Blake](https://open.spotify.com/artist/6fkGY2RJyI8UxNjMlDo9k1) | [Folksongs & Ballads](https://open.spotify.com/album/2JQDn2wgm2nLVxdWE0GJJa) | 2:28 |
-| 78 | [Sing a Song for You](https://open.spotify.com/track/01o6YGrdvMrUAFmWgwoDCb) | [Tim Buckley](https://open.spotify.com/artist/6zHRqvws8dVeqL8D31ponr) | [Happy Sad](https://open.spotify.com/album/20CYfxjKvqXkCXBhAgOE39) | 2:41 |
+| 77 | [Sing a Song for You](https://open.spotify.com/track/01o6YGrdvMrUAFmWgwoDCb) | [Tim Buckley](https://open.spotify.com/artist/6zHRqvws8dVeqL8D31ponr) | [Happy Sad](https://open.spotify.com/album/20CYfxjKvqXkCXBhAgOE39) | 2:41 |
+| 78 | [Black Is the Colour](https://open.spotify.com/track/29tvuiMPkb9q56VRoLVQKD) | [Tia Blake](https://open.spotify.com/artist/6fkGY2RJyI8UxNjMlDo9k1) | [Folksongs & Ballads](https://open.spotify.com/album/2JQDn2wgm2nLVxdWE0GJJa) | 2:28 |
 | 79 | [Reason to Believe](https://open.spotify.com/track/1RcKqJ28uiE8EHPfg7Mg2J) | [Karen Dalton](https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy) | [1966](https://open.spotify.com/album/1K7tpapZGd6Ax1YA2vXNEA) | 2:24 |
 | 80 | [Not Alone](https://open.spotify.com/track/2SXtIzmLn2a8WHDbxAt6Ai) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Living With Ghosts](https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF) | 4:32 |
 | 81 | [Music Is Love](https://open.spotify.com/track/0O87QQVWgCkkXAfrhsal55) | [David Crosby](https://open.spotify.com/artist/59zdhVoWxSoHMc74n098Re) | [If I Could Only Remember My Name](https://open.spotify.com/album/4v9ZAufvuQKvTLcy21y6BM) | 3:22 |

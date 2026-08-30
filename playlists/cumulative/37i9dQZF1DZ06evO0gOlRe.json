@@ -1151,6 +1151,28 @@
     },
     {
       "album": {
+        "name": "Missing Piece",
+        "url": "https://open.spotify.com/album/3ISKoozRNGwImVBOrOYw6R"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/0cnx25C8BdsEEumqvzXjAF"
+    },
+    {
+      "album": {
         "name": "What If?",
         "url": "https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5"
       },

@@ -4,7 +4,7 @@
 
 > Para cantar y recordar.
 
-227 songs - 17 hr 15 min
+228 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Que pena](https://open.spotify.com/track/2YXvjidOJH62npeeKr2iZR) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [Beto Villa](https://open.spotify.com/artist/2xScahn880efYSHWp8SpsC) | [La Combinacion Vallenata Elite Vol\. 5](https://open.spotify.com/album/7dzVsV1IrlFyrEcYr2KIR6) | 5:33 | 2023-02-13 | 2024-04-19 |
 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/1BId2hCYqsaajdDYbwZc1p) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 4:58 | 2024-05-28 | 2026-07-30 |
 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/7CFcADHXs2wjUxNyyoScEn) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Más Cerca De Ti](https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI) | 4:58 | 2023-02-13 | 2024-04-19 |
-| [Quiero Saber de Ti](https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Volver a Triunfar](https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk) | 4:57 | 2023-12-21 |  |
+| [Quiero Saber de Ti](https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Volver a Triunfar](https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk) | 4:57 | 2023-12-21 | 2026-08-30 |
 | [Quiero Saber De Ti](https://open.spotify.com/track/5Q9eoqeg4Z3c8wIsesbkaI) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 4:57 | 2023-02-13 | 2024-04-19 |
 | [Realízame Mis Sueños](https://open.spotify.com/track/4oqO3vXs4XnvG8HyO6UIfJ) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq) | 4:39 | 2024-05-28 | 2025-10-26 |
 | [Recomendación](https://open.spotify.com/track/34p1Bac7GMCr2XaaF7QaF6) | [100 Años de Vallenato](https://open.spotify.com/artist/5yY5ocGq1YAS3yjoXrRk6p), [Julio Rojas](https://open.spotify.com/artist/4ggsID5la9TdapHKim9wSc), [Javier Vega](https://open.spotify.com/artist/2vOmk7qYwuHUpQwW6AmHKV) | [100 Años de Vallenato \(Vol.5\)](https://open.spotify.com/album/3BIfC0ZUGCf3VgleF0t62E) | 3:22 | 2022-01-24 | 2023-02-14 |
@@ -197,6 +197,7 @@
 | [Se Le Moja la Canoa \(La Canoa\)](https://open.spotify.com/track/5M7HcDhJzZzhB2JaLQGbRl) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Historia Musical de Los Embajadores Vallenatos](https://open.spotify.com/album/1ttEZHvwYpa4eUwpSg1PaS) | 4:18 | 2024-05-28 | 2025-01-22 |
 | [Señora](https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 3:58 | 2023-12-21 |  |
 | [Señora](https://open.spotify.com/track/1aWlzqhPWYcmMK5H9lgpP6) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Muy Nuestro](https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ) | 3:58 | 2022-01-24 | 2024-04-19 |
+| [Si Puedes Perdonarme](https://open.spotify.com/track/0K115zwBwmlKMx5iXcO2df) | [Erick Escobar Nayo Quintero Y La Decision Vallenata](https://open.spotify.com/artist/1fWDfU0nNn9izFAjKDaMWO) | [Vallenatos Bonitos Bonitos](https://open.spotify.com/album/3zwrFhwgWu2efe7YcS68zn) | 4:53 | 2026-05-04 |  |
 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/4frx1sI3l2Chq71SLHjiSx) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | […Que viva el vallenato!](https://open.spotify.com/album/0d2xaYm4ahP90Bdbm2Ea28) | 4:54 | 2023-12-21 |  |
 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/6f9wNWLVMRX9QbsStbaI4Q) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | […Que viva el vallenato!](https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY) | 4:54 | 2023-02-13 | 2024-04-19 |
 | [Sin Medir Distancias](https://open.spotify.com/track/1p3kQIzyl2NKeJ45uDQw4G) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [El Cocha Molina](https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs) | [Grandes Exitos](https://open.spotify.com/album/4xjVnNwDXWCPv9dsH6oITz) | 4:58 | 2024-05-28 |  |

@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-2,185 songs - 5 day 2 hr 17 min
+2,187 songs - 5 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [Church Of Lie \- Remix I](https://open.spotify.com/track/64VaMBSrYtEC4dd1ZFJq3N) | [Electric BlindFold](https://open.spotify.com/artist/2OzZt06pUFhxbinEGey4Ng) | [Church Of Lie \(Remix\)](https://open.spotify.com/album/0updQwHb137cfnlkfl2eqE) | 3:03 | 2026-02-24 | 2026-03-17 |
 | [Cicles caduquen](https://open.spotify.com/track/3n4BLzoQrth8l0WEWLWP8e) | [Només Tot](https://open.spotify.com/artist/5WYj8w4O9AiT8jrOroxydL) | [Cicles Caduquen](https://open.spotify.com/album/1TixayhHk8ebpP5aTBhqdf) | 2:04 | 2025-12-28 | 2026-02-03 |
 | [Cigarette Burns \(Kate's Song\)](https://open.spotify.com/track/541jCi7T0ob7m2XWpxIqgu) | [The Stray Frequency](https://open.spotify.com/artist/3hEubFhpcuWMSmcAWiVZyi) | [Cigarette Burns \(Kate's Song\)](https://open.spotify.com/album/11ygoDJdBv241KIB4OsqJ1) | 4:05 | 2025-12-29 | 2026-01-22 |
+| [Cigarettes and CHANEL](https://open.spotify.com/track/0da4RrPEPzr7ALsukP8t4V) | [Dino Valentino](https://open.spotify.com/artist/3GJJFL0a79nM1bZPf0PeRR) | [Cigarettes and CHANEL](https://open.spotify.com/album/5aQJoOTDrs2YVzu3QS7HYU) | 4:19 | 2026-08-29 |  |
 | [Cindy Lee, Forever](https://open.spotify.com/track/1vu2V0n5tuSKODQWwzIJwv) | [Ernest Graves](https://open.spotify.com/artist/3S0CAgGVPhrk1V4CzGKJFB) | [Cindy Lee, Forever](https://open.spotify.com/album/0a9aFMSqP2he9f66pY6iFy) | 3:02 | 2025-12-04 | 2025-12-24 |
 | [Circles](https://open.spotify.com/track/406JBqzAMw5A3a69RVbAKB) | [Angeliferous](https://open.spotify.com/artist/0q79XPF0tihxxHMKKRr6qg) | [Rotation](https://open.spotify.com/album/2xSJUYyX9C5lxN5RRDJXbC) | 3:04 | 2026-06-26 | 2026-07-18 |
 | [circles](https://open.spotify.com/track/0d0HWMlBcsm2zB3ZaV8d7E) | [hideaways.](https://open.spotify.com/artist/69GTkLWVatpJWSJlmKNdUG), [Debbi Koh](https://open.spotify.com/artist/7Kee6lArbmE69gO5HY06G6) | [circles](https://open.spotify.com/album/0Lspo9U52hDPiLIetVX0uZ) | 3:30 | 2025-12-17 | 2026-01-06 |
@@ -502,6 +503,7 @@
 | [Disgust](https://open.spotify.com/track/7B73WiWIZyPILcJbO1m81e) | [Miniluv](https://open.spotify.com/artist/4OtryTb8CSnDX2asGlYFA1) | [Disgust](https://open.spotify.com/album/5zgNYYADAR4oGmBIwdDVjD) | 2:52 | 2025-12-04 | 2025-12-24 |
 | [DISGUSTING DISCUSSION](https://open.spotify.com/track/4JHnrhdfCz9qXlqtMv9VsF) | [Angel Tuesday](https://open.spotify.com/artist/7tpY9KaNmsNLtuqmETRgN5) | [DISGUSTING DISCUSSION](https://open.spotify.com/album/1I79x8Pa9KJAiO56Q5VPe7) | 2:08 | 2026-03-12 | 2026-04-13 |
 | [Disinhibition](https://open.spotify.com/track/591PDhW8dDp3P9HutTyWm5) | [What Awaits Us](https://open.spotify.com/artist/6LwPSi3RtIwbgcbEt7FYHk) | [Disinhibition](https://open.spotify.com/album/4kAK5H247U6hbLyKrQo2pM) | 2:59 | 2026-03-04 | 2026-04-05 |
+| [Dissipate](https://open.spotify.com/track/6ZmORPch3MI3xEFmkw6VT8) | [Buried In Spring](https://open.spotify.com/artist/1YaEAdCYXZQEJoo8VkxbMY) | [Dissipate](https://open.spotify.com/album/0e3JpYNsuCjByJztzIEUN9) | 3:21 | 2026-08-29 |  |
 | [Dissonanze](https://open.spotify.com/track/4it9AInqERIyIVB2xAyGeU) | [Evan Park](https://open.spotify.com/artist/0Uy6ep5p6hkzzPs1SuucDU) | [Dissonanze](https://open.spotify.com/album/2UHDgfzcwmSw24WKsJI1e8) | 2:16 | 2025-12-15 | 2026-01-06 |
 | [Distant But Alive](https://open.spotify.com/track/5W4oJwPUR22tVrR8NeeHRK) | [Riverbloom](https://open.spotify.com/artist/2KcPPrAFKeKjzc3oFMcdUd) | [Distant But Alive](https://open.spotify.com/album/2yFGEXLCmPEUu3NtzwAulY) | 3:53 | 2026-04-15 | 2026-05-17 |
 | [DLMG \(Don't Let Me Go\)](https://open.spotify.com/track/4JJ5KsO8YKpQ97bKzCrMQK) | [Dreamcult](https://open.spotify.com/artist/5GiPnsVJ0mGjr2u2Pfv0pG) | [DLMG \(Don't Let Me Go\)](https://open.spotify.com/album/5kLOgVjX0h3vpPVA2u9JWL) | 4:18 | 2026-07-07 | 2026-08-01 |
