@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 598084,
+  "num_followers": 598104,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAACbTqRHtW2nfbu7z2ItM+5L",
+  "snapshot_id": "apIhAAAAAACnKEP8IjPomTlBboJCm0XX",
   "tracks": [
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 411133,
-      "name": "Flawless (Go to the City)",
-      "url": "https://open.spotify.com/track/6HwgNXpldZ0WfY4kzJgexr"
+      "duration_ms": 313595,
+      "name": "Everything She Wants - Live",
+      "url": "https://open.spotify.com/track/2kaDIOcZx2WARb52smVMt4"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 313595,
-      "name": "Everything She Wants - Live",
-      "url": "https://open.spotify.com/track/2kaDIOcZx2WARb52smVMt4"
+      "duration_ms": 411133,
+      "name": "Flawless (Go to the City)",
+      "url": "https://open.spotify.com/track/6HwgNXpldZ0WfY4kzJgexr"
     },
     {
       "added_at": null,

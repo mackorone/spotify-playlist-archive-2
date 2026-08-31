@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 
 > Cele mai de succes 50 de hituri în România\. Cover: MADATORRICELLI
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,023 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,043 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

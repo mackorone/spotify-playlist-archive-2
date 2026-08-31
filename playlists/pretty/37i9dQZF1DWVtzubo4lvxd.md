@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,028 likes - 75 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,022 likes - 75 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 24 | [hammock](https://open.spotify.com/track/1PdJvxvhuImI0dpuWoPwWe) | [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [hometown](https://open.spotify.com/album/1algiZiHrfsA4siGIdUZRq) | 1:56 |
 | 25 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 |
 | 26 | [Air](https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX) | [Blvk](https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb) | [Beat Batch \#2](https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB) | 1:17 |
-| 27 | [I Don't Love You Anymore](https://open.spotify.com/track/6QOVWoZUD3IEszbfO46mYW) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Don't Love You Anymore](https://open.spotify.com/album/0n64xoWxg6GJpUzA1zOWnl) | 1:17 |
-| 28 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 |
+| 27 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 |
+| 28 | [I Don't Love You Anymore](https://open.spotify.com/track/6QOVWoZUD3IEszbfO46mYW) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Don't Love You Anymore](https://open.spotify.com/album/0n64xoWxg6GJpUzA1zOWnl) | 1:17 |
 | 29 | [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 |
-| 30 | [Afloat](https://open.spotify.com/track/4XDlW5QgLKZupaJ5VvacsP) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Imaginary](https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA) | 2:28 |
-| 31 | [Rocking Chair](https://open.spotify.com/track/4PrHSXjTmED07FiLQnpnXK) | [Aisake](https://open.spotify.com/artist/6TFQJV5WynYysXq0LJraYe) | [Rocking Chair](https://open.spotify.com/album/1AMq0iQTk9wIwTrbfEne7e) | 2:20 |
+| 30 | [Rocking Chair](https://open.spotify.com/track/4PrHSXjTmED07FiLQnpnXK) | [Aisake](https://open.spotify.com/artist/6TFQJV5WynYysXq0LJraYe) | [Rocking Chair](https://open.spotify.com/album/1AMq0iQTk9wIwTrbfEne7e) | 2:20 |
+| 31 | [Afloat](https://open.spotify.com/track/4XDlW5QgLKZupaJ5VvacsP) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Imaginary](https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA) | 2:28 |
 | 32 | [Water](https://open.spotify.com/track/5Z393NbAlwjAl0vYzUZh9D) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:42 |
 | 33 | [August](https://open.spotify.com/track/6WnEp9XsKFq5n88FzFT20Z) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P) | [Loops](https://open.spotify.com/album/7LdkHMP8fcMyfo85r1HvKJ) | 1:54 |
 | 34 | [Dont.Be.Afraid.](https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk) | [DVLTVN](https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb) | [The Blyat Tapes,Vol.1](https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu) | 1:25 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 40 | [Desire](https://open.spotify.com/track/5BMDnItXLkEKbVhDJlM1DE) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:11 |
 | 41 | [Make Up](https://open.spotify.com/track/61JERhZCmTcba3dkm2k53O) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Nineteen](https://open.spotify.com/album/69fOwmdCZIaWPE4OLLnuQi) | 1:06 |
 | 42 | [Rose Garden](https://open.spotify.com/track/37I8L2Cx6PScWXn0tkN4wV) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Imaginary](https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA) | 2:06 |
-| 43 | [Life](https://open.spotify.com/track/5Pxb3DpymMiRl8JDiOXTPE) | [Lost Son](https://open.spotify.com/artist/0hcPMmuJcGcRhzAzYRrWVF) | [Life](https://open.spotify.com/album/766qimmxJrU3wXg0coClg9) | 1:19 |
-| 44 | [Cherry Pie Jam](https://open.spotify.com/track/4kebaMUJlFbzPacKwcAGLZ) | [Hollow Clouds](https://open.spotify.com/artist/6j46UIFeyGBhixGhFvxdrh) | [Cherry Pie Jam](https://open.spotify.com/album/50T1ZXJe0cQlOxOGpqWCBl) | 3:37 |
+| 43 | [Cherry Pie Jam](https://open.spotify.com/track/4kebaMUJlFbzPacKwcAGLZ) | [Hollow Clouds](https://open.spotify.com/artist/6j46UIFeyGBhixGhFvxdrh) | [Cherry Pie Jam](https://open.spotify.com/album/50T1ZXJe0cQlOxOGpqWCBl) | 3:37 |
+| 44 | [Life](https://open.spotify.com/track/5Pxb3DpymMiRl8JDiOXTPE) | [Lost Son](https://open.spotify.com/artist/0hcPMmuJcGcRhzAzYRrWVF) | [Life](https://open.spotify.com/album/766qimmxJrU3wXg0coClg9) | 1:19 |
 | 45 | [with me](https://open.spotify.com/track/1eMfoDF9GAViOTX7FC30C6) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [with me](https://open.spotify.com/album/5GyspQ4x1DcMw1I4LrQJSx) | 2:17 |
 | 46 | [i dream of you every night](https://open.spotify.com/track/4Z5aQZdyQ8Fc3R7PE17T0e) | [lostlife.](https://open.spotify.com/artist/40OFkxP3djvsCg7Aj3d7sk) | [i dream of you every night](https://open.spotify.com/album/1aypmsUBuVvA4gG9mb40KL) | 2:27 |
 | 47 | [Fuji.](https://open.spotify.com/track/2xWavyjB5Nif5Cy8lRLX4Q) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [Swimming](https://open.spotify.com/album/2eN8bdTlnXQJlA4cKVYX4L) | 1:48 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 59 | [Lofi Smoke and Pass Out](https://open.spotify.com/track/6cK2p8SINJhAtZWjljXzqg) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Smoke and Pass Out](https://open.spotify.com/album/5nyNkedLe5CAEED8c2nDyt) | 3:53 |
 | 60 | [Everywhere Home](https://open.spotify.com/track/5iEcmnWLroqZNsDOeLdAqw) | [Aytun](https://open.spotify.com/artist/7cPjAZYOPseCzqxvEoqeLY), [Can Menek](https://open.spotify.com/artist/0scw6tyxsoUys8IX5GzoZJ), [DJ Daddy E](https://open.spotify.com/artist/00oHhGfAfmXp67aR5QrkRQ) | [Everywhere Home](https://open.spotify.com/album/3hSioPf1pQddF0pUKDK2s0) | 4:10 |
 | 61 | [Vanilla Sky](https://open.spotify.com/track/01DW6OboQNUWIUQTx56m3W) | [Trell Daniels](https://open.spotify.com/artist/1CEqyczKKYNhzgqCjH7G7Q) | [Vanilla Sky](https://open.spotify.com/album/5BFVG3uO4KhcVi1rHZDDxD) | 2:03 |
-| 62 | [Froosh](https://open.spotify.com/track/3VQIAOQRwGwFvBaR7E36O1) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Froosh](https://open.spotify.com/album/0nlcA5P03I6t06WdlLy5FF) | 1:57 |
-| 63 | [It's Time](https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr) | [Time Brings Change](https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0) | 1:50 |
+| 62 | [It's Time](https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr) | [Time Brings Change](https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0) | 1:50 |
+| 63 | [Froosh](https://open.spotify.com/track/3VQIAOQRwGwFvBaR7E36O1) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Froosh](https://open.spotify.com/album/0nlcA5P03I6t06WdlLy5FF) | 1:57 |
 | 64 | [Floating Free](https://open.spotify.com/track/4T50e4TUj1kMFWi66QaBEq) | [Veritas](https://open.spotify.com/artist/2S6iwClVoSNnpOcCzyMeUj) | [Floating Free](https://open.spotify.com/album/1o57MZ6drrqBMNsahZNvPu) | 4:08 |
 | 65 | [Real Life](https://open.spotify.com/track/4kSWrE6OOHPJt4TizgkckZ) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW) | [Polo Beats](https://open.spotify.com/album/0aCbGwTjoC0h4F6SJN2OzE) | 1:38 |
 | 66 | [BEACH](https://open.spotify.com/track/1iN5j0yTid7A3VzEx8lwhe) | [Farazi](https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg) | [CRAFT](https://open.spotify.com/album/3XHlFqpOeA7B0s8ZX7sX3a) | 2:46 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 69 | [Getting Lost](https://open.spotify.com/track/2qu7wb9uya6Kh1YqgHyxOy) | [Veritas](https://open.spotify.com/artist/2S6iwClVoSNnpOcCzyMeUj) | [Getting Lost](https://open.spotify.com/album/37kZUfnuctnnWXvDEATO21) | 3:52 |
 | 70 | [Misty \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/034ZKE6KJpa8yVpAPQ9AMT) | [Sam Barsh](https://open.spotify.com/artist/4vVYohuzsd1OIOpYw2FuER), [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Spotify Singles \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/6JxnS1pZVWSZW4qtr2gfEu) | 1:38 |
 | 71 | [My Promise](https://open.spotify.com/track/2tLMEIVC98DSoq8jjypvg6) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [My Promise](https://open.spotify.com/album/5rL8vcVAck9ba3BC8X0WFg) | 4:01 |
-| 72 | [Feeling Free](https://open.spotify.com/track/5eGZV3CqygFwrRoYeoZmbL) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Feeling Free](https://open.spotify.com/album/2RodOh8h0h5JORsgPu7zmc) | 2:00 |
+| 72 | [City Rain](https://open.spotify.com/track/2ulWL7DcayhjIa0UOw4v8i) | [G93](https://open.spotify.com/artist/01kKwMSA10JavvAaD0Jj5u) | [City Rain](https://open.spotify.com/album/32Zu5iSwr6KPFFikCB76eT) | 3:33 |
 | 73 | [Wherewithal](https://open.spotify.com/track/5X1x7olCET1Kix9YjOMTkN) | [Bokki](https://open.spotify.com/artist/1gmAvUNIqrPSGklxtoj514) | [Wherewithal](https://open.spotify.com/album/3oJGMM6U9KPZmnhgk92Pck) | 2:39 |
-| 74 | [City Rain](https://open.spotify.com/track/2ulWL7DcayhjIa0UOw4v8i) | [G93](https://open.spotify.com/artist/01kKwMSA10JavvAaD0Jj5u) | [City Rain](https://open.spotify.com/album/32Zu5iSwr6KPFFikCB76eT) | 3:33 |
+| 74 | [Feeling Free](https://open.spotify.com/track/5eGZV3CqygFwrRoYeoZmbL) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Feeling Free](https://open.spotify.com/album/2RodOh8h0h5JORsgPu7zmc) | 2:00 |
 | 75 | [its not the time](https://open.spotify.com/track/68cwRG1sfkHrQQinU9Ibv9) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k) | [its not the time](https://open.spotify.com/album/0jp4ud99lCwQTBfHur3bXS) | 1:56 |
 
 Snapshot ID: `AAAAAA9+jXpDhVhj1sau5xGek2X34ult`

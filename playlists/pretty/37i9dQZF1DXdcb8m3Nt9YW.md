@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > Pura pieza en vivo para destapar un bote y sentirte como si estuvieras ahí\. Cornelio Vega y su Dinastía en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,724 likes - 125 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,809 likes - 125 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 | 18 | [Por Quién Me Dejas \- En vivo](https://open.spotify.com/track/7FABqptJxKZHqBPpEvCxhS) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Banda Corona del Rey](https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI) | [Coronar Hasta Que Amanezca \(En Vivo\)](https://open.spotify.com/album/4ZGGQByBy9NVxhjHC9SBdw) | 3:12 |
 | 19 | [El desquite \- En Vivo](https://open.spotify.com/track/5MyARyHHKOOs2IV7HAWMiC) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG), [Banda la Única del Rancho](https://open.spotify.com/artist/7H2EP5MBxgYqLuqlgQ1bXU) | [La Revancha Vol.2 \(En Vivo\)](https://open.spotify.com/album/5ayYsE1w7jcL06XDpgdFTq) | 3:03 |
 | 20 | [Una flor quise cortar](https://open.spotify.com/track/0GQtlRggAcNzT8NLmqvODG) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [Cantando en casa](https://open.spotify.com/album/7olLOlbzXPRblqANpeIIDD) | 2:23 |
-| 21 | [Corre \(En Vivo\)](https://open.spotify.com/track/031vptkhlHXymEmgYUA7D8) | [Destino](https://open.spotify.com/artist/1OxOSIlaBxSoWcT7UzxFwZ) | [Corre \(En Vivo\)](https://open.spotify.com/album/01q5N6GegdNRFu6cfs4xxg) | 3:03 |
+| 21 | [Corre \- En Vivo](https://open.spotify.com/track/031vptkhlHXymEmgYUA7D8) | [Destino](https://open.spotify.com/artist/1OxOSIlaBxSoWcT7UzxFwZ) | [Corre \(En Vivo\)](https://open.spotify.com/album/01q5N6GegdNRFu6cfs4xxg) | 3:03 |
 | 22 | [Las Edades \- En Vivo](https://open.spotify.com/track/01NTntNkCtZXVhLnKgzVFs) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 3:00 |
 | 23 | [Ebrio De Amor \- En Vivo](https://open.spotify.com/track/2SkeBrSWvvTsFtORCiud4k) | [Arath Arceo](https://open.spotify.com/artist/179sKnhSlC0IVj10e98XhZ) | [Que Empiece La Borrachera \(En Vivo\)](https://open.spotify.com/album/3bx8b36tOXgle97X8LpBPm) | 2:55 |
 | 24 | [La Más Bonita de Todas \(En Vivo\)](https://open.spotify.com/track/6sXEHNmhDC7WVG9jBFoHwI) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Borrachera Fito Shyruka \(En Vivo\)](https://open.spotify.com/album/6K8PyaJ2AqlWJ01NNhCyft) | 3:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vBPgvJFPJn.md) - [plain]
 
 > The best new music videos from independent artists and labels\. Featuring Babehoven\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229 likes - 48 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 239 likes - 48 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

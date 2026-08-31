@@ -106,7 +106,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 250760,
       "name": "3 Sisters",
       "url": "https://open.spotify.com/track/0AO3ejChi1gRBWvUDMH2kg"
@@ -182,6 +182,24 @@
       "duration_ms": 166890,
       "name": "911",
       "url": "https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf"
+    },
+    {
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "A Couple Minutes",
+      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk"
     },
     {
       "album": {
@@ -733,6 +751,24 @@
     },
     {
       "album": {
+        "name": "The Original Singles Collection . . . Plus",
+        "url": "https://open.spotify.com/album/2ofo3NZKdLxM3SBspKmXfV"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121066,
+      "name": "Alone And Forsaken",
+      "url": "https://open.spotify.com/track/5zFgBVbfMdfo6kCKm5hD6t"
+    },
+    {
+      "album": {
         "name": "Voodoo Blu",
         "url": "https://open.spotify.com/album/2u3r9jBnRD3KQhhHiT4zQq"
       },
@@ -1195,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "Adore (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7ysKTnHt4ve0MvIWm3vPdz"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270893,
+      "name": "Ava Adore",
+      "url": "https://open.spotify.com/track/6bVB2MGR7LcotAIB1vfpw6"
+    },
+    {
+      "album": {
         "name": "FREE I.H: This Is Not the One You've Been Waiting For",
         "url": "https://open.spotify.com/album/2Epa4HydFeZJ6rxm8OZ7aw"
       },
@@ -1278,7 +1332,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 199247,
       "name": "Bad Luck",
       "url": "https://open.spotify.com/track/1OYHXCuHdzHjpHqHlY1g1r"
@@ -2506,6 +2560,28 @@
       "duration_ms": 216760,
       "name": "careless (feat. daniel caesar)",
       "url": "https://open.spotify.com/track/3xqtvSfofDvSMVwwSbuvKi"
+    },
+    {
+      "album": {
+        "name": "Yessir Whatever",
+        "url": "https://open.spotify.com/album/6jnkEgtcxePHtbay62bota"
+      },
+      "artists": [
+        {
+          "name": "Quasimoto",
+          "url": "https://open.spotify.com/artist/1rJkz5vopfGxTUGFNB3o4G"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163413,
+      "name": "Catchin' The Vibe",
+      "url": "https://open.spotify.com/track/6kQjb5Vcg0FHDmb4jjNlLY"
     },
     {
       "album": {
@@ -4222,7 +4298,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -6029,6 +6105,28 @@
     },
     {
       "album": {
+        "name": "Ambrosia",
+        "url": "https://open.spotify.com/album/4WLSlSsZR6RZSaZm2ZB1WI"
+      },
+      "artists": [
+        {
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+        },
+        {
+          "name": "Alan Parsons",
+          "url": "https://open.spotify.com/artist/6HpZkC8GUktP9utE6OPWZG"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256160,
+      "name": "Holdin' on to Yesterday",
+      "url": "https://open.spotify.com/track/5nFpF7jUbVnnDMXIu65aoh"
+    },
+    {
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/2D37uNhXgherfImusGBKTx"
       },
@@ -6340,6 +6438,24 @@
       "duration_ms": 279400,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/1c5KZhtOAOH7eFOlBekNhS"
+    },
+    {
+      "album": {
+        "name": "Now in a Minute",
+        "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
+      },
+      "artists": [
+        {
+          "name": "Donna Lewis",
+          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239960,
+      "name": "I Love You Always Forever",
+      "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
     },
     {
       "album": {
@@ -7226,7 +7342,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 196522,
       "name": "iPod Touch",
       "url": "https://open.spotify.com/track/1xqT27jSG1Y15vOXfsV0gv"
@@ -7772,10 +7888,28 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 275733,
       "name": "Last Goodbye",
       "url": "https://open.spotify.com/track/0y5CnV2idm2KkQEudDjfDT"
+    },
+    {
+      "album": {
+        "name": "Latyrx (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/59HUrpebJcCxeYq3LOLQfs"
+      },
+      "artists": [
+        {
+          "name": "Latyrx",
+          "url": "https://open.spotify.com/artist/23hdcMBvWnhwTIWRKLLEvo"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347333,
+      "name": "Latyrx",
+      "url": "https://open.spotify.com/track/5EeqJeriXLswxQJhZYVnsC"
     },
     {
       "album": {
@@ -7960,7 +8094,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 164426,
       "name": "Lickupon",
       "url": "https://open.spotify.com/track/1wQixSSWydeLgkebOzu3yt"
@@ -8054,6 +8188,24 @@
       "duration_ms": 189453,
       "name": "Light Upon the Lake",
       "url": "https://open.spotify.com/track/5vEL3EpvP50ynXJqLon8yv"
+    },
+    {
+      "album": {
+        "name": "Start Walkin' 1965-1976",
+        "url": "https://open.spotify.com/album/1J3CtRxcG9Tkuw2xQ59NEk"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176560,
+      "name": "Lightning's Girl",
+      "url": "https://open.spotify.com/track/7olHg8x8GvMJAcRzOLHK5e"
     },
     {
       "album": {
@@ -9062,6 +9214,24 @@
       "duration_ms": 217093,
       "name": "Mint Tea",
       "url": "https://open.spotify.com/track/6F7mS7NLtJ54WIkFZuaKT8"
+    },
+    {
+      "album": {
+        "name": "Minute by Minute",
+        "url": "https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206973,
+      "name": "Minute by Minute",
+      "url": "https://open.spotify.com/track/37oLDb3119IdKSIFQmSGRj"
     },
     {
       "album": {
@@ -10207,6 +10377,24 @@
     },
     {
       "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211739,
+      "name": "Oklahoma Smokeshow",
+      "url": "https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a"
+    },
+    {
+      "album": {
         "name": "Brighten the Corners",
         "url": "https://open.spotify.com/album/1Q6ikDUK4RFtLI3N9Lll9h"
       },
@@ -11162,7 +11350,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 167853,
       "name": "Rainbows",
       "url": "https://open.spotify.com/track/0mONC9WyQSPG869cO2zfIL"
@@ -12907,6 +13095,24 @@
     },
     {
       "album": {
+        "name": "Most Known Unknown (Explicit)",
+        "url": "https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF"
+      },
+      "artists": [
+        {
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236600,
+      "name": "Stay Fly",
+      "url": "https://open.spotify.com/track/5MYFw4T2gy52pOGBN4EYHS"
+    },
+    {
+      "album": {
         "name": "Viva La Revolution",
         "url": "https://open.spotify.com/album/3vCUtFvV23Iq3DSSvOwi2G"
       },
@@ -13962,7 +14168,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 234093,
       "name": "The Message",
       "url": "https://open.spotify.com/track/1AHfovSnGPVYKaahRtA0U6"
@@ -14298,7 +14504,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 221026,
       "name": "Thirsty Man",
       "url": "https://open.spotify.com/track/3ZslLE42E8aQaFW5QmlcCc"
@@ -15236,7 +15442,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 196946,
       "name": "What It Is",
       "url": "https://open.spotify.com/track/3YyM2diFk5zbUTfXso9NWy"
@@ -15326,7 +15532,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 197920,
       "name": "Where Do My Bluebird Fly",
       "url": "https://open.spotify.com/track/143f97FdQwbAVM4sSOdB9r"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,785 likes - 245 songs - 12 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,788 likes - 245 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 58 | [Love Somebody](https://open.spotify.com/track/2IzUjVfO3UrAY73UjHHsGi) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Without You](https://open.spotify.com/album/6WtvmIQ1CPfH7vI2C0wn1E) | 2:22 |
 | 59 | [hurt my feelings](https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:02 |
 | 60 | [Never Getting Laid](https://open.spotify.com/track/1PdUyYYw9sGU0yhLrpeHKt) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:28 |
-| 61 | [We Almost Broke Up Again Last Night](https://open.spotify.com/track/6wkYQMrFfb0huLB5Qn19Iv) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:23 |
-| 62 | [maggots for brains](https://open.spotify.com/track/6jfiwkcwt8iYCdkbLukxeI) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 4:00 |
+| 61 | [maggots for brains](https://open.spotify.com/track/6jfiwkcwt8iYCdkbLukxeI) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 4:00 |
+| 62 | [We Almost Broke Up Again Last Night](https://open.spotify.com/track/6wkYQMrFfb0huLB5Qn19Iv) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:23 |
 | 63 | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8) | 3:36 |
 | 64 | [expectations](https://open.spotify.com/track/4bkClAuofJULiaIZsuL3gT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:41 |
 | 65 | [less](https://open.spotify.com/track/16xRAbH0vI3iKvDEhWQ4ZO) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:13 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 76 | [Couldn’t Make It Any Harder](https://open.spotify.com/track/5YwBaDW36fztKNnoiHQar3) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 2:59 |
 | 77 | [When You're Ready](https://open.spotify.com/track/6bNcbh4SxQDU0BHa4Dj3wx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 2:49 |
 | 78 | [Dashboard](https://open.spotify.com/track/6rlU0kRQNjMZ7t5I92yCIi) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:50 |
-| 79 | [Signs](https://open.spotify.com/track/6DDEfqOoLlasIbPdzboOu4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:53 |
-| 80 | [purple](https://open.spotify.com/track/5Ndn1irZG8l6xpcLMGeNvc) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 4:00 |
+| 79 | [purple](https://open.spotify.com/track/5Ndn1irZG8l6xpcLMGeNvc) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 4:00 |
+| 80 | [Signs](https://open.spotify.com/track/6DDEfqOoLlasIbPdzboOu4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:53 |
 | 81 | [think later](https://open.spotify.com/track/44c9MsAwxoAdAYpCVRBAG1) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:13 |
 | 82 | [Do Right](https://open.spotify.com/track/0c37uJwj7mpovCAuFY5ofQ) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [To Love You](https://open.spotify.com/album/2jo2Qi8zG7pT7sjgq9jf3k) | 3:17 |
 | 83 | [Vulnerable](https://open.spotify.com/track/11OwAR3GlBj9E35Cznf7Lj) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:12 |
@@ -254,4 +254,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 244 | [break](https://open.spotify.com/track/3F7mNkXtkAtFRHCkwp0L4c) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:04 |
 | 245 | [kind sadness](https://open.spotify.com/track/14D1PA47cBk9pI3UMnzEn8) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:16 |
 
-Snapshot ID: `Aca6PAAAAADu5dHNOmQB9gGzcutl8hYv`
+Snapshot ID: `Aca/tAAAAADoMMTzojzS5Eoo9fa77NRJ`

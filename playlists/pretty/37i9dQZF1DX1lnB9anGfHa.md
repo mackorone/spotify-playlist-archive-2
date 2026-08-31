@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > ⚸⚸⚸ a journey into the unknown, dark, and experimental ⚸⚸⚸ featuring Marina Herlop
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,367 likes - 75 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,360 likes - 75 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 61 | [Lovegaze](https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 4:51 |
 | 62 | [Signal \(Maral Remix\)](https://open.spotify.com/track/0hRjNutbJnMSjsSzP6XwyD) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU), [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [Signal Remixes](https://open.spotify.com/album/5Plx7Zi9lHnIDUq9HwkaeQ) | 3:38 |
 | 63 | [Mater Nostra](https://open.spotify.com/track/0JKTOPYIAcQDm3xXI70Td7) | [Tara Nome Doyle](https://open.spotify.com/artist/4juPbQZA8Z5lkQYtd4pNmv) | [Mater Nostra](https://open.spotify.com/album/4Vg6Hxk3DDESq2aKuuo4Vm) | 3:02 |
-| 64 | [Grief](https://open.spotify.com/track/1WvlzTLQuAzhAWgnWQFydt) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Maya Al Khaldi](https://open.spotify.com/artist/3prfEtBarVhjO942w5f6T6) | [Grief](https://open.spotify.com/album/1QucVHnWfS3U2IjEMnEd54) | 4:32 |
-| 65 | [Karada](https://open.spotify.com/track/0RtKOGhS4fhGkeZFjnZ5cq) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Karada](https://open.spotify.com/album/5tosvcZsTBykv6eZQ8nxbk) | 4:38 |
-| 66 | [Empty space](https://open.spotify.com/track/7hctEV1xzChyXgCzzMNpth) | [Bianca Scout](https://open.spotify.com/artist/0SViH83GsqJ0GCwnmTTlep) | [The Heart of the Anchoress](https://open.spotify.com/album/3MawvDSn4MxS2a73jPe10o) | 3:47 |
+| 64 | [Karada](https://open.spotify.com/track/0RtKOGhS4fhGkeZFjnZ5cq) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Karada](https://open.spotify.com/album/5tosvcZsTBykv6eZQ8nxbk) | 4:38 |
+| 65 | [Empty space](https://open.spotify.com/track/7hctEV1xzChyXgCzzMNpth) | [Bianca Scout](https://open.spotify.com/artist/0SViH83GsqJ0GCwnmTTlep) | [The Heart of the Anchoress](https://open.spotify.com/album/3MawvDSn4MxS2a73jPe10o) | 3:47 |
+| 66 | [Grief](https://open.spotify.com/track/1WvlzTLQuAzhAWgnWQFydt) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Maya Al Khaldi](https://open.spotify.com/artist/3prfEtBarVhjO942w5f6T6) | [Grief](https://open.spotify.com/album/1QucVHnWfS3U2IjEMnEd54) | 4:32 |
 | 67 | [Good Grounds](https://open.spotify.com/track/6PWkv2o1eN0zwCjv84RgtL) | [Fallwander](https://open.spotify.com/artist/2WcqiTkQbwFH3hHZ0Xrfl9) | [Good Grounds](https://open.spotify.com/album/4NnMcBS50RFGzf2Fe49qvO) | 5:05 |
-| 68 | [Jardín de Planetas](https://open.spotify.com/track/1BfNftMwrFFTcyAZbPLn9x) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [Jardín de Planetas](https://open.spotify.com/album/2pldZMO9zTtv2DLkMaIRa7) | 6:14 |
-| 69 | [ANIMAL SEEKING](https://open.spotify.com/track/226CR861s1Xc1hrLfdPNxj) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Pt\. II](https://open.spotify.com/album/5BVjkQyN80FvN61CGaY5bl) | 3:19 |
+| 68 | [ANIMAL SEEKING](https://open.spotify.com/track/226CR861s1Xc1hrLfdPNxj) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Pt\. II](https://open.spotify.com/album/5BVjkQyN80FvN61CGaY5bl) | 3:19 |
+| 69 | [Jardín de Planetas](https://open.spotify.com/track/1BfNftMwrFFTcyAZbPLn9x) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [Jardín de Planetas](https://open.spotify.com/album/2pldZMO9zTtv2DLkMaIRa7) | 6:14 |
 | 70 | [First Swim, A Water Chant](https://open.spotify.com/track/3CRLEMYQG6PMUnbTqfeKVM) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva \(Deluxe Edition\)](https://open.spotify.com/album/5RlbXZBXYwJJ8fmIysFdrV) | 3:43 |
 | 71 | [Ripagnola Alle 19 \(feat\. Orelle, Martina Primavera\)](https://open.spotify.com/track/0c8mwvjTYUZUMwiLn4vhbX) | [Maladé](https://open.spotify.com/artist/4pLZb6eSKa9V8EB0vF0VTl), [Orelle](https://open.spotify.com/artist/759n9HvatPa0PARbAtn6Cs), [Martina Primavera](https://open.spotify.com/artist/1f7xLN7zodIwUg2W2McjNn) | [Ripagnola Alle 19 \(feat\. Orelle, Martina Primavera\)](https://open.spotify.com/album/4FrLdV5HORBNYmyFTHgQhF) | 2:56 |
 | 72 | [Drum Jump](https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG) | [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Lucha Libre](https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA) | 4:12 |

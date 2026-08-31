@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-254 songs - 11 hr 58 min
+255 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Hurry Up and Let Me Down](https://open.spotify.com/track/5vNIgtRteWg8GvF54Rpz4Z) | [David Alexander](https://open.spotify.com/artist/0Wjw5Ny6h7tYYlwYDLFYiE) | [Hurry Up and Let Me Down](https://open.spotify.com/album/7k08YP0Il6IRpHBF2T24kk) | 2:36 | 2024-10-03 |  |
 | [i deserve 2 b alone](https://open.spotify.com/track/2NKvrozwURLPXnj3chhnfD) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:45 | 2024-07-09 |  |
 | [I Don't Wanna Know](https://open.spotify.com/track/7bH7LRAHdrZaWTlcuLuIYF) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [I Don't Wanna Know](https://open.spotify.com/album/5vXf3NU1ucc2wpTRNibX4b) | 3:48 | 2024-07-09 |  |
-| [i drive me mad](https://open.spotify.com/track/74tswKcYGnbqDd9zbPHAgW) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [teenage angst EP](https://open.spotify.com/album/2JxyP3DMXo84BCjj5EXLbX) | 2:57 | 2024-07-09 | 2026-08-30 |
+| [i drive me mad](https://open.spotify.com/track/74tswKcYGnbqDd9zbPHAgW) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [teenage angst EP](https://open.spotify.com/album/2JxyP3DMXo84BCjj5EXLbX) | 2:57 | 2024-07-09 |  |
 | [i drive me mad \- Mike Shinoda Mix](https://open.spotify.com/track/0DplYafqAQYY1fcx3XY3hv) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [i drive me mad \(Mike Shinoda Mix\)](https://open.spotify.com/album/74eZ7jc74TkCSI8esb81xd) | 2:48 | 2024-07-09 |  |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-07-09 | 2024-07-14 |
 | [i like the way you kiss me](https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [yustyna](https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD) | 2:22 | 2024-07-13 |  |
@@ -166,6 +166,7 @@
 | [lovesick](https://open.spotify.com/track/16DQrEloMIrPB22YCNFj70) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 14](https://open.spotify.com/album/4GFAippfA1UcHW8uyDabWD) | 2:20 | 2024-07-09 |  |
 | [Manners](https://open.spotify.com/track/4EaISYr58EZ2YzBi3WRLxG) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Manners](https://open.spotify.com/album/0ZP6B7PFgIorIya2y5bwQY) | 3:06 | 2024-08-02 |  |
 | [Manners](https://open.spotify.com/track/4YnKb0qfI6j56S0UiaewIC) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Manners](https://open.spotify.com/album/2C4Q3GT9PHp3UYIgSNJSVq) | 3:06 | 2024-07-09 | 2024-08-03 |
+| [Mary Jane](https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Mary Jane](https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm) | 2:31 | 2026-08-30 |  |
 | [Mojave](https://open.spotify.com/track/05bOlUVof9LtsARuf0M8Lz) | [Jad Saad](https://open.spotify.com/artist/3Re3peL3DQMzTe4c5WRX2e) | [Mojave](https://open.spotify.com/album/3iYarDlgjNdmC11Q2utJe8) | 3:03 | 2024-07-09 |  |
 | [Mood Swing \(7pm\)](https://open.spotify.com/track/6CBmyrymTeObu7zViTbt0A) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [The Hours: High Noon](https://open.spotify.com/album/0nCFgJTknbfdfXiWBpREB3) | 2:09 | 2026-08-26 |  |
 | [more than just a little bit](https://open.spotify.com/track/5rPHBGCHP1ZmhczGjvosBn) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [getting up to no good](https://open.spotify.com/album/5CKpo0bDKwobUM6FzCqXVf) | 2:40 | 2026-07-22 |  |

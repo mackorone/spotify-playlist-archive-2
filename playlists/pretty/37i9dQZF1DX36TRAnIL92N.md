@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,909 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,106 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 23 | [GIRLBOSS](https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [GIRLBOSS](https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v) | 3:13 |
 | 24 | [Diamond Heart](https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Diamond Heart](https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W) | 2:32 |
 | 25 | [Falling For You](https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Falling For You](https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS) | 3:55 |
-| 26 | [ACID](https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [ACID](https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6) | 3:01 |
-| 27 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
+| 26 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
+| 27 | [ACID](https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [ACID](https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6) | 3:01 |
 | 28 | [No Mercy](https://open.spotify.com/track/4SHAlw3C9Y1Mfqwq0thxpw) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [No Mercy](https://open.spotify.com/album/5CQcbHQNwH9lQdLtebmmlu) | 2:35 |
 | 29 | [Holy Place](https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Holy Place](https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l) | 3:13 |
 | 30 | [No Limit](https://open.spotify.com/track/1eUkZEhwbZkkhNfgA1qVyA) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc), [FLKN](https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww) | [No Limit](https://open.spotify.com/album/5OGsScd09uGjfN2uLH1glz) | 3:39 |

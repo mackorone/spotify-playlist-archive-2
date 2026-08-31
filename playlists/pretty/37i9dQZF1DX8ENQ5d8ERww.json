@@ -1,6 +1,6 @@
 {
   "description": "Die Klassiker des Schweizer Hip-Hop.",
-  "num_followers": 13296,
+  "num_followers": 13297,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-03-19 09:16:31",
       "album": {
-        "name": "Zuckerbrot & Peitsche",
-        "url": "https://open.spotify.com/album/6qCXS60IfyOyJQP8bMzm4v"
-      },
-      "artists": [
-        {
-          "name": "Brandh\u00e4rd",
-          "url": "https://open.spotify.com/artist/3H4Lewhv1ThuWvqzOcnJQ4"
-        }
-      ],
-      "duration_ms": 270733,
-      "name": "Umarm sie",
-      "url": "https://open.spotify.com/track/1IzbWCl9MQJx8kRmWeO9ih"
-    },
-    {
-      "added_at": "2026-03-19 09:16:31",
-      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/3yhyu630s4VRNBZ8fxSQbE"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 222173,
       "name": "Relaxtra",
       "url": "https://open.spotify.com/track/18in07peN7I1KRfrOKpyPn"
+    },
+    {
+      "added_at": "2026-03-19 09:16:31",
+      "album": {
+        "name": "Zuckerbrot & Peitsche",
+        "url": "https://open.spotify.com/album/6qCXS60IfyOyJQP8bMzm4v"
+      },
+      "artists": [
+        {
+          "name": "Brandh\u00e4rd",
+          "url": "https://open.spotify.com/artist/3H4Lewhv1ThuWvqzOcnJQ4"
+        }
+      ],
+      "duration_ms": 270733,
+      "name": "Umarm sie",
+      "url": "https://open.spotify.com/track/1IzbWCl9MQJx8kRmWeO9ih"
     },
     {
       "added_at": "2026-03-19 09:16:31",

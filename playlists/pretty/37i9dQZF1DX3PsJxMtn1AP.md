@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of the latest mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,959 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,956 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 30 | [Earthshaker](https://open.spotify.com/track/3dcAXXsNJb2VgX7k1Okz2L) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Earthshaker](https://open.spotify.com/album/6zVMSQa3VzNxUiC6Z5q954) | 2:59 |
 | 31 | [Procession](https://open.spotify.com/track/4VvOuaF9jGzbXMgBUKOXJu) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [Liminal](https://open.spotify.com/album/3QK5hLGy1mKrKVGVlIDqjS) | 3:20 |
 | 32 | [Omorfo Mou](https://open.spotify.com/track/0KfsgnDl1DxrudLyDrD1Iq) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Omorfo Mou](https://open.spotify.com/album/0c7AnOZzrNxSSNwEotCL8m) | 2:47 |
-| 33 | [Let It Transform You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/4bPc6kFwklv6xbjlIkSCsT) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Let It Transform You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2BjTQtu7pJSFwr5MeTLXDM) | 3:33 |
+| 33 | [Let It Transform You \- Original Motion Picture Soundtrack](https://open.spotify.com/track/4bPc6kFwklv6xbjlIkSCsT) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Let It Transform You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2BjTQtu7pJSFwr5MeTLXDM) | 3:33 |
 | 34 | [Golondrina](https://open.spotify.com/track/3cUAlb6xg9ctNkqlNhxEhF) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [lll](https://open.spotify.com/album/4TZ3k1OgGhcDFE8rgiAmjl) | 5:19 |
 | 35 | [Pretend \(feat\. NATURE\)](https://open.spotify.com/track/2dtRAYfkYze247YhuCvfZl) | [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Pretend \(feat\. NATURE\)](https://open.spotify.com/album/6zmr3CaSCUrmcHRb8HfUja) | 3:14 |
 | 36 | [\(ecco\) \- A COLORS SHOW](https://open.spotify.com/track/6goFl44nCkfcZ6ZTyA8DmT) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [\(ecco\) \- A COLORS SHOW](https://open.spotify.com/album/5UtBCMMjyJLRxzIRpIRwLf) | 4:05 |

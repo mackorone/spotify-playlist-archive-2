@@ -1,12 +1,12 @@
 {
   "description": "This is Phoenix. The essential tracks, all in one playlist.",
-  "num_followers": 97830,
+  "num_followers": 97835,
   "original_name": "This Is Phoenix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAADZXR8/ko+31XdfvjTDkqx+",
+  "snapshot_id": "apIhAAAAAACxYi6Es2eWlpVm1sS4zl3F",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 193106,
       "name": "1901",
       "url": "https://open.spotify.com/track/68hYdj3GepWm2R202KhJT7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 266600,
-      "name": "If I Ever Feel Better",
-      "url": "https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V"
     },
     {
       "added_at": null,
@@ -63,6 +47,22 @@
       "duration_ms": 179306,
       "name": "Nightcall",
       "url": "https://open.spotify.com/track/2KejCKgm7l3uefW9cFt8cH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 266600,
+      "name": "If I Ever Feel Better",
+      "url": "https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V"
     },
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 197973,
-      "name": "Too Young",
-      "url": "https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After Midnight (feat. Clairo)",
         "url": "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 188000,
       "name": "After Midnight (feat. Clairo)",
       "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 197973,
+      "name": "Too Young",
+      "url": "https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB"
     },
     {
       "added_at": null,
@@ -167,22 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alphabetical",
-        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "Everything Is Everything",
-      "url": "https://open.spotify.com/track/3pzJXZ1PW3l3B69PoTx5lC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Never Been Like That (Deluxe Version)",
         "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 186159,
       "name": "Long Distance Call",
       "url": "https://open.spotify.com/track/7dGubYmPavaI9YNansq9TW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alphabetical",
+        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 178613,
+      "name": "Everything Is Everything",
+      "url": "https://open.spotify.com/track/3pzJXZ1PW3l3B69PoTx5lC"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Never Been Like That (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 220720,
-      "name": "One Time Too Many",
-      "url": "https://open.spotify.com/track/7tpkQLjgZwNHQzagkvAJ7h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 226103,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 220720,
+      "name": "One Time Too Many",
+      "url": "https://open.spotify.com/track/7tpkQLjgZwNHQzagkvAJ7h"
     },
     {
       "added_at": null,

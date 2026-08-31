@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 35364,
+  "num_followers": 35368,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Sinestesia",
-        "url": "https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT"
-      },
-      "artists": [
-        {
-          "name": "Antes de Nacer",
-          "url": "https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo"
-        }
-      ],
-      "duration_ms": 267705,
-      "name": "Sinestesia",
-      "url": "https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
         "name": "Bienvenidos al Presente",
         "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 209546,
       "name": "Tal para Cual",
       "url": "https://open.spotify.com/track/2MQt1W8HZoOCuhPUYMROjY"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
+        "name": "Sinestesia",
+        "url": "https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT"
+      },
+      "artists": [
+        {
+          "name": "Antes de Nacer",
+          "url": "https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo"
+        }
+      ],
+      "duration_ms": 267705,
+      "name": "Sinestesia",
+      "url": "https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -811,18 +811,34 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P"
+        "name": "Groovin' Bohemia",
+        "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
       },
       "artists": [
         {
-          "name": "N\u00fakuma",
-          "url": "https://open.spotify.com/artist/52HtCVkBSfLDGRHlugmOlg"
+          "name": "Groovin' Bohemia",
+          "url": "https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1"
         }
       ],
-      "duration_ms": 274102,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby"
+      "duration_ms": 445089,
+      "name": "Ameba",
+      "url": "https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
+        "name": "Bienvenidos al Presente",
+        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
+      },
+      "artists": [
+        {
+          "name": "Lo' Pibitos",
+          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
+        }
+      ],
+      "duration_ms": 259880,
+      "name": "Bienvenidos al Presente",
+      "url": "https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -847,34 +863,18 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Bienvenidos al Presente",
-        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P"
       },
       "artists": [
         {
-          "name": "Lo' Pibitos",
-          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
+          "name": "N\u00fakuma",
+          "url": "https://open.spotify.com/artist/52HtCVkBSfLDGRHlugmOlg"
         }
       ],
-      "duration_ms": 259880,
-      "name": "Bienvenidos al Presente",
-      "url": "https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
-        "name": "Groovin' Bohemia",
-        "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
-      },
-      "artists": [
-        {
-          "name": "Groovin' Bohemia",
-          "url": "https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1"
-        }
-      ],
-      "duration_ms": 445089,
-      "name": "Ameba",
-      "url": "https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe"
+      "duration_ms": 274102,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1035,8 +1035,8 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Ya Lo Estoy Deseando",
-        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
+        "name": "Los Funktasticos Genitales",
+        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
       },
       "artists": [
         {
@@ -1044,9 +1044,9 @@
           "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
         }
       ],
-      "duration_ms": 202591,
-      "name": "C\u00f3mo",
-      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
+      "duration_ms": 236858,
+      "name": "Alergica",
+      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1123,8 +1123,8 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Los Funktasticos Genitales",
-        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
+        "name": "Ya Lo Estoy Deseando",
+        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
       },
       "artists": [
         {
@@ -1132,9 +1132,9 @@
           "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
         }
       ],
-      "duration_ms": 236858,
-      "name": "Alergica",
-      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
+      "duration_ms": 202591,
+      "name": "C\u00f3mo",
+      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
+        "name": "7 Am",
+        "url": "https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN"
+      },
+      "artists": [
+        {
+          "name": "Afromama",
+          "url": "https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN"
+        },
+        {
+          "name": "P1cky",
+          "url": "https://open.spotify.com/artist/7jNnJdQzPxtOW3fLmAnd1a"
+        }
+      ],
+      "duration_ms": 239387,
+      "name": "7 Am",
+      "url": "https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
         "name": "Que Me Pasa",
         "url": "https://open.spotify.com/album/36Yq1giRnYqaPbscTc49HX"
       },
@@ -1427,22 +1447,6 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "F\u00e1bulas",
-        "url": "https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX"
-      },
-      "artists": [
-        {
-          "name": "Alumine",
-          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
-        }
-      ],
-      "duration_ms": 259318,
-      "name": "F\u00e1bulas",
-      "url": "https://open.spotify.com/track/5ItspG9yWaTOa5ofnd0AV6"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
         "name": "Solo por Hoy",
         "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
       },
@@ -1459,22 +1463,18 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "7 Am",
-        "url": "https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN"
+        "name": "F\u00e1bulas",
+        "url": "https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX"
       },
       "artists": [
         {
-          "name": "Afromama",
-          "url": "https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN"
-        },
-        {
-          "name": "P1cky",
-          "url": "https://open.spotify.com/artist/7jNnJdQzPxtOW3fLmAnd1a"
+          "name": "Alumine",
+          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
         }
       ],
-      "duration_ms": 239387,
-      "name": "7 Am",
-      "url": "https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4"
+      "duration_ms": 259318,
+      "name": "F\u00e1bulas",
+      "url": "https://open.spotify.com/track/5ItspG9yWaTOa5ofnd0AV6"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "El Efecto Calma",
-        "url": "https://open.spotify.com/album/5MZ84i6SVe1rGiEjdHVtVp"
-      },
-      "artists": [
-        {
-          "name": "Alumine",
-          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
-        }
-      ],
-      "duration_ms": 246085,
-      "name": "El Efecto Calma",
-      "url": "https://open.spotify.com/track/0uCIPALeUXwguTSHuwvXN6"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
         "name": "Selva",
         "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 210796,
       "name": "Selva",
       "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
+        "name": "El Efecto Calma",
+        "url": "https://open.spotify.com/album/5MZ84i6SVe1rGiEjdHVtVp"
+      },
+      "artists": [
+        {
+          "name": "Alumine",
+          "url": "https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3"
+        }
+      ],
+      "duration_ms": 246085,
+      "name": "El Efecto Calma",
+      "url": "https://open.spotify.com/track/0uCIPALeUXwguTSHuwvXN6"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1647,22 +1647,18 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Foulmouth",
-        "url": "https://open.spotify.com/album/7ywQCYXKnCG4zxufG5bpAP"
+        "name": "Melod\u00edas",
+        "url": "https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj"
       },
       "artists": [
         {
-          "name": "Fern\u00e1ndez 4",
-          "url": "https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R"
-        },
-        {
-          "name": "Cirilo Fernandez",
-          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
+          "name": "Monoson",
+          "url": "https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A"
         }
       ],
-      "duration_ms": 174273,
-      "name": "Foulmouth",
-      "url": "https://open.spotify.com/track/6NBHRERMIEJODoMX7AC8q5"
+      "duration_ms": 185312,
+      "name": "Melod\u00edas",
+      "url": "https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH"
     }
   ],
   "unique_name": "Nota Funk",

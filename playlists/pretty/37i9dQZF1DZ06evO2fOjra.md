@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 
 > This is Korn\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,283 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,339 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 | 34 | [Beg for Me](https://open.spotify.com/track/6bwuLPr45wsvbTjB0PGI65) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 3:54 |
 | 35 | [Faget](https://open.spotify.com/track/7kVrQ79jg4nd1r6H9CrmIk) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 5:49 |
 | 36 | [Black Is the Soul](https://open.spotify.com/track/1wYXIhJXqlIAGS6sbzpTL6) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 4:01 |
-| 37 | [Hater](https://open.spotify.com/track/6BB8UssAN7vuXzsJ5jTsbP) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Paradigm Shift \(World Tour Edition\)](https://open.spotify.com/album/7hrDDLfrAe8B5C2j5pTyyt) | 3:53 |
-| 38 | [Another Brick in the Wall, Pt\. 1, 2, 3 \- Pink Floyd Cover](https://open.spotify.com/track/5fBI2YzuyOVF0nkYjIGjJv) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/48no7LB4tsCfNS9ntRLc4P) | 7:07 |
+| 37 | [Another Brick in the Wall, Pt\. 1, 2, 3 \- Pink Floyd Cover](https://open.spotify.com/track/5fBI2YzuyOVF0nkYjIGjJv) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/48no7LB4tsCfNS9ntRLc4P) | 7:07 |
+| 38 | [Hater](https://open.spotify.com/track/6BB8UssAN7vuXzsJ5jTsbP) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Paradigm Shift \(World Tour Edition\)](https://open.spotify.com/album/7hrDDLfrAe8B5C2j5pTyyt) | 3:53 |
 | 39 | [Divine](https://open.spotify.com/track/6Ot1jvIoVPAuGRKY8Qxue8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 2:50 |
 | 40 | [Insane](https://open.spotify.com/track/3bVwfHr4vuJv6DGZal2Dpq) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 3:50 |
 | 41 | [Can You Hear Me](https://open.spotify.com/track/5VXeawVov6ikGAaT0If8n9) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 | 49 | [Creep \- Live At MTV Studio, NYC, 2006](https://open.spotify.com/track/3Ieq1FuiSAiC65mmmL2zMw) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/3IdmuALhor6bV32o4VVSFo) | 3:51 |
 | 50 | [Forgotten](https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:17 |
 
-Snapshot ID: `apDPgAAAAAAdcZSySY5Gijq+WVFdWCED`
+Snapshot ID: `apIhAAAAAACAWFxMiGCeb/uUdOW7p2oq`

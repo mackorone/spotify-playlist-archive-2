@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Українські та світові артисти в добірці найцікавіших поп треків\. Обкладинка: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,335 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,334 likes - 70 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 33 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
 | 34 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 |
 | 35 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
-| 36 | [Danceteria](https://open.spotify.com/track/3a49TEtsbeAgzZAQH9WiDZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 3:55 |
-| 37 | [Potential](https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Potential](https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5) | 4:02 |
+| 36 | [Potential](https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Potential](https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5) | 4:02 |
+| 37 | [Danceteria](https://open.spotify.com/track/3a49TEtsbeAgzZAQH9WiDZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 3:55 |
 | 38 | [The Time Of My Life](https://open.spotify.com/track/08JkZRttDnq5SkZ9vCPSjJ) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [The Time Of My Life](https://open.spotify.com/album/5QFHiTkr2OHLAPRWvaD0Hw) | 3:35 |
 | 39 | [i deserve better.](https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:17 |
 | 40 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 |
@@ -63,13 +63,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 53 | [Shape of a Woman](https://open.spotify.com/track/6aFsbhzye4yfT25ohmhOQY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 3:29 |
 | 54 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 |
 | 55 | [Electrified](https://open.spotify.com/track/5XuizbY6zjpAjpuljymNbT) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Electrified](https://open.spotify.com/album/3Shzbb73nojCdjelhN9WDJ) | 2:43 |
-| 56 | [My Guy](https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [My Guy](https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t) | 3:50 |
-| 57 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 |
+| 56 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 |
+| 57 | [My Guy](https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [My Guy](https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t) | 3:50 |
 | 58 | [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 |
 | 59 | [Love Sensation \- Afterhours Radio Edit](https://open.spotify.com/track/6mqNeI1TJomhLrDzY66uQw) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Love Sensation](https://open.spotify.com/album/4b0rAUWZJA6s3RQC3zIguc) | 3:35 |
 | 60 | [Hummer](https://open.spotify.com/track/1GfEpihzfbV6HFt21JA1dz) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hummer](https://open.spotify.com/album/0EdUCo0oxkBCpNK5EM1hfs) | 6:01 |
-| 61 | [Oh Mother](https://open.spotify.com/track/75XBJLey4l5zwRIAk3LAWl) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [The TwoCity Chorus](https://open.spotify.com/artist/03G8tzT77pojVBafVhOm3n) | [Oh Mother](https://open.spotify.com/album/7FDLvqBfXWVElySyTJa0om) | 3:32 |
-| 62 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
+| 61 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
+| 62 | [Oh Mother](https://open.spotify.com/track/75XBJLey4l5zwRIAk3LAWl) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [The TwoCity Chorus](https://open.spotify.com/artist/03G8tzT77pojVBafVhOm3n) | [Oh Mother](https://open.spotify.com/album/7FDLvqBfXWVElySyTJa0om) | 3:32 |
 | 63 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
 | 64 | [PIECES](https://open.spotify.com/track/0LSnGEfj4T8vJyi7lVU3Gn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET \(DELUXE\)](https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3) | 3:25 |
 | 65 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 |

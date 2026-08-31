@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Paula Hartmann, Apache 207, Olivia Rodrigo, Berq, badmómzjay & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,186 likes - 98 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,189 likes - 98 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

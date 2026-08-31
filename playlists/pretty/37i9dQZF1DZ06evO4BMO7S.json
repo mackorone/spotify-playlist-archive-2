@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAADsufJvh0Z04BWo32sKiTJ9",
+  "snapshot_id": "apIhAAAAAAC04wBb/iUexfoDL8MlOi3A",
   "tracks": [
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 150187,
-      "name": "Ibexxi Camp (Night)",
-      "url": "https://open.spotify.com/track/7yD6F9iAImQr9yhpfG671w"
+      "duration_ms": 210625,
+      "name": "Better the Mask",
+      "url": "https://open.spotify.com/track/6tQfAfTBvhmgJCjOPsltN4"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 210625,
-      "name": "Better the Mask",
-      "url": "https://open.spotify.com/track/6tQfAfTBvhmgJCjOPsltN4"
+      "duration_ms": 150187,
+      "name": "Ibexxi Camp (Night)",
+      "url": "https://open.spotify.com/track/7yD6F9iAImQr9yhpfG671w"
     }
   ],
   "unique_name": "This Is Japanese Breakfast",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,624 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,659 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 69 | [Holding Hands](https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Holding Hands](https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J) | 2:50 |
 | 70 | [Bridges](https://open.spotify.com/track/6WBhXzXyiwsDJ4y2yF3DOp) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Nedja](https://open.spotify.com/artist/0wEePcQsNMthoKEoNSMBIN) | [Heart \- EP](https://open.spotify.com/album/0mDHT3jOMRtAb3tsRJb8NP) | 3:01 |
 | 71 | [So Far South](https://open.spotify.com/track/5WV7YLYSsle4BYQwz613L2) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [So Far South](https://open.spotify.com/album/351KmID7SmIWJOw8YmlSZj) | 3:41 |
-| 72 | [THE PARK // 6:42AM](https://open.spotify.com/track/4Vtg7EGZTQdIvOXWxn8lf0) | [Mokado](https://open.spotify.com/artist/7HcpL1hlldlRNiycXgJrAw) | [WHERE DOES THE NIGHT GO?](https://open.spotify.com/album/3Zs6evwQuF7WUsciJIsbGN) | 4:20 |
-| 73 | [Grafts](https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts](https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw) | 22:31 |
+| 72 | [Grafts](https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts](https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw) | 22:31 |
+| 73 | [THE PARK // 6:42AM](https://open.spotify.com/track/4Vtg7EGZTQdIvOXWxn8lf0) | [Mokado](https://open.spotify.com/artist/7HcpL1hlldlRNiycXgJrAw) | [WHERE DOES THE NIGHT GO?](https://open.spotify.com/album/3Zs6evwQuF7WUsciJIsbGN) | 4:20 |
 | 74 | [Ohh Baby](https://open.spotify.com/track/4P19q3dSHap2uHkqRsF4YS) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Space Drag](https://open.spotify.com/album/0IRRsRMpxLm9wkQyFtoSfx) | 5:08 |
 | 75 | [Thru U \(feat\. Bklava\)](https://open.spotify.com/track/4VQyqfE9UjTciUHqYeVl2R) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [I Feel You Feel](https://open.spotify.com/album/0kp7hFBIN1CFuv3gIBcdDo) | 2:57 |
 | 76 | [Lines](https://open.spotify.com/track/63qu72CjJpo4TWkg7fY54B) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Lines](https://open.spotify.com/album/3kdKeoPkQpKnchJDmuzuNn) | 4:26 |

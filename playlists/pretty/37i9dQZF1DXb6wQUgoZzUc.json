@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1464983,
+  "num_followers": 1465273,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-06-26 06:00:43",
       "album": {
-        "name": "De Lejitos",
-        "url": "https://open.spotify.com/album/4LsQOT9fxqBpZLVLV9Ib55"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "De Lejitos",
-      "url": "https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8"
-    },
-    {
-      "added_at": "2026-06-26 06:00:43",
-      "album": {
         "name": "\u00c9xitos Espa\u00f1a",
         "url": "https://open.spotify.com/album/0JE2ZcJ7u8wtoc1RCVkuhU"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 159600,
       "name": "Corrupta",
       "url": "https://open.spotify.com/track/1Ok4aiD2OUO6AyhrlvF98b"
+    },
+    {
+      "added_at": "2026-06-26 06:00:43",
+      "album": {
+        "name": "De Lejitos",
+        "url": "https://open.spotify.com/album/4LsQOT9fxqBpZLVLV9Ib55"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "De Lejitos",
+      "url": "https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8"
     },
     {
       "added_at": "2026-06-26 06:00:43",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2026-06-26 06:00:43",
       "album": {
-        "name": "LOS ANGELITOS",
-        "url": "https://open.spotify.com/album/3nlnOHjbXkkcXnMVeO4Hs5"
-      },
-      "artists": [
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 218372,
-      "name": "PaToLasGyales",
-      "url": "https://open.spotify.com/track/7AFCPBLMPF2SLHAPY5PMae"
-    },
-    {
-      "added_at": "2026-06-26 06:00:43",
-      "album": {
         "name": "L-Gante: Bzrp Music Sessions, Vol. 38/66",
         "url": "https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 203529,
       "name": "Todav\u00eda",
       "url": "https://open.spotify.com/track/3G0KI415vuf6TJ2YWA73S3"
+    },
+    {
+      "added_at": "2026-06-26 06:00:43",
+      "album": {
+        "name": "LOS ANGELITOS",
+        "url": "https://open.spotify.com/album/3nlnOHjbXkkcXnMVeO4Hs5"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 218372,
+      "name": "PaToLasGyales",
+      "url": "https://open.spotify.com/track/7AFCPBLMPF2SLHAPY5PMae"
     },
     {
       "added_at": "2026-06-26 06:00:43",

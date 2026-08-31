@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > morrxs chidxs haciendo música chida\. Ana Sofi W\. y BLNKO portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,192 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,164 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

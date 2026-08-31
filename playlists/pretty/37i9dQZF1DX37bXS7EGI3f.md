@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Symphonic and power metal at its most epic\. Cover: Sabaton
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,149 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,171 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 48 | [Call My Name](https://open.spotify.com/track/0dHrBbmoftbULEKvNawKSe) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Call My Name](https://open.spotify.com/album/4OSwoYZStFewvoB9RYM3XO) | 4:21 |
 | 49 | [Venerate Me](https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Venerate Me](https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7) | 4:43 |
 | 50 | [I Will Die In It](https://open.spotify.com/track/5g7cfmC3jg0eBeruKiGwmY) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [I Will Die In It](https://open.spotify.com/album/6CylQwPRDU6tJiQa0RH4HV) | 3:44 |
-| 51 | [A Thousand Anemones](https://open.spotify.com/track/4Zzx5Xt2ud4nIcU6egxJ7a) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [A Thousand Anemones](https://open.spotify.com/album/7LBjy0QhBtwr65cxFfo6JJ) | 4:13 |
-| 52 | [Feed the Fire](https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Feed the Fire](https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP) | 3:19 |
-| 53 | [Deified](https://open.spotify.com/track/57X3y9aTt59bXdszZm1U8C) | [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Deified](https://open.spotify.com/album/0s6HINWvUrRD3EmQG8YRPn) | 3:56 |
-| 54 | [Natural Born Killer](https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Natural Born Killer](https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb) | 3:25 |
+| 51 | [Feed the Fire](https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Feed the Fire](https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP) | 3:19 |
+| 52 | [A Thousand Anemones](https://open.spotify.com/track/4Zzx5Xt2ud4nIcU6egxJ7a) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [A Thousand Anemones](https://open.spotify.com/album/7LBjy0QhBtwr65cxFfo6JJ) | 4:13 |
+| 53 | [Natural Born Killer](https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Natural Born Killer](https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb) | 3:25 |
+| 54 | [Deified](https://open.spotify.com/track/57X3y9aTt59bXdszZm1U8C) | [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Deified](https://open.spotify.com/album/0s6HINWvUrRD3EmQG8YRPn) | 3:56 |
 | 55 | [Light And Shadow](https://open.spotify.com/track/1ZNNG5R3vubOwrUNuLRhmL) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Light And Shadow](https://open.spotify.com/album/6IGSMlmG6IsidEUEetpfwp) | 4:18 |
 | 56 | [Experience](https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Experience](https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM) | 5:14 |
 | 57 | [Armada](https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Armada](https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr) | 4:03 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 91 | [Empire](https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Pop Metal](https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz) | 3:11 |
 | 92 | [As Empires Fall](https://open.spotify.com/track/07LBI2Yn6yQxyDnzVqgkj5) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [As Empires Fall](https://open.spotify.com/album/0ZUFNx8WwNfdIaFUUp1Wbk) | 3:54 |
 | 93 | [Cicada](https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Cicada](https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x) | 4:31 |
-| 94 | [Take My Hand \- Bonus Track](https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Take My Hand \(Bonus Track\)](https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq) | 3:09 |
-| 95 | [In The Eyes Of The Enemy](https://open.spotify.com/track/6KPiJfK9OQEHpHhhDjWb9b) | [Grailknights](https://open.spotify.com/artist/3WKWdx78zcqsj2RkN5ldqR), [Chiara Tricarico](https://open.spotify.com/artist/1htSCdZGjJNC2huPxA7pHi) | [In The Eyes Of The Enemy](https://open.spotify.com/album/4K6UjlrsOStac2Grk4V6qy) | 3:56 |
+| 94 | [In The Eyes Of The Enemy](https://open.spotify.com/track/6KPiJfK9OQEHpHhhDjWb9b) | [Grailknights](https://open.spotify.com/artist/3WKWdx78zcqsj2RkN5ldqR), [Chiara Tricarico](https://open.spotify.com/artist/1htSCdZGjJNC2huPxA7pHi) | [In The Eyes Of The Enemy](https://open.spotify.com/album/4K6UjlrsOStac2Grk4V6qy) | 3:56 |
+| 95 | [Take My Hand \- Bonus Track](https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Take My Hand \(Bonus Track\)](https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq) | 3:09 |
 | 96 | [Target Acquired](https://open.spotify.com/track/25x7xXk5m6oCO1x67J0HRY) | [Void Chapter](https://open.spotify.com/artist/6hJhjhNdtSCfZhQiqN03lq), [Megan McDuffee](https://open.spotify.com/artist/4n34M10wtYMrhh5tNsKwnn) | [Target Acquired \(feat\. Megan McDuffee\)](https://open.spotify.com/album/2V5RiMu96qwpW0dDY0LDXt) | 4:48 |
 | 97 | [Sapphire](https://open.spotify.com/track/3kmcAMRPenmsQQscDK1sLO) | [Nocturna](https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX) | [Sapphire](https://open.spotify.com/album/7j1sJdgfPIcW8Rx2RfllUH) | 3:54 |
-| 98 | [Awakening](https://open.spotify.com/track/5qV7D1UiRkWPu2HOu7312N) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Awakening](https://open.spotify.com/album/5tqk94Qd1pMekjPE1BAGas) | 3:36 |
-| 99 | [We Stand Tall](https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Stand Tall](https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u) | 3:03 |
-| 100 | [Warning Sign](https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ) | [Dark Sarah](https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk) | [Warning Sign](https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH) | 4:19 |
+| 98 | [Warning Sign](https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ) | [Dark Sarah](https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk) | [Warning Sign](https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH) | 4:19 |
+| 99 | [Awakening](https://open.spotify.com/track/5qV7D1UiRkWPu2HOu7312N) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Awakening](https://open.spotify.com/album/5tqk94Qd1pMekjPE1BAGas) | 3:36 |
+| 100 | [We Stand Tall](https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Stand Tall](https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u) | 3:03 |
 
 Snapshot ID: `AAAAAMJewjZyXqWZnvw69epmO2w9jymO`

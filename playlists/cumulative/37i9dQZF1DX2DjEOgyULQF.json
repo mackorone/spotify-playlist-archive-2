@@ -8482,7 +8482,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 141124,
       "name": "Velvet Daybreak",
       "url": "https://open.spotify.com/track/64wJtggmXCk8lsUDAA2E2n"
@@ -8688,6 +8688,24 @@
       "duration_ms": 159782,
       "name": "Weekend Sun",
       "url": "https://open.spotify.com/track/0XhSIil6uSW7uk1etKrY0v"
+    },
+    {
+      "album": {
+        "name": "What the Earth Holds Gently",
+        "url": "https://open.spotify.com/album/0wEa1vIK9tVnyg7bv24J2w"
+      },
+      "artists": [
+        {
+          "name": "Lorien Sky",
+          "url": "https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "What the Earth Holds Gently",
+      "url": "https://open.spotify.com/track/1prYa2Re5n3jIHv7wENSv6"
     },
     {
       "album": {

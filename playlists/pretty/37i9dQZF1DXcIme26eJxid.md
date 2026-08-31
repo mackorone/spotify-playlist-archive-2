@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > The most known Afro\-pop classics, all in one place! Cover: Lijadu Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,621 likes - 40 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,666 likes - 40 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 36 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |
 | 37 | [Soul Makossa](https://open.spotify.com/track/4JaOd0NUBTckYFZMguuY7M) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Anthology](https://open.spotify.com/album/7uA2tEXRCXua5P7rcpEWLa) | 4:24 |
 | 38 | [It's About Time](https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL) | [Boom Shaka](https://open.spotify.com/album/6CjjtWnXWUzMif0RqEv3k8) | 5:39 |
-| 39 | [Sweet Mother](https://open.spotify.com/track/64XECoRdQMPInulJ9oiVfI) | [Prince Nico Mbarga & Rocafil Jazz International](https://open.spotify.com/artist/4GwFsI0S9Eb90LjF97Xz04), [Rocafil Jazz International](https://open.spotify.com/artist/1d443JHYBFPbItORt7gUvN) | [African Football Anthems, Vol\. 1](https://open.spotify.com/album/6ToF3l6wpY2xCS6FXGRF6f) | 10:02 |
-| 40 | [Expensive Shit](https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best Of The Black President 2](https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2) | 13:13 |
+| 39 | [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 |
+| 40 | [Sweet Mother](https://open.spotify.com/track/64XECoRdQMPInulJ9oiVfI) | [Prince Nico Mbarga & Rocafil Jazz International](https://open.spotify.com/artist/4GwFsI0S9Eb90LjF97Xz04), [Rocafil Jazz International](https://open.spotify.com/artist/1d443JHYBFPbItORt7gUvN) | [African Football Anthems, Vol\. 1](https://open.spotify.com/album/6ToF3l6wpY2xCS6FXGRF6f) | 10:02 |
 
 Snapshot ID: `AAAAAA8AY6+amR8cKMjsUkr9sADhRllf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > brb making love island uk brekkie for audrey hobert, lorenzo & julia <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">\(p.s\. read our substack!\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,912 likes - 150 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,878 likes - 150 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

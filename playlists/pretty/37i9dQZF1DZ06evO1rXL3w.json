@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Bowers. The essential tracks, all in one playlist.",
-  "num_followers": 2689,
+  "num_followers": 2690,
   "original_name": "This Is Kris Bowers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAADcGN1fshlZ8oUtSCQUlr6q",
+  "snapshot_id": "apIhAAAAAACNM6g8aaUV3hfBkAkCbWfj",
   "tracks": [
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 61321,
-      "name": "A Gift For Edwina - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/6Lm25vtg4Z9RPyjzWwv5fz"
+      "duration_ms": 47072,
+      "name": "Eloise & Theo - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/1nqAZQ2aEWWl7m367vlMyH"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 47072,
-      "name": "Eloise & Theo - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/1nqAZQ2aEWWl7m367vlMyH"
+      "duration_ms": 61321,
+      "name": "A Gift For Edwina - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/6Lm25vtg4Z9RPyjzWwv5fz"
     },
     {
       "added_at": null,

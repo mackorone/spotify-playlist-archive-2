@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-505 songs - 23 hr 50 min
+506 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,7 +477,7 @@
 | [Vedana](https://open.spotify.com/track/4Bz2Y5mv3GEtxrlHQzheMB) | [Kamamatsu](https://open.spotify.com/artist/2MXArrDWK0b0kaxFz4OtCQ) | [Vedana](https://open.spotify.com/album/35JiT2cKAXYsielBXaC5Cz) | 2:23 | 2023-04-28 | 2023-07-29 |
 | [Veil of Sylva](https://open.spotify.com/track/0deuii5DgfxodJswCQicZb) | [Far North](https://open.spotify.com/artist/5PsHx1QHRwGpw7tIvFVI9P) | [Veil of Sylva](https://open.spotify.com/album/2pvacHIi2kDaYoIxREZo79) | 2:22 | 2026-04-03 |  |
 | [Veilwood](https://open.spotify.com/track/7fhsIOV0wfMkkR3s5cs8qS) | [Elysian Woods](https://open.spotify.com/artist/2a9nGgopYoBxxQMwXO7bvi) | [Veilwood](https://open.spotify.com/album/7B7tdmFyDvO6iwzvrKsKuO) | 2:33 | 2025-09-10 | 2025-12-18 |
-| [Velvet Daybreak](https://open.spotify.com/track/64wJtggmXCk8lsUDAA2E2n) | [Stapleton Grass](https://open.spotify.com/artist/50QpGqvE5PlmXrcJBSM9sM) | [Velvet Daybreak](https://open.spotify.com/album/3so557kpftvDDStYLHz8cI) | 2:21 | 2025-10-02 |  |
+| [Velvet Daybreak](https://open.spotify.com/track/64wJtggmXCk8lsUDAA2E2n) | [Stapleton Grass](https://open.spotify.com/artist/50QpGqvE5PlmXrcJBSM9sM) | [Velvet Daybreak](https://open.spotify.com/album/3so557kpftvDDStYLHz8cI) | 2:21 | 2025-10-02 | 2026-08-31 |
 | [Verdancy](https://open.spotify.com/track/3mBcz9IUFbbZOWPBRcqSVQ) | [Harmonic Pathways](https://open.spotify.com/artist/50w3lD1tVFon2IBD8jRBOO), [Nature on Record](https://open.spotify.com/artist/4XC4r2EEPyi9Ox0ZinPaIV) | [Emergence](https://open.spotify.com/album/5npmxbN4pCm1CHhjxHmFuf) | 2:37 | 2023-04-28 | 2025-10-03 |
 | [Verdant Breath](https://open.spotify.com/track/1ELwtIRAPr3gLgprbWjsmm) | [Miaquirele](https://open.spotify.com/artist/3pmTNYkFYBysqyG5MzRujA) | [Verdant Breath](https://open.spotify.com/album/0AGD1E4F8e2GOAnZ48kFx9) | 2:37 | 2026-04-03 | 2026-06-27 |
 | [Verdure](https://open.spotify.com/track/7iEfhRXZpaI1w7zkj9Np5U) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Verdure](https://open.spotify.com/album/4BNcZNVXeCRvxdIEdykxOi) | 2:45 | 2023-04-28 | 2025-05-22 |
@@ -489,6 +489,7 @@
 | [Wave Son](https://open.spotify.com/track/1zISOcapD0WOYWovAxE9Si) | [Sam Bucciana](https://open.spotify.com/artist/4A7ZW9rJIvRiyu3pgxQW1j) | [Wave Son](https://open.spotify.com/album/4icmQJ3f32Xcz6FniCqQJE) | 2:38 | 2024-05-01 | 2026-04-04 |
 | [Wavy](https://open.spotify.com/track/2ZmBus1Smzpa4qRNkWd1Bu) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [Wavy](https://open.spotify.com/album/0qGpUKxTfjjsUZJ0Hx3Jf2) | 4:02 | 2023-04-28 | 2025-03-21 |
 | [Weekend Sun](https://open.spotify.com/track/0XhSIil6uSW7uk1etKrY0v) | [Wanyes](https://open.spotify.com/artist/7FiGGXixwRFNO4UHQ5GTlC) | [Weekend Sun](https://open.spotify.com/album/3kJVq2PmC7dv4JB2Dl7CEg) | 2:39 | 2026-01-28 | 2026-04-04 |
+| [What the Earth Holds Gently](https://open.spotify.com/track/1prYa2Re5n3jIHv7wENSv6) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [What the Earth Holds Gently](https://open.spotify.com/album/0wEa1vIK9tVnyg7bv24J2w) | 3:20 | 2026-08-19 |  |
 | [What the Willow Remembers](https://open.spotify.com/track/6Dm6DUFbpfF680f6nHtwyM) | [Amarillys](https://open.spotify.com/artist/5QwKHQSVtFzfwAjRK2SYIu) | [What the Willow Remembers](https://open.spotify.com/album/1BhUuXKgOQ1sXJHu6554NH) | 3:18 | 2026-08-19 |  |
 | [When the Sun Rises](https://open.spotify.com/track/1lG31sQzVRzw4TAAmVRVwx) | [Center of Attention](https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs) | [Sunrise & Sunset](https://open.spotify.com/album/1JGHeGuPptwTuOFr39itDZ) | 2:46 | 2026-05-27 | 2026-06-27 |
 | [Where I Belong](https://open.spotify.com/track/5eB7WeAkom0NaB4Q5jEfeT) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [A Free Spirit](https://open.spotify.com/album/25RUQBt47toM0l7s8mvnh5) | 2:51 | 2023-04-28 | 2024-06-04 |

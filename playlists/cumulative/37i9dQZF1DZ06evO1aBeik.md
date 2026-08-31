@@ -4,7 +4,7 @@
 
 > This is Post Malone\. The essential tracks, all in one playlist.
 
-107 songs - 5 hr 55 min
+108 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-04-21 |  |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/6dODwocEuGzHAavXqTbwHv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:48 | 2024-04-24 | 2024-04-25 |
 | [Fuck](https://open.spotify.com/track/1vkZx3z5H0uVvrrCsMMn6I) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [August 26](https://open.spotify.com/album/6plj5TlnaY3rCX0wDoulQc) | 3:33 | 2026-08-30 |  |
+| [Git Wit U](https://open.spotify.com/track/5c9Uyjh4J1tgMpvPc6dRHx) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [August 26](https://open.spotify.com/album/6plj5TlnaY3rCX0wDoulQc) | 2:24 | 2026-08-31 |  |
 | [Go Flex](https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 2:59 | 2023-09-09 |  |
 | [God Damn](https://open.spotify.com/track/0dSgNSH3NFLhftecOSpzeh) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [FKi 1st](https://open.spotify.com/artist/53ixqKNKVTgtSx3m3DGMA2) | [August 26](https://open.spotify.com/album/6plj5TlnaY3rCX0wDoulQc) | 3:00 | 2026-08-30 |  |
 | [Goes Without Saying \(Feat\. Brad Paisley\)](https://open.spotify.com/track/20hTkA9oKKuxghkRptRczS) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:32 | 2024-08-18 | 2024-09-03 |
@@ -110,7 +111,7 @@
 | [When I’m Alone](https://open.spotify.com/track/5Ja2u1FPlVxrxeMWEa2dcn) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:15 | 2024-05-10 | 2024-07-24 |
 | [White Iverson](https://open.spotify.com/track/6eT7xZZlB2mwyzJ2sUKG6w) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:16 | 2023-09-09 |  |
 | [Who Needs You](https://open.spotify.com/track/58BnhZIDqSFWmXsj3UA1Un) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [F\-1 Trillion: Long Bed](https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A) | 2:49 | 2024-08-27 | 2025-01-29 |
-| [Wolves \(feat\. Post Malone\)](https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:19 | 2023-09-09 |  |
+| [Wolves \(feat\. Post Malone\)](https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:19 | 2023-09-09 | 2026-08-31 |
 | [Wow.](https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:29 | 2023-09-09 |  |
 | [Wrapped Around Your Finger](https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:13 | 2023-09-09 |  |
 | [Wrong Ones \(Feat\. Tim McGraw\)](https://open.spotify.com/track/2CIXO1jQbrV1hlfI7FUKld) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:15 | 2024-08-18 |  |

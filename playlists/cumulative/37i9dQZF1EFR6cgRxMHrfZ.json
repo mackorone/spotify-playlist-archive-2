@@ -839,6 +839,24 @@
     },
     {
       "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/50E5Op3ZjRibJGZjGBcGR6"
+    },
+    {
+      "album": {
         "name": "FEVER DREAM",
         "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
       },
@@ -850,10 +868,28 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 153430,
       "name": "FEVER DREAM",
       "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
+    },
+    {
+      "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187423,
+      "name": "FINE PLACE TO DIE",
+      "url": "https://open.spotify.com/track/2HZ75yrPInJwVW6te9OlDg"
     },
     {
       "album": {
@@ -868,7 +904,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 187423,
       "name": "FINE PLACE TO DIE",
       "url": "https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW"
@@ -2007,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214887,
+      "name": "ONLY THING LEFT",
+      "url": "https://open.spotify.com/track/2nmrNr1Qs04TwLdNEOVOuE"
+    },
+    {
+      "album": {
         "name": "The Hard Way",
         "url": "https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb"
       },
@@ -2079,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159771,
+      "name": "PASSENGER",
+      "url": "https://open.spotify.com/track/4BSeso8HRRJVQzYdKi1YOX"
+    },
+    {
+      "album": {
         "name": "PASSENGER",
         "url": "https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ"
       },
@@ -2090,7 +2162,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 159771,
       "name": "PASSENGER",
       "url": "https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH"
@@ -2256,10 +2328,28 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 199166,
       "name": "RESCUER",
       "url": "https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye"
+    },
+    {
+      "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199166,
+      "name": "RESCUER",
+      "url": "https://open.spotify.com/track/5QccUp5xZ4pp9cZOHnZJLU"
     },
     {
       "album": {

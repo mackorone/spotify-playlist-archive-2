@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 
 > The upcoming artists performing at Jazz Cafe, London\. <a href="https://thejazzcafe.com/whats\-on/?">Discover the lineup.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,816 likes - 71 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,820 likes - 71 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 | 13 | [Vista](https://open.spotify.com/track/7ceLb4TBk4IOPirddCJ1k6) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Entrance Music](https://open.spotify.com/album/4VNA1yRahY0ARwiuMuMHzw) | 3:40 |
 | 14 | [Me at the Zoo](https://open.spotify.com/track/39w3nIEdzoLpV3eOpsTNAm) | [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW), [Àbáse](https://open.spotify.com/artist/0oXcSv2sZaRTblkhsDHnba) | [Fidelity Radio Club](https://open.spotify.com/album/1KsG1ZQ7VVhqmsqSJpR3Dj) | 2:48 |
 | 15 | [Hào Hoa \- Blackd, Rinv & McAir Remix](https://open.spotify.com/track/5LLH7MYj1RDH5jsIa76gFC) | [Saigon Soul Revival](https://open.spotify.com/artist/6XegBccPJ644jlWLh43NqO), [Blacka](https://open.spotify.com/artist/0JggLWdYe1p6oHZoHpyPSD), [BlackD](https://open.spotify.com/artist/0YJOJHTSxD4wULky1PgIDs), [RinV](https://open.spotify.com/artist/040QfxIqCvg2mHT2IkjFhZ), [McAir](https://open.spotify.com/artist/6AQAL7jjtgo6KKfcCdxRj5) | [Hào Hoa \(Blackd, Rinv & McAir Remix\)](https://open.spotify.com/album/6ZZGS8nKZj9lScs8OKhkzm) | 3:52 |
-| 16 | [Ndeko Solo \(Voilaaa Remix\)](https://open.spotify.com/track/1fy8tgjWJtlY8miEpfK6Fj) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT), [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1) | [Ndeko Solo \(Voilaaa Remix\)](https://open.spotify.com/album/0oaSGKcQOB40eC4SH1veGF) | 4:54 |
+| 16 | [Ndeko Solo \- Voilaaa Remix](https://open.spotify.com/track/1fy8tgjWJtlY8miEpfK6Fj) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT), [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1) | [Ndeko Solo \(Voilaaa Remix\)](https://open.spotify.com/album/0oaSGKcQOB40eC4SH1veGF) | 4:54 |
 | 17 | [Adaptation of the Koto Song](https://open.spotify.com/track/1aNFhbtcGM9nzJ6427ok6E) | [The Kilimanjaro Darkjazz Ensemble](https://open.spotify.com/artist/1it6OQb9fceS1M3gfd6erX) | [The Kilimanjaro Darkjazz Ensemble](https://open.spotify.com/album/2OzjPG4IscVZW6z5bvZTpK) | 3:58 |
 | 18 | [Remove The Complexities](https://open.spotify.com/track/7McExzjmhDI5NQ6l4D9XR9) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Dismantle](https://open.spotify.com/album/6TsyjKCVz1FlcjwglzzbT9) | 2:15 |
 | 19 | [Flying Nimbus](https://open.spotify.com/track/5YNfivwbMD3HP2rlvcxhe7) | [Everything Yes](https://open.spotify.com/artist/5w5pcSEff1UzB5dR2BehfX) | [Volume 3](https://open.spotify.com/album/1qFS3mwRRaET6zGcXFgXQ1) | 5:02 |

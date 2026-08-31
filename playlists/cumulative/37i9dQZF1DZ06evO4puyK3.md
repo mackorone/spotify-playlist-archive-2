@@ -4,11 +4,12 @@
 
 > This is Gloria Groove\. The essential tracks, all in one playlist.
 
-106 songs - 5 hr 51 min
+107 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [085 RMX](https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn) | [Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [085 RMX](https://open.spotify.com/album/5xQf9WAxGDU9upsBlJMAbK) | 2:43 | 2023-11-10 |  |
+| [1%](https://open.spotify.com/track/6QYmWKcEzwfcZ6zegbeIa4) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [PUT@RIA & POE$IA \(mixtape\)](https://open.spotify.com/album/43T5mcn5KkRMK81HgYNfb7) | 2:51 | 2026-08-31 |  |
 | [5 Minutinhos \- Ao Vivo](https://open.spotify.com/track/0olqsq6LOpziaBUDIPvR0I) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 3:05 | 2024-06-02 |  |
 | [A CAMINHADA \- AO VIVO](https://open.spotify.com/track/4bYpv3BfIy1LMdPlKWQywc) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE \(AO VIVO\)](https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d) | 1:50 | 2023-11-10 | 2023-12-14 |
 | [A Loba \- Ao Vivo](https://open.spotify.com/track/5SSOaOh6W2vjiRVfPKSqoS) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 5:10 | 2024-06-02 |  |
@@ -98,7 +99,7 @@
 | [Samba in Paris](https://open.spotify.com/track/25KQALHh04rbmAamifLwKt) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [QVVJFA?](https://open.spotify.com/album/7dSmIjXuJI4vFgIF06hQ1k) | 4:26 | 2026-01-29 |  |
 | [Samba in Paris](https://open.spotify.com/track/3nlhqZHMXG2A5UkW633wwx) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 4:26 | 2023-11-10 | 2025-12-14 |
 | [SAMBA IN PARIS \- AO VIVO](https://open.spotify.com/track/4plvsdkIRsdMFYiXyrLCsx) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE \(AO VIVO\)](https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d) | 2:50 | 2023-11-10 | 2023-12-14 |
-| [SEDANAPO](https://open.spotify.com/track/1rUKbbmml6cYgkRVwJOTbN) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [ALEGORIA](https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg) | 2:37 | 2023-11-10 |  |
+| [SEDANAPO](https://open.spotify.com/track/1rUKbbmml6cYgkRVwJOTbN) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [ALEGORIA](https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg) | 2:37 | 2023-11-10 | 2026-08-31 |
 | [SFM](https://open.spotify.com/track/69EoZoOljmNfMdZ3zNsUx1) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:29 | 2023-11-10 | 2024-06-17 |
 | [Sinal](https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Sinal](https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh) | 2:53 | 2023-11-10 | 2026-08-14 |
 | [SOBREVIVI](https://open.spotify.com/track/6p8DJ9fr7J9MDVY5iPNGNS) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 3:18 | 2023-11-10 |  |

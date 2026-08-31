@@ -1,12 +1,12 @@
 {
   "description": "This is Herbie Hancock. The essential tracks, all in one playlist.",
-  "num_followers": 43235,
+  "num_followers": 43239,
   "original_name": "This Is Herbie Hancock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABFQwernFrh3H1oOhsHx24c",
+  "snapshot_id": "apIhAAAAAADW/5m8ULhRGKIWnz9IuZlO",
   "tracks": [
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 390432,
-      "name": "Watermelon Man",
-      "url": "https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY"
+      "duration_ms": 944616,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR"
     },
     {
       "added_at": null,
@@ -219,38 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Future Shock",
-        "url": "https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 328115,
-      "name": "Rockit",
-      "url": "https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Head Hunters",
-        "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 944616,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw"
       },
@@ -263,6 +231,22 @@
       "duration_ms": 483454,
       "name": "Doin' It",
       "url": "https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Future Shock",
+        "url": "https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 328115,
+      "name": "Rockit",
+      "url": "https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So"
     },
     {
       "added_at": null,
@@ -303,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Point Of View (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 499253,
-      "name": "Blind Man, Blind Man",
-      "url": "https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw"
       },
@@ -331,6 +299,22 @@
       "duration_ms": 422454,
       "name": "Gentle Thoughts",
       "url": "https://open.spotify.com/track/0PccCPDXV2C1QBgfJyLi9R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Point Of View (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 499253,
+      "name": "Blind Man, Blind Man",
+      "url": "https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR"
     },
     {
       "added_at": null,
@@ -567,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Imagine Project",
-        "url": "https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 283706,
-      "name": "Tempo de Amor",
-      "url": "https://open.spotify.com/track/2sas1gLt9n02iHVKKlXj2s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Empyrean Isles (Expanded Edition)",
         "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
       },
@@ -595,6 +563,22 @@
       "duration_ms": 510653,
       "name": "Oliloqui Valley - Remastered",
       "url": "https://open.spotify.com/track/3NYiJLsWCBMBekvF6J4s0B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Imagine Project",
+        "url": "https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 283706,
+      "name": "Tempo de Amor",
+      "url": "https://open.spotify.com/track/2sas1gLt9n02iHVKKlXj2s"
     },
     {
       "added_at": null,
@@ -747,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Hands",
-        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 456104,
-      "name": "Just Around the Corner",
-      "url": "https://open.spotify.com/track/157EYJlm1CLRdjmEw3dCqG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gershwin's World",
         "url": "https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG"
       },
@@ -779,6 +747,22 @@
       "duration_ms": 349160,
       "name": "St. Louis Blues",
       "url": "https://open.spotify.com/track/1rzV9wr9myXgDWvTcfIiq4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Hands",
+        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 456104,
+      "name": "Just Around the Corner",
+      "url": "https://open.spotify.com/track/157EYJlm1CLRdjmEw3dCqG"
     },
     {
       "added_at": null,
@@ -823,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Empyrean Isles (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 441386,
+      "name": "One Finger Snap - Remastered",
+      "url": "https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mr. Hands",
         "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
       },
@@ -839,18 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empyrean Isles (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
+        "name": "My Funny Valentine (feat. Herbie Hancock)",
+        "url": "https://open.spotify.com/album/12PDBrKzyuJal63TCuyd5Y"
       },
       "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
         {
           "name": "Herbie Hancock",
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 441386,
-      "name": "One Finger Snap - Remastered",
-      "url": "https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT"
+      "duration_ms": 293493,
+      "name": "My Funny Valentine (feat. Herbie Hancock)",
+      "url": "https://open.spotify.com/track/2XlwQp17g1hnMGueyMY6pr"
     }
   ],
   "unique_name": "This Is Herbie Hancock",

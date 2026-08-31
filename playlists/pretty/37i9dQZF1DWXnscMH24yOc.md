@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,749 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,775 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 81 | [Everybody Here Wants You](https://open.spotify.com/track/6Ae3iEZalzep9aDRbGGMHK) | [HAERTS](https://open.spotify.com/artist/7pww8JMPMj1SxUfJ8wN5Kt) | [Everybody Here Wants You](https://open.spotify.com/album/0Fp9ynUHdMWvqhUm8PCdje) | 4:17 |
 | 82 | [Fake Empire](https://open.spotify.com/track/0YZWUkELGlFigAxGLMnfj8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:25 |
 | 83 | [Final Song](https://open.spotify.com/track/1VXJxus09S5VAcQ0VcaKjj) | [Wendy Lucas](https://open.spotify.com/artist/0QS3e81yxqcAh6izLUEa3a), [Jesse Justin](https://open.spotify.com/artist/05DZnoWzNBtiUH1Lttznjm) | [Final Song](https://open.spotify.com/album/0oWhABKDsYiQc9wiHEEoHk) | 2:21 |
-| 84 | [High by the Beach](https://open.spotify.com/track/7tY1VsxEz6OGN3FkUMN2MU) | [Modern Space](https://open.spotify.com/artist/6gINjiQZIN2b9G2i6zj13e) | [High By The Beach.](https://open.spotify.com/album/7lRFVGUeOMASGpwQe7sZCk) | 3:37 |
-| 85 | [Hope She'll Be Happier \- Spotify Singles](https://open.spotify.com/track/3PcdHJLrbpfXhfSmbWpIRL) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Spotify Singles](https://open.spotify.com/album/19dMFBXNyn1ZCQ1pxhg8nV) | 4:09 |
+| 84 | [Hope She'll Be Happier \- Spotify Singles](https://open.spotify.com/track/3PcdHJLrbpfXhfSmbWpIRL) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Spotify Singles](https://open.spotify.com/album/19dMFBXNyn1ZCQ1pxhg8nV) | 4:09 |
+| 85 | [High by the Beach](https://open.spotify.com/track/7tY1VsxEz6OGN3FkUMN2MU) | [Modern Space](https://open.spotify.com/artist/6gINjiQZIN2b9G2i6zj13e) | [High By The Beach.](https://open.spotify.com/album/7lRFVGUeOMASGpwQe7sZCk) | 3:37 |
 | 86 | [The Greatest](https://open.spotify.com/track/2wlhm9q8AaZbWEtczeTi2M) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Trauma \- Chansons De La Série Tv](https://open.spotify.com/album/2V0Pn1tlcuIPy3yf2T1MVK) | 3:25 |
 | 87 | [What Is Love](https://open.spotify.com/track/2cbUbYYjFEXJucB4YXLWtf) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Hideaway](https://open.spotify.com/album/5WyTbS28X2D8bkGSw0dlq3) | 3:07 |
 | 88 | [No Diggity](https://open.spotify.com/track/5MiQly7cdHQiP6JBX1PSYG) | [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Digging The Blogosphere](https://open.spotify.com/album/4rNQTnJ1Qp0rgy2FzE93Wk) | 3:42 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 92 | [Thank you for the happiest year of my life](https://open.spotify.com/track/3H1K7ZuDdWGqQYVKhDcSo6) | [if we were lakes](https://open.spotify.com/artist/06JENrckpSh4wgkXgAAm3z) | [Thank you for the happiest year of my life](https://open.spotify.com/album/6qEadJcKQ41QhPHHl19rMh) | 3:49 |
 | 93 | [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 |
 | 94 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 |
-| 95 | [Always Be My Baby](https://open.spotify.com/track/5dYs9IhYDPUqlYKILmRXt5) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [The Fifth](https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l) | 3:56 |
-| 96 | [Days Like This](https://open.spotify.com/track/66aH9gXNBfTJUikVIZfzcA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/55yX6dAMACVgUGxG2RCnIq) | 2:29 |
+| 95 | [Days Like This](https://open.spotify.com/track/66aH9gXNBfTJUikVIZfzcA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/55yX6dAMACVgUGxG2RCnIq) | 2:29 |
+| 96 | [Always Be My Baby](https://open.spotify.com/track/5dYs9IhYDPUqlYKILmRXt5) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [The Fifth](https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l) | 3:56 |
 | 97 | [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 |
 | 98 | [You're The One That I Want](https://open.spotify.com/track/1dEHQktvcM8vCCyI1x7yVB) | [Lo\-Fang](https://open.spotify.com/artist/5EDkJDlRNcMs3ewliB24QA) | [Blue Film](https://open.spotify.com/album/66BEZ127VgaQbxxRJijFZg) | 3:24 |
 | 99 | [Avant Gardener](https://open.spotify.com/track/1AbLKGveV3jFFKVKFYP2Ur) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Avant Gardener](https://open.spotify.com/album/2QeazQ3EKDtLZ6lRdZceNa) | 4:19 |

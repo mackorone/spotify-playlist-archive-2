@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Try a little tenderness\. Cover: Cleo Sol
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,582 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,583 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 38 | [Remember Me \- Original Mix](https://open.spotify.com/track/7MwPTFInd4Y3q1ZtwgzG57) | [Blue Boy](https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG) | [Remember Me](https://open.spotify.com/album/15ejkGAzLKHl2S1jvXWb1u) | 7:03 |
 | 39 | [The World \(Is Going Up in Flames\)](https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp) | 3:22 |
 | 40 | [Never Be Yours](https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Never Be Yours](https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF) | 3:16 |
-| 41 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
-| 42 | [Witch Doctor](https://open.spotify.com/track/7H2FmMnHfLRj8yoJpdl6A6) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Witch Doctor](https://open.spotify.com/album/2IsMRtMkzR3z4JtfibpYMm) | 6:26 |
-| 43 | [2 Much](https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [2 Much](https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR) | 3:20 |
-| 44 | [Seems Like](https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [Seems Like](https://open.spotify.com/album/2tap8Qg9edttnopPumKebe) | 3:14 |
-| 45 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:56 |
-| 46 | [Inner City Blues \(Make Me Wanna Holler\)](https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 5:27 |
-| 47 | [Talk It Over](https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 2](https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9) | 2:58 |
+| 41 | [Talk It Over](https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 2](https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9) | 2:58 |
+| 42 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
+| 43 | [Seems Like](https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [Seems Like](https://open.spotify.com/album/2tap8Qg9edttnopPumKebe) | 3:14 |
+| 44 | [2 Much](https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [2 Much](https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR) | 3:20 |
+| 45 | [Witch Doctor](https://open.spotify.com/track/7H2FmMnHfLRj8yoJpdl6A6) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Witch Doctor](https://open.spotify.com/album/2IsMRtMkzR3z4JtfibpYMm) | 6:26 |
+| 46 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:56 |
+| 47 | [Inner City Blues \(Make Me Wanna Holler\)](https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 5:27 |
 | 48 | [Shameful Game](https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [The Celestial Suite](https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN) | 3:05 |
 | 49 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
 | 50 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 66 | [Magnolia](https://open.spotify.com/track/43sdRsmJFcSnlTWTVRhYtz) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Naturally](https://open.spotify.com/album/3cpNHI7xhNIosF9WjSk8Zh) | 3:23 |
 | 67 | [Breakadawn](https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Buhloone Mindstate](https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd) | 4:15 |
 | 68 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
-| 69 | [Turnaround](https://open.spotify.com/track/3CaslR7DULHhYM6OXhxFL5) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Turnaround / I'm Hooked](https://open.spotify.com/album/3Nt7AounpxUPNRkMJErdtw) | 3:14 |
-| 70 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 |
+| 69 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 |
+| 70 | [Sinseerly Yours](https://open.spotify.com/track/228Ap7fHnb2BUsdopPrjxx) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Sinseerly Yours](https://open.spotify.com/album/7lNj0BxtEBKhQNtYVqpby6) | 2:53 |
 
 Snapshot ID: `AAAAAEvzjWAYK7YATDfL2MQBOXE4A33Q`

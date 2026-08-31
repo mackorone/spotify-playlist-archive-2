@@ -677,6 +677,24 @@
     },
     {
       "album": {
+        "name": "El Asham",
+        "url": "https://open.spotify.com/album/4un3v9w9ItPXe6TreN451P"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234026,
+      "name": "El Asham",
+      "url": "https://open.spotify.com/track/5mUXM7NLShbIUXxP80lQjy"
+    },
+    {
+      "album": {
         "name": "El Foundou",
         "url": "https://open.spotify.com/album/0HE2ooOyrWy46UafbdNXXw"
       },
@@ -1310,7 +1328,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 240706,
       "name": "Mansethosh Men Mosalsal El Aghar",
       "url": "https://open.spotify.com/track/6MlT8xS8aHcgbqLQMJhywZ"

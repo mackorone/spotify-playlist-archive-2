@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: selines",
-  "num_followers": 35390,
+  "num_followers": 35384,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
-        "name": "Balboa",
-        "url": "https://open.spotify.com/album/5Tpwq4dowN61wcGVAbO79I"
-      },
-      "artists": [
-        {
-          "name": "Arath Herce",
-          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
-        }
-      ],
-      "duration_ms": 220629,
-      "name": "Quiero Sentirlo Todo",
-      "url": "https://open.spotify.com/track/4nM3NRbtpF2gQwI1pl7Y2T"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
         "name": "Wacha Checa",
         "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 217693,
       "name": "Wacha Checa",
       "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
+        "name": "Balboa",
+        "url": "https://open.spotify.com/album/5Tpwq4dowN61wcGVAbO79I"
+      },
+      "artists": [
+        {
+          "name": "Arath Herce",
+          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
+        }
+      ],
+      "duration_ms": 220629,
+      "name": "Quiero Sentirlo Todo",
+      "url": "https://open.spotify.com/track/4nM3NRbtpF2gQwI1pl7Y2T"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
-        "name": "Qu\u00e9 Tal",
-        "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Santamaria",
-          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
-        }
-      ],
-      "duration_ms": 164266,
-      "name": "Qu\u00e9 Tal",
-      "url": "https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
         "name": "El Invento",
         "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 153413,
       "name": "El Invento",
       "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
+        "name": "Qu\u00e9 Tal",
+        "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+        }
+      ],
+      "duration_ms": 164266,
+      "name": "Qu\u00e9 Tal",
+      "url": "https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
-        "name": "donde van los perros",
-        "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
-      },
-      "artists": [
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        }
-      ],
-      "duration_ms": 124365,
-      "name": "yo as\u00ed",
-      "url": "https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
         "name": "TRES",
         "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 206040,
       "name": "\u00bfQu\u00e9 Ser\u00e1 De M\u00ed?",
       "url": "https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
+        "name": "donde van los perros",
+        "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "duration_ms": 124365,
+      "name": "yo as\u00ed",
+      "url": "https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
+        "name": "Ojos Vac\u00edos",
+        "url": "https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB"
+      },
+      "artists": [
+        {
+          "name": "selines",
+          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
+        }
+      ],
+      "duration_ms": 204417,
+      "name": "Por Ahorita",
+      "url": "https://open.spotify.com/track/0FO7EvnAJStsLu0eIIBp73"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
         "name": "Veo Veo",
         "url": "https://open.spotify.com/album/2cigOfCH3CpVOO5JvfvPwf"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 207999,
       "name": "Veo Veo",
       "url": "https://open.spotify.com/track/4j9pS5hEbPGQYhCscA7chz"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
-        "name": "Ojos Vac\u00edos",
-        "url": "https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB"
-      },
-      "artists": [
-        {
-          "name": "selines",
-          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
-        }
-      ],
-      "duration_ms": 204417,
-      "name": "Por Ahorita",
-      "url": "https://open.spotify.com/track/0FO7EvnAJStsLu0eIIBp73"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 202610,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
         "name": "Veintitr\u00e9s",
         "url": "https://open.spotify.com/album/7ARpIwyTK8jDS5lDCoBdFL"
       },
@@ -1395,18 +1411,18 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
+        "name": "Motel Kilomango",
+        "url": "https://open.spotify.com/album/2Et2imBWvYQ8XJYrBbwsqp"
       },
       "artists": [
         {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+          "name": "Adrie",
+          "url": "https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto"
         }
       ],
-      "duration_ms": 202610,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh"
+      "duration_ms": 173512,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/3oa7Q4VLpv9YYbpp741qih"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -1423,22 +1439,6 @@
       "duration_ms": 165715,
       "name": "Luces de bengala",
       "url": "https://open.spotify.com/track/7F2wex0mYEbekHkmCuaUMy"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
-        "name": "Motel Kilomango",
-        "url": "https://open.spotify.com/album/2Et2imBWvYQ8XJYrBbwsqp"
-      },
-      "artists": [
-        {
-          "name": "Adrie",
-          "url": "https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto"
-        }
-      ],
-      "duration_ms": 173512,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/3oa7Q4VLpv9YYbpp741qih"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
+        "name": "Al Pie del Volc\u00e1n",
+        "url": "https://open.spotify.com/album/34jUSNv9RoyaxI78mHzFmr"
+      },
+      "artists": [
+        {
+          "name": "Yo y las Bestias",
+          "url": "https://open.spotify.com/artist/6IMsvQIE5UuA92aA22TfxP"
+        }
+      ],
+      "duration_ms": 245422,
+      "name": "Al Pie del Volc\u00e1n",
+      "url": "https://open.spotify.com/track/5TpldaZoFR74NclU2mEhTP"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
         "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
         "url": "https://open.spotify.com/album/17gVN1sl8a6wg1yBLPyCiE"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 198430,
       "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
       "url": "https://open.spotify.com/track/34ajEsNwrD90F2K80UjeLs"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
-        "name": "Al Pie del Volc\u00e1n",
-        "url": "https://open.spotify.com/album/34jUSNv9RoyaxI78mHzFmr"
-      },
-      "artists": [
-        {
-          "name": "Yo y las Bestias",
-          "url": "https://open.spotify.com/artist/6IMsvQIE5UuA92aA22TfxP"
-        }
-      ],
-      "duration_ms": 245422,
-      "name": "Al Pie del Volc\u00e1n",
-      "url": "https://open.spotify.com/track/5TpldaZoFR74NclU2mEhTP"
     },
     {
       "added_at": "2026-06-17 15:34:50",

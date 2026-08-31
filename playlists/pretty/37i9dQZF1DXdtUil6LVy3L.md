@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,796 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,793 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 27 | [Hard Candy Christmas](https://open.spotify.com/track/3VHpv7iHs0PHfXns1ZfpNA) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/4tuj6Cm5lyYS223SGEpgeC) | 2:55 |
 | 28 | [Once in Royal David's City](https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Once in Royal David's City](https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp) | 2:45 |
 | 29 | [The Christmas Waltz](https://open.spotify.com/track/30gbCa8Zx6dioHEj9LwIaw) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [The Christmas Waltz](https://open.spotify.com/album/0YWxRVcTBfo7xBzgs2dwDX) | 1:40 |
-| 30 | [Good King Wenceslas](https://open.spotify.com/track/2ZSUAGIAUGFRBifcs0SuNt) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Good King Wenceslas](https://open.spotify.com/album/3hgjaTTBTZVIHuXLbUN5my) | 2:24 |
-| 31 | [Rudolph the Red Nosed Rain Deer](https://open.spotify.com/track/00zEutyWPkwIbwl50L1fop) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [Rudolph the Red Nosed Rain Deer](https://open.spotify.com/album/1hMXOVW1GQ7qRqyZ4ffxFN) | 2:25 |
+| 30 | [Rudolph the Red Nosed Rain Deer](https://open.spotify.com/track/00zEutyWPkwIbwl50L1fop) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [Rudolph the Red Nosed Rain Deer](https://open.spotify.com/album/1hMXOVW1GQ7qRqyZ4ffxFN) | 2:25 |
+| 31 | [Good King Wenceslas](https://open.spotify.com/track/2ZSUAGIAUGFRBifcs0SuNt) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Good King Wenceslas](https://open.spotify.com/album/3hgjaTTBTZVIHuXLbUN5my) | 2:24 |
 | 32 | [Candy Canes and Silver Lanes](https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [Candy Canes and Silver Lanes](https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC) | 3:43 |
 | 33 | [My Favourite Time of Year](https://open.spotify.com/track/61IXkIVYvfpKdjzEQeMU54) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [My Favourite Time of Year](https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw) | 4:02 |
 | 34 | [A Child Is Born](https://open.spotify.com/track/6jhdzfTDrFAHeK54v3T3JW) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:34 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 70 | [Holly Jolly Christmas](https://open.spotify.com/track/0quJINxC2EJafaaAFYA2sE) | [Mauro Meira](https://open.spotify.com/artist/5P3e6ZdtW6wdkTG7Fu7WBr) | [Holly Jolly Christmas](https://open.spotify.com/album/0AdbsAnET4JV9zsd9LTHDd) | 2:03 |
 | 71 | [O Little Town Of Bethlehem](https://open.spotify.com/track/1kmTkjdISuKcmP5NTop76j) | [Jason Starman](https://open.spotify.com/artist/52a7FDR4OUPloosqc20P3K) | [O Little Town Of Bethlehem](https://open.spotify.com/album/5ATgjzS28kfGc1mEb7woSb) | 2:01 |
 | 72 | [Ring in the Season](https://open.spotify.com/track/4GSrxmvhvcW5ngrnDLYx2S) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Ring in the Season](https://open.spotify.com/album/01YBrLsmmRoqzu1r4rZnnB) | 3:32 |
-| 73 | [Busy Santa](https://open.spotify.com/track/6mupcBc2lZIzSLhpaAzGtM) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Busy Santa](https://open.spotify.com/album/2Q8zMZnQ3GkbpTiqLleuQD) | 3:20 |
-| 74 | [Candlelit Within](https://open.spotify.com/track/4KzPfpoiBHHOX8DYZydShl) | [Joseph Cole](https://open.spotify.com/artist/1g058tnDJO8IRJH1ymkz7l) | [Candlelit Within](https://open.spotify.com/album/3nKPaFrNuWs3go1l4WFS4u) | 2:36 |
+| 73 | [Candlelit Within](https://open.spotify.com/track/4KzPfpoiBHHOX8DYZydShl) | [Joseph Cole](https://open.spotify.com/artist/1g058tnDJO8IRJH1ymkz7l) | [Candlelit Within](https://open.spotify.com/album/3nKPaFrNuWs3go1l4WFS4u) | 2:36 |
+| 74 | [Busy Santa](https://open.spotify.com/track/6mupcBc2lZIzSLhpaAzGtM) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Busy Santa](https://open.spotify.com/album/2Q8zMZnQ3GkbpTiqLleuQD) | 3:20 |
 | 75 | [Christmas Love](https://open.spotify.com/track/2LW2VCbUjkyh67iX0KbEDF) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [Christmas Love](https://open.spotify.com/album/5STKuTbSZYWJxNinEf7Jua) | 3:13 |
 | 76 | [Winter Wonderland](https://open.spotify.com/track/0IbVA4IxnJx49LvtubFILM) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Winter Wonderland](https://open.spotify.com/album/7FfxASu1BtqyyqMLs7ZOiA) | 2:19 |
 | 77 | [Under My Christmas Tree](https://open.spotify.com/track/4tKd4QHmVtC0EB4FvVCWyf) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Under My Christmas Tree](https://open.spotify.com/album/3486nX6gEewOk56YcHVrxA) | 3:06 |
-| 78 | [Season's Greetings](https://open.spotify.com/track/6m9C49EiOkMWaGgzh1Mllx) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Season's Greetings](https://open.spotify.com/album/3IAxXCAQQ1cPZQFFBKh6Om) | 3:15 |
-| 79 | [Deck the Halls](https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Deck the Halls](https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop) | 1:39 |
+| 78 | [Deck the Halls](https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Deck the Halls](https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop) | 1:39 |
+| 79 | [Season's Greetings](https://open.spotify.com/track/6m9C49EiOkMWaGgzh1Mllx) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Season's Greetings](https://open.spotify.com/album/3IAxXCAQQ1cPZQFFBKh6Om) | 3:15 |
 | 80 | [The Christmas Song](https://open.spotify.com/track/4ns7ixAIalaaE9ukUDWZxL) | [Belleville Trio](https://open.spotify.com/artist/403HCrqfVGqA17ba6ulE5q) | [The Christmas Song](https://open.spotify.com/album/5oJL7v5SPjjpFxYpo00URm) | 3:40 |
 
 Snapshot ID: `AAAAAIFTWdMa2A+/AYNnXY4FsExZkd9d`

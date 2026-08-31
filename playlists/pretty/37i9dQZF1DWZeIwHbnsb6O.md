@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 
 > Recuerda la década de los acampanados, patillas y cuellos picudos\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,842 likes - 62 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,911 likes - 62 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 | 22 | [Lamento De Amor](https://open.spotify.com/track/66nefjRgrIOjrUKCnKZJPq) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [40 Aniversario \(Componente 1\)](https://open.spotify.com/album/3MtyMeFGM6CO4xbImmyZgq) | 3:17 |
 | 23 | [Dilo Tu](https://open.spotify.com/track/6fdat2u9c3swGdh5YEgJoV) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 2:42 |
 | 24 | [Triángulo](https://open.spotify.com/track/3tsMbJIgZQZR3MT6I89GI2) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Antología...Los Baby's](https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV) | 3:10 |
-| 25 | [Vamos A Platicar](https://open.spotify.com/track/7lCnTYtFceL7xfc1yAuxFz) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [15 De Coleccion](https://open.spotify.com/album/1PXHqWOWHjTXBIrjmr4q1t) | 3:18 |
-| 26 | [Engaño](https://open.spotify.com/track/4HcAjWbSvFMPnqyuzU5qRI) | [La Tropa Loca](https://open.spotify.com/artist/3yRt7RrCEFnIIEgenUFElv) | [El Disco de Oro de la Tropa Loca](https://open.spotify.com/album/4DfcRh0MYcnlcZOUMLGyX3) | 3:26 |
+| 25 | [Engaño](https://open.spotify.com/track/4HcAjWbSvFMPnqyuzU5qRI) | [La Tropa Loca](https://open.spotify.com/artist/3yRt7RrCEFnIIEgenUFElv) | [El Disco de Oro de la Tropa Loca](https://open.spotify.com/album/4DfcRh0MYcnlcZOUMLGyX3) | 3:26 |
+| 26 | [Vamos A Platicar](https://open.spotify.com/track/7lCnTYtFceL7xfc1yAuxFz) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [15 De Coleccion](https://open.spotify.com/album/1PXHqWOWHjTXBIrjmr4q1t) | 3:18 |
 | 27 | [Qué Ironía](https://open.spotify.com/track/4GFDdDaSwSkJEhPjGfksxM) | [Los Muecas](https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b) | [La Gran Colección del 60 Aniversario CBS \- Los Muecas](https://open.spotify.com/album/3ZtJgoGA73bI1lrtmpdf43) | 3:14 |
 | 28 | [Macondo](https://open.spotify.com/track/35gLpi0XDCzMyQVwBdbuVu) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Oscar Chávez / La Más Completa Colección](https://open.spotify.com/album/47J1O0MfeIVexX6SpIoAFv) | 3:36 |
 | 29 | [Verónica](https://open.spotify.com/track/6V13qiStrqVyBnbK9QSZlI) | [Victor Yturbe "El Piruli"](https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB) | [Simplemente Lo Mejor...Victor Yturbe "El Piruli"](https://open.spotify.com/album/7uifn5SvzCTCMffh4u7n8o) | 3:51 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 | 39 | [Ciudad Perdida](https://open.spotify.com/track/3idcbx21Jgm10E3Ji71UQ1) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Puro Rock](https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs) | 4:34 |
 | 40 | [Adoro](https://open.spotify.com/track/4irHHlpVq5VCPgqSoJgD89) | [Carlos Lico](https://open.spotify.com/artist/3CFnY1i5FrsN9P4B7drTba) | [Serie 3X4 \(Los Angeles Negros, Altemar Dutra, Carlos Lico\)](https://open.spotify.com/album/1S1zJAXDxGM6HqXMj1aS7F) | 3:04 |
 | 41 | [Si los Niños Gobernaran al Mundo](https://open.spotify.com/track/0wtGpgsKB13jYY3QMYvt77) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Para los Peques](https://open.spotify.com/album/2G7iskbrJp8fEzGIRrf06o) | 2:11 |
-| 42 | [Voy a Rifar Mi Corazón](https://open.spotify.com/track/5kzDgkyl2iAo4qEitoqU5n) | [Imelda Miller](https://open.spotify.com/artist/2oVaeCKi0RspvgUjWxil4J) | [Que Alegre Va María](https://open.spotify.com/album/1ttlxUfJimVo4kiyXCrxa9) | 2:43 |
+| 42 | [Hasta Que Vuelvas](https://open.spotify.com/track/0f8AMcclUWij6oCjYiyLQg) | [Gualberto Castro](https://open.spotify.com/artist/31YYMJNqlsj6dAlZLjShbC) | [25 Exitos](https://open.spotify.com/album/5JMgIEiwX8WsKZf9CYz4We) | 3:57 |
 | 43 | [Cambia, Cambia](https://open.spotify.com/track/3aVnShJUHI4HJjSxukRmhC) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [Cambia, Cambia](https://open.spotify.com/album/77KHWR4kgEFYveU3I3e4j3) | 3:22 |
-| 44 | [Hasta Que Vuelvas](https://open.spotify.com/track/0f8AMcclUWij6oCjYiyLQg) | [Gualberto Castro](https://open.spotify.com/artist/31YYMJNqlsj6dAlZLjShbC) | [25 Exitos](https://open.spotify.com/album/5JMgIEiwX8WsKZf9CYz4We) | 3:57 |
+| 44 | [Voy a Rifar Mi Corazón](https://open.spotify.com/track/5kzDgkyl2iAo4qEitoqU5n) | [Imelda Miller](https://open.spotify.com/artist/2oVaeCKi0RspvgUjWxil4J) | [Que Alegre Va María](https://open.spotify.com/album/1ttlxUfJimVo4kiyXCrxa9) | 2:43 |
 | 45 | [Ella Fue](https://open.spotify.com/track/5tTZCXy4lOapYDw7kMPRaX) | [Javier Bátiz](https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1) | [Si Tú Te Acuerdas de Mi](https://open.spotify.com/album/0Lg4pYC31TmqCggVLFk5ZG) | 4:24 |
 | 46 | [Corazon de roca](https://open.spotify.com/track/7gZsYjASjfykZdB8ncVJvI) | [La Rondalla De Saltillo](https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P) | [Las Mejores Rondallas de Mexico](https://open.spotify.com/album/1YvJGXqCVBgAc5d3M6316Q) | 2:56 |
 | 47 | [El Amar y el Querer](https://open.spotify.com/track/3O0VgO1XOxiJSQnThWWPv3) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Brillantes \- Jose Jose](https://open.spotify.com/album/3olQZ2Bjes0ujqc3aVvWYI) | 3:56 |

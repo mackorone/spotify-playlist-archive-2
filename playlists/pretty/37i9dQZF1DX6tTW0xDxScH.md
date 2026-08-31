@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Where everything is lovely and snuggly <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,792 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,779 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 95 | [Coolshit Bullshit](https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet) | [Danika](https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO) | [Coolshit Bullshit](https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U) | 4:00 |
 | 96 | [I Don't](https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:22 |
 | 97 | [Debbie Darling](https://open.spotify.com/track/1T13ZqrqIEppYk5zEMh2Lc) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 3:48 |
-| 98 | [Lemon Garland](https://open.spotify.com/track/1iHN6klBw15bGhh0ZKu9K3) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [patching](https://open.spotify.com/album/56stRtD5PbBuywAzERa2GR) | 3:11 |
-| 99 | [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 |
-| 100 | [Mouth of a Flower](https://open.spotify.com/track/0rHsI1XMHFqORFBxjzgDP5) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Seed of a Seed](https://open.spotify.com/album/5WjjIOn40MG9kLfaeHBS5a) | 4:17 |
+| 98 | [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 |
+| 99 | [Mouth of a Flower](https://open.spotify.com/track/0rHsI1XMHFqORFBxjzgDP5) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Seed of a Seed](https://open.spotify.com/album/5WjjIOn40MG9kLfaeHBS5a) | 4:17 |
+| 100 | [Lemon Garland](https://open.spotify.com/track/1iHN6klBw15bGhh0ZKu9K3) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [patching](https://open.spotify.com/album/56stRtD5PbBuywAzERa2GR) | 3:11 |
 
 Snapshot ID: `AAAAANmMqj7FlJglktYPMjres/m3PEmD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 
 > Lagu\-lagu sedih yang menyayat hati 😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,199,998 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,199,995 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 5 | [Takkan Terulang](https://open.spotify.com/track/52TvMf96O8YsQrmpMMZEzP) | [Vanessa Zee](https://open.spotify.com/artist/6S7ej7e57rN4ZLvdsn8D7g), [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Takkan Terulang](https://open.spotify.com/album/69QQUogmI0SK2GGjMSjEnN) | 3:41 |
 | 6 | [Tampar](https://open.spotify.com/track/1csKczcJqOSdK8JriLMpDW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Nonfiksi](https://open.spotify.com/album/5Y5dkZeSlePrTopuETspAh) | 3:22 |
 | 7 | [Titik Nadir \(feat\. Monita Tahalea\)](https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Titik Nadir](https://open.spotify.com/album/0IpT1x2OIQoUuY320ayTyh) | 4:05 |
-| 8 | [Rumah Ke Rumah](https://open.spotify.com/track/2wAiFWjRupWmnDkQcu91MF) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 4:37 |
-| 9 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 |
+| 8 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 |
+| 9 | [Rumah Ke Rumah](https://open.spotify.com/track/2wAiFWjRupWmnDkQcu91MF) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 4:37 |
 | 10 | [Mungkin di Depan Buram](https://open.spotify.com/track/7Jg5lblHcvzWRHppWHa7ff) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Mungkin di Depan Buram](https://open.spotify.com/album/7A2XPc9WgnKN3S4yGUJVLo) | 2:37 |
 | 11 | [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/track/5dvIK269hL3eZXQMG4Vc2C) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/album/1K1gVX9mqTJuCaLvxL7AIq) | 3:09 |
 | 12 | [Tak Kan Hilang](https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Tak Kan Hilang](https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5) | 4:01 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 36 | [Rahasia Hati](https://open.spotify.com/track/1X80KdFJpedU4as4WGIgYM) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Paradoks](https://open.spotify.com/album/1qJp3Va3JzFE3FPVClJDQc) | 3:11 |
 | 37 | [Apa Mungkin](https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin](https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31) | 3:58 |
 | 38 | [Langit Abu\-Abu](https://open.spotify.com/track/2FaquTc3FYvNm7RuO1gD6O) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:22 |
-| 39 | [Menjaga Hati](https://open.spotify.com/track/7er7WofjVw4QwPAyxH39jH) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [The Special One](https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp) | 3:57 |
-| 40 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 |
+| 39 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 |
+| 40 | [Menjaga Hati](https://open.spotify.com/track/7er7WofjVw4QwPAyxH39jH) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [The Special One](https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp) | 3:57 |
 | 41 | [It's Only Me \- Studio Version](https://open.spotify.com/track/2CoxJRIhTKvHyFIq9FcDO5) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [It's Only Me \(Studio Version\)](https://open.spotify.com/album/2BQkplVABAVVOzvZzRkBQ4) | 3:23 |
 | 42 | [Dirimu Yang Dulu](https://open.spotify.com/track/4NTJKqpoAlTG3RcPB3y4C7) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Dirimu Yang Dulu](https://open.spotify.com/album/1XwDxY39rQn75hkx763Kri) | 4:00 |
 | 43 | [Risalah Hati](https://open.spotify.com/track/0cc9lgdfHqeS8t9BzbFFmj) | [Dewa](https://open.spotify.com/artist/35dWPb7Tmq0WESp6KAUJ8w) | [Bintang Lima](https://open.spotify.com/album/3LRdN6TlxSk6DJqpSWwdFQ) | 4:52 |

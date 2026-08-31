@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,765 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,777 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 33 | [Call of the Rooster \(El Helwa Di\)](https://open.spotify.com/track/4FnuYtmoJT8x2Ypf9lFxmp) | [Marcel Khalife](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Dreamy Sunrise \(Ya Mahla Nourha\)](https://open.spotify.com/album/2dDo3HRY4ca0PHgFgMCaXB) | 3:24 |
 | 34 | [Lazim Ahkeelak](https://open.spotify.com/track/5bovnlTevkS4gSSYhCnlUI) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Lazim Ahkeelak](https://open.spotify.com/album/5lP0mAnk1RMLrEhpaIu5TG) | 3:18 |
 | 35 | [Btazkor Bel Layl](https://open.spotify.com/track/5qa7qeIhhgDQpspgxZs9V5) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF), [Elias Rahbani](https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS) | [Eella \(Music from the Play\)](https://open.spotify.com/album/0jOwn20BQkhAS9vs7VnPMz) | 3:47 |
-| 36 | [Khedni Maak Aa Darb Bi'ldi](https://open.spotify.com/track/6casyhTmAvFtnQ3tRaXR2x) | [Salwa El Katrib](https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX), [Romeo Lahoud](https://open.spotify.com/artist/35q5pUUhyxCWdRVDTaAOta) | [Best of Salwa El Katrib, Vol\. 1](https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ) | 4:14 |
-| 37 | [Habbaitak Tanseet El Noum](https://open.spotify.com/track/6ch2OJ4qWx6ub61bGKCkVo) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairouz World, Pt\. 2](https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y) | 5:37 |
+| 36 | [Habbaitak Tanseet El Noum](https://open.spotify.com/track/6ch2OJ4qWx6ub61bGKCkVo) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairouz World, Pt\. 2](https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y) | 5:37 |
+| 37 | [Khedni Maak Aa Darb Bi'ldi](https://open.spotify.com/track/6casyhTmAvFtnQ3tRaXR2x) | [Salwa El Katrib](https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX), [Romeo Lahoud](https://open.spotify.com/artist/35q5pUUhyxCWdRVDTaAOta) | [Best of Salwa El Katrib, Vol\. 1](https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ) | 4:14 |
 | 38 | [Estesna'i](https://open.spotify.com/track/2ZR3Vb01kfWlNDQ6P16Qjv) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [Hadis El Layl](https://open.spotify.com/album/01Gq3fakZdS0h4sk6pKwea) | 3:41 |
 | 39 | [يمكن بكرة \- Yimken Bokra](https://open.spotify.com/track/2Bqd1xUkK2YNczQ5eysRHw) | [Yazeed Fahad](https://open.spotify.com/artist/2GH6332p4LA0hEd0wXlmfp) | [يمكن بكرة \- Yimken Bokra](https://open.spotify.com/album/3kExOuFti7za3tE9gyuLjW) | 3:26 |
 | 40 | [Helwa Ya Baladi حلوة يا بلدي \- Cover](https://open.spotify.com/track/3WVU8Hqnp45QfgtVZu36He) | [Lina Sleibi](https://open.spotify.com/artist/4V7rYFRvFUe9t0D4wPCxrz) | [Helwa Ya Baladi حلوة يا بلدي \(Cover\)](https://open.spotify.com/album/3DkQKBXouCLFM1xrl3R667) | 3:24 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 45 | [Coffee](https://open.spotify.com/track/1BGwh1ZIWiq181jgOdpUWC) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Dangerous](https://open.spotify.com/album/0rcO8q6LbFt3EW7NuHj4kR) | 3:39 |
 | 46 | [Bahwak](https://open.spotify.com/track/7D8m6yXM2yIITCjMrlEPOu) | [Sama Shoufani](https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr) | [Bahwak](https://open.spotify.com/album/4qz2Q8NdUlkKckkRmFDhtl) | 3:18 |
 | 47 | [Wein Rayheen](https://open.spotify.com/track/7mHpjI49tleTX9YezPPqS6) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Wein Rayheen](https://open.spotify.com/album/4bcHZwnRYGf63bmvfpUFDq) | 3:05 |
-| 48 | [law f zaman tany](https://open.spotify.com/track/3LRXM9DLmDYTc4P9QP9rjx) | [Noha](https://open.spotify.com/artist/7tBhTihCulpL1l61zcMxcA) | [law f zaman tany](https://open.spotify.com/album/0xBHnUAm32g1SC8AZNVVGQ) | 2:23 |
-| 49 | [Al Kawn Janni Maak](https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Al Kawn Janni Maak](https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG) | 2:15 |
+| 48 | [Al Kawn Janni Maak](https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Al Kawn Janni Maak](https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG) | 2:15 |
+| 49 | [law f zaman tany](https://open.spotify.com/track/3LRXM9DLmDYTc4P9QP9rjx) | [Noha](https://open.spotify.com/artist/7tBhTihCulpL1l61zcMxcA) | [law f zaman tany](https://open.spotify.com/album/0xBHnUAm32g1SC8AZNVVGQ) | 2:23 |
 | 50 | [Sucre](https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [HANNET LEKLOUB](https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql) | 3:55 |
 | 51 | [Tari Ya Tayara](https://open.spotify.com/track/3UloAMR0qKVZL1210RNCtI) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Tari Ya Tayara](https://open.spotify.com/album/0Z35QvKe6uM0saOl9bchJE) | 2:26 |
 | 52 | [The Sun of Love \- Remix](https://open.spotify.com/track/0ssucGvDVIMzkZsdeEkLks) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO), [Bruno Cruz](https://open.spotify.com/artist/0yIJhvdaYRB4dOJskdpqxW), [Ministry of Dub\-Key](https://open.spotify.com/artist/1XW2NTbJjpWDcZioxGuzVT) | [R.I.M.I.X](https://open.spotify.com/album/2OVAzbPUeWOdrmcZ9Lr0Fc) | 3:26 |

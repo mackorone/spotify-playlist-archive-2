@@ -1,6 +1,6 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 1110440,
+  "num_followers": 1110547,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Still Waiting",
-      "url": "https://open.spotify.com/track/4rLKjYqJjLU0Odg52kGL2O"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "When Your Heart Stops Beating",
         "url": "https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 192786,
       "name": "When Your Heart Stops Beating",
       "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Still Waiting",
+      "url": "https://open.spotify.com/track/4rLKjYqJjLU0Odg52kGL2O"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Firme",
-        "url": "https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD"
-      },
-      "artists": [
-        {
-          "name": "Voodoo Glow Skulls",
-          "url": "https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Shoot the Moon",
-      "url": "https://open.spotify.com/track/74Y2eYNC5SFEaekY8epIKR"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Father of All...",
         "url": "https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 114331,
       "name": "Sugar Youth",
       "url": "https://open.spotify.com/track/62EiqO4OVS0v4H6Y3DtQ3e"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Firme",
+        "url": "https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD"
+      },
+      "artists": [
+        {
+          "name": "Voodoo Glow Skulls",
+          "url": "https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Shoot the Moon",
+      "url": "https://open.spotify.com/track/74Y2eYNC5SFEaekY8epIKR"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Thrash Metal Cassette",
-        "url": "https://open.spotify.com/album/4uxoxIxiheMeKBzioMofHY"
+        "name": "Titles",
+        "url": "https://open.spotify.com/album/4t1fwxHgEA522MOCujyzrq"
       },
       "artists": [
         {
-          "name": "Dinosaur Pile-Up",
-          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+          "name": "Red City Radio",
+          "url": "https://open.spotify.com/artist/6SSXfZGnJaNajWRPGHq4JL"
         }
       ],
-      "duration_ms": 219866,
-      "name": "Thrash Metal Cassette",
-      "url": "https://open.spotify.com/track/2NSw8SOcQ6EVLf1QZFMH1h"
+      "duration_ms": 183504,
+      "name": "Two Notes Shy of an Octave",
+      "url": "https://open.spotify.com/track/5YItelunJdgQncp9TOZiCH"
     }
   ],
   "unique_name": "Skatepark Punks",

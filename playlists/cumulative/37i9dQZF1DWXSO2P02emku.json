@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Conoce a los 7 semifinalistas de M\u00e9xico Canta y a los invitados especiales que los acompa\u00f1an.\n",
+  "description": "Conoce a los 14 artistas de M\u00e9xico Canta y a los invitados especiales que los acompa\u00f1an. \ud83d\udcf8 La Arrolladora Banda El Lim\u00f3n De Ren\u00e9 Camacho\n",
   "name": "M\u00c9XICO CANTA 2026",
   "tracks": [
     {
@@ -208,6 +208,28 @@
       "duration_ms": 220650,
       "name": "Abcdario",
       "url": "https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico Canta. Semifinal M\u00e9xico",
+        "url": "https://open.spotify.com/album/1osc6lKnnfWnEUssMWfeFM"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9xico Canta",
+          "url": "https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC"
+        },
+        {
+          "name": "Grecia Delgado",
+          "url": "https://open.spotify.com/artist/7rSTzimIe69drZh8LtPxI2"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157268,
+      "name": "ADIVINEN QUIEN",
+      "url": "https://open.spotify.com/track/1GFEakLpZgXZ2HPsTfigli"
     },
     {
       "album": {
@@ -579,6 +601,28 @@
     },
     {
       "album": {
+        "name": "M\u00e9xico Canta. Semifinal M\u00e9xico",
+        "url": "https://open.spotify.com/album/1osc6lKnnfWnEUssMWfeFM"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9xico Canta",
+          "url": "https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC"
+        },
+        {
+          "name": "LUNA L\u00d3PEZ",
+          "url": "https://open.spotify.com/artist/3DPhZKKvH0yDBADRJprtSk"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179171,
+      "name": "AVENTANDO FLECHAS",
+      "url": "https://open.spotify.com/track/2sLJqvkZcKsJyhntDnouB7"
+    },
+    {
+      "album": {
         "name": "Mariachi M\u00edo (Deluxe)",
         "url": "https://open.spotify.com/album/4p1A2yuhbQo7M3S18ltyXh"
       },
@@ -728,6 +772,28 @@
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico Canta. Semifinal M\u00e9xico",
+        "url": "https://open.spotify.com/album/1osc6lKnnfWnEUssMWfeFM"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9xico Canta",
+          "url": "https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC"
+        },
+        {
+          "name": "Emi Macias",
+          "url": "https://open.spotify.com/artist/3k4qmQflWS96vrLhRL1xWE"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115564,
+      "name": "BELLA",
+      "url": "https://open.spotify.com/track/4WQxMH1Tu1yVXVprlASflS"
     },
     {
       "album": {
@@ -1767,6 +1833,24 @@
     },
     {
       "album": {
+        "name": "Y Que Quede Claro",
+        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195306,
+      "name": "El Final De Nuestra Historia",
+      "url": "https://open.spotify.com/track/31REg67eoHJSvMLUcEmGNj"
+    },
+    {
+      "album": {
         "name": "El Fugitivo (En Vivo)",
         "url": "https://open.spotify.com/album/2gVGRsRpBJOZs2hZTvwlpc"
       },
@@ -1930,6 +2014,24 @@
       "duration_ms": 160897,
       "name": "El Rescate",
       "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
+    },
+    {
+      "album": {
+        "name": "Gracias Por Creer",
+        "url": "https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265880,
+      "name": "El Ruido De Tus Zapatos",
+      "url": "https://open.spotify.com/track/3VhupipSGvOXrNrNvUwhs1"
     },
     {
       "album": {
@@ -3201,6 +3303,28 @@
     },
     {
       "album": {
+        "name": "M\u00e9xico Canta. Semifinal M\u00e9xico",
+        "url": "https://open.spotify.com/album/1osc6lKnnfWnEUssMWfeFM"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9xico Canta",
+          "url": "https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC"
+        },
+        {
+          "name": "BRYAN SOTO (CLAVE 5/7)",
+          "url": "https://open.spotify.com/artist/1t00RRRwsQu3zI26i61xT0"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146009,
+      "name": "LABIOS DE CEREZA",
+      "url": "https://open.spotify.com/track/5HUvqNztSssvtTzNnE9ZyA"
+    },
+    {
+      "album": {
         "name": "Cap\u00edtulo 1: El Regreso Del Dragon",
         "url": "https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0"
       },
@@ -3783,6 +3907,28 @@
     },
     {
       "album": {
+        "name": "M\u00e9xico Canta. Semifinal M\u00e9xico",
+        "url": "https://open.spotify.com/album/1osc6lKnnfWnEUssMWfeFM"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9xico Canta",
+          "url": "https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC"
+        },
+        {
+          "name": "Belle \"La Malixita\"",
+          "url": "https://open.spotify.com/artist/0p8CzDqKpyGj8lv9yllK9e"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128543,
+      "name": "MALAXITA",
+      "url": "https://open.spotify.com/track/0aZFJN5MZGiUgcQJi9rLSb"
+    },
+    {
+      "album": {
         "name": "G\u00e9minis",
         "url": "https://open.spotify.com/album/2ErW404SVZ8KbcA5y1t33T"
       },
@@ -3980,6 +4126,24 @@
       "duration_ms": 149450,
       "name": "Mi Morenita",
       "url": "https://open.spotify.com/track/4Xly6Wx7KtcJc739Y4myOt"
+    },
+    {
+      "album": {
+        "name": "Gracias Por Creer",
+        "url": "https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187640,
+      "name": "Mi Segunda Vida",
+      "url": "https://open.spotify.com/track/6Z7f0BXDLI8k4CHR9KJdAD"
     },
     {
       "album": {
@@ -5643,6 +5807,28 @@
     },
     {
       "album": {
+        "name": "M\u00e9xico Canta. Semifinal M\u00e9xico",
+        "url": "https://open.spotify.com/album/1osc6lKnnfWnEUssMWfeFM"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9xico Canta",
+          "url": "https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC"
+        },
+        {
+          "name": "BILHAN MORALES",
+          "url": "https://open.spotify.com/artist/5ioRn8AFxRAqbryqQsY9u1"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "SELLO DE GARANT\u00cdA",
+      "url": "https://open.spotify.com/track/1DFvCZA9oHDDWwTRjZXwef"
+    },
+    {
+      "album": {
         "name": "She Hurts Like Tequila",
         "url": "https://open.spotify.com/album/1rkFmAJVDy10lLw7st5bwd"
       },
@@ -5680,6 +5866,24 @@
       "duration_ms": 170496,
       "name": "Si Fuera F\u00e1cil",
       "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
+    },
+    {
+      "album": {
+        "name": "Si Las Miradas Mataran (Deluxe)",
+        "url": "https://open.spotify.com/album/3KlMY32mPgUm0kIysPVjML"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Si Las Miradas Mataran",
+      "url": "https://open.spotify.com/track/5qgZvBfxnjXOZkcnlvFjxz"
     },
     {
       "album": {
@@ -6093,6 +6297,28 @@
     },
     {
       "album": {
+        "name": "M\u00e9xico Canta. Semifinal M\u00e9xico",
+        "url": "https://open.spotify.com/album/1osc6lKnnfWnEUssMWfeFM"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9xico Canta",
+          "url": "https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC"
+        },
+        {
+          "name": "F\u00c1TIMA CUEVAS",
+          "url": "https://open.spotify.com/artist/1MnOwbBiOvMJtJhl5mPCV4"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "TE RETO ESTA NOCHE",
+      "url": "https://open.spotify.com/track/0blrZBzA23ZYGfY9bBPmf4"
+    },
+    {
+      "album": {
         "name": "La Boca Les Callamos, Vol. 2",
         "url": "https://open.spotify.com/album/7EesU3azH6jPG5osiPex59"
       },
@@ -6416,6 +6642,24 @@
       "duration_ms": 279275,
       "name": "UNA CERVEZA",
       "url": "https://open.spotify.com/track/0lbDzTINTToToBpkrnQT2t"
+    },
+    {
+      "album": {
+        "name": "Una Historia Mal Contada",
+        "url": "https://open.spotify.com/album/5lYcalORluIjuBEKJflc88"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160285,
+      "name": "Una Historia Mal Contada",
+      "url": "https://open.spotify.com/track/1izEJok9Nl9eiyWeIV9pmi"
     },
     {
       "album": {
@@ -7032,6 +7276,24 @@
       "duration_ms": 190560,
       "name": "Zalibena Polka",
       "url": "https://open.spotify.com/track/3RD6ODnn5AqFDL76yoHXJt"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 Fue Lo Que Me Diste?",
+        "url": "https://open.spotify.com/album/2fJrm1oEbTww4VWJsob6zn"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206773,
+      "name": "\u00bfQu\u00e9 Fue Lo Que Me Diste?",
+      "url": "https://open.spotify.com/track/5NfKSbEf0ZT6wpGXivX5WK"
     },
     {
       "album": {

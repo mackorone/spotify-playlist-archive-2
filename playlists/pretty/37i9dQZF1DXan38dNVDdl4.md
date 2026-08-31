@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The biggest Dancehall playlist in the world\. Cover: Shenseea, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,606,516 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,606,558 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

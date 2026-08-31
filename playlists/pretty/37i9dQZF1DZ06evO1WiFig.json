@@ -1,12 +1,12 @@
 {
   "description": "This is Aldous Harding. The essential tracks, all in one playlist.",
-  "num_followers": 5194,
+  "num_followers": 5196,
   "original_name": "This Is Aldous Harding",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABLYtQXen1iHjMZBuDGHIIV",
+  "snapshot_id": "apIhAAAAAAAHWoepqrrzCV/+XrOH4hF/",
   "tracks": [
     {
       "added_at": null,
@@ -359,18 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warm Chris",
-        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
+        "name": "Three Hours",
+        "url": "https://open.spotify.com/album/6uRl5exouSdzAStQAWZRu9"
       },
       "artists": [
+        {
+          "name": "John Parish",
+          "url": "https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk"
+        },
         {
           "name": "Aldous Harding",
           "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
         }
       ],
-      "duration_ms": 219213,
-      "name": "Tick Tock",
-      "url": "https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE"
+      "duration_ms": 272567,
+      "name": "Three Hours",
+      "url": "https://open.spotify.com/track/01QUUwYGVbgIBGVpHdnhu2"
     },
     {
       "added_at": null,
@@ -407,22 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Hours",
-        "url": "https://open.spotify.com/album/6uRl5exouSdzAStQAWZRu9"
+        "name": "Warm Chris",
+        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
       },
       "artists": [
-        {
-          "name": "John Parish",
-          "url": "https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk"
-        },
         {
           "name": "Aldous Harding",
           "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
         }
       ],
-      "duration_ms": 272567,
-      "name": "Three Hours",
-      "url": "https://open.spotify.com/track/01QUUwYGVbgIBGVpHdnhu2"
+      "duration_ms": 219213,
+      "name": "Tick Tock",
+      "url": "https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
       "duration_ms": 164933,
       "name": "Living The Classics",
       "url": "https://open.spotify.com/track/1KB6tYbLki88BjfsnPLuyq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Warm Chris",
-        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Lawn",
-      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
     },
     {
       "added_at": null,
@@ -491,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Warm Chris",
+        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Lawn",
+      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
       },
@@ -503,22 +503,6 @@
       "duration_ms": 184400,
       "name": "What If Birds Aren't Singing They're Screaming",
       "url": "https://open.spotify.com/track/6Yo9G1UkzGgm3hLoVa9TC1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Warm Chris",
-        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 226533,
-      "name": "Warm Chris",
-      "url": "https://open.spotify.com/track/0iEt07AuGxka9WpxOdyYsP"
     },
     {
       "added_at": null,
@@ -563,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Warm Chris",
+        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 226533,
+      "name": "Warm Chris",
+      "url": "https://open.spotify.com/track/0iEt07AuGxka9WpxOdyYsP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
       },
@@ -575,22 +575,6 @@
       "duration_ms": 228306,
       "name": "I'm So Sorry",
       "url": "https://open.spotify.com/track/2IaEmjnG62sMzohKJ8D2Es"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Warm Chris",
-        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 240853,
-      "name": "Leathery Whip",
-      "url": "https://open.spotify.com/track/3o7dptCQLKU20zdkA132ZQ"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
       "duration_ms": 325004,
       "name": "Elation",
       "url": "https://open.spotify.com/track/0TY3pVvegcVfdQ7nzF2KRP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Warm Chris",
+        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "Leathery Whip",
+      "url": "https://open.spotify.com/track/3o7dptCQLKU20zdkA132ZQ"
     }
   ],
   "unique_name": "This Is Aldous Harding",

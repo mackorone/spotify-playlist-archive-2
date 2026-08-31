@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAADzjA3+8cuDoWToG0PpsiP/",
+  "snapshot_id": "apIhAAAAAADsp1t/eHhqR7Vzn2fk0QhU",
   "tracks": [
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 244767,
-      "name": "Houses of American Style",
-      "url": "https://open.spotify.com/track/6eDw8rZ9bJWCkoaFtLDh6P"
+      "duration_ms": 264306,
+      "name": "The Luck You Had",
+      "url": "https://open.spotify.com/track/2j4oiDGeldw98B8kf8VWKY"
     },
     {
       "added_at": null,
@@ -287,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Marcel and the Prince",
+        "url": "https://open.spotify.com/album/0GswR3L2aBUkWskZlBezhl"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 207750,
+      "name": "Marcel and the Prince",
+      "url": "https://open.spotify.com/track/6zZwvuzLs6Zc1lsOMkfXa8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You're in both dreams (and you're scared)",
         "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
       },
@@ -312,9 +328,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 254528,
-      "name": "Winona Ryder",
-      "url": "https://open.spotify.com/track/3chwiu2j0vvNiOc5zvTnyY"
+      "duration_ms": 229824,
+      "name": "Start out with Differences",
+      "url": "https://open.spotify.com/track/036ME3TU5NT3XCLdYxpGMA"
     },
     {
       "added_at": null,
@@ -328,9 +344,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 252169,
-      "name": "Violet",
-      "url": "https://open.spotify.com/track/2vf8GGzKCRtvjyz0MVL5S1"
+      "duration_ms": 241920,
+      "name": "Mike + Susan",
+      "url": "https://open.spotify.com/track/14iRhVzDOc9EKuRIbzsczQ"
     },
     {
       "added_at": null,
@@ -344,9 +360,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 264306,
-      "name": "The Luck You Had",
-      "url": "https://open.spotify.com/track/2j4oiDGeldw98B8kf8VWKY"
+      "duration_ms": 244767,
+      "name": "Houses of American Style",
+      "url": "https://open.spotify.com/track/6eDw8rZ9bJWCkoaFtLDh6P"
     },
     {
       "added_at": null,
@@ -376,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 241920,
-      "name": "Mike + Susan",
-      "url": "https://open.spotify.com/track/14iRhVzDOc9EKuRIbzsczQ"
+      "duration_ms": 234065,
+      "name": "412",
+      "url": "https://open.spotify.com/track/1nx2dR3JFSU89eCXITguU5"
     }
   ],
   "unique_name": "This Is P\u00c6RISH",

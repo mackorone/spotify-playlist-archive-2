@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 
 > Cuddle up and relax with these country tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,283 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,359 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 | 80 | [Luck Of The Draw](https://open.spotify.com/track/6vnFpGFCO7HrNXdVS9e7Gm) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Luck Of The Draw](https://open.spotify.com/album/6bIP0hCv4QksogNB0UOira) | 3:23 |
 | 81 | [Brown Eyes Baby](https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Brown Eyes Baby](https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp) | 3:44 |
 | 82 | [Giving You Up](https://open.spotify.com/track/3f3VeiJIaWOZcmkJpTqxyj) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up](https://open.spotify.com/album/5kb55Z7no2v4AJjBGL2h6p) | 3:50 |
-| 83 | [The Long Way](https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Brett Eldredge](https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo) | 3:28 |
-| 84 | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/track/6DYtfjCJdFOXUlV3E9a9bI) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/album/0QikezpLsccyG7W7oNwQ8D) | 4:30 |
+| 83 | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/track/6DYtfjCJdFOXUlV3E9a9bI) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/album/0QikezpLsccyG7W7oNwQ8D) | 4:30 |
+| 84 | [The Long Way](https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Brett Eldredge](https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo) | 3:28 |
 | 85 | [Leave the Pieces](https://open.spotify.com/track/1VnQfAPIHwFImjfO9gnyUt) | [The Wreckers](https://open.spotify.com/artist/2jI32eTOcSx2bn1MGgRyei) | [Stand Still, Look Pretty \(U.S\. Version\)](https://open.spotify.com/album/0KxzAA13yiDK4rchYytEhe) | 3:30 |
 | 86 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 |
 | 87 | [Country Again](https://open.spotify.com/track/3CiF9D8iuVhZWDvvjf8HpG) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 3:41 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hFALgilvpL.md) - [plain]
 | 92 | [Hold On](https://open.spotify.com/track/1fOvzFCRA3Ko0ihc2QTE29) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Hold On](https://open.spotify.com/album/3s7URrr4aax9L0kgMyyE00) | 3:04 |
 | 93 | [She Don't Love You](https://open.spotify.com/track/1B17jo7XD3lJ9AtrdE9kUd) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Eric Paslay](https://open.spotify.com/album/79RwxrHw6uKVimeEGyM00W) | 4:22 |
 | 94 | [Steady Heart](https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart](https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9) | 3:33 |
-| 95 | [Ain't Over Me Yet](https://open.spotify.com/track/3XqQ0wdVTielXOde7wYXiL) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Ain't Over Me Yet](https://open.spotify.com/album/4No1KqKyXV5EzFJ1IV4G9p) | 3:24 |
-| 96 | [Light On In The Kitchen](https://open.spotify.com/track/2GAqIzPU7v3kfvY4hZQ9jm) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Light On In The Kitchen](https://open.spotify.com/album/335hPIk2TDnJwANpw18P6G) | 3:32 |
+| 95 | [Light On In The Kitchen](https://open.spotify.com/track/2GAqIzPU7v3kfvY4hZQ9jm) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Light On In The Kitchen](https://open.spotify.com/album/335hPIk2TDnJwANpw18P6G) | 3:32 |
+| 96 | [Ain't Over Me Yet](https://open.spotify.com/track/3XqQ0wdVTielXOde7wYXiL) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Ain't Over Me Yet](https://open.spotify.com/album/4No1KqKyXV5EzFJ1IV4G9p) | 3:24 |
 | 97 | [Take It Slow](https://open.spotify.com/track/3CC2sCo30DhwOwGI4NN30I) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Take It Slow](https://open.spotify.com/album/7pZWY6EqOlAZnYNW949KbJ) | 2:42 |
 | 98 | [I'll Be The Moon](https://open.spotify.com/track/0kIlh2nOwIxx4SgoDrRWDG) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Black](https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux) | 3:30 |
 | 99 | [All About It](https://open.spotify.com/track/0j2e7Gu19gy0ZqIOQyN4xj) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dylan Marlowe](https://open.spotify.com/album/1Cn8tdli6qxfcmhTQ8RcnY) | 3:05 |

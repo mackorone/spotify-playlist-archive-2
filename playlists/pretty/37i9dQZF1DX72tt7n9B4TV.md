@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > TURNSTILE SUMMER
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,043 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,039 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 29 | [Love](https://open.spotify.com/track/4Bk7wqOixpEsDtNM39YZ0e) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 3:40 |
 | 30 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/64Js3amhV3Pa7ho3Io1PM1) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/6GTggBhgEjHs2pak8yTc7q) | 3:30 |
 | 31 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/7JqmQovsdmO6kEqIeQv6R3) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 4:05 |
-| 32 | [C’est Comme Ça](https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 2:29 |
-| 33 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 |
+| 32 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 |
+| 33 | [C’est Comme Ça](https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 2:29 |
 | 34 | [Love Balloon](https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Love Balloon](https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK) | 4:00 |
 | 35 | [Empty Words](https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Empty Words](https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y) | 2:49 |
 | 36 | [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 |
@@ -55,17 +55,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 45 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 |
 | 46 | [Mustang](https://open.spotify.com/track/0bfY2rrQgn4HqiwftGNP36) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:14 |
 | 47 | [I Want You \(Fever\)](https://open.spotify.com/track/1s2t8mpGkaar5VErp1xLqd) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky](https://open.spotify.com/album/014qKZpu8VekYsTceOSbiQ) | 3:37 |
-| 48 | [Call](https://open.spotify.com/track/1eGdBOJKqioNJ4v3Eawcwp) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Happenings](https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc) | 2:30 |
-| 49 | [Do It Faster](https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 1:47 |
+| 48 | [Do It Faster](https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 1:47 |
+| 49 | [Call](https://open.spotify.com/track/1eGdBOJKqioNJ4v3Eawcwp) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Happenings](https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc) | 2:30 |
 | 50 | [catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 3:14 |
 | 51 | [Nausea](https://open.spotify.com/track/72GCQgLhbw93GxZNWv7Qx0) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Come And See](https://open.spotify.com/album/4DHXkFCDz154lGUlAWvLPE) | 3:21 |
 | 52 | [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:38 |
-| 53 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
-| 54 | [Numb To What Is Real](https://open.spotify.com/track/3XxQGzWtSiawfLLsDqEH25) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Superheaven](https://open.spotify.com/album/3PAgZaonECR1PGhRg3YBVX) | 2:49 |
+| 53 | [Numb To What Is Real](https://open.spotify.com/track/3XxQGzWtSiawfLLsDqEH25) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Superheaven](https://open.spotify.com/album/3PAgZaonECR1PGhRg3YBVX) | 2:49 |
+| 54 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
 | 55 | [H.O.O.D \- 2025 Mix](https://open.spotify.com/track/55gs9waCCYDNuK4Z4nQsJW) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU) | [H.O.O.D 2025](https://open.spotify.com/album/4cAdb9NdYEV6XEke45Nliu) | 2:52 |
 | 56 | [I'll Wait](https://open.spotify.com/track/0YSeLT9HdsmHsCcmuYDcky) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [USA](https://open.spotify.com/album/3xyWW80QH0O51iZDT3MLMM) | 2:52 |
-| 57 | [SUCKERPUNCH](https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [SUCKERPUNCH](https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ) | 2:52 |
-| 58 | [Vain](https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Vain](https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE) | 2:36 |
+| 57 | [Vain](https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Vain](https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE) | 2:36 |
+| 58 | [SUCKERPUNCH](https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [SUCKERPUNCH](https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ) | 2:52 |
 | 59 | [Worm in the Sun](https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Worm in the Sun](https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN) | 2:41 |
 | 60 | [if i had a gun](https://open.spotify.com/track/4rYoirkxujHEP1hhKZcMrl) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [FOREVER](https://open.spotify.com/album/52iIfDstVzVMMAuOsFJ2YA) | 2:32 |
 | 61 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 67 | [Would You?](https://open.spotify.com/track/7GI0ukZzgs6bVCZg9OrBrj) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Would You?](https://open.spotify.com/album/6X2rpNXyGFDcGKziNLWkRP) | 2:30 |
 | 68 | [All the Noise](https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [All the Noise](https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc) | 2:59 |
 | 69 | [Year of the Snake](https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Year of the Snake](https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25) | 5:10 |
-| 70 | [Nobody’s](https://open.spotify.com/track/3WBFG43oD1qU3yJSDjQJ2O) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 2:15 |
-| 71 | [Bored of Being Sad](https://open.spotify.com/track/77rk2TGUhxlWMLuQq4iIlV) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Let's Start Degeneracy](https://open.spotify.com/album/63F30pJnKvFr2kI9TK08dW) | 3:20 |
+| 70 | [Bored of Being Sad](https://open.spotify.com/track/77rk2TGUhxlWMLuQq4iIlV) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Let's Start Degeneracy](https://open.spotify.com/album/63F30pJnKvFr2kI9TK08dW) | 3:20 |
+| 71 | [Nobody’s](https://open.spotify.com/track/3WBFG43oD1qU3yJSDjQJ2O) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 2:15 |
 | 72 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 |
 | 73 | [Can EU Hear Me?](https://open.spotify.com/track/7LUVmUWiSvtI2tJvYHFRAs) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [There Goes The Neighbourhood](https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb) | 2:58 |
 | 74 | [ALL OF U](https://open.spotify.com/track/4ealCIKR5aAYaKYuxVWJ0J) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [ALL OF U](https://open.spotify.com/album/0qzN96GJVCxQJ1YNGkXlN3) | 3:32 |

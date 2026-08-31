@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/  Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: ROTTENGRAFFTY
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,006 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,003 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 72 | [Matatabi](https://open.spotify.com/track/5ESsDYmXOxYf2kgTJ4ANW4) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Matatabi](https://open.spotify.com/album/0J6JjcNYWHJ3mPrMAodZGG) | 2:48 |
 | 73 | [yoake](https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [yoake](https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A) | 4:49 |
 | 74 | [Straight Up \(feat\. Kj\)](https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ), [Kj](https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq) | [Straight Up \(feat\. Kj\)](https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5) | 4:12 |
-| 75 | [SUPER NATURAL HIGH \- feat\. 唾奇](https://open.spotify.com/track/7H2G4gNAop4IEmLSJJP6L7) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1) | [PALEDUSK](https://open.spotify.com/album/60WzIOT8v9ww4FeKfndWwI) | 3:18 |
-| 76 | [DUA･RHYTHM](https://open.spotify.com/track/4gTa2HNlJEfGr9q1s2PsFD) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [DUA･RHYTHM](https://open.spotify.com/album/4Cfgh8X6COsvtyirAF5iBF) | 3:33 |
+| 75 | [DUA･RHYTHM](https://open.spotify.com/track/4gTa2HNlJEfGr9q1s2PsFD) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [DUA･RHYTHM](https://open.spotify.com/album/4Cfgh8X6COsvtyirAF5iBF) | 3:33 |
+| 76 | [SUPER NATURAL HIGH \- feat\. 唾奇](https://open.spotify.com/track/7H2G4gNAop4IEmLSJJP6L7) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1) | [PALEDUSK](https://open.spotify.com/album/60WzIOT8v9ww4FeKfndWwI) | 3:18 |
 | 77 | [Save Yourself](https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw) | 3:17 |
 | 78 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 |
 | 79 | [天誅 & Mercy](https://open.spotify.com/track/4yPQdCSNYZq7xjWZpjY6mc) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [DISASTERPIECE](https://open.spotify.com/album/6KjTMgxqXazmTzIpzmQ4Dk) | 3:45 |
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 90 | [Schmerz](https://open.spotify.com/track/5xeD8ZfRdinMDzUfaw1T4B) | [\-真天地開闢集団\-ジグザグ](https://open.spotify.com/artist/6X80cxJKMsSqzFmwHX7QCu) | [Gran ∞ Grace](https://open.spotify.com/album/4T8vKqEfLe7aS914pjg7A3) | 3:01 |
 | 91 | [MISS UNLIMITED \[Re:\]](https://open.spotify.com/track/2GXdLjJPy9AZMW9QQcfq5f) | [PassCode](https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo) | [MISS UNLIMITED \[Re:\]](https://open.spotify.com/album/23F9472sp5hpSVFw4wwf5B) | 3:49 |
 | 92 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 |
-| 93 | [FiVE TiMES DEAD \(by my wallet\)](https://open.spotify.com/track/1P1oxa1cCrZwXutvmp0MQK) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [FiVE TiMES DEAD \(by my wallet\)](https://open.spotify.com/album/50RTZrrOcal2MouiLJAhiY) | 3:24 |
-| 94 | [Beast Mode](https://open.spotify.com/track/1tA3FxKi8oA0pmSNEB4ush) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Beast Mode](https://open.spotify.com/album/1UMECQ51RJkCPjU7jXlPGt) | 4:10 |
-| 95 | [🔥おっかない🔥](https://open.spotify.com/track/7nymdpRh8yfJsHt6VWoKfQ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [🔥おっかない🔥](https://open.spotify.com/album/2vfqUvyv98Z354MvJ2a3Lz) | 3:16 |
+| 93 | [🔥おっかない🔥](https://open.spotify.com/track/7nymdpRh8yfJsHt6VWoKfQ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [🔥おっかない🔥](https://open.spotify.com/album/2vfqUvyv98Z354MvJ2a3Lz) | 3:16 |
+| 94 | [FiVE TiMES DEAD \(by my wallet\)](https://open.spotify.com/track/1P1oxa1cCrZwXutvmp0MQK) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [FiVE TiMES DEAD \(by my wallet\)](https://open.spotify.com/album/50RTZrrOcal2MouiLJAhiY) | 3:24 |
+| 95 | [Beast Mode](https://open.spotify.com/track/1tA3FxKi8oA0pmSNEB4ush) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Beast Mode](https://open.spotify.com/album/1UMECQ51RJkCPjU7jXlPGt) | 4:10 |
 | 96 | [Liberator](https://open.spotify.com/track/2dXc1QR4mD7jahydVs2CBc) | [PassCode](https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo) | [Liberator](https://open.spotify.com/album/1EkdBVchn0CsCleE7ARh7h) | 3:40 |
 | 97 | [RE:PLAY](https://open.spotify.com/track/3eLFfCz26lmzVTGUUtHWfB) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [RE:PLAY](https://open.spotify.com/album/5xUVytNuj4abGnoyuJSUYn) | 3:46 |
 | 98 | [LIMIT](https://open.spotify.com/track/50u76DXok7cIouLPLQxGfc) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [LIMIT](https://open.spotify.com/album/5zBRnUWh547MkgZwAegm4o) | 3:35 |

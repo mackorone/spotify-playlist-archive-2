@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1xzZPyV5jY8bYYNtAUkyOx">Lauren Aquilina</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-162 songs - 8 hr 29 min
+163 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [LUCID](https://open.spotify.com/track/44pTnE1Z3yw1YgYxLwn8Ba) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/39WmCBKGptRLti86qxZAVc) | 3:38 | 2024-07-03 |  |
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-07-03 |  |
 | [Maybe It Was Me](https://open.spotify.com/track/0dlTFvu6sfzEenCh2IAPmu) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Maybe It Was Me](https://open.spotify.com/album/2SQwOrBSBV5cOaXA39ALrP) | 2:59 | 2024-07-03 |  |
-| [Me, Myself & You](https://open.spotify.com/track/4dsgZlMA69Hb2VppaZyfSN) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Me, Myself & You](https://open.spotify.com/album/7cczplDsPconF6IdWikvOd) | 2:35 | 2024-11-10 |  |
+| [Me, Myself & You](https://open.spotify.com/track/36fto42n6Dn0MjMma8FSmb) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie \(Fan Edition\)](https://open.spotify.com/album/3VYER2TreguhiDUlXnTkli) | 2:35 | 2026-08-30 |  |
+| [Me, Myself & You](https://open.spotify.com/track/4dsgZlMA69Hb2VppaZyfSN) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Me, Myself & You](https://open.spotify.com/album/7cczplDsPconF6IdWikvOd) | 2:35 | 2024-11-10 | 2026-08-31 |
 | [Midnight Mouths \- filous Remix](https://open.spotify.com/track/4AbHAaspsLIQNwGzWR4bqe) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Midnight Mouths \(filous Remix\)](https://open.spotify.com/album/316VVViBiKIcbTSamsojmG) | 4:05 | 2024-07-03 |  |
 | [Minor Feelings](https://open.spotify.com/track/5TqFLW9Acy8okYDpHluHMV) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 2:00 | 2024-07-03 |  |
 | [Mom Song](https://open.spotify.com/track/2Y5HIRHkFnrgr81Bt4mWsV) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/39crSASAQumXtIGURlbaDD) | 2:35 | 2025-05-03 | 2025-11-22 |

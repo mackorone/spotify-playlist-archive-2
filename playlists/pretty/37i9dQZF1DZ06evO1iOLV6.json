@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 12821,
+  "num_followers": 12822,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAACUM0v3wwVHs6H0pMx/aFVD",
+  "snapshot_id": "apIhAAAAAAAGbcXShOZy/XqocGF9rbgG",
   "tracks": [
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afro Pop, Vol. 1",
-        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 186782,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/6G7Jnkix0H7nBxqjqGbD50"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MA GIRL",
         "url": "https://open.spotify.com/album/6xWy3uu4pnbYBhYbkA1S8h"
       },
@@ -615,6 +595,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Afro Pop, Vol. 1",
+        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 186782,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/6G7Jnkix0H7nBxqjqGbD50"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "African Soldier",
         "url": "https://open.spotify.com/album/6JtlTYRqiTbgJdYnVYnkan"
       },
@@ -631,6 +631,26 @@
       "duration_ms": 166000,
       "name": "African Soldier",
       "url": "https://open.spotify.com/track/5O6WAlXfzQDsWhaqaQsh77"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alagbe",
+        "url": "https://open.spotify.com/album/5rTOCA3AYjkVc01JULfZhn"
+      },
+      "artists": [
+        {
+          "name": "Qdot",
+          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "Magbe (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/2eMMRo8tqHXxnFBl9cbqK7"
     },
     {
       "added_at": null,
@@ -659,42 +679,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alagbe",
-        "url": "https://open.spotify.com/album/5rTOCA3AYjkVc01JULfZhn"
+        "name": "The Golden Boy",
+        "url": "https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX"
       },
       "artists": [
         {
-          "name": "Qdot",
-          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
         },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 173293,
-      "name": "Magbe (feat. Patoranking)",
-      "url": "https://open.spotify.com/track/2eMMRo8tqHXxnFBl9cbqK7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Credit Alert",
-        "url": "https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet"
-      },
-      "artists": [
-        {
-          "name": "Kocee",
-          "url": "https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 193718,
-      "name": "Credit Alert",
-      "url": "https://open.spotify.com/track/61g4qqwAMuHnzW2URHX0EJ"
+      "duration_ms": 217710,
+      "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
+      "url": "https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p"
     },
     {
       "added_at": null,
@@ -719,26 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Golden Boy",
-        "url": "https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX"
+        "name": "Credit Alert",
+        "url": "https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet"
       },
       "artists": [
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+          "name": "Kocee",
+          "url": "https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6"
         },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 217710,
-      "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
-      "url": "https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p"
+      "duration_ms": 193718,
+      "name": "Credit Alert",
+      "url": "https://open.spotify.com/track/61g4qqwAMuHnzW2URHX0EJ"
     },
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilmer",
-        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Bera",
-          "url": "https://open.spotify.com/artist/280SVkMc8Ij2T4n6EMhWuB"
-        }
-      ],
-      "duration_ms": 224597,
-      "name": "Wilmer (feat. Bera)",
-      "url": "https://open.spotify.com/track/4BSYq4DF84PXs9i7P8comh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "W.E.E.D.",
         "url": "https://open.spotify.com/album/5HXfLb3qCRLpkDiRAHWTrY"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 281453,
       "name": "Wait Refix",
       "url": "https://open.spotify.com/track/62NcIDnYukwleoEHIJYvdL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wilmer",
+        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Bera",
+          "url": "https://open.spotify.com/artist/280SVkMc8Ij2T4n6EMhWuB"
+        }
+      ],
+      "duration_ms": 224597,
+      "name": "Wilmer (feat. Bera)",
+      "url": "https://open.spotify.com/track/4BSYq4DF84PXs9i7P8comh"
     },
     {
       "added_at": null,
@@ -859,6 +859,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 196260,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/64fpNsRxryIfsBNcy4N7K4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sober (Soo Bad)",
         "url": "https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU"
       },
@@ -895,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 196260,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/64fpNsRxryIfsBNcy4N7K4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patoranking",
         "url": "https://open.spotify.com/album/4AQnC9nJPONOcveexfbjYm"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daniella Whine - single",
-        "url": "https://open.spotify.com/album/2KPrCbHxw6FjOnX9N7bFyR"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 244840,
-      "name": "Daniella Whine",
-      "url": "https://open.spotify.com/track/70iRqEVEdQsvP3mzHdJSbG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WORLD BEST",
         "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 175316,
       "name": "Control Me",
       "url": "https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daniella Whine - single",
+        "url": "https://open.spotify.com/album/2KPrCbHxw6FjOnX9N7bFyR"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 244840,
+      "name": "Daniella Whine",
+      "url": "https://open.spotify.com/track/70iRqEVEdQsvP3mzHdJSbG"
     },
     {
       "added_at": null,

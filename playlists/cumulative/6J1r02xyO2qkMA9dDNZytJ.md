@@ -4,7 +4,7 @@
 
 > All the biggest House &amp; Tech House anthems of right now! Follow us on <a href="https://www.instagram.com/toolroomrecords/">Instagram</a>
 
-325 songs - 16 hr 36 min
+327 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Dreaming \(Feelings\)](https://open.spotify.com/track/03fBbF1Y6uNdC4v7RhBCrH) | [Fish56Octagon](https://open.spotify.com/artist/46Ro78dkP2X0XUKmiovwL3), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Dreaming \(Feelings\)](https://open.spotify.com/album/0VhInKrXGDFPWZFSy2VOY4) | 2:31 | 2025-10-17 | 2026-03-07 |
 | [Edge of Desire \- Franky Rizardo Remix](https://open.spotify.com/track/6w1z9aGsflx9cMHWl8d5eB) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Edge of Desire \(Franky Rizardo Remix\)](https://open.spotify.com/album/2STORLqbca4TPym8doxGZk) | 2:59 | 2025-12-01 | 2026-05-16 |
 | [ego](https://open.spotify.com/track/5PBTKRzy7645Er3nPxTWWK) | [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [ego](https://open.spotify.com/album/3EQlX84VGFJcYuV4g9frFm) | 2:42 | 2025-10-31 | 2026-03-21 |
+| [Ese Culo](https://open.spotify.com/track/6lMY4JeTRvl7BNbKfWFPbc) | [Nolek](https://open.spotify.com/artist/3lqYpuRWMveuEstXognq7q) | [Ese Culo](https://open.spotify.com/album/6ZuvOHEDahwuSSin69z9AD) | 3:08 | 2026-08-30 |  |
 | [Every Night](https://open.spotify.com/track/4dP9nPtvtLMGmFBMsdNwPH) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Deomid](https://open.spotify.com/artist/63JoSzT83QhPoyMoNEExxb) | [Every Night](https://open.spotify.com/album/7sSJ0DtcnCalK7GNNshZG0) | 3:54 | 2025-09-05 | 2026-01-31 |
 | [Every Woman Needs Love](https://open.spotify.com/track/4XWbfU1hW5f1bw2E4D7iZQ) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Stella Browne](https://open.spotify.com/artist/1I4Uiur4YL4tEc4ktMywr3) | [Every Woman Needs Love](https://open.spotify.com/album/2eyCBIFC4uH7HLH0hKcG12) | 3:20 | 2026-05-08 |  |
 | [Excuse Me DJ](https://open.spotify.com/track/0ZJ4FfyO0a6trvIWefs2pz) | [Killfake](https://open.spotify.com/artist/5iQ5zOYomcR6F3gYon6GNW) | [Excuse Me DJ](https://open.spotify.com/album/6lllvWIPrR4TtTN3b04Npw) | 2:57 | 2025-05-30 | 2025-11-01 |
@@ -310,6 +311,7 @@
 | [Valerie](https://open.spotify.com/track/78IApFVx1V4KINyZnIXjoi) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Valerie](https://open.spotify.com/album/4dYCFK8K9PQSL0SZ1DSgJD) | 2:21 | 2025-03-28 | 2025-12-06 |
 | [Versatile](https://open.spotify.com/track/2CX8w6jrSDujqcnkxDMJw0) | [L.P\. Rhythm](https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e) | [Versatile](https://open.spotify.com/album/3ktHqT8RfFWsosodNUfvB0) | 3:14 | 2025-07-11 | 2025-12-06 |
 | [Vibration](https://open.spotify.com/track/439uVehtcK7XyrSiEUfgjb) | [miirabelle](https://open.spotify.com/artist/2sZWQPBglKu7CxaZ6tJSYG), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH) | [Vibration](https://open.spotify.com/album/1KMIYWknvHaoy9o4GfGsrF) | 2:45 | 2025-10-31 | 2026-02-14 |
+| [Wanna Rock It](https://open.spotify.com/track/5J1lGSHZ4NYSnUbVAywapI) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN), [NIUBII](https://open.spotify.com/artist/5GP9ioGCIqhsoMvl9vGdgn) | [Wanna Rock It](https://open.spotify.com/album/4anj800wf4rTxzwUFSCdyE) | 3:00 | 2026-08-30 |  |
 | [Waste My Time](https://open.spotify.com/track/1RIB2ELrIX5H6KUy0gBeGv) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Waste My Time](https://open.spotify.com/album/5aFRPxE20AOr5JKkKtA1AG) | 2:11 | 2026-04-17 |  |
 | [Watch Out](https://open.spotify.com/track/18ng775wzcQl4pwvfqPQ2C) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Watch Out](https://open.spotify.com/album/4uWCyY8Q9giKJd01bb9w73) | 2:22 | 2025-03-28 | 2025-11-01 |
 | [Wave ‘Em](https://open.spotify.com/track/0raEM5xv4RbVdXrKAQ5CnY) | [ZOFIA](https://open.spotify.com/artist/3mHYYxXJzjhq07Su3sYMvl) | [Wave ‘Em](https://open.spotify.com/album/3pE0Ehc8UXEZAk4E4bncgt) | 2:29 | 2026-03-06 | 2026-08-08 |

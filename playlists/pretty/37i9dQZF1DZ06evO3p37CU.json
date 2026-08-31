@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAB4DddzXs43LNBHdsKd3yMh",
+  "snapshot_id": "apIhAAAAAABqrVI5NE9ssBfDFQHmzmt6",
   "tracks": [
     {
       "added_at": null,
@@ -787,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Fear No More (Remix)",
+        "url": "https://open.spotify.com/album/23NyPBINwg9BI8WgtgEu5t"
+      },
+      "artists": [
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 174682,
+      "name": "No Fear No More (Remix)",
+      "url": "https://open.spotify.com/track/36X1P3v7N1dv06bh2aPtMF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D-Day: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 173589,
       "name": "Ghetto Gods Freestyle (with EARTHGANG feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/7Gn7HA4yOHKXDo6vHCiNXV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Fear No More (Remix)",
-        "url": "https://open.spotify.com/album/23NyPBINwg9BI8WgtgEu5t"
-      },
-      "artists": [
-        {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 174682,
-      "name": "No Fear No More (Remix)",
-      "url": "https://open.spotify.com/track/36X1P3v7N1dv06bh2aPtMF"
     },
     {
       "added_at": null,

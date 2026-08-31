@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 104915,
+  "num_followers": 104952,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,38 @@
     {
       "added_at": "2026-08-28 15:18:19",
       "album": {
+        "name": "Shokozela",
+        "url": "https://open.spotify.com/album/0iKJW3OAXgHBwIf8F56zmW"
+      },
+      "artists": [
+        {
+          "name": "Officixl RSA",
+          "url": "https://open.spotify.com/artist/1BC2o2RW9sGr2NB8jXlYQv"
+        },
+        {
+          "name": "Lowbass Djy",
+          "url": "https://open.spotify.com/artist/21KhXtANqXDgtgCNdcZXhz"
+        },
+        {
+          "name": "Ndibo Ndibs",
+          "url": "https://open.spotify.com/artist/0NiFfDud2e3b99NDDCLE3q"
+        },
+        {
+          "name": "Matute Boy",
+          "url": "https://open.spotify.com/artist/4riXfqk8ehO6Zq9Jb0Ht0L"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        }
+      ],
+      "duration_ms": 492759,
+      "name": "Shokozela",
+      "url": "https://open.spotify.com/track/1SFAM86VESPzwZbZOY3ndb"
+    },
+    {
+      "added_at": "2026-08-28 15:18:19",
+      "album": {
         "name": "Tshela Fela (feat. MU MuziQal, Sbuda Maleather & Vic_to_ry)",
         "url": "https://open.spotify.com/album/5Pl4iSF9sYE91uM2bulp9K"
       },
@@ -487,38 +519,6 @@
       "duration_ms": 351478,
       "name": "Tshela Fela (feat. MU MuziQal, Sbuda Maleather & Vic_to_ry)",
       "url": "https://open.spotify.com/track/4p1h9qEVTimh0noh4aG1zR"
-    },
-    {
-      "added_at": "2026-08-28 15:18:19",
-      "album": {
-        "name": "Shokozela",
-        "url": "https://open.spotify.com/album/0iKJW3OAXgHBwIf8F56zmW"
-      },
-      "artists": [
-        {
-          "name": "Officixl RSA",
-          "url": "https://open.spotify.com/artist/1BC2o2RW9sGr2NB8jXlYQv"
-        },
-        {
-          "name": "Lowbass Djy",
-          "url": "https://open.spotify.com/artist/21KhXtANqXDgtgCNdcZXhz"
-        },
-        {
-          "name": "Ndibo Ndibs",
-          "url": "https://open.spotify.com/artist/0NiFfDud2e3b99NDDCLE3q"
-        },
-        {
-          "name": "Matute Boy",
-          "url": "https://open.spotify.com/artist/4riXfqk8ehO6Zq9Jb0Ht0L"
-        },
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        }
-      ],
-      "duration_ms": 492759,
-      "name": "Shokozela",
-      "url": "https://open.spotify.com/track/1SFAM86VESPzwZbZOY3ndb"
     },
     {
       "added_at": "2026-08-28 15:18:19",

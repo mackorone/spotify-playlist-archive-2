@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WtXCH.md) - [plain]
 
 > This is Quicksand\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,840 likes - 33 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,842 likes - 33 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,14 +24,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WtXCH.md) - [plain]
 | 14 | [Freezing Process](https://open.spotify.com/track/5VBol3e1pnxK1yjsl0jppx) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:19 |
 | 15 | [Phase 90](https://open.spotify.com/track/0o5YYTNfafNubrZ4JyBe3X) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:34 |
 | 16 | [Delusional](https://open.spotify.com/track/4hDZkCzpzcwT5932mJEylv) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 3:57 |
-| 17 | [Supercollider](https://open.spotify.com/track/0BvPR48dyiEQB69HdDzakv) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Bring On The Psychics](https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0) | 2:50 |
+| 17 | [In Full Color](https://open.spotify.com/track/28v1qCRYPlJr7DFvCNmt1s) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Bring On The Psychics](https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0) | 2:50 |
 | 18 | [Lie And Wait](https://open.spotify.com/track/6eLn8XKQQbt1GHAwZcg4Wp) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 2:32 |
 | 19 | [Inversion](https://open.spotify.com/track/6mX2BJMkmr2JvXyLRXhR0d) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 2:38 |
-| 20 | [Simpleton](https://open.spotify.com/track/2Jo7mEf8lL1tUaxFLyHZBu) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 2:35 |
-| 21 | [In Full Color](https://open.spotify.com/track/28v1qCRYPlJr7DFvCNmt1s) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Bring On The Psychics](https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0) | 2:50 |
+| 20 | [Blister](https://open.spotify.com/track/6NnO1eSFVOW8cLnfJvfy60) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 2:08 |
+| 21 | [Supercollider](https://open.spotify.com/track/0BvPR48dyiEQB69HdDzakv) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Bring On The Psychics](https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0) | 2:50 |
 | 22 | [Omission](https://open.spotify.com/track/7ckA1e9ERiVGLj9pKYivO0) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 2:33 |
 | 23 | [Missile Command](https://open.spotify.com/track/2krrGxaYhLQwRu3QPkPnmB) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:24 |
-| 24 | [Blister](https://open.spotify.com/track/6NnO1eSFVOW8cLnfJvfy60) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 2:08 |
+| 24 | [Simpleton](https://open.spotify.com/track/2Jo7mEf8lL1tUaxFLyHZBu) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 2:35 |
 | 25 | [Warm And Low](https://open.spotify.com/track/57yUjPDCY10YUcXLhUFY4F) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 3:48 |
 | 26 | [Multiverse](https://open.spotify.com/track/6vizvvoC227kBMQzBqNJyz) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Triptych Continuum](https://open.spotify.com/album/2o6B7VhjL5tgbAa4c4ukK0) | 3:26 |
 | 27 | [Free Radio Gainesville](https://open.spotify.com/track/619tfzPgzkD5aGUFF30PkV) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Split](https://open.spotify.com/album/3rApgZdYko2Nt8Xm5W4Tnb) | 2:34 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WtXCH.md) - [plain]
 | 32 | [>](https://open.spotify.com/track/3eEe37Y0ecng4dD8awUnA7) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 0:47 |
 | 33 | [Under The Screw](https://open.spotify.com/track/0PrZsr6FIiBu3p8uJrbFjg) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 2:56 |
 
-Snapshot ID: `apDPgAAAAABhpxUWKWOwfpxMFKhKurRM`
+Snapshot ID: `apIhAAAAAAA63DanSsr0eTSQ+cIiv1IG`

@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 40099,
+  "num_followers": 40111,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAB1Knz/KENINeANgiUdMBuq",
+  "snapshot_id": "apIhAAAAAAAChXAeYbIyStMA8KGx7NlR",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
-        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
+        "name": "Nuestros Grandes 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7zxWIhpXrCOey5PpAeT5Vj"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 181213,
-      "name": "Santos Cant\u00fa",
-      "url": "https://open.spotify.com/track/44y0RPcKAsJ9lTs5EJgMbA"
+      "duration_ms": 141600,
+      "name": "\u00c1rboles de la Barranca",
+      "url": "https://open.spotify.com/track/7vTARQmg9bvTRYmNRuFfyw"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestros Grandes 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7zxWIhpXrCOey5PpAeT5Vj"
+        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 141600,
-      "name": "\u00c1rboles de la Barranca",
-      "url": "https://open.spotify.com/track/7vTARQmg9bvTRYmNRuFfyw"
+      "duration_ms": 181213,
+      "name": "Santos Cant\u00fa",
+      "url": "https://open.spotify.com/track/44y0RPcKAsJ9lTs5EJgMbA"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
-        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
+        "name": "Me Voy De Estas Tierras",
+        "url": "https://open.spotify.com/album/1wdXQGOKGS3ihbtKKASPc3"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 189613,
-      "name": "El Quemador",
-      "url": "https://open.spotify.com/track/2O2iXnudGx7AjWnwxotGIS"
+      "duration_ms": 136626,
+      "name": "Cielo Azul, Cielo Nublado",
+      "url": "https://open.spotify.com/track/5WTLB5uAqPd1r7J0KHkatB"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Voy De Estas Tierras",
-        "url": "https://open.spotify.com/album/1wdXQGOKGS3ihbtKKASPc3"
+        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 136626,
-      "name": "Cielo Azul, Cielo Nublado",
-      "url": "https://open.spotify.com/track/5WTLB5uAqPd1r7J0KHkatB"
+      "duration_ms": 189613,
+      "name": "El Quemador",
+      "url": "https://open.spotify.com/track/2O2iXnudGx7AjWnwxotGIS"
     },
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00a1Ay Que Triste!",
+        "url": "https://open.spotify.com/album/6M886Mg1U15kSK4lACU9H5"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 186226,
+      "name": "Asesino A Sueldo",
+      "url": "https://open.spotify.com/track/0T9MBxiBJznCdjdw2QMMlV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 219040,
       "name": "La Cuerva De La Petaca",
       "url": "https://open.spotify.com/track/5ZkChrkppdAUnav4LDxVZ5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00a1Ay Que Triste!",
-        "url": "https://open.spotify.com/album/6M886Mg1U15kSK4lACU9H5"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 186226,
-      "name": "Asesino A Sueldo",
-      "url": "https://open.spotify.com/track/0T9MBxiBJznCdjdw2QMMlV"
     },
     {
       "added_at": null,

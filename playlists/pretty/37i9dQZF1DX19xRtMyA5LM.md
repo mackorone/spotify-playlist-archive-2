@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks: Jack, Mula en Bokoesam\. <a href="spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY">Check hier de beste zomer aanbevelingen!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,881 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,844 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

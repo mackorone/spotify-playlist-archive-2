@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbrtitCHmmo.md) - [plain]
 
 > ¡De vuelta a los 2000s con los mejores éxitos! Paulina Rubio & David Bisbal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,109 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,172 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbrtitCHmmo.md) - [plain]
 | 23 | [Tu Amor Me Hace Bien \- Salsa Version](https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:00 |
 | 24 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 |
 | 25 | [5 Letras](https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA) | [Sobrenatural](https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf) | 3:15 |
-| 26 | [La Botella](https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb) | [Mach & Daddy](https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8) | [Desde Abajo](https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R) | 2:57 |
-| 27 | [Rakata](https://open.spotify.com/track/0mHrQV5Tu8cjioNpNGG7N1) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/3TheioK614VC2aRMhfKS6h) | 2:52 |
+| 26 | [Rakata](https://open.spotify.com/track/0mHrQV5Tu8cjioNpNGG7N1) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/3TheioK614VC2aRMhfKS6h) | 2:52 |
+| 27 | [La Botella](https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb) | [Mach & Daddy](https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8) | [Desde Abajo](https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R) | 2:57 |
 | 28 | [Niña Bonita](https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \- Reloaded](https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96) | 3:36 |
 | 29 | [Verano Azul](https://open.spotify.com/track/0dgwWXkfcWyB2a2qTgEc0F) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Verano Azul](https://open.spotify.com/album/687yvcM8ZmPohOsrrXh8Zu) | 3:10 |
 | 30 | [Suavemente](https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:27 |

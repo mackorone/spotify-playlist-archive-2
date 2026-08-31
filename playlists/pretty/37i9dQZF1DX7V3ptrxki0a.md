@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7V3ptrxki0a.md) - [plain]
 
 > Agarren su pareja que es momento de mover ese botecito\. Bronco en portada 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,905 likes - 85 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,914 likes - 85 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

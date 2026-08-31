@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Alcuni amori bruciano più di altri\. Cover:  Shiva
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,874 likes - 85 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,876 likes - 85 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 67 | [IL GIOCO DEL SILENZIO](https://open.spotify.com/track/4d2d57V0NYORXRGylmLY7R) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y) | 2:56 |
 | 68 | [Resta Ancora Un Po'](https://open.spotify.com/track/48zY2jicewpCnYEnWtrPPn) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Resta Ancora Un Po'](https://open.spotify.com/album/5Yy72IJnQKirTKQ54lZBpO) | 2:27 |
 | 69 | [ROMPICAPO](https://open.spotify.com/track/2Skm5Ula5AthztR1L91hk8) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [ROMPICAPO](https://open.spotify.com/album/28ZZGd2xZpTYPHrDIcViYU) | 2:52 |
-| 70 | [Tu Mi Piaci \(feat\. Artie 5ive\)](https://open.spotify.com/track/5O5yM8JaaL0erqrP9h7bR2) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Latte in Polvere](https://open.spotify.com/album/1RjEbi0mbq9x7oUDMWq159) | 2:25 |
-| 71 | [Prometto \(feat\. Rkomi & Luchè\)](https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mattoni](https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf) | 3:14 |
+| 70 | [Prometto \(feat\. Rkomi & Luchè\)](https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mattoni](https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf) | 3:14 |
+| 71 | [Tu Mi Piaci \(feat\. Artie 5ive\)](https://open.spotify.com/track/5O5yM8JaaL0erqrP9h7bR2) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Latte in Polvere](https://open.spotify.com/album/1RjEbi0mbq9x7oUDMWq159) | 2:25 |
 | 72 | [Ridere di Te \(2026\)](https://open.spotify.com/track/0HVfLomqxqMyOXh37yob8d) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF), [Dibla](https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Nerissima](https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER) | 2:38 |
 | 73 | [MADAME \- L'anima \(feat\. Madame\)](https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:41 |
 | 74 | [Una vita fa](https://open.spotify.com/track/37rCWMWi55l8HibKLrDCS2) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Una vita fa](https://open.spotify.com/album/7leF68HTvHBT2xOTXb7CDl) | 2:23 |

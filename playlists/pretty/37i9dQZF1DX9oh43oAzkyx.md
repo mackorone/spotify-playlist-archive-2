@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,874,014 likes - 76 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,874,150 likes - 76 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,12 +77,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 67 | [Waiting On This](https://open.spotify.com/track/5VlI5lLyZWdaS6kIn1CyJs) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Not Now I'm Busy](https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2) | 3:28 |
 | 68 | [Light Year \(Practice\)](https://open.spotify.com/track/3NE6g9h77FZbQqCLzUpGRt) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:44 |
 | 69 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 |
-| 70 | [HOT ONE \(with TiaCorine & A$AP Ferg\)](https://open.spotify.com/track/083HuPvgqYBLUiv82bVxwE) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [HOT ONE \(with TiaCorine & A$AP Ferg\)](https://open.spotify.com/album/4T64HQK7hobpqtvq8284zI) | 2:45 |
+| 70 | [Back Ina Yams](https://open.spotify.com/track/2kR8IcqxFHrAKwtoqeFqnP) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Back Ina Yams](https://open.spotify.com/album/3Im4ZrfIpsHbKCjWF0WcuQ) | 2:39 |
 | 71 | [Never Sleep \(with Lil Baby feat\. Travis Scott\)](https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Never Sleep](https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN) | 3:05 |
-| 72 | [Whenever](https://open.spotify.com/track/4oVUfLx1BVgXbPXc0MlPkr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Whenever](https://open.spotify.com/album/72PmiHAfjlwVxpWWgiHowx) | 2:45 |
-| 73 | [GTA 6](https://open.spotify.com/track/1HFzBE8VY5zyNowBre0zRo) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [GTA 6](https://open.spotify.com/album/1YQtaGamRAouYAW7rSu2us) | 2:48 |
-| 74 | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6) | 3:56 |
-| 75 | [Back Ina Yams](https://open.spotify.com/track/2kR8IcqxFHrAKwtoqeFqnP) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Back Ina Yams](https://open.spotify.com/album/3Im4ZrfIpsHbKCjWF0WcuQ) | 2:39 |
+| 72 | [HOT ONE \(with TiaCorine & A$AP Ferg\)](https://open.spotify.com/track/083HuPvgqYBLUiv82bVxwE) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [HOT ONE \(with TiaCorine & A$AP Ferg\)](https://open.spotify.com/album/4T64HQK7hobpqtvq8284zI) | 2:45 |
+| 73 | [Whenever](https://open.spotify.com/track/4oVUfLx1BVgXbPXc0MlPkr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Whenever](https://open.spotify.com/album/72PmiHAfjlwVxpWWgiHowx) | 2:45 |
+| 74 | [GTA 6](https://open.spotify.com/track/1HFzBE8VY5zyNowBre0zRo) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [GTA 6](https://open.spotify.com/album/1YQtaGamRAouYAW7rSu2us) | 2:48 |
+| 75 | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Big Dawgs \(Remix\) \[with A$AP Rocky\]](https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6) | 3:56 |
 | 76 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 |
 
 Snapshot ID: `AAAAAE24tTOJSx/0exV4q/E/h4nTsn7a`

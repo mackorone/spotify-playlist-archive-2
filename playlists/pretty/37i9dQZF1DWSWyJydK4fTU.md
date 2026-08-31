@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,867 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,845 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 11 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 |
 | 12 | [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 |
 | 13 | [Bed on Fire](https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Dream Ride](https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0) | 3:33 |
-| 14 | [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 |
+| 14 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
 | 15 | [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 |
-| 16 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
+| 16 | [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 |
 | 17 | [American Cars](https://open.spotify.com/track/3WRgRy12YW4I9mjodKXWwy) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:32 |
 | 18 | [des fleurs x stromae](https://open.spotify.com/track/0lNSoCSUfvKSmjm8B7rZYI) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [des fleurs x stromae](https://open.spotify.com/album/76JZ5dHWdZx91LHr4ztqsB) | 2:52 |
 | 19 | [We Don't Care](https://open.spotify.com/track/5D7TXG2pmQbFeLVNBrUADb) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 4:16 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 22 | [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 |
 | 23 | [SO FAR, SO GOOD](https://open.spotify.com/track/6dYkKb8RR36RUOcNe34fLA) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [SO FAR, SO GOOD](https://open.spotify.com/album/2yZWb19EV2hefGXlkRgtZc) | 2:58 |
 | 24 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 |
-| 25 | [JEZEBEL](https://open.spotify.com/track/50otYQj8x1wp6HpdRrLXpY) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 4:25 |
-| 26 | [White Noise](https://open.spotify.com/track/0rjGD5jVtVbj131wDsfbJG) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:45 |
+| 25 | [White Noise](https://open.spotify.com/track/0rjGD5jVtVbj131wDsfbJG) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:45 |
+| 26 | [JEZEBEL](https://open.spotify.com/track/50otYQj8x1wp6HpdRrLXpY) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 4:25 |
 | 27 | [The Swell](https://open.spotify.com/track/6QUuLk63S1azIQbmDEvpfS) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [The Swell](https://open.spotify.com/album/5B3s2wHvYBUrZIzo5J5C8y) | 3:27 |
 | 28 | [SHOOK](https://open.spotify.com/track/0wdSmyHGxoNaJmLENqcaUj) | [H33RA](https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM) | [SHOOK](https://open.spotify.com/album/4lSYuGsPUTHGel906TJCqZ) | 3:03 |
 | 29 | [If I Ever Talk To God](https://open.spotify.com/track/6b9389wXP725IPkaa4qbJL) | [Landon Barker](https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF) | [If I Ever Talk To God](https://open.spotify.com/album/11YEqBXjQnDej8wmDEyJSy) | 2:40 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 41 | [4 Life](https://open.spotify.com/track/34RhKiUQ5JBU4MIVCwMcBG) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Sommerregen EP](https://open.spotify.com/album/5dMr2rimlo62V5xRFOC4o4) | 1:56 |
 | 42 | [Ein Lied](https://open.spotify.com/track/2nrsfJSYFVmBXe9hc3q3lM) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Ein Lied](https://open.spotify.com/album/60xB6sJ3lZJZBgRdyRzZmO) | 2:31 |
 | 43 | [pull me out](https://open.spotify.com/track/0JEV4lg8RqwkLQCqWl5aWC) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [4 songs](https://open.spotify.com/album/3I3n7l0MBqm17NREZdGGCU) | 3:04 |
-| 44 | [Too Busy Missing You](https://open.spotify.com/track/1H2kXCdkoYqLjS0iKbWryR) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Too Busy Missing You](https://open.spotify.com/album/1VybD1PFxWJkD80YiM3NfU) | 3:25 |
-| 45 | [Adore Ya](https://open.spotify.com/track/0Jl7f00nog4z31Cw2xYZqP) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Adore Ya](https://open.spotify.com/album/07A4mrRO0mi4K9A2fmDugX) | 3:32 |
+| 44 | [Adore Ya](https://open.spotify.com/track/0Jl7f00nog4z31Cw2xYZqP) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Adore Ya](https://open.spotify.com/album/07A4mrRO0mi4K9A2fmDugX) | 3:32 |
+| 45 | [Too Busy Missing You](https://open.spotify.com/track/1H2kXCdkoYqLjS0iKbWryR) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Too Busy Missing You](https://open.spotify.com/album/1VybD1PFxWJkD80YiM3NfU) | 3:25 |
 | 46 | [Niemand ist wie du](https://open.spotify.com/track/5pUHH09wavdCzEEQaFxx5Y) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Niemand ist wie du](https://open.spotify.com/album/10Vaf4MwKnRAmFAZCcBice) | 2:23 |
 | 47 | [Want It Back](https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Want It Back](https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55) | 3:27 |
 | 48 | [If You Wanna Be Adored](https://open.spotify.com/track/2oJ1bW7VBsDxjbwrDANVFV) | [Eva Rose](https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z) | [If You Wanna Be Adored](https://open.spotify.com/album/2lq3LPLXCnANwEPXkJyvyz) | 2:25 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 50 | [Those Were The Days](https://open.spotify.com/track/1dlrW5uLrr1h7PpGA2bduV) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Those Were The Days](https://open.spotify.com/album/7drV33tKZrwRplzhehkqbN) | 3:00 |
 | 51 | [Moment](https://open.spotify.com/track/1c2S8whRoKEsdzwAGKmo5p) | [Sean Biopcik](https://open.spotify.com/artist/1k4u2Vi2ORf72ZiJrVJG7j) | [Moment](https://open.spotify.com/album/2roalRSX5uIvsjNQ2HUQkP) | 3:07 |
 | 52 | [After The Love](https://open.spotify.com/track/5yoFQKrjS78SIrWd266BOA) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [After The Love](https://open.spotify.com/album/2cb27N2hwLXbJcwAp6AezO) | 3:40 |
-| 53 | [Bleeding Gold](https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Bleeding Gold](https://open.spotify.com/album/35xsdh210MQASoGiWVpzyd) | 4:02 |
+| 53 | [Curious](https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o) | [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [Aren't You Curious?](https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA) | 3:04 |
 | 54 | [Same Circus](https://open.spotify.com/track/7uanUiwGDy6VbYnrpJc8db) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Honest Woman](https://open.spotify.com/album/17Kqr4VU1U4QiBi9jxZ9ga) | 3:22 |
-| 55 | [Curious](https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o) | [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [Aren't You Curious?](https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA) | 3:04 |
+| 55 | [Bleeding Gold](https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Bleeding Gold](https://open.spotify.com/album/35xsdh210MQASoGiWVpzyd) | 4:02 |
 | 56 | [Was war das](https://open.spotify.com/track/0j9stlpfmon31bZfoD5PpF) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI) | [Was war das](https://open.spotify.com/album/6UbwfuixJigc1oxGWowRGn) | 2:40 |
 | 57 | [Gib mir mehr Du](https://open.spotify.com/track/6w0eHk8No2d9hAn9xym7Se) | [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Gib mir mehr Du](https://open.spotify.com/album/03ub248yWebL0kbqooEzpM) | 2:43 |
 | 58 | [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 |

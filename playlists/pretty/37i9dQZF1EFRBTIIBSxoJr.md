@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 913 likes - 144 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 914 likes - 144 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 85 | [Rivers](https://open.spotify.com/track/4EW2QK7Fw8AtE0tZ3c3XS7) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Rivers](https://open.spotify.com/album/22ZVcZ2qJSbcQR5VCugOPk) | 2:57 |
 | 86 | [Remember This](https://open.spotify.com/track/4GaXpQAh6e0ItV1jFHOzPK) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Remember This](https://open.spotify.com/album/0JeBuIbqH1NaM0cvICe9J3) | 3:46 |
 | 87 | [The Way I Love You](https://open.spotify.com/track/2QtVSNgeddQkXqifFiiXab) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/4edayUkEhvvjFQF2DRmlse) | 2:58 |
-| 88 | [Famous](https://open.spotify.com/track/74KwNjGfuyXm6GDOB3EwML) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Social Club](https://open.spotify.com/artist/3Mwexru3SCRXLESvoj2zGM) | [Famous](https://open.spotify.com/album/3qyvXBZ0Y5lhbbQXm7rrpw) | 2:27 |
-| 89 | [did you know](https://open.spotify.com/track/1RoXbREMm18VRMIlhepcmv) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry \(Deluxe\)](https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F) | 3:09 |
+| 88 | [did you know](https://open.spotify.com/track/1RoXbREMm18VRMIlhepcmv) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry \(Deluxe\)](https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F) | 3:09 |
+| 89 | [Famous](https://open.spotify.com/track/74KwNjGfuyXm6GDOB3EwML) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Social Club](https://open.spotify.com/artist/3Mwexru3SCRXLESvoj2zGM) | [Famous](https://open.spotify.com/album/3qyvXBZ0Y5lhbbQXm7rrpw) | 2:27 |
 | 90 | [Together at Christmas](https://open.spotify.com/track/4Y0KsTh7z3u5iCwFQUeR7L) | [Irish Women In Harmony](https://open.spotify.com/artist/3OVmFlXlOUDDxOxnV59M9D) | [Together at Christmas](https://open.spotify.com/album/4oYP3y50gnOTMe7l3jF3K9) | 3:37 |
 | 91 | [Help](https://open.spotify.com/track/1UVwjv1Czxhg9cdla2gc7N) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [Help](https://open.spotify.com/album/2GojD4oCIW4AHzQaIQDZVv) | 2:23 |
 | 92 | [Are You Ready](https://open.spotify.com/track/2t5Kn4vb94PCv7RdMI5MuL) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Anna Abreu](https://open.spotify.com/album/44a95yxs0qAlbgxBcPi3f3) | 3:11 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 143 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 144 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `Aca6MgAAAAAJ0AsFASk8CgqELVb6agLK`
+Snapshot ID: `Aca/0gAAAADOuJSnAJLNYqAHFI4zSiVp`

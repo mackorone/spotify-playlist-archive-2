@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-2,741 songs - 6 day 0 hr 52 min
+2,745 songs - 6 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Breathless](https://open.spotify.com/track/5ZokgS2wlhFCDXixX1Th8m) | [Alivia Clark](https://open.spotify.com/artist/1NjDq6lw5KyAKoFYetyhae) | [Breathless](https://open.spotify.com/album/4qneJC1iiJeN5iE4Fx1rvP) | 3:27 | 2026-05-04 | 2026-06-05 |
 | [Bright Colours Make Everything Better](https://open.spotify.com/track/2qdF3xXj9pLCNNuKhIZgnF) | [Belle Marsh Lyrical Playground](https://open.spotify.com/artist/6vHQsTiKLtZ44eR3e8PmBX) | [Bright Colours Make Everything Better](https://open.spotify.com/album/2zrmfCGuM8ktJnVyyhfzzC) | 2:29 | 2026-03-27 | 2026-04-28 |
 | [Bright Lights](https://open.spotify.com/track/79caC7QTXBTXBcNqcreT0X) | [GŁOWA](https://open.spotify.com/artist/7uYJbXkQ0M7ipmJWICdLl9) | [Singular Moments in Time](https://open.spotify.com/album/0xyI8aoYYvYmv3bXs8ZE8X) | 5:13 | 2025-11-25 | 2025-12-28 |
+| [Bright Lights](https://open.spotify.com/track/32ftGFoqY6HOAwSfepaVrr) | [Irfad](https://open.spotify.com/artist/2bdTySHQu8orEocLZwMy89) | [Bright Lights](https://open.spotify.com/album/2mms3o99w1hMcrcXRyjR5v) | 2:41 | 2026-08-30 |  |
 | [Brighter](https://open.spotify.com/track/3eLsGIBCPjysi2BStXGuGe) | [Pushing Pluto](https://open.spotify.com/artist/0uTUjIAw0qQDX1thZoEQFQ) | [Brighter](https://open.spotify.com/album/3dNPpXXpEhQ6bdYOyvyQXm) | 2:55 | 2026-06-23 | 2026-07-25 |
 | [Brighter than the sun](https://open.spotify.com/track/3spowjHKymv1fFlybDm1dt) | [Bumblebirdai](https://open.spotify.com/artist/3AZN3Wd2uuuzwcJBJyK8wl) | [Brighter than the sun](https://open.spotify.com/album/7HYVZsmdkIMEdzPnGyHSP2) | 3:28 | 2025-11-19 | 2025-12-21 |
 | [Brighter, Inside](https://open.spotify.com/track/278dp2hvYlfhLO1UCxfwcG) | [manattic](https://open.spotify.com/artist/3vyDUBEpFhq0Vlbc9FX5Oe) | [Brighter, Inside](https://open.spotify.com/album/3IDTCJtroXLiuDQgBJ9Cjd) | 3:56 | 2025-10-20 | 2025-11-23 |
@@ -365,6 +366,7 @@
 | [Caffeinated And Medicated](https://open.spotify.com/track/7go8I8zdotwOeFap7KfJ7S) | [Jeanette Summers](https://open.spotify.com/artist/2xJV4YACXieIEFM5iH9VLi) | [Caffeinated And Medicated](https://open.spotify.com/album/4kQcKPUWIgOWbnu2DQ86BE) | 3:09 | 2026-07-07 | 2026-08-08 |
 | [CAFFEINE](https://open.spotify.com/track/5vB1aeIkPoZmfQbOldO4ft) | [Sacer](https://open.spotify.com/artist/1k7h7BbcHWoYZZmHoBTNVz) | [CAFFEINE](https://open.spotify.com/album/3aDJrJLCmhTfTK7pPqo3SU) | 3:06 | 2025-10-27 | 2025-11-29 |
 | [Caged Bird](https://open.spotify.com/track/2kVrtACAxnJ79qqoeCzFVg) | [Lola Baptiste](https://open.spotify.com/artist/4oACN8ZVI5OobB1nj27FAV) | [Caged Bird](https://open.spotify.com/album/5poAZ62ym1Lf13xfdBz2dM) | 3:29 | 2026-04-10 | 2026-05-12 |
+| [California](https://open.spotify.com/track/09OFR9iPwfmurnjRF9fdoK) | [Yellstone](https://open.spotify.com/artist/0ZKMOq56KamtscCLIl8Lah) | [California](https://open.spotify.com/album/0DOx3oinReFPZfQOGuSZGD) | 3:01 | 2026-08-30 |  |
 | [California Bound](https://open.spotify.com/track/5F0W2rgq3FHGjfRRxmwI7D) | [M Official](https://open.spotify.com/artist/4jveQgGPqSFjYWxjNrZhkY) | [Golden Coast](https://open.spotify.com/album/0eAyfwqQjt4qpLZhEcXyMx) | 3:26 | 2026-01-14 | 2026-02-15 |
 | [California Guys](https://open.spotify.com/track/2pvo6gLx35VoATAsA8YRG5) | [Chloé Caroline](https://open.spotify.com/artist/4XVGlRSNTpzNRW63mIFJ8l) | [California Guys](https://open.spotify.com/album/4Vh5UThEvjPDVsXUIrmnHF) | 2:27 | 2026-08-10 |  |
 | [Call \(Anymore\)](https://open.spotify.com/track/3pw9WxOCvqe0EBfnkBfTbE) | [ËRRÄ](https://open.spotify.com/artist/0JEioRiCYOk5ris1hGqIiE) | [Call \(Anymore\)](https://open.spotify.com/album/72JOGtvHdbbG1evTiGuuVi) | 1:37 | 2026-07-28 |  |
@@ -623,6 +625,7 @@
 | [DRAINED](https://open.spotify.com/track/1wStTPAYpFcoBTbP7lxBbH) | [yungsaint✞✞✞](https://open.spotify.com/artist/3BqwY2JmYDFLd2QZtwbtUQ) | [DRAINED](https://open.spotify.com/album/3D9HN2hLqWW9Qv1hjXPu0P) | 2:02 | 2026-07-22 | 2026-08-25 |
 | [DREAM](https://open.spotify.com/track/3Ido7ZgMZODe30iYwOG7gc) | [Private Party](https://open.spotify.com/artist/4YzAmFFlHhfbs6u8yshy4D), [Hunter Lambert](https://open.spotify.com/artist/1opg6D9AMYQ8F0Tv1gt4Lt) | [DREAM](https://open.spotify.com/album/6I0NKFg0G1qLdc9Khe3ZTB) | 2:38 | 2025-11-16 | 2025-12-19 |
 | [Dream About You](https://open.spotify.com/track/7A7mxUsWWx3jyyakwNRb1V) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [Dream About You](https://open.spotify.com/album/4BTyulvNqYxI7zhpNV2F1T) | 2:56 | 2025-11-02 | 2025-12-03 |
+| [dream diary ゆめにっき](https://open.spotify.com/track/6bSDFu1gXotwIuE8PfjaHl) | [Waxstar](https://open.spotify.com/artist/5SwgOzP6r2vlpGuQeoVws0) | [dream diary ゆめにっき](https://open.spotify.com/album/4XVZGql64s9FhpnRC6WZBE) | 4:00 | 2026-08-30 |  |
 | [Dream Walking](https://open.spotify.com/track/3MKh87vD07gxjNjqRnC9Nu) | [Outspirit](https://open.spotify.com/artist/4zXozzSSfecpUlcy5Bo9gK) | [Dream Walking](https://open.spotify.com/album/0s2TchBhYk1lXwYnI7rQN4) | 1:17 | 2026-08-15 |  |
 | [DREAMER](https://open.spotify.com/track/49lM9TyblTaosHpdPkc05O) | [Hikado](https://open.spotify.com/artist/6lDxbnDDJ8j8lS38VP6swA) | [DREAMER](https://open.spotify.com/album/27aHMfzeKvauniQ4iB2MvY) | 3:35 | 2025-11-10 | 2025-12-11 |
 | [Dreamgirl](https://open.spotify.com/track/0ZEP0MgPnMHJqDP1ZTtj4b) | [Nicole Glazunov](https://open.spotify.com/artist/6HwMhgltlaDZ1RD38KN3gk) | [YOUNIVERSE](https://open.spotify.com/album/4Ada5DEUOVeg6h3zCFCjn1) | 3:18 | 2026-04-01 | 2026-05-03 |
@@ -2266,6 +2269,7 @@
 | [Teeth On The Pavement](https://open.spotify.com/track/5QZpQqTpgnKJ1vo3vbQmZM) | [Ann Helene Hagen](https://open.spotify.com/artist/7aXFGhNg982wa7TzhTp2fj) | [Teeth On The Pavement](https://open.spotify.com/album/2uSeIqZx7x7kidVB3PoZvU) | 3:18 | 2026-01-16 | 2026-02-17 |
 | [Tegenungan Mist](https://open.spotify.com/track/6cK0NYIxPRdKnVUnOTGHmU) | [Luminix](https://open.spotify.com/artist/3NjS0bCYGDnWpsdx5wpmz0) | [Tegenungan Mist](https://open.spotify.com/album/6VhM0tDN3MeJnH5fMwCMt3) | 3:25 | 2026-04-17 | 2026-05-18 |
 | [Tell Me](https://open.spotify.com/track/0P8jzxMQoBkICoDw4QMsAx) | [DIZTEN](https://open.spotify.com/artist/0hj6Y8SHrQ6ETXoh4dBi9P) | [Tell Me](https://open.spotify.com/album/4cVWn8RpV0yEslx7h821pa) | 3:25 | 2026-06-30 | 2026-08-01 |
+| [Tell Me](https://open.spotify.com/track/6HiWVjnBHLsUGMf90aTSlX) | [Jamie Cook](https://open.spotify.com/artist/7ttogsYB0z8qg299JZhsNe) | [Tell Me](https://open.spotify.com/album/2PoSPy5NkyknPjutaii6Z2) | 2:34 | 2026-08-30 |  |
 | [Tell me](https://open.spotify.com/track/7Kii5doWDpS5BlMb8ZinhX) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [Tell me](https://open.spotify.com/album/128I92xeAqGBMdLzBqCGdR) | 2:16 | 2025-12-19 | 2026-01-21 |
 | [tell me more](https://open.spotify.com/track/74hoZrwClU2lP5xeWReCga) | [Skyler 404](https://open.spotify.com/artist/30nlJtNzPne652Z6QHWtPE) | [tell me more](https://open.spotify.com/album/2UNc6fNhyxYdapM05MyRtg) | 3:20 | 2026-06-16 | 2026-07-17 |
 | [Tell Me More \(Live from the Wrong Timeline\)](https://open.spotify.com/track/4rOCHEeyxFIROj8aFDGRn4) | [Skyler 404](https://open.spotify.com/artist/30nlJtNzPne652Z6QHWtPE) | [Tell Me More \(live version\)](https://open.spotify.com/album/0Uqwy1EZthpaBTCFsesmqK) | 3:37 | 2026-08-08 |  |

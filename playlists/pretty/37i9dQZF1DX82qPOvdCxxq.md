@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Issac Mansfield
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,185 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,198 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

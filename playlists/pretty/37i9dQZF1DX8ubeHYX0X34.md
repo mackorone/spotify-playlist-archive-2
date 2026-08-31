@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 
 > Timeless Pakistani hits, all in one place\. Cover \- Hadiqa Kiani
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,643 likes - 70 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,675 likes - 70 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 | 21 | [Duur](https://open.spotify.com/track/5Gl780bmLH2msWJ8kgCINq) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Duur](https://open.spotify.com/album/5MDx3qMlEeLqvYeR1fNzg4) | 5:07 |
 | 22 | [Na Kaho](https://open.spotify.com/track/70LGFBNHjfkL6Lo1ZIBjsI) | [Aaroh](https://open.spotify.com/artist/0FkdHz5RBdvLUTBf97WRSo) | [Sawaal](https://open.spotify.com/album/0fVgvrRb2zst9O7HiCYJOU) | 5:13 |
 | 23 | [Roiyaan](https://open.spotify.com/track/6pIDq4rIuH75nEwNew2dlW) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq) | [Roiyaan](https://open.spotify.com/album/6zyLkzZ4EBmUgBw8UG1cwM) | 4:56 |
-| 24 | [Parinda](https://open.spotify.com/track/4XtdI2a4MiB6Yk6MPwlSR4) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Parinda](https://open.spotify.com/album/5eWLyDcaKeUYnpcmsCM1Oq) | 4:21 |
-| 25 | [Manwa Re](https://open.spotify.com/track/61fzdZgmnQ2wg9vmHqwDgN) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Suno Ke Mein Hun Jawan](https://open.spotify.com/album/4AyNpK9PCLWHbxIX5ezvJG) | 3:27 |
+| 24 | [Manwa Re](https://open.spotify.com/track/61fzdZgmnQ2wg9vmHqwDgN) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Suno Ke Mein Hun Jawan](https://open.spotify.com/album/4AyNpK9PCLWHbxIX5ezvJG) | 3:27 |
+| 25 | [Parinda](https://open.spotify.com/track/4XtdI2a4MiB6Yk6MPwlSR4) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Parinda](https://open.spotify.com/album/5eWLyDcaKeUYnpcmsCM1Oq) | 4:21 |
 | 26 | [Dhaani](https://open.spotify.com/track/3eRF395BSAXtCPjpRN7DLF) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Dhaani](https://open.spotify.com/album/21luKloROzEZKHzgbhye2U) | 4:29 |
 | 27 | [Na Ra Na Re](https://open.spotify.com/track/38vz3gwpnZE3oB9uCiPuid) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Social Circus](https://open.spotify.com/album/4Nj2wbrQ8k2pzh4XQktP3K) | 5:41 |
 | 28 | [Aicha](https://open.spotify.com/track/1cRuI7DN1z2FO3boRPmagR) | [Outlandish](https://open.spotify.com/artist/5tqMW5dSAlvh0GvgD3XfDy) | [Bread & Barrels Of Water](https://open.spotify.com/album/3cowfTrvTm7ZBJhBO0ZYPU) | 4:35 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 | 55 | [Tum Mil Gaye](https://open.spotify.com/track/2D2o91sSKPo0s6TKAE0HGW) | [Vital Signs](https://open.spotify.com/artist/6KX5FJjRlLTjMsnwLvAmJu) | [Very Best Of Vital Signs Vol \-1](https://open.spotify.com/album/2gkLlal7dxVaOml7Q7uqcm) | 5:06 |
 | 56 | [Neend Ayay Na](https://open.spotify.com/track/3TX1rmOSoZRrKm53lOos1B) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Suno Ke Mein Hun Jawan](https://open.spotify.com/album/4AyNpK9PCLWHbxIX5ezvJG) | 4:22 |
 | 57 | [Ajnabi](https://open.spotify.com/track/6qE6zm1FJlgRwClkBa1Ucj) | [Aaroh](https://open.spotify.com/artist/0FkdHz5RBdvLUTBf97WRSo) | [Sawaal](https://open.spotify.com/album/0fVgvrRb2zst9O7HiCYJOU) | 5:21 |
-| 58 | [Saqi Nama](https://open.spotify.com/track/0oAwve1WkYewyElOHFPddX) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Ishq](https://open.spotify.com/album/6plzKQCGIUaBWgWq7UtRlS) | 4:37 |
-| 59 | [Armaan](https://open.spotify.com/track/2DSKLQ2b47b2xT60OLLki2) | [Siege](https://open.spotify.com/artist/5Q2KMZcKYzQLN0kH3D4SPx) | [Best of Siege](https://open.spotify.com/album/55tD7F8Levcnd2y2OWMhk1) | 4:16 |
+| 58 | [Armaan](https://open.spotify.com/track/2DSKLQ2b47b2xT60OLLki2) | [Siege](https://open.spotify.com/artist/5Q2KMZcKYzQLN0kH3D4SPx) | [Best of Siege](https://open.spotify.com/album/55tD7F8Levcnd2y2OWMhk1) | 4:16 |
+| 59 | [Saqi Nama](https://open.spotify.com/track/0oAwve1WkYewyElOHFPddX) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Ishq](https://open.spotify.com/album/6plzKQCGIUaBWgWq7UtRlS) | 4:37 |
 | 60 | [Akhian](https://open.spotify.com/track/1LXn0kHwq5OOKt7DJaysMP) | [Fuzon](https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Fuzon](https://open.spotify.com/album/2Rywbx5yGiaZfvwDilTSZS) | 4:00 |
 | 61 | [Man Gagan](https://open.spotify.com/track/1l3Jn24cC7UsLDqNIbH33a) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Social Circus](https://open.spotify.com/album/4Nj2wbrQ8k2pzh4XQktP3K) | 6:18 |
 | 62 | [Mahi\-Ve](https://open.spotify.com/track/6u2uJXCU1gxiIyfa3LJkX2) | [JoSH the Band](https://open.spotify.com/artist/3bZPukLEVZlmVmNI2zkbLU) | [Mausam](https://open.spotify.com/album/758VIaUPNO3rY8nBxPTzv1) | 4:06 |

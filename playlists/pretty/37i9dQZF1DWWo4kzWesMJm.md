@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 
 > Les meilleurs airs d'autoroute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,632 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,677 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 30 | [Tu m'oublieras](https://open.spotify.com/track/616O2jmafiModH0RgonGqf) | [Larusso](https://open.spotify.com/artist/07sMHU0vu01xrz1gnNrNry) | [Simplement](https://open.spotify.com/album/5BXw5K0WzAncb6uMnCrnyW) | 3:39 |
 | 31 | [Ceux qu'on était](https://open.spotify.com/track/57InPX86dWSiQexyA7xx5i) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:54 |
 | 32 | [Léa](https://open.spotify.com/track/709Vk4ahhCM6ENgRVTTYw6) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Louise Attaque](https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz) | 3:17 |
-| 33 | [Le sud](https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 4:35 |
-| 34 | [Le pouvoir des fleurs](https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Caché derrière](https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia) | 3:35 |
+| 33 | [Le pouvoir des fleurs](https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Caché derrière](https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia) | 3:35 |
+| 34 | [Le sud](https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 4:35 |
 | 35 | [Déjeuner en paix](https://open.spotify.com/track/6DFzpa0eHyEkvQ2oeewmA2) | [Stephan Eicher](https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E) | [Engelberg](https://open.spotify.com/album/5w2UnVzDvUmX6J0QAlRCxP) | 3:56 |
 | 36 | [Respire encore](https://open.spotify.com/track/0n9eeQnvzmMcq0l4DeGWQH) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Cœur](https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC) | 3:47 |
 | 37 | [Mauvais Garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais Garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 50 | [Ding Dang Dong \(Ringing at Your Bell\)](https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Variéty](https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL) | 3:39 |
 | 51 | [Comment on fait](https://open.spotify.com/track/3Gz8jdMPGPj5oSc0zAddxM) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [à 2 à 3](https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d) | 3:00 |
 | 52 | [Sur la route de Memphis](https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK) | [Eddy Mitchell](https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ) | [Sur La Route De Memphis](https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ) | 2:53 |
-| 53 | [Sur la route](https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr) | [De Palmas](https://open.spotify.com/artist/2tE58Zyy0x7jy0sn8l661c) | [la derniere annee](https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4) | 3:41 |
-| 54 | [Les voisines](https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Repenti](https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q) | 3:35 |
+| 53 | [Les voisines](https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Repenti](https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q) | 3:35 |
+| 54 | [Sur la route](https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr) | [De Palmas](https://open.spotify.com/artist/2tE58Zyy0x7jy0sn8l661c) | [la derniere annee](https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4) | 3:41 |
 | 55 | [Le Dernier Jour du Disco](https://open.spotify.com/track/3NwQsPQbVS3VfXJfYtoloj) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Le Dernier Jour du Disco](https://open.spotify.com/album/2S5DGtu0gRTjJDQWpGnJJA) | 3:26 |
 | 56 | [Le lion est mort ce soir](https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM) | [Pow Wow](https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ) | [Regagner Les Plaines](https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN) | 2:58 |
 | 57 | [Week\-end à Rome](https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Week End À Rome](https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl) | 4:14 |

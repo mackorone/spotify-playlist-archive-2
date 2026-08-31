@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,856 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,858 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 13 | [You Are Spring](https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG) | [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [Spring Fever, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN) | 3:47 |
 | 14 | [Introduce me a good person](https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4) | 3:03 |
 | 15 | [Dear.J \(Feat\. Jay Park\)](https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Dear.J](https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek) | 3:21 |
-| 16 | [May I Love You?](https://open.spotify.com/track/3yByTfbbmapjLSzGUw6S67) | [UMJI](https://open.spotify.com/artist/2yExPRQtV9wSUqASXj9q1e) | [Lovely Runner, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/5imt2fu9plNVvxIsHqdqpX) | 3:18 |
-| 17 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
+| 16 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
+| 17 | [May I Love You?](https://open.spotify.com/track/3yByTfbbmapjLSzGUw6S67) | [UMJI](https://open.spotify.com/artist/2yExPRQtV9wSUqASXj9q1e) | [Lovely Runner, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/5imt2fu9plNVvxIsHqdqpX) | 3:18 |
 | 18 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 |
 | 19 | [Love Frequency](https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Love Frequency \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/3cgYAtoLlt8nO7YdoEuY2l) | 2:43 |
 | 20 | [Special Day](https://open.spotify.com/track/70EAgvy4fUexEViBeylMzS) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Dynamite Kiss \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/1wD9dXi6cZXqbAueDxpvuS) | 3:18 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 47 | [9 to 2](https://open.spotify.com/track/3gaPXXidirpc2DbqMCf3CS) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [\[ MAL \]](https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1) | 2:27 |
 | 48 | [Raindrop](https://open.spotify.com/track/249anPnRxbDIAERScEBEkK) | [HYUN SEO](https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl) | [Raindrop](https://open.spotify.com/album/3RmqqwLUcn9q2IDy3HVOct) | 2:50 |
 | 49 | [Fall In Love](https://open.spotify.com/track/5TfjXWXIFzctqqiAoT7bSi) | [Wine Loop](https://open.spotify.com/artist/4z2d0OklqGzcncmNereISj) | [Fall In Love](https://open.spotify.com/album/4vuGJU3d8YCJZRSNvFHX90) | 3:22 |
-| 50 | [Stuck with You](https://open.spotify.com/track/3IJASXMNdfp8z130pvy8p8) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [LOVECHAPTER](https://open.spotify.com/album/4taRaj6jpJSs4cp5KFbPJZ) | 2:48 |
+| 50 | [banana milk](https://open.spotify.com/track/3KVR87meqlCI88EXG2Wrad) | [YECHAN](https://open.spotify.com/artist/0ECjzwXONQbrKyswxTy3mr), [EID®echoesindream.](https://open.spotify.com/artist/1ErmY2nlIGPPVcczrNFLdv), [AVN](https://open.spotify.com/artist/0I7AyV5oybjdCeChQlltqm) | [banana milk](https://open.spotify.com/album/3aljuClVbRAuNYCDdtHbtY) | 2:40 |
 
 Snapshot ID: `AAAAAFJw8k5t+il1a4CN78IAws2q988X`

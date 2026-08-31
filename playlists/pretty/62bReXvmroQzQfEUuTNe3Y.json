@@ -1,12 +1,12 @@
 {
   "description": "Chill tracks to vibe or relax to in 2026. Updated weekly!",
-  "num_followers": 2020384,
+  "num_followers": 2021286,
   "original_name": "Chill House 2026",
   "owner": {
     "name": "selected.",
     "url": "https://open.spotify.com/user/selectedbase"
   },
-  "snapshot_id": "AAARYJpxjcS48tYA1FA5WteUgx/Y0gYO",
+  "snapshot_id": "AAARYZ06p0sggBuDICQFjhtyYV/f9X1B",
   "tracks": [
     {
       "added_at": "2026-08-28 11:18:34",
@@ -335,6 +335,26 @@
       "duration_ms": 155446,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/7zBUd2g1tvHbnWUazGo5rR"
+    },
+    {
+      "added_at": "2026-08-30 15:46:01",
+      "album": {
+        "name": "Edge of Desire",
+        "url": "https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        }
+      ],
+      "duration_ms": 134905,
+      "name": "Edge of Desire",
+      "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
     },
     {
       "added_at": "2026-08-28 11:18:34",

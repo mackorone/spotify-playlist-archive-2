@@ -1,6 +1,6 @@
 {
   "description": "Los videoclips m\u00e1s populares de los \u00faltimos a\u00f1os. Solo en Premium.",
-  "num_followers": 7996,
+  "num_followers": 8003,
   "original_name": "Top Video Hits Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-10-21 15:18:21",
       "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
-    },
-    {
-      "added_at": "2025-10-21 15:18:21",
-      "album": {
         "name": "Rara Vez",
         "url": "https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 128677,
       "name": "Rara Vez",
       "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
+    },
+    {
+      "added_at": "2025-10-21 15:18:21",
+      "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
     },
     {
       "added_at": "2025-10-21 15:18:21",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-10-21 15:18:21",
       "album": {
-        "name": "c\u00f3mo dormiste?",
-        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 112572,
-      "name": "c\u00f3mo dormiste?",
-      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
-    },
-    {
-      "added_at": "2025-10-21 15:18:21",
-      "album": {
         "name": "Jerusalema",
         "url": "https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 342612,
       "name": "Jerusalema (feat. Nomcebo Zikode)",
       "url": "https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi"
+    },
+    {
+      "added_at": "2025-10-21 15:18:21",
+      "album": {
+        "name": "c\u00f3mo dormiste?",
+        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 112572,
+      "name": "c\u00f3mo dormiste?",
+      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
     },
     {
       "added_at": "2025-10-21 15:18:21",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-10-21 15:18:21",
       "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "No Hay Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN"
-    },
-    {
-      "added_at": "2025-10-21 15:18:21",
-      "album": {
         "name": "Vibras",
         "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 250840,
       "name": "No Es Justo",
       "url": "https://open.spotify.com/track/5qFeMRz4TvetPmzjre9Dq7"
+    },
+    {
+      "added_at": "2025-10-21 15:18:21",
+      "album": {
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "No Hay Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN"
     },
     {
       "added_at": "2025-10-21 15:18:21",

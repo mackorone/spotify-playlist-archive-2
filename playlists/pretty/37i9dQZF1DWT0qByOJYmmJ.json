@@ -1,6 +1,6 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 627730,
+  "num_followers": 627724,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Fuentes de Ort\u00edz (Live session)",
-        "url": "https://open.spotify.com/album/3hckHlpN6ERKTcGMFrV9ui"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 179417,
-      "name": "Fuentes de Ort\u00edz (Live session)",
-      "url": "https://open.spotify.com/track/3nTeLDqZebdpIdB9uRJJk1"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "L\u00e1grimas De Miel",
         "url": "https://open.spotify.com/album/1tTolYWqffkyFE64kvjlkh"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 228800,
       "name": "L\u00e1grimas De Miel",
       "url": "https://open.spotify.com/track/5xxWDPW1I0aHAt3twyXAPy"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Fuentes de Ort\u00edz (Live session)",
+        "url": "https://open.spotify.com/album/3hckHlpN6ERKTcGMFrV9ui"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 179417,
+      "name": "Fuentes de Ort\u00edz (Live session)",
+      "url": "https://open.spotify.com/track/3nTeLDqZebdpIdB9uRJJk1"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Dueles Tan Bien",
-        "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
-      },
-      "artists": [
-        {
-          "name": "BRUSES",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Dueles Tan Bien",
-      "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "el jardinero",
         "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 177391,
       "name": "el jardinero",
       "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Dueles Tan Bien",
+        "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
+      },
+      "artists": [
+        {
+          "name": "BRUSES",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Dueles Tan Bien",
+      "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
     },
     {
       "added_at": "2024-07-11 01:38:58",

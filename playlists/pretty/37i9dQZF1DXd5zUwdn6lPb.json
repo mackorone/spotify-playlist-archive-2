@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 608540,
+  "num_followers": 608672,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,26 @@
     {
       "added_at": "2026-08-14 04:00:54",
       "album": {
+        "name": "Tchaikovsky: Children's Album, Op. 39: No. 21, Sweet Dreams",
+        "url": "https://open.spotify.com/album/10mpmaq2FmGOM3HeUHtis0"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "Children's Album, Op. 39: No. 21, Sweet Dreams",
+      "url": "https://open.spotify.com/track/3RcqfI7qd4jYgdReTnTPR7"
+    },
+    {
+      "added_at": "2026-08-14 04:00:54",
+      "album": {
         "name": "Lake Reflections - Music for Flute & Harp",
         "url": "https://open.spotify.com/album/0bvSoJHPw1wfCLd2u4L5VV"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 150415,
       "name": "Schwanenlied",
       "url": "https://open.spotify.com/track/58I1vBvQyCzucuxkMl9Pwc"
-    },
-    {
-      "added_at": "2026-08-14 04:00:54",
-      "album": {
-        "name": "Tchaikovsky: Children's Album, Op. 39: No. 21, Sweet Dreams",
-        "url": "https://open.spotify.com/album/10mpmaq2FmGOM3HeUHtis0"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Daniil Trifonov",
-          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "Children's Album, Op. 39: No. 21, Sweet Dreams",
-      "url": "https://open.spotify.com/track/3RcqfI7qd4jYgdReTnTPR7"
     },
     {
       "added_at": "2026-08-14 04:00:54",
@@ -671,6 +671,26 @@
     {
       "added_at": "2026-08-14 04:00:54",
       "album": {
+        "name": "Debussy: R\u00eaverie, CD 76",
+        "url": "https://open.spotify.com/album/2W0kS2snDbRyZkpaTpJI4j"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+        }
+      ],
+      "duration_ms": 259799,
+      "name": "R\u00eaverie, CD 76",
+      "url": "https://open.spotify.com/track/3VXIpxYMlX4GMSbR2Ijerb"
+    },
+    {
+      "added_at": "2026-08-14 04:00:54",
+      "album": {
         "name": "Make-believe",
         "url": "https://open.spotify.com/album/0Qju6M9CEHVwZ0Wc0kJkul"
       },
@@ -715,22 +735,22 @@
     {
       "added_at": "2026-08-14 04:00:54",
       "album": {
-        "name": "Debussy: R\u00eaverie, CD 76",
-        "url": "https://open.spotify.com/album/2W0kS2snDbRyZkpaTpJI4j"
+        "name": "50 Masterworks - Arthur Rubinstein",
+        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
       },
       "artists": [
         {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
-          "name": "Bruce Liu",
-          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+          "name": "Arthur Rubinstein",
+          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
         }
       ],
-      "duration_ms": 259799,
-      "name": "R\u00eaverie, CD 76",
-      "url": "https://open.spotify.com/track/3VXIpxYMlX4GMSbR2Ijerb"
+      "duration_ms": 376440,
+      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
+      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
     },
     {
       "added_at": "2026-08-14 04:00:54",
@@ -755,26 +775,6 @@
       "duration_ms": 195712,
       "name": "Tissue No. 7",
       "url": "https://open.spotify.com/track/5PIijxAWbWAOvJ3TKhejPA"
-    },
-    {
-      "added_at": "2026-08-14 04:00:54",
-      "album": {
-        "name": "50 Masterworks - Arthur Rubinstein",
-        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Arthur Rubinstein",
-          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
-        }
-      ],
-      "duration_ms": 376440,
-      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
-      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
     },
     {
       "added_at": "2026-08-14 04:00:54",
@@ -1099,22 +1099,22 @@
     {
       "added_at": "2026-08-14 04:00:54",
       "album": {
-        "name": "Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes",
-        "url": "https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v"
+        "name": "F. Couperin: L'art de toucher le clavecin: Pr\u00e9lude No. 8 in E Minor",
+        "url": "https://open.spotify.com/album/7xu0VApvShwpthWrqtua0g"
       },
       "artists": [
         {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
         },
         {
-          "name": "Nikolai Lugansky",
-          "url": "https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud"
+          "name": "Mishka Rushdie Momen",
+          "url": "https://open.spotify.com/artist/3DcFqRC9pI2PIuGgzFq2ab"
         }
       ],
-      "duration_ms": 58413,
-      "name": "Chopin: 24 Preludes, Op. 28: No. 7 in A Major",
-      "url": "https://open.spotify.com/track/7xrs7lNCLYp4j6O4Vv4Kgz"
+      "duration_ms": 103000,
+      "name": "L'art de toucher le clavecin: Pr\u00e9lude No. 8 in E Minor",
+      "url": "https://open.spotify.com/track/1URKZCF0l4pzwj61q0MukM"
     },
     {
       "added_at": "2026-08-14 04:00:54",
@@ -1139,22 +1139,22 @@
     {
       "added_at": "2026-08-14 04:00:54",
       "album": {
-        "name": "F. Couperin: L'art de toucher le clavecin: Pr\u00e9lude No. 8 in E Minor",
-        "url": "https://open.spotify.com/album/7xu0VApvShwpthWrqtua0g"
+        "name": "Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes",
+        "url": "https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v"
       },
       "artists": [
         {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
-          "name": "Mishka Rushdie Momen",
-          "url": "https://open.spotify.com/artist/3DcFqRC9pI2PIuGgzFq2ab"
+          "name": "Nikolai Lugansky",
+          "url": "https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud"
         }
       ],
-      "duration_ms": 103000,
-      "name": "L'art de toucher le clavecin: Pr\u00e9lude No. 8 in E Minor",
-      "url": "https://open.spotify.com/track/1URKZCF0l4pzwj61q0MukM"
+      "duration_ms": 58413,
+      "name": "Chopin: 24 Preludes, Op. 28: No. 7 in A Major",
+      "url": "https://open.spotify.com/track/7xrs7lNCLYp4j6O4Vv4Kgz"
     },
     {
       "added_at": "2026-08-14 04:00:54",
@@ -1199,46 +1199,6 @@
     {
       "added_at": "2026-08-14 04:00:54",
       "album": {
-        "name": "MAN\u00edA",
-        "url": "https://open.spotify.com/album/510ooESeRor4qHmIQzIj8K"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "James Rhodes",
-          "url": "https://open.spotify.com/artist/5CDonRtIeV3ZYeE8nFjBUh"
-        }
-      ],
-      "duration_ms": 470000,
-      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major, 'Lento sostenuto'",
-      "url": "https://open.spotify.com/track/0FKULDvNOHU1r3I4nKtwoJ"
-    },
-    {
-      "added_at": "2026-08-14 04:00:54",
-      "album": {
-        "name": "Wachet auf, ruft uns die Stimme, BWV 645",
-        "url": "https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Jo\u00e3o Carlos Victor",
-          "url": "https://open.spotify.com/artist/3jYxGu7wJYguUYCfK2sMWb"
-        }
-      ],
-      "duration_ms": 354560,
-      "name": "Wachet auf, ruft uns die Stimme, BWV 645",
-      "url": "https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv"
-    },
-    {
-      "added_at": "2026-08-14 04:00:54",
-      "album": {
         "name": "Breaking Waves",
         "url": "https://open.spotify.com/album/4JVz3Ez6MxgGzp8AVLkxQP"
       },
@@ -1263,22 +1223,42 @@
     {
       "added_at": "2026-08-14 04:00:54",
       "album": {
-        "name": "Brahms: Piano Quartet in C Minor, Op. 60: III. Andante",
-        "url": "https://open.spotify.com/album/07s0jJx49pPo80YuhoN01B"
+        "name": "Wachet auf, ruft uns die Stimme, BWV 645",
+        "url": "https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4"
       },
       "artists": [
         {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Mariani Klavierquartett",
-          "url": "https://open.spotify.com/artist/4zk6W7OAOXtLumHsQiBbiU"
+          "name": "Jo\u00e3o Carlos Victor",
+          "url": "https://open.spotify.com/artist/3jYxGu7wJYguUYCfK2sMWb"
         }
       ],
-      "duration_ms": 518539,
-      "name": "Piano Quartet in C Minor, Op. 60: III. Andante",
-      "url": "https://open.spotify.com/track/4qVzF5LkxvBiodQY7IhiPY"
+      "duration_ms": 354560,
+      "name": "Wachet auf, ruft uns die Stimme, BWV 645",
+      "url": "https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv"
+    },
+    {
+      "added_at": "2026-08-14 04:00:54",
+      "album": {
+        "name": "MAN\u00edA",
+        "url": "https://open.spotify.com/album/510ooESeRor4qHmIQzIj8K"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "James Rhodes",
+          "url": "https://open.spotify.com/artist/5CDonRtIeV3ZYeE8nFjBUh"
+        }
+      ],
+      "duration_ms": 470000,
+      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major, 'Lento sostenuto'",
+      "url": "https://open.spotify.com/track/0FKULDvNOHU1r3I4nKtwoJ"
     },
     {
       "added_at": "2026-08-14 04:00:54",
@@ -1299,6 +1279,26 @@
       "duration_ms": 139974,
       "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
       "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
+    },
+    {
+      "added_at": "2026-08-14 04:00:54",
+      "album": {
+        "name": "Brahms: Piano Quartet in C Minor, Op. 60: III. Andante",
+        "url": "https://open.spotify.com/album/07s0jJx49pPo80YuhoN01B"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Mariani Klavierquartett",
+          "url": "https://open.spotify.com/artist/4zk6W7OAOXtLumHsQiBbiU"
+        }
+      ],
+      "duration_ms": 518539,
+      "name": "Piano Quartet in C Minor, Op. 60: III. Andante",
+      "url": "https://open.spotify.com/track/4qVzF5LkxvBiodQY7IhiPY"
     },
     {
       "added_at": "2026-08-14 04:00:54",

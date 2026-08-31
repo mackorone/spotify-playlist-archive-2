@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,216 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,219 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 21 | [Panorama ayacuchano](https://open.spotify.com/track/3RSKSNv8odGUcE8jzDhEo1) | [Manuelcha Prado](https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22) | [Guitarra y Canto del Ande](https://open.spotify.com/album/0Vhe6HDh6M6zeVvRXp8YD1) | 5:41 |
 | 22 | [Pura Flor](https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Pura Flor](https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1) | 3:57 |
 | 23 | [Chilenitas \(Orozco / Barrientos\) \[Remix\]](https://open.spotify.com/track/2EuAmjrBtJaqc46VhizcGs) | [Puna](https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ) | [Vol\. 1](https://open.spotify.com/album/5qtEX6yktv2BXT0s2bI6l8) | 6:19 |
-| 24 | [Puñales](https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Puñales](https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m) | 2:50 |
+| 24 | [Alma mía](https://open.spotify.com/track/4zwnhH4aFWiXGzUBInMrK1) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Alma mía](https://open.spotify.com/album/74EbdS6zuGWYOSV1EVqYJZ) | 3:12 |
 | 25 | [De Barrio](https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0) | [M.A.K.U SoundSystem](https://open.spotify.com/artist/1XvVZZxpcgZw7MUG5BIUJh) | [Mezcla](https://open.spotify.com/album/4Eq9kFfrgL1LL3mslSKwKa) | 5:51 |
 | 26 | [Trote de Enquelga](https://open.spotify.com/track/120c4z2FZUop2bVpc5sTMD) | [Los Curacas](https://open.spotify.com/artist/5mmVJF0pKY3PEMLhrRU0gw) | [Folklore en Mi Escuela\. Danzas y Cantos de América, Vol\. 2](https://open.spotify.com/album/4mbnG0P8Oi8JJAoCtX8J5D) | 2:29 |
 | 27 | [Gente Mariposa](https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Aurora](https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7) | 5:17 |
 | 28 | [Qam Hina](https://open.spotify.com/track/4rRgfl70FRS1OYBD29pQa4) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Qam Hina](https://open.spotify.com/album/4iRMmNgcj155HZInt8BXxK) | 4:07 |
-| 29 | [Alma mía](https://open.spotify.com/track/4zwnhH4aFWiXGzUBInMrK1) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Alma mía](https://open.spotify.com/album/74EbdS6zuGWYOSV1EVqYJZ) | 3:12 |
+| 29 | [Puñales](https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Puñales](https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m) | 2:50 |
 | 30 | [No Me Quiero Doler](https://open.spotify.com/track/5yHQDlmQ4PJQR9CAFsdoMG) | [Arrabalero](https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj), [Carlos Rizzi](https://open.spotify.com/artist/4dxrLUGRaBANAZdDXKt9I7) | [No Me Quiero Doler](https://open.spotify.com/album/0bxPIMdVzvOY31BxAqv6FQ) | 5:26 |
 | 31 | [Chica Cascada \(feat\. Mariana Päraway\)](https://open.spotify.com/track/7bPZBm7Wr6poE49MRWO30V) | [Puna](https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ), [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Vol\. 2](https://open.spotify.com/album/4ue3QgybkfMuFP2sFk2zBP) | 5:28 |
 | 32 | [Tiempo Atrás](https://open.spotify.com/track/5LJnR5ogdDceRdb0G039HD) | [Urdaneta](https://open.spotify.com/artist/5XAvWDyOxZ5TjPDQTrynFB) | [Tiempo Atrás](https://open.spotify.com/album/1de6lhpWxYRivS5xSM83gK) | 3:45 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 38 | [La lluvia \(The Rain\)](https://open.spotify.com/track/5AzMb8M8OP7gzY4eoofKsX) | [Alpamayo](https://open.spotify.com/artist/1IwczbeypqcP1e5qF9xWyK) | [Alpamayo: Music From Peru and Ecuador](https://open.spotify.com/album/1dxPMheXy9f4e4qdanfuVK) | 4:04 |
 | 39 | [Desventura](https://open.spotify.com/track/62JMeGryB8d3EHFUpFfQWQ) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Desventura](https://open.spotify.com/album/1gNGhrPZGS6fYcUSR6I7Ku) | 4:17 |
 | 40 | [Agüita del Equilibrio](https://open.spotify.com/track/5xKk5ZGsk6HPspcaCgr8kr) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [La Casa No Existe](https://open.spotify.com/album/0SxTeOE2w7uINeSt7I8wmT) | 3:24 |
-| 41 | [Relato](https://open.spotify.com/track/0633GnMObUml98aYLCUmEg) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [6](https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj) | 3:48 |
-| 42 | [Sueño en Paraguay \- El Búho Remix](https://open.spotify.com/track/26hcJ6HQTl79tPYikflRc5) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Amansará \(Remixed\)](https://open.spotify.com/album/1APDDRn5wQC7a1EpMUIrjd) | 3:59 |
-| 43 | [Corazon de Rubi](https://open.spotify.com/track/4ZNIMDo5YS5blN6MsN0tL9) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Balance](https://open.spotify.com/album/2nwchash9HLqv22iAUBrKx) | 4:14 |
-| 44 | [Pais Nublado](https://open.spotify.com/track/5lvBsLDwmZdpWOTRTl8dZu) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [This Is How You Smile](https://open.spotify.com/album/17LsQV3q3cgTBrat3D5JSv) | 4:32 |
-| 45 | [Cumbia del Olvido](https://open.spotify.com/track/5pU9azu0VQIUk2nTUVxwxY) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/3qayyVd2DD1T9uXwOZoHsP) | 3:36 |
-| 46 | [Gemas](https://open.spotify.com/track/67mgOypSh1Xf9VxbLmSfvH) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Manglares \(B\-Sides\) \- EP](https://open.spotify.com/album/4BxZEP4iqM3Bm4iOm6q1O1) | 3:38 |
-| 47 | [La Felicidad](https://open.spotify.com/track/4FDiLM3onP5Kpd4fdz352D) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [”Zamba Puta”](https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J) | 3:55 |
-| 48 | [Manana Tepotzlan](https://open.spotify.com/track/6o5CnQ64kggC3sEnIUpEl5) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cenotes](https://open.spotify.com/album/290Qd3iRmfn85z6YGpCE7X) | 4:00 |
-| 49 | [Kintsugi](https://open.spotify.com/track/2kJSKfA6jrrXxqmDZoWLvt) | [Pamela Rodriguez](https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC) | [Kintsugi](https://open.spotify.com/album/6CBtxsXQQKQO5jiCpysjMw) | 3:31 |
-| 50 | [La Cosecha](https://open.spotify.com/track/2FbqjF37EfOmf4QCvs2Q0x) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/3qayyVd2DD1T9uXwOZoHsP) | 5:15 |
+| 41 | [La Felicidad](https://open.spotify.com/track/4FDiLM3onP5Kpd4fdz352D) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [”Zamba Puta”](https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J) | 3:55 |
+| 42 | [Relato](https://open.spotify.com/track/0633GnMObUml98aYLCUmEg) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [6](https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj) | 3:48 |
+| 43 | [Sueño en Paraguay \- El Búho Remix](https://open.spotify.com/track/26hcJ6HQTl79tPYikflRc5) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Amansará \(Remixed\)](https://open.spotify.com/album/1APDDRn5wQC7a1EpMUIrjd) | 3:59 |
+| 44 | [Corazon de Rubi](https://open.spotify.com/track/4ZNIMDo5YS5blN6MsN0tL9) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Balance](https://open.spotify.com/album/2nwchash9HLqv22iAUBrKx) | 4:14 |
+| 45 | [Pais Nublado](https://open.spotify.com/track/5lvBsLDwmZdpWOTRTl8dZu) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [This Is How You Smile](https://open.spotify.com/album/17LsQV3q3cgTBrat3D5JSv) | 4:32 |
+| 46 | [Cumbia del Olvido](https://open.spotify.com/track/5pU9azu0VQIUk2nTUVxwxY) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/3qayyVd2DD1T9uXwOZoHsP) | 3:36 |
+| 47 | [Gemas](https://open.spotify.com/track/67mgOypSh1Xf9VxbLmSfvH) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Manglares \(B\-Sides\) \- EP](https://open.spotify.com/album/4BxZEP4iqM3Bm4iOm6q1O1) | 3:38 |
+| 48 | [Kintsugi](https://open.spotify.com/track/2kJSKfA6jrrXxqmDZoWLvt) | [Pamela Rodriguez](https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC) | [Kintsugi](https://open.spotify.com/album/6CBtxsXQQKQO5jiCpysjMw) | 3:31 |
+| 49 | [Manana Tepotzlan](https://open.spotify.com/track/6o5CnQ64kggC3sEnIUpEl5) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cenotes](https://open.spotify.com/album/290Qd3iRmfn85z6YGpCE7X) | 4:00 |
+| 50 | [Ay Palomita](https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Ay Palomita](https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk) | 6:31 |
 
 Snapshot ID: `AAAAAHId5ODYoBT5BknT+2RPKq2jD3qG`

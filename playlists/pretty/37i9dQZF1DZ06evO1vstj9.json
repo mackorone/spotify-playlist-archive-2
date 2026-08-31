@@ -1,12 +1,12 @@
 {
   "description": "This is Elmiene. The essential tracks, all in one playlist.",
-  "num_followers": 10978,
+  "num_followers": 10988,
   "original_name": "This Is Elmiene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABAic08h83Sdkd5BGwHQikP",
+  "snapshot_id": "apIhAAAAAADYHIkXXOxOIQlsFufNEyPd",
   "tracks": [
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 224842,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/3WJI2S7Zz9pEfHnke2Z6k8"
+      "duration_ms": 201640,
+      "name": "Promise Me A Rose",
+      "url": "https://open.spotify.com/track/6poSI6Yb9qbuHWbGCI6XhQ"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 201640,
-      "name": "Promise Me A Rose",
-      "url": "https://open.spotify.com/track/6poSI6Yb9qbuHWbGCI6XhQ"
+      "duration_ms": 224842,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/3WJI2S7Zz9pEfHnke2Z6k8"
     },
     {
       "added_at": null,

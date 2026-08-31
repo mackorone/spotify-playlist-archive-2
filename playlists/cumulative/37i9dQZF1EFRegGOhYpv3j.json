@@ -284,10 +284,32 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 158049,
       "name": "Closing Time (with Kelsea Ballerini)",
       "url": "https://open.spotify.com/track/2ROIH7TfO1dpBX6O3PPjBw"
+    },
+    {
+      "album": {
+        "name": "It's A Dying Art",
+        "url": "https://open.spotify.com/album/0PW84fpvyi9bfEenBtUiYA"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158049,
+      "name": "Closing Time (with Kelsea Ballerini)",
+      "url": "https://open.spotify.com/track/5OZYgU49KASQHi6fU9e3Cm"
     },
     {
       "album": {

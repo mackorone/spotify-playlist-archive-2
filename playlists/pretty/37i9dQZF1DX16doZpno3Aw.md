@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,031 likes - 120 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,299 likes - 120 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 | 8 | [Le Carrousel](https://open.spotify.com/track/3ymiJSBhhDQd5qa3ULJT2H) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [Le Carrousel](https://open.spotify.com/album/06Wctde7XvxhijJKZ2EdsX) | 1:56 |
 | 9 | [Jacob and the Stone](https://open.spotify.com/track/2nltARCkZyrzjQANViDpuX) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Minari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5) | 1:38 |
 | 10 | [Sirens](https://open.spotify.com/track/6i7olOxVWLxv9khPk8tvBO) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 2:39 |
-| 11 | [Champagne Coast \(Piano\)](https://open.spotify.com/track/1Ysj4X2y81kk74q0OMU98Q) | [Valentino Coleman](https://open.spotify.com/artist/5Xypfk554REYzztwPzO5RL) | [Champagne Coast \(Piano\)](https://open.spotify.com/album/08ygSSxmnk1TaU28lOAz29) | 1:40 |
+| 11 | [Champagne Coast \- Piano](https://open.spotify.com/track/1Ysj4X2y81kk74q0OMU98Q) | [Valentino Coleman](https://open.spotify.com/artist/5Xypfk554REYzztwPzO5RL) | [Champagne Coast \(Piano\)](https://open.spotify.com/album/08ygSSxmnk1TaU28lOAz29) | 1:40 |
 | 12 | [Gymnopédie No\. 1](https://open.spotify.com/track/5OPT7l9b5SMwfTQgLPoNl7) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Philippe Entremont](https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO) | [Entremont Plays Satie](https://open.spotify.com/album/2Kye14Lc1A3aBrf4GxfwAf) | 3:25 |
 | 13 | [Calamitous](https://open.spotify.com/track/0HsFU1aDbURKvhh7JpAeTw) | [Andy Zelaya](https://open.spotify.com/artist/1iFr5RSJimc3xMn7haNSf9), [ANDY](https://open.spotify.com/artist/1zXvyx9aV1OhFRFCpvpqWe) | [Calamitous](https://open.spotify.com/album/6KMT6iRlaTj9DF9kqnbyEn) | 2:24 |
 | 14 | [Dreiton](https://open.spotify.com/track/79tsuz5Op5KSX58nST1BZT) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Beta](https://open.spotify.com/album/0cJydohrKIIwzRLJqZUfxK) | 8:17 |

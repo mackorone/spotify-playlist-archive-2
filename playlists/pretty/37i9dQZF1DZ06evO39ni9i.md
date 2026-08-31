@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 
 > This is Sly & The Family Stone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,667 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,668 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 | 32 | [I Ain't Got Nobody \(For Real\)](https://open.spotify.com/track/62yuJ7e3ULb6NFvRs13E9u) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 4:25 |
 | 33 | [Luv N' Haight \- Single Version](https://open.spotify.com/track/2SNjUokqJifysK3qsjyK4F) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's a Riot Goin' On](https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU) | 4:04 |
 | 34 | [Time For Livin'](https://open.spotify.com/track/1oQjAXbu9xARHLpKH73N1p) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 3:17 |
-| 35 | [Trip to Your Heart](https://open.spotify.com/track/3ku8Qt9J0Y29yC4jdzJ8PO) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 3:41 |
+| 35 | [I Cannot Make It](https://open.spotify.com/track/12guwaqWe3xZUPdnfSw0n4) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 3:18 |
 | 36 | [Soul Clappin'](https://open.spotify.com/track/5BL5MdCvMGykfaxPFtycG9) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:37 |
 | 37 | [It Takes All Kinds](https://open.spotify.com/track/17RLnWJ3HB1CrpLu6UMBcu) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Back On The Right Track](https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN) | 2:57 |
 | 38 | [Can't Strain My Brain](https://open.spotify.com/track/0T94lawCOoZ99cXGApnp2O) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 4:08 |
-| 39 | [I Cannot Make It](https://open.spotify.com/track/12guwaqWe3xZUPdnfSw0n4) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 3:18 |
+| 39 | [Trip to Your Heart](https://open.spotify.com/track/3ku8Qt9J0Y29yC4jdzJ8PO) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 3:41 |
 | 40 | [Into My Own Thing](https://open.spotify.com/track/1jKFBuegXD4DPc7Gd8HhJm) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Life](https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru) | 2:13 |
 | 41 | [Are You Ready](https://open.spotify.com/track/2vG9xnkx7v0780lL9zWRZa) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:49 |
 | 42 | [If It's Not Addin' Up](https://open.spotify.com/track/2NB532dM3UPhcNibc0qW3Y) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Back On The Right Track](https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN) | 2:43 |
 | 43 | [If This Room Could Talk](https://open.spotify.com/track/6tLOKNQHVDFZgbjLxFoze4) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 3:10 |
 | 44 | [Love City](https://open.spotify.com/track/0RfvI47szEhLTEnD7WTIco) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Life](https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru) | 2:43 |
 | 45 | [Color Me True](https://open.spotify.com/track/7e3gIQQIuGnVUUcGUOJNgM) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 3:08 |
-| 46 | [Medley: Higher/Music Lover \- Live at The Woodstock Music & Art Fair, August 17, 1969](https://open.spotify.com/track/59O8UshhepLHj0d8eSJdKU) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Sly & The Family Stone: The Woodstock Experience](https://open.spotify.com/album/39wxaeY2oFX5TcQcOqLkSV) | 7:50 |
+| 46 | [That's Pretty Clean \- Instrumental](https://open.spotify.com/track/6vjrerhomI6csr34YQkzTp) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's A Riot Goin' On \(Expanded Edition\)](https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO) | 4:12 |
 | 47 | [Advice](https://open.spotify.com/track/5bwmCTaOgGZ24HSlBksFWc) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 2:20 |
-| 48 | [That's Pretty Clean \- Instrumental](https://open.spotify.com/track/6vjrerhomI6csr34YQkzTp) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's A Riot Goin' On \(Expanded Edition\)](https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO) | 4:12 |
-| 49 | [Say You Will](https://open.spotify.com/track/1l9EHaWsZ2LSiULI97ymRB) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 3:18 |
+| 48 | [Say You Will](https://open.spotify.com/track/1l9EHaWsZ2LSiULI97ymRB) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 3:18 |
+| 49 | [Medley: Higher/Music Lover \- Live at The Woodstock Music & Art Fair, August 17, 1969](https://open.spotify.com/track/59O8UshhepLHj0d8eSJdKU) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Sly & The Family Stone: The Woodstock Experience](https://open.spotify.com/album/39wxaeY2oFX5TcQcOqLkSV) | 7:50 |
 | 50 | [Skate Now \- Live At Winchester Cathedral 1967](https://open.spotify.com/track/5kVhCcyzMDfDK186S4ZUAM) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [The First Family: Live At Winchester Cathedral 1967](https://open.spotify.com/album/2RKFmKwO5tdaXkIcsqXfd7) | 4:27 |
 
-Snapshot ID: `apDPgAAAAABWp/j6kLM8qEWPXPiKLquM`
+Snapshot ID: `apIhAAAAAAD0XwRVen6xKYzUBMW5ljcS`

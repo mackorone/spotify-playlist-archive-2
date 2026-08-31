@@ -4,7 +4,7 @@
 
 > This is Maaya Sakamoto\. The essential tracks, all in one playlist.
 
-172 songs - 12 hr 57 min
+173 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [FOLLOW ME](https://open.spotify.com/track/6q49z2CInohThqhW5UAXa6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:08 | 2022-08-10 | 2022-10-15 |
 | [Get No Satisfaction!](https://open.spotify.com/track/5QKuGPgCM0jFdYRm0yM19o) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:10 | 2026-03-23 | 2026-04-01 |
 | [Get No Satisfaction!](https://open.spotify.com/track/6iWhliYMcrGhdZ6pOOTBSI) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [30周年記念ベストアルバム　M30～Your Best～](https://open.spotify.com/album/5WTrnC9z8piakhnoy2FTlw) | 4:14 | 2025-11-09 | 2026-06-19 |
-| [Gift](https://open.spotify.com/track/1aBaRD0eeJ3nPI2isigrWO) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション　プラス　「ハチポチ」](https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy) | 5:48 | 2022-08-10 |  |
+| [Gift](https://open.spotify.com/track/1aBaRD0eeJ3nPI2isigrWO) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション　プラス　「ハチポチ」](https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy) | 5:48 | 2022-08-10 | 2026-08-31 |
 | [Gift 2015\-2016 Live Ver.](https://open.spotify.com/track/2yXEZ1VXw2lFfVE2HxyJiE) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [LIVE TOUR 2015\-2016“FOLLOW ME UP”FINAL at 中野サンプラザ](https://open.spotify.com/album/4vXPcYYrRD6kkgI6laagi4) | 5:27 | 2025-08-13 | 2025-08-23 |
 | [gravity](https://open.spotify.com/track/5edgQN3CMyQOgPy4SML46l) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [WOLF'S RAIN](https://open.spotify.com/album/6x1nU2XGUsJKANdgJ4W1Q9) | 3:23 | 2024-03-22 |  |
 | [Gyakko \-unplugged session\-](https://open.spotify.com/track/2suN1RxO4zbJHQnGAjNjHU) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [Dokuhaku \- Yakudo / FGO Disc](https://open.spotify.com/album/7yyduDmSkZ0ZTNjUOs9JoH) | 5:43 | 2022-08-11 | 2023-10-11 |
@@ -176,6 +176,7 @@
 | [逆光 \-unplugged session\-](https://open.spotify.com/track/3otsDATxGR5wvTEoCOkM82) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [独白→躍動　<FGO盤>](https://open.spotify.com/album/7hQknpgVxMUHWacI0toBrQ) | 5:43 | 2025-12-26 | 2026-08-02 |
 | [逆光\-unplugged session\-](https://open.spotify.com/track/6YIHCnUw8Uds0cWqhqMnnU) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [『Fate/Grand Order』主題歌ベストアルバム　余韻](https://open.spotify.com/album/54f3Fh8Sv0DmvN1jfBt6cs) | 5:41 | 2026-08-03 |  |
 | [透明\-self cover\-](https://open.spotify.com/track/3kFN1sB1L7t3K8Dr34qY2s) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [『Fate/Grand Order』主題歌ベストアルバム　余韻](https://open.spotify.com/album/54f3Fh8Sv0DmvN1jfBt6cs) | 4:59 | 2026-07-31 |  |
+| [鏡の中で](https://open.spotify.com/track/7sylSCr7B6OXeNu3EiFMaR) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:16 | 2026-08-31 |  |
 | [雨が降る](https://open.spotify.com/track/7pJmowV8EnAPMIwCgbFHQ0) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 5:15 | 2022-08-10 |  |
 | [風が吹く日（Ma\-aya version）](https://open.spotify.com/track/62LX9aAiafyFvZxjvJ0DiV) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [everywhere I](https://open.spotify.com/album/7xG3nzuiSnUvaz1r0PfY1G) | 5:53 | 2026-05-05 | 2026-05-22 |
 | [風待ちジェット\~kazeyomi edition](https://open.spotify.com/track/5WKdIWhEvWIeaUTCn99MH9) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:17 | 2022-08-10 | 2022-10-13 |

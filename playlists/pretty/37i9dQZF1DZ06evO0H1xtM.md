@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,297 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,365 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cero Miedo](https://open.spotify.com/track/45ehHeg9Kr5ZK3sFRnbjOv) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Cero Miedo](https://open.spotify.com/album/3VSPApAscAKQvMYgdGBzJK) | 2:24 |
 | 2 | [Di Que Sí](https://open.spotify.com/track/3J6d00TsKXTJV9zSJwEOd9) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Don't Stop The Magic](https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7) | 3:10 |
-| 3 | [El Rescate](https://open.spotify.com/track/147A9xW2QqtbFGCj00ZR8I) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/2xxUP4IxDoeN2weEeuwLin) | 2:34 |
-| 4 | [El Mayor de los Ranas \- En Vivo](https://open.spotify.com/track/7mEPibyVIOAjjHcSD0K0vn) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [El Mayor de los Ranas \(En Vivo\)](https://open.spotify.com/album/0jPsXfPTGGqzLS1ETChzf7) | 2:54 |
+| 3 | [El Mayor de los Ranas \- En Vivo](https://open.spotify.com/track/7mEPibyVIOAjjHcSD0K0vn) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [El Mayor de los Ranas \(En Vivo\)](https://open.spotify.com/album/0jPsXfPTGGqzLS1ETChzf7) | 2:54 |
+| 4 | [El Rescate](https://open.spotify.com/track/147A9xW2QqtbFGCj00ZR8I) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/2xxUP4IxDoeN2weEeuwLin) | 2:34 |
 | 5 | [Si Fuera Fácil](https://open.spotify.com/track/0c8Jj4m8nORPaOSpcr5gx0) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/5QHkQIUSlHrdunxUefdVYd) | 2:50 |
 | 6 | [Solo Me Dejaste](https://open.spotify.com/track/3K7Cn4Fusqlo19eKZb5x8S) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Solo Me Dejaste](https://open.spotify.com/album/6UIsH8V9ulcnrSzRaKMoK5) | 3:06 |
 | 7 | [El Doctor](https://open.spotify.com/track/2LbzI8ZFmjmZ0BcIriUyaw) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/5qUKBY3uF5adXBiWfEQvBA) | 3:54 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 27 | [Eres Mi Crush](https://open.spotify.com/track/6IhH9EuHGeFQbo49BJ4G7R) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Eres Mi Crush](https://open.spotify.com/album/6lUMeRzrbJekHBXcBZvSkJ) | 2:40 |
 | 28 | [Puro Campeón](https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Puro Campeón](https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm) | 3:16 |
 | 29 | [Mi Morenita](https://open.spotify.com/track/4Xly6Wx7KtcJc739Y4myOt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [JPL](https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd) | [Mi Morenita](https://open.spotify.com/album/1TFykciPJZ54BYl8iZybM1) | 2:29 |
-| 30 | [Mafiosa](https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mafiosa](https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5) | 2:50 |
-| 31 | [Empatía](https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Empatía](https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV) | 4:04 |
+| 30 | [Empatía](https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Empatía](https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV) | 4:04 |
+| 31 | [Mafiosa](https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mafiosa](https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5) | 2:50 |
 | 32 | [El Niño](https://open.spotify.com/track/3gEolrSD883RXFsgiruxEm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Niño](https://open.spotify.com/album/752bhrEwJA4s5o39zAACNy) | 3:10 |
 | 33 | [SUPERCHARGED](https://open.spotify.com/track/58c33wvOVysB63tVyU28wB) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [SUPERCHARGED](https://open.spotify.com/album/2shcF3CrkjD6MgndMyDCP1) | 3:05 |
 | 34 | [Sigan Atentos](https://open.spotify.com/track/6GrGeO8GtlBe3Nulkv6LMi) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sigan Atentos](https://open.spotify.com/album/0zLVv9rORmN7dGEqEql0rK) | 5:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 49 | [Quizás](https://open.spotify.com/track/37Ph4FT2ioHk2Ok5Qwckxn) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Quizás](https://open.spotify.com/album/2RnhBBUbdWbm5aGweKRzfv) | 2:52 |
 | 50 | [Tu No Eres Lo Que Quería](https://open.spotify.com/track/5dzDXov0yNDEPl1GYNpzrh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Subiendo De Nivel](https://open.spotify.com/album/0H58hvJ4R2WRJEKPG6lOmw) | 1:50 |
 
-Snapshot ID: `apDPgAAAAAC1AqFaI/bwsj5PEPEtz6oi`
+Snapshot ID: `apIhAAAAAAA7IuvVhtuhBbhgPNtQ1xT2`

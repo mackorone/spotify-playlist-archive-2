@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,718 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,727 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 26 | [VISTA \(feat\. gaeko, THAMA\)](https://open.spotify.com/track/7dBgD0N3hnFq8euHEryShz) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [VISTA](https://open.spotify.com/album/6jghSUiZlBVm7isqJfYqtG) | 3:59 |
 | 27 | [i \(Feat\. Jung Yup\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Jungyup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:55 |
 | 28 | [Bad](https://open.spotify.com/track/2T4rkceZUut5d5boEM1iEP) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [RYUHAIF](https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR) | [Net,Trap,Launcher,Capture](https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn) | 2:27 |
-| 29 | [WITHOUT ME](https://open.spotify.com/track/0w9YTapeo8WSqMnUFRM6fO) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [HESITATING](https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz) | 2:53 |
-| 30 | [Color \(Feat\. youra\)](https://open.spotify.com/track/1ruwBe8TgkNnlKUiwXTxWB) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 2:39 |
+| 29 | [Color \(Feat\. youra\)](https://open.spotify.com/track/1ruwBe8TgkNnlKUiwXTxWB) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 2:39 |
+| 30 | [WITHOUT ME](https://open.spotify.com/track/0w9YTapeo8WSqMnUFRM6fO) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [HESITATING](https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz) | 2:53 |
 | 31 | [Unknown guy](https://open.spotify.com/track/3L35k66dy48LZCty4rOqxM) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [16 Fantasy](https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR) | 3:07 |
 | 32 | [Used To Be](https://open.spotify.com/track/2lbL9ybEcabfosjaM7tYOr) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Used To Be](https://open.spotify.com/album/0fTJlZVOWY9h7hvK7KGH42) | 2:57 |
 | 33 | [When it rains \(Feat\. sogumm\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/5dhIalMumQFewgozEupkPi) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 4:32 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 46 | [INSTANT \(feat\. SUMIN\)](https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [INSTANT \(feat\. SUMIN\)](https://open.spotify.com/album/6L6muVWjU1eq1StwzmNkV0) | 2:58 |
 | 47 | [Girl in New York \(jazz\)](https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 4:00 |
 | 48 | [paris and tokyo](https://open.spotify.com/track/6SMtaDw5xVGTPVexnw2eLM) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:52 |
-| 49 | [Room Service](https://open.spotify.com/track/2T3ghpZrxmbrn9ukDmrc9W) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 2:35 |
-| 50 | [9PM in Gumi](https://open.spotify.com/track/4zy4zBQwaBU00IceOEPig2) | [Yung Blesh](https://open.spotify.com/artist/4brsMLGzcBIcMFiow8fRfZ) | [Am I Trippin'?](https://open.spotify.com/album/0U8JxnnjXex1ZYi2MK2adm) | 2:55 |
+| 49 | [9PM in Gumi](https://open.spotify.com/track/4zy4zBQwaBU00IceOEPig2) | [Yung Blesh](https://open.spotify.com/artist/4brsMLGzcBIcMFiow8fRfZ) | [Am I Trippin'?](https://open.spotify.com/album/0U8JxnnjXex1ZYi2MK2adm) | 2:55 |
+| 50 | [Room Service](https://open.spotify.com/track/2T3ghpZrxmbrn9ukDmrc9W) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 2:35 |
 
 Snapshot ID: `AAAAAC2nf22CITOa6KxlrmTTZWbw5rPe`

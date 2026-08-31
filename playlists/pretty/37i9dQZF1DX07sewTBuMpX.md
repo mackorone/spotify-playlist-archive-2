@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07sewTBuMpX.md) - [plain]
 
 > Qlas kiest 25 zomer tunes! <a href="spotify:presents:jouwzomerid">Doe de quiz: welke zomer ID ben jij?</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,736 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,730 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07sewTBuMpX.md) - [plain]
 | 54 | [Amazin' \- Remix](https://open.spotify.com/track/00XmWMEZ4ms7Xxk6ZoH4Lo) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Amazin’ \(Remix\)](https://open.spotify.com/album/7CJPdQcYGjdOqor42uir6h) | 2:55 |
 | 55 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 |
 | 56 | [Criminal](https://open.spotify.com/track/1tEulLqSCX3Q9DOXxoRugI) | [Stevy](https://open.spotify.com/artist/5zjk9uB67qJbv36gEYPLB5), [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC), [¥ami](https://open.spotify.com/artist/2x55x6rUM7CSSslAjOgqUT), [Berra PK](https://open.spotify.com/artist/72PJTrRxOqJZxptd4OpR3B) | [Criminal](https://open.spotify.com/album/3xOLShtc9JC735vtyQRlyl) | 2:37 |
-| 57 | [Van Mij Zijn](https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Van Mij Zijn](https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe) | 2:46 |
+| 57 | [van mij zijn](https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [van mij zijn](https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe) | 2:46 |
 | 58 | [Liegen \(feat\. Josylvio\)](https://open.spotify.com/track/7juQ4knuokwCVxTXPwe4xs) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Liegen](https://open.spotify.com/album/05jiLZdLjpJtfwBXjVmYIH) | 2:31 |
 | 59 | [Love Me](https://open.spotify.com/track/1k9sNbjyxxB0uzB4Z3eXDl) | [Alex Euro](https://open.spotify.com/artist/1btts0oj1pH2inP7TKYiLL), [L CIANO](https://open.spotify.com/artist/3KDvUuEB5x3C5ER17sK0rd) | [Love Me](https://open.spotify.com/album/2iUCn646cvtZ0EHW1CFzFT) | 2:21 |
 | 60 | [Cough \(Odo\)](https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Cough \(Odo\)](https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq) | 2:56 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\.  Cover: Kelissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,095,471 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,095,411 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 22 | [Rotation](https://open.spotify.com/track/3trwITwxHvA1czm7s2OYc3) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Rotation](https://open.spotify.com/album/5P4uTvKPmT9QeETRf0Aj72) | 2:47 |
 | 23 | [A Thousand Times](https://open.spotify.com/track/05DVJrR6du2E1iU0p6izrC) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [A Thousand Times](https://open.spotify.com/album/1Ggg9w76ZhbqGlflz7PzR5) | 3:17 |
 | 24 | [Love And Mercy](https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT) | [Samory I](https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR) | [Love And Mercy](https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62) | 3:27 |
-| 25 | [Feel It](https://open.spotify.com/track/4zegbzhJVyZ8RBM86t6ZqI) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Feel It](https://open.spotify.com/album/5pAhTwf5anpAM4qQ8JZD4H) | 3:32 |
+| 25 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1) | 3:29 |
 | 26 | [In Our Sight](https://open.spotify.com/track/2Z6LKK4NITZealrsv6KROq) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [In Our Sight](https://open.spotify.com/album/1cAS2LMD5lfjq4jxhprxb6) | 3:56 |
 | 27 | [Family First](https://open.spotify.com/track/3JX80bRKJCT06iqnn8BoP5) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Exile](https://open.spotify.com/album/6lcQdo16OGEYYm5RuTUGmf) | 4:24 |
 | 28 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 |
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 38 | [Hustling In My Blood](https://open.spotify.com/track/4frqa3VmTDu8uPiflqdmoQ) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Damian "Jr Gong" Marley](https://open.spotify.com/artist/3QWR83BS6UYBWy8wWkm1nN), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Hustling In My Blood](https://open.spotify.com/album/2RBVosWbf5PCDS0b44NiaK) | 4:15 |
 | 39 | [Sativa](https://open.spotify.com/track/3fzVtpLMS24jWEVjkhGycj) | [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Sativa](https://open.spotify.com/album/2DBnGu5bloAoIDEVZm0F8n) | 2:50 |
 | 40 | [Til A Mawnin \(feat\. Sting\)](https://open.spotify.com/track/6A5NpmHIyU2WJ2nwgEhJrv) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Til A Mawnin \(feat\. Sting\)](https://open.spotify.com/album/3cl3ypsAyDFKiXzrVwhjIe) | 3:27 |
-| 41 | [Too Late to Lie](https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Too Late to Lie](https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj) | 3:39 |
+| 41 | [Dinero](https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Dinero](https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj) | 2:53 |
 | 42 | [My World](https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:18 |
 | 43 | [What Do You Say \(Move It Baby\) \- Damian “Jr\. Gong" Marley Remix](https://open.spotify.com/track/7jpublhStv0bwUo3ZdC0PS) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [What Do You Say \(Move It Baby\) \[Damian “Jr Gong" Marley Remix\]](https://open.spotify.com/album/1FdKhinPfReL7vJJB22DPI) | 4:15 |
 | 44 | [One Gift](https://open.spotify.com/track/3QlDKHTHvO7LHD6JUjgjms) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [One Gift](https://open.spotify.com/album/6L8qJyXZrmzunTMq03oHOo) | 3:00 |
 | 45 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 |
-| 46 | [Dinero](https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Dinero](https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj) | 2:53 |
+| 46 | [Too Late to Lie](https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Too Late to Lie](https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj) | 3:39 |
 | 47 | [Finally](https://open.spotify.com/track/3F31ufvgjdWikS04V3GVWq) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Finally](https://open.spotify.com/album/1ZH0Lk2KiayBhNIMlLl7Ks) | 3:09 |
 | 48 | [Light My Way](https://open.spotify.com/track/6lbN9JJcWYCq0KrpHXqQ9d) | [Royal Blu](https://open.spotify.com/artist/5GZOZpWXKPAMPZQrcrnyzx), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [The Autos](https://open.spotify.com/artist/0UJa2HnlrNe3QueQ7MWTR0) | [Light My Way](https://open.spotify.com/album/4ebYOwCdrhNktMPMv8zrcZ) | 3:19 |
 | 49 | [GOOD TIMES](https://open.spotify.com/track/6MPPyUGO9FfPDXRcIe5klh) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [GOOD TIMES](https://open.spotify.com/album/0fRkvDQXSaioBIy3kHeCR7) | 2:55 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 67 | [Never Had A Love](https://open.spotify.com/track/3P7C4hKT2zEcOg0bvGF5GO) | [Dre Island](https://open.spotify.com/artist/0TS9FVfPz9X4ijxno3KBi8) | [Love Is In The House](https://open.spotify.com/album/1ybrLjKrHe95IrKOztYFqV) | 3:29 |
 | 68 | [40 Days & 40 Nights \(Pt\. 2\)](https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 2:56 |
 | 69 | [Refund](https://open.spotify.com/track/6s872MNfACS2J05Q1MEIuq) | [Through The Roots](https://open.spotify.com/artist/3kXFPAfFzG0LrudmtGM6Yc), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Refund](https://open.spotify.com/album/1ypi1cqSZXVQvC0emvumqp) | 3:24 |
-| 70 | [Take Her Love](https://open.spotify.com/track/6Rbw6xdVOHZCdiforE08HE) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [HunnyMoon Mountain](https://open.spotify.com/album/2rVpyULucip4FgLYR2rw26) | 3:35 |
+| 70 | [Born A Rebel](https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Born A Rebel](https://open.spotify.com/album/62RIMe1gQ87UWX70jqYtsY) | 3:37 |
 
 Snapshot ID: `AAAAAJbmakVSfDJPTmIkYRV7r5NieSrC`

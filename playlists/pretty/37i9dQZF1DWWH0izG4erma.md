@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country music that rocks\. Cover: Chris Stapleton
 
-[Spotify](https://open.spotify.com/user/spotify) - 675,375 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 675,542 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 42 | [Heart On Fire](https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Heart](https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt) | 4:18 |
 | 43 | [Searchlight](https://open.spotify.com/track/20fm2tV8FUuonX96Db1bGo) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Searchlight](https://open.spotify.com/album/4O3TIz80IlOC5Ya0PbfUlJ) | 3:34 |
 | 44 | [I ain't Country](https://open.spotify.com/track/7HoqLd4ZXftkWF1TkQgSt2) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P), [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Heart On Ice](https://open.spotify.com/album/59AFllTisSU6QjmiBjIO82) | 2:40 |
-| 45 | [I HATE ME TOO](https://open.spotify.com/track/5rgZbwCHPZKP32NG0g66ar) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [I HATE ME TOO](https://open.spotify.com/album/7mhU3F2Qk5PryU0KHv9lqy) | 3:05 |
-| 46 | [WHYBMWL](https://open.spotify.com/track/7E3BoCMKxdeW7ZqxnL0zs1) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:13 |
+| 45 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 |
+| 46 | [I HATE ME TOO](https://open.spotify.com/track/5rgZbwCHPZKP32NG0g66ar) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [I HATE ME TOO](https://open.spotify.com/album/7mhU3F2Qk5PryU0KHv9lqy) | 3:05 |
 | 47 | [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X) | 3:53 |
-| 48 | [Something's Gonna Kill Me](https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me](https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It) | 3:03 |
-| 49 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 |
-| 50 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 |
+| 48 | [WHYBMWL](https://open.spotify.com/track/7E3BoCMKxdeW7ZqxnL0zs1) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:13 |
+| 49 | [Something's Gonna Kill Me](https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me](https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It) | 3:03 |
+| 50 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 |
 | 51 | [Don't Come Lookin'](https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Jackson Dean](https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp) | 3:07 |
 | 52 | [Cowboys Did Cocaine](https://open.spotify.com/track/5O4tIsYwXRPhGIbZhj71UE) | [Riley Thomas](https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB) | [Cowboys Did Cocaine](https://open.spotify.com/album/33nXOb10RUIl1gqVQgRaj6) | 3:52 |
 | 53 | [Heavy Metal](https://open.spotify.com/track/1U88VM6HzsPBZbXPT1aAR5) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Heavy Metal](https://open.spotify.com/album/33bWo4vFIyoC62phzfjEKy) | 2:34 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 68 | [White Trash](https://open.spotify.com/track/1O6LYaqNV8ZFV8EPs5xWoJ) | [Colin Stough](https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds) | [White Trash](https://open.spotify.com/album/7J6zBIqt8ongSdhixNuYBw) | 3:45 |
 | 69 | [Excuse the Mess](https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Excuse the Mess](https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ) | 2:51 |
 | 70 | [9 Lives \(Black Cat\)](https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives \(Black Cat\)](https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42) | 3:24 |
-| 71 | [Moonshines](https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County](https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp) | 3:44 |
+| 71 | [Tabasco & Sweet Tea](https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Tabasco & Sweet Tea](https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA) | 4:40 |
 | 72 | [Had It For A While](https://open.spotify.com/track/2iRIwezcfYxCyl2SqMt9RN) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Had It For A While](https://open.spotify.com/album/6nxaqnlVueBm7rOF6S6B8e) | 2:31 |
-| 73 | [Tabasco & Sweet Tea](https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Tabasco & Sweet Tea](https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA) | 4:40 |
+| 73 | [Moonshines](https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County](https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp) | 3:44 |
 | 74 | [SPINNIN' YOU AROUND](https://open.spotify.com/track/3Kc9IdvNTmjH1fO0MFzwAD) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [AMERICAN MOTOR SPORTS](https://open.spotify.com/album/1HrM3lPorHLHWPApviVRRz) | 2:44 |
 | 75 | [With or Without Me](https://open.spotify.com/track/5FweRtm4C4IxNDFP2aHdXy) | [Gannon Fremin & CCREV](https://open.spotify.com/artist/0P3JEHMidLKLqAHuFd7Qf8) | [With or Without Me](https://open.spotify.com/album/1tUWUYVM1TertVwChOCW7D) | 3:42 |
 | 76 | [Made It This Far](https://open.spotify.com/track/59CfGhdkuJ9ufOcu43Alh7) | [Chase McDaniel](https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz) | [Made It This Far](https://open.spotify.com/album/4YWnZxfLD36E9tFhAfBqzx) | 2:44 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 93 | [Dirt Road When I Die](https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dirt Road When I Die \- EP](https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM) | 2:54 |
 | 94 | [I Met This Girl](https://open.spotify.com/track/2Nj0zxGrFoyK7s3KCf2uFl) | [Logan Michael](https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y) | [I Met This Girl](https://open.spotify.com/album/5MmRIWd7OT3U15cRdfyPbz) | 3:19 |
 | 95 | [Hate My Heart](https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 |
-| 96 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 |
-| 97 | [I Need You \(feat\. Ashley Monroe\)](https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [All of Your Stones](https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy) | 7:09 |
+| 96 | [I Need You \(feat\. Ashley Monroe\)](https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [All of Your Stones](https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy) | 7:09 |
+| 97 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 |
 | 98 | [She's No Good for Me](https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [She's No Good for Me](https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu) | 3:25 |
-| 99 | [smoke & a light](https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [three twenty four](https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc) | 3:09 |
-| 100 | [Back in the Bottle](https://open.spotify.com/track/2wcCdp73IiOnFlQxPnmIMF) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [From Me](https://open.spotify.com/album/4xLZVz9xvzTqlfj3oFXgsZ) | 2:50 |
+| 99 | [Back in the Bottle](https://open.spotify.com/track/2wcCdp73IiOnFlQxPnmIMF) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [From Me](https://open.spotify.com/album/4xLZVz9xvzTqlfj3oFXgsZ) | 2:50 |
+| 100 | [smoke & a light](https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [three twenty four](https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc) | 3:09 |
 
 Snapshot ID: `AAAAAGjBWZh7nq0baEDAr+e38cyuNut+`

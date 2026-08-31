@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Anne Wilson
 
-1,522 songs - 3 day 21 hr 19 min
+1,523 songs - 3 day 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,7 +354,7 @@
 | [First Things First](https://open.spotify.com/track/4E4JkkNvwl2EzZWIm0VJig) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/06eEaL5af1KAXPZY8pinIj) | 4:11 | 2022-10-29 | 2024-04-19 |
 | [First Things First](https://open.spotify.com/track/5uqOxamVliO1VCpoOLKDFV) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/0xzWZ4k69mRjyEj2pKn8SP) | 4:11 | 2022-10-29 | 2023-04-07 |
 | [First Time On Earth](https://open.spotify.com/track/3z87a8YWdfBTWwrspCN4g8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 2:41 | 2025-08-04 | 2025-09-15 |
-| [Flowers Bloom](https://open.spotify.com/track/52dmuYOLMnyNgSb4DWpJs0) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [Flowers Bloom](https://open.spotify.com/album/3T97WMlNm4YOj0ma0suCof) | 3:24 | 2026-08-21 |  |
+| [Flowers Bloom](https://open.spotify.com/track/52dmuYOLMnyNgSb4DWpJs0) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [Flowers Bloom](https://open.spotify.com/album/3T97WMlNm4YOj0ma0suCof) | 3:24 | 2026-08-21 | 2026-08-31 |
 | [Fly](https://open.spotify.com/track/28B2lbmD659ublfMbkKeHe) | [Meyta](https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc) | [Fly](https://open.spotify.com/album/23ScdFd17RIvDDsjaS7rej) | 2:10 | 2025-09-14 | 2025-11-16 |
 | [Fly](https://open.spotify.com/track/5lzec28JNA1x8Rjnz3zr1a) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Fly](https://open.spotify.com/album/55bAheFPgMQHbMR8WNs97r) | 3:04 | 2026-02-07 | 2026-03-22 |
 | [Fly Away](https://open.spotify.com/track/2UqdshYSXOarPWkOyo7x2S) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [The Villain](https://open.spotify.com/album/6zoeMcphndW35UHwxgBILr) | 2:48 | 2025-11-15 | 2026-02-08 |
@@ -729,6 +729,7 @@
 | [Just The Cross](https://open.spotify.com/track/1tKqhzuLzYgmdwGDAbuTJI) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Love Letters From An Empty Tomb](https://open.spotify.com/album/1N8BcblNLY3GiYcmj0gQRw) | 4:57 | 2022-05-27 | 2022-10-30 |
 | [Just Watch](https://open.spotify.com/track/6AENZlyGRmIY9GdXeHKRuX) | [WildTribe](https://open.spotify.com/artist/4tVUFyIMhjYGgHvB2PBrli), [Beacon Light](https://open.spotify.com/artist/2qAgO1fmg936BPG08NvxPk), [Tina Parol](https://open.spotify.com/artist/4Zds9MBMtEgBdze6Jzvmrb) | [Just Watch](https://open.spotify.com/album/4YK7MjKjgrrdGoEOtwAviI) | 2:41 | 2025-04-04 | 2025-05-18 |
 | [Keep Holding On](https://open.spotify.com/track/18LAMqd3ViKlFfD4KfpwMS) | [Jeremy Rosado](https://open.spotify.com/artist/57H6K2mTvFS2TESVHCoDKY) | [Keep Holding On](https://open.spotify.com/album/5RRdPaijeJtKuOyhhnHTOP) | 3:21 | 2025-06-21 | 2025-07-20 |
+| [Keep Me Close \- Live](https://open.spotify.com/track/3FjWPOd2Sd6gtnUKLBn6x2) | [Century Worship](https://open.spotify.com/artist/5sWkuThhqRdUFwy7faCWoH) | [Keep Me Close \(Live\)](https://open.spotify.com/album/7e1n8b7MTrwI5PEWmBvLm6) | 4:53 | 2026-08-21 |  |
 | [Keep On](https://open.spotify.com/track/0v5XspMqeBP4KsEiTvwD7W) | [One Common](https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9) | [Keep On](https://open.spotify.com/album/5vl2MeoHM1Ei6aUsBtxbPQ) | 3:13 | 2025-10-06 | 2025-11-16 |
 | [Keep On Keepin' On](https://open.spotify.com/track/4UZeGVD73nEFEJUBdT0PS1) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [Keep On Keepin' On](https://open.spotify.com/album/2EDTFqQ0A6vxjcwikETQmp) | 2:53 | 2024-10-11 | 2024-11-30 |
 | [Keep Praying](https://open.spotify.com/track/08yrcOTDwR6BhEiTPQ79p1) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h), [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [Keep Praying](https://open.spotify.com/album/6sTqdd1xZS8BNzOeLlODZD) | 4:10 | 2026-08-07 |  |

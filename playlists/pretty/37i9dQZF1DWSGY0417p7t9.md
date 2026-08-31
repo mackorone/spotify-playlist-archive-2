@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGY0417p7t9.md) - [plain]
 
 > Remembering Dolly Parton 🦋
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,760 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,277 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

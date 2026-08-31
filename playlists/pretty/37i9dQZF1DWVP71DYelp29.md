@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 
 > The hits you know like you’ve never heard before\. Cover: Alessia Cara
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,871 likes - 125 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,870 likes - 125 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 78 | [Never Be The Same \- Recorded At Revolution Studios, Toronto](https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Spotify Singles](https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE) | 4:28 |
 | 79 | [Happier \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Spotify Singles](https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz) | 3:45 |
 | 80 | [Hey Ya! \- Live Session from Spotify Studios NYC](https://open.spotify.com/track/22qQjtiv3Xy1P8WvpA6HgR) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Spotify Singles](https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh) | 3:04 |
-| 81 | [So Good \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0qPpxUVTaEGbGsMCugG4JQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Spotify Singles](https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC) | 2:41 |
-| 82 | [Tequila \- Live Session at Sound Stage Studios, Nashville, TN](https://open.spotify.com/track/3yj6urYIInWjuE9YzUOKFT) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Spotify Singles](https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi) | 2:54 |
+| 81 | [Tequila \- Live Session at Sound Stage Studios, Nashville, TN](https://open.spotify.com/track/3yj6urYIInWjuE9YzUOKFT) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Spotify Singles](https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi) | 2:54 |
+| 82 | [So Good \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0qPpxUVTaEGbGsMCugG4JQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Spotify Singles](https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC) | 2:41 |
 | 83 | [Billie Jean \- Spotify Singles](https://open.spotify.com/track/32vQdI6FztUhEAkHW4Alul) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [Spotify Singles](https://open.spotify.com/album/7Dl3AcJZRTySXqXXUUY9eQ) | 4:08 |
 | 84 | [Redbone \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4gWnIoKUqnaWuzvGumd2rp) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx) | [Spotify Singles](https://open.spotify.com/album/2r2XwYuiTPWL72f2ufD1ic) | 3:22 |
 | 85 | [Versace On the Floor \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:27 |

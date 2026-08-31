@@ -1,12 +1,12 @@
 {
   "description": "This is D'Angelo. The essential tracks, all in one playlist.",
-  "num_followers": 78820,
+  "num_followers": 78822,
   "original_name": "This Is D'Angelo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAACPpik1Vhx/gAMqEUBVz+fv",
+  "snapshot_id": "apIhAAAAAAAzFjF5IQqyUizCvnHvWLKN",
   "tracks": [
     {
       "added_at": null,
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 356493,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
+      "duration_ms": 430800,
+      "name": "Untitled (How Does It Feel)",
+      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
     },
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 430800,
-      "name": "Untitled (How Does It Feel)",
-      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
+      "duration_ms": 356493,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
     },
     {
       "added_at": null,
@@ -267,78 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Instant Vintage",
-        "url": "https://open.spotify.com/album/2Dfk3iSj303wZD28aXq5ov"
-      },
-      "artists": [
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        },
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 228973,
-      "name": "Be Here",
-      "url": "https://open.spotify.com/track/7x6ev0H9OAmvuDnyuItBZS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 286800,
-      "name": "Me And Those Dreamin' Eyes Of Mine",
-      "url": "https://open.spotify.com/track/5MjUkhqCpr5uZ39xZmLZxe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tical 2000: Judgement Day",
-        "url": "https://open.spotify.com/album/5EGi6pUMlx1UfSCrfYUisa"
-      },
-      "artists": [
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 233933,
-      "name": "Break Ups 2 Make Ups",
-      "url": "https://open.spotify.com/track/5jlVndwOZVzbAfGVHtetDX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 316306,
-      "name": "The Line",
-      "url": "https://open.spotify.com/track/3RE93xPC29qZqbubAUeXTt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DILLAGENCE II",
         "url": "https://open.spotify.com/album/2FO2Y8abEsCT10uLce2Thh"
       },
@@ -359,6 +287,78 @@
       "duration_ms": 261426,
       "name": "This Woman (feat. D'Angelo)",
       "url": "https://open.spotify.com/track/4gsr3Sbeh7q9zYrEvtWIdV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 286800,
+      "name": "Me And Those Dreamin' Eyes Of Mine",
+      "url": "https://open.spotify.com/track/5MjUkhqCpr5uZ39xZmLZxe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Instant Vintage",
+        "url": "https://open.spotify.com/album/2Dfk3iSj303wZD28aXq5ov"
+      },
+      "artists": [
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 228973,
+      "name": "Be Here",
+      "url": "https://open.spotify.com/track/7x6ev0H9OAmvuDnyuItBZS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 316306,
+      "name": "The Line",
+      "url": "https://open.spotify.com/track/3RE93xPC29qZqbubAUeXTt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tical 2000: Judgement Day",
+        "url": "https://open.spotify.com/album/5EGi6pUMlx1UfSCrfYUisa"
+      },
+      "artists": [
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 233933,
+      "name": "Break Ups 2 Make Ups",
+      "url": "https://open.spotify.com/track/5jlVndwOZVzbAfGVHtetDX"
     },
     {
       "added_at": null,

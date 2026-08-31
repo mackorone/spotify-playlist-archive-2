@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-769 songs - 1 day 13 hr 26 min
+770 songs - 1 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Em Cima de Outro \- Ao Vivo](https://open.spotify.com/track/0oPpGWb6DG9eDeJzfqt9MU) | [Valéria Barros](https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv), [Fátima Leão](https://open.spotify.com/artist/2d7EIdqRpKN43NEeyDzN83) | [Emendando Cachaça, Vol.01 \(Ao Vivo\)](https://open.spotify.com/album/4OVaYGDSwhdYAHjcQjwfIl) | 2:56 | 2024-03-26 | 2025-11-14 |
 | [Em Cima de Outro \- Ao Vivo](https://open.spotify.com/track/596lNTM8DZd9EEtaPaxVc5) | [Valéria Barros](https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv), [Fátima Leão](https://open.spotify.com/artist/62op1jtqjL6pDEEsFzz2R8) | [Emendando Cachaça, Vol.01 \(Ao Vivo\)](https://open.spotify.com/album/0fZEVLX3kqf2fQKz5vO0I5) | 2:56 | 2025-11-13 |  |
 | [Emocionou \- Ao Vivo](https://open.spotify.com/track/0yaIh1QAlIb9Ie4XYGWqdQ) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Evolution \(Ao Vivo\)](https://open.spotify.com/album/7i4gFjRrXE5WTKBhJhAapB) | 2:12 | 2023-12-30 |  |
+| [Empatado](https://open.spotify.com/track/2R2VmRrz86KaWp8bfXFXVQ) | [João Barreto Oficial](https://open.spotify.com/artist/7bTjPVV03uXGSwNaumEmtY) | [Arrochando no São João](https://open.spotify.com/album/21yJnJ6IuFwiDLSD10CiAX) | 2:27 | 2026-08-30 |  |
 | [Encarcerado](https://open.spotify.com/track/3Z1v2vb4QQCQTloMzuIpf3) | [Laluna e Vinícius](https://open.spotify.com/artist/2FC4Om8SSHWcOzab7jTYGf) | [O Que Rola Com Você](https://open.spotify.com/album/1KTxeiiTjqZCPZKDM7LRsm) | 3:13 | 2023-12-30 |  |
 | [Encerra a Conta \- Ao Vivo](https://open.spotify.com/track/3CIJ5IqA59nD5NTp5ZFR1Q) | [Mateus Ferraz e Thiago](https://open.spotify.com/artist/3LuxckbxBRl9PvTTz6oxp5) | [Na Raça \(Ao Vivo\)](https://open.spotify.com/album/6wjbRR7sb5KEkL0ojhiNBv) | 2:45 | 2025-05-31 |  |
 | [Enganado do Mês \- Ao Vivo](https://open.spotify.com/track/360Ik8fTGyFWZ9tL4hraJd) | [Lucas Seabra](https://open.spotify.com/artist/0aY2Z3Y957gARk8soaDNCA) | [Ao Vivo em Goiânia, Ep\. 01](https://open.spotify.com/album/6xliUxKRpUFsLiELD2fxNe) | 2:51 | 2024-03-26 | 2025-06-28 |

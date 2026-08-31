@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 42229,
+  "num_followers": 42227,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABQuZi2mHSXGh0fDn8wlDLO",
+  "snapshot_id": "apIhAAAAAACq9XmrzU6n0Sv834tZWvxR",
   "tracks": [
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00c3O VAMOS DESISTIR",
-        "url": "https://open.spotify.com/album/7yzYfAyAZO6EAtqWbeAaEc"
-      },
-      "artists": [
-        {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 245920,
-      "name": "N\u00c3O VAMOS DESISTIR",
-      "url": "https://open.spotify.com/track/6OB5NImXWEIv7qKubYy2qZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gord\u00e3o Chefe",
         "url": "https://open.spotify.com/album/3zlu8V6JkmUBvPn1fZ1b7Y"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 331775,
       "name": "Sinto Muito Baby",
       "url": "https://open.spotify.com/track/7IZvPErl548WXwqHABeNuS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00c3O VAMOS DESISTIR",
+        "url": "https://open.spotify.com/album/7yzYfAyAZO6EAtqWbeAaEc"
+      },
+      "artists": [
+        {
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 245920,
+      "name": "N\u00c3O VAMOS DESISTIR",
+      "url": "https://open.spotify.com/track/6OB5NImXWEIv7qKubYy2qZ"
     },
     {
       "added_at": null,

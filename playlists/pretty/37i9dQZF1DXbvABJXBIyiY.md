@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 
 > Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,364 likes - 60 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,344 likes - 60 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 25 | [Throwing Good After Bad](https://open.spotify.com/track/2FYOven3y63Jxubz8E7jl6) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 4:07 |
 | 26 | [Used](https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [The Widow Knows E.P.](https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe) | 4:12 |
 | 27 | [zombie girl](https://open.spotify.com/track/5ZD6USvzWXbGxZ9pv6a9b9) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2WKfCjW3EDmgHswj5eVXuG) | 2:44 |
-| 28 | [Mending Song](https://open.spotify.com/track/0YxQPmvo2NupJHW8QHEDNL) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Mending Song](https://open.spotify.com/album/0cETfActVxeesqjmLW1Wwn) | 3:49 |
-| 29 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 |
+| 28 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 |
+| 29 | [Mending Song](https://open.spotify.com/track/0YxQPmvo2NupJHW8QHEDNL) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Mending Song](https://open.spotify.com/album/0cETfActVxeesqjmLW1Wwn) | 3:49 |
 | 30 | [Stayed Up Late \- Sunrise Version](https://open.spotify.com/track/7utiiIHn9CNo9vVVBH0lss) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [Stayed Up Late \(Sunrise Version\)](https://open.spotify.com/album/1aixYOsjkfhVEIHUIbK2Zk) | 3:26 |
 | 31 | [Melatonin \(Unplugged\)](https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Melatonin \(Unplugged\)](https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy) | 5:25 |
 | 32 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 54 | [Holocene](https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn) | 5:36 |
 | 55 | [I Need My Girl](https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze) | 4:05 |
 | 56 | [Lovers Who Make Love \- Live at the Mac](https://open.spotify.com/track/36VE1ZN6UFtVpAH1HJELA6) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Live at the Mac](https://open.spotify.com/album/7IfKkyytqHkjdH2uRTXEIX) | 3:43 |
-| 57 | [Helena](https://open.spotify.com/track/5m6VfXYeZVBj5JDeaOlQMX) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Helena](https://open.spotify.com/album/4Vs0Yj81FkAjjTXtBTVEqC) | 2:47 |
-| 58 | [Forest Fires](https://open.spotify.com/track/6AQ3guMjWgetjRpQASwrE5) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Forest Fires](https://open.spotify.com/album/7b6DOCQLb3ZK2Z8hnC2e3j) | 3:30 |
+| 57 | [Forest Fires](https://open.spotify.com/track/6AQ3guMjWgetjRpQASwrE5) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Forest Fires](https://open.spotify.com/album/7b6DOCQLb3ZK2Z8hnC2e3j) | 3:30 |
+| 58 | [Helena](https://open.spotify.com/track/5m6VfXYeZVBj5JDeaOlQMX) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Helena](https://open.spotify.com/album/4Vs0Yj81FkAjjTXtBTVEqC) | 2:47 |
 | 59 | [Whiskey Whiskey](https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 2:51 |
 | 60 | [Smother](https://open.spotify.com/track/3MH3oRNyFb5mNm663xcK7T) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/6E76aabodIl5DW5BTEZPHG) | 4:01 |
 

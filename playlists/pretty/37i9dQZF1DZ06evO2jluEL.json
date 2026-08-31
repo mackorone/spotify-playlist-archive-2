@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABerrJibDwG9h8B9RkOd2E5",
+  "snapshot_id": "apIhAAAAAADLKPl0cWgyGD4p1HT7ec7x",
   "tracks": [
     {
       "added_at": null,
@@ -119,22 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Novo Come\u00e7o",
-        "url": "https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 337982,
-      "name": "Um Novo Come\u00e7o",
-      "url": "https://open.spotify.com/track/13Ri2VG1uV1l2zuoT8UybK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus \u00c9 Bom Demais",
         "url": "https://open.spotify.com/album/6MogrOg46kXWjllw4gEbJN"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 332788,
       "name": "Sopra Esp\u00edrito",
       "url": "https://open.spotify.com/track/5922FUTIiDyxgRZoJ9Chlp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um Novo Come\u00e7o",
+        "url": "https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 337982,
+      "name": "Um Novo Come\u00e7o",
+      "url": "https://open.spotify.com/track/13Ri2VG1uV1l2zuoT8UybK"
     },
     {
       "added_at": null,
@@ -355,26 +355,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sopra Esp\u00edrito (Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo)",
-        "url": "https://open.spotify.com/album/4xEhmC9MdsDeExOCIBTPVo"
+        "name": "Deus \u00c9 Bom Demais",
+        "url": "https://open.spotify.com/album/6MogrOg46kXWjllw4gEbJN"
       },
       "artists": [
-        {
-          "name": "Marcos Freire",
-          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
         {
           "name": "Ludmila Ferber",
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 326550,
-      "name": "Sopra Esp\u00edrito - Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo",
-      "url": "https://open.spotify.com/track/3xllqibWTuiSHhuzw2YkVK"
+      "duration_ms": 295775,
+      "name": "Can\u00e7\u00e3o do Amigo",
+      "url": "https://open.spotify.com/track/5aNjPj9qZolYYGFE7dEoSB"
     },
     {
       "added_at": null,
@@ -451,18 +443,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus \u00c9 Bom Demais",
-        "url": "https://open.spotify.com/album/6MogrOg46kXWjllw4gEbJN"
+        "name": "Sopra Esp\u00edrito (Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo)",
+        "url": "https://open.spotify.com/album/4xEhmC9MdsDeExOCIBTPVo"
       },
       "artists": [
+        {
+          "name": "Marcos Freire",
+          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
         {
           "name": "Ludmila Ferber",
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 295775,
-      "name": "Can\u00e7\u00e3o do Amigo",
-      "url": "https://open.spotify.com/track/5aNjPj9qZolYYGFE7dEoSB"
+      "duration_ms": 326550,
+      "name": "Sopra Esp\u00edrito - Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo",
+      "url": "https://open.spotify.com/track/3xllqibWTuiSHhuzw2YkVK"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Orar e Adorar 5: Ainda \u00e9 Tempo",
+        "url": "https://open.spotify.com/album/5gCeUSSomeJc13BwTVnHo2"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 375800,
+      "name": "O Consolo para o Incosol\u00e1vel",
+      "url": "https://open.spotify.com/track/5knIY1MSvFnpxKZbARx48T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ou\u00e7o Deus Me Chamar",
         "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 298000,
       "name": "Ou\u00e7o Deus Me Chamar",
       "url": "https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Orar e Adorar 5: Ainda \u00e9 Tempo",
-        "url": "https://open.spotify.com/album/5gCeUSSomeJc13BwTVnHo2"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 375800,
-      "name": "O Consolo para o Incosol\u00e1vel",
-      "url": "https://open.spotify.com/track/5knIY1MSvFnpxKZbARx48T"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 3: Tempo de Cura (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5hEw5M9FVnklQdrAZYFGlY"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 391760,
-      "name": "A Decis\u00e3o",
-      "url": "https://open.spotify.com/track/1EKklTvcb9oxWPGPnu2pFg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cantarei para Sempre",
         "url": "https://open.spotify.com/album/2yjDBwFmlFg7QvkGq9qfj9"
       },
@@ -619,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Poder de Alian\u00e7a",
-        "url": "https://open.spotify.com/album/6WG7aBnfX67Vjr4bx14QAS"
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 3: Tempo de Cura (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5hEw5M9FVnklQdrAZYFGlY"
       },
       "artists": [
         {
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 296613,
-      "name": "Deus Conhece",
-      "url": "https://open.spotify.com/track/3r6OuMyo56lwoRoK59zPLP"
+      "duration_ms": 391760,
+      "name": "A Decis\u00e3o",
+      "url": "https://open.spotify.com/track/1EKklTvcb9oxWPGPnu2pFg"
     },
     {
       "added_at": null,
@@ -651,6 +635,22 @@
       "duration_ms": 203235,
       "name": "Imenso Amor",
       "url": "https://open.spotify.com/track/6Fe1vCxKNy15hK4LWBl86n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Poder de Alian\u00e7a",
+        "url": "https://open.spotify.com/album/6WG7aBnfX67Vjr4bx14QAS"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 296613,
+      "name": "Deus Conhece",
+      "url": "https://open.spotify.com/track/3r6OuMyo56lwoRoK59zPLP"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adora\u00e7\u00e3o 5 - Quebrando as Maldi\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/2GNk5f7VzqFBea2pmEnOaR"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Koinonya de Louvor",
-          "url": "https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 200176,
-      "name": "Maior Amor",
-      "url": "https://open.spotify.com/track/3lfNmjigw0revdL0xkZlxu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Novo Come\u00e7o",
         "url": "https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC"
       },
@@ -747,18 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Orar e Adorar 4 - 24h por Dia",
-        "url": "https://open.spotify.com/album/6Lb5rw6PRIF5TQc9JW4klj"
+        "name": "Adora\u00e7\u00e3o 5 - Quebrando as Maldi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/2GNk5f7VzqFBea2pmEnOaR"
       },
       "artists": [
+        {
+          "name": "Minist\u00e9rio Koinonya de Louvor",
+          "url": "https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg"
+        },
         {
           "name": "Ludmila Ferber",
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 255840,
-      "name": "24 Horas por Dia",
-      "url": "https://open.spotify.com/track/0q2IaFuTugawJaDdSXYtGz"
+      "duration_ms": 200176,
+      "name": "Maior Amor",
+      "url": "https://open.spotify.com/track/3lfNmjigw0revdL0xkZlxu"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
       "duration_ms": 369853,
       "name": "Hoje Eu S\u00f3 Quero Te Adorar - Ao Vivo",
       "url": "https://open.spotify.com/track/6B3Kp4NeDUs5CHuzUNw7Nh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Orar e Adorar 4 - 24h por Dia",
+        "url": "https://open.spotify.com/album/6Lb5rw6PRIF5TQc9JW4klj"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 255840,
+      "name": "24 Horas por Dia",
+      "url": "https://open.spotify.com/track/0q2IaFuTugawJaDdSXYtGz"
     },
     {
       "added_at": null,

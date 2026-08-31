@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 
 > This is The Beach Boys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,335 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,344 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 45 | [Whistle In \- Remastered 2001](https://open.spotify.com/track/35zgxz18meGLAaQ7pdUlsU) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 1:07 |
 | 46 | [Getcha Back](https://open.spotify.com/track/0gRFT4DkEpiYuSc2KlebWF) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Very Best Of The Beach Boys: Sounds Of Summer](https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw) | 2:59 |
 | 47 | [Catch A Wave \- Stereo/Remastered 2001](https://open.spotify.com/track/6huvhTE5Z5gXnduG3G3nHh) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:10 |
-| 48 | [Ding Dang \- Remastered 2000](https://open.spotify.com/track/1YWy15CcdCrVugRJOZxuc7) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Love You \(Remastered\)](https://open.spotify.com/album/3ttmiqBiRWbbloqIwOfRZi) | 0:58 |
-| 49 | [Kokomo](https://open.spotify.com/track/3wgxpFGbgAighXR6eo56nW) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Beach Boys With The Royal Philharmonic Orchestra](https://open.spotify.com/album/11IshdNymucuMOL1GcleRX) | 3:50 |
+| 48 | [Kokomo](https://open.spotify.com/track/3wgxpFGbgAighXR6eo56nW) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Beach Boys With The Royal Philharmonic Orchestra](https://open.spotify.com/album/11IshdNymucuMOL1GcleRX) | 3:50 |
+| 49 | [Ding Dang \- Remastered 2000](https://open.spotify.com/track/1YWy15CcdCrVugRJOZxuc7) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Love You \(Remastered\)](https://open.spotify.com/album/3ttmiqBiRWbbloqIwOfRZi) | 0:58 |
 | 50 | ['Til I Die \- Remastered 2009](https://open.spotify.com/track/2Uup75DRkJ03P91XyITXGC) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 2:33 |
 
-Snapshot ID: `apDPgAAAAABlbS4pR2Q8c7uIso6I42mB`
+Snapshot ID: `apIhAAAAAADq5D5vuDtUiaY7NMT+/DDw`

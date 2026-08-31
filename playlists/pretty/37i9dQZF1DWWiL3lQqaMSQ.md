@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 
 > Congratulations to all the winners and nominees of the 41st <a href="https://www.thestellarawards.com/index.html">Stellar Awards!</a> Cover & Host: <a href="spotify:artist:4akybxRTGHJZ1DXjLhJ1qu">Kirk Franklin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,118 likes - 75 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,193 likes - 75 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

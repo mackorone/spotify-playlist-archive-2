@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Tyler Ballgame
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,896 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,898 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 35 | [Blue Ridge Run](https://open.spotify.com/track/5GZI4tMGES215gvXieul9v) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Blue Ridge Run](https://open.spotify.com/album/0QpJuq9cdEAVWWS4shEpkM) | 3:05 |
 | 36 | [Los Angeles](https://open.spotify.com/track/5TSj6ySt4WqDuljv61Q4D5) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:57 |
 | 37 | [Feeling](https://open.spotify.com/track/59S8JfBTZo1jZhwCgwzEYz) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Dog Eared](https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi) | 3:20 |
-| 38 | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0) | 4:53 |
-| 39 | [The Bend](https://open.spotify.com/track/4CwtjbfPWEA5YNVFBEAsV1) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [The Bend](https://open.spotify.com/album/5hoF6Qgg5SKKuKW4uknLk7) | 4:02 |
+| 38 | [The Bend](https://open.spotify.com/track/4CwtjbfPWEA5YNVFBEAsV1) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [The Bend](https://open.spotify.com/album/5hoF6Qgg5SKKuKW4uknLk7) | 4:02 |
+| 39 | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0) | 4:53 |
 | 40 | [Real Thing](https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Real Thing](https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv) | 3:25 |
 | 41 | [Black Lung](https://open.spotify.com/track/3JxPW85spOn1SncxuLbpIY) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Sunflowers and Leather](https://open.spotify.com/album/6QpICdjsPyFcuCkb1M2i59) | 3:30 |
 | 42 | [Where's My Love \- with Carla](https://open.spotify.com/track/50fvAL9S2IfvMWinKtSEBQ) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Where's My Love \(with Carla\)](https://open.spotify.com/album/4zC14Rw1n7omTz4JYAbNuu) | 4:03 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 50 | [Don't Let Me Go](https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Let Me Go](https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o) | 4:52 |
 | 51 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 |
 | 52 | [Wait Up \(feat\. I'm With Her\)](https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Hen's Teeth](https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN) | 3:45 |
-| 53 | [Never Notice](https://open.spotify.com/track/6BhMpYkmpy00MYwDCN9ZZh) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Never Notice](https://open.spotify.com/album/6oJBrLiT1DwzeDmGcpeIGE) | 3:58 |
+| 53 | [Mountain](https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 3:59 |
 | 54 | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U) | 4:07 |
-| 55 | [Mountain](https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 3:59 |
+| 55 | [Never Notice](https://open.spotify.com/track/6BhMpYkmpy00MYwDCN9ZZh) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Never Notice](https://open.spotify.com/album/6oJBrLiT1DwzeDmGcpeIGE) | 3:58 |
 | 56 | [Palomino \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Palomino \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7) | 3:10 |
 | 57 | [Anytime, Anyplace, Anyhow](https://open.spotify.com/track/4DhyEPT1syGLKMnKDo1vvh) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Anytime, Anyplace, Anyhow](https://open.spotify.com/album/7lKojfIpji0R4yxpxk6qbJ) | 3:47 |
 | 58 | [Mr\. Predictable](https://open.spotify.com/track/4fpf5WsrRHR38hMgqGbqhG) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Mr\. Predictable](https://open.spotify.com/album/22v4TOSJFegBKWAWg3BtKv) | 3:21 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 94 | [Bus Back To Richmond](https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Bus Back To Richmond / More Than Friends](https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce) | 2:54 |
 | 95 | [Somebody Nobody Gets Over](https://open.spotify.com/track/4mgHSgglAVlr7i7vPKJmSo) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Somebody Nobody Gets Over](https://open.spotify.com/album/49xvRotzBI9ef94BJ5WhHf) | 2:47 |
 | 96 | [World's Greatest Lover](https://open.spotify.com/track/72MaHk87Y002Si9fvC5bXt) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [World's Greatest Lover](https://open.spotify.com/album/0O0aqyZzpU9HSnxLkoZhkn) | 3:18 |
-| 97 | [I Talk About You](https://open.spotify.com/track/0SyTYyawIrIkBpdOH9B34c) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [I Talk About You](https://open.spotify.com/album/59VlISV9li61ECMjfCmQnv) | 3:30 |
-| 98 | [golden boy](https://open.spotify.com/track/03dP8ZaoX9ftHDDGJqDmeP) | [Sidney](https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8) | [golden boy](https://open.spotify.com/album/2Y8kR25oTu2nlNQWoOzbsW) | 3:14 |
+| 97 | [golden boy](https://open.spotify.com/track/03dP8ZaoX9ftHDDGJqDmeP) | [Sidney](https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8) | [golden boy](https://open.spotify.com/album/2Y8kR25oTu2nlNQWoOzbsW) | 3:14 |
+| 98 | [I Talk About You](https://open.spotify.com/track/0SyTYyawIrIkBpdOH9B34c) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [I Talk About You](https://open.spotify.com/album/59VlISV9li61ECMjfCmQnv) | 3:30 |
 | 99 | [Caught Up In the Past](https://open.spotify.com/track/2JXZ6ZQ9nDVKiyws0VYWoE) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Twilight Override](https://open.spotify.com/album/4nczkBnxvOZNewjhxws5q6) | 4:23 |
 | 100 | [Grieving](https://open.spotify.com/track/284nns1osTQ4MWtZuCidtd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Grieving](https://open.spotify.com/album/4SuTiRXMQeSQG6VhlPI3at) | 3:16 |
 

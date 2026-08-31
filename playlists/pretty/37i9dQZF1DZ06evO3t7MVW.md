@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,898 likes - 44 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,912 likes - 44 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 38 | [Fall into the Sun](https://open.spotify.com/track/0dpdFqEAwSh3KPcIiLxSMP) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:16 |
 | 39 | [Just Another Dream](https://open.spotify.com/track/2SELUL4Jt8KtvYdV7Rc1RR) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:39 |
 | 40 | [Give Thanks \(feat\. Stick Figure\)](https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r) | [Iya Terra](https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Sacred Sound](https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796) | 3:36 |
-| 41 | [Love Me Easy](https://open.spotify.com/track/11Y4VVU6MTBtuSO116rsfG) | [ANORA](https://open.spotify.com/artist/08qMY0OdGmQNEuSLmyzeyo), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [Love Me Easy](https://open.spotify.com/album/6gzFhQHXfMpwha4ZvNBngj) | 2:50 |
+| 41 | [Restless Soul](https://open.spotify.com/track/3ZQTIspaffl1Evf6ibKv0w) | [Stay High](https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Restless Soul](https://open.spotify.com/album/0HpQMkVaWdTuKLhp6WAsOZ) | 4:16 |
 | 42 | [Old Sunrise](https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 5:23 |
 | 43 | [Golden Hour](https://open.spotify.com/track/3K7g0NbCyMC2G1BpL4gVxX) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:26 |
-| 44 | [Restless Soul](https://open.spotify.com/track/3ZQTIspaffl1Evf6ibKv0w) | [Stay High](https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Restless Soul](https://open.spotify.com/album/0HpQMkVaWdTuKLhp6WAsOZ) | 4:16 |
+| 44 | [Love Me Easy](https://open.spotify.com/track/11Y4VVU6MTBtuSO116rsfG) | [ANORA](https://open.spotify.com/artist/08qMY0OdGmQNEuSLmyzeyo), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [Love Me Easy](https://open.spotify.com/album/6gzFhQHXfMpwha4ZvNBngj) | 2:50 |
 
-Snapshot ID: `apDPgAAAAABg8D5mHapSQx20GtahvYH4`
+Snapshot ID: `apIhAAAAAAD8rSqDEwly7rK7f4M26ByS`

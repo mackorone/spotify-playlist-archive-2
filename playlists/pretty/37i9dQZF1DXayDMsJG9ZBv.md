@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayDMsJG9ZBv.md) - [plain]
 
 > 世界中の最新ヒットと日本のトレンドをまとめてお届けします。Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,022 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,038 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

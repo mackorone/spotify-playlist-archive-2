@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,249 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,267 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

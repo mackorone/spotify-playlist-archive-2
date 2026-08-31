@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfwy0qpZrKJ.md) - [plain]
 
 > Yes, the Judas video is the most important music video of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,292 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,425 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

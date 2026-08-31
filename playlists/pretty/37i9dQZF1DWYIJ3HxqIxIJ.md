@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Local artists you need to watch, handpicked by our editors\. Cover: Cenobia
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,892 likes - 49 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,891 likes - 49 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

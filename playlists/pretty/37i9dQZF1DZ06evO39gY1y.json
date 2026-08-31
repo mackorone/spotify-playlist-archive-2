@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 260724,
+  "num_followers": 260752,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABMbOc/SE9ymc2GJuZDf9VR",
+  "snapshot_id": "apIhAAAAAABRFPTBQKjsmJiciNTe+PWC",
   "tracks": [
     {
       "added_at": null,
@@ -607,6 +607,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo No Me Quiero Morir",
+        "url": "https://open.spotify.com/album/4z1fFOEDva3J9sggX3kwK0"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "Yo No Me Quiero Morir",
+      "url": "https://open.spotify.com/track/5xXaJHNtyBghk2F6AnP2PI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Super Poderes",
         "url": "https://open.spotify.com/album/4DWhSOhqBQq24IwNqPIuRG"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 258421,
       "name": "Super Poderes",
       "url": "https://open.spotify.com/track/3nvZhn4wNgWsb089sc2Wag"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yo No Me Quiero Morir",
-        "url": "https://open.spotify.com/album/4z1fFOEDva3J9sggX3kwK0"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "Yo No Me Quiero Morir",
-      "url": "https://open.spotify.com/track/5xXaJHNtyBghk2F6AnP2PI"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gordo Fu",
-          "url": "https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "No Hay Palabras Bonitas",
-      "url": "https://open.spotify.com/track/3XGPIhoTG09ItjxNtdtEnE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sui G\u00e9neris",
         "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 279014,
       "name": "Hace Tanto Tiempo",
       "url": "https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gordo Fu",
+          "url": "https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "No Hay Palabras Bonitas",
+      "url": "https://open.spotify.com/track/3XGPIhoTG09ItjxNtdtEnE"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gordo Fu",
-          "url": "https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g"
-        }
-      ],
-      "duration_ms": 224733,
-      "name": "A Paso Lento",
-      "url": "https://open.spotify.com/track/5fUkzmm6HnPDDZKwnQcNUG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guapa!",
         "url": "https://open.spotify.com/album/3W8rsvzUTJBSFoyPDCvCZo"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 314181,
       "name": "Guapa!",
       "url": "https://open.spotify.com/track/5h15nCM30HBL6DKnfQwcFg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gordo Fu",
+          "url": "https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g"
+        }
+      ],
+      "duration_ms": 224733,
+      "name": "A Paso Lento",
+      "url": "https://open.spotify.com/track/5fUkzmm6HnPDDZKwnQcNUG"
     },
     {
       "added_at": null,
@@ -1003,26 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tiempo Cura",
-        "url": "https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Adan Golden Ganga",
-          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
-        }
-      ],
-      "duration_ms": 208564,
-      "name": "El Tiempo Cura",
-      "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 250000,
       "name": "Carita de \u00c1ngel",
       "url": "https://open.spotify.com/track/01hgvJRWaAVi9kAfKOa4TC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tiempo Cura",
+        "url": "https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Adan Golden Ganga",
+          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
+        }
+      ],
+      "duration_ms": 208564,
+      "name": "El Tiempo Cura",
+      "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
     },
     {
       "added_at": null,

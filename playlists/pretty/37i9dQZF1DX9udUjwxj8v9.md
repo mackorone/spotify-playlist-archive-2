@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,351 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,353 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 19 | [Eu também quero beijar](https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Geração Pop](https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU) | 4:04 |
 | 20 | [Deusa do amor \- Ao vivo](https://open.spotify.com/track/7c60MUlDMw6ZI1Ft4LxLBY) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [A Música do Olodum](https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm) | 3:07 |
 | 21 | [Meia Lua Inteira](https://open.spotify.com/track/3uHnCqpyvmVuEG6XgTdCeP) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Minha Historia](https://open.spotify.com/album/0wNCVCDvgvbf8O5oFe1GtR) | 3:42 |
-| 22 | [Beleza Rara \- Ao Vivo](https://open.spotify.com/track/05jQu16DV9TMkGAsNl6QiP) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Bloco do Silva \(Ao Vivo\)](https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI) | 3:35 |
-| 23 | [Nem Ouro Nem Prata](https://open.spotify.com/track/0fNUUevlqx2mplpNppk90K) | [Ruy Maurity](https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf) | [Nem Ouro Nem Prata](https://open.spotify.com/album/19qW0cuIXxOcyrrNaTROrQ) | 3:41 |
+| 22 | [Nem Ouro Nem Prata](https://open.spotify.com/track/0fNUUevlqx2mplpNppk90K) | [Ruy Maurity](https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf) | [Nem Ouro Nem Prata](https://open.spotify.com/album/19qW0cuIXxOcyrrNaTROrQ) | 3:41 |
+| 23 | [Beleza Rara \- Ao Vivo](https://open.spotify.com/track/05jQu16DV9TMkGAsNl6QiP) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Bloco do Silva \(Ao Vivo\)](https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI) | 3:35 |
 | 24 | [Alo Paixao](https://open.spotify.com/track/0TLMrzswR4kG8ApYQsnGMy) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Pra Abalar](https://open.spotify.com/album/40olpdt7taxMHjbkx0s8Qm) | 4:02 |
 | 25 | [Swing da Cor \- Ao Vivo](https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [20 Grandes Êxitos](https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R) | 3:35 |
 | 26 | [Clareiamô](https://open.spotify.com/track/7J7GYDRfsBsoORO4K4rx6z) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [Anavitória Canta Para Foliões De Bloco, Foliões De Avenida E Não Foliões Também](https://open.spotify.com/album/2DzY5n5rryVpWVsGbpaavi) | 3:46 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 47 | [Nobre Vagabundo](https://open.spotify.com/track/2LUSX1OqewkHC3oCdxSZAF) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [20 Grandes Êxitos](https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R) | 3:53 |
 | 48 | [Estação da Luz](https://open.spotify.com/track/20jqOQnJnF89ju9DMfQ2Kk) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [Estação da Luz](https://open.spotify.com/album/0Jsqnl2N8Ixy1hEh5p0YbO) | 3:22 |
 | 49 | [Maria Bethânia, a Menina Dos Olhos de Oyá \(Samba Enredo 2016\)](https://open.spotify.com/track/2ruyKkGZ1gfRccpDpwwaF4) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Mangueira \- a Menina Dos Meus Olhos](https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC) | 1:03 |
-| 50 | [De Graça \- Remix](https://open.spotify.com/track/5L0E4QYwuYAZtD2vHQoXU0) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Baile Tropical](https://open.spotify.com/artist/1xF7SuO9EW4mBUM4mZLgmk) | [De Graça \(Remix\)](https://open.spotify.com/album/6kER6F54CxC6tgFKRuzQrU) | 5:42 |
+| 50 | [Caio No Suingue](https://open.spotify.com/track/0TdGBoZxgV22792QMKp3Ud) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn), [Pedro Luis E A Parede](https://open.spotify.com/artist/0gr5W0V12A1QsoG9lRdfQT) | [Vagabundo Ao Vivo](https://open.spotify.com/album/3n95npT8f24QSsH7KL4KVU) | 4:49 |
 
 Snapshot ID: `AAAAALo65T4q/fro1BE/9l2i3duZh/UG`

@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Juliana Gattas",
-  "num_followers": 77605,
+  "num_followers": 77635,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -727,26 +727,6 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "166 (DELUXE) retirada",
-        "url": "https://open.spotify.com/album/2nDhATJ9VM5VucmhlSdPpm"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 180477,
-      "name": "LO QUE ME CAUSA",
-      "url": "https://open.spotify.com/track/4QnyTa6dJV0p8FPMEbP3r7"
-    },
-    {
-      "added_at": "2026-07-31 03:00:07",
-      "album": {
         "name": "MEJOR QUE VOS",
         "url": "https://open.spotify.com/album/5fvyO2WV94GZhB7NfTLNW2"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 166794,
       "name": "MEJOR QUE VOS",
       "url": "https://open.spotify.com/track/2flrBZ6lxgk68ghaWBAfnt"
+    },
+    {
+      "added_at": "2026-07-31 03:00:07",
+      "album": {
+        "name": "166 (DELUXE) retirada",
+        "url": "https://open.spotify.com/album/2nDhATJ9VM5VucmhlSdPpm"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 180477,
+      "name": "LO QUE ME CAUSA",
+      "url": "https://open.spotify.com/track/4QnyTa6dJV0p8FPMEbP3r7"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
+        "name": "Un T\u00e9 De Tilo Por Favor",
+        "url": "https://open.spotify.com/album/4qYkS2ENsUzeIc2DpUJVjT"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 184080,
+      "name": "Algo Tiene",
+      "url": "https://open.spotify.com/track/40n1j3nwbuF44QZOiKDsQ3"
+    },
+    {
+      "added_at": "2026-07-31 03:00:07",
+      "album": {
         "name": "Besos en pausa",
         "url": "https://open.spotify.com/album/3UqRuYJbJawDB4d01FBybG"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 157578,
       "name": "Besos en pausa",
       "url": "https://open.spotify.com/track/14rUg64n9LylOGofuNOufj"
-    },
-    {
-      "added_at": "2026-07-31 03:00:07",
-      "album": {
-        "name": "Un T\u00e9 De Tilo Por Favor",
-        "url": "https://open.spotify.com/album/4qYkS2ENsUzeIc2DpUJVjT"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 184080,
-      "name": "Algo Tiene",
-      "url": "https://open.spotify.com/track/40n1j3nwbuF44QZOiKDsQ3"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -1335,18 +1335,22 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "ESCENAS",
-        "url": "https://open.spotify.com/album/0L5d7bwkZoMJusCRo31iK8"
+        "name": "Best Seller",
+        "url": "https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7"
       },
       "artists": [
         {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 185026,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/6vG8TNz01vVOzLKeqh1IXe"
+      "duration_ms": 224507,
+      "name": "Fuego y Pasi\u00f3n",
+      "url": "https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -1375,22 +1379,18 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "Best Seller",
-        "url": "https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7"
+        "name": "ESCENAS",
+        "url": "https://open.spotify.com/album/0L5d7bwkZoMJusCRo31iK8"
       },
       "artists": [
         {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
         }
       ],
-      "duration_ms": 224507,
-      "name": "Fuego y Pasi\u00f3n",
-      "url": "https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w"
+      "duration_ms": 185026,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/6vG8TNz01vVOzLKeqh1IXe"
     },
     {
       "added_at": "2026-07-31 03:00:07",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAAcR3jB7U0Elh/ErJUgjtK1",
+  "snapshot_id": "apIhAAAAAAAQhZvyjTa3mIdBvVwY+pqZ",
   "tracks": [
     {
       "added_at": null,
@@ -1059,30 +1059,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calm Classical for Studying",
-        "url": "https://open.spotify.com/album/6E1vIbtD1nOoiQb3YDpIX1"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        }
-      ],
-      "duration_ms": 82306,
-      "name": "Bach, JS: French Suite No. 2 in C Minor, BWV 813: V. Menuet (Transcr. Neumann for Violin and Cello)",
-      "url": "https://open.spotify.com/track/3vIOzLHn6CphNNK4f5piER"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
       },
@@ -1107,6 +1083,30 @@
       "duration_ms": 207746,
       "name": "Faur\u00e9: 3 M\u00e9lodies, Op. 7: No. 1, Apr\u00e8s un r\u00eave (Orch. B\u00fcsser)",
       "url": "https://open.spotify.com/track/5ibriUkbLukCioQsy9ryEX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Calm Classical for Studying",
+        "url": "https://open.spotify.com/album/6E1vIbtD1nOoiQb3YDpIX1"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        }
+      ],
+      "duration_ms": 82306,
+      "name": "Bach, JS: French Suite No. 2 in C Minor, BWV 813: V. Menuet (Transcr. Neumann for Violin and Cello)",
+      "url": "https://open.spotify.com/track/3vIOzLHn6CphNNK4f5piER"
     },
     {
       "added_at": null,

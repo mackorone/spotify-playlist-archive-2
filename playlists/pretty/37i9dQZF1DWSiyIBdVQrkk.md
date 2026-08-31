@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in classic and contemporary Reggae\. Cover: Original Koffee, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,122,746 likes - 110 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,122,546 likes - 110 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 10 | [Kingston Town](https://open.spotify.com/track/2OHQhOiGIYaXqqJVIMpNrF) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Soul Pirate](https://open.spotify.com/album/3hhWPRjFBsNYm3v3nbOqQC) | 3:12 |
 | 11 | [Skankin' Sweet](https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:12 |
 | 12 | [One Drop](https://open.spotify.com/track/3Ui4BMHapr00Iul1kB7lHC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 3:51 |
-| 13 | [Police In Helicopter](https://open.spotify.com/track/0mD19MC6H0OzHvEUADHypU) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [Police In Helicopter](https://open.spotify.com/album/7naj9A5QZbYxYbj9Susywq) | 3:39 |
-| 14 | [Hills And Valleys](https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Inna Heights](https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE) | 4:33 |
+| 13 | [Hills And Valleys](https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Inna Heights](https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE) | 4:33 |
+| 14 | [Police In Helicopter](https://open.spotify.com/track/0mD19MC6H0OzHvEUADHypU) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [Police In Helicopter](https://open.spotify.com/album/7naj9A5QZbYxYbj9Susywq) | 3:39 |
 | 15 | [She's Royal](https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Parables](https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985) | 4:11 |
 | 16 | [Here Comes Trouble](https://open.spotify.com/track/5Wwr2S7QZTR5PVJn6jhgdk) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Dread & Terrible](https://open.spotify.com/album/4zYr71y5wIjnoizuJ4o6ZK) | 3:54 |
 | 17 | [Here I Come](https://open.spotify.com/track/4abVwdCy5QUcyI3KS2lMJK) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Reggae Anthology: Sweet Reggae Music \(1979\-84\)](https://open.spotify.com/album/55FfXQVWDbB3tEC7L9lvzA) | 3:37 |
@@ -113,10 +113,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 103 | [I Wish You Were Here](https://open.spotify.com/track/4AVIdds2A4E4UsZcVU0Uso) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Jah Victory](https://open.spotify.com/album/7CoH3Na9J73DUay9gLU4fk) | 4:27 |
 | 104 | [Welcome To Jamrock](https://open.spotify.com/track/2e5Vm6VvdlTzuNcRSikeU6) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/1jL9mDhM5cMAwJD9brYyW5) | 3:33 |
 | 105 | [Turn Your Lights Down Low](https://open.spotify.com/track/1ILZVxd4FCgURhwRRNKQ85) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Chant Down Babylon](https://open.spotify.com/album/3P9TIaf3gZfBhIIUpAqbBD) | 5:46 |
-| 106 | [Israelites](https://open.spotify.com/track/0di7hMT6o1ogeUN1XDB9Ft) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Israelites](https://open.spotify.com/album/46BSjIgwm2NarXXFM8fEjX) | 2:35 |
-| 107 | [Beach In Hawaii](https://open.spotify.com/track/1ZPsdTkzhDeHjA5c2Rnt2I) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/1r2BhDNMDn9BszceZZ7wVI) | 3:40 |
+| 106 | [Beach In Hawaii](https://open.spotify.com/track/1ZPsdTkzhDeHjA5c2Rnt2I) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/1r2BhDNMDn9BszceZZ7wVI) | 3:40 |
+| 107 | [Israelites](https://open.spotify.com/track/0di7hMT6o1ogeUN1XDB9Ft) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Israelites](https://open.spotify.com/album/46BSjIgwm2NarXXFM8fEjX) | 2:35 |
 | 108 | [Slow Down \(with H.E.R.\)](https://open.spotify.com/track/73FDJgnjt6ZcxoiavN6XrS) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Slow Down \(with H.E.R.\)](https://open.spotify.com/album/2Z6sqSTQprW8el0lCqojKi) | 3:15 |
 | 109 | [Bam Bam](https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN) | 3:16 |
-| 110 | [Waiting In Vain](https://open.spotify.com/track/7FILn9Akg2468HPNsRZCkq) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(The Definitive Remasters\)](https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9) | 4:16 |
+| 110 | [Is This Love](https://open.spotify.com/track/5QTEEImISE4USGEwqAci8O) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(The Definitive Remasters\)](https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9) | 3:50 |
 
 Snapshot ID: `AAAAAMaB4xJHIhZ76vWijgtAFCIJI6qa`

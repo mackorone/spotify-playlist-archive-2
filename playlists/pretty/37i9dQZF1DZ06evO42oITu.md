@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 
 > This is Eric Clapton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,224 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,242 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 6 | [Promises](https://open.spotify.com/track/1oar8gdDX5yHWzVstAHDav) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Backless](https://open.spotify.com/album/3Xgt0D7DlSQ5HluyECu33i) | 3:01 |
 | 7 | [It's Probably Me](https://open.spotify.com/track/1X3Vb1oIAW6Ee22JZAEi59) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Fields Of Gold \- The Best Of Sting 1984 \- 1994](https://open.spotify.com/album/1rZTn68Lgr5J4F4vIpgpWf) | 5:02 |
 | 8 | [Magnolia](https://open.spotify.com/track/3KePc5zqybSrshHWzo65pk) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 3:41 |
-| 9 | [My Father's Eyes](https://open.spotify.com/track/2GGskYwS4j8LDMSDUJ8vrl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pilgrim](https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63) | 5:23 |
-| 10 | [Lay Down Sally](https://open.spotify.com/track/6io0LJIP9ntX35hTfaxwQG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:56 |
+| 9 | [Lay Down Sally](https://open.spotify.com/track/6io0LJIP9ntX35hTfaxwQG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:56 |
+| 10 | [My Father's Eyes](https://open.spotify.com/track/2GGskYwS4j8LDMSDUJ8vrl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pilgrim](https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63) | 5:23 |
 | 11 | [I Shot The Sheriff](https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 4:23 |
 | 12 | [Someday](https://open.spotify.com/track/2439UmlGFWg5C0CAreyr9L) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 3:48 |
 | 13 | [Knockin' On Heaven's Door](https://open.spotify.com/track/7fIZpIYzxzSV9s7oc6u1IA) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [The Cream Of Clapton](https://open.spotify.com/album/6uTteowoZyrRDJ9GHITrEp) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 49 | [Help the Poor](https://open.spotify.com/track/1zdJVsBmTNavn5u2GSqWkW) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 5:05 |
 | 50 | [Bad Love](https://open.spotify.com/track/185dxn5sEgOnBX5iwCDHkp) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Journeyman](https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B) | 5:08 |
 
-Snapshot ID: `apDPgAAAAAB4s4EU/ZoGe9W8CjCVPeGj`
+Snapshot ID: `apIhAAAAAABW0ikbOtgkIyAVRCMGLdBT`

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Updated every Sunday\. Ten songs plus a bonus\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 37 likes - 11 songs - 37 min 59 sec
+[royva06](https://open.spotify.com/user/royva06) - 37 likes - 11 songs - 40 min 42 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Last Goodbye](https://open.spotify.com/track/0y5CnV2idm2KkQEudDjfDT) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 4:35 |
-| 2 | [3 Sisters](https://open.spotify.com/track/0AO3ejChi1gRBWvUDMH2kg) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:10 |
-| 3 | [Rainbows](https://open.spotify.com/track/0mONC9WyQSPG869cO2zfIL) | [Dennis Wilson](https://open.spotify.com/artist/5gl6pfPwJ1coivVUMZPiS9) | [Pacific Ocean Blue & Bambu \- 2 CD Deluxe Legacy Edition](https://open.spotify.com/album/08CyNpU6VJMtGmR7DYjNmQ) | 2:47 |
-| 4 | [Where Do My Bluebird Fly](https://open.spotify.com/track/143f97FdQwbAVM4sSOdB9r) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Shallow Grave](https://open.spotify.com/album/20H8EwDZDsZ4H0qLJe3TVe) | 3:17 |
-| 5 | [The Message](https://open.spotify.com/track/1AHfovSnGPVYKaahRtA0U6) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [It Was Written](https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg) | 3:54 |
-| 6 | [Espresso](https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:55 |
-| 7 | [iPod Touch](https://open.spotify.com/track/1xqT27jSG1Y15vOXfsV0gv) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:16 |
-| 8 | [Lickupon](https://open.spotify.com/track/1wQixSSWydeLgkebOzu3yt) | [Viktor Vaughn](https://open.spotify.com/artist/0wIb0PhwT3disoWykRhq6V), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Vaudeville Villain](https://open.spotify.com/album/7HPjcPD2cr8E5oHvVAmBp7) | 2:44 |
-| 9 | [Bad Luck](https://open.spotify.com/track/1OYHXCuHdzHjpHqHlY1g1r) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Cold Beer & Country Music](https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF) | 3:19 |
-| 10 | [Thirsty Man](https://open.spotify.com/track/3ZslLE42E8aQaFW5QmlcCc) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [VII](https://open.spotify.com/album/642kwhgwIUGcGyMgubXrNI) | 3:41 |
-| 11 | [What It Is](https://open.spotify.com/track/3YyM2diFk5zbUTfXso9NWy) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All Mirrors](https://open.spotify.com/album/7t7tfXDhXiQpAV2uNfYWWG) | 3:16 |
+| 1 | [A Couple Minutes](https://open.spotify.com/track/312z6PZ8wwREck8613PkJk) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:32 |
+| 2 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
+| 3 | [Stay Fly](https://open.spotify.com/track/5MYFw4T2gy52pOGBN4EYHS) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT) | [Most Known Unknown \(Explicit\)](https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF) | 3:56 |
+| 4 | [Holdin' on to Yesterday](https://open.spotify.com/track/5nFpF7jUbVnnDMXIu65aoh) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw), [Alan Parsons](https://open.spotify.com/artist/6HpZkC8GUktP9utE6OPWZG) | [Ambrosia](https://open.spotify.com/album/4WLSlSsZR6RZSaZm2ZB1WI) | 4:16 |
+| 5 | [Minute by Minute](https://open.spotify.com/track/37oLDb3119IdKSIFQmSGRj) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:26 |
+| 6 | [Alone And Forsaken](https://open.spotify.com/track/5zFgBVbfMdfo6kCKm5hD6t) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [The Original Singles Collection \. \. \. Plus](https://open.spotify.com/album/2ofo3NZKdLxM3SBspKmXfV) | 2:01 |
+| 7 | [Latyrx](https://open.spotify.com/track/5EeqJeriXLswxQJhZYVnsC) | [Latyrx](https://open.spotify.com/artist/23hdcMBvWnhwTIWRKLLEvo) | [Latyrx \(Deluxe Edition\)](https://open.spotify.com/album/59HUrpebJcCxeYq3LOLQfs) | 5:47 |
+| 8 | [Lightning's Girl](https://open.spotify.com/track/7olHg8x8GvMJAcRzOLHK5e) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Start Walkin' 1965\-1976](https://open.spotify.com/album/1J3CtRxcG9Tkuw2xQ59NEk) | 2:56 |
+| 9 | [Catchin' The Vibe](https://open.spotify.com/track/6kQjb5Vcg0FHDmb4jjNlLY) | [Quasimoto](https://open.spotify.com/artist/1rJkz5vopfGxTUGFNB3o4G), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Yessir Whatever](https://open.spotify.com/album/6jnkEgtcxePHtbay62bota) | 2:43 |
+| 10 | [Ava Adore](https://open.spotify.com/track/6bVB2MGR7LcotAIB1vfpw6) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Adore \(Super Deluxe\)](https://open.spotify.com/album/7ysKTnHt4ve0MvIWm3vPdz) | 4:30 |
+| 11 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 |
 
-Snapshot ID: `AAAL6+AMnQf1XehCACVZ20J76MHsa0Wi`
+Snapshot ID: `AAAMASbGax2plkBccvianpOK6/NszpaB`

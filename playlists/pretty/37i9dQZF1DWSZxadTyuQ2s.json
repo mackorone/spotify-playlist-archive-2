@@ -1,6 +1,6 @@
 {
   "description": "The sound of Afrobeats echoing around the world. Cover: Skyla Tylaa & Chloe",
-  "num_followers": 42088,
+  "num_followers": 42151,
   "original_name": "Global Afrobeats",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2026-08-28 00:01:47",
       "album": {
+        "name": "TEA",
+        "url": "https://open.spotify.com/album/6Vn8pesphnIfwl0oDnW4lj"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "TEA",
+      "url": "https://open.spotify.com/track/1qObCJRmQydvmwO6Z0BMbK"
+    },
+    {
+      "added_at": "2026-08-28 00:01:47",
+      "album": {
         "name": "La Plena (W Sound 05)",
         "url": "https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 150001,
       "name": "La Plena - W Sound 05",
       "url": "https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5"
-    },
-    {
-      "added_at": "2026-08-28 00:01:47",
-      "album": {
-        "name": "TEA",
-        "url": "https://open.spotify.com/album/6Vn8pesphnIfwl0oDnW4lj"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "TEA",
-      "url": "https://open.spotify.com/track/1qObCJRmQydvmwO6Z0BMbK"
     },
     {
       "added_at": "2026-08-28 00:01:47",
@@ -683,26 +683,6 @@
     {
       "added_at": "2026-08-28 00:01:47",
       "album": {
-        "name": "Alive (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/0b1wTKStMRshCOhUnhfPXR"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 207085,
-      "name": "Alive (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH"
-    },
-    {
-      "added_at": "2026-08-28 00:01:47",
-      "album": {
         "name": "Awolowo",
         "url": "https://open.spotify.com/album/5BRKHZh6Y0voiEQ4YsGdCr"
       },
@@ -739,22 +719,22 @@
     {
       "added_at": "2026-08-28 00:01:47",
       "album": {
-        "name": "For A Good Time...",
-        "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
+        "name": "Alive (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/0b1wTKStMRshCOhUnhfPXR"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
           "name": "Jorja Smith",
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 222840,
-      "name": "Coming Home (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6"
+      "duration_ms": 207085,
+      "name": "Alive (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH"
     },
     {
       "added_at": "2026-08-28 00:01:47",
@@ -775,6 +755,26 @@
       "duration_ms": 155294,
       "name": "Already",
       "url": "https://open.spotify.com/track/4c0l2xJLaY8PBS7yi37Ry3"
+    },
+    {
+      "added_at": "2026-08-28 00:01:47",
+      "album": {
+        "name": "For A Good Time...",
+        "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Coming Home (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6"
     },
     {
       "added_at": "2026-08-28 00:01:47",
@@ -835,6 +835,26 @@
     {
       "added_at": "2026-08-28 00:01:47",
       "album": {
+        "name": "MY HEALER",
+        "url": "https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 157023,
+      "name": "MY HEALER",
+      "url": "https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1"
+    },
+    {
+      "added_at": "2026-08-28 00:01:47",
+      "album": {
         "name": "COCA BODY",
         "url": "https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 153055,
       "name": "COCA BODY",
       "url": "https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG"
-    },
-    {
-      "added_at": "2026-08-28 00:01:47",
-      "album": {
-        "name": "MY HEALER",
-        "url": "https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 157023,
-      "name": "MY HEALER",
-      "url": "https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1"
     },
     {
       "added_at": "2026-08-28 00:01:47",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2026-08-28 00:01:47",
       "album": {
+        "name": "Gaou la (feat. 6uff)",
+        "url": "https://open.spotify.com/album/3jIgXwF5wIe2GhF3NBSsrp"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+        }
+      ],
+      "duration_ms": 147169,
+      "name": "Gaou la (feat. 6uff)",
+      "url": "https://open.spotify.com/track/0TVPbrQyDW6Rhi7hJa024K"
+    },
+    {
+      "added_at": "2026-08-28 00:01:47",
+      "album": {
         "name": "Escaladizzy II",
         "url": "https://open.spotify.com/album/0DSBgUcKAyKmto3gkKDqUu"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 213559,
       "name": "Escaladizzy II",
       "url": "https://open.spotify.com/track/2h1aaSSMUspQfHKDl5uISY"
-    },
-    {
-      "added_at": "2026-08-28 00:01:47",
-      "album": {
-        "name": "Gaou la (feat. 6uff)",
-        "url": "https://open.spotify.com/album/3jIgXwF5wIe2GhF3NBSsrp"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "6uff",
-          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "Gaou la (feat. 6uff)",
-      "url": "https://open.spotify.com/track/0TVPbrQyDW6Rhi7hJa024K"
     },
     {
       "added_at": "2026-08-28 00:01:47",
@@ -1395,6 +1395,30 @@
       "duration_ms": 184203,
       "name": "when the party's over",
       "url": "https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV"
+    },
+    {
+      "added_at": "2026-08-28 00:01:47",
+      "album": {
+        "name": "Bandela",
+        "url": "https://open.spotify.com/album/7uNr2HQBIkX1WTVvWAN6K1"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        },
+        {
+          "name": "Armageddon",
+          "url": "https://open.spotify.com/artist/1m8LYS7KgDBdAI8r1dhAYP"
+        },
+        {
+          "name": "Anderson",
+          "url": "https://open.spotify.com/artist/4J7UmEdjzftguZjIKlc1m6"
+        }
+      ],
+      "duration_ms": 225745,
+      "name": "Bandela",
+      "url": "https://open.spotify.com/track/1G8CAiMVLP7wenG4sF084G"
     },
     {
       "added_at": "2026-08-28 00:01:47",
@@ -1519,30 +1543,6 @@
     {
       "added_at": "2026-08-28 00:01:47",
       "album": {
-        "name": "Bandela",
-        "url": "https://open.spotify.com/album/7uNr2HQBIkX1WTVvWAN6K1"
-      },
-      "artists": [
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        },
-        {
-          "name": "Armageddon",
-          "url": "https://open.spotify.com/artist/1m8LYS7KgDBdAI8r1dhAYP"
-        },
-        {
-          "name": "Anderson",
-          "url": "https://open.spotify.com/artist/4J7UmEdjzftguZjIKlc1m6"
-        }
-      ],
-      "duration_ms": 225745,
-      "name": "Bandela",
-      "url": "https://open.spotify.com/track/1G8CAiMVLP7wenG4sF084G"
-    },
-    {
-      "added_at": "2026-08-28 00:01:47",
-      "album": {
         "name": "HateLove",
         "url": "https://open.spotify.com/album/4cYksZWBKXTc7cTLaTYBwR"
       },
@@ -1591,30 +1591,26 @@
     {
       "added_at": "2026-08-28 00:01:47",
       "album": {
-        "name": "All You Need",
-        "url": "https://open.spotify.com/album/681fiILmrmzJzZDWmvVpnF"
+        "name": "Send Shots",
+        "url": "https://open.spotify.com/album/68StQRtOUcywtJN19YKfcZ"
       },
       "artists": [
         {
-          "name": "MURPHY",
-          "url": "https://open.spotify.com/artist/7fuOjHjKRKBlYUz1lTZ7WQ"
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
         },
         {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+          "name": "Original Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
         },
         {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        },
-        {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+          "name": "Winny",
+          "url": "https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz"
         }
       ],
-      "duration_ms": 163837,
-      "name": "All You Need",
-      "url": "https://open.spotify.com/track/5gPkTBrIBBiLvP56xgDf5Q"
+      "duration_ms": 159423,
+      "name": "Send Shots",
+      "url": "https://open.spotify.com/track/2l8RyIEP6A1aPkM2EVecNY"
     }
   ],
   "unique_name": "Global Afrobeats",

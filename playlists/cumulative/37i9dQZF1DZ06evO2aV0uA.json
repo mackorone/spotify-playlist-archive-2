@@ -486,6 +486,24 @@
     {
       "album": {
         "name": "Wrath",
+        "url": "https://open.spotify.com/album/1zbNLo00Ye1fqf1Pdk2GId"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202040,
+      "name": "Contractor",
+      "url": "https://open.spotify.com/track/0zG1wlZF4lrr2URvghfla5"
+    },
+    {
+      "album": {
+        "name": "Wrath",
         "url": "https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX"
       },
       "artists": [
@@ -514,7 +532,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 202040,
       "name": "Contractor",
       "url": "https://open.spotify.com/track/7HYsxZZCd45AXjhHch1HEB"
@@ -1347,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "Wrath (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/479KqDnKRTPYptLEkbZNRp"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324666,
+      "name": "In Your Words",
+      "url": "https://open.spotify.com/track/2hYjtvY9ppeDodbSjeEJ5F"
+    },
+    {
+      "album": {
         "name": "Wrath (Special Edition)",
         "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
       },
@@ -1358,7 +1394,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 324666,
       "name": "In Your Words",
       "url": "https://open.spotify.com/track/7LhpHlUSDLTiK5FZLUKEYY"

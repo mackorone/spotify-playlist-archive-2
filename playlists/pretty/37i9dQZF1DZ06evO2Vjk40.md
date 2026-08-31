@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 
 > This is Chris Stapleton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,369 likes - 49 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,432 likes - 49 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 27 | [Cold](https://open.spotify.com/track/24nhOvYX2gk3txBbMzXeUB) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 5:09 |
 | 28 | [What Am I Gonna Do](https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:01 |
 | 29 | [Say Something \(feat\. Chris Stapleton\)](https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 4:38 |
-| 30 | [A Song To Sing](https://open.spotify.com/track/7L9N5bxblTyzTknaxo7duX) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [A Song To Sing](https://open.spotify.com/album/4iqnGca3K2uMJiDSrNbpfd) | 2:59 |
-| 31 | [Midnight Train To Memphis](https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:42 |
+| 30 | [Midnight Train To Memphis](https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:42 |
+| 31 | [A Song To Sing](https://open.spotify.com/track/7L9N5bxblTyzTknaxo7duX) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [A Song To Sing](https://open.spotify.com/album/4iqnGca3K2uMJiDSrNbpfd) | 2:59 |
 | 32 | [The Fire](https://open.spotify.com/track/4Jn2CdZYqtIsPpIRYB1o47) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:45 |
 | 33 | [Whiskey And You](https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 3:56 |
 | 34 | [Second One To Know](https://open.spotify.com/track/0oTGa77jJ1H5joTG5SvxFj) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 2:56 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 48 | [Tell Me When It’s Over](https://open.spotify.com/track/4hx9NTugoBdIG8MkAi2fzI) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 4:56 |
 | 49 | [Small Town Hypocrite](https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Small Town Hypocrite](https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT) | 4:01 |
 
-Snapshot ID: `apDPgAAAAADoMcLjaS3K3/Y1nqkDuPjU`
+Snapshot ID: `apIhAAAAAAC7Ln3RTBsCYN9aFxHuE9dd`

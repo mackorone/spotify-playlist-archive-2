@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Zinoleesky",
-  "num_followers": 154940,
+  "num_followers": 155117,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
-        "name": "GTA",
-        "url": "https://open.spotify.com/album/5U7HlyYuQLT3gE5RNVQTzN"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 155441,
-      "name": "GTA",
-      "url": "https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc"
-    },
-    {
-      "added_at": "2026-08-28 00:02:03",
-      "album": {
         "name": "M$NEY",
         "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 169911,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/7hiRlw64LXcHpGAVJ6eUzv"
+    },
+    {
+      "added_at": "2026-08-28 00:02:03",
+      "album": {
+        "name": "GTA",
+        "url": "https://open.spotify.com/album/5U7HlyYuQLT3gE5RNVQTzN"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 155441,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc"
     },
     {
       "added_at": "2026-08-28 00:02:03",
@@ -115,22 +115,18 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
-        "name": "Breaking",
-        "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
       },
       "artists": [
         {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 172160,
-      "name": "Aura Salad",
-      "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
+      "duration_ms": 170526,
+      "name": "MCBH",
+      "url": "https://open.spotify.com/track/36PS8XCemqmPvigIL8S40B"
     },
     {
       "added_at": "2026-08-28 00:02:03",
@@ -151,18 +147,22 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
-        "name": "M$NEY",
-        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+        "name": "Breaking",
+        "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
         }
       ],
-      "duration_ms": 170526,
-      "name": "MCBH",
-      "url": "https://open.spotify.com/track/36PS8XCemqmPvigIL8S40B"
+      "duration_ms": 172160,
+      "name": "Aura Salad",
+      "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
     },
     {
       "added_at": "2026-08-28 00:02:03",
@@ -199,6 +199,22 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 205674,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/5xFnqGLySijRJ2q6som381"
+    },
+    {
+      "added_at": "2026-08-28 00:02:03",
+      "album": {
         "name": "B4SAVEME",
         "url": "https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 185000,
       "name": "Mofe",
       "url": "https://open.spotify.com/track/1w8lSGDuMUgRh7rygMp7VB"
-    },
-    {
-      "added_at": "2026-08-28 00:02:03",
-      "album": {
-        "name": "M$NEY",
-        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 205674,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/5xFnqGLySijRJ2q6som381"
     },
     {
       "added_at": "2026-08-28 00:02:03",
@@ -283,6 +283,22 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
+        "name": "M$NEY Live in London (Spotify Live)",
+        "url": "https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Ego - Live in London",
+      "url": "https://open.spotify.com/track/6eS51q8SE2bdSVyecHtAWZ"
+    },
+    {
+      "added_at": "2026-08-28 00:02:03",
+      "album": {
         "name": "SHON PE (Count Your Money)",
         "url": "https://open.spotify.com/album/3Y3X4PiLTTskoA58xGoEzk"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 188571,
       "name": "BB Lifestyle",
       "url": "https://open.spotify.com/track/2U6SxKaCtqPV3ppj2EBb2T"
-    },
-    {
-      "added_at": "2026-08-28 00:02:03",
-      "album": {
-        "name": "M$NEY Live in London (Spotify Live)",
-        "url": "https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Ego - Live in London",
-      "url": "https://open.spotify.com/track/6eS51q8SE2bdSVyecHtAWZ"
     },
     {
       "added_at": "2026-08-28 00:02:03",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 183708,
+      "name": "Skilful",
+      "url": "https://open.spotify.com/track/15AxYgYTDLNHW0AuH7Ia0l"
+    },
+    {
+      "added_at": "2026-08-28 00:02:03",
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
       },
@@ -399,6 +415,22 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
+        "name": "Anybody",
+        "url": "https://open.spotify.com/album/1hvFnDu5h6JzFPi7u3vIKv"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 150073,
+      "name": "Anybody",
+      "url": "https://open.spotify.com/track/0fXjbDO6HtqfyQBuPYPUuK"
+    },
+    {
+      "added_at": "2026-08-28 00:02:03",
+      "album": {
         "name": "Allonsy",
         "url": "https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs"
       },
@@ -415,22 +447,6 @@
       "duration_ms": 122711,
       "name": "Allonsy",
       "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
-    },
-    {
-      "added_at": "2026-08-28 00:02:03",
-      "album": {
-        "name": "M$NEY",
-        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 183708,
-      "name": "Skilful",
-      "url": "https://open.spotify.com/track/15AxYgYTDLNHW0AuH7Ia0l"
     },
     {
       "added_at": "2026-08-28 00:02:03",
@@ -519,22 +535,6 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
-        "name": "Anybody",
-        "url": "https://open.spotify.com/album/1hvFnDu5h6JzFPi7u3vIKv"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 150073,
-      "name": "Anybody",
-      "url": "https://open.spotify.com/track/0fXjbDO6HtqfyQBuPYPUuK"
-    },
-    {
-      "added_at": "2026-08-28 00:02:03",
-      "album": {
         "name": "ON MY BIRTHDAY",
         "url": "https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf"
       },
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 149605,
+      "name": "FYNE",
+      "url": "https://open.spotify.com/track/4YZlGQCYgs1d0jZ6cK08D4"
+    },
+    {
+      "added_at": "2026-08-28 00:02:03",
+      "album": {
         "name": "Do Better",
         "url": "https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 186028,
       "name": "Rock Me Gentle",
       "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
-    },
-    {
-      "added_at": "2026-08-28 00:02:03",
-      "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 149605,
-      "name": "FYNE",
-      "url": "https://open.spotify.com/track/4YZlGQCYgs1d0jZ6cK08D4"
     },
     {
       "added_at": "2026-08-28 00:02:03",
@@ -703,26 +703,6 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
-        "name": "Orindowo",
-        "url": "https://open.spotify.com/album/5M3NG4sis4WH64CY10CkRE"
-      },
-      "artists": [
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        },
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 167787,
-      "name": "Orindowo",
-      "url": "https://open.spotify.com/track/4ytHRcSgxIyC6xwUsKzA6D"
-    },
-    {
-      "added_at": "2026-08-28 00:02:03",
-      "album": {
         "name": "Shakur",
         "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 164745,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B"
+    },
+    {
+      "added_at": "2026-08-28 00:02:03",
+      "album": {
+        "name": "Orindowo",
+        "url": "https://open.spotify.com/album/5M3NG4sis4WH64CY10CkRE"
+      },
+      "artists": [
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 167787,
+      "name": "Orindowo",
+      "url": "https://open.spotify.com/track/4ytHRcSgxIyC6xwUsKzA6D"
     },
     {
       "added_at": "2026-08-28 00:02:03",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
-        "name": "BANGER BOY",
-        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 146165,
-      "name": "SHEGE",
-      "url": "https://open.spotify.com/track/7kf67G87lsYqfnooZB913F"
-    },
-    {
-      "added_at": "2026-08-28 00:02:03",
-      "album": {
         "name": "WhatsApp",
         "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 134237,
       "name": "WhatsApp",
       "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
+    },
+    {
+      "added_at": "2026-08-28 00:02:03",
+      "album": {
+        "name": "BANGER BOY",
+        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 146165,
+      "name": "SHEGE",
+      "url": "https://open.spotify.com/track/7kf67G87lsYqfnooZB913F"
     },
     {
       "added_at": "2026-08-28 00:02:03",
@@ -959,26 +959,6 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
-        "name": "Richard Mille",
-        "url": "https://open.spotify.com/album/4hjaK3AT4U47LEXANnpHv0"
-      },
-      "artists": [
-        {
-          "name": "Vusic",
-          "url": "https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 171707,
-      "name": "Richard Mille",
-      "url": "https://open.spotify.com/track/62vNNwvVcdFLtq1COoj3ck"
-    },
-    {
-      "added_at": "2026-08-28 00:02:03",
-      "album": {
         "name": "Excellent",
         "url": "https://open.spotify.com/album/4QSZZ7iKC0mYdxN7GxU6OQ"
       },
@@ -995,22 +975,22 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
-        "name": "No Wam",
-        "url": "https://open.spotify.com/album/4cNDitclT2Y3sKEQxDzbuR"
+        "name": "Richard Mille",
+        "url": "https://open.spotify.com/album/4hjaK3AT4U47LEXANnpHv0"
       },
       "artists": [
         {
-          "name": "Skiibii",
-          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+          "name": "Vusic",
+          "url": "https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T"
         },
         {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         }
       ],
-      "duration_ms": 149446,
-      "name": "No Wam",
-      "url": "https://open.spotify.com/track/75zPBCVt8sd2PzJfinv3Jl"
+      "duration_ms": 171707,
+      "name": "Richard Mille",
+      "url": "https://open.spotify.com/track/62vNNwvVcdFLtq1COoj3ck"
     },
     {
       "added_at": "2026-08-28 00:02:03",
@@ -1047,6 +1027,26 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
+        "name": "No Wam",
+        "url": "https://open.spotify.com/album/4cNDitclT2Y3sKEQxDzbuR"
+      },
+      "artists": [
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 149446,
+      "name": "No Wam",
+      "url": "https://open.spotify.com/track/75zPBCVt8sd2PzJfinv3Jl"
+    },
+    {
+      "added_at": "2026-08-28 00:02:03",
+      "album": {
         "name": "JUNCTION",
         "url": "https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe"
       },
@@ -1071,26 +1071,26 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
-        "name": "Dance for Jesus",
-        "url": "https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp"
+        "name": "Kowope",
+        "url": "https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh"
       },
       "artists": [
         {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
         },
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Vusic",
+          "url": "https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T"
         }
       ],
-      "duration_ms": 200948,
-      "name": "Dance for Jesus",
-      "url": "https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR"
+      "duration_ms": 211525,
+      "name": "Kowope",
+      "url": "https://open.spotify.com/track/427Ghtd3sYoYAy1xVBVatt"
     }
   ],
   "unique_name": "Street Energy ",

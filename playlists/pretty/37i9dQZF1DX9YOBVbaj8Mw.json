@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20441,
+  "num_followers": 20442,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Radio Edit",
+        "url": "https://open.spotify.com/album/1jQ2hZKn5vxyIbyzPvOmBC"
+      },
+      "artists": [
+        {
+          "name": "Kuba Badach",
+          "url": "https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC"
+        }
+      ],
+      "duration_ms": 209429,
+      "name": "Na drodze do wspomnie\u0144",
+      "url": "https://open.spotify.com/track/4jbwoNOFu6EvL6DMRK2eve"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Ramen",
         "url": "https://open.spotify.com/album/6HSD328wfB8GSsIOGoSrcC"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 237631,
       "name": "Ramen",
       "url": "https://open.spotify.com/track/1fWiLeqoyGNpm1IiMv4sMt"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Radio Edit",
-        "url": "https://open.spotify.com/album/1jQ2hZKn5vxyIbyzPvOmBC"
-      },
-      "artists": [
-        {
-          "name": "Kuba Badach",
-          "url": "https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC"
-        }
-      ],
-      "duration_ms": 209429,
-      "name": "Na drodze do wspomnie\u0144",
-      "url": "https://open.spotify.com/track/4jbwoNOFu6EvL6DMRK2eve"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "The Shit Ov God",
-        "url": "https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV"
-      },
-      "artists": [
-        {
-          "name": "Behemoth",
-          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
-        }
-      ],
-      "duration_ms": 336773,
-      "name": "The Shit Ov God",
-      "url": "https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Tematy i wariacje",
         "url": "https://open.spotify.com/album/5oPLIlVa14HPuYNuZ7MSeT"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 293906,
       "name": "VValka o ka\u017cdy kolejny dzie\u0144",
       "url": "https://open.spotify.com/track/4odf0Poq48hNjNUDONrRbF"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "The Shit Ov God",
+        "url": "https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "duration_ms": 336773,
+      "name": "The Shit Ov God",
+      "url": "https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
-      },
-      "artists": [
-        {
-          "name": "Nene Heroine",
-          "url": "https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR"
-        }
-      ],
-      "duration_ms": 444560,
-      "name": "Tokyo",
-      "url": "https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Homage",
         "url": "https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 251514,
       "name": "Love in the Garden",
       "url": "https://open.spotify.com/track/3CjlpGjhzc7pGBXCUWprYC"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
+      },
+      "artists": [
+        {
+          "name": "Nene Heroine",
+          "url": "https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR"
+        }
+      ],
+      "duration_ms": 444560,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "M\u00d3J TRUP JEST WI\u0118KSZY NI\u017b TW\u00d3J",
-        "url": "https://open.spotify.com/album/49A5muPtRuTvE0BbqRJfBR"
-      },
-      "artists": [
-        {
-          "name": "Luxtorpeda",
-          "url": "https://open.spotify.com/artist/0D5kXlS7UOApMpTyuSrFAW"
-        }
-      ],
-      "duration_ms": 313226,
-      "name": "KREW Z KRWI",
-      "url": "https://open.spotify.com/track/4prmXqlZocQ5lmQ24vsGDK"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Uno Lovis Party",
         "url": "https://open.spotify.com/album/1tp2IPGbxwnOVnVcO5x1Q4"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 202921,
       "name": "Memento Amoris",
       "url": "https://open.spotify.com/track/6BRe9FeshYY6KedQk6Af08"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "M\u00d3J TRUP JEST WI\u0118KSZY NI\u017b TW\u00d3J",
+        "url": "https://open.spotify.com/album/49A5muPtRuTvE0BbqRJfBR"
+      },
+      "artists": [
+        {
+          "name": "Luxtorpeda",
+          "url": "https://open.spotify.com/artist/0D5kXlS7UOApMpTyuSrFAW"
+        }
+      ],
+      "duration_ms": 313226,
+      "name": "KREW Z KRWI",
+      "url": "https://open.spotify.com/track/4prmXqlZocQ5lmQ24vsGDK"
     },
     {
       "added_at": "2026-05-26 09:05:26",

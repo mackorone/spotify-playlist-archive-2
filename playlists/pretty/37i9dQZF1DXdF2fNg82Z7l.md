@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF2fNg82Z7l.md) - [plain]
 
 > a strictly smooth mood...Cover: Kelela
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,769 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,779 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF2fNg82Z7l.md) - [plain]
 | 52 | [Money Trees](https://open.spotify.com/track/0UtnpKaReKUg2GquaSxCyD) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/748dZDqSZy6aPXKcI9H80u) | 6:26 |
 | 53 | [Eternal Light](https://open.spotify.com/track/1CbxG199T0fzfUV5EO7aPV) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:13 |
 | 54 | [Thorns](https://open.spotify.com/track/1zUqoSVqUE2O5x3MJ0mHz9) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 2:10 |
-| 55 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 |
-| 56 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 |
+| 55 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 |
+| 56 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 |
 | 57 | [MUTT \(feat\. Chris Brown\) \[CB REMIX\]](https://open.spotify.com/track/3riRdhyMDfEQz5nKrxfbwv) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [MUTT \(CB REMIX\)](https://open.spotify.com/album/3aWAm4NZkp9kxSqOZ51h5s) | 3:19 |
 | 58 | [Masterpiece](https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 5:44 |
 | 59 | [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi) | 4:19 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF2fNg82Z7l.md) - [plain]
 | 63 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:56 |
 | 64 | [Seduce You](https://open.spotify.com/track/3Lu25CvmWSwUB27ircGaT2) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Pretty Girlz Run The World](https://open.spotify.com/album/1CE0V7fzLEnlGPcTaj4ruh) | 2:26 |
 | 65 | [Don’t Break Her Heart](https://open.spotify.com/track/4CBDC9hPTHAwYN8y9XUEw6) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Don’t Break Her Heart](https://open.spotify.com/album/4zH1DbsAbNzjtL0CtUBGnY) | 3:44 |
-| 66 | [Survivor’s Remorse](https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W) | 2:36 |
+| 66 | [Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Tailor Swif](https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg) | 2:35 |
 | 67 | [Shameful Game](https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [The Celestial Suite](https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN) | 3:05 |
-| 68 | [Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Tailor Swif](https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg) | 2:35 |
+| 68 | [Survivor’s Remorse](https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W) | 2:36 |
 | 69 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
 | 70 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 |
 | 71 | [Chameleon](https://open.spotify.com/track/5MJuuUnNuOv3O1fJrLaEYk) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Change & Remain](https://open.spotify.com/album/54cLUzUwEVwArcZzFmxqln) | 2:55 |
 | 72 | [Bout U](https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bout U](https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV) | 2:43 |
 | 73 | [Gen Z Luv](https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Gen Z Luv](https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI) | 2:33 |
-| 74 | [Parking Lot](https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Parking Lot](https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi) | 2:52 |
-| 75 | [Silence](https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Forever](https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq) | 3:35 |
+| 74 | [Silence](https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Forever](https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq) | 3:35 |
+| 75 | [Parking Lot](https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Parking Lot](https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi) | 2:52 |
 
 Snapshot ID: `AAAAAB5Tf3kWp59ywAiYvdlOlNZM30Dx`

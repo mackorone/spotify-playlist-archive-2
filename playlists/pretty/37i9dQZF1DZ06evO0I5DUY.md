@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 
 > This is Los Cadetes De Linares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,613 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,657 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 34 | [Desprecio](https://open.spotify.com/track/5rCzc6hBzVUiK9iYoIO7CU) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:40 |
 | 35 | [Cruz Negra](https://open.spotify.com/track/1iEweQPoM1pgXHMWTk0iBM) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Hijo del Palenque](https://open.spotify.com/album/6IdA7YtdG9xaB1ryP6uzrY) | 3:04 |
 | 36 | [Lucio Pena](https://open.spotify.com/track/3RXctOwDn8rJi5ScVtI8sJ) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:57 |
-| 37 | [Mi Primer Amor](https://open.spotify.com/track/0Sn0HKpcwfjPxv29GKg1FJ) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Una Lágrima y Un Recuerdo](https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3) | 2:36 |
-| 38 | [Dos Vicios](https://open.spotify.com/track/469ReDKEOzSCpzIDy98GgV) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Vicios](https://open.spotify.com/album/3aQYZhV5rLiAJGzIg2WfWH) | 2:39 |
+| 37 | [Dos Vicios](https://open.spotify.com/track/469ReDKEOzSCpzIDy98GgV) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Vicios](https://open.spotify.com/album/3aQYZhV5rLiAJGzIg2WfWH) | 2:39 |
+| 38 | [Mi Primer Amor](https://open.spotify.com/track/0Sn0HKpcwfjPxv29GKg1FJ) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Una Lágrima y Un Recuerdo](https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3) | 2:36 |
 | 39 | [Rezando Por Ella](https://open.spotify.com/track/235g5dKnBjF45Bhpou8qiO) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Hijo del Palenque](https://open.spotify.com/album/6IdA7YtdG9xaB1ryP6uzrY) | 2:37 |
 | 40 | [Cosas del Ayer](https://open.spotify.com/track/19mX627iFZeXidj0akB9aT) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:52 |
 | 41 | [Por Ser Tan Pobre](https://open.spotify.com/track/73BHd7jJqU2JrPXoWLyMK8) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Mis Recuerdos Adios Amigo Del Alma](https://open.spotify.com/album/66lB6Ab3RKhrlQ29sxWvRx) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 49 | [La Discusion Fue Una Yegua](https://open.spotify.com/track/0m0zyyyNNEKXPWSkzU3SHm) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Corridos de Arranque](https://open.spotify.com/album/79RUrWQpAipr8jRffhK4Ez) | 2:47 |
 | 50 | [Un Noble Engaño](https://open.spotify.com/track/6xmQN57KeoivWxIah2OLPg) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Un Noble Engaño](https://open.spotify.com/album/6vPSI7T4CRvX00PpyqLmKO) | 3:03 |
 
-Snapshot ID: `apDPgAAAAAA2CeeE5xndlRBBXL3BEOw/`
+Snapshot ID: `apIhAAAAAACaTX1Recg+BkTUYVUmN6A/`

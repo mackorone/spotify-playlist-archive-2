@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Eric Church",
-  "num_followers": 143396,
+  "num_followers": 143398,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Speak Now World Tour Live",
-        "url": "https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 336826,
-      "name": "Sparks Fly - Live/2011",
-      "url": "https://open.spotify.com/track/1aBJNc2thaKyh5THWzIqHX"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
         "name": "Love On The Inside (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4JcEVEfuqjJhPxmi1Ji3Fl"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 254346,
       "name": "Life In A Northern Town - Live",
       "url": "https://open.spotify.com/track/0TwCdMeFjEltHiNjtii8Jk"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
+        "name": "Speak Now World Tour Live",
+        "url": "https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 336826,
+      "name": "Sparks Fly - Live/2011",
+      "url": "https://open.spotify.com/track/1aBJNc2thaKyh5THWzIqHX"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "In Your Love (Live From Radio City Music Hall)",
-        "url": "https://open.spotify.com/album/1I20hO7qTPRcHrjDaDaeI9"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 242573,
-      "name": "In Your Love - Live From Radio City Music Hall",
-      "url": "https://open.spotify.com/track/1vlF4jSU2nAWMjsGkzgFio"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
         "name": "FISHIN' IN THE DARK (Live from the Road)",
         "url": "https://open.spotify.com/album/5zBeDeoGCCBq8OYdtYQcKl"
       },
@@ -967,6 +951,22 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
+        "name": "In Your Love (Live From Radio City Music Hall)",
+        "url": "https://open.spotify.com/album/1I20hO7qTPRcHrjDaDaeI9"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 242573,
+      "name": "In Your Love - Live From Radio City Music Hall",
+      "url": "https://open.spotify.com/track/1vlF4jSU2nAWMjsGkzgFio"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
         "name": "We Out Here: Live",
         "url": "https://open.spotify.com/album/5cxqlKuwtwuJOxFmAL2SSB"
       },
@@ -979,6 +979,26 @@
       "duration_ms": 216656,
       "name": "Different \u2018Round Here - Live",
       "url": "https://open.spotify.com/track/3ENzGRDiKCLnbWXuY8vibZ"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
+        "name": "Live in No Shoes Nation",
+        "url": "https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "duration_ms": 285733,
+      "name": "You and Tequila (with Grace Potter) - Live",
+      "url": "https://open.spotify.com/track/42J7EbIglcJtzqeMSHD16P"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1011,26 +1031,6 @@
       "duration_ms": 199106,
       "name": "Luckenbach, Texas (Back to the Basics of Love) - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/2wkfdRXeYncUBraBBjeMoI"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
-        "name": "Live in No Shoes Nation",
-        "url": "https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        },
-        {
-          "name": "Grace Potter",
-          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
-        }
-      ],
-      "duration_ms": 285733,
-      "name": "You and Tequila (with Grace Potter) - Live",
-      "url": "https://open.spotify.com/track/42J7EbIglcJtzqeMSHD16P"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "An Evening With John Denver",
-        "url": "https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Take Me Home, Country Roads - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974",
-      "url": "https://open.spotify.com/track/6sPWx6muyq4EQ7edBCqVTy"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
         "name": "Kenny Chesney Live",
         "url": "https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 285306,
       "name": "Back Where I Come From - Live",
       "url": "https://open.spotify.com/track/3ib4ycdeIE13s5heRkMYNU"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
+        "name": "An Evening With John Denver",
+        "url": "https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Take Me Home, Country Roads - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974",
+      "url": "https://open.spotify.com/track/6sPWx6muyq4EQ7edBCqVTy"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Live From London",
-        "url": "https://open.spotify.com/album/5YHZoRo1sGcOfWVYMUP9Ch"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 214407,
-      "name": "Over Now - Live From London",
-      "url": "https://open.spotify.com/track/0sUzqTXuvRZQGkWb3uhbj1"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
         "name": "Live in No Shoes Nation",
         "url": "https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "No Horse To Ride (Live From Boston)",
-        "url": "https://open.spotify.com/album/7ojhjADjKK2rqXSbao0pfp"
+        "name": "Live From London",
+        "url": "https://open.spotify.com/album/5YHZoRo1sGcOfWVYMUP9Ch"
       },
       "artists": [
         {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
         }
       ],
-      "duration_ms": 226523,
-      "name": "No Horse To Ride - Live From Boston",
-      "url": "https://open.spotify.com/track/1LfvRCAx0kgP6cbpmArtel"
+      "duration_ms": 214407,
+      "name": "Over Now - Live From London",
+      "url": "https://open.spotify.com/track/0sUzqTXuvRZQGkWb3uhbj1"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "From The Road, Vol. 1: Covers",
-        "url": "https://open.spotify.com/album/21IWSt2SQY3fWoV4P1sbi0"
+        "name": "No Horse To Ride (Live From Boston)",
+        "url": "https://open.spotify.com/album/7ojhjADjKK2rqXSbao0pfp"
       },
       "artists": [
         {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
         }
       ],
-      "duration_ms": 264892,
-      "name": "Margaritaville - Live at Coastal Credit Union Music Park at Walnut Creek, Raleigh, NC, 10.05.2023",
-      "url": "https://open.spotify.com/track/70OjE1ads6dRCLzMMYn6jU"
+      "duration_ms": 226523,
+      "name": "No Horse To Ride - Live From Boston",
+      "url": "https://open.spotify.com/track/1LfvRCAx0kgP6cbpmArtel"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1283,6 +1267,22 @@
       "duration_ms": 303920,
       "name": "When The Sun Goes Down - Duet With Uncle Kracker (Live)",
       "url": "https://open.spotify.com/track/7pQK5p4esbVIzuXI5dATaw"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
+        "name": "From The Road, Vol. 1: Covers",
+        "url": "https://open.spotify.com/album/21IWSt2SQY3fWoV4P1sbi0"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 264892,
+      "name": "Margaritaville - Live at Coastal Credit Union Music Park at Walnut Creek, Raleigh, NC, 10.05.2023",
+      "url": "https://open.spotify.com/track/70OjE1ads6dRCLzMMYn6jU"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Live at Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm"
-      },
-      "artists": [
-        {
-          "name": "Johnny Lee",
-          "url": "https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu"
-        }
-      ],
-      "duration_ms": 242369,
-      "name": "Lookin' For Love",
-      "url": "https://open.spotify.com/track/1dWA2xldshVfzaVFBU1mq5"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
         "name": "Hate How You Look (Live From London)",
         "url": "https://open.spotify.com/album/5s1LYXS2J3hh48RZj2OMfb"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 214760,
       "name": "Human - Live",
       "url": "https://open.spotify.com/track/3NgbbHsDqsnGkV71PRgs2K"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm"
+      },
+      "artists": [
+        {
+          "name": "Johnny Lee",
+          "url": "https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu"
+        }
+      ],
+      "duration_ms": 242369,
+      "name": "Lookin' For Love",
+      "url": "https://open.spotify.com/track/1dWA2xldshVfzaVFBU1mq5"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Live from the Ryman",
-        "url": "https://open.spotify.com/album/46kzMpUsEmPdoEDtUWLjDM"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 170466,
-      "name": "Welcome to Hard Times - Live from the Ryman",
-      "url": "https://open.spotify.com/track/4QxGtOtabeAuy4WJ6OqG5V"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
         "name": "On The Air: Her Best TV Performances",
         "url": "https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 166466,
       "name": "She's Got You - Live",
       "url": "https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
+        "name": "Live from the Ryman",
+        "url": "https://open.spotify.com/album/46kzMpUsEmPdoEDtUWLjDM"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 170466,
+      "name": "Welcome to Hard Times - Live from the Ryman",
+      "url": "https://open.spotify.com/track/4QxGtOtabeAuy4WJ6OqG5V"
     },
     {
       "added_at": "2026-04-15 17:00:10",

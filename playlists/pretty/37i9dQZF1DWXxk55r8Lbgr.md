@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 
 > 蘑菇濃湯來了！快點快點快點呦！和寶貝一起快樂唱唱跳跳吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,100 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,099 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 | 17 | [麻糬打滾](https://open.spotify.com/track/0hSS3coomlHAtaA8MXDU7B) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [麻糬﻿打滾](https://open.spotify.com/album/3fdMF56vM4l51GsBViI8Xe) | 2:07 |
 | 18 | [數星星](https://open.spotify.com/track/7bKGg3Ahf6R0T32jAbjJhu) | [謝欣芷](https://open.spotify.com/artist/4f2iKhkX8mIKNK4G4Ba5iJ) | [幸福的孩子愛唱歌](https://open.spotify.com/album/7qBWhK85vJBxsL4xVqXxhC) | 4:13 |
 | 19 | [兩隻老虎](https://open.spotify.com/track/5Br1IWBAQtjDSR8Q5mD6Jn) | [MIKA STUDIO](https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2) | [樂唱童學會 世界經典童謠 中文演唱版](https://open.spotify.com/album/2pfQFJ5G0GjZaNiLqxzL5R) | 0:56 |
-| 20 | [勇气大爆发](https://open.spotify.com/track/2vGCXaaTtZOTThEdnnsWAc) | [土豆王国小乐队](https://open.spotify.com/artist/6kevIHD0IeZoso5Pyt2r77), [奶糖乐团](https://open.spotify.com/artist/11mWcwedAZroQwhgbPtokr), [貝樂虎](https://open.spotify.com/artist/5ZdmFRkxym0oPSDwIBoYoQ) | [勇气大爆发](https://open.spotify.com/album/7k17PJctEb2zMb0y9lZyBI) | 3:13 |
+| 20 | [開場歌1大聲說哈囉](https://open.spotify.com/track/3AWQihVPxAqCSefg6D2tGt) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's LOVE](https://open.spotify.com/album/7hruXsIAMq5VG5hh0hwyU3) | 0:49 |
 | 21 | [捏泥巴](https://open.spotify.com/track/6cs1kK33Fn6a9fBI2G6qVE) | [YOYO家族藝人](https://open.spotify.com/artist/6s8WAcX7G8VMpOH1926RMi) | [YoYo點點名8 \- 動物音樂課](https://open.spotify.com/album/45Puppm2SF0vj3RKSkXQlx) | 2:36 |
 | 22 | [一百隻斑馬](https://open.spotify.com/track/2I3HHzCO87ixiD0sWuCJ0k) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [一百隻斑馬](https://open.spotify.com/album/01ZadUJvvzz5vm4emFqWk4) | 2:03 |
-| 23 | [開場歌1大聲說哈囉](https://open.spotify.com/track/3AWQihVPxAqCSefg6D2tGt) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's LOVE](https://open.spotify.com/album/7hruXsIAMq5VG5hh0hwyU3) | 0:49 |
+| 23 | [勇气大爆发](https://open.spotify.com/track/2vGCXaaTtZOTThEdnnsWAc) | [土豆王国小乐队](https://open.spotify.com/artist/6kevIHD0IeZoso5Pyt2r77), [奶糖乐团](https://open.spotify.com/artist/11mWcwedAZroQwhgbPtokr), [貝樂虎](https://open.spotify.com/artist/5ZdmFRkxym0oPSDwIBoYoQ) | [勇气大爆发](https://open.spotify.com/album/7k17PJctEb2zMb0y9lZyBI) | 3:13 |
 | 24 | [瑪莉有隻小綿羊](https://open.spotify.com/track/6SyX3VoVqkD23KlwFN0yYt) | [MIKA STUDIO](https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2) | [樂唱童學會 世界經典童謠 中文演唱版](https://open.spotify.com/album/2pfQFJ5G0GjZaNiLqxzL5R) | 1:07 |
 | 25 | [快乐起床歌](https://open.spotify.com/track/7hpxOLxRObL1GdlOrEONTG) | [张晶晶](https://open.spotify.com/artist/6uGRh9i4m8kSWZ6kus65B2) | [快乐起床歌](https://open.spotify.com/album/2a1jzAssMtAQtCAqkS1kae) | 3:30 |
 | 26 | [棒棒棒](https://open.spotify.com/track/0EnTWjXgf8U0NTZB5lyspk) | [YOYO家族藝人](https://open.spotify.com/artist/6s8WAcX7G8VMpOH1926RMi) | [YoYo點點名9 \- 愛是大明星](https://open.spotify.com/album/3o77dNfJDrzyWm65RpcAjn) | 2:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Sweet songs for sunny days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,638,765 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,638,555 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 40 | [Strawberry](https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Strawberry](https://open.spotify.com/album/2YnTYD0KOo8XrAQJTjnyQy) | 3:09 |
 | 41 | [Old Pine \- EP Version](https://open.spotify.com/track/3KdYkzww6dbqQ37bNQSODD) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [The Old Pine E.P.](https://open.spotify.com/album/0k58WX5uI2CNJ0BlH1cKXA) | 4:17 |
 | 42 | [Quiet Eyes](https://open.spotify.com/track/10IrJGEY0f48OGywIkZauw) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Quiet Eyes](https://open.spotify.com/album/4aZBqoFGmmFpRvS8TW6jXW) | 3:37 |
-| 43 | [Smoked](https://open.spotify.com/track/4RC5sdt02mjwuxSG1e7QDe) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [I'll Be Waving As You Drive Away](https://open.spotify.com/album/5LZVQiwNWzbq8W1cT9MxHe) | 5:18 |
-| 44 | [Weather](https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [With Me in the Summer](https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk) | 5:00 |
+| 43 | [Weather](https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [With Me in the Summer](https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk) | 5:00 |
+| 44 | [Smoked](https://open.spotify.com/track/4RC5sdt02mjwuxSG1e7QDe) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [I'll Be Waving As You Drive Away](https://open.spotify.com/album/5LZVQiwNWzbq8W1cT9MxHe) | 5:18 |
 | 45 | [Twin](https://open.spotify.com/track/4l7sD2PFNFdeJpQueQR2YK) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Theatre](https://open.spotify.com/album/0EoYsG4MursZcQp8DGp5pH) | 5:17 |
 | 46 | [Birdseye](https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Birdseye](https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7) | 2:31 |
 | 47 | [Somebody Like Me](https://open.spotify.com/track/4Pta1RInQ95Al4Dj0qicmk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:56 |

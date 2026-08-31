@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Abbie Gamboa
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,681 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,702 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

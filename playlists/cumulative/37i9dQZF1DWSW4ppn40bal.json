@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 234000,
       "name": "Brown Noise Klangspiel",
       "url": "https://open.spotify.com/track/2fDFI6ijeWLkeg3vJSop2x"
@@ -3242,6 +3242,24 @@
       "duration_ms": 192000,
       "name": "Brown Sleep Noise",
       "url": "https://open.spotify.com/track/1pUi52OQkr7xkYOdCnt14u"
+    },
+    {
+      "album": {
+        "name": "Brown Sleep Noise",
+        "url": "https://open.spotify.com/album/0KJFGiFLZESVDmpujGtQKV"
+      },
+      "artists": [
+        {
+          "name": "Hybrid Treasure",
+          "url": "https://open.spotify.com/artist/5A8KqUhcyeE6FIGkTADd2J"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174750,
+      "name": "Brown Sleep Noise",
+      "url": "https://open.spotify.com/track/3pGRbAak0NtlGJXxwjIIRV"
     },
     {
       "album": {
@@ -4696,7 +4714,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 182044,
       "name": "Deep Pink Dreams",
       "url": "https://open.spotify.com/track/24EEpY31RWOa3gGqZ9hEfR"
@@ -5981,6 +5999,24 @@
     },
     {
       "album": {
+        "name": "Harmonic Brown",
+        "url": "https://open.spotify.com/album/5zdbdqrWjIERMAy2NZ0i3Z"
+      },
+      "artists": [
+        {
+          "name": "Aileron",
+          "url": "https://open.spotify.com/artist/2KETNse3N25ZwsHhq2iQnt"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178750,
+      "name": "Harmonic Brown",
+      "url": "https://open.spotify.com/track/4jTjUAAHxrC7DXt8PG5fFp"
+    },
+    {
+      "album": {
         "name": "Harmonic Rose",
         "url": "https://open.spotify.com/album/1j8KAuOBPyNDsBwkQ2gFNZ"
       },
@@ -6086,6 +6122,24 @@
       "duration_ms": 144992,
       "name": "Herbal Hour",
       "url": "https://open.spotify.com/track/3ME4Yw6cFOu2yJcbish3hw"
+    },
+    {
+      "album": {
+        "name": "Hidden Highway Noise",
+        "url": "https://open.spotify.com/album/4HtmYbhdWYkp5tn562W2Gi"
+      },
+      "artists": [
+        {
+          "name": "Nebularity",
+          "url": "https://open.spotify.com/artist/41SRniyeD8nJ7HDfSRm92m"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157199,
+      "name": "Hidden Highway Noise",
+      "url": "https://open.spotify.com/track/2owX6c8b6jBYxolA9mJs4l"
     },
     {
       "album": {
@@ -10024,7 +10078,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 172000,
       "name": "Pink Steady Flowing Noise",
       "url": "https://open.spotify.com/track/5ZvyTGWWdNdXF6lnhpWGQp"

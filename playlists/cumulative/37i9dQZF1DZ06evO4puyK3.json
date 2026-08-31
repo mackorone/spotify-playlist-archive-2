@@ -27,6 +27,32 @@
     },
     {
       "album": {
+        "name": "PUT@RIA & POE$IA (mixtape)",
+        "url": "https://open.spotify.com/album/43T5mcn5KkRMK81HgYNfb7"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171776,
+      "name": "1%",
+      "url": "https://open.spotify.com/track/6QYmWKcEzwfcZ6zegbeIa4"
+    },
+    {
+      "album": {
         "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
       },
@@ -2024,7 +2050,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 157600,
       "name": "SEDANAPO",
       "url": "https://open.spotify.com/track/1rUKbbmml6cYgkRVwJOTbN"

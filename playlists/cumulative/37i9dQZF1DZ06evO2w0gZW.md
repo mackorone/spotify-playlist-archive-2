@@ -4,7 +4,7 @@
 
 > This is Mariah Carey\. The essential tracks, all in one playlist.
 
-111 songs - 7 hr 27 min
+112 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [How Much \(feat\. Usher\) \- So So Def Remix](https://open.spotify.com/track/1tkQjwwuvWlMRiRgRD8ZNy) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [Rainbow: 25th Anniversary Expanded Edition](https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I) | 3:28 | 2024-06-17 | 2024-08-20 |
 | [I Am Free](https://open.spotify.com/track/0cCJ8mOuvpqb3Ic2FAooW6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 3:07 | 2026-08-26 | 2026-08-28 |
 | [I Don't Wanna Cry](https://open.spotify.com/track/1hFtJ5rV3aAm58ErijHdFO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 4:47 | 2023-12-13 | 2026-08-28 |
-| [I Know What You Want \(feat\. Flipmode Squad\)](https://open.spotify.com/track/0YImOCkIJ2PWhCXaURCZnY) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Flipmode Squad](https://open.spotify.com/artist/7JXCJDLGh1k9cg6JbYCpYl) | [It Ain't Safe No More\. \. .](https://open.spotify.com/album/3cBk22r1tb6omRQ4jr6SE8) | 5:24 | 2023-07-28 |  |
+| [I Know What You Want \(feat\. Flipmode Squad\)](https://open.spotify.com/track/0YImOCkIJ2PWhCXaURCZnY) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Flipmode Squad](https://open.spotify.com/artist/7JXCJDLGh1k9cg6JbYCpYl) | [It Ain't Safe No More\. \. .](https://open.spotify.com/album/3cBk22r1tb6omRQ4jr6SE8) | 5:24 | 2023-07-28 | 2026-08-31 |
+| [I Know What You Want \(feat\. Flipmode Squad\)](https://open.spotify.com/track/2WTvFsgi4XoZEGE8hMTty5) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Flipmode Squad](https://open.spotify.com/artist/7JXCJDLGh1k9cg6JbYCpYl) | [It Ain't Safe No More\. \. .](https://open.spotify.com/album/1DXLebGGKvd7uKBxdDwqAa) | 5:24 | 2026-08-31 |  |
 | [I Stay In Love](https://open.spotify.com/track/2rd22W7kQvr4I2D2JWhCJr) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:32 | 2023-07-28 |  |
 | [I Still Believe](https://open.spotify.com/track/2feekrJqyB9lBEBgC54IQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [I Still Believe EP](https://open.spotify.com/album/1xq3CF71gkQhjPdORWp4rt) | 3:56 | 2023-07-28 |  |
 | [I Want To Know What Love Is](https://open.spotify.com/track/4ttCCNTaRSKmgFYOmNQzsO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel \(International Version\)](https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0) | 3:27 | 2023-07-28 |  |

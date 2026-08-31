@@ -1,6 +1,6 @@
 {
   "description": "Try a little tenderness. Cover: Cleo Sol ",
-  "num_followers": 57582,
+  "num_followers": 57583,
   "original_name": "soulful",
   "owner": {
     "name": "Spotify",
@@ -725,6 +725,22 @@
       "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
     },
     {
+      "added_at": "2026-08-20 14:00:40",
+      "album": {
+        "name": "Happiness Anytime: Part 2",
+        "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 178702,
+      "name": "Talk It Over",
+      "url": "https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3"
+    },
+    {
       "added_at": "2026-01-23 01:47:43",
       "album": {
         "name": "Heaven",
@@ -739,6 +755,38 @@
       "duration_ms": 199615,
       "name": "Self",
       "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Seems Like",
+        "url": "https://open.spotify.com/album/2tap8Qg9edttnopPumKebe"
+      },
+      "artists": [
+        {
+          "name": "Thee Sinseers",
+          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
+        }
+      ],
+      "duration_ms": 194020,
+      "name": "Seems Like",
+      "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "2 Much",
+        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
+      },
+      "artists": [
+        {
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "2 Much",
+      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
     },
     {
       "added_at": "2026-08-13 23:00:17",
@@ -759,38 +807,6 @@
       "duration_ms": 386020,
       "name": "Witch Doctor",
       "url": "https://open.spotify.com/track/7H2FmMnHfLRj8yoJpdl6A6"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
-        "name": "2 Much",
-        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
-      },
-      "artists": [
-        {
-          "name": "Qendresa",
-          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "2 Much",
-      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
-        "name": "Seems Like",
-        "url": "https://open.spotify.com/album/2tap8Qg9edttnopPumKebe"
-      },
-      "artists": [
-        {
-          "name": "Thee Sinseers",
-          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
-        }
-      ],
-      "duration_ms": 194020,
-      "name": "Seems Like",
-      "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -827,22 +843,6 @@
       "duration_ms": 327706,
       "name": "Inner City Blues (Make Me Wanna Holler)",
       "url": "https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4"
-    },
-    {
-      "added_at": "2026-08-20 14:00:40",
-      "album": {
-        "name": "Happiness Anytime: Part 2",
-        "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 178702,
-      "name": "Talk It Over",
-      "url": "https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -1213,22 +1213,6 @@
       "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
     },
     {
-      "added_at": "2026-04-09 14:00:37",
-      "album": {
-        "name": "Turnaround / I'm Hooked",
-        "url": "https://open.spotify.com/album/3Nt7AounpxUPNRkMJErdtw"
-      },
-      "artists": [
-        {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
-        }
-      ],
-      "duration_ms": 194227,
-      "name": "Turnaround",
-      "url": "https://open.spotify.com/track/3CaslR7DULHhYM6OXhxFL5"
-    },
-    {
       "added_at": "2026-01-23 01:47:43",
       "album": {
         "name": "Speakerboxxx/The Love Below",
@@ -1243,6 +1227,26 @@
       "duration_ms": 326240,
       "name": "Prototype",
       "url": "https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Sinseerly Yours",
+        "url": "https://open.spotify.com/album/7lNj0BxtEBKhQNtYVqpby6"
+      },
+      "artists": [
+        {
+          "name": "Thee Sinseers",
+          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
+        },
+        {
+          "name": "Joey Qui\u00f1ones",
+          "url": "https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP"
+        }
+      ],
+      "duration_ms": 173776,
+      "name": "Sinseerly Yours",
+      "url": "https://open.spotify.com/track/228Ap7fHnb2BUsdopPrjxx"
     }
   ],
   "unique_name": "soulful",

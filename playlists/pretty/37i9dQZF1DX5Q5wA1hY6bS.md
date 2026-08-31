@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 
 > the best things in life can't be contained.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,324,381 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,324,265 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 69 | [Fancy Drones \(Fracture Me\)](https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:37 |
 | 70 | [Banshee Moan](https://open.spotify.com/track/5HjMZLtFasGq1zqeP4kWMU) | [Shannon McNally](https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T) | [Black Irish](https://open.spotify.com/album/5Tk9aO6Qu39iHU57nldhtl) | 4:01 |
 | 71 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
-| 72 | [Teenage Drug](https://open.spotify.com/track/2FpLyV7tVMRHJAq3foYHPU) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [En Garde](https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy) | 3:40 |
-| 73 | [Expectations](https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/6zP9AZREIcUvAjpX2lKRIl) | 3:55 |
+| 72 | [Expectations](https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/6zP9AZREIcUvAjpX2lKRIl) | 3:55 |
+| 73 | [Teenage Drug](https://open.spotify.com/track/2FpLyV7tVMRHJAq3foYHPU) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [En Garde](https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy) | 3:40 |
 | 74 | [If Something Breaks](https://open.spotify.com/track/7DjrbcooF37ZDOLjOK33xN) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Other Love Songs](https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ) | 4:56 |
 | 75 | [Wishing Girl](https://open.spotify.com/track/4mg7HYMVMmdACnDpEGETiK) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Wishing Girl](https://open.spotify.com/album/0MNyqTTXzC3al4QRSLrf6z) | 3:12 |
 | 76 | [A Random Act Of Kindness](https://open.spotify.com/track/5GepgBdAV6eI3RoijuHZua) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 4:14 |
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 82 | [Mountain Man](https://open.spotify.com/track/63YnmHKlutFFkgfFB0OcPU) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [Mountain Man](https://open.spotify.com/album/69Vry8bfaTqkz88FDDEbNG) | 3:58 |
 | 83 | [Summertime Mama](https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 2:56 |
 | 84 | [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 |
-| 85 | [Star to Star](https://open.spotify.com/track/3Ju1WFIZEe5hEZsKpfjC4B) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:49 |
-| 86 | [Prospector's Blues](https://open.spotify.com/track/1tfvW4LgacPraNoPKcYeFc) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Prospector's Blues](https://open.spotify.com/album/0IgccMfQHxbZw6WGV0DGqW) | 3:59 |
+| 85 | [Prospector's Blues](https://open.spotify.com/track/1tfvW4LgacPraNoPKcYeFc) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Prospector's Blues](https://open.spotify.com/album/0IgccMfQHxbZw6WGV0DGqW) | 3:59 |
+| 86 | [Star to Star](https://open.spotify.com/track/3Ju1WFIZEe5hEZsKpfjC4B) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:49 |
 | 87 | [Futures](https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 4:45 |
-| 88 | [Ghost](https://open.spotify.com/track/2BECFMSvqH5xq5RXMNVO0r) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Ghost](https://open.spotify.com/album/34U30cuzRVT1nQX0Hf9LUS) | 3:25 |
-| 89 | [Gimme the Beat Back](https://open.spotify.com/track/056W9KxE1pktCEsiydW6ZX) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Gimme the Beat Back](https://open.spotify.com/album/76VRoxpT60WNLRxMwovLfY) | 2:45 |
+| 88 | [Gimme the Beat Back](https://open.spotify.com/track/056W9KxE1pktCEsiydW6ZX) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Gimme the Beat Back](https://open.spotify.com/album/76VRoxpT60WNLRxMwovLfY) | 2:45 |
+| 89 | [Ghost](https://open.spotify.com/track/2BECFMSvqH5xq5RXMNVO0r) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Ghost](https://open.spotify.com/album/34U30cuzRVT1nQX0Hf9LUS) | 3:25 |
 | 90 | [Daniel](https://open.spotify.com/track/16rosLVYEGV8TO8VQqxxmm) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Daniel](https://open.spotify.com/album/5RiG6luXx2PXXTYAOjh6Tb) | 3:40 |
 | 91 | [Not Like It Was](https://open.spotify.com/track/7kAJjcUdOIDXVVowBEneH5) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Not Like It Was](https://open.spotify.com/album/2OXSKzWohxMSLtcDQIovDT) | 2:55 |
 | 92 | [Getting It Right](https://open.spotify.com/track/3W2DvPUsPGyCbfBZEgqPn8) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Getting It Right](https://open.spotify.com/album/3zA17MmyBmEogW6WHIDsWj) | 2:50 |

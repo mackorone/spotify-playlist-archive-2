@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,713 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,827 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 79 | [Sigo Fresh](https://open.spotify.com/track/50KdtoOHAI2Bp15YifdP02) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [You're Welcome](https://open.spotify.com/album/1hhtQL6iADIa5DoH7qZlIJ) | 3:09 |
 | 80 | [Illuminati \- Remix](https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Illuminati \(Remix\)](https://open.spotify.com/album/1hYkac7PNbTZlOOXwZJSam) | 4:50 |
 | 81 | [Haters \- Remix](https://open.spotify.com/track/1XuH3RXp7sCFPNof6xvFlm) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Haters \(Remix\)](https://open.spotify.com/album/7eh4EPAHsOFpon6iG7q75Q) | 5:28 |
-| 82 | [Se Terminó \(feat\. Kodigo\)](https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Se Terminó \(feat\. Kodigo\)](https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH) | 3:22 |
-| 83 | [Te Necesito](https://open.spotify.com/track/6EylLZvd69kYDDtT35gZOB) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Te Necesito](https://open.spotify.com/album/19jxPXaPFxk7pPFnG6oHqw) | 4:02 |
+| 82 | [Te Necesito](https://open.spotify.com/track/6EylLZvd69kYDDtT35gZOB) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Te Necesito](https://open.spotify.com/album/19jxPXaPFxk7pPFnG6oHqw) | 4:02 |
+| 83 | [Se Terminó \(feat\. Kodigo\)](https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Se Terminó \(feat\. Kodigo\)](https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH) | 3:22 |
 | 84 | [Yelo](https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Yelo](https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi) | 3:09 |
 | 85 | [Dubai](https://open.spotify.com/track/0iZO13BcjGGBuJzQ8Fj9R8) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Dubai](https://open.spotify.com/album/1Dpa94iJ05Y6F6eDL4lslm) | 2:37 |
 | 86 | [La Movie](https://open.spotify.com/track/4n6utGnsc8sxoRl1SIOPv7) | [Luigi 21 Plus](https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Pusho](https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [La Movie](https://open.spotify.com/album/4C8ptlfZoKQfEWQrjr1GZh) | 5:29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: LON3R JOHNY
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,139 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,166 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 36 | [SWEET LIKE SUGAR](https://open.spotify.com/track/02Z5w9818U2uGmdCf2RasX) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [SWEET LIKE SUGAR](https://open.spotify.com/album/297FcXyyU9OWhW1aulhNMJ) | 2:50 |
 | 37 | [JAMANTAH](https://open.spotify.com/track/6iP058p5l6mKsWqSEgGPhD) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [MDID](https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS) | 5:12 |
 | 38 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
-| 39 | [São Paulo](https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [São Paulo](https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7) | 3:53 |
-| 40 | [Senti Tanto](https://open.spotify.com/track/4VAybjMGGmc3ihxbMHQ5PM) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 2:42 |
+| 39 | [Senti Tanto](https://open.spotify.com/track/4VAybjMGGmc3ihxbMHQ5PM) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 2:42 |
+| 40 | [São Paulo](https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [São Paulo](https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7) | 3:53 |
 | 41 | [Segurança](https://open.spotify.com/track/6CQei9foPt8tr65hP8ESdQ) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Segurança](https://open.spotify.com/album/2dXGxbtFGYkpubKsCxvDgx) | 2:57 |
 | 42 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
 | 43 | [CARO](https://open.spotify.com/track/0zjmhKBOuslq0d26IEbVKD) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [CARO](https://open.spotify.com/album/4IwuZcwCQmHt7SEX2TUrxP) | 3:57 |

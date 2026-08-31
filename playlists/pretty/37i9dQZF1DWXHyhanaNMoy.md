@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes met Bokoesam! <a href="spotify:genre:0JQ5IMCbQBLqqeHyMt6DHl">Check hier meer zomer aanbevelingen!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,171 likes - 75 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,155 likes - 75 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 67 | [STARLIFE](https://open.spotify.com/track/2Yu5u6UdMlvJ7BhBWrqTVs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [STARLIFE](https://open.spotify.com/album/5JN1TjGwQjjNaNRMM888DM) | 2:22 |
 | 68 | [Brassen](https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde \(Deluxe\)](https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta) | 2:23 |
 | 69 | [Fashionweek](https://open.spotify.com/track/3AsS2rFZd9yvysDmPIXkDk) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [F\*CK KLEINE](https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7) | 2:29 |
-| 70 | [Zeg Het Meteen \(feat\. Yung Felix, Kleine John & Bartofso\)](https://open.spotify.com/track/73375slBm9kry1CSwgfkvg) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [Zeg Het Meteen \(feat\. Yung Felix, Kleine John & Bartofso\)](https://open.spotify.com/album/0WD0XInsjB8yxdSQn2vGUm) | 2:31 |
+| 70 | [zeg het meteen](https://open.spotify.com/track/73375slBm9kry1CSwgfkvg) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [zeg het meteen](https://open.spotify.com/album/0WD0XInsjB8yxdSQn2vGUm) | 2:31 |
 | 71 | [Maak Me Niet Heet](https://open.spotify.com/track/0npU90BM992t07Oh3hfaYb) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [De Ene Hand Wast De Ander \(Deluxe\)](https://open.spotify.com/album/4kiNumKo95FBrtwmIC6uF5) | 3:09 |
 | 72 | [Hoe Het Zit](https://open.spotify.com/track/5vcX8np7L6fTFlcfiEZCSK) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Tropische Winter \- EP](https://open.spotify.com/album/5Fb375HJAjUo2cpMVcMeYd) | 2:11 |
 | 73 | [Tonto](https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Tonto](https://open.spotify.com/album/2O4uIDxW5yiPcPiGFag99v) | 2:20 |

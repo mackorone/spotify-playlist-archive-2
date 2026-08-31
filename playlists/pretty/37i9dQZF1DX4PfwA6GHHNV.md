@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,432 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,431 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 38 | [Fora do Normal](https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs) | [THIFREE](https://open.spotify.com/artist/4i1onoDzdfZeBll14ktbfv), [Vignoli](https://open.spotify.com/artist/0jKm12TzXOaJBmb5hrG7q2), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [Fora do Normal](https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5) | 2:54 |
 | 39 | [BRINDE](https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8) | [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP), [Avicena](https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L) | [BRINDE](https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac) | 2:56 |
 | 40 | [Olé, Olé!](https://open.spotify.com/track/2Nt7cLUs1DuT6AckyYDK1B) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Olé, Olé!](https://open.spotify.com/album/1IsX7sfobRLBqRowRIuwOH) | 2:44 |
-| 41 | [Só pra você](https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc) | [Dash Foreal](https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA) | [Músicas Para Mulheres, Vol\. 1](https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF) | 2:47 |
+| 41 | [Coulda Shown You](https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg) | [Lucca DL](https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP), [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Coulda Shown You](https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n) | 2:21 |
 | 42 | [Segredo](https://open.spotify.com/track/0PjmCUmfHEwlXp6LjdmNmA) | [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh) | [Dengo](https://open.spotify.com/album/295G8XvTS3wV4qpysbaa4L) | 4:05 |
-| 43 | [Coulda Shown You](https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg) | [Lucca DL](https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP), [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Coulda Shown You](https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n) | 2:21 |
+| 43 | [Só pra você](https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc) | [Dash Foreal](https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA) | [Músicas Para Mulheres, Vol\. 1](https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF) | 2:47 |
 | 44 | [A Beira Mar](https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH) | [Jhayam](https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I), [Zeferina](https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr), [D3javú](https://open.spotify.com/artist/06T09O5s3kk54TE8jrCngJ) | [A Beira Mar](https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N) | 3:48 |
 | 45 | [Blues](https://open.spotify.com/track/3Iqr5U8iVPlwy1v7pKQ4fQ) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Blues](https://open.spotify.com/album/7uaZKrYAdBdge7eb7gqlJN) | 2:44 |
 | 46 | [Doce Veneno](https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Doce Veneno](https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm) | 2:15 |

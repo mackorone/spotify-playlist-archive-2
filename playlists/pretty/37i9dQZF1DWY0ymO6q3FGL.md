@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ymO6q3FGL.md) - [plain]
 
 > All your favorite Minecraft tracks in one essential playlist – with music from every game, remixes, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,018 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,310 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ymO6q3FGL.md) - [plain]
 | 28 | [Double Time \(Tumble\)](https://open.spotify.com/track/4Hbh0oYptAz35Qqo8SDScJ) | [Gareth Coker](https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft: Battle & Tumble \(Original Soundtrack\)](https://open.spotify.com/album/17T3bbZXPaGaKKQfDPTDhc) | 1:14 |
 | 29 | [Earth](https://open.spotify.com/track/4pf40ltrCNfApfd9YRDhJT) | [Shauny Jang](https://open.spotify.com/artist/1malzFcs5qWAzJz96PSflk), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft Earth \(Original Game Soundtrack\)](https://open.spotify.com/album/2drEQYv4eaDTX4psee3eLU) | 5:47 |
 | 30 | [Stal](https://open.spotify.com/track/3YJtGYHVxcUa6EMSqHtIiW) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Beta](https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX) | 2:32 |
-| 31 | [Pigstep \(Stereo Mix\)](https://open.spotify.com/track/2TmUt0ofWMa02MdYkKhK4C) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft: Nether Update \(Original Game Soundtrack\)](https://open.spotify.com/album/0Q4LP9lkODPwHGCXZJJ3Rz) | 2:29 |
+| 31 | [Pigstep \- Stereo Mix](https://open.spotify.com/track/2TmUt0ofWMa02MdYkKhK4C) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft: Nether Update \(Original Game Soundtrack\)](https://open.spotify.com/album/0Q4LP9lkODPwHGCXZJJ3Rz) | 2:29 |
 | 32 | [Dalarna \- Lo\-Fi Remix](https://open.spotify.com/track/5U8XhGEfeODAZmdFKndnH2) | [ptr](https://open.spotify.com/artist/53cPZIVFwhgobBrkhNvoEp), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft Dungeons: Tranquil Beats \(Lo\-Fi Remix\)](https://open.spotify.com/album/7IcYdgj5w1DOQu4n1pSLE9) | 3:02 |
 | 33 | [The Well of Fate \- Remix](https://open.spotify.com/track/0aOO24SizFnLfcAt7QFH2i) | [Hendric Buenck](https://open.spotify.com/artist/0D9zFTdnsmNzQIwc1DsjL7), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft Legends: Laid Back Lutes \(Remix\)](https://open.spotify.com/album/1W3p6A4DmsN7JKbNlgOTtT) | 3:24 |
 | 34 | [Halland](https://open.spotify.com/track/6XJ97eSwNCemvmereo9LyB) | [Johan Johnson](https://open.spotify.com/artist/5M04wavkDSzPpqAzFMAjD2), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft Dungeons \(Original Game Soundtrack\)](https://open.spotify.com/album/77KIOM3IL0gaiBxvbPNws6) | 4:56 |

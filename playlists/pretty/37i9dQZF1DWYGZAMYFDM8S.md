@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,102,921 likes - 125 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,102,657 likes - 125 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,16 +61,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 | 51 | [Fly \- Acoustic](https://open.spotify.com/track/2YVK7RkwslK62gTCWboDPM) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Dual](https://open.spotify.com/album/4vCwbb8M7HVTPGrDGsTYh4) | 3:31 |
 | 52 | [The Meetings of the Waters](https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ) | 5:00 |
 | 53 | [Whisper In Her Ear](https://open.spotify.com/track/5YuHMfznSrE6qsKGQzcAnO) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Ash & Clay](https://open.spotify.com/album/151a4bghgq5jgbaZt96p71) | 4:04 |
-| 54 | [Feel Alive Again](https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Rosemary](https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h) | 4:14 |
-| 55 | [If I Didn’t Love You](https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [If I Didn’t Love You](https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG) | 4:06 |
+| 54 | [If I Didn’t Love You](https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [If I Didn’t Love You](https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG) | 4:06 |
+| 55 | [Feel Alive Again](https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Rosemary](https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h) | 4:14 |
 | 56 | [German Cars](https://open.spotify.com/track/4yPEdX4KdqujBwQWlzhBMu) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [German Cars](https://open.spotify.com/album/319NY8ddHWxtHWaYzbPdjT) | 3:21 |
 | 57 | [As Good As It Gets](https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [What A Relief](https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ) | 3:02 |
 | 58 | [Better Now \- Acoustic](https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu) | 3:54 |
 | 59 | [Shiver](https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To \(Deluxe Edition\)](https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3) | 3:53 |
 | 60 | [Purple Haze](https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Purple Haze](https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm) | 3:25 |
 | 61 | [Golden \(Acoustic\)](https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Golden \(Acoustic\)](https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br) | 5:07 |
-| 62 | [Weatherman](https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Weatherman](https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r) | 3:31 |
-| 63 | [Mexico](https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9) | 4:06 |
+| 62 | [Mexico](https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9) | 4:06 |
+| 63 | [Weatherman](https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Weatherman](https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r) | 3:31 |
 | 64 | [No One's Gonna Love You \- Live from Spotify Sweden](https://open.spotify.com/track/5MYfpFJYm8WNFGssR6H2Oz) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Spotify Sessions](https://open.spotify.com/album/2j80e8guCnpYphNJW8hSaX) | 3:59 |
 | 65 | [Woodpecker](https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 2:05 |
 | 66 | [I Don't Want to Go](https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [Water](https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w) | 5:04 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 | 83 | [Manly Man](https://open.spotify.com/track/3W8tRjkiC0TQZuUq0wA5zI) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Manly Man](https://open.spotify.com/album/79topiJ4Bj0SRE5XiBkpuH) | 3:30 |
 | 84 | [Used](https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [The Widow Knows E.P.](https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe) | 4:12 |
 | 85 | [ROLLERCOASTER](https://open.spotify.com/track/5jwgqsTNFsKQIMrwhGZ5et) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 3:48 |
-| 86 | [A song I wrote after therapy](https://open.spotify.com/track/3325MwcQJr4OL7Wq9D9TS9) | [Harry Hudson](https://open.spotify.com/artist/3btNpz9NEJ8ml352B8S7Qr) | [A song I wrote after therapy](https://open.spotify.com/album/3wUQjO7pxLrxUejTLff8kG) | 3:05 |
-| 87 | [Bashed Out](https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Bashed Out](https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv) | 3:41 |
+| 86 | [Bashed Out](https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Bashed Out](https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv) | 3:41 |
+| 87 | [A song I wrote after therapy](https://open.spotify.com/track/3325MwcQJr4OL7Wq9D9TS9) | [Harry Hudson](https://open.spotify.com/artist/3btNpz9NEJ8ml352B8S7Qr) | [A song I wrote after therapy](https://open.spotify.com/album/3wUQjO7pxLrxUejTLff8kG) | 3:05 |
 | 88 | [Drugstore Houses](https://open.spotify.com/track/2vOWeduJdE3pDR3c8uCE7Z) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Drugstore Houses](https://open.spotify.com/album/1tCGIJAUNK3k6JVRL62UO6) | 3:02 |
 | 89 | [howling](https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [howling](https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL) | 3:33 |
 | 90 | [Wild Turkey](https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 4:32 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 | 94 | [The Solitude](https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:46 |
 | 95 | [the castle](https://open.spotify.com/track/1BfkVeODgeTd1sFN9iKA33) | [Kashbocks](https://open.spotify.com/artist/3oDBh0mJjAvInc5heMl7ws) | [the castle](https://open.spotify.com/album/2BFNtCmTyyrneqIAeh0FQk) | 3:17 |
 | 96 | [Real Peach \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:15 |
-| 97 | [River](https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa) | [Soll](https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1) | [River](https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux) | 4:03 |
-| 98 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 |
+| 97 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 |
+| 98 | [River](https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa) | [Soll](https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1) | [River](https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux) | 4:03 |
 | 99 | [Tugboats](https://open.spotify.com/track/0o7UJe1SQW8kAPNSGU6FVY) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Tugboats \- EP](https://open.spotify.com/album/4YWD3lW1stJ601JlsaBOJ5) | 3:47 |
 | 100 | [Dance Again](https://open.spotify.com/track/6J8sDxzI3nJqHMnRcKX9VI) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Chiaroscuro](https://open.spotify.com/album/5atmHcN5ky3QHDN74C5DE4) | 3:31 |
 | 101 | [New Paint \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31VTJ3Bj2qQC6FzLht4Faz) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Spotify Singles](https://open.spotify.com/album/3VfqKMnjoIsXjBdbKRpGWu) | 2:58 |

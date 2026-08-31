@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: DAY LIMNS, Glória Groove
 
-1,205 songs - 2 day 11 hr 44 min
+1,206 songs - 2 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Aditivada](https://open.spotify.com/track/4dPgz4FpncqvH5B3SWSsnT) | [Júlia Rezende](https://open.spotify.com/artist/4ROjaB2Qac8zgm7PAdI4hE), [Dragon Boys](https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Aditivada](https://open.spotify.com/album/6FDC49unluZAfOG4rmSOSU) | 2:29 | 2024-12-13 | 2025-02-08 |
 | [AEIOU](https://open.spotify.com/track/49QWN3Hq99FriZqIWEISYQ) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [AEIOU](https://open.spotify.com/album/6SeOld4CS4Le8JuxMmkfXP) | 2:46 | 2023-06-16 | 2023-07-22 |
 | [AFF](https://open.spotify.com/track/26oPEb5dmO2uSEZHj2Pi6x) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [AFF](https://open.spotify.com/album/4qoLBUT9RETeODpecMewBv) | 2:26 | 2025-10-24 | 2026-01-31 |
-| [afinal o que é um amor tranquilo?](https://open.spotify.com/track/3iTYogUAhLKxmkU9xrFEAF) | [Mafe Peccin](https://open.spotify.com/artist/4s1uC5uMXKkZA3uoSwotx6) | [TRANSBORDAR](https://open.spotify.com/album/0o0qtnarLhFVdyqibL3OYB) | 2:45 | 2026-06-19 |  |
+| [afinal o que é um amor tranquilo?](https://open.spotify.com/track/3iTYogUAhLKxmkU9xrFEAF) | [Mafe Peccin](https://open.spotify.com/artist/4s1uC5uMXKkZA3uoSwotx6) | [TRANSBORDAR](https://open.spotify.com/album/0o0qtnarLhFVdyqibL3OYB) | 2:45 | 2026-06-19 | 2026-08-31 |
 | [Afropaty](https://open.spotify.com/track/3MtyP815SMmI3bMeLnxDWB) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Afropaty](https://open.spotify.com/album/5fOaa75x89O1eBzazgjGu7) | 2:22 | 2023-11-17 | 2024-06-15 |
 | [After Hours](https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 6:01 | 2020-10-20 | 2023-02-15 |
 | [Agarradinho \- Spotify Singles](https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [Agarradinho \- Spotify Singles](https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi) | 2:44 | 2025-08-15 |  |
@@ -622,6 +622,7 @@
 | [Me Equivoquei](https://open.spotify.com/track/4NxJEdrNSowGCiBu7PaZlr) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Me Equivoquei](https://open.spotify.com/album/2tfzksuOAdd6zkvxc7TMxE) | 2:32 | 2020-10-20 | 2022-07-29 |
 | [Me Lambe](https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 2:55 | 2023-08-18 | 2024-12-12 |
 | [Me Leia](https://open.spotify.com/track/4gFIABjzeZao470hQEa5di) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Me Leia](https://open.spotify.com/album/3ivBOcsmBMXEIr2truxiNE) | 3:48 | 2024-09-27 | 2024-10-19 |
+| [Me Leva](https://open.spotify.com/track/5Miye4PcHeGyXzmbP6bvzL) | [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Me Leva](https://open.spotify.com/album/6fx3dzXM3pMifJMQcPeKau) | 3:02 | 2026-08-28 |  |
 | [me leva pro rio](https://open.spotify.com/track/2MtNg5GShfuAx81P0yTmOs) | [GEORGIA](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [me leva pro rio](https://open.spotify.com/album/6ozqGnMMCCWKqarf5GiKrm) | 3:17 | 2026-08-28 |  |
 | [Me Pede](https://open.spotify.com/track/5XZeb44ubop1TqtpZy6tlc) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [LKAHH](https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw) | [Me Pede](https://open.spotify.com/album/4ocTbAztiGLSzyZzFHHkq5) | 2:36 | 2025-02-28 | 2025-03-29 |
 | [Me Tira de Loka](https://open.spotify.com/track/17dkVh3XU1zEsH6jNYrc9k) | [Sé da Rua](https://open.spotify.com/artist/5fSWje8abBCsGw0LucQt6P), [Sodomita](https://open.spotify.com/artist/3Cp40adI2d1cngPRDC1kX2), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Me Tira de Loka](https://open.spotify.com/album/6Q42zlCZzZ9nyhjXcrlfL9) | 2:59 | 2023-08-25 | 2023-09-09 |

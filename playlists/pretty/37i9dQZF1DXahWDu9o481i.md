@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: MILLENNIUM PARADE
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,403 likes - 76 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,412 likes - 76 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 59 | [Living Room Floor](https://open.spotify.com/track/3AP4jRZHwh2mmFJvSz9riQ) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Living Room Floor](https://open.spotify.com/album/2TnsBQiuT5RJe7W4jmsScO) | 4:19 |
 | 60 | [LONGING](https://open.spotify.com/track/3n8Y69tgxh3tk8BLxNAxLg) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [ANYWHERE HERE IS PERFECT \(DELUXE\)](https://open.spotify.com/album/6MKTrSshdclzuZG0piiQOh) | 1:49 |
 | 61 | [where 2人](https://open.spotify.com/track/6eRzqPeVhhHcg6VU4Kstxh) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5) | [where 2人](https://open.spotify.com/album/7b1kfK1jS2YXjEoom8QCof) | 1:52 |
-| 62 | [WHIP](https://open.spotify.com/track/5VSUBxfNbjniBXbK4vjg72) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [POWER HOUSE](https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h) | 3:12 |
-| 63 | [Bond Girl](https://open.spotify.com/track/0t4r8UtTpyhTHflgKoyRsZ) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Bond Girl](https://open.spotify.com/album/1gVfQOK0JCDALKvueOfMBn) | 2:31 |
+| 62 | [Bond Girl](https://open.spotify.com/track/0t4r8UtTpyhTHflgKoyRsZ) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Bond Girl](https://open.spotify.com/album/1gVfQOK0JCDALKvueOfMBn) | 2:31 |
+| 63 | [WHIP](https://open.spotify.com/track/5VSUBxfNbjniBXbK4vjg72) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [POWER HOUSE](https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h) | 3:12 |
 | 64 | [SELLOUT](https://open.spotify.com/track/5x8NAB7MbTaxHeuRAcpehp) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [SELLOUT](https://open.spotify.com/album/6kkuP0lBBavB4KlRAMPVwG) | 2:35 |
-| 65 | [Bonny](https://open.spotify.com/track/38Af6mSvET1v7XXpE4C21S) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Bonny](https://open.spotify.com/album/2KsCvxIGlrfeqj6OfCZ9QF) | 2:33 |
-| 66 | [Vending Machine Charcuterie Board](https://open.spotify.com/track/491ip2YwlE7v85miXDMHv8) | [Michael Christmas](https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp), [Chris Crack](https://open.spotify.com/artist/3wws8s15DuuQWiG2xct414), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Vending Machine Charcuterie Board](https://open.spotify.com/album/6abYB7k5OwCGmsO9EBzAwa) | 3:20 |
+| 65 | [Vending Machine Charcuterie Board](https://open.spotify.com/track/491ip2YwlE7v85miXDMHv8) | [Michael Christmas](https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp), [Chris Crack](https://open.spotify.com/artist/3wws8s15DuuQWiG2xct414), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Vending Machine Charcuterie Board](https://open.spotify.com/album/6abYB7k5OwCGmsO9EBzAwa) | 3:20 |
+| 66 | [Bonny](https://open.spotify.com/track/38Af6mSvET1v7XXpE4C21S) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Bonny](https://open.spotify.com/album/2KsCvxIGlrfeqj6OfCZ9QF) | 2:33 |
 | 67 | [The Reason](https://open.spotify.com/track/0zyMLOsWbWQmeq9PIIKiFk) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [I Can See](https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX) | 6:57 |
 | 68 | [My Journey](https://open.spotify.com/track/34R3T6Euc1Lllf1IaHVQXF) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Hips & Lips](https://open.spotify.com/artist/2xaQZsblWFPXPtlsNGgO3Q) | [My Journey](https://open.spotify.com/album/6YdEaSvHBeTVdzteLKe0hB) | 7:01 |
 | 69 | [espiral](https://open.spotify.com/track/1BGmn3of8EaszOvSdnASwY) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [espiral](https://open.spotify.com/album/4ZHMWkHggFiceto49B8oJQ) | 3:39 |

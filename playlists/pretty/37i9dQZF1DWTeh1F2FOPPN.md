@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/quintab/">Quinta Brunson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,392 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,407 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 | 22 | [A House Is Not a Home](https://open.spotify.com/track/4gFVTfg1EFuuXJguJe1Z7W) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 7:07 |
 | 23 | [I Just Died](https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 3:29 |
 | 24 | [I Can't Get Next To You](https://open.spotify.com/track/6aL6pPBaTMGgM558mplSnj) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Puzzle People](https://open.spotify.com/album/2CabyXUOSQqxUaPEw2FrnK) | 2:54 |
-| 25 | [Fallen](https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring](https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H) | 3:34 |
-| 26 | [The Panties](https://open.spotify.com/track/3ewIu3AibUiSiDNS0Ta8Lm) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [The New Danger](https://open.spotify.com/album/5v3WMkjb8qzmVLREB2AuQR) | 4:11 |
+| 25 | [The Panties](https://open.spotify.com/track/3ewIu3AibUiSiDNS0Ta8Lm) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [The New Danger](https://open.spotify.com/album/5v3WMkjb8qzmVLREB2AuQR) | 4:11 |
+| 26 | [Fallen](https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring](https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H) | 3:34 |
 | 27 | [Jealous Guy \- Live](https://open.spotify.com/track/7k0lw3bHc5JpqhMRGchjRg) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Live](https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5) | 3:09 |
 | 28 | [Hello](https://open.spotify.com/track/1rqduvolf1CVHSzY519bPp) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 5:19 |
 | 29 | [Pressure](https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Pressure](https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B) | 3:13 |

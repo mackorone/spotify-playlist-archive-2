@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 503909,
+  "num_followers": 504106,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
+        "name": "Up Down Jumper",
+        "url": "https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 432000,
+      "name": "Up Down Jumper",
+      "url": "https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul"
+    },
+    {
+      "added_at": "2026-08-07 04:11:56",
+      "album": {
         "name": "ACID",
         "url": "https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 181333,
       "name": "ACID",
       "url": "https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH"
-    },
-    {
-      "added_at": "2026-08-07 04:11:56",
-      "album": {
-        "name": "Up Down Jumper",
-        "url": "https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 432000,
-      "name": "Up Down Jumper",
-      "url": "https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul"
     },
     {
       "added_at": "2026-08-07 04:11:56",

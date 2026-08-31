@@ -1,6 +1,6 @@
 {
   "description": "A softer space.",
-  "num_followers": 609745,
+  "num_followers": 609710,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
@@ -313,22 +313,6 @@
       "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
     },
     {
-      "added_at": "2026-07-23 17:10:49",
-      "album": {
-        "name": "Whale Call",
-        "url": "https://open.spotify.com/album/3ZEV0pHcy7vDNVcEkm5Wi0"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 259503,
-      "name": "Whale Call",
-      "url": "https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3"
-    },
-    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "Slipping Through My Fingers",
@@ -343,6 +327,22 @@
       "duration_ms": 263500,
       "name": "Slipping Through My Fingers",
       "url": "https://open.spotify.com/track/5GRarkYarOgejsLCxLprQD"
+    },
+    {
+      "added_at": "2026-07-23 17:10:49",
+      "album": {
+        "name": "Whale Call",
+        "url": "https://open.spotify.com/album/3ZEV0pHcy7vDNVcEkm5Wi0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 259503,
+      "name": "Whale Call",
+      "url": "https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -393,22 +393,6 @@
       "url": "https://open.spotify.com/track/0AlPTC3ChJYKnBLQY11uP6"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "how can i pretend?",
-        "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "ur so pretty",
-      "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
-    },
-    {
       "added_at": "2024-10-10 23:35:59",
       "album": {
         "name": "You",
@@ -427,6 +411,22 @@
       "duration_ms": 206463,
       "name": "You (feat. Hermanos Guti\u00e9rrez)",
       "url": "https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "how can i pretend?",
+        "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "ur so pretty",
+      "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
     },
     {
       "added_at": "2024-10-10 23:35:59",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "The Florist",
-        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 190601,
-      "name": "The Florist",
-      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Next Thing",
         "url": "https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 112879,
       "name": "Sappho",
       "url": "https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "The Florist",
+        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 190601,
+      "name": "The Florist",
+      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -841,38 +841,6 @@
       "url": "https://open.spotify.com/track/3DXAC5bKciAE2hhGXX4GMc"
     },
     {
-      "added_at": "2026-07-23 17:10:49",
-      "album": {
-        "name": "The Clearing (B Sides)",
-        "url": "https://open.spotify.com/album/3ZJRLIRJZeK3TdBmnQJsib"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Gospel Oak",
-      "url": "https://open.spotify.com/track/0CjC7M4cRiy8tJT4ikgv81"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Like I Used To",
-        "url": "https://open.spotify.com/album/2WYwG9H90bEhcHdyeUdA3h"
-      },
-      "artists": [
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/0Wv9Ckm088qsVkMKPH170C"
-    },
-    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "Philadelphia (with Searows)",
@@ -891,6 +859,38 @@
       "duration_ms": 182513,
       "name": "Philadelphia (with Searows)",
       "url": "https://open.spotify.com/track/7areyJPur83YJOJLhvSXvH"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Like I Used To",
+        "url": "https://open.spotify.com/album/2WYwG9H90bEhcHdyeUdA3h"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/0Wv9Ckm088qsVkMKPH170C"
+    },
+    {
+      "added_at": "2026-07-23 17:10:49",
+      "album": {
+        "name": "The Clearing (B Sides)",
+        "url": "https://open.spotify.com/album/3ZJRLIRJZeK3TdBmnQJsib"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Gospel Oak",
+      "url": "https://open.spotify.com/track/0CjC7M4cRiy8tJT4ikgv81"
     },
     {
       "added_at": "2024-10-10 23:35:59",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Seventeen Going Under (Deluxe)",
-        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "The Dying Light",
-      "url": "https://open.spotify.com/track/0Ecl06jrr4EG4xOltXDuth"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 228760,
       "name": "Black Dog",
       "url": "https://open.spotify.com/track/37pShAS4iuRXJeRAa9k6xw"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Seventeen Going Under (Deluxe)",
+        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "The Dying Light",
+      "url": "https://open.spotify.com/track/0Ecl06jrr4EG4xOltXDuth"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 204101,
-      "name": "Only Love Can Wait",
-      "url": "https://open.spotify.com/track/0iGAHczl365Pswb8u6YeDF"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "This Is Really Going To Hurt",
         "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 158973,
       "name": "Never Get To Heaven",
       "url": "https://open.spotify.com/track/1r8gFL6v8mkD8CmwIQu2Lk"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 204101,
+      "name": "Only Love Can Wait",
+      "url": "https://open.spotify.com/track/0iGAHczl365Pswb8u6YeDF"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "unposted letters",
-        "url": "https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG"
-      },
-      "artists": [
-        {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
-        }
-      ],
-      "duration_ms": 205230,
-      "name": "unposted letters",
-      "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
-    },
-    {
       "added_at": "2024-08-29 19:59:48",
       "album": {
         "name": "Oblivion",
@@ -1475,6 +1459,22 @@
       "duration_ms": 269411,
       "name": "Skin Parade",
       "url": "https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "unposted letters",
+        "url": "https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 205230,
+      "name": "unposted letters",
+      "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Meet Me At The Record Store",
-        "url": "https://open.spotify.com/album/0TjsMhmfPwlXwk7Z2WK0S8"
-      },
-      "artists": [
-        {
-          "name": "Pa Sheehy",
-          "url": "https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX"
-        }
-      ],
-      "duration_ms": 233111,
-      "name": "Meet Me At The Record Store",
-      "url": "https://open.spotify.com/track/1J08Qpd5e0TgwlmhHrBHQY"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Thank You (SOLOMON VERSION)",
         "url": "https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 138600,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Meet Me At The Record Store",
+        "url": "https://open.spotify.com/album/0TjsMhmfPwlXwk7Z2WK0S8"
+      },
+      "artists": [
+        {
+          "name": "Pa Sheehy",
+          "url": "https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX"
+        }
+      ],
+      "duration_ms": 233111,
+      "name": "Meet Me At The Record Store",
+      "url": "https://open.spotify.com/track/1J08Qpd5e0TgwlmhHrBHQY"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
+        "name": "Life's Gonna Kill You (If You Let It)",
+        "url": "https://open.spotify.com/album/0IR4dwltpxKhwyD9DT6o6L"
       },
       "artists": [
         {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+          "name": "Man-Made Sunshine",
+          "url": "https://open.spotify.com/artist/3o7Com7ZIpDARXoOHwK4th"
         }
       ],
-      "duration_ms": 197653,
-      "name": "Ribbons",
-      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
+      "duration_ms": 275795,
+      "name": "Life's Gonna Kill You (If You Let It)",
+      "url": "https://open.spotify.com/track/5BU3BEHViPFjJlOvqCm5VJ"
     }
   ],
   "unique_name": "Gentle",

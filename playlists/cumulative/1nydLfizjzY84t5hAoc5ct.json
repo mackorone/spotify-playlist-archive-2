@@ -5271,6 +5271,28 @@
     },
     {
       "album": {
+        "name": "MACHINISM (The Remixes)",
+        "url": "https://open.spotify.com/album/7koanWNZfIhlXUY6zDTtBL"
+      },
+      "artists": [
+        {
+          "name": "Man of Moon",
+          "url": "https://open.spotify.com/artist/0aScxC3sfFGiG2U7xoyy49"
+        },
+        {
+          "name": "Sin Clair",
+          "url": "https://open.spotify.com/artist/0z05a8HVeCFl1QBGCqHv62"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202014,
+      "name": "Rise - Sin Clair Rework",
+      "url": "https://open.spotify.com/track/0yN84xG47V1DidUjC4VGcd"
+    },
+    {
+      "album": {
         "name": "Robin",
         "url": "https://open.spotify.com/album/0fXwQNJFqTDxNPG67QkuQU"
       },

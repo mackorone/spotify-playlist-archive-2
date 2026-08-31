@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CxGuIDY1G8.md) - [plain]
 
 > sugar and spice but for the eyes\. MVs only available for Spotify premium subscribers\. Cover: KATSEYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,096 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,206 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

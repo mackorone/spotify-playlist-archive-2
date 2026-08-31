@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Shreya Jain, Saahel, Parth Srivastava and other exciting artists.
 
-1,565 songs - 3 day 14 hr 4 min
+1,566 songs - 3 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Aaghaz](https://open.spotify.com/track/19AP3k64HdqYVvVbXbgk45) | [Swattrex](https://open.spotify.com/artist/1c4IXYT2idOski3WEtfJpW), [Shubham](https://open.spotify.com/artist/68ZWfWtbgNFunDDaLEPqXY) | [Safar](https://open.spotify.com/album/696394NG1QEWfygeHt6nQk) | 3:59 | 2024-07-05 | 2024-08-10 |
 | [Aaghaz\-E\-Ishq](https://open.spotify.com/track/1wqqyytFD8HoKWg06T1GCo) | [Satyajeet Jena](https://open.spotify.com/artist/35DaFPNjk0o133rxjRJ0W7), [Mrityunjay Pandey](https://open.spotify.com/artist/3oWgKfqTjiy5zDRX5dL5ps) | [Aaghaz\-E\-Ishq](https://open.spotify.com/album/4uq2U5N93OI2poB5vN4urI) | 4:21 | 2024-12-20 | 2025-05-03 |
 | [Aahista](https://open.spotify.com/track/2zNh45mWOtcjqR7ngX5oTJ) | [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Aahista](https://open.spotify.com/album/3veutYP2aHnBgmSbtI61t1) | 2:13 | 2025-05-30 | 2025-07-12 |
-| [Aahistaa](https://open.spotify.com/track/7zVshxffrsMhTcSfJV1LDm) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Aahistaa](https://open.spotify.com/album/0evoga6A3qZ9JOamv191WK) | 3:44 | 2026-06-19 |  |
+| [Aahistaa](https://open.spotify.com/track/7zVshxffrsMhTcSfJV1LDm) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Aahistaa](https://open.spotify.com/album/0evoga6A3qZ9JOamv191WK) | 3:44 | 2026-06-19 | 2026-08-31 |
 | [Aaj Kal](https://open.spotify.com/track/2kdomqzVkUfjIMURSnqByy) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Aaj Kal](https://open.spotify.com/album/5Z3rCu6ZTbNCS8RacJ3JnJ) | 3:33 | 2023-04-14 | 2023-06-30 |
 | [Aaj Phir](https://open.spotify.com/track/0ZhUr44gkooybSmoNgqjya) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Shruti Prakash](https://open.spotify.com/artist/4wTxusmB0eB08npurjqk5T) | [Aaj Phir](https://open.spotify.com/album/6KdQegAYeMPv8oIIjAtndT) | 1:09 | 2023-06-30 | 2023-07-29 |
 | [Aaj Rang Hai](https://open.spotify.com/track/2T02TsMZTTEVJeuSwCyD1w) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4) | [Aaj Rang Hai](https://open.spotify.com/album/1BSSoO2kKSgWCUpXuM34tC) | 2:22 | 2023-08-10 | 2023-09-02 |
@@ -563,6 +563,7 @@
 | [Intezar](https://open.spotify.com/track/2yuZXpAlfirFjU2K9sDBk6) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II), [Hitesh Lokhande](https://open.spotify.com/artist/42p0pfvWpQs8e4MJb3FFsl) | [Intezar](https://open.spotify.com/album/3PKvtaCmyp3dWVxo8fcd23) | 2:52 | 2024-05-03 | 2024-06-15 |
 | [Intezar \- Female Version](https://open.spotify.com/track/0wt8pr8qikMMN8r8F9gqLB) | [Srishti Bhandari](https://open.spotify.com/artist/0wZVnB36ng3hXHxkBReBpG) | [Intezar \(Female Version\)](https://open.spotify.com/album/2PqNVihrebsSQ6qfV8kVbD) | 3:07 | 2024-06-21 | 2024-07-27 |
 | [into the mind](https://open.spotify.com/track/4idQOMJrZsLKmk1yBxIwA7) | [aswekeepsearching](https://open.spotify.com/artist/3K1oloNu09kQTV0Idz378q) | [kyun?](https://open.spotify.com/album/5NIXIZNrcS9djbxSP7LLFX) | 4:07 | 2025-07-11 | 2025-08-02 |
+| [Iraada](https://open.spotify.com/track/1vtoDOyIB1CxhbhHgw83uu) | [Niyam](https://open.spotify.com/artist/5gSTgaslwP1tp7SO8cHBYL) | [Iraada](https://open.spotify.com/album/6V9VIxLvk3yXvk7ObyYikL) | 4:20 | 2026-08-28 |  |
 | [Is It Okay?](https://open.spotify.com/track/2KTzGihwWGpWXi3ysoAnW8) | [Amira Gill](https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS), [Anahita Dawar](https://open.spotify.com/artist/5QBO7zupabRkodbX53gLug) | [Is It Okay?](https://open.spotify.com/album/5ATVhjWHv6fKepQnjYPPRb) | 3:32 | 2025-03-27 | 2025-05-03 |
 | [Ishaare](https://open.spotify.com/track/33ZSjdEUt5LmAgF1DRizHF) | [Sejal](https://open.spotify.com/artist/1A7xjiZRn87g7WFbG9oMqU) | [Finding Joy](https://open.spotify.com/album/0eAenznPhLMhCpuKNmcNJW) | 1:53 | 2025-03-21 | 2025-04-19 |
 | [Ishaare](https://open.spotify.com/track/6Mf2tip4xjmlyGGaQRJr60) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k) | [Sweetburn](https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX) | 2:47 | 2025-08-11 | 2025-11-14 |

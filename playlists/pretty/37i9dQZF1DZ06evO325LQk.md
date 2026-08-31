@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 
 > This is SOPHIE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,452 likes - 43 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,447 likes - 43 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 | 7 | [Blaze That Ass](https://open.spotify.com/track/4phLrBsqNbIIA4SA7iJn6z) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Blaze That Ass](https://open.spotify.com/album/3HUmvO3t38JaKug0oIEOaL) | 2:55 |
 | 8 | [HARD](https://open.spotify.com/track/4dLgqMwWUiM1FzyedzhU2u) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [PRODUCT](https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY) | 2:54 |
 | 9 | [Is It Cold In The Water?](https://open.spotify.com/track/20vrVR0N1Y0zAJNmvnQJyg) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:32 |
-| 10 | [Let Me See Ya \(feat\. MUNA\)](https://open.spotify.com/track/6K0iZIS5wPirY5IHpxHvq5) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Let Me See Ya \(feat\. MUNA\)](https://open.spotify.com/album/4RCMft0azAOIIGWv3rpd6B) | 3:25 |
-| 11 | [Voices](https://open.spotify.com/track/3xP1Pvjs45aUMap2kk8okL) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Hi This Is Flume \(Mixtape\)](https://open.spotify.com/album/0enl6lyotKB8LKlUo5m2oJ) | 1:54 |
+| 10 | [Voices](https://open.spotify.com/track/3xP1Pvjs45aUMap2kk8okL) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Hi This Is Flume \(Mixtape\)](https://open.spotify.com/album/0enl6lyotKB8LKlUo5m2oJ) | 1:54 |
+| 11 | [Let Me See Ya \(feat\. MUNA\)](https://open.spotify.com/track/6K0iZIS5wPirY5IHpxHvq5) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Let Me See Ya \(feat\. MUNA\)](https://open.spotify.com/album/4RCMft0azAOIIGWv3rpd6B) | 3:25 |
 | 12 | [JUST LIKE WE NEVER SAID GOODBYE](https://open.spotify.com/track/2SCyDaDxOEmqgEvak5Yt0N) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [PRODUCT](https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY) | 3:08 |
 | 13 | [Faceshopping](https://open.spotify.com/track/59PYsHSyznHHH9gujZvO5Y) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:56 |
 | 14 | [Nothing More to Say \- Dub](https://open.spotify.com/track/7rGmOXB4xH2A5jEK0gKD3N) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Nothing More to Say](https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi) | 5:25 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 | 42 | [Why Lies \(feat\. BC Kingdom and LIZ\)](https://open.spotify.com/track/3Jo0w1uct8LO8vY7z21hLi) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 4:19 |
 | 43 | [Push Emission \(Whore Moans\)](https://open.spotify.com/track/508XruYEVyn4X8QudrlOFx) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 5:27 |
 
-Snapshot ID: `apDPgAAAAAAUJa2bKvQOv9xZThLK8qaS`
+Snapshot ID: `apIhAAAAAAD10aQ/wFQeCRNgLQYJh4km`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">Fresh Finds</a>  tracks around the world this year\. Cover: The Belair Lip Bombs
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,134 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,137 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 59 | [See You Around](https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [See You Around](https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf) | 4:02 |
 | 60 | [O’ Kay Tamis](https://open.spotify.com/track/1s1nPYN5ryw0OHejNO0eAV) | [It All Started In May](https://open.spotify.com/artist/1qWLxocXl9bpeqejuQ8zJX) | [O’ Kay Tamis](https://open.spotify.com/album/5TKMkaDXaNA84CswvnKokE) | 3:03 |
 | 61 | [I CHOSE YOU](https://open.spotify.com/track/1PjO51wQ3ZdzaLorG3M7M1) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 3:44 |
-| 62 | [Nkosi's Fantasia](https://open.spotify.com/track/0imRQRfzB7MW7zruc0RbLZ) | [Miki Ikhifa](https://open.spotify.com/artist/1U99EbW3KOGlztHeHqSjfo), [Nubalix](https://open.spotify.com/artist/6VdWeYimGqEwBMc0PQ1E5A) | [Nkosi's Fantasia: Chapter One](https://open.spotify.com/album/3dyG11vpxbE57LPrqfJZ7v) | 4:16 |
-| 63 | [be careful](https://open.spotify.com/track/2fqJrp3PktgwVUzRnTBc2Z) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [be careful](https://open.spotify.com/album/3PxqagBffynXxUsGlEcgNr) | 3:23 |
+| 62 | [be careful](https://open.spotify.com/track/2fqJrp3PktgwVUzRnTBc2Z) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [be careful](https://open.spotify.com/album/3PxqagBffynXxUsGlEcgNr) | 3:23 |
+| 63 | [Nkosi's Fantasia](https://open.spotify.com/track/0imRQRfzB7MW7zruc0RbLZ) | [Miki Ikhifa](https://open.spotify.com/artist/1U99EbW3KOGlztHeHqSjfo), [Nubalix](https://open.spotify.com/artist/6VdWeYimGqEwBMc0PQ1E5A) | [Nkosi's Fantasia: Chapter One](https://open.spotify.com/album/3dyG11vpxbE57LPrqfJZ7v) | 4:16 |
 | 64 | [eYeSiGht](https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [eYeSiGht](https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y) | 2:23 |
 | 65 | [Laughing track](https://open.spotify.com/track/5S10QxTIO34rSid4NL8ZfL) | [Mila Bea](https://open.spotify.com/artist/2zNoOjMtnHPRWgZKqEhxXm) | [Laughing track](https://open.spotify.com/album/3u2to7VATHhsYUUqaNwJrN) | 3:25 |
 | 66 | [Rocky](https://open.spotify.com/track/3vtnL1iTgAL0ZBxgVkKFrs) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Rocky](https://open.spotify.com/album/4OpT4b3qqq8pxu5urbFCPB) | 2:23 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 70 | [Nazarein Utaarun](https://open.spotify.com/track/2LcWtSGdbQ4QIpMoQGF8Yl) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Nazarein Utaarun](https://open.spotify.com/album/1CpcmGBZC6EVjmsXXGNSJw) | 2:29 |
 | 71 | [when you leave](https://open.spotify.com/track/6P9eHLKr7YYniDhFAF3AGy) | [woody](https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4) | [highs, lows & stargazing](https://open.spotify.com/album/6KdB8rhp7GZNSXf19ovSIM) | 3:12 |
 | 72 | [Hotel TV](https://open.spotify.com/track/0rmV9NKcTQ7YvvDQAOP7oL) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 4:37 |
-| 73 | [Skins](https://open.spotify.com/track/5munQvyxlq8hZNvTIrKoQT) | [The Orchestra \(For Now\)](https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG) | [Skins](https://open.spotify.com/album/2mXZjNoSOJ9422Gwvmh7Wu) | 4:20 |
-| 74 | [Good Time](https://open.spotify.com/track/4jCaZ9hfqm1CQRvshbvhTU) | [From Dave](https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6), [SUMMERGIRL](https://open.spotify.com/artist/6BtRULhGOoSfhbuf9esr27) | [Good Time](https://open.spotify.com/album/6YytS1n0RZNIXE6kgRRSP8) | 3:05 |
-| 75 | [Baddiez](https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Baddiez](https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu) | 2:43 |
+| 73 | [Baddiez](https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Baddiez](https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu) | 2:43 |
+| 74 | [Skins](https://open.spotify.com/track/5munQvyxlq8hZNvTIrKoQT) | [The Orchestra \(For Now\)](https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG) | [Skins](https://open.spotify.com/album/2mXZjNoSOJ9422Gwvmh7Wu) | 4:20 |
+| 75 | [Good Time](https://open.spotify.com/track/4jCaZ9hfqm1CQRvshbvhTU) | [From Dave](https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6), [SUMMERGIRL](https://open.spotify.com/artist/6BtRULhGOoSfhbuf9esr27) | [Good Time](https://open.spotify.com/album/6YytS1n0RZNIXE6kgRRSP8) | 3:05 |
 
 Snapshot ID: `AAAAAC+Lx32mrUgvQId786wJVas0TuZ2`

@@ -1,6 +1,6 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 34180,
+  "num_followers": 34192,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,26 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "Ambas - Maria Paula Godoy",
+        "url": "https://open.spotify.com/album/4kBNZfW1cHQlak5sJgoUUH"
+      },
+      "artists": [
+        {
+          "name": "Maria Paula Godoy",
+          "url": "https://open.spotify.com/artist/5RriG2maXzBfuXJkuHlcpi"
+        },
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "duration_ms": 110291,
+      "name": "El T\u00edmido (feat. Nahuel Pennisi)",
+      "url": "https://open.spotify.com/track/7LyLV7IpFkXcbRFMjgve4h"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Rosa de los Vientos",
         "url": "https://open.spotify.com/album/5Iah6Ecl6pm0CAhBpMdBMy"
       },
@@ -591,22 +611,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Churita",
-        "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
-      },
-      "artists": [
-        {
-          "name": "Mariana Baraj",
-          "url": "https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "La Guada",
-      "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Canciones Brotadas de Mi Ra\u00edz",
         "url": "https://open.spotify.com/album/7d7gZJrvoRDHsatfypRPTL"
       },
@@ -619,6 +623,22 @@
       "duration_ms": 171413,
       "name": "Quisiera Que Salga un Tigre",
       "url": "https://open.spotify.com/track/6msi20ktX6ssNFaipj64rD"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Churita",
+        "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
+      },
+      "artists": [
+        {
+          "name": "Mariana Baraj",
+          "url": "https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "La Guada",
+      "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -659,6 +679,86 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "Retrato de Familia",
+        "url": "https://open.spotify.com/album/4Elf50rCHcFpChAYDtzJGT"
+      },
+      "artists": [
+        {
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+        }
+      ],
+      "duration_ms": 208487,
+      "name": "Paisaje",
+      "url": "https://open.spotify.com/track/23EpodCa3x4eB5tlaqf9vd"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Despu\u00e9s de Usted",
+        "url": "https://open.spotify.com/album/6m1BrttDZNDyfErOjSTmdF"
+      },
+      "artists": [
+        {
+          "name": "Luna Monti y Juan Quintero",
+          "url": "https://open.spotify.com/artist/0YWHXy7l36hWrQLNhdSgBB"
+        }
+      ],
+      "duration_ms": 153840,
+      "name": "Mba e Pa Do\u00f1a Froilana",
+      "url": "https://open.spotify.com/track/0yNZHoLmY5WsgPzUGmiMup"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Conviccion",
+        "url": "https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2"
+      },
+      "artists": [
+        {
+          "name": "Rocio Araujo",
+          "url": "https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "Cuando Me Abandone el Alma",
+      "url": "https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Ojos de Cielo",
+        "url": "https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Ojos de Cielo",
+      "url": "https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Las Flores Buenas",
+        "url": "https://open.spotify.com/album/6W6hyz4Wg8S0Uwxwhbs46q"
+      },
+      "artists": [
+        {
+          "name": "Ligia Piro",
+          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
+        }
+      ],
+      "duration_ms": 184064,
+      "name": "El Surco",
+      "url": "https://open.spotify.com/track/791kBOIjiqzy3lFaAba0j1"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
         "url": "https://open.spotify.com/album/1Ldh7pJGCxaYhzvys0ryGc"
       },
@@ -691,106 +791,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Ambas - Maria Paula Godoy",
-        "url": "https://open.spotify.com/album/4kBNZfW1cHQlak5sJgoUUH"
-      },
-      "artists": [
-        {
-          "name": "Maria Paula Godoy",
-          "url": "https://open.spotify.com/artist/5RriG2maXzBfuXJkuHlcpi"
-        },
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        }
-      ],
-      "duration_ms": 110291,
-      "name": "El T\u00edmido (feat. Nahuel Pennisi)",
-      "url": "https://open.spotify.com/track/7LyLV7IpFkXcbRFMjgve4h"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Despu\u00e9s de Usted",
-        "url": "https://open.spotify.com/album/6m1BrttDZNDyfErOjSTmdF"
-      },
-      "artists": [
-        {
-          "name": "Luna Monti y Juan Quintero",
-          "url": "https://open.spotify.com/artist/0YWHXy7l36hWrQLNhdSgBB"
-        }
-      ],
-      "duration_ms": 153840,
-      "name": "Mba e Pa Do\u00f1a Froilana",
-      "url": "https://open.spotify.com/track/0yNZHoLmY5WsgPzUGmiMup"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Ojos de Cielo",
-        "url": "https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Ojos de Cielo",
-      "url": "https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Conviccion",
-        "url": "https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2"
-      },
-      "artists": [
-        {
-          "name": "Rocio Araujo",
-          "url": "https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg"
-        }
-      ],
-      "duration_ms": 204226,
-      "name": "Cuando Me Abandone el Alma",
-      "url": "https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Retrato de Familia",
-        "url": "https://open.spotify.com/album/4Elf50rCHcFpChAYDtzJGT"
-      },
-      "artists": [
-        {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
-        }
-      ],
-      "duration_ms": 208487,
-      "name": "Paisaje",
-      "url": "https://open.spotify.com/track/23EpodCa3x4eB5tlaqf9vd"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Las Flores Buenas",
-        "url": "https://open.spotify.com/album/6W6hyz4Wg8S0Uwxwhbs46q"
-      },
-      "artists": [
-        {
-          "name": "Ligia Piro",
-          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
-        }
-      ],
-      "duration_ms": 184064,
-      "name": "El Surco",
-      "url": "https://open.spotify.com/track/791kBOIjiqzy3lFaAba0j1"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Pasaje al Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 211040,
       "name": "Volver\u00e8 Siempre a San Juan",
       "url": "https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Tanto Amor",
-      "url": "https://open.spotify.com/track/2RH3mx7Oakol0sKd7dF07S"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -839,6 +823,22 @@
       "duration_ms": 243066,
       "name": "Por el R\u00edo Volver\u00e9",
       "url": "https://open.spotify.com/track/1AqvmegBd4YsOw3YNSu0xl"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/2RH3mx7Oakol0sKd7dF07S"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Espejo de Amor: Anabella Zoch Canta a Peteco Carabajal",
-        "url": "https://open.spotify.com/album/5EvslgD1DNVwI7OOXBGviw"
-      },
-      "artists": [
-        {
-          "name": "Anabella Zoch",
-          "url": "https://open.spotify.com/artist/6uIokMG7rokgUCzQzAx6z8"
-        }
-      ],
-      "duration_ms": 267101,
-      "name": "C\u00f3mo P\u00e1jaros en el Aire",
-      "url": "https://open.spotify.com/track/5ZA0iEXMqSs7f9YzRnqj1u"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Agosto",
         "url": "https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 173373,
       "name": "La Maimare\u00f1a",
       "url": "https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Espejo de Amor: Anabella Zoch Canta a Peteco Carabajal",
+        "url": "https://open.spotify.com/album/5EvslgD1DNVwI7OOXBGviw"
+      },
+      "artists": [
+        {
+          "name": "Anabella Zoch",
+          "url": "https://open.spotify.com/artist/6uIokMG7rokgUCzQzAx6z8"
+        }
+      ],
+      "duration_ms": 267101,
+      "name": "C\u00f3mo P\u00e1jaros en el Aire",
+      "url": "https://open.spotify.com/track/5ZA0iEXMqSs7f9YzRnqj1u"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "A Mercedes, Vol. II",
-        "url": "https://open.spotify.com/album/2U8svikAMZKenkjZWU0wC7"
-      },
-      "artists": [
-        {
-          "name": "Maril\u00ed Machado",
-          "url": "https://open.spotify.com/artist/38ikTZxvFSdHLo3EIodMRI"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Esa Musiquita",
-      "url": "https://open.spotify.com/track/0z5QRQFqvQWSXM5nOGwK5v"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Baile en el cielo",
         "url": "https://open.spotify.com/album/6noUYgHrGt2GJW4n30Ecfu"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 261706,
       "name": "Zamba del \u00e1ngel",
       "url": "https://open.spotify.com/track/6Zeftf9CEAON1XMEzWZYRj"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "A Mercedes, Vol. II",
+        "url": "https://open.spotify.com/album/2U8svikAMZKenkjZWU0wC7"
+      },
+      "artists": [
+        {
+          "name": "Maril\u00ed Machado",
+          "url": "https://open.spotify.com/artist/38ikTZxvFSdHLo3EIodMRI"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Esa Musiquita",
+      "url": "https://open.spotify.com/track/0z5QRQFqvQWSXM5nOGwK5v"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Dentro, El Silencio",
-        "url": "https://open.spotify.com/album/4Cba7B2IzOrJ76Eqi8mXkw"
-      },
-      "artists": [
-        {
-          "name": "Luna Monti",
-          "url": "https://open.spotify.com/artist/1ujuID79Vnw9o2AQFfLPPd"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Lavandera Chaguanca",
-      "url": "https://open.spotify.com/track/4uiEqRKRJxswSeqsXbnS4s"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Gaucha",
         "url": "https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 107710,
       "name": "La Arruguita",
       "url": "https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Dentro, El Silencio",
+        "url": "https://open.spotify.com/album/4Cba7B2IzOrJ76Eqi8mXkw"
+      },
+      "artists": [
+        {
+          "name": "Luna Monti",
+          "url": "https://open.spotify.com/artist/1ujuID79Vnw9o2AQFfLPPd"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Lavandera Chaguanca",
+      "url": "https://open.spotify.com/track/4uiEqRKRJxswSeqsXbnS4s"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Lo Que Estalla",
-        "url": "https://open.spotify.com/album/57sdxUSlMMQbOA2zqACToE"
-      },
-      "artists": [
-        {
-          "name": "Vero Marjbein",
-          "url": "https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi"
-        }
-      ],
-      "duration_ms": 135164,
-      "name": "Lo Que Estalla",
-      "url": "https://open.spotify.com/track/6bN08F3lWNE1fci3QMuZYj"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Canci\u00f3n del Jangadero",
         "url": "https://open.spotify.com/album/4dnGcfrrrdc0fgUVhDIBwS"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 311517,
       "name": "Canci\u00f3n del Jangadero",
       "url": "https://open.spotify.com/track/1GokYA618P2QtqtSVWrgaS"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Lo Que Estalla",
+        "url": "https://open.spotify.com/album/57sdxUSlMMQbOA2zqACToE"
+      },
+      "artists": [
+        {
+          "name": "Vero Marjbein",
+          "url": "https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi"
+        }
+      ],
+      "duration_ms": 135164,
+      "name": "Lo Que Estalla",
+      "url": "https://open.spotify.com/track/6bN08F3lWNE1fci3QMuZYj"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Espejo",
-        "url": "https://open.spotify.com/album/07hqhMGFTYQm25XQpdEzXu"
-      },
-      "artists": [
-        {
-          "name": "Vero Marjbein",
-          "url": "https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi"
-        }
-      ],
-      "duration_ms": 299555,
-      "name": "Espejo",
-      "url": "https://open.spotify.com/track/1QqycFHW1tFsrgA7HQcBzn"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "De Piedra y Agua",
         "url": "https://open.spotify.com/album/6BOdeQ0LrixZT3UngksPJZ"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 319139,
       "name": "Luna De Cabotaje",
       "url": "https://open.spotify.com/track/5qn2JqkaXBDhDSsAxiiiON"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Espejo",
+        "url": "https://open.spotify.com/album/07hqhMGFTYQm25XQpdEzXu"
+      },
+      "artists": [
+        {
+          "name": "Vero Marjbein",
+          "url": "https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi"
+        }
+      ],
+      "duration_ms": 299555,
+      "name": "Espejo",
+      "url": "https://open.spotify.com/track/1QqycFHW1tFsrgA7HQcBzn"
     },
     {
       "added_at": "2025-08-21 21:06:28",

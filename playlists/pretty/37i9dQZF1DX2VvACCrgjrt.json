@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1311790,
+  "num_followers": 1311764,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1087,22 +1087,18 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Bullshit",
-        "url": "https://open.spotify.com/album/1FEG75sVtJaV52VciyVB4y"
+        "name": "Caramelle",
+        "url": "https://open.spotify.com/album/1BrC2gUEjYgGHdJQcZCsCC"
       },
       "artists": [
         {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        },
-        {
-          "name": "KLP",
-          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
         }
       ],
-      "duration_ms": 178865,
-      "name": "Bullshit",
-      "url": "https://open.spotify.com/track/5ALKOITz7HU3m3Ac3aVDXk"
+      "duration_ms": 120000,
+      "name": "Caramelle",
+      "url": "https://open.spotify.com/track/6dGS0rGElrf9R961GkueoE"
     },
     {
       "added_at": "2026-08-21 04:01:29",
@@ -1143,18 +1139,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Caramelle",
-        "url": "https://open.spotify.com/album/1BrC2gUEjYgGHdJQcZCsCC"
+        "name": "Bullshit",
+        "url": "https://open.spotify.com/album/1FEG75sVtJaV52VciyVB4y"
       },
       "artists": [
         {
-          "name": "Mesto",
-          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Caramelle",
-      "url": "https://open.spotify.com/track/6dGS0rGElrf9R961GkueoE"
+      "duration_ms": 178865,
+      "name": "Bullshit",
+      "url": "https://open.spotify.com/track/5ALKOITz7HU3m3Ac3aVDXk"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1505,22 +1505,6 @@
       "url": "https://open.spotify.com/track/2PLAhK85fxXzy64KoIKQqg"
     },
     {
-      "added_at": "2026-08-14 04:01:19",
-      "album": {
-        "name": "Monopoly Man",
-        "url": "https://open.spotify.com/album/7Kmepe8BIgqaega0xj2EVO"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 202101,
-      "name": "Monopoly Man",
-      "url": "https://open.spotify.com/track/2bc5X2BrwK6muSUCGkxU6A"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Work",
@@ -1559,6 +1543,22 @@
       "duration_ms": 183998,
       "name": "I Wanna Dance",
       "url": "https://open.spotify.com/track/2DqGfTYbejCSIe0DGsqClz"
+    },
+    {
+      "added_at": "2026-08-14 04:01:19",
+      "album": {
+        "name": "Monopoly Man",
+        "url": "https://open.spotify.com/album/7Kmepe8BIgqaega0xj2EVO"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 202101,
+      "name": "Monopoly Man",
+      "url": "https://open.spotify.com/track/2bc5X2BrwK6muSUCGkxU6A"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1801,6 +1801,22 @@
       "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Hooligans",
+        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 239090,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
+    },
+    {
       "added_at": "2026-07-24 04:02:19",
       "album": {
         "name": "In The Dark",
@@ -1839,22 +1855,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Hooligans",
-        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 239090,
-      "name": "Hooligans",
-      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "That Girl",
         "url": "https://open.spotify.com/album/2GrHl0zWCoffhmjGsVM90k"
       },
@@ -1885,26 +1885,6 @@
       "url": "https://open.spotify.com/track/7dP5EtY64b0dWwcWXb8Xlq"
     },
     {
-      "added_at": "2026-08-07 04:01:21",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/0jtYzOuoLYiGukF4qVQ256"
-      },
-      "artists": [
-        {
-          "name": "NOME.",
-          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
-        },
-        {
-          "name": "Merow",
-          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/0R9Yx21kRzOGeHxw79CizW"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "No Enemies (feat. Namasenda)",
@@ -1927,6 +1907,26 @@
       "duration_ms": 160768,
       "name": "No Enemies (feat. Namasenda)",
       "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
+    },
+    {
+      "added_at": "2026-08-07 04:01:21",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/0jtYzOuoLYiGukF4qVQ256"
+      },
+      "artists": [
+        {
+          "name": "NOME.",
+          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
+        },
+        {
+          "name": "Merow",
+          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/0R9Yx21kRzOGeHxw79CizW"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1969,6 +1969,26 @@
       "url": "https://open.spotify.com/track/6CiFAikDkRPxUfDX8BtpSu"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Bass Face",
+        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Young Lyxx",
+          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
+        }
+      ],
+      "duration_ms": 183014,
+      "name": "Bass Face",
+      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
+    },
+    {
       "added_at": "2026-07-24 04:02:19",
       "album": {
         "name": "UNA UNA",
@@ -1991,26 +2011,6 @@
       "duration_ms": 186315,
       "name": "UNA UNA",
       "url": "https://open.spotify.com/track/77HkcYkReYScRpxOKU3oTo"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Bass Face",
-        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Young Lyxx",
-          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
-        }
-      ],
-      "duration_ms": 183014,
-      "name": "Bass Face",
-      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
     },
     {
       "added_at": "2026-03-20 04:00:50",
@@ -2137,26 +2137,6 @@
       "url": "https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN"
     },
     {
-      "added_at": "2026-07-24 04:02:19",
-      "album": {
-        "name": "To The Beat",
-        "url": "https://open.spotify.com/album/5gl2lyqG34FkipTvY2WvYd"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Stadiumx",
-          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "To The Beat",
-      "url": "https://open.spotify.com/track/1BfhZT1HacQ1l4V4uXFxCq"
-    },
-    {
       "added_at": "2026-08-14 04:01:19",
       "album": {
         "name": "Mask Off",
@@ -2177,6 +2157,26 @@
       "url": "https://open.spotify.com/track/5iEeVYUufEdHhuddGqaTFH"
     },
     {
+      "added_at": "2026-07-24 04:02:19",
+      "album": {
+        "name": "To The Beat",
+        "url": "https://open.spotify.com/album/5gl2lyqG34FkipTvY2WvYd"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Stadiumx",
+          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "To The Beat",
+      "url": "https://open.spotify.com/track/1BfhZT1HacQ1l4V4uXFxCq"
+    },
+    {
       "added_at": "2026-06-12 04:01:37",
       "album": {
         "name": "Confessions",
@@ -2191,6 +2191,22 @@
       "duration_ms": 168578,
       "name": "Confessions",
       "url": "https://open.spotify.com/track/0vJh9MCniJ6z9Tj1zoVw9Q"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Ice Cold",
+        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 194076,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
     },
     {
       "added_at": "2026-03-06 05:00:10",
@@ -2213,22 +2229,6 @@
       "url": "https://open.spotify.com/track/0clHsShVOKyXflPbH5adcg"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Ice Cold",
-        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 194076,
-      "name": "Ice Cold",
-      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
-    },
-    {
       "added_at": "2026-01-16 05:00:37",
       "album": {
         "name": "Try Again",
@@ -2243,26 +2243,6 @@
       "duration_ms": 108398,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/1fq81fwfle9L3Z0dRERDvP"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Count On You",
-        "url": "https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        },
-        {
-          "name": "Sian-Lee",
-          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
-        }
-      ],
-      "duration_ms": 165923,
-      "name": "Count On You",
-      "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
     },
     {
       "added_at": "2026-05-15 15:18:31",
@@ -2285,20 +2265,24 @@
       "url": "https://open.spotify.com/track/3HH2w8W7uaauucUTOYcoAW"
     },
     {
-      "added_at": "2026-07-17 04:01:08",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Down To The Sound",
-        "url": "https://open.spotify.com/album/1ueCEnO7sgkc6JeA0rV4Wl"
+        "name": "Count On You",
+        "url": "https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH"
       },
       "artists": [
         {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Sian-Lee",
+          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
         }
       ],
-      "duration_ms": 196158,
-      "name": "Down To The Sound",
-      "url": "https://open.spotify.com/track/6hcEfqQL5wcVzBq2qf5p3A"
+      "duration_ms": 165923,
+      "name": "Count On You",
+      "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2341,6 +2325,42 @@
       "url": "https://open.spotify.com/track/6p74OOY5V3vnWfGRgfjgWM"
     },
     {
+      "added_at": "2026-07-17 04:01:08",
+      "album": {
+        "name": "Down To The Sound",
+        "url": "https://open.spotify.com/album/1ueCEnO7sgkc6JeA0rV4Wl"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 196158,
+      "name": "Down To The Sound",
+      "url": "https://open.spotify.com/track/6hcEfqQL5wcVzBq2qf5p3A"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Cocaine Inside My Blunts (Dave Summer Remix)",
+        "url": "https://open.spotify.com/album/2NcPGuR61r8Hjl0yqxz9mf"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Dave Summer",
+          "url": "https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5"
+        }
+      ],
+      "duration_ms": 167633,
+      "name": "Cocaine Inside My Blunts - Dave Summer Remix",
+      "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
+    },
+    {
       "added_at": "2026-05-01 04:01:35",
       "album": {
         "name": "Bass Down Low (feat. DEV)",
@@ -2367,42 +2387,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Cocaine Inside My Blunts (Dave Summer Remix)",
-        "url": "https://open.spotify.com/album/2NcPGuR61r8Hjl0yqxz9mf"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Dave Summer",
-          "url": "https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5"
-        }
-      ],
-      "duration_ms": 167633,
-      "name": "Cocaine Inside My Blunts - Dave Summer Remix",
-      "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
-    },
-    {
-      "added_at": "2026-07-31 04:01:22",
-      "album": {
-        "name": "The System",
-        "url": "https://open.spotify.com/album/36Q8YaY9X8aF20U1q8EVG5"
-      },
-      "artists": [
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        }
-      ],
-      "duration_ms": 162923,
-      "name": "The System",
-      "url": "https://open.spotify.com/track/1BxS1s7yzTi8RVOQKGASQ6"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Earthquake",
         "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 182272,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
+    },
+    {
+      "added_at": "2026-04-17 04:02:12",
+      "album": {
+        "name": "In My System",
+        "url": "https://open.spotify.com/album/0YnjAx0aZhETxrbYILoGLn"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 180004,
+      "name": "In My System",
+      "url": "https://open.spotify.com/track/5XFEApc6uwSKYTbZTMwnbx"
     },
     {
       "added_at": "2026-01-09 16:39:37",

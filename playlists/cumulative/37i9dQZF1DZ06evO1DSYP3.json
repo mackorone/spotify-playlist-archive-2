@@ -1542,7 +1542,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 243226,
       "name": "Light This Bitch Up",
       "url": "https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ"
@@ -2490,6 +2490,28 @@
       "duration_ms": 181478,
       "name": "Stunna Anthem",
       "url": "https://open.spotify.com/track/32swiA5dr04YdzEpLOTiXX"
+    },
+    {
+      "album": {
+        "name": "Turning My Money Over (Quadruple Album)",
+        "url": "https://open.spotify.com/album/4nIINRIB3R6R4rzVzY4239"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172165,
+      "name": "Sucka Ducking",
+      "url": "https://open.spotify.com/track/4xygZtPUl3r1arsWfWKkn2"
     },
     {
       "album": {

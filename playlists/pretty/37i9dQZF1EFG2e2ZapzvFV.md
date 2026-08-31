@@ -115,9 +115,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 105 | [Muscle](https://open.spotify.com/track/1CVh1re4QmrSmZ47cDiwz3) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(Deluxe\)](https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC) | 3:07 |
 | 106 | [Therapy](https://open.spotify.com/track/0aHtbFNZz1XOi8KfZcyS4A) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [A Sides](https://open.spotify.com/album/44jqZY3DRBmZE1tCrQScbT) | 3:20 |
 | 107 | [Worth The Fight](https://open.spotify.com/track/3Exd6fFMpHMbsSzWd5NHvk) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 4:03 |
-| 108 | [Step Down](https://open.spotify.com/track/1IfaWGDXebhYxCewwPftp8) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [Living Life Golden](https://open.spotify.com/album/5w5V7Vi6RuRV40G4cM9pMP) | 3:18 |
-| 109 | [Unfortunate Soul](https://open.spotify.com/track/1fE5elkDubOWunpWJNVFKK) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Medusa](https://open.spotify.com/album/2cNdx2Guop1r7MT8dBucEd) | 3:07 |
-| 110 | [Weirdo](https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:31 |
+| 108 | [Weirdo](https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:31 |
+| 109 | [Step Down](https://open.spotify.com/track/1IfaWGDXebhYxCewwPftp8) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [Living Life Golden](https://open.spotify.com/album/5w5V7Vi6RuRV40G4cM9pMP) | 3:18 |
+| 110 | [Unfortunate Soul](https://open.spotify.com/track/1fE5elkDubOWunpWJNVFKK) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Medusa](https://open.spotify.com/album/2cNdx2Guop1r7MT8dBucEd) | 3:07 |
 | 111 | [Never Coming Back](https://open.spotify.com/track/2ZqBf2NUvtmkPhfXqwZk4m) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Love Monster](https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P) | 3:13 |
 | 112 | [Home](https://open.spotify.com/track/11vxl6GuoJixb43JXzYHur) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood \(Special Edition\)](https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf) | 3:11 |
 | 113 | [Bedroom Door](https://open.spotify.com/track/26CTGO6XXw3yFLp9ZWyH2D) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:36 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 181 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/1TLwImbhpQtHiNrbfqmVdl) | [Flashback Avenue](https://open.spotify.com/artist/1HANinT2rV1dtgfmxTTucL) | [Up All Night \- House Party Energy](https://open.spotify.com/album/36wq5YXDyqJIA895HmnpHn) | 3:11 |
 | 182 | [Cut](https://open.spotify.com/track/0kquTeSKAQkZj14ND6eTJr) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Maren Morris](https://open.spotify.com/album/4cFGrpSd3gaieAIM0WiNjO) | 2:36 |
 
-Snapshot ID: `Aca6PAAAAAD0uh7cF8i8ZMO0BEO3uCAj`
+Snapshot ID: `Aca/vgAAAACrRMeggD/79xHw3+24ys/l`

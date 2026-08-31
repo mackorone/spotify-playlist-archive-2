@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 43 | [Recovery](https://open.spotify.com/track/5Tzum6abyRqlGk0dElTwoL) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:58 |
 | 44 | [Howl](https://open.spotify.com/track/3u1w9G4MYMG5EnfoOjaM3j) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Palo Santo \(Deluxe\)](https://open.spotify.com/album/1OUGPngAngAxjliRlrAc6v) | 3:53 |
 | 45 | [No More Suckers](https://open.spotify.com/track/19w92goxgjCj0uSdcu7541) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Love + Fear](https://open.spotify.com/album/0CUxS3KfHNuDpUUjbAewV3) | 3:14 |
-| 46 | [Lose You](https://open.spotify.com/track/2SF6DL81zTodxZPW7m3VHl) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [Slow Down](https://open.spotify.com/album/72z8nsQyY1ncs5b7fodeYQ) | 2:54 |
+| 46 | [Lose You](https://open.spotify.com/track/41t5aM7gKXMPZINqLtLw6F) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [I'm What You Get](https://open.spotify.com/album/7FwqgiTS3tXBQg573FBOeX) | 2:54 |
 | 47 | [The Other POV](https://open.spotify.com/track/6AVhXOdYBKNcdRyjAFSYCL) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [The In Between](https://open.spotify.com/album/21aE1LtpqO4s48QPnomkIk) | 2:59 |
 | 48 | [Right Words Wrong Time](https://open.spotify.com/track/0pn8Vl8oFmIp0r21Zwpb76) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated](https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu) | 3:20 |
 | 49 | [Your Eyes](https://open.spotify.com/track/38E4VJoyNGh2sBQFXLGl7X) | [Jai Waetford](https://open.spotify.com/artist/65eKzckWWGA123QUyi2Qo3) | [Jai Waetford EP](https://open.spotify.com/album/57JXo4mMPYyKL31qorxv70) | 3:52 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 119 | [die!](https://open.spotify.com/track/3XUqv7Ou5XyrGfbSi15KqU) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm), [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:13 |
 | 120 | [Look On](https://open.spotify.com/track/5j8txL4kkBL71lbHFfdPX0) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [The Start of Something Beautiful](https://open.spotify.com/album/2I0Fq1wuE7WffXEYdiy5QJ) | 3:03 |
 
-Snapshot ID: `Aca6PAAAAABnZ13DEBMUd/q2eQgzeAgP`
+Snapshot ID: `Aca/8AAAAABt/97JI82rshnrLoCvNzg/`

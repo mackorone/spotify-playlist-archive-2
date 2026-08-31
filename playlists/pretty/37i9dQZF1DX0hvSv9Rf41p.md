@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a> 🚀🚀 with Seven Lions + Kill The Noise
 
-[Spotify](https://open.spotify.com/user/spotify) - 995,607 likes - 90 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 995,608 likes - 90 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 81 | [BUNGULATOR BASS](https://open.spotify.com/track/72qNTUL2QPwlL1IYJdqsQ7) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [TheBurntPeanut](https://open.spotify.com/artist/4vC25fNVet1bMrol8WJe4H) | [BUNGULATOR BASS](https://open.spotify.com/album/3XPdcpyT39j4mpUcDFPU0C) | 2:11 |
 | 82 | [Hollow](https://open.spotify.com/track/2x7yuFzNDoD2BABAlZEk2L) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Hollow](https://open.spotify.com/album/6cuJMnp9mc3QMtvtveBwvz) | 3:34 |
 | 83 | [A.F.B.1.](https://open.spotify.com/track/0IMWZ7rMu864N1ouQsBpkQ) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [A.F.B.1.](https://open.spotify.com/album/2ki6eX40TKfZgzo7CSwFJ7) | 3:03 |
-| 84 | [A MILLI \(Zoey's Version\)](https://open.spotify.com/track/0iAigPJ2qYUiVxNasBx0eK) | [Zoey808](https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ) | [A MILLI \(Zoey's Version\)](https://open.spotify.com/album/0ink8dPThmkfuPT686bdUN) | 1:45 |
+| 84 | [A MILLI \- Zoey's Version](https://open.spotify.com/track/0iAigPJ2qYUiVxNasBx0eK) | [Zoey808](https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ) | [A MILLI \(Zoey's Version\)](https://open.spotify.com/album/0ink8dPThmkfuPT686bdUN) | 1:45 |
 | 85 | [Subliminals](https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY) | [Saint Ludo](https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT), [Kasst 8](https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs) | [Subliminals](https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX) | 2:34 |
 | 86 | [No Broke Boys \- AVELLO Remix](https://open.spotify.com/track/4zXG4SBvsjsW0EN1mjCxaV) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [AVELLO](https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ) | [No Broke Boys \(AVELLO Remix\)](https://open.spotify.com/album/3rGWp6CCmcTxog8qlfmElD) | 2:44 |
 | 87 | [BELIEVE](https://open.spotify.com/track/2HGWEdmzqykDOKbAxRd1JE) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [BELIEVE](https://open.spotify.com/album/5J8oRtgQiIbku3Xmi7WIUJ) | 2:41 |

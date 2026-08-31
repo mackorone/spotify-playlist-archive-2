@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 76477,
+  "num_followers": 76488,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,26 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
+        "name": "Encanto",
+        "url": "https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H"
+      },
+      "artists": [
+        {
+          "name": "MAMA GAIA",
+          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
+        },
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "duration_ms": 193817,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
+    },
+    {
+      "added_at": "2026-07-31 03:00:11",
+      "album": {
         "name": "Llamado",
         "url": "https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 225431,
       "name": "Llamado",
       "url": "https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin"
-    },
-    {
-      "added_at": "2026-07-31 03:00:11",
-      "album": {
-        "name": "Encanto",
-        "url": "https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H"
-      },
-      "artists": [
-        {
-          "name": "MAMA GAIA",
-          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
-        },
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 193817,
-      "name": "Gaia",
-      "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -895,26 +895,26 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
-        "name": "One Drop",
-        "url": "https://open.spotify.com/album/4guVvB3rBVdTjwb58DZfeh"
+        "name": "Vale la Pena",
+        "url": "https://open.spotify.com/album/3WRqiBrtFLAiAEkp2p3l5F"
       },
       "artists": [
         {
-          "name": "KLUB",
-          "url": "https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY"
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
         },
         {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
         },
         {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
         }
       ],
-      "duration_ms": 238062,
-      "name": "One Drop",
-      "url": "https://open.spotify.com/track/6ygWwUSHRVDbja6zpfMFNG"
+      "duration_ms": 170906,
+      "name": "Vale la Pena",
+      "url": "https://open.spotify.com/track/1AWBu5AXFzNry1wZJan5so"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -951,26 +951,26 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
-        "name": "Vale la Pena",
-        "url": "https://open.spotify.com/album/3WRqiBrtFLAiAEkp2p3l5F"
+        "name": "One Drop",
+        "url": "https://open.spotify.com/album/4guVvB3rBVdTjwb58DZfeh"
       },
       "artists": [
         {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+          "name": "KLUB",
+          "url": "https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY"
         },
         {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         },
         {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
         }
       ],
-      "duration_ms": 170906,
-      "name": "Vale la Pena",
-      "url": "https://open.spotify.com/track/1AWBu5AXFzNry1wZJan5so"
+      "duration_ms": 238062,
+      "name": "One Drop",
+      "url": "https://open.spotify.com/track/6ygWwUSHRVDbja6zpfMFNG"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
-        "name": "As\u00ed",
-        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
+        "name": "Amor De Barrio",
+        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
       },
       "artists": [
         {
-          "name": "Mensajeros Reggae",
-          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
         }
       ],
-      "duration_ms": 237026,
-      "name": "Naufrago",
-      "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
+      "duration_ms": 202680,
+      "name": "Lo De Siempre",
+      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
-        "name": "Amor De Barrio",
-        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
       },
       "artists": [
         {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+          "name": "Mensajeros Reggae",
+          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
         }
       ],
-      "duration_ms": 202680,
-      "name": "Lo De Siempre",
-      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
+      "duration_ms": 237026,
+      "name": "Naufrago",
+      "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
+        "name": "Amor De Barrio",
+        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "Lo Que Dicta El Tiempo",
+      "url": "https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S"
+    },
+    {
+      "added_at": "2026-07-31 03:00:11",
+      "album": {
         "name": "+ UNIDAD",
         "url": "https://open.spotify.com/album/3z3IHTyAZP2EtRP7B2AwiG"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 185874,
       "name": "+ UNIDAD",
       "url": "https://open.spotify.com/track/6anJzxYYM8gkFhjE6CKlP8"
-    },
-    {
-      "added_at": "2026-07-31 03:00:11",
-      "album": {
-        "name": "Amor De Barrio",
-        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
-      },
-      "artists": [
-        {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
-        }
-      ],
-      "duration_ms": 267666,
-      "name": "Lo Que Dicta El Tiempo",
-      "url": "https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S"
     },
     {
       "added_at": "2026-07-31 03:00:11",

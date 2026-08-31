@@ -4,7 +4,7 @@
 
 > The party has arrived! 🪩  Cover: Solomun
 
-698 songs - 2 day 7 hr 31 min
+699 songs - 2 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,6 +481,7 @@
 | [Pont de la Caille](https://open.spotify.com/track/3jAPlfftOtKBgrJ722luE3) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Pont de la Caille](https://open.spotify.com/album/64dSfNdAExAwPFtjPmXm4M) | 5:13 | 2022-04-15 | 2024-03-08 |
 | [Pressure](https://open.spotify.com/track/4D9ZeZjNYvEvAPs24AMfuZ) | [Apophis](https://open.spotify.com/artist/6Sz3s1OLPiCr3cniHuCSoK) | [Pressure](https://open.spotify.com/album/2Q04bFy18RDdfa7PxTa8w7) | 4:30 | 2026-07-27 |  |
 | [Pressure](https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Pressure](https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7) | 4:39 | 2024-10-10 |  |
+| [Pressure \(feat\. Tommy Genesis\)](https://open.spotify.com/track/3qilJf4x402WUjcBJA060n) | [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Pressure \(feat\. Tommy Genesis\)](https://open.spotify.com/album/0gCNi212CVtO6Wjv54g5Vm) | 2:48 | 2026-08-27 |  |
 | [PSYCHODYSKO](https://open.spotify.com/track/6SUhqjKnzoD6NapngfSNEF) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [PSYCHODYSKO](https://open.spotify.com/album/2lFstCwn0jCvKn0sR2TQ2c) | 5:24 | 2022-06-17 | 2022-07-29 |
 | [Pura Vida](https://open.spotify.com/track/7wKU8AGAkOTzECbGRKBlNQ) | [Thomas Lizzara](https://open.spotify.com/artist/6WqAx7kpPz11g54zvpcOuU) | [Pura Vida](https://open.spotify.com/album/55BHoDkdSx45w11ppXdV9T) | 6:05 | 2022-06-17 | 2022-07-29 |
 | [Purple Noise](https://open.spotify.com/track/0PkwtUYZiNpGtbkVYZkvMZ) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Puls](https://open.spotify.com/album/5x7HlzUrvG4KxSrGjDEcBO) | 5:22 | 2022-04-15 | 2022-06-18 |
@@ -519,7 +520,7 @@
 | [RITMO](https://open.spotify.com/track/3ifvaAvaSYo1WDWXxAiv2A) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [RITMO](https://open.spotify.com/album/0OD7izYJwTmirMdqjOS43Q) | 3:13 | 2024-11-11 |  |
 | [Rituals](https://open.spotify.com/track/4AgbFfaJGqz7vBCpmapJQO) | [Steand](https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI), [Andy Kulter](https://open.spotify.com/artist/2wHIfsNcNgN0dKxYa2XOF6) | [Rituals](https://open.spotify.com/album/6aPY8GoHHfEUv1aVMMf58J) | 5:57 | 2023-01-13 | 2023-02-04 |
 | [Rock Like This](https://open.spotify.com/track/2PCu3SAbFOR3xf05PIvla4) | [Amour Propre](https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ) | [Rock Like This EP](https://open.spotify.com/album/6gSmK3aSu26VRpaaOlFqjt) | 3:31 | 2026-04-30 | 2026-07-28 |
-| [Roll the Dice \- Konstantin Sibold Remix](https://open.spotify.com/track/6Sut2jMsmtx3ZFeJQP6jV4) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Roll the Dice \(Konstantin Sibold Remix\)](https://open.spotify.com/album/3WOPS1tdtkUaZ9fU9Rm1J0) | 4:45 | 2025-02-24 |  |
+| [Roll the Dice \- Konstantin Sibold Remix](https://open.spotify.com/track/6Sut2jMsmtx3ZFeJQP6jV4) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Roll the Dice \(Konstantin Sibold Remix\)](https://open.spotify.com/album/3WOPS1tdtkUaZ9fU9Rm1J0) | 4:45 | 2025-02-24 | 2026-08-31 |
 | [Rollin'](https://open.spotify.com/track/64hm5dK5l4NMdj4iCofo83) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Glowal](https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ) | [Rollin'](https://open.spotify.com/album/3CEENecoQXHFjOxgWpZVgE) | 2:52 | 2025-11-20 |  |
 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 | 2024-02-13 | 2024-03-20 |
 | [Rumpta](https://open.spotify.com/track/2Rvi0CiuXzYyYRd3i9wxqM) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Rumpta](https://open.spotify.com/album/3XnRoZiGQ4NdmHkS0Ix9Dv) | 3:30 | 2026-07-02 |  |

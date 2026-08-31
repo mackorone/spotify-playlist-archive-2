@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,067 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,073 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 8 | [God Did II](https://open.spotify.com/track/57TsydrFWLVhEFtJZTVcWB) | [RUA YOUNG](https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [God Did II](https://open.spotify.com/album/7gMTESXBOPAYVNs72sEKhE) | 2:39 |
 | 9 | [No Chains](https://open.spotify.com/track/2B8OrKU8suMxTx2PcuuSIG) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [No Chains](https://open.spotify.com/album/0IyI0N52hnLYyBRoeB0EAr) | 3:42 |
 | 10 | [WE STILL BELIEVE \(HLY FOREVER\) \(feat\. One Church Music\)](https://open.spotify.com/track/7pS6A11LEP0ID59nC8pB6a) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [One Church Music](https://open.spotify.com/artist/2Isa1riijBI13f9xqoLJAa) | [WE STILL BELIEVE \(HLY FOREVER\) \(feat\. One Church Music\)](https://open.spotify.com/album/7FK7RibZNqyMZjkZq9YVdp) | 2:51 |
-| 11 | [Be Alright \- Remix](https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Be Alright \(Remix\)](https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7) | 3:42 |
-| 12 | [O God Forgive Us](https://open.spotify.com/track/2dBpNhfNCT1XkBRAOdam5J) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [RUN WILD\. LIVE FREE\. LOVE STRONG\. \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I) | 3:25 |
+| 11 | [O God Forgive Us](https://open.spotify.com/track/2dBpNhfNCT1XkBRAOdam5J) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [RUN WILD\. LIVE FREE\. LOVE STRONG\. \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I) | 3:25 |
+| 12 | [Be Alright \- Remix](https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Be Alright \(Remix\)](https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7) | 3:42 |
 | 13 | [Yes](https://open.spotify.com/track/7bM0sZ3LRW99DJvWVEXpBf) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Yes](https://open.spotify.com/album/2I2QPLI9AnfxTOC02rE2Ms) | 2:59 |
 | 14 | [FATHER](https://open.spotify.com/track/7AoMr9VMS9Fs5fu5VjtbNx) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [THIS CANNOT BE SOLD](https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC) | 2:58 |
 | 15 | [Miracles](https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 49 | [I Believe](https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Mattie of For Today](https://open.spotify.com/artist/7BjHKoCoguN4piT5nr7F5z) | [Tomorrow We Live](https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR) | 3:56 |
 | 50 | [One Sixteen](https://open.spotify.com/track/0PxHrnV45CQascq6nWBnLT) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [The Good Life](https://open.spotify.com/album/4isPEpuar7DBekswZNoawh) | 4:06 |
 
-Snapshot ID: `apDPgAAAAABOARzwY/rMFI/clHPciX7W`
+Snapshot ID: `apIhAAAAAAD8RL7rNegX6sNYbEA2IGoa`

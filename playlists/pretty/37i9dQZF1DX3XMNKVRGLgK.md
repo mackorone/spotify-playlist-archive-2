@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XMNKVRGLgK.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/nigelsylvester/">Nigel Sylvester</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,610 likes - 30 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,613 likes - 30 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XMNKVRGLgK.md) - [plain]
 | 18 | [Too Fast](https://open.spotify.com/track/42QRyJd5x6e2TFR1S41g2p) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Fast](https://open.spotify.com/album/3VOtFn4nuS6eOiwBMnEY2j) | 5:08 |
 | 19 | [Championships](https://open.spotify.com/track/5DTOk0tCrmicVQP4mc6hkr) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 4:21 |
 | 20 | [Spicy \(feat\. Fivio Foreign & A$AP Ferg\)](https://open.spotify.com/track/661wc0CTq5MbppEG6zYP5n) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [King's Disease](https://open.spotify.com/album/5ZQjqg9obFzyGuxGj0mjSi) | 2:46 |
-| 21 | [Mo Money Mo Murder \(Homicide\)](https://open.spotify.com/track/62YPBeWVcD1FDWo7yTBXix) | [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Doe Or Die](https://open.spotify.com/album/4wPNy4oz3tDjY3OEeHiOVq) | 6:32 |
-| 22 | [I'm Ready](https://open.spotify.com/track/1Z5kIJ1ZKzVFSJXG1Y5zFb) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:41 |
+| 21 | [I'm Ready](https://open.spotify.com/track/1Z5kIJ1ZKzVFSJXG1Y5zFb) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:41 |
+| 22 | [Mo Money Mo Murder \(Homicide\)](https://open.spotify.com/track/62YPBeWVcD1FDWo7yTBXix) | [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Doe Or Die](https://open.spotify.com/album/4wPNy4oz3tDjY3OEeHiOVq) | 6:32 |
 | 23 | [Wetty](https://open.spotify.com/track/6DuxLU1Uqvjgz1S2YdcpbG) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [800 BC](https://open.spotify.com/album/2F8sqO6n3U3NO8t1qVLWs0) | 3:55 |
 | 24 | [Otherside of America](https://open.spotify.com/track/3JBvJ9PwrYA1oeUzI3FMRI) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Otherside Of America](https://open.spotify.com/album/3ymsrdlosSeo8xbXlGNMoE) | 3:38 |
 | 25 | [4 Da Fam \(feat\. Beanie Sigel, Memphis Bleek & JAY\-Z\) \- Explicit Album Version](https://open.spotify.com/track/2NUcXeWIVFKcKrjgfUHDRG) | [Amil](https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50), [Memphis Bleek](https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [All Money Is Legal](https://open.spotify.com/album/4isanca8rAOurYRLPvKwnS) | 4:20 |

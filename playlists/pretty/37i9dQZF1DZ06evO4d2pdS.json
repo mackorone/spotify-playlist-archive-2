@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAAeL7I51I+JpVHsQyxFbR00",
+  "snapshot_id": "apIhAAAAAACmqvavKgG+IxiY/Xu3h+LG",
   "tracks": [
     {
       "added_at": null,
@@ -499,42 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEVEN77",
-        "url": "https://open.spotify.com/album/6zAQRyUgSpJvjxQ4eYOqUx"
-      },
-      "artists": [
-        {
-          "name": "Tay B",
-          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 154271,
-      "name": "What I Do To You",
-      "url": "https://open.spotify.com/track/6nlmmqWZEea4ALWSaG9mTX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Due Time",
-        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 152094,
-      "name": "Young and Ratchet",
-      "url": "https://open.spotify.com/track/1O2vIEgUUDwzUpctAfeAlP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "313-414 (feat. Tee Grizzley)",
         "url": "https://open.spotify.com/album/6cmBaEBEeyzfI9dSCcGQc8"
       },
@@ -555,6 +519,42 @@
       "duration_ms": 149938,
       "name": "313-414 (feat. Tee Grizzley)",
       "url": "https://open.spotify.com/track/7gW1UPdKgyEhUW6jDgP9sw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 152094,
+      "name": "Young and Ratchet",
+      "url": "https://open.spotify.com/track/1O2vIEgUUDwzUpctAfeAlP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SEVEN77",
+        "url": "https://open.spotify.com/album/6zAQRyUgSpJvjxQ4eYOqUx"
+      },
+      "artists": [
+        {
+          "name": "Tay B",
+          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 154271,
+      "name": "What I Do To You",
+      "url": "https://open.spotify.com/track/6nlmmqWZEea4ALWSaG9mTX"
     },
     {
       "added_at": null,
@@ -675,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ETHER",
-        "url": "https://open.spotify.com/album/3mirEbkWRb68aRgUGMeZkA"
-      },
-      "artists": [
-        {
-          "name": "Big Boogie",
-          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 194676,
-      "name": "WATER (with Lakeyah)",
-      "url": "https://open.spotify.com/track/364P8zq6aNHvuEH3Io4SIi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
         "url": "https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 208163,
       "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
       "url": "https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ETHER",
+        "url": "https://open.spotify.com/album/3mirEbkWRb68aRgUGMeZkA"
+      },
+      "artists": [
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 194676,
+      "name": "WATER (with Lakeyah)",
+      "url": "https://open.spotify.com/track/364P8zq6aNHvuEH3Io4SIi"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Hesitation",
-        "url": "https://open.spotify.com/album/0rIPAeXpkVqMVzoOCf5H5W"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 133903,
-      "name": "No Hesitation",
-      "url": "https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Pressure (Pt. 2)",
         "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
       },
@@ -847,28 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bridge Kard Blessings",
-        "url": "https://open.spotify.com/album/4QtZPldoGdF4IqrF8s0Cxy"
-      },
-      "artists": [
-        {
-          "name": "Sada Baby",
-          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "To The Money - feat. Lakeyah",
-      "url": "https://open.spotify.com/track/3T5HI7UR2SktOZYI3Bd9dz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time's Up",
-        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+        "name": "No Hesitation",
+        "url": "https://open.spotify.com/album/0rIPAeXpkVqMVzoOCf5H5W"
       },
       "artists": [
         {
@@ -876,9 +840,9 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 111158,
-      "name": "Basic",
-      "url": "https://open.spotify.com/track/6Gl7QRLReR3soZaOSQuKpc"
+      "duration_ms": 133903,
+      "name": "No Hesitation",
+      "url": "https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst"
     },
     {
       "added_at": null,
@@ -899,6 +863,42 @@
       "duration_ms": 163416,
       "name": "A Letter To You",
       "url": "https://open.spotify.com/track/0W512ZGCgkNqHW7ETE2YV7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 111158,
+      "name": "Basic",
+      "url": "https://open.spotify.com/track/6Gl7QRLReR3soZaOSQuKpc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bridge Kard Blessings",
+        "url": "https://open.spotify.com/album/4QtZPldoGdF4IqrF8s0Cxy"
+      },
+      "artists": [
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "To The Money - feat. Lakeyah",
+      "url": "https://open.spotify.com/track/3T5HI7UR2SktOZYI3Bd9dz"
     },
     {
       "added_at": null,

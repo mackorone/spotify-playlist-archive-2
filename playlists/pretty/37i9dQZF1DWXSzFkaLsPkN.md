@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Akanksha Sethi
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,351 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,357 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 50 | [Rozaana](https://open.spotify.com/track/38rA3DEpHuNYUaKhwBKLTp) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Rozaana](https://open.spotify.com/album/2BWeKSmzh8UNutqaHf37SH) | 3:08 |
 | 51 | [With You \(From "UR Debut"\)](https://open.spotify.com/track/3gR1FcXGPjt9dUKoSarG0N) | [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs), [Gurdit](https://open.spotify.com/artist/3WcYb2jtT6M0GasOFvbYQx) | [With You \(From "UR Debut"\)](https://open.spotify.com/album/5KvnDsNuSiLY4TxworhRLC) | 2:24 |
 | 52 | [Khud Ko Miloon](https://open.spotify.com/track/2A5Gmg2gCYXpLJ3aVuGYSc) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Khud Ko Miloon](https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29) | 3:40 |
-| 53 | [Saaye](https://open.spotify.com/track/2pvyXcmJ7plAiYA7z1LN01) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [In Case We Forget](https://open.spotify.com/album/4UCUZ5mScC73JlcCGy5Ga3) | 4:09 |
-| 54 | [Dekho Na](https://open.spotify.com/track/1tBFMrlbCnJIglzG9xroRp) | [Sobit Tamang](https://open.spotify.com/artist/5NuIxtRrRTJMaTn3oCZgyn) | [Dekho Na](https://open.spotify.com/album/4K9xegFgmuSTMcc8EGts0B) | 3:47 |
+| 53 | [Dekho Na](https://open.spotify.com/track/1tBFMrlbCnJIglzG9xroRp) | [Sobit Tamang](https://open.spotify.com/artist/5NuIxtRrRTJMaTn3oCZgyn) | [Dekho Na](https://open.spotify.com/album/4K9xegFgmuSTMcc8EGts0B) | 3:47 |
+| 54 | [Saaye](https://open.spotify.com/track/2pvyXcmJ7plAiYA7z1LN01) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [In Case We Forget](https://open.spotify.com/album/4UCUZ5mScC73JlcCGy5Ga3) | 4:09 |
 | 55 | [Raaz](https://open.spotify.com/track/0cZBUtaPwfmsopHLd8zuag) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Raaz](https://open.spotify.com/album/0JRPSZVTpG5RlIC6LrzsJm) | 2:44 |
 | 56 | [Firki](https://open.spotify.com/track/2DVr3mimT7i7fq2znGJxrM) | [Bharat Chandak](https://open.spotify.com/artist/42x6GyehEtbb2gToHIc3lF) | [Firki](https://open.spotify.com/album/4ex57nAULj9BXxaOTFkuGv) | 2:56 |
 | 57 | [Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aashiyan](https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq) | 2:54 |

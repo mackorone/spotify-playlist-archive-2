@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,740 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,749 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 14 | [O Nosso Santo Bateu \- Live](https://open.spotify.com/track/5C0wi5U4l0YUv7yIKe2TEe) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia \(Ao Vivo\)](https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e) | 3:07 |
 | 15 | [Acordando o Prédio](https://open.spotify.com/track/40bK2uosUmAS92c17n98xd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Acordando o Prédio](https://open.spotify.com/album/4LlZtbDgmU4SkRiALN4FAS) | 3:38 |
 | 16 | [Pouca Pausa](https://open.spotify.com/track/2odzriVVZBwYOiYJEj30tm) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Cortesia Da Casa](https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6), [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [Pouca Pausa](https://open.spotify.com/album/4uvWaZXSz2eMn7YZXXXcS1) | 4:39 |
-| 17 | [Evoluiu](https://open.spotify.com/track/0WhDotK0QXigmsrlw0DxKK) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Evoluiu](https://open.spotify.com/album/30hPMwyrsLPasI6413LJ6W) | 2:59 |
-| 18 | [Eu Mereço Ser Feliz \- Ao Vivo](https://open.spotify.com/track/1aqRJG36VbTp8E37W4cMGa) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [A Voz Do Meu Samba \- Ao Vivo](https://open.spotify.com/album/0rkcBQbAiUpO37EepHSJ0c) | 3:14 |
+| 17 | [Eu Mereço Ser Feliz \- Ao Vivo](https://open.spotify.com/track/1aqRJG36VbTp8E37W4cMGa) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [A Voz Do Meu Samba \- Ao Vivo](https://open.spotify.com/album/0rkcBQbAiUpO37EepHSJ0c) | 3:14 |
+| 18 | [Evoluiu](https://open.spotify.com/track/0WhDotK0QXigmsrlw0DxKK) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Evoluiu](https://open.spotify.com/album/30hPMwyrsLPasI6413LJ6W) | 2:59 |
 | 19 | [Bola Rebola](https://open.spotify.com/track/1OUPXna2MCgAt3VNmXJBtg) | [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Bola Rebola](https://open.spotify.com/album/3p5oLCW4wY9u1TBRiLT1HD) | 3:13 |
 | 20 | [Cerveja De Garrafa \(Fumaça Que Eu Faço\) \- Ao Vivo Em São Paulo / 2017](https://open.spotify.com/track/2PADJK4rhdklqFLQFa5oMX) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Atitude 67 \(Ao Vivo\)](https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n) | 3:30 |
 | 21 | [Na Ponta Ela Fica](https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Na Ponta Ela Fica](https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW) | 2:34 |

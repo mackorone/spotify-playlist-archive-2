@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 232147,
+  "num_followers": 232177,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAA7/I4A5R2YyX9hMzDm7iHO",
+  "snapshot_id": "apIhAAAAAAC1SKfFIkVKM0/Gd1AFQwOa",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 200547,
       "name": "Super Gremlin",
       "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Flockin'",
-        "url": "https://open.spotify.com/album/12YTH28wiBXQ16gvWOCMLU"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 165290,
-      "name": "No Flockin'",
-      "url": "https://open.spotify.com/track/34oWbFBfGEElvgO0a5c9V4"
     },
     {
       "added_at": null,
@@ -63,6 +47,22 @@
       "duration_ms": 203161,
       "name": "Wake Up in the Sky",
       "url": "https://open.spotify.com/track/2G1tXoGBaEMJ7FKGnkf6ud"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Flockin'",
+        "url": "https://open.spotify.com/album/12YTH28wiBXQ16gvWOCMLU"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 165290,
+      "name": "No Flockin'",
+      "url": "https://open.spotify.com/track/34oWbFBfGEElvgO0a5c9V4"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 160266,
-      "name": "how you did that (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Project Baby 2: All Grown Up (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0D2kFxAO1YPAuxAtP23g0p"
       },
@@ -739,6 +719,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 160266,
+      "name": "how you did that (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LOVE FOR GUALA",
         "url": "https://open.spotify.com/album/3zMEkZNzS5yJDcnqPhIk10"
       },
@@ -755,6 +755,38 @@
       "duration_ms": 226068,
       "name": "Till im Gone (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/6I0Jucv2KfH32lNp1Acana"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 214781,
+      "name": "Coolin and Booted",
+      "url": "https://open.spotify.com/track/1Nh5WUisukhSNgwXLRoyZf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bill Israel",
+        "url": "https://open.spotify.com/album/051k93izd0reEjp85OgEo6"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Pimpin Ain't Eazy",
+      "url": "https://open.spotify.com/track/67Sr4xrGip66CqSOD7fGfO"
     },
     {
       "added_at": null,
@@ -783,38 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Painting Pictures",
-        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 198109,
-      "name": "Patty Cake",
-      "url": "https://open.spotify.com/track/0bXFIF7iL17TYLyx8JHziM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bill Israel",
-        "url": "https://open.spotify.com/album/051k93izd0reEjp85OgEo6"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Pimpin Ain't Eazy",
-      "url": "https://open.spotify.com/track/67Sr4xrGip66CqSOD7fGfO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dying to Live",
         "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 198109,
+      "name": "Patty Cake",
+      "url": "https://open.spotify.com/track/0bXFIF7iL17TYLyx8JHziM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Haitian Boy Kodak",
         "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 156112,
       "name": "Z Look Jamaican",
       "url": "https://open.spotify.com/track/2Lw5B2B1KsssGf5NbjDeyj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Painting Pictures",
-        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 214781,
-      "name": "Coolin and Booted",
-      "url": "https://open.spotify.com/track/1Nh5WUisukhSNgwXLRoyZf"
     },
     {
       "added_at": null,

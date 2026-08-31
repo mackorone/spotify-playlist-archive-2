@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253 likes - 129 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 254 likes - 129 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 36 | [Girl to Girl](https://open.spotify.com/track/1fx6jheBK4WWQAI2fShdh1) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/4KOYQ5wkg84yhv2klrUNGN) | 3:12 |
 | 37 | [Fall](https://open.spotify.com/track/5h2GybdgAmcJEAY9kRLCXs) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test \(Deluxe Edition\)](https://open.spotify.com/album/0lAZGWg1Br8CNbarSBSOF9) | 3:53 |
 | 38 | [Back At It Again](https://open.spotify.com/track/7L1UTbTKbYtQPTC7TCrTDH) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:03 |
-| 39 | [Name Storms After](https://open.spotify.com/track/68GQVCIEEGNlNfgFShWfRe) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:15 |
-| 40 | [Yesterday, All Day, Every Day](https://open.spotify.com/track/6g3b9wRGkNqxwWmhRkLc7O) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:04 |
+| 39 | [Yesterday, All Day, Every Day](https://open.spotify.com/track/6g3b9wRGkNqxwWmhRkLc7O) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:04 |
+| 40 | [Name Storms After](https://open.spotify.com/track/68GQVCIEEGNlNfgFShWfRe) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:15 |
 | 41 | [King Ranch, King George, King James](https://open.spotify.com/track/0rKZpg1YUavHMFf9iRpwCq) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:12 |
 | 42 | [Soon As I'm Happy](https://open.spotify.com/track/6zQCl0ZpQTUyZ6gkEsFBDY) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Seventeen](https://open.spotify.com/album/0KZUFOf422XJiRUXfl7b78) | 3:30 |
 | 43 | [Couldn't Care Less](https://open.spotify.com/track/2FoOjasGOWt4sDIOYdgV1m) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Things You Didn't See](https://open.spotify.com/album/1trtLENMUHUZrgKKNKjgty) | 2:59 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 84 | [A Christmas We'll Remember](https://open.spotify.com/track/19SSpYuUi0ytkavyxX05k9) | [Mat and Savanna Shaw](https://open.spotify.com/artist/4F8dV25EPLvvKVABCaSr8b) | [A Christmas We'll Remember](https://open.spotify.com/album/31aFyRNbhfzszhXSVBcd45) | 2:31 |
 | 85 | [Too Much Of A Good Thing](https://open.spotify.com/track/1j1hE1uyIWcEMLSvMNPBss) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 3:14 |
 | 86 | [Try](https://open.spotify.com/track/2u9lTgGrauHdkJq6zXj2WQ) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Things You Didn't See](https://open.spotify.com/album/1trtLENMUHUZrgKKNKjgty) | 2:42 |
-| 87 | [Like Her](https://open.spotify.com/track/4LqwSyXww9XrEG6cN6w6V1) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Unlocked](https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC) | 3:22 |
-| 88 | [Good As Yours](https://open.spotify.com/track/2rShBgDGvdzpuXBleIMi1O) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [I Didn't Come Here To Leave](https://open.spotify.com/album/1OnI72xhWUPmOmUeh6BInY) | 2:34 |
+| 87 | [Good As Yours](https://open.spotify.com/track/2rShBgDGvdzpuXBleIMi1O) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [I Didn't Come Here To Leave](https://open.spotify.com/album/1OnI72xhWUPmOmUeh6BInY) | 2:34 |
+| 88 | [Like Her](https://open.spotify.com/track/4LqwSyXww9XrEG6cN6w6V1) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Unlocked](https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC) | 3:22 |
 | 89 | [Show Up](https://open.spotify.com/track/3geEN1a4mrNshmS2qmuqik) | [Rachel Purcell](https://open.spotify.com/artist/5RfPmVZKmCgO1ZI8rGPc6n) | [Mercy & Me](https://open.spotify.com/album/7B3T1gPdw86bz9obq258Rj) | 3:02 |
 | 90 | [You Are To Me](https://open.spotify.com/track/3y4OfQMZOrGutkuuVPtBu6) | [Pryor Baird](https://open.spotify.com/artist/4vSCJNeLjX3H9utec8uO58) | [You Are To Me](https://open.spotify.com/album/1IsHAQU91h1cYPJZrt0o3e) | 3:52 |
 | 91 | [Way of Life](https://open.spotify.com/track/2Pnl04NKw9jNodRsc9fsCD) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Way of Life](https://open.spotify.com/album/4tXZtaTZOPe6RgM3jOeZmP) | 3:05 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 128 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 129 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `Aca6PAAAAAAOGFAyDa04X3YsvFDYvEzt`
+Snapshot ID: `Aca/3AAAAADQwVeCgIPhEKn9/GHQiqWG`

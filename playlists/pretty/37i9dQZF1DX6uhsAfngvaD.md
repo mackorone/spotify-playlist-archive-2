@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,218 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,209 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,17 +57,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 47 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
 | 48 | [Gloomy Girl](https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gloomy Girl](https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR) | 3:06 |
 | 49 | [James](https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [James](https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1) | 4:29 |
-| 50 | [Little While](https://open.spotify.com/track/73B21p60Izq74AFwGNhzR7) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 4:38 |
-| 51 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 |
+| 50 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 |
+| 51 | [Little While](https://open.spotify.com/track/73B21p60Izq74AFwGNhzR7) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 4:38 |
 | 52 | [The Dream](https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Dream](https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst) | 4:49 |
 | 53 | [Valentine](https://open.spotify.com/track/28xKoto01psP4QaoISW5HY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Valentine](https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg) | 3:22 |
 | 54 | [So Humble the Afternoon](https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [So Humble The Afternoon](https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp) | 5:22 |
 | 55 | [Make Me Wanna](https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ), [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Make Me Wanna](https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs) | 3:22 |
 | 56 | [Driving in My Car](https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Nick Hexum](https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY) | [George Clanton and Nick Hexum](https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7) | 3:37 |
-| 57 | [Kate's Not Here \- Day Wave & Lawrence Rothman Remix](https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N), [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Kate's Not Here \(Day Wave & Lawrence Rothman Remix\)](https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x) | 3:07 |
-| 58 | [rest up](https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [rest up](https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue) | 3:24 |
-| 59 | [Contently Miserable](https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW) | [Rory Ryan](https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk) | [Contently Miserable](https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT) | 3:35 |
-| 60 | [carry you on my broken wings](https://open.spotify.com/track/2fik8AgFo86vliFEKcB0a0) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [baby’s out of luck again](https://open.spotify.com/album/6rtwbvMGAcxOZqQQkOmhxX) | 3:05 |
+| 57 | [rest up](https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [rest up](https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue) | 3:24 |
+| 58 | [Kate's Not Here \- Day Wave & Lawrence Rothman Remix](https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N), [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Kate's Not Here \(Day Wave & Lawrence Rothman Remix\)](https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x) | 3:07 |
+| 59 | [carry you on my broken wings](https://open.spotify.com/track/2fik8AgFo86vliFEKcB0a0) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [baby’s out of luck again](https://open.spotify.com/album/6rtwbvMGAcxOZqQQkOmhxX) | 3:05 |
+| 60 | [Contently Miserable](https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW) | [Rory Ryan](https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk) | [Contently Miserable](https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT) | 3:35 |
 | 61 | [Back Into Your Arms](https://open.spotify.com/track/0RXXhrHZgLinM2Tb8k2ROk) | [RINSE](https://open.spotify.com/artist/2hNslbfAAcYQ8TyejfmIz0), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Back Into Your Arms](https://open.spotify.com/album/7e9ZaDSUcIgDPM1qm2zlsO) | 4:23 |
 | 62 | [No More Kissing In The Rain](https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [Lisbet Fritze](https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod) | [Memoria](https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2) | 4:19 |
 | 63 | [Haunt You Still](https://open.spotify.com/track/7hLYnfqZ8IlIMxjdTkRFxO) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD) | 4:02 |

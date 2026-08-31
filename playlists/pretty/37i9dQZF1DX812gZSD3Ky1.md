@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > เพลงไวรัลและเพลงในกระแสตอนนี้\. ศิลปิน: DICERED
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,138 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,144 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 | 16 | [เมื่อไหร่จะมี \(มีใจให้กัน\)](https://open.spotify.com/track/7L3sb4eqF8zfQU8nAekHPm) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [เมื่อไหร่จะมี \(มีใจให้กัน\)](https://open.spotify.com/album/1LEPOmRF1QztU3ZG8cflDv) | 3:34 |
 | 17 | [วัฏสงสาร](https://open.spotify.com/track/1A70GCKNmhJnWRXMwGS7As) | [TaitosmitH](https://open.spotify.com/artist/0CR1aLS3JQTlekHgHTga60), [PINKIE](https://open.spotify.com/artist/7c6jLWUrGVl6JwaCmepfzv) | [วัฏสงสาร](https://open.spotify.com/album/7Hmfpn754LHOcdFg22Bsek) | 4:55 |
 | 18 | [รักใครไม่ไหว](https://open.spotify.com/track/3ZxGBncHdyXG7Mxa7d429r) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [III](https://open.spotify.com/album/59hXVrRW78L0BTtrZ1pn9M) | 4:10 |
-| 19 | [ลบไม่ได้ช่วยให้ลืม \(LIVE SESSION\)](https://open.spotify.com/track/1LHSjq4rMOXJ2ldQ1uUDYw) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ลบไม่ได้ช่วยให้ลืม \(LIVE SESSION\)](https://open.spotify.com/album/5sr2RxgnGw9rPhtV5fyFzA) | 4:36 |
+| 19 | [ลบไม่ได้ช่วยให้ลืม \- LIVE SESSION](https://open.spotify.com/track/1LHSjq4rMOXJ2ldQ1uUDYw) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ลบไม่ได้ช่วยให้ลืม \(LIVE SESSION\)](https://open.spotify.com/album/5sr2RxgnGw9rPhtV5fyFzA) | 4:36 |
 | 20 | [ส่วนผสมลับ \(Secret ingredient\)](https://open.spotify.com/track/55Dh103Y9ZkRG3MuFJSoyg) | [Jh4y](https://open.spotify.com/artist/01yGyVB1FyqBdpe7usXZ9o) | [ส่วนผสมลับ \(Secret ingredient\)](https://open.spotify.com/album/1AHBcZKuNJhSZajoT8wr9v) | 2:48 |
 | 21 | [ได้โปรดอยู่ตรงนี้ \(Upside Down\)](https://open.spotify.com/track/2Lvp0KYwXrU1L9OHQNA5Be) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [ได้โปรดอยู่ตรงนี้ \(Upside Down\)](https://open.spotify.com/album/3UomWRkUyNpaIbeBxE5wOL) | 4:31 |
 | 22 | [อารมณ์สีเทา](https://open.spotify.com/track/3gxK6ehmktiz8QRElreh5S) | [SEA.](https://open.spotify.com/artist/0uu4cmaCJaaVOiUHQUG2ZC), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [อารมณ์สีเทา](https://open.spotify.com/album/7jQYQQHdNM8t72aFTVrcgs) | 3:27 |

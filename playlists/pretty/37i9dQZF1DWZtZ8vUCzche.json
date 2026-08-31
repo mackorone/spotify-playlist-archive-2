@@ -1,6 +1,6 @@
 {
   "description": "Put your speakers to the test with this eclectic collection of legendary tracks.",
-  "num_followers": 1590763,
+  "num_followers": 1591024,
   "original_name": "Songs to Test Speakers With",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 350723,
+      "name": "Diamonds on the Soles of Her Shoes",
+      "url": "https://open.spotify.com/track/71GvlH0VdeClloLIkHrAVu"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
         "name": "Kingdoms In Colour",
         "url": "https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 254020,
       "name": "Nervous Tics",
       "url": "https://open.spotify.com/track/2oJ8Il24SIiDCJv39RYzPp"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 350723,
-      "name": "Diamonds on the Soles of Her Shoes",
-      "url": "https://open.spotify.com/track/71GvlH0VdeClloLIkHrAVu"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
+        "name": "The Dock of the Bay",
+        "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
         "name": "What Kinda Music",
         "url": "https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 249427,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/4Goj7amQLl2PiPYaiB0VlV"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
-        "name": "The Dock of the Bay",
-        "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
+        "name": "Sleep Well Beast",
+        "url": "https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "The System Only Dreams in Total Darkness",
+      "url": "https://open.spotify.com/track/612R6rJlv9N3wpljUpT8Ja"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
         "name": "The Road To Hell Is Paved With Good Intentions",
         "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 174579,
       "name": "Turn Me Inside",
       "url": "https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
-        "name": "Sleep Well Beast",
-        "url": "https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "The System Only Dreams in Total Darkness",
-      "url": "https://open.spotify.com/track/612R6rJlv9N3wpljUpT8Ja"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "5000 Miles",
-        "url": "https://open.spotify.com/album/3HsF8xFFpXCgSF2lE4zx0D"
-      },
-      "artists": [
-        {
-          "name": "Nils Landgren Funk Unit",
-          "url": "https://open.spotify.com/artist/3vHrEnwmDYlaScgAiZbnz0"
-        }
-      ],
-      "duration_ms": 357173,
-      "name": "Sisters of Arequipa",
-      "url": "https://open.spotify.com/track/6ZWMGsb8F27asRgM6aAmH9"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
         "name": "Vivaldi: The New Four Seasons",
         "url": "https://open.spotify.com/album/1cdlrGiaHbZQ089GcoZkaa"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 317933,
       "name": "Vivaldi: The New Four Seasons: Summer: 6 Destiny",
       "url": "https://open.spotify.com/track/4zpjj9VD3QSd3FujYgMpnj"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
+        "name": "5000 Miles",
+        "url": "https://open.spotify.com/album/3HsF8xFFpXCgSF2lE4zx0D"
+      },
+      "artists": [
+        {
+          "name": "Nils Landgren Funk Unit",
+          "url": "https://open.spotify.com/artist/3vHrEnwmDYlaScgAiZbnz0"
+        }
+      ],
+      "duration_ms": 357173,
+      "name": "Sisters of Arequipa",
+      "url": "https://open.spotify.com/track/6ZWMGsb8F27asRgM6aAmH9"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
+        "name": "Lucid Dreaming",
+        "url": "https://open.spotify.com/album/4JJEJahKyhbwxRnrHpebaD"
+      },
+      "artists": [
+        {
+          "name": "Orions Belte",
+          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Lucid Dreaming",
+      "url": "https://open.spotify.com/track/4WYSrzvQ9F91f4pRk4cMg6"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
         "name": "Metaphorical Music",
         "url": "https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 199160,
       "name": "Lady Brown (feat. Cise Starr from CYNE)",
       "url": "https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
-        "name": "Lucid Dreaming",
-        "url": "https://open.spotify.com/album/4JJEJahKyhbwxRnrHpebaD"
-      },
-      "artists": [
-        {
-          "name": "Orions Belte",
-          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Lucid Dreaming",
-      "url": "https://open.spotify.com/track/4WYSrzvQ9F91f4pRk4cMg6"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "Sailing To Philadelphia",
-        "url": "https://open.spotify.com/album/7oIBSEe5L89s2UXK0I8tYg"
-      },
-      "artists": [
-        {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Speedway At Nazareth",
-      "url": "https://open.spotify.com/track/59w9KJpA4DKvTyuxmTGIIP"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
         "name": "In Rainbows",
         "url": "https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 328293,
       "name": "House Of Cards",
       "url": "https://open.spotify.com/track/3Jc6X15OZCCyhGSHBF4hwB"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
+        "name": "Sailing To Philadelphia",
+        "url": "https://open.spotify.com/album/7oIBSEe5L89s2UXK0I8tYg"
+      },
+      "artists": [
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Speedway At Nazareth",
+      "url": "https://open.spotify.com/track/59w9KJpA4DKvTyuxmTGIIP"
     },
     {
       "added_at": "2026-05-15 12:32:26",

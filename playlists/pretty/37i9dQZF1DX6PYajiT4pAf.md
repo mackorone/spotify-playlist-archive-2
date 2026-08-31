@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Cano & Kidd Voodoo, Clarent & Omar Courtz, Olivia Rodrigo, Arde Bogotá y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,503 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,479 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

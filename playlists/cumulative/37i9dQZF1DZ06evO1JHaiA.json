@@ -873,6 +873,24 @@
     },
     {
       "album": {
+        "name": "I\u2019m Sold on You",
+        "url": "https://open.spotify.com/album/2NcbspIsbWVrNmJBDaNlP5"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123864,
+      "name": "I\u2019m Sold on You",
+      "url": "https://open.spotify.com/track/7lGyHxdp14qdveB9CSuGUx"
+    },
+    {
+      "album": {
         "name": "Old School Soul Masters",
         "url": "https://open.spotify.com/album/2OVIXQV91GUe2P0bESbRNh"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,928 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,015 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 97 | [SAD EYES](https://open.spotify.com/track/3ApV2EqK706aKHyiaq8gLY) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [SILENCIO HABLA](https://open.spotify.com/album/0RwAGxwkMubOZcfmvUMFoS) | 3:32 |
 | 98 | [Y Que Voy Hacer](https://open.spotify.com/track/5VuCkeLxzPmjMfdRsHhox8) | [Agushto Papa](https://open.spotify.com/artist/1v04yGSzSyXhmxR1SD5hfS), [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Agushto Papa Presents: Hidden Gems Vol\. 1](https://open.spotify.com/album/1YZjlOb4atenIItM3ljEyC) | 2:58 |
 | 99 | [La Neta](https://open.spotify.com/track/6KLCHorfObfTNApurEUdAq) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [La Neta](https://open.spotify.com/album/1TQtXw5mgUBjaYx73KXSap) | 2:17 |
-| 100 | [772 Love \- Remix](https://open.spotify.com/track/2LfiTqcOuH5o4TfIOCuGX3) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Vanesita](https://open.spotify.com/artist/35VZmpEAaX3Z8UP8Mps5sm) | [772 Love \(Remix\)](https://open.spotify.com/album/3JtQYgtu4EWsuFk3tCbQOY) | 3:12 |
+| 100 | [Te Juro Jamás](https://open.spotify.com/track/5L5AYy2Vh2QeWDbJm5Tm4I) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Te Juro Jamás](https://open.spotify.com/album/7qmbZJx55TMAJgQblzEa5x) | 3:00 |
 
 Snapshot ID: `AAAAAJqxGEKjiZTlb7o7vwxa0caZx/DM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\.  Photo: Colin Léo
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,690 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,687 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 29 | [Avant qu'il soit trop tard](https://open.spotify.com/track/2y5sRb7a6wTo2pw3QCEbv8) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Malgré la tempête \(Deluxe\)](https://open.spotify.com/album/2AMcBo3OVy62xvx5mTzp1N) | 2:40 |
 | 30 | [ENCORE ENCORE](https://open.spotify.com/track/5BoKkmRZBVbpjrdoMe92TO) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [ENCORE ENCORE](https://open.spotify.com/album/5PVXBvRLA9BOPnRU0CYLae) | 3:11 |
 | 31 | [Rat Race](https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Rat Race](https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA) | 3:10 |
-| 32 | [the evergreen, the birch](https://open.spotify.com/track/1Jro7GWs0S0PhfjKpYgN32) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy), [MEGGO](https://open.spotify.com/artist/77qYj3eFuD76x0w9lPXhrc) | [the evergreen, the birch](https://open.spotify.com/album/1lzkxI5VGMljL9tNRzSS2v) | 2:59 |
-| 33 | [Si j'avais un clou](https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Si j'avais un clou](https://open.spotify.com/album/5Ta4hSDVG7dcLf2PSCFTpl) | 3:49 |
+| 32 | [Si j'avais un clou](https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Si j'avais un clou](https://open.spotify.com/album/5Ta4hSDVG7dcLf2PSCFTpl) | 3:49 |
+| 33 | [the evergreen, the birch](https://open.spotify.com/track/1Jro7GWs0S0PhfjKpYgN32) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy), [MEGGO](https://open.spotify.com/artist/77qYj3eFuD76x0w9lPXhrc) | [the evergreen, the birch](https://open.spotify.com/album/1lzkxI5VGMljL9tNRzSS2v) | 2:59 |
 | 34 | [BURN LIKE FYA](https://open.spotify.com/track/6LBAvxT2JG8sz0MchIyx13) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [ATMANS](https://open.spotify.com/album/7N0q4kL78W1sQImoLTDdgx) | 2:08 |
 | 35 | [Dis\-moi, dis\-moi](https://open.spotify.com/track/5yJsv0y0uHbMzHFbdnJcUg) | [Bain Marie](https://open.spotify.com/artist/1yhFZckTeEyYoZaWNz7h3J) | [I Liked Blue After You](https://open.spotify.com/album/3iFRVbGnz5srKWuQRm8bXD) | 2:58 |
 | 36 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/6K3i6NYZqQDePOofuC6ETd) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/2KbPO54sRdryZvAXbr2IE2) | 3:58 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 45 | [Tarot](https://open.spotify.com/track/1PNaCwrKIBqjaK5FR2NnUJ) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Rose Perron](https://open.spotify.com/artist/6arQDOSIlfPHcQntq07PwB) | [Soleil mâché \(Deluxe\)](https://open.spotify.com/album/7IGfOCio5mpupVMo6isDVp) | 4:08 |
 | 46 | [figure it out](https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [figure it out](https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl) | 2:51 |
 | 47 | [Roses](https://open.spotify.com/track/1YDMR9mA86CqY7uBMsitXF) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Something More](https://open.spotify.com/album/09TCXjNpzMmadwJdLw0x3w) | 3:55 |
-| 48 | [we were fire](https://open.spotify.com/track/3rhRmWRFtvZy7TjWd8CIqG) | [Félix Collin](https://open.spotify.com/artist/1LdaP4F8M6XzkmVAfsSQ1s) | [we were fire](https://open.spotify.com/album/6RFN9IU19eOFxTFE2RKJgb) | 3:04 |
-| 49 | [Si les bateaux](https://open.spotify.com/track/6NSZLL51gW99UML3gcSiog) | [Gilles Vigneault](https://open.spotify.com/artist/4UKAN8YgrM7EZkAW4NbH9F), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Si les bateaux](https://open.spotify.com/album/1Kyq2KWn4sQ9bDn6QFmLGK) | 3:13 |
+| 48 | [Si les bateaux](https://open.spotify.com/track/6NSZLL51gW99UML3gcSiog) | [Gilles Vigneault](https://open.spotify.com/artist/4UKAN8YgrM7EZkAW4NbH9F), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Si les bateaux](https://open.spotify.com/album/1Kyq2KWn4sQ9bDn6QFmLGK) | 3:13 |
+| 49 | [we were fire](https://open.spotify.com/track/3rhRmWRFtvZy7TjWd8CIqG) | [Félix Collin](https://open.spotify.com/artist/1LdaP4F8M6XzkmVAfsSQ1s) | [we were fire](https://open.spotify.com/album/6RFN9IU19eOFxTFE2RKJgb) | 3:04 |
 | 50 | [Dis\-moi dis\-moi dis\-moi](https://open.spotify.com/track/6CUxtpfcHNJ3s06zxKeppu) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 5:09 |
 | 51 | [Gold in California](https://open.spotify.com/track/6A8iDAtKZddFTIZjATOCqp) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Gold in California](https://open.spotify.com/album/0OMEpNlaFqVOepQFBzHRAm) | 3:34 |
 | 52 | [If Time ’26](https://open.spotify.com/track/4akzkJlxy9FDpa5axng9CE) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [If Time '26](https://open.spotify.com/album/0iCNkmgtnmryJH1R59l3U6) | 3:12 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 72 | [Les mots que tu chantes](https://open.spotify.com/track/62pMWesW7OeH2xZACewgyX) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow), [John Nathaniel](https://open.spotify.com/artist/2Nb5cgwPtDPPL6Whe9zjfQ) | [Les mots que tu chantes](https://open.spotify.com/album/4DqPIbudxuN6AG308NCKqm) | 2:58 |
 | 73 | [copacabana](https://open.spotify.com/track/2c39ZtqhdYgjQ4brG0ujmT) | [ZEHD](https://open.spotify.com/artist/5NLjMu7RaXfk1Um3BHWOnS) | [copacabana](https://open.spotify.com/album/1BKsViGNggJHu3558EdWSE) | 1:57 |
 | 74 | [Je t'aime \- take 2](https://open.spotify.com/track/2vpKRYwOB0bri9HP3oe2zH) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Je t'aime \(take 2\)](https://open.spotify.com/album/0Ol7EUSY7zEgLX59Zb1pOe) | 5:31 |
-| 75 | [Feel '26](https://open.spotify.com/track/0gF9UtSCMLFv4dK8clGuUx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Feel '26](https://open.spotify.com/album/6qixCjKO41JgVM6NJ5RVrw) | 5:43 |
+| 75 | [If You Love Her](https://open.spotify.com/track/5JOcmJuB2fbzyq3iVC500q) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Sad Songs for Grieving](https://open.spotify.com/album/4HxwCfvEAyY1twUkq9MjF8) | 3:37 |
 
 Snapshot ID: `AAAAAAvVWqUK641kBnp+CpazfV0V+WOD`

@@ -1,6 +1,6 @@
 {
   "description": "When you're thinking of the one who gives you the butterflies. ",
-  "num_followers": 273555,
+  "num_followers": 273662,
   "original_name": "Crushing ",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-03-18 14:27:33",
       "album": {
+        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
+        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
+      },
+      "artists": [
+        {
+          "name": "Edison Lighthouse",
+          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
+    },
+    {
+      "added_at": "2026-03-18 14:27:33",
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 438493,
       "name": "Just the Two of Us (feat. Bill Withers)",
       "url": "https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT"
-    },
-    {
-      "added_at": "2026-03-18 14:27:33",
-      "album": {
-        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
-        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
-      },
-      "artists": [
-        {
-          "name": "Edison Lighthouse",
-          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
     },
     {
       "added_at": "2026-03-18 14:27:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > Unwind and relax to the soft sound of jazz piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,026 likes - 82 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,049 likes - 82 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 23 | [Midnight Promises](https://open.spotify.com/track/3LOcyi3pPJ0v5dQJXbTohF) | [Nova Blanche](https://open.spotify.com/artist/5jiNBpPFvATaOvPifxoOGf) | [Midnight Promises](https://open.spotify.com/album/6zGj4Fb4JqTrX37cDGLRXI) | 2:35 |
 | 24 | [Vortex](https://open.spotify.com/track/6jNd8Wmbgr0wOfr8gO72W1) | [A\. Mayven](https://open.spotify.com/artist/5Xq88eyRCCHY996qEXXdRU) | [Vortex](https://open.spotify.com/album/6gdhiFG1DK28gHBTn31Lhh) | 2:22 |
 | 25 | [Let's Take a Chance](https://open.spotify.com/track/2ssY14WTj7YcA6RaZhItHc) | [Wiz Senega](https://open.spotify.com/artist/0Nj1FVgOM1YdKQj3xa6vWP) | [Let's Take a Chance](https://open.spotify.com/album/4wZUH0xUUnZdvHonSugHCA) | 2:47 |
-| 26 | [Another sunset](https://open.spotify.com/track/5O0WWwQUYGm1DEO9floJoB) | [Laura Romano](https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8) | [Another sunset](https://open.spotify.com/album/3V4hFs6nLMwBnAYDyypcWo) | 2:58 |
-| 27 | [Seat for Two](https://open.spotify.com/track/1OfaNgaWjSA9HiedH84LPE) | [Suwonah Nolja](https://open.spotify.com/artist/1HFudkZUUEr5MiMSsPng4B) | [Seat for Two](https://open.spotify.com/album/6jcfxHvEQhlBqNr45FAgY5) | 2:38 |
+| 26 | [Seat for Two](https://open.spotify.com/track/1OfaNgaWjSA9HiedH84LPE) | [Suwonah Nolja](https://open.spotify.com/artist/1HFudkZUUEr5MiMSsPng4B) | [Seat for Two](https://open.spotify.com/album/6jcfxHvEQhlBqNr45FAgY5) | 2:38 |
+| 27 | [Another sunset](https://open.spotify.com/track/5O0WWwQUYGm1DEO9floJoB) | [Laura Romano](https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8) | [Another sunset](https://open.spotify.com/album/3V4hFs6nLMwBnAYDyypcWo) | 2:58 |
 | 28 | [Peace is overrated](https://open.spotify.com/track/0sV95W6PXJco0npkcS4UOW) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [Peace is overrated](https://open.spotify.com/album/0mZgqTeAGrfUFANgOuRJ1i) | 2:52 |
 | 29 | [Leave Us Fonder](https://open.spotify.com/track/3LjHn0yHI37EQryp4DSnRe) | [Yuffin Joah](https://open.spotify.com/artist/33XuwZaY3Ku1OgM4f5xwz8) | [Leave Us Fonder](https://open.spotify.com/album/3vc6MOXMp1pOyo37yWSkbO) | 2:05 |
 | 30 | [Fading Skies](https://open.spotify.com/track/11tihsEnimWVpYDKKyncEv) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [Fading Skies](https://open.spotify.com/album/0Gc4fTlM2NoEEnNpjdRuD0) | 2:18 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 44 | [Evening Stillness](https://open.spotify.com/track/5WEjTSODeUsYMsQVEHBs1E) | [John Bülow](https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep) | [Evening Stillness](https://open.spotify.com/album/21ilrSeAMjosU30MpOoa0v) | 3:18 |
 | 45 | [Quite a dilemma](https://open.spotify.com/track/0pqVwU2Qh0DqWtCM2Z34R0) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [Quite a dilemma](https://open.spotify.com/album/0SWqBR8eqW0LqgJXrPUQcI) | 2:55 |
 | 46 | [Pradayoo](https://open.spotify.com/track/6dpxiaunf6rT5tjr446YSd) | [Alex Flynn](https://open.spotify.com/artist/64CqRzs6YJbEYzCHJWHXdF) | [Pradayoo](https://open.spotify.com/album/5mMOphduDFRZZsCE7HELJZ) | 2:10 |
-| 47 | [An Evening Walk](https://open.spotify.com/track/7cj4cJfK1juIXTuNviu9XB) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [An Evening Walk](https://open.spotify.com/album/4PYXwB3FNXLepaBLOpXr7V) | 2:13 |
-| 48 | [Fading Away](https://open.spotify.com/track/2Lj90XBNH1Tl3vtD6vJcUj) | [Jacques Liti](https://open.spotify.com/artist/51OyTDCWeHCnapSMbkLU59) | [Fading Away](https://open.spotify.com/album/4fBkgYYEsSKa1pICgQThET) | 2:47 |
+| 47 | [Fading Away](https://open.spotify.com/track/2Lj90XBNH1Tl3vtD6vJcUj) | [Jacques Liti](https://open.spotify.com/artist/51OyTDCWeHCnapSMbkLU59) | [Fading Away](https://open.spotify.com/album/4fBkgYYEsSKa1pICgQThET) | 2:47 |
+| 48 | [An Evening Walk](https://open.spotify.com/track/7cj4cJfK1juIXTuNviu9XB) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [An Evening Walk](https://open.spotify.com/album/4PYXwB3FNXLepaBLOpXr7V) | 2:13 |
 | 49 | [promenade](https://open.spotify.com/track/2r451wKpR4AKtqD0bvAyAR) | [John Bülow](https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep) | [promenade](https://open.spotify.com/album/7Ctg2u11AefozpBYpyT9qb) | 2:43 |
 | 50 | [Bewitched](https://open.spotify.com/track/1cnHFlrnkjFcXA7np39uAd) | [Oliver Smith](https://open.spotify.com/artist/50mD2f9PAcpylaGDNNkBk2) | [Bewitched](https://open.spotify.com/album/2Q5XyVFJf8Lloo3zLhltgJ) | 2:39 |
 | 51 | [A Fourth Thought](https://open.spotify.com/track/163uckCvEz1DOUbpDqjJ7V) | [Alur Mcrose](https://open.spotify.com/artist/4yKXNGfD6RAqqj8VmLQSvF) | [A Fourth Thought](https://open.spotify.com/album/2C2Qx2Gu3J2rpV1nflr0zE) | 2:27 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 75 | [Grindavik](https://open.spotify.com/track/6GWCFQA9xGMcwN5kkzPqXf) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Grindavik](https://open.spotify.com/album/2tShsuIGN8rKlEXTv46tnB) | 3:04 |
 | 76 | [Strangers by Midnight](https://open.spotify.com/track/3aiSarqjyxbdllRulzUTJj) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [Strangers by Midnight](https://open.spotify.com/album/0dRBbv4SyKDfMtcmebe37h) | 3:20 |
 | 77 | [At The Core](https://open.spotify.com/track/6T5aKm6NU1JGdhYe4dqRVT) | [Luke Marantz](https://open.spotify.com/artist/0TDN86diVFoP3zBNOBg1nP) | [At The Core](https://open.spotify.com/album/37eEka6JOchS6lvRD1k9VF) | 3:10 |
-| 78 | [Beneath the Paris Sky](https://open.spotify.com/track/2rmEd94aBrpFFvMpQag04W) | [Nimelle](https://open.spotify.com/artist/0rFMKPWPxL6DpWH4aFDDME) | [Beneath the Paris Sky](https://open.spotify.com/album/42uGAxoZa4OG9lQfwihx9e) | 2:48 |
-| 79 | [Too Close for Comfort](https://open.spotify.com/track/4MKNeTEzXe3jdLNZlf5oDG) | [Santi Bordera](https://open.spotify.com/artist/5yG6YaEEVw1lyClOQ9yOzb) | [Too Close for Comfort](https://open.spotify.com/album/6SQKJbpX46rUn9gTtHgzyV) | 2:41 |
+| 78 | [Too Close for Comfort](https://open.spotify.com/track/4MKNeTEzXe3jdLNZlf5oDG) | [Santi Bordera](https://open.spotify.com/artist/5yG6YaEEVw1lyClOQ9yOzb) | [Too Close for Comfort](https://open.spotify.com/album/6SQKJbpX46rUn9gTtHgzyV) | 2:41 |
+| 79 | [Beneath the Paris Sky](https://open.spotify.com/track/2rmEd94aBrpFFvMpQag04W) | [Nimelle](https://open.spotify.com/artist/0rFMKPWPxL6DpWH4aFDDME) | [Beneath the Paris Sky](https://open.spotify.com/album/42uGAxoZa4OG9lQfwihx9e) | 2:48 |
 | 80 | [The old train](https://open.spotify.com/track/5ymsU4g64so81Y4LyFs2PJ) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [The old train](https://open.spotify.com/album/0AMT378RSZtNOXrzDNkkZJ) | 3:03 |
 | 81 | [A Phonecall Away](https://open.spotify.com/track/6p8QgVwYxoDRwFIxH8aEyH) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [A Phonecall Away](https://open.spotify.com/album/5hdqzPNQk3XovPzilrXRHD) | 2:32 |
 | 82 | [You're glowing](https://open.spotify.com/track/5TsR9Rig5dmMzMuAhz9XSM) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [You're glowing](https://open.spotify.com/album/5IJeiLHGAAjCYSos8mkp02) | 2:41 |

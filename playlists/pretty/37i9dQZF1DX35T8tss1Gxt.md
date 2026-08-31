@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: Alex Jean, REECE, & Yung Kriss
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,277 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,321 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 74 | [Lovin'](https://open.spotify.com/track/3xy8huS44QPfzob15J15Wn) | [Emma Nissen](https://open.spotify.com/artist/1DnRR6YVHXOJJ960ZKUzGS) | [Moved](https://open.spotify.com/album/6QzaLQ6pBHHMDWr75dJBRW) | 3:16 |
 | 75 | [Sinner 2 Winner](https://open.spotify.com/track/2aq0XbEOoxJH3t3o7iZp6y) | [Natalie Okri](https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j) | [Sinner 2 Winner](https://open.spotify.com/album/1ElsAvq1I2kv4JKdxmqSob) | 2:42 |
 
-Snapshot ID: `AAAAAGG5Xr2+oWhPV8ICnALjg6k295Vo`
+Snapshot ID: `AAAAAPSW79LapQ+teEA8dRKIT8+UbBTa`

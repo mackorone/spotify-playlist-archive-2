@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3bwnP3.md) - [plain]
 
 > This is Kara\-Lis Coverdale\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117 likes - 41 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 118 likes - 41 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3bwnP3.md) - [plain]
 | 12 | [Labyrinth I](https://open.spotify.com/track/5BV4TPbH6jQnDOs8B1En4j) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Changes in Air](https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI) | 10:44 |
 | 13 | [Fireflight](https://open.spotify.com/track/106Kuzs6vIiW908vLAOm0G) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fireflight](https://open.spotify.com/album/28vw89lvpwrlfi54Rgvv8S) | 3:04 |
 | 14 | [Grafts](https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts](https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw) | 22:31 |
-| 15 | [Habitat](https://open.spotify.com/track/31svskbKJJBnUFVl6DUCuE) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 2:11 |
+| 15 | [The Ceremonial Entrance of Colour](https://open.spotify.com/track/2CS6hJHnlJRerZiwCUIw4Q) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 4:35 |
 | 16 | [Oriri](https://open.spotify.com/track/60LOVP00FWMzZUQLZw6RW7) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Changes in Air](https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI) | 4:17 |
 | 17 | [Circularism](https://open.spotify.com/track/0hqnrTulWeD25GZBr1SERM) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A Series of Actions in a Sphere of Forever](https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt) | 3:37 |
 | 18 | [Undo](https://open.spotify.com/track/04ulTcYnjXajnw2T3KO6D1) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts \(Expanded Reissue\)](https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW) | 20:10 |
-| 19 | [The Ceremonial Entrance of Colour](https://open.spotify.com/track/2CS6hJHnlJRerZiwCUIw4Q) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 4:35 |
+| 19 | [Habitat](https://open.spotify.com/track/31svskbKJJBnUFVl6DUCuE) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 2:11 |
 | 20 | [Strait of Phase](https://open.spotify.com/track/4IywKZMcRrWHSmDeGekJB2) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Changes in Air](https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI) | 12:10 |
 | 21 | [Cumulative Resolution](https://open.spotify.com/track/0kcPM8OPrJM4th8SGKrP3t) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A Series of Actions in a Sphere of Forever](https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt) | 1:42 |
 | 22 | [Icon /c](https://open.spotify.com/track/0efZEOgLVMMmjO5Gdz5ul7) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Aftertouches](https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN) | 3:52 |
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3bwnP3.md) - [plain]
 | 30 | [Splash 144](https://open.spotify.com/track/2gYY1MQiNbdbvOY054ty0j) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Aftertouches](https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN) | 3:31 |
 | 31 | [Buried Trig](https://open.spotify.com/track/0cmTYyCmYFOQjrR94Qph4A) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Inscriptions, Vol\. 3](https://open.spotify.com/album/4xjqtaDrXhWVPHZzB5pMfq) | 4:08 |
 | 32 | [Informant](https://open.spotify.com/track/5DlXehvZA7eKs50M8UEcgc) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA), [LXV](https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY) | [Sirens](https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol) | 7:06 |
-| 33 | [Kõne, Vastu](https://open.spotify.com/track/1WXSz1lu5BehZIrYDpkeve) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A Series of Actions in a Sphere of Forever](https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt) | 4:02 |
+| 33 | [Suspension of Swallowed Earth](https://open.spotify.com/track/3VxrMBKHaeYqJJ6K6A0AZ0) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A Series of Actions in a Sphere of Forever](https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt) | 3:33 |
 | 34 | [X 4Ewi](https://open.spotify.com/track/47AGpXeFWGGEDODJTPyLel) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Aftertouches](https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN) | 5:20 |
 | 35 | [A 476](https://open.spotify.com/track/3DtqWpoU1uRjyltYDqr4GL) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A 480](https://open.spotify.com/album/4vYhuBSKCeJ6DcARcvS1Fm) | 2:02 |
 | 36 | [Disney](https://open.spotify.com/track/5MkuEX1acmkliCnJggxXgo) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA), [LXV](https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY) | [Sirens](https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol) | 8:14 |
-| 37 | [Suspension of Swallowed Earth](https://open.spotify.com/track/3VxrMBKHaeYqJJ6K6A0AZ0) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A Series of Actions in a Sphere of Forever](https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt) | 3:33 |
+| 37 | [Kõne, Vastu](https://open.spotify.com/track/1WXSz1lu5BehZIrYDpkeve) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A Series of Actions in a Sphere of Forever](https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt) | 4:02 |
 | 38 | [Kvinne med gresskar](https://open.spotify.com/track/193aqF62XnBBlBEvdT73Eh) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Jordsvingninger \(A Smalltown Supersound compilation of exclusive tracks\)](https://open.spotify.com/album/0IPRLbTk25WC4mUneVUgRN) | 2:28 |
 | 39 | [A 478](https://open.spotify.com/track/6CBVE62tXTPwSHBNIRQ5eK) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A 480](https://open.spotify.com/album/4vYhuBSKCeJ6DcARcvS1Fm) | 4:51 |
-| 40 | [Subfall \(to\)](https://open.spotify.com/track/7DCelWwpKq62RHmAgpOJEI) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA), [LXV](https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY) | [Sirens](https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol) | 6:12 |
-| 41 | [Borrowed Memory \(from\)](https://open.spotify.com/track/1PyACtmfSCqwDeMl9a4P4x) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA), [LXV](https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY) | [Sirens](https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol) | 2:59 |
+| 40 | [Borrowed Memory \(from\)](https://open.spotify.com/track/1PyACtmfSCqwDeMl9a4P4x) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA), [LXV](https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY) | [Sirens](https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol) | 2:59 |
+| 41 | [Subfall \(to\)](https://open.spotify.com/track/7DCelWwpKq62RHmAgpOJEI) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA), [LXV](https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY) | [Sirens](https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol) | 6:12 |
 
-Snapshot ID: `apDPgAAAAAAV0mf9DgPXUWot0lm5TwWZ`
+Snapshot ID: `apIhAAAAAAA5/5YBCwH3n3ZVejQP7OIF`

@@ -4,11 +4,11 @@
 
 > Musica per sorridere, darti la carica e affrontare la giornata ✨
 
-526 songs - 1 day 3 hr 31 min
+527 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-12-21 |  |
+| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-12-21 | 2026-08-31 |
 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2022-07-22 | 2023-07-15 |
 | [2step \(feat\. Ultimo\)](https://open.spotify.com/track/7mxEWcW3A0jULs64ckyq9k) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [2step \(feat\. Ultimo\)](https://open.spotify.com/album/3TDdlYSrE5WuOTiuyr9tTl) | 2:34 | 2022-05-06 | 2022-07-29 |
 | [5 Years Time](https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Peaceful, The World Lays Me Down](https://open.spotify.com/album/4bzNinbJcnth182w03fSL2) | 3:34 | 2025-07-15 | 2025-09-05 |
@@ -175,6 +175,7 @@
 | [Giants](https://open.spotify.com/track/0l4AReW2LuX0yStPfgQgSR) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Giants](https://open.spotify.com/album/6JBP6jsrUiFSmLVYdqetzu) | 2:57 | 2022-05-19 | 2022-05-24 |
 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 | 2023-05-15 | 2023-07-29 |
 | [Girls Like Us](https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Girls Like Us](https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg) | 3:09 | 2022-05-06 | 2022-07-29 |
+| [Girls Like You \(feat\. Cardi B\) \- Cardi B Version](https://open.spotify.com/track/7fa9MBXhVfQ8P8Df9OEbD8) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 3:55 | 2026-05-21 |  |
 | [Girls That Play](https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Girls That Play](https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx) | 3:22 | 2024-01-18 | 2024-04-23 |
 | [Glad U Came](https://open.spotify.com/track/3g5OlVimHO0rK6qmRiwokX) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Glad U Came](https://open.spotify.com/album/2H37NHuufU0kkwLhMwhdLj) | 2:58 | 2023-04-28 | 2023-07-16 |
 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2022-09-23 | 2023-01-11 |

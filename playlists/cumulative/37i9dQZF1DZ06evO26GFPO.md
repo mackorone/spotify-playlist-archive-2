@@ -4,7 +4,7 @@
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-117 songs - 6 hr 57 min
+118 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Desse Jeito é Ruim Pra Mim / Perfume / Antes de Dizer Adeus \- Ao vivo](https://open.spotify.com/track/1CehxijvhSszrBS3FuCxBw) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 6:41 | 2023-10-10 |  |
 | [Destilado \- Ao Vivo](https://open.spotify.com/track/1J8rfA9BdhlpzNSKKePf3U) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:56 | 2024-02-23 |  |
 | [Dia de Fluxo](https://open.spotify.com/track/6GmyQws2xpUFIN5dXBNTrl) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Dia de Fluxo](https://open.spotify.com/album/58jzd3ALDliyTUI5Ke8jmS) | 2:13 | 2023-12-21 |  |
-| [Dopamina](https://open.spotify.com/track/7jji4uvYD5QCa0qdlg0nUo) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:36 | 2025-11-12 |  |
+| [Dopamina](https://open.spotify.com/track/7jji4uvYD5QCa0qdlg0nUo) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:36 | 2025-11-12 | 2026-08-31 |
 | [Dorme com Deus / Fica \- Ao Vivo](https://open.spotify.com/track/1Y7ShD0kGmHPwJTWOuBlHK) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Tá Na Mente](https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 3:51 | 2023-10-10 |  |
 | [Duas doses de saudade / Nunca me verá chorar / Não quero mais \- Ao vivo](https://open.spotify.com/track/4jQmLCQingMe51sGRrsqRg) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Hello mundo \(Ao vivo\)](https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw) | 6:21 | 2026-08-18 |  |
 | [Ela Não \- Ao vivo](https://open.spotify.com/track/3B7aR5W9WNzo9FeIsdGxI1) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 2:28 | 2023-10-10 | 2025-11-14 |
@@ -101,6 +101,7 @@
 | [Saudade da Gente \(Ao Vivo na Resenha Pagode e Chinelo\)](https://open.spotify.com/track/0SzZVQw0tEazwNko6bdKwS) | [Grupo BalacoBaco](https://open.spotify.com/artist/3rPWjTxht8F3lTQpEUn8gJ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Saudade da Gente \(Ao Vivo na Resenha Pagode e Chinelo\)](https://open.spotify.com/album/39IY5gyzMAY6N8ufNZKP93) | 2:47 | 2024-08-12 |  |
 | [Saudade da Gente \- Ao Vivo](https://open.spotify.com/track/7zD6UkCZatI0QhTr3Q9c59) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 3:07 | 2024-02-23 |  |
 | [Se Não Chorar com Pagode \- Ao Vivo](https://open.spotify.com/track/4BB3adxRhL1lTK5WpB1eo1) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:56 | 2024-02-23 |  |
+| [Sem querer](https://open.spotify.com/track/2rC41weP3q2jhM0PDYOZGo) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Hoje](https://open.spotify.com/album/3IW2BnN4ynkoxAEftrT8eN) | 2:49 | 2026-08-31 |  |
 | [Señales](https://open.spotify.com/track/2t8GffKl3m6MWa0lPqjtqs) | [Nyno Vargas](https://open.spotify.com/artist/2dkbKcHXhN7ooFBdqAV76G), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Señales](https://open.spotify.com/album/582fES9o6jKWw9wsefl9Ef) | 3:38 | 2024-07-03 | 2024-08-26 |
 | [Sim ou Não \- Ao Vivo](https://open.spotify.com/track/28uWqEWQVNTJ7Y3E1cSVAp) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 3:12 | 2024-02-23 | 2024-03-14 |
 | [Sinais de fogo \- Ao Vivo](https://open.spotify.com/track/5Uq1ta57YcmShqMyPmVyyO) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 3:21 | 2023-10-10 |  |

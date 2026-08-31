@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,866 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,872 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 37 | [Ahora soy un punkarra](https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP) | [Desklate](https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT) | [Ahora soy un punkarra](https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK) | 2:24 |
 | 38 | [Humo](https://open.spotify.com/track/4TgiuHbWo5fc3rJCs8Km3L) | [Eruktogatos](https://open.spotify.com/artist/0oXKGaEfnCO4gA8YTzlDWJ), [Andrés Melojo](https://open.spotify.com/artist/1ymKRveYirruiLxi6Ls8sS) | [Humo](https://open.spotify.com/album/2ruESohGqLboa07L3xpBXG) | 3:48 |
 | 39 | [No Olvidamos, 3 de Marzo](https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [No Olvidamos, 3 de Marzo \- Single](https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE) | 3:51 |
-| 40 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
-| 41 | [Ellos Dicen Mierda \(Live\)](https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl) | [La Polla](https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J) | [Punk Latino Vol\. 1](https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN) | 4:26 |
+| 40 | [Ellos Dicen Mierda \(Live\)](https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl) | [La Polla](https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J) | [Punk Latino Vol\. 1](https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN) | 4:26 |
+| 41 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
 | 42 | [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 |
 | 43 | [Rico deprimido \- XX5](https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Rico deprimido \(XX5\)](https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z) | 3:25 |
 | 44 | [Ya No Me Divierto](https://open.spotify.com/track/4VRq1m4iV8NTZ4tzm423qS) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Ya No Me Divierto](https://open.spotify.com/album/0jPYDc9Kf4VKxd0VSVX8HL) | 3:43 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 49 | [Nunca He Visto el Mar](https://open.spotify.com/track/5qEjoywjW43wUjxUvSyRPw) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Nunca He Visto el Mar](https://open.spotify.com/album/5Qr8yJcWdR1pkWgs9MANSI) | 4:10 |
 | 50 | [Control de Masas](https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Control de Masas](https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm) | 3:41 |
 | 51 | [Al Monte \- En Directo Sala Nazca Madrid](https://open.spotify.com/track/0Ul61jBXFqInNFaQgtZJa0) | [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB) | [Al Monte \(En Directo Sala Nazca Madrid\)](https://open.spotify.com/album/4spYMKkgYXaeOPBCb5evIU) | 3:22 |
-| 52 | [La Hemos Cagao \- Versión 2026](https://open.spotify.com/track/5NOpn7lhJJmNhGVUz7RR66) | [Porretas](https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk) | [La Hemos Cagao \(Versión 2026\)](https://open.spotify.com/album/0C0d6wsnR45bZzZLIsDL2V) | 3:53 |
-| 53 | [Hasta Alcanzar la Eternidad](https://open.spotify.com/track/2VL5tGw1rCuZTcPBdbqlq9) | [Inkandescencia](https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l), [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB) | [Un Veneno Llamado Libertad](https://open.spotify.com/album/0Xd3vHYAhGXjLfRg8xzj5D) | 3:10 |
-| 54 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 |
+| 52 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 |
+| 53 | [La Hemos Cagao \- Versión 2026](https://open.spotify.com/track/5NOpn7lhJJmNhGVUz7RR66) | [Porretas](https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk) | [La Hemos Cagao \(Versión 2026\)](https://open.spotify.com/album/0C0d6wsnR45bZzZLIsDL2V) | 3:53 |
+| 54 | [Hasta Alcanzar la Eternidad](https://open.spotify.com/track/2VL5tGw1rCuZTcPBdbqlq9) | [Inkandescencia](https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l), [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB) | [Un Veneno Llamado Libertad](https://open.spotify.com/album/0Xd3vHYAhGXjLfRg8xzj5D) | 3:10 |
 | 55 | [Ni Una Sola Palabra](https://open.spotify.com/track/1rDoB0YlZ6V3V9xEoJoRnN) | [Me Fritos and the Gimme Cheetos](https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr) | [Ni una Sola Palabra](https://open.spotify.com/album/3cCGlsL0rcQXpASb4Lqeka) | 2:28 |
 | 56 | [No te atreves](https://open.spotify.com/track/26DQhrcaSnBzg256xbxnQf) | [Dear Joanne](https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa) | [No te atreves](https://open.spotify.com/album/5FJMzwDqkkMSc7bOVE9H9p) | 1:00 |
 | 57 | [Sin Perdón](https://open.spotify.com/track/7x0suSvlacQBTe9dPBpXzu) | [Engaño Manifiesto](https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c) | [Sin Perdón](https://open.spotify.com/album/6oZ2KJHWZCOsGF8C7K0BIA) | 3:10 |

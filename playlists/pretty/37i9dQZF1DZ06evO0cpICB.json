@@ -1,12 +1,12 @@
 {
   "description": "This is FLO. The essential tracks, all in one playlist.",
-  "num_followers": 17775,
+  "num_followers": 17793,
   "original_name": "This Is FLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAA0MDhw0KCAPnfj79Yb2d50",
+  "snapshot_id": "apIhAAAAAACTojdDGjLyprCW1i7Pisrg",
   "tracks": [
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 151500,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/5wGL57ptOqYqpTJlhey0k7"
+      "duration_ms": 149000,
+      "name": "Small Doses",
+      "url": "https://open.spotify.com/track/12Fx3yoknUGZ20QIxPPnZJ"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 149000,
-      "name": "Small Doses",
-      "url": "https://open.spotify.com/track/12Fx3yoknUGZ20QIxPPnZJ"
+      "duration_ms": 151500,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/5wGL57ptOqYqpTJlhey0k7"
     },
     {
       "added_at": null,

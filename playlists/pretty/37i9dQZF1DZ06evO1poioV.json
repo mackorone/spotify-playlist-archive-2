@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 124217,
+  "num_followers": 124246,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABNR/6ttE2qp3V8WJGubgVb",
+  "snapshot_id": "apIhAAAAAACCwZaua3PJotQ6PlCadKvS",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Every Time I Hear That Song",
+      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stick Season (Forever)",
         "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 286369,
       "name": "You\u2019re Gonna Go Far (with Brandi Carlile)",
       "url": "https://open.spotify.com/track/2U15ix0JMkQY8EsxneUfyL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Every Time I Hear That Song",
-      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
     },
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 196973,
+      "name": "The Mother",
+      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 231000,
       "name": "Thousand Miles (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/3DoSolxGSDoV7G7MtcIPiZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 196973,
-      "name": "The Mother",
-      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
     },
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Don't Know How But They Found Me...Again!",
-        "url": "https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 229911,
-      "name": "God Has A Hitman",
-      "url": "https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "By the Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 152946,
       "name": "Have You Ever",
       "url": "https://open.spotify.com/track/6z2qa2dnJDXgVTngG4gFu7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Don't Know How But They Found Me...Again!",
+        "url": "https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 229911,
+      "name": "God Has A Hitman",
+      "url": "https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 178320,
+      "name": "Turpentine",
+      "url": "https://open.spotify.com/track/3XsYJu7hRhj7Awg3rB0AnL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Party of One (feat. Sam Smith)",
         "url": "https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 259558,
       "name": "Party of One (feat. Sam Smith)",
       "url": "https://open.spotify.com/track/25fcj6d2W1l8DQL11Czdzb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Story",
-        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 178320,
-      "name": "Turpentine",
-      "url": "https://open.spotify.com/track/3XsYJu7hRhj7Awg3rB0AnL"
     },
     {
       "added_at": null,
@@ -515,34 +515,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Chain (From the Motion Picture Soundtrack \"The Kitchen\")",
-        "url": "https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5"
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
       },
       "artists": [
         {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
         }
       ],
-      "duration_ms": 291533,
-      "name": "The Chain - From the Motion Picture Soundtrack \"The Kitchen\"",
-      "url": "https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps"
+      "duration_ms": 233362,
+      "name": "(I Can\u2019t Get No) Satisfaction",
+      "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
     },
     {
       "added_at": null,
@@ -595,26 +587,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+        "name": "The Chain (From the Motion Picture Soundtrack \"The Kitchen\")",
+        "url": "https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
         },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
         }
       ],
-      "duration_ms": 233362,
-      "name": "(I Can\u2019t Get No) Satisfaction",
-      "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
+      "duration_ms": 291533,
+      "name": "The Chain - From the Motion Picture Soundtrack \"The Kitchen\"",
+      "url": "https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 266493,
+      "name": "A Woman Oversees",
+      "url": "https://open.spotify.com/track/2r5eNCbdI19jEkHSq9IbgM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 224893,
       "name": "How (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Returning To Myself",
-        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 266493,
-      "name": "A Woman Oversees",
-      "url": "https://open.spotify.com/track/2r5eNCbdI19jEkHSq9IbgM"
     },
     {
       "added_at": null,
@@ -903,6 +903,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 287545,
+      "name": "A Long Goodbye",
+      "url": "https://open.spotify.com/track/77tp1Yy4gys1k5bDtUygfu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brandy Clark",
         "url": "https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 276146,
       "name": "Dear Insecurity (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Returning To Myself",
-        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 287545,
-      "name": "A Long Goodbye",
-      "url": "https://open.spotify.com/track/77tp1Yy4gys1k5bDtUygfu"
     },
     {
       "added_at": null,

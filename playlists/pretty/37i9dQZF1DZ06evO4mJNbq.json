@@ -1,12 +1,12 @@
 {
   "description": "This is Zolita. The essential tracks, all in one playlist.",
-  "num_followers": 3248,
+  "num_followers": 3249,
   "original_name": "This Is Zolita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAACyF0BGQ5CbXQ97MUHgZqLS",
+  "snapshot_id": "apIhAAAAAADcCkEdmDm5xb6aVPTR9ft/",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Ex of Your Life",
-        "url": "https://open.spotify.com/album/7HRxfQtn1QyngtjAyFeUzi"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Best Ex of Your Life",
-      "url": "https://open.spotify.com/track/2RhLKRJJq29Tvecbk63X4K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I F*cking Love You",
         "url": "https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 180266,
       "name": "I F*cking Love You",
       "url": "https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best Ex of Your Life",
+        "url": "https://open.spotify.com/album/7HRxfQtn1QyngtjAyFeUzi"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Best Ex of Your Life",
+      "url": "https://open.spotify.com/track/2RhLKRJJq29Tvecbk63X4K"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Immaculate Conception",
-        "url": "https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7"
+        "name": "Hell's Belles",
+        "url": "https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 182608,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/31fgruFIDb9BwdU3xZgtHe"
+      "duration_ms": 163133,
+      "name": "Miss Misunderstood",
+      "url": "https://open.spotify.com/track/2tzCRiOiHRhp6q5LwfVHDI"
     },
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Immaculate Conception",
+        "url": "https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/31fgruFIDb9BwdU3xZgtHe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ashley",
         "url": "https://open.spotify.com/album/1yPpGluI3skIgOBVxJtXPA"
       },
@@ -235,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hell's Belles",
+        "url": "https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Everybody's Lover",
+      "url": "https://open.spotify.com/track/4gX6TB6xtJOYOpmaByqSTF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Evil Angel",
         "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
       },
@@ -247,22 +279,6 @@
       "duration_ms": 195616,
       "name": "Shut Up and Cry",
       "url": "https://open.spotify.com/track/0wtRqA9GmvxSpB7qSzPZYR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hell's Belles",
-        "url": "https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "Miss Misunderstood",
-      "url": "https://open.spotify.com/track/2tzCRiOiHRhp6q5LwfVHDI"
     },
     {
       "added_at": null,
@@ -299,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hell's Belles",
+        "url": "https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 152266,
+      "name": "DOPPELBANGER",
+      "url": "https://open.spotify.com/track/5EyhM2Fam73RNuAcuVESn7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "U Remind Me",
         "url": "https://open.spotify.com/album/32PpjwWVpWcy3n2syzkBnI"
       },
@@ -311,22 +343,6 @@
       "duration_ms": 177383,
       "name": "U Remind Me",
       "url": "https://open.spotify.com/track/5AC5BslKdVrjBRC6YwnCKX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hell's Belles",
-        "url": "https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Everybody's Lover",
-      "url": "https://open.spotify.com/track/4gX6TB6xtJOYOpmaByqSTF"
     },
     {
       "added_at": null,
@@ -363,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hell's Belles",
+        "url": "https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "FINAL FANTASY",
+      "url": "https://open.spotify.com/track/4GSjyUoFFasuGzk9t7yDid"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sappho",
         "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
       },
@@ -375,22 +407,6 @@
       "duration_ms": 216971,
       "name": "Come Home With Me",
       "url": "https://open.spotify.com/track/2IUZ5ifH9R13RoK8X70lgF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hell's Belles",
-        "url": "https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 152266,
-      "name": "DOPPELBANGER",
-      "url": "https://open.spotify.com/track/5EyhM2Fam73RNuAcuVESn7"
     },
     {
       "added_at": null,
@@ -427,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grave",
-        "url": "https://open.spotify.com/album/1qzE9q5WIok3jj1LOiMtuQ"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 152226,
-      "name": "Grave",
-      "url": "https://open.spotify.com/track/5XZj0TXYvV7c34lP69peNI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hell's Belles",
         "url": "https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR"
       },
@@ -455,22 +455,6 @@
       "duration_ms": 56000,
       "name": "Belle's HELL (Interlude)",
       "url": "https://open.spotify.com/track/1art06Q1EWEro00cyuaSTg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Queen of Hearts",
-        "url": "https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "All Over Again",
-      "url": "https://open.spotify.com/track/78kaWaza97WrIqCGDs0bYF"
     },
     {
       "added_at": null,
@@ -491,6 +475,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Queen of Hearts",
+        "url": "https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/78kaWaza97WrIqCGDs0bYF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grave",
+        "url": "https://open.spotify.com/album/1qzE9q5WIok3jj1LOiMtuQ"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 152226,
+      "name": "Grave",
+      "url": "https://open.spotify.com/track/5XZj0TXYvV7c34lP69peNI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Immaculate Conception",
         "url": "https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7"
       },
@@ -507,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell's Belles",
-        "url": "https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR"
+        "name": "Falling Out / Falling In",
+        "url": "https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb"
       },
       "artists": [
         {
@@ -516,9 +532,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 165000,
-      "name": "FINAL FANTASY",
-      "url": "https://open.spotify.com/track/4GSjyUoFFasuGzk9t7yDid"
+      "duration_ms": 193466,
+      "name": "For the Both of Us",
+      "url": "https://open.spotify.com/track/0yOEI0VoPeo1vyWjUnglLw"
     },
     {
       "added_at": null,
@@ -535,22 +551,6 @@
       "duration_ms": 174866,
       "name": "What If",
       "url": "https://open.spotify.com/track/6IZkI9PhxaTHLLltkHBu4t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Falling Out / Falling In",
-        "url": "https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "For the Both of Us",
-      "url": "https://open.spotify.com/track/0yOEI0VoPeo1vyWjUnglLw"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sappho",
-        "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 227882,
-      "name": "Like Heaven",
-      "url": "https://open.spotify.com/track/2ZmZ536Je4LyhwfkmvjozR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Falling Out / Falling In",
         "url": "https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 200453,
       "name": "Drunk with Your Exes",
       "url": "https://open.spotify.com/track/2EyKyp1GPK6xhJSoVi4WRk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sappho",
+        "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 227882,
+      "name": "Like Heaven",
+      "url": "https://open.spotify.com/track/2ZmZ536Je4LyhwfkmvjozR"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sappho",
-        "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 224445,
-      "name": "New You",
-      "url": "https://open.spotify.com/track/1IM5NzUgVym6ERZc2nO0a2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Immaculate Conception",
         "url": "https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 209230,
       "name": "Kill for You",
       "url": "https://open.spotify.com/track/1ciiCR9U41zWj3JrMfHTyi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sappho",
+        "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 224445,
+      "name": "New You",
+      "url": "https://open.spotify.com/track/1IM5NzUgVym6ERZc2nO0a2"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sappho",
-        "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 244580,
-      "name": "Remind Me",
-      "url": "https://open.spotify.com/track/1UCYSP9JPrHQuaJYHZjiw9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Immaculate Conception",
         "url": "https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 219428,
       "name": "Drug Me Now",
       "url": "https://open.spotify.com/track/1bKyqptWUV3LYj5I7GpcPM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sappho",
+        "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 221714,
+      "name": "Spotless",
+      "url": "https://open.spotify.com/track/2mqLJT1iTLvcPNlDalHLUe"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 221714,
-      "name": "Spotless",
-      "url": "https://open.spotify.com/track/2mqLJT1iTLvcPNlDalHLUe"
+      "duration_ms": 244580,
+      "name": "Remind Me",
+      "url": "https://open.spotify.com/track/1UCYSP9JPrHQuaJYHZjiw9"
     }
   ],
   "unique_name": "This Is Zolita",

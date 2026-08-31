@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1633411,
+  "num_followers": 1633363,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAD1uOF0ZZFLjFtsN0nA89Yf",
+  "snapshot_id": "apIhAAAAAACYQvvAuS5OyWCdLMDbtppj",
   "tracks": [
     {
       "added_at": null,
@@ -759,6 +759,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LIFE'S A TRIP",
+        "url": "https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 256161,
+      "name": "Dark Knight Dummo (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 314836,
       "name": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)",
       "url": "https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LIFE'S A TRIP",
-        "url": "https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 256161,
-      "name": "Dark Knight Dummo (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog"
     },
     {
       "added_at": null,

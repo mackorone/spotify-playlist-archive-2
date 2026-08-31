@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí, con nuestra nueva promoción\. Foto:  El Bobo de las 3000.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,022 likes - 38 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,030 likes - 38 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 24 | [Kryptonita](https://open.spotify.com/track/18zzzdkP3Ns1JNR0764nNY) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [ALKIMIA](https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd) | 2:44 |
 | 25 | [La Sangre del Pobre](https://open.spotify.com/track/7K7Qu4nsIF5YN14M4zElp2) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR) | 3:18 |
 | 26 | [Me Vas A Matar](https://open.spotify.com/track/1vCsE1kvMsPLUk4WJ1ELaa) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Demian](https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8) | 3:08 |
-| 27 | [EL TASER DE MAMÁ \(REMIX\)](https://open.spotify.com/track/2SINilxUbNWB55Tcl6UFK5) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG), [Xiyo](https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ), [Fernandezz](https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1), [Kristina](https://open.spotify.com/artist/07Z7bvJe6gxi40UxVpuEL1), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [PICHI](https://open.spotify.com/artist/4hhUpqs3ta9iTAXSlt1Xk1) | [EL TASER DE MAMÁ \(REMIX\)](https://open.spotify.com/album/4I7qJNZaCBSR6mGKU4HxD1) | 4:33 |
+| 27 | [EL TASER DE MAMÁ \- REMIX](https://open.spotify.com/track/2SINilxUbNWB55Tcl6UFK5) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG), [Xiyo](https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ), [Fernandezz](https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1), [Kristina](https://open.spotify.com/artist/07Z7bvJe6gxi40UxVpuEL1), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [PICHI](https://open.spotify.com/artist/4hhUpqs3ta9iTAXSlt1Xk1) | [EL TASER DE MAMÁ \(REMIX\)](https://open.spotify.com/album/4I7qJNZaCBSR6mGKU4HxD1) | 4:33 |
 | 28 | [Esto del Amor Nada](https://open.spotify.com/track/2BvsXvXXWMxnCYNG8CwgTP) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Esto del Amor Nada](https://open.spotify.com/album/4eTy6HIxG2V7hE70TgVjTh) | 3:08 |
 | 29 | [Beatrice](https://open.spotify.com/track/60soEK2W8RM0Yo4mg9Arbm) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Beatrice](https://open.spotify.com/album/1eLk3Z1aBVgPaIMH3JhqDr) | 2:18 |
 | 30 | [No Llores, Dr G](https://open.spotify.com/track/3dm8ExUF8GZa6EXN7kKAZR) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR) | 3:24 |

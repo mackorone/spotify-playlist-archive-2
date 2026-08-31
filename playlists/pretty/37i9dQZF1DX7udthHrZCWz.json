@@ -1,6 +1,6 @@
 {
   "description": "Unwind to these easy classics from the 2010s...",
-  "num_followers": 301283,
+  "num_followers": 301274,
   "original_name": "Easy 10s",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
-        "name": "The Element Of Freedom",
-        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 216480,
-      "name": "Empire State of Mind (Part II) Broken Down",
-      "url": "https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI"
-    },
-    {
-      "added_at": "2024-06-03 14:47:34",
-      "album": {
         "name": "House Of Balloons (Original)",
         "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 325305,
       "name": "Wicked Games",
       "url": "https://open.spotify.com/track/00aqkszH1FdUiJJWvX6iEl"
+    },
+    {
+      "added_at": "2024-06-03 14:47:34",
+      "album": {
+        "name": "The Element Of Freedom",
+        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 216480,
+      "name": "Empire State of Mind (Part II) Broken Down",
+      "url": "https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI"
     },
     {
       "added_at": "2024-06-03 14:47:34",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 211763,
-      "name": "Hold My Girl",
-      "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
-    },
-    {
-      "added_at": "2024-06-03 14:47:34",
-      "album": {
         "name": "Is There Anybody Out There?",
         "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 229404,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
+    },
+    {
+      "added_at": "2024-06-03 14:47:34",
+      "album": {
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 211763,
+      "name": "Hold My Girl",
+      "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
     },
     {
       "added_at": "2024-06-03 14:47:34",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
-        "name": "Human (Deluxe)",
-        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 239620,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/6y2Kaz9QI01XBKJ8mTb7Pf"
-    },
-    {
-      "added_at": "2024-06-03 14:47:34",
-      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
         }
       ],
-      "duration_ms": 241346,
-      "name": "Tenerife Sea",
-      "url": "https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS"
+      "duration_ms": 239620,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/6y2Kaz9QI01XBKJ8mTb7Pf"
     },
     {
       "added_at": "2024-06-03 14:47:34",
@@ -1187,6 +1171,22 @@
       "duration_ms": 230269,
       "name": "Praying",
       "url": "https://open.spotify.com/track/0jdny0dhgjUwoIp5GkqEaA"
+    },
+    {
+      "added_at": "2024-06-03 14:47:34",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 241346,
+      "name": "Tenerife Sea",
+      "url": "https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS"
     },
     {
       "added_at": "2024-06-03 14:47:34",

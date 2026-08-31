@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 10114,
+  "num_followers": 10118,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAACbZaRUiIruqNnqR0Tfbtgr",
+  "snapshot_id": "apIhAAAAAABnBZUeIP1AzaI3aVAM0nlp",
   "tracks": [
     {
       "added_at": null,
@@ -472,13 +472,13 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         },
         {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+          "name": "LDNE",
+          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
         }
       ],
-      "duration_ms": 174210,
-      "name": "Que Vas a Hacer (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/4TQQ4KWBUDhhP6QhbzgJdy"
+      "duration_ms": 250240,
+      "name": "Labios Rojos (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/3zeOGStcMvRNYhN0QY9S95"
     },
     {
       "added_at": null,
@@ -548,13 +548,13 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         },
         {
-          "name": "LDNE",
-          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
         }
       ],
-      "duration_ms": 250240,
-      "name": "Labios Rojos (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/3zeOGStcMvRNYhN0QY9S95"
+      "duration_ms": 174210,
+      "name": "Que Vas a Hacer (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/4TQQ4KWBUDhhP6QhbzgJdy"
     },
     {
       "added_at": null,
@@ -595,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEGENDARIO",
-        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
+        "name": "Poes\u00edas",
+        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
       },
       "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 173500,
-      "name": "NOCHE NEGRA",
-      "url": "https://open.spotify.com/track/1KLBxcUxP6MkSyxDdbkWb3"
+      "duration_ms": 140755,
+      "name": "Una Noche Nomas",
+      "url": "https://open.spotify.com/track/1qND5NqKyn93Y6rOxuDYzR"
     },
     {
       "added_at": null,
@@ -635,18 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poes\u00edas",
-        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
+        "name": "LEGENDARIO",
+        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
       },
       "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 140755,
-      "name": "Una Noche Nomas",
-      "url": "https://open.spotify.com/track/1qND5NqKyn93Y6rOxuDYzR"
+      "duration_ms": 173500,
+      "name": "NOCHE NEGRA",
+      "url": "https://open.spotify.com/track/1KLBxcUxP6MkSyxDdbkWb3"
     },
     {
       "added_at": null,

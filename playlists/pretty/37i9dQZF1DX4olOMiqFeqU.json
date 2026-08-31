@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2421875,
+  "num_followers": 2421710,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
+        "name": "Ikaw Lang Patutunguhan",
+        "url": "https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG"
+      },
+      "artists": [
+        {
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
+        }
+      ],
+      "duration_ms": 326896,
+      "name": "Ikaw Lang Patutunguhan",
+      "url": "https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z"
+    },
+    {
+      "added_at": "2026-08-07 04:22:25",
+      "album": {
         "name": "Palaisipan",
         "url": "https://open.spotify.com/album/78krpREp3Hu6cfhbTJVNW0"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 241237,
       "name": "Palaisipan",
       "url": "https://open.spotify.com/track/5Qsa2a1GStao34PdmEJUN2"
-    },
-    {
-      "added_at": "2026-08-07 04:22:25",
-      "album": {
-        "name": "Ikaw Lang Patutunguhan",
-        "url": "https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG"
-      },
-      "artists": [
-        {
-          "name": "Amiel Sol",
-          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
-        }
-      ],
-      "duration_ms": 326896,
-      "name": "Ikaw Lang Patutunguhan",
-      "url": "https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z"
     },
     {
       "added_at": "2026-08-07 04:22:25",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
+        "name": "Destination XYZ",
+        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "duration_ms": 326813,
+      "name": "Magbalik",
+      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
+    },
+    {
+      "added_at": "2026-08-07 04:22:25",
+      "album": {
         "name": "Ang Wakas (feat. Trisha Macapagal)",
         "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 304000,
       "name": "Ang Wakas (feat. Trisha Macapagal)",
       "url": "https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6"
-    },
-    {
-      "added_at": "2026-08-07 04:22:25",
-      "album": {
-        "name": "Destination XYZ",
-        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
-      },
-      "artists": [
-        {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
-        }
-      ],
-      "duration_ms": 326813,
-      "name": "Magbalik",
-      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
     },
     {
       "added_at": "2026-08-07 04:22:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 
 > me gustas mucho\. <3 I've got a crush on you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,272 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,295 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 | 86 | [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 |
 | 87 | [PILATES](https://open.spotify.com/track/6w3cKSW3HCFx4Z47tRHiwv) | [ARIA BELA](https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz) | [PILATES](https://open.spotify.com/album/3MuMW080QRlLuVNwyNH8BA) | 2:44 |
 | 88 | [Musas en Mi](https://open.spotify.com/track/2z5Lw3cfLUpfXJymwKH6An) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Musas en Mi](https://open.spotify.com/album/4DpsoTA4hQJ3C92jvokX1s) | 5:34 |
-| 89 | [KINTSUGI](https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [KINTSUGI](https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ) | 3:57 |
-| 90 | [BI](https://open.spotify.com/track/3A2h5cSKjTgIVwVsti2EdT) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [BI](https://open.spotify.com/album/5eDuna8HWeNest7b5MVSb3) | 2:29 |
+| 89 | [BI](https://open.spotify.com/track/3A2h5cSKjTgIVwVsti2EdT) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [BI](https://open.spotify.com/album/5eDuna8HWeNest7b5MVSb3) | 2:29 |
+| 90 | [KINTSUGI](https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [KINTSUGI](https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ) | 3:57 |
 | 91 | [BELLA](https://open.spotify.com/track/5aWBfICPZSTUSAHdyxRy9R) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [BELLA](https://open.spotify.com/album/6fexRvGSeG2sHlla8LIanp) | 2:52 |
 | 92 | [Sylvia Plath](https://open.spotify.com/track/5aBuF2Pa3x9gZKwnshRLhz) | [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE) | [Sylvia Plath](https://open.spotify.com/album/4YvQEEbnFEqUROQDsxJ6xN) | 5:10 |
 | 93 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1IPOOk.md) - [plain]
 
 > This is Kendrick Lamar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,922,079 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,922,063 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1IPOOk.md) - [plain]
 | 49 | [Bad Blood](https://open.spotify.com/track/6xsEAm6w9oMQYYg3jkEkMT) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Bad Blood](https://open.spotify.com/album/1Tv3rrFNdXGtTeP1plX2xE) | 3:20 |
 | 50 | [meet the grahams](https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [meet the grahams](https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0) | 6:32 |
 
-Snapshot ID: `apDPgAAAAAAlGsLSVFfG8K21Yguzvral`
+Snapshot ID: `apIhAAAAAAChRkmN7yaVG6xa4s87WV4l`

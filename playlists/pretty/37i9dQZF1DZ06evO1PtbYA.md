@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PtbYA.md) - [plain]
 
 > This is Asake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,951 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,063 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PtbYA.md) - [plain]
 | 6 | [Chanel \(feat\. Asake\)](https://open.spotify.com/track/6JVQBlA628faJmvQbeyBHT) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Chanel \(feat\. Asake\)](https://open.spotify.com/album/3ctssLn3Uq8WPudSkMrzWT) | 2:30 |
 | 7 | [Nzaza](https://open.spotify.com/track/0VjzaXw81JQJM61pzWwP8b) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 3:03 |
 | 8 | [Forgiveness](https://open.spotify.com/track/5u4rozuOBse9MgrAzGspQy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:38 |
-| 9 | [Remember](https://open.spotify.com/track/0Q1bMs3xLQiDEeaneehdxv) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 3:02 |
-| 10 | [Jogodo](https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Jogodo](https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx) | 3:08 |
+| 9 | [Jogodo](https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Jogodo](https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx) | 3:08 |
+| 10 | [Remember](https://open.spotify.com/track/0Q1bMs3xLQiDEeaneehdxv) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 3:02 |
 | 11 | [Turbulence](https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:25 |
 | 12 | [MCBH](https://open.spotify.com/track/36PS8XCemqmPvigIL8S40B) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:50 |
-| 13 | [Lonely At The Top](https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:37 |
-| 14 | [Ototo](https://open.spotify.com/track/0CUJV0Hh512Ns7U2yGflqt) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:36 |
+| 13 | [Ototo](https://open.spotify.com/track/0CUJV0Hh512Ns7U2yGflqt) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:36 |
+| 14 | [Lonely At The Top](https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:37 |
 | 15 | [Ako \- Live in London](https://open.spotify.com/track/42enlqjY1SvHHUNmyaBy7f) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY Live in London \(Spotify Live\)](https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB) | 4:04 |
 | 16 | [Wa](https://open.spotify.com/track/5KX0YeCNKaOc3XhhDHi3mI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:23 |
 | 17 | [Bandana](https://open.spotify.com/track/2qWwuCVeMjF9mUT0S5Iqvl) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PtbYA.md) - [plain]
 | 49 | [Outro \- Live in London](https://open.spotify.com/track/0HVH8vd5g6awbg8AnF1Wco) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY Live in London \(Spotify Live\)](https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB) | 1:45 |
 | 50 | [My Heart](https://open.spotify.com/track/4Mq3cWI9k0DO9sMe6Ylqr2) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:17 |
 
-Snapshot ID: `apDPgAAAAACNPmQxq/eC66P/Wnty52xn`
+Snapshot ID: `apIhAAAAAADBikq1jL102/aVfyrIopr9`

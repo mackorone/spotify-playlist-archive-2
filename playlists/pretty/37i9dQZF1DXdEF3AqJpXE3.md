@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 
 > The best tracks from the world of music\. Cover: KATSEYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,661 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,662 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

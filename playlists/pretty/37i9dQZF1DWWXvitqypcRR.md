@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 
 > <a href="spotify:artist:18JlbX3l0yzlwdnQVJrLsp">Tripolism</a>'s favorite tracks\. Updated regularly\. Curated by Tripolism\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,665 likes - 45 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,678 likes - 45 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 | 27 | [Blowin' Up The Spot](https://open.spotify.com/track/4GkPIJwHF5JE3dywYYEOLz) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Blowin' Up The Spot](https://open.spotify.com/album/5xs0rOd6NzcSUe5GDuEpnW) | 3:05 |
 | 28 | [Vacaciones En Chile \- Original Mix](https://open.spotify.com/track/7CKsgEdJNFTDqWgk3XD1XB) | [Ilario Alicante](https://open.spotify.com/artist/4dCGOzY3HL7dZnQ8XU7DDD) | [Warm Vibes](https://open.spotify.com/album/1J8JYqCBf5o9Sp9MAFXbze) | 9:49 |
 | 29 | [Good Life](https://open.spotify.com/track/5dtFOeNz6FEtZSPkm5f1Ed) | [ALISHA](https://open.spotify.com/artist/1zUgvtlUR6jXtCUCF0j3fe), [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Good Life](https://open.spotify.com/album/6SIJVH2p0eLprExmSDDCml) | 3:01 |
-| 30 | [Max \(Tripolism Remix\)](https://open.spotify.com/track/7uLvNGCt5gn51iOZXMlXgH) | [Kenton Slash Demon](https://open.spotify.com/artist/6c9QzUS4FsfkV31t39lnbU), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Max \(Tripolism Remix\)](https://open.spotify.com/album/4uQz1idc9hg7qiZlJqoF9E) | 6:54 |
+| 30 | [Max \- Tripolism Remix](https://open.spotify.com/track/7uLvNGCt5gn51iOZXMlXgH) | [Kenton Slash Demon](https://open.spotify.com/artist/6c9QzUS4FsfkV31t39lnbU), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Max \(Tripolism Remix\)](https://open.spotify.com/album/4uQz1idc9hg7qiZlJqoF9E) | 6:54 |
 | 31 | [The 11th Hour](https://open.spotify.com/track/5rsbEsAcHDNMS6HmWKvZ4m) | [Brunello](https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU), [Celia Babini](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [The 11th Hour](https://open.spotify.com/album/4yFsyBqcl6s8X1OyOv5LjF) | 7:13 |
 | 32 | [Dreams](https://open.spotify.com/track/4F1J5Y890NaaTUOumYzYUX) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Free Your Mind](https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ) | 3:56 |
 | 33 | [Flying Away With You \- Meera Remix](https://open.spotify.com/track/44hSXkJy30LXwqWrZYoWca) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [meera](https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi) | [Flying Away With You Remixes](https://open.spotify.com/album/4Wt02ELW10Qyj9OkWMjL6q) | 8:59 |

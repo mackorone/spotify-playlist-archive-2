@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos de Trap Latino  📸  Brray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,116,870 likes - 101 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,116,820 likes - 101 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

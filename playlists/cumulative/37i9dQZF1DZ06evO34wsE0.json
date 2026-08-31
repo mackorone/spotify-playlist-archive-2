@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 148274,
       "name": "Boots Don't",
       "url": "https://open.spotify.com/track/0MZ7Qj5BoJNTsFYDLPufVt"
@@ -860,6 +860,28 @@
     {
       "album": {
         "name": "Little Miss Twain",
+        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255883,
+      "name": "Little Miss Twain (feat. Tanya Tucker)",
+      "url": "https://open.spotify.com/track/58F4PSTYKRRI79k5xhvkGf"
+    },
+    {
+      "album": {
+        "name": "Little Miss Twain",
         "url": "https://open.spotify.com/album/6DwJRbrjM1mMF4e4S6YQUc"
       },
       "artists": [
@@ -874,7 +896,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 255883,
       "name": "Little Miss Twain (feat. Tanya Tucker)",
       "url": "https://open.spotify.com/track/5HxmVxSA0jpEz67sk3bCXA"
@@ -1210,7 +1232,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 190349,
       "name": "Scary Little Thing",
       "url": "https://open.spotify.com/track/4g8Gqzb6Oh3Zpa4h3aFB0f"

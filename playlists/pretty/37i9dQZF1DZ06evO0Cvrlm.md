@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 
 > This is George Michael\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,084 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,104 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 26 | [Spinning the Wheel](https://open.spotify.com/track/4V4Ur4PJskr5vR2ek8VHWw) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 6:21 |
 | 27 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/6T0gaMfEfNWXZCGQKh1wlo) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 5:19 |
 | 28 | [Going To A Town \- Live](https://open.spotify.com/track/3yTgmjZoG8OnQXmE9aNSc2) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:45 |
-| 29 | [Flawless \(Go to the City\)](https://open.spotify.com/track/6HwgNXpldZ0WfY4kzJgexr) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 6:51 |
+| 29 | [Everything She Wants \- Live](https://open.spotify.com/track/2kaDIOcZx2WARb52smVMt4) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 5:13 |
 | 30 | [Older](https://open.spotify.com/track/1oMNeGkqwyEOLMUTrgdIr2) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 5:33 |
-| 31 | [Everything She Wants \- Live](https://open.spotify.com/track/2kaDIOcZx2WARb52smVMt4) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 5:13 |
+| 31 | [Flawless \(Go to the City\)](https://open.spotify.com/track/6HwgNXpldZ0WfY4kzJgexr) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 6:51 |
 | 32 | [I Want Your Sex \- Pts\. 1 & 2 Remastered](https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 9:17 |
 | 33 | [This Is Not Real Love \(feat\. Mutya\) \- Remastered 2006](https://open.spotify.com/track/0uLMAdoeOc0Q3bztUU0tD0) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Mutya](https://open.spotify.com/artist/1VPdHx80mwDD7koKNVxPH1) | [Twenty Five](https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY) | 4:56 |
 | 34 | [The Strangest Thing](https://open.spotify.com/track/1eFhGtC7msDWjjG0lrr9Dx) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 6:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 49 | [Idol \- Live](https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:29 |
 | 50 | [Secret Love](https://open.spotify.com/track/5DvAuonLamxQJUiY44tBiq) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 2:39 |
 
-Snapshot ID: `apDPgAAAAACbTqRHtW2nfbu7z2ItM+5L`
+Snapshot ID: `apIhAAAAAACnKEP8IjPomTlBboJCm0XX`

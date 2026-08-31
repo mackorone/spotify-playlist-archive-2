@@ -1,6 +1,6 @@
 {
   "description": "The ultimate rock party playlist!",
-  "num_followers": 2777021,
+  "num_followers": 2777122,
   "original_name": "Rock Party",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-06-17 16:23:02",
       "album": {
-        "name": "Pocket Full Of Kryptonite (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3jx5C8Z66FwdjNkqsSDBQh"
-      },
-      "artists": [
-        {
-          "name": "Spin Doctors",
-          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
-        }
-      ],
-      "duration_ms": 256946,
-      "name": "Two Princes",
-      "url": "https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw"
-    },
-    {
-      "added_at": "2026-06-17 16:23:02",
-      "album": {
         "name": "Tattoo You (2009 Re-Mastered)",
         "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 213066,
       "name": "Start Me Up - Remastered 2009",
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+    },
+    {
+      "added_at": "2026-06-17 16:23:02",
+      "album": {
+        "name": "Pocket Full Of Kryptonite (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3jx5C8Z66FwdjNkqsSDBQh"
+      },
+      "artists": [
+        {
+          "name": "Spin Doctors",
+          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
+        }
+      ],
+      "duration_ms": 256946,
+      "name": "Two Princes",
+      "url": "https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw"
     },
     {
       "added_at": "2026-06-17 16:23:02",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-06-17 16:23:02",
       "album": {
-        "name": "Infinity On High",
-        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "This Ain't A Scene, It's An Arms Race",
-      "url": "https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"
-    },
-    {
-      "added_at": "2026-06-17 16:23:02",
-      "album": {
         "name": "Licensed To Ill",
         "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 246933,
       "name": "No Sleep Till Brooklyn",
       "url": "https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN"
+    },
+    {
+      "added_at": "2026-06-17 16:23:02",
+      "album": {
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "This Ain't A Scene, It's An Arms Race",
+      "url": "https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"
     },
     {
       "added_at": "2026-06-17 16:23:02",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2026-06-17 16:23:02",
       "album": {
-        "name": "RUSH!",
-        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
+        "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
+        "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 164682,
-      "name": "BABY SAID",
-      "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
+      "duration_ms": 261812,
+      "name": "Runnin' Down A Dream",
+      "url": "https://open.spotify.com/track/5yAu4njFSdM47dfsTkQPZ2"
     },
     {
       "added_at": "2026-06-17 16:23:02",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-06-17 16:23:02",
       "album": {
+        "name": "RUSH!",
+        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 164682,
+      "name": "BABY SAID",
+      "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
+    },
+    {
+      "added_at": "2026-06-17 16:23:02",
+      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 224133,
       "name": "Welcome to Paradise",
       "url": "https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt"
-    },
-    {
-      "added_at": "2026-06-17 16:23:02",
-      "album": {
-        "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
-        "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 261812,
-      "name": "Runnin' Down A Dream",
-      "url": "https://open.spotify.com/track/5yAu4njFSdM47dfsTkQPZ2"
     },
     {
       "added_at": "2026-06-17 16:23:02",

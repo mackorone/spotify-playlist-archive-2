@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,253 songs - 2 day 14 hr 41 min
+1,254 songs - 2 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1162,7 +1162,7 @@
 | [Vappupallo](https://open.spotify.com/track/06HJQDA7MGlHrJliCrIL6D) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Vappupallo](https://open.spotify.com/album/64v95xssuHTheTem7R8ErP) | 3:11 | 2025-04-24 | 2025-06-13 |
 | [Vasara](https://open.spotify.com/track/00raJsPfZM5Ipv5KDjdHec) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Vasara](https://open.spotify.com/album/1hCscYsfkR5SRkNo7g3ant) | 2:41 | 2026-02-26 | 2026-06-19 |
 | [Vasen laituri \(feat\. AHTI\)](https://open.spotify.com/track/63jEXNkVDnPO8wzFsdryfi) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Vasen laituri \(feat\. AHTI\)](https://open.spotify.com/album/1nEKEtap5DfkayJpSlrHw0) | 3:00 | 2025-03-13 | 2025-03-21 |
-| [Vastaa](https://open.spotify.com/track/2MtGLKmYpAhXu87AOsT0V6) | [Immanuel](https://open.spotify.com/artist/57KAL3JM9mmp29xb8dUvpr), [Josua Leier](https://open.spotify.com/artist/7nHWq6kiJzbw2fQnh2bUgh), [Alttari](https://open.spotify.com/artist/0jT5BgEouLHKd0xk9fcVpj) | [Jumalanmiehii III](https://open.spotify.com/album/5I9bIAX4iyPrHSWZ646M8e) | 4:28 | 2026-06-18 |  |
+| [Vastaa](https://open.spotify.com/track/2MtGLKmYpAhXu87AOsT0V6) | [Immanuel](https://open.spotify.com/artist/57KAL3JM9mmp29xb8dUvpr), [Josua Leier](https://open.spotify.com/artist/7nHWq6kiJzbw2fQnh2bUgh), [Alttari](https://open.spotify.com/artist/0jT5BgEouLHKd0xk9fcVpj) | [Jumalanmiehii III](https://open.spotify.com/album/5I9bIAX4iyPrHSWZ646M8e) | 4:28 | 2026-06-18 | 2026-08-31 |
 | [Vegas](https://open.spotify.com/track/6oY7qFe5Cn5A0vUGuD5A4w) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6pk45MMtYAFpXHnzt7lL6N) | 4:06 | 2025-10-09 | 2026-01-15 |
 | [Veli](https://open.spotify.com/track/06Jn7UjPJzP99sg0cT49KA) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Naarmuja](https://open.spotify.com/album/4GqH3QQoP5BOlmxTkbq8mg) | 2:56 | 2025-09-18 | 2025-09-26 |
 | [Veli nojaa siskoon](https://open.spotify.com/track/6MihxSwAbPXzD8NCt5wAs7) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Veli nojaa siskoon](https://open.spotify.com/album/7z5GKxXv9o8kReu8W04isP) | 2:47 | 2026-01-29 | 2026-02-27 |
@@ -1189,6 +1189,7 @@
 | [Viinii](https://open.spotify.com/track/3n3hf9PWHruPQp6HsnbvfR) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Viinii](https://open.spotify.com/album/0h1Z6C99Bf9up3RNxy9FSD) | 3:32 | 2024-07-02 | 2024-08-16 |
 | [Viiniinmenevii naisii](https://open.spotify.com/track/5EECa0xVdWNjG9Lix0tTfk) | [Vahtera](https://open.spotify.com/artist/5bavKfuSixZTrpyxC0qmfj) | [Silti huominen tulee](https://open.spotify.com/album/24yfcMpeIgEMTc67cWMekn) | 3:18 | 2026-06-25 | 2026-06-30 |
 | [Vikaa kertaa \(feat\. Joalin\)](https://open.spotify.com/track/18smYx5xWfZdgHJFSGoOLd) | [Pikku G](https://open.spotify.com/artist/52k2KcEXIZTnYD2EpOoJiZ), [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Vikaa kertaa \(feat\. Joalin\)](https://open.spotify.com/album/06IN12ns5sDGdWZktzJF31) | 2:41 | 2025-05-08 | 2025-08-29 |
+| [Vinojen tähtien alla](https://open.spotify.com/track/1tmyFCvbXu03Ec9xWI2bi3) | [Aleksanteri Hakaniemi](https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi) | [Vinojen tähtien alla](https://open.spotify.com/album/1ae2p3Ko5Ty9FfiyJb1fWa) | 2:33 | 2026-08-27 |  |
 | [Vitun hyvin](https://open.spotify.com/track/6jzj3EKhF4WcS6upHWimXp) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Vitun hyvin](https://open.spotify.com/album/54UQ1ZPAhJX98PuBIVIVSL) | 3:00 | 2024-08-15 | 2024-10-18 |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2024-07-26 | 2024-08-10 |
 | [Voices](https://open.spotify.com/track/2qMDLvoWC6qZMjNhGc9V8j) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Voices](https://open.spotify.com/album/52Dzsy8FeJLPEsT3lqPZ2r) | 3:32 | 2025-05-01 | 2025-06-06 |

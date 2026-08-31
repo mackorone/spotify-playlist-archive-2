@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Armin van Buuren
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,007 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,014 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

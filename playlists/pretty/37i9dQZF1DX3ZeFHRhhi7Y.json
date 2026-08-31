@@ -1,6 +1,6 @@
 {
   "description": "Workout to K-Pop? Count me in! (Cover: BIGBANG) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 1327109,
+  "num_followers": 1327051,
   "original_name": "WOR K  OUT",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-08-27 04:27:58",
       "album": {
+        "name": "Nice to see you again (Korean Ver.)",
+        "url": "https://open.spotify.com/album/5f9A7BAiotThsnwicDQWzf"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 146360,
+      "name": "Nice to see you again - Korean Ver.",
+      "url": "https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr"
+    },
+    {
+      "added_at": "2026-08-27 04:27:58",
+      "album": {
         "name": "POP GIRLS CLUB",
         "url": "https://open.spotify.com/album/3rrHA39a9wiiwedaML0jvO"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 147908,
       "name": "POP GIRL (with Yves)",
       "url": "https://open.spotify.com/track/03ttvvZTWJnuVNFxd8Faap"
-    },
-    {
-      "added_at": "2026-08-27 04:27:58",
-      "album": {
-        "name": "Nice to see you again (Korean Ver.)",
-        "url": "https://open.spotify.com/album/5f9A7BAiotThsnwicDQWzf"
-      },
-      "artists": [
-        {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
-        }
-      ],
-      "duration_ms": 146360,
-      "name": "Nice to see you again - Korean Ver.",
-      "url": "https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr"
     },
     {
       "added_at": "2026-08-27 04:27:58",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-08-27 04:27:58",
       "album": {
-        "name": "Key Beats",
-        "url": "https://open.spotify.com/album/0kBBaam9McJndyPBpfkWOK"
-      },
-      "artists": [
-        {
-          "name": "Keyveatz",
-          "url": "https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Key Beats",
-      "url": "https://open.spotify.com/track/78LggIu7ieohPUuP91SmBI"
-    },
-    {
-      "added_at": "2026-08-27 04:27:58",
-      "album": {
         "name": "I DO ME",
         "url": "https://open.spotify.com/album/66zYzKVkt1U0VCRi94Ek0x"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 190556,
       "name": "I DO ME",
       "url": "https://open.spotify.com/track/6qmfxmtoNEzqucF1FWeXl8"
+    },
+    {
+      "added_at": "2026-08-27 04:27:58",
+      "album": {
+        "name": "Key Beats",
+        "url": "https://open.spotify.com/album/0kBBaam9McJndyPBpfkWOK"
+      },
+      "artists": [
+        {
+          "name": "Keyveatz",
+          "url": "https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Key Beats",
+      "url": "https://open.spotify.com/track/78LggIu7ieohPUuP91SmBI"
     },
     {
       "added_at": "2026-08-27 04:27:58",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-08-27 04:27:58",
       "album": {
-        "name": "I DONT CARE",
-        "url": "https://open.spotify.com/album/1gB4PCBKB6QeHH3IBBWX7X"
-      },
-      "artists": [
-        {
-          "name": "Baby DONT Cry",
-          "url": "https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs"
-        }
-      ],
-      "duration_ms": 199867,
-      "name": "I DONT CARE",
-      "url": "https://open.spotify.com/track/7h6DJy4HspkjUtOdYtfqv4"
-    },
-    {
-      "added_at": "2026-08-27 04:27:58",
-      "album": {
         "name": "blessing in disguise",
         "url": "https://open.spotify.com/album/0ErwZjPs0hjZEkBT7By3Nh"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 226632,
       "name": "blessing in disguise",
       "url": "https://open.spotify.com/track/3d9qrCD7YR4dFTY0xIP8yq"
+    },
+    {
+      "added_at": "2026-08-27 04:27:58",
+      "album": {
+        "name": "I DONT CARE",
+        "url": "https://open.spotify.com/album/1gB4PCBKB6QeHH3IBBWX7X"
+      },
+      "artists": [
+        {
+          "name": "Baby DONT Cry",
+          "url": "https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs"
+        }
+      ],
+      "duration_ms": 199867,
+      "name": "I DONT CARE",
+      "url": "https://open.spotify.com/track/7h6DJy4HspkjUtOdYtfqv4"
     },
     {
       "added_at": "2026-08-27 04:27:58",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-08-27 04:27:58",
       "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/1NXmaFakmg1i7vOpSH7ZwS"
-      },
-      "artists": [
-        {
-          "name": "Baby DONT Cry",
-          "url": "https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs"
-        }
-      ],
-      "duration_ms": 184477,
-      "name": "Shapeshifter",
-      "url": "https://open.spotify.com/track/0kkqkpgbkLFpopZqPAH1CO"
-    },
-    {
-      "added_at": "2026-08-27 04:27:58",
-      "album": {
         "name": "&Our Vibe",
         "url": "https://open.spotify.com/album/52f4wYBg1SDSaMMwZ5u3OF"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 159000,
       "name": "UFO (ATTENT!ON)",
       "url": "https://open.spotify.com/track/0u5b93C2mDGVfCsMGCdH6T"
+    },
+    {
+      "added_at": "2026-08-27 04:27:58",
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/1NXmaFakmg1i7vOpSH7ZwS"
+      },
+      "artists": [
+        {
+          "name": "Baby DONT Cry",
+          "url": "https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs"
+        }
+      ],
+      "duration_ms": 184477,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/0kkqkpgbkLFpopZqPAH1CO"
     },
     {
       "added_at": "2026-08-27 04:27:58",
@@ -1327,6 +1327,22 @@
       "duration_ms": 187920,
       "name": "Girls Never Die",
       "url": "https://open.spotify.com/track/0Ol7uhYjodbXAKKarXdn6r"
+    },
+    {
+      "added_at": "2026-08-27 04:27:58",
+      "album": {
+        "name": "UNBREAKABLE : \u5c11\u5e74BEAST",
+        "url": "https://open.spotify.com/album/0OSPd91szcWQ2FaQspx7T7"
+      },
+      "artists": [
+        {
+          "name": "ALPHA DRIVE ONE",
+          "url": "https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "BORN DIRE",
+      "url": "https://open.spotify.com/track/4ArQoiE0uz58FkG9AtEzkv"
     },
     {
       "added_at": "2026-08-27 04:27:58",
@@ -1383,22 +1399,6 @@
       "duration_ms": 183645,
       "name": "we don't go to bed tonight",
       "url": "https://open.spotify.com/track/4YYLKkdYHTiqHLuwLE2Bnl"
-    },
-    {
-      "added_at": "2026-08-27 04:27:58",
-      "album": {
-        "name": "UNBREAKABLE : \u5c11\u5e74BEAST",
-        "url": "https://open.spotify.com/album/0OSPd91szcWQ2FaQspx7T7"
-      },
-      "artists": [
-        {
-          "name": "ALPHA DRIVE ONE",
-          "url": "https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "BORN DIRE",
-      "url": "https://open.spotify.com/track/4ArQoiE0uz58FkG9AtEzkv"
     },
     {
       "added_at": "2026-08-27 04:27:58",

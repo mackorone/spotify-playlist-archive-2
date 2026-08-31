@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 
 > This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,841 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,870 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 38 | [El Dos Dedos \- Remastered 2025](https://open.spotify.com/track/6GtZB79gVl90m00jf2lYoa) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas \(Remastered 2025\)](https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV) | 3:27 |
 | 39 | [María De La Luz](https://open.spotify.com/track/2rm2wBuQZU3rld8hNVOx73) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Chalino Sánchez Con Mariachi](https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e) | 4:02 |
 | 40 | [El Pávido Návido](https://open.spotify.com/track/3l1YSF2pus1uieW2uYU99Q) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Recordando A Chalino](https://open.spotify.com/album/0p091X45za7loFjKaHPLaj) | 2:54 |
-| 41 | [Corrido de Rosalino \- Remastered 2025](https://open.spotify.com/track/2nYtDxtPjn5TQXPAnsn8uU) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Chalino Sánchez Canta Corridos al Estilo Culiacán \(Remastered 2025\)](https://open.spotify.com/album/0jcI7bVG13NCyxphp60wCG) | 2:45 |
-| 42 | [El Gallo de Sinaloa](https://open.spotify.com/track/3wlJqg5mnZCGxRdR65W7jb) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Gallo de Sinaloa](https://open.spotify.com/album/1qFZxrBfOKGg186s9fNi6H) | 3:27 |
+| 41 | [El Gallo de Sinaloa](https://open.spotify.com/track/3wlJqg5mnZCGxRdR65W7jb) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Gallo de Sinaloa](https://open.spotify.com/album/1qFZxrBfOKGg186s9fNi6H) | 3:27 |
+| 42 | [Corrido de Rosalino \- Remastered 2025](https://open.spotify.com/track/2nYtDxtPjn5TQXPAnsn8uU) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Chalino Sánchez Canta Corridos al Estilo Culiacán \(Remastered 2025\)](https://open.spotify.com/album/0jcI7bVG13NCyxphp60wCG) | 2:45 |
 | 43 | [Dinastía de los Ochoa \- Remastered 2025](https://open.spotify.com/track/72lurftDROYvnKSIzgQPwn) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas \(Remastered 2025\)](https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV) | 3:11 |
 | 44 | [Reto a la Muerte](https://open.spotify.com/track/7oY11deENXtxFukMtNLXbb) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Exitos de Colección, Vol.1](https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX) | 3:00 |
 | 45 | [El Sapo \- Remastered 2025](https://open.spotify.com/track/4rI1lvOtfHKIkKuPyC4k31) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Más Éxitos con Chalino Sánchez \(Remastered 2025\)](https://open.spotify.com/album/60lbOsjz2mb4daGTXsdpdt) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 49 | [Lucero Negro](https://open.spotify.com/track/4jFiwrmMjzyawUvrjzLQU9) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Hermosísimo Lucero](https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT) | 3:22 |
 | 50 | [Que Me Entierren Cantando](https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Los Inmortales](https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5) | 2:43 |
 
-Snapshot ID: `apDPgAAAAAC9Yt3NG8vVUYDRHmCNAsVN`
+Snapshot ID: `apIhAAAAAADSZDHsS82MRqaYqrvn9DX3`

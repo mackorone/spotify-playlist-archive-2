@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 15 | [Theme From Antarctica \- Remastered](https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Antarctica \(Remastered\)](https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0) | 7:25 |
 | 16 | [Tears in Rain](https://open.spotify.com/track/2LxEIWrZkzfc55c3rk05DH) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 3:00 |
 | 17 | [Light and Shadow](https://open.spotify.com/track/7Imvh030lE3llIlUIC4Nr9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 3:46 |
-| 18 | [Aquatic Dance](https://open.spotify.com/track/3FqkOf0gZvWbUmmAUA9Ao8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 3:43 |
-| 19 | [L'enfant \- Remastered](https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Opera sauvage \(Remastered\)](https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8) | 5:00 |
+| 18 | [L'enfant \- Remastered](https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Opera sauvage \(Remastered\)](https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8) | 5:00 |
+| 19 | [Aquatic Dance](https://open.spotify.com/track/3FqkOf0gZvWbUmmAUA9Ao8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 3:43 |
 | 20 | [Memories of Green](https://open.spotify.com/track/0rHCW5eZ35QmQNVYyozAnZ) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 5:05 |
 | 21 | [Eternity](https://open.spotify.com/track/0X6SplektlOd1CwtwuOOaM) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 1:58 |
 | 22 | [Dream in an Open Place](https://open.spotify.com/track/2Jbdcc1ZSqOBGhLEtoiLuh) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 5:56 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 48 | [Dawn](https://open.spotify.com/track/2hJ1ZvyDUomcJZPB9deUq9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [The City](https://open.spotify.com/album/5YisV9UHQtoAZHtbLrva9r) | 4:16 |
 | 49 | [Twilight](https://open.spotify.com/track/6o3wjXTROS51upZkU9Fk07) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [The City](https://open.spotify.com/album/5YisV9UHQtoAZHtbLrva9r) | 4:57 |
 
-Snapshot ID: `apDPgAAAAADTVzn2cS1hyjaYYNL5FIwa`
+Snapshot ID: `apIhAAAAAABwkRAvngtnrOB4aJtNwq+A`

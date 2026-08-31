@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,142 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,152 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 30 | [Te Espero o Te Olvido](https://open.spotify.com/track/4mI7wKFQxQaKvyJxackUql) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia), [Consuelo Schuster](https://open.spotify.com/artist/1wZ9Xc5xzw5ag4rpHBdMTk) | [Te Espero o Te Olvido](https://open.spotify.com/album/1SyPNdVXSBuIIZ7jrWCsl2) | 3:05 |
 | 31 | [Metrosexual](https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Amandititita](https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7) | 3:16 |
 | 32 | [Si Tu Te Vas](https://open.spotify.com/track/4jUH6sw78DUA7ksSvudJec) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Si hay alguien en tu vida](https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs) | 3:51 |
-| 33 | [Vivir Así es Morir de Amor](https://open.spotify.com/track/0HVrDDFkkaAxSdJ9CiCnrW) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [Vivir Así es Morir de Amor](https://open.spotify.com/album/60X0LHhFAjc9DBPPyRwDJq) | 3:33 |
-| 34 | [Pirata](https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Pirata](https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c) | 2:50 |
+| 33 | [Pirata](https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Pirata](https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c) | 2:50 |
+| 34 | [Vivir Así es Morir de Amor](https://open.spotify.com/track/0HVrDDFkkaAxSdJ9CiCnrW) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [Vivir Así es Morir de Amor](https://open.spotify.com/album/60X0LHhFAjc9DBPPyRwDJq) | 3:33 |
 | 35 | [No Te Creas Tan Importante](https://open.spotify.com/track/0fwMnXtxDvVyz5qlcws0Uo) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Viru Kumbieron](https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3) | 4:10 |
 | 36 | [La Muy Muy \- \(Album Version\)](https://open.spotify.com/track/02wZwpZW6ADtmLAMQomvkc) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Amandititita](https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7) | 3:18 |
 | 37 | [Karma](https://open.spotify.com/track/4SkPhoz2b5busK8p9yc4rB) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Karma](https://open.spotify.com/album/6zl0Ny6UMSSXnmMzOYElmC) | 2:56 |
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 49 | [Ay Amor](https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Ay Amor](https://open.spotify.com/album/7BCBkW2Wnh1riF1hP04dCm) | 3:27 |
 | 50 | [No Te Irás](https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Solo un Momento](https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG) | 3:42 |
 | 51 | [Cagón](https://open.spotify.com/track/1ZXjK39AJUMapy9RhqSX7p) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [Pantera](https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL) | 3:32 |
-| 52 | [Lo Que Tenias Conmigo](https://open.spotify.com/track/5kgEYgfAbwGghXZCyOm7xm) | [Vanesa Britos](https://open.spotify.com/artist/5XOiPMOBMDm4AYCFRS1e0j) | [Lo Que Tenias Conmigo](https://open.spotify.com/album/78VOKOepzfCQP4thwrVnw4) | 3:18 |
+| 52 | [Dos Infieles](https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K) | [Lumila](https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Dos Infieles](https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f) | 3:44 |
 | 53 | [Quiéreme \- Cuarteto](https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Quiéreme \(Cuarteto\)](https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU) | 5:36 |
-| 54 | [Dos Infieles](https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K) | [Lumila](https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Dos Infieles](https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f) | 3:44 |
+| 54 | [Lo Que Tenias Conmigo](https://open.spotify.com/track/5kgEYgfAbwGghXZCyOm7xm) | [Vanesa Britos](https://open.spotify.com/artist/5XOiPMOBMDm4AYCFRS1e0j) | [Lo Que Tenias Conmigo](https://open.spotify.com/album/78VOKOepzfCQP4thwrVnw4) | 3:18 |
 | 55 | [Perdoname](https://open.spotify.com/track/0Ki4mn5sAw9DEqZsJa9v5H) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Perdoname](https://open.spotify.com/album/4fBFuS9ywy0N2MRghagEJI) | 3:37 |
 | 56 | [Si se fue, se fue](https://open.spotify.com/track/3g6Gva8wnZgWgeSWUIW9Zy) | [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Pobre perro](https://open.spotify.com/album/1vSoPdmoCLwKM0nzzBQddc) | 4:22 |
-| 57 | [El Primero](https://open.spotify.com/track/0FW6NXDLRoav8lpodHfhhe) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw) | [El Primero](https://open.spotify.com/album/5cKLRicwM3olMiKKvUwoqm) | 2:31 |
-| 58 | [Ya No Vives en Mí](https://open.spotify.com/track/1WIWF8JFYthRZQsUdqXK0v) | [Deborah Chauque](https://open.spotify.com/artist/3s6HY0BAcnK8OjIXQnfTle) | [Ya No Vives en Mí](https://open.spotify.com/album/5ohmkNgIZFdrcK5ORDGuxu) | 3:02 |
+| 57 | [Ya No Vives en Mí](https://open.spotify.com/track/1WIWF8JFYthRZQsUdqXK0v) | [Deborah Chauque](https://open.spotify.com/artist/3s6HY0BAcnK8OjIXQnfTle) | [Ya No Vives en Mí](https://open.spotify.com/album/5ohmkNgIZFdrcK5ORDGuxu) | 3:02 |
+| 58 | [El Primero](https://open.spotify.com/track/0FW6NXDLRoav8lpodHfhhe) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw) | [El Primero](https://open.spotify.com/album/5cKLRicwM3olMiKKvUwoqm) | 2:31 |
 | 59 | [Es Mi Culpa](https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Es Mi Culpa](https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH) | 3:35 |
 | 60 | [Ke Ganas de No Verte Nunca Más](https://open.spotify.com/track/140I2RxPbPhFvBn1CiYGY3) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [ROMEA](https://open.spotify.com/artist/59sdqs9Q6lzOj4PXXKp8I1) | [Ke Ganas de No Verte Nunca Más](https://open.spotify.com/album/196Wc6ZS9a9HR9ssndsO52) | 2:22 |
 | 61 | [Amor de Cuarentena \- Urbano](https://open.spotify.com/track/7N3XvjdeJ9cz9frgQA0gQ4) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Amor de Cuarentena \(Urbano\)](https://open.spotify.com/album/7oiQXn5G0q5kapu7i62Sn5) | 3:14 |

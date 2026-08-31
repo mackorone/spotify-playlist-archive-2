@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Cortes modernos pa' los compas con estilo!",
-  "num_followers": 121798,
+  "num_followers": 121826,
   "original_name": "Barber\u00eda",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
+        "name": "La Diabla",
+        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 172264,
+      "name": "La Diabla",
+      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 225480,
       "name": "GAVIL\u00c1N II",
       "url": "https://open.spotify.com/track/775hCSePn3GW4h9nZ636kq"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
-        "name": "La Diabla",
-        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 172264,
-      "name": "La Diabla",
-      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -859,6 +859,26 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        }
+      ],
+      "duration_ms": 232853,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 197091,
       "name": "Elvira",
       "url": "https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        }
-      ],
-      "duration_ms": 232853,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -1103,26 +1103,18 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "AMG",
-        "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
       },
       "artists": [
         {
           "name": "Natanael Cano",
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 174942,
-      "name": "AMG",
-      "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
+      "duration_ms": 154760,
+      "name": "Brillo",
+      "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -1195,18 +1187,26 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+        "name": "AMG",
+        "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
       },
       "artists": [
         {
           "name": "Natanael Cano",
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 154760,
-      "name": "Brillo",
-      "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
+      "duration_ms": 174942,
+      "name": "AMG",
+      "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "Par\u00eds",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
         "name": "As\u00ed Toc\u00f3 Mi Vida",
         "url": "https://open.spotify.com/album/58E0nQ2a7axyw3rETsiB9r"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 250440,
       "name": "As\u00ed Toc\u00f3 Mi Vida",
       "url": "https://open.spotify.com/track/2YekzGSNDRlEvRLmvfRZfb"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "Par\u00eds",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -2279,6 +2279,26 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
+        "name": "Canela",
+        "url": "https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 204629,
+      "name": "Canela",
+      "url": "https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
         "name": "D\u00e9jenme Hacer Dinero",
         "url": "https://open.spotify.com/album/38P4ol8xZRrL4DqxxWKMAo"
       },
@@ -2307,22 +2327,26 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "Canela",
-        "url": "https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38"
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP"
       },
       "artists": [
         {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         },
         {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
         }
       ],
-      "duration_ms": 204629,
-      "name": "Canela",
-      "url": "https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5"
+      "duration_ms": 267706,
+      "name": "La Que Se Fue",
+      "url": "https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -2363,30 +2387,6 @@
       "duration_ms": 183594,
       "name": "El Ruddy",
       "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
-        "name": "La Que Se Fue",
-        "url": "https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Pitt Blanco",
-          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
-        }
-      ],
-      "duration_ms": 267706,
-      "name": "La Que Se Fue",
-      "url": "https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz"
     },
     {
       "added_at": "2024-10-04 19:39:18",

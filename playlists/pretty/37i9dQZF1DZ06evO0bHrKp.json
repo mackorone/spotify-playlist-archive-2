@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABoFQjGPKFNb0QAUz6oc4lu",
+  "snapshot_id": "apIhAAAAAAAWQdFfG34uIPsnwKPRmso9",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 122693,
-      "name": "My Direction",
-      "url": "https://open.spotify.com/track/0JS5s9DeP9ycfzEIKTwMys"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skull Ring",
         "url": "https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu"
       },
@@ -723,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Killer No Filler (25th Anniversary)",
-        "url": "https://open.spotify.com/album/6kkD5XCCkjk9zkafiOwPrY"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 49880,
-      "name": "Never Wake Up - Remastered 2026",
-      "url": "https://open.spotify.com/track/1eUNQfy2pKNMJeqpyBZRAH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "13 Voices",
         "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
       },
@@ -755,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 122693,
+      "name": "My Direction",
+      "url": "https://open.spotify.com/track/0JS5s9DeP9ycfzEIKTwMys"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Screaming Bloody Murder",
         "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 204586,
       "name": "Skumf*k",
       "url": "https://open.spotify.com/track/0SQWxG33k9aRva3V3V9b66"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Killer No Filler (25th Anniversary)",
+        "url": "https://open.spotify.com/album/6kkD5XCCkjk9zkafiOwPrY"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 49880,
+      "name": "Never Wake Up - Remastered 2026",
+      "url": "https://open.spotify.com/track/1eUNQfy2pKNMJeqpyBZRAH"
     },
     {
       "added_at": null,

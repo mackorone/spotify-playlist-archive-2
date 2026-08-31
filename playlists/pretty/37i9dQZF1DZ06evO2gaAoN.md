@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gaAoN.md) - [plain]
 
 > This is Tyla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,280 likes - 39 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,305 likes - 39 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gaAoN.md) - [plain]
 | 32 | [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 3:07 |
 | 33 | [Getting Late](https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [KOOLDRINK](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Getting Late](https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6) | 4:14 |
 | 34 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
-| 35 | [Pum Pum Jump \(feat\. Jill Scott & Tyla\)](https://open.spotify.com/track/6slFpFRzS8WJPbr25ega3p) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Escape Room](https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf) | 2:38 |
-| 36 | [Overdue \(feat\. DJ Lag & Kooldrink\)](https://open.spotify.com/track/1Nx3wKSjqj51Vslhc7CAhy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [KOOLDRINK](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Overdue \(feat\. DJ Lag & Kooldrink\)](https://open.spotify.com/album/6Uq5Pk9aQB5hM4hiFOvdOq) | 3:46 |
+| 35 | [Overdue \(feat\. DJ Lag & Kooldrink\)](https://open.spotify.com/track/1Nx3wKSjqj51Vslhc7CAhy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [KOOLDRINK](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Overdue \(feat\. DJ Lag & Kooldrink\)](https://open.spotify.com/album/6Uq5Pk9aQB5hM4hiFOvdOq) | 3:46 |
+| 36 | [Pum Pum Jump \(feat\. Jill Scott & Tyla\)](https://open.spotify.com/track/6slFpFRzS8WJPbr25ega3p) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Escape Room](https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf) | 2:38 |
 | 37 | [Ke Shy](https://open.spotify.com/track/46JbnUilMIKcoeXYpZyB53) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [LuuDaDeejay](https://open.spotify.com/artist/1XoIF7wcOtFdQdB6vJQumb), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Piano Republik](https://open.spotify.com/album/4EPyqparNEvWk2gbHgXPzO) | 3:19 |
 | 38 | [La Di](https://open.spotify.com/track/4OCK9za3Z06Oqj4HaKBE2S) | [Mykyle](https://open.spotify.com/artist/3EdCT2bYR55ySYU7hwbmcG), [Si Xiazi](https://open.spotify.com/artist/0DhzfTcgpek8kkWvNJKwtB), [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [La Di](https://open.spotify.com/album/0dSB2LstksZRA0adSfyTbV) | 4:09 |
 | 39 | [Thata Ahh \(feat\. Young Stunna, Madumane & Tyla\)](https://open.spotify.com/track/1lp3GifJS4r6hE6vUCfBzS) | [ShaunMusiq & Ftears](https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [THATA USHAKA](https://open.spotify.com/album/39VFIViSgxPiIsiYvD4nzL) | 6:13 |
 
-Snapshot ID: `apDPgAAAAACOqzP5gkll72tguC9OOzqo`
+Snapshot ID: `apIhAAAAAABpmphxiDNK2De7Xnb8QYKc`

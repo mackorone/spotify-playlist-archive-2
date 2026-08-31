@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dancefloor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,003 likes - 75 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,225 likes - 75 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 60 | [E…allora…cercasi](https://open.spotify.com/track/1Qp2i10AR8aDIp5WhRS5J6) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Gemma e le altre](https://open.spotify.com/album/3yUYdXUpJqNJMyWuPuAPki) | 4:31 |
 | 61 | [Tacchini](https://open.spotify.com/track/6YpeSOKGqvxO8M8K5SlsjQ) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Tacchini](https://open.spotify.com/album/3j9gagsPfqOmdi7jB0F2tG) | 4:49 |
 | 62 | [Morirò Per Te \- 2001 Remaster](https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Italiana Vol\. 1](https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD) | 4:19 |
-| 63 | [Discoteca Eterna](https://open.spotify.com/track/0gca1p9T3HZK2yVNnV4bmW) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Discoteca Eterna](https://open.spotify.com/album/4nLGuJtZE9Zh83UlYCOEkY) | 3:25 |
-| 64 | [La vita nuova \- Daniele Baldelli & Marco Dionigi Remix](https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Daniele Baldelli](https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7), [Marco Dionigi](https://open.spotify.com/artist/4pUlhZQZrakwDmAbKNIb19) | [La vita nuova \(Remixes\)](https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT) | 6:25 |
+| 63 | [La vita nuova \- Daniele Baldelli & Marco Dionigi Remix](https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Daniele Baldelli](https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7), [Marco Dionigi](https://open.spotify.com/artist/4pUlhZQZrakwDmAbKNIb19) | [La vita nuova \(Remixes\)](https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT) | 6:25 |
+| 64 | [Discoteca Eterna](https://open.spotify.com/track/0gca1p9T3HZK2yVNnV4bmW) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Discoteca Eterna](https://open.spotify.com/album/4nLGuJtZE9Zh83UlYCOEkY) | 3:25 |
 | 65 | [Dammi un'idea](https://open.spotify.com/track/7DrO38olLryjXBoxqKPqHN) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Dammi un'idea](https://open.spotify.com/album/1Y6CC1upQq0zT8hsuhTHKj) | 3:21 |
 | 66 | [Another World](https://open.spotify.com/track/7Ky4Cj8IhPxSYSl5nvka8B) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Another World](https://open.spotify.com/album/2s0nIaX5wcdvzuLj3ZWVnp) | 4:41 |
 | 67 | [Volpi Polari](https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q), [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Volpe](https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ) | 7:47 |

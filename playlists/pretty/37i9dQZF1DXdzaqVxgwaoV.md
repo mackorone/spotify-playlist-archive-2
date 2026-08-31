@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > ¡Música tropical, cumbia, guasca y de carrilera para recordar y disfrutar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,225 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,224 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 14 | [La Que Se Fue Se Fue](https://open.spotify.com/track/5VJW5ZzcOi17zdaunhSBZt) | [Dario Dario](https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG) | [Ranchero y Atrevido](https://open.spotify.com/album/02HmfwcdkqNuSLQ4BeZdlD) | 3:32 |
 | 15 | [Si Se Fue, Se Fue](https://open.spotify.com/track/6WTF798e9hxNDWj95ISu5e) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [La Voz Popular de América](https://open.spotify.com/album/6ymFtmeQp25jwk5KOOZ5qZ) | 3:34 |
 | 16 | [Señor Prohibido](https://open.spotify.com/track/5JEQTVfwRtrPJYiUBTaSy9) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Unica](https://open.spotify.com/album/2JQvAPGWvqnM4hnjrnmsUD) | 3:27 |
-| 17 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 4:28 |
+| 17 | [Tú Pasaje al Olvido](https://open.spotify.com/track/5VENH9rLewIMEHhSArsJkg) | [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P), [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Mas Romántico Que Nunca](https://open.spotify.com/album/6nhrASXzyEsC34PfdO7OEa) | 4:01 |
 | 18 | [Sublime Mujer](https://open.spotify.com/track/5mPbC4nz0DYXO3kfnmMgRe) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Entre El Amor Y Yo](https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU) | 3:07 |
-| 19 | [Tú Pasaje al Olvido](https://open.spotify.com/track/5VENH9rLewIMEHhSArsJkg) | [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P), [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Mas Romántico Que Nunca](https://open.spotify.com/album/6nhrASXzyEsC34PfdO7OEa) | 4:01 |
+| 19 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 4:28 |
 | 20 | [Amor Oculto](https://open.spotify.com/track/2XDFJJJDb35ng71PNB5GPW) | [El Andariego](https://open.spotify.com/artist/7umWQMinvyqkJIWOdo02OW) | [Amor Oculto](https://open.spotify.com/album/1CA0zMs4fMYWxwNWWA6tLx) | 3:49 |
 | 21 | [Que Sufra, Que Chupe y Que Llore](https://open.spotify.com/track/28GsDpLgTP6lP897aAmSa9) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [La Voz Popular de América](https://open.spotify.com/album/6ymFtmeQp25jwk5KOOZ5qZ) | 3:35 |
 | 22 | [Dos Pasajes](https://open.spotify.com/track/471SfF1VL5AjkWXMzYXout) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [15 Éxitos](https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy) | 2:20 |
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 33 | [Un Amor Nuevo](https://open.spotify.com/track/6rKmXI301yQOsDaUYpVrYW) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Reina Sin Rey](https://open.spotify.com/album/2fECMt9Lkan8sO5MfGoc49) | 3:01 |
 | 34 | [Pobre y Sincero](https://open.spotify.com/track/1yhED0FBKVrLiOKOCYlkar) | [Olider Montana](https://open.spotify.com/artist/2RtSSs1N2mOsGE6ojLrW49) | [Pobre y Sincero](https://open.spotify.com/album/5a6O3hJLxCLjHASaAbTtdY) | 2:41 |
 | 35 | [Quiero Que Sepas](https://open.spotify.com/track/3rKAnW24I1KT8uoKllBB8B) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [Los Exitazos De Lupe Y Polo](https://open.spotify.com/album/4L3qgi5ztCfcWmT1aN3znS) | 2:30 |
-| 36 | [Viejo Juguete](https://open.spotify.com/track/3T5b76vKa8URdXJ0PF5oPG) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Coleccion Grandes Figuras](https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe) | 1:53 |
+| 36 | [Muñeco de Vitrina](https://open.spotify.com/track/0PZ81A2LmrXzbjH6wscL3Z) | [Dario Dario](https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG) | [Darío Darío Esclavo de las Mujeres](https://open.spotify.com/album/7y3218iXz2iwxVBMe8Qqcm) | 3:41 |
 | 37 | [Mi Gran Secreto](https://open.spotify.com/track/1w7HjjEcAgbB4BF5haaPvn) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/0QPKuA73byh081OeZVmHxI) | 2:48 |
-| 38 | [Muñeco de Vitrina](https://open.spotify.com/track/0PZ81A2LmrXzbjH6wscL3Z) | [Dario Dario](https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG) | [Darío Darío Esclavo de las Mujeres](https://open.spotify.com/album/7y3218iXz2iwxVBMe8Qqcm) | 3:41 |
+| 38 | [Viejo Juguete](https://open.spotify.com/track/3T5b76vKa8URdXJ0PF5oPG) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Coleccion Grandes Figuras](https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe) | 1:53 |
 | 39 | [Se Me Perdio La Cadenita](https://open.spotify.com/track/0vtaaIAwWzIQgdSMG59KGx) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Narcos, Vol\. 2 \(More Music from the Netflix Original Series\)](https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB) | 2:37 |
-| 40 | [El Mujeriego](https://open.spotify.com/track/66hMCXEj9s7yMfMUa0HCEY) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [El Mujeriego](https://open.spotify.com/album/2txJvfyWUlQSjWV6RNtHiv) | 3:01 |
-| 41 | [De Lejos Tierras](https://open.spotify.com/track/6J97uiyHlGoZFxYwWwU4fN) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [15 Éxitos](https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy) | 2:36 |
+| 40 | [De Lejos Tierras](https://open.spotify.com/track/6J97uiyHlGoZFxYwWwU4fN) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [15 Éxitos](https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy) | 2:36 |
+| 41 | [El Mujeriego](https://open.spotify.com/track/66hMCXEj9s7yMfMUa0HCEY) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [El Mujeriego](https://open.spotify.com/album/2txJvfyWUlQSjWV6RNtHiv) | 3:01 |
 | 42 | [La Ley del Amor](https://open.spotify.com/track/0nqAV0N6RFf23OUAK2XLPR) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/0QPKuA73byh081OeZVmHxI) | 3:10 |
 | 43 | [Por Retenerte](https://open.spotify.com/track/13BtA47QqoO57N9H4XHLps) | [Odilio Gonzalez](https://open.spotify.com/artist/206W0oLEf4mLQiOsFNtnH2) | [Los Grandes Exitos de Odilio González: Vol\. 7](https://open.spotify.com/album/1sdNOVvPaLGb8MR3OsZLgl) | 3:05 |
 | 44 | [Veinte Años](https://open.spotify.com/track/5bkfp7VLBka3b2tqLjC0Au) | [Romulo Caicedo](https://open.spotify.com/artist/7gr3mvchhyMrwNRvNUT2YF) | [Grandes Éxitos](https://open.spotify.com/album/2PfUQSQlXgkhCkEdCfBNmL) | 3:01 |

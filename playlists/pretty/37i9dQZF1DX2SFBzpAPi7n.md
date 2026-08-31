@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Shin In Ryu\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,984 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,962 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 9 | [Landing in Love](https://open.spotify.com/track/3WvM2dIR9iIxMGNMP7WsNw) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Take\-off](https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV) | 2:45 |
 | 10 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 |
 | 11 | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b) | 4:10 |
-| 12 | [You Were Beautiful](https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 4:43 |
-| 13 | [Forever Has Always Been](https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Forever Has Always Been](https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df) | 3:57 |
+| 12 | [Forever Has Always Been](https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Forever Has Always Been](https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df) | 3:57 |
+| 13 | [You Were Beautiful](https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 4:43 |
 | 14 | [Love Language](https://open.spotify.com/track/6w9SgpKIzB54R2xHml1UPP) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Can This Love Be Translated? \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5Qg2iNuV6zTCGlIYunvvTd) | 3:05 |
 | 15 | [Panic](https://open.spotify.com/track/3PTQ2rPfaPDxqpXOcRlTsZ) | [BEOMGYU](https://open.spotify.com/artist/69vfchlzopPm72nD2elXCH) | [Panic](https://open.spotify.com/album/0sUxlp7O7SrVU6I1Ol6J5H) | 3:08 |
 | 16 | [Awake](https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:46 |

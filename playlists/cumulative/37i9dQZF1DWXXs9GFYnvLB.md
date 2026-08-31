@@ -2,7 +2,7 @@
 
 ### [Hot Hits Australia](https://open.spotify.com/playlist/37i9dQZF1DWXXs9GFYnvLB)
 
-> The hottest tracks with the freshest hits! Cover: Tame Impala
+> The hottest tracks with the freshest hits! Cover: The Kid LAROI
 
 507 songs - 1 day 3 hr 20 min
 

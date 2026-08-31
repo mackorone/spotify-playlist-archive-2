@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 518760,
+  "num_followers": 518783,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-08-28 06:58:37",
       "album": {
+        "name": "I`m In Love",
+        "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "I`m In Love",
+      "url": "https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG"
+    },
+    {
+      "added_at": "2026-08-28 06:58:37",
+      "album": {
         "name": "Dear.J",
         "url": "https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 201000,
       "name": "Dear.J (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi"
-    },
-    {
-      "added_at": "2026-08-28 06:58:37",
-      "album": {
-        "name": "I`m In Love",
-        "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "I`m In Love",
-      "url": "https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG"
     },
     {
       "added_at": "2026-08-28 06:58:37",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-08-28 06:58:37",
       "album": {
-        "name": "The night we parted",
-        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
-      },
-      "artists": [
-        {
-          "name": "ACOURVE",
-          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
-        }
-      ],
-      "duration_ms": 229665,
-      "name": "The night we parted",
-      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
-    },
-    {
-      "added_at": "2026-08-28 06:58:37",
-      "album": {
         "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
       },
@@ -855,22 +839,18 @@
     {
       "added_at": "2026-08-28 06:58:37",
       "album": {
-        "name": "nostalgia",
-        "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
+        "name": "The night we parted",
+        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
       },
       "artists": [
         {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+          "name": "ACOURVE",
+          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
         }
       ],
-      "duration_ms": 196866,
-      "name": "nostalgia",
-      "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
+      "duration_ms": 229665,
+      "name": "The night we parted",
+      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
     },
     {
       "added_at": "2026-08-28 06:58:37",
@@ -887,6 +867,26 @@
       "duration_ms": 204942,
       "name": "I'II be your star",
       "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
+    },
+    {
+      "added_at": "2026-08-28 06:58:37",
+      "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
     },
     {
       "added_at": "2026-08-28 06:58:37",

@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-704 songs - 1 day 19 hr 50 min
+705 songs - 1 day 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -702,6 +702,7 @@
 | [You Know](https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [You Know](https://open.spotify.com/album/53LzGxN4ZxyrfQtOkB8xDa) | 2:43 | 2025-12-08 | 2026-04-21 |
 | [You Know Why](https://open.spotify.com/track/1p9GJAvKBbWHdTE4PPcaXl) | [SHAHEV SEN](https://open.spotify.com/artist/39bVqvCrhbkvGCYtgg3Mw0) | [You Know Why](https://open.spotify.com/album/0LOEeuvLsJtykXkNsqzzL3) | 4:41 | 2026-03-27 | 2026-04-21 |
 | [You Learn](https://open.spotify.com/track/6yQZwLyshQAHnQ6YmYJByN) | [Guiltera](https://open.spotify.com/artist/3Zn5DaI82ti9N0TLUd3LqQ) | [You Learn](https://open.spotify.com/album/4NeLqkOPudkivCWLM2KmEW) | 4:03 | 2026-05-10 |  |
+| [You Raise Me Up](https://open.spotify.com/track/2H9sN3ccjkpQhWkL1NR6md) | [PeterLs](https://open.spotify.com/artist/20TrfcXGJiAyUCmOwjxcP5) | [You Raise Me Up](https://open.spotify.com/album/3RNkBQWOZD24ZMGZ3Quxva) | 3:12 | 2026-08-30 |  |
 | [You turned my life upside down](https://open.spotify.com/track/1gOgkXRC7Fn1DgZhH23gRI) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [You turned my life upside down](https://open.spotify.com/album/0RhZuCOnHcqRBAmQarX3t9) | 4:39 | 2025-09-24 | 2025-12-17 |
 | [You're a Friend of Mine \(feat\. Narada Michael Walden\)](https://open.spotify.com/track/2x04VP8T1xXpqIlM5b09Hv) | [Dan Ashley](https://open.spotify.com/artist/4cVwoNjVVoOzFWX4wBlk4p), [Narada Michael Walden](https://open.spotify.com/artist/37WGztoQRbNgo55GQCw75B) | [You're a Friend of Mine \(feat\. Narada Michael Walden\)](https://open.spotify.com/album/03PVk8Dk3pOMkwdBXwlhcM) | 4:56 | 2025-10-08 | 2025-11-28 |
 | [YOUR PAIN](https://open.spotify.com/track/5PIQLaJ46BXWEJnaEmy3vS) | [StellaGhost](https://open.spotify.com/artist/1BoO43MiUvsIDpAIsNUUE3), [SUNAIRAPPER](https://open.spotify.com/artist/45DkBg9P60otTaU9aC7Nya) | [EMPTINESS](https://open.spotify.com/album/43IcvRV7gCD7J3sGsa3uGk) | 3:36 | 2026-05-20 | 2026-06-18 |

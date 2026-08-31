@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Grelo",
-  "num_followers": 762225,
+  "num_followers": 762279,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,26 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
+        "name": "Um Pe\u00e3o Desse",
+        "url": "https://open.spotify.com/album/43EVZuxIOSUXRtsffARn2X"
+      },
+      "artists": [
+        {
+          "name": "CountryBeat",
+          "url": "https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "duration_ms": 127161,
+      "name": "Um Pe\u00e3o Desse",
+      "url": "https://open.spotify.com/track/1p2YiVHqQQB1ECpKiv9ZeN"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
         "name": "Meu Forr\u00f3 \u00c9 Mundo (Ao Vivo)",
         "url": "https://open.spotify.com/album/3sC9tJZqJHFEwLeEMOLoyN"
       },
@@ -79,26 +99,6 @@
       "duration_ms": 205714,
       "name": "Eu Me Apaixonei",
       "url": "https://open.spotify.com/track/4SjcIkVc4cvFgURD1EHxDM"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
-        "name": "Um Pe\u00e3o Desse",
-        "url": "https://open.spotify.com/album/43EVZuxIOSUXRtsffARn2X"
-      },
-      "artists": [
-        {
-          "name": "CountryBeat",
-          "url": "https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk"
-        },
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        }
-      ],
-      "duration_ms": 127161,
-      "name": "Um Pe\u00e3o Desse",
-      "url": "https://open.spotify.com/track/1p2YiVHqQQB1ECpKiv9ZeN"
     },
     {
       "added_at": "2026-08-14 13:34:48",
@@ -175,6 +175,22 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
+        "name": "MOLHO (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3UPm3oi5dO7mFqjpMCMk8Y"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 147456,
+      "name": "Champanhe - Ao Vivo",
+      "url": "https://open.spotify.com/track/5v747rXdm2NzkchPoMjb2U"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
         "name": "EQUILIBRIVM II",
         "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 151596,
       "name": "Sal Grosso",
       "url": "https://open.spotify.com/track/3DdilHpKlj1sNWr1C0jZKL"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
-        "name": "MOLHO (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3UPm3oi5dO7mFqjpMCMk8Y"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 147456,
-      "name": "Champanhe - Ao Vivo",
-      "url": "https://open.spotify.com/track/5v747rXdm2NzkchPoMjb2U"
     },
     {
       "added_at": "2026-08-14 13:34:48",
@@ -279,26 +279,6 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
-        "name": "EQUILIBRIVM II",
-        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 155697,
-      "name": "N\u00e3o Me Cutuca",
-      "url": "https://open.spotify.com/track/02BhbpQKWCVjqVBUsvOL7i"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
         "name": "P do Pecado (Ao Vivo)",
         "url": "https://open.spotify.com/album/2JyYavPMFsaTRZFrc77bc3"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 192367,
       "name": "P do Pecado - Ao Vivo",
       "url": "https://open.spotify.com/track/7EknynLJTt9YMm1HL37s5D"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
+        "name": "EQUILIBRIVM II",
+        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 155697,
+      "name": "N\u00e3o Me Cutuca",
+      "url": "https://open.spotify.com/track/02BhbpQKWCVjqVBUsvOL7i"
     },
     {
       "added_at": "2026-08-14 13:34:48",
@@ -399,26 +399,6 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
-        "name": "Nem Pagando",
-        "url": "https://open.spotify.com/album/6Sm3MUWysWug42nMUMTbK6"
-      },
-      "artists": [
-        {
-          "name": "Henrique Casttro",
-          "url": "https://open.spotify.com/artist/31LTPsEvAHPLNTMX06UdJK"
-        },
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 142286,
-      "name": "Nem Pagando",
-      "url": "https://open.spotify.com/track/1haTu99Drbh0fs7d09UNPu"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
         "name": "Pela \u00daltima Vez (Ao Vivo)",
         "url": "https://open.spotify.com/album/5QVFS3TZhg8te5X8Eq20zV"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 162325,
       "name": "Pela \u00daltima Vez - Ao Vivo",
       "url": "https://open.spotify.com/track/4bxyHku6rNffRealVxu30p"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
+        "name": "Nem Pagando",
+        "url": "https://open.spotify.com/album/6Sm3MUWysWug42nMUMTbK6"
+      },
+      "artists": [
+        {
+          "name": "Henrique Casttro",
+          "url": "https://open.spotify.com/artist/31LTPsEvAHPLNTMX06UdJK"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 142286,
+      "name": "Nem Pagando",
+      "url": "https://open.spotify.com/track/1haTu99Drbh0fs7d09UNPu"
     },
     {
       "added_at": "2026-08-14 13:34:48",
@@ -847,30 +847,6 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
-        "name": "Sertanejo S\u00e9rie A (Ao Vivo Em Goi\u00e2nia)",
-        "url": "https://open.spotify.com/album/2QMsZZVq3ucWt4mnkPQYdX"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        },
-        {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        },
-        {
-          "name": "Fred & Fabr\u00edcio",
-          "url": "https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8"
-        }
-      ],
-      "duration_ms": 341722,
-      "name": "Pra N\u00e3o Pensar em Voc\u00ea / Algu\u00e9m / S\u00f3 Pro Meu Prazer",
-      "url": "https://open.spotify.com/track/6vf8QLIPZMULA3SZvDlw1l"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
         "name": "Sign Of The Times",
         "url": "https://open.spotify.com/album/6Yy19mVk13f6IvtHLx1TSB"
       },
@@ -907,6 +883,30 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
+        "name": "Sertanejo S\u00e9rie A (Ao Vivo Em Goi\u00e2nia)",
+        "url": "https://open.spotify.com/album/2QMsZZVq3ucWt4mnkPQYdX"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        },
+        {
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        },
+        {
+          "name": "Fred & Fabr\u00edcio",
+          "url": "https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8"
+        }
+      ],
+      "duration_ms": 341722,
+      "name": "Pra N\u00e3o Pensar em Voc\u00ea / Algu\u00e9m / S\u00f3 Pro Meu Prazer",
+      "url": "https://open.spotify.com/track/6vf8QLIPZMULA3SZvDlw1l"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
         "name": "Morena Jambo / Miau (Ao Vivo)",
         "url": "https://open.spotify.com/album/6qxBaMq4PFxTAeesCmUngN"
       },
@@ -923,6 +923,22 @@
       "duration_ms": 158410,
       "name": "Morena Jambo - Ao Vivo",
       "url": "https://open.spotify.com/track/5RJubPh66tvUWCBoJ1GwEY"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
+        "name": "L\u00e9o Santana 20 Anos - DNA De GG (Ao Vivo / Parte 1)",
+        "url": "https://open.spotify.com/album/3SqKJaLr8HxJfC3UdDR5ie"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 160223,
+      "name": "Marquinha De Fitinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/0TBwd8gAbZV8uPo1Ub6Ymb"
     },
     {
       "added_at": "2026-08-14 13:34:48",
@@ -947,22 +963,6 @@
       "duration_ms": 151136,
       "name": "Superfantasticamente (Superfantastico)",
       "url": "https://open.spotify.com/track/7fFXRzdVsW8nNIjgYwL5Pf"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
-        "name": "L\u00e9o Santana 20 Anos - DNA De GG (Ao Vivo / Parte 1)",
-        "url": "https://open.spotify.com/album/3SqKJaLr8HxJfC3UdDR5ie"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 160223,
-      "name": "Marquinha De Fitinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/0TBwd8gAbZV8uPo1Ub6Ymb"
     },
     {
       "added_at": "2026-08-14 13:34:48",

@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 45791,
+  "num_followers": 45790,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABP72C7I97LQ365QGtBEWis",
+  "snapshot_id": "apIhAAAAAADA8NxnrvEMy/ydgoQZfYfL",
   "tracks": [
     {
       "added_at": null,
@@ -603,30 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Duda Raupp",
-          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
-        }
-      ],
-      "duration_ms": 219294,
-      "name": "Levante",
-      "url": "https://open.spotify.com/track/67rPbbujQNh4XYwtwAowTs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poetas No Topo 3.3, Pt. 1",
         "url": "https://open.spotify.com/album/0Y6sQBLqax8F8uvVLvFXkP"
       },
@@ -691,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hora de Acordar",
-        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
       },
       "artists": [
         {
@@ -700,13 +676,17 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "Rael da Rima",
-          "url": "https://open.spotify.com/artist/7tJKW0WJmc5M3hm5foKBHf"
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
         }
       ],
-      "duration_ms": 223546,
-      "name": "Uma Chance",
-      "url": "https://open.spotify.com/track/60ym0dw2oPkxwB8ChatGIF"
+      "duration_ms": 219294,
+      "name": "Levante",
+      "url": "https://open.spotify.com/track/67rPbbujQNh4XYwtwAowTs"
     },
     {
       "added_at": null,
@@ -735,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
+        "name": "Hora de Acordar",
+        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
       },
       "artists": [
         {
@@ -744,13 +724,13 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "Bernardo Massot",
-          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
+          "name": "Rael da Rima",
+          "url": "https://open.spotify.com/artist/7tJKW0WJmc5M3hm5foKBHf"
         }
       ],
-      "duration_ms": 205672,
-      "name": "Cairo",
-      "url": "https://open.spotify.com/track/1oZeoJGcGPP8Ng0UujbgVg"
+      "duration_ms": 223546,
+      "name": "Uma Chance",
+      "url": "https://open.spotify.com/track/60ym0dw2oPkxwB8ChatGIF"
     },
     {
       "added_at": null,
@@ -771,6 +751,26 @@
       "duration_ms": 179818,
       "name": "At\u00e9 O Amanhecer",
       "url": "https://open.spotify.com/track/1oeFF7vzI6vqdX35mj6JAl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Bernardo Massot",
+          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
+        }
+      ],
+      "duration_ms": 205672,
+      "name": "Cairo",
+      "url": "https://open.spotify.com/track/1oZeoJGcGPP8Ng0UujbgVg"
     },
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Grou",
-          "url": "https://open.spotify.com/artist/07DFKI84JMzC8YCkUdfDzV"
-        }
-      ],
-      "duration_ms": 252279,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/7sNpgkGQkHjZsRoOf5qRDf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quem Tem Um Amigo (Tem Tudo)",
         "url": "https://open.spotify.com/album/3yCfk5tZsvi3cWfLPzsqf3"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 246533,
       "name": "Quem Tem Um Amigo (Tem Tudo) (Remix) (feat. Zeca Pagodinho, Tokyo Ska Paradise Orchestra & Rashid)",
       "url": "https://open.spotify.com/track/08WrWXRoXim0i1RkSVlpJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Grou",
+          "url": "https://open.spotify.com/artist/07DFKI84JMzC8YCkUdfDzV"
+        }
+      ],
+      "duration_ms": 252279,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/7sNpgkGQkHjZsRoOf5qRDf"
     },
     {
       "added_at": null,
@@ -1008,37 +1008,33 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         },
         {
-          "name": "Bernardo Massot",
-          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
+          "name": "Ruxell",
+          "url": "https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg"
         }
       ],
-      "duration_ms": 192001,
-      "name": "Depois do Depois",
-      "url": "https://open.spotify.com/track/5BgqCJerABu6vJEgW2fc4n"
+      "duration_ms": 184445,
+      "name": "Sem Norte",
+      "url": "https://open.spotify.com/track/76oZnQuNBeUOZulyZpKZD5"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Guizo de Cascavel",
-        "url": "https://open.spotify.com/album/2N7w7GgMZi5zik4jPOLrHa"
+        "name": "Que Assim Seja",
+        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
       },
       "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        },
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         }
       ],
-      "duration_ms": 226026,
-      "name": "Pegapacap\u00e1",
-      "url": "https://open.spotify.com/track/7MZhs8zhPIEKSs5VKsEs4e"
+      "duration_ms": 265896,
+      "name": "Tudo Ou Nada",
+      "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
     },
     {
       "added_at": null,
@@ -1071,18 +1067,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Assim Seja",
-        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
+        "name": "Guizo de Cascavel",
+        "url": "https://open.spotify.com/album/2N7w7GgMZi5zik4jPOLrHa"
       },
       "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        },
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         }
       ],
-      "duration_ms": 265896,
-      "name": "Tudo Ou Nada",
-      "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
+      "duration_ms": 226026,
+      "name": "Pegapacap\u00e1",
+      "url": "https://open.spotify.com/track/7MZhs8zhPIEKSs5VKsEs4e"
     },
     {
       "added_at": null,
@@ -1096,17 +1096,17 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
         },
         {
-          "name": "Ruxell",
-          "url": "https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg"
+          "name": "Bernardo Massot",
+          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
         }
       ],
-      "duration_ms": 184445,
-      "name": "Sem Norte",
-      "url": "https://open.spotify.com/track/76oZnQuNBeUOZulyZpKZD5"
+      "duration_ms": 192001,
+      "name": "Depois do Depois",
+      "url": "https://open.spotify.com/track/5BgqCJerABu6vJEgW2fc4n"
     },
     {
       "added_at": null,

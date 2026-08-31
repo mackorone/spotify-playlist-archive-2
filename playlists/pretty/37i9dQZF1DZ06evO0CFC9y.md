@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,287 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,296 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 41 | [Begging For Trouble](https://open.spotify.com/track/19elq0F6glRZAResdR1XTR) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3) | 2:20 |
 | 42 | [Blasphemy & Excess](https://open.spotify.com/track/5BAA4TvfHuuOqNntDkxmXJ) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Silver Bleeds the Black Sun...](https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5) | 3:04 |
 | 43 | [Narrative Of Soul Against Soul](https://open.spotify.com/track/69zFVq4NkAhjiYGdznM23B) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 2:29 |
-| 44 | [Snow Cats](https://open.spotify.com/track/6HwJvwkooQjunshBL6hPK5) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 3:20 |
+| 44 | [Aurelia](https://open.spotify.com/track/7DlLTbTiZiM1Yye5roUYku) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 2:54 |
 | 45 | [I Wanna Get A Mohawk \(But Mom Won't Let Me Get One\)](https://open.spotify.com/track/1RlIa3ho39v23Bs9tWbrCN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Answer That And Stay Fashionable](https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR) | 1:12 |
 | 46 | [Third Season](https://open.spotify.com/track/5fpGz5nKCVDG97CyWSiXoF) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Shut Your Mouth And Open Your Eyes](https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB) | 2:49 |
 | 47 | [Exsanguination](https://open.spotify.com/track/6OdabvInaZXWONggJSLncn) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 2:48 |
-| 48 | [Aurelia](https://open.spotify.com/track/7DlLTbTiZiM1Yye5roUYku) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 2:54 |
+| 48 | [Snow Cats](https://open.spotify.com/track/6HwJvwkooQjunshBL6hPK5) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 3:20 |
 | 49 | [Too Shy To Scream](https://open.spotify.com/track/730q5VwyabgCKDONwUX7Lt) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love \(Deluxe\)](https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz) | 2:56 |
 | 50 | [Perfect Fit](https://open.spotify.com/track/4HZOxAJRr86gp0HmyiAUSB) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:58 |
 
-Snapshot ID: `apDPgAAAAACTIDqa+YpUKZZl4Ay6Lwep`
+Snapshot ID: `apIhAAAAAACk5HAcHrRrrrOfs66i5cRu`

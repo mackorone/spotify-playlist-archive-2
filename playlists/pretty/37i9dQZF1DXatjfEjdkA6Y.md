@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,146 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,148 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 9 | [Après toi](https://open.spotify.com/track/13tx9je0ftBgu6BKpsQDo4) | [Vicky Leandros](https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ) | [Vicky Leandros \(Expanded Edition\)](https://open.spotify.com/album/5SdvPCwMrGeco2J8YYXB6I) | 3:32 |
 | 10 | [Gwendolyne](https://open.spotify.com/track/7B4uAyj4X3qs8YXdV4wwhS) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Gwendolyne](https://open.spotify.com/album/33JwmtWxEH0Jh0IqK9OIMj) | 2:48 |
 | 11 | [Dansevise](https://open.spotify.com/track/1oIVUqdVUFouSa6xsSN5aM) | [Grethe Ingmann](https://open.spotify.com/artist/74NZRc4VtnABmp3rP9e1Gs), [Jørgen Ingmann](https://open.spotify.com/artist/1mUxA8Bcd9qdMgH9uMOIQb) | [16 Hits](https://open.spotify.com/album/74u48w2QLDrnp2neG6hzLN) | 2:57 |
-| 12 | [La, La, La](https://open.spotify.com/track/1ApXNkjfjxkSDoezO8Kh8g) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Lo Mejor de Massiel](https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF) | 2:32 |
-| 13 | [Disco Tango](https://open.spotify.com/track/5JpYM0yLDfKfoPWqydsqgj) | [Tommy Seebach](https://open.spotify.com/artist/4j8KP6LIyjhpM282XUhjoz) | [Disco Tango \[Remastered\]](https://open.spotify.com/album/6ejeH3NNZ33ZjDbYdJXdcY) | 2:50 |
+| 12 | [Disco Tango](https://open.spotify.com/track/5JpYM0yLDfKfoPWqydsqgj) | [Tommy Seebach](https://open.spotify.com/artist/4j8KP6LIyjhpM282XUhjoz) | [Disco Tango \[Remastered\]](https://open.spotify.com/album/6ejeH3NNZ33ZjDbYdJXdcY) | 2:50 |
+| 13 | [La, La, La](https://open.spotify.com/track/1ApXNkjfjxkSDoezO8Kh8g) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Lo Mejor de Massiel](https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF) | 2:32 |
 | 14 | [Occhi di ragazza](https://open.spotify.com/track/1w7ID6DNVqWTkFigG5bHgE) | [Gianni Morandi](https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr) | [Gianni Morandi](https://open.spotify.com/album/0Bp1XMvxKay4gZrEkMXn6w) | 2:52 |
 | 15 | [1, 2, 3](https://open.spotify.com/track/4AFbTE63GLKZyZv96eNmYK) | [Catherine Ferry](https://open.spotify.com/artist/42RTi99jGurzuXQqqr2g0A) | [Mélodie bleue](https://open.spotify.com/album/3Oa1HzOfHQPaHUtbNUJ6jm) | 2:30 |
 | 16 | [Bailemos un Vals](https://open.spotify.com/track/07HHIWiizlox1aoaxscHoj) | [José Velez](https://open.spotify.com/artist/7wM7apExOIkh5wtyDjDxvm) | [Lo Mejor de José Velez](https://open.spotify.com/album/5qv51ppTwXb5DE8iusnLl8) | 3:07 |
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 20 | [Jennifer Jennings](https://open.spotify.com/track/4nZ516wquSpoubxkqQ4ban) | [Louis Neefs](https://open.spotify.com/artist/4jmHq8tAQ2UziZo2BsPDDt) | [80](https://open.spotify.com/album/3ISffmPs7HEqXFUi9gXDXy) | 2:46 |
 | 21 | [Judy min vän](https://open.spotify.com/track/1Z4zGDjmHURFmHAd0OAV2t) | [Tommy Körberg](https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2) | [Tommy Körberg \- Judy min vän \(Remastered 2011\)](https://open.spotify.com/album/2hpjbMakww7UotrWJHsxkI) | 2:20 |
 | 22 | [Yo soy aquél](https://open.spotify.com/track/6b3ub116kE1T15h1yzaiTy) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Grandes éxitos](https://open.spotify.com/album/2rG4mklkRJ3gltZM7dvVbl) | 2:39 |
-| 23 | [Se Piangi Se Ridi](https://open.spotify.com/track/3KFtTMzhe5hVTfMur4osaL) | [Bobby Solo](https://open.spotify.com/artist/7GxkHuCxqtPAVnpBTjObpn) | [Bobby Solo Cantaitalia](https://open.spotify.com/album/6ESzygL26GaA2DNaG8UHNy) | 3:24 |
-| 24 | [Als Het Om De Liefde Gaat](https://open.spotify.com/track/0ehNTBTIg4yPF0gwSSUqVM) | [Sandra & Andres](https://open.spotify.com/artist/6l30WCGgvUeyAdbs9JvB6V) | [Als Het Om De Liefde Gaat \(Expanded Edition\)](https://open.spotify.com/album/2HzLXyhWFusIaDoV436sNf) | 2:56 |
+| 23 | [Als Het Om De Liefde Gaat](https://open.spotify.com/track/0ehNTBTIg4yPF0gwSSUqVM) | [Sandra & Andres](https://open.spotify.com/artist/6l30WCGgvUeyAdbs9JvB6V) | [Als Het Om De Liefde Gaat \(Expanded Edition\)](https://open.spotify.com/album/2HzLXyhWFusIaDoV436sNf) | 2:56 |
+| 24 | [Se Piangi Se Ridi](https://open.spotify.com/track/3KFtTMzhe5hVTfMur4osaL) | [Bobby Solo](https://open.spotify.com/artist/7GxkHuCxqtPAVnpBTjObpn) | [Bobby Solo Cantaitalia](https://open.spotify.com/album/6ESzygL26GaA2DNaG8UHNy) | 3:24 |
 | 25 | [Tú Volverás](https://open.spotify.com/track/2KYlV00chBWcckA8smxYJW) | [Sergio Y Estibaliz](https://open.spotify.com/artist/3MWGlOeCsA70Lu9eURTzlV) | [Tal Como Eramos](https://open.spotify.com/album/1iEZf9Ha37Hy1egI5kuT8A) | 3:29 |
-| 26 | [Jennie Jennie](https://open.spotify.com/track/3BdAVTDazl0jW9Jpxz0VYh) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [Musik vi minns..\. / Lasse Berghagen](https://open.spotify.com/album/12dP4FPuOJu4ZDd2KXDEHH) | 3:26 |
-| 27 | [Power to All Our Friends](https://open.spotify.com/track/4oJxJpFIGUHlX6limr6rH1) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [40 Golden Greats](https://open.spotify.com/album/0SW33rIKZ2v0EmfqRLKufz) | 3:03 |
+| 26 | [Power to All Our Friends](https://open.spotify.com/track/4oJxJpFIGUHlX6limr6rH1) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [40 Golden Greats](https://open.spotify.com/album/0SW33rIKZ2v0EmfqRLKufz) | 3:03 |
+| 27 | [Jennie Jennie](https://open.spotify.com/track/3BdAVTDazl0jW9Jpxz0VYh) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [Musik vi minns..\. / Lasse Berghagen](https://open.spotify.com/album/12dP4FPuOJu4ZDd2KXDEHH) | 3:26 |
 | 28 | [Elle était si jolie](https://open.spotify.com/track/6zExa9fc43F6uxNdaVmcUR) | [Alain Barrière](https://open.spotify.com/artist/0ZKY5JXrPqZ761rg10WqtW) | [Pure..\. France](https://open.spotify.com/album/7qHQ8U2HlkyXsBoSfoidkr) | 2:57 |
 | 29 | [אי שם](https://open.spotify.com/track/6XTFPBCx1F8q9V2CgXnUWO) | [Ilanit](https://open.spotify.com/artist/6Rs5PyjfGBoAYfsA0Kocsj) | [אי שם](https://open.spotify.com/album/20DzOLF3saURVlu1S4SFY3) | 2:52 |
 | 30 | [Ding\-A\-Dong \(English Version\) \- Remastered](https://open.spotify.com/track/2dZ5FvhW12NB8mQPhdBu7U) | [Teach In](https://open.spotify.com/artist/0but8haas2eybMUZvFV90H) | [Ding\-A\-Dong Winner Eurovision Festival 1975 \(Remastered\)](https://open.spotify.com/album/7rCzZoWFHzNRqvnYgZYoh0) | 2:27 |

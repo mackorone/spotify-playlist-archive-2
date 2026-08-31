@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,495,838 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,495,742 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 83 | [Take Out the Gunman](https://open.spotify.com/track/5I1ueVGJA6VZRkgkMyiHcP) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [La Gárgola](https://open.spotify.com/album/6ctiVzuLDrwlsHkgsatIqg) | 4:18 |
 | 84 | [Addicted to Pain](https://open.spotify.com/track/2I75GCnEOzCvNpxCR3XYZH) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Fortress](https://open.spotify.com/album/14XXkmq6rjlKTxRkelMtZx) | 4:16 |
 | 85 | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/track/6ZObKi7oiOXcFOPFzssJHH) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Eric Vanlerberghe](https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [CARNAL](https://open.spotify.com/album/0ivYaIK4SxXpiSiKXTNvtF) | 4:23 |
-| 86 | [Hollow Points](https://open.spotify.com/track/5J1SceWegPiycCW89uIfAU) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World \(Deluxe Edition\)](https://open.spotify.com/album/3FtJCmMzsgTWZOi931Vqxy) | 3:07 |
+| 86 | [AFRAID TO DIE](https://open.spotify.com/track/70XQAZsck714xP80hqeUsj) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 3:04 |
 | 87 | [Song Of The Swamp](https://open.spotify.com/track/3nImaje8npYkUGZG4AQlc4) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Song Of The Swamp](https://open.spotify.com/album/7jx0RyYXimNfJDm7ohjIUN) | 3:18 |
-| 88 | [AFRAID TO DIE](https://open.spotify.com/track/70XQAZsck714xP80hqeUsj) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 3:04 |
+| 88 | [Hollow Points](https://open.spotify.com/track/5J1SceWegPiycCW89uIfAU) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World \(Deluxe Edition\)](https://open.spotify.com/album/3FtJCmMzsgTWZOi931Vqxy) | 3:07 |
 | 89 | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Daryl Palumbo](https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA) | 3:09 |
 | 90 | [further eden](https://open.spotify.com/track/1mrAlj4btJnjnAlD2cSJrT) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [silence outlives the earth](https://open.spotify.com/album/78YcVZNpzM357BBvAOKS6H) | 3:31 |
 | 91 | [Pray](https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Violent Nature](https://open.spotify.com/album/7r72bICF1RIxeNOKCGDP6U) | 3:11 |

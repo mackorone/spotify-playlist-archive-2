@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 
 > This is Teddy Swims\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,108 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,219 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 | 11 | [What More Can I Say](https://open.spotify.com/track/1MmNMaPzI1uZQS20RV88AT) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 2:21 |
 | 12 | [Don't Stop Believin'](https://open.spotify.com/track/3sQzp18PlsOAQKZxW7EbEK) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Don't Stop Believin'](https://open.spotify.com/album/5WzjpQ9cLRxTzK4AMn7Ipr) | 4:08 |
 | 13 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 |
-| 14 | [Break Up in Reverse](https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Break Up in Reverse](https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg) | 3:25 |
-| 15 | [Bad Dreams \- HUGEL Remix](https://open.spotify.com/track/2s2NJlQfNF77nQcQvb4sBk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Bad Dreams \(HUGEL Remix\)](https://open.spotify.com/album/0ssTX65vCg6WGt6NsGHzZd) | 3:02 |
+| 14 | [Bad Dreams \- HUGEL Remix](https://open.spotify.com/track/2s2NJlQfNF77nQcQvb4sBk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Bad Dreams \(HUGEL Remix\)](https://open.spotify.com/album/0ssTX65vCg6WGt6NsGHzZd) | 3:02 |
+| 15 | [Break Up in Reverse](https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Break Up in Reverse](https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg) | 3:25 |
 | 16 | [Funeral](https://open.spotify.com/track/0NckAiGfjwxWfRGaeC8eEB) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:54 |
 | 17 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
 | 18 | [dose](https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 3:00 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 | 38 | [My Bad](https://open.spotify.com/track/5ql22UbzPOJrDSjVeTvX6E) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [My Bad](https://open.spotify.com/album/7KNGS1OOy0u8NHQxY553D7) | 2:57 |
 | 39 | [Only Love Can Hurt Like This \(feat\. Teddy Swims\) \- Remix](https://open.spotify.com/track/0LCkj8JSa3pahuphDXiOwZ) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Only Love Can Hurt Like This \(feat\. Teddy Swims\) \[Remix\]](https://open.spotify.com/album/2jAnutEJgLvYaO73RBRKiJ) | 3:52 |
 | 40 | [Easy To Love](https://open.spotify.com/track/0BLxPjFEOG8G1q8AKLuz3V) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 2:31 |
-| 41 | [Northern Lights](https://open.spotify.com/track/53LrdNXkfGaS6pdyWDype0) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:35 |
-| 42 | [Someone You Loved](https://open.spotify.com/track/0voD3AU9IVGAyCXeV8GeSz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Someone You Loved](https://open.spotify.com/album/2e5jps2AoZA1q89RCCocHR) | 2:59 |
+| 41 | [Someone You Loved](https://open.spotify.com/track/0voD3AU9IVGAyCXeV8GeSz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Someone You Loved](https://open.spotify.com/album/2e5jps2AoZA1q89RCCocHR) | 2:59 |
+| 42 | [Northern Lights](https://open.spotify.com/track/53LrdNXkfGaS6pdyWDype0) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:35 |
 | 43 | [Need You More](https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:10 |
 | 44 | [Someone Who Loved You](https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:57 |
 | 45 | [Flame](https://open.spotify.com/track/1EWKlsk5xEsDnejpkPkFVZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 | 49 | [KEEPER \(feat\. Teddy Swims\)](https://open.spotify.com/track/2fuTi8KUEpNthEwmI5C1qa) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 3:43 |
 | 50 | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/track/67aaig0zaaSzf8zPqSUoN4) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 2:53 |
 
-Snapshot ID: `apDPgAAAAAAJNLJNTWiMcpiB51aTDsUC`
+Snapshot ID: `apIhAAAAAACBQLDuuGGrDP0lQH/te0u6`

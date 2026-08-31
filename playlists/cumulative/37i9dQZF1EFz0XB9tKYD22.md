@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-447 songs - 1 day 2 hr 22 min
+449 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Heavyweight](https://open.spotify.com/track/4VjFgo853p4of6maSkmjfB) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Heavyweight](https://open.spotify.com/album/1llat1Rc2C5UKq6G6bSU51) | 3:37 | 2024-02-27 |  |
 | [Hell Of A Heartbreak](https://open.spotify.com/track/1YtSJkaTnzV2TNkGo2045F) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Hell Of A Heartbreak](https://open.spotify.com/album/3JFCNlunpvtxLZiGO3OQ5Z) | 3:02 | 2024-02-27 |  |
 | [Help](https://open.spotify.com/track/3oyoipK4mq2PJWKyuWuIOQ) | [Bride](https://open.spotify.com/artist/3G7qoMSLvu9Pmb0xGtf9fl) | [The Lost Reels, Vol\. 1 \(Retroarchives Edition\)](https://open.spotify.com/album/6eJnNrz7MA9XzcwPhEXQVD) | 3:29 | 2024-02-27 |  |
-| [Hey There Sunshine](https://open.spotify.com/track/50msnc46msWmYW2kRjyZxx) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Hey There Sunshine](https://open.spotify.com/album/3pLOueRkk7XQP3sBkG2oMo) | 3:56 | 2026-05-17 |  |
+| [Hey There Sunshine](https://open.spotify.com/track/50msnc46msWmYW2kRjyZxx) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Hey There Sunshine](https://open.spotify.com/album/3pLOueRkk7XQP3sBkG2oMo) | 3:56 | 2026-05-17 | 2026-08-31 |
+| [Hey There Sunshine](https://open.spotify.com/track/7jwzvLPmAI2WVJM6mBzg5G) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [It's A Dying Art](https://open.spotify.com/album/0PW84fpvyi9bfEenBtUiYA) | 3:56 | 2026-08-30 |  |
 | [Hide The Wine](https://open.spotify.com/track/4iThW5yeI2ExwwG0zte69c) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing](https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu) | 3:29 | 2024-02-27 |  |
 | [High On A Heartbreak](https://open.spotify.com/track/09dKOgM5rxWm8pWniOu4TN) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Corn Queen](https://open.spotify.com/album/5X4svYK600xTcLxv5mvrYb) | 3:44 | 2025-06-08 |  |
 | [High On A Heartbreak](https://open.spotify.com/track/2uEcoAnxUc2ChH6oe2hYiL) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [High On A Heartbreak](https://open.spotify.com/album/22eJnThoZaEiwze30dHwVA) | 3:44 | 2025-05-14 | 2025-06-09 |
@@ -225,6 +226,7 @@
 | [Lonely Alone](https://open.spotify.com/track/1tDJdQc60knIRGXwOlfSIN) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 4:37 | 2024-02-27 |  |
 | [Lonesome And Cold \(From 'Single HIts'1959\)](https://open.spotify.com/track/1X4jhrYE7p4lCXdd7FZ1C5) | [Al Hibbler](https://open.spotify.com/artist/6iWkhfvI0raTI7Akxo7ODQ) | [AL HIBBLER \- FOREVER JAZZ HITS VOL.2](https://open.spotify.com/album/3ID20kfMxhIG0Hku9iKxbC) | 2:36 | 2025-09-10 | 2026-03-15 |
 | [Lonesome and Cold \(The Ray Charles Singers\) \- Remastered](https://open.spotify.com/track/0a6SMETMjX62mNOo50hOOV) | [Al Hibbler](https://open.spotify.com/artist/6iWkhfvI0raTI7Akxo7ODQ), [The Ray Charles Singers](https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL) | [Singing His Best \(Remastered\)](https://open.spotify.com/album/1ddRUK4onDvl3F0zLnmpQ5) | 2:36 | 2026-03-14 |  |
+| [Long Way To Your Heart](https://open.spotify.com/track/7AEat1XFzbyVnTyWzoG5ZC) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [It's A Dying Art](https://open.spotify.com/album/0PW84fpvyi9bfEenBtUiYA) | 4:25 | 2026-08-30 |  |
 | [Looking For A Lighter](https://open.spotify.com/track/4AzJiwev9fmVbw0X8mWb1P) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [If It Wasn't For You](https://open.spotify.com/album/7ge2IbF35OIlj7Yimy14H7) | 3:03 | 2024-02-27 |  |
 | [Lopen Op Het Water](https://open.spotify.com/track/2qUtoKqxqptMkovMba6Qqp) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Marco Borsato 1998 \- 2002](https://open.spotify.com/album/2hxYq0j0qlCwzajpwfi95Y) | 4:28 | 2024-02-27 | 2026-01-22 |
 | [Lopen Op Het Water](https://open.spotify.com/track/3w0op8UIfndZVmTiQzo4z1) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Onderweg](https://open.spotify.com/album/6aNqB0DO4ni5VNDEjDwH8g) | 4:28 | 2026-01-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Mac J\u00falia. The essential tracks, all in one playlist.",
-  "num_followers": 1933,
+  "num_followers": 1934,
   "original_name": "This Is Mac J\u00falia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAAsH6HJt/of38TNu5lRN4ci",
+  "snapshot_id": "apIhAAAAAAAIogQdIcl++a0C3RQ3Jici",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Janeiro",
+        "url": "https://open.spotify.com/album/5CnpwfsEEbxaKEoEDTgfn2"
+      },
+      "artists": [
+        {
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Janeiro",
+      "url": "https://open.spotify.com/track/1Bpmp677mPp8sMVSS0zl5s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jogo Sujo",
         "url": "https://open.spotify.com/album/5qy9homkyTypqh7ibHcDqY"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 205718,
       "name": "Jogo Sujo",
       "url": "https://open.spotify.com/track/5VoMWPTG7cAXonm2A3XcAq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Janeiro",
-        "url": "https://open.spotify.com/album/5CnpwfsEEbxaKEoEDTgfn2"
-      },
-      "artists": [
-        {
-          "name": "Augusta Barna",
-          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "Janeiro",
-      "url": "https://open.spotify.com/track/1Bpmp677mPp8sMVSS0zl5s"
     },
     {
       "added_at": null,
@@ -747,6 +747,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Segue O Baile",
+        "url": "https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        }
+      ],
+      "duration_ms": 107647,
+      "name": "Para N\u00e3o",
+      "url": "https://open.spotify.com/track/5gkbs4N9cAh1CzUPSyutoH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rumo ao Hexa",
         "url": "https://open.spotify.com/album/7pHCV59kvSGpjcTl9926rd"
       },
@@ -775,30 +799,6 @@
       "duration_ms": 112615,
       "name": "Rumo ao Hexa",
       "url": "https://open.spotify.com/track/2H8XkgvzyclrurIImuXsBY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Segue O Baile",
-        "url": "https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        },
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        }
-      ],
-      "duration_ms": 107647,
-      "name": "Para N\u00e3o",
-      "url": "https://open.spotify.com/track/5gkbs4N9cAh1CzUPSyutoH"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "$IMBIO$E",
-        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        }
-      ],
-      "duration_ms": 193052,
-      "name": "S\u00f3 Lamento",
-      "url": "https://open.spotify.com/track/6OT7k19AcCujMXzYaIYmFa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Segue O Baile",
         "url": "https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 172661,
       "name": "Amor De A\u00e7\u00facar",
       "url": "https://open.spotify.com/track/7lHXSUvvfmeHBPzxvIH8ZY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "$IMBIO$E",
+        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 193052,
+      "name": "S\u00f3 Lamento",
+      "url": "https://open.spotify.com/track/6OT7k19AcCujMXzYaIYmFa"
     },
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "$IMBIO$E",
-        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        }
-      ],
-      "duration_ms": 164850,
-      "name": "Sainha",
-      "url": "https://open.spotify.com/track/40delH3Ol7m3zSRAVjnhL1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Segue O Baile",
         "url": "https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 159428,
       "name": "Tropa Das On\u00e7a",
       "url": "https://open.spotify.com/track/0HgptFHLQfgE4auvN31Gr5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "$IMBIO$E",
+        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 164850,
+      "name": "Sainha",
+      "url": "https://open.spotify.com/track/40delH3Ol7m3zSRAVjnhL1"
     },
     {
       "added_at": null,
@@ -1039,30 +1039,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Medley Dona On\u00e7a | Funk In House #17",
-        "url": "https://open.spotify.com/album/1w2UaVD0TuxKCzhVPJnr4F"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "MUCK",
-          "url": "https://open.spotify.com/artist/7eYw9jwPCCAhCrSU63kvHB"
-        },
-        {
-          "name": "Funk in House",
-          "url": "https://open.spotify.com/artist/7KRtcq7lQRst3tWZ9tJEji"
-        }
-      ],
-      "duration_ms": 933543,
-      "name": "Medley Dona On\u00e7a | Funk In House #17",
-      "url": "https://open.spotify.com/track/5F80kfftJMqqkgBHNOaOVQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Segue O Baile",
         "url": "https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g"
       },
@@ -1099,6 +1075,30 @@
       "duration_ms": 142027,
       "name": "Sem Press\u00e3o",
       "url": "https://open.spotify.com/track/2a3xEMLiLgIrYzPPXbTV0b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Medley Dona On\u00e7a | Funk In House #17",
+        "url": "https://open.spotify.com/album/1w2UaVD0TuxKCzhVPJnr4F"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "MUCK",
+          "url": "https://open.spotify.com/artist/7eYw9jwPCCAhCrSU63kvHB"
+        },
+        {
+          "name": "Funk in House",
+          "url": "https://open.spotify.com/artist/7KRtcq7lQRst3tWZ9tJEji"
+        }
+      ],
+      "duration_ms": 933543,
+      "name": "Medley Dona On\u00e7a | Funk In House #17",
+      "url": "https://open.spotify.com/track/5F80kfftJMqqkgBHNOaOVQ"
     },
     {
       "added_at": null,
@@ -1187,26 +1187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Papo 10",
-        "url": "https://open.spotify.com/album/0QaSKRQmdSlq97XMBzvbUs"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "VINT",
-          "url": "https://open.spotify.com/artist/6KjG5ZIQ6aiu2i0cKGqzJ7"
-        }
-      ],
-      "duration_ms": 153545,
-      "name": "Papo 10",
-      "url": "https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ajoelhou",
         "url": "https://open.spotify.com/album/5275f9LV6XsLAHoc4tqQeR"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 121846,
       "name": "Ajoelhou",
       "url": "https://open.spotify.com/track/3gmimtzSVq82cgTwwb0w6I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Papo 10",
+        "url": "https://open.spotify.com/album/0QaSKRQmdSlq97XMBzvbUs"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "VINT",
+          "url": "https://open.spotify.com/artist/6KjG5ZIQ6aiu2i0cKGqzJ7"
+        }
+      ],
+      "duration_ms": 153545,
+      "name": "Papo 10",
+      "url": "https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2450,
+  "num_followers": 2451,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABkbZYTll/wN84HEUA89qTN",
+  "snapshot_id": "apIhAAAAAADNoka3Ql+n8Rk3ixvv1DCG",
   "tracks": [
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Copa",
-        "url": "https://open.spotify.com/album/3Hygvhaxw3UB4kRknoCDRe"
+        "name": "Bien Jalisco",
+        "url": "https://open.spotify.com/album/59zAiGlbPrQa2yRn5MjAez"
       },
       "artists": [
         {
@@ -336,17 +336,13 @@
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         },
         {
-          "name": "Ronaldinho Ga\u00facho",
-          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
-        },
-        {
-          "name": "Tu Musica",
-          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
+          "name": "2DEEP",
+          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Copa",
-      "url": "https://open.spotify.com/track/4HSQu9jV9WrADVgo9wW1Kk"
+      "duration_ms": 144589,
+      "name": "Bien Jalisco",
+      "url": "https://open.spotify.com/track/3cx3lX2AJpmoH6KWy9CfHH"
     },
     {
       "added_at": null,
@@ -371,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Jalisco",
-        "url": "https://open.spotify.com/album/59zAiGlbPrQa2yRn5MjAez"
+        "name": "Copa",
+        "url": "https://open.spotify.com/album/3Hygvhaxw3UB4kRknoCDRe"
       },
       "artists": [
         {
@@ -380,13 +376,17 @@
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         },
         {
-          "name": "2DEEP",
-          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
+          "name": "Ronaldinho Ga\u00facho",
+          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
+        },
+        {
+          "name": "Tu Musica",
+          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
         }
       ],
-      "duration_ms": 144589,
-      "name": "Bien Jalisco",
-      "url": "https://open.spotify.com/track/3cx3lX2AJpmoH6KWy9CfHH"
+      "duration_ms": 200000,
+      "name": "Copa",
+      "url": "https://open.spotify.com/track/4HSQu9jV9WrADVgo9wW1Kk"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOKO",
-        "url": "https://open.spotify.com/album/413pkByJQrneaoZmH29wD6"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 121606,
-      "name": "TOKO",
-      "url": "https://open.spotify.com/track/5zfMhzgCMxkaIc0s1MpGrT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RUMBA",
         "url": "https://open.spotify.com/album/5ryvxfEZXOoyg6FRYWGBKm"
       },
@@ -563,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TOKO",
+        "url": "https://open.spotify.com/album/413pkByJQrneaoZmH29wD6"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 121606,
+      "name": "TOKO",
+      "url": "https://open.spotify.com/track/5zfMhzgCMxkaIc0s1MpGrT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MASARYK / BIEN PEDO",
         "url": "https://open.spotify.com/album/2xk9Rij0FAObYriAiybTmW"
       },
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Credo",
-        "url": "https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "Mi Credo",
-      "url": "https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BELICLOVE",
         "url": "https://open.spotify.com/album/02WCLBD9m0CE59VM6eS7yk"
       },
@@ -635,22 +619,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culichi Vibes",
-        "url": "https://open.spotify.com/album/4Qb6M1XyHrgR4zwlyPs4bS"
+        "name": "Mi Credo",
+        "url": "https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY"
       },
       "artists": [
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
         }
       ],
-      "duration_ms": 189351,
-      "name": "Culichi Vibes",
-      "url": "https://open.spotify.com/track/3jZ9JwUMPDvcbk3APnk7c9"
+      "duration_ms": 127384,
+      "name": "Mi Credo",
+      "url": "https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy"
     },
     {
       "added_at": null,
@@ -675,6 +655,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Culichi Vibes",
+        "url": "https://open.spotify.com/album/4Qb6M1XyHrgR4zwlyPs4bS"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        }
+      ],
+      "duration_ms": 189351,
+      "name": "Culichi Vibes",
+      "url": "https://open.spotify.com/track/3jZ9JwUMPDvcbk3APnk7c9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AFROLANDIA",
         "url": "https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq"
       },
@@ -687,26 +687,6 @@
       "duration_ms": 172434,
       "name": "MAZA",
       "url": "https://open.spotify.com/track/0CpbXYbLQk4ALP7geleeSs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bien Pilas (En Vivo)",
-        "url": "https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 118826,
-      "name": "Bien Pilas - En Vivo",
-      "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
     },
     {
       "added_at": null,
@@ -731,6 +711,26 @@
       "duration_ms": 178474,
       "name": "Plastic Bombastic",
       "url": "https://open.spotify.com/track/367fC0Vpg30BYpzWiAAQnz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Pilas (En Vivo)",
+        "url": "https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 118826,
+      "name": "Bien Pilas - En Vivo",
+      "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
     },
     {
       "added_at": null,
@@ -811,22 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fama De Ingrata",
-        "url": "https://open.spotify.com/album/0Gkerz0nQtgjTLhcwEVyqZ"
+        "name": "El Uno Al 7 (En Vivo)",
+        "url": "https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs"
       },
       "artists": [
         {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        },
-        {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 188666,
-      "name": "Zendaya",
-      "url": "https://open.spotify.com/track/0dTtxXu9BDh6PE7uwzpBZp"
+      "duration_ms": 204826,
+      "name": "El Uno Al 7 - En Vivo",
+      "url": "https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj"
     },
     {
       "added_at": null,
@@ -851,22 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Uno Al 7 (En Vivo)",
-        "url": "https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs"
+        "name": "Fama De Ingrata",
+        "url": "https://open.spotify.com/album/0Gkerz0nQtgjTLhcwEVyqZ"
       },
       "artists": [
         {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
         },
         {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 204826,
-      "name": "El Uno Al 7 - En Vivo",
-      "url": "https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj"
+      "duration_ms": 188666,
+      "name": "Zendaya",
+      "url": "https://open.spotify.com/track/0dTtxXu9BDh6PE7uwzpBZp"
     },
     {
       "added_at": null,
@@ -955,6 +955,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Los Angeles Hay Que Tenerle Cuidado",
+        "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 275136,
+      "name": "Mr. Seal The Deal",
+      "url": "https://open.spotify.com/track/12ecK1xV4KZ1fHiGo6MlIt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tiempos Duros",
         "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
       },
@@ -971,22 +991,6 @@
       "duration_ms": 183360,
       "name": "Pa Que Hablen De Verdad",
       "url": "https://open.spotify.com/track/3mMJwhbV6dcACewyXQgKEg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LA Live Session",
-        "url": "https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 124117,
-      "name": "El Lic - En Vivo",
-      "url": "https://open.spotify.com/track/4Wmzvb4GkzBBJdvhxkc89C"
     },
     {
       "added_at": null,

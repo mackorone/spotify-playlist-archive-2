@@ -8963,6 +8963,24 @@
     },
     {
       "album": {
+        "name": "A Duck's Water Off My Back",
+        "url": "https://open.spotify.com/album/2gXbHIPYnZN1AejPIUyyQC"
+      },
+      "artists": [
+        {
+          "name": "Champion Trees",
+          "url": "https://open.spotify.com/artist/2TGA8WEasn5tdn6MZ7FWzw"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236266,
+      "name": "I Wear a Shirt That Says Australia",
+      "url": "https://open.spotify.com/track/0iA5kbj14o3IMfjkN0Fgtp"
+    },
+    {
+      "album": {
         "name": "All Things Must Pass (2014 Remaster)",
         "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
       },
@@ -17964,6 +17982,32 @@
       "duration_ms": 205306,
       "name": "Submerge FM",
       "url": "https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn"
+    },
+    {
+      "album": {
+        "name": "Icarus in Training",
+        "url": "https://open.spotify.com/album/7fEN2NCC6LKKqowqqKN4ip"
+      },
+      "artists": [
+        {
+          "name": "Whait",
+          "url": "https://open.spotify.com/artist/4Ic46u36imWbA6I0fdFqhX"
+        },
+        {
+          "name": "More Eaze",
+          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
+        },
+        {
+          "name": "Wendy Eisenberg",
+          "url": "https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262534,
+      "name": "Suffer Less",
+      "url": "https://open.spotify.com/track/6RGrCdcFVQ4QggKyLkwAya"
     },
     {
       "album": {

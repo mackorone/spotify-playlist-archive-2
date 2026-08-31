@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 41057,
+  "num_followers": 41069,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAACCCkR9jUr1h2r/WuitKY9j",
+  "snapshot_id": "apIhAAAAAABLmL4btb29PrybXEuTW4eB",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escorpion",
-        "url": "https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 146506,
-      "name": "Alma de Acero",
-      "url": "https://open.spotify.com/track/3wrpsjzRr22LrymHq2iagR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Nueva Era de la Quebradita",
         "url": "https://open.spotify.com/album/4eO0RJcjWhS6mEwObol6Bc"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 195361,
       "name": "El Caderazo",
       "url": "https://open.spotify.com/track/0QXL1Y9KtEHoMonrMVLJtL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Escorpion",
+        "url": "https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 146506,
+      "name": "Alma de Acero",
+      "url": "https://open.spotify.com/track/3wrpsjzRr22LrymHq2iagR"
     },
     {
       "added_at": null,

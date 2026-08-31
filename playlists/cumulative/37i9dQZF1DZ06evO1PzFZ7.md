@@ -4,7 +4,7 @@
 
 > This is Ángela Aguilar\. The essential tracks, all in one playlist.
 
-136 songs - 7 hr 54 min
+137 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Amor Prohibido](https://open.spotify.com/track/28t4WNpkljCOcCSADHqJ3q) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP) | 3:02 | 2024-01-05 | 2024-06-10 |
 | [Amor, Amor de Mis Amores](https://open.spotify.com/track/15hJAORUQLQnnP6gM9DHrL) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK) | 1:53 | 2024-01-06 |  |
 | [Amor, Amor de Mis Amores](https://open.spotify.com/track/4TETxb4ElOE3AtrNgQO6PO) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 1:53 | 2023-03-10 | 2024-01-07 |
-| [Baila Esta Cumbia](https://open.spotify.com/track/5YbeAaSHZv7ZDAM6CJE872) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP) | 2:55 | 2024-01-04 |  |
+| [Baila Esta Cumbia](https://open.spotify.com/track/5YbeAaSHZv7ZDAM6CJE872) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP) | 2:55 | 2024-01-04 | 2026-08-31 |
 | [Baila Esta Cumbia](https://open.spotify.com/track/7AGYMb1fvYZig4AYTOOUSl) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3) | 2:55 | 2023-03-10 | 2024-01-05 |
 | [BALA PERDIDA](https://open.spotify.com/track/4vO9XibywfpscabvLgwGYH) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [BALA PERDIDA](https://open.spotify.com/album/2ioboE0aQ66tLoGHB7XCxK) | 3:44 | 2025-02-22 |  |
 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/1SA2hQnh9VhWc1W2vkNIM0) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Bidi Bidi Bom Bom](https://open.spotify.com/album/45XcOlJQtEs3GdooFlS1cr) | 3:19 | 2023-03-10 |  |
@@ -116,6 +116,7 @@
 | [Quizás Quizás Quizás](https://open.spotify.com/track/2fHuEEJMbtXsw5BitInQzA) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Trio Los Panchos](https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:13 | 2024-02-04 |  |
 | [Qué Agonía](https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:32 | 2023-05-18 |  |
 | [Qué Agonía](https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía](https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v) | 2:32 | 2023-03-10 | 2023-05-19 |
+| [Qué Agonía \- Live](https://open.spotify.com/track/7c575rH2pT1ltlzgku8MDa) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Los Aguilar Sinfónico Desde El Hollywood Bowl \(Live\)](https://open.spotify.com/album/4T6hC12Jiee1Hv53N3VPq7) | 3:26 | 2026-08-31 |  |
 | [Qué Agonía \- Remix](https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía \(Remix\)](https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK) | 3:08 | 2023-06-24 |  |
 | [Rayando el Sol](https://open.spotify.com/track/3SNCoeOOJHbyhvGT2aGfji) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 3:27 | 2023-03-10 | 2024-01-07 |
 | [Rayando el Sol](https://open.spotify.com/track/5fQaUabTHuTq8EIrpudwnb) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK) | 3:27 | 2024-01-06 | 2025-03-12 |

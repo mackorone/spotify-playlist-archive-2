@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 
 > Chill, take a long walk and clear your mind\. Cover: Matt Ngesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,667 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,666 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 42286,
+  "num_followers": 42291,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAAbxft8zH8ipN+I6XqGbZSB",
+  "snapshot_id": "apIhAAAAAAAb9X7EMvO/jybY0SDMhjXE",
   "tracks": [
     {
       "added_at": null,
@@ -779,42 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cr\u00f3nica De Un Desamor Anunciado",
-        "url": "https://open.spotify.com/album/69gpv2EqSR3nIV9bdqmicQ"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 200981,
-      "name": "Me Haces Mal",
-      "url": "https://open.spotify.com/track/2hCSYP7BoWsDgnu4NwmPdC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ca\u00f3tica Belleza",
-        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 213040,
-      "name": "Como Vez Primera",
-      "url": "https://open.spotify.com/track/7akpZSIOBwaSDES0wS6ekC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Pueblo Natal",
         "url": "https://open.spotify.com/album/5oxAkfE2d840jRBDCJxsQ5"
       },
@@ -907,6 +871,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 213040,
+      "name": "Como Vez Primera",
+      "url": "https://open.spotify.com/track/7akpZSIOBwaSDES0wS6ekC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cr\u00f3nica De Un Desamor Anunciado",
+        "url": "https://open.spotify.com/album/69gpv2EqSR3nIV9bdqmicQ"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 200981,
+      "name": "Me Haces Mal",
+      "url": "https://open.spotify.com/track/2hCSYP7BoWsDgnu4NwmPdC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Secretos",
         "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
       },
@@ -995,26 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desconocidos",
-        "url": "https://open.spotify.com/album/24milmfp1Ttd2ZYjRjezWC"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
-        }
-      ],
-      "duration_ms": 195913,
-      "name": "Desconocidos",
-      "url": "https://open.spotify.com/track/2dyP9LDKtL2QpU7No6Zxri"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DUALIDAD",
         "url": "https://open.spotify.com/album/1vR1AMrmkMaD9oDzflWAGl"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 201499,
       "name": "DUALIDAD - feat. Esteman",
       "url": "https://open.spotify.com/track/7xo6WF4Q2eY3qZ542FfsKg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desconocidos",
+        "url": "https://open.spotify.com/album/24milmfp1Ttd2ZYjRjezWC"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+        }
+      ],
+      "duration_ms": 195913,
+      "name": "Desconocidos",
+      "url": "https://open.spotify.com/track/2dyP9LDKtL2QpU7No6Zxri"
     }
   ],
   "unique_name": "This Is Esteman",

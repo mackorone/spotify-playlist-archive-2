@@ -4,7 +4,7 @@
 
 > This is No Doubt\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 35 min
+57 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Brand New Day](https://open.spotify.com/track/1OQWd0nl8k5x1HCbrQuhoN) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [No Doubt](https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF) | 3:15 | 2026-08-26 | 2026-08-27 |
 | [By The Way](https://open.spotify.com/track/2kXyEd51KIhMtQzAFluO6K) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Beacon Street Collection](https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw) | 4:29 | 2025-03-08 |  |
 | [Comforting Lie](https://open.spotify.com/track/0SVTJJ26EizXA0libXjsj6) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Return Of Saturn](https://open.spotify.com/album/6O35YawqZFdtOhL9smKmh7) | 2:52 | 2025-03-08 | 2025-09-16 |
+| [Detective](https://open.spotify.com/track/4hxV0Ev50HGgzYGzfddYKS) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Rock Steady \(Expanded Edition\)](https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu) | 2:53 | 2026-08-31 |  |
 | [Different People](https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:35 | 2025-03-08 |  |
 | [Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:23 | 2025-03-08 |  |
 | [Doormat](https://open.spotify.com/track/5R7HS6JmnK8WWjxHaAU4Q8) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [No Doubt](https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF) | 2:25 | 2025-03-08 |  |
@@ -33,7 +34,7 @@
 | [It's My Life](https://open.spotify.com/track/44u52jALuPgpczTbZuRWHM) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Set List](https://open.spotify.com/album/7Gt5hv82rfRokHQP9a4vAu) | 3:45 | 2025-03-08 | 2025-09-03 |
 | [It's My Life](https://open.spotify.com/track/1OutzYv6YiN93lrT3pJsWR) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [It's My Life](https://open.spotify.com/album/4A0hYL3V0zWauEWkyfvqdF) | 3:46 | 2025-09-03 |  |
 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 | 2025-03-08 |  |
-| [Just A Girl \- Radio 1 Live Acoustic Version \[Bonus Track\]](https://open.spotify.com/track/3YMIOpiRrQwLpHfeERdgem) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Rock Steady \(Expanded Edition\)](https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu) | 3:34 | 2025-03-08 |  |
+| [Just A Girl \- Radio 1 Live Acoustic Version \[Bonus Track\]](https://open.spotify.com/track/3YMIOpiRrQwLpHfeERdgem) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Rock Steady \(Expanded Edition\)](https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu) | 3:34 | 2025-03-08 | 2026-08-31 |
 | [Leftovers](https://open.spotify.com/track/43N0WNTGfOruD0377oEeMo) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 4:29 | 2025-03-08 |  |
 | [Let's Get Back](https://open.spotify.com/track/7fF9yjIMasFI99ZbCA6r3x) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [No Doubt](https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF) | 4:11 | 2025-03-08 |  |
 | [Looking Hot](https://open.spotify.com/track/0DRvLkBUlGjEQUQKr1uP4M) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Push And Shove](https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K) | 4:42 | 2025-03-08 |  |

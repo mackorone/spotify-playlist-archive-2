@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 443592,
+  "num_followers": 443904,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2026-08-28 11:58:03",
       "album": {
-        "name": "Looking Up",
-        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 296226,
-      "name": "Girl In The Red Dress",
-      "url": "https://open.spotify.com/track/7IGXCoBk68O6Yrt65WFPIL"
-    },
-    {
-      "added_at": "2026-08-28 11:58:03",
-      "album": {
         "name": "Forever, For Always, For Luther",
         "url": "https://open.spotify.com/album/2yRAGKnGPPdigTqe3qsYeN"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 316026,
       "name": "If Only For One Night",
       "url": "https://open.spotify.com/track/6O4i4aMjDM7JVexa5hA3sk"
+    },
+    {
+      "added_at": "2026-08-28 11:58:03",
+      "album": {
+        "name": "Looking Up",
+        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 296226,
+      "name": "Girl In The Red Dress",
+      "url": "https://open.spotify.com/track/7IGXCoBk68O6Yrt65WFPIL"
     },
     {
       "added_at": "2026-08-28 11:58:03",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-08-28 11:58:03",
       "album": {
-        "name": "My Inspiration",
-        "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
-      },
-      "artists": [
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        }
-      ],
-      "duration_ms": 266960,
-      "name": "Old School",
-      "url": "https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi"
-    },
-    {
-      "added_at": "2026-08-28 11:58:03",
-      "album": {
         "name": "Euge Groove",
         "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 269573,
       "name": "Vinyl",
       "url": "https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3"
+    },
+    {
+      "added_at": "2026-08-28 11:58:03",
+      "album": {
+        "name": "My Inspiration",
+        "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
+      },
+      "artists": [
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        }
+      ],
+      "duration_ms": 266960,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi"
     },
     {
       "added_at": "2026-08-28 11:58:03",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-08-28 11:58:03",
       "album": {
-        "name": "Do not disturb",
-        "url": "https://open.spotify.com/album/4RG39enCANdnjbagkDndcp"
-      },
-      "artists": [
-        {
-          "name": "Matty Mel Jr",
-          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "Do not disturb",
-      "url": "https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE"
-    },
-    {
-      "added_at": "2026-08-28 11:58:03",
-      "album": {
         "name": "Playin' Favorites",
         "url": "https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 269800,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq"
+    },
+    {
+      "added_at": "2026-08-28 11:58:03",
+      "album": {
+        "name": "Do not disturb",
+        "url": "https://open.spotify.com/album/4RG39enCANdnjbagkDndcp"
+      },
+      "artists": [
+        {
+          "name": "Matty Mel Jr",
+          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "Do not disturb",
+      "url": "https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE"
     },
     {
       "added_at": "2026-08-28 11:58:03",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-08-28 11:58:03",
       "album": {
+        "name": "My One And Only One",
+        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
+      },
+      "artists": [
+        {
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+        }
+      ],
+      "duration_ms": 217843,
+      "name": "Una Mas",
+      "url": "https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT"
+    },
+    {
+      "added_at": "2026-08-28 11:58:03",
+      "album": {
         "name": "Another Door Opens",
         "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": "2026-08-28 11:58:03",
       "album": {
-        "name": "My One And Only One",
-        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
-      },
-      "artists": [
-        {
-          "name": "Jessy J",
-          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
-        }
-      ],
-      "duration_ms": 217843,
-      "name": "Una Mas",
-      "url": "https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT"
-    },
-    {
-      "added_at": "2026-08-28 11:58:03",
-      "album": {
         "name": "Grinnell Street",
         "url": "https://open.spotify.com/album/70qBNTYFomQkHYnBZvvYcX"
       },
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-08-28 11:58:03",
       "album": {
-        "name": "Keepin' It Cool",
-        "url": "https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 249226,
-      "name": "Always Thinkin' Of You",
-      "url": "https://open.spotify.com/track/4KmFtbORBU1svsFSKeA3iT"
-    },
-    {
-      "added_at": "2026-08-28 11:58:03",
-      "album": {
         "name": "Jumpin' Off",
         "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 325800,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO"
+    },
+    {
+      "added_at": "2026-08-28 11:58:03",
+      "album": {
+        "name": "Keepin' It Cool",
+        "url": "https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 249226,
+      "name": "Always Thinkin' Of You",
+      "url": "https://open.spotify.com/track/4KmFtbORBU1svsFSKeA3iT"
     },
     {
       "added_at": "2026-08-28 11:58:03",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-08-28 11:58:03",
       "album": {
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/4lzJh3SkKDEPIwkYZmfsdO"
+      },
+      "artists": [
+        {
+          "name": "Andy Snitzer",
+          "url": "https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7"
+        }
+      ],
+      "duration_ms": 311322,
+      "name": "Marseille",
+      "url": "https://open.spotify.com/track/02zUl7lBXXNJk7JGu9YIId"
+    },
+    {
+      "added_at": "2026-08-28 11:58:03",
+      "album": {
         "name": "Pearls",
         "url": "https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 224840,
       "name": "Pacific Breeze",
       "url": "https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN"
-    },
-    {
-      "added_at": "2026-08-28 11:58:03",
-      "album": {
-        "name": "Traveler",
-        "url": "https://open.spotify.com/album/4lzJh3SkKDEPIwkYZmfsdO"
-      },
-      "artists": [
-        {
-          "name": "Andy Snitzer",
-          "url": "https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7"
-        }
-      ],
-      "duration_ms": 311322,
-      "name": "Marseille",
-      "url": "https://open.spotify.com/track/02zUl7lBXXNJk7JGu9YIId"
     },
     {
       "added_at": "2026-08-28 11:58:03",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-08-28 11:58:03",
       "album": {
-        "name": "The Catwalk",
-        "url": "https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC"
-      },
-      "artists": [
-        {
-          "name": "Peter Olyni Jr.",
-          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
-        }
-      ],
-      "duration_ms": 207812,
-      "name": "The Catwalk",
-      "url": "https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR"
-    },
-    {
-      "added_at": "2026-08-28 11:58:03",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/54RpcdBLgMwKUGp3gctg8A"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2026-08-28 11:58:03",
       "album": {
-        "name": "Southend Sunset",
-        "url": "https://open.spotify.com/album/3kXRiCDIHhTcyi4f28qrap"
+        "name": "The Catwalk",
+        "url": "https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC"
       },
       "artists": [
         {
-          "name": "Afterglow Society",
-          "url": "https://open.spotify.com/artist/5NgMXPrQAug1kltFTG9c8g"
+          "name": "Peter Olyni Jr.",
+          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
         }
       ],
-      "duration_ms": 261838,
-      "name": "Southend Sunset",
-      "url": "https://open.spotify.com/track/25FsBrIzkGn3lRPQRKyWa1"
+      "duration_ms": 207812,
+      "name": "The Catwalk",
+      "url": "https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR"
     },
     {
       "added_at": "2026-08-28 11:58:03",
@@ -1207,6 +1191,22 @@
       "duration_ms": 143498,
       "name": "Cat and Mouse",
       "url": "https://open.spotify.com/track/1SHbIUQu4hIv15BIZW6IkK"
+    },
+    {
+      "added_at": "2026-08-28 11:58:03",
+      "album": {
+        "name": "Southend Sunset",
+        "url": "https://open.spotify.com/album/3kXRiCDIHhTcyi4f28qrap"
+      },
+      "artists": [
+        {
+          "name": "Afterglow Society",
+          "url": "https://open.spotify.com/artist/5NgMXPrQAug1kltFTG9c8g"
+        }
+      ],
+      "duration_ms": 261838,
+      "name": "Southend Sunset",
+      "url": "https://open.spotify.com/track/25FsBrIzkGn3lRPQRKyWa1"
     },
     {
       "added_at": "2026-08-28 11:58:03",

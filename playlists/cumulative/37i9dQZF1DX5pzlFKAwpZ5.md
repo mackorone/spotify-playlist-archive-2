@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-412 songs - 1 day 5 hr 33 min
+413 songs - 1 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Communication](https://open.spotify.com/track/5tyASemkiCXFPUMOxtnnEN) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [Air Dance](https://open.spotify.com/album/54ZE2Sh1Iru0oS9Z9TK819) | 4:09 | 2022-01-07 | 2026-02-08 |
 | [Constellation](https://open.spotify.com/track/2e5EegPzF24hgqv8gCTIXk) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Silent Rain \(Original Soundtrack\)](https://open.spotify.com/album/4STn2qItzwcUPQpl7IYf9B) | 4:08 | 2022-01-07 | 2023-04-22 |
 | [Constellation](https://open.spotify.com/track/5yEQvG85ZcngJiU8w97mgl) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Constellation](https://open.spotify.com/album/0JpWn8pgEvjasxIXUbzqdX) | 4:18 | 2026-01-09 | 2026-02-07 |
+| [Conversation 6](https://open.spotify.com/track/6a0PNajw3bf566IBpXaiYK) | [Alva Noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Conversation 6](https://open.spotify.com/album/2VGRLfVTiIRIB3rukwnnAT) | 7:26 | 2026-08-30 |  |
 | [Cosmology](https://open.spotify.com/track/5PezNVuaf9gjU1BHqLaU5x) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Cosmology](https://open.spotify.com/album/6Gk5jF93sKQxUu955R1Ktb) | 4:12 | 2025-12-12 | 2026-07-19 |
 | [Cycle](https://open.spotify.com/track/23HQOR3hBeeLbXdmcPQA8m) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Commissions: 1977\-2000](https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq) | 3:52 | 2022-12-30 | 2025-03-07 |
 | [Daikai](https://open.spotify.com/track/2bHwzoWqNUR18TgPJM8877) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [Hyogo](https://open.spotify.com/album/3QKWWbpKINycE4QcCpgoDr) | 7:48 | 2022-01-07 | 2023-09-23 |
@@ -254,7 +255,7 @@
 | [PALE](https://open.spotify.com/track/4QSh8hKevYk4HAsy6Db0fD) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [PALE](https://open.spotify.com/album/1HVXQw4eQIMJAgrEhaIg9l) | 2:53 | 2026-05-30 | 2026-07-09 |
 | [Pathos](https://open.spotify.com/track/4Cz27Bi0z3yI3pXEFXlffY) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [RAN PARK](https://open.spotify.com/artist/2LcpnnKtegPLs0WJaQPdqK) | [Pathos](https://open.spotify.com/album/5u3LYb5RaoB07WrAte6OI8) | 5:05 | 2025-06-27 | 2025-12-13 |
 | [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 | 2022-12-20 |  |
-| [Placement Of The Drops](https://open.spotify.com/track/6QzDNQr4ao4OOBC1qES0CC) | [Tomoyoshi Date](https://open.spotify.com/artist/4eacRnyNxlt0crHyunpgjR) | [Tribute to Ryuichi Sakamoto "Micro Ambient Music" Vol\. 5](https://open.spotify.com/album/7wuCniFaJn59eglfVdqdZo) | 6:02 | 2025-02-11 | 2026-08-19 |
+| [Placement Of The Drops](https://open.spotify.com/track/6QzDNQr4ao4OOBC1qES0CC) | [Tomoyoshi Date](https://open.spotify.com/artist/4eacRnyNxlt0crHyunpgjR) | [Tribute to Ryuichi Sakamoto "Micro Ambient Music" Vol\. 5](https://open.spotify.com/album/7wuCniFaJn59eglfVdqdZo) | 6:02 | 2025-02-11 |  |
 | [Planet](https://open.spotify.com/track/33gZGbCutucohDi5fkTUsq) | [Oowets](https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo) | [Planet](https://open.spotify.com/album/1xoFs7J2CsodEOhBEUM3tE) | 3:25 | 2025-01-13 |  |
 | [Planet of Sorrow](https://open.spotify.com/track/1m7bxENmXHhLj5eTWfrzEP) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Colors](https://open.spotify.com/album/07brEdWd5EwlQfbQVV31Ye) | 3:15 | 2023-07-21 | 2024-07-27 |
 | [Plants Feast](https://open.spotify.com/track/5o9roDxnHFxzGgA0zLfSF4) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Plants Feast](https://open.spotify.com/album/3HAH0Vl5Fbu0eoM5wgUH2W) | 3:26 | 2023-04-28 | 2025-05-03 |
@@ -337,7 +338,7 @@
 | [The buzz of the forest](https://open.spotify.com/track/7INHRFTJ8ZrXjomdjYjadN) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [Relieving anxiety and healing a good night's sleep recommended by mental trainers \- Music that connects with nature \-](https://open.spotify.com/album/0UcMdGC8UJwzGcHXfX8PG5) | 5:12 | 2022-07-22 | 2024-04-19 |
 | [The buzz of the forest \- Remaster](https://open.spotify.com/track/42a6hlKyKTHf9bqtP9C3kg) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [Healing music for Deep sleep](https://open.spotify.com/album/2GRhflYTCsUmzrCvvReaXU) | 5:07 | 2022-10-15 | 2022-11-13 |
 | [The Goldfish](https://open.spotify.com/track/4ctQ2nQO1IqWsTE0tpXzWX) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [The Goldfish](https://open.spotify.com/album/1lVOLpPJ69jxkeKcnQKaT7) | 4:45 | 2022-11-11 | 2023-08-19 |
-| [The Horizon \- Sphontik Mix](https://open.spotify.com/track/3fqNfyRgCE2O16iDIqmSIQ) | [Sinner DC](https://open.spotify.com/artist/5p2pns1DJ2vLnXidUv7y1E), [sphontik](https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq) | [Ambient Mixes](https://open.spotify.com/album/2QWN34iKAqrq7QSUTESSgN) | 4:35 | 2022-01-07 |  |
+| [The Horizon \- Sphontik Mix](https://open.spotify.com/track/3fqNfyRgCE2O16iDIqmSIQ) | [Sinner DC](https://open.spotify.com/artist/5p2pns1DJ2vLnXidUv7y1E), [sphontik](https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq) | [Ambient Mixes](https://open.spotify.com/album/2QWN34iKAqrq7QSUTESSgN) | 4:35 | 2022-01-07 | 2026-08-31 |
 | [The Light of the Moon](https://open.spotify.com/track/2mSK2CRkuK2S00KS4cPrFq) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [Blue Corridor](https://open.spotify.com/album/5yi8EGpyAovKwdgEyET2XS) | 3:34 | 2022-01-07 |  |
 | [The Spider's Thread](https://open.spotify.com/track/45okZJHya7HLzEi0zvRaDI) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [A Halo of Light One Day](https://open.spotify.com/album/2erifYmBD16kWNRjYipk1x) | 5:29 | 2022-07-22 | 2024-04-19 |
 | [The Taste Blends in](https://open.spotify.com/track/08JSkuAqcWuqX2QHgCxcnG) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Life Album](https://open.spotify.com/album/7bykpXTTFEZze1sWZ0ikpu) | 3:15 | 2022-01-07 |  |
@@ -364,7 +365,7 @@
 | [TWO](https://open.spotify.com/track/7F3wbkGUqZNyomfnW6HO8B) | [Shinobu Nemoto](https://open.spotify.com/artist/6R94NSkCQlPD2rZClcxPAk) | [銀嵐 \(Silver Storm\)](https://open.spotify.com/album/3yoj55qNn59F9LBIIsEGO1) | 5:05 | 2022-01-07 | 2025-11-23 |
 | [ubi](https://open.spotify.com/track/25Sv3SN7Xz3r5rz5xzOMPm) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 4:03 | 2022-07-22 | 2022-10-01 |
 | [ubi](https://open.spotify.com/track/5SpqLL6fVoeRKSPrBqIz1k) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/55BwNuGPkSSKOCBkTSCQWA) | 4:03 | 2022-01-07 | 2022-07-29 |
-| [Ukiyo](https://open.spotify.com/track/5ZhA4ure0YRCc1uNTIjoIT) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [The Voice of the Earth](https://open.spotify.com/album/3HiXByOFbvvwhgCGO6KwWe) | 4:59 | 2023-02-17 |  |
+| [Ukiyo](https://open.spotify.com/track/5ZhA4ure0YRCc1uNTIjoIT) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [The Voice of the Earth](https://open.spotify.com/album/3HiXByOFbvvwhgCGO6KwWe) | 4:59 | 2023-02-17 | 2026-08-31 |
 | [Under the soil](https://open.spotify.com/track/3jFDYpZ8bW1ddacgyIPL17) | [Ami Kusakari](https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn) | [Garden Studies](https://open.spotify.com/album/6jvRlQV7AC4qvHPZSMElId) | 4:04 | 2025-05-02 |  |
 | [under the white moon of december](https://open.spotify.com/track/1nJb0Xmwteqqxi3TlC4tT0) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [under the white moon of december](https://open.spotify.com/album/3GnilBZFDYYRMNZi1JrOE5) | 3:10 | 2023-01-06 | 2025-09-20 |
 | [Under Water](https://open.spotify.com/track/1eRK03Al2xKms7tEV7baym) | [Otomizu](https://open.spotify.com/artist/0dMku1KNzCNGOIgZCsZhYT) | [Mist](https://open.spotify.com/album/1gy2sqf4gWrnoNGNQsrff6) | 3:36 | 2022-01-07 |  |

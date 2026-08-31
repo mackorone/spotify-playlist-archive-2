@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2025 that we can't get enough of\. Cover: she's green
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,153 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,161 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 49 | [Looking For Nothing](https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [Looking For Nothing](https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu) | 3:58 |
 | 50 | [If I go](https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu) | [Beryl](https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n) | [Body Break](https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi) | 3:35 |
 | 51 | [Two Step](https://open.spotify.com/track/5GfjnLf8aMzfr7VuFiIB0H) | [Derby](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Slugger](https://open.spotify.com/album/1QZJzByKliJB2xyhgrYk4j) | 2:52 |
-| 52 | [Sibeeria](https://open.spotify.com/track/7f7hbdmYKry7GJHLLw0my9) | [doggone](https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt) | [Sibeeria](https://open.spotify.com/album/16oynJh4jhy9XX1G2963zT) | 2:51 |
-| 53 | [GUSTO](https://open.spotify.com/track/3DzgoqqPwtCxvyqKCj9hq7) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [GUSTO](https://open.spotify.com/album/6nBSHPBq1iqXBjeQ4hVCPO) | 2:21 |
+| 52 | [GUSTO](https://open.spotify.com/track/3DzgoqqPwtCxvyqKCj9hq7) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [GUSTO](https://open.spotify.com/album/6nBSHPBq1iqXBjeQ4hVCPO) | 2:21 |
+| 53 | [Sibeeria](https://open.spotify.com/track/7f7hbdmYKry7GJHLLw0my9) | [doggone](https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt) | [Sibeeria](https://open.spotify.com/album/16oynJh4jhy9XX1G2963zT) | 2:51 |
 | 54 | [See You Around](https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [See You Around](https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf) | 4:02 |
-| 55 | [Hotel](https://open.spotify.com/track/6GidQ1dZ3fn05tTDHu47In) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Alē](https://open.spotify.com/album/7LnzOfYsMn2euc6xuZoQup) | 2:27 |
-| 56 | [Don't Fall Asleep](https://open.spotify.com/track/4zuLm87ZlSm7QUGjzCy49j) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi) | 4:29 |
+| 55 | [Don't Fall Asleep](https://open.spotify.com/track/4zuLm87ZlSm7QUGjzCy49j) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi) | 4:29 |
+| 56 | [Hotel](https://open.spotify.com/track/6GidQ1dZ3fn05tTDHu47In) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Alē](https://open.spotify.com/album/7LnzOfYsMn2euc6xuZoQup) | 2:27 |
 | 57 | [Keep Falling in Love](https://open.spotify.com/track/2s0skXthOtkbPfyiwBf7a0) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Keep Falling in Love](https://open.spotify.com/album/09HQ9DzGBCXX7KMo7GADZA) | 3:11 |
 | 58 | [9\-2\-5](https://open.spotify.com/track/5v80CZosPY0BPUtk3wzDY3) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [GUSTO](https://open.spotify.com/album/6nBSHPBq1iqXBjeQ4hVCPO) | 3:12 |
 | 59 | [My Love](https://open.spotify.com/track/7lsaIknmHdm6MGA8AhJZcR) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Describe](https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI) | 2:44 |
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 78 | [Forever](https://open.spotify.com/track/7aJCqveV9M4UlyBpv2mB2Q) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Forever](https://open.spotify.com/album/1TjO1lphyF0J5GXzoszYe6) | 3:41 |
 | 79 | [Pharmacy](https://open.spotify.com/track/5dAM0dvquAo2Oha9i1J8jb) | [Deer park](https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy), [Ivy Knight](https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z) | [Terra Infirma](https://open.spotify.com/album/25J99oRYyPzoghasxfHKGp) | 3:18 |
 | 80 | [POOR CHOICES](https://open.spotify.com/track/5hLmbpWtuvhkzCosigqOHa) | [skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp) | [POOR CHOICES](https://open.spotify.com/album/7i6ANs380kdGplpLHBuxBE) | 3:24 |
-| 81 | [So Sweet & Willing](https://open.spotify.com/track/2XIT9pYAiTCawCmspbwhrh) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Vanities](https://open.spotify.com/album/7ePZ3EZLrbIXyms6fc9hJd) | 3:21 |
+| 81 | [Pieces Of Yours](https://open.spotify.com/track/1LM1iNC8rMf1VrdttDLvp7) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Pieces Of Yours](https://open.spotify.com/album/1crHdU1F0JTU1pHMB5R5ve) | 1:50 |
 | 82 | [Baby You're Lying](https://open.spotify.com/track/3vCH4YzLnacmiOnWSEUkDK) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 3:22 |
-| 83 | [Pieces Of Yours](https://open.spotify.com/track/1LM1iNC8rMf1VrdttDLvp7) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Pieces Of Yours](https://open.spotify.com/album/1crHdU1F0JTU1pHMB5R5ve) | 1:50 |
+| 83 | [So Sweet & Willing](https://open.spotify.com/track/2XIT9pYAiTCawCmspbwhrh) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Vanities](https://open.spotify.com/album/7ePZ3EZLrbIXyms6fc9hJd) | 3:21 |
 | 84 | [barnyard](https://open.spotify.com/track/6hE02Os7Gn1uBYbQl4FVvi) | [lots of hands](https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9) | [into a pretty room](https://open.spotify.com/album/2t0Npgqlh3rGvMLQeOQirC) | 4:04 |
 | 85 | [Should've known better \(choices\)](https://open.spotify.com/track/2HDjCwD2V4cpAvIvpwcmMF) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Should've known better \(choices\)](https://open.spotify.com/album/5ySzzyQqNXi0Bdko3WPnpP) | 3:27 |
 | 86 | [Stone Femmes](https://open.spotify.com/track/7tQZcX1IDSgJcs9Dt92VzD) | [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Stone Femmes](https://open.spotify.com/album/2byXC960vYk4iRRxL9FSBc) | 2:59 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 88 | [Door](https://open.spotify.com/track/6SqYRVpl5gT4WZyuLBCsgV) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Door](https://open.spotify.com/album/7sHF2nzDA9vmRFSs0x9kMU) | 3:17 |
 | 89 | [Cat & Mouse](https://open.spotify.com/track/5BY2y6OduBlcXbgCGOwPF5) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Cat & Mouse](https://open.spotify.com/album/5zvOK1FZehYyeXNWOm68BO) | 3:22 |
 | 90 | [LEECHES](https://open.spotify.com/track/0z8xJVAhCfvnKYBYUEDxwx) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [LEECHES](https://open.spotify.com/album/64cspqz4nY2zwEMgab2utT) | 2:31 |
-| 91 | [FW2028](https://open.spotify.com/track/7MY5PRhC8FzhgAIpCTpgTH) | [Camille Keller](https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F) | [Lack of G\-LIP](https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4) | 2:24 |
-| 92 | [Everybody](https://open.spotify.com/track/4eq7tRIuWqgMBI2I3juWZc) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM), [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) | [Death of a Daisy & Birth of an Oyster](https://open.spotify.com/album/0E5xwRecVOuzErYMTxVBC3) | 6:34 |
+| 91 | [Everybody](https://open.spotify.com/track/4eq7tRIuWqgMBI2I3juWZc) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM), [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) | [Death of a Daisy & Birth of an Oyster](https://open.spotify.com/album/0E5xwRecVOuzErYMTxVBC3) | 6:34 |
+| 92 | [FW2028](https://open.spotify.com/track/7MY5PRhC8FzhgAIpCTpgTH) | [Camille Keller](https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F) | [Lack of G\-LIP](https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4) | 2:24 |
 | 93 | [Antarctica](https://open.spotify.com/track/0ueEbwie4WN3fPh2O0ZaPh) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Antarctica / Neon Lights](https://open.spotify.com/album/0GddO8DceNsETJgJxGsGKx) | 2:59 |
-| 94 | [Pale Song](https://open.spotify.com/track/5NbilllIdF8lp4FmdX7OF8) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 2:45 |
-| 95 | [The Feast](https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [The Feast](https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu) | 5:02 |
+| 94 | [The Feast](https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [The Feast](https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu) | 5:02 |
+| 95 | [Pale Song](https://open.spotify.com/track/5NbilllIdF8lp4FmdX7OF8) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 2:45 |
 | 96 | [junior](https://open.spotify.com/track/5DeQBAPTltJreKfwiBJDyh) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [jones](https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs) | 4:28 |
-| 97 | [Infinite](https://open.spotify.com/track/2DiCZQljCbMyty6dYhIMuL) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Infinite](https://open.spotify.com/album/4WhwCj945Sb7bg2oomFbV7) | 3:16 |
-| 98 | [SOS](https://open.spotify.com/track/3AvsGmpcsRVftfQSmbOPhF) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [POST HEAVEN](https://open.spotify.com/album/10Q8vu699wdZoMggfkCxDV) | 4:24 |
+| 97 | [SOS](https://open.spotify.com/track/3AvsGmpcsRVftfQSmbOPhF) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [POST HEAVEN](https://open.spotify.com/album/10Q8vu699wdZoMggfkCxDV) | 4:24 |
+| 98 | [Infinite](https://open.spotify.com/track/2DiCZQljCbMyty6dYhIMuL) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Infinite](https://open.spotify.com/album/4WhwCj945Sb7bg2oomFbV7) | 3:16 |
 | 99 | [Jetplane](https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Jetplane](https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc) | 2:36 |
-| 100 | [Icarus](https://open.spotify.com/track/1bSfVVhaBtPkDUGCvbijZB) | [O & The Mo](https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX) | [Make Way For The Sun](https://open.spotify.com/album/7CAfzXeR5jTdPAx5UCP8Di) | 3:34 |
+| 100 | [Dogshow](https://open.spotify.com/track/7lC4Wl7usQ2t9ZyJo8xXYJ) | [Mouseatouille](https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa) | [DJ Set](https://open.spotify.com/album/29Xl0gLS3K9IMhJMLl3O1u) | 3:06 |
 
 Snapshot ID: `AAAAAFYggn3Wj0WgWtY/e93ZIsC0qwBK`

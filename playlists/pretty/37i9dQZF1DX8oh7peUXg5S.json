@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 352536,
+  "num_followers": 352562,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
+        "name": "Cosas Mias",
+        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Flores",
+          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Siete Vidas",
+      "url": "https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
         "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
         "url": "https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 390861,
       "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
       "url": "https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
-        "name": "Cosas Mias",
-        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Flores",
-          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Siete Vidas",
-      "url": "https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ"
     },
     {
       "added_at": "2026-08-06 22:01:18",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
-        "name": "City Zen",
-        "url": "https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "Desde Que Te Perd\u00ed",
-      "url": "https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
         "name": "M\u00e9ritos Y Merecimientos",
         "url": "https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 220310,
       "name": "M\u00e9ritos Y Merecimientos",
       "url": "https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
+        "name": "City Zen",
+        "url": "https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 228413,
+      "name": "Desde Que Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ"
     },
     {
       "added_at": "2026-08-06 22:01:18",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
+        "name": "De Lo Perdido Y Otras Coplas",
+        "url": "https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cano",
+          "url": "https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB"
+        }
+      ],
+      "duration_ms": 232080,
+      "name": "Mar\u00eda la portuguesa",
+      "url": "https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
         "name": "Cuando el R\u00edo Suena...",
         "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 234743,
       "name": "Antes De Verte (with Kevin Johansen)",
       "url": "https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
-        "name": "De Lo Perdido Y Otras Coplas",
-        "url": "https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cano",
-          "url": "https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB"
-        }
-      ],
-      "duration_ms": 232080,
-      "name": "Mar\u00eda la portuguesa",
-      "url": "https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT"
     },
     {
       "added_at": "2026-08-06 22:01:18",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
+        "name": "De Lo Perdido Y Otras Coplas",
+        "url": "https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cano",
+          "url": "https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB"
+        }
+      ],
+      "duration_ms": 346920,
+      "name": "Habaneras de C\u00e1diz",
+      "url": "https://open.spotify.com/track/6Mhw12JZfaRullIwuiDrnW"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
         "name": "Contigo En La Distancia",
         "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 172000,
       "name": "Pasaba por Aqui",
       "url": "https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
-        "name": "De Lo Perdido Y Otras Coplas",
-        "url": "https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cano",
-          "url": "https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB"
-        }
-      ],
-      "duration_ms": 346920,
-      "name": "Habaneras de C\u00e1diz",
-      "url": "https://open.spotify.com/track/6Mhw12JZfaRullIwuiDrnW"
     },
     {
       "added_at": "2026-08-06 22:01:18",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "La Belleza",
-      "url": "https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
         "name": "Rueda eterna",
         "url": "https://open.spotify.com/album/6C5lucQEhdJzPKOL25Q57y"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 179480,
       "name": "Rueda eterna",
       "url": "https://open.spotify.com/track/63tZPvFVEFLZUYngE4km29"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "La Belleza",
+      "url": "https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw"
     },
     {
       "added_at": "2026-08-06 22:01:18",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-08-06 22:01:18",
       "album": {
-        "name": "Lo Mejor de Jarcha",
-        "url": "https://open.spotify.com/album/4A2kC4Hx8VBzJHNoevK9PY"
-      },
-      "artists": [
-        {
-          "name": "Jarcha",
-          "url": "https://open.spotify.com/artist/0pn5zYhJgLYiNzprprYfjm"
-        }
-      ],
-      "duration_ms": 223840,
-      "name": "Libertad Sin Ira",
-      "url": "https://open.spotify.com/track/5WpP4Mbh0C5agPEhXfWNlH"
-    },
-    {
-      "added_at": "2026-08-06 22:01:18",
-      "album": {
         "name": "inCubando",
         "url": "https://open.spotify.com/album/0hvlE8yHGjFGYwaajznxV9"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 228213,
       "name": "25 a\u00f1os",
       "url": "https://open.spotify.com/track/1Aeo7d2xk4BoL7gZT6F7ew"
+    },
+    {
+      "added_at": "2026-08-06 22:01:18",
+      "album": {
+        "name": "Lo Mejor de Jarcha",
+        "url": "https://open.spotify.com/album/4A2kC4Hx8VBzJHNoevK9PY"
+      },
+      "artists": [
+        {
+          "name": "Jarcha",
+          "url": "https://open.spotify.com/artist/0pn5zYhJgLYiNzprprYfjm"
+        }
+      ],
+      "duration_ms": 223840,
+      "name": "Libertad Sin Ira",
+      "url": "https://open.spotify.com/track/5WpP4Mbh0C5agPEhXfWNlH"
     },
     {
       "added_at": "2026-08-06 22:01:18",

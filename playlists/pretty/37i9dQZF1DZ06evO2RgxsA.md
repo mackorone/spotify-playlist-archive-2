@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,923 likes - 50 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,924 likes - 50 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,15 +12,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 2 | [Linoleum](https://open.spotify.com/track/4uB28m7RAflobYpnLMb6A2) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:10 |
 | 3 | [The Separation of Church and Skate](https://open.spotify.com/track/4J4mHxR63tRwRCtuAB7aG8) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The War on Errorism](https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ) | 3:09 |
 | 4 | [Seeing Double at the Triple Rock](https://open.spotify.com/track/5K5oUwfMJeRClJLQUSdKuD) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg) | 2:09 |
-| 5 | [Monosyllabic Girl](https://open.spotify.com/track/0yDDdizXdRx2qVceUPHYNF) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 0:54 |
-| 6 | [Bob](https://open.spotify.com/track/5XhMeCYrRhQjL4sUoOmUCE) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:02 |
+| 5 | [Bob](https://open.spotify.com/track/5XhMeCYrRhQjL4sUoOmUCE) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:02 |
+| 6 | [Don't Call Me White](https://open.spotify.com/track/0cntShbC3GmWXygfH98brk) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:33 |
 | 7 | [Idiots Are Taking Over](https://open.spotify.com/track/4EUAdFODgiLjf1QNDq122f) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The War on Errorism](https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ) | 3:21 |
-| 8 | [Don't Call Me White](https://open.spotify.com/track/0cntShbC3GmWXygfH98brk) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:33 |
-| 9 | [We Called It America](https://open.spotify.com/track/01ao83UjxvRIQazIxruwmH) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg) | 2:07 |
-| 10 | [Stickin In My Eye](https://open.spotify.com/track/46mov5j25a6BXrxNQKUwiA) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:24 |
+| 8 | [We Called It America](https://open.spotify.com/track/01ao83UjxvRIQazIxruwmH) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg) | 2:07 |
+| 9 | [Stickin In My Eye](https://open.spotify.com/track/46mov5j25a6BXrxNQKUwiA) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:24 |
+| 10 | [Leave It Alone](https://open.spotify.com/track/2EPi4anyxVjKTcJwPtntjM) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:04 |
 | 11 | [Franco Un\-American](https://open.spotify.com/track/1d6aWHZ6VTwZh9qQhsBmap) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The War on Errorism](https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ) | 2:25 |
-| 12 | [Leave It Alone](https://open.spotify.com/track/2EPi4anyxVjKTcJwPtntjM) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:04 |
-| 13 | [Cell Out](https://open.spotify.com/track/2tM0bbnz85cOOI66j83Dhb) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/48GR6HX0RKUTooPbdLoxhM) | 2:02 |
+| 12 | [Cell Out](https://open.spotify.com/track/2tM0bbnz85cOOI66j83Dhb) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/48GR6HX0RKUTooPbdLoxhM) | 2:02 |
+| 13 | [Monosyllabic Girl](https://open.spotify.com/track/0yDDdizXdRx2qVceUPHYNF) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 0:54 |
 | 14 | [I Don't Like Me Anymore](https://open.spotify.com/track/6Ss3Tf53cyFh08IPp3eJRg) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/6MsmOTvTocDVQqc68Gj7Pj) | 2:30 |
 | 15 | [Drugs Are Good](https://open.spotify.com/track/4UxguRE3pCAET6BianBp4F) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g) | 2:18 |
 | 16 | [Dinosaurs Will Die](https://open.spotify.com/track/4kRDPODRnN9Cbyrcg9qTkE) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 2:58 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 24 | [Leaving Jesusland](https://open.spotify.com/track/7KFKekUmBedCbqUYjrhHyr) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg) | 2:54 |
 | 25 | [Please Play This Song On The Radio](https://open.spotify.com/track/4zvfgpO3ZUsBXKg2Ikw6D9) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:16 |
 | 26 | [Murder The Government](https://open.spotify.com/track/206dccqnCtUSlHpDE2t216) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 0:45 |
-| 27 | [The Quass](https://open.spotify.com/track/56Cpy3VcGAzjxDqtdB3adO) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 1:18 |
-| 28 | [The Quitter](https://open.spotify.com/track/0MKO5Cacju1WQHnoXugPiC) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg) | 1:51 |
+| 27 | [The Quitter](https://open.spotify.com/track/0MKO5Cacju1WQHnoXugPiC) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg) | 1:51 |
+| 28 | [The Quass](https://open.spotify.com/track/56Cpy3VcGAzjxDqtdB3adO) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 1:18 |
 | 29 | [The Man I Killed](https://open.spotify.com/track/0gbOhXBSBgFdPZTWLwwrJg) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg) | 1:18 |
 | 30 | [Kids Of The K\-Hole](https://open.spotify.com/track/0VA74cZ3LW5Ne8NwxXjnQk) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 2:16 |
 | 31 | [Green Corn](https://open.spotify.com/track/7a8JLhUwa7IWKEKsyJjk9X) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Ribbed](https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ) | 1:44 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 38 | [60%](https://open.spotify.com/track/4niJIxd3BEuMXMEHRtorO9) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg) | 2:25 |
 | 39 | [Bottles To The Ground](https://open.spotify.com/track/3HAaAv2B4K8spZoYiTJjC3) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 2:20 |
 | 40 | [40 Years Of Fuckin' Up](https://open.spotify.com/track/3RHysDr2ioGYFKJUh5waWE) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [40 Years Of Fuckin' Up](https://open.spotify.com/album/40GqQCxBnK9IUqLgNNrAsC) | 3:35 |
-| 41 | [We Threw Gasoline.......](https://open.spotify.com/track/6wcqe8MLykOTbm2tY8KMTe) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g) | 2:44 |
-| 42 | [Oxy Moronic](https://open.spotify.com/track/0d6SLBSgTzYfRalWF0QLqx) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/6MsmOTvTocDVQqc68Gj7Pj) | 3:56 |
+| 41 | [Oxy Moronic](https://open.spotify.com/track/0d6SLBSgTzYfRalWF0QLqx) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/6MsmOTvTocDVQqc68Gj7Pj) | 3:56 |
+| 42 | [We Threw Gasoline.......](https://open.spotify.com/track/6wcqe8MLykOTbm2tY8KMTe) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g) | 2:44 |
 | 43 | [And Now For Something Completely Similar](https://open.spotify.com/track/4VL8aja5WvfzgHUaoMxJsB) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 0:58 |
 | 44 | [Soul Doubt](https://open.spotify.com/track/3TYC9jm4RXCPomDD4V3KRD) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:46 |
 | 45 | [First Call](https://open.spotify.com/track/35bdtaqZPi3GayLcpZ5498) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 49 | [Minnesota Nazis](https://open.spotify.com/track/29wgPMWqXQcezTMVBVV21X) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Minnesota Nazis](https://open.spotify.com/album/5zqJjEsvOX077dfZnfG2cy) | 3:39 |
 | 50 | [Everything in Moderation \(especially moderation\)](https://open.spotify.com/track/3gp244gB6i9iDx4HKYj77U) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [A to H](https://open.spotify.com/album/5pUkSUz92gUxkgVsI79PmP) | 1:25 |
 
-Snapshot ID: `apDPgAAAAADRroQu2mjagCSLWQWa/qRX`
+Snapshot ID: `apIhAAAAAABg8upvr7WxlPHs1OOEREVH`

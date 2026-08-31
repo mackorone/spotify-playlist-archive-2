@@ -1,12 +1,12 @@
 {
   "description": "This is Juliana. The essential tracks, all in one playlist.",
-  "num_followers": 6044,
+  "num_followers": 6047,
   "original_name": "This Is Juliana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAD5CV15U8/NoFauoATtMVhs",
+  "snapshot_id": "apIhAAAAAAD+li+t1wJNJV9Ae4XA9fef",
   "tracks": [
     {
       "added_at": null,
@@ -51,22 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La GuapA",
-        "url": "https://open.spotify.com/album/7FJXAjtGwzdCr5Ku5qHPWE"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 136124,
-      "name": "La GuapA",
-      "url": "https://open.spotify.com/track/360BMRTge92ufqa7fiVffL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DOS DOS DOS",
         "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
       },
@@ -83,6 +67,22 @@
       "duration_ms": 185972,
       "name": "Muchachitos Feat. Humbe",
       "url": "https://open.spotify.com/track/22D72L2NnJJkI5m1g3pXnj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La GuapA",
+        "url": "https://open.spotify.com/album/7FJXAjtGwzdCr5Ku5qHPWE"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 136124,
+      "name": "La GuapA",
+      "url": "https://open.spotify.com/track/360BMRTge92ufqa7fiVffL"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Juliana",
+        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 175286,
+      "name": "Presiento",
+      "url": "https://open.spotify.com/track/6xc4zqAPPvOr0zRaUo5tip"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Instrucciones Para Ser Feliz",
         "url": "https://open.spotify.com/album/3ZtTmeeKnDUWqlQRMmjUtV"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 149312,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/6AjUPlLbv6uZvlNccKMKhN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Juliana",
-        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 175286,
-      "name": "Presiento",
-      "url": "https://open.spotify.com/track/6xc4zqAPPvOr0zRaUo5tip"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Juliana",
+        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 166227,
+      "name": "Monta\u00f1a Rusa",
+      "url": "https://open.spotify.com/track/0OC5zKdIxjR3oYiWuL3Tq1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si Dios Perdona",
         "url": "https://open.spotify.com/album/70fClqkoidHfZivofJHZmc"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 180748,
       "name": "Si Dios Perdona",
       "url": "https://open.spotify.com/track/1RtvzGGRmDnATLCd3HrTFT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Juliana",
-        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 166227,
-      "name": "Monta\u00f1a Rusa",
-      "url": "https://open.spotify.com/track/0OC5zKdIxjR3oYiWuL3Tq1"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/34KSApIN48IpEUePEJYV97"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 217350,
-      "name": "Ens\u00e9\u00f1ame",
-      "url": "https://open.spotify.com/track/2MzA4qntR39kCOeiNnGzZ2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Juliana",
         "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/34KSApIN48IpEUePEJYV97"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 217350,
+      "name": "Ens\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/2MzA4qntR39kCOeiNnGzZ2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
         "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
       },
@@ -763,26 +763,6 @@
       "duration_ms": 177610,
       "name": "Que Locura Enamorarme de Ti - (Sesi\u00f3n en vivo)",
       "url": "https://open.spotify.com/track/42b9sbzyqVZsjfoxzvHVwZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Primera Vez: Temporada 4 (Soundtrack de la Serie de Netflix)",
-        "url": "https://open.spotify.com/album/6OA2tholrqUVvmdVFu6neM"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 218460,
-      "name": "La Primera Vez - Remix",
-      "url": "https://open.spotify.com/track/6OMi77EJouSqD8xBEu0jkV"
     },
     {
       "added_at": null,
@@ -823,6 +803,26 @@
       "duration_ms": 248741,
       "name": "Juro Feat. Los Rumberos (Cap. 3)",
       "url": "https://open.spotify.com/track/3VDRMczhOxenDb7GPYKy7i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Primera Vez: Temporada 4 (Soundtrack de la Serie de Netflix)",
+        "url": "https://open.spotify.com/album/6OA2tholrqUVvmdVFu6neM"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 218460,
+      "name": "La Primera Vez - Remix",
+      "url": "https://open.spotify.com/track/6OMi77EJouSqD8xBEu0jkV"
     },
     {
       "added_at": null,

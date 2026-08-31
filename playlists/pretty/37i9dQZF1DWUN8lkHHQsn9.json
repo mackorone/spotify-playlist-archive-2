@@ -1,6 +1,6 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:2utOsBf2Kzg9lYHKSMxClB\">duszno</a>",
-  "num_followers": 42402,
+  "num_followers": 42398,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2026-08-10 22:00:35",
       "album": {
+        "name": "D\u0141UGIE DNI",
+        "url": "https://open.spotify.com/album/35R529Z8lWdqa7FrHzJQWk"
+      },
+      "artists": [
+        {
+          "name": "27.Fuckdemons",
+          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
+        }
+      ],
+      "duration_ms": 168484,
+      "name": "D\u0141UGIE DNI",
+      "url": "https://open.spotify.com/track/5H080nlebE9JWI4Ps2HdTS"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
         "name": "Inny",
         "url": "https://open.spotify.com/album/4NnGDciJnY0amspOhznLX3"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 204878,
       "name": "Stoj\u0119 (na stacji paliw)",
       "url": "https://open.spotify.com/track/13Piq3mRqhDFClyldq9WiO"
-    },
-    {
-      "added_at": "2026-08-10 22:00:35",
-      "album": {
-        "name": "D\u0141UGIE DNI",
-        "url": "https://open.spotify.com/album/35R529Z8lWdqa7FrHzJQWk"
-      },
-      "artists": [
-        {
-          "name": "27.Fuckdemons",
-          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
-        }
-      ],
-      "duration_ms": 168484,
-      "name": "D\u0141UGIE DNI",
-      "url": "https://open.spotify.com/track/5H080nlebE9JWI4Ps2HdTS"
     },
     {
       "added_at": "2026-08-10 22:00:35",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Zapomniana Twarz",
-        "url": "https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3"
-      },
-      "artists": [
-        {
-          "name": "maja janowska",
-          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Zapomniana Twarz",
-      "url": "https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts"
-    },
-    {
-      "added_at": "2026-08-10 22:00:35",
-      "album": {
         "name": "MOJA EUFORIA EP",
         "url": "https://open.spotify.com/album/0ZXYNAqajYjAA72rD7zH0p"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 196859,
       "name": "\u017ca\u0142uj \u017ce nie mo\u017ce by\u0107 ci\u0119 dzi\u015b tu.",
       "url": "https://open.spotify.com/track/3rPP9H74E3MI6Qo49lNhwP"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Zapomniana Twarz",
+        "url": "https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3"
+      },
+      "artists": [
+        {
+          "name": "maja janowska",
+          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Zapomniana Twarz",
+      "url": "https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts"
     },
     {
       "added_at": "2026-08-10 22:00:35",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Zadzwo\u0144 do mnie",
-        "url": "https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE"
-      },
-      "artists": [
-        {
-          "name": "maja janowska",
-          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
-        }
-      ],
-      "duration_ms": 136595,
-      "name": "Zadzwo\u0144 do mnie",
-      "url": "https://open.spotify.com/track/2ZYsPci35E3QVrUJatVKZE"
-    },
-    {
-      "added_at": "2026-08-10 22:00:35",
-      "album": {
         "name": "Tent (145BPM)",
         "url": "https://open.spotify.com/album/0ZTYYldfr7bI6F2DgGghlc"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 141677,
       "name": "Tent - 145BPM",
       "url": "https://open.spotify.com/track/5os2WyV8sSqTSJiMOM3nGl"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Zadzwo\u0144 do mnie",
+        "url": "https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE"
+      },
+      "artists": [
+        {
+          "name": "maja janowska",
+          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
+        }
+      ],
+      "duration_ms": 136595,
+      "name": "Zadzwo\u0144 do mnie",
+      "url": "https://open.spotify.com/track/2ZYsPci35E3QVrUJatVKZE"
     },
     {
       "added_at": "2026-08-10 22:00:35",
@@ -435,18 +435,18 @@
     {
       "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Peccatum",
-        "url": "https://open.spotify.com/album/3sJ5DTKb39DwRXDqYu11EP"
+        "name": "Dance With The Devil",
+        "url": "https://open.spotify.com/album/0ujpagBaZaBKnAnptcdHed"
       },
       "artists": [
         {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+          "name": "Madox",
+          "url": "https://open.spotify.com/artist/6AypwNfEAiPfY2S4sYHeqN"
         }
       ],
-      "duration_ms": 159545,
-      "name": "Peccatum",
-      "url": "https://open.spotify.com/track/2qA1SscwLeJPC6qz4toLxq"
+      "duration_ms": 178167,
+      "name": "Dance With The Devil",
+      "url": "https://open.spotify.com/track/495SAEgFBafR5ecXnNGeoV"
     },
     {
       "added_at": "2026-08-10 22:00:35",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-08-10 22:00:35",
       "album": {
+        "name": "Peccatum",
+        "url": "https://open.spotify.com/album/3sJ5DTKb39DwRXDqYu11EP"
+      },
+      "artists": [
+        {
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        }
+      ],
+      "duration_ms": 159545,
+      "name": "Peccatum",
+      "url": "https://open.spotify.com/track/2qA1SscwLeJPC6qz4toLxq"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
         "name": "Ostatni Raz",
         "url": "https://open.spotify.com/album/1E6gAMILB2zNkRXAbiCykZ"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 177341,
       "name": "Ostatni Raz",
       "url": "https://open.spotify.com/track/4N8DLJ3VXaAARk9NHlCoAV"
-    },
-    {
-      "added_at": "2026-08-10 22:00:35",
-      "album": {
-        "name": "Dance With The Devil",
-        "url": "https://open.spotify.com/album/0ujpagBaZaBKnAnptcdHed"
-      },
-      "artists": [
-        {
-          "name": "Madox",
-          "url": "https://open.spotify.com/artist/6AypwNfEAiPfY2S4sYHeqN"
-        }
-      ],
-      "duration_ms": 178167,
-      "name": "Dance With The Devil",
-      "url": "https://open.spotify.com/track/495SAEgFBafR5ecXnNGeoV"
     },
     {
       "added_at": "2026-08-10 22:00:35",
@@ -723,18 +723,18 @@
     {
       "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Oprawieni Idole",
-        "url": "https://open.spotify.com/album/3tzpTWcA4jLEOqzUNSaZdN"
+        "name": "Destroy Me, Today",
+        "url": "https://open.spotify.com/album/3QUSazSeQvb4HsjkqIOtQ4"
       },
       "artists": [
         {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Oprawieni Idole",
-      "url": "https://open.spotify.com/track/0g05ozy4yvX3pMLSFMEctT"
+      "duration_ms": 184966,
+      "name": "Nie ton\u0119",
+      "url": "https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI"
     },
     {
       "added_at": "2026-08-10 22:00:35",
@@ -759,34 +759,18 @@
     {
       "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Destroy Me, Today",
-        "url": "https://open.spotify.com/album/3QUSazSeQvb4HsjkqIOtQ4"
+        "name": "Oprawieni Idole",
+        "url": "https://open.spotify.com/album/3tzpTWcA4jLEOqzUNSaZdN"
       },
       "artists": [
         {
-          "name": "Marcin Maciejczak",
-          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
         }
       ],
-      "duration_ms": 184966,
-      "name": "Nie ton\u0119",
-      "url": "https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI"
-    },
-    {
-      "added_at": "2026-08-10 22:00:35",
-      "album": {
-        "name": "404",
-        "url": "https://open.spotify.com/album/6MQmlUGFHfjQLhoPsjizvJ"
-      },
-      "artists": [
-        {
-          "name": "Metrosexual",
-          "url": "https://open.spotify.com/artist/1cMwAkW75xurkmm79aLqnb"
-        }
-      ],
-      "duration_ms": 178859,
-      "name": "404",
-      "url": "https://open.spotify.com/track/2a8EQPYgTe27hg4SYTao02"
+      "duration_ms": 239000,
+      "name": "Oprawieni Idole",
+      "url": "https://open.spotify.com/track/0g05ozy4yvX3pMLSFMEctT"
     },
     {
       "added_at": "2026-08-10 22:00:35",
@@ -823,6 +807,38 @@
     {
       "added_at": "2026-08-10 22:00:35",
       "album": {
+        "name": "8 piosenek o mi\u0142o\u015bci",
+        "url": "https://open.spotify.com/album/3ahEDNAQfFCsUZqjRYaXcG"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Mi\u0142o\u015bci",
+      "url": "https://open.spotify.com/track/3HlomvmvwMNdo1z7DCuG93"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "404",
+        "url": "https://open.spotify.com/album/6MQmlUGFHfjQLhoPsjizvJ"
+      },
+      "artists": [
+        {
+          "name": "Metrosexual",
+          "url": "https://open.spotify.com/artist/1cMwAkW75xurkmm79aLqnb"
+        }
+      ],
+      "duration_ms": 178859,
+      "name": "404",
+      "url": "https://open.spotify.com/track/2a8EQPYgTe27hg4SYTao02"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
         "name": "Mam co\u015b na bani",
         "url": "https://open.spotify.com/album/0eXXm03YXNFZ6qM0DqjXni"
       },
@@ -839,18 +855,18 @@
     {
       "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "8 piosenek o mi\u0142o\u015bci",
-        "url": "https://open.spotify.com/album/3ahEDNAQfFCsUZqjRYaXcG"
+        "name": "Vogule Poland",
+        "url": "https://open.spotify.com/album/2Usg5a4KfUfcghVFNgtb11"
       },
       "artists": [
         {
-          "name": "Marcin Maciejczak",
-          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+          "name": "Vogule Poland",
+          "url": "https://open.spotify.com/artist/7xQ2tZuY7ylZxfIkPNRz45"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Mi\u0142o\u015bci",
-      "url": "https://open.spotify.com/track/3HlomvmvwMNdo1z7DCuG93"
+      "duration_ms": 164640,
+      "name": "Vogule Poland",
+      "url": "https://open.spotify.com/track/4Bnl28oCgwo9ewBgQeA4Kv"
     },
     {
       "added_at": "2026-08-10 22:00:35",
@@ -875,22 +891,6 @@
       "duration_ms": 185025,
       "name": "nie zrozumiesz!",
       "url": "https://open.spotify.com/track/62w0zy7AVdRHvgOZJM0C1K"
-    },
-    {
-      "added_at": "2026-08-10 22:00:35",
-      "album": {
-        "name": "Vogule Poland",
-        "url": "https://open.spotify.com/album/2Usg5a4KfUfcghVFNgtb11"
-      },
-      "artists": [
-        {
-          "name": "Vogule Poland",
-          "url": "https://open.spotify.com/artist/7xQ2tZuY7ylZxfIkPNRz45"
-        }
-      ],
-      "duration_ms": 164640,
-      "name": "Vogule Poland",
-      "url": "https://open.spotify.com/track/4Bnl28oCgwo9ewBgQeA4Kv"
     },
     {
       "added_at": "2026-08-10 22:00:35",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-08-10 22:00:35",
       "album": {
+        "name": "maybe someday",
+        "url": "https://open.spotify.com/album/1k4kqCQl0RAM8gMxpRDC7S"
+      },
+      "artists": [
+        {
+          "name": "color blue",
+          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "maybe someday",
+      "url": "https://open.spotify.com/track/54J49JuwN6GkJAm6K18Vjz"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
         "name": "origami (zagn\u0119)",
         "url": "https://open.spotify.com/album/3YJdN0DEP0XbZPoVPhKOrk"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 190000,
       "name": "origami (zagn\u0119)",
       "url": "https://open.spotify.com/track/3vTEkL1YUUfnSn4iR3Gqe1"
-    },
-    {
-      "added_at": "2026-08-10 22:00:35",
-      "album": {
-        "name": "maybe someday",
-        "url": "https://open.spotify.com/album/1k4kqCQl0RAM8gMxpRDC7S"
-      },
-      "artists": [
-        {
-          "name": "color blue",
-          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "maybe someday",
-      "url": "https://open.spotify.com/track/54J49JuwN6GkJAm6K18Vjz"
     },
     {
       "added_at": "2026-08-10 22:00:35",
@@ -1015,22 +1015,18 @@
     {
       "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Taki jak Ty",
-        "url": "https://open.spotify.com/album/3WSYsSYOesG13EXy9TQHaJ"
+        "name": "Shyness!",
+        "url": "https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto"
       },
       "artists": [
         {
-          "name": "Norbert Wronka",
-          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
-        },
-        {
-          "name": "Miko Blascello",
-          "url": "https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU"
+          "name": "Shyness!",
+          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
         }
       ],
-      "duration_ms": 160340,
-      "name": "Taki jak Ty",
-      "url": "https://open.spotify.com/track/0Hpz0cBBkDtYdjOUER9TbA"
+      "duration_ms": 210581,
+      "name": "Stalker",
+      "url": "https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw"
     },
     {
       "added_at": "2026-08-10 22:00:35",
@@ -1051,18 +1047,22 @@
     {
       "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Shyness!",
-        "url": "https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto"
+        "name": "Taki jak Ty",
+        "url": "https://open.spotify.com/album/3WSYsSYOesG13EXy9TQHaJ"
       },
       "artists": [
         {
-          "name": "Shyness!",
-          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
+          "name": "Norbert Wronka",
+          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
+        },
+        {
+          "name": "Miko Blascello",
+          "url": "https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU"
         }
       ],
-      "duration_ms": 210581,
-      "name": "Stalker",
-      "url": "https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw"
+      "duration_ms": 160340,
+      "name": "Taki jak Ty",
+      "url": "https://open.spotify.com/track/0Hpz0cBBkDtYdjOUER9TbA"
     },
     {
       "added_at": "2026-08-10 22:00:35",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Stajla",
-        "url": "https://open.spotify.com/album/6ziHSwaa72BUbYNutwb7yb"
+        "name": "Drawing a line (Kayax Talent Hunt)",
+        "url": "https://open.spotify.com/album/3SqStLTIRhlus77GWfGCxd"
       },
       "artists": [
         {
-          "name": "Kuba Kamik",
-          "url": "https://open.spotify.com/artist/4D2PCg640w5R8SGfAlO2ZR"
+          "name": "Gabriela Salem",
+          "url": "https://open.spotify.com/artist/4TY67wi8GWj79RYcCsK6dn"
         }
       ],
-      "duration_ms": 153640,
-      "name": "Stajla",
-      "url": "https://open.spotify.com/track/6u95IX99Ja1hnkZof2LRvS"
+      "duration_ms": 219047,
+      "name": "Drawing a line (Kayax Talent Hunt)",
+      "url": "https://open.spotify.com/track/1U5foAHovYGQqOjiQSrdrQ"
     },
     {
       "added_at": "2026-08-10 22:00:35",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Drawing a line (Kayax Talent Hunt)",
-        "url": "https://open.spotify.com/album/3SqStLTIRhlus77GWfGCxd"
+        "name": "Stajla",
+        "url": "https://open.spotify.com/album/6ziHSwaa72BUbYNutwb7yb"
       },
       "artists": [
         {
-          "name": "Gabriela Salem",
-          "url": "https://open.spotify.com/artist/4TY67wi8GWj79RYcCsK6dn"
+          "name": "Kuba Kamik",
+          "url": "https://open.spotify.com/artist/4D2PCg640w5R8SGfAlO2ZR"
         }
       ],
-      "duration_ms": 219047,
-      "name": "Drawing a line (Kayax Talent Hunt)",
-      "url": "https://open.spotify.com/track/1U5foAHovYGQqOjiQSrdrQ"
+      "duration_ms": 153640,
+      "name": "Stajla",
+      "url": "https://open.spotify.com/track/6u95IX99Ja1hnkZof2LRvS"
     },
     {
       "added_at": "2026-08-10 22:00:35",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2026-08-10 22:00:35",
       "album": {
+        "name": "Occultica",
+        "url": "https://open.spotify.com/album/5OVBDlyWOI2PKFo4baSFbi"
+      },
+      "artists": [
+        {
+          "name": "Mona Lizak",
+          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
+        },
+        {
+          "name": "Aquarius",
+          "url": "https://open.spotify.com/artist/6wOOlnxULlk47Bw5qIyEgm"
+        }
+      ],
+      "duration_ms": 209596,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3HCSFXzgoXVNqeajP9YJmp"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
         "name": "I_N_T_E_R_V_A_L_S",
         "url": "https://open.spotify.com/album/1lWe1UoaNbUi3074ATSOOk"
       },
@@ -1367,26 +1387,6 @@
     {
       "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Occultica",
-        "url": "https://open.spotify.com/album/5OVBDlyWOI2PKFo4baSFbi"
-      },
-      "artists": [
-        {
-          "name": "Mona Lizak",
-          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
-        },
-        {
-          "name": "Aquarius",
-          "url": "https://open.spotify.com/artist/6wOOlnxULlk47Bw5qIyEgm"
-        }
-      ],
-      "duration_ms": 209596,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/3HCSFXzgoXVNqeajP9YJmp"
-    },
-    {
-      "added_at": "2026-08-10 22:00:35",
-      "album": {
         "name": "Krasnoludki",
         "url": "https://open.spotify.com/album/2vzB4Y4Dopi4gHAbKxSfE3"
       },
@@ -1407,26 +1407,6 @@
       "duration_ms": 147391,
       "name": "Krasnoludki",
       "url": "https://open.spotify.com/track/2zkrbub73Y4oGFwrgrBg6r"
-    },
-    {
-      "added_at": "2026-08-10 22:00:35",
-      "album": {
-        "name": "DRAG!",
-        "url": "https://open.spotify.com/album/51LcBrPFFnEZ3nzZutsko8"
-      },
-      "artists": [
-        {
-          "name": "Rejsel",
-          "url": "https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd"
-        },
-        {
-          "name": "Lagoona Aqua Pussy",
-          "url": "https://open.spotify.com/artist/6Ojsq92nEtbRSNEgoHxaHe"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "DRAG!",
-      "url": "https://open.spotify.com/track/3Vy4FBh39ntgHOlpEEmPNE"
     },
     {
       "added_at": "2026-08-10 22:00:35",
@@ -1479,22 +1459,6 @@
     {
       "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Doskonale",
-        "url": "https://open.spotify.com/album/3IqbO4JQwOXpRvht7A1PB7"
-      },
-      "artists": [
-        {
-          "name": "DIMoN",
-          "url": "https://open.spotify.com/artist/6dxSlnodoLHLVoeiQ602RM"
-        }
-      ],
-      "duration_ms": 182493,
-      "name": "Drap mnie",
-      "url": "https://open.spotify.com/track/6dkbUSu6hHnWeKtSpHEmAb"
-    },
-    {
-      "added_at": "2026-08-10 22:00:35",
-      "album": {
         "name": "Pies na dw\u00f3ch \u0142apach",
         "url": "https://open.spotify.com/album/7oLtFXZnMptCi3JAwOBUxs"
       },
@@ -1507,6 +1471,22 @@
       "duration_ms": 219347,
       "name": "Pies na dw\u00f3ch \u0142apach",
       "url": "https://open.spotify.com/track/0Er1O1nOdQKUimUELrZ4Ec"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Doskonale",
+        "url": "https://open.spotify.com/album/3IqbO4JQwOXpRvht7A1PB7"
+      },
+      "artists": [
+        {
+          "name": "DIMoN",
+          "url": "https://open.spotify.com/artist/6dxSlnodoLHLVoeiQ602RM"
+        }
+      ],
+      "duration_ms": 182493,
+      "name": "Drap mnie",
+      "url": "https://open.spotify.com/track/6dkbUSu6hHnWeKtSpHEmAb"
     },
     {
       "added_at": "2026-08-10 22:00:35",
@@ -1531,22 +1511,6 @@
     {
       "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Kochany pami\u0119tniku",
-        "url": "https://open.spotify.com/album/6XPu2NgsidR1zDdhi3VHOL"
-      },
-      "artists": [
-        {
-          "name": "Pan Mariuszek",
-          "url": "https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9"
-        }
-      ],
-      "duration_ms": 189833,
-      "name": "Kochany pami\u0119tniku",
-      "url": "https://open.spotify.com/track/0GQkW5gGaROjNDtnH0T6jj"
-    },
-    {
-      "added_at": "2026-08-10 22:00:35",
-      "album": {
         "name": "Nie chc\u0119 tu wraca\u0107 ju\u017c",
         "url": "https://open.spotify.com/album/2gUbKgJjAhfDkV5WGNHQCd"
       },
@@ -1563,6 +1527,42 @@
       "duration_ms": 250259,
       "name": "Nie chc\u0119 tu wraca\u0107 ju\u017c",
       "url": "https://open.spotify.com/track/4VXuZpGJlLgh9UCqQtBbGU"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Kochany pami\u0119tniku",
+        "url": "https://open.spotify.com/album/6XPu2NgsidR1zDdhi3VHOL"
+      },
+      "artists": [
+        {
+          "name": "Pan Mariuszek",
+          "url": "https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9"
+        }
+      ],
+      "duration_ms": 189833,
+      "name": "Kochany pami\u0119tniku",
+      "url": "https://open.spotify.com/track/0GQkW5gGaROjNDtnH0T6jj"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "DRAG!",
+        "url": "https://open.spotify.com/album/51LcBrPFFnEZ3nzZutsko8"
+      },
+      "artists": [
+        {
+          "name": "Rejsel",
+          "url": "https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd"
+        },
+        {
+          "name": "Lagoona Aqua Pussy",
+          "url": "https://open.spotify.com/artist/6Ojsq92nEtbRSNEgoHxaHe"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "DRAG!",
+      "url": "https://open.spotify.com/track/3Vy4FBh39ntgHOlpEEmPNE"
     },
     {
       "added_at": "2026-08-10 22:00:35",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Born Like That",
-        "url": "https://open.spotify.com/album/722UKDfrfO8MTByuk9I2oE"
-      },
-      "artists": [
-        {
-          "name": "Stysio",
-          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
-        }
-      ],
-      "duration_ms": 153226,
-      "name": "MVP",
-      "url": "https://open.spotify.com/track/48Ar2VGFtVUglcn8UFkVM3"
-    },
-    {
-      "added_at": "2026-08-10 22:00:35",
-      "album": {
         "name": "1986",
         "url": "https://open.spotify.com/album/4Y5MQvSJeCXB9fIrMs8Zs6"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 230080,
       "name": "Antropocen",
       "url": "https://open.spotify.com/track/3wEcEctIcwWduZCCxYXBF8"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Born Like That",
+        "url": "https://open.spotify.com/album/722UKDfrfO8MTByuk9I2oE"
+      },
+      "artists": [
+        {
+          "name": "Stysio",
+          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
+        }
+      ],
+      "duration_ms": 153226,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/48Ar2VGFtVUglcn8UFkVM3"
     },
     {
       "added_at": "2026-08-10 22:00:35",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "nie pow\u00f3d do p\u0142aczu",
-        "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
-      },
-      "artists": [
-        {
-          "name": "color blue",
-          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "bia\u0142y szum",
-      "url": "https://open.spotify.com/track/5G1CbgMRdTHi3rQTKMkGJS"
-    },
-    {
-      "added_at": "2026-08-10 22:00:35",
-      "album": {
         "name": "Sama s\u0142uchaj",
         "url": "https://open.spotify.com/album/1kjorjjIHO8t9UC8P8iT0V"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 173500,
       "name": "Sama s\u0142uchaj",
       "url": "https://open.spotify.com/track/5uiWeHUUj4KuG7uQZH9AAl"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "nie pow\u00f3d do p\u0142aczu",
+        "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
+      },
+      "artists": [
+        {
+          "name": "color blue",
+          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "bia\u0142y szum",
+      "url": "https://open.spotify.com/track/5G1CbgMRdTHi3rQTKMkGJS"
     },
     {
       "added_at": "2026-08-10 22:00:35",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 
 > Only music produced on a TR\-808 drum machine\. Cover: Egyptian Lover
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,056 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,114 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 21 | [Paul Revere](https://open.spotify.com/track/3gKwVWwKmeuFtPubICbOGc) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 3:40 |
 | 22 | [Push It](https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Port Of Miami](https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk) | 3:28 |
 | 23 | [4 Seasons Of Loneliness](https://open.spotify.com/track/1TyNecZDYU3BP3EitfpgnT) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Evolution](https://open.spotify.com/album/50NJ3kg2byqp460tCPpRF7) | 4:52 |
-| 24 | [Don't Stop the Rock](https://open.spotify.com/track/2ur9MmDyA33PsiEuSNwD3Q) | [Freestyle](https://open.spotify.com/artist/5tyf3H4sgUqM5DxTUXe6Sg) | [Don't Stop the Rock](https://open.spotify.com/album/2WEz6WBauLjiueAlIUyX1z) | 5:28 |
-| 25 | [Sweet Sixteen \- Remastered 2001](https://open.spotify.com/track/3kyW3qviTr2dIyvqa1lEWC) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Greatest Hits](https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA) | 4:14 |
+| 24 | [Sweet Sixteen \- Remastered 2001](https://open.spotify.com/track/3kyW3qviTr2dIyvqa1lEWC) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Greatest Hits](https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA) | 4:14 |
+| 25 | [Don't Stop the Rock](https://open.spotify.com/track/2ur9MmDyA33PsiEuSNwD3Q) | [Freestyle](https://open.spotify.com/artist/5tyf3H4sgUqM5DxTUXe6Sg) | [Don't Stop the Rock](https://open.spotify.com/album/2WEz6WBauLjiueAlIUyX1z) | 5:28 |
 | 26 | [Gosh](https://open.spotify.com/track/79Jl8KMvmnXedTjjW6pJan) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [MC Moose](https://open.spotify.com/artist/0xKEnflICsX9GtyjQdkv1O) | [In Colour](https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh) | 4:51 |
 | 27 | [The Crying Game](https://open.spotify.com/track/3txSqHwGING6J7waJXN8RJ) | [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45) | [At Worst...The Best Of Boy George And Culture Club](https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3) | 3:22 |
 | 28 | [Down In It](https://open.spotify.com/track/06UVb2bREPv8hvioVkaMvC) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Pretty Hate Machine](https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN) | 3:46 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 34 | [6 'N the Mornin'](https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Rhyme Pays](https://open.spotify.com/album/267xiIVnif2CUxhbRQk115) | 3:44 |
 | 35 | [I'm Not the One](https://open.spotify.com/track/6eRLUjHubf9tlO7ZCc04Da) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Shake It Up](https://open.spotify.com/album/4lDlCfyIhAXwP3hO2GVUaw) | 4:14 |
 | 36 | [Clear \- Jose “Animal” Diaz Remix](https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Clear](https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC) | 4:54 |
-| 37 | [I'm Gonna Miss You](https://open.spotify.com/track/1ffAMndLMFbKHpXuIDBwc1) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [Girl You Know It's True \- The Best Of Milli Vanilli](https://open.spotify.com/album/67QUZa2DQaBdeQvPQGfSkL) | 3:58 |
-| 38 | [Jack Your Body \- 1986 Club Mix](https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6) | [Steve "Silk" Hurley](https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP) | [Jack Your Body \(S&S Reloaded\)](https://open.spotify.com/album/3UAvNbsdCDrUKyhp8YGfJT) | 5:06 |
+| 37 | [Jack Your Body \- 1986 Club Mix](https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6) | [Steve "Silk" Hurley](https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP) | [Jack Your Body \(S&S Reloaded\)](https://open.spotify.com/album/3UAvNbsdCDrUKyhp8YGfJT) | 5:06 |
+| 38 | [I'm Gonna Miss You](https://open.spotify.com/track/1ffAMndLMFbKHpXuIDBwc1) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [Girl You Know It's True \- The Best Of Milli Vanilli](https://open.spotify.com/album/67QUZa2DQaBdeQvPQGfSkL) | 3:58 |
 | 39 | [Freaky Tales](https://open.spotify.com/track/6s2N5hnHBJc9Satf7l2LrY) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Born To Mack](https://open.spotify.com/album/0kBwZw1LPQGcycJwuz9tei) | 9:33 |
 | 40 | [Let The Beat Build](https://open.spotify.com/track/6Az6jpQiP5m8U3yA6bLSGb) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO) | 5:09 |
 | 41 | [Peace Of Mind \(Electrosoul\)](https://open.spotify.com/track/4qoa6zOFpSuuwSwJ0SMmFD) | [Claro Intelecto](https://open.spotify.com/artist/47YmGWaq0LIbK64RWleEEh) | [In Vitro \- Volume One](https://open.spotify.com/album/1KCShSz6OHvhJ8UkD49y40) | 6:12 |

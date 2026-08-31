@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Lily Meola
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,352 likes - 54 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,351 likes - 54 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 8 | [DANCE...](https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 4:47 |
 | 9 | [Not Yours](https://open.spotify.com/track/1Wlxvl98MLBcyXsVF6VDnt) | [Lady Binladen](https://open.spotify.com/artist/7uhhz6hbxdJlbHIbmqvAAT) | [Not Yours](https://open.spotify.com/album/2dmEvjeosmWip7SSpV7wro) | 2:36 |
 | 10 | [Pearl Handled Pistol](https://open.spotify.com/track/41GhpkO9gNs5qtNahVhmhk) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko), [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4), [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Cherry Valley Forever](https://open.spotify.com/album/3CSN4KvS0G5KmDXLK8swXU) | 4:19 |
-| 11 | [Notting Hill](https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:10 |
+| 11 | [Manhattan](https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Manhattan](https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m) | 3:35 |
 | 12 | [Dream Team](https://open.spotify.com/track/5YUSR9XCo9nf8TxObGSrl7) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Do Not Disturb: Late Checkout](https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO) | 3:31 |
-| 13 | [Manhattan](https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Manhattan](https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m) | 3:35 |
-| 14 | [Music](https://open.spotify.com/track/6gPbjxlebqkFyCaLY4SRVm) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [U](https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk) | 3:27 |
+| 13 | [Music](https://open.spotify.com/track/6gPbjxlebqkFyCaLY4SRVm) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [U](https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk) | 3:27 |
+| 14 | [Notting Hill](https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:10 |
 | 15 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
 | 16 | [Nobody \(feat\. Monaleo\) \- Remix](https://open.spotify.com/track/06D4xKbpIT0tXXE2JEysBp) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Nobody \(feat\. Monaleo\) \[Remix\]](https://open.spotify.com/album/6tT8zJ9w55GkEcy4eFbnA9) | 2:29 |
 | 17 | [touch myself](https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [touch myself/idea of love](https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ) | 4:09 |

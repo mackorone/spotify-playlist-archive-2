@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 
 > Las mujeres que la rompieron este año con su música\. Mon Laferte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,382 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,371 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 26 | [iGO](https://open.spotify.com/track/6E9kUXTTx2JMv4BtTF29vz) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [CÓDiGOS DE MUÑEKA](https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE) | 2:13 |
 | 27 | [Whiskey Com Água de Choro](https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:45 |
 | 28 | [mil preguntas](https://open.spotify.com/track/3DvtcMBAwZev5i9VToHWgZ) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Curita Para El Corazón](https://open.spotify.com/album/6mbclyEcneNuIoOYOMGKXj) | 2:58 |
-| 29 | [MOJA1TA](https://open.spotify.com/track/5HPNYgjgYWdpB7x6rNDWCM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [MOJA1TA](https://open.spotify.com/album/62inXmrayK1vAwbclJtp0D) | 2:24 |
-| 30 | [Bitches like me](https://open.spotify.com/track/34SvOGLgayPHz4qtktNqdR) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw) | [X\-sex](https://open.spotify.com/album/5FayNByW0emcrthHzDHihF) | 3:21 |
+| 29 | [Bitches like me](https://open.spotify.com/track/34SvOGLgayPHz4qtktNqdR) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw) | [X\-sex](https://open.spotify.com/album/5FayNByW0emcrthHzDHihF) | 3:21 |
+| 30 | [MOJA1TA](https://open.spotify.com/track/5HPNYgjgYWdpB7x6rNDWCM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [MOJA1TA](https://open.spotify.com/album/62inXmrayK1vAwbclJtp0D) | 2:24 |
 | 31 | [Tengo Un Pensamiento](https://open.spotify.com/track/1PrL6L3z5m4QfQpZJhe5d1) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Si Abro Los Ojos No Es Real](https://open.spotify.com/album/5hdd9BcMltcCZpAgcjXtCT) | 2:45 |
 | 32 | [Dejándolo Pasar](https://open.spotify.com/track/7xIo66YiwRlfh0LLweE8XT) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Dejándolo Pasar](https://open.spotify.com/album/3mDPKeyZroYjXuIzSUImbL) | 2:59 |
 | 33 | [en la cara](https://open.spotify.com/track/45VLxFP4Gk1eH5FMHf4Oy0) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [CUERPO](https://open.spotify.com/album/0yjY4nJkXaxV3Z9ad8g3ZX) | 2:37 |

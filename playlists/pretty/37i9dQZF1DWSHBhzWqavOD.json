@@ -1,6 +1,6 @@
 {
   "description": "The Biggest Afrobeats festival in World ",
-  "num_followers": 27706,
+  "num_followers": 27761,
   "original_name": "Afro Nation 2026",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "IS IT LOVE",
-        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 187714,
-      "name": "IS IT LOVE",
-      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "Realms",
         "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
       },
@@ -599,18 +583,18 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Adriano",
-        "url": "https://open.spotify.com/album/3mviCx0HV5EZMPUHPcxDfi"
+        "name": "IS IT LOVE",
+        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
       },
       "artists": [
         {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 142122,
-      "name": "Adriano",
-      "url": "https://open.spotify.com/track/16nyxKShgXn5qrh9zaHCGX"
+      "duration_ms": 187714,
+      "name": "IS IT LOVE",
+      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -663,6 +647,22 @@
       "duration_ms": 148656,
       "name": "Coco",
       "url": "https://open.spotify.com/track/5Cs4kQRpfYgcBMFsvezdbZ"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Adriano",
+        "url": "https://open.spotify.com/album/3mviCx0HV5EZMPUHPcxDfi"
+      },
+      "artists": [
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 142122,
+      "name": "Adriano",
+      "url": "https://open.spotify.com/track/16nyxKShgXn5qrh9zaHCGX"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Loading",
-      "url": "https://open.spotify.com/track/558ULLj8yY2vT8XGtgY0q9"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "Da Revolution",
         "url": "https://open.spotify.com/album/7ktDNtO5MfU9eRaVd9xQt4"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 268213,
       "name": "Kiss Your Hand (feat. Wande Coal)",
       "url": "https://open.spotify.com/track/0TDFU3SY7Z7l74c7M7kJFO"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Loading",
+      "url": "https://open.spotify.com/track/558ULLj8yY2vT8XGtgY0q9"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Mushin 2 Mo' Hits",
-        "url": "https://open.spotify.com/album/6TmFYFCTdUazZjjp3TYUGG"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "You Bad (feat. D'banj)",
-      "url": "https://open.spotify.com/track/0iMTGU9TcOOHddbN3CJdf1"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "Mamma",
         "url": "https://open.spotify.com/album/6PqWSEZXJzG9Tn6Q5vQgLQ"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 420190,
       "name": "Mamma",
       "url": "https://open.spotify.com/track/5aM14CNo9Xezodbx0TUZRD"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Mushin 2 Mo' Hits",
+        "url": "https://open.spotify.com/album/6TmFYFCTdUazZjjp3TYUGG"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "You Bad (feat. D'banj)",
+      "url": "https://open.spotify.com/track/0iMTGU9TcOOHddbN3CJdf1"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Juvie",
-        "url": "https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Axon",
-          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
-        }
-      ],
-      "duration_ms": 161938,
-      "name": "\u2060Morocco",
-      "url": "https://open.spotify.com/track/1BSMV4VRi2jJFc8R1YGPta"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "66",
         "url": "https://open.spotify.com/album/6pTx4o3Ww2KeWMUVtONaGd"
       },
@@ -1919,6 +1899,26 @@
       "duration_ms": 430714,
       "name": "66",
       "url": "https://open.spotify.com/track/1b4kqxvf4kFuB7ACj9Lvve"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Juvie",
+        "url": "https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Axon",
+          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
+        }
+      ],
+      "duration_ms": 161938,
+      "name": "\u2060Morocco",
+      "url": "https://open.spotify.com/track/1BSMV4VRi2jJFc8R1YGPta"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -2011,26 +2011,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Growing Pains (Deluxe)",
-        "url": "https://open.spotify.com/album/6eUtyQ0nItk099GXX6NUWb"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Axon",
-          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
-        }
-      ],
-      "duration_ms": 167755,
-      "name": "Dalilah",
-      "url": "https://open.spotify.com/track/0SO6kFbabTMjsmnNCSCWWk"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "SIYAPHOTHULA (feat. Scotts Maphuma & Dladla Mshunqisi)",
         "url": "https://open.spotify.com/album/5JVea7nRHkduLTq7fS1Q92"
       },
@@ -2055,6 +2035,26 @@
       "duration_ms": 401384,
       "name": "SIYAPHOTHULA (feat. Scotts Maphuma & Dladla Mshunqisi)",
       "url": "https://open.spotify.com/track/0Mi3Cg5UohmGOHiOnA0jje"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Growing Pains (Deluxe)",
+        "url": "https://open.spotify.com/album/6eUtyQ0nItk099GXX6NUWb"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Axon",
+          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
+        }
+      ],
+      "duration_ms": 167755,
+      "name": "Dalilah",
+      "url": "https://open.spotify.com/track/0SO6kFbabTMjsmnNCSCWWk"
     },
     {
       "added_at": "2026-06-30 14:51:43",

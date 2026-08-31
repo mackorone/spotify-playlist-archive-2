@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,747 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,756 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 4 | [TUS INICIALES](https://open.spotify.com/track/3odYzp9kA4Iai3eEuLi0v3) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5), [SALMA](https://open.spotify.com/artist/39l4aspsVEkHvlLr7R4NLm) | [TUS INICIALES](https://open.spotify.com/album/0bnB7XCWU0D75dQOHDKYZN) | 3:55 |
 | 5 | [La Niña de la Escuela](https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:24 |
 | 6 | [LA REINA](https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA REINA](https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4) | 2:30 |
-| 7 | [EL TONTO](https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:07 |
-| 8 | [M.A \- Remix](https://open.spotify.com/track/7JB29gnUowzSGRdIpeVqRQ) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [M.A \(Remix\)](https://open.spotify.com/album/3iggaiQChBAIIfQP8ZH2bR) | 4:32 |
+| 7 | [M.A \- Remix](https://open.spotify.com/track/7JB29gnUowzSGRdIpeVqRQ) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [M.A \(Remix\)](https://open.spotify.com/album/3iggaiQChBAIIfQP8ZH2bR) | 4:32 |
+| 8 | [EL TONTO](https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:07 |
 | 9 | [1000COSAS](https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [1000COSAS](https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj) | 3:59 |
 | 10 | [MOJA1TA](https://open.spotify.com/track/63rH77IJhmuQsNIxpCxaJ5) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ) | 2:24 |
 | 11 | [Casanova](https://open.spotify.com/track/0qZhK4gFB5c1Wxsnd6WA8U) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Casanova](https://open.spotify.com/album/0igR3TtSOtN4dCTFH9wA71) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 49 | [Mañana](https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Mañana](https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm) | 3:19 |
 | 50 | [✪ Ego \(feat\. GIMS & Lola Indigo\)](https://open.spotify.com/track/0RudoX6OQvCNibT0wYrPAx) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [✪ Ego \(feat\. GIMS & Lola Indigo\)](https://open.spotify.com/album/6KAR8WOAy1GDf3Ffzi3Xkf) | 3:28 |
 
-Snapshot ID: `apDPgAAAAACxP3e+IVZJmTQNjAhILuZv`
+Snapshot ID: `apIhAAAAAABBz8PN9+MysHIz7mDsV6ic`

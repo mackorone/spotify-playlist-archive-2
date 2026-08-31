@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-750 songs - 2 day 3 hr 52 min
+751 songs - 2 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,8 +155,9 @@
 | [Dan Dare \(Pilot Of The Future\)](https://open.spotify.com/track/41lz4BHdOQ5MDyvQ9lwz5f) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh) | 3:29 | 2022-09-08 | 2024-01-20 |
 | [Dancing In The End Zone](https://open.spotify.com/track/2aLIDPBCq47lT0NI2AUblB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 3:53 | 2022-09-08 |  |
 | [Dandelions](https://open.spotify.com/track/088m4EqzTTqyd3aSsIsMpu) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 4:24 | 2022-11-04 |  |
+| [Daniel](https://open.spotify.com/track/17y75Jlc5n06Gd5ke3PqZ4) | [Christopher Phillips](https://open.spotify.com/artist/2rQeK4adHAUvol1qPnxJoA) | [Piano Chill: Songs Of Elton John](https://open.spotify.com/album/09agyz8TBF2QxXTSokxtuU) | 3:23 | 2026-08-30 |  |
 | [Daniel](https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:54 | 2022-09-08 |  |
-| [Daniel](https://open.spotify.com/track/1FwVFkqgEmXp2UgXMMCuhR) | [Marie Laforêt](https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx) | [Long Box 3CD](https://open.spotify.com/album/61PvNNCb3cyAt8a9K1cHdq) | 3:02 | 2026-08-29 |  |
+| [Daniel](https://open.spotify.com/track/1FwVFkqgEmXp2UgXMMCuhR) | [Marie Laforêt](https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx) | [Long Box 3CD](https://open.spotify.com/album/61PvNNCb3cyAt8a9K1cHdq) | 3:02 | 2026-08-29 | 2026-08-31 |
 | [Dark Diamond](https://open.spotify.com/track/6k4aQRWQonqxfW5AZ3iKNa) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:26 | 2022-09-08 |  |
 | [Dear God](https://open.spotify.com/track/4i6r30m0T4qoCjjCYwvJ1c) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 3:46 | 2022-09-08 |  |
 | [Dear John \- Remastered 2003](https://open.spotify.com/track/2KkATTWT3nJalkA5588fQ9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:33 | 2022-09-08 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABbHHBuBLe3x80RUk8Fr/6i",
+  "snapshot_id": "apIhAAAAAADfwFMlk2uxdF9t1EwU7EDz",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Allan Coe Sings Merle Haggard",
-        "url": "https://open.spotify.com/album/6vPAgi5fs170oyrkwHykD4"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Mama Tried",
-      "url": "https://open.spotify.com/track/7opFp61IOAhDLbwXUAl3Jf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Compass Point",
         "url": "https://open.spotify.com/album/1tEXpuNhfMIPwxOxPO59kr"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 188160,
       "name": "The Fish Aren't Bitin' Today",
       "url": "https://open.spotify.com/track/1bYzoLz1GonUYnrqjMppKc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "David Allan Coe Sings Merle Haggard",
+        "url": "https://open.spotify.com/album/6vPAgi5fs170oyrkwHykD4"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Mama Tried",
+      "url": "https://open.spotify.com/track/7opFp61IOAhDLbwXUAl3Jf"
     },
     {
       "added_at": null,

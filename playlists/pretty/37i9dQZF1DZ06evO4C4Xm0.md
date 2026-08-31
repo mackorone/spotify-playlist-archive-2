@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,592 likes - 45 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,603 likes - 45 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 34 | [Still Return \- 2005 Digital Remaster](https://open.spotify.com/track/28KcS7Otucbm1uRQs8k21t) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 4:12 |
 | 35 | [I Saw You](https://open.spotify.com/track/4LYwnQN8yP032iEZLHpN6g) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 4:25 |
 | 36 | [A Clearing \- Remastered 2004](https://open.spotify.com/track/4y5qZUZU5sojHT033PFP26) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 4: On Land \(Remastered 2004\)](https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh) | 4:07 |
-| 37 | [Stars \- Remastered 2005](https://open.spotify.com/track/1cWHaz5GDrhfnkXTIYlGHh) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 8:00 |
-| 38 | [Procession](https://open.spotify.com/track/4VvOuaF9jGzbXMgBUKOXJu) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [Liminal](https://open.spotify.com/album/3QK5hLGy1mKrKVGVlIDqjS) | 3:20 |
+| 37 | [Procession](https://open.spotify.com/track/4VvOuaF9jGzbXMgBUKOXJu) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [Liminal](https://open.spotify.com/album/3QK5hLGy1mKrKVGVlIDqjS) | 3:20 |
+| 38 | [Stars \- Remastered 2005](https://open.spotify.com/track/1cWHaz5GDrhfnkXTIYlGHh) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 8:00 |
 | 39 | [Prophecy Theme](https://open.spotify.com/track/2FOZhjP4KGNWoLnUb7pkK1) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Dune \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5C6579KEvJj9AWaZtjSflC) | 4:21 |
 | 40 | [Strange Overtones](https://open.spotify.com/track/3vnQlfyuXK4aW011bAhJru) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Everything That Happens Will Happen Today \(Deluxe\)](https://open.spotify.com/album/4MdYyQLYp5fO6zfigE8NHc) | 4:17 |
 | 41 | [Another Green World \- 2004 Remaster](https://open.spotify.com/track/660j84jp8ljIwLFiAFprlb) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World \(2004 Remaster\)](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 1:41 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 44 | [Afterlife](https://open.spotify.com/track/51A16T7C1uE9yQzFuVQAqp) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [Afterlife](https://open.spotify.com/album/0qMgaPtlDCCOWFaUgp3bLI) | 6:12 |
 | 45 | [Spring Frost](https://open.spotify.com/track/0H2bToqKlvyx0K7dbPSlOb) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:07 |
 
-Snapshot ID: `apDPgAAAAAAqzKl1XCFtHE+NIuLeHhUN`
+Snapshot ID: `apIhAAAAAADmEvRoDEyAfaeldm6rIhoQ`

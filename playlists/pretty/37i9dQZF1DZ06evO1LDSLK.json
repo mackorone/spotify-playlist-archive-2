@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 75170,
+  "num_followers": 75173,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAACa+/Orldkmu88Oy7132Zbe",
+  "snapshot_id": "apIhAAAAAAC/clCc/ILnH90BFh/8JVt7",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 219831,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/5VOJ3OFUebaLuNqzJSNeEn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arizona Dream (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3JOFv28xH21bzQdFuf4Y5F"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 314186,
       "name": "In The Deathcar - \"Arizona Dream\" Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/1Tqz4XfxXPeZ2lbk8MBlzY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 219831,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5VOJ3OFUebaLuNqzJSNeEn"
     },
     {
       "added_at": null,
@@ -255,6 +255,30 @@
       "duration_ms": 197013,
       "name": "He's Frank - Slight Return",
       "url": "https://open.spotify.com/track/7kbOroxknznMU4k7MaWnZ4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "C\u2019est si bon",
+        "url": "https://open.spotify.com/album/1ONj7ygR1DJ7KvR0p1j5mI"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dutronc",
+          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "C'est si bon",
+      "url": "https://open.spotify.com/track/7n5rnQbELuaeHJ8T4gU00m"
     },
     {
       "added_at": null,
@@ -315,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 168813,
+      "name": "Everybody's Talkin'",
+      "url": "https://open.spotify.com/track/5eSP5IqYqeMeIYoaTEs8yF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God\u2019s Lonely Man",
         "url": "https://open.spotify.com/album/0QYw1Mqw3tJgdiIfnPTIt7"
       },
@@ -335,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apr\u00e8s (10th-anniversary edition)",
-        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+        "name": "American Caesar",
+        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
       },
       "artists": [
         {
@@ -344,9 +384,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 168813,
-      "name": "Everybody's Talkin'",
-      "url": "https://open.spotify.com/track/5eSP5IqYqeMeIYoaTEs8yF"
+      "duration_ms": 269506,
+      "name": "Beside You",
+      "url": "https://open.spotify.com/track/2KZYHks9fBXCX1Ac8McutM"
     },
     {
       "added_at": null,
@@ -367,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Caesar",
-        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 269506,
-      "name": "Beside You",
-      "url": "https://open.spotify.com/track/2KZYHks9fBXCX1Ac8McutM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -399,30 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frenchy",
-        "url": "https://open.spotify.com/album/33aacw53MZVyxjzjqxcs9o"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dutronc",
-          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        },
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "C'est si bon",
-      "url": "https://open.spotify.com/track/7gWHElHSGXdzBcMogudgzZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Idiot",
         "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
       },
@@ -435,6 +435,22 @@
       "duration_ms": 308927,
       "name": "China Girl",
       "url": "https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 259113,
+      "name": "Loves Missing",
+      "url": "https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5"
     },
     {
       "added_at": null,
@@ -471,22 +487,6 @@
       "duration_ms": 146598,
       "name": "Sixteen",
       "url": "https://open.spotify.com/track/70ZlAJGfC4DesFw4oQ7YZM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 259113,
-      "name": "Loves Missing",
-      "url": "https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold (From The Original Motion Picture Soundtrack \"Gold\")",
-        "url": "https://open.spotify.com/album/3Enwyua0EjFqREWX2s2zpE"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 192853,
-      "name": "Gold - From The Original Motion Picture Soundtrack \"Gold\"",
-      "url": "https://open.spotify.com/track/04AJSn0D3BHwT8FQ9q5FVp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EVERY LOSER",
         "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 253893,
       "name": "Strung Out Johnny",
       "url": "https://open.spotify.com/track/6OGIBcJV5qV1FF5uiofnX0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold (From The Original Motion Picture Soundtrack \"Gold\")",
+        "url": "https://open.spotify.com/album/3Enwyua0EjFqREWX2s2zpE"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 192853,
+      "name": "Gold - From The Original Motion Picture Soundtrack \"Gold\"",
+      "url": "https://open.spotify.com/track/04AJSn0D3BHwT8FQ9q5FVp"
     },
     {
       "added_at": null,

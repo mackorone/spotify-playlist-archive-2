@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 340239,
+  "num_followers": 340290,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Help! (Remastered)",
-        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Help! - Remastered 2009",
-      "url": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Ring Of Fire: The Best Of Johnny Cash",
         "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 158426,
       "name": "Ring of Fire",
       "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Help! - Remastered 2009",
+      "url": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Beatles 1962 - 1966 (Remastered)",
-        "url": "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 146720,
-      "name": "I Want To Hold Your Hand - Remastered 2009",
-      "url": "https://open.spotify.com/track/5Qe7NHxeLAn8KoLTNLSdwe"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Everything's Archie",
         "url": "https://open.spotify.com/album/3Yx7rFz5gPsuWOoNncW0UP"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 167213,
       "name": "Sugar Sugar",
       "url": "https://open.spotify.com/track/6MTd61g9zq6CB1FnJydjEb"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Beatles 1962 - 1966 (Remastered)",
+        "url": "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 146720,
+      "name": "I Want To Hold Your Hand - Remastered 2009",
+      "url": "https://open.spotify.com/track/5Qe7NHxeLAn8KoLTNLSdwe"
     },
     {
       "added_at": "2023-05-30 09:14:29",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 158040,
-      "name": "Baby Love",
-      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Do you Believe In Magic",
         "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 125826,
       "name": "Do You Believe in Magic?",
       "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 158040,
+      "name": "Baby Love",
+      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
     },
     {
       "added_at": "2023-05-30 09:14:29",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 119880,
-      "name": "Hit the Road Jack",
-      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Soul Men",
         "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 159000,
       "name": "Soul Man",
       "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 119880,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
     },
     {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Dance Party",
-        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 181640,
-      "name": "Nowhere To Run",
-      "url": "https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0"
-    },
-    {
       "added_at": "2023-05-30 09:14:29",
       "album": {
         "name": "Fresh Cream",
@@ -807,6 +791,22 @@
       "duration_ms": 171506,
       "name": "I Feel Free",
       "url": "https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 181640,
+      "name": "Nowhere To Run",
+      "url": "https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Heat Wave",
-        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "(Love Is Like A) Heat Wave",
-      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Best Of Dion",
         "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 167160,
       "name": "The Wanderer",
       "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "(Love Is Like A) Heat Wave",
+      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb"
     },
     {
-      "added_at": "2023-05-30 09:14:29",
-      "album": {
-        "name": "The Complete Johnny Kidd Vol 1 & 2",
-        "url": "https://open.spotify.com/album/34pUE4ZtTaXTdvZ5l39OL1"
-      },
-      "artists": [
-        {
-          "name": "Johnny Kidd & The Pirates",
-          "url": "https://open.spotify.com/artist/52y1cRHUkI0kQqIXCg6JuZ"
-        }
-      ],
-      "duration_ms": 141960,
-      "name": "Shakin' All Over",
-      "url": "https://open.spotify.com/track/6Xv160PuntxAtb67Ed4t4I"
-    },
-    {
       "added_at": "2022-06-16 22:02:00",
       "album": {
         "name": "Take Two",
@@ -1083,6 +1067,22 @@
       "duration_ms": 177666,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
+    },
+    {
+      "added_at": "2023-05-30 09:14:29",
+      "album": {
+        "name": "The Complete Johnny Kidd Vol 1 & 2",
+        "url": "https://open.spotify.com/album/34pUE4ZtTaXTdvZ5l39OL1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Kidd & The Pirates",
+          "url": "https://open.spotify.com/artist/52y1cRHUkI0kQqIXCg6JuZ"
+        }
+      ],
+      "duration_ms": 141960,
+      "name": "Shakin' All Over",
+      "url": "https://open.spotify.com/track/6Xv160PuntxAtb67Ed4t4I"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Heart & Soul: A Retrospective",
-        "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 169746,
-      "name": "Something's Got A Hold On Me",
-      "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Best Of Chubby Checker 1959-1963",
         "url": "https://open.spotify.com/album/4I4NKz4jIy7hYke8jvCpPA"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 153760,
       "name": "The Twist",
       "url": "https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Heart & Soul: A Retrospective",
+        "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 169746,
+      "name": "Something's Got A Hold On Me",
+      "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Helen Shapiro",
-        "url": "https://open.spotify.com/album/4D3i5fQz4JOYHndcmflSqz"
-      },
-      "artists": [
-        {
-          "name": "Helen Shapiro",
-          "url": "https://open.spotify.com/artist/05kB8yh0Bbxj73qH63Ob3C"
-        }
-      ],
-      "duration_ms": 151293,
-      "name": "Walkin' Back to Happiness",
-      "url": "https://open.spotify.com/track/3mNfU0psAm7h3s6Dn6i7SD"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Things & Other Things",
         "url": "https://open.spotify.com/album/7wyMqH6vUeHYT09iaWhtx3"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 151413,
       "name": "Things",
       "url": "https://open.spotify.com/track/5hgei65n0pGJ9uUHo8v2en"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Helen Shapiro",
+        "url": "https://open.spotify.com/album/4D3i5fQz4JOYHndcmflSqz"
+      },
+      "artists": [
+        {
+          "name": "Helen Shapiro",
+          "url": "https://open.spotify.com/artist/05kB8yh0Bbxj73qH63Ob3C"
+        }
+      ],
+      "duration_ms": 151293,
+      "name": "Walkin' Back to Happiness",
+      "url": "https://open.spotify.com/track/3mNfU0psAm7h3s6Dn6i7SD"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "20 Golden Greats",
+        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
+      },
+      "artists": [
+        {
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Up-Tight Everything's Alright",
         "url": "https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP"
       },
@@ -1995,22 +2011,6 @@
       "duration_ms": 155400,
       "name": "Twist And Shout",
       "url": "https://open.spotify.com/track/0URp9jOJtiWKR1AfMGH2Qj"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "20 Golden Greats",
-        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
-      },
-      "artists": [
-        {
-          "name": "The Hollies",
-          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Bus Stop",
-      "url": "https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Something Else By The Kinks (Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/3M3JjcA8YcJDKl0ktMOPQW"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "Waterloo Sunset - Stereo Mix",
-      "url": "https://open.spotify.com/track/6i6vTovzDTGf6AQp96YwZK"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "It's My Party: The Mercury Anthology",
         "url": "https://open.spotify.com/album/7wOkRyqP8l6XdHEUfXpxFy"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 144160,
       "name": "It's My Party",
       "url": "https://open.spotify.com/track/5A9Lz0DPD0wo2QDqGm4zh9"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Something Else By The Kinks (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/3M3JjcA8YcJDKl0ktMOPQW"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 193293,
+      "name": "Waterloo Sunset - Stereo Mix",
+      "url": "https://open.spotify.com/track/6i6vTovzDTGf6AQp96YwZK"
     },
     {
       "added_at": "2022-06-16 22:02:00",

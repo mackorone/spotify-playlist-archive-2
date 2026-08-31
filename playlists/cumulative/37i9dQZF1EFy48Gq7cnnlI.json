@@ -1480,10 +1480,28 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 174709,
       "name": "Lose You",
       "url": "https://open.spotify.com/track/2SF6DL81zTodxZPW7m3VHl"
+    },
+    {
+      "album": {
+        "name": "I'm What You Get",
+        "url": "https://open.spotify.com/album/7FwqgiTS3tXBQg573FBOeX"
+      },
+      "artists": [
+        {
+          "name": "Zach John King",
+          "url": "https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174709,
+      "name": "Lose You",
+      "url": "https://open.spotify.com/track/41t5aM7gKXMPZINqLtLw6F"
     },
     {
       "album": {

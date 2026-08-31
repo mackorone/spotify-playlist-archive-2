@@ -1,6 +1,6 @@
 {
   "description": "Sweet afro melodies. Cover: Seyi Vibez",
-  "num_followers": 266359,
+  "num_followers": 266399,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-08-28 00:01:58",
       "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 154705,
+      "name": "2FRESH",
+      "url": "https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm"
+    },
+    {
+      "added_at": "2026-08-28 00:01:58",
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 170823,
       "name": "Hello",
       "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
-    },
-    {
-      "added_at": "2026-08-28 00:01:58",
-      "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 154705,
-      "name": "2FRESH",
-      "url": "https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm"
     },
     {
       "added_at": "2026-08-28 00:01:58",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-08-28 00:01:58",
       "album": {
+        "name": "Choice",
+        "url": "https://open.spotify.com/album/0rAY6dVOAWpIBwfJCPd0EA"
+      },
+      "artists": [
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        }
+      ],
+      "duration_ms": 159335,
+      "name": "Choice",
+      "url": "https://open.spotify.com/track/0nWaHVM8Qmi9f2UOty7yOx"
+    },
+    {
+      "added_at": "2026-08-28 00:01:58",
+      "album": {
         "name": "SHABA",
         "url": "https://open.spotify.com/album/1yQJjYlbpPEsepf57EsyHA"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 121338,
       "name": "SHABA",
       "url": "https://open.spotify.com/track/3Mkn6UjdPtKdySe78jVfxg"
-    },
-    {
-      "added_at": "2026-08-28 00:01:58",
-      "album": {
-        "name": "Choice",
-        "url": "https://open.spotify.com/album/0rAY6dVOAWpIBwfJCPd0EA"
-      },
-      "artists": [
-        {
-          "name": "BoyPee",
-          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
-        }
-      ],
-      "duration_ms": 159335,
-      "name": "Choice",
-      "url": "https://open.spotify.com/track/0nWaHVM8Qmi9f2UOty7yOx"
     },
     {
       "added_at": "2026-08-28 00:01:58",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2026-08-28 00:01:58",
       "album": {
-        "name": "Wrong Places",
-        "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Wrong Places",
-      "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
-    },
-    {
-      "added_at": "2026-08-28 00:01:58",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
       },
@@ -1427,18 +1407,42 @@
     {
       "added_at": "2026-08-28 00:01:58",
       "album": {
-        "name": "SSG (Sounds Of Soundgod)",
-        "url": "https://open.spotify.com/album/5AKxBbIslDwVMf7BIQIUnX"
+        "name": "Wrong Places",
+        "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
       },
       "artists": [
         {
-          "name": "Runtown",
-          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
         }
       ],
-      "duration_ms": 143008,
-      "name": "Do Me",
-      "url": "https://open.spotify.com/track/22cimUbmSqx1cMzsDTdvP1"
+      "duration_ms": 177600,
+      "name": "Wrong Places",
+      "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
+    },
+    {
+      "added_at": "2026-08-28 00:01:58",
+      "album": {
+        "name": "Stay a Little Longer",
+        "url": "https://open.spotify.com/album/5KqThHWfVuq0mHpLDJGM34"
+      },
+      "artists": [
+        {
+          "name": "Toy\u00e9",
+          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "Stay a Little Longer",
+      "url": "https://open.spotify.com/track/5fYfkdAKlwSuEPxwkv7xep"
     },
     {
       "added_at": "2026-08-28 00:01:58",
@@ -1463,22 +1467,18 @@
     {
       "added_at": "2026-08-28 00:01:58",
       "album": {
-        "name": "Stay a Little Longer",
-        "url": "https://open.spotify.com/album/5KqThHWfVuq0mHpLDJGM34"
+        "name": "SSG (Sounds Of Soundgod)",
+        "url": "https://open.spotify.com/album/5AKxBbIslDwVMf7BIQIUnX"
       },
       "artists": [
         {
-          "name": "Toy\u00e9",
-          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
         }
       ],
-      "duration_ms": 174915,
-      "name": "Stay a Little Longer",
-      "url": "https://open.spotify.com/track/5fYfkdAKlwSuEPxwkv7xep"
+      "duration_ms": 143008,
+      "name": "Do Me",
+      "url": "https://open.spotify.com/track/22cimUbmSqx1cMzsDTdvP1"
     },
     {
       "added_at": "2026-08-28 00:01:58",

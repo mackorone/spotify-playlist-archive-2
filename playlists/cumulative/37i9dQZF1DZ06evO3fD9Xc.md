@@ -4,7 +4,7 @@
 
 > This is Carolina Ross\. The essential tracks, all in one playlist.
 
-110 songs - 5 hr 57 min
+111 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Princesa de la Noche](https://open.spotify.com/track/2two6m0LBsrOZWLhsGi7Z4) | [Mori](https://open.spotify.com/artist/32LRzOkIsRVT82iYmLSbBK), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Paul Ruche](https://open.spotify.com/artist/3n6oWHec0thlerlSygmGDQ), [Z GU](https://open.spotify.com/artist/24BR616ycyMUHwcvsmZJjr) | [Princesa de la Noche](https://open.spotify.com/album/0yYpzvECpc7iuJ2sCMfxI5) | 3:15 | 2025-12-16 | 2026-04-30 |
 | [Puñetas Mentales](https://open.spotify.com/track/4M54nkILKhxGO73bEMr3hU) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Puñetas Mentales](https://open.spotify.com/album/2CgMSZgcZAVyhq0vVSk7kn) | 2:19 | 2024-05-17 | 2025-04-17 |
 | [Puño de Diamantes](https://open.spotify.com/track/205jUQPoqMVQZUQe81yJmB) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:53 | 2023-03-10 |  |
-| [Que Bonito Es Querer](https://open.spotify.com/track/1EsSPmiioHQVbdwyrnJGwC) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Que Bonito Es Querer](https://open.spotify.com/album/6mUpfaWK4lckq6UTypkreO) | 3:17 | 2023-03-10 |  |
+| [Que Bonito Es Querer](https://open.spotify.com/track/1EsSPmiioHQVbdwyrnJGwC) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Que Bonito Es Querer](https://open.spotify.com/album/6mUpfaWK4lckq6UTypkreO) | 3:17 | 2023-03-10 | 2026-08-31 |
+| [Que Bonito Es Querer](https://open.spotify.com/track/62C2vvplIFCrGUSQO6o85G) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Grandes Éxitos de Amor y Desamor](https://open.spotify.com/album/6koK69aXQaYaAM8H8BGmP9) | 3:17 | 2026-08-31 |  |
 | [Qué Bueno Que Fuiste Tú](https://open.spotify.com/track/2QnN3woxO9KqDd1DAW0zUF) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Qué Bueno Que Fuiste Tú](https://open.spotify.com/album/24IaXitockhdYJSE4flwTG) | 2:59 | 2023-03-10 | 2024-04-30 |
 | [Qué Bueno Que Fuiste Tú](https://open.spotify.com/track/61pfP2D4QNELNEsxh0aCn7) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Nunca Me Sueltes](https://open.spotify.com/album/7JfwGcd9SQy4wxXK5aQTFc) | 3:00 | 2024-04-30 |  |
 | [Qué Me Vas A Dar \- Cumbia](https://open.spotify.com/track/0OXXOSfjkIwHBA32jiguQ2) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Qué Me Vas A Dar \(Cumbia\)](https://open.spotify.com/album/65PsHT4xP40nlvdVNE1ldU) | 3:27 | 2026-02-01 |  |

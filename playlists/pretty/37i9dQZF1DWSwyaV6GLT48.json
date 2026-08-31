@@ -1,6 +1,6 @@
 {
   "description": "sunny days, happy people ",
-  "num_followers": 110438,
+  "num_followers": 110431,
   "original_name": "summer songs",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-08-27 14:59:38",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 170859,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
-    },
-    {
-      "added_at": "2026-08-27 14:59:38",
-      "album": {
         "name": "Currents",
         "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 216320,
       "name": "The Less I Know The Better",
       "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
+    },
+    {
+      "added_at": "2026-08-27 14:59:38",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
     },
     {
       "added_at": "2026-08-27 14:59:38",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-08-27 14:59:38",
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 249191,
+      "name": "Ivy",
+      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
+    },
+    {
+      "added_at": "2026-08-27 14:59:38",
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
-    },
-    {
-      "added_at": "2026-08-27 14:59:38",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 249191,
-      "name": "Ivy",
-      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
     },
     {
       "added_at": "2026-08-27 14:59:38",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-08-27 14:59:38",
       "album": {
-        "name": "Writer's Block",
-        "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
-      },
-      "artists": [
-        {
-          "name": "Peter Bjorn and John",
-          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
-        }
-      ],
-      "duration_ms": 276693,
-      "name": "Young Folks",
-      "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
-    },
-    {
-      "added_at": "2026-08-27 14:59:38",
-      "album": {
         "name": "Corinne Bailey Rae",
         "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 215360,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+    },
+    {
+      "added_at": "2026-08-27 14:59:38",
+      "album": {
+        "name": "Writer's Block",
+        "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
+      },
+      "artists": [
+        {
+          "name": "Peter Bjorn and John",
+          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
+        }
+      ],
+      "duration_ms": 276693,
+      "name": "Young Folks",
+      "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
     },
     {
       "added_at": "2026-08-27 14:59:38",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-08-27 14:59:38",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 168767,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
-    },
-    {
-      "added_at": "2026-08-27 14:59:38",
-      "album": {
         "name": "Overnight",
         "url": "https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 219604,
       "name": "Overnight",
       "url": "https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6"
+    },
+    {
+      "added_at": "2026-08-27 14:59:38",
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 168767,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
     },
     {
       "added_at": "2026-08-27 14:59:38",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2026-08-27 14:59:38",
       "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
+    },
+    {
+      "added_at": "2026-08-27 14:59:38",
+      "album": {
         "name": "Hell N Back (feat. Summer Walker)",
         "url": "https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 195147,
       "name": "Hell N Back (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC"
-    },
-    {
-      "added_at": "2026-08-27 14:59:38",
-      "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
     },
     {
       "added_at": "2026-08-27 14:59:38",

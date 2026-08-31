@@ -1,6 +1,6 @@
 {
   "description": "Pa' cantar, bailar y pistear. \u00a1Qu\u00e9 suene el mariachi! En portada: Lola Beltr\u00e1n",
-  "num_followers": 481634,
+  "num_followers": 481757,
   "original_name": "Cl\u00e1sicas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Orgullo Ranchero",
-        "url": "https://open.spotify.com/album/3RX67bIfnSkkEcobM5yAni"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Ebrio De Amor",
-      "url": "https://open.spotify.com/track/74wVQ70UcpENCcJFOZCsW3"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Aqu\u00ed Abajo",
         "url": "https://open.spotify.com/album/0OKzpAuz6d0r8OjhPN624H"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 144360,
       "name": "Aqu\u00ed Abajo",
       "url": "https://open.spotify.com/track/4FmVjrmM6DsBQMsGdc9PDa"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Orgullo Ranchero",
+        "url": "https://open.spotify.com/album/3RX67bIfnSkkEcobM5yAni"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Ebrio De Amor",
+      "url": "https://open.spotify.com/track/74wVQ70UcpENCcJFOZCsW3"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/1o0tPc9qFFFuGK4ka2IkCp"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "60 Rancheras Inmortales",
         "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
       },
@@ -1143,22 +1127,6 @@
       "duration_ms": 153093,
       "name": "Muy despacito",
       "url": "https://open.spotify.com/track/2kRPH2YipMzJd4BxCRuNYE"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 213863,
-      "name": "Qui\u00e9n De Los Dos Ser\u00e1",
-      "url": "https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1195,6 +1163,38 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/1o0tPc9qFFFuGK4ka2IkCp"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 213863,
+      "name": "Qui\u00e9n De Los Dos Ser\u00e1",
+      "url": "https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
         "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
         "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
       },
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Siempre Estoy Pensando En Ti",
-        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
         }
       ],
-      "duration_ms": 159573,
-      "name": "Esta Noche Voy a Verla",
-      "url": "https://open.spotify.com/track/4fk7Dwmt0AcIWfJ1JOXMcc"
+      "duration_ms": 144706,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+        "name": "Siempre Estoy Pensando En Ti",
+        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 144706,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
+      "duration_ms": 159573,
+      "name": "Esta Noche Voy a Verla",
+      "url": "https://open.spotify.com/track/4fk7Dwmt0AcIWfJ1JOXMcc"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "16 Exitos De Oro",
-        "url": "https://open.spotify.com/album/0H7gQr029I6IVxfcHNXS3d"
+        "name": "Serie De Coleccion 15 Autenticos",
+        "url": "https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ"
       },
       "artists": [
         {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+          "name": "Cuco S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
         }
       ],
-      "duration_ms": 233666,
-      "name": "Asi Te Quiero - Con Mariachi",
-      "url": "https://open.spotify.com/track/6Giyrsy6YvS27OceT6jm16"
+      "duration_ms": 131066,
+      "name": "Cama de Piedra",
+      "url": "https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Serie De Coleccion 15 Autenticos",
-        "url": "https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ"
+        "name": "16 Exitos De Oro",
+        "url": "https://open.spotify.com/album/0H7gQr029I6IVxfcHNXS3d"
       },
       "artists": [
         {
-          "name": "Cuco S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
         }
       ],
-      "duration_ms": 131066,
-      "name": "Cama de Piedra",
-      "url": "https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt"
+      "duration_ms": 233666,
+      "name": "Asi Te Quiero - Con Mariachi",
+      "url": "https://open.spotify.com/track/6Giyrsy6YvS27OceT6jm16"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "15 Exitos De Federico Villa - Versiones Originales",
-        "url": "https://open.spotify.com/album/14M2p00a5ozip7k4XZYihk"
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
       },
       "artists": [
         {
-          "name": "Federico Villa",
-          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 209666,
-      "name": "Caminos de Michoac\u00e1n",
-      "url": "https://open.spotify.com/track/6rhDW2z2TTDxRsv1fI4CnC"
+      "duration_ms": 200269,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
+        "name": "Antonio Aguilar Con Mariachi",
+        "url": "https://open.spotify.com/album/6GbNShvCIQKNsHUaNOqz5t"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 200269,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85"
+      "duration_ms": 233302,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/3omTNIu1KVQyN0Nge2Wb11"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1739,22 +1739,6 @@
       "duration_ms": 211371,
       "name": "Tatuajes",
       "url": "https://open.spotify.com/track/1aGYzAXdp9Cqd7Nv6WrSGZ"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
-        "name": "Antonio Aguilar Con Mariachi",
-        "url": "https://open.spotify.com/album/6GbNShvCIQKNsHUaNOqz5t"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 233302,
-      "name": "Triste Recuerdo",
-      "url": "https://open.spotify.com/track/3omTNIu1KVQyN0Nge2Wb11"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1807,22 +1791,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Antologia el Poeta del Pueblo Con Mariachi",
-        "url": "https://open.spotify.com/album/72zXuJGYw1YGmc7Ue0996l"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 188360,
-      "name": "Como Tu Decidas",
-      "url": "https://open.spotify.com/track/6VtPNnCf12fB1iXHRT21IG"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Corridos Antonio Aguilar",
         "url": "https://open.spotify.com/album/31FNBMRcI9dGKHkxx4ZtlD"
       },
@@ -1835,6 +1803,22 @@
       "duration_ms": 195117,
       "name": "El Hijo Desobediente",
       "url": "https://open.spotify.com/track/7mgm1NtgPgemOFsopkCszE"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Antologia el Poeta del Pueblo Con Mariachi",
+        "url": "https://open.spotify.com/album/72zXuJGYw1YGmc7Ue0996l"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 188360,
+      "name": "Como Tu Decidas",
+      "url": "https://open.spotify.com/track/6VtPNnCf12fB1iXHRT21IG"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1887,6 +1871,22 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
+        "name": "15 Exitos De Federico Villa - Versiones Originales",
+        "url": "https://open.spotify.com/album/14M2p00a5ozip7k4XZYihk"
+      },
+      "artists": [
+        {
+          "name": "Federico Villa",
+          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "Caminos de Michoac\u00e1n",
+      "url": "https://open.spotify.com/track/6rhDW2z2TTDxRsv1fI4CnC"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
         "name": "15 Exitos Con Mariachi - Cornelio Reyna",
         "url": "https://open.spotify.com/album/0jSAdduL3crAhdTYDm58Ga"
       },
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 196253,
-      "name": "La Derrota",
-      "url": "https://open.spotify.com/track/5kYjvOHOQtPoeKLHbN35rU"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "El Malo",
         "url": "https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 177194,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/1qNvE50pMBAB11VtaGGkFD"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 196253,
+      "name": "La Derrota",
+      "url": "https://open.spotify.com/track/5kYjvOHOQtPoeKLHbN35rU"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "A Qui\u00e9n Vas a Amar M\u00e1s Que a M\u00ed",
-      "url": "https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "15 Inmortales de Pedro Infante",
         "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 161186,
       "name": "Mi cari\u00f1ito",
       "url": "https://open.spotify.com/track/4VCXBuzshKoXGqCu5C12tz"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "A Qui\u00e9n Vas a Amar M\u00e1s Que a M\u00ed",
+      "url": "https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Serie Coleccion 15 Autenticos Exitos",
         "url": "https://open.spotify.com/album/2Lo23n1S3pOdT99UJgveNf"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 174426,
       "name": "En Mi Viejo San Juan",
       "url": "https://open.spotify.com/track/4r7TBJamYMddI4OfJJFbkj"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/5sQiPI9krkeb9aAvl7tDyn"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Javier Solis con Trio",
         "url": "https://open.spotify.com/album/5A0quQYOcbEjHvokeGUBWS"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 206880,
       "name": "Sombras",
       "url": "https://open.spotify.com/track/0va0TL9p2ObwNgP7eHjRNc"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/5sQiPI9krkeb9aAvl7tDyn"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "35 Anniversary Re-mastered Series, Vol. 7",
-        "url": "https://open.spotify.com/album/0faSI8clCnZRnLXAb0NFcE"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 236480,
-      "name": "Por Tu Maldito Amor",
-      "url": "https://open.spotify.com/track/1Uol5x9ClPOm9X2F3lsyNR"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera - Pedro Infante",
         "url": "https://open.spotify.com/album/18D7PLKVrWsls3JKP6iPxH"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 226080,
       "name": "Fallaste corazon",
       "url": "https://open.spotify.com/track/7mYRqhp7hhew3UlSvEkJN5"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "35 Anniversary Re-mastered Series, Vol. 7",
+        "url": "https://open.spotify.com/album/0faSI8clCnZRnLXAb0NFcE"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "Por Tu Maldito Amor",
+      "url": "https://open.spotify.com/track/1Uol5x9ClPOm9X2F3lsyNR"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Que De Raro Tiene",
-        "url": "https://open.spotify.com/album/0z0b1XLyoRBYwXF2SRTvZ3"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Que De Raro Tiene",
-      "url": "https://open.spotify.com/track/4vw2HFJXdHtjauDfb7nqRi"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Paquita La Del Barrio Con Mariachi",
         "url": "https://open.spotify.com/album/6mioeN7c8bV5ARR2ZgidLI"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 172907,
       "name": "No Hay Quinto Malo",
       "url": "https://open.spotify.com/track/0807Vxt3hDYDktEijq2gBl"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Que De Raro Tiene",
+        "url": "https://open.spotify.com/album/0z0b1XLyoRBYwXF2SRTvZ3"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Que De Raro Tiene",
+      "url": "https://open.spotify.com/track/4vw2HFJXdHtjauDfb7nqRi"
     },
     {
       "added_at": "2024-07-03 18:18:42",

@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 19577,
+  "num_followers": 19575,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAACKsGiaAX9PbCfFcZ6m1ZMX",
+  "snapshot_id": "apIhAAAAAADuul2bqUxtNSTqA7sq5MVQ",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TWINNEM",
+        "url": "https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 117066,
+      "name": "TWINNEM",
+      "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Act Like You Know (feat. Shoreline Mafia)",
         "url": "https://open.spotify.com/album/79g6lh7jLIAAorMCSKUXCI"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 159573,
       "name": "Act Like You Know (feat. Shoreline Mafia)",
       "url": "https://open.spotify.com/track/6YKZThWeKwTze24UqcCw3T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TWINNEM",
-        "url": "https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 117066,
-      "name": "TWINNEM",
-      "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
     },
     {
       "added_at": null,
@@ -507,22 +507,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Sleep? (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr"
+        "name": "Die 4 Respect",
+        "url": "https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG"
       },
       "artists": [
         {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
         },
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 119715,
-      "name": "2055 (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/0VhA1feaHVoftAyZ5fGGHA"
+      "duration_ms": 245621,
+      "name": "Impatient (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/5LE8xsgXORBCV70UKd7ywp"
     },
     {
       "added_at": null,
@@ -547,26 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Die 4 Respect",
-        "url": "https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG"
+        "name": "Still Sleep? (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr"
       },
       "artists": [
         {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
         },
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 245621,
-      "name": "Impatient (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/5LE8xsgXORBCV70UKd7ywp"
+      "duration_ms": 119715,
+      "name": "2055 (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/0VhA1feaHVoftAyZ5fGGHA"
     },
     {
       "added_at": null,
@@ -643,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here 2 Stay",
+        "url": "https://open.spotify.com/album/2hnZC5cplWVngfVm2Hjsfr"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 162386,
+      "name": "Upnow (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/4NWmEDnhyn4kUZGyCgx047"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Funk Wav Bounces Vol. 2",
         "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 143920,
       "name": "BOOMERANG (with Coi Leray)",
       "url": "https://open.spotify.com/track/4oqDtRwOFu8Ejw4SB3Toql"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here 2 Stay",
-        "url": "https://open.spotify.com/album/2hnZC5cplWVngfVm2Hjsfr"
-      },
-      "artists": [
-        {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 162386,
-      "name": "Upnow (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/4NWmEDnhyn4kUZGyCgx047"
     },
     {
       "added_at": null,
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 128586,
-      "name": "Bops",
-      "url": "https://open.spotify.com/track/1SVze8cjUtaq7pI8n6SMAt"
+      "duration_ms": 110826,
+      "name": "Get Loud",
+      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
     },
     {
       "added_at": null,
@@ -843,18 +843,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The One (Sprite Limelight)",
-        "url": "https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV"
+        "name": "Wanna Come Thru",
+        "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
       },
       "artists": [
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
         }
       ],
-      "duration_ms": 135733,
-      "name": "The One (Sprite Limelight)",
-      "url": "https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW"
+      "duration_ms": 131900,
+      "name": "Wanna Come Thru",
+      "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
     },
     {
       "added_at": null,
@@ -868,9 +872,25 @@
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 110826,
-      "name": "Get Loud",
-      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
+      "duration_ms": 128586,
+      "name": "Bops",
+      "url": "https://open.spotify.com/track/1SVze8cjUtaq7pI8n6SMAt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The One (Sprite Limelight)",
+        "url": "https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 135733,
+      "name": "The One (Sprite Limelight)",
+      "url": "https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW"
     },
     {
       "added_at": null,
@@ -891,26 +911,6 @@
       "duration_ms": 221016,
       "name": "Coke Bottle Body",
       "url": "https://open.spotify.com/track/4rcoYD8ZynhOMzSsoW1Sm7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wanna Come Thru",
-        "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        }
-      ],
-      "duration_ms": 131900,
-      "name": "Wanna Come Thru",
-      "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
     },
     {
       "added_at": null,
@@ -955,26 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thieves In Atlanta (feat. Coi Leray)",
-        "url": "https://open.spotify.com/album/5NaBcPMcvwIRCLw3wjlkod"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 192048,
-      "name": "Thieves In Atlanta (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/0O6vnplGquhXRh0Zghyr8w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "They Got Amnesia",
         "url": "https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 185477,
       "name": "Push Start (with Coi Leray feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/5DnubkVCDDFfcejkhtnM79"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thieves In Atlanta (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/5NaBcPMcvwIRCLw3wjlkod"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 192048,
+      "name": "Thieves In Atlanta (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/0O6vnplGquhXRh0Zghyr8w"
     },
     {
       "added_at": null,

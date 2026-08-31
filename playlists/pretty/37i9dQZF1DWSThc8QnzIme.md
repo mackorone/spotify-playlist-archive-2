@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSThc8QnzIme.md) - [plain]
 
 > Breeze through your commute with these pop favorites\. Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,157 likes - 102 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,231 likes - 102 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

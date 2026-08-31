@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 
 > This is Ghost\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,741 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,796 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 | 36 | [Elizabeth](https://open.spotify.com/track/2zQyXaCpKG0yanNaCkjxNt) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 4:01 |
 | 37 | [Per Aspera Ad Inferi](https://open.spotify.com/track/7H32Smt3EiKgjMAGzhFRHS) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 4:09 |
 | 38 | [Mummy Dust](https://open.spotify.com/track/3OF5mCJ8aRRIzyE49c9x6x) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 4:07 |
-| 39 | [See The Light](https://open.spotify.com/track/1dgO96QXgopptwjnaeIC5l) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:05 |
+| 39 | [Spirit \- Live from Mexico City](https://open.spotify.com/track/3tLHCRTjf7NscTAkocZ8oL) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [2 Big To Rig \(Original Motion Picture Soundtrack / Live\)](https://open.spotify.com/album/421FQJqvQRTfRkTpHSLljx) | 4:56 |
 | 40 | [Con Clavi Con Dio](https://open.spotify.com/track/59b6JxeyqIA428dgXU11iW) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 3:33 |
 | 41 | [Infestissumam](https://open.spotify.com/track/7BwScOUaIcnABifoNlK9e9) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 1:42 |
-| 42 | [Hanging Around](https://open.spotify.com/track/6OBdX7cxnza92DAzFnFBQb) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Phantomime](https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR) | 4:09 |
-| 43 | [Phantom Of The Opera](https://open.spotify.com/track/4KNuTxGlUSb9hFm8asqWuZ) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Phantom Of The Opera](https://open.spotify.com/album/3LZ9bieXF4luLjfeIE9zqb) | 7:23 |
+| 42 | [See The Light](https://open.spotify.com/track/1dgO96QXgopptwjnaeIC5l) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:05 |
+| 43 | [Hanging Around](https://open.spotify.com/track/6OBdX7cxnza92DAzFnFBQb) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Phantomime](https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR) | 4:09 |
 | 44 | [Satan Prayer](https://open.spotify.com/track/1y2iLukn4F2SUVnwF1mHfY) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 4:38 |
-| 45 | [Majesty](https://open.spotify.com/track/30ZhfyAmOmF6GN2i5fpVen) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 5:24 |
-| 46 | [Waiting For The Night](https://open.spotify.com/track/2O6jS02gu3X5eFtI6nf0y1) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 5:37 |
-| 47 | [Ghuleh / Zombie Queen](https://open.spotify.com/track/4BcsD7X41Kb68V2SMZy6MH) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 7:29 |
+| 45 | [Phantom Of The Opera](https://open.spotify.com/track/4KNuTxGlUSb9hFm8asqWuZ) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Phantom Of The Opera](https://open.spotify.com/album/3LZ9bieXF4luLjfeIE9zqb) | 7:23 |
+| 46 | [Majesty](https://open.spotify.com/track/30ZhfyAmOmF6GN2i5fpVen) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 5:24 |
+| 47 | [Waiting For The Night](https://open.spotify.com/track/2O6jS02gu3X5eFtI6nf0y1) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 5:37 |
 | 48 | [Stand by Him](https://open.spotify.com/track/7w9T4qsofdkPFL1iyUrwNL) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 3:56 |
-| 49 | [Missionary Man](https://open.spotify.com/track/1YOaQUUsEzMbxk1sfmoNVE) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 3:42 |
-| 50 | [Spirit](https://open.spotify.com/track/6NlyLv5ytvhE4xOWN47V0g) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 5:15 |
+| 49 | [Ghuleh / Zombie Queen](https://open.spotify.com/track/4BcsD7X41Kb68V2SMZy6MH) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 7:29 |
+| 50 | [Devil Church \- Live from Mexico City](https://open.spotify.com/track/0WRIAl1b5gYX1nog5qE1Z2) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [2 Big To Rig \(Original Motion Picture Soundtrack / Live\)](https://open.spotify.com/album/421FQJqvQRTfRkTpHSLljx) | 1:02 |
 
-Snapshot ID: `apDPgAAAAACnmXFJtge8z3rOI0Fmslbw`
+Snapshot ID: `apIhAAAAAADbJ5IzIsTMoM6jXXW9Wx4Y`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6nuo9FYCAGV0WalhCluicG.md) - [plain]
 
 > The hottest UK rap, drill, grime and hip\-hop right now\. British rap, drill rap and freestyle rap, with british grime, british bangers and bangers only from Nemzzz, EsDeeKid, KidWild and more\. Cover: Nemzzz.
 
-[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 70,460 likes - 70 songs - 3 hr 6 min
+[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 70,452 likes - 70 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

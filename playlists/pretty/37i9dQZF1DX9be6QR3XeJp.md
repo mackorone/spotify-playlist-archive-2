@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: TR Gobrazy
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,367 likes - 295 songs - 15 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,362 likes - 295 songs - 15 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

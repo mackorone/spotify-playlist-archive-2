@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Wine Lips
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,692 likes - 147 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,685 likes - 147 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

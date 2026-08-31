@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 
 > This is Ana Bárbara\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,642 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,647 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 21 | [Solos](https://open.spotify.com/track/3byH3GMx87vBLSFF3tzh9n) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Lo Más Escuchado De](https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU) | 3:06 |
 | 22 | [Te Metiste](https://open.spotify.com/track/3TGHcASjfvxAdjg92V63y5) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Te Metiste](https://open.spotify.com/album/1fulO1nte9iyff5EOhVj37) | 3:44 |
 | 23 | [La Jugada](https://open.spotify.com/track/4JYL9I4fOKA1uculx98rr0) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Bordado a Mano](https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh) | 3:53 |
-| 24 | [Cuento de Nunca Acabar](https://open.spotify.com/track/7ME9Kgu1z5orVDams1huX8) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [¡VIDA MÉXICO!](https://open.spotify.com/album/3PprJqLFUtCqjt4rzS7IPm) | 3:43 |
-| 25 | [Mi Rey, Mi Santo](https://open.spotify.com/track/5n4BnFiMplTaN0p4rHxKAf) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Mi Rey, Mi Santo](https://open.spotify.com/album/6Mw6BYuc79mmmSI2uYObYe) | 2:44 |
+| 24 | [Mi Rey, Mi Santo](https://open.spotify.com/track/5n4BnFiMplTaN0p4rHxKAf) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Mi Rey, Mi Santo](https://open.spotify.com/album/6Mw6BYuc79mmmSI2uYObYe) | 2:44 |
+| 25 | [Cuento de Nunca Acabar](https://open.spotify.com/track/7ME9Kgu1z5orVDams1huX8) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [¡VIDA MÉXICO!](https://open.spotify.com/album/3PprJqLFUtCqjt4rzS7IPm) | 3:43 |
 | 26 | [Reza y Reza](https://open.spotify.com/track/6Z6FqnImFvNvxg9aHW2HKz) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 2:52 |
 | 27 | [Capullo Y Sorullo](https://open.spotify.com/track/7bLdwOQ7kLW7sWCIiewffp) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Cumbias Para Bailar](https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne) | 4:41 |
 | 28 | [Eso No Es De Hombres](https://open.spotify.com/track/1ZdEnOa9OCyF2m2LXXz2aj) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Te Regalo La Lluvia](https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 49 | [Nuestra Canción](https://open.spotify.com/track/7iOdfDA960q7Y4TQhaN3eA) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Vozes](https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR) | 3:33 |
 | 50 | [Ahora Te Llamas Ex](https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF) | [Estibaliz Badiola](https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ahora Te Llamas Ex](https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO) | 2:29 |
 
-Snapshot ID: `apDPgAAAAAB0KEq4z8FnCclTc9icWvtl`
+Snapshot ID: `apIhAAAAAAAY3qGEF0HczQXKj88kK6MD`

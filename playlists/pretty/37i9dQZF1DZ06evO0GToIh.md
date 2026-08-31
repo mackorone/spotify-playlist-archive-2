@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 
 > This is Eden Muñoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,853 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,060 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 24 | [Mientes Tan Bien](https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 3:52 |
 | 25 | [Llorar Por Ella](https://open.spotify.com/track/3VVQwgH72ke5lwjuHKMgdb) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [GARCÍA](https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo) | 2:48 |
 | 26 | [Mi Lugar Favorito](https://open.spotify.com/track/1gYG0DmOex4cswuejfN1H1) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Eden](https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt) | 4:05 |
-| 27 | [Enamórate de Mí](https://open.spotify.com/track/5EwWE1dReiNPEJ9xpUL0ZS) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Piedras a la Luna](https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI) | 2:50 |
-| 28 | [Provocame \- En Vivo](https://open.spotify.com/track/6ORL6XCAtzCMBl9AFQGKe7) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 3:09 |
+| 27 | [Provocame \- En Vivo](https://open.spotify.com/track/6ORL6XCAtzCMBl9AFQGKe7) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 3:09 |
+| 28 | [Enamórate de Mí](https://open.spotify.com/track/5EwWE1dReiNPEJ9xpUL0ZS) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Piedras a la Luna](https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI) | 2:50 |
 | 29 | [Coleccionando Heridas](https://open.spotify.com/track/3A6JavykTX0AKvePIwxzaA) | [Tony García](https://open.spotify.com/artist/1NxRZcV0D66HCRfWrjjLja), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Coleccionando Heridas](https://open.spotify.com/album/49FioVijez4ufouOFO0GOu) | 3:52 |
 | 30 | [Para Que Seas Feliz \- Desde Mexico](https://open.spotify.com/track/2FjZ1xUf2HASAodSGlnyTw) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Para Que Seas Feliz \(Desde Mexico\)](https://open.spotify.com/album/4OpxCiCgxucjYara2UOhno) | 4:03 |
 | 31 | [Te Juro Que Te Amo](https://open.spotify.com/track/3qtGLAar7AhrbwLegrYOUE) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Juro Que Te Amo](https://open.spotify.com/album/048hj9COAKtTGGm3YyO02H) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 49 | [Piedras a la Luna](https://open.spotify.com/track/2Cz7K3xFrJIYMkpxDbrqtu) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Piedras a la Luna](https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI) | 3:12 |
 | 50 | [Cómo Me Duele \- En Vivo](https://open.spotify.com/track/1uiTRczUXLbN8aR4SXzlPv) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Los Prohibidos en Concierto \(En Vivo\)](https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6) | 2:38 |
 
-Snapshot ID: `apDPgAAAAABO1dveX341Fg0dUvXZP2I5`
+Snapshot ID: `apIhAAAAAAC+5zxt8qjxJUfdPPHcGIEB`

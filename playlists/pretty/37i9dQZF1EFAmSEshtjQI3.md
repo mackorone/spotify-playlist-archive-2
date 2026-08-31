@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 | 20 | [Nada de Nada](https://open.spotify.com/track/13bCqpVBFPdxdYdApC9zal) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d), [Ale Zéguer](https://open.spotify.com/artist/56WrqjnxbwgEn7gJfb9DAL) | [Si Te Soy Sincera](https://open.spotify.com/album/47j1U8lpzS5kSk83CubowG) | 3:36 |
 | 21 | [Nuez](https://open.spotify.com/track/3ncIYCJwMwDr3utfwl0SXy) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Más Sincera](https://open.spotify.com/album/6WXESBAoeujrFeIigHNL5w) | 3:32 |
 | 22 | [Fui Lo Que Soy](https://open.spotify.com/track/7Kjl77gI01AAjAy2CZMyvn) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [La Piti](https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9) | 2:32 |
-| 23 | [La Mitad](https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:36 |
-| 24 | [El Segundo Amor](https://open.spotify.com/track/5fqxX5DlSYhkqVHEHahZTg) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [¿Qué Significa El Amor?](https://open.spotify.com/album/1tRHRbIHP3vNA6M6h598xe) | 2:44 |
+| 23 | [El Segundo Amor](https://open.spotify.com/track/5fqxX5DlSYhkqVHEHahZTg) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [¿Qué Significa El Amor?](https://open.spotify.com/album/1tRHRbIHP3vNA6M6h598xe) | 2:44 |
+| 24 | [La Mitad](https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:36 |
 | 25 | [No Voy a Ser Yo](https://open.spotify.com/track/3pTFpnRvJgqWquLA0OtOLz) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/47j1U8lpzS5kSk83CubowG) | 2:55 |
 | 26 | [Buffet](https://open.spotify.com/track/5LYXZwcmOvSus9nnO1vDPe) | [Andrés Koi](https://open.spotify.com/artist/52nf6FtXCWlUMJP1GVhiN2) | [AIJAG](https://open.spotify.com/album/1wmBXbc3FmuAswqvDwhycq) | 2:45 |
 | 27 | [Pegaíto](https://open.spotify.com/track/1RFWaEBbwIZV6ZcpuZzZC8) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo) | [Pegaíto](https://open.spotify.com/album/0HdmTSwkvLqGCXg7VQ2pPX) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 | 49 | [Interludio](https://open.spotify.com/track/0xyye8Abk4w9bW5LwMr7Eh) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/47j1U8lpzS5kSk83CubowG) | 0:32 |
 | 50 | [Mas De Lo Que Aposte](https://open.spotify.com/track/4X2ezaWpxfNSCVEJ9yFB9h) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Aitana](https://open.spotify.com/album/6UiWhpHVN9pgySpp8DCdyQ) | 6:40 |
 
-Snapshot ID: `Aca6PAAAAACk6ZJ+A6uF48F64duk9TVZ`
+Snapshot ID: `Aca/3AAAAAAJXxzjRjX0AWPm9ZDORrHM`

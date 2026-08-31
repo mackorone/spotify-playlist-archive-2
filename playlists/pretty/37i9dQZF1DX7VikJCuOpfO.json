@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Ra\u00fal Beltan \ud83d\udcf8",
-  "num_followers": 368416,
+  "num_followers": 368436,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -179,18 +179,22 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "De Otro Planeta",
-        "url": "https://open.spotify.com/album/3CliW6dLoz7JQaS7DB2y2b"
+        "name": "Monumental (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
+        "url": "https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE"
       },
       "artists": [
         {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 178000,
-      "name": "De Otro Planeta",
-      "url": "https://open.spotify.com/track/1kTi1NUd5lHAJqOn0hZUUB"
+      "duration_ms": 274696,
+      "name": "Si No Piensas Cambiar - En Vivo Desde la Plaza de Toros la M\u00e9xico",
+      "url": "https://open.spotify.com/track/3S2Ir1eoUXtNXtrlk0pgkp"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -211,22 +215,18 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "Monumental (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
-        "url": "https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE"
+        "name": "De Otro Planeta",
+        "url": "https://open.spotify.com/album/3CliW6dLoz7JQaS7DB2y2b"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
         }
       ],
-      "duration_ms": 274696,
-      "name": "Si No Piensas Cambiar - En Vivo Desde la Plaza de Toros la M\u00e9xico",
-      "url": "https://open.spotify.com/track/3S2Ir1eoUXtNXtrlk0pgkp"
+      "duration_ms": 178000,
+      "name": "De Otro Planeta",
+      "url": "https://open.spotify.com/track/1kTi1NUd5lHAJqOn0hZUUB"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
+        "name": "El Hombre Que Yo Amo",
+        "url": "https://open.spotify.com/album/4ArEpA1Bc0YsOi4Z9buUaF"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 235338,
+      "name": "El Hombre Que Yo Amo",
+      "url": "https://open.spotify.com/track/1RNvvxEefsU6PmBJDVcT4I"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
         "name": "Y a ti, \u00bfQu\u00e9 tal te va?",
         "url": "https://open.spotify.com/album/3SrmR3w0a5hEE7QydHFkjX"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 159466,
       "name": "Y a ti, \u00bfQu\u00e9 tal te va?",
       "url": "https://open.spotify.com/track/7eaCDVH7jAc7pFp64radbq"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
-        "name": "El Hombre Que Yo Amo",
-        "url": "https://open.spotify.com/album/4ArEpA1Bc0YsOi4Z9buUaF"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 235338,
-      "name": "El Hombre Que Yo Amo",
-      "url": "https://open.spotify.com/track/1RNvvxEefsU6PmBJDVcT4I"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "La Noche de Mi Mal (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/0ZbRQiYvzz50QfD0YwOyxO"
-      },
-      "artists": [
-        {
-          "name": "Kaylanie Barrera",
-          "url": "https://open.spotify.com/artist/2j3qEhbr3yzytI7ozGIHWN"
-        }
-      ],
-      "duration_ms": 240864,
-      "name": "La Noche de Mi Mal",
-      "url": "https://open.spotify.com/track/1Nu2dm44T3NoGBiAdioDKD"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
         "name": "Caballero",
         "url": "https://open.spotify.com/album/0uMwiQiHNtJcaofBMEobOj"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 227338,
       "name": "Caballero",
       "url": "https://open.spotify.com/track/5Y5ruNeWwtOxIIPN9x2GAt"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "La Noche de Mi Mal (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/0ZbRQiYvzz50QfD0YwOyxO"
+      },
+      "artists": [
+        {
+          "name": "Kaylanie Barrera",
+          "url": "https://open.spotify.com/artist/2j3qEhbr3yzytI7ozGIHWN"
+        }
+      ],
+      "duration_ms": 240864,
+      "name": "La Noche de Mi Mal",
+      "url": "https://open.spotify.com/track/1Nu2dm44T3NoGBiAdioDKD"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "As\u00ed Fue",
-        "url": "https://open.spotify.com/album/7HVzgfaschYlAQZzlenb6g"
-      },
-      "artists": [
-        {
-          "name": "ANDYVERE",
-          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
-        }
-      ],
-      "duration_ms": 426232,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/5YNlvxFFdcS1Jili8ln0ZP"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
         "name": "Me Nace Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr"
       },
@@ -999,54 +983,6 @@
       "duration_ms": 164117,
       "name": "Me Nace Del Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
-        "name": "Pagar\u00e9 Condena",
-        "url": "https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Tostado",
-          "url": "https://open.spotify.com/artist/4arqPiSaDf0CHApe1QN2Jp"
-        }
-      ],
-      "duration_ms": 164960,
-      "name": "Pagar\u00e9 Condena",
-      "url": "https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
-        "name": "\u00c9chenle Sal a la Herida",
-        "url": "https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E"
-      },
-      "artists": [
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        }
-      ],
-      "duration_ms": 199887,
-      "name": "Este Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6hYcfxnJxSdErfjN61a7db"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
-        "name": "Esa Perra Ya Me Mordi\u00f3",
-        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 210592,
-      "name": "Esa Perra Ya Me Mordi\u00f3",
-      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -1067,6 +1003,54 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
+        "name": "Pagar\u00e9 Condena",
+        "url": "https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Tostado",
+          "url": "https://open.spotify.com/artist/4arqPiSaDf0CHApe1QN2Jp"
+        }
+      ],
+      "duration_ms": 164960,
+      "name": "Pagar\u00e9 Condena",
+      "url": "https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "Esa Perra Ya Me Mordi\u00f3",
+        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 210592,
+      "name": "Esa Perra Ya Me Mordi\u00f3",
+      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "\u00c9chenle Sal a la Herida",
+        "url": "https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        }
+      ],
+      "duration_ms": 199887,
+      "name": "Este Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6hYcfxnJxSdErfjN61a7db"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
         "name": "Playa Sola",
         "url": "https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 164460,
       "name": "Playa Sola",
       "url": "https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "As\u00ed Fue",
+        "url": "https://open.spotify.com/album/7HVzgfaschYlAQZzlenb6g"
+      },
+      "artists": [
+        {
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
+        }
+      ],
+      "duration_ms": 426232,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/5YNlvxFFdcS1Jili8ln0ZP"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "El Hielo Est\u00e1 Quemando",
-        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 189884,
-      "name": "El Hielo Est\u00e1 Quemando",
-      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
         "name": "Porque la vida fue tan injusta",
         "url": "https://open.spotify.com/album/1mqinqq5gulmdyVKo2yFG9"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 182424,
       "name": "Porque la vida fue tan injusta",
       "url": "https://open.spotify.com/track/0UFITqMeRXH6cqgSIYN1pr"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "El Hielo Est\u00e1 Quemando",
+        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 189884,
+      "name": "El Hielo Est\u00e1 Quemando",
+      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "Un Abrazo (Versi\u00f3n Regional)",
-        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "Un Abrazo - Versi\u00f3n Regional",
-      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
         "name": "Pintando sue\u00f1os",
         "url": "https://open.spotify.com/album/14V5KPb8H43N7f5ND1JF3x"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 222080,
       "name": "Pintando sue\u00f1os",
       "url": "https://open.spotify.com/track/4UKmYn5sjGpalQ30l1ixwG"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "Un Abrazo (Versi\u00f3n Regional)",
+        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "Un Abrazo - Versi\u00f3n Regional",
+      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
     },
     {
       "added_at": "2026-08-14 06:00:30",

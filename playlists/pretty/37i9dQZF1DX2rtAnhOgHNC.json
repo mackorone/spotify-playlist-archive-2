@@ -1,6 +1,6 @@
 {
   "description": "Los grandes \u00e9xitos de la d\u00e9cada pasada, en M\u00e9xico. Carla Morrison en portada.",
-  "num_followers": 257449,
+  "num_followers": 257485,
   "original_name": "Los 2010 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 221800,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
         "name": "Dejarte De Amar",
         "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 205160,
       "name": "Mientes",
       "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -227,22 +227,6 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
-        "name": "Me Dej\u00e9 Llevar",
-        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 233546,
-      "name": "Probablemente",
-      "url": "https://open.spotify.com/track/4prmUBle7TtAeeUgCnsc3Z"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
         "name": "Amor a Primera Vista",
         "url": "https://open.spotify.com/album/6FSP9t3yTTFO6hOBkIxOIY"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 220941,
       "name": "Amor a Primera Vista",
       "url": "https://open.spotify.com/track/5M6bJO7Cfl4lnPoAHG0EdD"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
+        "name": "Me Dej\u00e9 Llevar",
+        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 233546,
+      "name": "Probablemente",
+      "url": "https://open.spotify.com/track/4prmUBle7TtAeeUgCnsc3Z"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -323,22 +323,6 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
-        "name": "Programaton",
-        "url": "https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Arrullo De Estrellas",
-      "url": "https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 266015,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
+        "name": "Programaton",
+        "url": "https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Arrullo De Estrellas",
+      "url": "https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA"
     },
     {
       "added_at": "2023-03-14 03:28:43",
@@ -407,6 +407,22 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
+        "name": "Dejarte De Amar",
+        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 258532,
+      "name": "Al\u00e9jate de M\u00ed",
+      "url": "https://open.spotify.com/track/15AbuFJdFrbINydSMSqVhV"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
         "name": "Aztl\u00e1n",
         "url": "https://open.spotify.com/album/0yFFH0eR0XJSoF0S5d5peT"
       },
@@ -423,18 +439,18 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
-        "name": "Dejarte De Amar",
-        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+        "name": "Mi Persona Preferida",
+        "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
       },
       "artists": [
         {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
         }
       ],
-      "duration_ms": 258532,
-      "name": "Al\u00e9jate de M\u00ed",
-      "url": "https://open.spotify.com/track/15AbuFJdFrbINydSMSqVhV"
+      "duration_ms": 186653,
+      "name": "Seremos",
+      "url": "https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -459,22 +475,6 @@
       "duration_ms": 217253,
       "name": "Indeciso",
       "url": "https://open.spotify.com/track/59s0s39NFWScuHDbHytI14"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
-        "name": "Mi Persona Preferida",
-        "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 186653,
-      "name": "Seremos",
-      "url": "https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -531,6 +531,22 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
+        "name": "Imperfecto Extra\u00f1o",
+        "url": "https://open.spotify.com/album/1xWHQFcS9qDf0cXX6NXcPK"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 265386,
+      "name": "Vida En El Espejo",
+      "url": "https://open.spotify.com/track/2yThUakfNYwaToGaKJxKEK"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
         "name": "Peligro",
         "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 291866,
       "name": "Amor Clandestino",
       "url": "https://open.spotify.com/track/5etssK2rpk4SnHWWD1Q6xn"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
-        "name": "Imperfecto Extra\u00f1o",
-        "url": "https://open.spotify.com/album/1xWHQFcS9qDf0cXX6NXcPK"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 265386,
-      "name": "Vida En El Espejo",
-      "url": "https://open.spotify.com/track/2yThUakfNYwaToGaKJxKEK"
     },
     {
       "added_at": "2022-02-24 02:27:38",
@@ -607,6 +607,22 @@
       "duration_ms": 192973,
       "name": "Solo Con Verte",
       "url": "https://open.spotify.com/track/5z4O1H0vFY0Nh4ZMtfgapP"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
+        "name": "Dalt\u00f3nico",
+        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 224085,
+      "name": "Dulce Soledad",
+      "url": "https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg"
     },
     {
       "added_at": "2021-06-16 14:03:20",
@@ -647,22 +663,6 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
-        "name": "Dalt\u00f3nico",
-        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 224085,
-      "name": "Dulce Soledad",
-      "url": "https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
         "name": "El Problema",
         "url": "https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s"
       },
@@ -699,6 +699,22 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
+        "name": "Dalt\u00f3nico",
+        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 224085,
+      "name": "Visita",
+      "url": "https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
         "name": "30 de Febrero",
         "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 225480,
       "name": "Amigos No por Favor (Primera Fila) - En Vivo",
       "url": "https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
-        "name": "Dalt\u00f3nico",
-        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 224085,
-      "name": "Visita",
-      "url": "https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI"
     },
     {
       "added_at": "2021-06-16 14:03:20",

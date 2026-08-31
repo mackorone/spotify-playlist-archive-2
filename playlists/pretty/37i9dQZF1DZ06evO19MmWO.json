@@ -1,12 +1,12 @@
 {
   "description": "This is Little Walter. The essential tracks, all in one playlist.",
-  "num_followers": 7343,
+  "num_followers": 7344,
   "original_name": "This Is Little Walter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABETNLbxvlP6QoAqRi9RviS",
+  "snapshot_id": "apIhAAAAAACmbQwKGPY0iLK8L0L1v6OF",
   "tracks": [
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 341560,
-      "name": "I'm A Man",
-      "url": "https://open.spotify.com/track/1l4xHvN0jjPQKCqmal7Ybn"
+      "duration_ms": 250800,
+      "name": "You Don't Love Me",
+      "url": "https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
       "duration_ms": 160773,
       "name": "I Got To Go",
       "url": "https://open.spotify.com/track/1Kf6OIqtYE5QZkLLWJg9DG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Complete Chess Masters (1950 - 1967)",
-        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 180293,
-      "name": "Teenage Beat",
-      "url": "https://open.spotify.com/track/5gKVjyfO3xGZcozwf7KH1g"
     },
     {
       "added_at": null,
@@ -611,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Complete Chess Masters (1950 - 1967)",
+        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 180293,
+      "name": "Teenage Beat",
+      "url": "https://open.spotify.com/track/5gKVjyfO3xGZcozwf7KH1g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 250800,
-      "name": "You Don't Love Me",
-      "url": "https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq"
+      "duration_ms": 341560,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/1l4xHvN0jjPQKCqmal7Ybn"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 254506,
-      "name": "Who Do You Love",
-      "url": "https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh"
+      "duration_ms": 209826,
+      "name": "You Can't Judge A Book By Its Cover",
+      "url": "https://open.spotify.com/track/2HD83NXZZRx68thhkaZk6H"
     },
     {
       "added_at": null,
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 209826,
-      "name": "You Can't Judge A Book By Its Cover",
-      "url": "https://open.spotify.com/track/2HD83NXZZRx68thhkaZk6H"
+      "duration_ms": 254506,
+      "name": "Who Do You Love",
+      "url": "https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Alabama Shakes
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,091 likes - 201 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,289 likes - 201 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

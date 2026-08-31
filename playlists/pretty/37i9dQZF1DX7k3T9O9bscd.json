@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Tame Impala on cover.",
-  "num_followers": 581046,
+  "num_followers": 581083,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGTsmJ+pVtiRxkhJWiJ+xf2t1Aqk",
+  "snapshot_id": "AAAAAHFmsTNVu7eMb3oBzYJ7X3JmZO9O",
   "tracks": [
     {
       "added_at": "2026-08-21 04:10:49",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "In Good Time",
-        "url": "https://open.spotify.com/album/6LAM6rSY9hy2gTpEJrH3rS"
-      },
-      "artists": [
-        {
-          "name": "Meltt",
-          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "In Good Time",
-      "url": "https://open.spotify.com/track/7xddztgdnNHCQCNz0QA8k6"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "CURSE",
         "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 148525,
       "name": "DEATH COMES FROM THE SKY",
       "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "In Good Time",
+        "url": "https://open.spotify.com/album/6LAM6rSY9hy2gTpEJrH3rS"
+      },
+      "artists": [
+        {
+          "name": "Meltt",
+          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "In Good Time",
+      "url": "https://open.spotify.com/track/7xddztgdnNHCQCNz0QA8k6"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Egypt",
-        "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
-      },
-      "artists": [
-        {
-          "name": "KYANOS",
-          "url": "https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD"
-        }
-      ],
-      "duration_ms": 261634,
-      "name": "Egypt",
-      "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "Barrio Hustle",
         "url": "https://open.spotify.com/album/2AEaojPi8YQ9nXo7pip5lV"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 194400,
       "name": "Barrio Hustle",
       "url": "https://open.spotify.com/track/6FOc4NSB1VANpAu1e24JbC"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "Egypt",
+        "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
+      },
+      "artists": [
+        {
+          "name": "KYANOS",
+          "url": "https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD"
+        }
+      ],
+      "duration_ms": 261634,
+      "name": "Egypt",
+      "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Are You Tired? (Keep on Singing)",
-        "url": "https://open.spotify.com/album/6bfQx9nxndQu5zU3G4qBW7"
-      },
-      "artists": [
-        {
-          "name": "DARKSIDE",
-          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
-        }
-      ],
-      "duration_ms": 404562,
-      "name": "Are You Tired? (Keep on Singing)",
-      "url": "https://open.spotify.com/track/7qONmzQvjWnzQAbBrRqKrB"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "V.",
         "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 383100,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "Are You Tired? (Keep on Singing)",
+        "url": "https://open.spotify.com/album/6bfQx9nxndQu5zU3G4qBW7"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "duration_ms": 404562,
+      "name": "Are You Tired? (Keep on Singing)",
+      "url": "https://open.spotify.com/track/7qONmzQvjWnzQAbBrRqKrB"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "A Dream of Lasting Peace",
-        "url": "https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw"
-      },
-      "artists": [
-        {
-          "name": "Siena Root",
-          "url": "https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "Kundela Mawedi",
         "url": "https://open.spotify.com/album/5AHhPN1GiSsxdlbBZmlThN"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 337241,
       "name": "Kundela Mawedi",
       "url": "https://open.spotify.com/track/3lGcSLtbK1vBbm7CbXWULD"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "A Dream of Lasting Peace",
+        "url": "https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw"
+      },
+      "artists": [
+        {
+          "name": "Siena Root",
+          "url": "https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Fudge Sandwich",
-        "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
-      },
-      "artists": [
-        {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
-        }
-      ],
-      "duration_ms": 240320,
-      "name": "Hit It and Quit It",
-      "url": "https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "Right or Wrong",
         "url": "https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 207665,
       "name": "Right or Wrong",
       "url": "https://open.spotify.com/track/3iblchfWSkursOZywc1MyH"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
+        "name": "Fudge Sandwich",
+        "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "duration_ms": 240320,
+      "name": "Hit It and Quit It",
+      "url": "https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
+        "name": "WILLING",
+        "url": "https://open.spotify.com/album/0Ye4lZJZJor3sJj4uAEOYE"
+      },
+      "artists": [
+        {
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "WILLING",
+      "url": "https://open.spotify.com/track/2hf3RcWaexBbDBuUfY4QfD"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
         "name": "Bud Spencer Blues Explosion",
         "url": "https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL"
       },
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
-        "name": "Season Finale",
-        "url": "https://open.spotify.com/album/1vnozWw44b4fNNhV4sSNQP"
-      },
-      "artists": [
-        {
-          "name": "The Holydrug Couple",
-          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
-        }
-      ],
-      "duration_ms": 200476,
-      "name": "Season Finale",
-      "url": "https://open.spotify.com/track/3LSAVMvco9SOlZgOePCwYz"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
         "name": "Another Quiet Sunday",
         "url": "https://open.spotify.com/album/0vLznsp55OgjDuuhAUSE8z"
       },
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
+        "name": "Season Finale",
+        "url": "https://open.spotify.com/album/1vnozWw44b4fNNhV4sSNQP"
+      },
+      "artists": [
+        {
+          "name": "The Holydrug Couple",
+          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
+        }
+      ],
+      "duration_ms": 200476,
+      "name": "Season Finale",
+      "url": "https://open.spotify.com/track/3LSAVMvco9SOlZgOePCwYz"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
         "name": "Django's High",
         "url": "https://open.spotify.com/album/05ToJnopcSnLYnbO0u8Mxq"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 183978,
       "name": "Casino",
       "url": "https://open.spotify.com/track/2F6OAlmLqW0MmRA4Qo5o6W"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
-        "name": "WILLING",
-        "url": "https://open.spotify.com/album/0Ye4lZJZJor3sJj4uAEOYE"
-      },
-      "artists": [
-        {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "WILLING",
-      "url": "https://open.spotify.com/track/2hf3RcWaexBbDBuUfY4QfD"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
+        "name": "Non Ex Orbis",
+        "url": "https://open.spotify.com/album/1XczGr1lyHPJpaTJ7KHNXq"
+      },
+      "artists": [
+        {
+          "name": "Karl Hector & The Malcouns",
+          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
+        }
+      ],
+      "duration_ms": 486860,
+      "name": "Mother Seletta",
+      "url": "https://open.spotify.com/track/3q6wLmKG8EalzV3bcxNmQt"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
         "name": "Not Normal",
         "url": "https://open.spotify.com/album/0QtFYcwClPF5RW3tYyfeMx"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 207000,
       "name": "The Seaside - Edit",
       "url": "https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
-        "name": "Non Ex Orbis",
-        "url": "https://open.spotify.com/album/1XczGr1lyHPJpaTJ7KHNXq"
-      },
-      "artists": [
-        {
-          "name": "Karl Hector & The Malcouns",
-          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
-        }
-      ],
-      "duration_ms": 486860,
-      "name": "Mother Seletta",
-      "url": "https://open.spotify.com/track/3q6wLmKG8EalzV3bcxNmQt"
     },
     {
       "added_at": "2026-08-21 04:10:49",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2026-08-21 04:10:49",
       "album": {
+        "name": "El Veh\u00edculo de las Transformaciones",
+        "url": "https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd"
+      },
+      "artists": [
+        {
+          "name": "Mirror Revelations",
+          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
+        }
+      ],
+      "duration_ms": 352542,
+      "name": "El Veh\u00edculo de las Transformaciones",
+      "url": "https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx"
+    },
+    {
+      "added_at": "2026-08-21 04:10:49",
+      "album": {
         "name": "Alquimista",
         "url": "https://open.spotify.com/album/1UBCy7CCPsiZQ63hHETUNo"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 189000,
       "name": "Alquimista",
       "url": "https://open.spotify.com/track/188iyS5xe99axE3wX2pPAD"
-    },
-    {
-      "added_at": "2026-08-21 04:10:49",
-      "album": {
-        "name": "El Veh\u00edculo de las Transformaciones",
-        "url": "https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd"
-      },
-      "artists": [
-        {
-          "name": "Mirror Revelations",
-          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
-        }
-      ],
-      "duration_ms": 352542,
-      "name": "El Veh\u00edculo de las Transformaciones",
-      "url": "https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

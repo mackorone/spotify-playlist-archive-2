@@ -5095,6 +5095,24 @@
     },
     {
       "album": {
+        "name": "Arrochando no S\u00e3o Jo\u00e3o",
+        "url": "https://open.spotify.com/album/21yJnJ6IuFwiDLSD10CiAX"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Barreto Oficial",
+          "url": "https://open.spotify.com/artist/7bTjPVV03uXGSwNaumEmtY"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147269,
+      "name": "Empatado",
+      "url": "https://open.spotify.com/track/2R2VmRrz86KaWp8bfXFXVQ"
+    },
+    {
+      "album": {
         "name": "O Que Rola Com Voc\u00ea",
         "url": "https://open.spotify.com/album/1KTxeiiTjqZCPZKDM7LRsm"
       },

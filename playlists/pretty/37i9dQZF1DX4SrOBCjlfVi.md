@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring AZ Chike and Tyler, The Creator,  Rod Wave, Ken Carson and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,233 likes - 76 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,300 likes - 76 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 63 | [npc](https://open.spotify.com/track/5m4MNf7sbIB7PFnREkYnek) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF), [Kris Lior](https://open.spotify.com/artist/0tjBwXmR5wWsAEqO7gNtXl) | [thank you saturn](https://open.spotify.com/album/5eaZrkvAA2cTI6Qw4o66KO) | 3:13 |
 | 64 | [It's Up](https://open.spotify.com/track/1tpvUyBHHlYZ6MJKdIsrJX) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS), [Gold Haze](https://open.spotify.com/artist/5MHYuTY0bT2292EjXGNyHO) | [Less Talk, More Haze 2](https://open.spotify.com/album/3B3txLDhZIeBAZBlMLDQk5) | 1:51 |
 | 65 | [what it is freestyle](https://open.spotify.com/track/21VK9jrq46ThjPVOLZ4EwQ) | [Dave B.](https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [what it is freestyle](https://open.spotify.com/album/3CwPs61QdNR1IM0Pt4Zvk8) | 1:52 |
-| 66 | [Save The Day \(feat\. Ben Reily & Kai Ca$h\)](https://open.spotify.com/track/4T40FH1g23CfvP8AvZoJ46) | [LIFEOFTHOM](https://open.spotify.com/artist/3Lp8bQ9iwGj3ndkd1Wn2Me), [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv), [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [Save The Day \(feat\. Ben Reily & Kai Ca$h\)](https://open.spotify.com/album/1lJMD4cGo0Li2GkUR0JLFv) | 2:54 |
+| 66 | [Save The Day \(feat\. Ben Reilly & Kai Ca$h\)](https://open.spotify.com/track/4T40FH1g23CfvP8AvZoJ46) | [LIFEOFTHOM](https://open.spotify.com/artist/3Lp8bQ9iwGj3ndkd1Wn2Me), [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv), [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [Save The Day \(feat\. Ben Reilly & Kai Ca$h\)](https://open.spotify.com/album/1lJMD4cGo0Li2GkUR0JLFv) | 2:54 |
 | 67 | [The Movement](https://open.spotify.com/track/7KjDseb8ImEhyy4NrgwGPy) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi), [JR Writer](https://open.spotify.com/artist/55dc4rK8CrUWEneagloaa2), [Hell Rell](https://open.spotify.com/artist/3m1knVGHFKK57xnleGMHcJ), [Duke Da God](https://open.spotify.com/artist/4X0sWWlquW1WjBJKqXoerj) | [Double Trouble](https://open.spotify.com/album/1FByFGlNSuSyLcvqZHx2P3) | 3:04 |
 | 68 | [No Discounts](https://open.spotify.com/track/6ihRDa0V2tnbpTI3KQHGdX) | [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE), [Skyzoo](https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc) | [No Discounts](https://open.spotify.com/album/5cE19aM19sN8z1XhljVMKK) | 3:36 |
 | 69 | [Back In That Mode](https://open.spotify.com/track/1cJVGwkQbYR1HoKAs938Uv) | [Young Chris](https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1) | [Brief Intermission](https://open.spotify.com/album/3yI6KsjvjEvRUIAchv6pj3) | 2:04 |

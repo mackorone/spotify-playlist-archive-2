@@ -1,6 +1,6 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: Temsu Clover",
-  "num_followers": 200344,
+  "num_followers": 200434,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
@@ -1285,26 +1285,6 @@
       "url": "https://open.spotify.com/track/5nBvkAMnwgWb2yUTNFkQfI"
     },
     {
-      "added_at": "2026-08-24 11:00:22",
-      "album": {
-        "name": "Khayaal",
-        "url": "https://open.spotify.com/album/0T74gRslxMbXuKxPicbV65"
-      },
-      "artists": [
-        {
-          "name": "Arijit Anand",
-          "url": "https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK"
-        },
-        {
-          "name": "Ankita Barwad",
-          "url": "https://open.spotify.com/artist/5TFZxLxVzFec55swRGsGdO"
-        }
-      ],
-      "duration_ms": 149749,
-      "name": "Khayaal",
-      "url": "https://open.spotify.com/track/7fY8qVujvm5lZBrt5Y1sIJ"
-    },
-    {
       "added_at": "2026-08-28 05:30:13",
       "album": {
         "name": "Jaane Bhi Do",
@@ -1327,6 +1307,26 @@
       "duration_ms": 170890,
       "name": "Jaane Bhi Do",
       "url": "https://open.spotify.com/track/3kjUjZmSctzPB5IpsnYhDC"
+    },
+    {
+      "added_at": "2026-08-24 11:00:22",
+      "album": {
+        "name": "Khayaal",
+        "url": "https://open.spotify.com/album/0T74gRslxMbXuKxPicbV65"
+      },
+      "artists": [
+        {
+          "name": "Arijit Anand",
+          "url": "https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK"
+        },
+        {
+          "name": "Ankita Barwad",
+          "url": "https://open.spotify.com/artist/5TFZxLxVzFec55swRGsGdO"
+        }
+      ],
+      "duration_ms": 149749,
+      "name": "Khayaal",
+      "url": "https://open.spotify.com/track/7fY8qVujvm5lZBrt5Y1sIJ"
     },
     {
       "added_at": "2026-08-24 11:00:22",

@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,305 songs - 3 day 4 hr 40 min
+1,306 songs - 3 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Curious about your weekend](https://open.spotify.com/track/5NxOQx2DtKVYzT0D9RYQ8B) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [TOWN BEAT](https://open.spotify.com/album/5Hw4dows7KZqGmPASR7qWR) | 4:09 | 2026-01-14 | 2026-03-16 |
 | [CYM](https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [CYM](https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA) | 4:09 | 2025-03-26 | 2025-05-14 |
 | [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 | 2025-07-16 | 2026-01-15 |
+| [DADAMAN](https://open.spotify.com/track/5O9aVGryqU0Um5l4a1pezL) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [ROADRUNNER](https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj) | 2:41 | 2026-08-26 |  |
 | [Damn!](https://open.spotify.com/track/7f8eO8Gd4FNZZemvweT31N) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Damn!](https://open.spotify.com/album/58iLEcJ5gjmwjPH4T8Ahy9) | 2:41 | 2023-02-28 | 2023-03-15 |
 | [Dance on the World](https://open.spotify.com/track/13tDpWgAdJZL45ol6PiDFO) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [Dance on the World](https://open.spotify.com/album/1wUkp1ilstsvGjEduv4l7d) | 3:34 | 2024-11-27 | 2024-12-18 |
 | [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \(Deluxe\)](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 | 2024-10-11 | 2024-11-25 |
@@ -1068,7 +1069,7 @@
 | [traveling \- Re\-Recording](https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [SCIENCE FICTION](https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW) | 5:08 | 2024-04-16 | 2024-10-23 |
 | [trees for the woods](https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [trees for the woods](https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a) | 4:07 | 2026-07-29 |  |
 | [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 | 2023-08-31 | 2023-10-11 |
-| [True](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [True](https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo) | 2:05 | 2024-08-14 |  |
+| [True](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [True](https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo) | 2:05 | 2024-08-14 | 2026-08-31 |
 | [TRUE ROMANCE](https://open.spotify.com/track/2Z5YReCk1v75kXOOJnz6Dw) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [TRUE ROMANCE](https://open.spotify.com/album/28fndfGuME4dOzZ4UH4zOB) | 3:26 | 2022-11-15 | 2022-11-30 |
 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 | 2024-05-14 | 2025-03-31 |
 | [Trust the Change](https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Trust the change](https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu) | 3:21 | 2022-10-20 | 2022-11-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 
 > This is Twenty One Pilots\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,449,455 likes - 45 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,449,536 likes - 45 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 | 6 | [Chlorine](https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 5:24 |
 | 7 | [Ride](https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:34 |
 | 8 | [RAWFEAR](https://open.spotify.com/track/43ee3gqWBlPKe2MeGJ2S6I) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 3:22 |
-| 9 | [The Line \(from the series Arcane League of Legends\)](https://open.spotify.com/track/52IZK2QdSxUf7O5gdwhail) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/18r1yGUJUNHXYj1DQU0qIE) | 3:12 |
+| 9 | [The Line \- from the series Arcane League of Legends](https://open.spotify.com/track/52IZK2QdSxUf7O5gdwhail) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/18r1yGUJUNHXYj1DQU0qIE) | 3:12 |
 | 10 | [Navigating](https://open.spotify.com/track/3gy21TwRSP40aUMwcY7Rtq) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:43 |
 | 11 | [Doubt](https://open.spotify.com/track/57yL3161hUMuw06zzzUCHi) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:11 |
 | 12 | [One Way](https://open.spotify.com/track/5QzlDlRuT9D5LdpybJoNYi) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 2:43 |
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 | 38 | [Saturday](https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:52 |
 | 39 | [Morph](https://open.spotify.com/track/01vv2AjxgP4uUyb8waYO5Y) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 4:18 |
 | 40 | [Guns for Hands](https://open.spotify.com/track/4RdRa3qq0GBSKjomxrkh5K) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 4:33 |
-| 41 | [Nico/Heavydirtysoul \- Live in Mexico City](https://open.spotify.com/track/7EoHimXt4xsKlCbmlfe346) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [More Than We Ever Imagined \(Live in Mexico City\)](https://open.spotify.com/album/7dUxfVqKIjBK0vqR1GxAjr) | 7:02 |
+| 41 | [Fall Away](https://open.spotify.com/track/6aeKPkMywDDYWtPBsbfO50) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Twenty One Pilots](https://open.spotify.com/album/6rgWZP4QFBjEFF0n6JWEOa) | 3:02 |
 | 42 | [Choker](https://open.spotify.com/track/732E6ibFkQR5lNIPEeiEnx) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 3:43 |
-| 43 | [Fall Away](https://open.spotify.com/track/6aeKPkMywDDYWtPBsbfO50) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Twenty One Pilots](https://open.spotify.com/album/6rgWZP4QFBjEFF0n6JWEOa) | 3:02 |
+| 43 | [Nico/Heavydirtysoul \- Live in Mexico City](https://open.spotify.com/track/7EoHimXt4xsKlCbmlfe346) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [More Than We Ever Imagined \(Live in Mexico City\)](https://open.spotify.com/album/7dUxfVqKIjBK0vqR1GxAjr) | 7:02 |
 | 44 | [Fake You Out](https://open.spotify.com/track/3MLtopC0uho28PxZN7Zecy) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 3:51 |
 | 45 | [Car Radio \- Live in Mexico City](https://open.spotify.com/track/6yvZLQqaM09tZddJ4jL6EC) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [More Than We Ever Imagined \(Live in Mexico City\)](https://open.spotify.com/album/7dUxfVqKIjBK0vqR1GxAjr) | 5:05 |
 
-Snapshot ID: `apDPgAAAAAC7Z4NMRTBdK9AZfNDXVY18`
+Snapshot ID: `apIhAAAAAAAkMTDReLGKipC+5onkcNt7`

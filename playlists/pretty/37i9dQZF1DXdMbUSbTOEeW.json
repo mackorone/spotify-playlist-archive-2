@@ -1,6 +1,6 @@
 {
   "description": "India\u2019s biggest dance anthems, filling every dance floor right now. Cover: Dhurandhar",
-  "num_followers": 83452,
+  "num_followers": 83514,
   "original_name": "mint india",
   "owner": {
     "name": "Spotify",
@@ -711,8 +711,8 @@
     {
       "added_at": "2026-08-19 06:43:44",
       "album": {
-        "name": "Jab Talak (From \u201cCocktail 2\u201d)",
-        "url": "https://open.spotify.com/album/13TFS2PsukoC4xLHULBClg"
+        "name": "Tere Pyaar Mein (From \"Tu Jhoothi Main Makkaar\")",
+        "url": "https://open.spotify.com/album/5uAi4ZZc7zRdd6PsKNcJXO"
       },
       "artists": [
         {
@@ -728,17 +728,13 @@
           "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         },
         {
-          "name": "AKASA",
-          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
-        },
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
         }
       ],
-      "duration_ms": 192203,
-      "name": "Jab Talak - From \u201cCocktail 2\u201d",
-      "url": "https://open.spotify.com/track/3KZSwka3VHbj4edxiaqxfa"
+      "duration_ms": 266094,
+      "name": "Tere Pyaar Mein",
+      "url": "https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm"
     },
     {
       "added_at": "2026-08-19 06:43:44",
@@ -843,8 +839,8 @@
     {
       "added_at": "2026-08-19 06:43:44",
       "album": {
-        "name": "Tere Pyaar Mein (From \"Tu Jhoothi Main Makkaar\")",
-        "url": "https://open.spotify.com/album/5uAi4ZZc7zRdd6PsKNcJXO"
+        "name": "Jab Talak (From \u201cCocktail 2\u201d)",
+        "url": "https://open.spotify.com/album/13TFS2PsukoC4xLHULBClg"
       },
       "artists": [
         {
@@ -860,13 +856,17 @@
           "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         },
         {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+          "name": "AKASA",
+          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
         }
       ],
-      "duration_ms": 266094,
-      "name": "Tere Pyaar Mein",
-      "url": "https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm"
+      "duration_ms": 192203,
+      "name": "Jab Talak - From \u201cCocktail 2\u201d",
+      "url": "https://open.spotify.com/track/3KZSwka3VHbj4edxiaqxfa"
     },
     {
       "added_at": "2026-08-19 06:43:44",

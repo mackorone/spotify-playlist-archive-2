@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 
 > The Indie highlights of 2018\. Cover: The 1975
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,482 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,497 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,15 +28,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 18 | [Just A Stranger \(feat\. Steve Lacy\)](https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 2:57 |
 | 19 | [1950](https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [1950](https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN) | 3:45 |
 | 20 | [You Worry Me](https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Tearing At The Seams](https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp) | 3:34 |
-| 21 | [CHANCES](https://open.spotify.com/track/439X8jGytErRiPnaoUJHju) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [NOTHIN LIKE U / CHANCES](https://open.spotify.com/album/2KVBhRpYqnjAVE4eWW3W6g) | 3:38 |
-| 22 | [Skin](https://open.spotify.com/track/467t3218y3yihFcyDGWjr0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Skin](https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW) | 3:50 |
+| 21 | [Skin](https://open.spotify.com/track/467t3218y3yihFcyDGWjr0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Skin](https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW) | 3:50 |
+| 22 | [CHANCES](https://open.spotify.com/track/439X8jGytErRiPnaoUJHju) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [NOTHIN LIKE U / CHANCES](https://open.spotify.com/album/2KVBhRpYqnjAVE4eWW3W6g) | 3:38 |
 | 23 | [When You Die](https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:23 |
 | 24 | [Happy Man](https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:11 |
 | 25 | [Humility \(feat\. George Benson\)](https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 3:17 |
 | 26 | [These Days](https://open.spotify.com/track/4gZDCOFuLCxCRWNhSEcOtJ) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Spring EP](https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw) | 3:22 |
-| 27 | [still feel.](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Now, Not Yet](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) | 4:07 |
-| 28 | [We're Going Home](https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:26 |
-| 29 | [Lemon Glow](https://open.spotify.com/track/26CfdVmYf0hNvP6SJXF0vQ) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/65bVa55LFhY4PLx0kg8LjW) | 4:04 |
+| 27 | [Lemon Glow](https://open.spotify.com/track/26CfdVmYf0hNvP6SJXF0vQ) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/65bVa55LFhY4PLx0kg8LjW) | 4:04 |
+| 28 | [still feel.](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Now, Not Yet](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) | 4:07 |
+| 29 | [We're Going Home](https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:26 |
 | 30 | [Hunger](https://open.spotify.com/track/6Ju28M6P8Y8sLjBgWjyUUD) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 3:34 |
 | 31 | [TOOTIMETOOTIMETOOTIME](https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:27 |
 | 32 | [Lemon Boy](https://open.spotify.com/track/3Yvk0ZLxMlt6ioasvdN6vB) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Lemon Boy](https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V) | 4:32 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 95 | [All I Want To Hear You Say](https://open.spotify.com/track/3X5PSHyFEfkkbIncpslasP) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [All I Want To Hear You Say](https://open.spotify.com/album/3iJnbOet5ZH5zNxlAXeuG6) | 3:09 |
 | 96 | [Heat Wave](https://open.spotify.com/track/43E0f1S0rOGCo6YYRYHjHP) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2e48GqjEwCi87gQJanb1bf) | 5:08 |
 | 97 | [Rose Petals](https://open.spotify.com/track/0NJ1LV5VblYyJsJt3EbAx7) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/7J2oRTfH14BbakDbmqMgiM) | 3:33 |
-| 98 | [Groceries](https://open.spotify.com/track/706J9prVXY8vZHhp9VGiBE) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/7oH5TTCFxugLk2JZIUReR2) | 3:37 |
-| 99 | [Vowels](https://open.spotify.com/track/2mvEB4KV6L54cfMe9bkzsw) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Solarize](https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB) | 3:04 |
-| 100 | [Drown](https://open.spotify.com/track/03ZkvqZOANKndGXfAAPywG) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Drown](https://open.spotify.com/album/6Az1XhIF7MTkO0kr5fRJOd) | 3:54 |
+| 98 | [Night Shift](https://open.spotify.com/track/2AF5Kzxb4pz7j79Ity84pP) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/01GO03odsNlNLtvNETukWT) | 6:31 |
+| 99 | [Groceries](https://open.spotify.com/track/706J9prVXY8vZHhp9VGiBE) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/7oH5TTCFxugLk2JZIUReR2) | 3:37 |
+| 100 | [Vowels](https://open.spotify.com/track/2mvEB4KV6L54cfMe9bkzsw) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Solarize](https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB) | 3:04 |
 
 Snapshot ID: `AAAAAJumZVR1LOJVq+jHu6tzznWOajB3`

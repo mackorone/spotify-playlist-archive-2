@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Naïka
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,725 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,738 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 44 | [Bwa Kale](https://open.spotify.com/track/6ITGK0FRfpKpjn3XjdUUs1) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo), [T\-Babas](https://open.spotify.com/artist/4IeZGmKfm9Fqdtv1J2Kjjb) | [Bwa Kale](https://open.spotify.com/album/6b19TYPqXNs3f4tKCSs6iU) | 3:05 |
 | 45 | [2 Gouden](https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov) | [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [2 Gouden](https://open.spotify.com/album/2tpKEaCwrm618xsJngj0Og) | 3:49 |
 | 46 | [Akouna](https://open.spotify.com/track/4LpNfAbfboWLlXw6Y3p5U5) | [Manno Beats](https://open.spotify.com/artist/7AUl5v36auGEwBGydE56uj), [Afrotronix](https://open.spotify.com/artist/1QVg0x2DyGzhhDmBqXFtYr), [Vox Sambou](https://open.spotify.com/artist/3XvwnMgNMLHbL5C6UBFy1b) | [Akouna](https://open.spotify.com/album/3mG0N03K6bRCzdrjZDv4dp) | 3:50 |
-| 47 | [Mal](https://open.spotify.com/track/1FaEZe9E5eRYbpmwBDnYYK) | [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Mal](https://open.spotify.com/album/5kPcG2Ust8TEPQ56RVJuS4) | 4:18 |
-| 48 | [Se Pa Pou Dat](https://open.spotify.com/track/6nk9ORnSVn610LBj371OZi) | [Wendyyy](https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB), [Alan Cave](https://open.spotify.com/artist/5pD6DDqepfVzBsg6y7jAv1), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Patron](https://open.spotify.com/album/12zNSP6KR2NUaEvEU7P1L2) | 4:40 |
+| 47 | [Se Pa Pou Dat](https://open.spotify.com/track/6nk9ORnSVn610LBj371OZi) | [Wendyyy](https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB), [Alan Cave](https://open.spotify.com/artist/5pD6DDqepfVzBsg6y7jAv1), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Patron](https://open.spotify.com/album/12zNSP6KR2NUaEvEU7P1L2) | 4:40 |
+| 48 | [Mal](https://open.spotify.com/track/1FaEZe9E5eRYbpmwBDnYYK) | [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Mal](https://open.spotify.com/album/5kPcG2Ust8TEPQ56RVJuS4) | 4:18 |
 | 49 | [Ke M Pa Sote](https://open.spotify.com/track/0MIAhJu1vwc8wvIjI9XbcS) | [Boukman Eksperyans](https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp) | [Vodoo Adjae](https://open.spotify.com/album/13lyhnYy2ZAFHKMRszwDAZ) | 9:34 |
 | 50 | [Crush la](https://open.spotify.com/track/4ciS4HvKpAntCCfBNpZNGP) | [Vanessa Desire](https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa), [Wendyyy](https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB) | [Fòs](https://open.spotify.com/album/4vdLW8X1NRUrlBrbamczWX) | 3:54 |
 | 51 | [Teke Fren](https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Teke Fren](https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7) | 2:57 |
@@ -95,12 +95,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 85 | [Souvni](https://open.spotify.com/track/03By3z24GvoGL4vw99AKzY) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk) | [Souvni](https://open.spotify.com/album/5DdM9v6FJNkbxFHdDtogBv) | 3:30 |
 | 86 | [Plenyen Player Yo](https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [Plenyen Player Yo](https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G) | 3:46 |
 | 87 | [Twa Fey](https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3) | [Riva Nyri Precil](https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0) | [Perle De Culture](https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v) | 4:25 |
-| 88 | [FENOMENAL](https://open.spotify.com/track/45M1foqRYk20JvPXuDMUe5) | [ÄSHH](https://open.spotify.com/artist/0I2SuBOYEBvLoVmmsNckEK) | [FENOMENAL](https://open.spotify.com/album/459nIEM8g74x2S1SWhjKYY) | 3:07 |
-| 89 | [Mpral Dòmi Nan Simityè](https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey) | [RAM](https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl) | [Ram 6: Manmanm Se Ginen](https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24) | 3:03 |
+| 88 | [Mpral Dòmi Nan Simityè](https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey) | [RAM](https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl) | [Ram 6: Manmanm Se Ginen](https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24) | 3:03 |
+| 89 | [FENOMENAL](https://open.spotify.com/track/45M1foqRYk20JvPXuDMUe5) | [ÄSHH](https://open.spotify.com/artist/0I2SuBOYEBvLoVmmsNckEK) | [FENOMENAL](https://open.spotify.com/album/459nIEM8g74x2S1SWhjKYY) | 3:07 |
 | 90 | [Te revoir](https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0) | [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Te revoir](https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc) | 3:25 |
 | 91 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 |
-| 92 | [Can't Catch Me](https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C) | [Jessie Woo](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL) | [Can't Catch Me](https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK) | 3:49 |
-| 93 | [Worth It](https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg) | [Tadia](https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6) | [Worth It](https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD) | 2:38 |
+| 92 | [Worth It](https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg) | [Tadia](https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6) | [Worth It](https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD) | 2:38 |
+| 93 | [Can't Catch Me](https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C) | [Jessie Woo](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL) | [Can't Catch Me](https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK) | 3:49 |
 | 94 | [Solèy Midi](https://open.spotify.com/track/25Vevbcv3QfVgwbdqiGSMW) | [Talie](https://open.spotify.com/artist/1005EO3lZm6PtyflJuB5k6), [David Chavannes](https://open.spotify.com/artist/7uvV6jZpaQUFDhQD5aNjHc) | [Solèy Midi](https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF) | 3:49 |
 | 95 | [Wine Pon Me \- Remix](https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS) | [J\. Sevad](https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3), [Spectrum the Originator](https://open.spotify.com/artist/0XfL2K0709iL1VEEbjCIBm) | [Flavors](https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo) | 2:46 |
 | 96 | [Baby](https://open.spotify.com/track/7znsK36lKtdk0nU032XxZW) | [ITSWOULI](https://open.spotify.com/artist/2CdYhTrgAhmuhey0EBltR7) | [Veye Kè’n](https://open.spotify.com/album/5KakDT8YFslRythzqgFLzH) | 2:26 |

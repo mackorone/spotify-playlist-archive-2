@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 774 songs - 2 day 2 hr 24 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 777 songs - 2 day 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -782,5 +782,8 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 772 | [You Wanted a Hit](https://open.spotify.com/track/3fU0407Cls1hLW1ap5w2Lr) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 9:06 |
 | 773 | [I Can Change](https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 5:52 |
 | 774 | [Pow Pow](https://open.spotify.com/track/3VhBuvzzuGUuh7nyJJvGLk) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 8:23 |
+| 775 | [Somebody's Calling Me](https://open.spotify.com/track/4NiwTsBlFT7H2OMpUbadwL) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 6:53 |
+| 776 | [Home](https://open.spotify.com/track/5gmv3BgePSYiHnPJgY7oTJ) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 7:53 |
+| 777 | [christmas will break your heart](https://open.spotify.com/track/0dMGq0YUOik1rMZicB96Qa) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [christmas will break your heart](https://open.spotify.com/album/3skXXEPIZHApEfglcwIlvR) | 4:26 |
 
-Snapshot ID: `AAAsCpNCabpUWdw41a9K2x//KgAImTg7`
+Snapshot ID: `AAAsDaYhldC253/87L7kaJxit2JhAPTE`

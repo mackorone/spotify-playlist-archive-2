@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 
 > y el soundtrack suena así...
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,327 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,331 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 50 | [Por Si las Dudas](https://open.spotify.com/track/58i55N4Ji6BPyvqI4g1HTS) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Por Si las Dudas](https://open.spotify.com/album/2G72gtZRp1TXdIhpgbCJ1u) | 2:56 |
 | 51 | [más y menos](https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:22 |
 | 52 | [Te Lo Voy a Decir](https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Te Lo Voy a Decir](https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF) | 4:06 |
-| 53 | [Nuestro Año](https://open.spotify.com/track/5ql03bthJo4B6Lm4zQiSuQ) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Nuestro Año](https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES) | 3:09 |
-| 54 | [Lágrimas de sol](https://open.spotify.com/track/3jW5qT8v9F6ZRuH6CRNGKd) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Pronto estaré bien](https://open.spotify.com/album/72ctczMr5Lgg8WtxR5oEDF) | 3:28 |
-| 55 | [La Máquina](https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [La Máquina](https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa) | 2:34 |
+| 53 | [Lágrimas de sol](https://open.spotify.com/track/3jW5qT8v9F6ZRuH6CRNGKd) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Pronto estaré bien](https://open.spotify.com/album/72ctczMr5Lgg8WtxR5oEDF) | 3:28 |
+| 54 | [La Máquina](https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [La Máquina](https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa) | 2:34 |
+| 55 | [Nuestro Año](https://open.spotify.com/track/5ql03bthJo4B6Lm4zQiSuQ) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Nuestro Año](https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES) | 3:09 |
 | 56 | [AUSENCIA](https://open.spotify.com/track/3Itdr4lEbPt7GK04M5Jr0P) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Se me pasó llamarte, mamá](https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm) | 1:50 |
 | 57 | [invierno](https://open.spotify.com/track/2tjDGWIAfBhws2OzWwgtJi) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [PÁJARO AZUL](https://open.spotify.com/album/7lUllZVIhNP8mCn9h3HmxO) | 3:01 |
 | 58 | [GOLPE](https://open.spotify.com/track/2WkDS7zFZI6Y1xzYLUltI8) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [GOLPE](https://open.spotify.com/album/49AuSYwbco5EczMgDz0kip) | 3:36 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 64 | [Vida Nueva](https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Vida Nueva](https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp) | 2:49 |
 | 65 | [Café de Barcelona](https://open.spotify.com/track/2R8fCB5tCSU1XfgxzFQhQr) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Café de Barcelona](https://open.spotify.com/album/452bQ6lylLJj26jbM3Z65c) | 2:38 |
 | 66 | [a los 20](https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [NIÑO BUENO \- Lado A](https://open.spotify.com/album/36O7gM7tEVAtkuWk7HlDbl) | 3:12 |
-| 67 | [quise quererte](https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [quise quererte](https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp) | 3:39 |
-| 68 | [Ve y Diles](https://open.spotify.com/track/2yyQacjkbAQHD2D15QPTNU) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Ruido](https://open.spotify.com/album/1AapL341jT2FY5gQE2RMf5) | 2:42 |
+| 67 | [Ve y Diles](https://open.spotify.com/track/2yyQacjkbAQHD2D15QPTNU) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Ruido](https://open.spotify.com/album/1AapL341jT2FY5gQE2RMf5) | 2:42 |
+| 68 | [quise quererte](https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [quise quererte](https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp) | 3:39 |
 | 69 | [Reconciliados](https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Reconciliados](https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3) | 2:49 |
 | 70 | [\(feliz por ti\)](https://open.spotify.com/track/4qIl21nevhNOHOu8bC8vuj) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(feliz por ti\)](https://open.spotify.com/album/6pBNf9iRUQh0oh6qR4cKNM) | 3:14 |
 | 71 | [grillos](https://open.spotify.com/track/7A9cJvJvTynNe4yjcHS30A) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [grillos](https://open.spotify.com/album/72dy2ivRHVBBycsT0347Mc) | 3:24 |

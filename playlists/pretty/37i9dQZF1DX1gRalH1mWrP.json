@@ -1,6 +1,6 @@
 {
   "description": "All the hits you'll need to make your summer sizzle.",
-  "num_followers": 2091546,
+  "num_followers": 2092468,
   "original_name": "Summer Hits 2026",
   "owner": {
     "name": "Spotify",
@@ -399,38 +399,6 @@
     {
       "added_at": "2026-08-07 05:01:52",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 170859,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
-    },
-    {
-      "added_at": "2026-08-07 05:01:52",
-      "album": {
-        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
-        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
-      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
-    },
-    {
-      "added_at": "2026-08-07 05:01:52",
-      "album": {
         "name": "No Broke Boys",
         "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
       },
@@ -463,6 +431,38 @@
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
+    },
+    {
+      "added_at": "2026-08-07 05:01:52",
+      "album": {
+        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
+    },
+    {
+      "added_at": "2026-08-07 05:01:52",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
     },
     {
       "added_at": "2026-08-21 04:01:46",
@@ -653,6 +653,22 @@
       "url": "https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7"
     },
     {
+      "added_at": "2026-08-21 04:01:46",
+      "album": {
+        "name": "RIKI",
+        "url": "https://open.spotify.com/album/4bWpmQ8V75q46zbIfjVkdT"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 183934,
+      "name": "RIKI",
+      "url": "https://open.spotify.com/track/37wfBdDJidbipEG2fEwkWX"
+    },
+    {
       "added_at": "2026-08-07 05:01:52",
       "album": {
         "name": "I Adore You (feat. Daecolm)",
@@ -695,22 +711,6 @@
       "duration_ms": 145680,
       "name": "Less than a Lover",
       "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
-    },
-    {
-      "added_at": "2026-08-21 04:01:46",
-      "album": {
-        "name": "RIKI",
-        "url": "https://open.spotify.com/album/4bWpmQ8V75q46zbIfjVkdT"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 183934,
-      "name": "RIKI",
-      "url": "https://open.spotify.com/track/37wfBdDJidbipEG2fEwkWX"
     },
     {
       "added_at": "2026-08-07 05:01:52",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-08-07 05:01:52",
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+    },
+    {
+      "added_at": "2026-08-07 05:01:52",
+      "album": {
         "name": "Manchild",
         "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 171782,
       "name": "Austin (Boots Stop Workin')",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
-    },
-    {
-      "added_at": "2026-08-07 05:01:52",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
     },
     {
       "added_at": "2026-08-07 05:01:52",

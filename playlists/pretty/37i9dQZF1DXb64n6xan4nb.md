@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 
 > Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s\. \(한 시절 감성을 대표했던 싸이월드 BGM을 감상해보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,486 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,496 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,11 +60,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 50 | [In dreams](https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Op\. 4](https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F) | 5:37 |
 | 51 | [What if](https://open.spotify.com/track/0yqTCKcLaJfeVEUavlnYK3) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [TIME FOR LOVE](https://open.spotify.com/album/4vOrKQQbPSjYGQRbixrdRi) | 3:48 |
 | 52 | [All For You](https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 4:15 |
-| 53 | [Spring day goes](https://open.spotify.com/track/4qg4R296ne1vu0Mlsdtg99) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [Shadow Of Your Smile](https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E) | 4:33 |
-| 54 | [너의 곁으로](https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH) | [Jo Sung Mo](https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K) | [Lovers in Paris \(Original Television Soundtrack\)](https://open.spotify.com/album/0e2VSNZvj1vIOmthsh7Qii) | 4:09 |
+| 53 | [너의 곁으로](https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH) | [Jo Sung Mo](https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K) | [Lovers in Paris \(Original Television Soundtrack\)](https://open.spotify.com/album/0e2VSNZvj1vIOmthsh7Qii) | 4:09 |
+| 54 | [Spring day goes](https://open.spotify.com/track/4qg4R296ne1vu0Mlsdtg99) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [Shadow Of Your Smile](https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E) | 4:33 |
 | 55 | [회상](https://open.spotify.com/track/1HH2Y8JAYu6OnH29EV10e8) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [터보 HISTORY](https://open.spotify.com/album/7cCpncteqNEdgRJpV9FLOa) | 4:35 |
-| 56 | [사랑의 시](https://open.spotify.com/track/6K60nJi0wMt6XcPvhGbQLP) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Love Is Time Sixth Sense](https://open.spotify.com/album/6VjZu0I92vdfh4dGEP9qCQ) | 3:45 |
-| 57 | [I drink again](https://open.spotify.com/track/68SpcwzDfyFYaM6dMSEtRk) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Re \- Feel](https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w) | 4:05 |
+| 56 | [I drink again](https://open.spotify.com/track/68SpcwzDfyFYaM6dMSEtRk) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Re \- Feel](https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w) | 4:05 |
+| 57 | [사랑의 시](https://open.spotify.com/track/6K60nJi0wMt6XcPvhGbQLP) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Love Is Time Sixth Sense](https://open.spotify.com/album/6VjZu0I92vdfh4dGEP9qCQ) | 3:45 |
 | 58 | [중독](https://open.spotify.com/track/3AtVaaeENM7y8RJcNSTOlG) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [Evolution](https://open.spotify.com/album/127CxMmFX7bctgIccMVPib) | 4:03 |
 | 59 | [응급실](https://open.spotify.com/track/2JPmkr5otXP3G5LMK497c9) | [Izi](https://open.spotify.com/artist/4PPkRMbw2jIs7flJkl4okf) | [izi 1집](https://open.spotify.com/album/1KTUBQHfKhX9F2X01sqEO8) | 3:58 |
 | 60 | [FOR YOU](https://open.spotify.com/track/2Fth4BfZxpGht783UTYiiA) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 4:07 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 79 | [해바라기도가끔목이아프죠](https://open.spotify.com/track/5wuAv1WFV6mL8dm0UXSzEv) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Mc The Max \- Solitude Love…](https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133) | 4:44 |
 | 80 | [gazing blankly](https://open.spotify.com/track/5t2qlg7EG7qmckTk6usRee) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Voice Of Heaven](https://open.spotify.com/album/0V3PQa5gQpIHRwJEscGwvY) | 3:36 |
 | 81 | [miss you](https://open.spotify.com/track/5vYzF4Lh3wwUAsugpFYLYQ) | [m\-flo loves melody\. & 山本領平](https://open.spotify.com/artist/25wuh8MLTzDAvOSODdOcKL), [melody.](https://open.spotify.com/artist/6BZBjaVlILy9In8IdZdQt8), [Ryohei Yamamoto](https://open.spotify.com/artist/6Ns2D6pApdQrTDnzW1nfUn) | [ASTROMANTIC](https://open.spotify.com/album/0EeOUSpx4sHDdDJkGRT5Qm) | 5:50 |
-| 82 | [Like Yesterday](https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp) | [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [2nd](https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW) | 4:09 |
-| 83 | [사랑 그 놈 \(화생방실 클레오파트라\)](https://open.spotify.com/track/5EeA5N3O42bwiZiz6TV70k) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Mask Singer 12th \(Live Version\)](https://open.spotify.com/album/0PO1s1wWPidhuAXqrvT5gr) | 4:11 |
+| 82 | [사랑 그 놈 \(화생방실 클레오파트라\)](https://open.spotify.com/track/5EeA5N3O42bwiZiz6TV70k) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Mask Singer 12th \(Live Version\)](https://open.spotify.com/album/0PO1s1wWPidhuAXqrvT5gr) | 4:11 |
+| 83 | [Like Yesterday](https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp) | [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [2nd](https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW) | 4:09 |
 | 84 | [Promise U \(Original Ver.\)](https://open.spotify.com/track/0xal1TDjG4hQRt6poGvoml) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Afterglow](https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb) | 4:03 |
 | 85 | [My Tipsy Confession](https://open.spotify.com/track/62ElSn0docGvjnA7k30swo) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [2008 Concert, Monologue](https://open.spotify.com/album/1EVIqhHPkzsIkka00kZSNu) | 6:06 |
 | 86 | [그대 떠난 뒤 \(with 브라운 아이드 소울\)](https://open.spotify.com/track/6HkeCtEHZSDReE5EEvjv2J) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 5:37 |

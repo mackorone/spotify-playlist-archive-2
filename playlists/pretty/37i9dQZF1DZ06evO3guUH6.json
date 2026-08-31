@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1096561,
+  "num_followers": 1096657,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAADBouZAjZvyO/Csd3jDNFjc",
+  "snapshot_id": "apIhAAAAAAAmEwrfCY2a/nlCBO3g93s/",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"V1V0\"",
-        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 218411,
-      "name": "De Sobremanera",
-      "url": "https://open.spotify.com/track/3MVLAi81gIo1nSvfincYFk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frente a Frente",
         "url": "https://open.spotify.com/album/3kuaLpJj6gJumJaCJsspNH"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 218000,
       "name": "Te quiero, te amo",
       "url": "https://open.spotify.com/track/73XUqDO8fU7dhFuwHw4W3s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"V1V0\"",
+        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 218411,
+      "name": "De Sobremanera",
+      "url": "https://open.spotify.com/track/3MVLAi81gIo1nSvfincYFk"
     },
     {
       "added_at": null,

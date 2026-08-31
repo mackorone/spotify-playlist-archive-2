@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Get revived with some of the best Deep House South Africa has to offer\. Cover: Judith Sephuma, C\-Blak
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,497 likes - 75 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,537 likes - 75 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 5 | [Bigger Than Us](https://open.spotify.com/track/6JdJ823ZQ2102oQnFosjGa) | [Thabo Tonick](https://open.spotify.com/artist/154tqoSmvaZaRIgwJI1xgJ) | [Bigger Than Us](https://open.spotify.com/album/3ek3Xm3lvP5wyRQFOi8F8l) | 5:26 |
 | 6 | [Lost in Tempo](https://open.spotify.com/track/2GqmRRUOwIK48n8Al8CU97) | [Deeper Phil](https://open.spotify.com/artist/1kV0CNLLylygX6XfJjt75N), [Djy Vino](https://open.spotify.com/artist/7nZl3bYXhqwAHY8WWMMEZ8) | [Deepyano Single Pack](https://open.spotify.com/album/3crFCZualeq1PXEpS209SP) | 6:14 |
 | 7 | [For The Night](https://open.spotify.com/track/77AOMNQWP346mMAOf1vkcQ) | [Liquideep](https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP) | [For The Night](https://open.spotify.com/album/4qVBgqbLWOpWwhVfZiUI7S) | 3:57 |
-| 8 | [Good Times \(Chymamusique Remix\)](https://open.spotify.com/track/3YbY2jlftIsgxo7CtJbdYB) | [George Lesley](https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL), [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [Kabomo](https://open.spotify.com/artist/3OcUY8YTn6uDmMyCzKw18f), [KDD](https://open.spotify.com/artist/5ez4AT0KudsfD0y31kwbjS), [Chymamusique](https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI) | [Good Times \(Chymamusique Remix\)](https://open.spotify.com/album/3Yv10UOZkdHyUoMK1tAiYD) | 5:58 |
+| 8 | [Good Times \- Chymamusique Remix](https://open.spotify.com/track/3YbY2jlftIsgxo7CtJbdYB) | [George Lesley](https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL), [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [Kabomo](https://open.spotify.com/artist/3OcUY8YTn6uDmMyCzKw18f), [KDD](https://open.spotify.com/artist/5ez4AT0KudsfD0y31kwbjS), [Chymamusique](https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI) | [Good Times \(Chymamusique Remix\)](https://open.spotify.com/album/3Yv10UOZkdHyUoMK1tAiYD) | 5:58 |
 | 9 | [Rough Edges](https://open.spotify.com/track/0b5sNKKnSqhePpRRypKxsz) | [Ethiopian Chyld](https://open.spotify.com/artist/55i7t2UY0RG0Yrj3nJXXt0) | [Rough Edges](https://open.spotify.com/album/52Qu8ljI5onthLtr5zIUP7) | 6:36 |
 | 10 | [Light \(Clapback\)](https://open.spotify.com/track/1sCAKY6n0eIJVfyTLow7R5) | [Chronical Deep](https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt) | [Light \(Clapback\)](https://open.spotify.com/album/1JA4I2XTgc4bxmMIavBq3c) | 7:17 |
 | 11 | [In Her Words \- Soulful Mix\)](https://open.spotify.com/track/5YCqHOabVzUXwMi0qY8hdu) | [Tšegetšege](https://open.spotify.com/artist/5zJ8iwxXkNINGYWUu2guTX), [Rowdy SA](https://open.spotify.com/artist/2fjeRVZsJ8JwIZWpstLiAG), [HerbsZA](https://open.spotify.com/artist/51dubKsnoQ7EnBqmdpJ2nL), [Prod By Esco](https://open.spotify.com/artist/6kltOvShHbFG2ZZlZW0aSt) | [In Her Words \(Soulful Mix\)\)](https://open.spotify.com/album/08onA98yREcMss3WP7oAfa) | 6:12 |

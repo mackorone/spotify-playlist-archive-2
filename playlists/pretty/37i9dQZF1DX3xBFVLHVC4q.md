@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,939 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,938 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 10 | [想いよひとつになれ](https://open.spotify.com/track/2h0JK3sS137DlbQrQehutp) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr) | [想いよひとつになれ/MIRAI TICKET](https://open.spotify.com/album/7AMxrcWM9XmMLiH3ZUxPLN) | 4:53 |
 | 11 | [Guilty Night, Guilty Kiss!](https://open.spotify.com/track/7LZRj9JzVDBrwV0Uxtjnba) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [Strawberry Trapper](https://open.spotify.com/album/4DzQWZJZsA7zk2yMqZscqK) | 4:07 |
 | 12 | [GALAXY HidE and SeeK](https://open.spotify.com/track/4hpJT2KzDvOqjaeXrVsaMP) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [GALAXY HidE and SeeK](https://open.spotify.com/album/4OJGTVA3WqZpl8cUK1zVuq) | 4:20 |
-| 13 | [Dazzling White Town](https://open.spotify.com/track/211qJsL5CTxWKFaYwHQRpo) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Dazzling White Town](https://open.spotify.com/album/07OQgrBCdszGK0JaU2s1Uv) | 4:22 |
+| 13 | [DROPOUT!?](https://open.spotify.com/track/0sBNo8ePBkb9hKV1qrSWjg) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Awaken the power](https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf) | 3:56 |
 | 14 | [Daydream Warrior](https://open.spotify.com/track/449JyzwBG4L3IVHUf9zkZs) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015～2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:35 |
 | 15 | [決めたよHand in Hand](https://open.spotify.com/track/5Tebv0qRKNlFXlxd0TiYAy) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr) | [決めたよHand in Hand/ダイスキだったらダイジョウブ!](https://open.spotify.com/album/5Ssi8gxeAfX6INMNyYKIuL) | 4:26 |
 | 16 | [コワレヤスキ](https://open.spotify.com/track/1TizL66jSoN48Hj8airJgr) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [コワレヤスキ](https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO) | 5:02 |
 | 17 | [トリコリコPLEASE!!](https://open.spotify.com/track/6d3G58cEHrqIMyDKaMuRu3) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [トリコリコPLEASE!!](https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3) | 3:47 |
-| 18 | [DROPOUT!?](https://open.spotify.com/track/0sBNo8ePBkb9hKV1qrSWjg) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Awaken the power](https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf) | 3:56 |
+| 18 | [Dazzling White Town](https://open.spotify.com/track/211qJsL5CTxWKFaYwHQRpo) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Dazzling White Town](https://open.spotify.com/album/07OQgrBCdszGK0JaU2s1Uv) | 4:22 |
 | 19 | [恋になりたいAQUARIUM](https://open.spotify.com/track/3nxrLaPGlW1EsAWn23bcPX) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [恋になりたいAQUARIUM](https://open.spotify.com/album/45b6rybZSrauqudZ4QYqQK) | 5:08 |
 | 20 | [Over The Next Rainbow](https://open.spotify.com/track/3bSp8XRroNBn1YCy7IaHRa) | [Saint Aqours Snow](https://open.spotify.com/artist/6Nq96md0RCaaBFlK4OJ3jQ) | [Believe again/Brightest Melody/Over The Next Rainbow](https://open.spotify.com/album/7JnPOBXbxdkrgzRPQ39ZkQ) | 4:59 |
 | 21 | [New Romantic Sailors](https://open.spotify.com/track/3JQFG9dQs2VGW6bJPDts3A) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [New Romantic Sailors](https://open.spotify.com/album/1mtGlnjCN7zDZWUP4zukwF) | 4:42 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 40 | [夏への扉 Never end ver.](https://open.spotify.com/track/2tkXgl87zjKfDUFkht3maK) | [桜内梨子 \(CV.逢田梨香子\)](https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O) | [デュオトリオコレクション VOL.1 ～SUMMER VACATION～](https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW) | 4:15 |
 | 41 | [地元愛▽満タン☆サマーライフ](https://open.spotify.com/track/4e8YOAhIclDTz2ffTYycZ1) | [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB) | [デュオトリオコレクション VOL.1 ～SUMMER VACATION～](https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW) | 4:45 |
 | 42 | [空中恋愛論](https://open.spotify.com/track/7HQAR5V6SQC8SGfimUpFYD) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [Amazing Travel DNA](https://open.spotify.com/album/42GXO2RpG8GXDZaWPXGBJ2) | 3:42 |
-| 43 | [海岸通りで待ってるよ](https://open.spotify.com/track/5OLMQiEGFoBQ560FUwJm3O) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [近未来ハッピーエンド](https://open.spotify.com/album/55Mz7WkM8ILMs57h5jAemf) | 4:19 |
+| 43 | [Braveheart Coaster](https://open.spotify.com/track/3XkAIofk0JgOXrt41CV5U6) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [Braveheart Coaster](https://open.spotify.com/album/0BMc0DzfTRnv0NqGJRUWhn) | 4:26 |
 | 44 | [さかなかなんだか?](https://open.spotify.com/track/57fDiwr1ayxeS57PC8r13R) | [松浦果南 \(CV.諏訪ななか\)](https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6) | [LoveLive! Sunshine!! Matsuura Kanan First Solo Concert Album ～さかなかなんだか?～](https://open.spotify.com/album/3kp2CxXz4KVbtHxr3axkXG) | 4:48 |
 | 45 | [キモチもユメも一緒だね!](https://open.spotify.com/track/0NOjMAor1xOsHaXu7dtwYS) | [国木田花丸 \(CV.高槻かなこ\)](https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an) | [デュオトリオコレクション VOL.2 ～WINTER VACATION～](https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ) | 4:43 |
 | 46 | [Shiny Racers](https://open.spotify.com/track/4oTMK1IRb2AbMoA2HhB1Du) | [小原鞠莉 \(CV.鈴木愛奈\)](https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2) | [LoveLive! Sunshine!! Ohara Mari First Solo Concert Album ～New winding road～](https://open.spotify.com/album/07dOooBV026YI3SftNDkoM) | 3:37 |
 | 47 | [1STAR](https://open.spotify.com/track/5AoBAHKO53yXadGIE4KFhZ) | [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [LoveLive! Sunshine!! Second Solo Concert Album ～THE STORY OF FEATHER～ starring Kurosawa Ruby](https://open.spotify.com/album/5Wtr1SAcAYDSBegAJX15Pm) | 5:53 |
-| 48 | [Braveheart Coaster](https://open.spotify.com/track/3XkAIofk0JgOXrt41CV5U6) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [Braveheart Coaster](https://open.spotify.com/album/0BMc0DzfTRnv0NqGJRUWhn) | 4:26 |
+| 48 | [海岸通りで待ってるよ](https://open.spotify.com/track/5OLMQiEGFoBQ560FUwJm3O) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [近未来ハッピーエンド](https://open.spotify.com/album/55Mz7WkM8ILMs57h5jAemf) | 4:19 |
 | 49 | [Main theme of Lovelive! Sunshine!!](https://open.spotify.com/track/4vuY0yDpiLv517pZacpYOQ) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TVアニメ『ラブライブ!サンシャイン!!』オリジナルサウンドトラック 「Sailing to the Sunshine」](https://open.spotify.com/album/4m7uoSHxp9AWwEHikCZNZ1) | 3:57 |
 | 50 | [Paradise Chime](https://open.spotify.com/track/6ib8owyFKokRdEECOOkATG) | [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB) | [LoveLive! Sunshine!! Second Solo Concert Album ～THE STORY OF FEATHER～ starring Watanabe You](https://open.spotify.com/album/4QbH80ewjdtHpNoDhTivdq) | 3:49 |
 

@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAXggYFfYc2xj9i5BUn26Vym3vbrt9T",
+  "snapshot_id": "AAAXhfo5KSquNi2juP12h0mXfNOZlOW5",
   "tracks": [
     {
       "added_at": "2026-08-21 09:03:00",
@@ -1427,6 +1427,54 @@
       "duration_ms": 200495,
       "name": "Io ti perder\u00f2 - Live 2026",
       "url": "https://open.spotify.com/track/4mRlNi6l2t4TlVGTNwckN9"
+    },
+    {
+      "added_at": "2026-08-30 09:22:07",
+      "album": {
+        "name": "Keep on Dreaming",
+        "url": "https://open.spotify.com/album/3bvmJoD9YetJ3UclgS1wgS"
+      },
+      "artists": [
+        {
+          "name": "M\u00c5NE",
+          "url": "https://open.spotify.com/artist/3AejcXHKHkrLhgxV9ZBtIO"
+        }
+      ],
+      "duration_ms": 237250,
+      "name": "Keep on Dreaming",
+      "url": "https://open.spotify.com/track/2WB6zrnwESi9zgtcLlUjn1"
+    },
+    {
+      "added_at": "2026-08-30 09:22:13",
+      "album": {
+        "name": "Ishq Aur Rooh",
+        "url": "https://open.spotify.com/album/698myUVMT6dq9C4uC0VfUV"
+      },
+      "artists": [
+        {
+          "name": "Temur Roy",
+          "url": "https://open.spotify.com/artist/6bSFAMMAwCAYd4BuoTztFR"
+        }
+      ],
+      "duration_ms": 259479,
+      "name": "Rooh Ka Sakoon",
+      "url": "https://open.spotify.com/track/4D1bt4eXcmROAM5D8hWOXN"
+    },
+    {
+      "added_at": "2026-08-30 09:22:18",
+      "album": {
+        "name": "Dream Again",
+        "url": "https://open.spotify.com/album/5shHelhedh5mUBcZqtsy9d"
+      },
+      "artists": [
+        {
+          "name": "FYONA",
+          "url": "https://open.spotify.com/artist/4DVQgGkceK5qLMWB9ICJkR"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "Dream Again",
+      "url": "https://open.spotify.com/track/4D0P4TCJqjK3hzxwPcu3sB"
     }
   ],
   "unique_name": "New Indie Music",

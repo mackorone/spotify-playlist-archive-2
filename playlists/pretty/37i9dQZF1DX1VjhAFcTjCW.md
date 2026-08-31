@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VjhAFcTjCW.md) - [plain]
 
 > Curated by The Beaches: get pumped up during pride month! Our fav gays, girls with guitars, allies & bffs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,845 likes - 31 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,859 likes - 31 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

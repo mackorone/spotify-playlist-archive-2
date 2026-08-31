@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,491 songs - 15 day 3 hr 12 min
+6,493 songs - 15 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [About A Girl](https://open.spotify.com/track/7sVu9MMI9WgCc3qyK9hPAv) | [Arianna Tsar](https://open.spotify.com/artist/5kui2MaTfVCYOyaLdE0iFV) | [About A Girl](https://open.spotify.com/album/6yrioqdKy25G548lhWdIXb) | 2:54 | 2026-06-06 | 2026-06-18 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-07-06 | 2022-07-27 |
 | [About U](https://open.spotify.com/track/4vriDERvHPkOcvPeqJJAEH) | [Sasha Lopez](https://open.spotify.com/artist/3ZASW3RrHBbSRkNLjOrAFF), [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [About U](https://open.spotify.com/album/0tf6O98muJfG4cUlayzAvq) | 2:44 | 2024-09-28 | 2024-10-10 |
-| [About Us](https://open.spotify.com/track/3FwQnUHKPfLq1OE3dUluRq) | [Wayne Unchained](https://open.spotify.com/artist/0uPQc16ptqh4CXfmXw6wsy) | [About Us](https://open.spotify.com/album/0Pfrgf3LIzXkkS12MSSiMT) | 3:50 | 2026-01-12 | 2026-01-23 |
+| [About Us](https://open.spotify.com/track/3FwQnUHKPfLq1OE3dUluRq) | [Wayne Unchained](https://open.spotify.com/artist/0uPQc16ptqh4CXfmXw6wsy) | [About Us](https://open.spotify.com/album/0Pfrgf3LIzXkkS12MSSiMT) | 3:50 | 2026-01-12 |  |
 | [Abracadabra](https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:43 | 2025-12-18 | 2026-04-15 |
 | [Abrazarte de nuevo](https://open.spotify.com/track/7bqPqPlkGC4k2h6S0ZSFle) | [Fer Cortez](https://open.spotify.com/artist/4HDEsdczncsxewxZtIFLCp) | [Abrazarte de nuevo](https://open.spotify.com/album/2gYcwOCzzKLcJ9pGbVwwJ0) | 2:51 | 2026-08-28 |  |
 | [Abre La Ventana](https://open.spotify.com/track/5dJ3zRp2mb0qvI3ucKbl5Q) | [Felipe Alonso](https://open.spotify.com/artist/6LnPhnIpJ0i6nVPPlLhWbL) | [Abre La Ventana](https://open.spotify.com/album/3AmgHVZl22MpY3JKrQGQDm) | 3:57 | 2023-08-01 | 2023-08-11 |
@@ -400,6 +400,7 @@
 | [Around](https://open.spotify.com/track/1hPeBxdWu3OcPgH3dwDiHP) | [Ivana June](https://open.spotify.com/artist/0uKpC8kiMcqAxihriuu7cP) | [Around](https://open.spotify.com/album/2DQqkBPDFVK78WdbGUVMYB) | 2:58 | 2025-03-07 | 2025-03-28 |
 | [Around & Around](https://open.spotify.com/track/5GIQmyA8aYBZV9rV5FyCue) | [The Iddy\-Biddies](https://open.spotify.com/artist/70m3JPV9SPPHTuxtrdNBve) | [Around & Around](https://open.spotify.com/album/7M35OppOeFZIJkSfmlkw4c) | 3:32 | 2024-01-31 | 2024-02-08 |
 | [Around the Tree](https://open.spotify.com/track/0RVmPraYBBuNspH9D1nmNW) | [Daniel Espada](https://open.spotify.com/artist/5Plh9sP8KdwzmFDnAKk9JE) | [Around the Tree](https://open.spotify.com/album/1uK8VKpMXp9IDsKn0jRJRI) | 2:56 | 2022-12-02 | 2022-12-24 |
+| [Arrebatados \- Remastered](https://open.spotify.com/track/5LF0Fmah8CdewlMramfE1f) | [Frequencia 7.0](https://open.spotify.com/artist/4WbdQp6mZknXTsnJTXAMKY) | [Arrebatados \(Remastered\)](https://open.spotify.com/album/3GL03gBH0J3FP4HNI2SNzb) | 3:59 | 2026-08-30 |  |
 | [Arrepentido](https://open.spotify.com/track/44qfmtPl20faKh9SZFDFak) | [Gerina](https://open.spotify.com/artist/7gsw0J4ej0rwNl3Pk7D2d4) | [Arrepentido](https://open.spotify.com/album/6fXx9DWb3C6lFEfQA4Sb2b) | 3:12 | 2025-03-23 | 2025-04-04 |
 | [Arthur Ingram](https://open.spotify.com/track/6t4oyrotAyLDwWlhffQpIo) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Arthur Ingram](https://open.spotify.com/album/0jo9ww5AIg3RchxVtwmQXL) | 4:30 | 2021-10-23 | 2021-11-07 |
 | [As I Am](https://open.spotify.com/track/6hRrzZJ90DNQdEF1Wu2Mrf) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 4:00 | 2020-08-20 | 2023-08-28 |
@@ -4778,6 +4779,7 @@
 | [Satisfy](https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Satisfy](https://open.spotify.com/album/55aZFGWITREqVoI2iy45Bd) | 3:06 | 2026-05-09 | 2026-07-31 |
 | [Saturday Morning](https://open.spotify.com/track/5G2gJonS1PM4ld4TmKzsrT) | [Nell](https://open.spotify.com/artist/3HGiroMVHF8RsbCOZaKHTu) | [Saturday Morning](https://open.spotify.com/album/7DfaSI2fl0mwpyg0Wgbrvs) | 2:28 | 2022-03-18 | 2022-04-05 |
 | [Saturday Night](https://open.spotify.com/track/0aQATPD7Jp1D6VyjMc30nS) | [Ethan Russell](https://open.spotify.com/artist/3MoGNeiVaOJvJSUzUsyKtc), [Slick](https://open.spotify.com/artist/3z7MXG63sBOyL3jVRqoX0A) | [It's Been Rough](https://open.spotify.com/album/0UCgT2KUhcpwaYMQe4YVk9) | 2:40 | 2023-05-19 | 2023-06-11 |
+| [Saturday Night](https://open.spotify.com/track/4P2MGtzqPEdTrsb9VX5xoO) | [LJ Ibè](https://open.spotify.com/artist/73YnDWVF8jhfPuxO8vYEhl), [Xnow Vk](https://open.spotify.com/artist/5hsSrvsrOYZbWXTcGAFWmV) | [Italawá, Vol\. 1](https://open.spotify.com/album/6LJizNWA6LTRj4gGL5m1sY) | 2:45 | 2026-08-30 |  |
 | [Saturday Night Fever](https://open.spotify.com/track/1GgPx4F9b5fXsQrUhkHABQ) | [Ben Bacardi](https://open.spotify.com/artist/6nrQ4IXj4YGOWESvHscCEg) | [Saturday Night Fever](https://open.spotify.com/album/1h982kk82hDiF3hqSiz7b1) | 2:43 | 2026-07-07 | 2026-07-19 |
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-03-13 | 2024-08-13 |
 | [Saturn’s Moon](https://open.spotify.com/track/4zzC42HMdFYdSOwOquBAqm) | [Justelle](https://open.spotify.com/artist/5jKZa3GZPDDmC0QFBMMK6Q) | [Saturn’s Moon](https://open.spotify.com/album/3mURA1aKd0D6dob4F1i9oo) | 4:08 | 2024-11-19 | 2024-12-02 |

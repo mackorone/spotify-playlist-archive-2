@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,507 songs - 6 day 3 hr 25 min
+2,509 songs - 6 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Butterfly Kiss](https://open.spotify.com/track/1t4p0VwndjAOsMjd8Pa1C3) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [Butterfly Kiss](https://open.spotify.com/album/3M4YLDUmXNLIzPDoFv8wGF) | 4:28 | 2026-01-23 |  |
 | [Bye Bye](https://open.spotify.com/track/2c0Br2XmtrDwC8YvG3I7KL) | [Mikey Dub](https://open.spotify.com/artist/7rRgU2EvtyQkvbywoymLUD), [Clotilde](https://open.spotify.com/artist/1uIRR9HxLJZjvwRPTOnihu) | [Triumphant Riddim](https://open.spotify.com/album/2aSJwBDyD7s2dExpXvNL1h) | 4:34 | 2024-03-10 |  |
 | [Bye Bye \- Dub](https://open.spotify.com/track/0fCgxRvAMW8wJdOjH7xvJa) | [Mikey Dub](https://open.spotify.com/artist/7rRgU2EvtyQkvbywoymLUD), [Clotilde](https://open.spotify.com/artist/1uIRR9HxLJZjvwRPTOnihu) | [Triumphant Riddim](https://open.spotify.com/album/2aSJwBDyD7s2dExpXvNL1h) | 4:20 | 2024-05-04 |  |
+| [California](https://open.spotify.com/track/09OFR9iPwfmurnjRF9fdoK) | [Yellstone](https://open.spotify.com/artist/0ZKMOq56KamtscCLIl8Lah) | [California](https://open.spotify.com/album/0DOx3oinReFPZfQOGuSZGD) | 3:01 | 2026-08-30 |  |
 | [Call Out](https://open.spotify.com/track/2uisqrwhBZtQfypMrkYbj1) | [DJ One Up](https://open.spotify.com/artist/71pWEgEV7a0aQHJJHmGHtJ) | [HAND TALK \#1](https://open.spotify.com/album/6c2g6FcKP8oDJs0DhTkMP0) | 4:10 | 2026-02-07 |  |
 | [Call U Back](https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Call U Back](https://open.spotify.com/album/3Pbiv3ZCM6WWehbB0nj2It) | 3:04 | 2025-09-21 |  |
 | [calm](https://open.spotify.com/track/0Lx0BUHMOuVhg2NjzbEBFw) | [Lofi u](https://open.spotify.com/artist/7tOkG8CZx1DrlER0naUlOr) | [calm](https://open.spotify.com/album/4vPn9ha7SxeLJ56oLTrQse) | 2:38 | 2026-07-27 |  |
@@ -564,7 +565,7 @@
 | [Drifting Away](https://open.spotify.com/track/5XyDKHvBLPUQjmev14xOVg) | [zrina](https://open.spotify.com/artist/1lNyFRu90mDAuRQlH88Ex3) | [Drifting Away](https://open.spotify.com/album/1oN3fHZvxNl4hZXD9pZ3D8) | 3:26 | 2026-03-08 |  |
 | [Drilling 4 Black Gold](https://open.spotify.com/track/16lq7Qholf7soy69oXCnb3) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Drilling 4 Black Gold](https://open.spotify.com/album/4Kdmee7t25mzd2Q5Hqvj9W) | 2:20 | 2026-02-05 |  |
 | [DRIPPIN PIMPIN](https://open.spotify.com/track/2AeBrHrV1qn4ZlYY2NuGkF) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 2:14 | 2025-09-08 |  |
-| [Droga Dura](https://open.spotify.com/track/3XDwalTiYckfpWShJZJHAd) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Droga Dura](https://open.spotify.com/album/4weXx6BxafREowHuA35xQR) | 3:25 | 2026-01-17 |  |
+| [Droga Dura](https://open.spotify.com/track/3XDwalTiYckfpWShJZJHAd) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Droga Dura](https://open.spotify.com/album/4weXx6BxafREowHuA35xQR) | 3:25 | 2026-01-17 | 2026-08-31 |
 | [Drops of Rain](https://open.spotify.com/track/5HA0YBgTwf0FXyvD4QHLNW) | [aNGie](https://open.spotify.com/artist/71bUhvjdkzJAmqs4S1Z3kF) | [Beautiful Ways to Disappear](https://open.spotify.com/album/0eakmFRFZ4Qeo6HiMgRBDG) | 3:22 | 2026-02-12 |  |
 | [Drug Addict](https://open.spotify.com/track/00XB6iV4vugA4ZZgpZyAQ6) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Drug Addict](https://open.spotify.com/album/4NRsBPa8n5fKZesdlYpWmc) | 1:23 | 2025-10-21 |  |
 | [Dub 2](https://open.spotify.com/track/54ABjkyW5NcIALh05LyqD5) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd) | [I Give Thanks](https://open.spotify.com/album/6Fz1zFeaay1VNyiq2hy4P8) | 3:17 | 2024-03-10 |  |
@@ -1848,6 +1849,7 @@
 | [Santa Rosa Sound](https://open.spotify.com/track/2gb6fDizdJ26PsrnSnfkNU) | [Gigi Scott](https://open.spotify.com/artist/333VviZLcrBgqyvaX9Tab8) | [Graffiti Poets](https://open.spotify.com/album/3PTyAFtTY4qukujGH5n7OW) | 3:46 | 2025-09-09 |  |
 | [Santana Quantum](https://open.spotify.com/track/3HtuepZ8z6COrZmwn4UKO6) | [DJ Zonattão](https://open.spotify.com/artist/2cxBEPRf0CjXSaD7DiuLtT) | [Dj Zonattão & Liquid Souza Band](https://open.spotify.com/album/7E9a09zDefBbgF5WFVnHKq) | 4:54 | 2025-06-16 |  |
 | [Santana Quantum](https://open.spotify.com/track/7o4JNk3y6kUJOCCKiWbNWe) | [DJ Zonattão](https://open.spotify.com/artist/2cxBEPRf0CjXSaD7DiuLtT) | [Dj Zonattão & Liquid Souza Band](https://open.spotify.com/album/5AsykpYGStzUL2uPQwiRtA) | 4:54 | 2026-03-16 |  |
+| [Santorini at Night](https://open.spotify.com/track/1bafg2GBWeQ0ygCxgC4SlH) | [Valenti & Blanda](https://open.spotify.com/artist/6GuZuT7ZlXzoVKypl18jmW) | [Santorini at Night](https://open.spotify.com/album/6w9P7SnVwGaul47z3kJsGK) | 3:19 | 2026-08-30 |  |
 | [Sardinia](https://open.spotify.com/track/5cLDgmrRqxhW27wKEf30G9) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Sardinia](https://open.spotify.com/album/6kNKTlgBDM7FWeTUtDnNM9) | 2:47 | 2026-07-09 |  |
 | [Satta Dub](https://open.spotify.com/track/0VUmktag6J6iZ5edAoM44D) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp), [Madi Simmons](https://open.spotify.com/artist/3SQE1dVGhld5RE9qJHaFD1) | [Feel The Vibration](https://open.spotify.com/album/4dBIS62UE1vl1CqDmqGtzD) | 4:12 | 2024-06-30 |  |
 | [Saturday \(HIIT 30\-10\)](https://open.spotify.com/track/4pBJxEFPlwEOvjvwjcyQPy) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [80s DISCO HIIT DANCE WORKOUT](https://open.spotify.com/album/6opKcFjmEz92mrvuMdD1c8) | 1:20 | 2024-03-08 |  |

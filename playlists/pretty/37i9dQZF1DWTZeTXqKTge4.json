@@ -1,6 +1,6 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Rymz",
-  "num_followers": 89645,
+  "num_followers": 89646,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-08-28 04:03:35",
       "album": {
-        "name": "MADURO",
-        "url": "https://open.spotify.com/album/35PNhr8jU5kNHpRog1zhXD"
-      },
-      "artists": [
-        {
-          "name": "Zinera",
-          "url": "https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "MADURO",
-      "url": "https://open.spotify.com/track/35RHNKHvAkBM7ZTZfH6cgL"
-    },
-    {
-      "added_at": "2026-08-28 04:03:35",
-      "album": {
         "name": "A La Base",
         "url": "https://open.spotify.com/album/2NMkjnOy51mypDJcdnSZU8"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 144000,
       "name": "A La Base",
       "url": "https://open.spotify.com/track/5erzrQzrIwK95QElCVoAvB"
+    },
+    {
+      "added_at": "2026-08-28 04:03:35",
+      "album": {
+        "name": "MADURO",
+        "url": "https://open.spotify.com/album/35PNhr8jU5kNHpRog1zhXD"
+      },
+      "artists": [
+        {
+          "name": "Zinera",
+          "url": "https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "MADURO",
+      "url": "https://open.spotify.com/track/35RHNKHvAkBM7ZTZfH6cgL"
     },
     {
       "added_at": "2026-08-28 04:03:35",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-08-28 04:03:35",
       "album": {
-        "name": "SNAKEYEZ",
-        "url": "https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC"
-      },
-      "artists": [
-        {
-          "name": "5sang14",
-          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
-        }
-      ],
-      "duration_ms": 152673,
-      "name": "Gangsta",
-      "url": "https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7"
-    },
-    {
-      "added_at": "2026-08-28 04:03:35",
-      "album": {
         "name": "Piket",
         "url": "https://open.spotify.com/album/67GHamy51VbsYd2pCEupwR"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 207915,
       "name": "Piket",
       "url": "https://open.spotify.com/track/5FdvpTYkQ3fZM09rG04Vx3"
+    },
+    {
+      "added_at": "2026-08-28 04:03:35",
+      "album": {
+        "name": "SNAKEYEZ",
+        "url": "https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC"
+      },
+      "artists": [
+        {
+          "name": "5sang14",
+          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
+        }
+      ],
+      "duration_ms": 152673,
+      "name": "Gangsta",
+      "url": "https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7"
     },
     {
       "added_at": "2026-08-28 04:03:35",
@@ -735,8 +735,8 @@
     {
       "added_at": "2026-08-28 04:03:35",
       "album": {
-        "name": "Flash",
-        "url": "https://open.spotify.com/album/3o54ejNNHmO9PpsduX1QdW"
+        "name": "OT",
+        "url": "https://open.spotify.com/album/3wytoILhB40hHwR1PFSL94"
       },
       "artists": [
         {
@@ -744,13 +744,13 @@
           "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
         },
         {
-          "name": "Georgio",
-          "url": "https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO"
+          "name": "Trappo officiel",
+          "url": "https://open.spotify.com/artist/2qAQAxmoafsvNVp31ROnaE"
         }
       ],
-      "duration_ms": 227035,
-      "name": "Flash",
-      "url": "https://open.spotify.com/track/3uARaNkhIsF8o85fRU9fHP"
+      "duration_ms": 188000,
+      "name": "OT",
+      "url": "https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv"
     },
     {
       "added_at": "2026-08-28 04:03:35",
@@ -831,8 +831,8 @@
     {
       "added_at": "2026-08-28 04:03:35",
       "album": {
-        "name": "OT",
-        "url": "https://open.spotify.com/album/3wytoILhB40hHwR1PFSL94"
+        "name": "Flash",
+        "url": "https://open.spotify.com/album/3o54ejNNHmO9PpsduX1QdW"
       },
       "artists": [
         {
@@ -840,13 +840,13 @@
           "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
         },
         {
-          "name": "Trappo officiel",
-          "url": "https://open.spotify.com/artist/2qAQAxmoafsvNVp31ROnaE"
+          "name": "Georgio",
+          "url": "https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO"
         }
       ],
-      "duration_ms": 188000,
-      "name": "OT",
-      "url": "https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv"
+      "duration_ms": 227035,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/3uARaNkhIsF8o85fRU9fHP"
     },
     {
       "added_at": "2026-08-28 04:03:35",
@@ -987,6 +987,26 @@
     {
       "added_at": "2026-08-28 04:03:35",
       "album": {
+        "name": "Helen Quelle Heure",
+        "url": "https://open.spotify.com/album/2bBxBySTKaJMF69AZiHfE2"
+      },
+      "artists": [
+        {
+          "name": "elpy!",
+          "url": "https://open.spotify.com/artist/0Gmf9HWQAcCy6iZdJlRF1m"
+        },
+        {
+          "name": "SMS",
+          "url": "https://open.spotify.com/artist/4j63HnohVGYEDn2K8HmhcW"
+        }
+      ],
+      "duration_ms": 125538,
+      "name": "Helen Quelle Heure",
+      "url": "https://open.spotify.com/track/2OKLiEIW4hZPaNpb6kMtdL"
+    },
+    {
+      "added_at": "2026-08-28 04:03:35",
+      "album": {
         "name": "Wrong",
         "url": "https://open.spotify.com/album/22CdeTyceXXAhCcbWCg7Bj"
       },
@@ -999,30 +1019,6 @@
       "duration_ms": 183952,
       "name": "Wrong",
       "url": "https://open.spotify.com/track/3o9ivo0oqcgxN53kfOSSFq"
-    },
-    {
-      "added_at": "2026-08-28 04:03:35",
-      "album": {
-        "name": "Tel Kel X Boutot",
-        "url": "https://open.spotify.com/album/5NXJonVVKssYxQ5SeCutWj"
-      },
-      "artists": [
-        {
-          "name": "Boutot",
-          "url": "https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh"
-        },
-        {
-          "name": "Tel Kel",
-          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
-        },
-        {
-          "name": "Random",
-          "url": "https://open.spotify.com/artist/72NJ6Ydiryy5HTo7XONf2u"
-        }
-      ],
-      "duration_ms": 246951,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/6ERE4MVf0gqXr0FMdyccRx"
     },
     {
       "added_at": "2026-08-28 04:03:35",
@@ -1047,22 +1043,26 @@
     {
       "added_at": "2026-08-28 04:03:35",
       "album": {
-        "name": "Helen Quelle Heure",
-        "url": "https://open.spotify.com/album/2bBxBySTKaJMF69AZiHfE2"
+        "name": "Tel Kel X Boutot",
+        "url": "https://open.spotify.com/album/5NXJonVVKssYxQ5SeCutWj"
       },
       "artists": [
         {
-          "name": "elpy!",
-          "url": "https://open.spotify.com/artist/0Gmf9HWQAcCy6iZdJlRF1m"
+          "name": "Boutot",
+          "url": "https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh"
         },
         {
-          "name": "SMS",
-          "url": "https://open.spotify.com/artist/4j63HnohVGYEDn2K8HmhcW"
+          "name": "Tel Kel",
+          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
+        },
+        {
+          "name": "Random",
+          "url": "https://open.spotify.com/artist/72NJ6Ydiryy5HTo7XONf2u"
         }
       ],
-      "duration_ms": 125538,
-      "name": "Helen Quelle Heure",
-      "url": "https://open.spotify.com/track/2OKLiEIW4hZPaNpb6kMtdL"
+      "duration_ms": 246951,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/6ERE4MVf0gqXr0FMdyccRx"
     },
     {
       "added_at": "2026-08-28 04:03:35",
@@ -1143,6 +1143,26 @@
       "duration_ms": 152225,
       "name": "SOLO SOLO",
       "url": "https://open.spotify.com/track/6wSuxoPuQrCfSnCWlIdCmp"
+    },
+    {
+      "added_at": "2026-08-28 04:03:35",
+      "album": {
+        "name": "AMBITION",
+        "url": "https://open.spotify.com/album/09589DpFIS6eHbPzN4F1H3"
+      },
+      "artists": [
+        {
+          "name": "Ultra Stellaire",
+          "url": "https://open.spotify.com/artist/4424fsO0szH3eRd2CYcDiI"
+        },
+        {
+          "name": "Chil-p",
+          "url": "https://open.spotify.com/artist/6H7WQO4XZRLrNqxatkhFZK"
+        }
+      ],
+      "duration_ms": 162162,
+      "name": "AMBITION",
+      "url": "https://open.spotify.com/track/1VTYHqHvXnDeqKCKG0K1VS"
     },
     {
       "added_at": "2026-08-28 04:03:35",
@@ -1251,22 +1271,18 @@
     {
       "added_at": "2026-08-28 04:03:35",
       "album": {
-        "name": "AMBITION",
-        "url": "https://open.spotify.com/album/09589DpFIS6eHbPzN4F1H3"
+        "name": "BASSE COUTURE",
+        "url": "https://open.spotify.com/album/2zd2bhbTdKdICkMGg3wZLc"
       },
       "artists": [
         {
-          "name": "Ultra Stellaire",
-          "url": "https://open.spotify.com/artist/4424fsO0szH3eRd2CYcDiI"
-        },
-        {
-          "name": "Chil-p",
-          "url": "https://open.spotify.com/artist/6H7WQO4XZRLrNqxatkhFZK"
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
         }
       ],
-      "duration_ms": 162162,
-      "name": "AMBITION",
-      "url": "https://open.spotify.com/track/1VTYHqHvXnDeqKCKG0K1VS"
+      "duration_ms": 171106,
+      "name": "BASSE COUTURE",
+      "url": "https://open.spotify.com/track/3aCa5AuUlH73Zie9nCcbbO"
     },
     {
       "added_at": "2026-08-28 04:03:35",
@@ -1291,22 +1307,6 @@
       "duration_ms": 246810,
       "name": "N\u00e9m\u00e9sis",
       "url": "https://open.spotify.com/track/16D5o0NvwrqVAWI4yYi0hr"
-    },
-    {
-      "added_at": "2026-08-28 04:03:35",
-      "album": {
-        "name": "BASSE COUTURE",
-        "url": "https://open.spotify.com/album/2zd2bhbTdKdICkMGg3wZLc"
-      },
-      "artists": [
-        {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
-        }
-      ],
-      "duration_ms": 171106,
-      "name": "BASSE COUTURE",
-      "url": "https://open.spotify.com/track/3aCa5AuUlH73Zie9nCcbbO"
     },
     {
       "added_at": "2026-08-28 04:03:35",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2026-08-28 04:03:35",
       "album": {
-        "name": "copacabana",
-        "url": "https://open.spotify.com/album/1BKsViGNggJHu3558EdWSE"
+        "name": "Fanta",
+        "url": "https://open.spotify.com/album/27ShQy2DlLSofOukxfzHtU"
       },
       "artists": [
         {
-          "name": "ZEHD",
-          "url": "https://open.spotify.com/artist/5NLjMu7RaXfk1Um3BHWOnS"
+          "name": "Yellow Rice",
+          "url": "https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD"
         }
       ],
-      "duration_ms": 117624,
-      "name": "copacabana",
-      "url": "https://open.spotify.com/track/2c39ZtqhdYgjQ4brG0ujmT"
+      "duration_ms": 125090,
+      "name": "Fanta",
+      "url": "https://open.spotify.com/track/2BZl3aK7SReMp5itKrH7G7"
     },
     {
       "added_at": "2026-08-28 04:03:35",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2026-08-28 04:03:35",
       "album": {
-        "name": "Fanta",
-        "url": "https://open.spotify.com/album/27ShQy2DlLSofOukxfzHtU"
+        "name": "copacabana",
+        "url": "https://open.spotify.com/album/1BKsViGNggJHu3558EdWSE"
       },
       "artists": [
         {
-          "name": "Yellow Rice",
-          "url": "https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD"
+          "name": "ZEHD",
+          "url": "https://open.spotify.com/artist/5NLjMu7RaXfk1Um3BHWOnS"
         }
       ],
-      "duration_ms": 125090,
-      "name": "Fanta",
-      "url": "https://open.spotify.com/track/2BZl3aK7SReMp5itKrH7G7"
+      "duration_ms": 117624,
+      "name": "copacabana",
+      "url": "https://open.spotify.com/track/2c39ZtqhdYgjQ4brG0ujmT"
     },
     {
       "added_at": "2026-08-28 04:03:35",

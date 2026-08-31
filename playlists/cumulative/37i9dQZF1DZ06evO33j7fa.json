@@ -1392,10 +1392,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 60626,
       "name": "Sketch 1",
       "url": "https://open.spotify.com/track/6Tb3ZoNRQIAJGG1yXUb8Un"
+    },
+    {
+      "album": {
+        "name": "Family Tree",
+        "url": "https://open.spotify.com/album/6jME95xTUm5qvZXNvXqxq5"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60626,
+      "name": "Sketch 1",
+      "url": "https://open.spotify.com/track/78m3lFjooXA5MaJ1gRSh2Z"
     },
     {
       "album": {

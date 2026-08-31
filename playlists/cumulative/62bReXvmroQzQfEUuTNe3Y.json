@@ -2497,6 +2497,28 @@
     },
     {
       "album": {
+        "name": "Edge of Desire",
+        "url": "https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134905,
+      "name": "Edge of Desire",
+      "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
+    },
+    {
+      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/3ieNe0PtLpl2bJXoJiPcNZ"
       },

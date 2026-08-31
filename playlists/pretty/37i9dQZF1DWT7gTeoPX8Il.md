@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 
 > layan je
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,531 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,543 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 9 | [kota ini tak sama tanpamu \(with Aziz Harun & Aisha Retno\)](https://open.spotify.com/track/75DnXTAoFiorMrqkPVbjSH) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO), [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf), [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [kota ini tak sama tanpamu \(with Aziz Harun & Aisha Retno\)](https://open.spotify.com/album/5kr4902NFLTORUzlXyJoGR) | 4:29 |
 | 10 | [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Berakhir di Aku \(Original Soundtrack From "Home Sweet Loan"\)](https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd) | 3:56 |
 | 11 | [Dirimu Yang Dulu](https://open.spotify.com/track/4NTJKqpoAlTG3RcPB3y4C7) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Dirimu Yang Dulu](https://open.spotify.com/album/1XwDxY39rQn75hkx763Kri) | 4:00 |
-| 12 | [Pendampingmu \#TahtaHatiku](https://open.spotify.com/track/0peDS2F3fH9U5YKSF9SZmm) | [Shabrina Leanor](https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f) | [Pendampingmu \#TahtaHatiku](https://open.spotify.com/album/5XvTmKurqOPaImImbDBDFv) | 4:04 |
-| 13 | [Rumah](https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Rumah](https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn) | 4:18 |
-| 14 | [jatuh cinta lagi](https://open.spotify.com/track/6ACqXjnh3C5pXTEFN5vPBE) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif](https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k) | 4:08 |
-| 15 | [Terima Kasih Sudah Bertahan](https://open.spotify.com/track/6A1VXwBrL7hpGXScZkGo8D) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Berdamai](https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD) | 4:15 |
+| 12 | [Rumah](https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Rumah](https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn) | 4:18 |
+| 13 | [Pendampingmu \#TahtaHatiku](https://open.spotify.com/track/0peDS2F3fH9U5YKSF9SZmm) | [Shabrina Leanor](https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f) | [Pendampingmu \#TahtaHatiku](https://open.spotify.com/album/5XvTmKurqOPaImImbDBDFv) | 4:04 |
+| 14 | [Terima Kasih Sudah Bertahan](https://open.spotify.com/track/6A1VXwBrL7hpGXScZkGo8D) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Berdamai](https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD) | 4:15 |
+| 15 | [jatuh cinta lagi](https://open.spotify.com/track/6ACqXjnh3C5pXTEFN5vPBE) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif](https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k) | 4:08 |
 | 16 | [Mati\-Matian](https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mati\-Matian](https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV) | 4:04 |
 | 17 | [Bila Memang Kamu](https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr) | [Betrand Putra Onsu](https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c) | [Bila Memang Kamu](https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB) | 3:51 |
 | 18 | [Tetap Bukan Kamu \(feat\. Rony Parulian\)](https://open.spotify.com/track/0taGkMseEIkIZ3noyFFfZA) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [ambiVert](https://open.spotify.com/album/4SVd1APxtjPLbghqMzqmBq) | 4:16 |

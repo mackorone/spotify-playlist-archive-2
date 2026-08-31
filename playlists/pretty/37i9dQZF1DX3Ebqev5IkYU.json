@@ -1,6 +1,6 @@
 {
   "description": "\u27a1\ufe0f \u27a1\ufe0f \u27a1\ufe0f gute Laune.",
-  "num_followers": 1884476,
+  "num_followers": 1884337,
   "original_name": "Good Mood",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2026-08-07 09:08:05",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
-    },
-    {
-      "added_at": "2026-08-07 09:08:05",
-      "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "added_at": "2026-08-07 09:08:05",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
       "added_at": "2026-08-07 09:08:05",
@@ -615,22 +615,22 @@
     {
       "added_at": "2026-08-07 09:08:05",
       "album": {
-        "name": "KILLY MANJARO",
-        "url": "https://open.spotify.com/album/2iYCjwIYCULB69wNmigHlg"
+        "name": "TRIPPIN",
+        "url": "https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ"
       },
       "artists": [
         {
-          "name": "Summer Cem",
-          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
         },
         {
-          "name": "BILLA JOE",
-          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
+          "name": "Mapei",
+          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
         }
       ],
-      "duration_ms": 146133,
-      "name": "KILLY MANJARO",
-      "url": "https://open.spotify.com/track/4rcQuHo8PhGshmvEVJZ4T5"
+      "duration_ms": 202881,
+      "name": "TRIPPIN",
+      "url": "https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7"
     },
     {
       "added_at": "2026-08-07 09:08:05",
@@ -651,22 +651,22 @@
     {
       "added_at": "2026-08-07 09:08:05",
       "album": {
-        "name": "TRIPPIN",
-        "url": "https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ"
+        "name": "KILLY MANJARO",
+        "url": "https://open.spotify.com/album/2iYCjwIYCULB69wNmigHlg"
       },
       "artists": [
         {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
         },
         {
-          "name": "Mapei",
-          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
+          "name": "BILLA JOE",
+          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
         }
       ],
-      "duration_ms": 202881,
-      "name": "TRIPPIN",
-      "url": "https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7"
+      "duration_ms": 146133,
+      "name": "KILLY MANJARO",
+      "url": "https://open.spotify.com/track/4rcQuHo8PhGshmvEVJZ4T5"
     },
     {
       "added_at": "2026-08-07 09:08:05",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2026-08-07 09:08:05",
       "album": {
-        "name": "car crash",
-        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "car crash",
-      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
-    },
-    {
-      "added_at": "2026-08-07 09:08:05",
-      "album": {
         "name": "Somedays",
         "url": "https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 207168,
       "name": "Somedays",
       "url": "https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB"
+    },
+    {
+      "added_at": "2026-08-07 09:08:05",
+      "album": {
+        "name": "car crash",
+        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "car crash",
+      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
     },
     {
       "added_at": "2026-08-07 09:08:05",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-08-07 09:08:05",
       "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
+    },
+    {
+      "added_at": "2026-08-07 09:08:05",
+      "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 163034,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU"
-    },
-    {
-      "added_at": "2026-08-07 09:08:05",
-      "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
     },
     {
       "added_at": "2026-08-07 09:08:05",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-08-07 09:08:05",
       "album": {
-        "name": "Night at the Opera",
-        "url": "https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 184788,
-      "name": "Night at the Opera",
-      "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
-    },
-    {
-      "added_at": "2026-08-07 09:08:05",
-      "album": {
         "name": "Acapulco",
         "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 139672,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
+    },
+    {
+      "added_at": "2026-08-07 09:08:05",
+      "album": {
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/08QA1LIBYfgH1j3yfnjY1O"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 194186,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/0Dho96aJIZ5LJZXyPllbWA"
     }
   ],
   "unique_name": "Good Mood",

@@ -1,6 +1,6 @@
 {
   "description": "The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte",
-  "num_followers": 129911,
+  "num_followers": 129948,
   "original_name": "We Love Corridos Viejitos ",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-04-26 03:10:51",
       "album": {
-        "name": "Con Experiencia Y Juventud",
-        "url": "https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 161671,
-      "name": "La Hielera",
-      "url": "https://open.spotify.com/track/5SfMvDB6IWwJaUdqB0Aagg"
-    },
-    {
-      "added_at": "2026-04-26 03:10:51",
-      "album": {
         "name": "Narco Corridos",
         "url": "https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 300440,
       "name": "Entre Perico Y Perico",
       "url": "https://open.spotify.com/track/7oolgteFZL4lKQ7LcgYIhd"
+    },
+    {
+      "added_at": "2026-04-26 03:10:51",
+      "album": {
+        "name": "Con Experiencia Y Juventud",
+        "url": "https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 161671,
+      "name": "La Hielera",
+      "url": "https://open.spotify.com/track/5SfMvDB6IWwJaUdqB0Aagg"
     },
     {
       "added_at": "2026-04-26 03:10:51",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-04-26 03:10:51",
       "album": {
-        "name": "10 Corridos Pesados",
-        "url": "https://open.spotify.com/album/5Mc3MOwWjnXHP35sj823Nf"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "La Suburban Dorada",
-      "url": "https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE"
-    },
-    {
-      "added_at": "2026-04-26 03:10:51",
-      "album": {
         "name": "Chevrolet 4 X 4",
         "url": "https://open.spotify.com/album/0zEg38J4RG3C05jP6ZNGW6"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 187520,
       "name": "Chevrolet Cuatro por Cuatro",
       "url": "https://open.spotify.com/track/5K8fmjSkNpJzCyaCmY5DMS"
+    },
+    {
+      "added_at": "2026-04-26 03:10:51",
+      "album": {
+        "name": "10 Corridos Pesados",
+        "url": "https://open.spotify.com/album/5Mc3MOwWjnXHP35sj823Nf"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "La Suburban Dorada",
+      "url": "https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE"
     },
     {
       "added_at": "2026-04-26 03:10:51",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-04-26 03:10:51",
       "album": {
-        "name": "Alineando Cabritos",
-        "url": "https://open.spotify.com/album/6MwbpboiKaGTcb3MubGa2A"
-      },
-      "artists": [
-        {
-          "name": "Los Originales De San Juan",
-          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "La Troca De Tres Colores",
-      "url": "https://open.spotify.com/track/1At5H1Pyrx3sgaVvVHSzOG"
-    },
-    {
-      "added_at": "2026-04-26 03:10:51",
-      "album": {
         "name": "15 \u00c9xitos: Corridos de Caballos Famosos",
         "url": "https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 195744,
       "name": "El Moro De Cumpas",
       "url": "https://open.spotify.com/track/7saMayhJnkuIf0dosuuWH4"
+    },
+    {
+      "added_at": "2026-04-26 03:10:51",
+      "album": {
+        "name": "Alineando Cabritos",
+        "url": "https://open.spotify.com/album/6MwbpboiKaGTcb3MubGa2A"
+      },
+      "artists": [
+        {
+          "name": "Los Originales De San Juan",
+          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "La Troca De Tres Colores",
+      "url": "https://open.spotify.com/track/1At5H1Pyrx3sgaVvVHSzOG"
     },
     {
       "added_at": "2026-04-26 03:10:51",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-04-26 03:10:51",
       "album": {
-        "name": "Se Me Canso El Corazon",
-        "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 168026,
-      "name": "Los Tres Gallos",
-      "url": "https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY"
-    },
-    {
-      "added_at": "2026-04-26 03:10:51",
-      "album": {
         "name": "Antonio Aguilar con Mariachi",
         "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 184064,
       "name": "Lamberto Quintero",
       "url": "https://open.spotify.com/track/5FWViyEsDYr3hkYmj10GxZ"
+    },
+    {
+      "added_at": "2026-04-26 03:10:51",
+      "album": {
+        "name": "Se Me Canso El Corazon",
+        "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 168026,
+      "name": "Los Tres Gallos",
+      "url": "https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY"
     },
     {
       "added_at": "2026-04-26 03:10:51",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2026-04-26 03:10:51",
       "album": {
-        "name": "CORRIDOS DE CONTRABANDO (Remastered)",
-        "url": "https://open.spotify.com/album/2n5kAvHsATHI1DblHoBC3s"
+        "name": "El Mero Chaka",
+        "url": "https://open.spotify.com/album/3mFKkfROmn7VUiZq3y7f5Q"
       },
       "artists": [
         {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+          "name": "El Halcon De La Sierra",
+          "url": "https://open.spotify.com/artist/1KdzlfS9Fli0fwzE2oc9GU"
         }
       ],
-      "duration_ms": 198026,
-      "name": "la carga blanca",
-      "url": "https://open.spotify.com/track/0E1zqbwu7dZlzrBYBuYnPE"
+      "duration_ms": 144200,
+      "name": "Pakas De A Kilo",
+      "url": "https://open.spotify.com/track/3qCcaEfYemFDg1T1qCGUUD"
     },
     {
       "added_at": "2026-04-26 03:10:51",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2026-04-26 03:10:51",
       "album": {
-        "name": "El Mero Chaka",
-        "url": "https://open.spotify.com/album/3mFKkfROmn7VUiZq3y7f5Q"
+        "name": "CORRIDOS DE CONTRABANDO (Remastered)",
+        "url": "https://open.spotify.com/album/2n5kAvHsATHI1DblHoBC3s"
       },
       "artists": [
         {
-          "name": "El Halcon De La Sierra",
-          "url": "https://open.spotify.com/artist/1KdzlfS9Fli0fwzE2oc9GU"
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 144200,
-      "name": "Pakas De A Kilo",
-      "url": "https://open.spotify.com/track/3qCcaEfYemFDg1T1qCGUUD"
+      "duration_ms": 198026,
+      "name": "la carga blanca",
+      "url": "https://open.spotify.com/track/0E1zqbwu7dZlzrBYBuYnPE"
     },
     {
       "added_at": "2026-04-26 03:10:51",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2026-04-26 03:10:51",
       "album": {
+        "name": "Los Corridos Favoritos Del Jefe",
+        "url": "https://open.spotify.com/album/2STlqGKuUD6xxsncxLrnVH"
+      },
+      "artists": [
+        {
+          "name": "El Tigrillo Palma",
+          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
+        }
+      ],
+      "duration_ms": 219360,
+      "name": "El Bazucazo",
+      "url": "https://open.spotify.com/track/6yl1gnJWeVOio73J9Ij3Mo"
+    },
+    {
+      "added_at": "2026-04-26 03:10:51",
+      "album": {
         "name": "Corridos de Caballos Famosos",
         "url": "https://open.spotify.com/album/0l5z0wJygkIBRXixFYs4qH"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 175000,
       "name": "Catarino y Los Rurales",
       "url": "https://open.spotify.com/track/7pBNNMq6Bm3mVLCoNx1PnK"
-    },
-    {
-      "added_at": "2026-04-26 03:10:51",
-      "album": {
-        "name": "Los Corridos Favoritos Del Jefe",
-        "url": "https://open.spotify.com/album/2STlqGKuUD6xxsncxLrnVH"
-      },
-      "artists": [
-        {
-          "name": "El Tigrillo Palma",
-          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
-        }
-      ],
-      "duration_ms": 219360,
-      "name": "El Bazucazo",
-      "url": "https://open.spotify.com/track/6yl1gnJWeVOio73J9Ij3Mo"
     },
     {
       "added_at": "2026-04-26 03:10:51",

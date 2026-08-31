@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,332 likes - 87 songs - 5 hr 6 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,332 likes - 90 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,5 +95,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 85 | [DU BIST WILD](https://open.spotify.com/track/2pAAKvqH7VTBde8kQ1UEPH) | [Leslie´s Project](https://open.spotify.com/artist/6FxIZD5GYvLPbrdln5RD2f) | [DU BIST WILD](https://open.spotify.com/album/0xruuJobmDpHM0auPUh4uh) | 3:00 |
 | 86 | [Wenn ich nachts nicht schlafen kann](https://open.spotify.com/track/7popSOnP1uS3C7v0ortVPM) | [Mia Hermann](https://open.spotify.com/artist/6JfCDV2SyMKZfemIViLw9K) | [Kopf aus](https://open.spotify.com/album/18Aia1gxHqixLZBzt0zoi1) | 3:22 |
 | 87 | [Io ti perderò \- Live 2026](https://open.spotify.com/track/4mRlNi6l2t4TlVGTNwckN9) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Io ti perderò \(Live 2026\)](https://open.spotify.com/album/7pG4kvuYvthqUkqpmX6fDM) | 3:20 |
+| 88 | [Keep on Dreaming](https://open.spotify.com/track/2WB6zrnwESi9zgtcLlUjn1) | [MÅNE](https://open.spotify.com/artist/3AejcXHKHkrLhgxV9ZBtIO) | [Keep on Dreaming](https://open.spotify.com/album/3bvmJoD9YetJ3UclgS1wgS) | 3:57 |
+| 89 | [Rooh Ka Sakoon](https://open.spotify.com/track/4D1bt4eXcmROAM5D8hWOXN) | [Temur Roy](https://open.spotify.com/artist/6bSFAMMAwCAYd4BuoTztFR) | [Ishq Aur Rooh](https://open.spotify.com/album/698myUVMT6dq9C4uC0VfUV) | 4:19 |
+| 90 | [Dream Again](https://open.spotify.com/track/4D0P4TCJqjK3hzxwPcu3sB) | [FYONA](https://open.spotify.com/artist/4DVQgGkceK5qLMWB9ICJkR) | [Dream Again](https://open.spotify.com/album/5shHelhedh5mUBcZqtsy9d) | 2:42 |
 
-Snapshot ID: `AAAXggYFfYc2xj9i5BUn26Vym3vbrt9T`
+Snapshot ID: `AAAXhfo5KSquNi2juP12h0mXfNOZlOW5`

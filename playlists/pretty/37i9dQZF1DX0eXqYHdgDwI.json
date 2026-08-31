@@ -1,6 +1,6 @@
 {
   "description": " \ud83e\udd40",
-  "num_followers": 123230,
+  "num_followers": 123241,
   "original_name": "piangere fortissimo",
   "owner": {
     "name": "Spotify",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2026-08-27 22:02:30",
       "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Always Remember Us This Way",
+      "url": "https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab"
+    },
+    {
+      "added_at": "2026-08-27 22:02:30",
+      "album": {
         "name": "brent",
         "url": "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 219146,
       "name": "you were good to me",
       "url": "https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P"
-    },
-    {
-      "added_at": "2026-08-27 22:02:30",
-      "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Always Remember Us This Way",
-      "url": "https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab"
     },
     {
       "added_at": "2026-08-27 22:02:30",

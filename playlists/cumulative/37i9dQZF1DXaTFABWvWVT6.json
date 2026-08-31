@@ -4213,6 +4213,36 @@
     },
     {
       "album": {
+        "name": "Long Jacket",
+        "url": "https://open.spotify.com/album/4fuu8b29TGQdCknJDSPzr1"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        },
+        {
+          "name": "CAKE",
+          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211368,
+      "name": "Long Jacket",
+      "url": "https://open.spotify.com/track/7wFwf1j6nn7uneEF6oTAiR"
+    },
+    {
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE"
       },
@@ -4836,7 +4866,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 305480,
       "name": "Never Come Back",
       "url": "https://open.spotify.com/track/0Ej6OBBtMvhjaJvtt1vtUt"

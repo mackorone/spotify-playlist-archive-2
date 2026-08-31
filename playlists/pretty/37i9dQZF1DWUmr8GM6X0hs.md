@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,384 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,398 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 21 | [Aunque Me Cueste la Vida](https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye) | [Alberto Beltran](https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Aunque Me Cueste la Vida](https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2) | 2:58 |
 | 22 | [Total](https://open.spotify.com/track/5nUf759XOaK2vnUws4acJM) | [Bienvenido Granda](https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4) | [Canta Sus Exitos](https://open.spotify.com/album/7uCFS6G1cwDikioDJhFHO2) | 3:03 |
 | 23 | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q) | 2:58 |
-| 24 | [Loca Ansiedad](https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO) | [Raul Lopez](https://open.spotify.com/artist/0WoNXUXKyGZ4gzN2uJgp6S), [Orquesta de Ricaurte Arias](https://open.spotify.com/artist/7wR8LmVjcmGvqdOHZGhWAr) | [Loca Ansiedad](https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s) | 2:55 |
-| 25 | [Los Aretes De La Luna](https://open.spotify.com/track/42TjkXmdeykjRoGm8XS2x8) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Vicentico Valdés](https://open.spotify.com/artist/6yQZkZC0BnKuZzuO1DAf3J) | [Vicentico Valdés Con La Sonora Matancera](https://open.spotify.com/album/4ZlrS11JlhwkbtJ3fOglIS) | 2:25 |
+| 24 | [Los Aretes De La Luna](https://open.spotify.com/track/42TjkXmdeykjRoGm8XS2x8) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Vicentico Valdés](https://open.spotify.com/artist/6yQZkZC0BnKuZzuO1DAf3J) | [Vicentico Valdés Con La Sonora Matancera](https://open.spotify.com/album/4ZlrS11JlhwkbtJ3fOglIS) | 2:25 |
+| 25 | [Loca Ansiedad](https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO) | [Raul Lopez](https://open.spotify.com/artist/0WoNXUXKyGZ4gzN2uJgp6S), [Orquesta de Ricaurte Arias](https://open.spotify.com/artist/7wR8LmVjcmGvqdOHZGhWAr) | [Loca Ansiedad](https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s) | 2:55 |
 | 26 | [El Hijo Varón](https://open.spotify.com/track/7zCthbWs5OjnpXl9pMfmxy) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:04 |
 | 27 | [Como Fué](https://open.spotify.com/track/7yvBuMGvWigRvJgwtKEPLD) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Benny Moré Mágico](https://open.spotify.com/album/6eR6hzbY2nRAOEn04Ckixb) | 2:58 |
 | 28 | [En El Balcon Aquel](https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:17 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 38 | [Así](https://open.spotify.com/track/4Est2AoCaL1zVMmU78Qw3H) | [Chivirico Davila](https://open.spotify.com/artist/6RsRDk1TGzoTsaRsLRKfaQ) | [Más Recuerdos Románticos](https://open.spotify.com/album/5DwgXMZWtaRTXfykSwPNVV) | 4:38 |
 | 39 | [La Última Copa](https://open.spotify.com/track/7JtkNGrjQcIH972Ij06TYb) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Daniel Santos](https://open.spotify.com/album/6f9UqC7zgujSSLTW5fMmkc) | 2:01 |
 | 40 | [Kio](https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Pedrito Otiniano y Sus Exitos](https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75) | 2:51 |
-| 41 | [Corazón Herido](https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:10 |
-| 42 | [Trompo de Juguete](https://open.spotify.com/track/26YLEP0iOR8C8Ub38m7je1) | [Nacho Sanabria](https://open.spotify.com/artist/78JOr5y1zeRRDqcIJWmw4G) | [14 Grandes Exitos de Nacho Sanabria](https://open.spotify.com/album/7MkZgWtVL5mhtSASyFB51T) | 4:25 |
+| 41 | [Trompo de Juguete](https://open.spotify.com/track/26YLEP0iOR8C8Ub38m7je1) | [Nacho Sanabria](https://open.spotify.com/artist/78JOr5y1zeRRDqcIJWmw4G) | [14 Grandes Exitos de Nacho Sanabria](https://open.spotify.com/album/7MkZgWtVL5mhtSASyFB51T) | 4:25 |
+| 42 | [Corazón Herido](https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:10 |
 | 43 | [El mago y la publicidad](https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [El mago y la publicidad](https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o) | 2:20 |
 | 44 | [Alguien Me Dijo](https://open.spotify.com/track/0ck988yod8D7E9zefW5GoA) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Historia: Discografía Completa](https://open.spotify.com/album/7wGasepTMbhvpGtBRzPTlg) | 3:34 |
 | 45 | [Cruel Condena](https://open.spotify.com/track/5AQ5R9Aub1g5b8ZGapJtSX) | [Franklin Cabrejos](https://open.spotify.com/artist/2P2hO7D86NyPtMfxThbisN) | [Grandes del Bolero](https://open.spotify.com/album/0tazysjvIraPaJRG2StAjw) | 2:49 |

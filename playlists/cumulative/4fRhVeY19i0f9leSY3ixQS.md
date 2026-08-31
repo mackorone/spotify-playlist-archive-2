@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-2,187 songs - 5 day 2 hr 24 min
+2,189 songs - 5 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [Cruise to Rome](https://open.spotify.com/track/18jV0lp7UxCXIQCpgN8Clp) | [Undergrau](https://open.spotify.com/artist/4f6lyAIS3Zdpp7DvDNGBr3) | [Cruise to Rome](https://open.spotify.com/album/3cUb0iysPOTO14FZeqwUJ6) | 3:39 | 2026-07-31 | 2026-08-26 |
 | [Crustaccato](https://open.spotify.com/track/2dF0qR3yZVNudzmPtuEw9m) | [Painist](https://open.spotify.com/artist/2SVJfASujlJVczVl9shlt2) | [Too Many Clunkers](https://open.spotify.com/album/6n7HB9DwrPxFZUsRyoUruy) | 2:00 | 2026-03-31 | 2026-05-02 |
 | [Cry](https://open.spotify.com/track/3btAgesKJyF1LCHuNDp9sd) | [Sophie Simonds](https://open.spotify.com/artist/2AZSHzzlREDkdhgWtOhKx1) | [Octo](https://open.spotify.com/album/35Zuxh3nvmQywZ4hTDSWRh) | 3:36 | 2025-12-19 | 2026-01-15 |
+| [Cult of Masculinity](https://open.spotify.com/track/79iK5rGh72RHiCJaUDIBnZ) | [Gawd](https://open.spotify.com/artist/76xDrhcwYuayzbzIkR3mBD) | [American Closet](https://open.spotify.com/album/2JJBoMlIWcIHhnsbt7Hnld) | 4:31 | 2026-08-30 |  |
 | [Cumberland Gap](https://open.spotify.com/track/6Gxu4KymW16NH2EeA9AJCr) | [The Grunges](https://open.spotify.com/artist/2NM1MCdBmXIbziFHGLBWjN), [Semantik](https://open.spotify.com/artist/5KDq9vPopEITAxvHLIAtdX) | [The Orange Castle](https://open.spotify.com/album/0t4swqKgO8kmvArQ4m6xhb) | 3:02 | 2026-07-10 | 2026-08-01 |
 | [curveball](https://open.spotify.com/track/67kzadXXKhMDpXBmN0tqqD) | [Donzii](https://open.spotify.com/artist/6ezSXwGUhE3a3g6uEr38oU) | [curveball](https://open.spotify.com/album/4jcGuHtzWlzpZoGyvmsWfA) | 2:54 | 2025-12-16 | 2026-01-06 |
 | [Cut It Out!](https://open.spotify.com/track/2Hyalx0ms1xibr1QTZebGm) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Cut It Out!](https://open.spotify.com/album/5c0HNhPuGroOZnioWziNuk) | 2:57 | 2025-11-10 | 2025-12-10 |
@@ -1337,6 +1338,7 @@
 | [on the mend](https://open.spotify.com/track/1dIHISHteCYUFGhEj6bDAP) | [poor rich](https://open.spotify.com/artist/787dA1tXr4OhNH6pQgsoKi) | [on the mend](https://open.spotify.com/album/2V11BbLkEJHFHPhVwc0BL5) | 3:44 | 2026-02-23 | 2026-03-27 |
 | [On The Run](https://open.spotify.com/track/182G73eUtTppSaqS7X9Tv2) | [XXX Smut](https://open.spotify.com/artist/1eusvoPqnUbdL0nNgQ4hgv), [Todd Hogan](https://open.spotify.com/artist/11t6B3gdxHdRCS6kUHH7Mf) | [Fuck Milk Got Beer](https://open.spotify.com/album/4w00V58UjpWPN7WtByA5Ea) | 2:23 | 2025-11-29 | 2025-12-24 |
 | [On Your Left](https://open.spotify.com/track/6Q6yfXDK0zeODwrQzotkPm) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 3:22 | 2025-08-03 | 2026-05-30 |
+| [One Eye Open](https://open.spotify.com/track/1mSskP1M7EAGSFwAICCbSO) | [Caskey](https://open.spotify.com/artist/7nVgP0ISalazUzugR7D8zk) | [One Eye Open](https://open.spotify.com/album/5sagqjIIzg62dy99DVqt1z) | 3:24 | 2026-08-30 |  |
 | [One of a Kind](https://open.spotify.com/track/711P5S0uw1PSzAgKthYcTP) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [One of a Kind](https://open.spotify.com/album/2nA99Zidxymb7TVHgygcnp) | 3:59 | 2025-12-19 | 2026-01-15 |
 | [One Of Us](https://open.spotify.com/track/2kbs4GfD8D08oD5ioBebsw) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [Bored of Peace](https://open.spotify.com/album/1tGsbzN0VFgvH6dZ0TR8OC) | 1:35 | 2026-07-08 | 2026-08-01 |
 | [One World Disorder](https://open.spotify.com/track/6IN2ZJlycx9TVvTIiPDX7r) | [austin cooley](https://open.spotify.com/artist/2uYPlbiYqhZ2VUZqjtw2iw), [Reconstruct](https://open.spotify.com/artist/0eLe8pnOzqbSPLKaZuRn33) | [Sakura](https://open.spotify.com/album/22bseRNqaihIXVieVV27i6) | 2:18 | 2025-12-17 | 2026-01-06 |

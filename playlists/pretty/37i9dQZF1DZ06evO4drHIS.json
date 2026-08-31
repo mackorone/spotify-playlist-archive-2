@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 19882,
+  "num_followers": 19886,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAAMHdYBdtv2AfIIwmJ4XxQf",
+  "snapshot_id": "apIhAAAAAADg6jZCr6XqWtS+5LKFFsGU",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gana la Que Pierde",
+        "url": "https://open.spotify.com/album/4DG0TxUWEtyVPMoDxG1fPr"
+      },
+      "artists": [
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 224055,
+      "name": "Gana la Que Pierde",
+      "url": "https://open.spotify.com/track/1sXPJeFdOrf5Jw1YlF7mPY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Ning\u00fan Lugar",
         "url": "https://open.spotify.com/album/4nprLl0cQBLb3YS2FmcTYR"
       },
@@ -687,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi Y Tequila (Deluxe)",
-        "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 187720,
-      "name": "Nos Gan\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Herencia, Mi Sangre",
         "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
       },
@@ -719,22 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gana la Que Pierde",
-        "url": "https://open.spotify.com/album/4DG0TxUWEtyVPMoDxG1fPr"
+        "name": "Mariachi Y Tequila (Deluxe)",
+        "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
       },
       "artists": [
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        },
         {
           "name": "Majo Aguilar",
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 224055,
-      "name": "Gana la Que Pierde",
-      "url": "https://open.spotify.com/track/1sXPJeFdOrf5Jw1YlF7mPY"
+      "duration_ms": 187720,
+      "name": "Nos Gan\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se Canta Con El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 239453,
+      "name": "No Te Apartes De M\u00ed",
+      "url": "https://open.spotify.com/track/1YVXnczV8oqpMqn8RVsW35"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mariachi M\u00edo",
         "url": "https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 195851,
       "name": "Enamorada",
       "url": "https://open.spotify.com/track/5d7GrBtJgeLoyWJGdYPNhf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se Canta Con El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 239453,
-      "name": "No Te Apartes De M\u00ed",
-      "url": "https://open.spotify.com/track/1YVXnczV8oqpMqn8RVsW35"
     },
     {
       "added_at": null,

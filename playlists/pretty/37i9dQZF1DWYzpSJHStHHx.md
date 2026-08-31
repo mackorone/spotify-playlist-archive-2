@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,216 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,215 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 16 | [Catamaran](https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0) | 3:32 |
 | 17 | [Tangerine](https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Tangerine](https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR) | 4:50 |
 | 18 | [Friends](https://open.spotify.com/track/035Gwr2QzjbZIteZldAqUg) | [levitation room](https://open.spotify.com/artist/0SVxQVCnJn1BNUMY9ZcRO4) | [Minds of Our Own](https://open.spotify.com/album/0cBuzW4OjcpzL8oyKuPLvJ) | 3:37 |
-| 19 | [Preloved](https://open.spotify.com/track/6uzUzGdIUdxHyup4fNAl1J) | [Peach Fur](https://open.spotify.com/artist/7HeH2mQJ6HWzZK7PZEBWxz) | [Awake](https://open.spotify.com/album/2xhB8gE9KEr2fjCZoNzVDr) | 3:53 |
-| 20 | [Lying Through Their Teeth](https://open.spotify.com/track/1fUtTyrHCDELiSoUE2zw7h) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [All Out of Good Days](https://open.spotify.com/album/5p1jramEN1hRiQeCFpok1S) | 2:37 |
-| 21 | [Blue](https://open.spotify.com/track/1aabE9A354aSNLZpRWBYPC) | [Famous Friend](https://open.spotify.com/artist/6DaO8J2AaSwUHCRFBQNL9L) | [Blue](https://open.spotify.com/album/0v5gD5ubdVDupIxEPIfeum) | 2:34 |
-| 22 | [Tora](https://open.spotify.com/track/2RdTAjuyXApYuZhQh7kypm) | [Ra Ra Viper](https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId) | [Pound For Pound](https://open.spotify.com/album/7HW83aQ4OFpMsg6W8hmROw) | 3:02 |
+| 19 | [Lying Through Their Teeth](https://open.spotify.com/track/1fUtTyrHCDELiSoUE2zw7h) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [All Out of Good Days](https://open.spotify.com/album/5p1jramEN1hRiQeCFpok1S) | 2:37 |
+| 20 | [Preloved](https://open.spotify.com/track/6uzUzGdIUdxHyup4fNAl1J) | [Peach Fur](https://open.spotify.com/artist/7HeH2mQJ6HWzZK7PZEBWxz) | [Awake](https://open.spotify.com/album/2xhB8gE9KEr2fjCZoNzVDr) | 3:53 |
+| 21 | [Tora](https://open.spotify.com/track/2RdTAjuyXApYuZhQh7kypm) | [Ra Ra Viper](https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId) | [Pound For Pound](https://open.spotify.com/album/7HW83aQ4OFpMsg6W8hmROw) | 3:02 |
+| 22 | [Blue](https://open.spotify.com/track/1aabE9A354aSNLZpRWBYPC) | [Famous Friend](https://open.spotify.com/artist/6DaO8J2AaSwUHCRFBQNL9L) | [Blue](https://open.spotify.com/album/0v5gD5ubdVDupIxEPIfeum) | 2:34 |
 | 23 | [Fish on the Sand](https://open.spotify.com/track/3Zd1APgfAFCQXpXYsz5rT5) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Fish on the Sand](https://open.spotify.com/album/4nlrPQBvNN2iygMNk46lCJ) | 3:38 |
 | 24 | [Border On Border](https://open.spotify.com/track/7yhVm87pJ2vxvK9gntVcxm) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Pennied Days](https://open.spotify.com/album/6E06hCaPnbNSR2KhVTa7CJ) | 3:34 |
 | 25 | [Ballad of the Texas King](https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Cut Worms](https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2) | 3:03 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 52 | [Out Of Here](https://open.spotify.com/track/3HiH0AHki9UZDRfXnjL0dJ) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Out Of Here](https://open.spotify.com/album/1CRnBfgRX2TzO7sKeJVzJx) | 2:31 |
 | 53 | [Valley Girl](https://open.spotify.com/track/7cYuXEJSfRLZUrekVDh6jh) | [The Burkharts](https://open.spotify.com/artist/0zvND4IqnGShzA7X47MIkp) | [Valley Girl](https://open.spotify.com/album/5uHWX7eFyS8dvJq251V8BH) | 3:31 |
 | 54 | [Welcome Back \(To The//Glow\)](https://open.spotify.com/track/3DvyfmtCzjLs01uMqLo7zR) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Welcome Back \(To The//Glow\)](https://open.spotify.com/album/7ipoFGqpEQExYVMkOmdZHp) | 4:45 |
-| 55 | [twenty bucks \(the friend song\)](https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V) | [boxboys](https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9) | [twenty bucks \(the friend song\)](https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB) | 1:53 |
-| 56 | [Sweet Tooth](https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Sweet Tooth](https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL) | 2:04 |
+| 55 | [Sweet Tooth](https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Sweet Tooth](https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL) | 2:04 |
+| 56 | [twenty bucks \(the friend song\)](https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V) | [boxboys](https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9) | [twenty bucks \(the friend song\)](https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB) | 1:53 |
 | 57 | [The Way You Talk](https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW) | [The Red Pears](https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT) | [The Way You Talk](https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq) | 3:18 |
 | 58 | [Recycle](https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI) | [loren north](https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr) | [Recycle](https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2) | 3:24 |
 | 59 | [Right or Wrong](https://open.spotify.com/track/3iblchfWSkursOZywc1MyH) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Right or Wrong](https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK) | 3:27 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 63 | [Naga Damai](https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf) | [Cocobolo](https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu) | [Naga Damai](https://open.spotify.com/album/1eEyJyPSx9PLnkm6K9qyBo) | 3:37 |
 | 64 | [Pacific Ocean](https://open.spotify.com/track/49MVg5q2nvlPjnK93dqalV) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Pacific Ocean](https://open.spotify.com/album/5kG4wRE6BuhP582mtt5a25) | 2:33 |
 | 65 | [Hideaway](https://open.spotify.com/track/6MoD2aTX0Yc2YjHjG7CxXf) | [Sunsick Daisy](https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1) | [Hideaway](https://open.spotify.com/album/5vM64OxKlY55VcAfFEJEra) | 3:06 |
-| 66 | [Sharks](https://open.spotify.com/track/1Q5izvlLFm6gQZyaxJHEHy) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [Sharks](https://open.spotify.com/album/3Ux3tqe169UnBo1a7gREiL) | 3:41 |
-| 67 | [LCD](https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT) | [Ghost Care](https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy) | [LCD](https://open.spotify.com/album/7JiblL6oSzGZfiTAin8t4Y) | 3:31 |
+| 66 | [LCD](https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT) | [Ghost Care](https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy) | [LCD](https://open.spotify.com/album/7JiblL6oSzGZfiTAin8t4Y) | 3:31 |
+| 67 | [Sharks](https://open.spotify.com/track/1Q5izvlLFm6gQZyaxJHEHy) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [Sharks](https://open.spotify.com/album/3Ux3tqe169UnBo1a7gREiL) | 3:41 |
 | 68 | [Never Going Home](https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Just Give In / Never Going Home](https://open.spotify.com/album/0WkcZDizu9ugjmFldcxO3C) | 3:56 |
 | 69 | [Lara](https://open.spotify.com/track/0ufK29CoMI8H6aWV7BXXbl) | [Blanco Tranco](https://open.spotify.com/artist/4YGf4vtFvFBhfkjKNiLoJH) | [Lara](https://open.spotify.com/album/0Y2mQu3eGq3dry8Ko9A74Q) | 3:05 |
 | 70 | [Tommy Bahama](https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Tommy Bahama](https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW) | 3:49 |
 | 71 | [Postcode Lover](https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Postcode Lover](https://open.spotify.com/album/6lg0c3lhHOYHnJREaycKre) | 2:45 |
 | 72 | [Floating By](https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg) | [Dawson James](https://open.spotify.com/artist/07SRAC48eP073ob1v7iEuL) | [Floating By](https://open.spotify.com/album/1yYbgy37ZesTj0feuFkzJT) | 2:40 |
 | 73 | [Stargazer](https://open.spotify.com/track/3NguJRn6XA8XHaBkIy5VB1) | [Yellow The Sun](https://open.spotify.com/artist/2SMU4gn77Tx3f2b5Lodrag) | [Stargazer](https://open.spotify.com/album/1lepumZo22mVAqL0BbH9ID) | 3:02 |
-| 74 | [Bali Nights](https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Cigarettes In Space](https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu) | 3:30 |
-| 75 | [Peace In Me](https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH) | [Bones and Jones](https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4) | [In Colour](https://open.spotify.com/album/5DCOPvYMwUPv0UCoFVD1hl) | 4:35 |
+| 74 | [Peace In Me](https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH) | [Bones and Jones](https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4) | [In Colour](https://open.spotify.com/album/5DCOPvYMwUPv0UCoFVD1hl) | 4:35 |
+| 75 | [Malibu Sunset](https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi) | [The Travelers](https://open.spotify.com/artist/6vayW66astvaRgv4llGBff) | [Malibu Sunset b/w Hang On](https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol) | 2:08 |
 
 Snapshot ID: `AAAAAFrmeVm/3XAHYOGojJACZLVoDq5h`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Lara Project y Gus en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,371 likes - 53 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,374 likes - 53 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

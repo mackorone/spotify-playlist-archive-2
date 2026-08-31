@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUofLlXqRWZz.md) - [plain]
 
 > This is Ludovico Einaudi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,937 likes - 86 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,071 likes - 86 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

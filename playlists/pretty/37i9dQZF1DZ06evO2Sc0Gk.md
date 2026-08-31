@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,490 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,492 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 40 | [Sample You \- Remix](https://open.spotify.com/track/0rTYNZiZb6jnHE6W4qGsbb) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Sample You \(Remix\)](https://open.spotify.com/album/4NqSxpwqFC9RZU6wh9xgUE) | 3:33 |
 | 41 | [Lento](https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Lento](https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00) | 3:08 |
 | 42 | [Property](https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Mo\-T](https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:25 |
-| 43 | [Call Waiting](https://open.spotify.com/track/6E7inQoWgdOxhFw4GmNS4c) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Call Waiting](https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI) | 2:30 |
-| 44 | [Never Walk Alone](https://open.spotify.com/track/1rUjssvd1FdBjlTGTwohaK) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Les Teriba](https://open.spotify.com/artist/7fwk67xtIn7vS7t6EwvkbG), [Jessi Selm](https://open.spotify.com/artist/1WLMT9B3XcmOH7WxEOi4pq) | [Never Walk Alone](https://open.spotify.com/album/1zwm4teG7b5ySEn1cqmPV9) | 3:34 |
+| 43 | [Never Walk Alone](https://open.spotify.com/track/1rUjssvd1FdBjlTGTwohaK) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Les Teriba](https://open.spotify.com/artist/7fwk67xtIn7vS7t6EwvkbG), [Jessi Selm](https://open.spotify.com/artist/1WLMT9B3XcmOH7WxEOi4pq) | [Never Walk Alone](https://open.spotify.com/album/1zwm4teG7b5ySEn1cqmPV9) | 3:34 |
+| 44 | [Call Waiting](https://open.spotify.com/track/6E7inQoWgdOxhFw4GmNS4c) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Call Waiting](https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI) | 2:30 |
 | 45 | [Supernova](https://open.spotify.com/track/4Vo3oCRHQI8KT7kv9Ayism) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Supernova](https://open.spotify.com/album/0wDPXirmkaRKLWIfYAsnKH) | 1:49 |
 | 46 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 |
 | 47 | [Abracadabra](https://open.spotify.com/track/5MnO1TJXZ01GygCXiZKLNU) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Gbagada Express](https://open.spotify.com/album/3TZrhPPbC11jtPvW40PS9b) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 49 | [Attention](https://open.spotify.com/track/5sjuPu1wyt0n5hybW07RyQ) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [F1 The Album](https://open.spotify.com/album/2HwRKkEp7jXbxXwcGyZYHK) | 2:53 |
 | 50 | [Marry](https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Marry](https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm) | 3:29 |
 
-Snapshot ID: `apDPgAAAAADJyxpuy4kPdiI60sSaI5aX`
+Snapshot ID: `apIhAAAAAABKIypPxXxIi6YHgd5/zSyB`

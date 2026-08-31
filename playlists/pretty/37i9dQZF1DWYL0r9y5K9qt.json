@@ -1,6 +1,6 @@
 {
   "description": "time to strike a couple of poses. cover: KATSEYE",
-  "num_followers": 625251,
+  "num_followers": 625223,
   "original_name": "poses",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-08-13 16:26:29",
       "album": {
+        "name": "Bubee",
+        "url": "https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 182448,
+      "name": "Bubee",
+      "url": "https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c"
+    },
+    {
+      "added_at": "2026-08-13 16:26:29",
+      "album": {
         "name": "Distant Lover",
         "url": "https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 217696,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF"
-    },
-    {
-      "added_at": "2026-08-13 16:26:29",
-      "album": {
-        "name": "Bubee",
-        "url": "https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 182448,
-      "name": "Bubee",
-      "url": "https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c"
     },
     {
       "added_at": "2026-08-13 16:26:29",

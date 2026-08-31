@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 
 > The biggest pop hits to come from the land down under.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,745 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,743 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 17 | [My My My!](https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:24 |
 | 18 | [The Nosebleed Section](https://open.spotify.com/track/7aZiDdufBX2Ek8OUuxK0IQ) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [The Calling](https://open.spotify.com/album/4dz3QzzqKVwz3WRZZmodq9) | 3:39 |
 | 19 | [Dance Monkey](https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey](https://open.spotify.com/album/31IDBea3eEs57a0joX6TjN) | 3:29 |
-| 20 | [Mess Is Mine](https://open.spotify.com/track/4CbiUgCCnQ79EmieyzQE8x) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/0yXpiO0g9UJb5Qhx4zAs16) | 3:43 |
+| 20 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 |
 | 21 | [The Horses](https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE) | [Daryl Braithwaite](https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe) | [Rise](https://open.spotify.com/album/6Zv9GWVeSi7lqYGxxhawOq) | 4:16 |
 | 22 | [Wish You Well](https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9) | [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Tea & Sympathy](https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I) | 2:31 |
 | 23 | [I Love It](https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Drinking From The Sun](https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK) | 3:46 |
 | 24 | [Geronimo](https://open.spotify.com/track/4hd4YTkABCn2zuTZeYEA6D) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Bombs Away](https://open.spotify.com/album/6BfgDdkVUsERG4SZQTbO97) | 3:38 |
-| 25 | [She Looks So Perfect](https://open.spotify.com/track/5cPO2j2p9Myq77YQVwWyrN) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE) | 3:22 |
-| 26 | [Xanadu](https://open.spotify.com/track/0cXFXgFns7sIMmTpqyGRmD) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Xanadu \- Original Motion Picture Soundtrack](https://open.spotify.com/album/325AF2IWtxrY0jcoW25N45) | 3:28 |
+| 25 | [Xanadu](https://open.spotify.com/track/0cXFXgFns7sIMmTpqyGRmD) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Xanadu \- Original Motion Picture Soundtrack](https://open.spotify.com/album/325AF2IWtxrY0jcoW25N45) | 3:28 |
+| 26 | [She Looks So Perfect](https://open.spotify.com/track/5cPO2j2p9Myq77YQVwWyrN) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE) | 3:22 |
 | 27 | [Scar](https://open.spotify.com/track/0Xxww5aUyamJlEm8GkP21i) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Sound Of White](https://open.spotify.com/album/5Dd14nVQOJIUg9UgKkVyIQ) | 3:33 |
 | 28 | [Hoops](https://open.spotify.com/track/3Q4DweD43ffeuELklLMKQk) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Hoops](https://open.spotify.com/album/09nqIkoFAKnf77GEPBY6x1) | 2:38 |
 | 29 | [Tightrope](https://open.spotify.com/track/69kz02an0zTBl2NQdshqnB) | [Illy](https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt) | [Cinematic](https://open.spotify.com/album/0AVD0hJCteRdN51sXiAEOz) | 4:52 |
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 44 | [Ooh Aah...Just a Little Bit \- Motiv8 Radio Edit](https://open.spotify.com/track/7kyMLaXepcGHIrsLqoiTB8) | [Gina G](https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8), [Motiv8](https://open.spotify.com/artist/1xFPKhNxU5iyrvYDP7EhOp) | [Fresh](https://open.spotify.com/album/4wjFfawmUFFk9INKJnnn0o) | 3:23 |
 | 45 | [4ever](https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:28 |
 | 46 | [Plans](https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED) | [Birds Of Tokyo](https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86) | [Birds Of Tokyo](https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI) | 3:38 |
-| 47 | [Cheap Thrills](https://open.spotify.com/track/5QdHCXznWUKcKpUmU7Gguz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/64X210CD0I2zxCXT9xpYtw) | 3:31 |
-| 48 | [UFO](https://open.spotify.com/track/0gsLWzySRe81KoY4LENNY4) | [Sneaky Sound System](https://open.spotify.com/artist/6ieVhWXtOmK6DO6dmX7Eko) | [Sneaky Sound System](https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j) | 4:29 |
+| 47 | [UFO](https://open.spotify.com/track/0gsLWzySRe81KoY4LENNY4) | [Sneaky Sound System](https://open.spotify.com/artist/6ieVhWXtOmK6DO6dmX7Eko) | [Sneaky Sound System](https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j) | 4:29 |
+| 48 | [Cheap Thrills](https://open.spotify.com/track/5QdHCXznWUKcKpUmU7Gguz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/64X210CD0I2zxCXT9xpYtw) | 3:31 |
 | 49 | [Moments](https://open.spotify.com/track/3ZSR0xQ7strDNRzKCwNL9L) | [Bliss n Eso](https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Off The Grid](https://open.spotify.com/album/7Mle8fqfjxEnkubFjg3mAe) | 3:57 |
-| 50 | [Resolution](https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Resolution \- EP](https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog) | 4:16 |
-| 51 | [Weir](https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb) | [Killing Heidi](https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP) | [Reflector](https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip) | 4:04 |
+| 50 | [Weir](https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb) | [Killing Heidi](https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP) | [Reflector](https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip) | 4:04 |
+| 51 | [Resolution](https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Resolution \- EP](https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog) | 4:16 |
 | 52 | [Down Under](https://open.spotify.com/track/5FNiYCRQB1U3aLnsVCkkXA) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Super Hits](https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB) | 3:43 |
 | 53 | [Papercuts \(feat\. Vera Blue\)](https://open.spotify.com/track/6vXHaWpqkbuvzIDvR3LnKd) | [Illy](https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Two Degrees](https://open.spotify.com/album/4MzuH8NMoERebcxL4x9EdR) | 4:15 |
 | 54 | [Lost Without You](https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Innocent Eyes](https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu) | 4:10 |

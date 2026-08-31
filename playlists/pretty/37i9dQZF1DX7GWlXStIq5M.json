@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: DAY LIMNS, Gl\u00f3ria Groove",
-  "num_followers": 357248,
+  "num_followers": 357201,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,26 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
+        "name": "Tar\u00f4",
+        "url": "https://open.spotify.com/album/1CTPrzBcyeuiZjzvG6NCBD"
+      },
+      "artists": [
+        {
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        },
+        {
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+        }
+      ],
+      "duration_ms": 200345,
+      "name": "Tar\u00f4",
+      "url": "https://open.spotify.com/track/5YRD5hiYRWt95shTotBH3d"
+    },
+    {
+      "added_at": "2026-08-28 03:00:17",
+      "album": {
         "name": "Quando me ver passar",
         "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
       },
@@ -427,18 +447,22 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
-        "name": "Avenida",
-        "url": "https://open.spotify.com/album/3QkxmiABwuf0tl6Hxp9qcO"
+        "name": "S\u00f3 Voc\u00ea",
+        "url": "https://open.spotify.com/album/7xTL4bMMZ0HvIiFPLvCkVQ"
       },
       "artists": [
         {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+          "name": "Celo Dut",
+          "url": "https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV"
+        },
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
         }
       ],
-      "duration_ms": 184303,
-      "name": "Avenida",
-      "url": "https://open.spotify.com/track/6u0BVelvhC0p80pKEtAHLG"
+      "duration_ms": 187636,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/0z5nXBt1jlEdBZR4ZlqtfQ"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -459,22 +483,18 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
-        "name": "S\u00f3 Voc\u00ea",
-        "url": "https://open.spotify.com/album/7xTL4bMMZ0HvIiFPLvCkVQ"
+        "name": "Avenida",
+        "url": "https://open.spotify.com/album/3QkxmiABwuf0tl6Hxp9qcO"
       },
       "artists": [
         {
-          "name": "Celo Dut",
-          "url": "https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV"
-        },
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
         }
       ],
-      "duration_ms": 187636,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/0z5nXBt1jlEdBZR4ZlqtfQ"
+      "duration_ms": 184303,
+      "name": "Avenida",
+      "url": "https://open.spotify.com/track/6u0BVelvhC0p80pKEtAHLG"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -511,26 +531,6 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
-        "name": "Tar\u00f4",
-        "url": "https://open.spotify.com/album/1CTPrzBcyeuiZjzvG6NCBD"
-      },
-      "artists": [
-        {
-          "name": "Aretuza Lovi",
-          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
-        },
-        {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
-        }
-      ],
-      "duration_ms": 200345,
-      "name": "Tar\u00f4",
-      "url": "https://open.spotify.com/track/5YRD5hiYRWt95shTotBH3d"
-    },
-    {
-      "added_at": "2026-08-28 03:00:17",
-      "album": {
         "name": "KARMA",
         "url": "https://open.spotify.com/album/49MCYvyMPIhbV2UAMMfCXw"
       },
@@ -563,26 +563,6 @@
       "duration_ms": 181666,
       "name": "Manh\u00e3 de Sol",
       "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
-    },
-    {
-      "added_at": "2026-08-28 03:00:17",
-      "album": {
-        "name": "DE COSTAS",
-        "url": "https://open.spotify.com/album/3mWaOArRlj3PiI6fScDY0K"
-      },
-      "artists": [
-        {
-          "name": "Carol Passos",
-          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 224902,
-      "name": "DE COSTAS",
-      "url": "https://open.spotify.com/track/7e5cq16VImSKSV0liWo3c6"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -631,6 +611,26 @@
       "duration_ms": 158922,
       "name": "no seu tempo",
       "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
+    },
+    {
+      "added_at": "2026-08-28 03:00:17",
+      "album": {
+        "name": "DE COSTAS",
+        "url": "https://open.spotify.com/album/3mWaOArRlj3PiI6fScDY0K"
+      },
+      "artists": [
+        {
+          "name": "Carol Passos",
+          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 224902,
+      "name": "DE COSTAS",
+      "url": "https://open.spotify.com/track/7e5cq16VImSKSV0liWo3c6"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
-        "name": "Seda de Casulo",
-        "url": "https://open.spotify.com/album/65GZdJGVYl19N72Wf0HskJ"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 150422,
-      "name": "Ningu\u00e9m Morre de Amor",
-      "url": "https://open.spotify.com/track/3wSeJH8vZyhWmvIU0QubWo"
-    },
-    {
-      "added_at": "2026-08-28 03:00:17",
-      "album": {
         "name": "me leva pro rio",
         "url": "https://open.spotify.com/album/6ozqGnMMCCWKqarf5GiKrm"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 197475,
       "name": "me leva pro rio",
       "url": "https://open.spotify.com/track/2MtNg5GShfuAx81P0yTmOs"
+    },
+    {
+      "added_at": "2026-08-28 03:00:17",
+      "album": {
+        "name": "Seda de Casulo",
+        "url": "https://open.spotify.com/album/65GZdJGVYl19N72Wf0HskJ"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "duration_ms": 150422,
+      "name": "Ningu\u00e9m Morre de Amor",
+      "url": "https://open.spotify.com/track/3wSeJH8vZyhWmvIU0QubWo"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
-        "name": "Emocionalmente Indispon\u00edvel",
-        "url": "https://open.spotify.com/album/7Lx0lWyoJjFwPopPPdavjx"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 191304,
-      "name": "Emocionalmente Indispon\u00edvel",
-      "url": "https://open.spotify.com/track/6rFutStZO3p8FAfxCrTPJ3"
-    },
-    {
-      "added_at": "2026-08-28 03:00:17",
-      "album": {
         "name": "Amapiano",
         "url": "https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 201783,
       "name": "PASSARINHO",
       "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
+    },
+    {
+      "added_at": "2026-08-28 03:00:17",
+      "album": {
+        "name": "Emocionalmente Indispon\u00edvel",
+        "url": "https://open.spotify.com/album/7Lx0lWyoJjFwPopPPdavjx"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 191304,
+      "name": "Emocionalmente Indispon\u00edvel",
+      "url": "https://open.spotify.com/track/6rFutStZO3p8FAfxCrTPJ3"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/7pHQuVslB6cZN4bkcd1KQz"
+      },
+      "artists": [
+        {
+          "name": "Breezia",
+          "url": "https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Clara",
+      "url": "https://open.spotify.com/track/1MGhZBsBTpuoDDy6osaAf3"
+    },
+    {
+      "added_at": "2026-08-28 03:00:17",
+      "album": {
         "name": "CASA MOLHADA",
         "url": "https://open.spotify.com/album/2sifLgponrzxbbcxOekNfk"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 145237,
       "name": "N\u00c3O VOU PARAR",
       "url": "https://open.spotify.com/track/61NmBK1EVDR3uqdj6Y15Io"
-    },
-    {
-      "added_at": "2026-08-28 03:00:17",
-      "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/7pHQuVslB6cZN4bkcd1KQz"
-      },
-      "artists": [
-        {
-          "name": "Breezia",
-          "url": "https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "Clara",
-      "url": "https://open.spotify.com/track/1MGhZBsBTpuoDDy6osaAf3"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
+        "name": "AMOR PROIBIDO",
+        "url": "https://open.spotify.com/album/0yx6KV0T94PNSOyq4aYILS"
+      },
+      "artists": [
+        {
+          "name": "Gael Vicci",
+          "url": "https://open.spotify.com/artist/4UvtyhDzRrxhiUB90syNQw"
+        },
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        }
+      ],
+      "duration_ms": 142926,
+      "name": "AMOR PROIBIDO",
+      "url": "https://open.spotify.com/track/0IYpbxDn2SzqblvhHFYlgH"
+    },
+    {
+      "added_at": "2026-08-28 03:00:17",
+      "album": {
         "name": "Dias de Mar",
         "url": "https://open.spotify.com/album/6SZga9uv9jw1js7wphE1Vo"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 172395,
       "name": "Ressaca da Saudade",
       "url": "https://open.spotify.com/track/0AHJZmcGTNmpNXqXqgLnl6"
-    },
-    {
-      "added_at": "2026-08-28 03:00:17",
-      "album": {
-        "name": "AMOR PROIBIDO",
-        "url": "https://open.spotify.com/album/0yx6KV0T94PNSOyq4aYILS"
-      },
-      "artists": [
-        {
-          "name": "Gael Vicci",
-          "url": "https://open.spotify.com/artist/4UvtyhDzRrxhiUB90syNQw"
-        },
-        {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
-        }
-      ],
-      "duration_ms": 142926,
-      "name": "AMOR PROIBIDO",
-      "url": "https://open.spotify.com/track/0IYpbxDn2SzqblvhHFYlgH"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
+        "name": "Me Leva",
+        "url": "https://open.spotify.com/album/6fx3dzXM3pMifJMQcPeKau"
+      },
+      "artists": [
+        {
+          "name": "Tupi",
+          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Me Leva",
+      "url": "https://open.spotify.com/track/5Miye4PcHeGyXzmbP6bvzL"
+    },
+    {
+      "added_at": "2026-08-28 03:00:17",
+      "album": {
         "name": "Caos e Poesia",
         "url": "https://open.spotify.com/album/4m5nhpMytU1z7QRb0GpUrD"
       },
@@ -1243,22 +1263,6 @@
       "duration_ms": 144427,
       "name": "ATITUDE",
       "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
-    },
-    {
-      "added_at": "2026-08-28 03:00:17",
-      "album": {
-        "name": "TRANSBORDAR",
-        "url": "https://open.spotify.com/album/0o0qtnarLhFVdyqibL3OYB"
-      },
-      "artists": [
-        {
-          "name": "Mafe Peccin",
-          "url": "https://open.spotify.com/artist/4s1uC5uMXKkZA3uoSwotx6"
-        }
-      ],
-      "duration_ms": 165768,
-      "name": "afinal o que \u00e9 um amor tranquilo?",
-      "url": "https://open.spotify.com/track/3iTYogUAhLKxmkU9xrFEAF"
     }
   ],
   "unique_name": "Palco POP",

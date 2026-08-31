@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 
 > This is Stevie Nicks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,212 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,243 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 | 41 | [Secret Love](https://open.spotify.com/track/4ztowwWgYZtq0OOUxerZrv) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [In Your Dreams](https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj) | 3:15 |
 | 42 | [Without a Leg to Stand On](https://open.spotify.com/track/6U0yspjs6Ag1G5Gy5Lol7G) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Buckingham Nicks](https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv) | 2:10 |
 | 43 | [The Dealer](https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [24 Karat Gold: Songs from the Vault](https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R) | 4:38 |
-| 44 | [Free Fallin'](https://open.spotify.com/track/4CQX5erTD88eY1VzcpR0bm) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Music From Party of Five](https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3) | 5:36 |
+| 44 | [What Has Rock And Roll Ever Done For You](https://open.spotify.com/track/1KpaeuKdvzMVuNnko3Pahu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rockstar \(Deluxe\)](https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN) | 5:01 |
 | 45 | [Sleeping Angel \(From Fast Times at Ridgemont High\) \- 2016 Remaster](https://open.spotify.com/track/35I5lX6yE00YSu7PEgES54) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(Deluxe Edition\)](https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8) | 4:40 |
 | 46 | [Crystal](https://open.spotify.com/track/2a9l6PrSo1dNxIJuxxYjJZ) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Buckingham Nicks](https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv) | 3:49 |
-| 47 | [I Sing for Things](https://open.spotify.com/track/3Dk4epAbgbSezElqPQCXvq) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 3:44 |
-| 48 | [What Has Rock And Roll Ever Done For You](https://open.spotify.com/track/1KpaeuKdvzMVuNnko3Pahu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rockstar \(Deluxe\)](https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN) | 5:01 |
+| 47 | [Free Fallin'](https://open.spotify.com/track/4CQX5erTD88eY1VzcpR0bm) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Music From Party of Five](https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3) | 5:36 |
+| 48 | [I Sing for Things](https://open.spotify.com/track/3Dk4epAbgbSezElqPQCXvq) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 3:44 |
 | 49 | [Blue Lamp \- 2016 Remaster](https://open.spotify.com/track/1ai4kUdzv3xq4EVh6DNWEB) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(Deluxe Edition\)](https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8) | 3:50 |
 | 50 | [Don't Let Me Down Again](https://open.spotify.com/track/171YcHaEjFRml5BZQzyjH9) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Buckingham Nicks](https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv) | 3:51 |
 
-Snapshot ID: `apDPgAAAAADbUyYKbCHcy638GzNO3aRM`
+Snapshot ID: `apIhAAAAAAD2SYGa3aSo9586UZXyKA7G`

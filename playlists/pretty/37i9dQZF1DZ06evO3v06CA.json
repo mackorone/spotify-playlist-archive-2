@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 205065,
+  "num_followers": 205069,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAD9CRBbHewIftylaJ+4L9xR",
+  "snapshot_id": "apIhAAAAAAAt/2JVzg1Af1Nblphleh2E",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 247239,
-      "name": "Whiskey River",
-      "url": "https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Winning Hand",
         "url": "https://open.spotify.com/album/7i6YA87LTeOHJEIZNqd7IM"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 194440,
       "name": "Everything Is Beautiful (In It's Own Way)",
       "url": "https://open.spotify.com/track/1SUpa2SswXXQAOfDoVsqf6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 247239,
+      "name": "Whiskey River",
+      "url": "https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5"
     },
     {
       "added_at": null,
@@ -515,6 +515,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Smoke",
+        "url": "https://open.spotify.com/album/2fiUzMQdXjZbLj2O3ztcYm"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 242920,
+      "name": "From Here to the Moon and Back",
+      "url": "https://open.spotify.com/track/7hY7X423koKQtRSCGfpYeJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "City Of New Orleans",
         "url": "https://open.spotify.com/album/7sZ5lfnlyqmnlcInnKf3o3"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 244249,
       "name": "Born and Raised in Black and White",
       "url": "https://open.spotify.com/track/6AEPHlvR4jgwXe2J0vM1Sl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Smoke",
-        "url": "https://open.spotify.com/album/2fiUzMQdXjZbLj2O3ztcYm"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 242920,
-      "name": "From Here to the Moon and Back",
-      "url": "https://open.spotify.com/track/7hY7X423koKQtRSCGfpYeJ"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 148293,
+      "name": "Cruel World",
+      "url": "https://open.spotify.com/track/166Dyvfibu4SOygA4vub85"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Ballad of Dood & Juanita",
         "url": "https://open.spotify.com/album/1DQToqPJhrQTpCeZV8o2ru"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 220976,
       "name": "Juanita (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/2FA1Xr6ta3X1KkLOaQoDAq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 148293,
-      "name": "Cruel World",
-      "url": "https://open.spotify.com/track/166Dyvfibu4SOygA4vub85"
     },
     {
       "added_at": null,
@@ -1079,6 +1079,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Devil in a Sleepin' Bag",
+      "url": "https://open.spotify.com/track/7JSIPdukJ1MCWWa2sOBuWi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viva Tu",
         "url": "https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 125379,
       "name": "Heaven's Bad Day",
       "url": "https://open.spotify.com/track/5LPo4MHNYtWdh8FWIIkixD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Devil in a Sleepin' Bag",
-      "url": "https://open.spotify.com/track/7JSIPdukJ1MCWWa2sOBuWi"
     },
     {
       "added_at": null,

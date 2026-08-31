@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: Temsu Clover
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,344 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,434 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 62 | [Chandni](https://open.spotify.com/track/4TYSwFH0LcKo32RuWJiaao) | [Bharat Chandak](https://open.spotify.com/artist/42x6GyehEtbb2gToHIc3lF) | [Chandni](https://open.spotify.com/album/0eXeInZLi8DMMtncmsk2w5) | 2:54 |
 | 63 | [Kahani](https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Kahani](https://open.spotify.com/album/7I29dbTNdImBhxnqhOEEWD) | 4:05 |
 | 64 | [Ab Na Laut Paayenge](https://open.spotify.com/track/5nBvkAMnwgWb2yUTNFkQfI) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0), [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME) | [Talkhiyaan](https://open.spotify.com/album/4BsBm8Ny3BKObOnESP3hPh) | 3:02 |
-| 65 | [Khayaal](https://open.spotify.com/track/7fY8qVujvm5lZBrt5Y1sIJ) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK), [Ankita Barwad](https://open.spotify.com/artist/5TFZxLxVzFec55swRGsGdO) | [Khayaal](https://open.spotify.com/album/0T74gRslxMbXuKxPicbV65) | 2:29 |
-| 66 | [Jaane Bhi Do](https://open.spotify.com/track/3kjUjZmSctzPB5IpsnYhDC) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG), [Rahul Shah](https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu) | [Jaane Bhi Do](https://open.spotify.com/album/4QtXk2lAPdBVQhTW4H62TX) | 2:50 |
+| 65 | [Jaane Bhi Do](https://open.spotify.com/track/3kjUjZmSctzPB5IpsnYhDC) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG), [Rahul Shah](https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu) | [Jaane Bhi Do](https://open.spotify.com/album/4QtXk2lAPdBVQhTW4H62TX) | 2:50 |
+| 66 | [Khayaal](https://open.spotify.com/track/7fY8qVujvm5lZBrt5Y1sIJ) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK), [Ankita Barwad](https://open.spotify.com/artist/5TFZxLxVzFec55swRGsGdO) | [Khayaal](https://open.spotify.com/album/0T74gRslxMbXuKxPicbV65) | 2:29 |
 | 67 | [Saanware Aijaiyo](https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Saanware Aijaiyo](https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j) | 3:54 |
 | 68 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 |
 | 69 | [Jaane Anjaane](https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Jaane Anjaane](https://open.spotify.com/album/7MuSG1ofneQADzbak2QKJC) | 2:41 |

@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 | 8 | [People Pleaser](https://open.spotify.com/track/23poOrvCs7LgiluX0Bcye0) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:10 |
 | 9 | [Bloom](https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Bloom](https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq) | 3:33 |
 | 10 | [reading into it](https://open.spotify.com/track/5ApnrwxpgMOETU50C9JjzM) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY) | 3:00 |
-| 11 | [Hands On \(feat\. Aidan Bissett\)](https://open.spotify.com/track/6KNdmRSHpb7FJRsHXk96yA) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA), [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [autonomy+](https://open.spotify.com/album/3wVtf0A7EYRwKuJqEz9gKA) | 3:09 |
-| 12 | [Planet](https://open.spotify.com/track/2t6drKARdGJAAEzx9PTlo3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova \(Extended\)](https://open.spotify.com/album/7cdmvQ2BpZNtxcsClyFgIu) | 3:06 |
+| 11 | [Planet](https://open.spotify.com/track/2t6drKARdGJAAEzx9PTlo3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova \(Extended\)](https://open.spotify.com/album/7cdmvQ2BpZNtxcsClyFgIu) | 3:06 |
+| 12 | [Hands On \(feat\. Aidan Bissett\)](https://open.spotify.com/track/6KNdmRSHpb7FJRsHXk96yA) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA), [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [autonomy+](https://open.spotify.com/album/3wVtf0A7EYRwKuJqEz9gKA) | 3:09 |
 | 13 | [Different](https://open.spotify.com/track/7kjhPDeXgKMawtdGeZl212) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Different](https://open.spotify.com/album/2gMqEdAujugcErSftyzTki) | 3:20 |
 | 14 | [2 much 2 handle](https://open.spotify.com/track/7AjYFYnhzEcjui2weZzIdR) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks) | 2:20 |
 | 15 | [Sick](https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Sick](https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J) | 2:16 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 | 27 | [So High](https://open.spotify.com/track/3tIuCHOW1namhnP5smJES3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [So High](https://open.spotify.com/album/70a5Kxi0a0LeWUNOzGzwcb) | 2:49 |
 | 28 | [How's It Gonna End?](https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:30 |
 
-Snapshot ID: `apDPgAAAAAC6oIsmE6wNLCMPIMRU7zBq`
+Snapshot ID: `apIhAAAAAACevt4YxtpuhqX2lVG4z64D`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B0BPkmlJbG5tsDwTUUcBq">Blush</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200 likes - 105 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 199 likes - 105 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 24 | [15 Minutes](https://open.spotify.com/track/2JdScT0YydH9WcOWEVIIJl) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 2:51 |
 | 25 | [Mirror to the Sky](https://open.spotify.com/track/1iAsoCfNZM96cKRcNcRyJp) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 3:23 |
 | 26 | [Blackberry Sap \(with Ari Lennox\)](https://open.spotify.com/track/5xpU73nutoJizKpX3TZRhS) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:29 |
-| 27 | [Sunset](https://open.spotify.com/track/1qYnqHydtG4iV9YenAz8Ux) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Deluxe Edition\)](https://open.spotify.com/album/2zbfishc70HpcgMu8ymtri) | 4:04 |
-| 28 | [Too Easy](https://open.spotify.com/track/1gDfAiHvXdPXlUlaWcfxNS) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Too Easy](https://open.spotify.com/album/69KTB2HVrTKtY8eIPLcHTc) | 1:54 |
+| 27 | [Too Easy](https://open.spotify.com/track/1gDfAiHvXdPXlUlaWcfxNS) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Too Easy](https://open.spotify.com/album/69KTB2HVrTKtY8eIPLcHTc) | 1:54 |
+| 28 | [Sunset](https://open.spotify.com/track/1qYnqHydtG4iV9YenAz8Ux) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Deluxe Edition\)](https://open.spotify.com/album/2zbfishc70HpcgMu8ymtri) | 4:04 |
 | 29 | [Çike Çike](https://open.spotify.com/track/1i0H5CstsEIWguEV7z6cNT) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [DIRTY BLONDE](https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG) | 2:19 |
 | 30 | [Yeah Yeah Yeah](https://open.spotify.com/track/1Z6yAybe9wz2Revpfy5eSa) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Take Over The Moon \- The 2nd Mini Album](https://open.spotify.com/album/4ha80ucjDvhmQPLT77yyob) | 3:18 |
 | 31 | [Kickin' Pushin'](https://open.spotify.com/track/1ge67dpLAdg7HQzFxSjMGH) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Great Escape](https://open.spotify.com/album/1fTkNWLxLiuQZ4u5sdGXps) | 3:16 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 72 | [If You Wanted To You Would](https://open.spotify.com/track/50wU2r744nTEXB7US8uj0H) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:11 |
 | 73 | [Come Home](https://open.spotify.com/track/6Ws2A2HLpEkomfZbgC1Jjt) | [Michael J Woodard](https://open.spotify.com/artist/0Wmmj33M55gFExQ6pJB53e) | [Come Home](https://open.spotify.com/album/3Udj8LoVBgmOzDWAhgFDIx) | 3:40 |
 | 74 | [Take Off](https://open.spotify.com/track/31L7a0j3Dj1eNdd5VezAWr) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Sketchbook](https://open.spotify.com/album/0cUvvSehTB7xyEamWPsIN8) | 3:40 |
-| 75 | [Break My Own Heart](https://open.spotify.com/track/4Nf8LoYyxI2R2HLqF2NhFq) | [Nia Monét](https://open.spotify.com/artist/08zBxR59xrYDnrohzxD7mx) | [Break My Own Heart](https://open.spotify.com/album/2PMs1WhPl2m8L1KPbq5sMI) | 2:21 |
-| 76 | [Quit My Life](https://open.spotify.com/track/5vt1ysjL6f5u4woxChkCWq) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 2:46 |
+| 75 | [Quit My Life](https://open.spotify.com/track/5vt1ysjL6f5u4woxChkCWq) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 2:46 |
+| 76 | [Break My Own Heart](https://open.spotify.com/track/4Nf8LoYyxI2R2HLqF2NhFq) | [Nia Monét](https://open.spotify.com/artist/08zBxR59xrYDnrohzxD7mx) | [Break My Own Heart](https://open.spotify.com/album/2PMs1WhPl2m8L1KPbq5sMI) | 2:21 |
 | 77 | [lighthouse](https://open.spotify.com/track/7KwHA6VxQUonpOzCFpi0eD) | [NAO AIHARA](https://open.spotify.com/artist/42u8PGWT2Ic13eOIsvRNM2) | [lighthouse](https://open.spotify.com/album/6Dd2pFTUprxK1FZbQtpxVk) | 3:44 |
 | 78 | [Alien](https://open.spotify.com/track/213RLfZyGBO20wzgpgngLG) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Alien](https://open.spotify.com/album/4AV03OU3XeljPET3HW6ai5) | 3:41 |
 | 79 | [What Is Beautiful \- The Voice Performance](https://open.spotify.com/track/0V9bXbDWKURDQniD7usTzO) | [Brooke Simpson](https://open.spotify.com/artist/2HMZf6yC9JzK4BDAyNl2WE) | [The Complete Season 13 Collection \(The Voice Performance\)](https://open.spotify.com/album/4GxLc7XtUPDaSoFcQh0nKt) | 3:26 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 104 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
 | 105 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `Aca6PAAAAACV8qdOnUmLbU/syGJi8i4Q`
+Snapshot ID: `Aca/3AAAAACmFCOhZx+a9yFoYwkCKHS7`

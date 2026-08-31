@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Francois van Coke & Zaan Sonnekus",
-  "num_followers": 28336,
+  "num_followers": 28345,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Another Universe",
-        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
-      },
-      "artists": [
-        {
-          "name": "Arno Carstens",
-          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Another Universe",
-      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
         "name": "Hello Crazy World -10th Anniversary Special",
         "url": "https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 222666,
       "name": "Hello",
       "url": "https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "Another Universe",
+        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
+      },
+      "artists": [
+        {
+          "name": "Arno Carstens",
+          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Another Universe",
+      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
+        "name": "Sonskyn Vrou",
+        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
+      },
+      "artists": [
+        {
+          "name": "Hendr\u00e9 Baard",
+          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
+        }
+      ],
+      "duration_ms": 266868,
+      "name": "Sonskyn Vrou",
+      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
         "name": "Stadig",
         "url": "https://open.spotify.com/album/7oAz7GXt9SduiB3xfKzFNy"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 207397,
       "name": "Stadig",
       "url": "https://open.spotify.com/track/1csJ3uoKufB2TY9Jbu0Wwu"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Sonskyn Vrou",
-        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
-      },
-      "artists": [
-        {
-          "name": "Hendr\u00e9 Baard",
-          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
-        }
-      ],
-      "duration_ms": 266868,
-      "name": "Sonskyn Vrou",
-      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Delete You.",
-        "url": "https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3"
-      },
-      "artists": [
-        {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
-        }
-      ],
-      "duration_ms": 188459,
-      "name": "Delete You.",
-      "url": "https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
         "name": "Gatvol",
         "url": "https://open.spotify.com/album/5E7TdN3L8hkXbusyHFlbKI"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 166031,
       "name": "Gatvol",
       "url": "https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "Delete You.",
+        "url": "https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "duration_ms": 188459,
+      "name": "Delete You.",
+      "url": "https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -771,18 +771,18 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Those December Nights",
-        "url": "https://open.spotify.com/album/7p0ALHCbnNDlPdC9zxTdnR"
+        "name": "Ultimate Zoid",
+        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
       },
       "artists": [
         {
-          "name": "Babette",
-          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
         }
       ],
-      "duration_ms": 245783,
-      "name": "Those December Nights",
-      "url": "https://open.spotify.com/track/6Yf66OWTxnGUCECKfHr53T"
+      "duration_ms": 224626,
+      "name": "Afrikaners Is Plesierig",
+      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -803,18 +803,18 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Ultimate Zoid",
-        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
+        "name": "Those December Nights",
+        "url": "https://open.spotify.com/album/7p0ALHCbnNDlPdC9zxTdnR"
       },
       "artists": [
         {
-          "name": "Karen Zoid",
-          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
+          "name": "Babette",
+          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
         }
       ],
-      "duration_ms": 224626,
-      "name": "Afrikaners Is Plesierig",
-      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
+      "duration_ms": 245783,
+      "name": "Those December Nights",
+      "url": "https://open.spotify.com/track/6Yf66OWTxnGUCECKfHr53T"
     },
     {
       "added_at": "2026-08-27 22:01:29",

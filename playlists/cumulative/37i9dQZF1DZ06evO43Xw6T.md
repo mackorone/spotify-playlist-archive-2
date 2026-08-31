@@ -4,7 +4,7 @@
 
 > This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-154 songs - 7 hr 48 min
+155 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Dolido](https://open.spotify.com/track/5Y2Lozc5neSagsc8250JDj) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [DOMELIPA](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:55 | 2024-06-12 | 2024-07-22 |
 | [DOSIS DE AMOR](https://open.spotify.com/track/0WC20El0j1vhgQoPCLp6Xo) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Ya No Se Llevan Serenatas](https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6) | 2:33 | 2025-05-25 | 2025-11-01 |
 | [El Agujero](https://open.spotify.com/track/3nIbByNpERy2YQnBJLwVVl) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:23 | 2024-01-29 | 2025-03-12 |
-| [El Boss](https://open.spotify.com/track/4L1iecYPJR1qc9tz5Zjkw9) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Boss](https://open.spotify.com/album/6yeUuq8mHmEXuRe4KUiCKk) | 3:45 | 2024-03-30 |  |
+| [El Boss](https://open.spotify.com/track/1Gp71NN7m8WYIFMi335lJJ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:45 | 2026-08-31 |  |
+| [El Boss](https://open.spotify.com/track/4L1iecYPJR1qc9tz5Zjkw9) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Boss](https://open.spotify.com/album/6yeUuq8mHmEXuRe4KUiCKk) | 3:45 | 2024-03-30 | 2026-08-31 |
 | [El Chaman](https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Chaman](https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA) | 2:54 | 2024-01-29 | 2024-10-09 |
 | [El Chaman](https://open.spotify.com/track/1eBec7afk1wMRt4XlEp5dg) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Chaman](https://open.spotify.com/album/33v7JFLf2e8xehBPXY37vU) | 2:54 | 2024-10-09 | 2025-05-27 |
 | [El Gabacho](https://open.spotify.com/track/0dIwmk8DVs9cTTAIw5aqmM) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [XV Recargado](https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd) | 2:42 | 2024-12-28 | 2026-04-20 |

@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Maribou State",
-  "num_followers": 43864,
+  "num_followers": 43866,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
+        "name": "\u00d6",
+        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
         "name": "Withness",
         "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 199196,
       "name": "It's So Nice (ft. 3DDY)",
       "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
-        "name": "\u00d6",
-        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -763,26 +763,6 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Reckoning",
-        "url": "https://open.spotify.com/album/1JQ8cmqQi2Z8Fzuri3Hnlq"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        },
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        }
-      ],
-      "duration_ms": 349218,
-      "name": "Reckoning",
-      "url": "https://open.spotify.com/track/0rpc7hLrZi8n1aLVwavwrp"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
         "name": "Sound of You (ft TEED)",
         "url": "https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 236528,
       "name": "Sound of You (ft TEED)",
       "url": "https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
+        "name": "Reckoning",
+        "url": "https://open.spotify.com/album/1JQ8cmqQi2Z8Fzuri3Hnlq"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 349218,
+      "name": "Reckoning",
+      "url": "https://open.spotify.com/track/0rpc7hLrZi8n1aLVwavwrp"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Lockup",
-        "url": "https://open.spotify.com/album/1wZBrUG91Caq1CFVP2fqb7"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 271835,
-      "name": "Lockup",
-      "url": "https://open.spotify.com/track/0iONV7wVA3odk4r4MuQO7w"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 164885,
       "name": "Dream",
       "url": "https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
+        "name": "Lockup",
+        "url": "https://open.spotify.com/album/1wZBrUG91Caq1CFVP2fqb7"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 271835,
+      "name": "Lockup",
+      "url": "https://open.spotify.com/track/0iONV7wVA3odk4r4MuQO7w"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "ANYWHERE HERE IS PERFECT (DELUXE)",
-        "url": "https://open.spotify.com/album/6MKTrSshdclzuZG0piiQOh"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 109461,
-      "name": "LONGING",
-      "url": "https://open.spotify.com/track/3n8Y69tgxh3tk8BLxNAxLg"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
         "name": "She Waits",
         "url": "https://open.spotify.com/album/2OeZ42uzQXCop2v3xLTK0d"
       },
@@ -971,6 +955,22 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
+        "name": "ANYWHERE HERE IS PERFECT (DELUXE)",
+        "url": "https://open.spotify.com/album/6MKTrSshdclzuZG0piiQOh"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 109461,
+      "name": "LONGING",
+      "url": "https://open.spotify.com/track/3n8Y69tgxh3tk8BLxNAxLg"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
         "name": "Say\u014dnara",
         "url": "https://open.spotify.com/album/4sSuFuXvMNnml7USWeCiQ9"
       },
@@ -987,6 +987,22 @@
       "duration_ms": 184734,
       "name": "Say\u014dnara",
       "url": "https://open.spotify.com/track/5gNzx8gPSmvZRmC7GqDlkI"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
+        "name": "I Like It Like That",
+        "url": "https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 173772,
+      "name": "I Like It Like That",
+      "url": "https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -1011,38 +1027,6 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "I Like It Like That",
-        "url": "https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 173772,
-      "name": "I Like It Like That",
-      "url": "https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
-        "name": "START UP A RUMOUR",
-        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 200207,
-      "name": "START UP A RUMOUR",
-      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
         "name": "Hypnotised",
         "url": "https://open.spotify.com/album/1KeOKmz86ujYQKPcmVO8SO"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 202787,
       "name": "Hypnotised (feat. Linden Jay)",
       "url": "https://open.spotify.com/track/67N1PtpuY7DgemawuzioIz"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
+        "name": "START UP A RUMOUR",
+        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 200207,
+      "name": "START UP A RUMOUR",
+      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/0VJhL9eUwtKSAiqVOYKsFV"
+      },
+      "artists": [
+        {
+          "name": "SHEE",
+          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
+        },
+        {
+          "name": "deadream",
+          "url": "https://open.spotify.com/artist/17TL40UHDx9A5qfF3tskms"
+        }
+      ],
+      "duration_ms": 225391,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/0nVA2gw5AKuuJjiVKwJvhB"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
         "name": "Last October",
         "url": "https://open.spotify.com/album/6EqGtuFdenyq037JmYDZF4"
       },
@@ -1143,22 +1163,18 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/0VJhL9eUwtKSAiqVOYKsFV"
+        "name": "Play Me",
+        "url": "https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV"
       },
       "artists": [
         {
-          "name": "SHEE",
-          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
-        },
-        {
-          "name": "deadream",
-          "url": "https://open.spotify.com/artist/17TL40UHDx9A5qfF3tskms"
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
         }
       ],
-      "duration_ms": 225391,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/0nVA2gw5AKuuJjiVKwJvhB"
+      "duration_ms": 169411,
+      "name": "Play Me",
+      "url": "https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -1179,22 +1195,6 @@
       "duration_ms": 210168,
       "name": "When the Magic Comes",
       "url": "https://open.spotify.com/track/35pjjQ26PZhiDcuheub7rX"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
-        "name": "Play Me",
-        "url": "https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Play Me",
-      "url": "https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz"
     },
     {
       "added_at": "2026-08-20 23:00:28",

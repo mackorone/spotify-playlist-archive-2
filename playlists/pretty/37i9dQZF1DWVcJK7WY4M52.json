@@ -1,6 +1,6 @@
 {
   "description": "From the decade that brought us Britney, Spice Girls, Coolio and so many more!",
-  "num_followers": 594988,
+  "num_followers": 595511,
   "original_name": "90s Pop",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
         "name": "Never Say Never",
         "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 294786,
       "name": "The Boy Is Mine",
       "url": "https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
+        "name": "Now in a Minute",
+        "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
+      },
+      "artists": [
+        {
+          "name": "Donna Lewis",
+          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "I Love You Always Forever",
+      "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
         "name": "Operation Stackola",
         "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 253533,
       "name": "I Got 5 On It",
       "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
-        "name": "Now in a Minute",
-        "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
-      },
-      "artists": [
-        {
-          "name": "Donna Lewis",
-          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "I Love You Always Forever",
-      "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "In Blue",
-        "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
-      },
-      "artists": [
-        {
-          "name": "The Corrs",
-          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
-        }
-      ],
-      "duration_ms": 207506,
-      "name": "Breathless",
-      "url": "https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
         "name": "All-4-One",
         "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 259853,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
+        "name": "In Blue",
+        "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
+      },
+      "artists": [
+        {
+          "name": "The Corrs",
+          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
+        }
+      ],
+      "duration_ms": 207506,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "Mack Daddy",
-        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
-      },
-      "artists": [
-        {
-          "name": "Sir Mix-A-Lot",
-          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "Baby Got Back",
-      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
         "name": "Here Comes The Hotstepper",
         "url": "https://open.spotify.com/album/1fSD1yTlcwVUWdpK7Nr7v5"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 250466,
       "name": "Here Comes the Hotstepper - Heartical Mix",
       "url": "https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
+        "name": "Mack Daddy",
+        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
+      },
+      "artists": [
+        {
+          "name": "Sir Mix-A-Lot",
+          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "Baby Got Back",
+      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 219120,
+      "name": "You Make Me Wanna...",
+      "url": "https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
         "name": "...Baby One More Time (Digital Deluxe Version)",
         "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
       },
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
         }
       ],
-      "duration_ms": 219120,
-      "name": "You Make Me Wanna...",
-      "url": "https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq"
+      "duration_ms": 291906,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/71EHOyEOhNx1SzTebRRyng"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -1167,22 +1183,6 @@
       "duration_ms": 281066,
       "name": "One Sweet Day",
       "url": "https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
-        "name": "It's About Time",
-        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 291906,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/71EHOyEOhNx1SzTebRRyng"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "Stay (I Missed You)",
-        "url": "https://open.spotify.com/album/0candONErDvN9wWFhOWXrS"
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
       },
       "artists": [
         {
-          "name": "Lisa Loeb & Nine Stories",
-          "url": "https://open.spotify.com/artist/4a7CDXcRCXi4kp5z7SEXtg"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 184333,
-      "name": "Stay (I Missed You)",
-      "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
+      "duration_ms": 322000,
+      "name": "Ray of Light",
+      "url": "https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "Ray of Light",
-        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
+        "name": "Stay (I Missed You)",
+        "url": "https://open.spotify.com/album/0candONErDvN9wWFhOWXrS"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Lisa Loeb & Nine Stories",
+          "url": "https://open.spotify.com/artist/4a7CDXcRCXi4kp5z7SEXtg"
         }
       ],
-      "duration_ms": 322000,
-      "name": "Ray of Light",
-      "url": "https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6"
+      "duration_ms": 184333,
+      "name": "Stay (I Missed You)",
+      "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
     },
     {
       "added_at": "2024-07-12 19:27:29",

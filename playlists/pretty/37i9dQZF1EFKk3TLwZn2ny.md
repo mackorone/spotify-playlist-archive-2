@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 25 | [In a Way](https://open.spotify.com/track/2716XnQDivAHzu3nAae4zz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 2:36 |
 | 26 | [For Sport](https://open.spotify.com/track/1oxThJ5QQGQE3HyKxypz5U) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [For Sport](https://open.spotify.com/album/03HklFofKBkibQz7t0SPzt) | 2:26 |
 | 27 | [Who Gon Love You](https://open.spotify.com/track/244cX8u7OwVyiW2z6uaD3C) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [HOFFA](https://open.spotify.com/album/1xYcF3T1DnGQ7M5BdzJppi) | 4:13 |
-| 28 | [Under My Skin](https://open.spotify.com/track/290neMpuBxv2NHCSHvH50Q) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Peace and Offerings](https://open.spotify.com/album/0RXHqLpusmEwqffP21ngRy) | 3:18 |
-| 29 | [Us](https://open.spotify.com/track/34nLVuz4g575sZjxi9gm3H) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Electric Honey](https://open.spotify.com/album/4Tw5mOARJzR867OGuF5o67) | 3:02 |
+| 28 | [Us](https://open.spotify.com/track/34nLVuz4g575sZjxi9gm3H) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Electric Honey](https://open.spotify.com/album/4Tw5mOARJzR867OGuF5o67) | 3:02 |
+| 29 | [Under My Skin](https://open.spotify.com/track/290neMpuBxv2NHCSHvH50Q) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Peace and Offerings](https://open.spotify.com/album/0RXHqLpusmEwqffP21ngRy) | 3:18 |
 | 30 | [My Little Alien \- From 'SCOOB!' The Album](https://open.spotify.com/track/5OOilaEpdWL5f6LtbPJZoG) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [My Little Alien](https://open.spotify.com/album/3iQxgtiisxFuz2wb6MoSbh) | 3:05 |
 | 31 | [Rain](https://open.spotify.com/track/2WQvKZwVrLGQmriYmQqU6o) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Rain](https://open.spotify.com/album/4RgASg0hEG5MgZrn0bSmz5) | 3:21 |
 | 32 | [angeldemon](https://open.spotify.com/track/2AIcMu2cod3ZYMyGA29FCX) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 69 | [Cherryade](https://open.spotify.com/track/4THRgFPO27hQxYi672AI8q) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:19 |
 | 70 | [Loose](https://open.spotify.com/track/5XNK0HZfoTf7hhivBgmeUh) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Loose \[ALT\]](https://open.spotify.com/album/6iE7hjTGriBjRuzCl2kOYS) | 2:58 |
 
-Snapshot ID: `Aca6MgAAAABW+aPOKB9FS0VS0I/0Zeyo`
+Snapshot ID: `Aca/0gAAAABdg0FWVR04ES2BfceGAt0D`

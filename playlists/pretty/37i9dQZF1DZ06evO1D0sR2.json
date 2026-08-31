@@ -1,12 +1,12 @@
 {
   "description": "This is JJ Hairston. The essential tracks, all in one playlist.",
-  "num_followers": 3350,
+  "num_followers": 3352,
   "original_name": "This Is JJ Hairston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAAZmn2iUpDgFDJSARGKZZMH",
+  "snapshot_id": "apIhAAAAAACevn4WoZkGAfewScxt8jQI",
   "tracks": [
     {
       "added_at": null,
@@ -627,30 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Live Reunion: Washington, DC",
-        "url": "https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        },
-        {
-          "name": "Tiffany Andrews",
-          "url": "https://open.spotify.com/artist/6v7gnhOk1fjAft80LHaYLP"
-        }
-      ],
-      "duration_ms": 475254,
-      "name": "Promise Keeper - Live",
-      "url": "https://open.spotify.com/track/7wqKuKwdNF9fnyWkzEJuaN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Believe Again Vol. II (Live)",
         "url": "https://open.spotify.com/album/3EF3r2mb9LEpnAt5Qe16X0"
       },
@@ -671,6 +647,30 @@
       "duration_ms": 292276,
       "name": "It's Gonna Be Bigger - Live",
       "url": "https://open.spotify.com/track/0u2Ap2X5Cwy9c7LHi4DAi4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Live Reunion: Washington, DC",
+        "url": "https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Tiffany Andrews",
+          "url": "https://open.spotify.com/artist/6v7gnhOk1fjAft80LHaYLP"
+        }
+      ],
+      "duration_ms": 475254,
+      "name": "Promise Keeper - Live",
+      "url": "https://open.spotify.com/track/7wqKuKwdNF9fnyWkzEJuaN"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
-        "url": "https://open.spotify.com/album/21L9nVPupSXq9c2ju4SdNf"
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
       },
       "artists": [
         {
@@ -780,17 +780,13 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Donishisa Ballard",
-          "url": "https://open.spotify.com/artist/1DvT4SMxc9Myoo6sBTGzOq"
+          "name": "Chris House",
+          "url": "https://open.spotify.com/artist/6VnxEUi7BfcBs9u6YsfTsZ"
         }
       ],
-      "duration_ms": 502359,
-      "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
-      "url": "https://open.spotify.com/track/60J6sh0s2jibaDOxDnK01Y"
+      "duration_ms": 552369,
+      "name": "I Am Thankful",
+      "url": "https://open.spotify.com/track/78e5Uq7w3JlVBwEoOVSmac"
     },
     {
       "added_at": null,
@@ -815,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Holding Back",
-        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
+        "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
+        "url": "https://open.spotify.com/album/21L9nVPupSXq9c2ju4SdNf"
       },
       "artists": [
         {
@@ -824,13 +820,17 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Chris House",
-          "url": "https://open.spotify.com/artist/6VnxEUi7BfcBs9u6YsfTsZ"
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Donishisa Ballard",
+          "url": "https://open.spotify.com/artist/1DvT4SMxc9Myoo6sBTGzOq"
         }
       ],
-      "duration_ms": 552369,
-      "name": "I Am Thankful",
-      "url": "https://open.spotify.com/track/78e5Uq7w3JlVBwEoOVSmac"
+      "duration_ms": 502359,
+      "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
+      "url": "https://open.spotify.com/track/60J6sh0s2jibaDOxDnK01Y"
     },
     {
       "added_at": null,
@@ -995,8 +995,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I See Victory",
-        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
       },
       "artists": [
         {
@@ -1004,17 +1004,13 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        },
-        {
-          "name": "Zebulon Ellis",
-          "url": "https://open.spotify.com/artist/31SMx0QVraeTLAw3UoXbM8"
+          "name": "Juanita Contee",
+          "url": "https://open.spotify.com/artist/5bmmROi22eqQz8CiVGz7W5"
         }
       ],
-      "duration_ms": 267626,
-      "name": "It Pushed Me",
-      "url": "https://open.spotify.com/track/7oRmWR7by9slm6nbGMovmR"
+      "duration_ms": 486137,
+      "name": "All the Glory",
+      "url": "https://open.spotify.com/track/1MwgcZiSArZ1QRVurMpQGU"
     },
     {
       "added_at": null,
@@ -1035,8 +1031,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Holding Back",
-        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
       },
       "artists": [
         {
@@ -1044,13 +1040,17 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Juanita Contee",
-          "url": "https://open.spotify.com/artist/5bmmROi22eqQz8CiVGz7W5"
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Zebulon Ellis",
+          "url": "https://open.spotify.com/artist/31SMx0QVraeTLAw3UoXbM8"
         }
       ],
-      "duration_ms": 486137,
-      "name": "All the Glory",
-      "url": "https://open.spotify.com/track/1MwgcZiSArZ1QRVurMpQGU"
+      "duration_ms": 267626,
+      "name": "It Pushed Me",
+      "url": "https://open.spotify.com/track/7oRmWR7by9slm6nbGMovmR"
     },
     {
       "added_at": null,

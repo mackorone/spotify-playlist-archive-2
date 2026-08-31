@@ -4,7 +4,7 @@
 
 > Start your morning with a mix of new and classic hits to keep you singing all day long! New songs from Olivia Rodrigo, Ariana Grande, and Sofia Camara.
 
-491 songs - 1 day 2 hr 50 min
+493 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Easy](https://open.spotify.com/track/1aiBA2Z7Zkf3m4B9Ym1UBc) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Easy](https://open.spotify.com/album/1MuR1LelZ5AdjqexWmWKVa) | 2:38 | 2026-07-26 |  |
 | [EASY!](https://open.spotify.com/track/1ZePJy3P8Xgzh54C5JfUXr) | [King Cruff](https://open.spotify.com/artist/4OpO9CxjDD3HQ2g4NnTato), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [EASY!](https://open.spotify.com/album/0GJdja9kQ2Z1V3TtDSa1q2) | 1:55 | 2024-10-14 | 2024-11-18 |
 | [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 | 2025-10-20 |  |
+| [Ember \(Remind Me\)](https://open.spotify.com/track/0190y3IO7OwDMqRZeYjB9P) | [Kuzi Cee](https://open.spotify.com/artist/64lkoPycQSYTify0c5wekf) | [Ember \(Remind Me\)](https://open.spotify.com/album/0CZeRZRYHLSRBZDPXsLNrT) | 2:18 | 2026-08-31 |  |
 | [Espresso](https://open.spotify.com/track/1vLqigPHwiFnXsfrLMehV1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/2kFFrTliyBq4AnjDkPGVeD) | 2:55 | 2026-04-12 |  |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-16 | 2024-11-18 |
 | [Everyone You Know Will Let You Down](https://open.spotify.com/track/2HAeCEuJHYrpMrvIEg6pJk) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [I'm A TV \(Welcome Distraction Edition\)](https://open.spotify.com/album/494ZBGEWruaBhMZMNugAjg) | 3:33 | 2025-06-21 | 2025-07-14 |
@@ -169,7 +170,7 @@
 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-29 |  |
 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-07-27 | 2025-09-02 |
 | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2) | 3:01 | 2024-05-12 | 2024-07-15 |
-| [Headlines](https://open.spotify.com/track/6LxSe8YmdPxy095Ux6znaQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 3:55 | 2026-04-12 |  |
+| [Headlines](https://open.spotify.com/track/6LxSe8YmdPxy095Ux6znaQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 3:55 | 2026-04-12 | 2026-08-31 |
 | [Heart of Gold](https://open.spotify.com/track/1VQfrKbnGSZnEFoGpfVnS8) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heart of Gold](https://open.spotify.com/album/1cMeCtprtHWW2XytkPUthL) | 2:51 | 2024-11-18 | 2025-02-18 |
 | [heartless](https://open.spotify.com/track/4tmcCFi4mCUlGFyeedR8vN) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [heartless](https://open.spotify.com/album/3ZrblKKFAH9jahmgdqMR1g) | 2:53 | 2023-12-01 | 2024-02-24 |
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2026-06-19 |  |
@@ -276,7 +277,7 @@
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-12-08 | 2026-07-13 |
 | [Middle Ground](https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Middle Ground](https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT) | 3:39 | 2023-12-01 | 2024-02-24 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 | 2024-06-24 | 2025-08-10 |
-| [Money](https://open.spotify.com/track/3PIgAVNHyiiAiKhxnvdrPw) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Money](https://open.spotify.com/album/49seZuE8IzjfFOLEhU0F8X) | 3:32 | 2026-02-09 |  |
+| [Money](https://open.spotify.com/track/3PIgAVNHyiiAiKhxnvdrPw) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Money](https://open.spotify.com/album/49seZuE8IzjfFOLEhU0F8X) | 3:32 | 2026-02-09 | 2026-08-31 |
 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 | 2025-05-10 | 2025-06-02 |
 | [Moonshines](https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County](https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp) | 3:44 | 2025-01-06 | 2025-08-03 |
 | [Move Like That](https://open.spotify.com/track/7rCKPz1nF2GgGY4bi4sIgP) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Anywhere But Here](https://open.spotify.com/album/1qsC5Fb06N3SL6IcplWJuP) | 2:04 | 2024-10-27 | 2025-01-27 |
@@ -364,6 +365,7 @@
 | [Seconds Away](https://open.spotify.com/track/1vxWgYimfA3RtHo41qE40i) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [Seconds Away](https://open.spotify.com/album/5d6ksxWTiDMYFR6EngSWG9) | 2:50 | 2024-03-24 | 2024-06-18 |
 | [Selfish](https://open.spotify.com/track/0pazSLd8RRdX44dDtbmrta) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Selfish](https://open.spotify.com/album/62e7Dwx5jU8Cvi2sYlxkbN) | 2:58 | 2026-04-10 | 2026-05-17 |
 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/5Avril3IZ26DPVFHbJX8o6) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-12-01 | 2024-09-16 |
+| [Shabang](https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:08 | 2026-08-31 |  |
 | [Shadows](https://open.spotify.com/track/0pM6sZkrM9Nas2fn2q2oCA) | [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za) | [LOVECHILD](https://open.spotify.com/album/02qZwyJxHH4KxUnbs8K65l) | 3:15 | 2025-02-23 | 2025-05-26 |
 | [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 | 2025-06-30 | 2025-07-28 |
 | [Shot In The Dark](https://open.spotify.com/track/7ovySrfS1s6nY0VIdEnd9n) | [Kuzi Cee](https://open.spotify.com/artist/64lkoPycQSYTify0c5wekf) | [Shot In The Dark](https://open.spotify.com/album/0KT2gWpZXTGdsCNEhuvHVv) | 2:45 | 2026-05-09 |  |

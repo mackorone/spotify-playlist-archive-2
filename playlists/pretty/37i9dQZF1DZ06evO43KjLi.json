@@ -1,12 +1,12 @@
 {
   "description": "This is Esteban Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 23061,
+  "num_followers": 23066,
   "original_name": "This Is Esteban Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAD6REPJh/mk+UbsxLYcbCcG",
+  "snapshot_id": "apIhAAAAAAAjQaogYDk/5nukHqDBDJCW",
   "tracks": [
     {
       "added_at": null,
@@ -423,6 +423,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Doble Lavado",
+        "url": "https://open.spotify.com/album/3EETSExnu3h5AAT7KwhPf5"
+      },
+      "artists": [
+        {
+          "name": "Omar Ruiz",
+          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
+        },
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 175760,
+      "name": "Doble Lavado",
+      "url": "https://open.spotify.com/track/3QOscwvJgX48bpKUjaypCd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuentas",
         "url": "https://open.spotify.com/album/3XAOrLINutXAkXdcyStfv0"
       },
@@ -439,22 +459,6 @@
       "duration_ms": 168958,
       "name": "Cuentas",
       "url": "https://open.spotify.com/track/3xh8cHnjy5JJneaF46jCag"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cumbias Light, Vol. 3",
-        "url": "https://open.spotify.com/album/2ywvd22NBzHPTWdSvpji0m"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 178043,
-      "name": "Besos De Tequila",
-      "url": "https://open.spotify.com/track/7ijg1Hg4ZtpJIhjMn8bAK4"
     },
     {
       "added_at": null,
@@ -515,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don Esteban",
-        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+        "name": "Cumbias Light, Vol. 3",
+        "url": "https://open.spotify.com/album/2ywvd22NBzHPTWdSvpji0m"
       },
       "artists": [
         {
@@ -524,9 +528,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Mi Reyna",
-      "url": "https://open.spotify.com/track/4iynrE7kJRxQgpQ9XTr9Wy"
+      "duration_ms": 178043,
+      "name": "Besos De Tequila",
+      "url": "https://open.spotify.com/track/7ijg1Hg4ZtpJIhjMn8bAK4"
     },
     {
       "added_at": null,
@@ -547,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbias Light, Vol. 3",
-        "url": "https://open.spotify.com/album/2ywvd22NBzHPTWdSvpji0m"
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
       },
       "artists": [
         {
@@ -556,9 +560,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 157494,
-      "name": "En Tus Brazos",
-      "url": "https://open.spotify.com/track/6lKbxSmm8KQ6tnkjBSGcDB"
+      "duration_ms": 190000,
+      "name": "Mi Reyna",
+      "url": "https://open.spotify.com/track/4iynrE7kJRxQgpQ9XTr9Wy"
     },
     {
       "added_at": null,
@@ -579,42 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doble Lavado",
-        "url": "https://open.spotify.com/album/3EETSExnu3h5AAT7KwhPf5"
-      },
-      "artists": [
-        {
-          "name": "Omar Ruiz",
-          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
-        },
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 175760,
-      "name": "Doble Lavado",
-      "url": "https://open.spotify.com/track/3QOscwvJgX48bpKUjaypCd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don Esteban",
-        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "No Me Quiero Enamorar",
-      "url": "https://open.spotify.com/track/21d97LgKFYPMXdXaieJhFB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cumbias Light, Vol. 3",
         "url": "https://open.spotify.com/album/2ywvd22NBzHPTWdSvpji0m"
       },
@@ -624,25 +592,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 180961,
-      "name": "Pasan Los Dias",
-      "url": "https://open.spotify.com/track/18QZ9gVts0qXiITtUcBf9S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cumbias Light, Vol. 2",
-        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 161617,
-      "name": "Besos",
-      "url": "https://open.spotify.com/track/5idUAsCHVRbEOYi9iiea7U"
+      "duration_ms": 157494,
+      "name": "En Tus Brazos",
+      "url": "https://open.spotify.com/track/6lKbxSmm8KQ6tnkjBSGcDB"
     },
     {
       "added_at": null,
@@ -663,6 +615,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "No Me Quiero Enamorar",
+      "url": "https://open.spotify.com/track/21d97LgKFYPMXdXaieJhFB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cumbias Light, Vol. 2",
+        "url": "https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 161617,
+      "name": "Besos",
+      "url": "https://open.spotify.com/track/5idUAsCHVRbEOYi9iiea7U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cumbias Light, Vol. 3",
+        "url": "https://open.spotify.com/album/2ywvd22NBzHPTWdSvpji0m"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 180961,
+      "name": "Pasan Los Dias",
+      "url": "https://open.spotify.com/track/18QZ9gVts0qXiITtUcBf9S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Traguitos De Mezcal",
         "url": "https://open.spotify.com/album/1CQEb9gIBeUq7qQ0y9UcUI"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 159900,
       "name": "Traguitos De Mezcal",
       "url": "https://open.spotify.com/track/0vE5RlP0vbOVTV11EvhjT0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cumbias Light, Vol. 3",
-        "url": "https://open.spotify.com/album/2ywvd22NBzHPTWdSvpji0m"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 150244,
-      "name": "Dejate Llevar",
-      "url": "https://open.spotify.com/track/5Hh6zlLBx8LUkQoN8b2fq9"
     },
     {
       "added_at": null,
@@ -735,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cumbias Light, Vol. 3",
+        "url": "https://open.spotify.com/album/2ywvd22NBzHPTWdSvpji0m"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 150244,
+      "name": "Dejate Llevar",
+      "url": "https://open.spotify.com/track/5Hh6zlLBx8LUkQoN8b2fq9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gordo Pesado",
         "url": "https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 214186,
       "name": "Gordo Pesado",
       "url": "https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cumbias Light, Vol. 3",
-        "url": "https://open.spotify.com/album/2ywvd22NBzHPTWdSvpji0m"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 149921,
-      "name": "Mujercita",
-      "url": "https://open.spotify.com/track/1gvpZMj4ERbAEOezbE0NrD"
     },
     {
       "added_at": null,
@@ -799,6 +783,22 @@
       "duration_ms": 143530,
       "name": "Hoy Estamos Aqu\u00ed",
       "url": "https://open.spotify.com/track/2asBtHvhInFczfb4mMv3Iu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cumbias Light, Vol. 3",
+        "url": "https://open.spotify.com/album/2ywvd22NBzHPTWdSvpji0m"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 149921,
+      "name": "Mujercita",
+      "url": "https://open.spotify.com/track/1gvpZMj4ERbAEOezbE0NrD"
     },
     {
       "added_at": null,

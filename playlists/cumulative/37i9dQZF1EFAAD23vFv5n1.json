@@ -3789,6 +3789,24 @@
     },
     {
       "album": {
+        "name": "SIAMO RAGAZZU",
+        "url": "https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o"
+      },
+      "artists": [
+        {
+          "name": "fantahouse",
+          "url": "https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94132,
+      "name": "SIAMO RAGAZZU",
+      "url": "https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT"
+    },
+    {
+      "album": {
         "name": "Bambina",
         "url": "https://open.spotify.com/album/24DzoYmI9DkE8AqaQ593EP"
       },

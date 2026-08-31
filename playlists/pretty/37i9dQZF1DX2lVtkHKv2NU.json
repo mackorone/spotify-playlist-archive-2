@@ -1,6 +1,6 @@
 {
   "description": "me gustas mucho. <3 I've got a crush on you.",
-  "num_followers": 330272,
+  "num_followers": 330295,
   "original_name": "internet crush",
   "owner": {
     "name": "Spotify",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-02-27 06:00:32",
       "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 237908,
-      "name": "KINTSUGI",
-      "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
-    },
-    {
-      "added_at": "2026-02-27 06:00:32",
-      "album": {
         "name": "BI",
         "url": "https://open.spotify.com/album/5eDuna8HWeNest7b5MVSb3"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 149760,
       "name": "BI",
       "url": "https://open.spotify.com/track/3A2h5cSKjTgIVwVsti2EdT"
+    },
+    {
+      "added_at": "2026-02-27 06:00:32",
+      "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 237908,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
     },
     {
       "added_at": "2026-02-27 06:00:32",

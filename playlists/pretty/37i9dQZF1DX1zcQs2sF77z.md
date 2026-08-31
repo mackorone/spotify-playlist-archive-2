@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 
 > La playlist des plus grands hits Electro & Dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,845 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,916 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 | 29 | [Be Mine](https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Be Mine](https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC) | 2:41 |
 | 30 | [Turn Down for What](https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Turn Down for What](https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3) | 3:33 |
 | 31 | [Spectrum \(Say My Name\) \- Calvin Harris Remix](https://open.spotify.com/track/57yeWyaoeTt26p0dlEZukQ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Ceremonials](https://open.spotify.com/album/3JODIzr9NLL7CMojdUR70g) | 3:38 |
-| 32 | [Fade Out Lines \- The Avener Rework](https://open.spotify.com/track/1gOANd4qcnkftl869IOvBu) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT) | [The Wanderings Of The Avener](https://open.spotify.com/album/7atFyt76W7KGXOEYKM9ywR) | 4:36 |
-| 33 | [Reload \- Radio Edit](https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Reload \(Vocal Version / Radio Edit\)](https://open.spotify.com/album/2UgmfoJF7x7cQmWADnoQdG) | 3:41 |
+| 32 | [Reload \- Radio Edit](https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Reload \(Vocal Version / Radio Edit\)](https://open.spotify.com/album/2UgmfoJF7x7cQmWADnoQdG) | 3:41 |
+| 33 | [Fade Out Lines \- The Avener Rework](https://open.spotify.com/track/1gOANd4qcnkftl869IOvBu) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT) | [The Wanderings Of The Avener](https://open.spotify.com/album/7atFyt76W7KGXOEYKM9ywR) | 4:36 |
 | 34 | [Let Me Think About It](https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV) | [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh), [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Singled Out](https://open.spotify.com/album/4nLyl2aEgi2qQrcPiFlmD7) | 2:31 |
 | 35 | [Satisfaction \- Isak Original Extended](https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [The Biz](https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G) | [Hypnotica \(Benny Benassi Presents The Biz\)](https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER) | 4:45 |
 | 36 | [Piece Of Your Heart](https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart](https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD) | 2:32 |

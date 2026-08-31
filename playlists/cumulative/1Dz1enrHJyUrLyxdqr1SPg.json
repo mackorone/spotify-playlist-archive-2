@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz"
+      },
+      "artists": [
+        {
+          "name": "Nissu",
+          "url": "https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187073,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/5PIMT5y3kj7o3a8lTWUcd2"
+    },
+    {
+      "album": {
         "name": "Coyote Howl",
         "url": "https://open.spotify.com/album/5opN4qPpTo05LTfAFn7ViZ"
       },
@@ -506,7 +524,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 274000,
       "name": "Drive",
       "url": "https://open.spotify.com/track/5USqUhlf8G2afGIK1zn9uL"
@@ -560,7 +578,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 171200,
       "name": "Family of Two",
       "url": "https://open.spotify.com/track/7iJtJc3gbbLehTGp0HatSn"
@@ -640,7 +658,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 220426,
       "name": "Funky Music Makes Me Lose It",
       "url": "https://open.spotify.com/track/0a2P9IK5t02PRXBqTO3nlM"
@@ -872,6 +890,24 @@
       "duration_ms": 397849,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1GeeMhsnDt7E15N24m6rAp"
+    },
+    {
+      "album": {
+        "name": "HUM",
+        "url": "https://open.spotify.com/album/0bbSltpkHir61MCqVlkI9N"
+      },
+      "artists": [
+        {
+          "name": "Tulibacki",
+          "url": "https://open.spotify.com/artist/4C49IVKDRXNNCXmQKzMEme"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199137,
+      "name": "HUM",
+      "url": "https://open.spotify.com/track/3wp5gEHPxg2WLxLRPY5yLd"
     },
     {
       "album": {
@@ -1472,7 +1508,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 185063,
       "name": "Old Fashioned Ways",
       "url": "https://open.spotify.com/track/5mV2AgllrsRFxAhIW5BbWW"
@@ -1508,7 +1544,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 198500,
       "name": "On The Road To God Knows Where",
       "url": "https://open.spotify.com/track/4PU7YT73NcleAFu2r5IvTJ"
@@ -1664,6 +1700,24 @@
       "duration_ms": 221480,
       "name": "Rainbows",
       "url": "https://open.spotify.com/track/099QNnhccADj016aDyFnfK"
+    },
+    {
+      "album": {
+        "name": "Rubber Mask of Holy Wrath",
+        "url": "https://open.spotify.com/album/1HT3BgWaNHZZnsyUMEgKnV"
+      },
+      "artists": [
+        {
+          "name": "Robert Owen",
+          "url": "https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511173,
+      "name": "Rubber Mask of Holy Wrath",
+      "url": "https://open.spotify.com/track/6tOh6oOtAGujuKPeMJSw8K"
     },
     {
       "album": {
@@ -2039,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0eM9W8Okzfd8E5Istxo9F2"
+      },
+      "artists": [
+        {
+          "name": "RCKYLNDN",
+          "url": "https://open.spotify.com/artist/5WSiPMaJ4FK3v4v7mqXewG"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239699,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/351yKe99zqflE5qfy3ayUI"
+    },
+    {
+      "album": {
         "name": "Supersonic drive",
         "url": "https://open.spotify.com/album/0OTZVC3sutznLOrCw7BQul"
       },
@@ -2405,6 +2477,28 @@
     },
     {
       "album": {
+        "name": "Too Much Hate,Not Enough Love",
+        "url": "https://open.spotify.com/album/5eEeh42vw0HasocCL0lyuR"
+      },
+      "artists": [
+        {
+          "name": "lofthouse leo",
+          "url": "https://open.spotify.com/artist/1rpet0LMvxIvChVSUpmuXV"
+        },
+        {
+          "name": "Jordan E. Spivack",
+          "url": "https://open.spotify.com/artist/5qp3jaXKLAFlAwDCGfRL0o"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234930,
+      "name": "Too Much Hate,Not Enough Love",
+      "url": "https://open.spotify.com/track/4bstGemYBGFfj3UpS9zzgJ"
+    },
+    {
+      "album": {
         "name": "TRICK and TREAT",
         "url": "https://open.spotify.com/album/1WPgTdmt0CCN1Ff81i4igu"
       },
@@ -2626,7 +2720,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 154285,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/3h62Tcs3q8Qmo9K9REysqQ"
@@ -2644,7 +2738,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 237692,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/42YZUlJ7WYDUaizdQl8YNb"

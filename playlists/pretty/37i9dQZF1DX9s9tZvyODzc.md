@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9s9tZvyODzc.md) - [plain]
 
 > Dale play y dejá que la música te lleve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,717 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,771 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9s9tZvyODzc.md) - [plain]
 | 54 | [A rodar mi vida](https://open.spotify.com/track/24LCJ8C0D8kx6iplic9SDV) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 4:41 |
 | 55 | [Madrugada](https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:41 |
 | 56 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
-| 57 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
-| 58 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |
+| 57 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |
+| 58 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
 | 59 | [Para No Verme Más](https://open.spotify.com/track/270ieNCOt945nOdUQubFI5) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [El Impulso](https://open.spotify.com/album/1iUFO4NXsxz14ZdDZI31T4) | 4:05 |
 | 60 | [Rock del Gato](https://open.spotify.com/track/3QyB8F5ZhYoai6qjC3evt4) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Furtivos](https://open.spotify.com/album/7ICXWFt2A3KeYgKLbvOmsl) | 3:02 |
 | 61 | [Andate](https://open.spotify.com/track/4c58twuNTtI4VBzH28I3EV) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [NAFTA II](https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It) | 2:58 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9s9tZvyODzc.md) - [plain]
 | 74 | [Nos Veremos Otra Vez](https://open.spotify.com/track/1FBdUVBQsG8suMoKaF3GOi) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Seru Giran 92](https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4) | 3:58 |
 | 75 | [Fue Amor](https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:12 |
 | 76 | [Yo Te Diré](https://open.spotify.com/track/2Io2LJQRWDMfhhfqPu2KG1) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Hotel Miranda!](https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO) | 3:27 |
-| 77 | [QUEMARÁS](https://open.spotify.com/track/43WrAH7AnSucEvN7HGW0BF) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [QUEMARÁS](https://open.spotify.com/album/2nLlI9VteZMztr78YS9DHo) | 4:23 |
-| 78 | [AYER TE VI \(feat\. Zoe Gotusso\)](https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 |
-| 79 | [Los Dos](https://open.spotify.com/track/39m0KJWhZUojRFi9k1m21E) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Los Dos](https://open.spotify.com/album/0Ws2WWNt8G4V9O61K6eZSK) | 3:31 |
+| 77 | [Los Dos](https://open.spotify.com/track/39m0KJWhZUojRFi9k1m21E) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Los Dos](https://open.spotify.com/album/0Ws2WWNt8G4V9O61K6eZSK) | 3:31 |
+| 78 | [QUEMARÁS](https://open.spotify.com/track/43WrAH7AnSucEvN7HGW0BF) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [QUEMARÁS](https://open.spotify.com/album/2nLlI9VteZMztr78YS9DHo) | 4:23 |
+| 79 | [AYER TE VI \(feat\. Zoe Gotusso\)](https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 |
 | 80 | [Los Salieris De Charly](https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Mensajes Del Alma](https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE) | 6:02 |
 | 81 | [Cirugía \(Portal Sessions\)](https://open.spotify.com/track/5ssgbRdJTVgTLmkJ7gmPuF) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs), [Portal Sessions](https://open.spotify.com/artist/5EU23oxWb2gKorPhZRJfXN) | [Cirugía \(Portal Sessions\)](https://open.spotify.com/album/4Dy7IxsvlG9rEt0lGECFDr) | 3:38 |
 | 82 | [Campanas en la Noche](https://open.spotify.com/track/3YleanwcXBJFBujoBQcfxe) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Campanas en la Noche](https://open.spotify.com/album/28nGED6CTK0a1kcLrFhuXr) | 4:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9s9tZvyODzc.md) - [plain]
 | 99 | [Desearía](https://open.spotify.com/track/7kWoPjENU4e10m1u0JJNEu) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Desearía](https://open.spotify.com/album/3mlt9U1oPcQiMWfG0iFngf) | 3:21 |
 | 100 | [Así Es el Calor](https://open.spotify.com/track/5nFTy6FXjPG9rJOY6tp6cP) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Así Es el Calor](https://open.spotify.com/album/5AIeThdtQJ8U6W2o88bpwo) | 3:00 |
 
-Snapshot ID: `AAAAAIDzdUARBmFOI+FNytTkMKlCW0oE`
+Snapshot ID: `AAAAAJ/Fxhj2R5gBf3C03JtbAdQYgnGt`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK7iaoNgUk9.md) - [plain]
 
 > se for pra sofrer, que seja com trilha sonora
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,046 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,000 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK7iaoNgUk9.md) - [plain]
 | 53 | [Broken\-Hearted Girl](https://open.spotify.com/track/31acMiV67UgKn1ScFChFxo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:37 |
 | 54 | [Heartbeat](https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Heartbeat](https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d) | 3:52 |
 | 55 | [Mentiras](https://open.spotify.com/track/4XXaIb6V1u0X5Ao2xzeotr) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Senhas](https://open.spotify.com/album/7avsLM0HPiAyW1nxjDPHYp) | 2:58 |
-| 56 | [Paper Crown](https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Paper Crown](https://open.spotify.com/album/7sQDzWYBQavRBvvamkslFe) | 3:12 |
-| 57 | [One Last Breath](https://open.spotify.com/track/3F1qkJx3flPUWadfFQcOEj) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Greatest Hits](https://open.spotify.com/album/7paOpVZ35xmBn9ijROCG5Q) | 3:59 |
+| 56 | [One Last Breath](https://open.spotify.com/track/3F1qkJx3flPUWadfFQcOEj) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Greatest Hits](https://open.spotify.com/album/7paOpVZ35xmBn9ijROCG5Q) | 3:59 |
+| 57 | [Paper Crown](https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Paper Crown](https://open.spotify.com/album/7sQDzWYBQavRBvvamkslFe) | 3:12 |
 | 58 | [DEPOIS DO UNIVERSO](https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [DEPOIS DO UNIVERSO](https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG) | 3:04 |
 | 59 | [Without You Here](https://open.spotify.com/track/2OetRiA7svb9KwiXkRjhLw) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Let Love In](https://open.spotify.com/album/2EaUXdvwjATa08yxT8uGzR) | 3:49 |
 | 60 | [Don't Watch Me Cry](https://open.spotify.com/track/202lm9YX5WmAac83tOGlVn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:10 |

@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 191238,
+  "num_followers": 191332,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAADnz1mNJFVS6O298ZGbsdxx",
+  "snapshot_id": "apIhAAAAAADgNL1HokjVTeqVpQ1U3Lnq",
   "tracks": [
     {
       "added_at": null,
@@ -87,22 +87,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "THIS MUSIC MAY CONTAIN HOPE.",
-        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         },
         {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 301674,
-      "name": "Click Clack Symphony. (feat. Hans Zimmer)",
-      "url": "https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7"
+      "duration_ms": 231174,
+      "name": "Born Again (feat. Doja Cat & RAYE)",
+      "url": "https://open.spotify.com/track/7KNmIjcmGJIBrhP2s5Vioe"
     },
     {
       "added_at": null,
@@ -127,26 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alter Ego",
-        "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
       },
       "artists": [
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
         }
       ],
-      "duration_ms": 231174,
-      "name": "Born Again (feat. Doja Cat & RAYE)",
-      "url": "https://open.spotify.com/track/7KNmIjcmGJIBrhP2s5Vioe"
+      "duration_ms": 301674,
+      "name": "Click Clack Symphony. (feat. Hans Zimmer)",
+      "url": "https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7"
     },
     {
       "added_at": null,
@@ -175,6 +175,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 201254,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/4QTuyRQshEZYurtIDfE6g0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 183653,
+      "name": "Oscar Winning Tears.",
+      "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THIS MUSIC MAY CONTAIN HOPE.",
         "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
       },
@@ -199,42 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 183653,
-      "name": "Oscar Winning Tears.",
-      "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 201254,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/4QTuyRQshEZYurtIDfE6g0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Snacks",
         "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
       },
@@ -251,38 +251,6 @@
       "duration_ms": 212573,
       "name": "You Don't Know Me (feat. RAYE)",
       "url": "https://open.spotify.com/track/4DJORZgsbqnEJ4f4B9TBGV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THIS MUSIC MAY CONTAIN HOPE.",
-        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 260070,
-      "name": "Winter Woman.",
-      "url": "https://open.spotify.com/track/78RbVzmxF51GURFpCNRvz2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "The Thrill Is Gone.",
-      "url": "https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r"
     },
     {
       "added_at": null,
@@ -307,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
-        "url": "https://open.spotify.com/album/3GKIxiQ8p5H77TPsK2TZ0l"
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
       "artists": [
         {
@@ -316,9 +284,9 @@
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 261176,
-      "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
-      "url": "https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z"
+      "duration_ms": 199293,
+      "name": "The Thrill Is Gone.",
+      "url": "https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r"
     },
     {
       "added_at": null,
@@ -332,9 +300,25 @@
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 377003,
-      "name": "I Know You're Hurting.",
-      "url": "https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ"
+      "duration_ms": 260070,
+      "name": "Winter Woman.",
+      "url": "https://open.spotify.com/track/78RbVzmxF51GURFpCNRvz2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
+        "url": "https://open.spotify.com/album/3GKIxiQ8p5H77TPsK2TZ0l"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 261176,
+      "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
+      "url": "https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z"
     },
     {
       "added_at": null,
@@ -375,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 377003,
+      "name": "I Know You're Hurting.",
+      "url": "https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
       },
@@ -391,26 +391,6 @@
       "duration_ms": 232120,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THIS MUSIC MAY CONTAIN HOPE.",
-        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 320434,
-      "name": "Goodbye Henry. (feat. Al Green)",
-      "url": "https://open.spotify.com/track/5lBL8xRTXIDpPDJcuPL9UH"
     },
     {
       "added_at": null,
@@ -447,6 +427,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 320434,
+      "name": "Goodbye Henry. (feat. Al Green)",
+      "url": "https://open.spotify.com/track/5lBL8xRTXIDpPDJcuPL9UH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Euphoric Sad Songs",
         "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
       },
@@ -463,22 +463,6 @@
       "duration_ms": 197573,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THIS MUSIC MAY CONTAIN HOPE.",
-        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 235511,
-      "name": "The WhatsApp Shakespeare.",
-      "url": "https://open.spotify.com/track/59TbbTEDx5kbwjYOEZ9IT5"
     },
     {
       "added_at": null,
@@ -515,6 +499,22 @@
       "duration_ms": 208836,
       "name": "Genesis, pt. ii",
       "url": "https://open.spotify.com/track/1qvgsMTiNL4WwUnQ9yMz2m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 235511,
+      "name": "The WhatsApp Shakespeare.",
+      "url": "https://open.spotify.com/track/59TbbTEDx5kbwjYOEZ9IT5"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Genesis.",
+        "url": "https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 420000,
+      "name": "Genesis.",
+      "url": "https://open.spotify.com/track/7CJhEUFMNrUWSwcOAqTzPT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stay (Don't Go Away) [feat. Raye]",
         "url": "https://open.spotify.com/album/581MrXg5n979mmvZaC6AOE"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 185942,
       "name": "Stay (Don't Go Away) [feat. Raye]",
       "url": "https://open.spotify.com/track/4YhN72dRYL2Z3MsaKyT7rS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Genesis.",
-        "url": "https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 420000,
-      "name": "Genesis.",
-      "url": "https://open.spotify.com/track/7CJhEUFMNrUWSwcOAqTzPT"
     },
     {
       "added_at": null,

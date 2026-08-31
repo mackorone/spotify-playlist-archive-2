@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 
 > <a href="spotify:artist:4p5WgeiPSPpqPDs7T6OkWf">ANOTR</a>'s favorite tracks\. Curated by ANOTR\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,806 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,824 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 | 38 | [Lw Kan](https://open.spotify.com/track/2ov40EF0gnt0t72ilfoXqV) | [El Shab Arab](https://open.spotify.com/artist/7FNcfQiEZbb87WEya2TFat) | [Lw Kan](https://open.spotify.com/album/5CPPXbtpIwPVXXEuaqOmID) | 3:58 |
 | 39 | [Burning](https://open.spotify.com/track/0QgR03vMDoBoLgcu08EtKl) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Dreams](https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf) | 3:11 |
 | 40 | [Power To You](https://open.spotify.com/track/00pE7J1OsutZQtFORMokwl) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [EXPO Series 001](https://open.spotify.com/album/0S6RkjxQNKbIG3uLr6J1QW) | 6:52 |
-| 41 | [Ndeko Solo \(Voilaaa Remix\)](https://open.spotify.com/track/1fy8tgjWJtlY8miEpfK6Fj) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT), [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1) | [Ndeko Solo \(Voilaaa Remix\)](https://open.spotify.com/album/0oaSGKcQOB40eC4SH1veGF) | 4:54 |
+| 41 | [Ndeko Solo \- Voilaaa Remix](https://open.spotify.com/track/1fy8tgjWJtlY8miEpfK6Fj) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT), [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1) | [Ndeko Solo \(Voilaaa Remix\)](https://open.spotify.com/album/0oaSGKcQOB40eC4SH1veGF) | 4:54 |
 | 42 | [Only You](https://open.spotify.com/track/3d7lH2ppf2aIELQXY4nagn) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/5WSHxP5AtfzdVdZrLC8LjP) | 6:21 |
 | 43 | [Can’t Let It Go \(ft Tyler Daley and 3DDY\)](https://open.spotify.com/track/1eva4m68m4L7j02xqQ2u8M) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [On A Trip](https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN) | 2:49 |
 | 44 | [Play House](https://open.spotify.com/track/0GOUviZEfUEHbutOIIc8nv) | [FLETCH](https://open.spotify.com/artist/5HkPQOedMse24M2meekew4) | [Play House EP](https://open.spotify.com/album/2BojOQugje4WQgj9F6lpH2) | 3:59 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Atmospheric textures & downtempo beats\. Cover: Beth Gibbons of Portishead
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,843 likes - 75 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,964 likes - 75 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,14 +60,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 50 | [Dirt](https://open.spotify.com/track/4LOBq70NlI97iJ5wKwJW1D) | [Death In Vegas](https://open.spotify.com/artist/5aj3LEYRbuaabjjHkj5oE1) | [Dead Elvis](https://open.spotify.com/album/0sIneyoFWF20AD3YcWYZOn) | 5:52 |
 | 51 | [Autumn Leaves](https://open.spotify.com/track/7KQSvoKOECoIdyH5CEIFc5) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Tone Tales From Tomorrow](https://open.spotify.com/album/1GZkKCcURaTItobePLur4B) | 4:01 |
 | 52 | [Long Road](https://open.spotify.com/track/2b1E782QABZaTux77fwlbV) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:01 |
-| 53 | [A grand love theme](https://open.spotify.com/track/0pg2VKzTsBdbxPzcOkReY2) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 4:02 |
-| 54 | [Seashell](https://open.spotify.com/track/18pedqpot9iF1Z7Ol3YHmc) | [Skylab](https://open.spotify.com/artist/0mHp4gMrJbb2RkeSwQd9r7) | [\#1](https://open.spotify.com/album/5w6sVVqRxeq2eVQwWEP5en) | 5:39 |
+| 53 | [Seashell](https://open.spotify.com/track/18pedqpot9iF1Z7Ol3YHmc) | [Skylab](https://open.spotify.com/artist/0mHp4gMrJbb2RkeSwQd9r7) | [\#1](https://open.spotify.com/album/5w6sVVqRxeq2eVQwWEP5en) | 5:39 |
+| 54 | [A grand love theme](https://open.spotify.com/track/0pg2VKzTsBdbxPzcOkReY2) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 4:02 |
 | 55 | [Legend of the Golden Snake \- Single Version](https://open.spotify.com/track/1LYMWLIvXHWehNAUUC32rO) | [Depth Charge](https://open.spotify.com/artist/7wFngDXS0agMESGg1qYM4u) | [Spill](https://open.spotify.com/album/49gzntLtRO6MdCYh6YfOfD) | 4:26 |
 | 56 | [Black Jesus](https://open.spotify.com/track/6JKFK3xmbsemZvLA40R7KH) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:05 |
 | 57 | [Radio Babylon](https://open.spotify.com/track/3TheBeg92QzEpR5kdVqpDa) | [Meat Beat Manifesto](https://open.spotify.com/artist/3AO9jmM1JTooPNcu9tTyZx) | [Version Galore](https://open.spotify.com/album/5533aOxWjQFalXG82VW6ni) | 6:23 |
 | 58 | [The Next Shit](https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC) | [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ) | [USSR Repertoire / The Theory Of Verticality](https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv) | 2:09 |
-| 59 | [The bootleggers](https://open.spotify.com/track/7CUBB5yE9AtXQZANojfUUG) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 7:08 |
-| 60 | [Casanova 70](https://open.spotify.com/track/71iaCJRmNFqIAvhmEb1XW9) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Casanova 70](https://open.spotify.com/album/0HCq99iUU77YIMOagEgM6L) | 5:53 |
+| 59 | [Casanova 70](https://open.spotify.com/track/71iaCJRmNFqIAvhmEb1XW9) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Casanova 70](https://open.spotify.com/album/0HCq99iUU77YIMOagEgM6L) | 5:53 |
+| 60 | [The bootleggers](https://open.spotify.com/track/7CUBB5yE9AtXQZANojfUUG) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 7:08 |
 | 61 | [Electric Lazyland](https://open.spotify.com/track/5hicOmRFB0EOeLNsV3ugSp) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 5:52 |
 | 62 | [Livin' Free \(Soundtrack Mix\)](https://open.spotify.com/track/7Bz6aEEf7l0z1aNPyUMxNL) | [Small World](https://open.spotify.com/artist/1d6bpJp3mEcOPPuYJ79p59) | [The Livin' Free EP](https://open.spotify.com/album/2UNjYtZots0OThWimId057) | 7:31 |
 | 63 | [Fictions](https://open.spotify.com/track/3zyuM9NvUgRNptc9uV14SW) | [Rollercone](https://open.spotify.com/artist/5R48TxAOY7PptmdILHmjN6) | [Earth, Vol\. 2](https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk) | 4:41 |

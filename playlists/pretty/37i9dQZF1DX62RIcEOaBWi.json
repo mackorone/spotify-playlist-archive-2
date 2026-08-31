@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 570768,
+  "num_followers": 570720,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Rockferry",
-        "url": "https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g"
-      },
-      "artists": [
-        {
-          "name": "Duffy",
-          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
-        }
-      ],
-      "duration_ms": 219920,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1zusIxNqJu8i4g6P6hJ2Qa"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 219960,
       "name": "CONTIGO VOY A MUERTE",
       "url": "https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "Rockferry",
+        "url": "https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "duration_ms": 219920,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1zusIxNqJu8i4g6P6hJ2Qa"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1215,22 +1215,18 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "La Bella y la Bestia",
-        "url": "https://open.spotify.com/album/71i8oV332P87FwYsKeoAsR"
+        "name": "Love Hurts",
+        "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
         }
       ],
-      "duration_ms": 186359,
-      "name": "La Bella y la Bestia",
-      "url": "https://open.spotify.com/track/0G0p7mc4wEaQTsUpzEmkEs"
+      "duration_ms": 170000,
+      "name": "The Shoop Shoop Song (It's In His Kiss)",
+      "url": "https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1251,6 +1247,26 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/71i8oV332P87FwYsKeoAsR"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 186359,
+      "name": "La Bella y la Bestia",
+      "url": "https://open.spotify.com/track/0G0p7mc4wEaQTsUpzEmkEs"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 187605,
       "name": "23",
       "url": "https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
-        "name": "Love Hurts",
-        "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "The Shoop Shoop Song (It's In His Kiss)",
-      "url": "https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1299,6 +1299,22 @@
       "duration_ms": 172095,
       "name": "ASI ES LA VIDA",
       "url": "https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "Think",
+      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1335,22 +1351,6 @@
       "duration_ms": 375119,
       "name": "Acabo de llegar",
       "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 139733,
-      "name": "Think",
-      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
+        "name": "Santa Trinidad",
+        "url": "https://open.spotify.com/album/2YDFvGYKnaUcB5O84yvsvM"
+      },
+      "artists": [
+        {
+          "name": "Silo\u00e9",
+          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
+        }
+      ],
+      "duration_ms": 214197,
+      "name": "Que Merezca la Pena",
+      "url": "https://open.spotify.com/track/57YBT0mbIqGTHbTolngDj4"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
         "name": "\u00daltimo Baile",
         "url": "https://open.spotify.com/album/6EcmyTvFKn67LbVXq24ieq"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 167438,
       "name": "\u00daltimo Baile",
       "url": "https://open.spotify.com/track/0VG8Z7M6nvchuexJlS5Nih"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
-        "name": "Santa Trinidad",
-        "url": "https://open.spotify.com/album/2YDFvGYKnaUcB5O84yvsvM"
-      },
-      "artists": [
-        {
-          "name": "Silo\u00e9",
-          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
-        }
-      ],
-      "duration_ms": 214197,
-      "name": "Que Merezca la Pena",
-      "url": "https://open.spotify.com/track/57YBT0mbIqGTHbTolngDj4"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 177255,
+      "name": "KESI",
+      "url": "https://open.spotify.com/track/42lpuSQmnLUM1ZXJVzIVOi"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
         "name": "Tarde",
         "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
       },
@@ -1523,18 +1539,18 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+        "name": "Desde Mi Azotea",
+        "url": "https://open.spotify.com/album/79Le8lGTHNh1tB8RaY7xPH"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Navajita Platea",
+          "url": "https://open.spotify.com/artist/14QPRrwRDAiUhdGC6D3VpE"
         }
       ],
-      "duration_ms": 177255,
-      "name": "KESI",
-      "url": "https://open.spotify.com/track/42lpuSQmnLUM1ZXJVzIVOi"
+      "duration_ms": 247906,
+      "name": "Noches de bohemia - Radio Edit",
+      "url": "https://open.spotify.com/track/1JpZMDDAkfhnrO6nXIQZ2g"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1555,22 +1571,6 @@
       "duration_ms": 190205,
       "name": "El Tiempo Que Paso Contigo",
       "url": "https://open.spotify.com/track/48ikKqBYGbNApD8bEJCamc"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
-        "name": "Desde Mi Azotea",
-        "url": "https://open.spotify.com/album/79Le8lGTHNh1tB8RaY7xPH"
-      },
-      "artists": [
-        {
-          "name": "Navajita Platea",
-          "url": "https://open.spotify.com/artist/14QPRrwRDAiUhdGC6D3VpE"
-        }
-      ],
-      "duration_ms": 247906,
-      "name": "Noches de bohemia - Radio Edit",
-      "url": "https://open.spotify.com/track/1JpZMDDAkfhnrO6nXIQZ2g"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Canciones para el tiempo y la distancia",
-        "url": "https://open.spotify.com/album/6684lqRy7QCfQCNVc4Ohxp"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ferreiro",
-          "url": "https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP"
-        }
-      ],
-      "duration_ms": 278333,
-      "name": "Turnedo",
-      "url": "https://open.spotify.com/track/541hgOF71B92Jpg4IU6kyx"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 246373,
       "name": "Baila Morena - New Spanish Version",
       "url": "https://open.spotify.com/track/0M2YkvoDWKgEvLaCmdH3Gv"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "Canciones para el tiempo y la distancia",
+        "url": "https://open.spotify.com/album/6684lqRy7QCfQCNVc4Ohxp"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ferreiro",
+          "url": "https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP"
+        }
+      ],
+      "duration_ms": 278333,
+      "name": "Turnedo",
+      "url": "https://open.spotify.com/track/541hgOF71B92Jpg4IU6kyx"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "L\u00e1rgate",
-        "url": "https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 180074,
-      "name": "L\u00e1rgate",
-      "url": "https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Luz V",
         "url": "https://open.spotify.com/album/495PNGzppo3wT27Em5Yy8o"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 247680,
       "name": "No me importa nada",
       "url": "https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "L\u00e1rgate",
+        "url": "https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 180074,
+      "name": "L\u00e1rgate",
+      "url": "https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2415,6 +2415,22 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
+        "name": "Sintiendonos La Piel",
+        "url": "https://open.spotify.com/album/4Zq9UhyMTcrEhvQx0Gm2TX"
+      },
+      "artists": [
+        {
+          "name": "Sergio Dalma",
+          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
+        }
+      ],
+      "duration_ms": 276640,
+      "name": "Bailar Pegados",
+      "url": "https://open.spotify.com/track/4QkQmdvFjEVvjc1ONi6t6N"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
         "name": "La flor de la Vida",
         "url": "https://open.spotify.com/album/5fbuCzhbAVE6xLxR5xagtQ"
       },
@@ -2435,22 +2451,6 @@
       "duration_ms": 164444,
       "name": "La flor de la Vida",
       "url": "https://open.spotify.com/track/4266j8xOKPHvR6WzajBl6f"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
-        "name": "Sintiendonos La Piel",
-        "url": "https://open.spotify.com/album/4Zq9UhyMTcrEhvQx0Gm2TX"
-      },
-      "artists": [
-        {
-          "name": "Sergio Dalma",
-          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
-        }
-      ],
-      "duration_ms": 276640,
-      "name": "Bailar Pegados",
-      "url": "https://open.spotify.com/track/4QkQmdvFjEVvjc1ONi6t6N"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "El Bien",
-        "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
-      },
-      "artists": [
-        {
-          "name": "Viva Suecia",
-          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
-        }
-      ],
-      "duration_ms": 206226,
-      "name": "El Bien",
-      "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Camiseta de Rokanrol",
         "url": "https://open.spotify.com/album/5MoUrojZxMjUK8FzT23n4l"
       },
@@ -2555,6 +2539,22 @@
       "duration_ms": 229832,
       "name": "Camiseta de Rokanrol",
       "url": "https://open.spotify.com/track/1eHr7GbGrNMIb01YUwLdku"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "El Bien",
+        "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
+      },
+      "artists": [
+        {
+          "name": "Viva Suecia",
+          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
+        }
+      ],
+      "duration_ms": 206226,
+      "name": "El Bien",
+      "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
     },
     {
       "added_at": "2026-06-29 14:06:42",

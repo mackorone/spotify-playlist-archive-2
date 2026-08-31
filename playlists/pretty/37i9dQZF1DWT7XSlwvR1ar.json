@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2116294,
+  "num_followers": 2116325,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG+bDv06LQb4zgdnDwWDmoomX0iz",
+  "snapshot_id": "AAAAAHRd4S2OsYexqsAJD+pN6yfdgDjo",
   "tracks": [
     {
       "added_at": "2026-08-21 04:02:08",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "The Swell",
-        "url": "https://open.spotify.com/album/5B3s2wHvYBUrZIzo5J5C8y"
-      },
-      "artists": [
-        {
-          "name": "Amble",
-          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
-        }
-      ],
-      "duration_ms": 207959,
-      "name": "The Swell",
-      "url": "https://open.spotify.com/track/6QUuLk63S1azIQbmDEvpfS"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "That Sea, The Gambler",
         "url": "https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 360933,
       "name": "The Stable Song",
       "url": "https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "The Swell",
+        "url": "https://open.spotify.com/album/5B3s2wHvYBUrZIzo5J5C8y"
+      },
+      "artists": [
+        {
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+        }
+      ],
+      "duration_ms": 207959,
+      "name": "The Swell",
+      "url": "https://open.spotify.com/track/6QUuLk63S1azIQbmDEvpfS"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Save It For Later",
-        "url": "https://open.spotify.com/album/5hLsl7NOCJPMDy4GAwaT54"
-      },
-      "artists": [
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        }
-      ],
-      "duration_ms": 261966,
-      "name": "Save It For Later",
-      "url": "https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "One Step Ahead",
         "url": "https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 191647,
       "name": "One Step Ahead",
       "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "Save It For Later",
+        "url": "https://open.spotify.com/album/5hLsl7NOCJPMDy4GAwaT54"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "duration_ms": 261966,
+      "name": "Save It For Later",
+      "url": "https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
+        "name": "In Your Hands",
+        "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 230164,
+      "name": "In Your Hands - Single Version",
+      "url": "https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
         "name": "TRUSTFALL",
         "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 167200,
       "name": "Kids in Love",
       "url": "https://open.spotify.com/track/1gpYR1FzbIS0IRbpF3BBmu"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
-        "name": "In Your Hands",
-        "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 230164,
-      "name": "In Your Hands - Single Version",
-      "url": "https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/4fPZyUU0MmUJuVlJ9IjJe6"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "If Ever",
         "url": "https://open.spotify.com/album/0hWhMuCu6vFSHTJNH3BqqC"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 215104,
       "name": "If Ever (with Jack Johnson & Ben Harper)",
       "url": "https://open.spotify.com/track/5CeXAfGpk9baITQvV0feoG"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/4fPZyUU0MmUJuVlJ9IjJe6"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Joyride",
-        "url": "https://open.spotify.com/album/2kbQUnNWsS3C931Sx7FYzb"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 212945,
-      "name": "Joyride",
-      "url": "https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "Returning To Myself",
         "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 263976,
       "name": "No One Knows Us",
       "url": "https://open.spotify.com/track/6wBZkDA5FDcxC8DkukCsSR"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/2kbQUnNWsS3C931Sx7FYzb"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 212945,
+      "name": "Joyride",
+      "url": "https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Catch A Fire",
-        "url": "https://open.spotify.com/album/22nOFO4lMgF0nEpm0lNCPQ"
-      },
-      "artists": [
-        {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
-        }
-      ],
-      "duration_ms": 193658,
-      "name": "Catch A Fire",
-      "url": "https://open.spotify.com/track/7r43gqBcINKb1o1NQ43Wcu"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "Thinking About You",
         "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 217463,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "Catch A Fire",
+        "url": "https://open.spotify.com/album/22nOFO4lMgF0nEpm0lNCPQ"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "duration_ms": 193658,
+      "name": "Catch A Fire",
+      "url": "https://open.spotify.com/track/7r43gqBcINKb1o1NQ43Wcu"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 198456,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/16F30mi5701yHEy2RyTkDX"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
         }
       ],
-      "duration_ms": 233039,
-      "name": "I Found Out",
-      "url": "https://open.spotify.com/track/2IxOGK5JJIhi2Alx5BA7oe"
+      "duration_ms": 198456,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -1231,6 +1215,22 @@
       "duration_ms": 246506,
       "name": "Dare You To Move (Ryan Tedder from OneRepublic Version)",
       "url": "https://open.spotify.com/track/3JPUOM88K8XjImQiZixdhy"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 233039,
+      "name": "I Found Out",
+      "url": "https://open.spotify.com/track/2IxOGK5JJIhi2Alx5BA7oe"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "A Million Lives",
-        "url": "https://open.spotify.com/album/644mTTjWRde8EO5vw3Nfz6"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 195736,
-      "name": "A Million Lives",
-      "url": "https://open.spotify.com/track/2mlbJn0yefGc15LVcbjtW1"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "Half Woman, Half Cosmic Horror (Disco Disco)",
         "url": "https://open.spotify.com/album/1duTdDEW9NYQpRnh5rSxXf"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
+        "name": "A Million Lives",
+        "url": "https://open.spotify.com/album/644mTTjWRde8EO5vw3Nfz6"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 195736,
+      "name": "A Million Lives",
+      "url": "https://open.spotify.com/track/2mlbJn0yefGc15LVcbjtW1"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
         "name": "Just Like That...",
         "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
       },
@@ -1335,22 +1335,6 @@
       "duration_ms": 220880,
       "name": "Made Up Mind",
       "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
-        "name": "Sweet Unknown",
-        "url": "https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR"
-      },
-      "artists": [
-        {
-          "name": "Ceramic Animal",
-          "url": "https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X"
-        }
-      ],
-      "duration_ms": 238933,
-      "name": "Sweet Unknown",
-      "url": "https://open.spotify.com/track/6ypf8ClLV8sPrJPp2WwFoh"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -1383,6 +1367,22 @@
       "duration_ms": 216946,
       "name": "Stay For Something",
       "url": "https://open.spotify.com/track/5tEREzW79U8O3FIkrGyRNW"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "Sweet Unknown",
+        "url": "https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR"
+      },
+      "artists": [
+        {
+          "name": "Ceramic Animal",
+          "url": "https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X"
+        }
+      ],
+      "duration_ms": 238933,
+      "name": "Sweet Unknown",
+      "url": "https://open.spotify.com/track/6ypf8ClLV8sPrJPp2WwFoh"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -2283,6 +2283,22 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/3apMZR8xEsLHEA2KvIefC7"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
         "name": "Strays",
         "url": "https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj"
       },
@@ -2319,22 +2335,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/3apMZR8xEsLHEA2KvIefC7"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "East October",
         "url": "https://open.spotify.com/album/1N5IeyxziUx6qaaBr2s2ly"
       },
@@ -2347,22 +2347,6 @@
       "duration_ms": 223410,
       "name": "East October",
       "url": "https://open.spotify.com/track/4A3RZYGVKPCkNtnQpyXiJl"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
-        "name": "Blood Wolf Moon",
-        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
-      },
-      "artists": [
-        {
-          "name": "Tommy Ashby",
-          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
-        }
-      ],
-      "duration_ms": 180010,
-      "name": "Blood Wolf Moon",
-      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -2383,6 +2367,22 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
+        "name": "Blood Wolf Moon",
+        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ashby",
+          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
+        }
+      ],
+      "duration_ms": 180010,
+      "name": "Blood Wolf Moon",
+      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
         "name": "Late Riser",
         "url": "https://open.spotify.com/album/0WhrnQczKJFAo1Q1R9buoY"
       },
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 330653,
-      "name": "Comes In Waves",
-      "url": "https://open.spotify.com/track/0gDGS8oW4kLxU7G4BYZG3y"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "Sticks and Stones",
         "url": "https://open.spotify.com/album/2GucgfY31P1y2qMJzpT99B"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 198920,
       "name": "All Four Winds",
       "url": "https://open.spotify.com/track/74M40IcCjxxY1EYzUiFJ6y"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 330653,
+      "name": "Comes In Waves",
+      "url": "https://open.spotify.com/track/0gDGS8oW4kLxU7G4BYZG3y"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Fireworks",
-        "url": "https://open.spotify.com/album/6lYkLmCOdSJeeAnz8Ovfum"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 198146,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/0Dpe1m77tBKkEvxaHvStsD"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "Photographs",
         "url": "https://open.spotify.com/album/2Mc2AnmLf4Poor6xMUxH0J"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 198530,
       "name": "Photographs",
       "url": "https://open.spotify.com/track/4CF1rJmxEERGxiuzMVsxPp"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "Fireworks",
+        "url": "https://open.spotify.com/album/6lYkLmCOdSJeeAnz8Ovfum"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 198146,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/0Dpe1m77tBKkEvxaHvStsD"
     },
     {
       "added_at": "2026-08-21 04:02:08",

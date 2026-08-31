@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Jess Moskaluke
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,314 likes - 185 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,304 likes - 185 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

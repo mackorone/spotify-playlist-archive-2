@@ -22512,7 +22512,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 268541,
       "name": "Vastaa",
       "url": "https://open.spotify.com/track/2MtGLKmYpAhXu87AOsT0V6"
@@ -23020,6 +23020,24 @@
       "duration_ms": 161280,
       "name": "Vikaa kertaa (feat. Joalin)",
       "url": "https://open.spotify.com/track/18smYx5xWfZdgHJFSGoOLd"
+    },
+    {
+      "album": {
+        "name": "Vinojen t\u00e4htien alla",
+        "url": "https://open.spotify.com/album/1ae2p3Ko5Ty9FfiyJb1fWa"
+      },
+      "artists": [
+        {
+          "name": "Aleksanteri Hakaniemi",
+          "url": "https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153573,
+      "name": "Vinojen t\u00e4htien alla",
+      "url": "https://open.spotify.com/track/1tmyFCvbXu03Ec9xWI2bi3"
     },
     {
       "album": {

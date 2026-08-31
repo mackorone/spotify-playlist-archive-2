@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Zolita
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,317 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,321 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 15 | [Good Luck and Don’t F%k It Up \(Matt Pop Remix\)](https://open.spotify.com/track/4AGBnT96qI3DlTheMSfWI8) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Good Luck and Don’t F%k It Up](https://open.spotify.com/album/47r67PWWnIMhZslf1Y6CO0) | 2:40 |
 | 16 | [Free](https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Free](https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN) | 3:08 |
 | 17 | [tiptoeing](https://open.spotify.com/track/6QpxpFbtZUWapawqVDufDX) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [tiptoeing](https://open.spotify.com/album/4Mkhq0sACoEJoema2n6Zys) | 2:34 |
-| 18 | [WHAT ELSE?](https://open.spotify.com/track/3h2OSS7nnFnEuZ57F2BmVF) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [WHAT ELSE?](https://open.spotify.com/album/7gFZKtpOHMIvkVhXSJ9z7f) | 2:20 |
+| 18 | [THIS TIME OF THE YEAR](https://open.spotify.com/track/4QfcVT6AtnYXiporucNGft) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [THIS TIME OF THE YEAR](https://open.spotify.com/album/5qkkmIxIqKuU1RrF1s0dvY) | 3:36 |
 | 19 | [Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Now I've Got A Lot You Know](https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu) | 5:10 |
 | 20 | [BROKE BITCH FREE$TYLE](https://open.spotify.com/track/32HAF87vgPSUQ6l6pRO7Er) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [BROKE BITCH FREE$TYLE](https://open.spotify.com/album/5dqawOCoShBIAN8R9Dl0GE) | 2:13 |
 | 21 | [Hometown Letdown](https://open.spotify.com/track/6gPQg2iktdQq3OpOGKmY42) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Hometown Letdown](https://open.spotify.com/album/6NV3lRlfM6gLRKSPyGBB7W) | 2:57 |
 | 22 | [Vivian](https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [First Times](https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V) | 3:16 |
-| 23 | [THIS TIME OF THE YEAR](https://open.spotify.com/track/4QfcVT6AtnYXiporucNGft) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [THIS TIME OF THE YEAR](https://open.spotify.com/album/5qkkmIxIqKuU1RrF1s0dvY) | 3:36 |
+| 23 | [WHAT ELSE?](https://open.spotify.com/track/3h2OSS7nnFnEuZ57F2BmVF) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [WHAT ELSE?](https://open.spotify.com/album/7gFZKtpOHMIvkVhXSJ9z7f) | 2:20 |
 | 24 | [die 4 u](https://open.spotify.com/track/6m23hIW0TYTnSdHJOHoZnl) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [girls like girls the album](https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi) | 3:52 |
 | 25 | [Speakerphone](https://open.spotify.com/track/4IfS1NOpuyygRwoPzjbRyT) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Speakerphone](https://open.spotify.com/album/0hdrI88v9WhReATAnqZ3ay) | 2:41 |
 | 26 | [mon chéri…](https://open.spotify.com/track/4BWRbNcTnJpHL47hlY8Ntl) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [CANINES](https://open.spotify.com/album/7jRVnXlOfv9qoj5nM4OBOC) | 3:18 |

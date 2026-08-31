@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 37431,
+  "num_followers": 37429,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAAVsQRd8C5do6kA/xUyQOmW",
+  "snapshot_id": "apIhAAAAAABEEd4maKu8bvmEdDeVXHqQ",
   "tracks": [
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 229240,
-      "name": "Vuma",
-      "url": "https://open.spotify.com/track/6mWsjfFrRkdIr03LBN0Zpa"
+      "duration_ms": 276080,
+      "name": "Life Is Going On",
+      "url": "https://open.spotify.com/track/1YeFEB5XaozlnCwXs6I9rp"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 276080,
-      "name": "Life Is Going On",
-      "url": "https://open.spotify.com/track/1YeFEB5XaozlnCwXs6I9rp"
+      "duration_ms": 229240,
+      "name": "Vuma",
+      "url": "https://open.spotify.com/track/6mWsjfFrRkdIr03LBN0Zpa"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mali",
+        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 306933,
+      "name": "Mali",
+      "url": "https://open.spotify.com/track/1QIayXInAVGwR7ZktE3FLB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vuli Ndlela",
         "url": "https://open.spotify.com/album/0PoVjEm9WTgOXjlUE0wMrA"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 203874,
       "name": "Vuli Ndlela",
       "url": "https://open.spotify.com/track/5I4rknDPn9lYRACi80RbbQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mali",
-        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 306933,
-      "name": "Mali",
-      "url": "https://open.spotify.com/track/1QIayXInAVGwR7ZktE3FLB"
     },
     {
       "added_at": null,

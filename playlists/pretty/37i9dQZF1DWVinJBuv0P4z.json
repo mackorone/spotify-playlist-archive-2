@@ -1,6 +1,6 @@
 {
   "description": "Happy tunes from the 50s, 60s & 70s. Cover: The Beach Boys.",
-  "num_followers": 558841,
+  "num_followers": 558929,
   "original_name": "Feel Good Classics",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
+        "name": "Staying Alive (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6iqFb4EhmlHHjJGFcRgJmQ"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 92866,
+      "name": "Stayin' Alive",
+      "url": "https://open.spotify.com/track/4UDmDIqJIbrW0hMBQMFOsM"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 169840,
       "name": "You're The One That I Want - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
-        "name": "Staying Alive (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6iqFb4EhmlHHjJGFcRgJmQ"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 92866,
-      "name": "Stayin' Alive",
-      "url": "https://open.spotify.com/track/4UDmDIqJIbrW0hMBQMFOsM"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 126960,
-      "name": "La Bamba - Single Version",
-      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Risqu\u00e9",
         "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 495400,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 126960,
+      "name": "La Bamba - Single Version",
+      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 375400,
-      "name": "He's the Greatest Dancer - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Ladies' Night",
         "url": "https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 385506,
       "name": "Ladies Night",
       "url": "https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 375400,
+      "name": "He's the Greatest Dancer - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Jazz (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Perfect Angel",
         "url": "https://open.spotify.com/album/3TFzRE2Mm1uZcJeu91UNs9"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 223143,
       "name": "Lovin' You",
       "url": "https://open.spotify.com/track/3ebYtLVuV4HzEZUDcpZB9p"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Jazz (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Could It Be I'm Falling in Love",
-      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "I'll Cry If I Want To",
         "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 140000,
       "name": "It's My Party",
       "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "Could It Be I'm Falling in Love",
+      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
+        "name": "Rock with Sedaka (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 135466,
+      "name": "Oh! Carol",
+      "url": "https://open.spotify.com/track/5zvOXJrzzUlvXwyuwZ0toZ"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
         "name": "Main Course",
         "url": "https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 124586,
       "name": "Come On, Let's Go",
       "url": "https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
-        "name": "Rock with Sedaka (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 135466,
-      "name": "Oh! Carol",
-      "url": "https://open.spotify.com/track/5zvOXJrzzUlvXwyuwZ0toZ"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -2047,18 +2047,18 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Dancing In The Moonlight",
-        "url": "https://open.spotify.com/album/2gvwC6eFsQH5rlvrZyhs3s"
+        "name": "I'd Love You To Want Me",
+        "url": "https://open.spotify.com/album/4VMBciq1OqZxBXLurWn3ie"
       },
       "artists": [
         {
-          "name": "King Harvest",
-          "url": "https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y"
+          "name": "Lobo",
+          "url": "https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht"
         }
       ],
-      "duration_ms": 178045,
-      "name": "Dancing In The Moonlight",
-      "url": "https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR"
+      "duration_ms": 177933,
+      "name": "Me and You and a Dog Named Boo",
+      "url": "https://open.spotify.com/track/6a0AGYos2HgtQNgMeDqEfC"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -2079,18 +2079,18 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "I'd Love You To Want Me",
-        "url": "https://open.spotify.com/album/4VMBciq1OqZxBXLurWn3ie"
+        "name": "Dancing In The Moonlight",
+        "url": "https://open.spotify.com/album/2gvwC6eFsQH5rlvrZyhs3s"
       },
       "artists": [
         {
-          "name": "Lobo",
-          "url": "https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht"
+          "name": "King Harvest",
+          "url": "https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y"
         }
       ],
-      "duration_ms": 177933,
-      "name": "Me and You and a Dog Named Boo",
-      "url": "https://open.spotify.com/track/6a0AGYos2HgtQNgMeDqEfC"
+      "duration_ms": 178045,
+      "name": "Dancing In The Moonlight",
+      "url": "https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Little Bitty Pretty One",
-        "url": "https://open.spotify.com/album/0E72reqQQ7799PLL07DFnG"
-      },
-      "artists": [
-        {
-          "name": "Thurston Harris",
-          "url": "https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT"
-        }
-      ],
-      "duration_ms": 143066,
-      "name": "Little Bitty Pretty One",
-      "url": "https://open.spotify.com/track/2yOXKIU9YtBSWjI3OA8tqj"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "The Best Of The Clovers (Love Potion No. 9)",
         "url": "https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 113200,
       "name": "Love Potion No. 9 - Remastered / Single Version",
       "url": "https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Little Bitty Pretty One",
+        "url": "https://open.spotify.com/album/0E72reqQQ7799PLL07DFnG"
+      },
+      "artists": [
+        {
+          "name": "Thurston Harris",
+          "url": "https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT"
+        }
+      ],
+      "duration_ms": 143066,
+      "name": "Little Bitty Pretty One",
+      "url": "https://open.spotify.com/track/2yOXKIU9YtBSWjI3OA8tqj"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "12 Of His Biggest Hits",
-        "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
-      },
-      "artists": [
-        {
-          "name": "Eddie Cochran",
-          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
-        }
-      ],
-      "duration_ms": 118226,
-      "name": "C\u2019Mon Everybody",
-      "url": "https://open.spotify.com/track/7ItZM6DMZE2m1X7yIaRxjq"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Family Reunion (Expanded Edition)",
         "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 413066,
       "name": "I Love Music",
       "url": "https://open.spotify.com/track/222TScMmzaZ0IdkvbLoin2"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "12 Of His Biggest Hits",
+        "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
+      },
+      "artists": [
+        {
+          "name": "Eddie Cochran",
+          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
+        }
+      ],
+      "duration_ms": 118226,
+      "name": "C\u2019Mon Everybody",
+      "url": "https://open.spotify.com/track/7ItZM6DMZE2m1X7yIaRxjq"
     },
     {
       "added_at": "2024-07-12 21:11:00",

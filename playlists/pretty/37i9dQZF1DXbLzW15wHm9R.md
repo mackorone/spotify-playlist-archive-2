@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 
 > Original and synced songs that stay with you long after the credits roll..\. Cover: Spider\-Man: Brand New Day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,823 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,892 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 | 16 | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt) | 2:09 |
 | 17 | [Mention Me \- From The Movie "GOAT"](https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [Mention Me \(From The Movie "GOAT"\)](https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd) | 3:00 |
 | 18 | [Save The Day \- From "Hoppers"](https://open.spotify.com/track/1OLttIkaPLvRnYkLAIkmnb) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Save The Day \(From "Hoppers"\)](https://open.spotify.com/album/64nT7kIqLeG2Z3mz8OVubL) | 2:52 |
-| 19 | [Ride Like the Wind \(2019 Remaster\)](https://open.spotify.com/track/2ibiJCDgb0N53RXRtYsDtg) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross \(2019 Remaster\)](https://open.spotify.com/album/4unLP4n9N8NB71dvSuI5Mt) | 4:30 |
+| 19 | [Ride Like the Wind \- 2019 Remaster](https://open.spotify.com/track/2ibiJCDgb0N53RXRtYsDtg) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross \(2019 Remaster\)](https://open.spotify.com/album/4unLP4n9N8NB71dvSuI5Mt) | 4:30 |
 | 20 | [Shape of a Woman](https://open.spotify.com/track/6aFsbhzye4yfT25ohmhOQY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 3:29 |
 | 21 | [In Every Lifetime](https://open.spotify.com/track/6Ya6zZj0ZzxjpErU7LM7ba) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [In Every Lifetime \(From the Prime Original Series, Off Campus\)](https://open.spotify.com/album/2yPLiUHhRdTE0b84ljXgGd) | 3:23 |
 | 22 | [Inside Out](https://open.spotify.com/track/5kPp1bLqpCNDokPBDsDWhN) | [Jesse Rae](https://open.spotify.com/artist/1DLR1RvYD7P8zvyAo57ZHF) | [Jesse Rae The Best'o](https://open.spotify.com/album/71uqhIDyS0ipO6GrXufE7Z) | 3:58 |

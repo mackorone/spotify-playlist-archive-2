@@ -4,7 +4,7 @@
 
 > Set the mood just right...
 
-512 songs - 1 day 4 hr 21 min
+513 songs - 1 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,7 +371,7 @@
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-06-12 |  |
 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 | 2023-04-21 |  |
 | [Seoul City](https://open.spotify.com/track/3pY2M4k9BSk7ulLBSV0tcX) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:44 | 2025-03-07 |  |
-| [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2022-06-17 |  |
+| [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2022-06-17 | 2026-08-31 |
 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2022-12-28 |  |
 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-05-31 | 2026-02-08 |
 | [Shaggy Dynamite](https://open.spotify.com/track/60cgAlsz2BbdJF2pWEStlg) | [Billy Vena](https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp) | [Shaggy Dynamite](https://open.spotify.com/album/04t1CRjivMRFCu7h1cNyvk) | 2:39 | 2021-12-24 | 2022-07-06 |
@@ -436,6 +436,7 @@
 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 | 2024-03-01 | 2025-02-22 |
 | [telly](https://open.spotify.com/track/0k6LRpP1C0XH7kOBEoiKtH) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 2:14 | 2021-12-10 | 2022-04-29 |
 | [Temporary \(feat\. Don Toliver\)](https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Since I Have A Lover](https://open.spotify.com/album/4ixavb1zLBMERcEWfsy8oC) | 2:58 | 2023-03-24 |  |
+| [That's Just Me](https://open.spotify.com/track/6ctQA1MhB2epFVXXJYocwu) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [That's Just Me](https://open.spotify.com/album/65MjEtYWhPJ320kJE1NrIc) | 3:50 | 2026-08-28 |  |
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2021-12-10 |  |
 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 | 2023-04-28 | 2024-09-16 |
 | [The Frequency of the Universe](https://open.spotify.com/track/33xzOMLKWD1QdYYKETCkY5) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Breathing Tides](https://open.spotify.com/album/0AWWSwlrkbHqGUKDLil3vo) | 3:45 | 2021-12-10 | 2022-04-20 |

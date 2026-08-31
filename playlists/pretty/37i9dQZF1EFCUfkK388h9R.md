@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 | 6 | [Voodoo](https://open.spotify.com/track/1l115wpTpRuMJuuwAww6cj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [ORIGO](https://open.spotify.com/album/1Fw0y4iPr8b9SF3pohkBic) | 2:49 |
 | 7 | [Queen of Hearts](https://open.spotify.com/track/4tG2c8LP7J0EsfQ8gKLm7q) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN \-Japanese version\-](https://open.spotify.com/album/3T3STfBHgL2LRv4CGlJTAN) | 2:25 |
 | 8 | [Dysfunctional](https://open.spotify.com/track/1i8Pue6gQrSOHMVFLzQWom) | [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We), [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Dysfunctional](https://open.spotify.com/album/2Oj40TuVraFTnMAPGCuJwc) | 3:18 |
-| 9 | [Long Shot](https://open.spotify.com/track/4DSNXNrBKv2rMo30c5DyTh) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5), [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Long Shot](https://open.spotify.com/album/0jSxGspgNSr6D1o839Brhl) | 3:24 |
-| 10 | [City Girl](https://open.spotify.com/track/1Sbf8qBXp24byps3CtiONg) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Vanhasta Uuteen](https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb) | 2:04 |
+| 9 | [City Girl](https://open.spotify.com/track/1Sbf8qBXp24byps3CtiONg) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Vanhasta Uuteen](https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb) | 2:04 |
+| 10 | [Long Shot](https://open.spotify.com/track/4DSNXNrBKv2rMo30c5DyTh) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5), [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Long Shot](https://open.spotify.com/album/0jSxGspgNSr6D1o839Brhl) | 3:24 |
 | 11 | [How To Dance](https://open.spotify.com/track/17TLMCiWbRnNblIfXiDLfF) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:09 |
 | 12 | [By Now](https://open.spotify.com/track/4NTAmq5vf3cXuKZIDV94w1) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd) | [By Now](https://open.spotify.com/album/6B37u4rJJZX3nLtGb95X8g) | 3:06 |
 | 13 | [Stardust](https://open.spotify.com/track/64YqaPCvvnHxj96Qlo1a9w) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Constellations](https://open.spotify.com/album/4iYUh0Cw9bB5XSObj8AuQq) | 2:51 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 | 54 | [Fuck Things Up](https://open.spotify.com/track/4J2r5n7wTXGdaRGse0ON6G) | [Vera Hotsauce](https://open.spotify.com/artist/5KucN3rNvkbmfNWqknOvth) | [Hot N Saucy](https://open.spotify.com/album/5aerQ661gL2BTTPjPpYsm1) | 3:03 |
 | 55 | [Punch](https://open.spotify.com/track/7JtmLurRXvcyvqVGwxoS9M) | [Darcy Day](https://open.spotify.com/artist/0jsZR31z3SUBQ1BJuAdEDn) | [Punch](https://open.spotify.com/album/0MgS9kN89HMeT1m2YuWPVF) | 2:29 |
 
-Snapshot ID: `Aca6PAAAAAD72HJeF+yHHnxGgcsvfBYs`
+Snapshot ID: `Aca/3AAAAAD5raJV9buVN+09ryGdYmdM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Adie
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,533 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,559 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

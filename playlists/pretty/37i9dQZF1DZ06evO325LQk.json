@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 38452,
+  "num_followers": 38447,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAAUJa2bKvQOv9xZThLK8qaS",
+  "snapshot_id": "apIhAAAAAAD10aQ/wFQeCRNgLQYJh4km",
   "tracks": [
     {
       "added_at": null,
@@ -159,30 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me See Ya (feat. MUNA)",
-        "url": "https://open.spotify.com/album/4RCMft0azAOIIGWv3rpd6B"
-      },
-      "artists": [
-        {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 205592,
-      "name": "Let Me See Ya (feat. MUNA)",
-      "url": "https://open.spotify.com/track/6K0iZIS5wPirY5IHpxHvq5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hi This Is Flume (Mixtape)",
         "url": "https://open.spotify.com/album/0enl6lyotKB8LKlUo5m2oJ"
       },
@@ -203,6 +179,30 @@
       "duration_ms": 114645,
       "name": "Voices",
       "url": "https://open.spotify.com/track/3xP1Pvjs45aUMap2kk8okL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Me See Ya (feat. MUNA)",
+        "url": "https://open.spotify.com/album/4RCMft0azAOIIGWv3rpd6B"
+      },
+      "artists": [
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 205592,
+      "name": "Let Me See Ya (feat. MUNA)",
+      "url": "https://open.spotify.com/track/6K0iZIS5wPirY5IHpxHvq5"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 98519,
+  "num_followers": 98527,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAByH9ZSXQqhN51kgU+FK8Vp",
+  "snapshot_id": "apIhAAAAAAB7Uq85DM/2pxlN7Y03NaJU",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enciende una Luz",
-        "url": "https://open.spotify.com/album/4feGmOBJgIy4LD7SNt2XAa"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 410827,
-      "name": "Jes\u00fas Eres Mi Buen Pastor",
-      "url": "https://open.spotify.com/track/2K7Xl0INk9AOJczRbTLOy4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homenaje a Jes\u00fas (En Vivo)",
         "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 321619,
       "name": "Somos el pueblo de Dios",
       "url": "https://open.spotify.com/track/3MF7cqKTCqQ6Xm8Pe2igJh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enciende una Luz",
+        "url": "https://open.spotify.com/album/4feGmOBJgIy4LD7SNt2XAa"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 410827,
+      "name": "Jes\u00fas Eres Mi Buen Pastor",
+      "url": "https://open.spotify.com/track/2K7Xl0INk9AOJczRbTLOy4"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venci\u00f3",
-        "url": "https://open.spotify.com/album/4rhVnJvuqXXEnaTbH3EaWw"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 248893,
-      "name": "Al que es Digno",
-      "url": "https://open.spotify.com/track/14ZqaxUjFW2Fhq5CcJ5mhm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poderoso",
         "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 650657,
       "name": "Hermoso Eres",
       "url": "https://open.spotify.com/track/3TbInL4DEBxLRExpqtHDw8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Venci\u00f3",
+        "url": "https://open.spotify.com/album/4rhVnJvuqXXEnaTbH3EaWw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 248893,
+      "name": "Al que es Digno",
+      "url": "https://open.spotify.com/track/14ZqaxUjFW2Fhq5CcJ5mhm"
     },
     {
       "added_at": null,
@@ -883,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sana Nuestra Tierra (En Vivo)",
-        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 412708,
-      "name": "S\u00e1nanos",
-      "url": "https://open.spotify.com/track/3pf1Pa1b4Vd1KuilOA0CpH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu y Yo (Remasterizado)",
         "url": "https://open.spotify.com/album/37hQTftDd8dpXOCz2xxdlI"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 118244,
       "name": "Hoy es tiempo",
       "url": "https://open.spotify.com/track/2v5eRrE5BRncsLxChJMUyQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sana Nuestra Tierra (En Vivo)",
+        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 412708,
+      "name": "S\u00e1nanos",
+      "url": "https://open.spotify.com/track/3pf1Pa1b4Vd1KuilOA0CpH"
     },
     {
       "added_at": null,

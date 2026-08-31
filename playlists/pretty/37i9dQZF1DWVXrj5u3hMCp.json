@@ -1,6 +1,6 @@
 {
   "description": "The ultimate golf companion playlist.",
-  "num_followers": 118865,
+  "num_followers": 118919,
   "original_name": "Let's Golf! \u26f3\ufe0f",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 285133,
-      "name": "More Than a Feeling",
-      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
-    },
-    {
-      "added_at": "2026-04-06 20:58:42",
-      "album": {
         "name": "Second Helping (Expanded Edition)",
         "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 283800,
       "name": "Sweet Home Alabama",
       "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
+    },
+    {
+      "added_at": "2026-04-06 20:58:42",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2026-04-06 20:58:42",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
-    },
-    {
-      "added_at": "2026-04-06 20:58:42",
-      "album": {
         "name": "Eagles (2013 Remaster)",
         "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 211577,
       "name": "Take It Easy - 2013 Remaster",
       "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+    },
+    {
+      "added_at": "2026-04-06 20:58:42",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
     },
     {
       "added_at": "2026-04-06 20:58:42",
@@ -811,18 +811,18 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "Spirit In The Sky (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Norman Greenbaum",
+          "url": "https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL"
         }
       ],
-      "duration_ms": 205200,
-      "name": "Heartache On The Dance Floor",
-      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
+      "duration_ms": 242893,
+      "name": "Spirit In The Sky - Deluxe Edition",
+      "url": "https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP"
     },
     {
       "added_at": "2026-04-06 20:58:42",
@@ -843,18 +843,18 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
-        "name": "Spirit In The Sky (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Norman Greenbaum",
-          "url": "https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 242893,
-      "name": "Spirit In The Sky - Deluxe Edition",
-      "url": "https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP"
+      "duration_ms": 205200,
+      "name": "Heartache On The Dance Floor",
+      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
     },
     {
       "added_at": "2026-04-06 20:58:42",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
-        "name": "Rock n Roll Jesus",
-        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 297586,
-      "name": "All Summer Long",
-      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
-    },
-    {
-      "added_at": "2026-04-06 20:58:42",
-      "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 178360,
       "name": "I Won't Back Down",
       "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
+    },
+    {
+      "added_at": "2026-04-06 20:58:42",
+      "album": {
+        "name": "Rock n Roll Jesus",
+        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 297586,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
     },
     {
       "added_at": "2026-04-06 20:58:42",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "Panama - 2015 Remaster",
-      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
-    },
-    {
-      "added_at": "2026-04-06 20:58:42",
-      "album": {
         "name": "American Fool",
         "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 254493,
       "name": "Jack & Diane",
       "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
+    },
+    {
+      "added_at": "2026-04-06 20:58:42",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "Panama - 2015 Remaster",
+      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
     },
     {
       "added_at": "2026-04-06 20:58:42",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
-        "name": "Out With A Bang",
-        "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
-      },
-      "artists": [
-        {
-          "name": "David Lee Murphy",
-          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Dust On The Bottle",
-      "url": "https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI"
-    },
-    {
-      "added_at": "2026-04-06 20:58:42",
-      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 224133,
       "name": "Welcome to Paradise",
       "url": "https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt"
+    },
+    {
+      "added_at": "2026-04-06 20:58:42",
+      "album": {
+        "name": "Out With A Bang",
+        "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
+      },
+      "artists": [
+        {
+          "name": "David Lee Murphy",
+          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Dust On The Bottle",
+      "url": "https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI"
     },
     {
       "added_at": "2026-04-06 20:58:42",

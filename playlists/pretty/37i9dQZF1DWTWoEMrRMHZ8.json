@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Djavan",
-  "num_followers": 353123,
+  "num_followers": 353132,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -395,26 +395,22 @@
     {
       "added_at": "2026-08-28 17:58:55",
       "album": {
-        "name": "A Paz",
-        "url": "https://open.spotify.com/album/7bplnsf0SiATd2ttUgTaxo"
+        "name": "O Descobridor dos Sete Mares",
+        "url": "https://open.spotify.com/album/1xeubLQ2TWyEgZOMNNqkBN"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
         },
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        },
-        {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/1UaFyaKEutboGQBQUY7A1y"
+          "name": "Bruna Marquezine",
+          "url": "https://open.spotify.com/artist/26Sw3Wjs0PtHIqHOtWm62W"
         }
       ],
-      "duration_ms": 273031,
-      "name": "A Paz",
-      "url": "https://open.spotify.com/track/3ouuEgaeWNHBQQFDjZcG4l"
+      "duration_ms": 297233,
+      "name": "O Descobridor dos Sete Mares",
+      "url": "https://open.spotify.com/track/4m4wb65Mtpss0tzaLWvG99"
     },
     {
       "added_at": "2026-08-28 17:58:55",
@@ -435,22 +431,26 @@
     {
       "added_at": "2026-08-28 17:58:55",
       "album": {
-        "name": "O Descobridor dos Sete Mares",
-        "url": "https://open.spotify.com/album/1xeubLQ2TWyEgZOMNNqkBN"
+        "name": "A Paz",
+        "url": "https://open.spotify.com/album/7bplnsf0SiATd2ttUgTaxo"
       },
       "artists": [
         {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
         },
         {
-          "name": "Bruna Marquezine",
-          "url": "https://open.spotify.com/artist/26Sw3Wjs0PtHIqHOtWm62W"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        },
+        {
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/1UaFyaKEutboGQBQUY7A1y"
         }
       ],
-      "duration_ms": 297233,
-      "name": "O Descobridor dos Sete Mares",
-      "url": "https://open.spotify.com/track/4m4wb65Mtpss0tzaLWvG99"
+      "duration_ms": 273031,
+      "name": "A Paz",
+      "url": "https://open.spotify.com/track/3ouuEgaeWNHBQQFDjZcG4l"
     },
     {
       "added_at": "2026-08-28 17:58:55",
@@ -519,26 +519,6 @@
     {
       "added_at": "2026-08-28 17:58:55",
       "album": {
-        "name": "Dr\u00e3o",
-        "url": "https://open.spotify.com/album/4TGsSN1w7Pgm888HMSW4mq"
-      },
-      "artists": [
-        {
-          "name": "Trio Mana Flor",
-          "url": "https://open.spotify.com/artist/6ukYLqyY9U2iLEzikHCkNT"
-        },
-        {
-          "name": "M\u00e3eana",
-          "url": "https://open.spotify.com/artist/4wMwIE7PB2nb4S6bI5ZlJE"
-        }
-      ],
-      "duration_ms": 205415,
-      "name": "Dr\u00e3o",
-      "url": "https://open.spotify.com/track/3iULRVHchU7ARgxHrIzsTS"
-    },
-    {
-      "added_at": "2026-08-28 17:58:55",
-      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 276459,
       "name": "River Man",
       "url": "https://open.spotify.com/track/2ApJEk0TXkQPNSBqsrAFb9"
+    },
+    {
+      "added_at": "2026-08-28 17:58:55",
+      "album": {
+        "name": "Dr\u00e3o",
+        "url": "https://open.spotify.com/album/4TGsSN1w7Pgm888HMSW4mq"
+      },
+      "artists": [
+        {
+          "name": "Trio Mana Flor",
+          "url": "https://open.spotify.com/artist/6ukYLqyY9U2iLEzikHCkNT"
+        },
+        {
+          "name": "M\u00e3eana",
+          "url": "https://open.spotify.com/artist/4wMwIE7PB2nb4S6bI5ZlJE"
+        }
+      ],
+      "duration_ms": 205415,
+      "name": "Dr\u00e3o",
+      "url": "https://open.spotify.com/track/3iULRVHchU7ARgxHrIzsTS"
     },
     {
       "added_at": "2026-08-28 17:58:55",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-08-28 17:58:55",
       "album": {
-        "name": "Relevuras",
-        "url": "https://open.spotify.com/album/1OEJBUlrbK9kHySgk4w09h"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "Relevuras",
-      "url": "https://open.spotify.com/track/08qckn16nhCWxNGFOihPFD"
-    },
-    {
-      "added_at": "2026-08-28 17:58:55",
-      "album": {
         "name": "A vida se revela",
         "url": "https://open.spotify.com/album/2u2cnOWa1vI7pAZ94Y91GF"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 216153,
       "name": "A vida se revela",
       "url": "https://open.spotify.com/track/4AGMxN4dW6U7uHrykhsXTC"
+    },
+    {
+      "added_at": "2026-08-28 17:58:55",
+      "album": {
+        "name": "Relevuras",
+        "url": "https://open.spotify.com/album/1OEJBUlrbK9kHySgk4w09h"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "Relevuras",
+      "url": "https://open.spotify.com/track/08qckn16nhCWxNGFOihPFD"
     },
     {
       "added_at": "2026-08-28 17:58:55",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-08-28 17:58:55",
       "album": {
-        "name": "Inofensiva Flor",
-        "url": "https://open.spotify.com/album/4FMDat4GTYrxAf6z5dB6MR"
-      },
-      "artists": [
-        {
-          "name": "SalDoce",
-          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
-        }
-      ],
-      "duration_ms": 158731,
-      "name": "Fera Domesticada",
-      "url": "https://open.spotify.com/track/6BvpKAmTAxzZxX0g3vzu5n"
-    },
-    {
-      "added_at": "2026-08-28 17:58:55",
-      "album": {
         "name": "Futuro Fruto",
         "url": "https://open.spotify.com/album/1ScLvaQJbDZGj3cTjRVDQc"
       },
@@ -887,22 +871,18 @@
     {
       "added_at": "2026-08-28 17:58:55",
       "album": {
-        "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
-        "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
+        "name": "Inofensiva Flor",
+        "url": "https://open.spotify.com/album/4FMDat4GTYrxAf6z5dB6MR"
       },
       "artists": [
         {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        },
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+          "name": "SalDoce",
+          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
         }
       ],
-      "duration_ms": 139250,
-      "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
-      "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
+      "duration_ms": 158731,
+      "name": "Fera Domesticada",
+      "url": "https://open.spotify.com/track/6BvpKAmTAxzZxX0g3vzu5n"
     },
     {
       "added_at": "2026-08-28 17:58:55",
@@ -923,6 +903,26 @@
       "duration_ms": 220826,
       "name": "Me Ajuda",
       "url": "https://open.spotify.com/track/1blOHgDdBpI1BLCqgvZgz0"
+    },
+    {
+      "added_at": "2026-08-28 17:58:55",
+      "album": {
+        "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
+        "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 139250,
+      "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
+      "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
     },
     {
       "added_at": "2026-08-28 17:58:55",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-08-28 17:58:55",
       "album": {
-        "name": "Inofensiva Flor (Primeiro Ato)",
-        "url": "https://open.spotify.com/album/2ddBH6GqRkBj6DtsK0nzPg"
-      },
-      "artists": [
-        {
-          "name": "SalDoce",
-          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
-        }
-      ],
-      "duration_ms": 179029,
-      "name": "N\u00e3o Sento \u00e0 Mesa",
-      "url": "https://open.spotify.com/track/0vxOkyxPdPvz376YDuBcHZ"
-    },
-    {
-      "added_at": "2026-08-28 17:58:55",
-      "album": {
         "name": "Lugar Comum",
         "url": "https://open.spotify.com/album/5fspAjJP9fDSjo5q63JUcV"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 278212,
       "name": "Lugar Comum",
       "url": "https://open.spotify.com/track/7pGxkRuxLhftPUeur7O3e6"
+    },
+    {
+      "added_at": "2026-08-28 17:58:55",
+      "album": {
+        "name": "Inofensiva Flor (Primeiro Ato)",
+        "url": "https://open.spotify.com/album/2ddBH6GqRkBj6DtsK0nzPg"
+      },
+      "artists": [
+        {
+          "name": "SalDoce",
+          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
+        }
+      ],
+      "duration_ms": 179029,
+      "name": "N\u00e3o Sento \u00e0 Mesa",
+      "url": "https://open.spotify.com/track/0vxOkyxPdPvz376YDuBcHZ"
     },
     {
       "added_at": "2026-08-28 17:58:55",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-08-28 17:58:55",
       "album": {
-        "name": "Me Quedo Por Ti",
-        "url": "https://open.spotify.com/album/1K6yA4zSBJJcG1WjmOGgTq"
-      },
-      "artists": [
-        {
-          "name": "J\u00f4natas Belgrande",
-          "url": "https://open.spotify.com/artist/6hcMvglMzhhjAuXLQuWiuz"
-        }
-      ],
-      "duration_ms": 235238,
-      "name": "Me Quedo Por Ti",
-      "url": "https://open.spotify.com/track/2D3ZBmZU1ue8I5NcuU4frk"
-    },
-    {
-      "added_at": "2026-08-28 17:58:55",
-      "album": {
         "name": "A paz que desejamos",
         "url": "https://open.spotify.com/album/4UtfTgEX52zOjNyWmwb6Sl"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 191232,
       "name": "A paz que desejamos",
       "url": "https://open.spotify.com/track/5e7ztWak213GequwvCnK0l"
+    },
+    {
+      "added_at": "2026-08-28 17:58:55",
+      "album": {
+        "name": "Me Quedo Por Ti",
+        "url": "https://open.spotify.com/album/1K6yA4zSBJJcG1WjmOGgTq"
+      },
+      "artists": [
+        {
+          "name": "J\u00f4natas Belgrande",
+          "url": "https://open.spotify.com/artist/6hcMvglMzhhjAuXLQuWiuz"
+        }
+      ],
+      "duration_ms": 235238,
+      "name": "Me Quedo Por Ti",
+      "url": "https://open.spotify.com/track/2D3ZBmZU1ue8I5NcuU4frk"
     },
     {
       "added_at": "2026-08-28 17:58:55",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-08-28 17:58:55",
       "album": {
+        "name": "Uirapuru",
+        "url": "https://open.spotify.com/album/0kIt3JewcAw0yHMAHfmzsL"
+      },
+      "artists": [
+        {
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        }
+      ],
+      "duration_ms": 102143,
+      "name": "Uirapuru",
+      "url": "https://open.spotify.com/track/0g0D5vPj0f3a0IX4Ji6KrJ"
+    },
+    {
+      "added_at": "2026-08-28 17:58:55",
+      "album": {
         "name": "Sabi\u00e1",
         "url": "https://open.spotify.com/album/1M3IYBNa9kkS5gEm72y7mD"
       },
@@ -1235,30 +1251,6 @@
       "duration_ms": 212853,
       "name": "Sembal",
       "url": "https://open.spotify.com/track/5pJfwJZBwzJDhBP8pKeORU"
-    },
-    {
-      "added_at": "2026-08-28 17:58:55",
-      "album": {
-        "name": "F\u00faria",
-        "url": "https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx"
-      },
-      "artists": [
-        {
-          "name": "Mari Merenda",
-          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
-        },
-        {
-          "name": "Coral",
-          "url": "https://open.spotify.com/artist/6SzRzynHLo6kgimRw5k3cs"
-        },
-        {
-          "name": "Fervo Unboxing",
-          "url": "https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia"
-        }
-      ],
-      "duration_ms": 193610,
-      "name": "F\u00faria",
-      "url": "https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN"
     },
     {
       "added_at": "2026-08-28 17:58:55",
@@ -1299,18 +1291,26 @@
     {
       "added_at": "2026-08-28 17:58:55",
       "album": {
-        "name": "Tum Tum Tum",
-        "url": "https://open.spotify.com/album/1ysg4ZrH2ufsLX3VRUUz1Q"
+        "name": "F\u00faria",
+        "url": "https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx"
       },
       "artists": [
         {
-          "name": "MOMO.",
-          "url": "https://open.spotify.com/artist/59U0b1U9BXyD2ftlbJUdXM"
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        },
+        {
+          "name": "Coral",
+          "url": "https://open.spotify.com/artist/6SzRzynHLo6kgimRw5k3cs"
+        },
+        {
+          "name": "Fervo Unboxing",
+          "url": "https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia"
         }
       ],
-      "duration_ms": 250156,
-      "name": "Tudo Que Se Tem",
-      "url": "https://open.spotify.com/track/56lywF1vwSlCAXXl7BeS5B"
+      "duration_ms": 193610,
+      "name": "F\u00faria",
+      "url": "https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN"
     },
     {
       "added_at": "2026-08-28 17:58:55",
@@ -1331,22 +1331,18 @@
     {
       "added_at": "2026-08-28 17:58:55",
       "album": {
-        "name": "Fervo Unboxing - Mari Merenda",
-        "url": "https://open.spotify.com/album/732IpAuN6tq7d0HoevmICq"
+        "name": "Tum Tum Tum",
+        "url": "https://open.spotify.com/album/1ysg4ZrH2ufsLX3VRUUz1Q"
       },
       "artists": [
         {
-          "name": "Mari Merenda",
-          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
-        },
-        {
-          "name": "Fervo Unboxing",
-          "url": "https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia"
+          "name": "MOMO.",
+          "url": "https://open.spotify.com/artist/59U0b1U9BXyD2ftlbJUdXM"
         }
       ],
-      "duration_ms": 293126,
-      "name": "Mulher Corvo",
-      "url": "https://open.spotify.com/track/0J5C98ACNHQ5Dyl2sNvjp4"
+      "duration_ms": 250156,
+      "name": "Tudo Que Se Tem",
+      "url": "https://open.spotify.com/track/56lywF1vwSlCAXXl7BeS5B"
     },
     {
       "added_at": "2026-08-28 17:58:55",
@@ -1387,6 +1383,26 @@
       "duration_ms": 206760,
       "name": "A Beleza De Ser",
       "url": "https://open.spotify.com/track/77KUT4cGoNZZwatCZii61P"
+    },
+    {
+      "added_at": "2026-08-28 17:58:55",
+      "album": {
+        "name": "Fervo Unboxing - Mari Merenda",
+        "url": "https://open.spotify.com/album/732IpAuN6tq7d0HoevmICq"
+      },
+      "artists": [
+        {
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        },
+        {
+          "name": "Fervo Unboxing",
+          "url": "https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia"
+        }
+      ],
+      "duration_ms": 293126,
+      "name": "Mulher Corvo",
+      "url": "https://open.spotify.com/track/0J5C98ACNHQ5Dyl2sNvjp4"
     },
     {
       "added_at": "2026-08-28 17:58:55",
@@ -1439,22 +1455,6 @@
       "duration_ms": 232966,
       "name": "Nem Uma, Nem Duas, Nem Tr\u00eas",
       "url": "https://open.spotify.com/track/6CtJhfxODuGlf3atmAbki1"
-    },
-    {
-      "added_at": "2026-08-28 17:58:55",
-      "album": {
-        "name": "Uirapuru",
-        "url": "https://open.spotify.com/album/0kIt3JewcAw0yHMAHfmzsL"
-      },
-      "artists": [
-        {
-          "name": "Mari Merenda",
-          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
-        }
-      ],
-      "duration_ms": 102143,
-      "name": "Uirapuru",
-      "url": "https://open.spotify.com/track/0g0D5vPj0f3a0IX4Ji6KrJ"
     },
     {
       "added_at": "2026-08-28 17:58:55",

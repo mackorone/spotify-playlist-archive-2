@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,208 songs - 3 day 5 hr 58 min
+1,210 songs - 3 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,6 +489,7 @@
 | [I Trawl the Megahertz](https://open.spotify.com/track/5SrrNjgc5Diwj3IunGepM6) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf) | [I Trawl the Megahertz](https://open.spotify.com/album/3JtTs7tzD7uj6hpPb1apkT) | 22:05 | 2024-10-06 |  |
 | [I Want It All](https://open.spotify.com/track/1cbSU1yDPQJbUUzlPQC6Ir) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [What A Relief](https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ) | 2:46 | 2025-04-08 |  |
 | [I Was a Lover](https://open.spotify.com/track/4bp7ZjViSZT5wEnaxNT9Ge) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/4sD8WQQ8f1x3L4YFa9qFIO) | 4:20 | 2023-12-18 |  |
+| [I Wear a Shirt That Says Australia](https://open.spotify.com/track/0iA5kbj14o3IMfjkN0Fgtp) | [Champion Trees](https://open.spotify.com/artist/2TGA8WEasn5tdn6MZ7FWzw) | [A Duck's Water Off My Back](https://open.spotify.com/album/2gXbHIPYnZN1AejPIUyyQC) | 3:56 | 2026-08-30 |  |
 | [I'd Have You Anytime \- 2014 Remaster](https://open.spotify.com/track/1qd4ofmDZKqqJRJMqXoqAD) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg) | 2:57 | 2023-08-17 |  |
 | [I'll Be With You](https://open.spotify.com/track/2yW5MrWnJVLiH8oFBGCl9I) | [Maiya Blaney](https://open.spotify.com/artist/0SdETlosHnWN9VNqJKpFGl) | [A Room With A Door That Closes](https://open.spotify.com/album/5BiULOhpmf5jUr39PDAMzz) | 2:37 | 2026-03-03 |  |
 | [I'm Always Saying Sorry](https://open.spotify.com/track/4EIM8gF1NKSIXR2QqRHMuW) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Some Things Break](https://open.spotify.com/album/1QGVFDfyPCVEfKli1J0OSz) | 3:30 | 2024-03-15 | 2025-07-25 |
@@ -969,6 +970,7 @@
 | [Stuck Up](https://open.spotify.com/track/4Uks2w1MDbQ5My5sX7aEbc) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [BLACK STAR](https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV) | 2:31 | 2025-11-14 |  |
 | [Stupid Dumb Illiterate](https://open.spotify.com/track/3V8KGh982XNNMdk0xy17xN) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [LAFANDAR](https://open.spotify.com/album/0txwScooV6S8rd8uhWfUGe) | 2:17 | 2025-09-20 |  |
 | [Submerge FM](https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 3:25 | 2023-04-19 | 2023-04-22 |
+| [Suffer Less](https://open.spotify.com/track/6RGrCdcFVQ4QggKyLkwAya) | [Whait](https://open.spotify.com/artist/4Ic46u36imWbA6I0fdFqhX), [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [Wendy Eisenberg](https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi) | [Icarus in Training](https://open.spotify.com/album/7fEN2NCC6LKKqowqqKN4ip) | 4:22 | 2026-08-30 |  |
 | [Summer Babe \- Winter Version](https://open.spotify.com/track/1vnKvlb6cj5NLpd1BMJ2jD) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Slanted & Enchanted](https://open.spotify.com/album/7o14zVcXSRk7clV6QCEdOD) | 3:16 | 2026-03-26 |  |
 | [Summer Knights](https://open.spotify.com/track/2NDXdxZjbm5EbbEEDSKXQV) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 1:56 | 2022-05-13 |  |
 | [Summer Sun](https://open.spotify.com/track/2palH1jCEezLsedTe5yk6m) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 2:32 | 2025-07-22 | 2025-08-13 |

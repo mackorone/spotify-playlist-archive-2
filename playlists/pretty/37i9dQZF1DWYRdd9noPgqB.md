@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,365 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,341 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 26 | [Island](https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood \(Special Edition\)](https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf) | 3:03 |
 | 27 | [Last Call](https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Last Call](https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ) | 1:35 |
 | 28 | [Meet Me In Love](https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Meet Me In Love](https://open.spotify.com/album/1dG3C2nPstMJcrrtvZGJyM) | 4:02 |
-| 29 | [Funny Friends](https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Distracted](https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL) | 2:35 |
-| 30 | [Level Up](https://open.spotify.com/track/3zIIFXu5MthG98bX7mvx8Y) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Level Up](https://open.spotify.com/album/0UXWjC9RsVw3RlWXqFPQf0) | 2:24 |
+| 29 | [Level Up](https://open.spotify.com/track/3zIIFXu5MthG98bX7mvx8Y) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Level Up](https://open.spotify.com/album/0UXWjC9RsVw3RlWXqFPQf0) | 2:24 |
+| 30 | [Funny Friends](https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Distracted](https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL) | 2:35 |
 | 31 | [Let It All Out](https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Let It All Out](https://open.spotify.com/album/0uGBqR4LqfpnuuybjZ5MNb) | 4:13 |
 | 32 | [Your Way](https://open.spotify.com/track/1fqWRWfGPBqj5Hfm6bnPIh) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [All the Space Between](https://open.spotify.com/album/3SRx26bD51wm9arYPCA0RZ) | 2:12 |
 | 33 | [Second Sleep](https://open.spotify.com/track/47N21fn8V8IN392MGlicT5) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Second Sleep / Star Eyes](https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU) | 4:48 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 37 | [the van](https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [the van](https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho) | 2:58 |
 | 38 | [Gentleman Blue](https://open.spotify.com/track/5loW20chHOzvK5z4y9D96U) | [Elysia Biro](https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L) | [Gentleman Blue](https://open.spotify.com/album/5T5QLI9OIEwLHJ065gR3D2) | 3:28 |
 | 39 | [Feel Alive](https://open.spotify.com/track/2nPXfUVFzIlhN4SokXg6O7) | [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Feel Alive](https://open.spotify.com/album/4MfK4qyG0xxWjQtrb0fwvI) | 2:49 |
-| 40 | [Somebody](https://open.spotify.com/track/0qyO4rqD2KCnuk8I6GM6KD) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Somebody](https://open.spotify.com/album/4ERzj0QbSR3IgerROEtPKG) | 3:44 |
-| 41 | [L'AMOUR C'EST COOL](https://open.spotify.com/track/5ahSaMam2jWCSr0AduW8Hd) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF) | [L'AMOUR C'EST COOL](https://open.spotify.com/album/6XHfjkgn0gFB8LB16VFLyq) | 2:54 |
+| 40 | [L'AMOUR C'EST COOL](https://open.spotify.com/track/5ahSaMam2jWCSr0AduW8Hd) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF) | [L'AMOUR C'EST COOL](https://open.spotify.com/album/6XHfjkgn0gFB8LB16VFLyq) | 2:54 |
+| 41 | [Somebody](https://open.spotify.com/track/0qyO4rqD2KCnuk8I6GM6KD) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Somebody](https://open.spotify.com/album/4ERzj0QbSR3IgerROEtPKG) | 3:44 |
 | 42 | [The Power](https://open.spotify.com/track/4difawHT7Gzi9q7l9qUcZi) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Departures & Arrivals: Adventures of Captain Curt](https://open.spotify.com/album/6kslXkHCr5rcOpf07Ss37k) | 3:41 |
 | 43 | [Yellow Eyes](https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Yellow Eyes](https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL) | 2:42 |
 | 44 | [Sweet Emotion](https://open.spotify.com/track/5fb0VfB1Nej93xHP81z73E) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Sweet Emotion](https://open.spotify.com/album/5mILhipavFpMWDb54C4dPh) | 2:37 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 50 | [Whether I Win or Lose](https://open.spotify.com/track/7icgSLNDP90O7g7PwTpX6d) | [Saults](https://open.spotify.com/artist/0v3GJQVtEdCbwnKpCUwOE8) | [Whether I Win or Lose](https://open.spotify.com/album/6qFJGE4q3yu20PrJu4cTpr) | 4:02 |
 | 51 | [Delusional](https://open.spotify.com/track/4YV1PTqHU45t70PJZSlqom) | [Courrier Sud](https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Delusional](https://open.spotify.com/album/1RnkE63I6UR3FUTue5OG0a) | 3:34 |
 | 52 | [Fucked Up](https://open.spotify.com/track/7pAvvhOV8QN34jMl4jnisj) | [Reverend And The Makers](https://open.spotify.com/artist/14GEKKALFIO2oB9IdGXg2e), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Fucked Up](https://open.spotify.com/album/1N5sezYxUOFRCPibUnR9aQ) | 3:17 |
-| 53 | [Wild Guess](https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Wild Guess](https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU) | 2:46 |
-| 54 | [Hair Down](https://open.spotify.com/track/2tP73L31LHxJAZs3L8HMnp) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Hair Down](https://open.spotify.com/album/63k0s6k9wWu2QMutLrocu4) | 3:11 |
+| 53 | [Hair Down](https://open.spotify.com/track/2tP73L31LHxJAZs3L8HMnp) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Hair Down](https://open.spotify.com/album/63k0s6k9wWu2QMutLrocu4) | 3:11 |
+| 54 | [Wild Guess](https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Wild Guess](https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU) | 2:46 |
 | 55 | [Promises](https://open.spotify.com/track/3rMpx4dIw5OeouWZsc2Ql5) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Promises](https://open.spotify.com/album/5p7wQPXWtiOBVUb6X8BwBA) | 3:16 |
 | 56 | [Give Me More](https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Give Me More](https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e) | 3:10 |
 | 57 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 2:49 |

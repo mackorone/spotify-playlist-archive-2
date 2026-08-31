@@ -850,9 +850,27 @@
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "date_added": "2026-08-30",
+      "date_added": "2026-08-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 254614,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/6eoIuFQSEXcwQqr0RnFdW8"
+    },
+    {
+      "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2026-08-31",
       "duration_ms": 55879,
       "name": "Lost Parade",
       "url": "https://open.spotify.com/track/44xqTKtFjOoYB9M4jA6gPk"

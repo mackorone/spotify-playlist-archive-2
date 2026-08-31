@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Warren. The essential tracks, all in one playlist.",
-  "num_followers": 178345,
+  "num_followers": 178506,
   "original_name": "This Is Alex Warren",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAACE5t63c2ZATUDYnt8Oepod",
+  "snapshot_id": "apIhAAAAAADTDFtBziNMQV5mWGDbsGl/",
   "tracks": [
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give You Love",
-        "url": "https://open.spotify.com/album/3qOjPBjcMHh2kmizz7qkOG"
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 183399,
-      "name": "Give You Love",
-      "url": "https://open.spotify.com/track/6yfa7stvsbbuDzFsHKG8ez"
+      "duration_ms": 161698,
+      "name": "CRY WOLF",
+      "url": "https://open.spotify.com/track/649sdeRNPf05BOLBj1mAM9"
     },
     {
       "added_at": null,
@@ -223,22 +223,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S"
+        "name": "Give You Love",
+        "url": "https://open.spotify.com/album/3qOjPBjcMHh2kmizz7qkOG"
       },
       "artists": [
         {
           "name": "Alex Warren",
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 203474,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy"
+      "duration_ms": 183399,
+      "name": "Give You Love",
+      "url": "https://open.spotify.com/track/6yfa7stvsbbuDzFsHKG8ez"
     },
     {
       "added_at": null,
@@ -259,18 +255,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "WILDCHILD",
-        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S"
       },
       "artists": [
         {
           "name": "Alex Warren",
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 161698,
-      "name": "CRY WOLF",
-      "url": "https://open.spotify.com/track/649sdeRNPf05BOLBj1mAM9"
+      "duration_ms": 203474,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy"
     },
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/2m0JQF1MKvULQtsUWxGjdM"
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 174406,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/2MNG8spWd2fgvokW8EZDod"
+      "duration_ms": 168343,
+      "name": "WON'T GO BACK AGAIN",
+      "url": "https://open.spotify.com/track/7HX5CyrZ0SX9HBqg4uPR50"
     },
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Could You (Be OK)",
-        "url": "https://open.spotify.com/album/4yW78CyYC4GNX5Wued5E3W"
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/2m0JQF1MKvULQtsUWxGjdM"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 197594,
-      "name": "How Could You (Be OK)",
-      "url": "https://open.spotify.com/track/6Q7Bn9gAtcKDeZ0EYsHsCs"
+      "duration_ms": 174406,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/2MNG8spWd2fgvokW8EZDod"
     },
     {
       "added_at": null,
@@ -423,6 +423,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 199858,
+      "name": "SAME STARS",
+      "url": "https://open.spotify.com/track/06sZjwAy4DTJfpOuel7nv4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Could You (Be OK)",
+        "url": "https://open.spotify.com/album/4yW78CyYC4GNX5Wued5E3W"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 197594,
+      "name": "How Could You (Be OK)",
+      "url": "https://open.spotify.com/track/6Q7Bn9gAtcKDeZ0EYsHsCs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Screaming Underwater",
         "url": "https://open.spotify.com/album/1JoSKqExdKeh5no4AhPYan"
       },
@@ -439,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WILDCHILD",
-        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 168343,
-      "name": "WON'T GO BACK AGAIN",
-      "url": "https://open.spotify.com/track/7HX5CyrZ0SX9HBqg4uPR50"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Remember Me Happy",
         "url": "https://open.spotify.com/album/7MCGknTlNbWvCkzNjrqRDq"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 141096,
       "name": "Remember Me Happy",
       "url": "https://open.spotify.com/track/3zHk9FKy1OZpdEWS5RCGrO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WILDCHILD",
-        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 199858,
-      "name": "SAME STARS",
-      "url": "https://open.spotify.com/track/06sZjwAy4DTJfpOuel7nv4"
     },
     {
       "added_at": null,

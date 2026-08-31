@@ -12809,6 +12809,24 @@
     },
     {
       "album": {
+        "name": "You Raise Me Up",
+        "url": "https://open.spotify.com/album/3RNkBQWOZD24ZMGZ3Quxva"
+      },
+      "artists": [
+        {
+          "name": "PeterLs",
+          "url": "https://open.spotify.com/artist/20TrfcXGJiAyUCmOwjxcP5"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192920,
+      "name": "You Raise Me Up",
+      "url": "https://open.spotify.com/track/2H9sN3ccjkpQhWkL1NR6md"
+    },
+    {
+      "album": {
         "name": "You turned my life upside down",
         "url": "https://open.spotify.com/album/0RhZuCOnHcqRBAmQarX3t9"
       },

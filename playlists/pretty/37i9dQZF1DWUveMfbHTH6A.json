@@ -1,6 +1,6 @@
 {
   "description": "Our editors' picks of the best <a href=\"spotify:genre:0JQ5DAqbMKFImHYGo3eTSg\">Fresh Finds</a>  tracks around the world this year. Cover: The Belair Lip Bombs",
-  "num_followers": 15134,
+  "num_followers": 15137,
   "original_name": "Fresh Finds: Class of 2025",
   "owner": {
     "name": "Spotify",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
+        "name": "be careful",
+        "url": "https://open.spotify.com/album/3PxqagBffynXxUsGlEcgNr"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 203940,
+      "name": "be careful",
+      "url": "https://open.spotify.com/track/2fqJrp3PktgwVUzRnTBc2Z"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
         "name": "Nkosi's Fantasia: Chapter One",
         "url": "https://open.spotify.com/album/3dyG11vpxbE57LPrqfJZ7v"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 256500,
       "name": "Nkosi's Fantasia",
       "url": "https://open.spotify.com/track/0imRQRfzB7MW7zruc0RbLZ"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
-        "name": "be careful",
-        "url": "https://open.spotify.com/album/3PxqagBffynXxUsGlEcgNr"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "duration_ms": 203940,
-      "name": "be careful",
-      "url": "https://open.spotify.com/track/2fqJrp3PktgwVUzRnTBc2Z"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
+        "name": "Baddiez",
+        "url": "https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu"
+      },
+      "artists": [
+        {
+          "name": "Swank Mami",
+          "url": "https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Baddiez",
+      "url": "https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
         "name": "Skins",
         "url": "https://open.spotify.com/album/2mXZjNoSOJ9422Gwvmh7Wu"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 185370,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/4jCaZ9hfqm1CQRvshbvhTU"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
-        "name": "Baddiez",
-        "url": "https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu"
-      },
-      "artists": [
-        {
-          "name": "Swank Mami",
-          "url": "https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Baddiez",
-      "url": "https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k"
     }
   ],
   "unique_name": "Fresh Finds: Class of 2025",

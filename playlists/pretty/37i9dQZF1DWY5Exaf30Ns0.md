@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Exaf30Ns0.md) - [plain]
 
 > compare, prenda el asador y destape otra cheve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,319,926 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,319,953 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,19 +43,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Exaf30Ns0.md) - [plain]
 | 33 | [Eres Mi Droga](https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 3:27 |
 | 34 | [No Bailes De Caballito](https://open.spotify.com/track/28If7KaffAjwCsKfQDmScA) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar..\. De Caballito!!](https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5) | 4:01 |
 | 35 | [La Boda del Huitlacoche \- En Vivo](https://open.spotify.com/track/3Yq5LTx3Ka47msH0Ei18fI) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Los Honorables](https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL) | [Borrachera Con Los Honorables \(En Vivo\)](https://open.spotify.com/album/1s7a8OLaFyl7KD2MWdXlAs) | 3:08 |
-| 36 | [Seis Pies Abajo](https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 2:56 |
-| 37 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 |
+| 36 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 |
+| 37 | [Seis Pies Abajo](https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 2:56 |
 | 38 | [La Noche Que Murio Chicago](https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 2:41 |
 | 39 | [Mira oye](https://open.spotify.com/track/7hZxeDEidGxPfg8ZAAKOOY) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Que lo baile bien](https://open.spotify.com/album/5Scr8TrsI2p52bLtjvqYwE) | 3:22 |
 | 40 | [Por Qué Nos Dijimos Adiós](https://open.spotify.com/track/1U50yJZvm9My8sQHQBjSAd) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Sobre Los Rieles](https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS) | 2:23 |
-| 41 | [Aquí Hay Para Llevar](https://open.spotify.com/track/5Lz26MOU0fyTS1vEThTaUf) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aquí Hay Para Llevar](https://open.spotify.com/album/3KJItKYr9JhxYjYI4U5J7E) | 2:59 |
-| 42 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 |
+| 41 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 |
+| 42 | [Aquí Hay Para Llevar](https://open.spotify.com/track/5Lz26MOU0fyTS1vEThTaUf) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aquí Hay Para Llevar](https://open.spotify.com/album/3KJItKYr9JhxYjYI4U5J7E) | 2:59 |
 | 43 | [El Rey De Mil Coronas](https://open.spotify.com/track/7JKPv7gpFkehGjpFrZJevo) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 3:10 |
 | 44 | [El Teterete](https://open.spotify.com/track/6lNUzwn5EjRBdYjjt2KbhK) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/1XUEpKccqhu7ww9kna6pv0) | 2:56 |
 | 45 | [¿Dónde Estás?](https://open.spotify.com/track/3XzRoXUBIzJQhTvWmGNeF7) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 4:06 |
 | 46 | [La Mini Mini](https://open.spotify.com/track/3KOw9OqlEANiL3ZM2rqMUG) | [La Concentracion](https://open.spotify.com/artist/7ENxBTF2tZHjXFamkbOmzG) | [La Concentración, Vol\. XXV](https://open.spotify.com/album/0edZD8ocBTBdCF9rQUKxPA) | 2:34 |
-| 47 | [Envidia](https://open.spotify.com/track/4wobadpvabyC1A50QWd0s1) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 2:31 |
-| 48 | [Tan Bella y Tan Presumida \- En Vivo](https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Tan Bella y Tan Presumida \(En Vivo\)](https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn) | 3:01 |
+| 47 | [Tan Bella y Tan Presumida \- En Vivo](https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Tan Bella y Tan Presumida \(En Vivo\)](https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn) | 3:01 |
+| 48 | [Envidia](https://open.spotify.com/track/4wobadpvabyC1A50QWd0s1) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 2:31 |
 | 49 | [Rinconcito En El Cielo](https://open.spotify.com/track/2REB6oznGDpqBgFUZ3o7Vz) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Rinconcito En El Cielo](https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr) | 3:34 |
 | 50 | [Cuando No Estas Conmigo](https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Su Majestad La Brissa](https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L) | [Cuando No Estas Conmigo](https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym) | 3:21 |
 | 51 | [Leña de pirul](https://open.spotify.com/track/3G6c5nsqBaN1MyvxBCcEoJ) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [16 Reales hits](https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr) | 2:47 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Exaf30Ns0.md) - [plain]
 | 66 | [TRR TAC TAC](https://open.spotify.com/track/4BmSms8iycKEFP8HVL1mlu) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Los Morales](https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h) | [TRR TAC TAC](https://open.spotify.com/album/412ep8ZENWHQs1LjXoiepT) | 3:07 |
 | 67 | [Ojalá Te Animes](https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 3:00 |
 | 68 | [Carola \- En Vivo](https://open.spotify.com/track/1V7MdIoW9wse9McgedyK0o) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [En Contacto \(En Vivo\)](https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD) | 2:52 |
-| 69 | [Tu Nuevo Cariñito](https://open.spotify.com/track/5UCPSGLNI76qSbzPyMMyo2) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Sobre Los Rieles](https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS) | 2:55 |
-| 70 | [Y Por Esa Calle Vive](https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Y Por Esa Calle Vive](https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA) | 3:38 |
+| 69 | [Y Por Esa Calle Vive](https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Y Por Esa Calle Vive](https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA) | 3:38 |
+| 70 | [Tu Nuevo Cariñito](https://open.spotify.com/track/5UCPSGLNI76qSbzPyMMyo2) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Sobre Los Rieles](https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS) | 2:55 |
 
 Snapshot ID: `AAAAAI9oYS5J+FKZQBhKrrmR9rrQkjAl`

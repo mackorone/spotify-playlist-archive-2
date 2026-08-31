@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Toro. The essential tracks, all in one playlist.",
-  "num_followers": 6653,
+  "num_followers": 6652,
   "original_name": "This Is Banda Toro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAADH4+lnh249JGeIKCh2vFfk",
+  "snapshot_id": "apIhAAAAAADjRFARGc5JuQLUpq+q+Wwg",
   "tracks": [
     {
       "added_at": null,
@@ -323,38 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miraron Llorar un Hombre \"Recordando los Exitos\" Vol. 3",
-        "url": "https://open.spotify.com/album/1w6hBlQcrHFDEyamEl2Ypf"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 187720,
-      "name": "Miraron Llorar un Hombre",
-      "url": "https://open.spotify.com/track/1obDcJ0spfjy2y44aj9BFq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Noche Que Murio Chicago",
-        "url": "https://open.spotify.com/album/4GkEJYQXXWicdjtSWvHUaa"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 162226,
-      "name": "El Recogerdor",
-      "url": "https://open.spotify.com/track/2UVRSSmngX62AUbzh5BqqP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rios de Babilonia",
         "url": "https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa"
       },
@@ -371,6 +339,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/4GkEJYQXXWicdjtSWvHUaa"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 128213,
+      "name": "Las Murallas De Jaramillo",
+      "url": "https://open.spotify.com/track/1LfSw95WcgRHzS0auTgh4A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miraron Llorar un Hombre \"Recordando los Exitos\" Vol. 3",
+        "url": "https://open.spotify.com/album/1w6hBlQcrHFDEyamEl2Ypf"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 187720,
+      "name": "Miraron Llorar un Hombre",
+      "url": "https://open.spotify.com/track/1obDcJ0spfjy2y44aj9BFq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Polvo y Nada",
         "url": "https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE"
       },
@@ -383,6 +383,22 @@
       "duration_ms": 187093,
       "name": "Polvo y Nada",
       "url": "https://open.spotify.com/track/3aDkC3fgwdwaPVnSc6gKpa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rios de Babilonia",
+        "url": "https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 147013,
+      "name": "El Toro Zacatecano",
+      "url": "https://open.spotify.com/track/59XFCPqQNINxQgpbEXPo5R"
     },
     {
       "added_at": null,
@@ -423,38 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rios de Babilonia",
-        "url": "https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 147013,
-      "name": "El Toro Zacatecano",
-      "url": "https://open.spotify.com/track/59XFCPqQNINxQgpbEXPo5R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ando Que Me Lleva \"Recordando los Exitos,\" Vol. 4",
-        "url": "https://open.spotify.com/album/5cWHhLz7o2mjajjJegxUWj"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 178213,
-      "name": "El Cotorro Enamorado - Tecno Banda",
-      "url": "https://open.spotify.com/track/4dOSUasUAhAEKIhEwTQwpZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
         "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
       },
@@ -467,22 +451,6 @@
       "duration_ms": 164786,
       "name": "Me Caiste del Cielo",
       "url": "https://open.spotify.com/track/37hpeYKkr8P8QyMdLXVKiT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Funky Town Recordando los Exitos, Vol. 6",
-        "url": "https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Mi Destino Fue Quererte",
-      "url": "https://open.spotify.com/track/0o2cI28cAMXArePpVNg0te"
     },
     {
       "added_at": null,
@@ -512,15 +480,15 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 200400,
-      "name": "Ando Que Me Lleva",
-      "url": "https://open.spotify.com/track/5mZguGqaMDXVUN27KuctSS"
+      "duration_ms": 178213,
+      "name": "El Cotorro Enamorado - Tecno Banda",
+      "url": "https://open.spotify.com/track/4dOSUasUAhAEKIhEwTQwpZ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
-        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+        "name": "Funky Town Recordando los Exitos, Vol. 6",
+        "url": "https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy"
       },
       "artists": [
         {
@@ -528,9 +496,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 215093,
-      "name": "La Muerta",
-      "url": "https://open.spotify.com/track/1kH7t2zepTvq9zvOleNzlB"
+      "duration_ms": 199053,
+      "name": "Mi Destino Fue Quererte",
+      "url": "https://open.spotify.com/track/0o2cI28cAMXArePpVNg0te"
     },
     {
       "added_at": null,
@@ -567,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Mucho Ritmo",
-        "url": "https://open.spotify.com/album/3PdjnkfBMShSNnDqi23Xjp"
+        "name": "Ando Que Me Lleva \"Recordando los Exitos,\" Vol. 4",
+        "url": "https://open.spotify.com/album/5cWHhLz7o2mjajjJegxUWj"
       },
       "artists": [
         {
@@ -576,9 +544,25 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 184413,
-      "name": "Ritmo Que Jala",
-      "url": "https://open.spotify.com/track/6pSAatB6pkbqVqvfLkuQ8d"
+      "duration_ms": 200400,
+      "name": "Ando Que Me Lleva",
+      "url": "https://open.spotify.com/track/5mZguGqaMDXVUN27KuctSS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "La Muerta",
+      "url": "https://open.spotify.com/track/1kH7t2zepTvq9zvOleNzlB"
     },
     {
       "added_at": null,
@@ -599,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con Mucho Ritmo",
+        "url": "https://open.spotify.com/album/3PdjnkfBMShSNnDqi23Xjp"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 184413,
+      "name": "Ritmo Que Jala",
+      "url": "https://open.spotify.com/track/6pSAatB6pkbqVqvfLkuQ8d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Caminante Recordando los Exitos, Vol. 1",
         "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
       },
@@ -611,26 +611,6 @@
       "duration_ms": 151720,
       "name": "Ya Llego la Banda Toro",
       "url": "https://open.spotify.com/track/12xoofQV0GsQGBRo8dgr9f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Exitos de Rigo Tovar Con Banda",
-        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        },
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "El Pajaro Chogui",
-      "url": "https://open.spotify.com/track/3erRFQimltb5P71eCYrlh6"
     },
     {
       "added_at": null,
@@ -651,6 +631,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Exitos de Rigo Tovar Con Banda",
+        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 188426,
+      "name": "Lamento de Amor",
+      "url": "https://open.spotify.com/track/5ohsnDhQ6NmFmkcvv90Gdc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Miraron Llorar un Hombre \"Recordando los Exitos\" Vol. 3",
         "url": "https://open.spotify.com/album/1w6hBlQcrHFDEyamEl2Ypf"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 195946,
       "name": "Me Rio de Miedo",
       "url": "https://open.spotify.com/track/2JdFjw7IlF2WmKuPmwuRfw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Caminante Recordando los Exitos, Vol. 1",
+        "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 196653,
+      "name": "Ahora Puedo Mirar Claro",
+      "url": "https://open.spotify.com/track/5Kgo6IQPF6g3ioAiSQIvZq"
     },
     {
       "added_at": null,
@@ -696,15 +712,15 @@
           "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
         }
       ],
-      "duration_ms": 188426,
-      "name": "Lamento de Amor",
-      "url": "https://open.spotify.com/track/5ohsnDhQ6NmFmkcvv90Gdc"
+      "duration_ms": 163000,
+      "name": "El Pajaro Chogui",
+      "url": "https://open.spotify.com/track/3erRFQimltb5P71eCYrlh6"
     },
     {
       "added_at": null,
       "album": {
-        "name": "El Caminante Recordando los Exitos, Vol. 1",
-        "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
+        "name": "Al Estilo Tierra Caliente",
+        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
       },
       "artists": [
         {
@@ -712,9 +728,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 196653,
-      "name": "Ahora Puedo Mirar Claro",
-      "url": "https://open.spotify.com/track/5Kgo6IQPF6g3ioAiSQIvZq"
+      "duration_ms": 132000,
+      "name": "La Huella de Mis Besos - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/6xbOk6t6QrbXi5jssMRuYf"
     },
     {
       "added_at": null,
@@ -735,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Estilo Tierra Caliente",
-        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
       },
       "artists": [
         {
@@ -744,9 +760,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 132000,
-      "name": "La Huella de Mis Besos - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/6xbOk6t6QrbXi5jssMRuYf"
+      "duration_ms": 168053,
+      "name": "Las Nieves de Enero",
+      "url": "https://open.spotify.com/track/0X4C0sntZ794G8AMPZUOOf"
     },
     {
       "added_at": null,
@@ -771,38 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
-        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 168053,
-      "name": "Las Nieves de Enero",
-      "url": "https://open.spotify.com/track/0X4C0sntZ794G8AMPZUOOf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos y Canciones",
-        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 178306,
-      "name": "Pedro Anaya - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/3T6Jr91eDGzUCscoSRnIKz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Al Estilo Tierra Caliente",
         "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
       },
@@ -819,22 +803,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos de Rigo Tovar Con Banda",
-        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
+        "name": "La Noche Que Chicago Se Muri\u00f3",
+        "url": "https://open.spotify.com/album/01Mr1tBBemO3LOKu8BJOHK"
+      },
+      "artists": [
+        {
+          "name": "Los Estrafalarios",
+          "url": "https://open.spotify.com/artist/59h5QRZ8x3gk5oF8dr2UJf"
+        },
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "La Noche Que Chicago Se Muri\u00f3",
+      "url": "https://open.spotify.com/track/2EqtWXQ6kX9VsjB91Sf944"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
       },
       "artists": [
         {
           "name": "Banda Toro",
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        },
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
         }
       ],
-      "duration_ms": 149000,
-      "name": "Oh Que Gusto de Volverte a Ver",
-      "url": "https://open.spotify.com/track/0zXRMVV7s4TUaJieLZjrXE"
+      "duration_ms": 178306,
+      "name": "Pedro Anaya - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/3T6Jr91eDGzUCscoSRnIKz"
     }
   ],
   "unique_name": "This Is Banda Toro",

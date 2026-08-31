@@ -1,6 +1,6 @@
 {
   "description": "Taking it back to the 2010s. Cover: Big Sean",
-  "num_followers": 385961,
+  "num_followers": 385977,
   "original_name": "2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,26 @@
     {
       "added_at": "2025-02-28 05:00:52",
       "album": {
+        "name": "Born Sinner (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 241160,
+      "name": "Power Trip (feat. Miguel)",
+      "url": "https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy"
+    },
+    {
+      "added_at": "2025-02-28 05:00:52",
+      "album": {
         "name": "Luv Is Rage 2",
         "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 165819,
       "name": "All Girls Are The Same",
       "url": "https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1"
-    },
-    {
-      "added_at": "2025-02-28 05:00:52",
-      "album": {
-        "name": "Born Sinner (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 241160,
-      "name": "Power Trip (feat. Miguel)",
-      "url": "https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy"
     },
     {
       "added_at": "2025-02-28 05:00:52",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2025-02-28 05:00:52",
       "album": {
-        "name": "Rise Of An Empire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF"
-      },
-      "artists": [
-        {
-          "name": "Young Money",
-          "url": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Trophies",
-      "url": "https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk"
-    },
-    {
-      "added_at": "2025-02-28 05:00:52",
-      "album": {
         "name": "Oxymoron (Deluxe)",
         "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 278066,
       "name": "Studio",
       "url": "https://open.spotify.com/track/29gsi1zZrZxdStACmTQB0Z"
+    },
+    {
+      "added_at": "2025-02-28 05:00:52",
+      "album": {
+        "name": "Rise Of An Empire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF"
+      },
+      "artists": [
+        {
+          "name": "Young Money",
+          "url": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Trophies",
+      "url": "https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk"
     },
     {
       "added_at": "2025-02-28 05:00:52",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2025-02-28 05:00:52",
       "album": {
-        "name": "Still Striving",
-        "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
-      },
-      "artists": [
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        }
-      ],
-      "duration_ms": 173601,
-      "name": "Plain Jane",
-      "url": "https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9"
-    },
-    {
-      "added_at": "2025-02-28 05:00:52",
-      "album": {
         "name": "My Krazy Life",
         "url": "https://open.spotify.com/album/6HzHon4QSFPGPFIjjlZN0n"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 264818,
       "name": "100 Shots",
       "url": "https://open.spotify.com/track/3TXy6nchgKeYlVwOKNk9lE"
+    },
+    {
+      "added_at": "2025-02-28 05:00:52",
+      "album": {
+        "name": "Still Striving",
+        "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "duration_ms": 173601,
+      "name": "Plain Jane",
+      "url": "https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9"
     },
     {
       "added_at": "2025-02-28 05:00:52",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2025-02-28 05:00:52",
       "album": {
-        "name": "Victory Lap",
-        "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Grinding All My Life",
-      "url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE"
-    },
-    {
-      "added_at": "2025-02-28 05:00:52",
-      "album": {
         "name": "Cilvia Demo",
         "url": "https://open.spotify.com/album/6JF49ixyHmOgS0Rsda2k42"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 167276,
       "name": "West Savannah (feat. SZA)",
       "url": "https://open.spotify.com/track/0Gt4nGWoATcQFL38a1NRao"
+    },
+    {
+      "added_at": "2025-02-28 05:00:52",
+      "album": {
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Grinding All My Life",
+      "url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE"
     },
     {
       "added_at": "2025-02-28 05:00:52",

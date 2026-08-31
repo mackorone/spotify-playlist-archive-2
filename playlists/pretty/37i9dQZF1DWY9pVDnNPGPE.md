@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,018 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,026 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 27 | [How Do You Think](https://open.spotify.com/track/6fEde6ywATXNTpSA36GWyg) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Q](https://open.spotify.com/album/3L1LYjwpQmEBnnVqq8CcvT) | 3:25 |
 | 28 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 |
 | 29 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 |
-| 30 | [Seoul](https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Seoul](https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF) | 3:24 |
-| 31 | [Blue Island \(feat\. 1Ho & Chan\)](https://open.spotify.com/track/3DeUnI1lH69twBuliumOQL) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Airman Morning Diaries](https://open.spotify.com/album/0yeq174Fcjq2JZei3L0laC) | 3:21 |
+| 30 | [Blue Island \(feat\. 1Ho & Chan\)](https://open.spotify.com/track/3DeUnI1lH69twBuliumOQL) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Airman Morning Diaries](https://open.spotify.com/album/0yeq174Fcjq2JZei3L0laC) | 3:21 |
+| 31 | [Seoul](https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Seoul](https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF) | 3:24 |
 | 32 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
 | 33 | [Secret Garden](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark, Pt\. 2](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | 3:44 |
 | 34 | [Wherever](https://open.spotify.com/track/4g9GTgyJ7f5uUpmh9zMtQF) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Wherever](https://open.spotify.com/album/47AfzSaiONoJo0WreAOMA1) | 2:51 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 42 | [dance all night](https://open.spotify.com/track/05v68b039L6DcXHhbkL2wO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/34Q2W5StgW4WC6HhbsNWnv) | 3:34 |
 | 43 | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/track/40wyDhO974VOe491zfVLbC) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp) | 4:03 |
 | 44 | [Picnic](https://open.spotify.com/track/1MZ1Y6rIbt008t1TOhHlt5) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:04 |
-| 45 | [La Vie En Bleu](https://open.spotify.com/track/6IMhhjsF1OCCNkPXE72E4y) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [From JOY, with Love \- The 1st Mini Album](https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV) | 3:16 |
-| 46 | [NOT OK \(Feat\. MINNIE\)](https://open.spotify.com/track/0tSDqQOK8EgoRxYXWkP5rR) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [WEAK](https://open.spotify.com/album/7JErMWy5j6BAaQ6brtCsU5) | 3:17 |
+| 45 | [NOT OK \(Feat\. MINNIE\)](https://open.spotify.com/track/0tSDqQOK8EgoRxYXWkP5rR) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [WEAK](https://open.spotify.com/album/7JErMWy5j6BAaQ6brtCsU5) | 3:17 |
+| 46 | [La Vie En Bleu](https://open.spotify.com/track/6IMhhjsF1OCCNkPXE72E4y) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [From JOY, with Love \- The 1st Mini Album](https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV) | 3:16 |
 | 47 | [Wednesday](https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq) | [Dailog](https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF) | [Wednesday](https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX) | 2:47 |
 | 48 | [17](https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [17](https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM) | 2:50 |
 | 49 | [PARADISE \(Feat\. meenoi\)](https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [School Rapper4 Semi Final 2](https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J) | 3:33 |

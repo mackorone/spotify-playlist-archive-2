@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 101276,
+  "num_followers": 101282,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAAFrQf1roux49xyggNxCeXm",
+  "snapshot_id": "apIhAAAAAAB3z1rX5SQT0U7SLFZMx/iO",
   "tracks": [
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fin De Semana",
-        "url": "https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff"
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 180197,
-      "name": "Fin De Semana",
-      "url": "https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ"
+      "duration_ms": 166749,
+      "name": "Ya La Conecte",
+      "url": "https://open.spotify.com/track/24WJmf2sL7u9iyeuGHV6Vy"
     },
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
-        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+        "name": "Fin De Semana",
+        "url": "https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 166749,
-      "name": "Ya La Conecte",
-      "url": "https://open.spotify.com/track/24WJmf2sL7u9iyeuGHV6Vy"
+      "duration_ms": 180197,
+      "name": "Fin De Semana",
+      "url": "https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 183409,
-      "name": "Botas Ariat",
-      "url": "https://open.spotify.com/track/5LIs1XTlzRRtHYjKsA9WIx"
+      "duration_ms": 186301,
+      "name": "Barrio Xolo",
+      "url": "https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 186301,
-      "name": "Barrio Xolo",
-      "url": "https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b"
+      "duration_ms": 183409,
+      "name": "Botas Ariat",
+      "url": "https://open.spotify.com/track/5LIs1XTlzRRtHYjKsA9WIx"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda (Vol.4)",
-        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 192395,
-      "name": "Que Linda Se Le Ve",
-      "url": "https://open.spotify.com/track/4M2GA9Lb86oxivtlSfiAx9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paris & Grecia",
         "url": "https://open.spotify.com/album/3kufVIruxrPYRml0XECQka"
       },
@@ -703,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Buena Suerte",
-        "url": "https://open.spotify.com/album/0pjmst5C79OuNfHXy5rhtH"
+        "name": "Lo Prometido Es Deuda (Vol.4)",
+        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
       },
       "artists": [
         {
@@ -712,9 +696,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 145716,
-      "name": "Mi Buena Suerte",
-      "url": "https://open.spotify.com/track/0rMRfyKsyCaAFalnORmxQu"
+      "duration_ms": 192395,
+      "name": "Que Linda Se Le Ve",
+      "url": "https://open.spotify.com/track/4M2GA9Lb86oxivtlSfiAx9"
     },
     {
       "added_at": null,
@@ -731,6 +715,22 @@
       "duration_ms": 162358,
       "name": "Sky Blue",
       "url": "https://open.spotify.com/track/1WV4xGKK8nspiCXhJRxTAK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Buena Suerte",
+        "url": "https://open.spotify.com/album/0pjmst5C79OuNfHXy5rhtH"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 145716,
+      "name": "Mi Buena Suerte",
+      "url": "https://open.spotify.com/track/0rMRfyKsyCaAFalnORmxQu"
     },
     {
       "added_at": null,

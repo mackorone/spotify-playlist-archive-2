@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,622 likes - 125 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,676 likes - 125 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 51 | [Que Vuelva](https://open.spotify.com/track/3p80qaEZZnZ96CkhQ7V1dD) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Mas Completa Coleccion \(Disco 1\)](https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF) | 3:46 |
 | 52 | [El Peor De Mis Fracasos](https://open.spotify.com/track/0HG7OidBVulOngsXxhlj2r) | [María Sorté](https://open.spotify.com/artist/0xHfw9K3Pqj4uYhsI1Wjyy) | [Te Voy a Hacer Feliz](https://open.spotify.com/album/1FKGQIrj8dwQTYchaKCq3X) | 3:54 |
 | 53 | [Cómo Fui A Enamorarme De Ti](https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Abriendo Caminos](https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo) | 3:17 |
-| 54 | [Si Ya No Te Vuelvo A Ver](https://open.spotify.com/track/0tKGJCBBhpZYrWfETYzDKl) | [Patrulla 81](https://open.spotify.com/artist/4TTxsp1mecTPT9O4dxVtvN) | [A Mi Ley](https://open.spotify.com/album/6TLePgQKCAGc5rBdN06I4x) | 2:59 |
+| 54 | [Presiento Que Voy a Llorar \- Con Banda](https://open.spotify.com/track/3d7dxnoJSRxwEFOeT9MwLk) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Para Dejarte de Querer](https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy) | 3:04 |
 | 55 | [Navidad Sin Ti](https://open.spotify.com/track/1TXfox4cwT9ubQJXwAnouX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Navidad Con La Regida](https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT) | 4:27 |
-| 56 | [Presiento Que Voy a Llorar \- Con Banda](https://open.spotify.com/track/3d7dxnoJSRxwEFOeT9MwLk) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Para Dejarte de Querer](https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy) | 3:04 |
+| 56 | [Si Ya No Te Vuelvo A Ver](https://open.spotify.com/track/0tKGJCBBhpZYrWfETYzDKl) | [Patrulla 81](https://open.spotify.com/artist/4TTxsp1mecTPT9O4dxVtvN) | [A Mi Ley](https://open.spotify.com/album/6TLePgQKCAGc5rBdN06I4x) | 2:59 |
 | 57 | [La Venia Bendita](https://open.spotify.com/track/5kcDCLD72xY7kcQrew1ePd) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Mis Dos Vicios](https://open.spotify.com/album/482qMIYNe7bTRZ5fxI678e) | 3:05 |
 | 58 | [Hasta Cuando](https://open.spotify.com/track/1nUDI438ltnFLqFVIrhIUf) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [La Mas Completa Coleccion \(Disco 1\)](https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF) | 3:24 |
 | 59 | [Si Te Pudiera Mentir](https://open.spotify.com/track/6QS4U3vPuZbORCJSMYdea3) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Canciones Clásicas De Marco Antonio Solís](https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV) | 4:09 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 84 | [O Me Voy O Te Vas](https://open.spotify.com/track/5ZAhWa5A8cr5Ph0BR8dyQl) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Canciones Clásicas De Marco Antonio Solís](https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV) | 4:51 |
 | 85 | [¿ A Dónde Vamos A Parar ?](https://open.spotify.com/track/139or2pGbQ3RQsFHEaFn6M) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:55 |
 | 86 | [Y Ahora Te Vas](https://open.spotify.com/track/3YQSe3Xg8sqy8wjFQc87kI) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro](https://open.spotify.com/album/595muujRN4z39Y3rOmSgML) | 3:35 |
-| 87 | [Sigue Sin Mi](https://open.spotify.com/track/0AVLg8enpkzc7cypGu1wYQ) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [Como Este Loco](https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f) | 3:04 |
-| 88 | [Mi Rechazo](https://open.spotify.com/track/7mPVt1aTriYEefSYJP49Xy) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 3:34 |
+| 87 | [Mi Rechazo](https://open.spotify.com/track/7mPVt1aTriYEefSYJP49Xy) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 3:34 |
+| 88 | [Sigue Sin Mi](https://open.spotify.com/track/0AVLg8enpkzc7cypGu1wYQ) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [Como Este Loco](https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f) | 3:04 |
 | 89 | [Arrepentida Y Sola](https://open.spotify.com/track/2aAZ9PgtyKuUHrWgLfxxmX) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [La Mas Completa Coleccion \(Disco 1\)](https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF) | 3:14 |
 | 90 | [Si No Te Hubieras Ido](https://open.spotify.com/track/6R5QRhLTTk2KetYpu6H5O7) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Si No Te Hubieras Ido](https://open.spotify.com/album/2ZOR1A4L2hCEiyXnx6DImD) | 4:52 |
 | 91 | [Homenaje A Los Bukis](https://open.spotify.com/track/2uIA8ma0GIFyvJqCUhjlLv) | [Hermanos Figueroa](https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya) | [Homenaje A Los Bukis](https://open.spotify.com/album/2R2Jh0U1XVnthWL63gZy3K) | 10:19 |

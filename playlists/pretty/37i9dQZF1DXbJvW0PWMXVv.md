@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 
 > Os indicados na maior celebração da música latina em 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,238 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,236 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 11 | [Cosas Pendientes](https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cosas Pendientes](https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov) | 3:04 |
 | 12 | [Olha Onde Eu Tô](https://open.spotify.com/track/10MsXPpQLz5ZrOEZxTtkIm) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Let's Go Rodeo](https://open.spotify.com/album/4NqeEHz29Ime2EZV8AUHkh) | 3:01 |
 | 13 | [Quem É Esse? \- Ao Vivo](https://open.spotify.com/track/035Q417M83JnP3wvSlyFEK) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [A Maior Honra \(Ao Vivo\)](https://open.spotify.com/album/4ILheZBIdfuSt6cjQRsWiB) | 7:48 |
-| 14 | [Barbie](https://open.spotify.com/track/6s1kzj4EbhFLXbuAGJbhbn) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Barbie](https://open.spotify.com/album/6MNtIXqAF51SJfAyETEtjL) | 3:12 |
-| 15 | [Saudade Burra \- Ao Vivo](https://open.spotify.com/track/3M4HJl7D77l86gL1QXGJHG) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Transcende \(Ao Vivo\)](https://open.spotify.com/album/7LgfD3r1bBvKvt3GFRlU6l) | 2:37 |
+| 14 | [Saudade Burra \- Ao Vivo](https://open.spotify.com/track/3M4HJl7D77l86gL1QXGJHG) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Transcende \(Ao Vivo\)](https://open.spotify.com/album/7LgfD3r1bBvKvt3GFRlU6l) | 2:37 |
+| 15 | [Barbie](https://open.spotify.com/track/6s1kzj4EbhFLXbuAGJbhbn) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Barbie](https://open.spotify.com/album/6MNtIXqAF51SJfAyETEtjL) | 3:12 |
 | 16 | [Coisas Naturais](https://open.spotify.com/track/0MAc9pefRKSDEjq8Q85Mky) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 3:59 |
 | 17 | [EL DÍA DEL AMIGO](https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:50 |
 | 18 | [Querida Yo](https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Querida Yo](https://open.spotify.com/album/2n3f9KNVpIQ1z3rnwtahB7) | 1:55 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 41 | [Lara](https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Cursi](https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC) | 3:18 |
 | 42 | [Santo, Santo, Santo \- Ao Vivo](https://open.spotify.com/track/6uQznfXz7xrinjN56u7tbv) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memóri4s \(Ao Vivo\)](https://open.spotify.com/album/6nVfk6R3u1SWg2xsD72zu7) | 4:37 |
 | 43 | [Cancionera](https://open.spotify.com/track/7AP1sa56qsVnM86g10VRvv) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cancionera](https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu) | 5:36 |
-| 44 | [Salto](https://open.spotify.com/track/69doH8g7Bq4ZOBoBrsjXhD) | [Tó Brandileone](https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Reações Adversas / Ao Persistirem os Sintomas](https://open.spotify.com/album/6by7zSKPD4Ah4yF42hdk98) | 3:09 |
-| 45 | [Minta Meu Sonho \- Ao Vivo](https://open.spotify.com/track/5GSuFlMLylIOR9vGn13a7c) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Zeca Pagodinho \- 40 Anos \(Ao Vivo\)](https://open.spotify.com/album/54TvGrplEW3aKHJuYUuN3r) | 3:14 |
+| 44 | [Minta Meu Sonho \- Ao Vivo](https://open.spotify.com/track/5GSuFlMLylIOR9vGn13a7c) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Zeca Pagodinho \- 40 Anos \(Ao Vivo\)](https://open.spotify.com/album/54TvGrplEW3aKHJuYUuN3r) | 3:14 |
+| 45 | [Salto](https://open.spotify.com/track/69doH8g7Bq4ZOBoBrsjXhD) | [Tó Brandileone](https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Reações Adversas / Ao Persistirem os Sintomas](https://open.spotify.com/album/6by7zSKPD4Ah4yF42hdk98) | 3:09 |
 | 46 | [Deixa Molhar](https://open.spotify.com/track/3yFfbKYMUUGgCcwqZ7s2tL) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Divina Casca](https://open.spotify.com/album/0Nh68tMKWUKi8weMHlSKnm) | 3:01 |
 | 47 | [Perfume](https://open.spotify.com/track/3NC5dBK8habi0DgRKsCvXn) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Razão da Esperança](https://open.spotify.com/album/7CybXHoarqFPVdqanU8D0X) | 5:46 |
 | 48 | [Melhor Assim](https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav) | [Natascha Falcão](https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh) | [Universo de Paixão](https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y) | 4:01 |

@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Luciano, Jazeek",
-  "num_followers": 908444,
+  "num_followers": 908416,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -211,26 +211,6 @@
     {
       "added_at": "2026-08-28 08:33:50",
       "album": {
-        "name": "Ghetto Superstars",
-        "url": "https://open.spotify.com/album/3iAU42MwjGxRtUf5HtaWUH"
-      },
-      "artists": [
-        {
-          "name": "Capital Bra",
-          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
-        },
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        }
-      ],
-      "duration_ms": 185377,
-      "name": "Ghetto Superstars",
-      "url": "https://open.spotify.com/track/6UmX6507xaem9KkRmaMs5S"
-    },
-    {
-      "added_at": "2026-08-28 08:33:50",
-      "album": {
         "name": "THUG LIFE",
         "url": "https://open.spotify.com/album/5Mt1cLyfFmHKPFevznGbwL"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 121394,
       "name": "THUG LIFE",
       "url": "https://open.spotify.com/track/6M3CMKJnzTrlezfUrIsGDe"
+    },
+    {
+      "added_at": "2026-08-28 08:33:50",
+      "album": {
+        "name": "Ghetto Superstars",
+        "url": "https://open.spotify.com/album/3iAU42MwjGxRtUf5HtaWUH"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "duration_ms": 185377,
+      "name": "Ghetto Superstars",
+      "url": "https://open.spotify.com/track/6UmX6507xaem9KkRmaMs5S"
     },
     {
       "added_at": "2026-08-28 08:33:50",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-08-28 08:33:50",
       "album": {
-        "name": "Kein Limit",
-        "url": "https://open.spotify.com/album/2USNOEiTSgYcb6T280EN2O"
-      },
-      "artists": [
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        }
-      ],
-      "duration_ms": 121295,
-      "name": "Kein Limit",
-      "url": "https://open.spotify.com/track/2gBarw6vh2Mq2AzY9ya3CQ"
-    },
-    {
-      "added_at": "2026-08-28 08:33:50",
-      "album": {
         "name": "Lamborghini",
         "url": "https://open.spotify.com/album/6TBlaJHOuP8FJGmGf53vsr"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 156340,
       "name": "Lamborghini",
       "url": "https://open.spotify.com/track/2RIcDd6QS6qQO5YPJ5lT9l"
+    },
+    {
+      "added_at": "2026-08-28 08:33:50",
+      "album": {
+        "name": "Kein Limit",
+        "url": "https://open.spotify.com/album/2USNOEiTSgYcb6T280EN2O"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "duration_ms": 121295,
+      "name": "Kein Limit",
+      "url": "https://open.spotify.com/track/2gBarw6vh2Mq2AzY9ya3CQ"
     },
     {
       "added_at": "2026-08-28 08:33:50",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2026-08-28 08:33:50",
       "album": {
-        "name": "Art Attack",
-        "url": "https://open.spotify.com/album/3XbLYuBgtW5613hoxoOPUi"
-      },
-      "artists": [
-        {
-          "name": "YUNG SAINT PAUL",
-          "url": "https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R"
-        },
-        {
-          "name": "ana\u00efs",
-          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
-        }
-      ],
-      "duration_ms": 166896,
-      "name": "Art Attack",
-      "url": "https://open.spotify.com/track/5BlflGhvAxyr8dC8eoJ97Y"
-    },
-    {
-      "added_at": "2026-08-28 08:33:50",
-      "album": {
         "name": "GET LOW",
         "url": "https://open.spotify.com/album/3IJ5WPkhv8yeIrzsX04LbP"
       },
@@ -1179,18 +1159,38 @@
     {
       "added_at": "2026-08-28 08:33:50",
       "album": {
-        "name": "Gasolina",
-        "url": "https://open.spotify.com/album/1J1ZqguNMzfDpjw0t9uXT6"
+        "name": "Art Attack",
+        "url": "https://open.spotify.com/album/3XbLYuBgtW5613hoxoOPUi"
       },
       "artists": [
         {
-          "name": "Monet192",
-          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+          "name": "YUNG SAINT PAUL",
+          "url": "https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R"
+        },
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
         }
       ],
-      "duration_ms": 151165,
-      "name": "Gasolina",
-      "url": "https://open.spotify.com/track/4X1IZUzZupFxE0HRVPVTQ8"
+      "duration_ms": 166896,
+      "name": "Art Attack",
+      "url": "https://open.spotify.com/track/5BlflGhvAxyr8dC8eoJ97Y"
+    },
+    {
+      "added_at": "2026-08-28 08:33:50",
+      "album": {
+        "name": "EL FENOMENO",
+        "url": "https://open.spotify.com/album/6dHMK4DSSmI349lUPXUKkp"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "EL FENOMENO",
+      "url": "https://open.spotify.com/track/3GT4AolmOnwDbK3LL57ZXM"
     },
     {
       "added_at": "2026-08-28 08:33:50",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2026-08-28 08:33:50",
       "album": {
-        "name": "EL FENOMENO",
-        "url": "https://open.spotify.com/album/6dHMK4DSSmI349lUPXUKkp"
+        "name": "Gasolina",
+        "url": "https://open.spotify.com/album/1J1ZqguNMzfDpjw0t9uXT6"
       },
       "artists": [
         {
-          "name": "Summer Cem",
-          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
         }
       ],
-      "duration_ms": 113000,
-      "name": "EL FENOMENO",
-      "url": "https://open.spotify.com/track/3GT4AolmOnwDbK3LL57ZXM"
+      "duration_ms": 151165,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/4X1IZUzZupFxE0HRVPVTQ8"
     },
     {
       "added_at": "2026-08-28 08:33:50",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2026-08-28 08:33:50",
       "album": {
-        "name": "4LAP",
-        "url": "https://open.spotify.com/album/70wVZEB9vmrSVAQg450J5V"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        },
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        }
-      ],
-      "duration_ms": 141934,
-      "name": "304",
-      "url": "https://open.spotify.com/track/2qxKLomkyezYTpbohE2atr"
-    },
-    {
-      "added_at": "2026-08-28 08:33:50",
-      "album": {
         "name": "GTS",
         "url": "https://open.spotify.com/album/41BMJrVVmLUwZ3uAtUv27D"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 184453,
       "name": "Highlight",
       "url": "https://open.spotify.com/track/1ivw4hEEh8sUHcqjmuYnZ6"
+    },
+    {
+      "added_at": "2026-08-28 08:33:50",
+      "album": {
+        "name": "4LAP",
+        "url": "https://open.spotify.com/album/70wVZEB9vmrSVAQg450J5V"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "duration_ms": 141934,
+      "name": "304",
+      "url": "https://open.spotify.com/track/2qxKLomkyezYTpbohE2atr"
     },
     {
       "added_at": "2026-08-28 08:33:50",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-08-28 08:33:50",
       "album": {
+        "name": "Fashion Killa",
+        "url": "https://open.spotify.com/album/6BVxAzp75T4l3Mwn97vjNg"
+      },
+      "artists": [
+        {
+          "name": "Ceren",
+          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
+        }
+      ],
+      "duration_ms": 132112,
+      "name": "Fashion Killa",
+      "url": "https://open.spotify.com/track/4bGE5BdC6qUND3OMhp1dt0"
+    },
+    {
+      "added_at": "2026-08-28 08:33:50",
+      "album": {
         "name": "Wach",
         "url": "https://open.spotify.com/album/4DhRuriyYCsegMVxUmy854"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 169736,
       "name": "Wach",
       "url": "https://open.spotify.com/track/1v560KmmtY34B8GmMHg1Hv"
-    },
-    {
-      "added_at": "2026-08-28 08:33:50",
-      "album": {
-        "name": "Fashion Killa",
-        "url": "https://open.spotify.com/album/6BVxAzp75T4l3Mwn97vjNg"
-      },
-      "artists": [
-        {
-          "name": "Ceren",
-          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
-        }
-      ],
-      "duration_ms": 132112,
-      "name": "Fashion Killa",
-      "url": "https://open.spotify.com/track/4bGE5BdC6qUND3OMhp1dt0"
     },
     {
       "added_at": "2026-08-28 08:33:50",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-08-28 08:33:50",
       "album": {
-        "name": "CCTV",
-        "url": "https://open.spotify.com/album/4KPzzYvMqvIVzfmTTtDa99"
-      },
-      "artists": [
-        {
-          "name": "Sampagne",
-          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
-        }
-      ],
-      "duration_ms": 145339,
-      "name": "CCTV",
-      "url": "https://open.spotify.com/track/6XKxB2IUKWbTqh8oqCcYLR"
-    },
-    {
-      "added_at": "2026-08-28 08:33:50",
-      "album": {
         "name": "TURN ME UP",
         "url": "https://open.spotify.com/album/5MqYUz0wVNfzrfHdinE3bo"
       },
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2026-08-28 08:33:50",
       "album": {
-        "name": "VILLAIN / EXCITING",
-        "url": "https://open.spotify.com/album/0THal0pogxArxIVS6DU6Df"
+        "name": "CCTV",
+        "url": "https://open.spotify.com/album/4KPzzYvMqvIVzfmTTtDa99"
       },
       "artists": [
         {
-          "name": "marlon",
-          "url": "https://open.spotify.com/artist/1Vik8Idfyx10pDtl7oyZGL"
+          "name": "Sampagne",
+          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
         }
       ],
-      "duration_ms": 136615,
-      "name": "VILLAIN",
-      "url": "https://open.spotify.com/track/25DWwWLBnA2WtVzMlQwTcR"
+      "duration_ms": 145339,
+      "name": "CCTV",
+      "url": "https://open.spotify.com/track/6XKxB2IUKWbTqh8oqCcYLR"
     },
     {
       "added_at": "2026-08-28 08:33:50",
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2026-08-28 08:33:50",
       "album": {
+        "name": "VILLAIN / EXCITING",
+        "url": "https://open.spotify.com/album/0THal0pogxArxIVS6DU6Df"
+      },
+      "artists": [
+        {
+          "name": "marlon",
+          "url": "https://open.spotify.com/artist/1Vik8Idfyx10pDtl7oyZGL"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "VILLAIN",
+      "url": "https://open.spotify.com/track/25DWwWLBnA2WtVzMlQwTcR"
+    },
+    {
+      "added_at": "2026-08-28 08:33:50",
+      "album": {
         "name": "REDE",
         "url": "https://open.spotify.com/album/1HoueopEdCizCdy1VSe4BU"
       },
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-08-28 08:33:50",
       "album": {
-        "name": "Flightmode",
-        "url": "https://open.spotify.com/album/5NRWsp4JhVijiEaT6c52j7"
-      },
-      "artists": [
-        {
-          "name": "Lyno Nine8",
-          "url": "https://open.spotify.com/artist/6tsVNQekIFCnHgY0xrcCuh"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/6GwOZTqKF9IphoTTvKIgpD"
-    },
-    {
-      "added_at": "2026-08-28 08:33:50",
-      "album": {
         "name": "Day N Nite",
         "url": "https://open.spotify.com/album/6dldeOwW0wqxeiRA7wBK8e"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 143578,
       "name": "Day N Nite",
       "url": "https://open.spotify.com/track/7tx8VNPnyTIX8nfehbbdha"
+    },
+    {
+      "added_at": "2026-08-28 08:33:50",
+      "album": {
+        "name": "Flightmode",
+        "url": "https://open.spotify.com/album/5NRWsp4JhVijiEaT6c52j7"
+      },
+      "artists": [
+        {
+          "name": "Lyno Nine8",
+          "url": "https://open.spotify.com/artist/6tsVNQekIFCnHgY0xrcCuh"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6GwOZTqKF9IphoTTvKIgpD"
     },
     {
       "added_at": "2026-08-28 08:33:50",

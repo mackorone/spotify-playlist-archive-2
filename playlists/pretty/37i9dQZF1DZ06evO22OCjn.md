@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,955 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,016 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 11 | [Alone](https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:41 |
 | 12 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 |
 | 13 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 |
-| 14 | [Loved By You \(feat\. Burna Boy\)](https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:39 |
-| 15 | [Ye](https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:51 |
+| 14 | [Ye](https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:51 |
+| 15 | [Loved By You \(feat\. Burna Boy\)](https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:39 |
 | 16 | [Laho II](https://open.spotify.com/track/4DREBgUie15tAPq9KQqe2c) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Laho II](https://open.spotify.com/album/5lpaf3GuS3ig1yXv56OLRR) | 2:39 |
 | 17 | [Born Winner](https://open.spotify.com/track/4eXb0vQK0syqsuLpj53C4J) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign Of Weakness](https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL) | 2:49 |
 | 18 | [Dangote](https://open.spotify.com/track/7JbaXy70jy2d2kHLvks8Ei) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 49 | [Don't Let Me Drown \- From F1® The Movie](https://open.spotify.com/track/24futxi7j75kgGXiumTEn2) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Don’t Let Me Drown \(From F1® The Movie\)](https://open.spotify.com/album/4gi7iM3pBNBmzHiVPyatjV) | 3:05 |
 | 50 | [Teary Eyes \(feat\. Burna Boy\)](https://open.spotify.com/track/68uqUS5wIIZgSbnWwNEH9Q) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Slime Cry](https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA) | 2:45 |
 
-Snapshot ID: `apDPgAAAAAAGl0D3Y98TLTUoPjyre5Af`
+Snapshot ID: `apIhAAAAAAAU1O6tPw12GCWhKuMA6zS3`

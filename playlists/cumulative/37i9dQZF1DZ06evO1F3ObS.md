@@ -4,7 +4,7 @@
 
 > This is ReoNa\. The essential tracks, all in one playlist.
 
-129 songs - 9 hr 36 min
+130 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [ないない](https://open.spotify.com/track/1VVFJeC7AWaDcC6eCr3XqV) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ないない](https://open.spotify.com/album/32zJ24dBNSbpAb5Ivc7Osp) | 4:14 | 2022-06-09 | 2023-07-28 |
 | [ないない](https://open.spotify.com/track/2lD8rPegYoYC1WucU3vU1W) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ないない \(Special Edition\)](https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw) | 4:14 | 2023-07-27 | 2023-08-26 |
 | [まっさら](https://open.spotify.com/track/6gJ5wPcapcwS4nCN5aOBDW) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ないない \(Special Edition\)](https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw) | 4:12 | 2022-06-09 |  |
+| [アンナコト](https://open.spotify.com/track/6l0oc82Nj37smSKVdWfylF) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C), [Annacoto](https://open.spotify.com/artist/614M6cLKA9Vfd9Fc3EJPmY) | [Lv.1 職業：人間 \(Special Edition\)](https://open.spotify.com/album/2DF1V6u01dBvnThrTpQpJf) | 4:29 | 2026-08-31 |  |
 | [オムライス](https://open.spotify.com/track/7xMxpOUnBEBMKaNxfsdjea) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [オムライス](https://open.spotify.com/album/0hMqJVDkFQovjCmuE7P9t4) | 6:04 | 2024-05-19 | 2026-07-26 |
 | [オルタナティブ](https://open.spotify.com/track/7mdJuI3K1XkZXXK7t12LuF) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HEART](https://open.spotify.com/album/4tPCj9F9IYb4ts8jQnyIzm) | 3:33 | 2025-10-11 | 2026-05-06 |
 | [カナリア](https://open.spotify.com/track/4vn0eCi3dRwGDHdyskh3Oy) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [SWEET HURT](https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm) | 4:47 | 2022-06-09 |  |
@@ -104,7 +105,7 @@
 | [ミミック](https://open.spotify.com/track/6KvzNhC0ZEJrEQNMrC4u3t) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL) | 5:53 | 2022-06-09 | 2025-07-14 |
 | [メメント・モリ](https://open.spotify.com/track/2VEh6M8uR2hk4oBYQBjo9S) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 4:09 | 2023-03-10 |  |
 | [ライフ・イズ・ビューティフォー](https://open.spotify.com/track/0f1tDeWjRuTAMqxNQu6ofn) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ライフ・イズ・ビューティフォー](https://open.spotify.com/album/4kKFEYFPzJ4xPCNEsFn33d) | 4:26 | 2022-06-09 | 2022-09-02 |
-| [ライフ・イズ・ビューティフォー](https://open.spotify.com/track/16USvX84tvZa3ppnS06N1e) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 4:26 | 2022-09-01 |  |
+| [ライフ・イズ・ビューティフォー](https://open.spotify.com/track/16USvX84tvZa3ppnS06N1e) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 4:26 | 2022-09-01 | 2026-08-31 |
 | [ライフ・イズ・ビューティフォー \-Instrumental\-](https://open.spotify.com/track/4h2bkYwwW83WbPVFixtzE4) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 4:27 | 2022-06-09 | 2023-02-21 |
 | [一番星](https://open.spotify.com/track/0rFlCZTNJO8p9A7Jg7PYn3) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Alive\(Special Edition\)](https://open.spotify.com/album/26JBEoaivvoXVywvkRptbZ) | 5:19 | 2022-12-09 | 2023-11-11 |
 | [不良少女白書](https://open.spotify.com/track/7I502VpOAeSR89Sc1xAfBG) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～\(Special Edition\)](https://open.spotify.com/album/2pD99uEeXY3dmF9nFqhCFU) | 5:28 | 2024-03-06 | 2024-09-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 
 > Versiones acústicas de tus canciones favoritas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,603 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,638 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 6 | [Cuando Fuimos Nada](https://open.spotify.com/track/4aVZpMuRkWElSJwJdRCa8n) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 3:05 |
 | 7 | [Estos Celos](https://open.spotify.com/track/2G5b00dq8S0pAo3I4kC7cI) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [De México](https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV) | 2:51 |
 | 8 | [Tusa](https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs) | [Las Alas](https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar) | [Tusa](https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc) | 2:33 |
-| 9 | [No Hay Nadie Más](https://open.spotify.com/track/1oVak8wmp19KtBmsVbbdns) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [No Hay Nadie Más](https://open.spotify.com/album/7Bvu9Kgqsge6rS04CNbd3h) | 2:45 |
-| 10 | [Como Fue](https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 2:42 |
+| 9 | [Como Fue](https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 2:42 |
+| 10 | [No Hay Nadie Más](https://open.spotify.com/track/1oVak8wmp19KtBmsVbbdns) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [No Hay Nadie Más](https://open.spotify.com/album/7Bvu9Kgqsge6rS04CNbd3h) | 2:45 |
 | 11 | [A Lo Mejor](https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 3:33 |
 | 12 | [SUBEME LA RADIO](https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [SUBEME LA RADIO](https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo) | 3:29 |
 | 13 | [Nada \- Acústico](https://open.spotify.com/track/6aX5P3g49IxqH6zzfDKHx1) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Nada \(Acústico\)](https://open.spotify.com/album/0UZYifjkDxYPTKAZ2nOEht) | 3:03 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 25 | [Me Llamas \- Versión Acústica](https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap) | [Segundo Piso](https://open.spotify.com/artist/5qN0sPcoiBWKOXJw6b5659) | [Me Llamas \(Versión Acústica\)](https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG) | 3:30 |
 | 26 | [Eres](https://open.spotify.com/track/3bvmQ44nZ2716I9Snc2rh1) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [Eres](https://open.spotify.com/album/6TLzzUALIChbWMAvR95Ktg) | 3:33 |
 | 27 | [Rojo](https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Rojo](https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF) | 2:22 |
-| 28 | [Caramelo](https://open.spotify.com/track/19MixFiWncCkjVnqmqROdC) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s) | [Caramelo](https://open.spotify.com/album/0FKjMfSsbhKuvZUlqiobpK) | 3:09 |
-| 29 | [Me Hace Tanto Bien \- En Vivo](https://open.spotify.com/track/1gemIOvi0ybSilXyxNkk9J) | [Mo Rivas](https://open.spotify.com/artist/6RfNQchFdYSfkgbAkoWMZz), [Carlos Law](https://open.spotify.com/artist/3nxhMRNxXV5givTbEvsjHD) | [Me Hace Tanto Bien \(En Vivo\)](https://open.spotify.com/album/64H5xJmU6jY4l5UVbeLLQh) | 3:08 |
+| 28 | [Me Hace Tanto Bien \- En Vivo](https://open.spotify.com/track/1gemIOvi0ybSilXyxNkk9J) | [Mo Rivas](https://open.spotify.com/artist/6RfNQchFdYSfkgbAkoWMZz), [Carlos Law](https://open.spotify.com/artist/3nxhMRNxXV5givTbEvsjHD) | [Me Hace Tanto Bien \(En Vivo\)](https://open.spotify.com/album/64H5xJmU6jY4l5UVbeLLQh) | 3:08 |
+| 29 | [Caramelo](https://open.spotify.com/track/19MixFiWncCkjVnqmqROdC) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s) | [Caramelo](https://open.spotify.com/album/0FKjMfSsbhKuvZUlqiobpK) | 3:09 |
 | 30 | [No Bailes Sola \- Versión Acústica](https://open.spotify.com/track/3LfJzT37DkyzELlmmTWYgO) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Bailes Sola \(Versión Acústica\)](https://open.spotify.com/album/6JxnMDh4sNQs4sd6z5w0eo) | 3:09 |
 | 31 | [Mis ojos lloran por ti](https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Mis ojos lloran por ti](https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp) | 3:50 |
 | 32 | [Si Veo a Tu Mamá](https://open.spotify.com/track/1TzT4fQENDBK4a1GkDvB0P) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Si Veo a Tu Mamá](https://open.spotify.com/album/2s2db0CNIpRhDdHHOGwyJh) | 2:40 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 44 | [El Microbito](https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [El Microbito](https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR) | 3:14 |
 | 45 | [Andar Conmigo](https://open.spotify.com/track/5usKouO9EPZnbzztaZd9jw) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Andar Conmigo](https://open.spotify.com/album/5ItestUQ48ki9aagEmthYn) | 3:58 |
 | 46 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/4gICYVqe0drMCOVgj0OeTA) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/album/0DX0y2NJhzvD9igiBgbzTg) | 4:10 |
-| 47 | [Asi Es La Vida](https://open.spotify.com/track/4A6G2xNppWG9MI0kmBMraX) | [Pablo Rojas](https://open.spotify.com/artist/3eZMc1qqbM4whaMy2X14nx) | [Asi Es La Vida](https://open.spotify.com/album/4EYa4M7e4FYqBqsJFwt3Vi) | 4:44 |
-| 48 | [Vaina Loca](https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM) | [JayBe](https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds) | [Vaina Loca](https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS) | 1:36 |
+| 47 | [Vaina Loca](https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM) | [JayBe](https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds) | [Vaina Loca](https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS) | 1:36 |
+| 48 | [Asi Es La Vida](https://open.spotify.com/track/4A6G2xNppWG9MI0kmBMraX) | [Pablo Rojas](https://open.spotify.com/artist/3eZMc1qqbM4whaMy2X14nx) | [Asi Es La Vida](https://open.spotify.com/album/4EYa4M7e4FYqBqsJFwt3Vi) | 4:44 |
 | 49 | [Calma](https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR) | [Ledes Diaz](https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV) | [Calma](https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql) | 3:05 |
 | 50 | [Amor Tumbado](https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Amor Tumbado](https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n) | 2:28 |
 | 51 | [Amigos con derechos](https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Amigos con derechos](https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2) | 2:40 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 53 | [Bolero Falaz](https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Bolero Falaz](https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0) | 4:23 |
 | 54 | [Solamente una Vez](https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Extrañándote en Cuarentena](https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO) | 2:11 |
 | 55 | [Chantaje](https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y) | [Aberola](https://open.spotify.com/artist/261dXSTP2fxbtRTGmg4VTr) | [Chantaje](https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl) | 3:27 |
-| 56 | [Me Rehúso](https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S) | [Ledes Diaz](https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV) | [Me Rehúso](https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41) | 2:52 |
-| 57 | [Cuando Calienta El Sol](https://open.spotify.com/track/0ic53a5YySQxpEi14fRq6s) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Cuando Calienta El Sol](https://open.spotify.com/album/1fQp9n1xWOGAFfF3TOjMg2) | 2:39 |
+| 56 | [Cuando Calienta El Sol](https://open.spotify.com/track/0ic53a5YySQxpEi14fRq6s) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Cuando Calienta El Sol](https://open.spotify.com/album/1fQp9n1xWOGAFfF3TOjMg2) | 2:39 |
+| 57 | [Me Rehúso](https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S) | [Ledes Diaz](https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV) | [Me Rehúso](https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41) | 2:52 |
 | 58 | [A Dios Le Pido](https://open.spotify.com/track/0bJ4L7meNjdPyp9fsZk6Lr) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [A Dios Le Pido](https://open.spotify.com/album/4LOenPk4TGzP09GLdo2lSJ) | 4:18 |
 | 59 | [Dime Que No](https://open.spotify.com/track/44v0ugSESJkLjn9ZbSMc5m) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Dime Que No](https://open.spotify.com/album/7JfcZLkDCS64ip1f7bMsAn) | 4:51 |
 | 60 | [Un año](https://open.spotify.com/track/0X0cGcn1tkNimeB2EKRZCq) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Un año](https://open.spotify.com/album/06kz8w5KKmpwS7JHZRhtUe) | 2:29 |

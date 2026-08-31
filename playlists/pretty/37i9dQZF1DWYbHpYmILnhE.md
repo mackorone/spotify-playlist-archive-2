@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 
 > Drilling through Naij\. Cover: Aguero Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,621 likes - 65 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,671 likes - 65 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

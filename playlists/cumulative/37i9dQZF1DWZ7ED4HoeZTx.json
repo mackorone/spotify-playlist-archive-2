@@ -2769,6 +2769,24 @@
     },
     {
       "album": {
+        "name": "\u87ba\u65cb - RASEN - Acoustic Ver. -",
+        "url": "https://open.spotify.com/album/2eD9eeNP3Vxmc2bmxzzarj"
+      },
+      "artists": [
+        {
+          "name": "9Lana",
+          "url": "https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233256,
+      "name": "\u87ba\u65cb - RASEN - Acoustic Ver. -",
+      "url": "https://open.spotify.com/track/0n4Vh3ndK96W7XySl6XpLf"
+    },
+    {
+      "album": {
         "name": "replica",
         "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
@@ -2852,7 +2870,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 276600,
       "name": "\u98a8\u306b\u306a\u308b",
       "url": "https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD"

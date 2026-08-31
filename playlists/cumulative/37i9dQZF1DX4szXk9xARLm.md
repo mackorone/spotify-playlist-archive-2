@@ -4,7 +4,7 @@
 
 > أحلى أغاني المسلسلات المصرية 📺✨
 
-195 songs - 10 hr 44 min
+196 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Darbt M3lm \- From Darbt M3lm Series](https://open.spotify.com/track/3eT7b4I0Wv4AhaOv3lao5g) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Darbt M3lm \(From Darbt M3lm Series\)](https://open.spotify.com/album/0kQ1e7xbVQKcr2cbCq5RQq) | 3:40 | 2026-07-10 |  |
 | [Dmou3 Lawlia \- From The Original TV Series](https://open.spotify.com/track/26vxKduqnJoYGNmztuDcZA) | [Mehdi Mouelhi](https://open.spotify.com/artist/5ElZnSkmzaDnZykhi1wjj5), [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Dmou3 Lawlia \(From The Original TV Series\)](https://open.spotify.com/album/4rYMmaFYB5EYVFtdvpQG20) | 2:32 | 2024-03-21 | 2025-02-28 |
 | [El ahd](https://open.spotify.com/track/0s5HhG8oEfNqkwOnIYIAEy) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [El ahd](https://open.spotify.com/album/4fv6qg0BGmI0gyrzRhV9Sq) | 4:59 | 2025-03-06 | 2026-02-19 |
+| [El Asham](https://open.spotify.com/track/5mUXM7NLShbIUXxP80lQjy) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [El Asham](https://open.spotify.com/album/4un3v9w9ItPXe6TreN451P) | 3:54 | 2026-07-10 |  |
 | [El Foundou](https://open.spotify.com/track/7aSuIwrwORkhgnASF69Uri) | [Mehdi Mouelhi](https://open.spotify.com/artist/5ElZnSkmzaDnZykhi1wjj5), [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [El Foundou](https://open.spotify.com/album/0HE2ooOyrWy46UafbdNXXw) | 3:08 | 2024-03-10 | 2024-04-19 |
 | [El Omr](https://open.spotify.com/track/0b7LojaglTKiRajPGjfsiP) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [El Omr](https://open.spotify.com/album/6lzqUlf0BIs2IaiQFjSgCc) | 3:38 | 2024-03-10 |  |
 | [El Shawarea Hawadeet](https://open.spotify.com/track/1H8yRqNgrvEfayedUKyJAR) | [Ferqet El Masryeen](https://open.spotify.com/artist/5KmlAHpo6RWvUVoXfc3Q5M) | [Bahebak La](https://open.spotify.com/album/3inqrohlc5Hnph8IPu2guh) | 5:39 | 2026-07-10 |  |
@@ -77,7 +78,7 @@
 | [Mafish Haga Sa'ba \- Music From El Prince TV Series](https://open.spotify.com/track/3FBd67OrCib3IShiFipILU) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Mafish Haga Sa'ba \(Music From El Prince TV Series\)](https://open.spotify.com/album/0wWUuBkNWI9FEAvOPyrHaj) | 5:01 | 2026-02-10 | 2026-07-11 |
 | [Maksour Albi \- مكسور قلبي \- From Eshret Omor Series \- من مسلسل عشرة عمر](https://open.spotify.com/track/7DrQNFN993CYcTZlUbY4ft) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Maksour Albi \- مكسور قلبي \(From Eshret Omor Series \- من مسلسل عشرة عمر\)](https://open.spotify.com/album/5xX7kQ7GkCUF1B9lW8XzS2) | 2:41 | 2024-03-10 | 2025-03-04 |
 | [Malnash Gher Ba3dna](https://open.spotify.com/track/1rxBgFaKG1X27in26OEC2c) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Malnash Gher Ba3dna](https://open.spotify.com/album/7wpvaS3EV2phb8CEfHEnly) | 3:13 | 2024-03-29 | 2025-02-28 |
-| [Mansethosh Men Mosalsal El Aghar](https://open.spotify.com/track/6MlT8xS8aHcgbqLQMJhywZ) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Mansethosh Men Mosalsal El Aghar](https://open.spotify.com/album/1rZN80PcHL3z8cS9X0RyAx) | 4:00 | 2024-03-10 |  |
+| [Mansethosh Men Mosalsal El Aghar](https://open.spotify.com/track/6MlT8xS8aHcgbqLQMJhywZ) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Mansethosh Men Mosalsal El Aghar](https://open.spotify.com/album/1rZN80PcHL3z8cS9X0RyAx) | 4:00 | 2024-03-10 | 2026-08-31 |
 | [Mashyeen Be Elzak](https://open.spotify.com/track/7giK9ESAiO1gOgjNcuJjZu) | [Sabren Elnegily](https://open.spotify.com/artist/235oUgJq1DUHH7PXVmI7oJ) | [Mashyeen Be Elzak](https://open.spotify.com/album/7FWoWblYxaS8aey1Zubji9) | 3:20 | 2025-03-06 | 2026-02-19 |
 | [Mazag \(تتر مسلسل مناعة\)](https://open.spotify.com/track/5B848rXELrdNBgMncVUJ1Q) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [Mazag \(تتر مسلسل مناعة\)](https://open.spotify.com/album/1uhzU9QVyP6VrRwXgNsvjh) | 2:58 | 2026-02-18 |  |
 | [Mesh Habibi Bas](https://open.spotify.com/track/1nOv83Igd6VoVoKNeGOGQJ) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Mesh Habibi Bas](https://open.spotify.com/album/15rENBw7yFYHGAe2YBPlEv) | 4:01 | 2026-02-26 |  |

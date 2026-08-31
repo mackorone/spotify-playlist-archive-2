@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 
 > put it on and let it play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,250,463 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,250,401 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 31 | [Cobra](https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:05 |
 | 32 | [5](https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [lucre](https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4) | 2:00 |
 | 33 | [Roddy](https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0) | 4:12 |
-| 34 | [Cross Your Mind](https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly 2](https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX) | 3:48 |
-| 35 | [Talk 2 Me](https://open.spotify.com/track/7wfOwy1NErjzBYRf1HnDPb) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk 2 Me](https://open.spotify.com/album/61AvsZppCaX3N1mM7xbZHP) | 3:06 |
+| 34 | [Talk 2 Me](https://open.spotify.com/track/7wfOwy1NErjzBYRf1HnDPb) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk 2 Me](https://open.spotify.com/album/61AvsZppCaX3N1mM7xbZHP) | 3:06 |
+| 35 | [Cross Your Mind](https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly 2](https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX) | 3:48 |
 | 36 | [Alesis](https://open.spotify.com/track/1fAaC0BVOACO5hmyiwIqAG) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/62xd4emBJXINuYl0RzfvO8) | 3:18 |
 | 37 | [Ache](https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 4:25 |
 | 38 | [White Gloves ii](https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You ii](https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB) | 4:51 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 45 | [Back On 74 \- Full Crate Remix](https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Back on 74 \(Full Crate Remix\)](https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD) | 2:54 |
 | 46 | [Apollo Eighteen](https://open.spotify.com/track/6iFDEchx7A9uPI7n6yBSN8) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 4:11 |
 | 47 | [Sunshine Baby](https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:39 |
-| 48 | [DEEP IN YOUR SOUL](https://open.spotify.com/track/0tbar3AoobXRjfhlh7b95g) | [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [DEEP IN YOUR SOUL](https://open.spotify.com/album/6JLiizUymfvS5qOqO0hdGW) | 3:11 |
-| 49 | [Take A Drive](https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Take A Drive](https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a) | 3:45 |
+| 48 | [Take A Drive](https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Take A Drive](https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a) | 3:45 |
+| 49 | [DEEP IN YOUR SOUL](https://open.spotify.com/track/0tbar3AoobXRjfhlh7b95g) | [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [DEEP IN YOUR SOUL](https://open.spotify.com/album/6JLiizUymfvS5qOqO0hdGW) | 3:11 |
 | 50 | [Stockholmsvy](https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Stockholmsvy](https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM) | 2:41 |
 | 51 | [I hope that you think of me](https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU), [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Hard Times / Bad Trips](https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI) | 2:08 |
 | 52 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 62 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 |
 | 63 | [Hold Me Up \(Thank You\)](https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:49 |
 | 64 | [Trying Times](https://open.spotify.com/track/52T8TTMESX21406wvTdQDY) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE) | 4:33 |
-| 65 | [Marseille](https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations](https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV) | 3:56 |
-| 66 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 |
+| 65 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 |
+| 66 | [Marseille](https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations](https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV) | 3:56 |
 | 67 | [Call On Me](https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Call On Me](https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu) | 2:49 |
 | 68 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 |
 | 69 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 |

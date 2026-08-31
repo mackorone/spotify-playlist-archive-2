@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 577283,
+  "num_followers": 577339,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAAdcZSySY5Gijq+WVFdWCED",
+  "snapshot_id": "apIhAAAAAACAWFxMiGCeb/uUdOW7p2oq",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Paradigm Shift (World Tour Edition)",
-        "url": "https://open.spotify.com/album/7hrDDLfrAe8B5C2j5pTyyt"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 233389,
-      "name": "Hater",
-      "url": "https://open.spotify.com/track/6BB8UssAN7vuXzsJ5jTsbP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits, Vol. 1",
         "url": "https://open.spotify.com/album/48no7LB4tsCfNS9ntRLc4P"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 427986,
       "name": "Another Brick in the Wall, Pt. 1, 2, 3 - Pink Floyd Cover",
       "url": "https://open.spotify.com/track/5fBI2YzuyOVF0nkYjIGjJv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Paradigm Shift (World Tour Edition)",
+        "url": "https://open.spotify.com/album/7hrDDLfrAe8B5C2j5pTyyt"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 233389,
+      "name": "Hater",
+      "url": "https://open.spotify.com/track/6BB8UssAN7vuXzsJ5jTsbP"
     },
     {
       "added_at": null,

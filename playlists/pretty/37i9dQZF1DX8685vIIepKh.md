@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 
 > La playlist survitaminée !
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,161 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,223 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 | 38 | [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 |
 | 39 | [Four To The Floor](https://open.spotify.com/track/4UrHXNvA6u7Wb68nhjCK20) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Starsailor](https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3) | [Four To The Floor](https://open.spotify.com/album/6OvgUGqFkKbEOQ9UE4j9Oo) | 3:32 |
 | 40 | [What You Want](https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [What You Want](https://open.spotify.com/album/0PWDYw8t6pEp4n8sFHZzOj) | 3:08 |
-| 41 | [Unfaithful](https://open.spotify.com/track/342is2Mbd5vqTD5HADpRz8) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Unfaithful](https://open.spotify.com/album/2orEzHWfrAyY4u2SthixnV) | 3:51 |
-| 42 | [San Francisco](https://open.spotify.com/track/3S8uW1FUeNqzaRzwJWRU8g) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [San Francisco](https://open.spotify.com/album/0sRdNyWdHU5LXX94svHqMZ) | 2:31 |
-| 43 | [Hypnotized](https://open.spotify.com/track/1zsFr9rPcsMwRtqjDJJpnC) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica](https://open.spotify.com/album/1IeEUrtmzQGatMM6uIA1in) | 3:15 |
-| 44 | [Madan](https://open.spotify.com/track/09FK2Wj7NUg7WtSwM7Qbpi) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Thanda Choir](https://open.spotify.com/artist/0A2XryBGpXQ6fYWTRTzl9a) | [Madan](https://open.spotify.com/album/3AokLsMzl3QqAJNsnFqhiq) | 2:25 |
-| 45 | [D.A.N.C.E.](https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:02 |
-| 46 | [Pilé](https://open.spotify.com/track/6amDI9Dbi93HDAAYiIARjL) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker, Pt.1](https://open.spotify.com/album/3HdJGZnFZVE89p5ULk5YLa) | 2:36 |
+| 41 | [Pilé](https://open.spotify.com/track/6amDI9Dbi93HDAAYiIARjL) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker, Pt.1](https://open.spotify.com/album/3HdJGZnFZVE89p5ULk5YLa) | 2:36 |
+| 42 | [Unfaithful](https://open.spotify.com/track/342is2Mbd5vqTD5HADpRz8) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Unfaithful](https://open.spotify.com/album/2orEzHWfrAyY4u2SthixnV) | 3:51 |
+| 43 | [San Francisco](https://open.spotify.com/track/3S8uW1FUeNqzaRzwJWRU8g) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [San Francisco](https://open.spotify.com/album/0sRdNyWdHU5LXX94svHqMZ) | 2:31 |
+| 44 | [Hypnotized](https://open.spotify.com/track/1zsFr9rPcsMwRtqjDJJpnC) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica](https://open.spotify.com/album/1IeEUrtmzQGatMM6uIA1in) | 3:15 |
+| 45 | [Madan](https://open.spotify.com/track/09FK2Wj7NUg7WtSwM7Qbpi) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Thanda Choir](https://open.spotify.com/artist/0A2XryBGpXQ6fYWTRTzl9a) | [Madan](https://open.spotify.com/album/3AokLsMzl3QqAJNsnFqhiq) | 2:25 |
+| 46 | [D.A.N.C.E.](https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:02 |
 | 47 | [Temperature](https://open.spotify.com/track/0svvvbTUgEy79F6Sxweyjo) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/5dllg7LmHBB2pOSzr9aOg0) | 3:36 |
 | 48 | [Repeat It](https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Repeat It](https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11) | 3:11 |
 | 49 | [I Run](https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs) | [I Run](https://open.spotify.com/album/6gePAokYlEquPQ4LDVc1ri) | 2:09 |

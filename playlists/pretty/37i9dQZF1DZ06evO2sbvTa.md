@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 
 > This is Young Scooter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,600 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,601 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 | 25 | [Life](https://open.spotify.com/track/0OTGBE7VJnIAXvgYw7E1t4) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Jugg King](https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk) | 3:04 |
 | 26 | [Dope Talk \(feat\. 2 Chainz & Young Scooter\)](https://open.spotify.com/track/7GoyN3847Blqv2y3osZR6l) | [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Big Bank](https://open.spotify.com/album/4isyF97V7nFks5mQMkZdf9) | 4:08 |
 | 27 | [Come Eat Wit Us](https://open.spotify.com/track/7loTO2VOr9KxJRL7cJPkw4) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 2:56 |
-| 28 | [Bloodshed](https://open.spotify.com/track/1EkSpJmeQoevNGEMSGwOS4) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Wish Me Well 2](https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR) | 3:33 |
+| 28 | [Black Migo](https://open.spotify.com/track/31l9ecQfaEpEBe78KmpraS) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Zaystreet](https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf) | 3:29 |
 | 29 | [Outro](https://open.spotify.com/track/692RBh8Fpm8i2Hme4tuq4h) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [WAKA FLACKA](https://open.spotify.com/artist/4qv6rQVJL5XhlP349GjrMm) | [Jugg King](https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk) | 2:29 |
-| 30 | [Black Migo](https://open.spotify.com/track/31l9ecQfaEpEBe78KmpraS) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Zaystreet](https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf) | 3:29 |
+| 30 | [Bloodshed](https://open.spotify.com/track/1EkSpJmeQoevNGEMSGwOS4) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Wish Me Well 2](https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR) | 3:33 |
 | 31 | [Imma Ball Forever](https://open.spotify.com/track/5heBkfjqYt14ah0pFbBEYg) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Pledge Allegiance to the Trap, Vol\. 5](https://open.spotify.com/album/093j7UenxRyQ27vrlZrJ6d) | 3:05 |
 | 32 | [Both Sides \(feat\. Future & Young Thug\)](https://open.spotify.com/track/1Gp7ozmDtFfr43EcoeH65k) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Trippple Cross](https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C) | 4:27 |
 | 33 | [Birds Take a Bath](https://open.spotify.com/track/2ODUZ33XvLYGn2wMem2zEJ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Astronaut Status](https://open.spotify.com/album/56P7aZkTGJGsYGe0DH7mqA) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 | 49 | [Petty \- feat\. Lil Baby](https://open.spotify.com/track/5RKSFR8UvGV6nhqrW7z5SK) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Trap Hero](https://open.spotify.com/album/1vzGCtwOa0n13u4xdSXSIF) | 2:59 |
 | 50 | [Dead Man](https://open.spotify.com/track/5rIuTIDNTq1ey5DqTgg4Xz) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Trap God](https://open.spotify.com/album/1PdibECcUStPNmeTZxtoBY) | 3:53 |
 
-Snapshot ID: `apDPgAAAAABkk6edgiGcWEfmum9Vty3I`
+Snapshot ID: `apIhAAAAAACfXHp2FJoK4gtPoK3CK63J`

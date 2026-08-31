@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Giacchino. The essential tracks, all in one playlist.",
-  "num_followers": 18563,
+  "num_followers": 18572,
   "original_name": "This Is Michael Giacchino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABeGu6SQzZJ/C1NJWN2S0fa",
+  "snapshot_id": "apIhAAAAAADmT39GB9Ok4oYd5xeUPNua",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Incredibles (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 84173,
-      "name": "Life's Incredible Again",
-      "url": "https://open.spotify.com/track/45MllV1fJos1Ef6Cd13H2E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ratatouille (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 193626,
       "name": "Anyone Can Cook",
       "url": "https://open.spotify.com/track/1XgQtMoo2drLvh0qRHMvJB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Incredibles (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 84173,
+      "name": "Life's Incredible Again",
+      "url": "https://open.spotify.com/track/45MllV1fJos1Ef6Cd13H2E"
     },
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Batman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
+        "name": "Ratatouille (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 407533,
-      "name": "The Batman - from \"The Batman\"",
-      "url": "https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71"
+      "duration_ms": 101173,
+      "name": "Cast of Cooks",
+      "url": "https://open.spotify.com/track/7EXDfmnGVSA6tmFHldB6hv"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ratatouille (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2"
+        "name": "The Batman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 101173,
-      "name": "Cast of Cooks",
-      "url": "https://open.spotify.com/track/7EXDfmnGVSA6tmFHldB6hv"
+      "duration_ms": 407533,
+      "name": "The Batman - from \"The Batman\"",
+      "url": "https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
+        "name": "Ratatouille (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 291733,
-      "name": "Your Father Would Be Proud",
-      "url": "https://open.spotify.com/track/7FFvU6Jr6sRdbP36UFBwim"
+      "duration_ms": 118800,
+      "name": "Special Order",
+      "url": "https://open.spotify.com/track/2zfr8xbDTw3pquWSt6dswt"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ratatouille (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2"
+        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 118800,
-      "name": "Special Order",
-      "url": "https://open.spotify.com/track/2zfr8xbDTw3pquWSt6dswt"
+      "duration_ms": 291733,
+      "name": "Your Father Would Be Proud",
+      "url": "https://open.spotify.com/track/7FFvU6Jr6sRdbP36UFBwim"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inside Out (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
+        "name": "Ratatouille (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 219293,
-      "name": "Tears of Joy",
-      "url": "https://open.spotify.com/track/3vQO2vRV9PVbwU3BtHkppI"
+      "duration_ms": 116693,
+      "name": "A New Deal",
+      "url": "https://open.spotify.com/track/6ddWWAGUgZPBmi6Ezakha1"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ratatouille (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2"
+        "name": "Inside Out (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 116693,
-      "name": "A New Deal",
-      "url": "https://open.spotify.com/track/6ddWWAGUgZPBmi6Ezakha1"
+      "duration_ms": 219293,
+      "name": "Tears of Joy",
+      "url": "https://open.spotify.com/track/3vQO2vRV9PVbwU3BtHkppI"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Incredibles (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "The Glory Days",
+      "url": "https://open.spotify.com/track/59Djq0zGIu8HDZ8QXs2oiz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
       },
@@ -563,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Incredibles (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV"
+        "name": "The Batman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
       },
       "artists": [
         {
@@ -572,9 +588,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 212133,
-      "name": "The Glory Days",
-      "url": "https://open.spotify.com/track/59Djq0zGIu8HDZ8QXs2oiz"
+      "duration_ms": 244573,
+      "name": "Can't Fight City Halloween",
+      "url": "https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K"
     },
     {
       "added_at": null,
@@ -591,22 +607,6 @@
       "duration_ms": 130613,
       "name": "London Calling",
       "url": "https://open.spotify.com/track/4JSmTtaYAmKcHhadidacFi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Batman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 244573,
-      "name": "Can't Fight City Halloween",
-      "url": "https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "The Imperial Suite",
-      "url": "https://open.spotify.com/track/2NZhNbfb1rD1aRj3hZaoqk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Batman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 183733,
       "name": "Catwoman",
       "url": "https://open.spotify.com/track/3Bd12fCAzf7NQHCtb3p2Si"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "The Imperial Suite",
+      "url": "https://open.spotify.com/track/2NZhNbfb1rD1aRj3hZaoqk"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 409280,
-      "name": "Forget Me Knots - from \"Spider-Man: No Way Home\" Soundtrack",
-      "url": "https://open.spotify.com/track/1nHM5nGsbpskmBnZOfxirW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Batman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
       },
@@ -739,22 +723,6 @@
       "duration_ms": 105746,
       "name": "Funeral and Far Between",
       "url": "https://open.spotify.com/track/2jVjwsysanjVbkuqu0LN6w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fantastic Four: First Steps Main Theme (From \"The Fantastic Four: First Steps\")",
-        "url": "https://open.spotify.com/album/7cAwr7nhlYNRCm9vCOC9Hj"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "The Fantastic Four: First Steps Main Theme - From \"The Fantastic Four: First Steps\"",
-      "url": "https://open.spotify.com/track/11fFILIDzuHakpgGoawXZw"
     },
     {
       "added_at": null,
@@ -775,6 +743,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 409280,
+      "name": "Forget Me Knots - from \"Spider-Man: No Way Home\" Soundtrack",
+      "url": "https://open.spotify.com/track/1nHM5nGsbpskmBnZOfxirW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fantastic Four: First Steps Main Theme (From \"The Fantastic Four: First Steps\")",
+        "url": "https://open.spotify.com/album/7cAwr7nhlYNRCm9vCOC9Hj"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "The Fantastic Four: First Steps Main Theme - From \"The Fantastic Four: First Steps\"",
+      "url": "https://open.spotify.com/track/11fFILIDzuHakpgGoawXZw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spider-Man: Far from Home (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7dHHxnqokv90t6wVqTEk6F"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fantastic Four: First Steps (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0yuJY1TWdXHnG74u5yAPLB"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 250293,
-      "name": "The Fantastic Four: First Steps Main Theme Extended Version",
-      "url": "https://open.spotify.com/track/7h1r6c5C8HZpDmmCodIIW4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cars 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 354080,
       "name": "It's Finn McMissile! - From \"Cars 2\"/Score",
       "url": "https://open.spotify.com/track/2iiOa1urBDqoKwjCLkIiG5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fantastic Four: First Steps (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0yuJY1TWdXHnG74u5yAPLB"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 250293,
+      "name": "The Fantastic Four: First Steps Main Theme Extended Version",
+      "url": "https://open.spotify.com/track/7h1r6c5C8HZpDmmCodIIW4"
     }
   ],
   "unique_name": "This Is Michael Giacchino",

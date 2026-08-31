@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 5290,
+  "num_followers": 5291,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAAlDVJi0T/UjwlL3eVWRewf",
+  "snapshot_id": "apIhAAAAAABAtfSdwTTiQ+qUXoZv9zde",
   "tracks": [
     {
       "added_at": null,
@@ -483,30 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Had",
-        "url": "https://open.spotify.com/album/6Jgitf1VZ72NiolDFPlvX7"
-      },
-      "artists": [
-        {
-          "name": "Bitman",
-          "url": "https://open.spotify.com/artist/0ljiBZ6hoKujOLCzMxm8ih"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Dominika Mirgova",
-          "url": "https://open.spotify.com/artist/5FxqSK3bTstp7wa05O01jt"
-        }
-      ],
-      "duration_ms": 203960,
-      "name": "Netreba",
-      "url": "https://open.spotify.com/track/0xIobPrJrJ9GyoCGZqs0uC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "blu\u20acs (d\u20aclux\u20ac)",
         "url": "https://open.spotify.com/album/4cdd2jx9GScUzDETwJ6GEk"
       },
@@ -531,18 +507,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+        "name": "Had",
+        "url": "https://open.spotify.com/album/6Jgitf1VZ72NiolDFPlvX7"
       },
       "artists": [
         {
+          "name": "Bitman",
+          "url": "https://open.spotify.com/artist/0ljiBZ6hoKujOLCzMxm8ih"
+        },
+        {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Dominika Mirgova",
+          "url": "https://open.spotify.com/artist/5FxqSK3bTstp7wa05O01jt"
         }
       ],
-      "duration_ms": 188014,
-      "name": "Ms. Lick Back",
-      "url": "https://open.spotify.com/track/1A2e34Eb1mpgWTeV8sTVRy"
+      "duration_ms": 203960,
+      "name": "Netreba",
+      "url": "https://open.spotify.com/track/0xIobPrJrJ9GyoCGZqs0uC"
     },
     {
       "added_at": null,
@@ -563,6 +547,22 @@
       "duration_ms": 213133,
       "name": "Ain't FWM (feat. Ken the Man)",
       "url": "https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 188014,
+      "name": "Ms. Lick Back",
+      "url": "https://open.spotify.com/track/1A2e34Eb1mpgWTeV8sTVRy"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 175819,
-      "name": "Standards",
-      "url": "https://open.spotify.com/track/3aYpUar301x64WbolSxdwS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wet",
         "url": "https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u"
       },
@@ -639,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Girl Maybach",
-        "url": "https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC"
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
       },
       "artists": [
         {
@@ -648,9 +632,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 140409,
-      "name": "Hot Girl Maybach",
-      "url": "https://open.spotify.com/track/5UHGNDDDc7XxGsF6ZcQs9I"
+      "duration_ms": 175819,
+      "name": "Standards",
+      "url": "https://open.spotify.com/track/3aYpUar301x64WbolSxdwS"
     },
     {
       "added_at": null,
@@ -671,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+        "name": "Hot Girl Maybach",
+        "url": "https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC"
       },
       "artists": [
         {
@@ -680,9 +664,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 148471,
-      "name": "Toxic Chocolate",
-      "url": "https://open.spotify.com/track/0ubYxtmHWHRo4xsjXEztWv"
+      "duration_ms": 140409,
+      "name": "Hot Girl Maybach",
+      "url": "https://open.spotify.com/track/5UHGNDDDc7XxGsF6ZcQs9I"
     },
     {
       "added_at": null,
@@ -707,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Just A Girl",
-        "url": "https://open.spotify.com/album/5zrhSvsc1mfyrNDVkFVgSH"
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
       },
       "artists": [
-        {
-          "name": "Lil Kayla",
-          "url": "https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp"
-        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 168148,
-      "name": "This",
-      "url": "https://open.spotify.com/track/7mhM28Oq3e56v6MJqPlNOR"
+      "duration_ms": 148471,
+      "name": "Toxic Chocolate",
+      "url": "https://open.spotify.com/track/0ubYxtmHWHRo4xsjXEztWv"
     },
     {
       "added_at": null,
@@ -739,6 +719,26 @@
       "duration_ms": 153652,
       "name": "Bad Bad Bad",
       "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Just A Girl",
+        "url": "https://open.spotify.com/album/5zrhSvsc1mfyrNDVkFVgSH"
+      },
+      "artists": [
+        {
+          "name": "Lil Kayla",
+          "url": "https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 168148,
+      "name": "This",
+      "url": "https://open.spotify.com/track/7mhM28Oq3e56v6MJqPlNOR"
     },
     {
       "added_at": null,

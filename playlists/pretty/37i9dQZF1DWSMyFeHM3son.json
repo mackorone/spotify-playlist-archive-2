@@ -1,6 +1,6 @@
 {
   "description": "you look so cool. Cover: The 1975",
-  "num_followers": 172496,
+  "num_followers": 172504,
   "original_name": "reblog",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2025-06-23 15:40:57",
       "album": {
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 193058,
+      "name": "Team",
+      "url": "https://open.spotify.com/track/3G6hD9B2ZHOsgf4WfNu7X1"
+    },
+    {
+      "added_at": "2025-06-23 15:40:57",
+      "album": {
         "name": "Picture Show",
         "url": "https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 229640,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
-    },
-    {
-      "added_at": "2025-06-23 15:40:57",
-      "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 193058,
-      "name": "Team",
-      "url": "https://open.spotify.com/track/3G6hD9B2ZHOsgf4WfNu7X1"
     },
     {
       "added_at": "2025-06-23 15:40:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,306 likes - 75 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,323 likes - 75 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 54 | [Aba \- Ao Vivo](https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Aba \(Ao Vivo\)](https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey) | 5:48 |
 | 55 | [Deus Na Minha História \- Ao Vivo](https://open.spotify.com/track/2nlHtfRwbpVcpxOoF2k6c0) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Deus Na Minha História \(Ao Vivo\)](https://open.spotify.com/album/2ln5PbRPWYVc3Cq43uVCIQ) | 3:27 |
 | 56 | [Eu Me Rendo](https://open.spotify.com/track/3UrnpCBQyiWGCbZvsJsdck) | [Renascer Praise](https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR) | [Renascer Praise 13: A Colheita](https://open.spotify.com/album/5F2jRc40cXhteOGtOvsDA1) | 6:12 |
-| 57 | [Teu Santo Nome \- Ao Vivo](https://open.spotify.com/track/0CP4vevAzKaN0M5SXEGMXh) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 7:16 |
-| 58 | [Sê Valente / Deus Vai Te Guiar / O Cego De Jericó \(Ao Vivo\)](https://open.spotify.com/track/3haojhxI65M4wDLPzNPPn3) | [Michele do Pandeiro](https://open.spotify.com/artist/01CFvZuAQEjTxH4Ab3yzzn) | [Jesus, Eu, Vocês E O Pandeiro \(Ao Vivo\)](https://open.spotify.com/album/4EIy665Pi9Rhn82zvVsWXL) | 5:52 |
+| 57 | [Sê Valente / Deus Vai Te Guiar / O Cego De Jericó \(Ao Vivo\)](https://open.spotify.com/track/3haojhxI65M4wDLPzNPPn3) | [Michele do Pandeiro](https://open.spotify.com/artist/01CFvZuAQEjTxH4Ab3yzzn) | [Jesus, Eu, Vocês E O Pandeiro \(Ao Vivo\)](https://open.spotify.com/album/4EIy665Pi9Rhn82zvVsWXL) | 5:52 |
+| 58 | [Teu Santo Nome \- Ao Vivo](https://open.spotify.com/track/0CP4vevAzKaN0M5SXEGMXh) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 7:16 |
 | 59 | [Deus Vai Chegar Primeiro \- Ao Vivo](https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [A Igreja Canta \(Ao Vivo\)](https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq) | 5:47 |
 | 60 | [TRAIÇÃO NA MESA](https://open.spotify.com/track/5klH9yQ6VRFvfdP654eIg4) | [Israel Santos](https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu) | [TRAIÇÃO NA MESA](https://open.spotify.com/album/0Eqbeu7lWpuIW2Kgsy3MOo) | 3:03 |
 | 61 | [Derrama o Teu Poder \- Ao Vivo](https://open.spotify.com/track/4LkEw1iHqCF6Ol1LdjM2zd) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Derrama o Teu Poder \(Ao Vivo\)](https://open.spotify.com/album/6oC2r7pNp735hePioQ88Vm) | 4:51 |

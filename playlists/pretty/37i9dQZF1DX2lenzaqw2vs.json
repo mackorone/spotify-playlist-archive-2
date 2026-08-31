@@ -1,6 +1,6 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Ruzzi",
-  "num_followers": 133872,
+  "num_followers": 133855,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
+        "name": "Dime Precioso",
+        "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 212160,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/0iuj08Ku8Ab4uuGPUSJt8H"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
         "name": "Miss Colombia",
         "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 185138,
       "name": "No hay nadie como t\u00fa",
       "url": "https://open.spotify.com/track/2ylnGkpzyQ7NIqFA4yt0sZ"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
-        "name": "Dime Precioso",
-        "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 212160,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/0iuj08Ku8Ab4uuGPUSJt8H"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -715,6 +715,26 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
+        "name": "El diablo en el cuerpo",
+        "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 266875,
+      "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
+      "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
         "name": "EASY BOY",
         "url": "https://open.spotify.com/album/0HhtQpQQZE43qLFJ9TJ2pd"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 173206,
       "name": "Pensando en Ti",
       "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
-        "name": "El diablo en el cuerpo",
-        "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 266875,
-      "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
-      "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1247,18 +1247,22 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
+        "name": "Uno de nosotros (feat. Javiera Mena)",
+        "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"
       },
       "artists": [
         {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
         }
       ],
-      "duration_ms": 163348,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0"
+      "duration_ms": 249518,
+      "name": "Unx de nosotrxs (feat. Javiera Mena)",
+      "url": "https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1279,22 +1283,18 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "Uno de nosotros (feat. Javiera Mena)",
-        "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
       },
       "artists": [
         {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
         }
       ],
-      "duration_ms": 249518,
-      "name": "Unx de nosotrxs (feat. Javiera Mena)",
-      "url": "https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA"
+      "duration_ms": 163348,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "Lesbihonest",
-        "url": "https://open.spotify.com/album/5C5rCLBjwHPNF112Xuea9t"
+        "name": "Radio Sunshine",
+        "url": "https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23"
       },
       "artists": [
         {
-          "name": "Macha Kiddo",
-          "url": "https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv"
+          "name": "Ana Macho",
+          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
         }
       ],
-      "duration_ms": 207157,
-      "name": "Besos",
-      "url": "https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk"
+      "duration_ms": 154800,
+      "name": "Vacation Bae",
+      "url": "https://open.spotify.com/track/6IIc7LQm8bcshVRbZvMvJ5"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "Radio Sunshine",
-        "url": "https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23"
+        "name": "Lesbihonest",
+        "url": "https://open.spotify.com/album/5C5rCLBjwHPNF112Xuea9t"
       },
       "artists": [
         {
-          "name": "Ana Macho",
-          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
+          "name": "Macha Kiddo",
+          "url": "https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv"
         }
       ],
-      "duration_ms": 154800,
-      "name": "Vacation Bae",
-      "url": "https://open.spotify.com/track/6IIc7LQm8bcshVRbZvMvJ5"
+      "duration_ms": 207157,
+      "name": "Besos",
+      "url": "https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "Mala Crianza",
-        "url": "https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS"
-      },
-      "artists": [
-        {
-          "name": "Macha Kiddo",
-          "url": "https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv"
-        }
-      ],
-      "duration_ms": 144998,
-      "name": "PXRNX",
-      "url": "https://open.spotify.com/track/2d5TRfD5tIAs6R2gqN0g2X"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
         "name": "As\u00ed Me Siento Hoy",
         "url": "https://open.spotify.com/album/0kefZe88v1Muy6YFe0adCe"
       },
@@ -1595,22 +1579,6 @@
       "duration_ms": 155159,
       "name": "me gusta que me gustes",
       "url": "https://open.spotify.com/track/5gQvExQc6zyJnI11AoNJMM"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
-        "name": "BESO",
-        "url": "https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW"
-      },
-      "artists": [
-        {
-          "name": "YADAM",
-          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "BESO",
-      "url": "https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1631,6 +1599,38 @@
       "duration_ms": 178693,
       "name": "Mexican Mafia (Flow Kbr\u00f3n)",
       "url": "https://open.spotify.com/track/20WTMgqNj3JVFaAC6sXRhd"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
+        "name": "Mala Crianza",
+        "url": "https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS"
+      },
+      "artists": [
+        {
+          "name": "Macha Kiddo",
+          "url": "https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv"
+        }
+      ],
+      "duration_ms": 144998,
+      "name": "PXRNX",
+      "url": "https://open.spotify.com/track/2d5TRfD5tIAs6R2gqN0g2X"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
+        "name": "BESO",
+        "url": "https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "BESO",
+      "url": "https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA"
     },
     {
       "added_at": "2026-05-19 00:14:35",

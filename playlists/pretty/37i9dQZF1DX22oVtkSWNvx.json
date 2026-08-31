@@ -1,6 +1,6 @@
 {
   "description": "A smooth nostalgia trip through the 80s.",
-  "num_followers": 364370,
+  "num_followers": 364397,
   "original_name": "Unwind 80s",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-08-05 06:19:03",
       "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
-    },
-    {
-      "added_at": "2024-08-05 06:19:03",
-      "album": {
         "name": "Songs From The Big Chair (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
       },
@@ -179,22 +163,6 @@
     {
       "added_at": "2024-08-05 06:19:03",
       "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
-      },
-      "artists": [
-        {
-          "name": "Alphaville",
-          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
-        }
-      ],
-      "duration_ms": 226706,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
-    },
-    {
-      "added_at": "2024-08-05 06:19:03",
-      "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
@@ -207,6 +175,38 @@
       "duration_ms": 166749,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
+      "added_at": "2024-08-05 06:19:03",
+      "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
+    },
+    {
+      "added_at": "2024-08-05 06:19:03",
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
+      },
+      "artists": [
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        }
+      ],
+      "duration_ms": 226706,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
     },
     {
       "added_at": "2024-08-05 06:19:03",
@@ -691,8 +691,8 @@
     {
       "added_at": "2024-08-05 06:19:03",
       "album": {
-        "name": "A New Flame (Expanded Version)",
-        "url": "https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew"
+        "name": "Picture Book (Expanded Version)",
+        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
         }
       ],
-      "duration_ms": 204000,
-      "name": "If You Don't Know Me by Now - 2008 Remaster",
-      "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
+      "duration_ms": 269840,
+      "name": "Holding Back the Years - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
     },
     {
       "added_at": "2024-08-05 06:19:03",
@@ -771,8 +771,8 @@
     {
       "added_at": "2024-08-05 06:19:03",
       "album": {
-        "name": "Picture Book (Expanded Version)",
-        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
+        "name": "A New Flame (Expanded Version)",
+        "url": "https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
         }
       ],
-      "duration_ms": 269840,
-      "name": "Holding Back the Years - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
+      "duration_ms": 204000,
+      "name": "If You Don't Know Me by Now - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
     },
     {
       "added_at": "2024-08-05 06:19:03",

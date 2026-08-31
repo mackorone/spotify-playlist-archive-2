@@ -1,6 +1,6 @@
 {
   "description": "Giving motivation to your Monday. You got this!",
-  "num_followers": 634553,
+  "num_followers": 634535,
   "original_name": "Monday Motivation",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 166749,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
         "name": "See You Again (feat. Charlie Puth)",
         "url": "https://open.spotify.com/album/5FXIqS1XqbpfOKNoi5VUwS"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 229525,
       "name": "See You Again (feat. Charlie Puth)",
       "url": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 166749,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Call on Me (Radio Mix)",
-        "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Call on Me - Radio Mix",
-      "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Paper Trail",
         "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 338853,
       "name": "Live Your Life",
       "url": "https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Call on Me (Radio Mix)",
+        "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Call on Me - Radio Mix",
+      "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Hurry up, We're Dreaming",
-        "url": "https://open.spotify.com/album/6EB14IXV5oyOiItGBv7mtG"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 247026,
-      "name": "Outro",
-      "url": "https://open.spotify.com/track/1s9i7W8zx7Nxx78MUIsvjV"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Night Visions",
         "url": "https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 192280,
       "name": "On Top Of The World",
       "url": "https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Hurry up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6EB14IXV5oyOiItGBv7mtG"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 247026,
+      "name": "Outro",
+      "url": "https://open.spotify.com/track/1s9i7W8zx7Nxx78MUIsvjV"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 181573,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
-        "name": "All That You Can't Leave Behind",
-        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "No Jacket Required (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 263106,
-      "name": "Sussudio - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Heavy Is The Head",
         "url": "https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 216706,
       "name": "Own It (feat. Ed Sheeran & Burna Boy)",
       "url": "https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "No Jacket Required (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 263106,
+      "name": "Sussudio - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 227137,
-      "name": "Easy Love",
-      "url": "https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Diva",
         "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 253295,
       "name": "Walking on Broken Glass",
       "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 227137,
+      "name": "Easy Love",
+      "url": "https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Jazz (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Disc-Overy",
         "url": "https://open.spotify.com/album/6nuITL8EMJO1zncOwOeHRr"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 268053,
       "name": "Pass Out",
       "url": "https://open.spotify.com/track/2cY7WSxFIsZQaoDNJe7Fz3"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Jazz (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
+        "name": "Open Arms",
+        "url": "https://open.spotify.com/album/6UhbbQb8x5pesyx5lSaXbe"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 255936,
+      "name": "The Best - Edit",
+      "url": "https://open.spotify.com/track/40hIuxoe1aHcfnjOjl6Tkj"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
         "name": "Blossoms",
         "url": "https://open.spotify.com/album/7wCgsWaxfGis7NAHYn8JFk"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 226946,
       "name": "Right Here - Human Nature Radio Mix",
       "url": "https://open.spotify.com/track/7tUEDtHchueeUJTfEFEhii"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
-        "name": "Open Arms",
-        "url": "https://open.spotify.com/album/6UhbbQb8x5pesyx5lSaXbe"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 255936,
-      "name": "The Best - Edit",
-      "url": "https://open.spotify.com/track/40hIuxoe1aHcfnjOjl6Tkj"
     },
     {
       "added_at": "2024-03-20 18:24:49",

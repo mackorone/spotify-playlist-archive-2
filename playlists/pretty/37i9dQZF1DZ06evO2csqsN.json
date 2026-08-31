@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 41562,
+  "num_followers": 41572,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABp7Xmlumi+g85KLgO04LIH",
+  "snapshot_id": "apIhAAAAAAAx2a7WAfXdXCxZHwD6PG5v",
   "tracks": [
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 147013,
+      "name": "Georgia Peach",
+      "url": "https://open.spotify.com/track/3UidcB20Bb0f9WGZ08TNCL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Mama",
         "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 202120,
       "name": "Make Me (feat. Mariah the Scientist)",
       "url": "https://open.spotify.com/track/0n7n3QeM6sUeH4ikUkRjz1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sugar Honey Iced Tea",
-        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 147013,
-      "name": "Georgia Peach",
-      "url": "https://open.spotify.com/track/3UidcB20Bb0f9WGZ08TNCL"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Mama",
-        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Get Money Girl",
-      "url": "https://open.spotify.com/track/6etwTzZtI9L64TYpfdOK0j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sugar Honey Iced Tea",
         "url": "https://open.spotify.com/album/78bwcxLYi7vPZ2eCL9Vtvp"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 161666,
       "name": "Chicken Grease",
       "url": "https://open.spotify.com/track/5BsGbw1doMaFghuOMkkiJB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Get Money Girl",
+      "url": "https://open.spotify.com/track/6etwTzZtI9L64TYpfdOK0j"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "H&M",
+      "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Mama",
         "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 227266,
       "name": "Anxious (feat. Odeal & Wizkid)",
       "url": "https://open.spotify.com/track/2kd3VObcq7PX64pCwNHQ8p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sugar Honey Iced Tea",
-        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 146893,
-      "name": "H&M",
-      "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
     },
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAT HAPPENED TO THE STREETS?",
-        "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 197306,
-      "name": "POP IT",
-      "url": "https://open.spotify.com/track/3BBMNT5kxTsYxe1r0DukIb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sugar Honey Iced Tea",
         "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 178160,
       "name": "Look What You Did (feat. Mariah the Scientist)",
       "url": "https://open.spotify.com/track/0oVazidxG4n1IZXv1Mizux"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHAT HAPPENED TO THE STREETS?",
+        "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 197306,
+      "name": "POP IT",
+      "url": "https://open.spotify.com/track/3BBMNT5kxTsYxe1r0DukIb"
     },
     {
       "added_at": null,

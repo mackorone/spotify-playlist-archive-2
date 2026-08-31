@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 > "La lune" de Christophe Maé est le Grand Hit de la semaine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,655 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,575 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

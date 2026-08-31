@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ljg6k.md) - [plain]
 
 > This is D'Angelo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,820 likes - 36 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,822 likes - 36 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 |
 | 2 | [Nothing Even Matters \(feat\. D'Angelo\)](https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:50 |
-| 3 | [Send It On](https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:56 |
+| 3 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 7:10 |
 | 4 | [I Found My Smile Again \(Radio Edit\)](https://open.spotify.com/track/3uq6qe8ouF012GLOcLyWcH) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [I Found My Smile Again](https://open.spotify.com/album/2DuxNAsjra84Q3zYu1LG6I) | 4:00 |
 | 5 | [Brown Sugar](https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 4:22 |
 | 6 | [Really Love](https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:44 |
-| 7 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 7:10 |
+| 7 | [Send It On](https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:56 |
 | 8 | [Unshaken](https://open.spotify.com/track/3okk47CKOqAm1TXmVPzNYf) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Music of Red Dead Redemption 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW) | 3:53 |
 | 9 | [Cruisin'](https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 6:24 |
 | 10 | [I'll Stay](https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Hard Groove](https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X) | 7:50 |
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ljg6k.md) - [plain]
 | 13 | [When We Get By](https://open.spotify.com/track/1DNkxLaGqAIU43kHQkunoE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:44 |
 | 14 | [Betray My Heart](https://open.spotify.com/track/3RXr49TkL3wYHB7JJTnyn5) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:55 |
 | 15 | [Feel Like Makin' Love](https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 6:22 |
-| 16 | [Be Here](https://open.spotify.com/track/7x6ev0H9OAmvuDnyuItBZS) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Instant Vintage](https://open.spotify.com/album/2Dfk3iSj303wZD28aXq5ov) | 3:48 |
+| 16 | [This Woman \(feat\. D'Angelo\)](https://open.spotify.com/track/4gsr3Sbeh7q9zYrEvtWIdV) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [DILLAGENCE II](https://open.spotify.com/album/2FO2Y8abEsCT10uLce2Thh) | 4:21 |
 | 17 | [Me And Those Dreamin' Eyes Of Mine](https://open.spotify.com/track/5MjUkhqCpr5uZ39xZmLZxe) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 4:46 |
-| 18 | [Break Ups 2 Make Ups](https://open.spotify.com/track/5jlVndwOZVzbAfGVHtetDX) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Tical 2000: Judgement Day](https://open.spotify.com/album/5EGi6pUMlx1UfSCrfYUisa) | 3:53 |
+| 18 | [Be Here](https://open.spotify.com/track/7x6ev0H9OAmvuDnyuItBZS) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Instant Vintage](https://open.spotify.com/album/2Dfk3iSj303wZD28aXq5ov) | 3:48 |
 | 19 | [The Line](https://open.spotify.com/track/3RE93xPC29qZqbubAUeXTt) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:16 |
-| 20 | [This Woman \(feat\. D'Angelo\)](https://open.spotify.com/track/4gsr3Sbeh7q9zYrEvtWIdV) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [DILLAGENCE II](https://open.spotify.com/album/2FO2Y8abEsCT10uLce2Thh) | 4:21 |
+| 20 | [Break Ups 2 Make Ups](https://open.spotify.com/track/5jlVndwOZVzbAfGVHtetDX) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Tical 2000: Judgement Day](https://open.spotify.com/album/5EGi6pUMlx1UfSCrfYUisa) | 3:53 |
 | 21 | [Smooth](https://open.spotify.com/track/1ZZCkUToFBOEwjssB1hzU4) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 4:19 |
 | 22 | [Another Life](https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:58 |
 | 23 | [Devil's Pie](https://open.spotify.com/track/5ILWEn8WXPezgpHkGHDk8s) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:21 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ljg6k.md) - [plain]
 | 35 | [Tell Me](https://open.spotify.com/track/2Xr7QVhLRYwXRR1oteyo9I) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 4:37 |
 | 36 | [Believe](https://open.spotify.com/track/1HeuJBxrVjtxLeEJKm8Tez) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Renaissance](https://open.spotify.com/album/3asZSLOAAtCNJz5W2LGuFJ) | 2:56 |
 
-Snapshot ID: `apDPgAAAAACPpik1Vhx/gAMqEUBVz+fv`
+Snapshot ID: `apIhAAAAAAAzFjF5IQqyUizCvnHvWLKN`

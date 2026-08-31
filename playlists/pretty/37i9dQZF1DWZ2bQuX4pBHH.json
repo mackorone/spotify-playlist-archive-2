@@ -1,6 +1,6 @@
 {
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
-  "num_followers": 337381,
+  "num_followers": 337460,
   "original_name": "Shah Rukh Khan Hits",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-08-14 04:31:34",
       "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf"
+      },
+      "artists": [
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        }
+      ],
+      "duration_ms": 338593,
+      "name": "Mere Naam Tu",
+      "url": "https://open.spotify.com/track/5fZ0oNVVUQe11KGpgcDCrY"
+    },
+    {
+      "added_at": "2026-08-14 04:31:34",
+      "album": {
         "name": "Yes Boss (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 304990,
       "name": "Main Koi Aisa Geet Gaoon",
       "url": "https://open.spotify.com/track/0WBClBemYPJR44H6uIn0kp"
-    },
-    {
-      "added_at": "2026-08-14 04:31:34",
-      "album": {
-        "name": "Zero",
-        "url": "https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf"
-      },
-      "artists": [
-        {
-          "name": "Abhay Jodhpurkar",
-          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
-        }
-      ],
-      "duration_ms": 338593,
-      "name": "Mere Naam Tu",
-      "url": "https://open.spotify.com/track/5fZ0oNVVUQe11KGpgcDCrY"
     },
     {
       "added_at": "2026-08-14 04:31:34",
@@ -883,6 +883,26 @@
     {
       "added_at": "2026-08-14 04:31:34",
       "album": {
+        "name": "Darr",
+        "url": "https://open.spotify.com/album/0SSsQAifKHIRj0ezX88QzS"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "duration_ms": 366573,
+      "name": "Tu Mere Samne",
+      "url": "https://open.spotify.com/track/2FArWjBAnAmh4IpxWQGCpq"
+    },
+    {
+      "added_at": "2026-08-14 04:31:34",
+      "album": {
         "name": "Rab Ne Bana Di Jodi",
         "url": "https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca"
       },
@@ -911,46 +931,6 @@
     {
       "added_at": "2026-08-14 04:31:34",
       "album": {
-        "name": "Darr",
-        "url": "https://open.spotify.com/album/0SSsQAifKHIRj0ezX88QzS"
-      },
-      "artists": [
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        }
-      ],
-      "duration_ms": 366573,
-      "name": "Tu Mere Samne",
-      "url": "https://open.spotify.com/track/2FArWjBAnAmh4IpxWQGCpq"
-    },
-    {
-      "added_at": "2026-08-14 04:31:34",
-      "album": {
-        "name": "Yes Boss (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8"
-      },
-      "artists": [
-        {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        }
-      ],
-      "duration_ms": 266066,
-      "name": "Ek Din Aap",
-      "url": "https://open.spotify.com/track/5fq7CGNYZKJm38HbLwMg9h"
-    },
-    {
-      "added_at": "2026-08-14 04:31:34",
-      "album": {
         "name": "Kal Ho Naa Ho (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 319560,
       "name": "Kuch To Hua Hai",
       "url": "https://open.spotify.com/track/0Kd2IhGYGYrOATgOOnDBzI"
+    },
+    {
+      "added_at": "2026-08-14 04:31:34",
+      "album": {
+        "name": "Yes Boss (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8"
+      },
+      "artists": [
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        }
+      ],
+      "duration_ms": 266066,
+      "name": "Ek Din Aap",
+      "url": "https://open.spotify.com/track/5fq7CGNYZKJm38HbLwMg9h"
     },
     {
       "added_at": "2026-08-14 04:31:34",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2026-08-14 04:31:34",
       "album": {
-        "name": "Duplicate",
-        "url": "https://open.spotify.com/album/4cBp5HxpaOQ6G444YSM4Bc"
-      },
-      "artists": [
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        }
-      ],
-      "duration_ms": 419498,
-      "name": "Mere Mehboob Mere Sanam",
-      "url": "https://open.spotify.com/track/77QP3sduboWcEh7aypoz66"
-    },
-    {
-      "added_at": "2026-08-14 04:31:34",
-      "album": {
         "name": "Dilwale Dulhania Le Jayenge",
         "url": "https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B"
       },
@@ -1043,26 +1023,22 @@
     {
       "added_at": "2026-08-14 04:31:34",
       "album": {
-        "name": "Don",
-        "url": "https://open.spotify.com/album/6TeyEvfuNNKYhRZpJt9BZm"
+        "name": "Duplicate",
+        "url": "https://open.spotify.com/album/4cBp5HxpaOQ6G444YSM4Bc"
       },
       "artists": [
         {
-          "name": "Alisha Chinai",
-          "url": "https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc"
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
         },
         {
-          "name": "Mahalakshmi Iyer",
-          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
-        },
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
         }
       ],
-      "duration_ms": 368480,
-      "name": "Aaj Ki Raat",
-      "url": "https://open.spotify.com/track/4bPF3oy4JsKK1UeMMn7Byf"
+      "duration_ms": 419498,
+      "name": "Mere Mehboob Mere Sanam",
+      "url": "https://open.spotify.com/track/77QP3sduboWcEh7aypoz66"
     },
     {
       "added_at": "2026-08-14 04:31:34",
@@ -1095,6 +1071,30 @@
       "duration_ms": 333093,
       "name": "It's the Time to Disco",
       "url": "https://open.spotify.com/track/3hCUkos0NxuSFl73oOHJzb"
+    },
+    {
+      "added_at": "2026-08-14 04:31:34",
+      "album": {
+        "name": "Don",
+        "url": "https://open.spotify.com/album/6TeyEvfuNNKYhRZpJt9BZm"
+      },
+      "artists": [
+        {
+          "name": "Alisha Chinai",
+          "url": "https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc"
+        },
+        {
+          "name": "Mahalakshmi Iyer",
+          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        }
+      ],
+      "duration_ms": 368480,
+      "name": "Aaj Ki Raat",
+      "url": "https://open.spotify.com/track/4bPF3oy4JsKK1UeMMn7Byf"
     },
     {
       "added_at": "2026-08-14 04:31:34",

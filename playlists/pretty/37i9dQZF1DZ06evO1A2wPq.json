@@ -1,12 +1,12 @@
 {
   "description": "This is kwn. The essential tracks, all in one playlist.",
-  "num_followers": 22635,
+  "num_followers": 22651,
   "original_name": "This Is kwn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAChXuqW7ZSwyYCKH+mNWL/x",
+  "snapshot_id": "apIhAAAAAABuLCe0B5T0M7a5Vswdi6Ns",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "While We Wait 2",
-        "url": "https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA"
+        "name": "ROADRUNNER",
+        "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         },
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 229736,
-      "name": "Clothes Off (feat. kwn)",
-      "url": "https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r"
+      "duration_ms": 161086,
+      "name": "DADAMAN",
+      "url": "https://open.spotify.com/track/5O9aVGryqU0Um5l4a1pezL"
     },
     {
       "added_at": null,
@@ -167,22 +167,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ROADRUNNER",
-        "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
+        "name": "While We Wait 2",
+        "url": "https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         },
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 161086,
-      "name": "DADAMAN",
-      "url": "https://open.spotify.com/track/5O9aVGryqU0Um5l4a1pezL"
+      "duration_ms": 229736,
+      "name": "Clothes Off (feat. kwn)",
+      "url": "https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r"
     },
     {
       "added_at": null,

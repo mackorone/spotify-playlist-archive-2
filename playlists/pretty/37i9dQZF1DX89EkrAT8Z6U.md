@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > The perfect mixtape for an anime fight scene\. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,334,831 likes - 75 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,334,889 likes - 75 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 37 | [Split](https://open.spotify.com/track/12Uc8hH4rw2Lb0598pqBtL) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Split](https://open.spotify.com/album/3G53RrtTfbUtUUhqqSFBAk) | 2:16 |
 | 38 | [PACKAPUNCH \(feat\. Danny Brown\)](https://open.spotify.com/track/3C1rUtw6tW9dfVPar8CMLf) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [NO HANDS](https://open.spotify.com/album/1Fjelo0jZ4i1iQZBsK0pOA) | 3:00 |
 | 39 | [Riders](https://open.spotify.com/track/6wk8RkIpZ6mbQigwKPr1oW) | [onimanxd](https://open.spotify.com/artist/6LsSeFRnEOLIJHCpIhlP9b) | [Riders](https://open.spotify.com/album/4wYMrn6j9KBrYtek968NoK) | 1:47 |
-| 40 | [MARCELINE](https://open.spotify.com/track/17zEBtrjKKa2hwk9CxWIkX) | [Lil God Dan](https://open.spotify.com/artist/20kAERGCnqfyGydzop8bfg) | [MARCELINE](https://open.spotify.com/album/0NBvXFLdqzROOO4O5KhhNf) | 2:35 |
-| 41 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 |
-| 42 | [EVERYBODY LOVES RAYGUN](https://open.spotify.com/track/2ePfpPUTnniAYFFtZMT81e) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U), [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk) | [EVERYBODY LOVES RAYGUN](https://open.spotify.com/album/6bbcE0TACg7guxv9vFgtcz) | 3:15 |
+| 40 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 |
+| 41 | [EVERYBODY LOVES RAYGUN](https://open.spotify.com/track/2ePfpPUTnniAYFFtZMT81e) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U), [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk) | [EVERYBODY LOVES RAYGUN](https://open.spotify.com/album/6bbcE0TACg7guxv9vFgtcz) | 3:15 |
+| 42 | [MARCELINE](https://open.spotify.com/track/17zEBtrjKKa2hwk9CxWIkX) | [Lil God Dan](https://open.spotify.com/artist/20kAERGCnqfyGydzop8bfg) | [MARCELINE](https://open.spotify.com/album/0NBvXFLdqzROOO4O5KhhNf) | 2:35 |
 | 43 | [Falling](https://open.spotify.com/track/5cF4gR8WHnHgkPFSD6hdC2) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Falling](https://open.spotify.com/album/7FGCBxUHVOvJUEWTwLCA9c) | 2:23 |
 | 44 | [V\-12](https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU) | [Lil Dew'](https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ) | [V\-12](https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE) | 2:20 |
 | 45 | [EXORCIST](https://open.spotify.com/track/6qwEeAl6Cl32odNr2GIMjm) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [KILL!](https://open.spotify.com/album/2Bk3pomO5BGIJrNhwjzqRE) | 1:34 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 66 | [Awake](https://open.spotify.com/track/3WPdIdjJP77kguVy3tFeiy) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Awake](https://open.spotify.com/album/6TNXXQpElH89ZOuJM9dLU5) | 3:14 |
 | 67 | [lucky7!](https://open.spotify.com/track/4tkbMkT6vDOq0GzuSQyF6d) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Pozle](https://open.spotify.com/artist/5ZP65l78WPZimUs9LVvMW0) | [lucky7!](https://open.spotify.com/album/2xoLgTp6uqufmawhjRFcWJ) | 1:28 |
 | 68 | [Sukuna Freestyle](https://open.spotify.com/track/46yDbFxszXw8BIEFWqeHxw) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo), [Musicality](https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3) | [Sukuna Freestyle](https://open.spotify.com/album/2XarFqquxUGflYNEW8DkmQ) | 3:05 |
-| 69 | [S1KE](https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [S1KE](https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx) | 1:54 |
-| 70 | [Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:51 |
+| 69 | [Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:51 |
+| 70 | [S1KE](https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [S1KE](https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx) | 1:54 |
 | 71 | [SOLO](https://open.spotify.com/track/2zkTK9vKqjNkLp4SOzpSXc) | [Rustage](https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H), [anoravt](https://open.spotify.com/artist/4szuM6PQ5KeTofZSykuhgK) | [SOLO](https://open.spotify.com/album/2uUtMMIbcPIT5qHtab90CB) | 2:51 |
 | 72 | [Plenty Guns](https://open.spotify.com/track/29gNXaDSlzN4DJtjPjscIJ) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Plenty Guns](https://open.spotify.com/album/3LwKxNjZlZhnAq6sHZnYhS) | 1:26 |
 | 73 | [Heart Attack](https://open.spotify.com/track/3nSEvbi2v1z1QATbznIvTT) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo), [Musicality](https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3) | [Heart Attack](https://open.spotify.com/album/45zTQIoXr2QXHDM9DFgs9L) | 1:38 |

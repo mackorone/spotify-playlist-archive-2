@@ -1594,7 +1594,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 401920,
       "name": "Cigarette Curls",
       "url": "https://open.spotify.com/track/5J1urfVniTBLYi8NuoTJE0"
@@ -4899,6 +4899,24 @@
     },
     {
       "album": {
+        "name": "Lose All Your Friends",
+        "url": "https://open.spotify.com/album/6CNGYWi0QtwDh80KcIvnWS"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301893,
+      "name": "Lose All Your Friends",
+      "url": "https://open.spotify.com/track/0kvAaEfGZnzBQaUmqUJ2ct"
+    },
+    {
+      "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP"
       },
@@ -5148,6 +5166,24 @@
       "duration_ms": 190576,
       "name": "Mad Catch",
       "url": "https://open.spotify.com/track/27a1HBHlfXd1o1yEzJd8iy"
+    },
+    {
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/1atCF7KORZky8sOL0aq0SJ"
+      },
+      "artists": [
+        {
+          "name": "Mike D",
+          "url": "https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175508,
+      "name": "Make It Stop",
+      "url": "https://open.spotify.com/track/6Ziu9cDGafW7oESEuu4Bvt"
     },
     {
       "album": {
@@ -6916,7 +6952,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 219661,
       "name": "Seachain",
       "url": "https://open.spotify.com/track/5I5QQqPu7S5hFbFfhyodIg"

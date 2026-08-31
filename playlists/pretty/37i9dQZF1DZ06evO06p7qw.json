@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 197392,
+  "num_followers": 197405,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAACBJxy+LBdUvFEGXiezUnuW",
+  "snapshot_id": "apIhAAAAAACJXkpfFpcBHt0YaqnQDjRM",
   "tracks": [
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mucho M\u00e1s Que Ayer",
-        "url": "https://open.spotify.com/album/1mqwGTNaxrl2xsCQqHuTsS"
+        "name": "PERFECTO",
+        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 222400,
-      "name": "Mucho M\u00e1s Que Ayer",
-      "url": "https://open.spotify.com/track/5Hp7k93aQiQfGCM4gIMgW9"
+      "duration_ms": 212466,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECTO",
-        "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
+        "name": "Mucho M\u00e1s Que Ayer",
+        "url": "https://open.spotify.com/album/1mqwGTNaxrl2xsCQqHuTsS"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 212466,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva"
+      "duration_ms": 222400,
+      "name": "Mucho M\u00e1s Que Ayer",
+      "url": "https://open.spotify.com/track/5Hp7k93aQiQfGCM4gIMgW9"
     },
     {
       "added_at": null,

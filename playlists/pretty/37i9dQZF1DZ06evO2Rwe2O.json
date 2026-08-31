@@ -1,12 +1,12 @@
 {
   "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
-  "num_followers": 13142,
+  "num_followers": 13143,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAACIlULZoJLWVzf2tgqnRQdY",
+  "snapshot_id": "apIhAAAAAADYiUyiUSD8TyWNI9dwHr60",
   "tracks": [
     {
       "added_at": null,
@@ -395,18 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Offerings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+        "name": "My Utmost For His Highest",
+        "url": "https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV"
       },
       "artists": [
         {
           "name": "Big Daddy Weave",
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        },
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
         }
       ],
-      "duration_ms": 344760,
-      "name": "Good Good Father - Live",
-      "url": "https://open.spotify.com/track/4F6XmVjxpAVnAY9IuYou44"
+      "duration_ms": 283952,
+      "name": "Lavish",
+      "url": "https://open.spotify.com/track/5wvlWHdfysfTlAN2ulXcoh"
     },
     {
       "added_at": null,
@@ -427,22 +431,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Utmost For His Highest",
-        "url": "https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV"
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
       },
       "artists": [
         {
           "name": "Big Daddy Weave",
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        },
-        {
-          "name": "Francesca Battistelli",
-          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
         }
       ],
-      "duration_ms": 283952,
-      "name": "Lavish",
-      "url": "https://open.spotify.com/track/5wvlWHdfysfTlAN2ulXcoh"
+      "duration_ms": 344760,
+      "name": "Good Good Father - Live",
+      "url": "https://open.spotify.com/track/4F6XmVjxpAVnAY9IuYou44"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fields Of Grace",
-        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
+        "name": "Love Come To Life: The Redeemed Edition",
+        "url": "https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 213200,
-      "name": "Completely Free",
-      "url": "https://open.spotify.com/track/0YmGnKCilrgJzGLcUtqvOy"
+      "duration_ms": 288060,
+      "name": "No Other Name",
+      "url": "https://open.spotify.com/track/12R460xrc3YK1V7PUYK6nz"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Come To Life: The Redeemed Edition",
-        "url": "https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i"
+        "name": "Fields Of Grace",
+        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
       },
       "artists": [
         {
@@ -788,9 +788,25 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 288060,
-      "name": "No Other Name",
-      "url": "https://open.spotify.com/track/12R460xrc3YK1V7PUYK6nz"
+      "duration_ms": 213200,
+      "name": "Completely Free",
+      "url": "https://open.spotify.com/track/0YmGnKCilrgJzGLcUtqvOy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One And Only",
+        "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 215706,
+      "name": "Friend Like You",
+      "url": "https://open.spotify.com/track/7fnGehxDj3mXykhbSeZwtn"
     },
     {
       "added_at": null,
@@ -823,22 +839,6 @@
       "duration_ms": 334173,
       "name": "Without You",
       "url": "https://open.spotify.com/track/2w1ztbOA65oNxOjBVKpnQo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One And Only",
-        "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 215706,
-      "name": "Friend Like You",
-      "url": "https://open.spotify.com/track/7fnGehxDj3mXykhbSeZwtn"
     }
   ],
   "unique_name": "This Is Big Daddy Weave",

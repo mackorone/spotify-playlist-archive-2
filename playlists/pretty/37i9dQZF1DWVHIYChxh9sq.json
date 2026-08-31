@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Pepe Aguilar",
-  "num_followers": 84479,
+  "num_followers": 84487,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEpBH4ZMb6/QfMl1jCelMXucd5M0",
+  "snapshot_id": "AAAAALPPaX6mHi9/uYcgEkms6kEOizDs",
   "tracks": [
     {
       "added_at": "2026-08-21 04:02:48",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-08-21 04:02:48",
       "album": {
+        "name": "La Vieja Escuela",
+        "url": "https://open.spotify.com/album/2vLAqABlhgj4081fzvRWpD"
+      },
+      "artists": [
+        {
+          "name": "Milicia Del Rancho",
+          "url": "https://open.spotify.com/artist/6Dfji9ASsLF7FALyFtUaSi"
+        }
+      ],
+      "duration_ms": 171885,
+      "name": "Popurr\u00ed de Los Morros (Chivo Tatemado/ Los Primos/ El Ultimo Billete)",
+      "url": "https://open.spotify.com/track/39MCJWKc558g8pMnnBgDbw"
+    },
+    {
+      "added_at": "2026-08-21 04:02:48",
+      "album": {
         "name": "Y Si Me Miran",
         "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 213141,
       "name": "Y Si Me Miran",
       "url": "https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb"
-    },
-    {
-      "added_at": "2026-08-21 04:02:48",
-      "album": {
-        "name": "La Vieja Escuela",
-        "url": "https://open.spotify.com/album/2vLAqABlhgj4081fzvRWpD"
-      },
-      "artists": [
-        {
-          "name": "Milicia Del Rancho",
-          "url": "https://open.spotify.com/artist/6Dfji9ASsLF7FALyFtUaSi"
-        }
-      ],
-      "duration_ms": 171885,
-      "name": "Popurr\u00ed de Los Morros (Chivo Tatemado/ Los Primos/ El Ultimo Billete)",
-      "url": "https://open.spotify.com/track/39MCJWKc558g8pMnnBgDbw"
     },
     {
       "added_at": "2026-08-21 04:02:48",
@@ -1427,22 +1427,22 @@
     {
       "added_at": "2026-08-21 04:02:48",
       "album": {
-        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
-        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
+        "name": "Cr\u00f3nicas de la Batalla",
+        "url": "https://open.spotify.com/album/5Q4J26KtTCjWK9QQpp9ZqC"
       },
       "artists": [
         {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         },
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 242928,
-      "name": "AMOR LIMOSNERO - En Vivo desde Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku"
+      "duration_ms": 209668,
+      "name": "Cr\u00f3nicas de la Batalla",
+      "url": "https://open.spotify.com/track/34udvnm0D8Lib2RLsREx04"
     },
     {
       "added_at": "2026-08-21 04:02:48",
@@ -1463,22 +1463,22 @@
     {
       "added_at": "2026-08-21 04:02:48",
       "album": {
-        "name": "Cr\u00f3nicas de la Batalla",
-        "url": "https://open.spotify.com/album/5Q4J26KtTCjWK9QQpp9ZqC"
+        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
+        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         },
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 209668,
-      "name": "Cr\u00f3nicas de la Batalla",
-      "url": "https://open.spotify.com/track/34udvnm0D8Lib2RLsREx04"
+      "duration_ms": 242928,
+      "name": "AMOR LIMOSNERO - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku"
     },
     {
       "added_at": "2026-08-21 04:02:48",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-08-21 04:02:48",
       "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 184124,
-      "name": "Caminos Diferentes - En Vivo",
-      "url": "https://open.spotify.com/track/2skaUI9UgIiYM7LecO1IGh"
-    },
-    {
-      "added_at": "2026-08-21 04:02:48",
-      "album": {
         "name": "En Vivo Desde Chicago",
         "url": "https://open.spotify.com/album/2z6kMSAE2UYjf4ToJNriLb"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 163877,
       "name": "Margarita Margarita (En Vivo)",
       "url": "https://open.spotify.com/track/5C7Md1p8ojkNNXoHeX9FLc"
+    },
+    {
+      "added_at": "2026-08-21 04:02:48",
+      "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 184124,
+      "name": "Caminos Diferentes - En Vivo",
+      "url": "https://open.spotify.com/track/2skaUI9UgIiYM7LecO1IGh"
     },
     {
       "added_at": "2026-08-21 04:02:48",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2026-08-21 04:02:48",
       "album": {
+        "name": "El Ranchero",
+        "url": "https://open.spotify.com/album/2LJuDYooWfIvTvOuJpbJ8q"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 159390,
+      "name": "El Ranchero",
+      "url": "https://open.spotify.com/track/6fTfNxZSs9aqXyOFACtSMD"
+    },
+    {
+      "added_at": "2026-08-21 04:02:48",
+      "album": {
         "name": "Mente en Blanco (En Vivo)",
         "url": "https://open.spotify.com/album/3tFIEwCvbt8XYl6vS7KCq1"
       },
@@ -1723,26 +1743,6 @@
       "duration_ms": 202452,
       "name": "Disfruto Lo Malo - En Vivo",
       "url": "https://open.spotify.com/track/1geW1av0p8JpwONb9HVGPv"
-    },
-    {
-      "added_at": "2026-08-21 04:02:48",
-      "album": {
-        "name": "El Ranchero",
-        "url": "https://open.spotify.com/album/2LJuDYooWfIvTvOuJpbJ8q"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 159390,
-      "name": "El Ranchero",
-      "url": "https://open.spotify.com/track/6fTfNxZSs9aqXyOFACtSMD"
     },
     {
       "added_at": "2026-08-21 04:02:48",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2026-08-21 04:02:48",
       "album": {
+        "name": "Sones Y Caballos (En Vivo)",
+        "url": "https://open.spotify.com/album/4IaBBesdQqQlel5hGHGz8j"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 202199,
+      "name": "Los Amores De Julia - En Vivo",
+      "url": "https://open.spotify.com/track/1WfsEweuDGT4bp7H4LlC6n"
+    },
+    {
+      "added_at": "2026-08-21 04:02:48",
+      "album": {
         "name": "Sigo Siendo El M Grande (En Vivo)",
         "url": "https://open.spotify.com/album/3gTAVNVPSj660tNcGU7gl0"
       },
@@ -1847,26 +1863,6 @@
       "duration_ms": 192906,
       "name": "Los Ninis - En Vivo",
       "url": "https://open.spotify.com/track/535Pqi5MSztvisF6Pw8F9W"
-    },
-    {
-      "added_at": "2026-08-21 04:02:48",
-      "album": {
-        "name": "Frente a Frente (En Vivo)",
-        "url": "https://open.spotify.com/album/31XQi8p1sjUt1yvCEO0W6V"
-      },
-      "artists": [
-        {
-          "name": "Grupo Historia",
-          "url": "https://open.spotify.com/artist/3uT3L1OzDiAH34ectqbocz"
-        },
-        {
-          "name": "Sa\u00fal Barraza",
-          "url": "https://open.spotify.com/artist/0GG7aJjXBfijvhzxd41DIR"
-        }
-      ],
-      "duration_ms": 188820,
-      "name": "Frente a Frente - En Vivo",
-      "url": "https://open.spotify.com/track/0hf92UPty6IZeN9U2tgahH"
     }
   ],
   "unique_name": "M\u00fasica Mexicana En Vivo",

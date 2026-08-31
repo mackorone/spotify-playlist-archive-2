@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 670267,
+  "num_followers": 670292,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAADBJcPkJwYU5kHbfHBHapIY",
+  "snapshot_id": "apIhAAAAAAA8/bKPSYMuR94gIhS0iWuh",
   "tracks": [
     {
       "added_at": null,
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ICU (with Justin Timberlake) [Remix]",
-        "url": "https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 218566,
-      "name": "ICU (with Justin Timberlake) - Remix",
-      "url": "https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FutureSex/LoveSounds",
         "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 370133,
       "name": "Medley: Let Me Talk to You / My Love (feat. T.I.)",
       "url": "https://open.spotify.com/track/1vMuSYlp2Im8Gpj6JxRJfj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ICU (with Justin Timberlake) [Remix]",
+        "url": "https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 218566,
+      "name": "ICU (with Justin Timberlake) - Remix",
+      "url": "https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR"
     },
     {
       "added_at": null,
@@ -1107,8 +1107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything I Thought It Was",
-        "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
+        "name": "The 20/20 Experience (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
       },
       "artists": [
         {
@@ -1116,9 +1116,9 @@
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 208028,
-      "name": "No Angels",
-      "url": "https://open.spotify.com/track/3Llg6UrxeStZxQJNjEQrlM"
+      "duration_ms": 287938,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/4CfYxSs4Dr8KWORCmN3hom"
     }
   ],
   "unique_name": "This Is Justin Timberlake",

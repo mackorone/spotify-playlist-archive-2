@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 643651,
+  "num_followers": 643687,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAABW2RZh+ud1QOrCJ7gLcmW",
+  "snapshot_id": "apIhAAAAAAAHhbpt20n2u0IrljzbX6T9",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "Exhale (Shoop Shoop) - from \"Waiting to Exhale\" - Original Soundtrack",
-      "url": "https://open.spotify.com/track/1X3ypzPnyerpZuMqrDFK29"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Love Is Your Love",
         "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 281493,
       "name": "Heartbreak Hotel (feat. Faith Evans & Kelly Price)",
       "url": "https://open.spotify.com/track/4J9u7UsXH7F6sFI32KnYuP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 204333,
+      "name": "Exhale (Shoop Shoop) - from \"Waiting to Exhale\" - Original Soundtrack",
+      "url": "https://open.spotify.com/track/1X3ypzPnyerpZuMqrDFK29"
     },
     {
       "added_at": null,
@@ -599,38 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 333536,
-      "name": "For the Love of You",
-      "url": "https://open.spotify.com/track/2MJQbnpAPKR83FFk19Bq3p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Look To You",
-        "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 253076,
-      "name": "Call You Tonight",
-      "url": "https://open.spotify.com/track/16U3RJaytxelZKAVWMAsH8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -651,22 +619,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby"
+        "name": "I Look To You",
+        "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 245533,
-      "name": "If I Told You That (feat. George Michael) - Radio Edit",
-      "url": "https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7"
+      "duration_ms": 253076,
+      "name": "Call You Tonight",
+      "url": "https://open.spotify.com/track/16U3RJaytxelZKAVWMAsH8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 333536,
+      "name": "For the Love of You",
+      "url": "https://open.spotify.com/track/2MJQbnpAPKR83FFk19Bq3p"
     },
     {
       "added_at": null,
@@ -683,6 +663,26 @@
       "duration_ms": 241960,
       "name": "I Believe In You And Me - Film Version",
       "url": "https://open.spotify.com/track/1kwNHkKXJ4c4MchgATAOBJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "If I Told You That (feat. George Michael) - Radio Edit",
+      "url": "https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney The Greatest Hits",
-        "url": "https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Deborah Cox",
-          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
-        }
-      ],
-      "duration_ms": 298106,
-      "name": "Same Script, Different Cast",
-      "url": "https://open.spotify.com/track/2vufJ1gR16JlpDiZGTrg0c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Preacher's Wife",
         "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 296373,
       "name": "I Love The Lord (with Georgia Mass Choir)",
       "url": "https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitney The Greatest Hits",
+        "url": "https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Deborah Cox",
+          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
+        }
+      ],
+      "duration_ms": 298106,
+      "name": "Same Script, Different Cast",
+      "url": "https://open.spotify.com/track/2vufJ1gR16JlpDiZGTrg0c"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney The Greatest Hits",
-        "url": "https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 281066,
-      "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
-      "url": "https://open.spotify.com/track/5s2RMsTabBqpOSZb86vPJt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Whitney",
         "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 255733,
       "name": "One Of Those Days",
       "url": "https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitney The Greatest Hits",
+        "url": "https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 281066,
+      "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
+      "url": "https://open.spotify.com/track/5s2RMsTabBqpOSZb86vPJt"
     },
     {
       "added_at": null,
@@ -863,22 +863,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney The Greatest Hits",
-        "url": "https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP"
+        "name": "I'm Your Baby Tonight",
+        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Jermaine Jackson",
-          "url": "https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P"
         }
       ],
-      "duration_ms": 260000,
-      "name": "If You Say My Eyes Are Beautiful (with Jermaine Jackson)",
-      "url": "https://open.spotify.com/track/0xUUGElClB0LXZgdmavavN"
+      "duration_ms": 288203,
+      "name": "Lover for Life",
+      "url": "https://open.spotify.com/track/2tYPx6gPuRDKOmoBZOGfNJ"
     }
   ],
   "unique_name": "This Is Whitney Houston",

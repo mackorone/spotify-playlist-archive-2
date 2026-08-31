@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino aqui! Ay ay ay 🔥  foto: Pedro Sampaio, Cachirula, LOOJAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,100 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,138 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 32 | [Santorini](https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Santorini](https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z) | 2:40 |
 | 33 | [MOTINHA 2.0 \(Mete Marcha\) \- Remix](https://open.spotify.com/track/2iDDnYmaz1HhedjI91fbmp) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [MOTINHA 2.0 \(Mete Marcha\) \- Remix](https://open.spotify.com/album/01b5HiUXkbiFUV3ogYrg0I) | 1:58 |
 | 34 | [JETSKI \- Remix](https://open.spotify.com/track/7z26frY6O7BXwyjeqzYo7W) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [JETSKI \- Remix](https://open.spotify.com/album/1sjNMQMlvjVlxVGuPLVzPi) | 3:01 |
-| 35 | [Única](https://open.spotify.com/track/0xHAfrziD261HeNYVmYqNF) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Única](https://open.spotify.com/album/12wlkuPrZmoBdnLImqvPOM) | 2:24 |
-| 36 | [QUEMA](https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [QUEMA](https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry) | 2:30 |
+| 35 | [QUEMA](https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [QUEMA](https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry) | 2:30 |
+| 36 | [Única](https://open.spotify.com/track/0xHAfrziD261HeNYVmYqNF) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Única](https://open.spotify.com/album/12wlkuPrZmoBdnLImqvPOM) | 2:24 |
 | 37 | [FERXXO 151](https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [FERXXO 151](https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq) | 3:15 |
 | 38 | [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 |
 | 39 | [Volver](https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Volver](https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s) | 3:52 |

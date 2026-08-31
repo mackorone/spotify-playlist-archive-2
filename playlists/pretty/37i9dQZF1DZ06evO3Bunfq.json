@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 130815,
+  "num_followers": 130826,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAAmC13NqnX/brXMU6Iy/kZo",
+  "snapshot_id": "apIhAAAAAAAEv6bjlJREGZiyrU3ifZoX",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuando Todo Acaba",
+        "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 189289,
+      "name": "Espejismo",
+      "url": "https://open.spotify.com/track/5SddVjDLzloefDoqO2xXJp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recia",
         "url": "https://open.spotify.com/album/2lCjZdvsSzI9W79U5nmp5p"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 237419,
       "name": "Recia",
       "url": "https://open.spotify.com/track/1BXba3d3aIzvM4wgn8hSVC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuando Todo Acaba",
-        "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 189289,
-      "name": "Espejismo",
-      "url": "https://open.spotify.com/track/5SddVjDLzloefDoqO2xXJp"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Directo Hasta Arriba Vol.2",
-        "url": "https://open.spotify.com/album/4mKBizouQK5HBdsuIgcHSG"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 211588,
-      "name": "De Rol",
-      "url": "https://open.spotify.com/track/0ifXq1bF8z1NZFcqYxqiih"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LA PARRANDHA",
         "url": "https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 238792,
       "name": "LA PARRANDHA",
       "url": "https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Directo Hasta Arriba Vol.2",
+        "url": "https://open.spotify.com/album/4mKBizouQK5HBdsuIgcHSG"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 211588,
+      "name": "De Rol",
+      "url": "https://open.spotify.com/track/0ifXq1bF8z1NZFcqYxqiih"
     },
     {
       "added_at": null,
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mecha Corta",
+        "url": "https://open.spotify.com/album/08U3yHqqKgyDm0LLwH0gAA"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 210645,
+      "name": "Mecha Corta",
+      "url": "https://open.spotify.com/track/0eOv02uWpROIogqqzGLGyH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Directo Hasta Arriba Vol.2",
         "url": "https://open.spotify.com/album/4mKBizouQK5HBdsuIgcHSG"
       },
@@ -839,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mecha Corta",
-        "url": "https://open.spotify.com/album/08U3yHqqKgyDm0LLwH0gAA"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 210645,
-      "name": "Mecha Corta",
-      "url": "https://open.spotify.com/track/0eOv02uWpROIogqqzGLGyH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando Todo Acaba",
         "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 251416,
       "name": "Hipocres\u00eda",
       "url": "https://open.spotify.com/track/4OElCXKZqbE8MhHvhrKX1z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Directo Hasta Arriba",
+        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 223626,
+      "name": "El After Porky",
+      "url": "https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu"
     },
     {
       "added_at": null,
@@ -919,22 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Directo Hasta Arriba",
-        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 223626,
-      "name": "El After Porky",
-      "url": "https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Perdedor",
         "url": "https://open.spotify.com/album/0J3NgEahBI5Hst8QJEY821"
       },
@@ -951,38 +951,6 @@
       "duration_ms": 228687,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/5QKymytqsCOJX5Jw7vQYCi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bien Perro",
-        "url": "https://open.spotify.com/album/1RRnsMYBuDtrRjwkiULkK0"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 160242,
-      "name": "Bien Perro",
-      "url": "https://open.spotify.com/track/4N2GoKa7cuyjiArYHVopzD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Directo Hasta Arriba Vol.2",
-        "url": "https://open.spotify.com/album/4mKBizouQK5HBdsuIgcHSG"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 167741,
-      "name": "A La Verga Los Problemas",
-      "url": "https://open.spotify.com/track/2AcWfEjjRj9uuU213IyBAt"
     },
     {
       "added_at": null,
@@ -1031,6 +999,38 @@
       "duration_ms": 214736,
       "name": "Retumbando en la Ciudad",
       "url": "https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Directo Hasta Arriba Vol.2",
+        "url": "https://open.spotify.com/album/4mKBizouQK5HBdsuIgcHSG"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 167741,
+      "name": "A La Verga Los Problemas",
+      "url": "https://open.spotify.com/track/2AcWfEjjRj9uuU213IyBAt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Perro",
+        "url": "https://open.spotify.com/album/1RRnsMYBuDtrRjwkiULkK0"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 160242,
+      "name": "Bien Perro",
+      "url": "https://open.spotify.com/track/4N2GoKa7cuyjiArYHVopzD"
     },
     {
       "added_at": null,

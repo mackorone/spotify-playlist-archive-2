@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 645845,
+  "num_followers": 645835,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2026-08-26 09:47:39",
       "album": {
-        "name": "Would You (go to bed with me?)",
-        "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
-      },
-      "artists": [
-        {
-          "name": "Campbell",
-          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
-        },
-        {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
-        }
-      ],
-      "duration_ms": 120522,
-      "name": "Would You (go to bed with me?)",
-      "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
-    },
-    {
-      "added_at": "2026-08-26 09:47:39",
-      "album": {
         "name": "Als du gingst (edit)",
         "url": "https://open.spotify.com/album/24CMRdb9SWlm08gBNhWD3F"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 239019,
       "name": "Als du gingst - edit",
       "url": "https://open.spotify.com/track/1MDyUzZgyrdeQVmV1FU3WQ"
+    },
+    {
+      "added_at": "2026-08-26 09:47:39",
+      "album": {
+        "name": "Would You (go to bed with me?)",
+        "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
+      },
+      "artists": [
+        {
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+        },
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        }
+      ],
+      "duration_ms": 120522,
+      "name": "Would You (go to bed with me?)",
+      "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
     },
     {
       "added_at": "2026-08-26 09:47:39",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2026-08-26 09:47:39",
       "album": {
-        "name": "This Is The Life",
-        "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "KYANU",
-          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
-        }
-      ],
-      "duration_ms": 131388,
-      "name": "This Is The Life",
-      "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
-    },
-    {
-      "added_at": "2026-08-26 09:47:39",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
       },
@@ -1243,6 +1223,42 @@
       "duration_ms": 158760,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
+    },
+    {
+      "added_at": "2026-08-26 09:47:39",
+      "album": {
+        "name": "Wackelkontakt",
+        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
+      },
+      "artists": [
+        {
+          "name": "Oimara",
+          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
+        }
+      ],
+      "duration_ms": 168801,
+      "name": "Wackelkontakt",
+      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
+    },
+    {
+      "added_at": "2026-08-26 09:47:39",
+      "album": {
+        "name": "This Is The Life",
+        "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        }
+      ],
+      "duration_ms": 131388,
+      "name": "This Is The Life",
+      "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
     },
     {
       "added_at": "2026-08-26 09:47:39",
@@ -1271,22 +1287,6 @@
       "duration_ms": 165263,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH"
-    },
-    {
-      "added_at": "2026-08-26 09:47:39",
-      "album": {
-        "name": "Wackelkontakt",
-        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
-      },
-      "artists": [
-        {
-          "name": "Oimara",
-          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
-        }
-      ],
-      "duration_ms": 168801,
-      "name": "Wackelkontakt",
-      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
     },
     {
       "added_at": "2026-08-26 09:47:39",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-08-26 09:47:39",
       "album": {
-        "name": "My Favourite Game",
-        "url": "https://open.spotify.com/album/6gBdKuFAJKsuV42mWX6309"
-      },
-      "artists": [
-        {
-          "name": "Odymel",
-          "url": "https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA"
-        }
-      ],
-      "duration_ms": 203015,
-      "name": "My Favourite Game",
-      "url": "https://open.spotify.com/track/1O28S9MYZONNh5PNG1bYeC"
-    },
-    {
-      "added_at": "2026-08-26 09:47:39",
-      "album": {
         "name": "Erinner mich",
         "url": "https://open.spotify.com/album/0jpS7XxChqr5DLtQb2FwFl"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 151409,
       "name": "Erinner mich",
       "url": "https://open.spotify.com/track/4lArhqEySHQwMKkWkPXQEK"
+    },
+    {
+      "added_at": "2026-08-26 09:47:39",
+      "album": {
+        "name": "My Favourite Game",
+        "url": "https://open.spotify.com/album/6gBdKuFAJKsuV42mWX6309"
+      },
+      "artists": [
+        {
+          "name": "Odymel",
+          "url": "https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA"
+        }
+      ],
+      "duration_ms": 203015,
+      "name": "My Favourite Game",
+      "url": "https://open.spotify.com/track/1O28S9MYZONNh5PNG1bYeC"
     },
     {
       "added_at": "2026-08-26 09:47:39",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-08-26 09:47:39",
       "album": {
-        "name": "Heute Nacht",
-        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Heute Nacht",
-      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
-    },
-    {
-      "added_at": "2026-08-26 09:47:39",
-      "album": {
         "name": "Leben am Limit",
         "url": "https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 224186,
       "name": "Von Party zu Party",
       "url": "https://open.spotify.com/track/4h6UIDvGWTYZvu4BLf2GpO"
+    },
+    {
+      "added_at": "2026-08-26 09:47:39",
+      "album": {
+        "name": "Heute Nacht",
+        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Heute Nacht",
+      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
     },
     {
       "added_at": "2026-08-26 09:47:39",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2026-08-26 09:47:39",
       "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
+    },
+    {
+      "added_at": "2026-08-26 09:47:39",
+      "album": {
         "name": "It's My Life (Techno Remix)",
         "url": "https://open.spotify.com/album/4tNO3b3hoOnZMoKqg7Z7Y2"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 174545,
       "name": "It's My Life - Techno Remix",
       "url": "https://open.spotify.com/track/0zJWxs9N1pkwF1eKOepZFq"
-    },
-    {
-      "added_at": "2026-08-26 09:47:39",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 206019,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
       "added_at": "2026-08-26 09:47:39",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2026-08-26 09:47:39",
       "album": {
-        "name": "Darling",
-        "url": "https://open.spotify.com/album/1aXE1L3MSBmnsNGO5HwKQC"
-      },
-      "artists": [
-        {
-          "name": "marli",
-          "url": "https://open.spotify.com/artist/1UYBl1b6pewBi9Ee06Rvfp"
-        },
-        {
-          "name": "Philemon",
-          "url": "https://open.spotify.com/artist/13k83FRrq682vqOpI7epwJ"
-        }
-      ],
-      "duration_ms": 106480,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/3DHO3GvZhb49NuJRn8AlaP"
-    },
-    {
-      "added_at": "2026-08-26 09:47:39",
-      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/4QHIneMHTfRSGjk6YZc6kv"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 140009,
       "name": "WHO'S THAT",
       "url": "https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu"
+    },
+    {
+      "added_at": "2026-08-26 09:47:39",
+      "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/1aXE1L3MSBmnsNGO5HwKQC"
+      },
+      "artists": [
+        {
+          "name": "marli",
+          "url": "https://open.spotify.com/artist/1UYBl1b6pewBi9Ee06Rvfp"
+        },
+        {
+          "name": "Philemon",
+          "url": "https://open.spotify.com/artist/13k83FRrq682vqOpI7epwJ"
+        }
+      ],
+      "duration_ms": 106480,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/3DHO3GvZhb49NuJRn8AlaP"
     },
     {
       "added_at": "2026-08-26 09:47:39",

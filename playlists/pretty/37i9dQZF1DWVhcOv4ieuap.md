@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhcOv4ieuap.md) - [plain]
 
 > Alegra tu día con lo más pop para la mañana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,026,281 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,026,240 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhcOv4ieuap.md) - [plain]
 | 30 | [NI BORRACHO](https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [NI BORRACHO](https://open.spotify.com/album/56abbxkslQf53jbbIInCD3) | 4:08 |
 | 31 | [Imagínate](https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Imagínate](https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8) | 2:50 |
 | 32 | [Más Que Tú](https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Más Que Tú](https://open.spotify.com/album/4SQs6PQwQFanCdSfF0CUd9) | 3:17 |
-| 33 | [Young Miko: Bzrp Music Sessions, Vol\. 58/66](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58/66](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 |
+| 33 | [Hora Loca](https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:11 |
 | 34 | [Pareja Del Año](https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pareja Del Año](https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ) | 3:15 |
-| 35 | [Hora Loca](https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:11 |
+| 35 | [Young Miko: Bzrp Music Sessions, Vol\. 58/66](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58/66](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 |
 | 36 | [Tan Bonita](https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:31 |
 | 37 | [Un Desperdicio](https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 3:43 |
 | 38 | [TOTOTO \(+4\)](https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [TOTOTO \(+4\)](https://open.spotify.com/album/7cfnnziRacYRtzV9CmJvab) | 2:18 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhcOv4ieuap.md) - [plain]
 | 91 | [Dame Un Break](https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Dame Un Break](https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq) | 3:20 |
 | 92 | [Sin Querer](https://open.spotify.com/track/0Rz0YPrVlC7YzgbOOharAy) | [Kenneth](https://open.spotify.com/artist/3PWzbjrWG3pYUbo2NfACIt) | [Afro Pal Cora](https://open.spotify.com/album/4pY1isW0Zm6yfSNgE5G8GR) | 2:51 |
 | 93 | [¿Trato Hecho?](https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:00 |
-| 94 | [san blaS](https://open.spotify.com/track/5I2MsBzDR7YmFG9W5SAWYg) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [SAN BLAS](https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0) | 2:28 |
-| 95 | [Mi Reina](https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Mi Reina](https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9) | 3:03 |
+| 94 | [Mi Reina](https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Mi Reina](https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9) | 3:03 |
+| 95 | [san blaS](https://open.spotify.com/track/5I2MsBzDR7YmFG9W5SAWYg) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [SAN BLAS](https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0) | 2:28 |
 | 96 | [Feriado](https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Feriado](https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet) | 2:46 |
 | 97 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 |
 | 98 | [Espejo](https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Espejo](https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW) | 2:38 |

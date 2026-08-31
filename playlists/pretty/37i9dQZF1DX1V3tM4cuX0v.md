@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 
 > 50 найгарячіших пісень в Україні\. Обкладинка: DOROFEEVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,654 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,661 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,003 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,062 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 | 27 | [Wanted \- Remastered 2026](https://open.spotify.com/track/29dxtW2MLnH2acr2n1Yyqm) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(Remastered 2026\)](https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN) | 2:07 |
 | 28 | [Shattered](https://open.spotify.com/track/155I1ffphVdq7fCeMH597u) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:42 |
 | 29 | [Away](https://open.spotify.com/track/019HjfytZgeJRGpzSOVh5e) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 2:38 |
-| 30 | [Stars](https://open.spotify.com/track/5iJ3ZTfEXjqxIU1BrgKhEe) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Stars: The Best Of The Cranberries 1992\-2002](https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl) | 3:31 |
-| 31 | [Liar](https://open.spotify.com/track/4QMEggSeW9i4dJHYDtPKn7) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(Super Deluxe\)](https://open.spotify.com/album/11t5u8CpcC89l1zgqdqF5Z) | 2:23 |
+| 30 | [Liar](https://open.spotify.com/track/4QMEggSeW9i4dJHYDtPKn7) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(Super Deluxe\)](https://open.spotify.com/album/11t5u8CpcC89l1zgqdqF5Z) | 2:23 |
+| 31 | [Stars](https://open.spotify.com/track/5iJ3ZTfEXjqxIU1BrgKhEe) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Stars: The Best Of The Cranberries 1992\-2002](https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl) | 3:31 |
 | 32 | [Loud And Clear](https://open.spotify.com/track/5r8skcDoiyjfagGCwQLKsQ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 2:45 |
 | 33 | [Íosa](https://open.spotify.com/track/7nDnFw9CmNnxgnY1C7vozN) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Íosa](https://open.spotify.com/album/1HJXIxvS7UsHQWcXS34u48) | 4:08 |
 | 34 | [Empty \- Live At The London Astoria II, 1994](https://open.spotify.com/track/3vdQT29MvBGPuOCwuzGRGH) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Empty \(Live At The London Astoria II, 1994\)](https://open.spotify.com/album/3sxI9ZA68u8oeLBKX9FwmX) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 | 49 | [The Glory](https://open.spotify.com/track/5Bd2LPvlOY3do39MIph1RD) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 5:14 |
 | 50 | [Cordell](https://open.spotify.com/track/7rExM1JfHUgEyIPLot5CZL) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Gold](https://open.spotify.com/album/5zjZVqXPI7J5qtBsZMjlI8) | 3:40 |
 
-Snapshot ID: `apDPgAAAAAAY43weP837NF9vnqC4cCdC`
+Snapshot ID: `apIhAAAAAACBAybLZExNpBgeBig4aPqa`

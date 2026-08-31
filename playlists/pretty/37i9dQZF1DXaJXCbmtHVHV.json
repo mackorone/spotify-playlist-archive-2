@@ -1,6 +1,6 @@
 {
   "description": "Top country hits you know and love! Cover: Morgan Wallen",
-  "num_followers": 694482,
+  "num_followers": 694569,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2026-08-28 04:01:52",
       "album": {
-        "name": "Born To Die",
-        "url": "https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27"
+        "name": "God's Country",
+        "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         }
       ],
-      "duration_ms": 161410,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX"
+      "duration_ms": 205106,
+      "name": "God's Country",
+      "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
     },
     {
       "added_at": "2026-08-28 04:01:52",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2026-08-28 04:01:52",
       "album": {
-        "name": "God's Country",
-        "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
+        "name": "Born To Die",
+        "url": "https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 205106,
-      "name": "God's Country",
-      "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
+      "duration_ms": 161410,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX"
     },
     {
       "added_at": "2026-08-28 04:01:52",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-08-28 04:01:52",
       "album": {
-        "name": "We All Grow Up",
-        "url": "https://open.spotify.com/album/1XXkk3jAPfmW5jyRbRON7x"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Darlin'",
-      "url": "https://open.spotify.com/track/727x6SZXGF0LfU2vi3rjaH"
-    },
-    {
-      "added_at": "2026-08-28 04:01:52",
-      "album": {
         "name": "Proving Me Right",
         "url": "https://open.spotify.com/album/4Sy5ZQvGVhxbVZDUPY4UC2"
       },
@@ -1307,22 +1291,18 @@
     {
       "added_at": "2026-08-28 04:01:52",
       "album": {
-        "name": "The Outlaw Cherie Lee & Other Western Tales",
-        "url": "https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2"
+        "name": "We All Grow Up",
+        "url": "https://open.spotify.com/album/1XXkk3jAPfmW5jyRbRON7x"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
         }
       ],
-      "duration_ms": 195952,
-      "name": "Bullets & Blades (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/1mC3QkmmYh02CysAKb9NM2"
+      "duration_ms": 165000,
+      "name": "Darlin'",
+      "url": "https://open.spotify.com/track/727x6SZXGF0LfU2vi3rjaH"
     },
     {
       "added_at": "2026-08-28 04:01:52",
@@ -1351,6 +1331,26 @@
       "duration_ms": 231533,
       "name": "McArthur",
       "url": "https://open.spotify.com/track/6yOHshc12fwMtM74xoy4je"
+    },
+    {
+      "added_at": "2026-08-28 04:01:52",
+      "album": {
+        "name": "The Outlaw Cherie Lee & Other Western Tales",
+        "url": "https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 195952,
+      "name": "Bullets & Blades (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/1mC3QkmmYh02CysAKb9NM2"
     },
     {
       "added_at": "2026-08-28 04:01:52",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2026-08-28 04:01:52",
       "album": {
+        "name": "Loving Life Again",
+        "url": "https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 226413,
+      "name": "Loving Life Again",
+      "url": "https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny"
+    },
+    {
+      "added_at": "2026-08-28 04:01:52",
+      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 209038,
       "name": "Losers (Feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX"
-    },
-    {
-      "added_at": "2026-08-28 04:01:52",
-      "album": {
-        "name": "Loving Life Again",
-        "url": "https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 226413,
-      "name": "Loving Life Again",
-      "url": "https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny"
     },
     {
       "added_at": "2026-08-28 04:01:52",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-08-28 04:01:52",
       "album": {
-        "name": "ace",
-        "url": "https://open.spotify.com/album/1qV1UBoBOubbEoNetigs3Z"
-      },
-      "artists": [
-        {
-          "name": "Ashley Cooke",
-          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
-        }
-      ],
-      "duration_ms": 174748,
-      "name": "baby blues",
-      "url": "https://open.spotify.com/track/0gx2NKeIy2YCc1UaXkJmYI"
-    },
-    {
-      "added_at": "2026-08-28 04:01:52",
-      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2026-08-28 04:01:52",
       "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/5jcUel1E0hvk7kay5f3eh1"
+        "name": "ace",
+        "url": "https://open.spotify.com/album/1qV1UBoBOubbEoNetigs3Z"
       },
       "artists": [
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
         }
       ],
-      "duration_ms": 207878,
-      "name": "Traitor (Roles Reversed)",
-      "url": "https://open.spotify.com/track/69gC4UlxaDlNopZ0uBCuIj"
+      "duration_ms": 174748,
+      "name": "baby blues",
+      "url": "https://open.spotify.com/track/0gx2NKeIy2YCc1UaXkJmYI"
     },
     {
       "added_at": "2026-08-28 04:01:52",
@@ -1619,22 +1603,18 @@
     {
       "added_at": "2026-08-28 04:01:52",
       "album": {
-        "name": "Backup Plan (feat. Luke Combs)",
-        "url": "https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ"
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/5jcUel1E0hvk7kay5f3eh1"
       },
       "artists": [
         {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 181518,
-      "name": "Backup Plan (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
+      "duration_ms": 207878,
+      "name": "Traitor (Roles Reversed)",
+      "url": "https://open.spotify.com/track/69gC4UlxaDlNopZ0uBCuIj"
     },
     {
       "added_at": "2026-08-28 04:01:52",
@@ -1655,6 +1635,26 @@
       "duration_ms": 237493,
       "name": "Save Me - with Lainey Wilson",
       "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
+    },
+    {
+      "added_at": "2026-08-28 04:01:52",
+      "album": {
+        "name": "Backup Plan (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 181518,
+      "name": "Backup Plan (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
     },
     {
       "added_at": "2026-08-28 04:01:52",

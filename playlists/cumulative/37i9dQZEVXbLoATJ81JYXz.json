@@ -2940,7 +2940,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 158494,
       "name": "Animal",
       "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
@@ -10618,7 +10618,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 288670,
       "name": "Dancing on My Own",
       "url": "https://open.spotify.com/track/2UT3iEU7uQAXNUxCKfiZAj"
@@ -19610,7 +19610,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 139920,
       "name": "GG",
       "url": "https://open.spotify.com/track/6mwuhYhhovHMFvDOvr1B2Y"
@@ -20044,7 +20044,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 120545,
       "name": "Godnattvisan",
       "url": "https://open.spotify.com/track/5MxHurfskrN1RvkKez2ofd"
@@ -20528,6 +20528,24 @@
       "duration_ms": 169051,
       "name": "Grey",
       "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
+    },
+    {
+      "album": {
+        "name": "Until Now",
+        "url": "https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410096,
+      "name": "Greyhound",
+      "url": "https://open.spotify.com/track/0VffaI2jwQknRrxpECYHsF"
     },
     {
       "album": {
@@ -22534,7 +22552,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 179491,
       "name": "Here You Come Again",
       "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
@@ -22794,7 +22812,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 186375,
       "name": "Highway to Heaven",
       "url": "https://open.spotify.com/track/4z1ex5e2r3hyY9Qd43afdm"
@@ -31086,7 +31104,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 179360,
       "name": "Lilla Flicka",
       "url": "https://open.spotify.com/track/62bjwp48qvoNksriJTRFmo"
@@ -31126,6 +31144,28 @@
       "duration_ms": 169815,
       "name": "Lillebror",
       "url": "https://open.spotify.com/track/4XrilgzGsMBrzAiUz3MePx"
+    },
+    {
+      "album": {
+        "name": "Lioness",
+        "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Niki & The Dove",
+          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172515,
+      "name": "Lioness",
+      "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
     },
     {
       "album": {
@@ -35282,7 +35322,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 278240,
       "name": "Mirakel",
       "url": "https://open.spotify.com/track/4KtrEuk2Trxdyn2NmgTMTN"
@@ -35542,7 +35582,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 144946,
       "name": "MOB",
       "url": "https://open.spotify.com/track/25w9n4fLiTuC4wcbl0hFy6"
@@ -51774,7 +51814,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 195520,
       "name": "The Mud",
       "url": "https://open.spotify.com/track/2XOVfr5XNpYOYRwzfDm2FG"
@@ -53806,7 +53846,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 190344,
       "name": "Tusen sp\u00e4nn",
       "url": "https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM"
@@ -55686,7 +55726,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 138947,
       "name": "Vila med mig",
       "url": "https://open.spotify.com/track/5JxKpEkR3Gqvf4OA8VLrBR"

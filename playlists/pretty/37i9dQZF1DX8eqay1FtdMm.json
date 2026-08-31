@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: JEONG EUN JI (\uc815\uc740\uc9c0)) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 414183,
+  "num_followers": 414179,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Invitation",
-        "url": "https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "\ubcf4\uc5ec\uc904\uac8c",
-      "url": "https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
         "name": "Heavenly fate (Original Soundtrack from the Webtoon A Not So Fairy Tale)",
         "url": "https://open.spotify.com/album/6R3XGAZh7OzZBQiN8Ucbkq"
       },
@@ -223,18 +207,18 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "\uc911\ub3c5",
-        "url": "https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK"
+        "name": "Invitation",
+        "url": "https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd"
       },
       "artists": [
         {
-          "name": "Na Yoon Kwon",
-          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
         }
       ],
-      "duration_ms": 262562,
-      "name": "\ub098\uc600\uc73c\uba74",
-      "url": "https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO"
+      "duration_ms": 233813,
+      "name": "\ubcf4\uc5ec\uc904\uac8c",
+      "url": "https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -251,6 +235,22 @@
       "duration_ms": 260607,
       "name": "Gift",
       "url": "https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
+        "name": "\uc911\ub3c5",
+        "url": "https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK"
+      },
+      "artists": [
+        {
+          "name": "Na Yoon Kwon",
+          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
+        }
+      ],
+      "duration_ms": 262562,
+      "name": "\ub098\uc600\uc73c\uba74",
+      "url": "https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Caligo Pt.1",
-        "url": "https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 256120,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/3ICrCBhFiLaX0qP7KErHLe"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
         "name": "GANADARA",
         "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
+        "name": "Caligo Pt.1",
+        "url": "https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 256120,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/3ICrCBhFiLaX0qP7KErHLe"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -687,18 +687,18 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Become More Beautiful",
-        "url": "https://open.spotify.com/album/5N5J8Ssg92eEhlm2j6BqVt"
+        "name": "Knock",
+        "url": "https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9"
       },
       "artists": [
         {
-          "name": "So Soo Bin",
-          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
         }
       ],
-      "duration_ms": 268000,
-      "name": "Become More Beautiful",
-      "url": "https://open.spotify.com/track/7FJ3haDCi8Y6wA27PeKPC9"
+      "duration_ms": 221786,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3K8wfMDLxwtLGuVrYobxVe"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -719,18 +719,18 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Knock",
-        "url": "https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9"
+        "name": "Become More Beautiful",
+        "url": "https://open.spotify.com/album/5N5J8Ssg92eEhlm2j6BqVt"
       },
       "artists": [
         {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
         }
       ],
-      "duration_ms": 221786,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3K8wfMDLxwtLGuVrYobxVe"
+      "duration_ms": 268000,
+      "name": "Become More Beautiful",
+      "url": "https://open.spotify.com/track/7FJ3haDCi8Y6wA27PeKPC9"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Eyebrow Moon",
-        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
-      },
-      "artists": [
-        {
-          "name": "Lee Sora",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 236693,
-      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
-      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
         "name": "I Miss You So Much",
         "url": "https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 216813,
       "name": "I Miss You So Much",
       "url": "https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
+        "name": "Eyebrow Moon",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
+      },
+      "artists": [
+        {
+          "name": "Lee Sora",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -971,18 +971,18 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Rain on me",
-        "url": "https://open.spotify.com/album/7DFohRoscL9ora3kVf1z3p"
+        "name": "Butterfly Effect",
+        "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
       },
       "artists": [
         {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
         }
       ],
-      "duration_ms": 253000,
-      "name": "Rain on me",
-      "url": "https://open.spotify.com/track/7cR31CCUrUv3xBPLwV8DKl"
+      "duration_ms": 273680,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
+        "name": "Rain on me",
+        "url": "https://open.spotify.com/album/7DFohRoscL9ora3kVf1z3p"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Rain on me",
+      "url": "https://open.spotify.com/track/7cR31CCUrUv3xBPLwV8DKl"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
         "name": "With You (from Sold Out On You (Original Soundtrack) part 5)",
         "url": "https://open.spotify.com/album/7rSG8qogZHS0vUk251fSRi"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 196953,
       "name": "With You",
       "url": "https://open.spotify.com/track/78kjGxSfPU6YV5Rjej6Ebt"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
-        "name": "Butterfly Effect",
-        "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 273680,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/7rGcnNoG09g5Meje4gPrwN"
-      },
-      "artists": [
-        {
-          "name": "RYEOWOOK",
-          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/2oqZ4QuvbLyNwZ5H9FzzW1"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
         "name": "Jay Park Season 1",
         "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 219742,
       "name": "Your/My",
       "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/7rGcnNoG09g5Meje4gPrwN"
+      },
+      "artists": [
+        {
+          "name": "RYEOWOOK",
+          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/2oqZ4QuvbLyNwZ5H9FzzW1"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/4slUF3getoU3xR2UcxFMUL"
-      },
-      "artists": [
-        {
-          "name": "Lee Sora",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/1g1sttRV6Dy2tj6aE92TnM"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
         "name": "Shadow Of Your Smile",
         "url": "https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 273773,
       "name": "Spring day goes",
       "url": "https://open.spotify.com/track/4qg4R296ne1vu0Mlsdtg99"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/4slUF3getoU3xR2UcxFMUL"
+      },
+      "artists": [
+        {
+          "name": "Lee Sora",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/1g1sttRV6Dy2tj6aE92TnM"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Haze",
-        "url": "https://open.spotify.com/album/2a8lS3EXK9D9kLDtCmzgmI"
-      },
-      "artists": [
-        {
-          "name": "slowly",
-          "url": "https://open.spotify.com/artist/4nlhwoVtGxBhaNia2znZg0"
-        }
-      ],
-      "duration_ms": 198547,
-      "name": "Haze",
-      "url": "https://open.spotify.com/track/0Vp1xTot1eXBXLzEpphGGa"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
         "name": "HANGANG",
         "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "YOUNHA 7th Album 'GROWTH THEORY'",
-        "url": "https://open.spotify.com/album/7B2dOs6eNhgmIWsP3zHKpm"
+        "name": "Haze",
+        "url": "https://open.spotify.com/album/2a8lS3EXK9D9kLDtCmzgmI"
       },
       "artists": [
         {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+          "name": "slowly",
+          "url": "https://open.spotify.com/artist/4nlhwoVtGxBhaNia2znZg0"
         }
       ],
-      "duration_ms": 218920,
-      "name": "Sun\ufb01sh",
-      "url": "https://open.spotify.com/track/1VQwQsaa6aUHg9gQP0llyU"
+      "duration_ms": 198547,
+      "name": "Haze",
+      "url": "https://open.spotify.com/track/0Vp1xTot1eXBXLzEpphGGa"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -1459,6 +1443,22 @@
       "duration_ms": 288046,
       "name": "All Our Days",
       "url": "https://open.spotify.com/track/6SCzQNXZpExdFIJ5vsX04y"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
+        "name": "YOUNHA 7th Album 'GROWTH THEORY'",
+        "url": "https://open.spotify.com/album/7B2dOs6eNhgmIWsP3zHKpm"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Sun\ufb01sh",
+      "url": "https://open.spotify.com/track/1VQwQsaa6aUHg9gQP0llyU"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
+        "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
+      },
+      "artists": [
+        {
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
         "name": "Mother Nature (H\u2082O)",
         "url": "https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw"
       },
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
-      },
-      "artists": [
-        {
-          "name": "Chancellor",
-          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
         "name": "SUZUME",
         "url": "https://open.spotify.com/album/0jIf0pFZslLCWgTfJbuvUx"
       },
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "I won\u2019t even want more (Peacock)",
-        "url": "https://open.spotify.com/album/0Ud5x6ghXQvkxkhFmRdk10"
-      },
-      "artists": [
-        {
-          "name": "sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 240711,
-      "name": "I won\u2019t even want more (Peacock)",
-      "url": "https://open.spotify.com/track/7hDUPRElIrvjSmVIFQZFQX"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
         "name": "Youth",
         "url": "https://open.spotify.com/album/3DBcr68sNqelCiUNAV5PdB"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 195000,
       "name": "Youth",
       "url": "https://open.spotify.com/track/2BOh2a5CH0xGYCBx66CwsV"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
+        "name": "Like Yesterday",
+        "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Like Yesterday",
+      "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Like Yesterday",
-        "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
+        "name": "I won\u2019t even want more (Peacock)",
+        "url": "https://open.spotify.com/album/0Ud5x6ghXQvkxkhFmRdk10"
       },
       "artists": [
         {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+          "name": "sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Like Yesterday",
-      "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
+      "duration_ms": 240711,
+      "name": "I won\u2019t even want more (Peacock)",
+      "url": "https://open.spotify.com/track/7hDUPRElIrvjSmVIFQZFQX"
     }
   ],
   "unique_name": "v o K a l",

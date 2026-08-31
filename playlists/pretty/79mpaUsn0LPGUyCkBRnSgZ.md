@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 773 songs - 2 day 1 hr 48 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 775 songs - 2 day 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -781,5 +781,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 771 | [Etiquette I.D.](https://open.spotify.com/track/5n7VnQbx6A4C01afTZln8D) | [Casiotone For The Painfully Alone](https://open.spotify.com/artist/4FdSsjcX7vzOnN5zNqQWAy) | [Etiquette](https://open.spotify.com/album/1fMaPBDIcOsEpW4tz6gUhi) | 0:05 |
 | 772 | [The White Tent the Raft](https://open.spotify.com/track/2Q4cjzlPGdjR869Z512sFS) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [The Walking](https://open.spotify.com/album/7cv1OYN3ovq1sXi1Qwj2KW) | 9:12 |
 | 773 | [GONE FISHING](https://open.spotify.com/track/6oQfnabhlSgGBdYZmDGrDz) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [ii](https://open.spotify.com/album/4yO2uzc6AgadKUtGIBCZwK) | 2:04 |
+| 774 | [I Wear a Shirt That Says Australia](https://open.spotify.com/track/0iA5kbj14o3IMfjkN0Fgtp) | [Champion Trees](https://open.spotify.com/artist/2TGA8WEasn5tdn6MZ7FWzw) | [A Duck's Water Off My Back](https://open.spotify.com/album/2gXbHIPYnZN1AejPIUyyQC) | 3:56 |
+| 775 | [Suffer Less](https://open.spotify.com/track/6RGrCdcFVQ4QggKyLkwAya) | [Whait](https://open.spotify.com/artist/4Ic46u36imWbA6I0fdFqhX), [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [Wendy Eisenberg](https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi) | [Icarus in Training](https://open.spotify.com/album/7fEN2NCC6LKKqowqqKN4ip) | 4:22 |
 
-Snapshot ID: `AAAJgvq284K4Exf/ovxTVkALwKyLuZYC`
+Snapshot ID: `AAAJhGuX/hK4z5Fepajdcl6C1aAGZJVY`

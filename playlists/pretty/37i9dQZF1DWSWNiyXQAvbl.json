@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 517494,
+  "num_followers": 517528,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 163275,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
         "name": "Looking Glass",
         "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 199573,
       "name": "Sister Golden Hair",
       "url": "https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 163275,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "All Things Must Pass (Remastered)",
-        "url": "https://open.spotify.com/album/16YCkHew4MBxGtpqkCTx6M"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 281226,
-      "name": "My Sweet Lord",
-      "url": "https://open.spotify.com/track/1chu8wc9zbNqTQ2ahROys1"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Five-A-Side",
-        "url": "https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F"
+        "name": "All Things Must Pass (Remastered)",
+        "url": "https://open.spotify.com/album/16YCkHew4MBxGtpqkCTx6M"
       },
       "artists": [
         {
-          "name": "Ace",
-          "url": "https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP"
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
         }
       ],
-      "duration_ms": 204226,
-      "name": "How Long",
-      "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
+      "duration_ms": 281226,
+      "name": "My Sweet Lord",
+      "url": "https://open.spotify.com/track/1chu8wc9zbNqTQ2ahROys1"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1011,6 +995,22 @@
       "duration_ms": 240991,
       "name": "Follow You Follow Me - Remastered 2007",
       "url": "https://open.spotify.com/track/0HdcunWW5FsRqKr3lwJOIo"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Five-A-Side",
+        "url": "https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F"
+      },
+      "artists": [
+        {
+          "name": "Ace",
+          "url": "https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
     },
     {
       "added_at": "2024-06-03 14:45:23",

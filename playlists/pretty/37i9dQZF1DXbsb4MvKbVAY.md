@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa Charli xcx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,686 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,689 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 83 | [Ämpäri](https://open.spotify.com/track/33NLtvVYYVtUNVwkytDzRh) | [Sebastian Visa](https://open.spotify.com/artist/5KGtBCbmfrpTqAq1ISbi1D), [Vgr](https://open.spotify.com/artist/4EJrHgRLh0VMC3aA7RkmH9) | [Ämpäri](https://open.spotify.com/album/3f5aCCzFnZ3O83dZvblJIz) | 2:47 |
 | 84 | [keväisin](https://open.spotify.com/track/0YKUGWa5eA5x5bWQ4xb2g2) | [ama](https://open.spotify.com/artist/1sAg7IqfaJWUFIeJRHXA6v) | [keväisin](https://open.spotify.com/album/2fc0xDffuBiIFBKBiAmtZt) | 3:27 |
 | 85 | [Kevyt ja kohtuuton](https://open.spotify.com/track/3nC4RiESLtdOhxKgDs806R) | [Ismo Alanko](https://open.spotify.com/artist/6h03SuifBwUlydEkwrXVXF) | [Kevyt ja kohtuuton](https://open.spotify.com/album/7A1jCxlw6K90rLonitQTXy) | 3:15 |
-| 86 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
-| 87 | [Yli susta](https://open.spotify.com/track/5cPu5jFxEzDH8pfQAnPw3x) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI) | [Yli susta](https://open.spotify.com/album/6PePqZbrd3VpqhxqJhBvzL) | 3:02 |
+| 86 | [Yli susta](https://open.spotify.com/track/5cPu5jFxEzDH8pfQAnPw3x) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI) | [Yli susta](https://open.spotify.com/album/6PePqZbrd3VpqhxqJhBvzL) | 3:02 |
+| 87 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
 | 88 | [Yhteysvikoja](https://open.spotify.com/track/2LjvFtrvepZG394zVmGTqJ) | [yaya](https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z) | [Yhteysvikoja](https://open.spotify.com/album/5q6WD4dR25MUPLewM5SD0Z) | 2:19 |
 | 89 | [Hapentuhlaaja](https://open.spotify.com/track/1Kf9dXKBgADl0e1ykqqVnP) | [Maustetytöt](https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I) | [Hapentuhlaaja](https://open.spotify.com/album/6TMeO2tK5MdNro4q7G0DNR) | 4:36 |
 | 90 | [Uudestaan](https://open.spotify.com/track/7l85jewWzD4AV6J4tYsJJJ) | [kukkatalo](https://open.spotify.com/artist/2PGMdEZQ77cq8niDgHe1X1) | [Ristiriita](https://open.spotify.com/album/6Dk1S6dzPOrHjAHYFNYWWb) | 2:57 |

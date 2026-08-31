@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,111 likes - 60 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,159 likes - 60 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 37 | [The Hills](https://open.spotify.com/track/5dCkryH3vx41J2FDsbmxqq) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [The Hills / True Fours](https://open.spotify.com/album/3onF7nhMqEh590IaLt6ZMp) | 2:40 |
 | 38 | [highway](https://open.spotify.com/track/3zJww8yH1LdbR74yHO0qAN) | [limedisx.](https://open.spotify.com/artist/5NGCRjAltWbKLm8yD4RNRO), [BASEMENT WAVE](https://open.spotify.com/artist/5oZXZRYvIV1uAaC4rueG5I) | [highway](https://open.spotify.com/album/5bo2d6aTtWE7Ntb07QmD4r) | 4:29 |
 | 39 | [Ursa Minor](https://open.spotify.com/track/1fAE8kdcaCxyva7Ctqa7mm) | [Half Dead Dave](https://open.spotify.com/artist/7jnSEc8AP86RKGbWMkWnyR) | [Celestial Bean](https://open.spotify.com/album/3QCUXz4wngUboH05FtdduI) | 4:41 |
-| 40 | [Polar Circle](https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Polar Circle](https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB) | 1:57 |
-| 41 | [Endcliffe Park](https://open.spotify.com/track/4Uoy2ySRvBC1jnbj5FfusP) | [Al Zanders](https://open.spotify.com/artist/4udfBn2nJQ6bHoMrr2lKpz) | [Limb Valley](https://open.spotify.com/album/1cW1KQEfAhaDUk2MVlc2Gq) | 7:30 |
-| 42 | [Be Free](https://open.spotify.com/track/6lrKGHqI1tWcLob2F9UzWQ) | [J Boogie's Dubtronic Science](https://open.spotify.com/artist/2rvTQk7vgdGgo7rgbpQccv), [Carlos Araiza](https://open.spotify.com/artist/0RSWrUebnvbFC1IdV5J06y) | [Be Free](https://open.spotify.com/album/6feqNecN7VPp8Th36yMDeJ) | 5:49 |
+| 40 | [Endcliffe Park](https://open.spotify.com/track/4Uoy2ySRvBC1jnbj5FfusP) | [Al Zanders](https://open.spotify.com/artist/4udfBn2nJQ6bHoMrr2lKpz) | [Limb Valley](https://open.spotify.com/album/1cW1KQEfAhaDUk2MVlc2Gq) | 7:30 |
+| 41 | [Be Free](https://open.spotify.com/track/6lrKGHqI1tWcLob2F9UzWQ) | [J Boogie's Dubtronic Science](https://open.spotify.com/artist/2rvTQk7vgdGgo7rgbpQccv), [Carlos Araiza](https://open.spotify.com/artist/0RSWrUebnvbFC1IdV5J06y) | [Be Free](https://open.spotify.com/album/6feqNecN7VPp8Th36yMDeJ) | 5:49 |
+| 42 | [Polar Circle](https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Polar Circle](https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB) | 1:57 |
 | 43 | [Nektar Leftie MIX \- Erdbeerschnitzel Remix](https://open.spotify.com/track/5yHjIzK4HlP9pmnpTyKiyQ) | [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt), [Lisa Toh](https://open.spotify.com/artist/17oFlDwJ5mU3pfbUxArTCO), [Erdbeerschnitzel](https://open.spotify.com/artist/36VqKnfwNzccEtS4eiFkMx) | [Moon II Remixes Pt\. II](https://open.spotify.com/album/7xlT3P0bDwaphbAUhIYYpD) | 4:37 |
 | 44 | [Fall In Love](https://open.spotify.com/track/39MX1i8UtVwYa99k1VfZsp) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Fall In Love](https://open.spotify.com/album/5iup1pzVHKxaIArnwIAYiV) | 5:49 |
 | 45 | [Diving into Minds](https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Asakusa Light](https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3) | 4:31 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 51 | [Alone Girl](https://open.spotify.com/track/2j2clSPCLFbBqNVS6MPR8q) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Alone Girl](https://open.spotify.com/album/4v4E87v7TwXmwdgnceN6F8) | 3:08 |
 | 52 | [Tokyo Cruise](https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Tokyo Cruise](https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI) | 3:02 |
 | 53 | [Expendable](https://open.spotify.com/track/5V1kiRxJuk0zK4iuIg0H3e) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Bob The Egoist](https://open.spotify.com/artist/7xnyalS4aryg4kytwi61iI) | [Freedom EP](https://open.spotify.com/album/7CiuYJVx1NrdZhzcWs9OeO) | 5:16 |
-| 54 | [Lotus Bass](https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4) | [Aroma Pitch](https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC) | [Interlife](https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1) | 4:41 |
-| 55 | [Take It For Granted](https://open.spotify.com/track/222hw1bqvfjHI8eGaKRg7A) | [QUASAR](https://open.spotify.com/artist/0TQgpQgq7wSCeohL4uc1pL) | [Take It For Granted](https://open.spotify.com/album/14Th8ev4esmoDwb7ljoz8J) | 2:36 |
+| 54 | [Take It For Granted](https://open.spotify.com/track/222hw1bqvfjHI8eGaKRg7A) | [QUASAR](https://open.spotify.com/artist/0TQgpQgq7wSCeohL4uc1pL) | [Take It For Granted](https://open.spotify.com/album/14Th8ev4esmoDwb7ljoz8J) | 2:36 |
+| 55 | [Lotus Bass](https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4) | [Aroma Pitch](https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC) | [Interlife](https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1) | 4:41 |
 | 56 | [Carefree](https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Carefree](https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB) | 3:28 |
 | 57 | [199X](https://open.spotify.com/track/2K3GOGsD0FEKMkqyK8uTbP) | [Phil from Havêa](https://open.spotify.com/artist/5gyMIFkh865zZG52zrjgKM) | [199X](https://open.spotify.com/album/3P8J6rHmSgyeq3lJF0ijIF) | 3:33 |
 | 58 | [I Knew It](https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B) | [Yambow](https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS), [Latas](https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb) | [I Knew It](https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei) | 3:44 |

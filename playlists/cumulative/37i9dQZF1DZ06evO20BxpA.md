@@ -4,7 +4,7 @@
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-177 songs - 8 hr 3 min
+178 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [The Ocean Returns The Favour \- From "Our Planet"](https://open.spotify.com/track/30m0iV0x6N2XydxSE3kurk) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 2:20 | 2023-08-04 |  |
 | [The Process of Extinctions](https://open.spotify.com/track/0CGFoSLihWAehdjHM8mttL) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:55 | 2023-09-25 |  |
 | [The Proposal](https://open.spotify.com/track/1tLlobGY6CGgRAf6ejcXmw) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [American Assassin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d) | 4:00 | 2024-06-21 | 2024-06-28 |
-| [The Running Man](https://open.spotify.com/track/0tK1y7xGyU25n3eMTHvYkK) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Running Man \(Music from the Motion Picture\)](https://open.spotify.com/album/3POVf5rrFp35InUOY8IV4O) | 4:00 | 2025-11-16 |  |
+| [The Running Man](https://open.spotify.com/track/0tK1y7xGyU25n3eMTHvYkK) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Running Man \(Music from the Motion Picture\)](https://open.spotify.com/album/3POVf5rrFp35InUOY8IV4O) | 4:00 | 2025-11-16 | 2026-08-31 |
 | [The Seasonal Seas](https://open.spotify.com/track/2unzEGoGb2MvAwm3CMP2hD) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Coastal Seas \(Episode 4 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h) | 0:55 | 2023-08-04 |  |
 | [The Shallow Seas](https://open.spotify.com/track/1vjuL6knzg5Xhh3bdaUUJ7) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 1:51 | 2025-05-13 | 2025-12-25 |
 | [The War Is Not Over](https://open.spotify.com/track/7MHmZEYVLowwputJgtcVT7) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 1:47 | 2023-08-04 | 2025-01-18 |
@@ -182,6 +182,7 @@
 | [You Cannot Imagine His Anguish](https://open.spotify.com/track/4ks8TXjj8gOqX4PC6WoFZT) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 2:25 | 2023-09-15 | 2025-06-29 |
 | [You Have The True Spirit of A Lady](https://open.spotify.com/track/4q61vq8quw5AMFIe0jF0sm) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 3:01 | 2023-12-13 | 2025-12-15 |
 | [You Stop My Heart](https://open.spotify.com/track/4PPXEa0j144GyF23vT3GZj) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 1:17 | 2023-08-04 |  |
+| [You Wanted a Drumstick](https://open.spotify.com/track/3M7sdV1gpPnProV5YYZGYD) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Coyote vs\. Acme \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ODrkAE2RXDtAAfvOqkXz7) | 2:35 | 2026-08-31 |  |
 | [You're A Strange Man](https://open.spotify.com/track/1lzMLHSOXAEuioVK4RKvYo) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 0:58 | 2025-01-06 | 2025-02-21 |
 | [You're My World \- Soho Version](https://open.spotify.com/track/1YEhtRxWc1BiHh3Xt0fXJW) | [Anya Taylor\-Joy](https://open.spotify.com/artist/5RAMfpOCoBthlipim1IaUa), [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Last Night In Soho \(Original Motion Picture Score\)](https://open.spotify.com/album/4Mnn0ufXhd94rvmMLRyTlL) | 2:18 | 2023-08-04 | 2024-11-14 |
 | [Your Beauty Conquered Me](https://open.spotify.com/track/4zyb2U2qdpg57TkpjOic9T) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [William Tell \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4) | 1:07 | 2025-01-28 | 2025-02-26 |

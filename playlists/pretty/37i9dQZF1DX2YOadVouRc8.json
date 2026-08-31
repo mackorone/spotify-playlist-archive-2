@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 49342,
+  "num_followers": 49371,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -487,26 +487,6 @@
     {
       "added_at": "2026-08-28 00:02:02",
       "album": {
-        "name": "STATE OF MIND",
-        "url": "https://open.spotify.com/album/5qTP3Akjr05OV0ZdSH7Mcx"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 192227,
-      "name": "STATE OF MIND",
-      "url": "https://open.spotify.com/track/6jHxHUv9jF1ss5NAkG6JPo"
-    },
-    {
-      "added_at": "2026-08-28 00:02:02",
-      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 174253,
       "name": "Bad Girl (feat. Asake)",
       "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
+    },
+    {
+      "added_at": "2026-08-28 00:02:02",
+      "album": {
+        "name": "STATE OF MIND",
+        "url": "https://open.spotify.com/album/5qTP3Akjr05OV0ZdSH7Mcx"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 192227,
+      "name": "STATE OF MIND",
+      "url": "https://open.spotify.com/track/6jHxHUv9jF1ss5NAkG6JPo"
     },
     {
       "added_at": "2026-08-28 00:02:02",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-08-28 00:02:02",
       "album": {
-        "name": "On The Road",
-        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
-      },
-      "artists": [
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "Masculine Love",
-      "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
-    },
-    {
-      "added_at": "2026-08-28 00:02:02",
-      "album": {
         "name": "Splendid (with ODUMODUBLVCK)",
         "url": "https://open.spotify.com/album/4ynSvpsyERXcp6TCMW8EXA"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 170000,
       "name": "Splendid (with ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/0M5fXyCkMgXEGeugrrU19n"
+    },
+    {
+      "added_at": "2026-08-28 00:02:02",
+      "album": {
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "Masculine Love",
+      "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
     },
     {
       "added_at": "2026-08-28 00:02:02",
@@ -719,30 +719,6 @@
     {
       "added_at": "2026-08-28 00:02:02",
       "album": {
-        "name": "ONE CALL",
-        "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 158712,
-      "name": "ONE CALL",
-      "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
-    },
-    {
-      "added_at": "2026-08-28 00:02:02",
-      "album": {
         "name": "JUNCTION",
         "url": "https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe"
       },
@@ -767,18 +743,26 @@
     {
       "added_at": "2026-08-28 00:02:02",
       "album": {
-        "name": "Shy Lover",
-        "url": "https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I"
+        "name": "ONE CALL",
+        "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
       },
       "artists": [
         {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 163404,
-      "name": "Shy Lover",
-      "url": "https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ"
+      "duration_ms": 158712,
+      "name": "ONE CALL",
+      "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
     },
     {
       "added_at": "2026-08-28 00:02:02",
@@ -795,6 +779,22 @@
       "duration_ms": 201874,
       "name": "Captain",
       "url": "https://open.spotify.com/track/51yPymXsGbEyh7InU6yRJP"
+    },
+    {
+      "added_at": "2026-08-28 00:02:02",
+      "album": {
+        "name": "Shy Lover",
+        "url": "https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Shy Lover",
+      "url": "https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ"
     },
     {
       "added_at": "2026-08-28 00:02:02",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-08-28 00:02:02",
       "album": {
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 187590,
+      "name": "Ashimolowo",
+      "url": "https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv"
+    },
+    {
+      "added_at": "2026-08-28 00:02:02",
+      "album": {
         "name": "PRESSURE",
         "url": "https://open.spotify.com/album/5rdwzI9gxT5QsDkGHJtwv4"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 136533,
       "name": "PRESSURE",
       "url": "https://open.spotify.com/track/6aRUdMoZ5iNZrisubVw0SC"
-    },
-    {
-      "added_at": "2026-08-28 00:02:02",
-      "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 187590,
-      "name": "Ashimolowo",
-      "url": "https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv"
     },
     {
       "added_at": "2026-08-28 00:02:02",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-08-28 00:02:02",
       "album": {
+        "name": "YoYo",
+        "url": "https://open.spotify.com/album/50zFt2TgGXsfDnf6W0gYys"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "YoYo",
+      "url": "https://open.spotify.com/track/1KIv5Z3YLlURsQ8e2OwXuo"
+    },
+    {
+      "added_at": "2026-08-28 00:02:02",
+      "album": {
         "name": "Understand Me",
         "url": "https://open.spotify.com/album/08wSUNoBVnufVVXiR0uXao"
       },
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2026-08-28 00:02:02",
       "album": {
-        "name": "Sunset in Paris",
-        "url": "https://open.spotify.com/album/3DhEtDbJB5wNyOV8fkBik3"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Sunset in Paris",
-      "url": "https://open.spotify.com/track/6wPXn7X3Zx2icmv6qXh8oQ"
-    },
-    {
-      "added_at": "2026-08-28 00:02:02",
-      "album": {
         "name": "Before The Morning Light",
         "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
       },
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-08-28 00:02:02",
       "album": {
+        "name": "Sunset in Paris",
+        "url": "https://open.spotify.com/album/3DhEtDbJB5wNyOV8fkBik3"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Sunset in Paris",
+      "url": "https://open.spotify.com/track/6wPXn7X3Zx2icmv6qXh8oQ"
+    },
+    {
+      "added_at": "2026-08-28 00:02:02",
+      "album": {
         "name": "US",
         "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 165600,
       "name": "ZERO",
       "url": "https://open.spotify.com/track/0A0guIoWqPINmiLwWu2Phg"
-    },
-    {
-      "added_at": "2026-08-28 00:02:02",
-      "album": {
-        "name": "YoYo",
-        "url": "https://open.spotify.com/album/50zFt2TgGXsfDnf6W0gYys"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "YoYo",
-      "url": "https://open.spotify.com/track/1KIv5Z3YLlURsQ8e2OwXuo"
     },
     {
       "added_at": "2026-08-28 00:02:02",
@@ -1327,22 +1327,18 @@
     {
       "added_at": "2026-08-28 00:02:02",
       "album": {
-        "name": "Exopa",
-        "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
+        "name": "Chaser",
+        "url": "https://open.spotify.com/album/39nOK6AHQW2nv0WE76xUWx"
       },
       "artists": [
         {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
         }
       ],
-      "duration_ms": 190515,
-      "name": "Exopa",
-      "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
+      "duration_ms": 148000,
+      "name": "Chaser",
+      "url": "https://open.spotify.com/track/47OEfIUDijuWI5mnV4U20H"
     },
     {
       "added_at": "2026-08-28 00:02:02",
@@ -1387,18 +1383,38 @@
     {
       "added_at": "2026-08-28 00:02:02",
       "album": {
-        "name": "Must Have Been",
-        "url": "https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr"
+        "name": "Exopa",
+        "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
       },
       "artists": [
         {
-          "name": "TAR1Q",
-          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
         }
       ],
-      "duration_ms": 156320,
-      "name": "Must Have Been",
-      "url": "https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U"
+      "duration_ms": 190515,
+      "name": "Exopa",
+      "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
+    },
+    {
+      "added_at": "2026-08-28 00:02:02",
+      "album": {
+        "name": "ANGELINA",
+        "url": "https://open.spotify.com/album/0LWe3uTbX8Kb6oBFO6SX3P"
+      },
+      "artists": [
+        {
+          "name": "Mckay",
+          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "ANGELINA",
+      "url": "https://open.spotify.com/track/63HgTd6auz95LJKKW4Hssi"
     },
     {
       "added_at": "2026-08-28 00:02:02",
@@ -1427,6 +1443,22 @@
     {
       "added_at": "2026-08-28 00:02:02",
       "album": {
+        "name": "Must Have Been",
+        "url": "https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr"
+      },
+      "artists": [
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        }
+      ],
+      "duration_ms": 156320,
+      "name": "Must Have Been",
+      "url": "https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U"
+    },
+    {
+      "added_at": "2026-08-28 00:02:02",
+      "album": {
         "name": "US III",
         "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
       },
@@ -1443,6 +1475,30 @@
       "duration_ms": 156190,
       "name": "US III",
       "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
+    },
+    {
+      "added_at": "2026-08-28 00:02:02",
+      "album": {
+        "name": "Perspe",
+        "url": "https://open.spotify.com/album/39q1Diw7kiA322DpcOLOBF"
+      },
+      "artists": [
+        {
+          "name": "Young Legend",
+          "url": "https://open.spotify.com/artist/4xlH0w88CE65Qi7jE0PLYd"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Fxrtune",
+          "url": "https://open.spotify.com/artist/5FWZoWPhJAzysoaslzFaZF"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Perspe",
+      "url": "https://open.spotify.com/track/5pVFf9ldLYN9cf7v7Swgax"
     },
     {
       "added_at": "2026-08-28 00:02:02",
@@ -1499,62 +1555,6 @@
       "duration_ms": 155094,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk"
-    },
-    {
-      "added_at": "2026-08-28 00:02:02",
-      "album": {
-        "name": "Chaser",
-        "url": "https://open.spotify.com/album/39nOK6AHQW2nv0WE76xUWx"
-      },
-      "artists": [
-        {
-          "name": "Kashcoming",
-          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Chaser",
-      "url": "https://open.spotify.com/track/47OEfIUDijuWI5mnV4U20H"
-    },
-    {
-      "added_at": "2026-08-28 00:02:02",
-      "album": {
-        "name": "ANGELINA",
-        "url": "https://open.spotify.com/album/0LWe3uTbX8Kb6oBFO6SX3P"
-      },
-      "artists": [
-        {
-          "name": "Mckay",
-          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "ANGELINA",
-      "url": "https://open.spotify.com/track/63HgTd6auz95LJKKW4Hssi"
-    },
-    {
-      "added_at": "2026-08-28 00:02:02",
-      "album": {
-        "name": "Perspe",
-        "url": "https://open.spotify.com/album/39q1Diw7kiA322DpcOLOBF"
-      },
-      "artists": [
-        {
-          "name": "Young Legend",
-          "url": "https://open.spotify.com/artist/4xlH0w88CE65Qi7jE0PLYd"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Fxrtune",
-          "url": "https://open.spotify.com/artist/5FWZoWPhJAzysoaslzFaZF"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Perspe",
-      "url": "https://open.spotify.com/track/5pVFf9ldLYN9cf7v7Swgax"
     }
   ],
   "unique_name": "Afro Chill",

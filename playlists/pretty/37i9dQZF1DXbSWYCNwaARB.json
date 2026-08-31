@@ -1,6 +1,6 @@
 {
   "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: Tiffany Young)",
-  "num_followers": 922244,
+  "num_followers": 922219,
   "original_name": "Girl Krush",
   "owner": {
     "name": "Spotify",
@@ -283,8 +283,8 @@
     {
       "added_at": "2026-08-24 05:13:39",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
+      "duration_ms": 179026,
+      "name": "Hype Boy",
+      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
     },
     {
       "added_at": "2026-08-24 05:13:39",
@@ -363,8 +363,8 @@
     {
       "added_at": "2026-08-24 05:13:39",
       "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 179026,
-      "name": "Hype Boy",
-      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
+      "duration_ms": 191000,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
     },
     {
       "added_at": "2026-08-24 05:13:39",
@@ -723,38 +723,6 @@
     {
       "added_at": "2026-08-24 05:13:39",
       "album": {
-        "name": "MEOW",
-        "url": "https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5"
-      },
-      "artists": [
-        {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
-        }
-      ],
-      "duration_ms": 172073,
-      "name": "MEOW",
-      "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
-    },
-    {
-      "added_at": "2026-08-24 05:13:39",
-      "album": {
-        "name": "CELEBRATION",
-        "url": "https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "CELEBRATION",
-      "url": "https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1"
-    },
-    {
-      "added_at": "2026-08-24 05:13:39",
-      "album": {
         "name": "NA",
         "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
       },
@@ -767,6 +735,38 @@
       "duration_ms": 162840,
       "name": "ABCD",
       "url": "https://open.spotify.com/track/0V2passWyAXnON67kfAj7y"
+    },
+    {
+      "added_at": "2026-08-24 05:13:39",
+      "album": {
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 164554,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
+    },
+    {
+      "added_at": "2026-08-24 05:13:39",
+      "album": {
+        "name": "MEOW",
+        "url": "https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "duration_ms": 172073,
+      "name": "MEOW",
+      "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
     },
     {
       "added_at": "2026-08-24 05:13:39",
@@ -823,8 +823,8 @@
     {
       "added_at": "2026-08-24 05:13:39",
       "album": {
-        "name": "CRAZY",
-        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
+        "name": "CELEBRATION",
+        "url": "https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 164554,
-      "name": "CRAZY",
-      "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
+      "duration_ms": 153000,
+      "name": "CELEBRATION",
+      "url": "https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1"
     },
     {
       "added_at": "2026-08-24 05:13:39",

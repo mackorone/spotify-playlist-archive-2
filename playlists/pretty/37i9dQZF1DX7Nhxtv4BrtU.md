@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Nhxtv4BrtU.md) - [plain]
 
 > 음악으로 경계를 허물며 하나가 되는 DMZ PEACE TRAIN FESTIVAL 2026의 셋리스트를 다시 들어보세요!<br/>Listen back to the setlist from DMZ PEACE TRAIN FESTIVAL 2026, where dancers become borderless through peace and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 582 likes - 205 songs - 13 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 583 likes - 205 songs - 13 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

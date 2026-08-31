@@ -1,12 +1,12 @@
 {
   "description": "OffAxisGigs.com | Indie | Folk | Electro | Rock | Pop ",
-  "num_followers": 1423,
+  "num_followers": 1421,
   "original_name": "Off Axis Gigs . com",
   "owner": {
     "name": "newfoundsound",
     "url": "https://open.spotify.com/user/newfoundsound"
   },
-  "snapshot_id": "AACCTcQAfWRzclN5lty8AAtj4TNWfNdj",
+  "snapshot_id": "AACCTsvMzTO3g2iaLAm8SxdmCaW4cyWx",
   "tracks": [
     {
       "added_at": "2026-08-23 10:30:05",
@@ -2851,6 +2851,26 @@
       "duration_ms": 160487,
       "name": "Ocean Beach",
       "url": "https://open.spotify.com/track/732OoMnt9lHm1T5RcPwtuS"
+    },
+    {
+      "added_at": "2026-08-30 11:07:39",
+      "album": {
+        "name": "MACHINISM (The Remixes)",
+        "url": "https://open.spotify.com/album/7koanWNZfIhlXUY6zDTtBL"
+      },
+      "artists": [
+        {
+          "name": "Man of Moon",
+          "url": "https://open.spotify.com/artist/0aScxC3sfFGiG2U7xoyy49"
+        },
+        {
+          "name": "Sin Clair",
+          "url": "https://open.spotify.com/artist/0z05a8HVeCFl1QBGCqHv62"
+        }
+      ],
+      "duration_ms": 202014,
+      "name": "Rise - Sin Clair Rework",
+      "url": "https://open.spotify.com/track/0yN84xG47V1DidUjC4VGcd"
     }
   ],
   "unique_name": "Off Axis Gigs . com",

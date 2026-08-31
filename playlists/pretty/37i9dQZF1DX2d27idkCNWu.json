@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 259727,
+  "num_followers": 259732,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "The One That Got Away - Acoustic",
-      "url": "https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "1.22.03 Acoustic",
         "url": "https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 254853,
       "name": "Sunday Morning - Acoustic",
       "url": "https://open.spotify.com/track/3bXhtg6H8lOMWaLZttQF6F"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 259040,
+      "name": "The One That Got Away - Acoustic",
+      "url": "https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
+        "name": "Releituras",
+        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 178081,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
         "name": "I Ain\u2019t Worried - Acoustic (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG"
       },
@@ -343,18 +359,18 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Releituras",
-        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
+        "name": "Live / Unplugged",
+        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
       },
       "artists": [
         {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
         }
       ],
-      "duration_ms": 178081,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
+      "duration_ms": 261973,
+      "name": "You Learn - Live / Unplugged",
+      "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -375,22 +391,6 @@
       "duration_ms": 243266,
       "name": "Best Part of Me (feat. YEBBA)",
       "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
-        "name": "Live / Unplugged",
-        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 261973,
-      "name": "You Learn - Live / Unplugged",
-      "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/6LKflEUxLnl1whADVUb8cf"
-      },
-      "artists": [
-        {
-          "name": "Echosmith",
-          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
-        }
-      ],
-      "duration_ms": 201745,
-      "name": "Cool Kids - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/2p6PmhAtI3WkAOGDbnJp19"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/6LKflEUxLnl1whADVUb8cf"
+      },
+      "artists": [
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        }
+      ],
+      "duration_ms": 201745,
+      "name": "Cool Kids - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/2p6PmhAtI3WkAOGDbnJp19"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Burning - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "Rise (Acoustic)",
         "url": "https://open.spotify.com/album/4M4lVwxi3BpaAmv9hMIzrm"
       },
@@ -1092,17 +1076,17 @@
       "added_at": "2026-08-21 03:00:30",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 217058,
-      "name": "thank u, next - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
+      "duration_ms": 231160,
+      "name": "Burning - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1119,6 +1103,42 @@
       "duration_ms": 535611,
       "name": "All I Want - Live in Dublin / 2022",
       "url": "https://open.spotify.com/track/1uon8dTdFD7RrG8B1yGttV"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "thank u, next - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Varandas",
+        "url": "https://open.spotify.com/album/5B14FMEHwBSCZxdiVsyjHB"
+      },
+      "artists": [
+        {
+          "name": "Marcos Almeida",
+          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 223680,
+      "name": "Varandas",
+      "url": "https://open.spotify.com/track/7aaPnDpWx2VZElrxyYXIB3"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1151,26 +1171,6 @@
       "duration_ms": 209741,
       "name": "New Rules - Piano, Acoustic; Live",
       "url": "https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
-        "name": "Varandas",
-        "url": "https://open.spotify.com/album/5B14FMEHwBSCZxdiVsyjHB"
-      },
-      "artists": [
-        {
-          "name": "Marcos Almeida",
-          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 223680,
-      "name": "Varandas",
-      "url": "https://open.spotify.com/track/7aaPnDpWx2VZElrxyYXIB3"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "At\u00e9 Envelhecer",
-        "url": "https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "At\u00e9 Envelhecer",
-      "url": "https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
         "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 295223,
       "name": "Ovelha Negra - Ac\u00fastico MTV",
       "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "At\u00e9 Envelhecer",
+        "url": "https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "At\u00e9 Envelhecer",
+      "url": "https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 222270,
+      "name": "Attention - Live from Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
         "name": "Sorry Not Sorry",
         "url": "https://open.spotify.com/album/54PMEQXp5bKRAdP699bKiU"
       },
@@ -1427,18 +1443,26 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ"
+        "name": "CABELO CARACOL (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7vvAhh1tVHe2jMGOZBJIfu"
       },
       "artists": [
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
+        },
+        {
+          "name": "Davi Horta",
+          "url": "https://open.spotify.com/artist/2ia6PDZ2wzFoPyCxuPnCaD"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
         }
       ],
-      "duration_ms": 222270,
-      "name": "Attention - Live from Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo"
+      "duration_ms": 166000,
+      "name": "CABELO CARACOL - ac\u00fastico",
+      "url": "https://open.spotify.com/track/0dU5mGAGhrg51LG0grx33H"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1491,30 +1515,6 @@
       "duration_ms": 176486,
       "name": "Raz\u00e3o Da Minha Vida",
       "url": "https://open.spotify.com/track/6LlTxwLS2K5y231YSQGNcF"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
-        "name": "CABELO CARACOL (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7vvAhh1tVHe2jMGOZBJIfu"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Tofani",
-          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
-        },
-        {
-          "name": "Davi Horta",
-          "url": "https://open.spotify.com/artist/2ia6PDZ2wzFoPyCxuPnCaD"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "CABELO CARACOL - ac\u00fastico",
-      "url": "https://open.spotify.com/track/0dU5mGAGhrg51LG0grx33H"
     },
     {
       "added_at": "2026-08-21 03:00:30",

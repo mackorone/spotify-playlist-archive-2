@@ -1,12 +1,12 @@
 {
   "description": "This is Turnstile. The essential tracks, all in one playlist.",
-  "num_followers": 50466,
+  "num_followers": 50520,
   "original_name": "This Is Turnstile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABCY2A2BU53tGjQPDUTsozV",
+  "snapshot_id": "apIhAAAAAABECcFpvTvQRDu4/n9vwSoO",
   "tracks": [
     {
       "added_at": null,
@@ -151,18 +151,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nonstop Feeling",
-        "url": "https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6"
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
       },
       "artists": [
         {
           "name": "Turnstile",
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
         }
       ],
-      "duration_ms": 78590,
-      "name": "Blue by You",
-      "url": "https://open.spotify.com/track/6hSIZc6GWa6uUTyzSPcwWT"
+      "duration_ms": 192106,
+      "name": "BIRDS: SLAYYYTER VERSION",
+      "url": "https://open.spotify.com/track/45vsoreF31oxkbKL9V7d3R"
     },
     {
       "added_at": null,
@@ -224,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 172028,
-      "name": "Fazed Out",
-      "url": "https://open.spotify.com/track/31EYM7iJC3FEADrfzA4bmD"
+      "duration_ms": 78590,
+      "name": "Blue by You",
+      "url": "https://open.spotify.com/track/6hSIZc6GWa6uUTyzSPcwWT"
     },
     {
       "added_at": null,
@@ -288,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 96588,
-      "name": "Drop",
-      "url": "https://open.spotify.com/track/2RUlE7rP0oKPQE5fI6nQMk"
+      "duration_ms": 172028,
+      "name": "Fazed Out",
+      "url": "https://open.spotify.com/track/31EYM7iJC3FEADrfzA4bmD"
     },
     {
       "added_at": null,
@@ -352,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 164456,
-      "name": "Can't Deny It",
-      "url": "https://open.spotify.com/track/4W024pk8Dm0yjFn3ciaz2F"
+      "duration_ms": 96588,
+      "name": "Drop",
+      "url": "https://open.spotify.com/track/2RUlE7rP0oKPQE5fI6nQMk"
     },
     {
       "added_at": null,
@@ -407,6 +411,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nonstop Feeling",
+        "url": "https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 164456,
+      "name": "Can't Deny It",
+      "url": "https://open.spotify.com/track/4W024pk8Dm0yjFn3ciaz2F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Step to Rhythm",
+        "url": "https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 197433,
+      "name": "Keep It Moving",
+      "url": "https://open.spotify.com/track/4VVnprM3eR1hlac2ulGzjv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NEVER ENOUGH: VERSIONS",
         "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
       },
@@ -416,13 +452,29 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         },
         {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
         }
       ],
-      "duration_ms": 192106,
-      "name": "BIRDS: SLAYYYTER VERSION",
-      "url": "https://open.spotify.com/track/45vsoreF31oxkbKL9V7d3R"
+      "duration_ms": 168213,
+      "name": "LIGHT DESIGN: BLOOD ORANGE VERSION",
+      "url": "https://open.spotify.com/track/0sT7s0um30BUnwkErK8nlM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pressure to Succeed",
+        "url": "https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 190728,
+      "name": "Death Grip",
+      "url": "https://open.spotify.com/track/6BNPwD7KTEHu31hles8CyD"
     },
     {
       "added_at": null,
@@ -452,25 +504,29 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 197433,
-      "name": "Keep It Moving",
-      "url": "https://open.spotify.com/track/4VVnprM3eR1hlac2ulGzjv"
+      "duration_ms": 97136,
+      "name": "7",
+      "url": "https://open.spotify.com/track/6VHhnEVCYvxlQQr5kbWd5i"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Pressure to Succeed",
-        "url": "https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO"
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
       },
       "artists": [
         {
           "name": "Turnstile",
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
         }
       ],
-      "duration_ms": 190728,
-      "name": "Death Grip",
-      "url": "https://open.spotify.com/track/6BNPwD7KTEHu31hles8CyD"
+      "duration_ms": 284093,
+      "name": "LOOK OUT FOR ME: KETTAMA VERSION",
+      "url": "https://open.spotify.com/track/0eT45WSj6OD4HoSZWq6uMQ"
     },
     {
       "added_at": null,
@@ -516,9 +572,29 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 97136,
-      "name": "7",
-      "url": "https://open.spotify.com/track/6VHhnEVCYvxlQQr5kbWd5i"
+      "duration_ms": 58752,
+      "name": "Canned Heat",
+      "url": "https://open.spotify.com/track/3FT12lBLjNgy1jTa4E1160"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "CEILING: HAYLEY WILLIAMS VERSION",
+      "url": "https://open.spotify.com/track/5jz3Lk4kb4dgOwIg4HLKxV"
     },
     {
       "added_at": null,
@@ -535,26 +611,6 @@
       "duration_ms": 63251,
       "name": "The Things You Do",
       "url": "https://open.spotify.com/track/7oSetY84ZklreUXX4eFdP0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NEVER ENOUGH: VERSIONS",
-        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        },
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 168213,
-      "name": "LIGHT DESIGN: BLOOD ORANGE VERSION",
-      "url": "https://open.spotify.com/track/0sT7s0um30BUnwkErK8nlM"
     },
     {
       "added_at": null,
@@ -584,9 +640,29 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 58752,
-      "name": "Canned Heat",
-      "url": "https://open.spotify.com/track/3FT12lBLjNgy1jTa4E1160"
+      "duration_ms": 192256,
+      "name": "Pushing Me Away",
+      "url": "https://open.spotify.com/track/2lko49bKOuj6hsh7byOXIz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "I CARE: FAYE WEBSTER VERSION",
+      "url": "https://open.spotify.com/track/2952OPwh3MiKGVN5gXR70j"
     },
     {
       "added_at": null,
@@ -607,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEVER ENOUGH: VERSIONS",
-        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        },
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "CEILING: HAYLEY WILLIAMS VERSION",
-      "url": "https://open.spotify.com/track/5jz3Lk4kb4dgOwIg4HLKxV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Step to Rhythm",
         "url": "https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz"
       },
@@ -636,25 +692,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 192256,
-      "name": "Pushing Me Away",
-      "url": "https://open.spotify.com/track/2lko49bKOuj6hsh7byOXIz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pressure to Succeed",
-        "url": "https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 103421,
-      "name": "The Dream",
-      "url": "https://open.spotify.com/track/04jmrsQI3WUHaUTZ6sZ6eM"
+      "duration_ms": 211712,
+      "name": "Better Way",
+      "url": "https://open.spotify.com/track/0AfcDu9FosOBh8HtoEVxHE"
     },
     {
       "added_at": null,
@@ -675,22 +715,6 @@
       "duration_ms": 117666,
       "name": "BIRDS: DYING FETUS VERSION",
       "url": "https://open.spotify.com/track/1buHH2OSyvdfQxcH4n5WIx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Step to Rhythm",
-        "url": "https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 211712,
-      "name": "Better Way",
-      "url": "https://open.spotify.com/track/0AfcDu9FosOBh8HtoEVxHE"
     }
   ],
   "unique_name": "This Is Turnstile",

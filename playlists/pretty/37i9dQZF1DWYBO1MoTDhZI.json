@@ -1,12 +1,12 @@
 {
   "description": "Olivia Dean keeps the good vibes going all day long",
-  "num_followers": 3621002,
+  "num_followers": 3620970,
   "original_name": "Good Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAESBilNKlM0JJK7PSr/yVMc7o3AH",
+  "snapshot_id": "AAAAAP2VykG0iXHqrKPepAh0cgKnfHvn",
   "tracks": [
     {
       "added_at": "2026-08-14 04:02:05",
@@ -55,6 +55,30 @@
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f"
+    },
+    {
+      "added_at": "2026-08-14 04:02:05",
+      "album": {
+        "name": "Love Made Trees",
+        "url": "https://open.spotify.com/album/6opNybHCZ3HMLtbp8crFAa"
+      },
+      "artists": [
+        {
+          "name": "Loaded Honey",
+          "url": "https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB"
+        },
+        {
+          "name": "Lydia Kitto",
+          "url": "https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA"
+        },
+        {
+          "name": "J Lloyd",
+          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
+        }
+      ],
+      "duration_ms": 194623,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/2sKjOX72UX1HiCDhI2HdlR"
     },
     {
       "added_at": "2026-07-17 04:01:52",
@@ -107,30 +131,6 @@
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2026-08-14 04:02:05",
-      "album": {
-        "name": "Love Made Trees",
-        "url": "https://open.spotify.com/album/6opNybHCZ3HMLtbp8crFAa"
-      },
-      "artists": [
-        {
-          "name": "Loaded Honey",
-          "url": "https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB"
-        },
-        {
-          "name": "Lydia Kitto",
-          "url": "https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA"
-        },
-        {
-          "name": "J Lloyd",
-          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
-        }
-      ],
-      "duration_ms": 194623,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/2sKjOX72UX1HiCDhI2HdlR"
     },
     {
       "added_at": "2026-05-01 04:15:26",
@@ -237,6 +237,22 @@
       "url": "https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke"
     },
     {
+      "added_at": "2026-06-26 04:00:37",
+      "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/6G3VTaCeobzyhyFrqYli0y"
+      },
+      "artists": [
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        }
+      ],
+      "duration_ms": 181810,
+      "name": "Cairo FM",
+      "url": "https://open.spotify.com/track/6v7hCIRoJkuYShT0wls1gD"
+    },
+    {
       "added_at": "2026-05-01 04:15:26",
       "album": {
         "name": "Carry On",
@@ -267,6 +283,22 @@
       "duration_ms": 220608,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely"
+    },
+    {
+      "added_at": "2026-08-30 19:12:44",
+      "album": {
+        "name": "Arms Around Me, Baby",
+        "url": "https://open.spotify.com/album/6mMFVbZYxDWs2rdEyG2noO"
+      },
+      "artists": [
+        {
+          "name": "SUM SUN",
+          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
+        }
+      ],
+      "duration_ms": 169263,
+      "name": "Arms Around Me, Baby",
+      "url": "https://open.spotify.com/track/3FeomJXbSe5Q2feYwcfiZT"
     },
     {
       "added_at": "2026-07-13 17:11:43",
@@ -321,22 +353,6 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-08-14 04:02:05",
-      "album": {
-        "name": "Dance Dance Dance!",
-        "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 217797,
-      "name": "Dance Dance Dance!",
-      "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
-    },
-    {
       "added_at": "2026-05-29 04:02:56",
       "album": {
         "name": "Magnetic / Addicted To Your Love",
@@ -351,6 +367,22 @@
       "duration_ms": 181384,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "added_at": "2026-08-14 04:02:05",
+      "album": {
+        "name": "Dance Dance Dance!",
+        "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 217797,
+      "name": "Dance Dance Dance!",
+      "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
     },
     {
       "added_at": "2026-06-16 21:52:32",
@@ -383,6 +415,22 @@
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+    },
+    {
+      "added_at": "2026-08-30 19:12:44",
+      "album": {
+        "name": "Dim Sum & Then Some",
+        "url": "https://open.spotify.com/album/5IH8f1sMXmldxpE7a0VWyQ"
+      },
+      "artists": [
+        {
+          "name": "Chinese American Bear",
+          "url": "https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh"
+        }
+      ],
+      "duration_ms": 154097,
+      "name": "Lovely Day (\u7f8e\u597d\u7684\u4e00\u5929)",
+      "url": "https://open.spotify.com/track/63MdvkC1ccvZCFuMLz0NtX"
     },
     {
       "added_at": "2026-08-14 04:02:05",
@@ -435,42 +483,6 @@
       "duration_ms": 251790,
       "name": "Can I Kick It?",
       "url": "https://open.spotify.com/track/1gSDTZHemEViEBiXysrlo0"
-    },
-    {
-      "added_at": "2026-06-26 04:00:37",
-      "album": {
-        "name": "Zero",
-        "url": "https://open.spotify.com/album/6G3VTaCeobzyhyFrqYli0y"
-      },
-      "artists": [
-        {
-          "name": "Alewya",
-          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
-        }
-      ],
-      "duration_ms": 181810,
-      "name": "Cairo FM",
-      "url": "https://open.spotify.com/track/6v7hCIRoJkuYShT0wls1gD"
-    },
-    {
-      "added_at": "2026-07-17 04:01:52",
-      "album": {
-        "name": "Romanticize",
-        "url": "https://open.spotify.com/album/4cAmjeJCP9CIrkYLgjLUA0"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        },
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 215013,
-      "name": "Romanticize",
-      "url": "https://open.spotify.com/track/0H0eV9dVy20XMPROjYZltR"
     },
     {
       "added_at": "2026-05-01 04:15:26",
@@ -667,22 +679,6 @@
       "duration_ms": 223800,
       "name": "Cotton",
       "url": "https://open.spotify.com/track/2rBesRD5DkpI0dyjmXV7lf"
-    },
-    {
-      "added_at": "2026-06-19 04:01:10",
-      "album": {
-        "name": "Pool Water Confessions",
-        "url": "https://open.spotify.com/album/6Qf7f5ijkPyixOl3yuUM88"
-      },
-      "artists": [
-        {
-          "name": "SUM SUN",
-          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
-        }
-      ],
-      "duration_ms": 206158,
-      "name": "Pool Water Confessions",
-      "url": "https://open.spotify.com/track/1ahZDBeXgSjbo31UyKh7w6"
     },
     {
       "added_at": "2026-05-01 04:15:26",

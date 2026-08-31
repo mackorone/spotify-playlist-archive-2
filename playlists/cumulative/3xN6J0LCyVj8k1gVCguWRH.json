@@ -2692,7 +2692,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "About Us",
       "url": "https://open.spotify.com/track/3FwQnUHKPfLq1OE3dUluRq"
@@ -7478,6 +7478,24 @@
       "duration_ms": 176335,
       "name": "Around the Tree",
       "url": "https://open.spotify.com/track/0RVmPraYBBuNspH9D1nmNW"
+    },
+    {
+      "album": {
+        "name": "Arrebatados (Remastered)",
+        "url": "https://open.spotify.com/album/3GL03gBH0J3FP4HNI2SNzb"
+      },
+      "artists": [
+        {
+          "name": "Frequencia 7.0",
+          "url": "https://open.spotify.com/artist/4WbdQp6mZknXTsnJTXAMKY"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239627,
+      "name": "Arrebatados - Remastered",
+      "url": "https://open.spotify.com/track/5LF0Fmah8CdewlMramfE1f"
     },
     {
       "album": {
@@ -90642,6 +90660,28 @@
       "duration_ms": 160000,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/0aQATPD7Jp1D6VyjMc30nS"
+    },
+    {
+      "album": {
+        "name": "Italaw\u00e1, Vol. 1",
+        "url": "https://open.spotify.com/album/6LJizNWA6LTRj4gGL5m1sY"
+      },
+      "artists": [
+        {
+          "name": "LJ Ib\u00e8",
+          "url": "https://open.spotify.com/artist/73YnDWVF8jhfPuxO8vYEhl"
+        },
+        {
+          "name": "Xnow Vk",
+          "url": "https://open.spotify.com/artist/5hsSrvsrOYZbWXTcGAFWmV"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165925,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/4P2MGtzqPEdTrsb9VX5xoO"
     },
     {
       "album": {

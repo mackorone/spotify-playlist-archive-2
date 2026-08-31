@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 78545,
+  "num_followers": 78547,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3"
+      },
+      "artists": [
+        {
+          "name": "Shanti Celeste",
+          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
+        }
+      ],
+      "duration_ms": 256920,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "DUMB",
         "url": "https://open.spotify.com/album/7e7r5fXrnD2eRJEZ6DVnKs"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 170526,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3"
-      },
-      "artists": [
-        {
-          "name": "Shanti Celeste",
-          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
-        }
-      ],
-      "duration_ms": 256920,
-      "name": "Romance",
-      "url": "https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "Fun Times",
+        "url": "https://open.spotify.com/album/6cNNIC4lX9MjSyGTXLA1MS"
+      },
+      "artists": [
+        {
+          "name": "Marie Davidson",
+          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
+        }
+      ],
+      "duration_ms": 253573,
+      "name": "Fun Times",
+      "url": "https://open.spotify.com/track/7LD3zycYhQNEkvSaDXwFv2"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "TRUE MAGIC, DELUXE",
         "url": "https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 255983,
       "name": "gbesoke",
       "url": "https://open.spotify.com/track/2ClKw253thLvImhOHDMk1y"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "Fun Times",
-        "url": "https://open.spotify.com/album/6cNNIC4lX9MjSyGTXLA1MS"
-      },
-      "artists": [
-        {
-          "name": "Marie Davidson",
-          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
-        }
-      ],
-      "duration_ms": 253573,
-      "name": "Fun Times",
-      "url": "https://open.spotify.com/track/7LD3zycYhQNEkvSaDXwFv2"
     },
     {
       "added_at": "2025-12-03 12:15:55",

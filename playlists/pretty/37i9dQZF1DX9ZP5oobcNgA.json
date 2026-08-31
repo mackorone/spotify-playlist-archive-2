@@ -1,6 +1,6 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 150412,
+  "num_followers": 150422,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
@@ -483,30 +483,6 @@
     {
       "added_at": "2025-12-23 12:24:26",
       "album": {
-        "name": "Handel: Laudate Pueri, Nisi Dominus",
-        "url": "https://open.spotify.com/album/6W9KFtCnix2uLaJtEBLPIx"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Alfred Deller",
-          "url": "https://open.spotify.com/artist/1A4CqshmD4SFeTbu1mJ8Q7"
-        },
-        {
-          "name": "The Deller Consort",
-          "url": "https://open.spotify.com/artist/3GIgkzvdc1l9dMzlhsnuZV"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Laudate Pueri (Psalm 112): Laudate Pueri Dominum",
-      "url": "https://open.spotify.com/track/2iypBiPebvQux3ZyZY5Sbe"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
         "name": "Handel: Water & Fireworks Music",
         "url": "https://open.spotify.com/album/1r6mINeeXdCrL32kDdzPsB"
       },
@@ -527,6 +503,30 @@
       "duration_ms": 60480,
       "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: V. Menuet II",
       "url": "https://open.spotify.com/track/44M4vpSmB7t901dAGz0rDA"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
+        "name": "Handel: Laudate Pueri, Nisi Dominus",
+        "url": "https://open.spotify.com/album/6W9KFtCnix2uLaJtEBLPIx"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Alfred Deller",
+          "url": "https://open.spotify.com/artist/1A4CqshmD4SFeTbu1mJ8Q7"
+        },
+        {
+          "name": "The Deller Consort",
+          "url": "https://open.spotify.com/artist/3GIgkzvdc1l9dMzlhsnuZV"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Laudate Pueri (Psalm 112): Laudate Pueri Dominum",
+      "url": "https://open.spotify.com/track/2iypBiPebvQux3ZyZY5Sbe"
     },
     {
       "added_at": "2025-12-23 12:24:26",
@@ -675,6 +675,30 @@
     {
       "added_at": "2025-12-23 12:24:26",
       "album": {
+        "name": "Baroque Masterpieces",
+        "url": "https://open.spotify.com/album/2entznF0FUMgl5m5Q813BW"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        }
+      ],
+      "duration_ms": 174320,
+      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: I. Menuet I",
+      "url": "https://open.spotify.com/track/1LIvAJXJvqUNKkeB5m5NHv"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
         "name": "Handel: Belshazzar",
         "url": "https://open.spotify.com/album/64jpRJoBITmrqWeqnqNOff"
       },
@@ -727,30 +751,6 @@
       "duration_ms": 211200,
       "name": "Handel: Concerto grosso in D Major, HWV 323: III. Presto (Transcr. for Piccolo Trumpet and Baroque Orchestra by Simon Wright)",
       "url": "https://open.spotify.com/track/7eM705mG5sOtYp28DDuVm6"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
-        "name": "Baroque Masterpieces",
-        "url": "https://open.spotify.com/album/2entznF0FUMgl5m5Q813BW"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Sir Neville Marriner",
-          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
-        },
-        {
-          "name": "Academy of St. Martin in the Fields",
-          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
-        }
-      ],
-      "duration_ms": 174320,
-      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: I. Menuet I",
-      "url": "https://open.spotify.com/track/1LIvAJXJvqUNKkeB5m5NHv"
     },
     {
       "added_at": "2025-12-23 12:24:26",

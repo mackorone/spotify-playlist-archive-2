@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > Pop on the rise you should know, featuring LOCKWARD.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,873,541 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,873,288 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

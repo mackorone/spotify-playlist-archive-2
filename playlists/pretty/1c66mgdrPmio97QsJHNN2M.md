@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,883 likes - 224 songs - 11 hr 45 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,888 likes - 228 songs - 11 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -232,5 +232,9 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 222 | [Contra el río](https://open.spotify.com/track/1AVzw1T5PvYp8CbL5GTPhm) | [Laru](https://open.spotify.com/artist/2EwMAWum7DNrJVk5Q7dwDB) | [Contra el río](https://open.spotify.com/album/2aMRsaBQxcW5VksHhOUviA) | 3:36 |
 | 223 | [Sin Luz](https://open.spotify.com/track/41G8A5sQ46kh0qG2a7YP2P) | [Jorge Escalante](https://open.spotify.com/artist/3HI4nYJbYBRufLP4zFTIwQ) | [Sin Luz](https://open.spotify.com/album/3LquvtYVnRh4QImJB54GFM) | 3:26 |
 | 224 | [Cigarettes and CHANEL](https://open.spotify.com/track/0da4RrPEPzr7ALsukP8t4V) | [Dino Valentino](https://open.spotify.com/artist/3GJJFL0a79nM1bZPf0PeRR) | [Cigarettes and CHANEL](https://open.spotify.com/album/5aQJoOTDrs2YVzu3QS7HYU) | 4:19 |
+| 225 | [Tell Me](https://open.spotify.com/track/6HiWVjnBHLsUGMf90aTSlX) | [Jamie Cook](https://open.spotify.com/artist/7ttogsYB0z8qg299JZhsNe) | [Tell Me](https://open.spotify.com/album/2PoSPy5NkyknPjutaii6Z2) | 2:34 |
+| 226 | [California](https://open.spotify.com/track/09OFR9iPwfmurnjRF9fdoK) | [Yellstone](https://open.spotify.com/artist/0ZKMOq56KamtscCLIl8Lah) | [California](https://open.spotify.com/album/0DOx3oinReFPZfQOGuSZGD) | 3:01 |
+| 227 | [Bright Lights](https://open.spotify.com/track/32ftGFoqY6HOAwSfepaVrr) | [Irfad](https://open.spotify.com/artist/2bdTySHQu8orEocLZwMy89) | [Bright Lights](https://open.spotify.com/album/2mms3o99w1hMcrcXRyjR5v) | 2:41 |
+| 228 | [dream diary ゆめにっき](https://open.spotify.com/track/6bSDFu1gXotwIuE8PfjaHl) | [Waxstar](https://open.spotify.com/artist/5SwgOzP6r2vlpGuQeoVws0) | [dream diary ゆめにっき](https://open.spotify.com/album/4XVZGql64s9FhpnRC6WZBE) | 4:00 |
 
-Snapshot ID: `AAA71HX0edtcnngbTBvpqF1CP6LdGKqZ`
+Snapshot ID: `AAA72PZ9J+S5EliTJLZ6C1bMVAB2z0Nt`

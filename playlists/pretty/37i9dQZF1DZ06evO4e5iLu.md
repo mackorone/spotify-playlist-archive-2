@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4e5iLu.md) - [plain]
 
 > This is KAROL G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,448,661 likes - 39 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,448,976 likes - 39 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4e5iLu.md) - [plain]
 | 34 | [CONTIGO VOY A MUERTE](https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:39 |
 | 35 | [FRIKI](https://open.spotify.com/track/2WrqTrNIHqfcMCgmEo0A7E) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [INTER SHIBUYA \(FERXXO EDITION\)](https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE) | 2:25 |
 | 36 | [Secreto](https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Secreto](https://open.spotify.com/album/6owzcG80ifZRDApCpzJYK1) | 4:18 |
-| 37 | [Tá OK \(Remix\)](https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Tá OK \(Remix\)](https://open.spotify.com/album/3n14ur3lb0lQ81joReKXVf) | 2:51 |
-| 38 | [OKI DOKI](https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:23 |
+| 37 | [OKI DOKI](https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:23 |
+| 38 | [Tá OK \(Remix\)](https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Tá OK \(Remix\)](https://open.spotify.com/album/3n14ur3lb0lQ81joReKXVf) | 2:51 |
 | 39 | [S91](https://open.spotify.com/track/0BFQC00Y58JtjMyTXOJazO) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:53 |
 
-Snapshot ID: `apDPgAAAAABh+/R6su1n0Vx31cyCfO6/`
+Snapshot ID: `apIhAAAAAAAgaaRwuM/3eG9pPyt8LaiU`

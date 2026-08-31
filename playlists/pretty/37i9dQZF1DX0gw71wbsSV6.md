@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,078 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,081 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,23 +39,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 29 | [Little Runaway](https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 3:15 |
 | 30 | [Love Like This](https://open.spotify.com/track/45uzEq3hAOy8uayrvDLY2C) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:20 |
 | 31 | [キャラバン](https://open.spotify.com/track/1qXtgsCxVLKy3O6py8QOBS) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [キャラバン](https://open.spotify.com/album/69eePYSw1LlMDOvMZwEcQu) | 3:01 |
-| 32 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
+| 32 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 |
 | 33 | [Bora Bora](https://open.spotify.com/track/4m4YHd7kzcJnEMPBJBjqsL) | [LEPYUTIN](https://open.spotify.com/artist/0xIHNVToPKLLTMFFpRKFUv) | [Bora Bora](https://open.spotify.com/album/0DDElz4yORty6Mq6WBR9K3) | 6:14 |
 | 34 | [In A Vice](https://open.spotify.com/track/5vqxnAsK6IdUqwcCyNOmyp) | [Alice Barlow](https://open.spotify.com/artist/7m2aLIvLQUQUvPZeFLIsfT) | [In A Vice](https://open.spotify.com/album/6oWpWKJDpRN0Ofc7DmLNm3) | 3:53 |
 | 35 | [3am](https://open.spotify.com/track/6oNC0dZwthd4Gbof71UYMJ) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [3am](https://open.spotify.com/album/0CxaGou0ebafxSU63mwpIW) | 4:17 |
-| 36 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 |
+| 36 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
 | 37 | [In Between](https://open.spotify.com/track/46HV59uHgPKBntPWvVIQdZ) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [In Between](https://open.spotify.com/album/4FKYyvK7jc7pfGTUB5RIsw) | 2:13 |
 | 38 | [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 |
 | 39 | [Killer](https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:18 |
-| 40 | [Love You Right](https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Love You Right](https://open.spotify.com/album/24lu2LU2D8bI9qKnn4nSks) | 2:45 |
+| 40 | [Coming Back \(feat\. SZA\)](https://open.spotify.com/track/2pSsHnjAgEPjHmet7ChlHQ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 3:15 |
 | 41 | [The Blower's Daughter](https://open.spotify.com/track/7CNA7us0GLh8MYp5aJjdWH) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH), [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [The Blower's Daughter](https://open.spotify.com/album/6pL2IAMJkjtNYq8yVoSf9I) | 4:19 |
-| 42 | [Coming Back \(feat\. SZA\)](https://open.spotify.com/track/2pSsHnjAgEPjHmet7ChlHQ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 3:15 |
+| 42 | [Love You Right](https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Love You Right](https://open.spotify.com/album/24lu2LU2D8bI9qKnn4nSks) | 2:45 |
 | 43 | [anatomy](https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [anatomy](https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg) | 3:02 |
 | 44 | [Underdressed at the Symphony](https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 3:33 |
 | 45 | [Eureka](https://open.spotify.com/track/0ZNbXoRUhaSMhYcL4LWDg9) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Eureka](https://open.spotify.com/album/3MEn72g7bS4CB7zd4ficcI) | 3:31 |
 | 46 | [THRIFTED](https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [THRIFTED](https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq) | 2:41 |
-| 47 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 |
-| 48 | [笑ったり転んだり](https://open.spotify.com/track/0zmzVQMhAdO5qKiQIRdImn) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [笑ったり転んだり](https://open.spotify.com/album/2rsFO81AwLT53Z1ZqlVr2V) | 3:14 |
+| 47 | [笑ったり転んだり](https://open.spotify.com/track/0zmzVQMhAdO5qKiQIRdImn) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [笑ったり転んだり](https://open.spotify.com/album/2rsFO81AwLT53Z1ZqlVr2V) | 3:14 |
+| 48 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 |
 | 49 | [One More Time](https://open.spotify.com/track/61PnittYgKfF3xeaalv1kk) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ), [Zer Nguyễn](https://open.spotify.com/artist/62WhadRyBmRJO56wP9oyPz) | [One More Time](https://open.spotify.com/album/7sPl6AbM7tKDmBkJfDQduP) | 3:39 |
 | 50 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 |
 

@@ -1,6 +1,6 @@
 {
   "description": "Los temas que nunca paras de escuchar. En portada: Maluma baby",
-  "num_followers": 303945,
+  "num_followers": 303992,
   "original_name": "\u00c9xitos del Ayer",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,26 @@
     {
       "added_at": "2026-01-07 14:39:04",
       "album": {
+        "name": "Motivan2",
+        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Otra Vez (feat. J Balvin)",
+      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
+    },
+    {
+      "added_at": "2026-01-07 14:39:04",
+      "album": {
         "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
         "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 263899,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
-    },
-    {
-      "added_at": "2026-01-07 14:39:04",
-      "album": {
-        "name": "Motivan2",
-        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Otra Vez (feat. J Balvin)",
-      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
     },
     {
       "added_at": "2026-01-07 14:39:04",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-01-07 14:39:04",
       "album": {
-        "name": "Prometo",
-        "url": "https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Saturno",
-      "url": "https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz"
-    },
-    {
-      "added_at": "2026-01-07 14:39:04",
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 230693,
       "name": "Una Locura",
       "url": "https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU"
+    },
+    {
+      "added_at": "2026-01-07 14:39:04",
+      "album": {
+        "name": "Prometo",
+        "url": "https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Saturno",
+      "url": "https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz"
     },
     {
       "added_at": "2026-01-07 14:39:04",
@@ -859,26 +859,6 @@
     {
       "added_at": "2026-01-07 14:39:04",
       "album": {
-        "name": "Pa' Otro La 'O",
-        "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
-      },
-      "artists": [
-        {
-          "name": "ChiChi Peralta",
-          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
-        },
-        {
-          "name": "Jandy Feliz",
-          "url": "https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6"
-        }
-      ],
-      "duration_ms": 271031,
-      "name": "Procura",
-      "url": "https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf"
-    },
-    {
-      "added_at": "2026-01-07 14:39:04",
-      "album": {
         "name": "Andas En Mi Cabeza",
         "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 247493,
       "name": "Andas En Mi Cabeza",
       "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
+    },
+    {
+      "added_at": "2026-01-07 14:39:04",
+      "album": {
+        "name": "Pa' Otro La 'O",
+        "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
+      },
+      "artists": [
+        {
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        },
+        {
+          "name": "Jandy Feliz",
+          "url": "https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6"
+        }
+      ],
+      "duration_ms": 271031,
+      "name": "Procura",
+      "url": "https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf"
     },
     {
       "added_at": "2026-01-07 14:39:04",

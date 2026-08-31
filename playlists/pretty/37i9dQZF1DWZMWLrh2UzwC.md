@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from JENNIE, The Weeknd, Tomoko Aran, Alex Warren, Aisha Retno, Marsha Milan, Adira Suhaimi, Nadeera, Dominic Fike, CORTIS, NCT 127, and many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,456 likes - 106 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,450 likes - 106 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

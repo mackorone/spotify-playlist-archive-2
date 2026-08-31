@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ6NBH5aL6A.md) - [plain]
 
 > From trip\-hop to Copenhagen’s underground, ambient textures to indie twang and the Windmill scene — explore the 5 scenes shaping indie now\.   Cover: After
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,126 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,149 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ6NBH5aL6A.md) - [plain]
 | 29 | [Don't Let This Feeling](https://open.spotify.com/track/2W6Xyj96U9ujqDPgzNMKBM) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [café LIFE](https://open.spotify.com/album/0vbzPGDQWtxOroyhwC3rck) | 2:52 |
 | 30 | [Gateleg](https://open.spotify.com/track/6uePw5sQerL7xUV3QlICaD) | [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv) | [Big Ugly](https://open.spotify.com/album/6jNbLon7QmLGibekT6RFOa) | 4:54 |
 | 31 | [Pretty Eyes Lorraine](https://open.spotify.com/track/0sLPXoUB1Q1gQcs1OOYy49) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [Sounds Like...](https://open.spotify.com/album/54WXEOsnZYULedb3Gz7fnr) | 3:54 |
-| 32 | [Only Girl \(Single Version\)](https://open.spotify.com/track/5r3AMNwlDPffDLGnTkiGMP) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Only Girl \(Single Version\)](https://open.spotify.com/album/0JHiCW6hFsIMiHIww3bnDb) | 3:35 |
+| 32 | [Only Girl \- Single Version](https://open.spotify.com/track/5r3AMNwlDPffDLGnTkiGMP) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Only Girl \(Single Version\)](https://open.spotify.com/album/0JHiCW6hFsIMiHIww3bnDb) | 3:35 |
 | 33 | [Deer In The Headlights](https://open.spotify.com/track/1OInm4FGocvwb2F8rqO15b) | [Twine](https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk) | [Deer In The Headlights](https://open.spotify.com/album/1LmUideiZFaC9rOi5vg6Z2) | 4:30 |
 | 34 | [Shooting Star](https://open.spotify.com/track/2QRxjT8nlYM2yystxTdz6L) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C), [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [Shooting Star](https://open.spotify.com/album/1wGWZR6KlmVEOCmP9mQ8j1) | 2:23 |
 | 35 | [See People](https://open.spotify.com/track/37piAuK1WhsQDLJ8hmDDSW) | [Dead Gowns](https://open.spotify.com/artist/7jadGvdBDPrM4fNOukfDny) | [It's Summer, I Love You, and I'm Surrounded by Snow](https://open.spotify.com/album/7otdTE68bZ0rHjFS5KvN1n) | 3:49 |

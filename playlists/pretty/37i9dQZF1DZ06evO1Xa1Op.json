@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 22426,
+  "num_followers": 22428,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAADFn1qiDTCorHQsSasKRMBX",
+  "snapshot_id": "apIhAAAAAAAluuqzFKezKvw++kwfz/pJ",
   "tracks": [
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 451106,
-      "name": "Dofana",
-      "url": "https://open.spotify.com/track/5j7YPAa4Dbn0RBTNxiuGRo"
+      "duration_ms": 384266,
+      "name": "Goye Kur",
+      "url": "https://open.spotify.com/track/5rffixu4E5Ry8vcBZNSV2c"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 384266,
-      "name": "Goye Kur",
-      "url": "https://open.spotify.com/track/5rffixu4E5Ry8vcBZNSV2c"
+      "duration_ms": 451106,
+      "name": "Dofana",
+      "url": "https://open.spotify.com/track/5j7YPAa4Dbn0RBTNxiuGRo"
     },
     {
       "added_at": null,

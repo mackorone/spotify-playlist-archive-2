@@ -4,7 +4,7 @@
 
 > Olivia Dean keeps the good vibes going all day long
 
-1,102 songs - 2 day 11 hr 26 min
+1,104 songs - 2 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/5iFQfP3AqVnHHS89LKQisL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/7H1EYBP5XYudqRhjL5vG5j) | 3:07 | 2022-01-28 | 2022-07-02 |
 | [Appetite](https://open.spotify.com/track/0crOkEvinak0NpXg0Ii6Jj) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH), [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Appetite](https://open.spotify.com/album/7zS8dNHB6cBA22s9B8IpC4) | 3:16 | 2024-12-27 | 2025-02-04 |
 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 | 2020-06-20 | 2022-01-08 |
+| [Arms Around Me, Baby](https://open.spotify.com/track/3FeomJXbSe5Q2feYwcfiZT) | [SUM SUN](https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT) | [Arms Around Me, Baby](https://open.spotify.com/album/6mMFVbZYxDWs2rdEyG2noO) | 2:49 | 2026-08-30 |  |
 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 | 2024-03-22 | 2024-03-30 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-01 | 2023-03-18 |
 | [Ask & You Shall Receive](https://open.spotify.com/track/4zB5pU3cwGiC6Fcz5qtfUe) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Ask & You Shall Receive](https://open.spotify.com/album/5htBDYVAOjfBHgquMxExL8) | 3:19 | 2024-05-31 | 2024-08-10 |
@@ -606,6 +607,7 @@
 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 | 2025-05-29 | 2026-08-15 |
 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-02-18 | 2022-05-20 |
 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 | 2023-08-11 | 2024-01-01 |
+| [Lovely Day \(美好的一天\)](https://open.spotify.com/track/63MdvkC1ccvZCFuMLz0NtX) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [Dim Sum & Then Some](https://open.spotify.com/album/5IH8f1sMXmldxpE7a0VWyQ) | 2:34 | 2026-08-30 |  |
 | [Lovely Day \- Studio Rio Version](https://open.spotify.com/track/4mH5oNojEmOswUGgCizDeb) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj), [Studio Rio](https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3) | [Studio Rio Presents: The Brazil Connection](https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw) | 3:57 | 2023-12-31 | 2025-07-02 |
 | [Loverboy](https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Loverboy](https://open.spotify.com/album/1K1loWZRyk1Dtk5zIy4qjx) | 3:44 | 2021-08-28 | 2022-07-30 |
 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 | 2024-12-27 | 2026-03-28 |
@@ -768,7 +770,7 @@
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-01-20 | 2023-09-16 |
 | [Please Don't Suck](https://open.spotify.com/track/2Sx4OLfgMfRgYDvGHBJvck) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Please Don't Suck](https://open.spotify.com/album/7he1ByOAq0rTVmSoW5ny1E) | 2:55 | 2021-10-23 | 2022-01-22 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-07 | 2025-07-12 |
-| [Pool Water Confessions](https://open.spotify.com/track/1ahZDBeXgSjbo31UyKh7w6) | [SUM SUN](https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT) | [Pool Water Confessions](https://open.spotify.com/album/6Qf7f5ijkPyixOl3yuUM88) | 3:26 | 2026-06-19 |  |
+| [Pool Water Confessions](https://open.spotify.com/track/1ahZDBeXgSjbo31UyKh7w6) | [SUM SUN](https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT) | [Pool Water Confessions](https://open.spotify.com/album/6Qf7f5ijkPyixOl3yuUM88) | 3:26 | 2026-06-19 | 2026-08-31 |
 | [Pop Pop](https://open.spotify.com/track/7jrxqRz39X7TXhI38zc9xA) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Pop Pop](https://open.spotify.com/album/0zMNLajZLM0PGxgLQa4yys) | 2:57 | 2026-05-29 | 2026-07-11 |
 | [POSE](https://open.spotify.com/track/1Mf7qE54NoBp5hrZV2iPrX) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [POSE](https://open.spotify.com/album/2N3NGQjuCC1B7qPiY7saGG) | 3:13 | 2022-03-01 | 2022-04-16 |
 | [Potential](https://open.spotify.com/track/7D7oIpsm4trbxthAU7JMtB) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Potential](https://open.spotify.com/album/7k0D9VjRqVMbhg0uNMiq3O) | 2:57 | 2024-04-26 | 2024-06-22 |
@@ -808,7 +810,7 @@
 | [Rocket On My Feet](https://open.spotify.com/track/2VRuPvRr4dNrd7ITIu1ia7) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Rocket On My Feet](https://open.spotify.com/album/0TgONTUERlpYs61qIHb5IR) | 4:07 | 2022-02-11 | 2022-03-12 |
 | [Rocky](https://open.spotify.com/track/5uDohC8URXwbGiHAMuKGoa) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Rocky](https://open.spotify.com/album/47pYIGsuBIKvsbAQpipfur) | 2:46 | 2021-05-29 | 2021-11-13 |
 | [RODEO CLOWN](https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba) | [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl) | [RODEO CLOWN](https://open.spotify.com/album/5172xO1n4yEllzzcsIqP1N) | 2:33 | 2026-04-24 | 2026-06-27 |
-| [Romanticize](https://open.spotify.com/track/0H0eV9dVy20XMPROjYZltR) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Romanticize](https://open.spotify.com/album/4cAmjeJCP9CIrkYLgjLUA0) | 3:35 | 2026-07-17 |  |
+| [Romanticize](https://open.spotify.com/track/0H0eV9dVy20XMPROjYZltR) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Romanticize](https://open.spotify.com/album/4cAmjeJCP9CIrkYLgjLUA0) | 3:35 | 2026-07-17 | 2026-08-31 |
 | [ROXANNE](https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [ROXANNE](https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90) | 2:43 | 2020-01-30 | 2021-01-08 |
 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-03-15 | 2024-06-22 |
 | [RUNAWAY](https://open.spotify.com/track/4dNNgaL6ltmUveZWVrGg7L) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [RUNAWAY](https://open.spotify.com/album/0VtVDpx9UShoxxIXl3gGxe) | 2:19 | 2024-08-23 | 2024-11-27 |

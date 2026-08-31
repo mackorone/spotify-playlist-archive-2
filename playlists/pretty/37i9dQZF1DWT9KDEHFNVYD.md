@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,470 likes - 100 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,472 likes - 100 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 31 | [Der Elektrolurch](https://open.spotify.com/track/7ELA9TEEHZo1isqffIQnX7) | [Guru Guru](https://open.spotify.com/artist/7mjz8GxBSAJtRpzS9tSldf) | [Krautrock](https://open.spotify.com/album/6DZaSFDFIqHFym2tkuCCGS) | 9:45 |
 | 32 | [77 Slightly Delayed](https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:50 |
 | 33 | [Morgengruß](https://open.spotify.com/track/0GNWAR5YioLyQSZMXMjBX4) | [Popol Vuh](https://open.spotify.com/artist/5zeiqAaIiDrjiDch33A2lT) | [Einsjäger & Siebenjäger](https://open.spotify.com/album/4IGLNxalsV3nE6cVYwAoQW) | 2:57 |
-| 34 | [Super\-Electric](https://open.spotify.com/track/21vqlbCLLwlWxZX5JPostL) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Switched On](https://open.spotify.com/album/3WZI3BhUd4TQl4CmNNm1HS) | 5:22 |
+| 34 | [Autobahn \- 2009 Remaster](https://open.spotify.com/track/44HjyYf1lYuO7oXRusudHN) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [Autobahn \(2009 Remaster\)](https://open.spotify.com/album/5ysfe4Bmv9xLNaPDrXFMBr) | 22:47 |
 | 35 | [Lookin Up \- Instrumental Version](https://open.spotify.com/track/6GFhFmcObGLbUS4EfRtLQw) | [Manic Vila](https://open.spotify.com/artist/6l8cL9AYxzM9OqJlLLeVrd) | [33641 \(Instrumental Version\)](https://open.spotify.com/album/6gRt01llWuDsh96iVOFA6W) | 1:12 |
-| 36 | [Autobahn \- 2009 Remaster](https://open.spotify.com/track/44HjyYf1lYuO7oXRusudHN) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [Autobahn \(2009 Remaster\)](https://open.spotify.com/album/5ysfe4Bmv9xLNaPDrXFMBr) | 22:47 |
+| 36 | [Super\-Electric](https://open.spotify.com/track/21vqlbCLLwlWxZX5JPostL) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Switched On](https://open.spotify.com/album/3WZI3BhUd4TQl4CmNNm1HS) | 5:22 |
 | 37 | [Schmetterling \- Remastered](https://open.spotify.com/track/5WigBbIrg3nXsIZJguJLSh) | [BröselMaschine](https://open.spotify.com/artist/66WWDNTUZwM3i6jy4ihRFB) | [Bröselmaschine](https://open.spotify.com/album/3cjo0HW2NqCWWXswrPhKqX) | 9:35 |
 | 38 | [Doors Unlocked and Open](https://open.spotify.com/track/3f4jwbmw35TF2Wx9y47GuW) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Codes and Keys \(Deluxe Edition\)](https://open.spotify.com/album/3IEZRCQABrX0v5RitIE0iy) | 5:37 |
 | 39 | [Orient Express](https://open.spotify.com/track/3FaWrdCqGL6pINPHsxkYca) | [Embryo](https://open.spotify.com/artist/71TXox3zeu8QPFAiv07Qf4) | [Krautrock](https://open.spotify.com/album/6DZaSFDFIqHFym2tkuCCGS) | 9:46 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 97 | [Kit and Holly](https://open.spotify.com/track/76trKReLczdWPVRfKsJIcb) | [Echoboy](https://open.spotify.com/artist/1dW6E3Ffnkng9MJjKlwhk6) | [Vol\. One](https://open.spotify.com/album/3oTHbe3UsgjOdI2QTpfQhw) | 5:04 |
 | 98 | [Trees](https://open.spotify.com/track/563KxKAXHndNrUf5mv3vSY) | [Blurt](https://open.spotify.com/artist/0dkXwqAwKvZUWBI4C3UNFY) | [Blurt + Singles](https://open.spotify.com/album/0eI7DNGtlzqQfisyB5AJVN) | 6:51 |
 | 99 | [Scubaplus](https://open.spotify.com/track/3vimjIcDxpTBDs3Q1ONJH6) | [Quickspace](https://open.spotify.com/artist/4cqaDkyjB2oXJ8U17ldjYM) | [Superplus](https://open.spotify.com/album/4KMlPTCWrJ3DhTjykEGa9x) | 3:03 |
-| 100 | [En Letargo](https://open.spotify.com/track/6d4QZMKcx6BvOwo5EmumxZ) | [Los Árboles Mentirosos](https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK) | [En Letargo](https://open.spotify.com/album/36bBecUrinX68SW69nmx1S) | 4:01 |
+| 100 | [Strange Waves](https://open.spotify.com/track/3cYrfhx1aOlUXQGPQGRqxg) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Songs of Love and Revolution](https://open.spotify.com/album/696w66r6e8uJcPYPUh5JrU) | 3:27 |
 
 Snapshot ID: `AAAAALV7gQHs95ttYm9jOEVow773pePY`

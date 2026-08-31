@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,995 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,975 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 24 | [Lichen Trip](https://open.spotify.com/track/3nyh5bHX5ZaOI0IOi9hAtF) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [Lichen Trip](https://open.spotify.com/album/74CztA2W1X7ioPPobdxPBd) | 2:50 |
 | 25 | [Redbud](https://open.spotify.com/track/0TGxhLyUCOW7WjVQidU30k) | [Mossera](https://open.spotify.com/artist/6j0nPBfjnh8yjNNQPJOmXG) | [Redbud](https://open.spotify.com/album/1ocXYgSe77CXJ4nwHrsKz5) | 4:00 |
 | 26 | [By](https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Hosoi](https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn) | 2:46 |
-| 27 | [Screen](https://open.spotify.com/track/4Jwjq4kSi0IroSqO52Ob6M) | [Calcou](https://open.spotify.com/artist/7ddylNYaeb9AurS9NqllUc), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Screen](https://open.spotify.com/album/0vMC7XHhED9lyzCDor1rXu) | 4:06 |
-| 28 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
+| 27 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
+| 28 | [Screen](https://open.spotify.com/track/4Jwjq4kSi0IroSqO52Ob6M) | [Calcou](https://open.spotify.com/artist/7ddylNYaeb9AurS9NqllUc), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Screen](https://open.spotify.com/album/0vMC7XHhED9lyzCDor1rXu) | 4:06 |
 | 29 | [Feel So Alive](https://open.spotify.com/track/6T72wSyvuUJgCc8EH5wRfw) | [Limelight Sound](https://open.spotify.com/artist/39vymr3LLNqqISal4a7yUi) | [Feel So Alive](https://open.spotify.com/album/3FU3PiQqpMQzsTgEwsoqtK) | 2:15 |
 | 30 | [Bosky](https://open.spotify.com/track/2O7WjhPo6pV9zWfHLRtBw0) | [Mossera](https://open.spotify.com/artist/6j0nPBfjnh8yjNNQPJOmXG) | [Bosky](https://open.spotify.com/album/4BETqinA7K3vShwtubiFSF) | 4:50 |
 | 31 | [⋆.✩ ࣪₊˚.⋆☾⋆⁺₊✧](https://open.spotify.com/track/0SxDq6CxA8IgkZIMsmUccI) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Close](https://open.spotify.com/album/3gRdeYH5U1sjiAb9a2HRzY) | 2:19 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 36 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 |
 | 37 | [Fractal](https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t) | [Thomas James White](https://open.spotify.com/artist/6Tn5oQhfKwtNMsOmV8Mzgy) | [Fractal](https://open.spotify.com/album/5MeltqrIcaTDQzfJAunW6m) | 3:42 |
 | 38 | [This Feeling](https://open.spotify.com/track/6iK0ChTEvfDY9qH9dotiuX) | [Farsi](https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M) | [This Feeling](https://open.spotify.com/album/5LxqYEPtM9ceTn1FIbWiW5) | 4:41 |
-| 39 | [Tides](https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Tides](https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV) | 3:36 |
-| 40 | [\#3](https://open.spotify.com/track/3QIpnNYnUMe1lrr5LJTStk) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II \(Expanded Edition\)](https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i) | 7:44 |
+| 39 | [\#3](https://open.spotify.com/track/3QIpnNYnUMe1lrr5LJTStk) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II \(Expanded Edition\)](https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i) | 7:44 |
+| 40 | [Tides](https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Tides](https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV) | 3:36 |
 | 41 | [Sorrow Stutter](https://open.spotify.com/track/0HL6bNzpulo1DRLmPGG6uV) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Sorrow Stutter](https://open.spotify.com/album/39RPb0ePvso317NSsRmoNX) | 2:50 |
 | 42 | [Ry](https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Graal \(Prologue\)](https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8) | 5:32 |
 | 43 | [Cloud Nine](https://open.spotify.com/track/4YUYErWWA2fRJOFwYUThBX) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Cloud Nine](https://open.spotify.com/album/4ZEj9V2IDWZUyESpDlraBg) | 3:12 |

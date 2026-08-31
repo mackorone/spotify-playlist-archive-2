@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVMeW0SUm35.md) - [plain]
 
 > The official soundtrack and score of Euphoria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,880 likes - 322 songs - 18 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,886 likes - 322 songs - 18 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVMeW0SUm35.md) - [plain]
 | 61 | [Raspberry Jam](https://open.spotify.com/track/5yVU9NBrOkk9X3AKHzLhoT) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/1MReEcojw6gq5OOb5yb4i1) | 3:48 |
 | 62 | [Give Me Everything \(feat\. Nayer\)](https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Nayer](https://open.spotify.com/artist/1ruutHJcECI7cos2n5TqpO) | [Planet Pit \(Deluxe Version\)](https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB) | 4:12 |
 | 63 | [Speak Low](https://open.spotify.com/track/3Rt21NJeICfsr6LLyacfyn) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/1q9Yh4EDALgMa8VYsI7bn5) | 4:28 |
-| 64 | [Ride Like the Wind \(2019 Remaster\)](https://open.spotify.com/track/2ibiJCDgb0N53RXRtYsDtg) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross \(2019 Remaster\)](https://open.spotify.com/album/4unLP4n9N8NB71dvSuI5Mt) | 4:30 |
+| 64 | [Ride Like the Wind \- 2019 Remaster](https://open.spotify.com/track/2ibiJCDgb0N53RXRtYsDtg) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross \(2019 Remaster\)](https://open.spotify.com/album/4unLP4n9N8NB71dvSuI5Mt) | 4:30 |
 | 65 | [Love Is Like Oxygen](https://open.spotify.com/track/58gcsPyG1xsD4uNtDiMC4c) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Best Of Sweet](https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG) | 3:47 |
 | 66 | [Turrucutu](https://open.spotify.com/track/3MCTaFB4XFpA27qtAMR8sr) | [Atirus](https://open.spotify.com/artist/4EjE4OihiFgdLd8QvgEcKA), [El Ca$h](https://open.spotify.com/artist/4bkBSXHN1g64Zf09uxIPl5), [Mc Window](https://open.spotify.com/artist/1lhqy1J0L0MoELGM3XckyU) | [Reggaetón Malandro Mixtape Vol\. 1](https://open.spotify.com/album/3VFmXwmneEThdVGJcr61G7) | 3:28 |
 | 67 | [La Loba del Mal](https://open.spotify.com/track/6y8xUOHC3g0C8ZWYeJKPOV) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [En Tus Manos](https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD) | 3:38 |

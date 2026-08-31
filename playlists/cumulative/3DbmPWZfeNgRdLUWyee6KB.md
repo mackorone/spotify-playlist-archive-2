@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,437 songs - 3 day 11 hr 35 min
+1,440 songs - 3 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [DP på SnapChat](https://open.spotify.com/track/3RaNiI1jFzzMDYFQoP188X) | [G.M.L.](https://open.spotify.com/artist/4H1Hn4nIuzTyDQY2RuGUYC) | [DP på SnapChat](https://open.spotify.com/album/2wS6Uswi0fPri5cWSIdNkz) | 3:06 | 2026-05-25 | 2026-07-03 |
 | [Dragonfly over Teufelssee](https://open.spotify.com/track/6VAVoJe4ERhnDebcHG0939) | [fragile construct](https://open.spotify.com/artist/1ekV2LHZWLMtnJk8gXNeyA) | [Dragonfly over Teufelssee](https://open.spotify.com/album/2noNxQNXJqHvIKjTFr217O) | 4:26 | 2026-03-24 | 2026-04-22 |
 | [Dream About You](https://open.spotify.com/track/7A7mxUsWWx3jyyakwNRb1V) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [Dream About You](https://open.spotify.com/album/4BTyulvNqYxI7zhpNV2F1T) | 2:56 | 2026-04-04 | 2026-05-03 |
+| [Dream Again](https://open.spotify.com/track/4D0P4TCJqjK3hzxwPcu3sB) | [FYONA](https://open.spotify.com/artist/4DVQgGkceK5qLMWB9ICJkR) | [Dream Again](https://open.spotify.com/album/5shHelhedh5mUBcZqtsy9d) | 2:42 | 2026-08-30 |  |
 | [DREAMER](https://open.spotify.com/track/49lM9TyblTaosHpdPkc05O) | [Hikado](https://open.spotify.com/artist/6lDxbnDDJ8j8lS38VP6swA) | [DREAMER](https://open.spotify.com/album/27aHMfzeKvauniQ4iB2MvY) | 3:35 | 2026-03-10 | 2026-04-12 |
 | [Dreaming](https://open.spotify.com/track/4oanX17e4dDfaxuaVGu9ZL) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9) | [Lost Song Wars](https://open.spotify.com/album/3T4Tq9XjsEdxI8clFJFCie) | 4:21 | 2026-03-31 | 2026-04-26 |
 | [Dreams](https://open.spotify.com/track/7tNtLGxW11tKE70wB4BWPD) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Dreams](https://open.spotify.com/album/429o17nGxNDexcp42affUn) | 3:15 | 2026-06-05 | 2026-07-03 |
@@ -623,6 +624,7 @@
 | [Kaya Ko Pa Ba?](https://open.spotify.com/track/5NkCctniqgusYrxrlBDykB) | [Dylan Danielle](https://open.spotify.com/artist/01500LhjmKYiaMWhabOsmi) | [Kaya Ko Pa Ba?](https://open.spotify.com/album/6D7Ecbqbkw2yw7TH2td3P1) | 5:14 | 2026-06-08 | 2026-07-19 |
 | [Kayıp](https://open.spotify.com/track/3B0xXpnk85hIE0qa1e8xlf) | [Hakan Karatan](https://open.spotify.com/artist/7n2HqsgOITEXwzHUJQ3NRu) | [Macera](https://open.spotify.com/album/4AXpwPfcaHrIxwAtft48q1) | 2:59 | 2026-07-03 | 2026-08-10 |
 | [Keep On](https://open.spotify.com/track/2EeGM8HJAcABdRJlUD2zNp) | [Urban Psalm](https://open.spotify.com/artist/5ljCY9HMtCo072z28PCuHK) | [Keep On](https://open.spotify.com/album/6p3z9hLzS3UdK9Hr0F3Dfz) | 4:17 | 2026-07-29 | 2026-08-30 |
+| [Keep on Dreaming](https://open.spotify.com/track/2WB6zrnwESi9zgtcLlUjn1) | [MÅNE](https://open.spotify.com/artist/3AejcXHKHkrLhgxV9ZBtIO) | [Keep on Dreaming](https://open.spotify.com/album/3bvmJoD9YetJ3UclgS1wgS) | 3:57 | 2026-08-30 |  |
 | [Keep Ya Head Up](https://open.spotify.com/track/1y8VIFmWviYhZkTc3lgktb) | [T\-WINNN](https://open.spotify.com/artist/5DgJEIByQ2L0y5Nmzw4zq0), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Keep Ya Head Up](https://open.spotify.com/album/50J4ReZnLGOakOMXfpFpJs) | 4:58 | 2026-05-22 | 2026-07-03 |
 | [Kick It Up!](https://open.spotify.com/track/2bfz9V3I3qeS4LPpH69M0i) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Kick It Up!](https://open.spotify.com/album/0WRK6ZmshiLHNN24ulWCqR) | 3:19 | 2025-10-23 | 2025-12-21 |
 | [King Of My Soul](https://open.spotify.com/track/5JcfggaYvguzdOOY2qzxZJ) | [Myastina](https://open.spotify.com/artist/21PeFB5FzDLwG262iRvJLE) | [King Of My Soul](https://open.spotify.com/album/3k5qIWauXLlk4Wpl5laNOE) | 3:22 | 2026-06-02 | 2026-07-03 |
@@ -1013,6 +1015,7 @@
 | [roaches.](https://open.spotify.com/track/47kdMhdwMkt16EAbeLcU9a) | [Travie Austin](https://open.spotify.com/artist/059jVWIqXVJvAskIuJyScN) | [roaches.](https://open.spotify.com/album/4DvKJrvA1W9faFzLljxIOk) | 3:25 | 2026-04-04 | 2026-05-03 |
 | [Roma](https://open.spotify.com/track/5UFMhB0iMZ9IRZnXVtE9uJ) | [Pedro Santos Oliveira](https://open.spotify.com/artist/6ipu3U0iZEkAiULeIr8JCQ) | [Roma](https://open.spotify.com/album/28GEpbSVfkg6AripcKvexZ) | 2:47 | 2026-02-10 | 2026-03-15 |
 | [Rome](https://open.spotify.com/track/2gXkKM9mpsP1N2ly8j0kNQ) | [Hana Wiess](https://open.spotify.com/artist/3MzcltgVVlZRrede0B7gK9) | [Rome](https://open.spotify.com/album/3UnxzJJbma1MzFYlHPNMSz) | 3:19 | 2025-11-11 | 2025-12-21 |
+| [Rooh Ka Sakoon](https://open.spotify.com/track/4D1bt4eXcmROAM5D8hWOXN) | [Temur Roy](https://open.spotify.com/artist/6bSFAMMAwCAYd4BuoTztFR) | [Ishq Aur Rooh](https://open.spotify.com/album/698myUVMT6dq9C4uC0VfUV) | 4:19 | 2026-08-30 |  |
 | [Rugido na Estrada](https://open.spotify.com/track/3FTaWZD7qUbb6ScM9YjbG1) | [De Santtis](https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN) | [Rugido na Estrada](https://open.spotify.com/album/1r76L7sEgHPZtRBRXT4apm) | 2:54 | 2026-01-26 | 2026-02-28 |
 | [Run away](https://open.spotify.com/track/3MMWYNw86r00wkk7smvoM1) | [AILEX](https://open.spotify.com/artist/74xdDdsFQZWsje0e2840Y7) | [Run away](https://open.spotify.com/album/2rsLIZcRDk7G3B6UIEtt6M) | 2:48 | 2026-03-31 | 2026-05-03 |
 | [Runaway](https://open.spotify.com/track/40CRFRPniqwB7sbPlXPm9F) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Runaway](https://open.spotify.com/album/0zgAdhmtbSNkekdvpeeIEd) | 3:39 | 2025-12-15 | 2026-01-15 |

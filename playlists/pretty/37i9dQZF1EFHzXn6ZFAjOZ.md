@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,780 likes - 149 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,783 likes - 149 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 56 | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx) | 2:50 |
 | 57 | [Tipsy \(feat\. RAYE\)](https://open.spotify.com/track/5Wt7ngK753xBhSjb9lRfSR) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3XCNZRsJxQotyHT2POii79), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Tipsy \(feat\. RAYE\)](https://open.spotify.com/album/5vTEYsgyE0C0ADqZo0Qy3F) | 3:28 |
 | 58 | [Five Star Hotels\. \(feat\. Mahalia\)](https://open.spotify.com/track/0MI4U8nhdfJ1FPRAgYhXxC) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:24 |
-| 59 | [FUFN \(Fuck You For Now\)](https://open.spotify.com/track/6f7SVoKbc1zFE5Lg2Qo9P4) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:35 |
-| 60 | [Joy.](https://open.spotify.com/track/5CKbUv7zkOdf8X2602qgei) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Amma](https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 4:23 |
+| 59 | [Joy.](https://open.spotify.com/track/5CKbUv7zkOdf8X2602qgei) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Amma](https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 4:23 |
+| 60 | [FUFN \(Fuck You For Now\)](https://open.spotify.com/track/6f7SVoKbc1zFE5Lg2Qo9P4) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:35 |
 | 61 | [Dreamer \- Compound Version](https://open.spotify.com/track/7Coulic7di20MlW1bEytkQ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:58 |
-| 62 | [Follow The White Rabbit](https://open.spotify.com/track/2Txj791OlOaNSMpps0gz5K) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 2:59 |
-| 63 | [The WhatsApp Shakespeare.](https://open.spotify.com/track/59TbbTEDx5kbwjYOEZ9IT5) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 3:55 |
+| 62 | [The WhatsApp Shakespeare.](https://open.spotify.com/track/59TbbTEDx5kbwjYOEZ9IT5) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 3:55 |
+| 63 | [Follow The White Rabbit](https://open.spotify.com/track/2Txj791OlOaNSMpps0gz5K) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 2:59 |
 | 64 | [Breathing](https://open.spotify.com/track/4bhe0XXBRo4EAPKgy4M2xz) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 3:24 |
 | 65 | [Life Boat.](https://open.spotify.com/track/7BguGjelfXyHttxhfQVxzr) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 4:15 |
 | 66 | [Confidence](https://open.spotify.com/track/5nhG9nkIXaPA89Yd9BLOZU) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [Nana Rogues](https://open.spotify.com/artist/24HNTbd7Y2qVOCyzIosYi9) | [Side Tape](https://open.spotify.com/album/6VpSHPH5y0YyCajycHp6PL) | 2:50 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 148 | [2\-2](https://open.spotify.com/track/7bwBoVmrfB0xMbUose7HYb) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie \(Fan Edition\)](https://open.spotify.com/album/3VYER2TreguhiDUlXnTkli) | 3:01 |
 | 149 | [Magic](https://open.spotify.com/track/6Is9lEdN1IJQcD6sfFJiTo) | [Rachel Alejandro](https://open.spotify.com/artist/4oMk1QJuMWUWrNmchRJGWL) | [Heart's Desire](https://open.spotify.com/album/2hx6aKJg9nktlobIjmFiW8) | 3:12 |
 
-Snapshot ID: `Aca6PAAAAAAFtVQRkX7TCJX2efHf/8mH`
+Snapshot ID: `Aca/3AAAAAAK4LpApOFBhkYSoeM4KzZH`

@@ -1283,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "Lose Your Love",
+        "url": "https://open.spotify.com/album/36h0O23tuHkodL6puWYbII"
+      },
+      "artists": [
+        {
+          "name": "G.E.N",
+          "url": "https://open.spotify.com/artist/4Y3tXdzJcL5QK0xtwzZ6bH"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159239,
+      "name": "Lose Your Love",
+      "url": "https://open.spotify.com/track/1ZcoivP306CXMsTrraieyl"
+    },
+    {
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },

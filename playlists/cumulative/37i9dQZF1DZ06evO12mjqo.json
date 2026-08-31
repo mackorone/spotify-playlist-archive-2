@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "2 Big To Rig (Original Motion Picture Soundtrack / Live)",
+        "url": "https://open.spotify.com/album/421FQJqvQRTfRkTpHSLljx"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62995,
+      "name": "Devil Church - Live from Mexico City",
+      "url": "https://open.spotify.com/track/0WRIAl1b5gYX1nog5qE1Z2"
+    },
+    {
+      "album": {
         "name": "Opus Eponymous",
         "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
       },
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 222840,
       "name": "Missionary Man",
       "url": "https://open.spotify.com/track/1YOaQUUsEzMbxk1sfmoNVE"
@@ -1690,10 +1708,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 315360,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/6NlyLv5ytvhE4xOWN47V0g"
+    },
+    {
+      "album": {
+        "name": "2 Big To Rig (Original Motion Picture Soundtrack / Live)",
+        "url": "https://open.spotify.com/album/421FQJqvQRTfRkTpHSLljx"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296999,
+      "name": "Spirit - Live from Mexico City",
+      "url": "https://open.spotify.com/track/3tLHCRTjf7NscTAkocZ8oL"
     },
     {
       "album": {

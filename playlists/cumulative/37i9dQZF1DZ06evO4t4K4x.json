@@ -144,7 +144,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 1274745,
       "name": "Circle of Light, Pt. 1",
       "url": "https://open.spotify.com/track/7lAXvqRchSNaXGDVJZXkeN"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-23",
+      "date_removed": null,
       "duration_ms": 87200,
       "name": "Depression",
       "url": "https://open.spotify.com/track/0wYA5p0Px0APnNoV9M4lhK"
@@ -438,28 +438,6 @@
       "duration_ms": 140093,
       "name": "Doctor Who (New Opening, 1967 - Full Version)",
       "url": "https://open.spotify.com/track/5PvWV6UsWbDG0Y6NoXqfi1"
-    },
-    {
-      "album": {
-        "name": "Doctor Who (Opening Theme - Stereo Mix 2026)",
-        "url": "https://open.spotify.com/album/4zDoqENuvo3c3VWG9juVYt"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "The BBC Radiophonic Workshop",
-          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
-        }
-      ],
-      "date_added": "2026-05-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 142660,
-      "name": "Doctor Who (Opening Theme - Stereo Mix 2026)",
-      "url": "https://open.spotify.com/track/3tyufqoxq6haSf0fapEJOx"
     },
     {
       "album": {
@@ -635,6 +613,28 @@
     },
     {
       "album": {
+        "name": "Doctor Who (Opening Theme - Stereo Mix 2026)",
+        "url": "https://open.spotify.com/album/4zDoqENuvo3c3VWG9juVYt"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "The BBC Radiophonic Workshop",
+          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142660,
+      "name": "Doctor Who - Opening Theme - Stereo Mix 2026",
+      "url": "https://open.spotify.com/track/3tyufqoxq6haSf0fapEJOx"
+    },
+    {
+      "album": {
         "name": "Doctor Who - the Sun Makers (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5CI2PWZGvmov9hh1PFh4j3"
       },
@@ -758,7 +758,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 45960,
       "name": "Doctor Who Opening Title Theme",
       "url": "https://open.spotify.com/track/6WbGiPNKhifm1fDrZ0bgpa"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 46466,
       "name": "Doctor Who Opening Title Theme",
       "url": "https://open.spotify.com/track/28okqvL1cKPt3aSMlqe4rO"
@@ -2436,7 +2436,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 119640,
       "name": "Nightwalker",
       "url": "https://open.spotify.com/track/0z3rbUCweRcD7g0i3Pbw4F"

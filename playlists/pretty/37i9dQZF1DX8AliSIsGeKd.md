@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Booka Shade
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,492 likes - 89 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,520 likes - 89 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

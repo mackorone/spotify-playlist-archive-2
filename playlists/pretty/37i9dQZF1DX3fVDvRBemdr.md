@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop\. Cover: Numidia & John West! <a href="spotify:presents:jouwzomerid">Zomer aanbevelingen van Spotify? Doe de quiz!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,535 likes - 105 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,545 likes - 105 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

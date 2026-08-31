@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6wsFITBT08NA12LlCG9h3Q.md) - [plain]
 
 > A classic playlist with the best hits of the 90s featuring No Doubt, Spice Girls, Smash Mouth, Nirvana, and all those 90s hits you can't resist!
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 142,450 likes - 67 songs - 4 hr 42 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 142,439 likes - 67 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

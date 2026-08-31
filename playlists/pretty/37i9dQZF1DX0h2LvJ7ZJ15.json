@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1654395,
+  "num_followers": 1654599,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,26 @@
     {
       "added_at": "2026-08-04 14:05:45",
       "album": {
+        "name": "Only Love Can Hurt Like This (Slowed Down Version)",
+        "url": "https://open.spotify.com/album/1xtXcIxBOXAGZYCUIs6EUG"
+      },
+      "artists": [
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        },
+        {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
+        }
+      ],
+      "duration_ms": 257743,
+      "name": "Only Love Can Hurt Like This - Slowed Down Version",
+      "url": "https://open.spotify.com/track/48CKzGWOC65n8a8kdANJV8"
+    },
+    {
+      "added_at": "2026-08-04 14:05:45",
+      "album": {
         "name": "HEAVENLY JUMPSTYLE",
         "url": "https://open.spotify.com/album/6Mh8tamHejeSdNYR7p3GFl"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 128477,
       "name": "HEAVENLY JUMPSTYLE - Slowed",
       "url": "https://open.spotify.com/track/2L13lNCrUn7djHt6XdE19l"
-    },
-    {
-      "added_at": "2026-08-04 14:05:45",
-      "album": {
-        "name": "Only Love Can Hurt Like This (Slowed Down Version)",
-        "url": "https://open.spotify.com/album/1xtXcIxBOXAGZYCUIs6EUG"
-      },
-      "artists": [
-        {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        },
-        {
-          "name": "sped up + slowed",
-          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
-        }
-      ],
-      "duration_ms": 257743,
-      "name": "Only Love Can Hurt Like This - Slowed Down Version",
-      "url": "https://open.spotify.com/track/48CKzGWOC65n8a8kdANJV8"
     },
     {
       "added_at": "2026-08-04 14:05:45",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-08-04 14:05:45",
       "album": {
+        "name": "House Of Memories",
+        "url": "https://open.spotify.com/album/3R6ZYq94MaeYKEMtPsj2hj"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 285062,
+      "name": "House of Memories - Slowed Down Version",
+      "url": "https://open.spotify.com/track/7CGf0Sw8s7m3bDllqSmPfL"
+    },
+    {
+      "added_at": "2026-08-04 14:05:45",
+      "album": {
         "name": "coldshade",
         "url": "https://open.spotify.com/album/7stzTSqo40hosxvqvrUFZx"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 204887,
       "name": "coldshade - Slowed",
       "url": "https://open.spotify.com/track/6kazHgRY42IvErUxsSInVV"
-    },
-    {
-      "added_at": "2026-08-04 14:05:45",
-      "album": {
-        "name": "House Of Memories",
-        "url": "https://open.spotify.com/album/3R6ZYq94MaeYKEMtPsj2hj"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 285062,
-      "name": "House of Memories - Slowed Down Version",
-      "url": "https://open.spotify.com/track/7CGf0Sw8s7m3bDllqSmPfL"
     },
     {
       "added_at": "2026-08-04 14:05:45",

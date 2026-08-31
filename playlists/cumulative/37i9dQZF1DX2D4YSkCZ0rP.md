@@ -2,9 +2,9 @@
 
 ### [PRIDE France](https://open.spotify.com/playlist/37i9dQZF1DX2D4YSkCZ0rP)
 
-> La playlist des artistes LGBTQIA+\. Photo : Victor Aupecle
+> La playlist des artistes LGBTQIA+\. Photo : Bilal Hassani
 
-130 songs - 6 hr 47 min
+133 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-10-18 | 2025-05-27 |
 | [Bonjour docteur](https://open.spotify.com/track/5DCa18LuNfuTRwW78k4ocS) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Bonjour docteur](https://open.spotify.com/album/1ceUkJZZo7FYSOEVgd1upM) | 3:25 | 2026-06-07 | 2026-06-22 |
 | [C'est La Vie](https://open.spotify.com/track/65h2qZ7sBG9GcRSgSlobvy) | [Hyphen Hyphen](https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV) | [C'est La vie](https://open.spotify.com/album/2DpWqMGAYZlpIJhNpTZN9u) | 2:51 | 2024-06-04 | 2025-05-27 |
-| [Capitale](https://open.spotify.com/track/1m7lR2aBMnTWx1vCfdLeyy) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Capitale](https://open.spotify.com/album/162686tqoOtQnHC80kRbma) | 2:51 | 2026-06-14 |  |
+| [Capitale](https://open.spotify.com/track/1m7lR2aBMnTWx1vCfdLeyy) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Capitale](https://open.spotify.com/album/162686tqoOtQnHC80kRbma) | 2:51 | 2026-06-14 | 2026-08-31 |
 | [Catching feelings](https://open.spotify.com/track/1cfpNIlKX4jDGBVwVWbpmf) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Catching feelings](https://open.spotify.com/album/23a1PGqGITDhfPf8aWC91a) | 3:22 | 2026-06-07 |  |
 | [Catching feelings](https://open.spotify.com/track/5WZL03aLF9GVNaa5Q6ATNe) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Catching feelings](https://open.spotify.com/album/2lUIfpdrW8OuEgpvPjMhWg) | 3:22 | 2025-05-26 | 2026-06-08 |
 | [Champagne ké fraises](https://open.spotify.com/track/0VueZHw6jT3nA1X7df4fCR) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Champagne ké fraises](https://open.spotify.com/album/1EBbcU9zdWhLnziZVSyU4J) | 4:11 | 2025-05-26 | 2026-06-08 |
@@ -86,6 +86,7 @@
 | [Love Noir](https://open.spotify.com/track/3QSfWyXeGEpEoMpufPPtot) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr), [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Love Noir](https://open.spotify.com/album/4q3khzl3yEiqMcry65Q4ZW) | 2:51 | 2026-06-07 |  |
 | [love4real](https://open.spotify.com/track/0INWdjE4CWPbsL7eXy0kGL) | [Camion Bip Bip](https://open.spotify.com/artist/2JCA0IH0hQkHYl5aVbwgQh) | [mabel](https://open.spotify.com/album/4DM84WwvmsLNt9jxXhE5JG) | 3:45 | 2025-05-26 | 2026-06-08 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-04 | 2024-10-19 |
+| [LÉTAL](https://open.spotify.com/track/7dOi1Ewgw5nTOCE2NsB26c) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL), [Rebeka Warrior](https://open.spotify.com/artist/0VPogECnuuH2xbYP3Rmpd4) | [LÉTAL](https://open.spotify.com/album/2H12z9QcXd3MiahYo3WsNj) | 2:45 | 2026-08-30 |  |
 | [Ma chérie](https://open.spotify.com/track/6HP89eE4a0PQv0emwrstu2) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Ma chérie](https://open.spotify.com/album/12SKaGibhGHQ091b1Iqgdz) | 3:01 | 2024-06-04 | 2025-05-27 |
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2025-05-26 | 2026-06-08 |
 | [Make Love \(Que du Love, Pt\. 2\)](https://open.spotify.com/track/78M2p3tfDUcz7JF1lRaVHO) | [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx) | [Make Love \(Que du Love, Pt\. 2\)](https://open.spotify.com/album/7gApEBLc3z9GH5Ow8Im5MH) | 2:57 | 2024-10-18 | 2026-06-08 |
@@ -111,6 +112,7 @@
 | [Pleurer en dansant](https://open.spotify.com/track/1TXTfBITlGjV3iObZitZs2) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Pleurer en dansant](https://open.spotify.com/album/0WYQgUq0o57dPJIgPYtkuS) | 3:30 | 2026-06-21 |  |
 | [Poison](https://open.spotify.com/track/121YFyW8DmAZcMk3ax3PQA) | [Paloma](https://open.spotify.com/artist/0se892wuxZ6XIMUOEPewVb), [Elips](https://open.spotify.com/artist/2AIzKTzFPBh0VNaf87zG24) | [Château Intérieur](https://open.spotify.com/album/0l9T71EcM3Io83UFjIDBFQ) | 3:14 | 2026-06-07 |  |
 | [Polypocket](https://open.spotify.com/track/2576iEXHGpjyr5zn1Ylv8r) | [Camion Bip Bip](https://open.spotify.com/artist/2JCA0IH0hQkHYl5aVbwgQh) | [Polypocket](https://open.spotify.com/album/17qkle3Ru2RkmPVrcuko0X) | 3:01 | 2026-06-07 |  |
+| [PopStar](https://open.spotify.com/track/4JcWkJc4RH7FgQfmyK2J3p) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW), [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Bonsoir Paris](https://open.spotify.com/album/52cbJmAsRC76J3E0Fa2M7z) | 3:15 | 2026-08-30 |  |
 | [Poupée \- Edit](https://open.spotify.com/track/6BQtKIDzProCDqQ1RIrUP5) | [Montemarco](https://open.spotify.com/artist/3A86WsWLl8c2VVUhIKbQHq) | [1,2,3](https://open.spotify.com/album/1EkutaiP4rkbVquS5zx42X) | 2:43 | 2026-06-07 |  |
 | [Puis t'as dansé avec moi](https://open.spotify.com/track/2scT2pCZrcr0L8mmLJwiSx) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:37 | 2024-06-04 | 2024-10-19 |
 | [Pura Vida](https://open.spotify.com/track/089yceeHO3eLgUBIGpMthu) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Caméo](https://open.spotify.com/album/5QXZkChgcFRZ6cUAehwUfp) | 2:43 | 2024-06-04 | 2025-05-27 |
@@ -132,10 +134,11 @@
 | [To the Wilder](https://open.spotify.com/track/5xjkxF6sKG9ANZuicTXWVm) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [WOODKID FOR DEATH STRANDING 2: ON THE BEACH](https://open.spotify.com/album/11Bzc0HtyaDwu6bT07poOx) | 4:39 | 2026-06-07 |  |
 | [Too Much](https://open.spotify.com/track/2Gf36deg60mcWyagprxnCy) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 3:03 | 2024-06-04 | 2025-05-27 |
 | [Tu vas me quitter encore longtemps ?](https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Tu vas me quitter encore longtemps ?](https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR) | 3:51 | 2024-10-18 | 2025-05-27 |
+| [Une seule vie](https://open.spotify.com/track/5Y3p9cIQH4TxX3sI4ZQIAL) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Une seule vie](https://open.spotify.com/album/2QiKXoR9j4aj69MmKI6gvQ) | 4:05 | 2026-08-30 |  |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2024-06-04 | 2026-06-08 |
 | [Virile](https://open.spotify.com/track/0y2YZSSY6BtzP6L489fMrb) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Millénium](https://open.spotify.com/album/2ouSVI0YALXE1GjD1pHoot) | 2:38 | 2026-06-07 |  |
 | [WATCH ME](https://open.spotify.com/track/5m29TupiYLTsROuFADxHoj) | [Keiona](https://open.spotify.com/artist/6qLROBbQvQNwzkH9AlVDCS) | [WATCH ME](https://open.spotify.com/album/7rRXCGIxRt4qFmNLexVEjq) | 2:28 | 2025-05-26 | 2026-06-08 |
-| [What You Want](https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [What You Want](https://open.spotify.com/album/0PWDYw8t6pEp4n8sFHZzOj) | 3:08 | 2026-06-07 |  |
+| [What You Want](https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [What You Want](https://open.spotify.com/album/0PWDYw8t6pEp4n8sFHZzOj) | 3:08 | 2026-06-07 | 2026-08-31 |
 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 | 2025-05-26 | 2026-06-08 |
 | [Worst Of Me](https://open.spotify.com/track/7yfQOi8LvjmD3VzemRuVVF) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Worst Of Me](https://open.spotify.com/album/4W9y8UUM7suAX2a8eYIWsb) | 3:27 | 2025-05-26 | 2026-06-08 |
 

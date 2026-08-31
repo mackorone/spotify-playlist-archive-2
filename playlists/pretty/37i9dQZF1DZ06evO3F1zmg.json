@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 42839,
+  "num_followers": 42841,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAAb3I7N92zSh4t9x/pjKg0/",
+  "snapshot_id": "apIhAAAAAADVWeJo3Mi7Rb3ps+qIqzR+",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Best",
-        "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 121053,
-      "name": "My Best",
-      "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
         "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
       },
@@ -623,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Best",
+        "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 121053,
+      "name": "My Best",
+      "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Money Mouf",
         "url": "https://open.spotify.com/album/6dn11fbycq7fhBCfS8GBRG"
       },
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Come First (feat. Saweetie)",
-        "url": "https://open.spotify.com/album/53fnJWISeZ4hjXYXBDVqB0"
-      },
-      "artists": [
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 191254,
-      "name": "You Come First (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/5Ef2noaxqTAfa5gLVw05OJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "QUAVO HUNCHO",
         "url": "https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1"
       },
@@ -687,22 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+        "name": "You Come First (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/53fnJWISeZ4hjXYXBDVqB0"
       },
       "artists": [
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
         },
         {
           "name": "Saweetie",
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 152241,
-      "name": "Baby Boo",
-      "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
+      "duration_ms": 191254,
+      "name": "You Come First (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/5Ef2noaxqTAfa5gLVw05OJ"
     },
     {
       "added_at": null,
@@ -719,6 +699,26 @@
       "duration_ms": 152973,
       "name": "Is It The Way",
       "url": "https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 152241,
+      "name": "Baby Boo",
+      "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SIR TOO $HORT, VOL. 2 (DRINK & SMOKE)",
-        "url": "https://open.spotify.com/album/5KkGgCCpS0Rz4mVlME9SKK"
-      },
-      "artists": [
-        {
-          "name": "Too $hort",
-          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 208065,
-      "name": "That's My Bih (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/5sNwGj5BktxdHYQjlszwAl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SHOT O' CLOCK",
         "url": "https://open.spotify.com/album/0FGFaLjqjVkavZbKtFTWXJ"
       },
@@ -951,18 +931,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shake It Fast (WSWF Original Vol.3)",
-        "url": "https://open.spotify.com/album/1TrbxBfTQ0ggFneHjgT0Dh"
+        "name": "SIR TOO $HORT, VOL. 2 (DRINK & SMOKE)",
+        "url": "https://open.spotify.com/album/5KkGgCCpS0Rz4mVlME9SKK"
       },
       "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        },
         {
           "name": "Saweetie",
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 131000,
-      "name": "Shake It Fast (Prod. THE HUB)",
-      "url": "https://open.spotify.com/track/5KzwhUeX1NLn3xJdT2ixxI"
+      "duration_ms": 208065,
+      "name": "That's My Bih (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/5sNwGj5BktxdHYQjlszwAl"
     },
     {
       "added_at": null,
@@ -979,6 +963,22 @@
       "duration_ms": 49242,
       "name": "High Maintenance",
       "url": "https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shake It Fast (WSWF Original Vol.3)",
+        "url": "https://open.spotify.com/album/1TrbxBfTQ0ggFneHjgT0Dh"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Shake It Fast (Prod. THE HUB)",
+      "url": "https://open.spotify.com/track/5KzwhUeX1NLn3xJdT2ixxI"
     },
     {
       "added_at": null,

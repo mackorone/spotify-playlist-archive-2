@@ -1,6 +1,6 @@
 {
   "description": "Soft instrumental jazz for working or studying.",
-  "num_followers": 315915,
+  "num_followers": 315933,
   "original_name": "Focus Jazz",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/3qG4dYKIbloOrYOGRPJKil"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Lewis",
-          "url": "https://open.spotify.com/artist/3BpZjEATDP62xncYcfVkqP"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/7e1itud9aJ0ChQI9Nk9Z5D"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
         "name": "Table For Two Please",
         "url": "https://open.spotify.com/album/5OvfX9BMCN1bKlDpI029Cn"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 182000,
       "name": "Table For Two Please",
       "url": "https://open.spotify.com/track/0q6eQ32MAZyFv831XUrR8E"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/3qG4dYKIbloOrYOGRPJKil"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Lewis",
+          "url": "https://open.spotify.com/artist/3BpZjEATDP62xncYcfVkqP"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/7e1itud9aJ0ChQI9Nk9Z5D"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "Story of My Dream",
-        "url": "https://open.spotify.com/album/6HuFY7tw5HA5ZMnurekM79"
-      },
-      "artists": [
-        {
-          "name": "Almost Here",
-          "url": "https://open.spotify.com/artist/5o7GNcXboXqTegTrAYHERs"
-        }
-      ],
-      "duration_ms": 177431,
-      "name": "Story of My Dream",
-      "url": "https://open.spotify.com/track/3DgwDOJOfDGM6pdIWkkXA1"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
         "name": "Young At Heart",
         "url": "https://open.spotify.com/album/1GuiQd3LtyPFOib1k9rJ0B"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 279557,
       "name": "Young At Heart",
       "url": "https://open.spotify.com/track/141T43SRB9gNLTqG8WPvaz"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
+        "name": "Story of My Dream",
+        "url": "https://open.spotify.com/album/6HuFY7tw5HA5ZMnurekM79"
+      },
+      "artists": [
+        {
+          "name": "Almost Here",
+          "url": "https://open.spotify.com/artist/5o7GNcXboXqTegTrAYHERs"
+        }
+      ],
+      "duration_ms": 177431,
+      "name": "Story of My Dream",
+      "url": "https://open.spotify.com/track/3DgwDOJOfDGM6pdIWkkXA1"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "You Go To My Head",
-        "url": "https://open.spotify.com/album/3wvTUr0jvkCGLBG4ESBF1a"
-      },
-      "artists": [
-        {
-          "name": "Tim Franks Trio",
-          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
-        }
-      ],
-      "duration_ms": 299029,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/0kqwoyaat9Kv8vvLsxUQXs"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
         "name": "If You Could See Me Now",
         "url": "https://open.spotify.com/album/22ndy4PP1O9LVJuqq7dN6W"
       },
@@ -475,18 +459,18 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "A Mutual Friend",
-        "url": "https://open.spotify.com/album/2iXXIsxR5dYhxMGAdrhK74"
+        "name": "You Go To My Head",
+        "url": "https://open.spotify.com/album/3wvTUr0jvkCGLBG4ESBF1a"
       },
       "artists": [
         {
-          "name": "CMC 3",
-          "url": "https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC"
+          "name": "Tim Franks Trio",
+          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
         }
       ],
-      "duration_ms": 220250,
-      "name": "A Mutual Friend",
-      "url": "https://open.spotify.com/track/0oo7APt2BwlH2DvLo163xC"
+      "duration_ms": 299029,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/0kqwoyaat9Kv8vvLsxUQXs"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -503,6 +487,22 @@
       "duration_ms": 179543,
       "name": "The Still Sea",
       "url": "https://open.spotify.com/track/4uPFUk6X8UtLgzMO3NknL2"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
+        "name": "A Mutual Friend",
+        "url": "https://open.spotify.com/album/2iXXIsxR5dYhxMGAdrhK74"
+      },
+      "artists": [
+        {
+          "name": "CMC 3",
+          "url": "https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC"
+        }
+      ],
+      "duration_ms": 220250,
+      "name": "A Mutual Friend",
+      "url": "https://open.spotify.com/track/0oo7APt2BwlH2DvLo163xC"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "You Gave Me That Look",
-        "url": "https://open.spotify.com/album/4ZFC18j6lyUKueqtxiorZa"
-      },
-      "artists": [
-        {
-          "name": "Original Three",
-          "url": "https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3"
-        }
-      ],
-      "duration_ms": 304694,
-      "name": "You Gave Me That Look",
-      "url": "https://open.spotify.com/track/2BBxt787LSuIdPXN6YM3S1"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
         "name": "To the Moon and Back",
         "url": "https://open.spotify.com/album/35ijXUqgREKtH2X21SsHwN"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 207750,
       "name": "To the Moon and Back",
       "url": "https://open.spotify.com/track/5SavKywZ8Mzwb0PppxJf9E"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
+        "name": "You Gave Me That Look",
+        "url": "https://open.spotify.com/album/4ZFC18j6lyUKueqtxiorZa"
+      },
+      "artists": [
+        {
+          "name": "Original Three",
+          "url": "https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3"
+        }
+      ],
+      "duration_ms": 304694,
+      "name": "You Gave Me That Look",
+      "url": "https://open.spotify.com/track/2BBxt787LSuIdPXN6YM3S1"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "Missed The Last Dance With You",
-        "url": "https://open.spotify.com/album/6eDr3Uh3GuGGLURUqrV1k3"
-      },
-      "artists": [
-        {
-          "name": "Original Three",
-          "url": "https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3"
-        }
-      ],
-      "duration_ms": 304554,
-      "name": "Missed The Last Dance With You",
-      "url": "https://open.spotify.com/track/7mbGcxb8cInNijyo4nO6eu"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
         "name": "Almost Home",
         "url": "https://open.spotify.com/album/3YxHVhhbU5dIUmkIiXwKQc"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 158706,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/6o2FVcJk7m0eY4AYIuf2hK"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
+        "name": "Missed The Last Dance With You",
+        "url": "https://open.spotify.com/album/6eDr3Uh3GuGGLURUqrV1k3"
+      },
+      "artists": [
+        {
+          "name": "Original Three",
+          "url": "https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3"
+        }
+      ],
+      "duration_ms": 304554,
+      "name": "Missed The Last Dance With You",
+      "url": "https://open.spotify.com/track/7mbGcxb8cInNijyo4nO6eu"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
+        "name": "A Talk About Work",
+        "url": "https://open.spotify.com/album/5ACPWz0vT683B1Vk7suQQC"
+      },
+      "artists": [
+        {
+          "name": "Jaden Berry",
+          "url": "https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL"
+        }
+      ],
+      "duration_ms": 148555,
+      "name": "A Talk About Work",
+      "url": "https://open.spotify.com/track/2Ts4SElvopykvf7nSJXZxs"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
         "name": "Sunset Stroll",
         "url": "https://open.spotify.com/album/2MQMIyZob2GNC9h3GY8iTf"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 208500,
       "name": "Golden Moments",
       "url": "https://open.spotify.com/track/21G8HryJ6LWITBPNU9o2e1"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
-        "name": "A Talk About Work",
-        "url": "https://open.spotify.com/album/5ACPWz0vT683B1Vk7suQQC"
-      },
-      "artists": [
-        {
-          "name": "Jaden Berry",
-          "url": "https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL"
-        }
-      ],
-      "duration_ms": 148555,
-      "name": "A Talk About Work",
-      "url": "https://open.spotify.com/track/2Ts4SElvopykvf7nSJXZxs"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "Clouds Got In Our Way",
-        "url": "https://open.spotify.com/album/6ypEs7KXI72ol1kWWFX6nq"
-      },
-      "artists": [
-        {
-          "name": "Martin Hoper",
-          "url": "https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc"
-        }
-      ],
-      "duration_ms": 199318,
-      "name": "Clouds Got In Our Way",
-      "url": "https://open.spotify.com/track/56oTEnXtzyX81TQbv95xnZ"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
         "name": "Sunset over Paris",
         "url": "https://open.spotify.com/album/0VBhxJPWzkCEEuRMlOKpTF"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 243174,
       "name": "Sunset over Paris",
       "url": "https://open.spotify.com/track/4J7o5z21AHxX83IxXOGdWe"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
+        "name": "Clouds Got In Our Way",
+        "url": "https://open.spotify.com/album/6ypEs7KXI72ol1kWWFX6nq"
+      },
+      "artists": [
+        {
+          "name": "Martin Hoper",
+          "url": "https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc"
+        }
+      ],
+      "duration_ms": 199318,
+      "name": "Clouds Got In Our Way",
+      "url": "https://open.spotify.com/track/56oTEnXtzyX81TQbv95xnZ"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "Sage",
-        "url": "https://open.spotify.com/album/0xsFdHjsDka91q5N8siY3z"
-      },
-      "artists": [
-        {
-          "name": "Kristian Hart Trio",
-          "url": "https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU"
-        }
-      ],
-      "duration_ms": 167722,
-      "name": "Sage",
-      "url": "https://open.spotify.com/track/08nsgVrERoxnt6gLsecK62"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
         "name": "Heartbreak Avenue",
         "url": "https://open.spotify.com/album/3RrW88TLHIjgNehr6KG4sk"
       },
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "Without saying much",
-        "url": "https://open.spotify.com/album/5HaU2XRqk6gfFI5qkylADr"
+        "name": "Sage",
+        "url": "https://open.spotify.com/album/0xsFdHjsDka91q5N8siY3z"
       },
       "artists": [
         {
-          "name": "Mill Basin",
-          "url": "https://open.spotify.com/artist/2JJLo6OchMfh5VgpVZmVTw"
+          "name": "Kristian Hart Trio",
+          "url": "https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU"
         }
       ],
-      "duration_ms": 256542,
-      "name": "Without saying much",
-      "url": "https://open.spotify.com/track/3Lld9Qsp3Rig5lcZTbIWpc"
+      "duration_ms": 167722,
+      "name": "Sage",
+      "url": "https://open.spotify.com/track/08nsgVrERoxnt6gLsecK62"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "A Job Promotion",
-        "url": "https://open.spotify.com/album/65qefGoRuealN5t4RdiRlJ"
+        "name": "Without saying much",
+        "url": "https://open.spotify.com/album/5HaU2XRqk6gfFI5qkylADr"
       },
       "artists": [
         {
-          "name": "Newington Green",
-          "url": "https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE"
+          "name": "Mill Basin",
+          "url": "https://open.spotify.com/artist/2JJLo6OchMfh5VgpVZmVTw"
         }
       ],
-      "duration_ms": 186259,
-      "name": "A Job Promotion",
-      "url": "https://open.spotify.com/track/5tu555JJdfnt5xc1by9bbJ"
+      "duration_ms": 256542,
+      "name": "Without saying much",
+      "url": "https://open.spotify.com/track/3Lld9Qsp3Rig5lcZTbIWpc"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -1563,6 +1547,22 @@
       "duration_ms": 157830,
       "name": "Dreams in Blue",
       "url": "https://open.spotify.com/track/4C6M1M5EkA5XABc7ol3EEz"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
+        "name": "A Job Promotion",
+        "url": "https://open.spotify.com/album/65qefGoRuealN5t4RdiRlJ"
+      },
+      "artists": [
+        {
+          "name": "Newington Green",
+          "url": "https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE"
+        }
+      ],
+      "duration_ms": 186259,
+      "name": "A Job Promotion",
+      "url": "https://open.spotify.com/track/5tu555JJdfnt5xc1by9bbJ"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "Something Is Off",
-        "url": "https://open.spotify.com/album/46tskQAFmLIuN7IQVyTmAC"
-      },
-      "artists": [
-        {
-          "name": "Nouvelle Mar\u00e9e",
-          "url": "https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq"
-        }
-      ],
-      "duration_ms": 235221,
-      "name": "Something Is Off",
-      "url": "https://open.spotify.com/track/2kBY2bMjKdRSWbu3zhh2Ap"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
         "name": "Into Your Arms",
         "url": "https://open.spotify.com/album/1Em9KboxpeR2GXE5tBueVh"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 171050,
       "name": "Into Your Arms",
       "url": "https://open.spotify.com/track/4j1WoGCsyNS1Ja1JE9Zcuk"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
+        "name": "Something Is Off",
+        "url": "https://open.spotify.com/album/46tskQAFmLIuN7IQVyTmAC"
+      },
+      "artists": [
+        {
+          "name": "Nouvelle Mar\u00e9e",
+          "url": "https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq"
+        }
+      ],
+      "duration_ms": 235221,
+      "name": "Something Is Off",
+      "url": "https://open.spotify.com/track/2kBY2bMjKdRSWbu3zhh2Ap"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "My Piano",
-        "url": "https://open.spotify.com/album/5SmLllAt9qvYK5yi0BbueG"
+        "name": "My Forgotten Promises",
+        "url": "https://open.spotify.com/album/4iPUjnnvD5aoU5A990fLKk"
       },
       "artists": [
         {
-          "name": "Drew Milner",
-          "url": "https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5"
+          "name": "Bedford and 7th",
+          "url": "https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE"
         }
       ],
-      "duration_ms": 222259,
-      "name": "My Piano",
-      "url": "https://open.spotify.com/track/4aoq1u9tdtIrEqYrg08f85"
+      "duration_ms": 179258,
+      "name": "My Forgotten Promises",
+      "url": "https://open.spotify.com/track/6KgwAFWdWYOvx5d13ETTsL"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -1839,6 +1839,38 @@
       "duration_ms": 254133,
       "name": "My Romance",
       "url": "https://open.spotify.com/track/3LT1zcX6o7Xv2IfJrlU4f1"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
+        "name": "My Piano",
+        "url": "https://open.spotify.com/album/5SmLllAt9qvYK5yi0BbueG"
+      },
+      "artists": [
+        {
+          "name": "Drew Milner",
+          "url": "https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5"
+        }
+      ],
+      "duration_ms": 222259,
+      "name": "My Piano",
+      "url": "https://open.spotify.com/track/4aoq1u9tdtIrEqYrg08f85"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
+        "name": "Nothing to prove",
+        "url": "https://open.spotify.com/album/66NH9bq9K3EOwo1qVmpUZ3"
+      },
+      "artists": [
+        {
+          "name": "Rossdale Junction",
+          "url": "https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO"
+        }
+      ],
+      "duration_ms": 199092,
+      "name": "Nothing to prove",
+      "url": "https://open.spotify.com/track/3vzVCFgxbC3IkT388zC5Ay"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -1875,22 +1907,6 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "Love in the First Degree",
-        "url": "https://open.spotify.com/album/489cU8nNEb4pS0bBMjcS00"
-      },
-      "artists": [
-        {
-          "name": "Dan Evans-Parker",
-          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
-        }
-      ],
-      "duration_ms": 192319,
-      "name": "Love in the First Degree",
-      "url": "https://open.spotify.com/track/69eesFTk1HKajniFSF2Z9n"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
         "name": "Thursday Afternoon",
         "url": "https://open.spotify.com/album/7mLrCwcnBKZgY7YcedbkW1"
       },
@@ -1907,6 +1923,22 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
+        "name": "Love in the First Degree",
+        "url": "https://open.spotify.com/album/489cU8nNEb4pS0bBMjcS00"
+      },
+      "artists": [
+        {
+          "name": "Dan Evans-Parker",
+          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
+        }
+      ],
+      "duration_ms": 192319,
+      "name": "Love in the First Degree",
+      "url": "https://open.spotify.com/track/69eesFTk1HKajniFSF2Z9n"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
         "name": "The Incredible Kai Winding Trombones",
         "url": "https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj"
       },
@@ -1919,6 +1951,22 @@
       "duration_ms": 245013,
       "name": "Lil Darlin'",
       "url": "https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
+        "name": "Melody in past tense",
+        "url": "https://open.spotify.com/album/3YGnmo06EjvWkgrSR6SxYJ"
+      },
+      "artists": [
+        {
+          "name": "Turning Trio",
+          "url": "https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC"
+        }
+      ],
+      "duration_ms": 150845,
+      "name": "Melody in past tense",
+      "url": "https://open.spotify.com/track/2iRViBFmLLRZNxBnMe0Pyd"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -2115,22 +2163,6 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "My Forgotten Promises",
-        "url": "https://open.spotify.com/album/4iPUjnnvD5aoU5A990fLKk"
-      },
-      "artists": [
-        {
-          "name": "Bedford and 7th",
-          "url": "https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE"
-        }
-      ],
-      "duration_ms": 179258,
-      "name": "My Forgotten Promises",
-      "url": "https://open.spotify.com/track/6KgwAFWdWYOvx5d13ETTsL"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
         "name": "Wind Dancer",
         "url": "https://open.spotify.com/album/32FSarmIZSQXG34jvKX324"
       },
@@ -2227,22 +2259,6 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "Nothing to prove",
-        "url": "https://open.spotify.com/album/66NH9bq9K3EOwo1qVmpUZ3"
-      },
-      "artists": [
-        {
-          "name": "Rossdale Junction",
-          "url": "https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO"
-        }
-      ],
-      "duration_ms": 199092,
-      "name": "Nothing to prove",
-      "url": "https://open.spotify.com/track/3vzVCFgxbC3IkT388zC5Ay"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
         "name": "Almond Joy",
         "url": "https://open.spotify.com/album/6DHRv3vxhrco4PWdW8z47F"
       },
@@ -2319,22 +2335,6 @@
       "duration_ms": 201600,
       "name": "Nothing But Love",
       "url": "https://open.spotify.com/track/7iwcjmMOeU7D1iVBog43P1"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
-        "name": "Melody in past tense",
-        "url": "https://open.spotify.com/album/3YGnmo06EjvWkgrSR6SxYJ"
-      },
-      "artists": [
-        {
-          "name": "Turning Trio",
-          "url": "https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC"
-        }
-      ],
-      "duration_ms": 150845,
-      "name": "Melody in past tense",
-      "url": "https://open.spotify.com/track/2iRViBFmLLRZNxBnMe0Pyd"
     },
     {
       "added_at": "2026-08-28 11:51:40",

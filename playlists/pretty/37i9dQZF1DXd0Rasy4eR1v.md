@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Faheem uddin Hunzai
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,498 likes - 88 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,501 likes - 88 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Koi Achi Khabar](https://open.spotify.com/track/70XZSAiqgFv44DgphHIwIM) | [Humnava](https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI), [Faheem uddin hunzai](https://open.spotify.com/artist/31bt09yIuNKHYx3rpspuRB) | [Koi Achi Khabar](https://open.spotify.com/album/31vDQhzEaHpugJ7tayZbiQ) | 10:07 |
 | 2 | [KHOJ](https://open.spotify.com/track/6pbykTXdtHPoibzJJ8d4FE) | [Ahsan Naseem](https://open.spotify.com/artist/1feaMTBMVOuvDJPoJnyy0H) | [KHOJ](https://open.spotify.com/album/2eWiXbxMnXMBIReJNFmbx8) | 3:47 |
-| 3 | [Jaa Re](https://open.spotify.com/track/02ETwPLhrmejzjp1i2mWfn) | [Samia](https://open.spotify.com/artist/48Kbm5fhToMXT51StvK96c), [Malick](https://open.spotify.com/artist/7b5qCaegoKpUiBDs3l5UAk) | [Jaa Re](https://open.spotify.com/album/3u1sBETUiGXXdmbieK2AP8) | 2:25 |
+| 3 | [Jaa Re](https://open.spotify.com/track/02ETwPLhrmejzjp1i2mWfn) | [Samia](https://open.spotify.com/artist/48Kbm5fhToMXT51StvK96c), [Malick](https://open.spotify.com/artist/7b5qCaegoKpUiBDs3l5UAk), [Samia malick](https://open.spotify.com/artist/7tfLQ6ih3K4lB1fzVcE49B) | [Jaa Re](https://open.spotify.com/album/3u1sBETUiGXXdmbieK2AP8) | 2:25 |
 | 4 | [FAREBI](https://open.spotify.com/track/7xvzmrqfBrSPaNqo1OFrNv) | [malick](https://open.spotify.com/artist/7hzVFWeRNmBU02uD1oTJZU), [Abdullah Haroon](https://open.spotify.com/artist/1xBk3kegjnuS5Ey8c7zK3M) | [FAREBI](https://open.spotify.com/album/1tAZuhWBaZpzOlZ6rBCPSf) | 2:21 |
 | 5 | [Gulab](https://open.spotify.com/track/2Ne9KRmLI09nKkhrMBPMOZ) | [Adnan Ali](https://open.spotify.com/artist/0iFTgkSjp5WBTbElQqgjXg), [Z4NE](https://open.spotify.com/artist/2td2YE8f304mP6oNBip6dZ) | [Gulab](https://open.spotify.com/album/0OJh6WKzLP4gnuGzmIE0Bm) | 2:00 |
 | 6 | [Dareechay](https://open.spotify.com/track/4jUffstObqFJ1dNcWA83du) | [ayn umar](https://open.spotify.com/artist/0LG8nLbsmyEL3W3wnYNIAi), [Essa Barlas](https://open.spotify.com/artist/2Nk96lbrQs5R0OsqeBsxfZ), [Hooriya](https://open.spotify.com/artist/2bqxfUtpLuS45sWd7Luuzx) | [Dareechay](https://open.spotify.com/album/7953uuBXPnz0KrPZlaFEaU) | 3:58 |

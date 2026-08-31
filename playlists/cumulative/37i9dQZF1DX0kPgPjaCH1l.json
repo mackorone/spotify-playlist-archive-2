@@ -783,6 +783,28 @@
     },
     {
       "album": {
+        "name": "Chokehold",
+        "url": "https://open.spotify.com/album/6FkqVMy5DhIhsgE3z7Kz76"
+      },
+      "artists": [
+        {
+          "name": "Rhythm Vault",
+          "url": "https://open.spotify.com/artist/3l3a3qtkbnMKKVXyZIXeSS"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Chokehold",
+      "url": "https://open.spotify.com/track/1TjEMCS5Swwh5uPBsLszKh"
+    },
+    {
+      "album": {
         "name": "Homeless",
         "url": "https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP"
       },
@@ -2698,7 +2720,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 166687,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/2cTU9raZgRNam8zvSVP6ei"

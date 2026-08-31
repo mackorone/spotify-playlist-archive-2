@@ -1,12 +1,12 @@
 {
   "description": "This is Angelique Kidjo. The essential tracks, all in one playlist.",
-  "num_followers": 15433,
+  "num_followers": 15437,
   "original_name": "This Is Angelique Kidjo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAACSPIWkIT0BQYfFGPt4gkbL",
+  "snapshot_id": "apIhAAAAAABlStHteAvfPxJno4459TtQ",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "5Th Dimension",
+        "url": "https://open.spotify.com/album/57CR17REkRzvwpVjafGDSx"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 225565,
+      "name": "Manodzi",
+      "url": "https://open.spotify.com/track/6OSAPzdQHqfWpTiIRp7cgc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Milambi",
         "url": "https://open.spotify.com/album/4D4QOUYRQ98dXcmNHAAS7q"
       },
@@ -391,22 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "5Th Dimension",
-        "url": "https://open.spotify.com/album/57CR17REkRzvwpVjafGDSx"
+        "name": "Fifa",
+        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
       },
       "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
         {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 225565,
-      "name": "Manodzi",
-      "url": "https://open.spotify.com/track/6OSAPzdQHqfWpTiIRp7cgc"
+      "duration_ms": 255333,
+      "name": "Wombo Lombo",
+      "url": "https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM"
     },
     {
       "added_at": null,
@@ -451,22 +467,6 @@
       "duration_ms": 247943,
       "name": "Le peuple qui danse",
       "url": "https://open.spotify.com/track/6ozUDG42d9w7InKIoiHqyw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fifa",
-        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "Wombo Lombo",
-      "url": "https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM"
     },
     {
       "added_at": null,
@@ -519,30 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batonga",
-        "url": "https://open.spotify.com/album/0iXDBvcWsZaRPYHsFrlAfC"
-      },
-      "artists": [
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Al\u00e9 Kum\u00e1",
-          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "Batonga",
-      "url": "https://open.spotify.com/track/6KhYXzR7FRt3UoVjC54fzh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Africallez",
         "url": "https://open.spotify.com/album/4MIChWzHUeszfV5CQV4Bwp"
       },
@@ -563,6 +539,30 @@
       "duration_ms": 178032,
       "name": "Africallez",
       "url": "https://open.spotify.com/track/7v2Mu2TdsP81OShuP8LEzw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Batonga",
+        "url": "https://open.spotify.com/album/0iXDBvcWsZaRPYHsFrlAfC"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Al\u00e9 Kum\u00e1",
+          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "Batonga",
+      "url": "https://open.spotify.com/track/6KhYXzR7FRt3UoVjC54fzh"
     },
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On sera l\u00e0 (feat. Ang\u00e9lique Kidjo)",
-        "url": "https://open.spotify.com/album/2FQ8newTy5nZ4hw29A9wx8"
-      },
-      "artists": [
-        {
-          "name": "Roseline Layo",
-          "url": "https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 176585,
-      "name": "On sera l\u00e0 (feat. Ang\u00e9lique Kidjo)",
-      "url": "https://open.spotify.com/track/1mSJSUeWM9AqF53z9D8QoO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HOPE!!",
         "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 171146,
       "name": "Superwoman (feat. Dadju)",
       "url": "https://open.spotify.com/track/1vMhKizV77zfuiWZt8zhBK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On sera l\u00e0 (feat. Ang\u00e9lique Kidjo)",
+        "url": "https://open.spotify.com/album/2FQ8newTy5nZ4hw29A9wx8"
+      },
+      "artists": [
+        {
+          "name": "Roseline Layo",
+          "url": "https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 176585,
+      "name": "On sera l\u00e0 (feat. Ang\u00e9lique Kidjo)",
+      "url": "https://open.spotify.com/track/1mSJSUeWM9AqF53z9D8QoO"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fifa",
-        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "Fifa",
-      "url": "https://open.spotify.com/track/35NQTarBzSMdsGKkGqUOy4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djin Djin",
         "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 204240,
       "name": "Salala",
       "url": "https://open.spotify.com/track/1AwNQDoTIfpJ2GxwRvyPUN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fifa",
+        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "Fifa",
+      "url": "https://open.spotify.com/track/35NQTarBzSMdsGKkGqUOy4"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOPE!!",
-        "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 158893,
-      "name": "I\u2019m On Fire (feat. The Cavemen.)",
-      "url": "https://open.spotify.com/track/50caDbmTdqSkDXmTm8e5xa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cavy In The City",
         "url": "https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 257634,
       "name": "Keep On Moving (feat. Ang\u00e9lique Kidjo)",
       "url": "https://open.spotify.com/track/4WonhRvXvi06b5FYAQq6zO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOPE!!",
+        "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "duration_ms": 158893,
+      "name": "I\u2019m On Fire (feat. The Cavemen.)",
+      "url": "https://open.spotify.com/track/50caDbmTdqSkDXmTm8e5xa"
     },
     {
       "added_at": null,
@@ -943,6 +943,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 254866,
+      "name": "Afirika",
+      "url": "https://open.spotify.com/track/1EAZC4QpvwM5tbeZmoLun1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HOPE!!",
         "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
       },
@@ -963,8 +979,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Ivory Soul",
-        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+        "name": "Oremi",
+        "url": "https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC"
       },
       "artists": [
         {
@@ -972,29 +988,9 @@
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 254866,
-      "name": "Afirika",
-      "url": "https://open.spotify.com/track/1EAZC4QpvwM5tbeZmoLun1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MHD",
-        "url": "https://open.spotify.com/album/7qPBQAVq0CscTtNmCTIzYE"
-      },
-      "artists": [
-        {
-          "name": "MHD",
-          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 205773,
-      "name": "Wanyinyin",
-      "url": "https://open.spotify.com/track/2W4wIPZrpl4gjhz4KgjOc0"
+      "duration_ms": 271600,
+      "name": "Babalao",
+      "url": "https://open.spotify.com/track/4CF0LLqXowkZNTEgqT4Bbp"
     },
     {
       "added_at": null,
@@ -1023,24 +1019,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oremi",
-        "url": "https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC"
+        "name": "MHD",
+        "url": "https://open.spotify.com/album/7qPBQAVq0CscTtNmCTIzYE"
       },
       "artists": [
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        },
         {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 271600,
-      "name": "Babalao",
-      "url": "https://open.spotify.com/track/4CF0LLqXowkZNTEgqT4Bbp"
+      "duration_ms": 205773,
+      "name": "Wanyinyin",
+      "url": "https://open.spotify.com/track/2W4wIPZrpl4gjhz4KgjOc0"
     },
     {
       "added_at": null,
       "album": {
         "name": "HOPE!!",
-        "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
+        "url": "https://open.spotify.com/album/17Grm8FoBWNyw4f9u2Ykec"
       },
       "artists": [
         {
@@ -1048,37 +1048,17 @@
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         },
         {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         },
         {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
-      "duration_ms": 206480,
-      "name": "Oyaya (feat. Nile Rodgers & IZA)",
-      "url": "https://open.spotify.com/track/1zWohaIWPbUkDPDXfOrdBD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/4BQM4MfxSGAD5UKnTKRGiR"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 394640,
-      "name": "Sparrow",
-      "url": "https://open.spotify.com/track/04UXkVSkHOs0mVYLjscGwM"
+      "duration_ms": 199058,
+      "name": "Bando (feat. Pharrell Williams & Quavo) - Orchestral",
+      "url": "https://open.spotify.com/track/0lBoWB1rFFeN4NFnkR94sI"
     },
     {
       "added_at": null,
@@ -1111,6 +1091,26 @@
       "duration_ms": 365217,
       "name": "Biko",
       "url": "https://open.spotify.com/track/13s4gI9ikHbtRKXkYU4idI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/4BQM4MfxSGAD5UKnTKRGiR"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 394640,
+      "name": "Sparrow",
+      "url": "https://open.spotify.com/track/04UXkVSkHOs0mVYLjscGwM"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsv1Yhw5QfW.md) - [plain]
 
 > Agárrense fuerte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,961 likes - 55 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,990 likes - 55 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsv1Yhw5QfW.md) - [plain]
 | 38 | [The Lady In Red](https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Into The Light](https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5) | 4:16 |
 | 39 | [Wind Of Change](https://open.spotify.com/track/6wjSNO6uJYlgbbfauyWhiw) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/4mGV3pZqcrUk0OSC8HBT96) | 5:13 |
 | 40 | [Don't Know Why](https://open.spotify.com/track/6ybViy2qrO9sIi41EgRJgx) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:06 |
-| 41 | [Ode To My Family](https://open.spotify.com/track/1eQuRtkMEPhf2DGzpBVTE6) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/2KsgTeLQXz7yDV1joGOd2L) | 4:31 |
+| 41 | [Tears in Heaven](https://open.spotify.com/track/7utRJ4BeYx85khzP3lKoBX) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 4:31 |
 | 42 | [Crazy](https://open.spotify.com/track/74irxdVWstNlEQjsvArITq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 5:16 |
-| 43 | [Spending My Time](https://open.spotify.com/track/18eqtLHIuDSnx54o0IRUy0) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride \(2009 Version\)](https://open.spotify.com/album/5Q4kTNheoI86WVk1YQKt4x) | 4:35 |
-| 44 | [Tears in Heaven](https://open.spotify.com/track/7utRJ4BeYx85khzP3lKoBX) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 4:31 |
+| 43 | [Ode To My Family](https://open.spotify.com/track/1eQuRtkMEPhf2DGzpBVTE6) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/2KsgTeLQXz7yDV1joGOd2L) | 4:31 |
+| 44 | [Spending My Time](https://open.spotify.com/track/18eqtLHIuDSnx54o0IRUy0) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride \(2009 Version\)](https://open.spotify.com/album/5Q4kTNheoI86WVk1YQKt4x) | 4:35 |
 | 45 | [Everybody Hurts](https://open.spotify.com/track/4tCWWnk3BXinf7FllmSyHW) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People \(U.S\. Version\)](https://open.spotify.com/album/006Qsi10luS9xEBAcIWGTf) | 5:18 |
 | 46 | [Heaven](https://open.spotify.com/track/3wvfuyGNtR7ySfRkhtXtO9) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless](https://open.spotify.com/album/0dLBZmYzmQRZOz4cJG05DA) | 4:03 |
 | 47 | [Angie](https://open.spotify.com/track/1qZyPLjhDZCxOnGySMdfHu) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [GRRR! \(Deluxe Version\)](https://open.spotify.com/album/3LcLR5Mpdj6C5jiaReLvDt) | 4:31 |

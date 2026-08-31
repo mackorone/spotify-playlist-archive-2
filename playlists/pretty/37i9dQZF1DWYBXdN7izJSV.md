@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,304 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,315 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 24 | [I Wish I Was the Moon](https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 3:34 |
 | 25 | [Our Town](https://open.spotify.com/track/43nP4jKb7yRoyN6onAJ684) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Infamous Angel](https://open.spotify.com/album/2GA3HnSHqkdonyJbfEcz6o) | 5:00 |
 | 26 | [Seven Year Ache](https://open.spotify.com/track/4CLijHDH7Bd287Pv52BRb1) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [Seven Year Ache](https://open.spotify.com/album/1nLAeFogJgO9s6Mb6ShASn) | 3:15 |
-| 27 | [Harlem River Blues](https://open.spotify.com/track/630l6KBVfdgvka6Hv20OM1) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Harlem River Blues](https://open.spotify.com/album/1ve8jKdqG5opm9j26Jb8aE) | 2:48 |
-| 28 | [Alabama Pines](https://open.spotify.com/track/4mBYupeEa1e5Ep2HU7xToZ) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Here We Rest](https://open.spotify.com/album/2jJzPAzHCzSJAxrN3jNJmJ) | 3:51 |
+| 27 | [Alabama Pines](https://open.spotify.com/track/4mBYupeEa1e5Ep2HU7xToZ) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Here We Rest](https://open.spotify.com/album/2jJzPAzHCzSJAxrN3jNJmJ) | 3:51 |
+| 28 | [Harlem River Blues](https://open.spotify.com/track/630l6KBVfdgvka6Hv20OM1) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Harlem River Blues](https://open.spotify.com/album/1ve8jKdqG5opm9j26Jb8aE) | 2:48 |
 | 29 | [Can't Let Go](https://open.spotify.com/track/0kyM6MaS573Gt9Yna1rsqd) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 3:28 |
 | 30 | [Birmingham](https://open.spotify.com/track/5ciSr1SyZUQrxySlxZhdhg) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [O' Be Joyful](https://open.spotify.com/album/4nuJVavarQXSOd2MP7892J) | 4:00 |
 | 31 | [Blue](https://open.spotify.com/track/5cDfI3KOa64zbuUgD6a4hG) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Tomorrow The Green Grass](https://open.spotify.com/album/2tNdnAUaaomEEQIsc3Y7TC) | 3:09 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 50 | [Yuma \- Remastered](https://open.spotify.com/track/6r674yB7uC3NdEpV5kicsN) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Yuma \(Remastered\)](https://open.spotify.com/album/7tsNX9x3wzHdCTHNPJFrU9) | 3:05 |
 | 51 | [Good Intentions](https://open.spotify.com/track/1xFvog4nYO22Sfw5iarls7) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights from the Chemical Plant](https://open.spotify.com/album/0NwAQ1Z8qlkvBRxm2pjxBM) | 2:47 |
 | 52 | [Question](https://open.spotify.com/track/2m5ItG3IIMsaGYJjZOvUoE) | [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [Satellite Rides](https://open.spotify.com/album/6SVjHaDr6gwCXUEvHoUhpA) | 2:15 |
-| 53 | [Things That Scare Me](https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 2:30 |
-| 54 | [You Can't Fail Me Now](https://open.spotify.com/track/1HrU3nSY7CNMr43DMHnhYw) | [Loudon Wainwright III](https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L) | [Strange Weirdos: Music From And Inspired By The Film Knocked Up](https://open.spotify.com/album/6L1QV8S8MbJxRdm3UqQyz9) | 3:45 |
+| 53 | [You Can't Fail Me Now](https://open.spotify.com/track/1HrU3nSY7CNMr43DMHnhYw) | [Loudon Wainwright III](https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L) | [Strange Weirdos: Music From And Inspired By The Film Knocked Up](https://open.spotify.com/album/6L1QV8S8MbJxRdm3UqQyz9) | 3:45 |
+| 54 | [Things That Scare Me](https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 2:30 |
 | 55 | [Mountain Girl](https://open.spotify.com/track/18arNEI2X191HSDrRMQqkH) | [Blue Mountain](https://open.spotify.com/artist/4S0WYuq4dnunQV6cL3I49i) | [Dog Days](https://open.spotify.com/album/6bhEViXyntNPGV59UMTMYi) | 4:05 |
 | 56 | [Quiet Corners & Empty Spaces](https://open.spotify.com/track/7crEMhx5kDsaV7hHmL0gkE) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Paging Mr\. Proust](https://open.spotify.com/album/68Gfrh064D2bJfIAw2jdkn) | 3:06 |
 | 57 | [California Zephyr](https://open.spotify.com/track/4eBvIlQ3EhaP2b8At53Woo) | [Jay Farrar](https://open.spotify.com/artist/4tPRMBm25eaPJaceUBPqTK), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [One Fast Move Or I'm Gone Music From Kerouac's Big Sur](https://open.spotify.com/album/3Lki97wGb11VOTrjCEAgCj) | 2:23 |

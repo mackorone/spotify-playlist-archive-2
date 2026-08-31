@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNKdCJjMb28.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/karencivil/?hl=en">Karen Civil</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,349 likes - 49 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,351 likes - 49 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNKdCJjMb28.md) - [plain]
 | 37 | [Amen](https://open.spotify.com/track/3axVR1ayqtT1UIqjsRtOqp) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Jeezy](https://open.spotify.com/artist/10ZP74NjhScq9YiNxJkmhi), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Fear of God II: Let Us Pray](https://open.spotify.com/album/6ZS2NOEZ7XwlNlKWK2dzPM) | 4:36 |
 | 38 | [Lonely Vibes](https://open.spotify.com/track/0fH67n0kMHc2Zm6bHdagwG) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Lonely Vibes](https://open.spotify.com/album/1svFbTEhnqACSVV5JZSFxE) | 3:16 |
 | 39 | [Yessirski](https://open.spotify.com/track/1c3Zkz6wzRAakKaYY6F3iw) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Demons R Us](https://open.spotify.com/album/7dHyTBvxC5obeBab5LKvQO) | 3:20 |
-| 40 | [Dior](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:36 |
-| 41 | [SUPABIEN](https://open.spotify.com/track/5rxgQs8vyfy4z3IErxGscx) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 1:43 |
+| 40 | [SUPABIEN](https://open.spotify.com/track/5rxgQs8vyfy4z3IErxGscx) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 1:43 |
+| 41 | [Dior](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:36 |
 | 42 | [Picture Me Rollin'](https://open.spotify.com/track/06ztbFJIRt9jfabj16TmTx) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Slauson Boy 2](https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02) | 2:13 |
 | 43 | [Too Deep](https://open.spotify.com/track/3uSSjnDMmoyERaAK9KvpJR) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/0jLynoED1FbV2Ky7vU6Pjc) | 3:20 |
 | 44 | [Element](https://open.spotify.com/track/57BGVV6wcyhbn3hsjlqEZB) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 2:15 |

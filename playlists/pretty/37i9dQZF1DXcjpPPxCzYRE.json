@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 444446,
+  "num_followers": 444484,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
         "name": "In The Lonely Hour (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 220253,
       "name": "I\u2019m Not The Only One (feat. Alicia Keys)",
       "url": "https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
+        "name": "no me importa",
+        "url": "https://open.spotify.com/album/3Tbq5jFyncpgjEiZeJH5mL"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 200767,
+      "name": "no me importa",
+      "url": "https://open.spotify.com/track/6O4QnV6zuewfbBhVW4YghD"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
         "name": "Amor Compartido",
         "url": "https://open.spotify.com/album/5iNKAEiXpsvzu1Q9NyoVSy"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 183486,
       "name": "Maldito Cupido",
       "url": "https://open.spotify.com/track/1gebUOovFENh3fMGWzVR7m"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
-        "name": "no me importa",
-        "url": "https://open.spotify.com/album/3Tbq5jFyncpgjEiZeJH5mL"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 200767,
-      "name": "no me importa",
-      "url": "https://open.spotify.com/track/6O4QnV6zuewfbBhVW4YghD"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "B\u00c9SAME",
-        "url": "https://open.spotify.com/album/0x4SJEVWkZ5iHVCUlbM6ld"
-      },
-      "artists": [
-        {
-          "name": "PANTERA BLUE",
-          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "B\u00c9SAME",
-      "url": "https://open.spotify.com/track/7pAfQYhLaUURacktsLhuJS"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "Era de Aqu\u00e1rio/Deixa o Sol Entrar",
         "url": "https://open.spotify.com/album/6lOynBCQr4s3GKTpGlOZ07"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 245118,
       "name": "Era de Aqu\u00e1rio/Deixa o Sol Entrar",
       "url": "https://open.spotify.com/track/76tplKafy6kBbFKi7vGBhb"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "B\u00c9SAME",
+        "url": "https://open.spotify.com/album/0x4SJEVWkZ5iHVCUlbM6ld"
+      },
+      "artists": [
+        {
+          "name": "PANTERA BLUE",
+          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "B\u00c9SAME",
+      "url": "https://open.spotify.com/track/7pAfQYhLaUURacktsLhuJS"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "El silencio de las 4",
-        "url": "https://open.spotify.com/album/2zgi1EjerU31CEvrbqwbk1"
-      },
-      "artists": [
-        {
-          "name": "PANTERA BLUE",
-          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
-        }
-      ],
-      "duration_ms": 173684,
-      "name": "El silencio de las 4",
-      "url": "https://open.spotify.com/track/5NZYEqdjELe1GuPT2IlSgT"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "rodeo",
         "url": "https://open.spotify.com/album/1EocBshKziq5ihMvgM4LRg"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 198909,
       "name": "rodeo",
       "url": "https://open.spotify.com/track/27f887zAAUFY80xyqt67MB"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "El silencio de las 4",
+        "url": "https://open.spotify.com/album/2zgi1EjerU31CEvrbqwbk1"
+      },
+      "artists": [
+        {
+          "name": "PANTERA BLUE",
+          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
+        }
+      ],
+      "duration_ms": 173684,
+      "name": "El silencio de las 4",
+      "url": "https://open.spotify.com/track/5NZYEqdjELe1GuPT2IlSgT"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "melancol\u00eda",
-        "url": "https://open.spotify.com/album/3oCU7COgD4FGaVOxUMgekN"
-      },
-      "artists": [
-        {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
-        }
-      ],
-      "duration_ms": 177784,
-      "name": "melancol\u00eda",
-      "url": "https://open.spotify.com/track/3QVpxsECaQCR1D7lM3gUHi"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "La quiero a morir",
         "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 255096,
       "name": "La quiero a morir",
       "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "melancol\u00eda",
+        "url": "https://open.spotify.com/album/3oCU7COgD4FGaVOxUMgekN"
+      },
+      "artists": [
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        }
+      ],
+      "duration_ms": 177784,
+      "name": "melancol\u00eda",
+      "url": "https://open.spotify.com/track/3QVpxsECaQCR1D7lM3gUHi"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Te perd\u00ed",
-        "url": "https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Mart\u00edn",
-          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "Te perd\u00ed",
-      "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "Hoguera",
         "url": "https://open.spotify.com/album/2pzAYYyDlNiKoZrVr0CjNq"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 234913,
       "name": "Hoguera",
       "url": "https://open.spotify.com/track/0jZCz8xSgDL6TAESZ5YUJ8"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Te perd\u00ed",
+        "url": "https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Mart\u00edn",
+          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Te perd\u00ed",
+      "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
+        "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
+        "url": "https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 162774,
+      "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
+      "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
         "name": "El Sitio de Mi Recreo",
         "url": "https://open.spotify.com/album/5uwukbu9XmoBz1qn8kuDME"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 211791,
       "name": "El Sitio de Mi Recreo",
       "url": "https://open.spotify.com/track/63L2xTgFiiabCUdWwfXdep"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
-        "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
-        "url": "https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 162774,
-      "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
-      "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
+        "name": "Bombas de Amor",
+        "url": "https://open.spotify.com/album/4rs98Hvm7jujBnsanUI1yM"
+      },
+      "artists": [
+        {
+          "name": "Rada Mancy",
+          "url": "https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R"
+        },
+        {
+          "name": "LOWLIGHT",
+          "url": "https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij"
+        }
+      ],
+      "duration_ms": 162925,
+      "name": "Bombas de Amor",
+      "url": "https://open.spotify.com/track/3GIHVOueM68HxiyW3LRinE"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
         "name": "Pladur",
         "url": "https://open.spotify.com/album/26IiZG99hRsi2Ut7jexoNm"
       },
@@ -1723,42 +1743,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Bombas de Amor",
-        "url": "https://open.spotify.com/album/4rs98Hvm7jujBnsanUI1yM"
-      },
-      "artists": [
-        {
-          "name": "Rada Mancy",
-          "url": "https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R"
-        },
-        {
-          "name": "LOWLIGHT",
-          "url": "https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij"
-        }
-      ],
-      "duration_ms": 162925,
-      "name": "Bombas de Amor",
-      "url": "https://open.spotify.com/track/3GIHVOueM68HxiyW3LRinE"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
-        "name": "San Antonio",
-        "url": "https://open.spotify.com/album/4PDZZ5BndPzVtfK5sDy7x3"
-      },
-      "artists": [
-        {
-          "name": "caracazador",
-          "url": "https://open.spotify.com/artist/7hZOaMYny31bAxM3BhzHca"
-        }
-      ],
-      "duration_ms": 238208,
-      "name": "San Antonio",
-      "url": "https://open.spotify.com/track/4VyA4EalislpEMrNF7IBvu"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "I Feel Good",
         "url": "https://open.spotify.com/album/7mYKEJW5dQ8iqyZDhufS68"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 229253,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/6aMm2SYEO1TQru1qk8iyzT"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "San Antonio",
+        "url": "https://open.spotify.com/album/4PDZZ5BndPzVtfK5sDy7x3"
+      },
+      "artists": [
+        {
+          "name": "caracazador",
+          "url": "https://open.spotify.com/artist/7hZOaMYny31bAxM3BhzHca"
+        }
+      ],
+      "duration_ms": 238208,
+      "name": "San Antonio",
+      "url": "https://open.spotify.com/track/4VyA4EalislpEMrNF7IBvu"
     },
     {
       "added_at": "2026-07-30 22:00:26",

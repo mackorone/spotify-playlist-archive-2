@@ -4,7 +4,7 @@
 
 > Baba God, run am 🙏\. <br/>Cover:  FirstKlaz
 
-180 songs - 8 hr 27 min
+181 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Cana](https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:20 | 2026-01-14 | 2026-02-07 |
 | [Casablanca](https://open.spotify.com/track/7BOgyrWA7OURpdJ9YksRFR) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Casablanca](https://open.spotify.com/album/1PrAQba9MMtVlUGtjxnf1b) | 2:43 | 2025-06-20 | 2026-08-30 |
 | [Chance](https://open.spotify.com/track/4a5X8q7S7aODHRgKI4ExvM) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [ITEM VII](https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD) | 2:43 | 2026-05-08 |  |
+| [Chokehold](https://open.spotify.com/track/1TjEMCS5Swwh5uPBsLszKh) | [Rhythm Vault](https://open.spotify.com/artist/3l3a3qtkbnMKKVXyZIXeSS), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Chokehold](https://open.spotify.com/album/6FkqVMy5DhIhsgE3z7Kz76) | 2:34 | 2026-08-28 |  |
 | [Comforter](https://open.spotify.com/track/12uJDbjH0gwh0fs4gFgDhQ) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:18 | 2025-06-20 | 2026-01-23 |
 | [Cry \(with Black Sherif\)](https://open.spotify.com/track/6Xec7VYM3Y98esBVd6VCPh) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [On The Road](https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa) | 2:41 | 2026-08-07 |  |
 | [Dantata](https://open.spotify.com/track/0BZIcREt4wKs79qsYTEurB) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Dantata](https://open.spotify.com/album/4CiLFSo97AWLil7T3dg8JR) | 2:55 | 2026-06-25 |  |
@@ -141,7 +142,7 @@
 | [Polanco](https://open.spotify.com/track/7g5AHKoB3pi5YjfcC2rbdj) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Polanco](https://open.spotify.com/album/528uEAvw5jD1jkgYGNS2dj) | 2:18 | 2026-02-27 | 2026-06-12 |
 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 | 2025-06-20 | 2026-08-28 |
 | [Prayer Request II](https://open.spotify.com/track/5hwr611SqLRgG68fc7sxUt) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [jahmiel](https://open.spotify.com/artist/1pcKqVZ7T90mJ2rKo9XWYV), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Prayer Request II](https://open.spotify.com/album/4qwP9cnMh0yYshFmZxybfQ) | 3:11 | 2026-03-06 | 2026-04-11 |
-| [Pressure](https://open.spotify.com/track/2cTU9raZgRNam8zvSVP6ei) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Gbolar Mighty](https://open.spotify.com/artist/1louJ7Ivcfifv1Fm1abrkp) | [Pressure](https://open.spotify.com/album/75tnsxQug4p92qj2Zv5xbb) | 2:46 | 2025-06-20 |  |
+| [Pressure](https://open.spotify.com/track/2cTU9raZgRNam8zvSVP6ei) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Gbolar Mighty](https://open.spotify.com/artist/1louJ7Ivcfifv1Fm1abrkp) | [Pressure](https://open.spotify.com/album/75tnsxQug4p92qj2Zv5xbb) | 2:46 | 2025-06-20 | 2026-08-31 |
 | [Pressure](https://open.spotify.com/track/5qXKP8mciCAtjLfr91LwVl) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [On The Road](https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa) | 2:50 | 2026-08-19 |  |
 | [Pressure, Pt.2](https://open.spotify.com/track/57i2zCUPJCGaLwH2cPsimu) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Reehaa](https://open.spotify.com/artist/3uEftX1neotPP4BkfvFJHC) | [Pressure, Pt.2](https://open.spotify.com/album/7JGxxRfF3lQVfP8nrpkUUC) | 2:44 | 2025-06-20 | 2026-02-27 |
 | [Que Sera Sera](https://open.spotify.com/track/0Zvvcg4ECVQlMW7bKuXw1v) | [boyBlandi](https://open.spotify.com/artist/6glaqL5S7Uw6gZ8Xn1dbaF), [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [Que Sera Sera/Mercy](https://open.spotify.com/album/0b6wpP1XLYxvB3GlwsE2a6) | 2:30 | 2026-08-07 |  |

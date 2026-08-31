@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,365 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,372 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 22 | [Deixa Eu \- Ao Vivo](https://open.spotify.com/track/2Hw0LzrD6ic8AckKBxJhiO) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/2lmUmRXPsds8n2YU68dalX) | 2:38 |
 | 23 | [Beatriz](https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Leborato](https://open.spotify.com/artist/22YKiuRdkpMJ0yKO550zIq), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Beatriz](https://open.spotify.com/album/4ShDsc9HALU5W3i0l8rLup) | 4:07 |
 | 24 | [Lembrança Boa](https://open.spotify.com/track/34Kc1t0lNHHH0OYIvFCWFh) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Louca de Saudade](https://open.spotify.com/album/3F9jUoykqtz4OelTXFd2N5) | 2:13 |
-| 25 | [Última Saudade \(Ao Vivo\)](https://open.spotify.com/track/1tmD4Xpd1YNSGCG5AYqHDk) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4Mq8pVxLgoSIUGVp6dgYF8) | 2:30 |
+| 25 | [Última Saudade \- Ao Vivo](https://open.spotify.com/track/1tmD4Xpd1YNSGCG5AYqHDk) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4Mq8pVxLgoSIUGVp6dgYF8) | 2:30 |
 | 26 | [Posso Até Não Te Dar Flores](https://open.spotify.com/track/4tYCyoSpv0Ujpfwcneb02l) | [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9) | [Posso Até Não Te Dar Flores](https://open.spotify.com/album/33n7tqtuoOf2t3ENdixO7B) | 2:42 |
 | 27 | [Pra Não Esquecer De Mim](https://open.spotify.com/track/7dLw4FM0rYgwJEzkbwRVr1) | [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [Mc Magal](https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Pra Não Esquecer De Mim](https://open.spotify.com/album/0Kb7GeuzMK4sS45zb3O06h) | 3:12 |
 | 28 | [Cheiro De Culpado \- Ao Vivo](https://open.spotify.com/track/6bor3RIvmpmz5c435liCs9) | [Júnior e Cézar](https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk) | [Cheiro De Culpado \(Ao Vivo\)](https://open.spotify.com/album/3hYI6LURMi5rdYRn9slfn6) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Noite Fracassada](https://open.spotify.com/track/1JO3uqVDPWj5j2GlYmK7e0) | [Heitor Santos](https://open.spotify.com/artist/2FQg4JX9rAIDnakUJb8hgj) | [Sabor HS 3.0](https://open.spotify.com/album/1zAovKvahz5COTVcGkldnx) | 2:59 |
 | 50 | [Bebe, Beija e Trai \- Ao Vivo](https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs) | [Mayke & Rodrigo](https://open.spotify.com/artist/70l6HIf0rz8ZMQCW5qK6QI), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [Bebe, Beija e Trai \(Ao Vivo\)](https://open.spotify.com/album/0E8TJBB3Y510HYS9llB48Q) | 2:36 |
 
-Snapshot ID: `MiZUgAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MiejqAAAAAAAAAAAAAAAAAAAAAAAAGVu`

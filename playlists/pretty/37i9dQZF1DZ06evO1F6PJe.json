@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 110873,
+  "num_followers": 110869,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAADAmp5qSf1qeb1jpHSjx0//",
+  "snapshot_id": "apIhAAAAAADM0BZAAwLSV9YpZ+CmsR/c",
   "tracks": [
     {
       "added_at": null,
@@ -279,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Time Clocks",
+        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 377360,
+      "name": "Mind\u2019s Eye",
+      "url": "https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 189120,
       "name": "Another Kind of Love",
       "url": "https://open.spotify.com/track/1L8EJN5H9QD52zMtlrUce0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time Clocks",
-        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 377360,
-      "name": "Mind\u2019s Eye",
-      "url": "https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sloe Gin",
-        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Black Night",
-      "url": "https://open.spotify.com/track/06XZfZKb8rBEPk0zk2VLYJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live at Radio City Music Hall",
         "url": "https://open.spotify.com/album/26KqnXS7z05nYCYGiGG7di"
       },
@@ -395,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Spirit Of Rory Live From Cork",
-        "url": "https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq"
+        "name": "Sloe Gin",
+        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
       },
       "artists": [
         {
@@ -404,25 +388,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 415960,
-      "name": "I Wonder Who (Live)",
-      "url": "https://open.spotify.com/track/2X6Sp4oTkbWhoLzTFxPmBG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues Of Desperation",
-        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 243733,
-      "name": "The Valley Runs Low",
-      "url": "https://open.spotify.com/track/5NvVaWVoHEUKe2Sau3iLdT"
+      "duration_ms": 260173,
+      "name": "Black Night",
+      "url": "https://open.spotify.com/track/06XZfZKb8rBEPk0zk2VLYJ"
     },
     {
       "added_at": null,
@@ -443,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
+        "name": "Blues Of Desperation",
+        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
       },
       "artists": [
         {
@@ -452,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 250453,
-      "name": "Breakthrough",
-      "url": "https://open.spotify.com/track/78JHuHaQP0or5BUMiimgn3"
+      "duration_ms": 243733,
+      "name": "The Valley Runs Low",
+      "url": "https://open.spotify.com/track/5NvVaWVoHEUKe2Sau3iLdT"
     },
     {
       "added_at": null,
@@ -475,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Of Desperation",
-        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
       },
       "artists": [
         {
@@ -484,9 +452,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 343906,
-      "name": "Mountain Climbing",
-      "url": "https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG"
+      "duration_ms": 250453,
+      "name": "Breakthrough",
+      "url": "https://open.spotify.com/track/78JHuHaQP0or5BUMiimgn3"
     },
     {
       "added_at": null,
@@ -511,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
+        "name": "Blues Of Desperation",
+        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
       },
       "artists": [
         {
@@ -520,9 +488,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 254133,
-      "name": "Black Lung Heartache",
-      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
+      "duration_ms": 343906,
+      "name": "Mountain Climbing",
+      "url": "https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG"
     },
     {
       "added_at": null,
@@ -536,9 +504,25 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 258799,
-      "name": "Walk On Hot Coals (Live)",
-      "url": "https://open.spotify.com/track/1BmXSXVmXCxglY5QW8ArFR"
+      "duration_ms": 415960,
+      "name": "I Wonder Who (Live)",
+      "url": "https://open.spotify.com/track/2X6Sp4oTkbWhoLzTFxPmBG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 409720,
+      "name": "Slow Train",
+      "url": "https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0"
     },
     {
       "added_at": null,
@@ -579,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Spirit Of Rory Live From Cork",
+        "url": "https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 258799,
+      "name": "Walk On Hot Coals (Live)",
+      "url": "https://open.spotify.com/track/1BmXSXVmXCxglY5QW8ArFR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dust Bowl",
         "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
       },
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 409720,
-      "name": "Slow Train",
-      "url": "https://open.spotify.com/track/1I32D5O8mjfQEglezN4bY0"
+      "duration_ms": 254133,
+      "name": "Black Lung Heartache",
+      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
       "duration_ms": 340186,
       "name": "One of these Days",
       "url": "https://open.spotify.com/track/0qb9jT5BFVCoYi8iza9qUK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues From The Heart Live (Live)",
-        "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 349573,
-      "name": "Summertime - Live",
-      "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
     },
     {
       "added_at": null,
@@ -651,18 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Spirit Of Rory Live From Cork",
-        "url": "https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq"
+        "name": "Blues From The Heart Live (Live)",
+        "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
       },
       "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 320733,
-      "name": "Treat Her Right (Live)",
-      "url": "https://open.spotify.com/track/6kGgKlICjgQ406AwjtCW4W"
+      "duration_ms": 349573,
+      "name": "Summertime - Live",
+      "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Spirit Of Rory Live From Cork",
+        "url": "https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 320733,
+      "name": "Treat Her Right (Live)",
+      "url": "https://open.spotify.com/track/6kGgKlICjgQ406AwjtCW4W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
       },
@@ -695,6 +695,26 @@
       "duration_ms": 244706,
       "name": "Trigger Finger",
       "url": "https://open.spotify.com/track/5opU7iBbcGxUkZy3yXIil2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beacon Theatre - Live from New York",
+        "url": "https://open.spotify.com/album/3NOga2NO6MSegEIgDNUZnN"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 341466,
+      "name": "I'll Take Care of You",
+      "url": "https://open.spotify.com/track/0V4JkOAwH9bOAmJ1aIaBSz"
     },
     {
       "added_at": null,
@@ -739,26 +759,6 @@
       "duration_ms": 185626,
       "name": "Messin' With The Kid (Live)",
       "url": "https://open.spotify.com/track/3e9qr0EnjQv47izUN77jcK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beacon Theatre - Live from New York",
-        "url": "https://open.spotify.com/album/3NOga2NO6MSegEIgDNUZnN"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 341466,
-      "name": "I'll Take Care of You",
-      "url": "https://open.spotify.com/track/0V4JkOAwH9bOAmJ1aIaBSz"
     },
     {
       "added_at": null,

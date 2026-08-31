@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 40084,
+  "num_followers": 40086,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAAKvwYZCLIopU8URWFQtBc6",
+  "snapshot_id": "apIhAAAAAABpMVjpUXDLpxAvncwKrUfY",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 158332,
+      "name": "Act Up",
+      "url": "https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 225502,
       "name": "Ex For A Reason (with JT from City Girls)",
       "url": "https://open.spotify.com/track/1De7cOMrdUnVpjWBaowMg4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Girl Code",
-        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 158332,
-      "name": "Act Up",
-      "url": "https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h"
     },
     {
       "added_at": null,
@@ -131,26 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 218332,
-      "name": "Pussy Talk",
-      "url": "https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Girl Code",
         "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
       },
@@ -167,6 +147,26 @@
       "duration_ms": 166476,
       "name": "Twerk (feat. Cardi B)",
       "url": "https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 218332,
+      "name": "Pussy Talk",
+      "url": "https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9"
     },
     {
       "added_at": null,
@@ -211,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 143426,
+      "name": "What We Doin'",
+      "url": "https://open.spotify.com/track/11TOnapSFVWBUSByMzf1u1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RAW",
         "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 176065,
       "name": "No Bars",
       "url": "https://open.spotify.com/track/36GEUBKW7fgKGv7vY4KpsB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Girl Code",
-        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 143426,
-      "name": "What We Doin'",
-      "url": "https://open.spotify.com/track/11TOnapSFVWBUSByMzf1u1"
     },
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 158136,
-      "name": "Fuck The D To The A",
-      "url": "https://open.spotify.com/track/3zIppQkJtX6oT067biHxPH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time's Up",
         "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 173752,
       "name": "Female Goat",
       "url": "https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 158136,
+      "name": "Fuck The D To The A",
+      "url": "https://open.spotify.com/track/3zIppQkJtX6oT067biHxPH"
     },
     {
       "added_at": null,
@@ -535,26 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GOD DID",
-        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+        "name": "Trying To Find My Next Thrill",
+        "url": "https://open.spotify.com/album/3l9X9abmztD680Rs0HnT98"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Cousin Stizz",
+          "url": "https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O"
         },
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 208932,
-      "name": "BILLS PAID (feat. Latto & City Girls)",
-      "url": "https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo"
+      "duration_ms": 199266,
+      "name": "Perfect (feat. City Girls)",
+      "url": "https://open.spotify.com/track/0qJ0eDL9Szdylx4kRRCBQD"
     },
     {
       "added_at": null,
@@ -579,22 +575,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trying To Find My Next Thrill",
-        "url": "https://open.spotify.com/album/3l9X9abmztD680Rs0HnT98"
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
       "artists": [
         {
-          "name": "Cousin Stizz",
-          "url": "https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         },
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 199266,
-      "name": "Perfect (feat. City Girls)",
-      "url": "https://open.spotify.com/track/0qJ0eDL9Szdylx4kRRCBQD"
+      "duration_ms": 208932,
+      "name": "BILLS PAID (feat. Latto & City Girls)",
+      "url": "https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face Down",
-        "url": "https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "Face Down",
-      "url": "https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RAW",
         "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 165517,
       "name": "Flashy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face Down",
+        "url": "https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "Face Down",
+      "url": "https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA"
     },
     {
       "added_at": null,
@@ -895,6 +895,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shisha",
+        "url": "https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Shisha",
+      "url": "https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Three Point Stance (feat. City Girls & Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/3ul0AuKohmiolGCIKrEuly"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 202226,
       "name": "Three Point Stance (feat. City Girls & Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5g7pNBb6ySnFUJknKiCkEE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shisha",
-        "url": "https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl"
-      },
-      "artists": [
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Shisha",
-      "url": "https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2"
     },
     {
       "added_at": null,

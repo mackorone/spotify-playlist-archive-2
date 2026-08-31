@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 
 > This is El Tri\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,238 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,256 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 | 22 | [Perro negro \- Live](https://open.spotify.com/track/2ch8w0Hcy8yXMPMIGLaQYQ) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [MTV Unplugged](https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE) | 4:06 |
 | 23 | [We Never Give Up \(Todo Venceremos\)](https://open.spotify.com/track/77CnYt4OBz9RcScXtagsC0) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne), [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb), [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL), [Armando Manzanero](https://open.spotify.com/artist/2FxdxGu69aME48rw3eKzgs), [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0), [Pablo Milanés](https://open.spotify.com/artist/4kKZtElsqpIHGl29gKBhW4), [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e), [José María Napoleón](https://open.spotify.com/artist/5iqsfnqRnMqSVxgUS3MOAK), [Rubén Albarrán](https://open.spotify.com/artist/7I9s0s83ZoE1sjniwMyt16), [Juan Carlos Baglietto](https://open.spotify.com/artist/29LSYuARb1tpYcnik45f36), [Bobby Pulido](https://open.spotify.com/artist/6GZLrXyzGhNzVCjTc1G6Qe), [Deepak Chopra](https://open.spotify.com/artist/5tf2pB9J3WNowIKQTFkxU6) | [We Never Give Up \(Todo Venceremos\)](https://open.spotify.com/album/6ulRZCEENJFpgoVZ6knMLY) | 4:05 |
 | 24 | [Una y otra vez](https://open.spotify.com/track/0h24IaU3nilnYZmx0MeMSM) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hecho en México](https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7) | 2:38 |
-| 25 | [Hoyos en la bolsa](https://open.spotify.com/track/4OqLK8rKx9nHAUVIKCsMVi) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hoyos en la bolsa](https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw) | 3:37 |
-| 26 | [El hablador](https://open.spotify.com/track/7CmVmboIpe4bgIQJi4hk5v) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [25 años](https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L) | 2:50 |
+| 25 | [El hablador](https://open.spotify.com/track/7CmVmboIpe4bgIQJi4hk5v) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [25 años](https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L) | 2:50 |
+| 26 | [Hoyos en la bolsa](https://open.spotify.com/track/4OqLK8rKx9nHAUVIKCsMVi) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hoyos en la bolsa](https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw) | 3:37 |
 | 27 | [La raza más chida](https://open.spotify.com/track/0i2V6Z7OWEP7VvA1Dhk3ll) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:10 |
 | 28 | [Nunca digas que no](https://open.spotify.com/track/32f9OzuvcqB6JQDaEP3Ej8) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hecho en México](https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7) | 5:14 |
 | 29 | [Que viva el rocanrol \- En vivo](https://open.spotify.com/track/21vlXzWrTG8PaMcBgPIIiZ) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 3:14 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 | 39 | [Perdedor](https://open.spotify.com/track/6Vuzr2eTcUzHzsynYacaCE) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Una rola para los minusválidos](https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg) | 3:57 |
 | 40 | [Encuentros cercanos del tercer sexo](https://open.spotify.com/track/34eXshPC2pco8joDvXjduQ) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [21 Años después Alex Lora y El Tri](https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu) | 5:29 |
 | 41 | [Presta](https://open.spotify.com/track/482M2V0cYuCHXAMLyJ56Nt) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 3:50 |
-| 42 | [Chilangolandia](https://open.spotify.com/track/0mRiKsDhYMprvTDTeXBUvA) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 2](https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV) | 4:19 |
-| 43 | [Chavo de onda \- Live](https://open.spotify.com/track/7haAS6bTEJHz5at86CAG9g) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [MTV Unplugged](https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE) | 6:03 |
+| 42 | [Chavo de onda \- Live](https://open.spotify.com/track/7haAS6bTEJHz5at86CAG9g) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [MTV Unplugged](https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE) | 6:03 |
+| 43 | [Chilangolandia](https://open.spotify.com/track/0mRiKsDhYMprvTDTeXBUvA) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 2](https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV) | 4:19 |
 | 44 | [Ya estamos hartos](https://open.spotify.com/track/221Kj107g9kqy0bNOk6uKc) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri Sinfónico II](https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr) | 3:41 |
 | 45 | [Sópleme usted primero](https://open.spotify.com/track/1sdKHMIGRYs7FDZvha1wAp) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 4:33 |
 | 46 | [El enmascarado de látex](https://open.spotify.com/track/7HyvbAo2u4mpPCc2qC8UtV) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hoyos en la bolsa](https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 | 49 | [Triste canción de amor \(con El Tri\)](https://open.spotify.com/track/5mYa4SjEvkrQmHNyEIwXTb) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Miguel Ríos y las estrellas del Rock latino](https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH) | 3:23 |
 | 50 | [Difícil](https://open.spotify.com/track/6Y0hl9kDq78tTZUXAWzT0q) | [La Leyenda](https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Escrito En Piedra](https://open.spotify.com/album/1nfbPPEBuDGPjreY4d9v48) | 2:37 |
 
-Snapshot ID: `apDPgAAAAACgwLbUnCT6KIn7aBMN0J1M`
+Snapshot ID: `apIhAAAAAABGHOFGEdPRDTNKYJsPXvoZ`

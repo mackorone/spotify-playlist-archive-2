@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > una selección para que prendas el mechón o mueves ese botecito antes y después de la reta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,727 likes - 30 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,723 likes - 30 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 8 | [Waka Waka \(Esto es Africa\) \(feat\. Freshlyground\)](https://open.spotify.com/track/0W8nDs4H2cqxxAgszNMYO3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Waka Waka \(Esto es Africa\) \(feat\. Freshlyground\)](https://open.spotify.com/album/6zuPC93NJGRvfQAO3yzfCj) | 3:22 |
 | 9 | [La Nena](https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [COSME TADEO](https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:55 |
 | 10 | [Cómo Me Duele](https://open.spotify.com/track/50GRxHQ3cW2yBmlPIF9urf) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3) | 3:39 |
-| 11 | [El Noa Noa \(En Vivo Desde Bellas Artes\)](https://open.spotify.com/track/5hVj6at5Lj8Ez9ayQyhcLT) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [El Noa Noa \(En Vivo Desde Bellas Artes\)](https://open.spotify.com/album/0yJrrTtEcyv3E1xR1snBOP) | 4:12 |
+| 11 | [El Noa Noa \- En Vivo Desde Bellas Artes](https://open.spotify.com/track/5hVj6at5Lj8Ez9ayQyhcLT) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [El Noa Noa \(En Vivo Desde Bellas Artes\)](https://open.spotify.com/album/0yJrrTtEcyv3E1xR1snBOP) | 4:12 |
 | 12 | [Nunca Es Suficiente](https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG) | 4:26 |
 | 13 | [El Viejo Panzón](https://open.spotify.com/track/071APDZWdRSEpkz66E4XDq) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8) | [Triste y Vacía](https://open.spotify.com/album/2pok7ov3uVRJ1jtLV7VuCo) | 3:14 |
 | 14 | [El Sinaloense \- En Vivo](https://open.spotify.com/track/7Dlnc7ylrbO4swbfHQbQqS) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [En Vivo Desde CDMX](https://open.spotify.com/album/1rlj08ZyshfPJXSI1cK3Kv) | 2:48 |

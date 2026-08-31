@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 
 > time\-stretching granular synthesis
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,849 likes - 100 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,856 likes - 100 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

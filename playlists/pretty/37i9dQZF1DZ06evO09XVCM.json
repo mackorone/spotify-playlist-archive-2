@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 35408,
+  "num_followers": 35414,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAC1sCWPJY0/YUU4bUrAtBs4",
+  "snapshot_id": "apIhAAAAAADD5HosaPWc77z0PkICPfSc",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 257799,
-      "name": "Good Ol' Days (featuring Cedella Marley)",
-      "url": "https://open.spotify.com/track/28Q2F391hseaFE88B3jki4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Vibration - Vol. 1",
         "url": "https://open.spotify.com/album/4F6bIheCKeB1DdoG5OaoYG"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 261556,
       "name": "Am\u00e9rica Vibra",
       "url": "https://open.spotify.com/track/3RZtzSdjGLrETsnm2JVqMB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 257799,
+      "name": "Good Ol' Days (featuring Cedella Marley)",
+      "url": "https://open.spotify.com/track/28Q2F391hseaFE88B3jki4"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Looking",
-      "url": "https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playing for Change (Live)",
         "url": "https://open.spotify.com/album/1xvTR4a0kOkL0Z0pBGYXV5"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 250720,
       "name": "Love Is My Religion (Live)",
       "url": "https://open.spotify.com/track/1d1z4TzhHtzRIsCmoHDeCu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Looking",
+      "url": "https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Rainbow in the Sky",
-      "url": "https://open.spotify.com/track/2U7kXTPxWV8OS7ZR3muAJT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Remixes",
         "url": "https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 188668,
       "name": "Sunshine (feat. RUSL) - RUSL Remix",
       "url": "https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Rainbow in the Sky",
+      "url": "https://open.spotify.com/track/2U7kXTPxWV8OS7ZR3muAJT"
     },
     {
       "added_at": null,
@@ -587,18 +587,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brightside",
-        "url": "https://open.spotify.com/album/4aJHr1kwmCQYnOrkYUc4gK"
+        "name": "Cornerstone",
+        "url": "https://open.spotify.com/album/2jqGD1iy3gicuNA83FXx9E"
       },
       "artists": [
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        },
+        {
+          "name": "The Marley Brothers",
+          "url": "https://open.spotify.com/artist/53lYQjtmgJPaOseKa1sttY"
+        },
+        {
+          "name": "Ky-Mani Marley",
+          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
+        },
+        {
+          "name": "Julian Marley",
+          "url": "https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Racism Is A Killa",
-      "url": "https://open.spotify.com/track/2TpdzL5x1f98YtopeLu3Lt"
+      "duration_ms": 236730,
+      "name": "Cornerstone",
+      "url": "https://open.spotify.com/track/5GMU4f9HzsXfap1QGQAwW6"
     },
     {
       "added_at": null,
@@ -643,38 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cornerstone",
-        "url": "https://open.spotify.com/album/2jqGD1iy3gicuNA83FXx9E"
+        "name": "Brightside",
+        "url": "https://open.spotify.com/album/4aJHr1kwmCQYnOrkYUc4gK"
       },
       "artists": [
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
-        },
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        },
-        {
-          "name": "The Marley Brothers",
-          "url": "https://open.spotify.com/artist/53lYQjtmgJPaOseKa1sttY"
-        },
-        {
-          "name": "Ky-Mani Marley",
-          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
-        },
-        {
-          "name": "Julian Marley",
-          "url": "https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv"
         }
       ],
-      "duration_ms": 236730,
-      "name": "Cornerstone",
-      "url": "https://open.spotify.com/track/5GMU4f9HzsXfap1QGQAwW6"
+      "duration_ms": 220000,
+      "name": "Racism Is A Killa",
+      "url": "https://open.spotify.com/track/2TpdzL5x1f98YtopeLu3Lt"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "Rebellion Rises",
-      "url": "https://open.spotify.com/track/6trgRnzKxMtj4EHRhjrOJV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild and Free",
         "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
       },
@@ -731,28 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fly Rasta",
-        "url": "https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "U-Roy",
-          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
-        }
-      ],
-      "duration_ms": 219906,
-      "name": "Fly Rasta (feat. U-Roy)",
-      "url": "https://open.spotify.com/track/52Vx26w55TBxVt9mG9dT9V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/3ARzjkVYs15n01pWaxfHNQ"
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
       },
       "artists": [
         {
@@ -760,9 +724,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 260113,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/5a3yXVAUVvkuASBkK5QC3V"
+      "duration_ms": 206013,
+      "name": "Rebellion Rises",
+      "url": "https://open.spotify.com/track/6trgRnzKxMtj4EHRhjrOJV"
     },
     {
       "added_at": null,
@@ -787,6 +751,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/3ARzjkVYs15n01pWaxfHNQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 260113,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/5a3yXVAUVvkuASBkK5QC3V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fly Rasta",
+        "url": "https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "U-Roy",
+          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": "Fly Rasta (feat. U-Roy)",
+      "url": "https://open.spotify.com/track/52Vx26w55TBxVt9mG9dT9V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Old Soul",
         "url": "https://open.spotify.com/album/0J6JtP3hyCEqenKHjrE0um"
       },
@@ -803,6 +803,30 @@
       "duration_ms": 225595,
       "name": "There's A Reward",
       "url": "https://open.spotify.com/track/2PHEYqrgMEiTqmx4HCxgSa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Family Time",
+        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Rita Marley",
+          "url": "https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3"
+        },
+        {
+          "name": "Cedella Marley",
+          "url": "https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "I Love You Too (feat. Rita Marley; Cedella Marley)",
+      "url": "https://open.spotify.com/track/7hLLbfEkx1UeXkD91oII0I"
     },
     {
       "added_at": null,
@@ -839,30 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family Time",
-        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Rita Marley",
-          "url": "https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3"
-        },
-        {
-          "name": "Cedella Marley",
-          "url": "https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "I Love You Too (feat. Rita Marley; Cedella Marley)",
-      "url": "https://open.spotify.com/track/7hLLbfEkx1UeXkD91oII0I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brightside",
         "url": "https://open.spotify.com/album/0b57ZiCwZ1zNPiVxPD3nU6"
       },
@@ -883,6 +883,26 @@
       "duration_ms": 307078,
       "name": "Why Let The World",
       "url": "https://open.spotify.com/track/4FAOedBCvRH9eWNLF6a6fd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Family Time",
+        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Toots Hibbert",
+          "url": "https://open.spotify.com/artist/6McXmoIhUTNwdyzXBLWAG2"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "Take Me To Jamaica (feat. Toots Hibbert)",
+      "url": "https://open.spotify.com/track/2vcKT2C8W276xnrWz6ypuz"
     },
     {
       "added_at": null,
@@ -923,26 +943,6 @@
       "duration_ms": 218440,
       "name": "I Get Up (feat. Cedella Marley)",
       "url": "https://open.spotify.com/track/6SEimrKNMh0ep0of8X34St"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Family Time",
-        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Toots Hibbert",
-          "url": "https://open.spotify.com/artist/6McXmoIhUTNwdyzXBLWAG2"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "Take Me To Jamaica (feat. Toots Hibbert)",
-      "url": "https://open.spotify.com/track/2vcKT2C8W276xnrWz6ypuz"
     }
   ],
   "unique_name": "This Is Ziggy Marley",

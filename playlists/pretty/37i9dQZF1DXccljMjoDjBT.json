@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 367269,
+  "num_followers": 367341,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Anywhere You Go",
-        "url": "https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo"
+        "name": "Once In a Lifetime",
+        "url": "https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf"
       },
       "artists": [
         {
-          "name": "David Pack",
-          "url": "https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl"
+          "name": "Michael Ruff",
+          "url": "https://open.spotify.com/artist/5skgtnwVGfdVqnPnTBF6ZI"
         }
       ],
-      "duration_ms": 284186,
-      "name": "That Girl Is Gone",
-      "url": "https://open.spotify.com/track/3Zl6aRDcumXbkNMIQeCjeb"
+      "duration_ms": 264680,
+      "name": "Once In a Lifetime",
+      "url": "https://open.spotify.com/track/5mfSMt0ns1tUbqvgrPTweE"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Once In a Lifetime",
-        "url": "https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf"
+        "name": "Anywhere You Go",
+        "url": "https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo"
       },
       "artists": [
         {
-          "name": "Michael Ruff",
-          "url": "https://open.spotify.com/artist/5skgtnwVGfdVqnPnTBF6ZI"
+          "name": "David Pack",
+          "url": "https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl"
         }
       ],
-      "duration_ms": 264680,
-      "name": "Once In a Lifetime",
-      "url": "https://open.spotify.com/track/5mfSMt0ns1tUbqvgrPTweE"
+      "duration_ms": 284186,
+      "name": "That Girl Is Gone",
+      "url": "https://open.spotify.com/track/3Zl6aRDcumXbkNMIQeCjeb"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 315306,
-      "name": "The End Of The Innocence",
-      "url": "https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Break Of Dawn",
         "url": "https://open.spotify.com/album/3Zr0QdJlpHUstVVy3yvBdW"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 227773,
       "name": "Always",
       "url": "https://open.spotify.com/track/4ko4WxOdiaVEJexWRb53zZ"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 315306,
+      "name": "The End Of The Innocence",
+      "url": "https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 395400,
-      "name": "New York Minute",
-      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Street Corner Heroes",
         "url": "https://open.spotify.com/album/6PUJ57r2I7YinhkfZ6iV6t"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 300626,
       "name": "Free Fallin' - Remastered",
       "url": "https://open.spotify.com/track/1G74Lm4hwR8bkUXTwKKbBb"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 395400,
+      "name": "New York Minute",
+      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 362466,
-      "name": "The Last Worthless Evening",
-      "url": "https://open.spotify.com/track/5xFXOthzXYku3MvAlc5EKg"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Street Corner Heroes",
         "url": "https://open.spotify.com/album/6PUJ57r2I7YinhkfZ6iV6t"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 205240,
       "name": "Brooklyn Girls - Remastered",
       "url": "https://open.spotify.com/track/2yzzxCBnrIq9etWnMsJi27"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 362466,
+      "name": "The Last Worthless Evening",
+      "url": "https://open.spotify.com/track/5xFXOthzXYku3MvAlc5EKg"
     },
     {
       "added_at": "2023-03-30 14:38:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,995 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,009 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 47 | [Kamli](https://open.spotify.com/track/15fmoePTSxMrZCskvyXSac) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Kamli \(Original\)](https://open.spotify.com/album/69MQPN9orEyUl6lzre4Bms) | 3:21 |
 | 48 | [She Don't Know \(From "She Don't Know"\)](https://open.spotify.com/track/23dCPIMivfUQwUPSeDSUPc) | [Millind Gaba](https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN), [Dhrruv Yogi](https://open.spotify.com/artist/1gegc3MqXY9tE3SL0PyLKr) | [She Don't Know \(From "Blessed"\)](https://open.spotify.com/album/0vomvwmwqw7puUfnwVWjsf) | 3:23 |
 | 49 | [Marji Nal](https://open.spotify.com/track/4OOqDEp5ilJ7eq612SZ7Lk) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B), [Arsh Sidhu](https://open.spotify.com/artist/67DISm7g3qiY70KENtwL6G) | [Hostel](https://open.spotify.com/album/7KSbKQ1gsadsdqEJyzg4S0) | 2:15 |
-| 50 | [Kehnde Kahaunde](https://open.spotify.com/track/5IJxi90YOM3suyzVXH2ywL) | [Surjit Khan](https://open.spotify.com/artist/2NCZYytsjPe7RsYwCblxyl) | [Kehnde Kahaunde](https://open.spotify.com/album/0hRhdn8zZNk9VtwBFeIQFi) | 2:30 |
+| 50 | [Left Behind](https://open.spotify.com/track/2CQlMyN2oEbCN2Rqg1uuzB) | [Zafar](https://open.spotify.com/artist/27zc1MNtaVbjkqsk6bSDVP), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f) | [Left Behind](https://open.spotify.com/album/3Z3kGbW5yyIlKeu6zpEFzQ) | 3:42 |
 
 Snapshot ID: `AAAAAB6tsGXW9n8EPuwdRWeQTIwzCWRd`

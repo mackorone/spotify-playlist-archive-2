@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 
 > Soul Music daqui e de fora, um toque de sensibilidade\. Foto: Cassiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,606 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,656 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 56 | [Stay With Me](https://open.spotify.com/track/5jlcCqsD7yJdwhZYAhoCFY) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [In A Special Way](https://open.spotify.com/album/4TcXnypScHBMIwlVa1rGGa) | 3:45 |
 | 57 | [Ebony Eyes](https://open.spotify.com/track/71JkyCi11ETSz58jhgg2YE) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Cold Blooded \(Expanded Edition\)](https://open.spotify.com/album/0OvSems3CIWCs2Tty0oO9B) | 5:07 |
 | 58 | [For the Love of You, Pts\. 1 & 2](https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 5:37 |
-| 59 | [Cool Cat \- Remastered 2011](https://open.spotify.com/track/7nhWtCc3v6Vem80gYPlppQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Hot Space \(2011 Remaster\)](https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1) | 3:29 |
-| 60 | [Never Can Say Goodbye](https://open.spotify.com/track/59Rn3cbfrBjhHzXTG9BcUT) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Maybe Tomorrow](https://open.spotify.com/album/1RhSU65eltYthavUXScSzB) | 2:57 |
+| 59 | [Never Can Say Goodbye](https://open.spotify.com/track/59Rn3cbfrBjhHzXTG9BcUT) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Maybe Tomorrow](https://open.spotify.com/album/1RhSU65eltYthavUXScSzB) | 2:57 |
+| 60 | [Cool Cat \- Remastered 2011](https://open.spotify.com/track/7nhWtCc3v6Vem80gYPlppQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Hot Space \(2011 Remaster\)](https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1) | 3:29 |
 | 61 | [Can't Get over You](https://open.spotify.com/track/0JoU0lwoMyWxGkljNJpJoM) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Silky Soul](https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC) | 5:17 |
 | 62 | [Don't You Know That?](https://open.spotify.com/track/5RooV1JApOOviPiQcho9xx) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 4:02 |
 | 63 | [Stop, Look, Listen \(To Your Heart\)](https://open.spotify.com/track/0kKpGcvoXroKo1iNO5cDhi) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Diana & Marvin \(Expanded Edition\)](https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC) | 2:57 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 96 | [Anticipation](https://open.spotify.com/track/2Q9ED4G5mwlAaxvmkYmvLJ) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [Propositions](https://open.spotify.com/album/0ma0R91MtPMQ7mFj5OgY9j) | 5:47 |
 | 97 | [For the Good Times](https://open.spotify.com/track/1lRcKtjXlqcemLvShWPK8C) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [The Love Songs Collection](https://open.spotify.com/album/2Q8dU9GQEeuZRfJ6gpietG) | 6:13 |
 | 98 | [Settle For My Love](https://open.spotify.com/track/4QCCDd71NAygvMG3CzVDjT) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Pizzazz](https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf) | 5:15 |
-| 99 | [Pensando Nela](https://open.spotify.com/track/4FFDhzWVlhcg0Y6ujrYsm0) | [Don Beto](https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa) | [Nossa Imaginação](https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9) | 3:36 |
-| 100 | [Insatiable Woman \- 12" Version](https://open.spotify.com/track/005dZEnx7On15zBKACxlG7) | [Isley, Jasper, Isley](https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0) | [Caravan of Love \(Expanded Version\)](https://open.spotify.com/album/523bPeVpOAl1NmtiDqQAQ7) | 6:14 |
+| 99 | [Insatiable Woman \- 12" Version](https://open.spotify.com/track/005dZEnx7On15zBKACxlG7) | [Isley, Jasper, Isley](https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0) | [Caravan of Love \(Expanded Version\)](https://open.spotify.com/album/523bPeVpOAl1NmtiDqQAQ7) | 6:14 |
+| 100 | [Pensando Nela](https://open.spotify.com/track/4FFDhzWVlhcg0Y6ujrYsm0) | [Don Beto](https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa) | [Nossa Imaginação](https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9) | 3:36 |
 
 Snapshot ID: `AAAAAMdvp4Y/eGWDRmNu4dfTD/PfICwI`

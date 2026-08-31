@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 2426,
+  "num_followers": 2427,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "In The Sweetness of You",
-        "url": "https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 233253,
-      "name": "21",
-      "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "The Time Is Right",
         "url": "https://open.spotify.com/album/09ZI5fmiFgqISZbUD15CLo"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 253793,
       "name": "Colours Of My Mind",
       "url": "https://open.spotify.com/track/6Tsgdnj9ezGo6cIgOKbl1m"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "In The Sweetness of You",
+        "url": "https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "duration_ms": 233253,
+      "name": "21",
+      "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Coasting",
+        "url": "https://open.spotify.com/album/54DYqYdimIsZdIvxzQEtAJ"
+      },
+      "artists": [
+        {
+          "name": "Achingdrum",
+          "url": "https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie"
+        }
+      ],
+      "duration_ms": 243692,
+      "name": "Coasting",
+      "url": "https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Fortune Teller",
         "url": "https://open.spotify.com/album/1bjM2LT6B6EUC95d01mqJ5"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 172000,
       "name": "Go On",
       "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Coasting",
-        "url": "https://open.spotify.com/album/54DYqYdimIsZdIvxzQEtAJ"
-      },
-      "artists": [
-        {
-          "name": "Achingdrum",
-          "url": "https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie"
-        }
-      ],
-      "duration_ms": 243692,
-      "name": "Coasting",
-      "url": "https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR"
     }
   ],
   "unique_name": "Night Shift",

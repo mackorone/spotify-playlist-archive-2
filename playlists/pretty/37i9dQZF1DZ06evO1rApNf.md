@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 
 > This is Mau y Ricky\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,579 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,577 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 40 | [PAPÁS](https://open.spotify.com/track/2pI0OyprOJssVYlqx9ZO3t) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [PAPÁS](https://open.spotify.com/album/1cvKWctA426nZjfP0DA2aA) | 3:13 |
 | 41 | [desmaquillada](https://open.spotify.com/track/2qh6SULIPKrCBnaXxE1cGZ) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [desmaquillada](https://open.spotify.com/album/5RMmoWngZf5SH607oGSZyc) | 2:08 |
 | 42 | [Miami](https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Miami](https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2) | 2:10 |
-| 43 | [Tocando Madera](https://open.spotify.com/track/6ILrPgB1ywnLmdmFWQ73p7) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Tocando Madera](https://open.spotify.com/album/2GczCMSnfjV5UNxXTGC5t6) | 2:39 |
-| 44 | [Bota Fuego \- con Nicky Jam](https://open.spotify.com/track/6Y6YC93R1r0CISm5iC4j27) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Bota Fuego \(con Nicky Jam\)](https://open.spotify.com/album/3AVCyI9GWp86IqYi89wcx6) | 3:43 |
+| 43 | [Bota Fuego \- con Nicky Jam](https://open.spotify.com/track/6Y6YC93R1r0CISm5iC4j27) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Bota Fuego \(con Nicky Jam\)](https://open.spotify.com/album/3AVCyI9GWp86IqYi89wcx6) | 3:43 |
+| 44 | [Tocando Madera](https://open.spotify.com/track/6ILrPgB1ywnLmdmFWQ73p7) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Tocando Madera](https://open.spotify.com/album/2GczCMSnfjV5UNxXTGC5t6) | 2:39 |
 | 45 | [Gran Día](https://open.spotify.com/track/02F3ap4jOzK7Yhjv102C9B) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 3:13 |
 | 46 | [No Puede Ser \- con Eladio Carrion](https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [No Puede Ser \(con Eladio Carrion\)](https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP) | 3:11 |
 | 47 | [Bilingües](https://open.spotify.com/track/6MUUIuJAgulhbQRmYGlVWH) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Malcriado](https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 49 | [Pasado Mañana](https://open.spotify.com/track/79vaLBBCDHmYvY8JUcnDj9) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 2:17 |
 | 50 | [Tan Buena](https://open.spotify.com/track/6I1JuzUGxTAD0kDY65fg1s) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [OTRA COSA](https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7) | 3:45 |
 
-Snapshot ID: `apDPgAAAAAB65GiGxrnDf1kw8FGypD0d`
+Snapshot ID: `apIhAAAAAAC0zSvyiCmFOwEL/FtBPN9F`

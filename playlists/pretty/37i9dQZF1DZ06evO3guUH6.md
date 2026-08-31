@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 
 > This is Alfredo Olivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096,561 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,096,657 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 | 29 | [Volverá](https://open.spotify.com/track/1lLCXEoNCObfoSFWG9FxdC) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Volverá](https://open.spotify.com/album/1FT4Db2R3qA0zzqQFkSUAr) | 2:52 |
 | 30 | [Se Vienen Días Tristes](https://open.spotify.com/track/4wDqICPvF45vx9utsNg4FB) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [¿Quién + Como Yo?](https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded) | 2:39 |
 | 31 | [Comando X \- En Vivo](https://open.spotify.com/track/2j2MJGkoAwPKssQMRQplPD) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [En Vivo](https://open.spotify.com/album/5sv3ywwb2iCoI6n8UD4ZRX) | 4:11 |
-| 32 | [De Sobremanera](https://open.spotify.com/track/3MVLAi81gIo1nSvfincYFk) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:38 |
-| 33 | [Te quiero, te amo](https://open.spotify.com/track/73XUqDO8fU7dhFuwHw4W3s) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Frente a Frente](https://open.spotify.com/album/3kuaLpJj6gJumJaCJsspNH) | 3:38 |
+| 32 | [Te quiero, te amo](https://open.spotify.com/track/73XUqDO8fU7dhFuwHw4W3s) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Frente a Frente](https://open.spotify.com/album/3kuaLpJj6gJumJaCJsspNH) | 3:38 |
+| 33 | [De Sobremanera](https://open.spotify.com/track/3MVLAi81gIo1nSvfincYFk) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:38 |
 | 34 | [La Mejor De Las Historias](https://open.spotify.com/track/7B5W4cddzkBppgnbcu4syz) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:35 |
 | 35 | [Cuando Valgas La Pena \- Versión Mariachi](https://open.spotify.com/track/3pBTu2wT09kh7kP6VU0DR8) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 4:37 |
 | 36 | [Me Tocó Morir](https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 | 49 | [Otro Perdedor](https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 4:10 |
 | 50 | [Borracha](https://open.spotify.com/track/63gtXiQJ2c6YaDoi28k77N) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:30 |
 
-Snapshot ID: `apDPgAAAAADBouZAjZvyO/Csd3jDNFjc`
+Snapshot ID: `apIhAAAAAAAmEwrfCY2a/nlCBO3g93s/`

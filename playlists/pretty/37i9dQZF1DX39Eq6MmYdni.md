@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 
 > Lo que suena in the lone star state\. Texas\. Cover:  Chivo XVI, Bandi2
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,095 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,072 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rolling Stone \(Remix\)](https://open.spotify.com/track/3ktXJCF1uDMWV9AuCZxIli) | [Bandi2](https://open.spotify.com/artist/31hQsDuP9VSY5kc5jQnQfW), [Chivo XVI](https://open.spotify.com/artist/518vS5pfFlwOFzzCxSqHFs) | [Rolling Stone \(Remix\)](https://open.spotify.com/album/43Uyhs3boh36tQpLEvuYiw) | 3:16 |
+| 1 | [Rolling Stone \- Remix](https://open.spotify.com/track/3ktXJCF1uDMWV9AuCZxIli) | [Bandi2](https://open.spotify.com/artist/31hQsDuP9VSY5kc5jQnQfW), [Chivo XVI](https://open.spotify.com/artist/518vS5pfFlwOFzzCxSqHFs) | [Rolling Stone \(Remix\)](https://open.spotify.com/album/43Uyhs3boh36tQpLEvuYiw) | 3:16 |
 | 2 | [29:11](https://open.spotify.com/track/5tXtuUvOs70nkgaXg8pqnV) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [LINAJE](https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy) | 3:44 |
 | 3 | [Súper Snake](https://open.spotify.com/track/6Wpf9WrKpHbkxeY34HwGam) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Súper Snake](https://open.spotify.com/album/1qAoa9VmpxKBOyca6q9SGb) | 2:26 |
 | 4 | [daño](https://open.spotify.com/track/136BeIIoBGrrU9fI1jbcDR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [DINASTÍA](https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a) | 3:17 |

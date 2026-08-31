@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAARR+aaaYw2xd6rQ+lKZiI0",
+  "snapshot_id": "apIhAAAAAAChN+VYxxi5x7Tfw362APgr",
   "tracks": [
     {
       "added_at": null,
@@ -227,8 +227,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Espectador",
-        "url": "https://open.spotify.com/album/0ekLp83yAHBExNAvnFgJBV"
+        "name": "Por Si Te Quieres Quedar",
+        "url": "https://open.spotify.com/album/5cKAoN0HixEqmJvIM9WyHC"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 200771,
-      "name": "Espectador",
-      "url": "https://open.spotify.com/track/7K6VPsAtUg6aWoeUoeSkPC"
+      "duration_ms": 214268,
+      "name": "Por Si Te Quieres Quedar",
+      "url": "https://open.spotify.com/track/1IOFN550MP5nd2qRfoDaTG"
     },
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Si Te Quieres Quedar",
-        "url": "https://open.spotify.com/album/5cKAoN0HixEqmJvIM9WyHC"
+        "name": "Espectador",
+        "url": "https://open.spotify.com/album/0ekLp83yAHBExNAvnFgJBV"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 214268,
-      "name": "Por Si Te Quieres Quedar",
-      "url": "https://open.spotify.com/track/1IOFN550MP5nd2qRfoDaTG"
+      "duration_ms": 200771,
+      "name": "Espectador",
+      "url": "https://open.spotify.com/track/7K6VPsAtUg6aWoeUoeSkPC"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165346,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/6gA1VnJMJYUi4kFTg7OqtM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Despierto",
         "url": "https://open.spotify.com/album/5zjSZUekfzF97XyDUbWW1T"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 189013,
       "name": "Encima De Mil",
       "url": "https://open.spotify.com/track/74wY2RFSQJlz7yznnDWDsj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165346,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/6gA1VnJMJYUi4kFTg7OqtM"
     },
     {
       "added_at": null,
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 148666,
-      "name": "Volver A Verte",
-      "url": "https://open.spotify.com/track/1yFBLCLb6XsAsX9sSmtauZ"
+      "duration_ms": 184986,
+      "name": "A Un Minuto",
+      "url": "https://open.spotify.com/track/7oTjieahX5dLL0qkSg6eJi"
     },
     {
       "added_at": null,
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 184986,
-      "name": "A Un Minuto",
-      "url": "https://open.spotify.com/track/7oTjieahX5dLL0qkSg6eJi"
+      "duration_ms": 148666,
+      "name": "Volver A Verte",
+      "url": "https://open.spotify.com/track/1yFBLCLb6XsAsX9sSmtauZ"
     },
     {
       "added_at": null,

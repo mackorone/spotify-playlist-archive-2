@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 
 > Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Juan Pablo Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,653 likes - 57 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,644 likes - 57 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

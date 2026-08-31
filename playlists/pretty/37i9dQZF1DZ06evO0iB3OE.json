@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAACcyJ9tnalod6oVH8r3Im/H",
+  "snapshot_id": "apIhAAAAAADJXx5vOKNQbFXoHGOFyjag",
   "tracks": [
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y Sigue la Mata Dando",
+        "url": "https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 146580,
+      "name": "Cuanto Tienes Cuanto Vales",
+      "url": "https://open.spotify.com/track/533dQIJADShagV3sKG5JAZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa' Destapar La Hielera (En Vivo)",
         "url": "https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH"
       },
@@ -455,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        },
-        {
-          "name": "Banda Los Pioneros",
-          "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
-        }
-      ],
-      "duration_ms": 216850,
-      "name": "La Clave 7 - En Vivo",
-      "url": "https://open.spotify.com/track/2Lre4ZEa0TEPR45lO42T0g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cargamento Del Diablo",
         "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
       },
@@ -491,18 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Sigue la Mata Dando",
-        "url": "https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb"
+        "name": "En Vivo Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
       },
       "artists": [
         {
           "name": "El Potro De Sinaloa",
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        },
+        {
+          "name": "Banda Los Pioneros",
+          "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
         }
       ],
-      "duration_ms": 146580,
-      "name": "Cuanto Tienes Cuanto Vales",
-      "url": "https://open.spotify.com/track/533dQIJADShagV3sKG5JAZ"
+      "duration_ms": 216850,
+      "name": "La Clave 7 - En Vivo",
+      "url": "https://open.spotify.com/track/2Lre4ZEa0TEPR45lO42T0g"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Comandante Fuentes",
-        "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
+        "name": "EL Maz Poderoso",
+        "url": "https://open.spotify.com/album/1rnwwEtCSZQSF0KpyZs1BW"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 140053,
-      "name": "La Compra y Venta",
-      "url": "https://open.spotify.com/track/5uPapq4kYFFP7V1oa5XW4P"
+      "duration_ms": 187533,
+      "name": "El Poderoso",
+      "url": "https://open.spotify.com/track/3xRtsmxdpwBsczSE7ldylz"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL Maz Poderoso",
-        "url": "https://open.spotify.com/album/1rnwwEtCSZQSF0KpyZs1BW"
+        "name": "El Comandante Fuentes",
+        "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 187533,
-      "name": "El Poderoso",
-      "url": "https://open.spotify.com/track/3xRtsmxdpwBsczSE7ldylz"
+      "duration_ms": 140053,
+      "name": "La Compra y Venta",
+      "url": "https://open.spotify.com/track/5uPapq4kYFFP7V1oa5XW4P"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dejame",
+        "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        },
+        {
+          "name": "Banda Sinaloense",
+          "url": "https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq"
+        }
+      ],
+      "duration_ms": 162771,
+      "name": "Gilberto Palomares",
+      "url": "https://open.spotify.com/track/23QiV1ksBzed9MjGleEiI4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Que Se Fue",
         "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
       },
@@ -751,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Mi Estilo",
+        "url": "https://open.spotify.com/album/1bFKSkBxBKrejEWcU1wftC"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 186803,
+      "name": "Que No Se Apague la Lumbre",
+      "url": "https://open.spotify.com/track/6k4DozOPe9mZQzs7A9Nv6l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dejame",
         "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
       },
@@ -764,25 +800,9 @@
           "url": "https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq"
         }
       ],
-      "duration_ms": 162771,
-      "name": "Gilberto Palomares",
-      "url": "https://open.spotify.com/track/23QiV1ksBzed9MjGleEiI4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Mi Estilo",
-        "url": "https://open.spotify.com/album/1bFKSkBxBKrejEWcU1wftC"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 186803,
-      "name": "Que No Se Apague la Lumbre",
-      "url": "https://open.spotify.com/track/6k4DozOPe9mZQzs7A9Nv6l"
+      "duration_ms": 145402,
+      "name": "Dejame",
+      "url": "https://open.spotify.com/track/6rLYzSPsrs95tamhZ6oGrf"
     },
     {
       "added_at": null,
@@ -819,26 +839,6 @@
       "duration_ms": 198832,
       "name": "Hombre de Ley",
       "url": "https://open.spotify.com/track/6ktLE4mGNG2qXSwTAut8jL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dejame",
-        "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        },
-        {
-          "name": "Banda Sinaloense",
-          "url": "https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq"
-        }
-      ],
-      "duration_ms": 145402,
-      "name": "Dejame",
-      "url": "https://open.spotify.com/track/6rLYzSPsrs95tamhZ6oGrf"
     },
     {
       "added_at": null,

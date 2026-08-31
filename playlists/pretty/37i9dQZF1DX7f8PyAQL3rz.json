@@ -1,6 +1,6 @@
 {
   "description": "amor \u00e9 bom mas ningu\u00e9m quer",
-  "num_followers": 1434635,
+  "num_followers": 1434555,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -903,34 +903,6 @@
     {
       "added_at": "2026-08-21 14:11:54",
       "album": {
-        "name": "Fiquei Bonito...",
-        "url": "https://open.spotify.com/album/3E5mXFZLXppSoqT6zKWl6k"
-      },
-      "artists": [
-        {
-          "name": "LUKA",
-          "url": "https://open.spotify.com/artist/1qYaM9h5VHYbHxIlr4UIa0"
-        },
-        {
-          "name": "Mago de Tarso",
-          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
-        },
-        {
-          "name": "Penedo",
-          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
-        },
-        {
-          "name": "DJ Dael",
-          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
-        }
-      ],
-      "duration_ms": 134829,
-      "name": "Fiquei Bonito...",
-      "url": "https://open.spotify.com/track/3xmAIiw9f84lX8c1Qy2dRI"
-    },
-    {
-      "added_at": "2026-08-21 14:11:54",
-      "album": {
         "name": "Que toda dor vire dinheiro",
         "url": "https://open.spotify.com/album/6ebVCYkVqBKawOWNp7JvSF"
       },
@@ -975,6 +947,34 @@
       "duration_ms": 136320,
       "name": "Dentro da Sua",
       "url": "https://open.spotify.com/track/5XnBTv0a5JjTG57mhZDVpz"
+    },
+    {
+      "added_at": "2026-08-21 14:11:54",
+      "album": {
+        "name": "Fiquei Bonito...",
+        "url": "https://open.spotify.com/album/3E5mXFZLXppSoqT6zKWl6k"
+      },
+      "artists": [
+        {
+          "name": "LUKA",
+          "url": "https://open.spotify.com/artist/1qYaM9h5VHYbHxIlr4UIa0"
+        },
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        },
+        {
+          "name": "Penedo",
+          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
+        },
+        {
+          "name": "DJ Dael",
+          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
+        }
+      ],
+      "duration_ms": 134829,
+      "name": "Fiquei Bonito...",
+      "url": "https://open.spotify.com/track/3xmAIiw9f84lX8c1Qy2dRI"
     },
     {
       "added_at": "2026-08-21 14:11:54",
@@ -1487,34 +1487,6 @@
     {
       "added_at": "2026-08-21 14:11:54",
       "album": {
-        "name": "N\u00f3is Ta Diferente",
-        "url": "https://open.spotify.com/album/0RCnF3Q6LvxCcMbv5fN8Bk"
-      },
-      "artists": [
-        {
-          "name": "DJ JB Mix",
-          "url": "https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w"
-        },
-        {
-          "name": "Salvador Da Rima",
-          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
-        },
-        {
-          "name": "MC Fr da Norte",
-          "url": "https://open.spotify.com/artist/4s6x9M7UXoKy12iOrDILhj"
-        },
-        {
-          "name": "Prado",
-          "url": "https://open.spotify.com/artist/5I7db10XSG06FrAHzC36Wq"
-        }
-      ],
-      "duration_ms": 162317,
-      "name": "Na Onde N\u00f3is Mora",
-      "url": "https://open.spotify.com/track/7Bsh0lTH0Yw0B8NV5xWNKQ"
-    },
-    {
-      "added_at": "2026-08-21 14:11:54",
-      "album": {
         "name": "Session analogic #1",
         "url": "https://open.spotify.com/album/7By3rMLOdYgYJmbhEohVjV"
       },
@@ -1547,6 +1519,34 @@
       "duration_ms": 218181,
       "name": "Session analogic #1",
       "url": "https://open.spotify.com/track/7KmiTipriSiQWxHl4EMR8S"
+    },
+    {
+      "added_at": "2026-08-21 14:11:54",
+      "album": {
+        "name": "N\u00f3is Ta Diferente",
+        "url": "https://open.spotify.com/album/0RCnF3Q6LvxCcMbv5fN8Bk"
+      },
+      "artists": [
+        {
+          "name": "DJ JB Mix",
+          "url": "https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w"
+        },
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
+        {
+          "name": "MC Fr da Norte",
+          "url": "https://open.spotify.com/artist/4s6x9M7UXoKy12iOrDILhj"
+        },
+        {
+          "name": "Prado",
+          "url": "https://open.spotify.com/artist/5I7db10XSG06FrAHzC36Wq"
+        }
+      ],
+      "duration_ms": 162317,
+      "name": "Na Onde N\u00f3is Mora",
+      "url": "https://open.spotify.com/track/7Bsh0lTH0Yw0B8NV5xWNKQ"
     },
     {
       "added_at": "2026-08-21 14:11:54",

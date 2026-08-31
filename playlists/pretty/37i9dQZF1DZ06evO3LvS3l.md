@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 | 36 | [Piece of Wood and Steel](https://open.spotify.com/track/62xpXHNltQvHLtQUGX7ArA) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Once Upon a Rhyme](https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom) | 4:02 |
 | 37 | [Just to Prove My Love for You](https://open.spotify.com/track/3K4J9hsXjF5Cnrf5YtnMMx) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Tattoo](https://open.spotify.com/album/3c1o4Jc3Fk0hbnhNgfLe2W) | 2:23 |
 | 38 | [Ain't Worth the Powder](https://open.spotify.com/track/009rOUFn58lSEt2wzcNON3) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Unchained](https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w) | 3:12 |
-| 39 | [Mama Tried](https://open.spotify.com/track/7opFp61IOAhDLbwXUAl3Jf) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [David Allan Coe Sings Merle Haggard](https://open.spotify.com/album/6vPAgi5fs170oyrkwHykD4) | 2:14 |
-| 40 | [The Fish Aren't Bitin' Today](https://open.spotify.com/track/1bYzoLz1GonUYnrqjMppKc) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Compass Point](https://open.spotify.com/album/1tEXpuNhfMIPwxOxPO59kr) | 3:08 |
+| 39 | [The Fish Aren't Bitin' Today](https://open.spotify.com/track/1bYzoLz1GonUYnrqjMppKc) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Compass Point](https://open.spotify.com/album/1tEXpuNhfMIPwxOxPO59kr) | 3:08 |
+| 40 | [Mama Tried](https://open.spotify.com/track/7opFp61IOAhDLbwXUAl3Jf) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [David Allan Coe Sings Merle Haggard](https://open.spotify.com/album/6vPAgi5fs170oyrkwHykD4) | 2:14 |
 | 41 | [Drank My Wife Away](https://open.spotify.com/track/4y9t3AJ7Hj4ceYpxKBqESf) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Live at Billy Bob's Texas](https://open.spotify.com/album/6UovhwsrRIA072Ywx6KgpV) | 3:17 |
 | 42 | [Mona Lisa Lost Her Smile](https://open.spotify.com/track/3FOlVDzrfBuVfIy93fqgDN) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [David Allan Coe \- 16 Biggest Hits](https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l) | 3:39 |
 | 43 | [Hey Gypsy](https://open.spotify.com/track/1mhMZNhh6uwgJYYZYOrBdO) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Tattoo](https://open.spotify.com/album/3c1o4Jc3Fk0hbnhNgfLe2W) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 | 49 | [Sweet Vibrations \(Some Folks Call It Love\)](https://open.spotify.com/track/41wFXSrdWefbvAlbKI55N6) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Once Upon a Rhyme](https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom) | 3:02 |
 | 50 | [Southern Star](https://open.spotify.com/track/6X8awE7FqsGMyZCkH1psD7) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [A Matter of Life and Death](https://open.spotify.com/album/5iAcxskUK5WGatU8Yzkp2e) | 2:39 |
 
-Snapshot ID: `apDPgAAAAABbHHBuBLe3x80RUk8Fr/6i`
+Snapshot ID: `apIhAAAAAADfwFMlk2uxdF9t1EwU7EDz`

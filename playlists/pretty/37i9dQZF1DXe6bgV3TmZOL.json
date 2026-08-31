@@ -1,6 +1,6 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2495838,
+  "num_followers": 2495742,
   "original_name": "Heavy Workout",
   "owner": {
     "name": "Spotify",
@@ -1423,38 +1423,6 @@
     {
       "added_at": "2026-07-17 04:01:33",
       "album": {
-        "name": "Scoring The End Of The World (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3FtJCmMzsgTWZOi931Vqxy"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        }
-      ],
-      "duration_ms": 187321,
-      "name": "Hollow Points",
-      "url": "https://open.spotify.com/track/5J1SceWegPiycCW89uIfAU"
-    },
-    {
-      "added_at": "2026-07-17 04:01:33",
-      "album": {
-        "name": "Song Of The Swamp",
-        "url": "https://open.spotify.com/album/7jx0RyYXimNfJDm7ohjIUN"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 198118,
-      "name": "Song Of The Swamp",
-      "url": "https://open.spotify.com/track/3nImaje8npYkUGZG4AQlc4"
-    },
-    {
-      "added_at": "2026-07-17 04:01:33",
-      "album": {
         "name": "VERITAS",
         "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
       },
@@ -1475,6 +1443,38 @@
       "duration_ms": 184215,
       "name": "AFRAID TO DIE",
       "url": "https://open.spotify.com/track/70XQAZsck714xP80hqeUsj"
+    },
+    {
+      "added_at": "2026-07-17 04:01:33",
+      "album": {
+        "name": "Song Of The Swamp",
+        "url": "https://open.spotify.com/album/7jx0RyYXimNfJDm7ohjIUN"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 198118,
+      "name": "Song Of The Swamp",
+      "url": "https://open.spotify.com/track/3nImaje8npYkUGZG4AQlc4"
+    },
+    {
+      "added_at": "2026-07-17 04:01:33",
+      "album": {
+        "name": "Scoring The End Of The World (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3FtJCmMzsgTWZOi931Vqxy"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "duration_ms": 187321,
+      "name": "Hollow Points",
+      "url": "https://open.spotify.com/track/5J1SceWegPiycCW89uIfAU"
     },
     {
       "added_at": "2026-07-17 04:01:33",

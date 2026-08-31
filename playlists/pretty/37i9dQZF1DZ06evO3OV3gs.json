@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 714512,
+  "num_followers": 714548,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAAbEcj0M9uQqULZP4rAgKU3",
+  "snapshot_id": "apIhAAAAAACZh/khKqZ6k2sK3ysUI9FX",
   "tracks": [
     {
       "added_at": null,
@@ -358,15 +358,11 @@
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         }
       ],
-      "duration_ms": 245264,
-      "name": "Bizarre",
-      "url": "https://open.spotify.com/track/15RhivSFgiIWYugV2FqV5I"
+      "duration_ms": 299479,
+      "name": "I Feel So Free",
+      "url": "https://open.spotify.com/track/5GNDe5JmNKP3OThhyXgx5S"
     },
     {
       "added_at": null,
@@ -426,11 +422,15 @@
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         }
       ],
-      "duration_ms": 299479,
-      "name": "I Feel So Free",
-      "url": "https://open.spotify.com/track/5GNDe5JmNKP3OThhyXgx5S"
+      "duration_ms": 245264,
+      "name": "Bizarre",
+      "url": "https://open.spotify.com/track/15RhivSFgiIWYugV2FqV5I"
     },
     {
       "added_at": null,

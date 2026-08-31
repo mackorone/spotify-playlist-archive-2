@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,730 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,724 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 35 | [Terraformar](https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Terraformar](https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK) | 2:20 |
 | 36 | [Quién Dice](https://open.spotify.com/track/567t9YdgQ12cPNJma02EPT) | [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Quién Dice](https://open.spotify.com/album/3tAKezwIGgXfXJZQtbF7eK) | 3:45 |
 | 37 | [CÓMO RESPIRAR???](https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [CÓMO RESPIRAR???](https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q) | 3:41 |
-| 38 | [Fuentes de Ortíz \(Live session\)](https://open.spotify.com/track/3nTeLDqZebdpIdB9uRJJk1) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Fuentes de Ortíz \(Live session\)](https://open.spotify.com/album/3hckHlpN6ERKTcGMFrV9ui) | 2:59 |
-| 39 | [Lágrimas De Miel](https://open.spotify.com/track/5xxWDPW1I0aHAt3twyXAPy) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Lágrimas De Miel](https://open.spotify.com/album/1tTolYWqffkyFE64kvjlkh) | 3:48 |
+| 38 | [Lágrimas De Miel](https://open.spotify.com/track/5xxWDPW1I0aHAt3twyXAPy) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Lágrimas De Miel](https://open.spotify.com/album/1tTolYWqffkyFE64kvjlkh) | 3:48 |
+| 39 | [Fuentes de Ortíz \(Live session\)](https://open.spotify.com/track/3nTeLDqZebdpIdB9uRJJk1) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Fuentes de Ortíz \(Live session\)](https://open.spotify.com/album/3hckHlpN6ERKTcGMFrV9ui) | 2:59 |
 | 40 | [Amar](https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Amar](https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj) | 2:59 |
 | 41 | [lejos](https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:22 |
 | 42 | [Vengo Del Futuro \- Remix](https://open.spotify.com/track/4fQkGF3euv3UIoOXEXsPZo) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [En Medio De Este Ruido \(Deluxe\)](https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB) | 4:15 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 50 | [Duerme En Paz](https://open.spotify.com/track/7cWBIjCBlHSC8q6OND9GUz) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Duerme En Paz](https://open.spotify.com/album/63RkToY6nto4dKQDxqgMrG) | 3:04 |
 | 51 | [pero qué cosa](https://open.spotify.com/track/3lIPnDNKdk3NJzRa6EJRlc) | [Fer](https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J) | [pero qué cosa](https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr) | 2:45 |
 | 52 | [Otros Colores](https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Otros Colores](https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS) | 5:51 |
-| 53 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 |
-| 54 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 |
+| 53 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 |
+| 54 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 |
 | 55 | [Refugio](https://open.spotify.com/track/2XHOcpj3XkYsv9aa4inXVQ) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Refugio](https://open.spotify.com/album/6rb0q66fl0KXNB9SXW5Ycc) | 3:50 |
 | 56 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 |
 | 57 | [Nunca Sabrás](https://open.spotify.com/track/4PgbgWa4umBGYbJfy10U8e) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Nunca Sabrás](https://open.spotify.com/album/6ova79lcaiV9HgZN3qVrMX) | 3:36 |

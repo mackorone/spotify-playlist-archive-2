@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 420225,
+  "num_followers": 420255,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,18 @@
     {
       "added_at": "2026-08-21 17:06:32",
       "album": {
-        "name": "V\u00e1rias Ondas",
-        "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
+        "name": "At\u00e9 Outro Dia Amor",
+        "url": "https://open.spotify.com/album/6PRSfhGYFpvIW7NpAfN72z"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
         }
       ],
-      "duration_ms": 193205,
-      "name": "Deixa o Amanh\u00e3 pra Amanh\u00e3",
-      "url": "https://open.spotify.com/track/3NPeM6KInz42Ez4rIpAkFF"
+      "duration_ms": 208492,
+      "name": "At\u00e9 Outro Dia Amor",
+      "url": "https://open.spotify.com/track/3sNq3qDXEWI8gtzoWbLAWR"
     },
     {
       "added_at": "2026-08-21 17:06:32",
@@ -179,18 +175,22 @@
     {
       "added_at": "2026-08-21 17:06:32",
       "album": {
-        "name": "At\u00e9 Outro Dia Amor",
-        "url": "https://open.spotify.com/album/6PRSfhGYFpvIW7NpAfN72z"
+        "name": "V\u00e1rias Ondas",
+        "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
       },
       "artists": [
         {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
         }
       ],
-      "duration_ms": 208492,
-      "name": "At\u00e9 Outro Dia Amor",
-      "url": "https://open.spotify.com/track/3sNq3qDXEWI8gtzoWbLAWR"
+      "duration_ms": 193205,
+      "name": "Deixa o Amanh\u00e3 pra Amanh\u00e3",
+      "url": "https://open.spotify.com/track/3NPeM6KInz42Ez4rIpAkFF"
     },
     {
       "added_at": "2026-08-21 17:06:32",
@@ -319,26 +319,6 @@
     {
       "added_at": "2026-08-21 17:06:32",
       "album": {
-        "name": "Time Won\u2019t Wait",
-        "url": "https://open.spotify.com/album/53BphEUeLMphh5CCKe8Uo2"
-      },
-      "artists": [
-        {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
-        },
-        {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
-        }
-      ],
-      "duration_ms": 210010,
-      "name": "Time Won\u2019t Wait",
-      "url": "https://open.spotify.com/track/3wbqx5euzFgiPWg6zQRK7J"
-    },
-    {
-      "added_at": "2026-08-21 17:06:32",
-      "album": {
         "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
         "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 185295,
       "name": "Liberdade",
       "url": "https://open.spotify.com/track/3k7D91v3eUTY4yZbBwwbDZ"
+    },
+    {
+      "added_at": "2026-08-21 17:06:32",
+      "album": {
+        "name": "Time Won\u2019t Wait",
+        "url": "https://open.spotify.com/album/53BphEUeLMphh5CCKe8Uo2"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        }
+      ],
+      "duration_ms": 210010,
+      "name": "Time Won\u2019t Wait",
+      "url": "https://open.spotify.com/track/3wbqx5euzFgiPWg6zQRK7J"
     },
     {
       "added_at": "2026-08-21 17:06:32",
@@ -915,38 +915,6 @@
     {
       "added_at": "2026-08-21 17:06:32",
       "album": {
-        "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
-        "url": "https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u"
-      },
-      "artists": [
-        {
-          "name": "Maip\u00ea",
-          "url": "https://open.spotify.com/artist/29TGZb5S8iVFN9HzowvnPV"
-        },
-        {
-          "name": "Fabio Brazza",
-          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
-        },
-        {
-          "name": "Fabinho K",
-          "url": "https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT"
-        },
-        {
-          "name": "Pedro Schin",
-          "url": "https://open.spotify.com/artist/02nGZOh81jqa9Oh4VfMn9P"
-        },
-        {
-          "name": "Dias Bruno",
-          "url": "https://open.spotify.com/artist/6o3M6GcnvbFlrZaEEmUOGk"
-        }
-      ],
-      "duration_ms": 158293,
-      "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
-      "url": "https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO"
-    },
-    {
-      "added_at": "2026-08-21 17:06:32",
-      "album": {
         "name": "O Amor N\u00e3o Sabe Esperar",
         "url": "https://open.spotify.com/album/2Ua5qCOC8yTBRIPmqBZmnH"
       },
@@ -987,6 +955,38 @@
     {
       "added_at": "2026-08-21 17:06:32",
       "album": {
+        "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
+        "url": "https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u"
+      },
+      "artists": [
+        {
+          "name": "Maip\u00ea",
+          "url": "https://open.spotify.com/artist/29TGZb5S8iVFN9HzowvnPV"
+        },
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "Fabinho K",
+          "url": "https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT"
+        },
+        {
+          "name": "Pedro Schin",
+          "url": "https://open.spotify.com/artist/02nGZOh81jqa9Oh4VfMn9P"
+        },
+        {
+          "name": "Dias Bruno",
+          "url": "https://open.spotify.com/artist/6o3M6GcnvbFlrZaEEmUOGk"
+        }
+      ],
+      "duration_ms": 158293,
+      "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
+      "url": "https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO"
+    },
+    {
+      "added_at": "2026-08-21 17:06:32",
+      "album": {
         "name": "Em Paz Com o Mundo",
         "url": "https://open.spotify.com/album/6oqchEHdaJHysZvNeNXAqo"
       },
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-08-21 17:06:32",
       "album": {
+        "name": "Cai\u00e7ara",
+        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
+      },
+      "artists": [
+        {
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+        }
+      ],
+      "duration_ms": 174622,
+      "name": "Cai\u00e7ara",
+      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
+    },
+    {
+      "added_at": "2026-08-21 17:06:32",
+      "album": {
         "name": "Olha Pra Mim",
         "url": "https://open.spotify.com/album/2XtFi9Q8b9WRNHKTy3I90d"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 177535,
       "name": "Olha Pra Mim",
       "url": "https://open.spotify.com/track/5qW2lWtDCcADcISlAYY1PP"
-    },
-    {
-      "added_at": "2026-08-21 17:06:32",
-      "album": {
-        "name": "Cai\u00e7ara",
-        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
-      },
-      "artists": [
-        {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
-        }
-      ],
-      "duration_ms": 174622,
-      "name": "Cai\u00e7ara",
-      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
     },
     {
       "added_at": "2026-08-21 17:06:32",

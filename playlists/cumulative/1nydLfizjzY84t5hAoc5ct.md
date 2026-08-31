@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-387 songs - 23 hr 51 min
+388 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Renegade](https://open.spotify.com/track/5uvuuZqKyiRIlV34S0czL0) | [KATANES](https://open.spotify.com/artist/5Z9F67svL9FJQW3g4hpBYE) | [Renegade](https://open.spotify.com/album/0ERKgmEk3IzqI3GUaXijX6) | 3:38 | 2026-08-05 |  |
 | [Resolve](https://open.spotify.com/track/3RpfSH6LHxSmobNd50FZo4) | [Socialites](https://open.spotify.com/artist/6viYhJ4Hkq8WrahWIOO1HR) | [Resolve](https://open.spotify.com/album/3OCIIDu3Yv1PfisV8LPHmL) | 4:37 | 2025-11-16 | 2025-12-01 |
 | [Revivir](https://open.spotify.com/track/2EAXV5bCg2btXELg2oE3dl) | [El Abuelo](https://open.spotify.com/artist/54DZYT3m4fOOnka59lH2HY), [Cesar Huesca](https://open.spotify.com/artist/21nAHY9slnhfM52jJ7XKBa), [Ricardo Oso Cortez](https://open.spotify.com/artist/3fenvl60yRFmYvlNYomhGc), [Sinuhé Borre Castro](https://open.spotify.com/artist/26U7J9tJDGQazyPAVzDFN9) | [Revivir](https://open.spotify.com/album/6XJaSh56NOMktClJoKK4ca) | 3:41 | 2026-06-09 | 2026-06-20 |
+| [Rise \- Sin Clair Rework](https://open.spotify.com/track/0yN84xG47V1DidUjC4VGcd) | [Man of Moon](https://open.spotify.com/artist/0aScxC3sfFGiG2U7xoyy49), [Sin Clair](https://open.spotify.com/artist/0z05a8HVeCFl1QBGCqHv62) | [MACHINISM \(The Remixes\)](https://open.spotify.com/album/7koanWNZfIhlXUY6zDTtBL) | 3:22 | 2026-08-30 |  |
 | [Robin](https://open.spotify.com/track/2ljwE5BHmknuF3lbt2pVUV) | [Lacuna](https://open.spotify.com/artist/5XG9KwVdGoHTfnHLwkpT14) | [Robin](https://open.spotify.com/album/0fXwQNJFqTDxNPG67QkuQU) | 3:32 | 2026-07-19 | 2026-08-06 |
 | [Roots Gal Party](https://open.spotify.com/track/2MKtXR1IJruRE4dOosk8fE) | [Wends](https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a), [Escape Roots](https://open.spotify.com/artist/4Bb1EZadKGt9ULjvthamKf) | [Roots Gal Party](https://open.spotify.com/album/5GRQZ2hEGGIueWNMfOXsk0) | 3:40 | 2026-03-01 | 2026-03-07 |
 | [Roses](https://open.spotify.com/track/5xLKMsU6RoJ8Gg10vsuxVO) | [brittle](https://open.spotify.com/artist/6nTGjlKzh92A8qlAwQ0clg) | [Roses](https://open.spotify.com/album/3h8yWxYigpNvZIRuZJgPXg) | 4:21 | 2026-02-01 | 2026-06-20 |

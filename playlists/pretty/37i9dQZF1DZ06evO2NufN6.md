@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 
 > This is Mac Miller\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 999,921 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,000,056 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 | 49 | [Best Day Ever](https://open.spotify.com/track/2nm4Ma3r1LrR84cFUJZLSZ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Best Day Ever \(5th Anniversary Remastered Edition\)](https://open.spotify.com/album/2OxW8MjnnNSAvFoG7igg7M) | 2:39 |
 | 50 | [Clubhouse](https://open.spotify.com/track/7rdyAfIm1t6h6I1gyLtD17) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 3:00 |
 
-Snapshot ID: `apDPgAAAAABA4yc80094ed25QleVI0s2`
+Snapshot ID: `apIhAAAAAAD4D/Km+8W6OZt9XRDLxcH1`

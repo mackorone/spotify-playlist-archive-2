@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1ZwPZeXfWTcEVLQRCOBcvc">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-114 songs - 6 hr 23 min
+115 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Lazy Lovers](https://open.spotify.com/track/644AVhRp9ILEcnMgbMydzI) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Twilight Zone](https://open.spotify.com/album/55gs8EwAxcyCAXGeJbR6bo) | 3:27 | 2024-03-31 | 2024-04-04 |
 | [Liverpool](https://open.spotify.com/track/1OFKUwul0KnJA4v4em3rso) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [The End Of The Storm \(Official Soundtrack\)](https://open.spotify.com/album/1WmdszaBk5ksWMRLar99TC) | 3:39 | 2022-09-08 | 2025-08-23 |
 | [Looking To Love](https://open.spotify.com/track/4FsYQpa38VDIUFdYqU0EYu) | [Nick Talos](https://open.spotify.com/artist/5pCzC0BOLY2MpqYr1qksg2), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Looking To Love](https://open.spotify.com/album/2zCt9h73d9uznlQSibu6Qh) | 3:20 | 2022-09-08 |  |
+| [Lose Your Love](https://open.spotify.com/track/1ZcoivP306CXMsTrraieyl) | [G.E.N](https://open.spotify.com/artist/4Y3tXdzJcL5QK0xtwzZ6bH) | [Lose Your Love](https://open.spotify.com/album/36h0O23tuHkodL6puWYbII) | 2:39 | 2026-08-30 |  |
 | [Love Again](https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 4:18 | 2022-09-08 |  |
 | [Love Again](https://open.spotify.com/track/1McgL1466ULWAIcqrt7tN5) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Love Again](https://open.spotify.com/album/2FDl5esBVh2yFuHCkwYbPp) | 4:23 | 2023-12-14 | 2024-01-30 |
 | [Loving You!](https://open.spotify.com/track/6VaGFO7F0iooQDmmEp9u1O) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [XO, My Cyberlove](https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q) | 2:43 | 2026-03-22 |  |

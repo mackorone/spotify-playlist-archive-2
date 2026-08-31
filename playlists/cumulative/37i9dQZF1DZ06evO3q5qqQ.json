@@ -246,24 +246,6 @@
     {
       "album": {
         "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "date_added": "2026-05-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 167211,
-      "name": "Celos Del Viento (En vivo)",
-      "url": "https://open.spotify.com/track/68Hq2EtftSiWf5lRRfIbsc"
-    },
-    {
-      "album": {
-        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7hNQQRF3XiRDSVvkC4l4bI"
       },
       "artists": [
@@ -278,6 +260,24 @@
       "duration_ms": 167211,
       "name": "Celos Del Viento - En Vivo",
       "url": "https://open.spotify.com/track/1Ezd3Feu5bZUCHAglnTtHe"
+    },
+    {
+      "album": {
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167211,
+      "name": "Celos Del Viento - En vivo",
+      "url": "https://open.spotify.com/track/68Hq2EtftSiWf5lRRfIbsc"
     },
     {
       "album": {
@@ -321,24 +321,6 @@
     },
     {
       "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "date_added": "2026-05-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 189738,
-      "name": "Chuyito y el Mayo (En Vivo)",
-      "url": "https://open.spotify.com/track/1MJ3hyAnpTrajRRToGInF2"
-    },
-    {
-      "album": {
         "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
         "url": "https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM"
       },
@@ -354,6 +336,24 @@
       "duration_ms": 189738,
       "name": "Chuyito y el Mayo (En Vivo)",
       "url": "https://open.spotify.com/track/7jjlHbcXCJOHJ2h7ilpQyx"
+    },
+    {
+      "album": {
+        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189738,
+      "name": "Chuyito y el Mayo - En Vivo",
+      "url": "https://open.spotify.com/track/1MJ3hyAnpTrajRRToGInF2"
     },
     {
       "album": {
@@ -450,7 +450,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 221504,
-      "name": "Coraz\u00f3n Ranchero (En Vivo)",
+      "name": "Coraz\u00f3n Ranchero - En Vivo",
       "url": "https://open.spotify.com/track/5Y7ph3ZXDOOAShgLyKLsHb"
     },
     {
@@ -803,24 +803,6 @@
     },
     {
       "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "date_added": "2026-06-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 170410,
-      "name": "El Chivo Tatemado (En Vivo)",
-      "url": "https://open.spotify.com/track/7GYWEcRh7ztQJNC7JGRg72"
-    },
-    {
-      "album": {
         "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
         "url": "https://open.spotify.com/album/4YkZWo36gl5YrcyFxT6foX"
       },
@@ -836,6 +818,24 @@
       "duration_ms": 170410,
       "name": "El Chivo Tatemado - En Vivo",
       "url": "https://open.spotify.com/track/637f732grvgAbQkGZwrEKC"
+    },
+    {
+      "album": {
+        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170410,
+      "name": "El Chivo Tatemado - En Vivo",
+      "url": "https://open.spotify.com/track/7GYWEcRh7ztQJNC7JGRg72"
     },
     {
       "album": {
@@ -1023,24 +1023,6 @@
     },
     {
       "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "date_added": "2026-05-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 185973,
-      "name": "El Mas Poderoso (En Vivo)",
-      "url": "https://open.spotify.com/track/2Dgl2lWN7geG4QxG81XtKp"
-    },
-    {
-      "album": {
         "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
         "url": "https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM"
       },
@@ -1056,6 +1038,24 @@
       "duration_ms": 185973,
       "name": "El Mas Poderoso (En Vivo)",
       "url": "https://open.spotify.com/track/4MVkKvP7FJ4TYZY7zZ72pl"
+    },
+    {
+      "album": {
+        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185973,
+      "name": "El Mas Poderoso - En Vivo",
+      "url": "https://open.spotify.com/track/2Dgl2lWN7geG4QxG81XtKp"
     },
     {
       "album": {
@@ -1150,24 +1150,6 @@
     {
       "album": {
         "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "date_added": "2026-05-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 162048,
-      "name": "El Mochomo (En vivo)",
-      "url": "https://open.spotify.com/track/3rBfXOCyxYSrvIq5LSc9h2"
-    },
-    {
-      "album": {
-        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7hNQQRF3XiRDSVvkC4l4bI"
       },
       "artists": [
@@ -1182,6 +1164,24 @@
       "duration_ms": 162047,
       "name": "El Mochomo - En Vivo",
       "url": "https://open.spotify.com/track/12wXSVnqH4FK0S4jQs9jhK"
+    },
+    {
+      "album": {
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162048,
+      "name": "El Mochomo - En vivo",
+      "url": "https://open.spotify.com/track/3rBfXOCyxYSrvIq5LSc9h2"
     },
     {
       "album": {
@@ -1872,24 +1872,6 @@
     {
       "album": {
         "name": "Puras De Servando ZL (En Vivo)",
-        "url": "https://open.spotify.com/album/1ui4Jxl8OkWi7GaKnkyYGU"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "date_added": "2026-05-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 143680,
-      "name": "Ismael (En Vivo)",
-      "url": "https://open.spotify.com/track/76ykOZkFwSlRNsTyQ8hib0"
-    },
-    {
-      "album": {
-        "name": "Puras De Servando ZL (En Vivo)",
         "url": "https://open.spotify.com/album/495D4mGsJo4MC2uKC2Q3oO"
       },
       "artists": [
@@ -1904,6 +1886,24 @@
       "duration_ms": 143680,
       "name": "Ismael - En Vivo",
       "url": "https://open.spotify.com/track/1KYuvBTYpOLY4aNe832oKB"
+    },
+    {
+      "album": {
+        "name": "Puras De Servando ZL (En Vivo)",
+        "url": "https://open.spotify.com/album/1ui4Jxl8OkWi7GaKnkyYGU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143680,
+      "name": "Ismael - En Vivo",
+      "url": "https://open.spotify.com/track/76ykOZkFwSlRNsTyQ8hib0"
     },
     {
       "album": {
@@ -2081,24 +2081,6 @@
     },
     {
       "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "date_added": "2026-05-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 153344,
-      "name": "La Linea Directa (En Vivo)",
-      "url": "https://open.spotify.com/track/6xvbYCizfFTX6tn3N7iRbL"
-    },
-    {
-      "album": {
         "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
         "url": "https://open.spotify.com/album/4YkZWo36gl5YrcyFxT6foX"
       },
@@ -2114,6 +2096,24 @@
       "duration_ms": 153344,
       "name": "La Linea Directa - En Vivo",
       "url": "https://open.spotify.com/track/2YqVZ6GhEoX84XhOTDH60Y"
+    },
+    {
+      "album": {
+        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153344,
+      "name": "La Linea Directa - En Vivo",
+      "url": "https://open.spotify.com/track/6xvbYCizfFTX6tn3N7iRbL"
     },
     {
       "album": {
@@ -2284,24 +2284,6 @@
     {
       "album": {
         "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "date_added": "2026-05-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149696,
-      "name": "La Pasadita (En vivo)",
-      "url": "https://open.spotify.com/track/2l9grS1b0xzLCKTWdWqeeO"
-    },
-    {
-      "album": {
-        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7hNQQRF3XiRDSVvkC4l4bI"
       },
       "artists": [
@@ -2316,6 +2298,24 @@
       "duration_ms": 149695,
       "name": "La Pasadita - En Vivo",
       "url": "https://open.spotify.com/track/0TWZuDxWncmYDJjGiHQ8qW"
+    },
+    {
+      "album": {
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2026-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149696,
+      "name": "La Pasadita - En vivo",
+      "url": "https://open.spotify.com/track/2l9grS1b0xzLCKTWdWqeeO"
     },
     {
       "album": {
@@ -2434,7 +2434,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 167168,
-      "name": "Los Consejos (En vivo)",
+      "name": "Los Consejos - En vivo",
       "url": "https://open.spotify.com/track/579bSgsArdvofFwKRQgimo"
     },
     {

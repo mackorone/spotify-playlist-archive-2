@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4A7YBu.md) - [plain]
 
 > This is Static\-X\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,523 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,518 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4A7YBu.md) - [plain]
 | 13 | [Love Dump](https://open.spotify.com/track/6kJb4WaCuc4wLBIkSJUY3n) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 4:19 |
 | 14 | [Get to the Gone](https://open.spotify.com/track/2ty1wBvzv7tEuRbXdkE6bi) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Machine](https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS) | 2:49 |
 | 15 | [Destroy All](https://open.spotify.com/track/2VYashoUmAFOKVEq5YUQjG) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Shadow Zone](https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3) | 2:18 |
-| 16 | [The Enemy](https://open.spotify.com/track/0Y2LxcRzgFFHWzoGBTlius) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Start a War](https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO) | 2:28 |
+| 16 | [Cannibal](https://open.spotify.com/track/3i7SFm1X8kHXfa9saDtxIW) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Cannibal](https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5) | 3:13 |
 | 17 | [Wisconsin Death Trip](https://open.spotify.com/track/5ctRbSANfjfqVeNGPI7oau) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 3:09 |
-| 18 | [Cannibal](https://open.spotify.com/track/3i7SFm1X8kHXfa9saDtxIW) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Cannibal](https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5) | 3:13 |
+| 18 | [The Enemy](https://open.spotify.com/track/0Y2LxcRzgFFHWzoGBTlius) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Start a War](https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO) | 2:28 |
 | 19 | [Shadow Zone](https://open.spotify.com/track/3HcUKdqS6M8dEticD9RC4G) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Shadow Zone](https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3) | 3:05 |
 | 20 | [This Is Not](https://open.spotify.com/track/4Mu23ztHx0IDwh1QRozITg) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Machine](https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS) | 2:57 |
 | 21 | [I Am](https://open.spotify.com/track/5T4Wez0kAQRMnzdHIMQDKI) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:47 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4A7YBu.md) - [plain]
 | 42 | [Terrible Lie \- Bonus Track](https://open.spotify.com/track/4K0aSGvZHYAwdinsncDhvT) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 2](https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk) | 4:03 |
 | 43 | [Head](https://open.spotify.com/track/1zLhzxd2qAs9fcWElOLOI2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Beneath...Between...Beyond...](https://open.spotify.com/album/5Gmv5JYxVuXAVexz5fTSdr) | 2:46 |
 | 44 | [Terminal](https://open.spotify.com/track/080foaXWDJpI51Mg8FZkfn) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Cult of Static](https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc) | 3:37 |
-| 45 | [No Submission](https://open.spotify.com/track/00AxXSPBavEKf4hwgX6ZMo) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Cannibal](https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5) | 2:41 |
-| 46 | [Structural Defect](https://open.spotify.com/track/59ej8sGCYuLwaAR3EDSOmR) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Machine](https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS) | 3:39 |
+| 45 | [Structural Defect](https://open.spotify.com/track/59ej8sGCYuLwaAR3EDSOmR) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Machine](https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS) | 3:39 |
+| 46 | [No Submission](https://open.spotify.com/track/00AxXSPBavEKf4hwgX6ZMo) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Cannibal](https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5) | 2:41 |
 | 47 | [Jic Boi](https://open.spotify.com/track/3nHUUCHlIX84DXbNwdltrZ) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 2](https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk) | 2:58 |
 | 48 | [Lunatic](https://open.spotify.com/track/1I4g0zU8WQ73sRd64QPYmw) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Cult of Static](https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc) | 3:35 |
 | 49 | [Hip Hop](https://open.spotify.com/track/1UCVgSDDlH4vJ0jI4txWXP) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf), [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD) | [Loud Rocks](https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu) | 3:52 |
 | 50 | [Stay Alive](https://open.spotify.com/track/044X4VAFlD4p87OKU1VdGd) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 2](https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk) | 3:46 |
 
-Snapshot ID: `apDPgAAAAABIiG9RrMeVaqzwTXJJvW9t`
+Snapshot ID: `apIhAAAAAADwCvgw7lsX2MMM4Imn25/3`

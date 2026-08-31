@@ -1,6 +1,6 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 83548,
+  "num_followers": 83609,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,26 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "Iwo Loba",
+        "url": "https://open.spotify.com/album/41TyHM9fcGLKecb3k6zJyp"
+      },
+      "artists": [
+        {
+          "name": "Ucious Music",
+          "url": "https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa"
+        },
+        {
+          "name": "THEOPHILUS SUNDAY",
+          "url": "https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB"
+        }
+      ],
+      "duration_ms": 893936,
+      "name": "Iwo Loba",
+      "url": "https://open.spotify.com/track/27YFofQ1E31ldqdR6wqA7F"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Deep Wells",
         "url": "https://open.spotify.com/album/1xO9FgOlSAHPcIAQ9H8G4z"
       },
@@ -647,22 +667,6 @@
       "duration_ms": 201000,
       "name": "Elohim Adonai (Live)",
       "url": "https://open.spotify.com/track/73k2BArdQNxNF899zbTMEX"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "The Zamar Experience",
-        "url": "https://open.spotify.com/album/4leEZEGBNamPXVBRUqDUQa"
-      },
-      "artists": [
-        {
-          "name": "Faith Captain",
-          "url": "https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK"
-        }
-      ],
-      "duration_ms": 564250,
-      "name": "Intense Spontaneous Worship",
-      "url": "https://open.spotify.com/track/3Q4IU160DfWbjRJnRVZwe0"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -687,22 +691,18 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Iwo Loba",
-        "url": "https://open.spotify.com/album/41TyHM9fcGLKecb3k6zJyp"
+        "name": "The Zamar Experience",
+        "url": "https://open.spotify.com/album/4leEZEGBNamPXVBRUqDUQa"
       },
       "artists": [
         {
-          "name": "Ucious Music",
-          "url": "https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa"
-        },
-        {
-          "name": "THEOPHILUS SUNDAY",
-          "url": "https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB"
+          "name": "Faith Captain",
+          "url": "https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK"
         }
       ],
-      "duration_ms": 893936,
-      "name": "Iwo Loba",
-      "url": "https://open.spotify.com/track/27YFofQ1E31ldqdR6wqA7F"
+      "duration_ms": 564250,
+      "name": "Intense Spontaneous Worship",
+      "url": "https://open.spotify.com/track/3Q4IU160DfWbjRJnRVZwe0"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/2RXbpRdcxIq513gWw7tgn7"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "You Cover Me",
-        "url": "https://open.spotify.com/album/3MpNFst8nlIyBLSt17ErjT"
-      },
-      "artists": [
-        {
-          "name": "Abbey Ojomu",
-          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
-        }
-      ],
-      "duration_ms": 1078359,
-      "name": "You Cover Me",
-      "url": "https://open.spotify.com/track/37JvyLbD2sZqJb0xVYE80U"
-    },
-    {
       "added_at": "2025-08-29 00:01:17",
       "album": {
         "name": "Joy Chant",
@@ -811,6 +795,22 @@
       "duration_ms": 531724,
       "name": "Joy Chant",
       "url": "https://open.spotify.com/track/4FaVSby2tGf0H9tg10d6pH"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "You Cover Me",
+        "url": "https://open.spotify.com/album/3MpNFst8nlIyBLSt17ErjT"
+      },
+      "artists": [
+        {
+          "name": "Abbey Ojomu",
+          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
+        }
+      ],
+      "duration_ms": 1078359,
+      "name": "You Cover Me",
+      "url": "https://open.spotify.com/track/37JvyLbD2sZqJb0xVYE80U"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/70GaF6ifYZpt4i2IQNfw2y"
     },
     {
-      "added_at": "2025-03-07 00:01:32",
-      "album": {
-        "name": "In This Place/Liyabasebenzela (Live At Carnival City, 2024)",
-        "url": "https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD"
-      },
-      "artists": [
-        {
-          "name": "Xolly Mncwango",
-          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
-        }
-      ],
-      "duration_ms": 393053,
-      "name": "In This Place - Live At Carnival City, 2024",
-      "url": "https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON"
-    },
-    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "The Zamar Experience",
@@ -1183,6 +1167,22 @@
       "duration_ms": 974624,
       "name": "In His Presence",
       "url": "https://open.spotify.com/track/1K5rXNAbWyOhDpNXFK9Hd1"
+    },
+    {
+      "added_at": "2025-03-07 00:01:32",
+      "album": {
+        "name": "In This Place/Liyabasebenzela (Live At Carnival City, 2024)",
+        "url": "https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "duration_ms": 393053,
+      "name": "In This Place - Live At Carnival City, 2024",
+      "url": "https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1345,6 +1345,38 @@
       "url": "https://open.spotify.com/track/02AYZ4WxfGl42vf7E05LbG"
     },
     {
+      "added_at": "2025-11-07 00:01:40",
+      "album": {
+        "name": "Like Fire Like Rain - Prayer Chant",
+        "url": "https://open.spotify.com/album/73QPJLOL9BkYGOYsm4hLmj"
+      },
+      "artists": [
+        {
+          "name": "Minstrel Myra",
+          "url": "https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1"
+        }
+      ],
+      "duration_ms": 901138,
+      "name": "Like Fire Like Rain - Prayer Chant",
+      "url": "https://open.spotify.com/track/4pcUzJV14FbOQVp9bsHg4E"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "The Birth of Revival",
+        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 809693,
+      "name": "Benediction",
+      "url": "https://open.spotify.com/track/2aS9WnLarRPsTSyzpzlGNU"
+    },
+    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "If God Be For Me (feat. Folabi Nuel)",
@@ -1365,52 +1397,20 @@
       "url": "https://open.spotify.com/track/3GBLldAE30bF3eAnE1z4ws"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
+      "added_at": "2025-08-01 00:01:33",
       "album": {
-        "name": "The Birth of Revival",
-        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
+        "name": "Worship Chant",
+        "url": "https://open.spotify.com/album/6hg5OCeiiEkuyXBxFn8paI"
       },
       "artists": [
         {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
         }
       ],
-      "duration_ms": 809693,
-      "name": "Benediction",
-      "url": "https://open.spotify.com/track/2aS9WnLarRPsTSyzpzlGNU"
-    },
-    {
-      "added_at": "2025-11-07 00:01:40",
-      "album": {
-        "name": "Like Fire Like Rain - Prayer Chant",
-        "url": "https://open.spotify.com/album/73QPJLOL9BkYGOYsm4hLmj"
-      },
-      "artists": [
-        {
-          "name": "Minstrel Myra",
-          "url": "https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1"
-        }
-      ],
-      "duration_ms": 901138,
-      "name": "Like Fire Like Rain - Prayer Chant",
-      "url": "https://open.spotify.com/track/4pcUzJV14FbOQVp9bsHg4E"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Let Me Want What You Want",
-        "url": "https://open.spotify.com/album/3AKHczXx1uCi5gyMYUAk2Q"
-      },
-      "artists": [
-        {
-          "name": "The Paul-Enenche Family",
-          "url": "https://open.spotify.com/artist/2L3tUlLwhfO1RkbdxmX6bT"
-        }
-      ],
-      "duration_ms": 483196,
-      "name": "Let Me Want What You Want",
-      "url": "https://open.spotify.com/track/78QThdGhUVsZVq1ieC2Wm8"
+      "duration_ms": 272500,
+      "name": "Worship Chant",
+      "url": "https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx"
     }
   ],
   "unique_name": "Worship Chants",

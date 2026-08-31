@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8YxDJqeqag.md) - [plain]
 
 > Spooky Minecraft music from every game – because it’s not Halloween without some creeper\-y vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,611 likes - 33 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,685 likes - 33 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Creator \(Music Box Version\)](https://open.spotify.com/track/4gQrYiX4TJ4YxkxLPzuOVV) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft: Tricky Trials \(Original Game Soundtrack\)](https://open.spotify.com/album/3ug2vtKk0URmKrt7ppYQst) | 1:14 |
+| 1 | [Creator \- Music Box Version](https://open.spotify.com/track/4gQrYiX4TJ4YxkxLPzuOVV) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft: Tricky Trials \(Original Game Soundtrack\)](https://open.spotify.com/album/3ug2vtKk0URmKrt7ppYQst) | 1:14 |
 | 2 | [Ballad of the Cats](https://open.spotify.com/track/2itBJTmhXvA2cInJ9aC7J6) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Beta](https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX) | 4:35 |
 | 3 | [Creeper Woods](https://open.spotify.com/track/7zyZQZGDpHPQeX8dftIGYx) | [Johan Johnson](https://open.spotify.com/artist/5M04wavkDSzPpqAzFMAjD2), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft Dungeons \(Original Game Soundtrack\)](https://open.spotify.com/album/77KIOM3IL0gaiBxvbPNws6) | 5:44 |
 | 4 | [Ancestry](https://open.spotify.com/track/36gp2gh2WU2M3KQLYQzXb0) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft: Caves & Cliffs \(Original Game Soundtrack\)](https://open.spotify.com/album/7yQIrNTf3pBu0FdyAJqTqb) | 5:43 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Czz4Q.md) - [plain]
 
 > This is Luther Vandross\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,381 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,379 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Czz4Q.md) - [plain]
 | 21 | [Bad Boy / Having a Party](https://open.spotify.com/track/6d3ic1mkWMxf5DPIW798f0) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Forever, For Always, For Love](https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi) | 5:16 |
 | 22 | [The Glow of Love](https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE), [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Glow of Love \(Original Album and Rare Tracks\)](https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye) | 6:13 |
 | 23 | [Sugar and Spice \(I Found Me a Girl\)](https://open.spotify.com/track/3IQENjEErvPxbEukFDjebv) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 4:57 |
-| 24 | [Hearts Get Broken All The Time \(But The Problem Is, This Time It's Mine\)](https://open.spotify.com/track/0Ox37YuxVMuX5F95OgoqQo) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Luther Vandross](https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS) | 5:19 |
+| 24 | [Superstar](https://open.spotify.com/track/1xjR98caFMyxOlXkvj56ZK) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Essential Luther Vandross](https://open.spotify.com/album/0JzmsNDLZ6NCc6Mc3J2UgN) | 5:38 |
 | 25 | [Promise Me](https://open.spotify.com/track/4R1DpQ9KA9ov9gXrdmDaaQ) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Forever, For Always, For Love](https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi) | 4:42 |
 | 26 | [If This World Were Mine \(with Luther Vandross\)](https://open.spotify.com/track/4fTPWK0B2Mg5Gulq8rarbb) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [The Best of Luther Vandross The Best of Love](https://open.spotify.com/album/5rrSO0mgkVmZF1qjPn0TKD) | 5:23 |
-| 27 | [Superstar](https://open.spotify.com/track/1xjR98caFMyxOlXkvj56ZK) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Essential Luther Vandross](https://open.spotify.com/album/0JzmsNDLZ6NCc6Mc3J2UgN) | 5:38 |
+| 27 | [Hearts Get Broken All The Time \(But The Problem Is, This Time It's Mine\)](https://open.spotify.com/track/0Ox37YuxVMuX5F95OgoqQo) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Luther Vandross](https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS) | 5:19 |
 | 28 | [Power of Love / Love Power](https://open.spotify.com/track/6ep87j7rt6j8Fok55N9NOs) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Power Of Love](https://open.spotify.com/album/4mSFu3YmqIHfPngFDqZl4f) | 6:42 |
 | 29 | [Think About You](https://open.spotify.com/track/0sIkUPLns02tRPM7pjQEj4) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 5:04 |
 | 30 | [Better Love](https://open.spotify.com/track/1QzCnfF0AxZ3veY9tOw0h7) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Forever, For Always, For Love](https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi) | 6:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Czz4Q.md) - [plain]
 | 49 | [The Lady Is A Tramp](https://open.spotify.com/track/0JjVhWJGDKHADulJ8EjVAL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Duets \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya) | 3:24 |
 | 50 | [It's All About You](https://open.spotify.com/track/18IZbwBwZwZIcuq9jR0Bmn) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [One Night With You: The Best Of Love, Volume 2](https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB) | 5:27 |
 
-Snapshot ID: `apDPgAAAAAAqwZXu+uCbMmPpevYcqCJe`
+Snapshot ID: `apIhAAAAAABMHS7ocOWSNYPGa//amBuh`

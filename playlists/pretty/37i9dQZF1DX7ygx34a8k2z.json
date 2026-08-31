@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 320906,
+  "num_followers": 320980,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "The Mollusk",
-        "url": "https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC"
-      },
-      "artists": [
-        {
-          "name": "Ween",
-          "url": "https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu"
-        }
-      ],
-      "duration_ms": 126946,
-      "name": "Ocean Man",
-      "url": "https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Resident Alien",
         "url": "https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 299506,
       "name": "In the Meantime",
       "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "The Mollusk",
+        "url": "https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC"
+      },
+      "artists": [
+        {
+          "name": "Ween",
+          "url": "https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu"
+        }
+      ],
+      "duration_ms": 126946,
+      "name": "Ocean Man",
+      "url": "https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "American Water",
-        "url": "https://open.spotify.com/album/2GbNeQEg5fLtuxjr5nlIpc"
-      },
-      "artists": [
-        {
-          "name": "Silver Jews",
-          "url": "https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Random Rules",
-      "url": "https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Siamese Dream (2011 - Remaster)",
         "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 196905,
       "name": "Disarm - 2011 Remaster",
       "url": "https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "American Water",
+        "url": "https://open.spotify.com/album/2GbNeQEg5fLtuxjr5nlIpc"
+      },
+      "artists": [
+        {
+          "name": "Silver Jews",
+          "url": "https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Random Rules",
+      "url": "https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "The Boy With the Arab Strap",
-        "url": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 314066,
-      "name": "The Boy With the Arab Strap",
-      "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Ladies and gentlemen we are floating in space",
         "url": "https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 234053,
       "name": "Ladies and gentlemen we are floating in space",
       "url": "https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "The Boy With the Arab Strap",
+        "url": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 314066,
+      "name": "The Boy With the Arab Strap",
+      "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Under the Pink (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7LtHJM8ORJlGoZvcPU9X4U"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 305533,
-      "name": "Cornflake Girl - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7bdsNVQUGs9O0Qc8FtTKPn"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Alien Lanes",
         "url": "https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 93306,
       "name": "Game Of Pricks",
       "url": "https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Under the Pink (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7LtHJM8ORJlGoZvcPU9X4U"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "duration_ms": 305533,
+      "name": "Cornflake Girl - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7bdsNVQUGs9O0Qc8FtTKPn"
     },
     {
       "added_at": "2025-01-15 04:11:50",

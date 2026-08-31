@@ -4,7 +4,7 @@
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-356 songs - 20 hr 15 min
+357 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Locomotiva Ibiza 2099 feat\. VTSS](https://open.spotify.com/track/3VuPtliMz0oXO9bDnA1CHq) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Locomotiva Ibiza 2099 I](https://open.spotify.com/album/42Jkaomtfh39feqVwQKvUm) | 6:39 | 2024-08-02 | 2024-10-12 |
 | [London's On Fire](https://open.spotify.com/track/3kFGYfnYWraDZ8iAWx45QR) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [London's On Fire](https://open.spotify.com/album/3LqNJnokJGQgkYzskHNJGB) | 2:59 | 2025-08-07 |  |
 | [Long Goodbye](https://open.spotify.com/track/0Xl9DRIQFa3PinMxQu4b7t) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Long Goodbye](https://open.spotify.com/album/2nMTpO7M30ejb2XkIWotGX) | 3:34 | 2026-06-25 | 2026-07-24 |
+| [Long Jacket](https://open.spotify.com/track/7wFwf1j6nn7uneEF6oTAiR) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Long Jacket](https://open.spotify.com/album/4fuu8b29TGQdCknJDSPzr1) | 3:31 | 2026-08-27 |  |
 | [Lose Control](https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Lose Control](https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE) | 2:53 | 2023-05-19 | 2023-10-06 |
 | [Losing Control](https://open.spotify.com/track/0T7T8wnGrWKyhTUf8yWHmh) | [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Losing Control](https://open.spotify.com/album/3kAY3LFZDj5VyvtQWBoXpO) | 3:37 | 2026-08-27 |  |
 | [Loud Places](https://open.spotify.com/track/1jy7SkRcmBCTcv4ZMtwz29) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh) | 4:43 | 2025-05-28 | 2026-05-02 |
@@ -238,7 +239,7 @@
 | [MYSTERY OF RAW](https://open.spotify.com/track/2v4NP088R6LUgFBDF9JqBg) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [MYSTERY OF RAW](https://open.spotify.com/album/4bIsm7G40iX21BGY567Xaw) | 3:48 | 2026-08-13 |  |
 | [neck](https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [neck](https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7) | 3:40 | 2026-05-01 |  |
 | [Needle On The Record](https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record](https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ) | 3:06 | 2023-11-24 | 2024-07-12 |
-| [Never Come Back](https://open.spotify.com/track/0Ej6OBBtMvhjaJvtt1vtUt) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/34iY3hgyKCn1EJe6YVNFro) | 5:05 | 2025-05-28 |  |
+| [Never Come Back](https://open.spotify.com/track/0Ej6OBBtMvhjaJvtt1vtUt) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/34iY3hgyKCn1EJe6YVNFro) | 5:05 | 2025-05-28 | 2026-08-31 |
 | [New Bottega](https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH) | 3:08 | 2025-05-16 | 2026-05-02 |
 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 | 2025-08-14 | 2026-05-02 |
 | [No Time \(feat\. SadBoi\)](https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [No Time \(feat\. SadBoi\)](https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe) | 2:51 | 2024-08-02 | 2025-05-17 |

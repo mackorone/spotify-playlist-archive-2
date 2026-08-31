@@ -965,6 +965,24 @@
     },
     {
       "album": {
+        "name": "Arms Around Me, Baby",
+        "url": "https://open.spotify.com/album/6mMFVbZYxDWs2rdEyG2noO"
+      },
+      "artists": [
+        {
+          "name": "SUM SUN",
+          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169263,
+      "name": "Arms Around Me, Baby",
+      "url": "https://open.spotify.com/track/3FeomJXbSe5Q2feYwcfiZT"
+    },
+    {
+      "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
@@ -11885,6 +11903,24 @@
     },
     {
       "album": {
+        "name": "Dim Sum & Then Some",
+        "url": "https://open.spotify.com/album/5IH8f1sMXmldxpE7a0VWyQ"
+      },
+      "artists": [
+        {
+          "name": "Chinese American Bear",
+          "url": "https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154097,
+      "name": "Lovely Day (\u7f8e\u597d\u7684\u4e00\u5929)",
+      "url": "https://open.spotify.com/track/63MdvkC1ccvZCFuMLz0NtX"
+    },
+    {
+      "album": {
         "name": "Studio Rio Presents: The Brazil Connection",
         "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
       },
@@ -15152,7 +15188,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 206158,
       "name": "Pool Water Confessions",
       "url": "https://open.spotify.com/track/1ahZDBeXgSjbo31UyKh7w6"
@@ -15932,7 +15968,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 215013,
       "name": "Romanticize",
       "url": "https://open.spotify.com/track/0H0eV9dVy20XMPROjYZltR"

@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uacc4\ub97c \ub6f0\uc5b4\ub118\ub294 \ub2f9\uc2e0\uc744 \uc6b4\ub3d9\uc744 \uc704\ud558\uc5ec.",
-  "num_followers": 21648,
+  "num_followers": 21658,
   "original_name": "3\ub300 1000",
   "owner": {
     "name": "Spotify",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
+        "name": "McNasty",
+        "url": "https://open.spotify.com/album/0Yz3zZhK6e0B5zUTqM5hZV"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 192378,
+      "name": "McNasty",
+      "url": "https://open.spotify.com/track/0nMwj215nyfEOER5AJWLDF"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
         "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
         "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 189373,
       "name": "LAW (Prod. Czaer)",
       "url": "https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
-        "name": "McNasty",
-        "url": "https://open.spotify.com/album/0Yz3zZhK6e0B5zUTqM5hZV"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 192378,
-      "name": "McNasty",
-      "url": "https://open.spotify.com/track/0nMwj215nyfEOER5AJWLDF"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -2023,30 +2023,6 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "Street Woman Fighter2 (SWF2) Crew Songs",
-        "url": "https://open.spotify.com/album/5oXPwd7Cn2q3bJ3pdmtiWY"
-      },
-      "artists": [
-        {
-          "name": "MAYA",
-          "url": "https://open.spotify.com/artist/4DtZvrKaqY0kYanvk27CMR"
-        },
-        {
-          "name": "COCONA",
-          "url": "https://open.spotify.com/artist/3isFRALGdJtyQQZPHqIGcf"
-        },
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "SHOW YOU CAN (Prod. Czaer, JAKOPS)",
-      "url": "https://open.spotify.com/track/5XdxtGNFQTxDiTygagtrWi"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
         "name": "LLLM",
         "url": "https://open.spotify.com/album/1sBJdYVwKXuD7xlKmcNkZm"
       },
@@ -2067,6 +2043,30 @@
       "duration_ms": 225610,
       "name": "LLLM (feat. Gaeko, ZICO) [prod. Tray B]",
       "url": "https://open.spotify.com/track/1RjqIbA7XR1ISRWXpIUpng"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
+        "name": "Street Woman Fighter2 (SWF2) Crew Songs",
+        "url": "https://open.spotify.com/album/5oXPwd7Cn2q3bJ3pdmtiWY"
+      },
+      "artists": [
+        {
+          "name": "MAYA",
+          "url": "https://open.spotify.com/artist/4DtZvrKaqY0kYanvk27CMR"
+        },
+        {
+          "name": "COCONA",
+          "url": "https://open.spotify.com/artist/3isFRALGdJtyQQZPHqIGcf"
+        },
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "SHOW YOU CAN (Prod. Czaer, JAKOPS)",
+      "url": "https://open.spotify.com/track/5XdxtGNFQTxDiTygagtrWi"
     }
   ],
   "unique_name": "3\ub300 1000",

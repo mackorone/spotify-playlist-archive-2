@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 
 > This is Carlos Y Jose\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,099 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,111 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Amores Fingidos](https://open.spotify.com/track/2PYfmBDAfXilm300zaMTIC) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 2:59 |
 | 2 | [Flor de Capomo](https://open.spotify.com/track/20bbI0hHSrKeJ6wXp0Nvcb) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Puros Exitos](https://open.spotify.com/album/1YCdH8G9ELHRzfmpJ7c0pl) | 2:48 |
 | 3 | [El Odio De Dos Hermanos](https://open.spotify.com/track/4W68toxKeBFFigz1dDb4GM) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tesoros Musicales](https://open.spotify.com/album/4X2ArLeTEreO7FOeKSNGFv) | 3:01 |
-| 4 | [Santos Cantú](https://open.spotify.com/track/44y0RPcKAsJ9lTs5EJgMbA) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Norteños Con Carlos Y José](https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z) | 3:01 |
+| 4 | [Árboles de la Barranca](https://open.spotify.com/track/7vTARQmg9bvTRYmNRuFfyw) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Nuestros Grandes 20 Éxitos](https://open.spotify.com/album/7zxWIhpXrCOey5PpAeT5Vj) | 2:21 |
 | 5 | [El Chubasco](https://open.spotify.com/track/0ESzwDSlzdKpaJ6CkyAe5x) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 3:08 |
-| 6 | [Árboles de la Barranca](https://open.spotify.com/track/7vTARQmg9bvTRYmNRuFfyw) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Nuestros Grandes 20 Éxitos](https://open.spotify.com/album/7zxWIhpXrCOey5PpAeT5Vj) | 2:21 |
+| 6 | [Santos Cantú](https://open.spotify.com/track/44y0RPcKAsJ9lTs5EJgMbA) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Norteños Con Carlos Y José](https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z) | 3:01 |
 | 7 | [El Vino Y La Parranda](https://open.spotify.com/track/1nDgTKTlFu1MnY4AD1INKE) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Lo Más Escuchado De](https://open.spotify.com/album/1IVNmS6tX19lyAVSYpx3Do) | 3:12 |
-| 8 | [El Quemador](https://open.spotify.com/track/2O2iXnudGx7AjWnwxotGIS) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Norteños Con Carlos Y José](https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z) | 3:09 |
+| 8 | [Cielo Azul, Cielo Nublado](https://open.spotify.com/track/5WTLB5uAqPd1r7J0KHkatB) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Me Voy De Estas Tierras](https://open.spotify.com/album/1wdXQGOKGS3ihbtKKASPc3) | 2:16 |
 | 9 | [Que Tristeza Me Acompaña](https://open.spotify.com/track/12lb8hUUEOihoN94n01UHw) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 2:26 |
-| 10 | [Cielo Azul, Cielo Nublado](https://open.spotify.com/track/5WTLB5uAqPd1r7J0KHkatB) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Me Voy De Estas Tierras](https://open.spotify.com/album/1wdXQGOKGS3ihbtKKASPc3) | 2:16 |
+| 10 | [El Quemador](https://open.spotify.com/track/2O2iXnudGx7AjWnwxotGIS) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Norteños Con Carlos Y José](https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z) | 3:09 |
 | 11 | [El Rico Pobre](https://open.spotify.com/track/0lgGxTTO3bfbu5ioV6sPSP) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [30 Años De Cabalgata Norteña](https://open.spotify.com/album/4VUdMMWkygfJVbhYQyCMt1) | 3:08 |
 | 12 | [La Patrulla 05](https://open.spotify.com/track/4ygR8e1Qyb77idygs0EYcd) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Patrulla 05 Corridos Con](https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq) | 2:51 |
 | 13 | [La Yerbabuena](https://open.spotify.com/track/35h1lWDAuynGZ1EoZRBpqW) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 2:51 |
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 | 19 | [Eso Y Más](https://open.spotify.com/track/687VIkOLpnz5MX6jkd0nkS) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Lo Dulce Y Lo Amargo](https://open.spotify.com/album/1GiLhT7ASsEedLKoViDQOJ) | 2:22 |
 | 20 | [El Vengador de Federales](https://open.spotify.com/track/4q3VFAaCGyMaQhjYEE5oR2) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Nuestros Grandes 20 Éxitos](https://open.spotify.com/album/7zxWIhpXrCOey5PpAeT5Vj) | 2:56 |
 | 21 | [El Corrido De La Amapola](https://open.spotify.com/track/3h1RRFYvik2RmsA1UNxHMo) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 3:09 |
-| 22 | [Pescadores De Ensenada](https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos](https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R) | 2:54 |
-| 23 | [La Cuerva De La Petaca](https://open.spotify.com/track/5ZkChrkppdAUnav4LDxVZ5) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos De Lujo](https://open.spotify.com/album/1mgpi8kIeS9Vz8Fa9W0tbh) | 3:39 |
-| 24 | [Asesino A Sueldo](https://open.spotify.com/track/0T9MBxiBJznCdjdw2QMMlV) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [¡Ay Que Triste!](https://open.spotify.com/album/6M886Mg1U15kSK4lACU9H5) | 3:06 |
+| 22 | [Asesino A Sueldo](https://open.spotify.com/track/0T9MBxiBJznCdjdw2QMMlV) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [¡Ay Que Triste!](https://open.spotify.com/album/6M886Mg1U15kSK4lACU9H5) | 3:06 |
+| 23 | [Pescadores De Ensenada](https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos](https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R) | 2:54 |
+| 24 | [La Cuerva De La Petaca](https://open.spotify.com/track/5ZkChrkppdAUnav4LDxVZ5) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos De Lujo](https://open.spotify.com/album/1mgpi8kIeS9Vz8Fa9W0tbh) | 3:39 |
 | 25 | [Corrido De Cruz Estrada Aka Crucillo Estrada](https://open.spotify.com/track/2fT6krdKBX5bWSm4mnsA3G) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Es Imposible](https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY) | 2:48 |
 | 26 | [Maquina 501](https://open.spotify.com/track/4kHm7xFUDRcvpos1q8o8tN) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Con](https://open.spotify.com/album/2XJszaQU3ezbZyYn9JUhKR) | 3:00 |
 | 27 | [La Emboscada Del Gallo](https://open.spotify.com/track/1IbrUgORKmQVk6lbqY73eW) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Patrulla 05 Corridos Con](https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 | 49 | [Cheque Al Portador](https://open.spotify.com/track/4sAGz94N3HDfCR2IrvoUrS) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [30 Años De Cabalgata Norteña](https://open.spotify.com/album/4VUdMMWkygfJVbhYQyCMt1) | 2:31 |
 | 50 | [Ya Viene Amaneciendo Aka Comprendeme](https://open.spotify.com/track/0K0NM2fZ5VdNsdJTtrhEQt) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Una Noche Serena Y Obscura](https://open.spotify.com/album/00Sj4MCBwW7upNInYNuM0A) | 3:00 |
 
-Snapshot ID: `apDPgAAAAAB1Knz/KENINeANgiUdMBuq`
+Snapshot ID: `apIhAAAAAAAChXAeYbIyStMA8KGx7NlR`

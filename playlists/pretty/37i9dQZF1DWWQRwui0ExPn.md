@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,509,390 likes - 224 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,509,712 likes - 224 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

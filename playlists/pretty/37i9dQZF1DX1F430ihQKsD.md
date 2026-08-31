@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal w/ Bouvier Normal
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,672 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,695 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

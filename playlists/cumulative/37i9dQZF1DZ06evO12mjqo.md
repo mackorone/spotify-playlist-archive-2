@@ -4,7 +4,7 @@
 
 > This is Ghost\. The essential tracks, all in one playlist.
 
-112 songs - 8 hr 23 min
+114 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Deus In Absentia](https://open.spotify.com/track/07Z6ZLq3AL67uETyThNgoH) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2) | 5:37 | 2023-06-30 | 2023-08-17 |
 | [Deus In Absentia](https://open.spotify.com/track/5t8Qb2sDIgyj57pcrEjsCC) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 5:37 | 2022-05-30 | 2024-08-18 |
 | [Devil Church](https://open.spotify.com/track/2o2UpxEGdYpJqSAAmEgpRD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 1:06 | 2022-05-30 | 2023-04-16 |
+| [Devil Church \- Live from Mexico City](https://open.spotify.com/track/0WRIAl1b5gYX1nog5qE1Z2) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [2 Big To Rig \(Original Motion Picture Soundtrack / Live\)](https://open.spotify.com/album/421FQJqvQRTfRkTpHSLljx) | 1:02 | 2026-08-31 |  |
 | [Elizabeth](https://open.spotify.com/track/2zQyXaCpKG0yanNaCkjxNt) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 4:01 | 2022-07-20 |  |
 | [Elizabeth](https://open.spotify.com/track/5aFBJJDEPNFrZVCPUqeDe9) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J) | 4:01 | 2022-05-30 | 2025-07-22 |
 | [Enter Sandman](https://open.spotify.com/track/08fNsjCflSbHEPDCvAtGnR) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Enter Sandman](https://open.spotify.com/album/3woAIned4wtKWyy5AZqg5v) | 3:51 | 2022-05-30 | 2025-04-27 |
@@ -70,7 +71,7 @@
 | [Miasma](https://open.spotify.com/track/7Le5UXQgzpsbK8oaEYGG6T) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 5:17 | 2024-05-10 | 2024-06-22 |
 | [Miasma \- Live at the Forum / 2023](https://open.spotify.com/track/5qFpoAJFWSisy5va1gAiaS) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Rite Here Rite Now \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0EmgzguOzsDNC8yZzxK8Zi) | 6:18 | 2024-08-02 | 2025-04-25 |
 | [Missilia Amori](https://open.spotify.com/track/7K0STtjZ6j4ovD5K9Fqmlr) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 4:31 | 2025-04-27 | 2025-05-17 |
-| [Missionary Man](https://open.spotify.com/track/1YOaQUUsEzMbxk1sfmoNVE) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 3:42 | 2022-05-30 |  |
+| [Missionary Man](https://open.spotify.com/track/1YOaQUUsEzMbxk1sfmoNVE) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 3:42 | 2022-05-30 | 2026-08-31 |
 | [Missionary Man](https://open.spotify.com/track/29NX2dMLjvmtD8HQek1AFQ) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN) | 3:42 | 2023-06-14 | 2025-07-18 |
 | [Monstrance Clock](https://open.spotify.com/track/70dOLeFZQqrmIHdcJcazoT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 5:53 | 2022-05-30 |  |
 | [Mummy Dust](https://open.spotify.com/track/0zL2CizOnEyMoT90JIZ8FF) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN) | 4:07 | 2022-05-31 | 2022-06-08 |
@@ -101,7 +102,8 @@
 | [See The Light](https://open.spotify.com/track/7HbyELpx9fepfB4Flz20CG) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 4:05 | 2022-05-30 | 2025-07-26 |
 | [Spillways](https://open.spotify.com/track/0WHtcCpZnoyFlQg3Mf2cdN) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 3:16 | 2022-05-30 |  |
 | [Spirit](https://open.spotify.com/track/3R3c84u88FEEMpiaBnAPLR) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2) | 5:15 | 2025-05-10 | 2025-07-16 |
-| [Spirit](https://open.spotify.com/track/6NlyLv5ytvhE4xOWN47V0g) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 5:15 | 2022-05-30 |  |
+| [Spirit](https://open.spotify.com/track/6NlyLv5ytvhE4xOWN47V0g) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 5:15 | 2022-05-30 | 2026-08-31 |
+| [Spirit \- Live from Mexico City](https://open.spotify.com/track/3tLHCRTjf7NscTAkocZ8oL) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [2 Big To Rig \(Original Motion Picture Soundtrack / Live\)](https://open.spotify.com/album/421FQJqvQRTfRkTpHSLljx) | 4:56 | 2026-08-31 |  |
 | [Spöksonat](https://open.spotify.com/track/45E7Yc6VNL0Qoo216EoD0R) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 0:56 | 2024-02-26 | 2024-06-15 |
 | [Spöksonat](https://open.spotify.com/track/5yLxJlzVcyXXFhljuklZx6) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN) | 0:56 | 2023-12-16 | 2023-12-24 |
 | [Square Hammer](https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 3:59 | 2022-07-17 | 2023-03-10 |

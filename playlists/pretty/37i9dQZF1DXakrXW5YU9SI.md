@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Słońce, leżak i letnia błogość w dźwiękach ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,298 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,292 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 3 | [Mirafiori](https://open.spotify.com/track/2ypGq1U1VIrFZCdy1IBFz9) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Mirafiori](https://open.spotify.com/album/0l6bmzWH6Fxc84e3AZ8LMx) | 2:46 |
 | 4 | [I Can’t Wait](https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:37 |
 | 5 | [Nie zaśpiewam Twojej mamie](https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm) | [Briela](https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf) | [Nie zaśpiewam Twojej mamie](https://open.spotify.com/album/5D6T9j8UsbzwBrn29X1Muh) | 3:10 |
-| 6 | [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 |
+| 6 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
 | 7 | [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 |
-| 8 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
+| 8 | [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 |
 | 9 | [honeybee](https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:43 |
 | 10 | [Nadwodne miasto](https://open.spotify.com/track/5CWurWx4wdICZSTsXEe3OZ) | [Natalia Marczuk](https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62) | [Nadwodne miasto](https://open.spotify.com/album/0CIuv9E6CIKkK395Ha63Lb) | 3:37 |
 | 11 | [Będzie pięknie](https://open.spotify.com/track/1AQk1NyfDFar6N8h7sqGFo) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Będzie pięknie](https://open.spotify.com/album/0aScZB7r4zTGdeGlUlmxXY) | 2:27 |
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 34 | [The Wave](https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [The Wave](https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj) | 3:22 |
 | 35 | [Look at My Life](https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Look at My Life](https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr) | 3:10 |
 | 36 | [Promise?](https://open.spotify.com/track/1A1rVBUWzL4wOM6gSR30lg) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:12 |
-| 37 | [When He’s Gone](https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [When He’s Gone](https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA) | 3:06 |
-| 38 | [tylko kochaj mnie](https://open.spotify.com/track/5cYTaKj5sd6gQLqsLptOsQ) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [tylko kochaj mnie](https://open.spotify.com/album/7Lq0KISXdnGyMfdlsWNgGi) | 2:41 |
+| 37 | [tylko kochaj mnie](https://open.spotify.com/track/5cYTaKj5sd6gQLqsLptOsQ) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [tylko kochaj mnie](https://open.spotify.com/album/7Lq0KISXdnGyMfdlsWNgGi) | 2:41 |
+| 38 | [When He’s Gone](https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [When He’s Gone](https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA) | 3:06 |
 | 39 | [na błysk](https://open.spotify.com/track/02xdXJE0MMWJP9LGI7W1tS) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [na błysk](https://open.spotify.com/album/6l4WefLj0rzKsHc2sNgkwG) | 3:49 |
 | 40 | [From Down Here](https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [From Down Here](https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u) | 4:01 |
 | 41 | [lovergirl](https://open.spotify.com/track/1eZyd1mtOmlQu3YhSYmes7) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket deluxe](https://open.spotify.com/album/68faVaLSG9EnxmOgOJwGFX) | 3:21 |
-| 42 | [Stygnie lato](https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Stygnie lato](https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn) | 3:01 |
-| 43 | [trees for the woods](https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [trees for the woods](https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a) | 4:07 |
+| 42 | [trees for the woods](https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [trees for the woods](https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a) | 4:07 |
+| 43 | [Stygnie lato](https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Stygnie lato](https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn) | 3:01 |
 | 44 | [Questions](https://open.spotify.com/track/0eaFxL9uBQJlbt1mKXAdZI) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Florescence](https://open.spotify.com/album/0MOWqwwatV0LXDxhBZg5qO) | 3:07 |
 | 45 | [After All](https://open.spotify.com/track/1C3SJEsAIPrHNz6bNZepoQ) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [After All](https://open.spotify.com/album/2T3aSEeEs6pXm9OpS9tWPq) | 4:12 |
 | 46 | [Później Ci opowiem](https://open.spotify.com/track/2QdFZvfxgt0wI95l9gRNon) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Później Ci opowiem](https://open.spotify.com/album/1H0QeC1ZHgBLnIaYoB5BPh) | 3:05 |
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 49 | [Bluffin' \(with The Kid LAROI\)](https://open.spotify.com/track/0eh0TQK1S209s9kovG0EWf) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Piss In The Wind \(Deluxe\)](https://open.spotify.com/album/5xiwCNC26RvgfwElNmIJoL) | 2:34 |
 | 50 | [Nie ma miejsca jak dom](https://open.spotify.com/track/2W61aot3YavDVRABULNHAy) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Nie ma miejsca jak dom](https://open.spotify.com/album/2cMSGsICanADztWRLYbEZw) | 3:18 |
 | 51 | [Dwa dni](https://open.spotify.com/track/51NPACvDHPcKsyagJ8y3xE) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [ETER](https://open.spotify.com/album/1SzOjjlqWBxvyE1XcfFk3W) | 2:21 |
-| 52 | [The Art Of Letting Go](https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 3:07 |
-| 53 | [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 |
+| 52 | [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 |
+| 53 | [The Art Of Letting Go](https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 3:07 |
 | 54 | [Odkochaj](https://open.spotify.com/track/0ALsDccwFMj8QznHPah8fn) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Odkochaj](https://open.spotify.com/album/536Y6k6glJY1fMr8jlyZPO) | 2:43 |
 | 55 | [When I Get Drunk \(I Want You Boy\)](https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [When I Get Drunk \(I Want You Boy\)](https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7) | 3:25 |
 | 56 | [Stumilowy las](https://open.spotify.com/track/02AehIZHv9EAaaSb1CC4rE) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Stumilowy las](https://open.spotify.com/album/2pdqY6uB2Zr9sWHbsZzOBd) | 4:42 |
 | 57 | [Whale Call](https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Whale Call](https://open.spotify.com/album/3ZEV0pHcy7vDNVcEkm5Wi0) | 4:19 |
 | 58 | [we should talk](https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:04 |
 | 59 | [In The Night](https://open.spotify.com/track/2bZfAudzSHbqXRS1o9BBu7) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [In The Night](https://open.spotify.com/album/5X0ukxkeLLHxCU2RDG9Nwm) | 2:58 |
-| 60 | [Były momenty](https://open.spotify.com/track/2JZvc0rGooaJDY7aMXANxh) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Były momenty](https://open.spotify.com/album/3y7OsAGPH3VMtbyPk8BnSp) | 3:14 |
+| 60 | [Czy będziemy się pamiętać?](https://open.spotify.com/track/4WYmfMKeHod1N8Ex321lER) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Czy będziemy się pamiętać?](https://open.spotify.com/album/1kRRo9t5kgBQTvGnDqBVCR) | 2:50 |
 
 Snapshot ID: `AAAAANRAjS8NwHWOziyCkJ3ZeIMETS51`

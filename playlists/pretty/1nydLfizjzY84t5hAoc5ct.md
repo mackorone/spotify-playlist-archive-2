@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,423 likes - 177 songs - 9 hr 53 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,421 likes - 178 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,5 +185,6 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 175 | [The Red Dress](https://open.spotify.com/track/2ZpO90oiJOPh6uNhmDarw2) | [Time Spent Driving](https://open.spotify.com/artist/3FRK7L4QCaaSAY8bPD6EUA) | [Lost Leaves](https://open.spotify.com/album/4iKwobQq1Sm48jl25B265P) | 3:59 |
 | 176 | [Take Me Home](https://open.spotify.com/track/5lPtbctnX3adI7zg4ysTEW) | [In\-Motion](https://open.spotify.com/artist/7M966gAnsOIc9z0FFQwBea) | [Take Me Home](https://open.spotify.com/album/4GNPA7AIuRfIHNuGwiS7Ew) | 4:04 |
 | 177 | [Ocean Beach](https://open.spotify.com/track/732OoMnt9lHm1T5RcPwtuS) | [Yenn](https://open.spotify.com/artist/6QRKylVfrExn0cIOQzpAIp), [Jacob Tompkins](https://open.spotify.com/artist/3steuCKTOPNk0zjtR5Hfbg) | [Ocean Beach](https://open.spotify.com/album/2uqnJtzSjq5RHXFblkLPCw) | 2:40 |
+| 178 | [Rise \- Sin Clair Rework](https://open.spotify.com/track/0yN84xG47V1DidUjC4VGcd) | [Man of Moon](https://open.spotify.com/artist/0aScxC3sfFGiG2U7xoyy49), [Sin Clair](https://open.spotify.com/artist/0z05a8HVeCFl1QBGCqHv62) | [MACHINISM \(The Remixes\)](https://open.spotify.com/album/7koanWNZfIhlXUY6zDTtBL) | 3:22 |
 
-Snapshot ID: `AACCTcQAfWRzclN5lty8AAtj4TNWfNdj`
+Snapshot ID: `AACCTsvMzTO3g2iaLAm8SxdmCaW4cyWx`

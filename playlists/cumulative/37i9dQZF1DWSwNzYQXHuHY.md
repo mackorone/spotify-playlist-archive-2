@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-369 songs - 20 hr 11 min
+370 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [as if I’d be crazy enough](https://open.spotify.com/track/4rYzZhwwSALvfiejz5ykT7) | [Ivory](https://open.spotify.com/artist/2ph5aVRX58oaGMWNid2P1p), [SO HYUN](https://open.spotify.com/artist/5VLiLdWwqGX5eyXqog2le1) | [as if I’d be crazy enough](https://open.spotify.com/album/0WpMxmeW18dcWQwHLESPSy) | 3:00 | 2025-09-03 | 2025-10-01 |
 | [At the Cinema](https://open.spotify.com/track/1fVdYz0JuL3p2petdaDGkP) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Moonlight](https://open.spotify.com/album/6js0OoNg9GZleGi2B2QN3b) | 3:50 | 2022-05-11 | 2022-07-22 |
 | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Naeun](https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc) | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO) | 3:27 | 2025-02-10 |  |
+| [banana milk](https://open.spotify.com/track/3KVR87meqlCI88EXG2Wrad) | [YECHAN](https://open.spotify.com/artist/0ECjzwXONQbrKyswxTy3mr), [EID®echoesindream.](https://open.spotify.com/artist/1ErmY2nlIGPPVcczrNFLdv), [AVN](https://open.spotify.com/artist/0I7AyV5oybjdCeChQlltqm) | [banana milk](https://open.spotify.com/album/3aljuClVbRAuNYCDdtHbtY) | 2:40 | 2026-07-03 |  |
 | [Bashfulness](https://open.spotify.com/track/65xSudQzn6jM0QRXcSMcXU) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [bright \#4](https://open.spotify.com/album/39B1ZrREuZZ1U0W70xFUAh) | 3:25 | 2025-02-10 | 2025-11-07 |
 | [be like YOU](https://open.spotify.com/track/2OpFlqsiJHetPoNMWpHJhE) | [JUNGSOOMIN](https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc) | [be like YOU](https://open.spotify.com/album/4DvrkrGMiV3rl5GaoskeG8) | 2:34 | 2024-05-14 | 2024-07-08 |
 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 | 2023-07-07 | 2026-07-04 |
@@ -287,7 +288,7 @@
 | [Still In Time](https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Spring Fever, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/3EhkvrtYTudwpxtOnxvWuW) | 2:53 | 2026-01-29 |  |
 | [Story of my friend \(feat\. Skinny Brown\)](https://open.spotify.com/track/7eDvrtFJwLFfVWt63reYJZ) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Story of my friend \(feat\. Skinny Brown\)](https://open.spotify.com/album/6puzhBRSU5yyTRq3s8TkXg) | 3:40 | 2025-04-22 | 2025-05-28 |
 | [Strawberry Smoothie](https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Farmers \(Original Soundtrack\)](https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j) | 2:37 | 2022-06-20 | 2022-09-12 |
-| [Stuck with You](https://open.spotify.com/track/3IJASXMNdfp8z130pvy8p8) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [LOVECHAPTER](https://open.spotify.com/album/4taRaj6jpJSs4cp5KFbPJZ) | 2:48 | 2026-03-10 |  |
+| [Stuck with You](https://open.spotify.com/track/3IJASXMNdfp8z130pvy8p8) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [LOVECHAPTER](https://open.spotify.com/album/4taRaj6jpJSs4cp5KFbPJZ) | 2:48 | 2026-03-10 | 2026-08-31 |
 | [Stupid \(feat\. Amin & H!\)](https://open.spotify.com/track/6tgPZHN5aSPU3IFxcG7V6r) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [H!](https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ) | [Weekday is long, Weekend is gone](https://open.spotify.com/album/2P4txqRH8hlDQLBoMnXlIl) | 2:55 | 2022-08-12 | 2022-09-03 |
 | [Sunday to Monday](https://open.spotify.com/track/4GlfPmVBquQ8uNV60FVE4B) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Woori The Virgin, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/09jEbMGUNe8el2xPyJrhDj) | 3:42 | 2022-06-20 | 2022-07-24 |
 | [Superwoman](https://open.spotify.com/track/0dCnDWWk79rSoYxcVDpuEc) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Superwoman](https://open.spotify.com/album/2TE6FMZoC19KLaUNb89ChV) | 3:19 | 2022-05-11 | 2022-07-29 |

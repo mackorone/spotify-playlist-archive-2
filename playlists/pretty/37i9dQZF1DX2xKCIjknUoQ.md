@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,604 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,620 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 5 | [Jeune et con](https://open.spotify.com/track/0xLWMbuXHlW2O1DouU57AK) | [Saez](https://open.spotify.com/artist/2yQBgACksUJgNKh1JWPWPe) | [Jours Etranges](https://open.spotify.com/album/2bg7qOhAn5apkOzX5v2SHg) | 3:52 |
 | 6 | [Emma](https://open.spotify.com/track/1XIuwgrZsB0FQpad2ZMVYa) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [La Ouache](https://open.spotify.com/album/3Jc7BaQeEeWq1KwDXmbS8g) | 3:57 |
 | 7 | [L'homme pressé](https://open.spotify.com/track/637T4loKlXPwfUdQVZjPTV) | [Noir Désir](https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos) | [666.667 Club](https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT) | 3:45 |
-| 8 | [Sunday With A Flu](https://open.spotify.com/track/05pU63DL8dSAApA8amj0ql) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Tree Of Life](https://open.spotify.com/album/1ZBipWDQranfO54JP023ZT) | 2:17 |
-| 9 | [Ding Dang Dong \(Ringing at Your Bell\)](https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Variéty](https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL) | 3:39 |
+| 8 | [Ding Dang Dong \(Ringing at Your Bell\)](https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Variéty](https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL) | 3:39 |
+| 9 | [Sunday With A Flu](https://open.spotify.com/track/05pU63DL8dSAApA8amj0ql) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Tree Of Life](https://open.spotify.com/album/1ZBipWDQranfO54JP023ZT) | 2:17 |
 | 10 | [Dis\-moi encore que tu m'aimes](https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf) | [Ginger](https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp) | 3:08 |
 | 11 | [Elle m'a dit](https://open.spotify.com/track/631aobaJggPYE0nIh3mo2t) | [Cali](https://open.spotify.com/artist/1ULXG4gd6YSvdjuFBJ6sAA) | [L'amour Parfait](https://open.spotify.com/album/1wDIEUmo5UDNuC7TkgCMCX) | 3:33 |
 | 12 | [Ghost](https://open.spotify.com/track/59p3L2BcqN4L2DBBeg0KlQ) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late](https://open.spotify.com/album/4A3OeAAQMzcBSmyDpLSu6h) | 3:08 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 44 | [revolution.com](https://open.spotify.com/track/7ciDK4wg2Lmk7KaoWWYtgg) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Revolution.com](https://open.spotify.com/album/2ARdTJwLcGdw0GGhbeEfSo) | 3:27 |
 | 45 | [Raisonne](https://open.spotify.com/track/7hSTh1YWoPGMlVnevO6Rev) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7) | [Aston Villa](https://open.spotify.com/album/6JkbhM2APycjDSEV6e1vlm) | 5:07 |
 | 46 | [Qui que tu sois](https://open.spotify.com/track/6oS7ATqkkkuPH96EaUht4t) | [Blankass](https://open.spotify.com/artist/1FSEVDIvXWHWPmPeCuka03) | [Elliott](https://open.spotify.com/album/3LTATpdZP4sE3UocHfEHit) | 3:46 |
-| 47 | [Anomalie](https://open.spotify.com/track/4lzxPainD9ovAzAAAeXoqs) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Anomalie](https://open.spotify.com/album/7BpAbYt9NzfXUOUlniH9Qf) | 3:09 |
-| 48 | [La traversée](https://open.spotify.com/track/2pgOiAr03DlaNLFwljFwF6) | [Radio Elvis](https://open.spotify.com/artist/1U1tfTJHxezIBnlay13sVA) | [Les conquêtes \(Deluxe edition\)](https://open.spotify.com/album/4EGzP5VOcMpD3wolbI8Fcj) | 3:30 |
-| 49 | [Chirac En Prison](https://open.spotify.com/track/7kZwIyIu8k8RWnEriuGEqp) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Rock'n'Roll Part 9](https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK) | 2:55 |
-| 50 | [Le bonheur](https://open.spotify.com/track/1WsPkcmKon4hQypbdtYiTo) | [Archimède](https://open.spotify.com/artist/3DVs1DqfMYft7Nl1tcX7rP) | [Trafalgar](https://open.spotify.com/album/2WjJE58CMkwX9OCdNW9S6T) | 2:35 |
+| 47 | [La traversée](https://open.spotify.com/track/2pgOiAr03DlaNLFwljFwF6) | [Radio Elvis](https://open.spotify.com/artist/1U1tfTJHxezIBnlay13sVA) | [Les conquêtes \(Deluxe edition\)](https://open.spotify.com/album/4EGzP5VOcMpD3wolbI8Fcj) | 3:30 |
+| 48 | [Anomalie](https://open.spotify.com/track/4lzxPainD9ovAzAAAeXoqs) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Anomalie](https://open.spotify.com/album/7BpAbYt9NzfXUOUlniH9Qf) | 3:09 |
+| 49 | [Le bonheur](https://open.spotify.com/track/1WsPkcmKon4hQypbdtYiTo) | [Archimède](https://open.spotify.com/artist/3DVs1DqfMYft7Nl1tcX7rP) | [Trafalgar](https://open.spotify.com/album/2WjJE58CMkwX9OCdNW9S6T) | 2:35 |
+| 50 | [Chirac En Prison](https://open.spotify.com/track/7kZwIyIu8k8RWnEriuGEqp) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Rock'n'Roll Part 9](https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK) | 2:55 |
 
 Snapshot ID: `AAAAABepj1HGQghmDqlfMeGgI1FrPL76`

@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 70. Photo : Dalida",
-  "num_followers": 129603,
+  "num_followers": 129632,
   "original_name": "Tubes Fran\u00e7ais 70",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-12-28 17:29:00",
       "album": {
-        "name": "Belle Ile En Mer",
-        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 250746,
-      "name": "Rockollection",
-      "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
-    },
-    {
-      "added_at": "2025-12-28 17:29:00",
-      "album": {
         "name": "Visage",
         "url": "https://open.spotify.com/album/0npsDEKpr3sMr0AGjIFZ7f"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 232746,
       "name": "Mamy Blue",
       "url": "https://open.spotify.com/track/0DB1tWW1bAnixC5MaWuLHX"
+    },
+    {
+      "added_at": "2025-12-28 17:29:00",
+      "album": {
+        "name": "Belle Ile En Mer",
+        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
+      },
+      "artists": [
+        {
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+        }
+      ],
+      "duration_ms": 250746,
+      "name": "Rockollection",
+      "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
     },
     {
       "added_at": "2025-12-28 17:29:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 
 > time to strike a couple of poses\. cover: KATSEYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,251 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,223 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 | 39 | [BAD LOVE](https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [BAD LOVE](https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB) | 3:05 |
 | 40 | [Cosmic](https://open.spotify.com/track/7dTVx630q32E7NBBylFnfG) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Cosmic](https://open.spotify.com/album/272qI1H4Qxy3z1qPGa4tpR) | 2:31 |
 | 41 | [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 |
-| 42 | [Distant Lover](https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Distant Lover](https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi) | 3:37 |
-| 43 | [Bubee](https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee](https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr) | 3:02 |
+| 42 | [Bubee](https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee](https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr) | 3:02 |
+| 43 | [Distant Lover](https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Distant Lover](https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi) | 3:37 |
 | 44 | [NON STOP](https://open.spotify.com/track/6U2jlLB3zyqpUiHwCfxcyA) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [NON STOP](https://open.spotify.com/album/204nfufsRpeYrfkr0L0Z8B) | 2:53 |
 | 45 | [So Cute](https://open.spotify.com/track/0M5sCYya9sa2LOz551IBeI) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [So Cute](https://open.spotify.com/album/2pdrozDMXT6gnXBbKGeMfI) | 3:35 |
 | 46 | [Rich Man](https://open.spotify.com/track/1sUjTLLCJzcxC15GUBrOlg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/7FxdJyW8SaXRMR9d7pdDv2) | 3:17 |

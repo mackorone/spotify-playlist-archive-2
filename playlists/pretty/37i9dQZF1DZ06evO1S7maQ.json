@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 666650,
+  "num_followers": 666664,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABt0q3mUIx+HgxcdzbHIp2U",
+  "snapshot_id": "apIhAAAAAACPZdi49mp3R9+OWJI9I1R6",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 289186,
+      "name": "Thunder Road",
+      "url": "https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 216253,
       "name": "Sandpaper (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/39jaMEXqY45at7te6OpskG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 289186,
-      "name": "Thunder Road",
-      "url": "https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nebraska",
-        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 240139,
-      "name": "Atlantic City",
-      "url": "https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Human Touch",
         "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 391552,
       "name": "Human Touch",
       "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 240139,
+      "name": "Atlantic City",
+      "url": "https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12"
     },
     {
       "added_at": null,
@@ -531,6 +531,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The List",
+        "url": "https://open.spotify.com/album/2ztJpdxupEltRgGuzihTJb"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 186226,
+      "name": "Sea Of Heartbreak",
+      "url": "https://open.spotify.com/track/7jOVz43pU3sGMbKdoSBeWU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atlantic City (Live in Jersey) [feat. Bruce Springsteen and Kings of Leon]",
         "url": "https://open.spotify.com/album/7sZ70n45HG0bZ44E7ApqXq"
       },
@@ -571,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The List",
-        "url": "https://open.spotify.com/album/2ztJpdxupEltRgGuzihTJb"
-      },
-      "artists": [
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        },
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 186226,
-      "name": "Sea Of Heartbreak",
-      "url": "https://open.spotify.com/track/7jOVz43pU3sGMbKdoSBeWU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Darkness On the Edge of Town",
         "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Streets of Minneapolis (Radio Mix)",
-        "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 270825,
-      "name": "Streets of Minneapolis - Radio Mix",
-      "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Letter To You",
         "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 209306,
       "name": "I'll See You In My Dreams",
       "url": "https://open.spotify.com/track/2uI2KlfpxGGVnLnpNWdhHS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Streets of Minneapolis (Radio Mix)",
+        "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 270825,
+      "name": "Streets of Minneapolis - Radio Mix",
+      "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 240226,
-      "name": "Prove It All Night",
-      "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Letter To You",
         "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 295493,
       "name": "Letter To You",
       "url": "https://open.spotify.com/track/4Ngh6rMVUCOFK30oO0iEMD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 240226,
+      "name": "Prove It All Night",
+      "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
     },
     {
       "added_at": null,

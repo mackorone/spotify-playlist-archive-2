@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3092\u7279\u96c6\u3002Featuring Japanese Singer-Songwriters. Cover: \u5b89\u90e8\u52c7\u78e8 Yuma Abe",
-  "num_followers": 65685,
+  "num_followers": 65684,
   "original_name": "\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc Singer-Songwriter Japan",
   "owner": {
     "name": "Spotify",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
-        "name": "\u30b7\u30f3\u30ae\u30e5\u30e9\u30ea\u30c6\u30a3",
-        "url": "https://open.spotify.com/album/43LrARnpinuGWHiRvEwAxZ"
+        "name": "\u98a8\u898b\u9d8f",
+        "url": "https://open.spotify.com/album/0etaPjyHr3E3QDXdXftTdX"
       },
       "artists": [
         {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
         }
       ],
-      "duration_ms": 248874,
-      "name": "\u30b7\u30f3\u30ae\u30e5\u30e9\u30ea\u30c6\u30a3",
-      "url": "https://open.spotify.com/track/0XamVfkI6uAAjvpbVnerBx"
+      "duration_ms": 215769,
+      "name": "\u98a8\u898b\u9d8f",
+      "url": "https://open.spotify.com/track/5FwUazYSMotO95IPzjgG1q"
     },
     {
       "added_at": "2026-08-25 15:00:10",
@@ -1055,6 +1055,22 @@
       "duration_ms": 242937,
       "name": "\u308c\u3073\u3066\u30fc\u3057\u3087\u3093",
       "url": "https://open.spotify.com/track/3pACq5ADIbfOabL4wwJOvS"
+    },
+    {
+      "added_at": "2026-08-25 15:00:10",
+      "album": {
+        "name": "\u30b7\u30f3\u30ae\u30e5\u30e9\u30ea\u30c6\u30a3",
+        "url": "https://open.spotify.com/album/43LrARnpinuGWHiRvEwAxZ"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 248874,
+      "name": "\u30b7\u30f3\u30ae\u30e5\u30e9\u30ea\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/0XamVfkI6uAAjvpbVnerBx"
     },
     {
       "added_at": "2026-08-25 15:00:10",
@@ -1103,22 +1119,6 @@
       "duration_ms": 205186,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/3GwNhhs7l7MWksH2BwUraz"
-    },
-    {
-      "added_at": "2026-08-25 15:00:10",
-      "album": {
-        "name": "\u98a8\u898b\u9d8f",
-        "url": "https://open.spotify.com/album/0etaPjyHr3E3QDXdXftTdX"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 215769,
-      "name": "\u98a8\u898b\u9d8f",
-      "url": "https://open.spotify.com/track/5FwUazYSMotO95IPzjgG1q"
     },
     {
       "added_at": "2026-08-25 15:00:10",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
+        "name": "L\u3068R",
+        "url": "https://open.spotify.com/album/2mvm51e648ncvVB8HVfh3q"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "duration_ms": 216888,
+      "name": "L\u3068R",
+      "url": "https://open.spotify.com/track/6Ln2ObReA3U9sKd3ccikz7"
+    },
+    {
+      "added_at": "2026-08-25 15:00:10",
+      "album": {
         "name": "Live Bluesy",
         "url": "https://open.spotify.com/album/0lyhY506F1qbNSmkU1GfoP"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 195250,
       "name": "\u7f8e\u4eba\u5c40",
       "url": "https://open.spotify.com/track/4AaoK7eliWSupTgY23PMaB"
-    },
-    {
-      "added_at": "2026-08-25 15:00:10",
-      "album": {
-        "name": "L\u3068R",
-        "url": "https://open.spotify.com/album/2mvm51e648ncvVB8HVfh3q"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        }
-      ],
-      "duration_ms": 216888,
-      "name": "L\u3068R",
-      "url": "https://open.spotify.com/track/6Ln2ObReA3U9sKd3ccikz7"
     },
     {
       "added_at": "2026-08-25 15:00:10",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
+        "name": "BLACK",
+        "url": "https://open.spotify.com/album/06LIOkzbA2DZsWfWqp9jtH"
+      },
+      "artists": [
+        {
+          "name": "\u9808\u7530\u666f\u51ea",
+          "url": "https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum"
+        }
+      ],
+      "duration_ms": 182993,
+      "name": "BLACK",
+      "url": "https://open.spotify.com/track/0D6zaCMPdsJz5QGubZIMgV"
+    },
+    {
+      "added_at": "2026-08-25 15:00:10",
+      "album": {
         "name": "INSIDE",
         "url": "https://open.spotify.com/album/4ND5fiPqq9Qm93GK9lGTZr"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 240398,
       "name": "New Walk",
       "url": "https://open.spotify.com/track/4QQZw019EXzf6ZDi4ytD5Z"
-    },
-    {
-      "added_at": "2026-08-25 15:00:10",
-      "album": {
-        "name": "BLACK",
-        "url": "https://open.spotify.com/album/06LIOkzbA2DZsWfWqp9jtH"
-      },
-      "artists": [
-        {
-          "name": "\u9808\u7530\u666f\u51ea",
-          "url": "https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum"
-        }
-      ],
-      "duration_ms": 182993,
-      "name": "BLACK",
-      "url": "https://open.spotify.com/track/0D6zaCMPdsJz5QGubZIMgV"
     },
     {
       "added_at": "2026-08-25 15:00:10",

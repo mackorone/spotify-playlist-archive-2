@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: WENDY, JUN\. K\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,773 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,744 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 21 | [Walk In The Night \(Feat\. Zion.T\)](https://open.spotify.com/track/1LEac3XXwvRlOWkKDZjLeK) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Walk In The Night \(Feat\. Zion.T\)](https://open.spotify.com/album/49B53FD6M1eVPEGcEnk95g) | 3:05 |
 | 22 | [Open Your Eyes](https://open.spotify.com/track/1FIJa50mYmz220xeJi8YXy) | [JAEHEE](https://open.spotify.com/artist/1j0jr8bVdKMXcLsxwHZn1P), [YUHA](https://open.spotify.com/artist/7me9iyo3I2a21n5N93Eoey) | [Teenieping: Legend of the Whale Heartstone Special, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/22zTuvEyfwSfaJjTddc9ur) | 3:18 |
 | 23 | [Freesia](https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Flower Language](https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX) | 3:49 |
-| 24 | [Last Scene \(Feat\. Wonstein\)](https://open.spotify.com/track/6OPd1gGT2gRadClWhzcPit) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [A flower bookmark, Pt\. 3](https://open.spotify.com/album/4TeDL95L9OTCpYnuQwlrwY) | 4:03 |
-| 25 | [What Is Love](https://open.spotify.com/track/7DvK5WiY7UjwOnDg69XMEn) | [Seo Hyun Jin](https://open.spotify.com/artist/5mVia8ijuiXexx5tUSROzs), [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Another Miss Oh, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0gRxdS2kPjtmxoXgFWjJms) | 3:33 |
+| 24 | [What Is Love](https://open.spotify.com/track/7DvK5WiY7UjwOnDg69XMEn) | [Seo Hyun Jin](https://open.spotify.com/artist/5mVia8ijuiXexx5tUSROzs), [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Another Miss Oh, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0gRxdS2kPjtmxoXgFWjJms) | 3:33 |
+| 25 | [Last Scene \(Feat\. Wonstein\)](https://open.spotify.com/track/6OPd1gGT2gRadClWhzcPit) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [A flower bookmark, Pt\. 3](https://open.spotify.com/album/4TeDL95L9OTCpYnuQwlrwY) | 4:03 |
 | 26 | [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 |
 | 27 | [Always](https://open.spotify.com/track/6HeD1iODjtr0nvPn6Hwux8) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy), [SULLYOON](https://open.spotify.com/artist/2zThkgO048BYfaNSHQhyTH) | [Always](https://open.spotify.com/album/1wUuOFIZvsHQbtWAKzpwaW) | 3:35 |
 | 28 | [love me not \(feat\. Wonstein\)](https://open.spotify.com/track/5wwLEmOTkShwvkzu621069) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [love me not \(feat\. Wonstein\)](https://open.spotify.com/album/7KpCgT23aD7sF3B1gKJfos) | 2:30 |

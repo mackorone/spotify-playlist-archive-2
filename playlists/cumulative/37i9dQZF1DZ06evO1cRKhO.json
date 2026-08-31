@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 174240,
       "name": "David's Sandbox",
       "url": "https://open.spotify.com/track/2OtzKgyyOyq0cqTTZz687I"
@@ -1958,7 +1958,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 968040,
       "name": "III",
       "url": "https://open.spotify.com/track/63sKc5bAefymu5ity0Qpbo"
@@ -2232,7 +2232,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 199991,
       "name": "Information National Forest",
       "url": "https://open.spotify.com/track/0qaoSyRrXkLz7H2SBMmpvh"
@@ -3024,7 +3024,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 988306,
       "name": "Nite",
       "url": "https://open.spotify.com/track/4TOzYJCeDzFzKcbPkOschJ"
@@ -3306,6 +3306,24 @@
       "duration_ms": 1231810,
       "name": "Pauline Oliveros - I of IV",
       "url": "https://open.spotify.com/track/77rz0oP8SyYU6blsUaSITK"
+    },
+    {
+      "album": {
+        "name": "Earth Music: Ten Years of Meridian Music, Composers in Performance",
+        "url": "https://open.spotify.com/album/5kUN27hAR5vRsUt4YyETPG"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243986,
+      "name": "Pauline's Solo",
+      "url": "https://open.spotify.com/track/0PE1NTuf15kB4Ypcv9FvsY"
     },
     {
       "album": {
@@ -4870,7 +4888,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 591826,
       "name": "The Shadow of the Phoenix",
       "url": "https://open.spotify.com/track/1HnV9fd6aAlX9WHKqiEJv6"

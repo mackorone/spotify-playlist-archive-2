@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4tiJsVI2aAVbb3CrbEDzpN.md) - [plain]
 
 > De beste Jaren 80 Hits op één plek! 🕺 Reis terug in de tijd met de ultieme 80s playlist vol synthpop, classic rock en popmuziek\. Met o.a\. Michael Jackson, Prince, Madonna en Queen\. Geniet van de nostalgie! 📻✨
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 27,745 likes - 122 songs - 8 hr 38 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 27,752 likes - 122 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/4tiJsVI2aAVbb3CrbEDzpN.md) - [plain]
 | 61 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
 | 62 | [Wake Me Up Before You Go\-Go \- Remastered](https://open.spotify.com/track/5qFPs70nZD1fQZOi7u7cIZ) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Twenty Five](https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY) | 3:52 |
 | 63 | [People Are People \- 2006 Remaster](https://open.spotify.com/track/5u26GXPlKASV67BpnZ7n5Z) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Best of Depeche Mode, Volume 1](https://open.spotify.com/album/3PIszA6UT9iI99izK60AdV) | 3:44 |
-| 64 | [Physical \(Remastered 2021\)](https://open.spotify.com/track/0bB0aRsAB2CTYRCeoMOFHU) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Physical \(Deluxe Edition\) \(Remastered 2021\)](https://open.spotify.com/album/2T1jn7BRn8jemUKePm1hoF) | 3:45 |
+| 64 | [Physical \- Remastered 2021](https://open.spotify.com/track/0bB0aRsAB2CTYRCeoMOFHU) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Physical \(Deluxe Edition\) \[Remastered 2021\]](https://open.spotify.com/album/2T1jn7BRn8jemUKePm1hoF) | 3:45 |
 | 65 | [Higher Ground \- Remastered 2003](https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Mother's Milk](https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z) | 3:22 |
 | 66 | [Karma Chameleon](https://open.spotify.com/track/3XDeeP9wBZzGhIPZmLfEEx) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Colour By Numbers](https://open.spotify.com/album/0VgBqlPrvUQsOqSwzA0fET) | 4:12 |
 | 67 | [Don't Worry Be Happy](https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD) | [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [The Collection](https://open.spotify.com/album/5QXK9xXDSYvSOXYSJHdwOD) | 4:52 |

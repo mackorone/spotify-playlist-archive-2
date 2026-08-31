@@ -1,6 +1,6 @@
 {
   "description": "The best of current & contemporary Reggae.  Cover: Kelissa",
-  "num_followers": 1095471,
+  "num_followers": 1095411,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
@@ -447,18 +447,22 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/5pAhTwf5anpAM4qQ8JZD4H"
+        "name": "Ten Cane Row (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
       },
       "artists": [
         {
           "name": "Protoje",
           "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 212553,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/4zegbzhJVyZ8RBM86t6ZqI"
+      "duration_ms": 209586,
+      "name": "Ten Cane Row (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -755,8 +759,8 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "Too Late to Lie",
-        "url": "https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj"
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
       },
       "artists": [
         {
@@ -764,9 +768,9 @@
           "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
         }
       ],
-      "duration_ms": 219622,
-      "name": "Too Late to Lie",
-      "url": "https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6"
+      "duration_ms": 173251,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -843,8 +847,8 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "Dinero",
-        "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
+        "name": "Too Late to Lie",
+        "url": "https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj"
       },
       "artists": [
         {
@@ -852,9 +856,9 @@
           "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
         }
       ],
-      "duration_ms": 173251,
-      "name": "Dinero",
-      "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
+      "duration_ms": 219622,
+      "name": "Too Late to Lie",
+      "url": "https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -1271,18 +1275,22 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "HunnyMoon Mountain",
-        "url": "https://open.spotify.com/album/2rVpyULucip4FgLYR2rw26"
+        "name": "Born A Rebel",
+        "url": "https://open.spotify.com/album/62RIMe1gQ87UWX70jqYtsY"
       },
       "artists": [
         {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+          "name": "Lion D",
+          "url": "https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz"
+        },
+        {
+          "name": "Bizzarri",
+          "url": "https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie"
         }
       ],
-      "duration_ms": 215474,
-      "name": "Take Her Love",
-      "url": "https://open.spotify.com/track/6Rbw6xdVOHZCdiforE08HE"
+      "duration_ms": 217114,
+      "name": "Born A Rebel",
+      "url": "https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6"
     }
   ],
   "unique_name": "Irie",

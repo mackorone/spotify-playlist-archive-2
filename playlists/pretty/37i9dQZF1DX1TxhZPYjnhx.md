@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Alex Warren
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,519 likes - 89 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,518 likes - 89 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

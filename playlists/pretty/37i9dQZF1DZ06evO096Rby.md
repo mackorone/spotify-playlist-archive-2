@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,401 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,442 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 22 | [De Los Dientes Pa Fuera](https://open.spotify.com/track/6U4MQb60Hkvv4ZS2Qwg3Lo) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [De Los Dientes Pa Fuera](https://open.spotify.com/album/3rGviY23qfCvsHXiauzv19) | 2:48 |
 | 23 | [Paz En Este Amor \- En Vivo](https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 2:30 |
 | 24 | [El Buenas Tardes](https://open.spotify.com/track/1gb3SXBZ05dqxy7KD616m6) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Buenas Tardes](https://open.spotify.com/album/32JOOGL0H1g27caRVFuuIE) | 3:31 |
-| 25 | [Bendecido](https://open.spotify.com/track/7FM0xCB7I8AXLJOgCOoFoT) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Bendecido](https://open.spotify.com/album/3NfhUBvy9h8ijMRfukMiLH) | 3:11 |
-| 26 | [Mujeron](https://open.spotify.com/track/242nrMqGE5rtGaje4N51fc) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Renacer](https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi) | 2:04 |
+| 25 | [Mujeron](https://open.spotify.com/track/242nrMqGE5rtGaje4N51fc) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Renacer](https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi) | 2:04 |
+| 26 | [Bendecido](https://open.spotify.com/track/7FM0xCB7I8AXLJOgCOoFoT) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Bendecido](https://open.spotify.com/album/3NfhUBvy9h8ijMRfukMiLH) | 3:11 |
 | 27 | [Que Chulada \- En Vivo](https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 2:02 |
 | 28 | [NO VOLVERE \- En Vivo desde Los Ángeles](https://open.spotify.com/track/5VeaJKovkYUfGvjCOdjL9M) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 2:33 |
 | 29 | [El Don Nadie \- En Vivo](https://open.spotify.com/track/3AxzKzoESCwJcwFFpXlQNE) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [En Vivo Con Banda y Norteño](https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp) | 3:00 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 33 | [Tatuajes](https://open.spotify.com/track/5pkv0CmgCpjhaOb2jATdrx) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3) | 3:35 |
 | 34 | [De Que Color Es La Suerte](https://open.spotify.com/track/2RhyI9fUK2bEn6blowOh9w) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [De Que Color Es La Suerte](https://open.spotify.com/album/7Luhi6dMH1sWR1KhrWrGOD) | 3:41 |
 | 35 | [Ebrio De Amor](https://open.spotify.com/track/6Tkg79X9NrpYwWyl4dspKU) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x) | 2:31 |
-| 36 | [Mi Pasado y Mi Presente \- En Vivo](https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Desde Houston \(En Vivo\)](https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp) | 4:25 |
-| 37 | [Mija](https://open.spotify.com/track/7sB3s9VeXAb0Vwfu60gtr7) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Renacer](https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi) | 2:19 |
-| 38 | [Dicen Y Dicen](https://open.spotify.com/track/0mJ8ZTlkWRb59A3TPJUEcv) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Dicen Y Dicen](https://open.spotify.com/album/1tjpAov9L3aGyIluNSBTqI) | 2:53 |
+| 36 | [Mija](https://open.spotify.com/track/7sB3s9VeXAb0Vwfu60gtr7) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Renacer](https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi) | 2:19 |
+| 37 | [Dicen Y Dicen](https://open.spotify.com/track/0mJ8ZTlkWRb59A3TPJUEcv) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Dicen Y Dicen](https://open.spotify.com/album/1tjpAov9L3aGyIluNSBTqI) | 2:53 |
+| 38 | [Mi Pasado y Mi Presente \- En Vivo](https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Desde Houston \(En Vivo\)](https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp) | 4:25 |
 | 39 | [Polvo Soy](https://open.spotify.com/track/7rzEV4j9gxblnC9DHN53iC) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Polvo Soy](https://open.spotify.com/album/3SWmKgWCz1IOYbkdPjqVc7) | 2:53 |
 | 40 | [Las Edades \- En Vivo](https://open.spotify.com/track/01NTntNkCtZXVhLnKgzVFs) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 3:00 |
 | 41 | [Hombre Fino](https://open.spotify.com/track/7BVJ03E9269nla5aLJnvBr) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [Renacer](https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 49 | [Un Nuevo Dia](https://open.spotify.com/track/12T7RfowF2egyheD8ojXXB) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Renacer](https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi) | 2:32 |
 | 50 | [La Envidia Se Dio Cuenta \- En Vivo](https://open.spotify.com/track/46WJUGGILoo7R7GwheR1wh) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Envidia Se Dio Cuenta \(En Vivo\)](https://open.spotify.com/album/63XdgF882pL2ryGEM8jPSR) | 3:26 |
 
-Snapshot ID: `apDPgAAAAAD7WtdnHzvGE2h3ywAjQqUZ`
+Snapshot ID: `apIhAAAAAACw6MhIn56z/bx7RQ/ONaWf`

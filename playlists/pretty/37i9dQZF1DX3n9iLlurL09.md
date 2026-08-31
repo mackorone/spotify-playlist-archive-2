@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 
 > The Indie highlights of 2012\. Cover: Flume
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,343 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,362 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 47 | [Lazuli](https://open.spotify.com/track/2TIJiqr72Qe9tGd26fStIN) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/600BVck2XflTAsEo0KhIfm) | 5:01 |
 | 48 | [Baby](https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Mature Themes](https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh) | 4:47 |
 | 49 | [From Nowhere](https://open.spotify.com/track/5c9YHjSjEZxaCxsF1Gy5Jt) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Sweet Disarray](https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y) | 3:16 |
-| 50 | [Full Circle](https://open.spotify.com/track/0gr60jINHbKdcGlQ83rmaH) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/1h0JzrOSEyEldBJOBMj9Ge) | 3:01 |
-| 51 | [San Francisco](https://open.spotify.com/track/2eQOMQkStoRUQyq6HGh1iG) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/4pmOIOmY4QXH1rMSqHMOGH) | 2:53 |
+| 50 | [San Francisco](https://open.spotify.com/track/2eQOMQkStoRUQyq6HGh1iG) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/4pmOIOmY4QXH1rMSqHMOGH) | 2:53 |
+| 51 | [Full Circle](https://open.spotify.com/track/0gr60jINHbKdcGlQ83rmaH) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/1h0JzrOSEyEldBJOBMj9Ge) | 3:01 |
 | 52 | [Chained](https://open.spotify.com/track/1E5HgxGmPFETzZp6g929hu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:47 |
 | 53 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
 | 54 | [Elevate](https://open.spotify.com/track/0pBLfQ5JBjh12H6DGZjMwM) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [When The Night \(Deluxe\)](https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo) | 5:08 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 65 | [Rearrange](https://open.spotify.com/track/6f4V3llGPLYgv49ro7vXSE) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Colour Of The Trap](https://open.spotify.com/album/671vYDTGlzYQfsibwLHxNB) | 3:29 |
 | 66 | [All Eyes on You](https://open.spotify.com/track/0ekoNFB4Xnj2HQAYQ8PTBY) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [When The Night \(Deluxe\)](https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo) | 4:27 |
 | 67 | [Sleepless](https://open.spotify.com/track/2PmFrijdjAP3vG8EuWfD1X) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Jezzabell Doran](https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ) | [Flume](https://open.spotify.com/album/1Ya2L1SaukipRj53e0dIYc) | 3:29 |
-| 68 | [Cherokee](https://open.spotify.com/track/47V6SAlY1SWHYoPHY2vSIK) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Sun](https://open.spotify.com/album/1IoiJGsAHdL0OL9IOjTflm) | 4:45 |
-| 69 | [Swing Lo Magellan](https://open.spotify.com/track/0ZRmhs9YjaMmj5QGCw0lDe) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Swing Lo Magellan](https://open.spotify.com/album/5leXnIiFPYSr7yHgdwxMDG) | 2:37 |
+| 68 | [Swing Lo Magellan](https://open.spotify.com/track/0ZRmhs9YjaMmj5QGCw0lDe) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Swing Lo Magellan](https://open.spotify.com/album/5leXnIiFPYSr7yHgdwxMDG) | 2:37 |
+| 69 | [Cherokee](https://open.spotify.com/track/47V6SAlY1SWHYoPHY2vSIK) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Sun](https://open.spotify.com/album/1IoiJGsAHdL0OL9IOjTflm) | 4:45 |
 | 70 | [Awkward \- EP Version](https://open.spotify.com/track/7eHQkyYJnjehynpmZF3uXI) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [San Cisco](https://open.spotify.com/album/5iyJwtJJoTLFLa0NmiJeYx) | 2:34 |
 | 71 | [Gasoline](https://open.spotify.com/track/1LT9AlR86S4X54leu4sjS1) | [Alpine](https://open.spotify.com/artist/4tKUoNubW02udXOh7SLtXV) | [A Is For Alpine](https://open.spotify.com/album/182yEwjKPN6FHGDvplJgSW) | 3:23 |
 | 72 | [Slow Cruel Hands Of Time](https://open.spotify.com/track/3cW5ZF0ANUFuH661wAGUuw) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Mirage Rock](https://open.spotify.com/album/5XGwgWYQQK8tHwoNuLMCP9) | 3:50 |
@@ -91,19 +91,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 81 | [Freaking Out the Neighborhood](https://open.spotify.com/track/25SJaCCPiosugnlY53VhRG) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q) | 2:53 |
 | 82 | [Stubborn Love](https://open.spotify.com/track/7x46YkKAwp3yZpaa72n5Mu) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers \(Deluxe Edition\)](https://open.spotify.com/album/0nRgsLe1she16l3pclpyy7) | 4:39 |
 | 83 | [Breezeblocks](https://open.spotify.com/track/3Wu6MhnZuLuzfH5wFC2g9i) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL) | 3:47 |
-| 84 | [Let’s Go](https://open.spotify.com/track/2PlP2rRrgSz8lC7MpH3e4e) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Lightning](https://open.spotify.com/album/2MbpbHn31Luzr8G3uDsSUH) | 3:30 |
-| 85 | [The House That Heaven Built](https://open.spotify.com/track/2dcmQJCw1INGn7yR2KHx0U) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Celebration Rock](https://open.spotify.com/album/2sY9WYVH022ulyAYaqvXLW) | 4:49 |
+| 84 | [The House That Heaven Built](https://open.spotify.com/track/2dcmQJCw1INGn7yR2KHx0U) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Celebration Rock](https://open.spotify.com/album/2sY9WYVH022ulyAYaqvXLW) | 4:49 |
+| 85 | [Genesis](https://open.spotify.com/track/4sCYKMatyhazyy6r2N7Hp2) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE) | 4:15 |
 | 86 | [Ode to Viceroy](https://open.spotify.com/track/601KiLiZtBJRTXBrTjeieP) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q) | 3:53 |
-| 87 | [Genesis](https://open.spotify.com/track/4sCYKMatyhazyy6r2N7Hp2) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE) | 4:15 |
+| 87 | [Let’s Go](https://open.spotify.com/track/2PlP2rRrgSz8lC7MpH3e4e) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Lightning](https://open.spotify.com/album/2MbpbHn31Luzr8G3uDsSUH) | 3:30 |
 | 88 | [Paint](https://open.spotify.com/track/2BOof6lYrGfz6BojJ0aeJd) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Young North \- EP](https://open.spotify.com/album/1n9w0sUkiSat6OCtoL1rwS) | 3:11 |
 | 89 | [Flowers In Your Hair](https://open.spotify.com/track/7thzIJfxiZNZaPFA5OR9s1) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers \(Deluxe Edition\)](https://open.spotify.com/album/0nRgsLe1she16l3pclpyy7) | 1:50 |
-| 90 | [Fitzpleasure](https://open.spotify.com/track/09BGE23vqmtylTUBEhzu2H) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL) | 3:39 |
-| 91 | [Yet Again](https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Shields](https://open.spotify.com/album/57LAEzKL94ZHwbIkUWYCDY) | 5:18 |
-| 92 | [Oblivion](https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE) | 4:11 |
+| 90 | [Oblivion](https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE) | 4:11 |
+| 91 | [Fitzpleasure](https://open.spotify.com/track/09BGE23vqmtylTUBEhzu2H) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL) | 3:39 |
+| 92 | [Yet Again](https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Shields](https://open.spotify.com/album/57LAEzKL94ZHwbIkUWYCDY) | 5:18 |
 | 93 | [Breathing Underwater](https://open.spotify.com/track/3V1sX80FB5C1D0azCC1DII) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Synthetica](https://open.spotify.com/album/1WDdaw9niyv06kRmspU1U4) | 3:58 |
 | 94 | [Catamaran](https://open.spotify.com/track/5WI4GytPeTnIoVRnUiP8TE) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/1aAKZy0fdFn57xgka1xeDV) | 3:32 |
-| 95 | [Taro](https://open.spotify.com/track/7EDMvrb5PA5TP0VQ8z9p82) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL) | 5:14 |
-| 96 | [The John Wayne](https://open.spotify.com/track/3oGxLwyJ7oU2kepx0z5S18) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [The John Wayne](https://open.spotify.com/album/3DmeelYEmVIPtB9qOLNyMG) | 4:51 |
+| 95 | [The John Wayne](https://open.spotify.com/track/3oGxLwyJ7oU2kepx0z5S18) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [The John Wayne](https://open.spotify.com/album/3DmeelYEmVIPtB9qOLNyMG) | 4:51 |
+| 96 | [Taro](https://open.spotify.com/track/7EDMvrb5PA5TP0VQ8z9p82) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL) | 5:14 |
 | 97 | [Man on Fire](https://open.spotify.com/track/5GFfRpAb26A57ao6nxjIIS) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Here](https://open.spotify.com/album/6JyPG8lkkHvE1f76H1fysw) | 4:18 |
 | 98 | [Default](https://open.spotify.com/track/0d2O5TNHO2T5XR95TVmgfp) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Django Django](https://open.spotify.com/album/2iKuaJUhHIXk8p9xNFM7d9) | 3:04 |
 | 99 | [Forest Whitaker](https://open.spotify.com/track/2kW59AS9OrpFsuXbi2939R) | [Bad Books](https://open.spotify.com/artist/0e9H8oaYYRCKFXOVv848nt) | [II](https://open.spotify.com/album/1yDgzhR6Dtv7r8F7vOKyIz) | 3:40 |

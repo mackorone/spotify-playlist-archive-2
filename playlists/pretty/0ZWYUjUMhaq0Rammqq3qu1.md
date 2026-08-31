@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Here's your multi\-genre mix to literally Fall Into Fall during 2026: whatever you're going through as the seasons change from show some skin weather to sweater weather, you've got a soundtrack.
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 109,869 likes - 75 songs - 4 hr 40 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 109,855 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

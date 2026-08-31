@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 369132,
+  "num_followers": 369151,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAADPfZaDpnFMLthgbDoIZtNI",
+  "snapshot_id": "apIhAAAAAADL1J3wI5S/C/77ufF97oc1",
   "tracks": [
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 211160,
+      "name": "To Know Me",
+      "url": "https://open.spotify.com/track/7LvCq4tN8BweqUpfd8Zeeo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peace, Vol. II",
         "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 319574,
       "name": "Rescue",
       "url": "https://open.spotify.com/track/2kjQMoKIkqlVYN20183Fjt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lauren Daigle",
-        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 211160,
-      "name": "To Know Me",
-      "url": "https://open.spotify.com/track/7LvCq4tN8BweqUpfd8Zeeo"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "How Can It Be (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Wordless - Bonus Track",
+      "url": "https://open.spotify.com/track/414Q498RCMr1w3QZOldpEt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beyond Us",
         "url": "https://open.spotify.com/album/269eDd6kP3lI8kkDUw1NIn"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 229733,
       "name": "Time",
       "url": "https://open.spotify.com/track/2OXWcPKO4Bzo4O17OvGkD0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How Can It Be (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Wordless - Bonus Track",
-      "url": "https://open.spotify.com/track/414Q498RCMr1w3QZOldpEt"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "How Can It Be (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Now is Forever - Bonus Track",
+      "url": "https://open.spotify.com/track/6k1RI3mXEvCZtSWNvywLXp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beginnings",
         "url": "https://open.spotify.com/album/5fq1eSTkR1SnwZj5fJGBHB"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 250186,
       "name": "It Is Well",
       "url": "https://open.spotify.com/track/3tL3RBw97ctKUpOuEkvBfI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How Can It Be (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Now is Forever - Bonus Track",
-      "url": "https://open.spotify.com/track/6k1RI3mXEvCZtSWNvywLXp"
     },
     {
       "added_at": null,

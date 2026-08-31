@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 
 > This is Banda Carnaval\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,998 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,001 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,15 +32,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 22 | [Así Te Necesito](https://open.spotify.com/track/0VjQnUClspAvDIejRi8vRl) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:00 |
 | 23 | [En Qué Cabeza Cabe](https://open.spotify.com/track/6HUMffUSppjuuO8v193wWM) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Hombre De Trabajo](https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp) | 2:53 |
 | 24 | [Segunda Opción](https://open.spotify.com/track/3bvQCGDb6D66J7b0lzXsKG) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:18 |
-| 25 | [Si Se Trata De Ti](https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [No Tiene Precio](https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B) | 3:03 |
+| 25 | [De Buen Perfil](https://open.spotify.com/track/6CphAFnRSF0N0Otke4uCBO) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 2:18 |
 | 26 | [Ya Me Sirvió De Experiencia](https://open.spotify.com/track/5YYOxnJQZxaGwmHi63EfvI) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:19 |
-| 27 | [De Buen Perfil](https://open.spotify.com/track/6CphAFnRSF0N0Otke4uCBO) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 2:18 |
+| 27 | [Si Se Trata De Ti](https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [No Tiene Precio](https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B) | 3:03 |
 | 28 | [Ella Es Mi Mujer](https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 2:43 |
 | 29 | [El Herradero \- En Vivo Desde El Rancho](https://open.spotify.com/track/1XSQE1KKdfIO8auVrK2l2s) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho](https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI) | 2:56 |
 | 30 | [¿Cómo Le Digo?](https://open.spotify.com/track/7wzf8JSpGi3TQMQDN5JWw9) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:05 |
 | 31 | [¿Quién Es El Patrón? \- En Vivo](https://open.spotify.com/track/6AEIaEfIETFP831ZAOf3bE) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos Y Rancheras En Vivo \(En Vivo Desde Mazatlán, Sinaloa/México 2016\)](https://open.spotify.com/album/37BLoPJ2s2zTBx2QsSoO2r) | 2:41 |
-| 32 | [A Ver A Qué Horas \- En Vivo](https://open.spotify.com/track/5uVPexjpKeTiL5RmMUDTcT) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [A Ver A Qué Horas \(En Vivo\)](https://open.spotify.com/album/3wEwmBFOd6wiZ6F0zXMy6a) | 2:33 |
-| 33 | [Aquí No Se Termina \- En Vivo](https://open.spotify.com/track/3bH0ANEXwCVw5bOwEavAA2) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Aquí No Se Termina \(En Vivo\)](https://open.spotify.com/album/3XKUMGQOygep8Ssax2GLlK) | 3:19 |
+| 32 | [Aquí No Se Termina \- En Vivo](https://open.spotify.com/track/3bH0ANEXwCVw5bOwEavAA2) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Aquí No Se Termina \(En Vivo\)](https://open.spotify.com/album/3XKUMGQOygep8Ssax2GLlK) | 3:19 |
+| 33 | [A Ver A Qué Horas \- En Vivo](https://open.spotify.com/track/5uVPexjpKeTiL5RmMUDTcT) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [A Ver A Qué Horas \(En Vivo\)](https://open.spotify.com/album/3wEwmBFOd6wiZ6F0zXMy6a) | 2:33 |
 | 34 | [El Número 1](https://open.spotify.com/track/3BaDh7fNIzR4XWZ96qhVc1) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Número 1](https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX) | 2:43 |
 | 35 | [El Magnate](https://open.spotify.com/track/22uW5mLiatfm466E6tNLvQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Puros Corridos](https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1) | 2:10 |
 | 36 | [El Pájaro Azul \- En Vivo](https://open.spotify.com/track/6yv8dwewBWu7Fc4VSI1IiT) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 49 | [Porque Así Tenía Que Ser](https://open.spotify.com/track/5opgaluT0rfHMV2j1o5msW) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/2w7wcxm7qdWAGcwHIyR0WE) | 2:34 |
 | 50 | [El Pistolero \- En Vivo](https://open.spotify.com/track/5LO8ZNqDLAKtqhTlHoQEQo) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 2:16 |
 
-Snapshot ID: `apDPgAAAAAAymVX8OzeGt1ob7O8mN0oL`
+Snapshot ID: `apIhAAAAAAAHUujFbrGa1HjZW5yoQlyc`

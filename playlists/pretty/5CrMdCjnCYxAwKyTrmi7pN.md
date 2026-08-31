@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5CrMdCjnCYxAwKyTrmi7pN.md) - [plain]
 
 > Geniet van de zon met deze lijst vol zomer vibes! Met muziek van Flaire, HUGEL, 54 Ultra en meer...
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 129,462 likes - 103 songs - 5 hr 29 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 129,458 likes - 103 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

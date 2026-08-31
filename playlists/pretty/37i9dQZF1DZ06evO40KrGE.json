@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 38261,
+  "num_followers": 38262,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAA+yTVx1q9IsktixQREIzw6",
+  "snapshot_id": "apIhAAAAAAADAmcFYxdumehFiIYfPO9F",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Louvarei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6bpeoNmfvSMxJ7WR8W4b1i"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 334656,
-      "name": "Te Louvarei - Ao Vivo",
-      "url": "https://open.spotify.com/track/2VdUf61z3Ul0CjqZKrbzfg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Identidade",
         "url": "https://open.spotify.com/album/5dr9iu1pswVRmeou9ltwpm"
       },
@@ -303,22 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quem \u00e9 Ele (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7kWHlrt0U9mKj9cUzbFwqu"
+        "name": "Te Louvarei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6bpeoNmfvSMxJ7WR8W4b1i"
       },
       "artists": [
         {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
         },
         {
           "name": "Cassiane",
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 399386,
-      "name": "Quem \u00e9 Ele - Ao Vivo",
-      "url": "https://open.spotify.com/track/7sbw0RaD6nxalNUtjAcKnB"
+      "duration_ms": 334656,
+      "name": "Te Louvarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/2VdUf61z3Ul0CjqZKrbzfg"
     },
     {
       "added_at": null,
@@ -335,6 +315,26 @@
       "duration_ms": 232571,
       "name": "Recompensa",
       "url": "https://open.spotify.com/track/2jJrUywGnlCBziixCMf5JL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quem \u00e9 Ele (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kWHlrt0U9mKj9cUzbFwqu"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 399386,
+      "name": "Quem \u00e9 Ele - Ao Vivo",
+      "url": "https://open.spotify.com/track/7sbw0RaD6nxalNUtjAcKnB"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harpa Vol.1",
-        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 345698,
-      "name": "Alvo Mais que a Neve",
-      "url": "https://open.spotify.com/track/5iWARO07W7fW9uaU07zMeT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sementes da F\u00e9",
         "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 322478,
       "name": "Louve Sempre",
       "url": "https://open.spotify.com/track/1N4x73O2k5C2PNOxf4UCQk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 345698,
+      "name": "Alvo Mais que a Neve",
+      "url": "https://open.spotify.com/track/5iWARO07W7fW9uaU07zMeT"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fa\u00e7a Diferen\u00e7a",
-        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 276549,
-      "name": "Mergulhe",
-      "url": "https://open.spotify.com/track/0aToQvWg4KfOKuHvsKcDkg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Cura",
         "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 321549,
       "name": "N\u00e3o Negue a Jesus",
       "url": "https://open.spotify.com/track/7bmiXFTz3yKImalPGZ1DeX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 276549,
+      "name": "Mergulhe",
+      "url": "https://open.spotify.com/track/0aToQvWg4KfOKuHvsKcDkg"
     },
     {
       "added_at": null,

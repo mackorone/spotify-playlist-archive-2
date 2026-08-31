@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 12358,
+  "num_followers": 12360,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABj23Kc6ZGr+vUQXvkcF+Hh",
+  "snapshot_id": "apIhAAAAAABL6lrrQ8FTwhxXsn8Ymkt1",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 171729,
-      "name": "2005",
-      "url": "https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf"
+      "duration_ms": 178318,
+      "name": "Take the Ride",
+      "url": "https://open.spotify.com/track/2jCiOgOBe4U3OCk3OQXGVC"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 178318,
-      "name": "Take the Ride",
-      "url": "https://open.spotify.com/track/2jCiOgOBe4U3OCk3OQXGVC"
+      "duration_ms": 171729,
+      "name": "2005",
+      "url": "https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf"
     },
     {
       "added_at": null,
@@ -531,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Black Swan",
-        "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/37lVwJXOk93Xblhs8GkVsY"
       },
       "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
         {
           "name": "Story Of The Year",
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 243320,
-      "name": "We're Not Gonna Make It",
-      "url": "https://open.spotify.com/track/4YhclXQSlBbgbyFV3uZ8sI"
+      "duration_ms": 230666,
+      "name": "Can't Slow Down",
+      "url": "https://open.spotify.com/track/3Dfr1VIJGTlnEymtHbrosb"
     },
     {
       "added_at": null,
@@ -563,22 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/37lVwJXOk93Xblhs8GkVsY"
+        "name": "The Black Swan",
+        "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
       },
       "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
         {
           "name": "Story Of The Year",
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 230666,
-      "name": "Can't Slow Down",
-      "url": "https://open.spotify.com/track/3Dfr1VIJGTlnEymtHbrosb"
+      "duration_ms": 243320,
+      "name": "We're Not Gonna Make It",
+      "url": "https://open.spotify.com/track/4YhclXQSlBbgbyFV3uZ8sI"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 
 > This is Jasiel Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,534 likes - 32 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,573 likes - 32 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 2 | [LAGUNAS](https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:51 |
 | 3 | [NOCHES FRÍAS](https://open.spotify.com/track/4YVLgx6LURPo1VNeaqBT5x) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 3:52 |
 | 4 | [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 |
-| 5 | [Miento](https://open.spotify.com/track/4WeMHNLpQkxKd7raU20wZd) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 3:03 |
+| 5 | [Japón](https://open.spotify.com/track/5guJSVFfWTCkD1w7kfQJZA) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 4:21 |
 | 6 | [ROSA PASTEL](https://open.spotify.com/track/4yjeRuoVickg1G87LWeRes) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:24 |
 | 7 | [CORAZÓN FRÍO](https://open.spotify.com/track/3SaYCT004qZHjezJ4orzFZ) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 4:23 |
 | 8 | [Madrid](https://open.spotify.com/track/5T9CTDe93Oj93n9M1bYFdM) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Madrid](https://open.spotify.com/album/51GmWpEhHzRosHUxOfCkY7) | 3:06 |
-| 9 | [Japón](https://open.spotify.com/track/5guJSVFfWTCkD1w7kfQJZA) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 4:21 |
+| 9 | [Miento](https://open.spotify.com/track/4WeMHNLpQkxKd7raU20wZd) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [NÓMADA](https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6) | 3:03 |
 | 10 | [Formula One](https://open.spotify.com/track/41wEwoDCdrSPBHYJShUi8t) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Formula One](https://open.spotify.com/album/2BEaUNZ7RqGaXI4V599GvI) | 3:05 |
 | 11 | [GTA](https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 2:33 |
 | 12 | [Cielo Eterno](https://open.spotify.com/track/5BHyssNPTVo1Exf7LPVtrO) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [LEYENDA](https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY) | 4:04 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 31 | [Vida Cara](https://open.spotify.com/track/5skxWD3azxROcaZAnTeWWl) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Lo Aprendí En La Lleca](https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI) | 3:05 |
 | 32 | [Mas Alto Que El Everest](https://open.spotify.com/track/4Pf6FyGk1qCOP2rDzFcuwp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Mas Alto Que El Everest](https://open.spotify.com/album/5egwrtDVubauLR7o2OE1xb) | 3:01 |
 
-Snapshot ID: `apDPgAAAAAD/0ycNZ6jfiTFciCRf0eqk`
+Snapshot ID: `apIhAAAAAADpp/ufqLn0KeSbw+pLsJk/`

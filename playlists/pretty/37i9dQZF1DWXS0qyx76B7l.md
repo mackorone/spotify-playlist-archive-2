@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 
 > The greatest city on earth!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,879 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,910 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 | 41 | [Tenth Avenue Freeze\-Out](https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 3:11 |
 | 42 | [Angel Of Harlem](https://open.spotify.com/track/7iBav4v8maicL8cWKGxFhQ) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 3:49 |
 | 43 | [N.Y\. State of Mind](https://open.spotify.com/track/5zwz05jkQVT68CjUpPwFZe) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic XX](https://open.spotify.com/album/6oSHgr3TZJPCFshYUfBDqE) | 4:54 |
-| 44 | [Brooklyn In The Summer](https://open.spotify.com/track/5bTysxqGHXdSGiZVgljzCY) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Brooklyn In The Summer](https://open.spotify.com/album/2e2K7qbaFSqnBQWvYmgS4L) | 3:28 |
-| 45 | [Chelsea Hotel \#2](https://open.spotify.com/track/4krhCfJg0znykZoyjeMXRe) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [New Skin For The Old Ceremony](https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL) | 3:08 |
+| 44 | [Chelsea Hotel \#2](https://open.spotify.com/track/4krhCfJg0znykZoyjeMXRe) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [New Skin For The Old Ceremony](https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL) | 3:08 |
+| 45 | [Brooklyn In The Summer](https://open.spotify.com/track/5bTysxqGHXdSGiZVgljzCY) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Brooklyn In The Summer](https://open.spotify.com/album/2e2K7qbaFSqnBQWvYmgS4L) | 3:28 |
 | 46 | [I Love New York](https://open.spotify.com/track/44WTY1d9M86PEAgPZNeHHe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 4:35 |
 | 47 | [U.N.I.T.Y.](https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:10 |
 | 48 | [Bleecker Street](https://open.spotify.com/track/4c0ecVwn17owdwpIBL07wC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:47 |

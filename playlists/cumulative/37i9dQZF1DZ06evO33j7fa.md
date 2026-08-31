@@ -4,7 +4,7 @@
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-95 songs - 4 hr 38 min
+96 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Sketch 1](https://open.spotify.com/track/0d33pGwcSqRPZszpIIJEnQ) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/0XK1y5q7jUfIB2wDPOyt36) | 1:00 | 2023-02-28 | 2023-03-02 |
 | [Sketch 1](https://open.spotify.com/track/4ioMdV2VHZme6Qs6ecGyPo) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Digital Box Set](https://open.spotify.com/album/37NXzMNSyW0RhFVM2bkACC) | 1:00 | 2023-03-01 | 2025-11-16 |
 | [Sketch 1](https://open.spotify.com/track/5pevwwP5GLIcF63DkYFBl7) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6YcM0ELCFt9WFdkye4ejxm) | 1:00 | 2023-03-17 | 2023-11-11 |
-| [Sketch 1](https://open.spotify.com/track/6Tb3ZoNRQIAJGG1yXUb8Un) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 1:00 | 2023-11-10 |  |
+| [Sketch 1](https://open.spotify.com/track/6Tb3ZoNRQIAJGG1yXUb8Un) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 1:00 | 2023-11-10 | 2026-08-31 |
+| [Sketch 1](https://open.spotify.com/track/78m3lFjooXA5MaJ1gRSh2Z) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6jME95xTUm5qvZXNvXqxq5) | 1:00 | 2026-08-31 |  |
 | [Strange Face \- 1st Sound Techniques Session, March / 1968](https://open.spotify.com/track/1qeSUdnJcj6bE6X6p3GK54) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [The Making Of Five Leaves Left](https://open.spotify.com/album/6LtprtjiFOCKr242tI4TgD) | 3:42 | 2025-08-01 |  |
 | [Strange Face \- 1st Sound Techniques Session, March / 1968](https://open.spotify.com/track/3zmge3Jmf96bwVVvFe0sd6) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Strange Face \(1st Sound Techniques Session, March / 1968\)](https://open.spotify.com/album/6g5KjtQrLTdSZDH0hrXBDL) | 3:45 | 2025-04-13 | 2025-08-01 |
 | [They're Leaving Me Behind](https://open.spotify.com/track/4bjiatRltrcQgvA5go2FVZ) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Digital Box Set](https://open.spotify.com/album/37NXzMNSyW0RhFVM2bkACC) | 3:17 | 2023-03-06 | 2023-03-10 |

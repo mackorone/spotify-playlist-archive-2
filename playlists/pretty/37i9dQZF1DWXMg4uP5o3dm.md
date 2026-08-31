@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,352 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,380 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 46 | [¿ \(feat\. Halsey\)](https://open.spotify.com/track/6shny2UVkpaLc7jEKEoePa) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Music to listen to\~dance to\~blaze to\~pray to\~feed to\~sleep to\~talk to\~grind to\~trip to\~breathe to\~help to\~hurt to\~scroll to\~roll to\~love to\~hate to\~learn Too\~plot to\~play to\~be to\~feel to\~breed to\~sweat to\~dream to\~hide to\~live to\~die to\~GO TO](https://open.spotify.com/album/6yC6aLzX5knhWpKDidwxft) | 5:13 |
 | 47 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 |
 | 48 | [FUNERAL](https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [FUNERAL](https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd) | 3:01 |
-| 49 | [Over You](https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Over You](https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk) | 4:44 |
-| 50 | [Monster](https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Monster](https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL) | 2:58 |
+| 49 | [Monster](https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Monster](https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL) | 2:58 |
+| 50 | [Over You](https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Over You](https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk) | 4:44 |
 | 51 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 |
 | 52 | [Loving You](https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Loving You](https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx) | 3:14 |
 | 53 | [Back from the Dead](https://open.spotify.com/track/19bWcmH61AXuZqRjmLyBcZ) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Back from the Dead](https://open.spotify.com/album/0CjoPYfnPVGQ3KCen5uuku) | 2:59 |

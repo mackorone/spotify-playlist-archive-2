@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 
 > The women whose music and influence rock our world\. Cover: Violet Grohl
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,276 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,306 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 44 | [Seventeen](https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 4:25 |
 | 45 | [Blood In The Cut](https://open.spotify.com/track/4q604hQba5940BbOoaenmz) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/5ddpf5pxYjw9ob4DjPLuiz) | 3:08 |
 | 46 | [Mirtazapine](https://open.spotify.com/track/2FFXU4b8sIsiLiTo6EWO19) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b) | 3:21 |
-| 47 | [Count The Ways](https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk) | 3:58 |
-| 48 | [Cuntology 101](https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 2:18 |
-| 49 | [Throw Yourself to the Sword](https://open.spotify.com/track/1T4TSL2UaYjauerxFyPal0) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Something To Consume](https://open.spotify.com/album/0FdOJumn3KGRDwCoLTt8CY) | 2:40 |
+| 47 | [Cuntology 101](https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 2:18 |
+| 48 | [Throw Yourself to the Sword](https://open.spotify.com/track/1T4TSL2UaYjauerxFyPal0) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Something To Consume](https://open.spotify.com/album/0FdOJumn3KGRDwCoLTt8CY) | 2:40 |
+| 49 | [Count The Ways](https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk) | 3:58 |
 | 50 | [Future Starts Slow](https://open.spotify.com/track/0A0RBBTrgfq9eClnw6ZXT7) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr) | 4:08 |
 | 51 | [Drain the Blood](https://open.spotify.com/track/3kYWrBoFBQGctF0UwgP8N1) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Coral Fang \(PA Version\)](https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr) | 3:09 |
 | 52 | [Don't Wanna Fight](https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY) | 3:52 |

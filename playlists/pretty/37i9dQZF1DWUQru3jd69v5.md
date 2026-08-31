@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > headows in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,645 likes - 71 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,629 likes - 71 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Nadin Amizah, Pamungkas, The Weeknd, Tomoko Aran, Mahalini dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,149 likes - 109 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,150 likes - 109 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

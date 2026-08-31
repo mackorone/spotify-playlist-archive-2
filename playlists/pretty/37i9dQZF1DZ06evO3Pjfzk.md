@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 
 > This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,932 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,973 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 15 | [Somewhere Over Laredo](https://open.spotify.com/track/2KeS9EwqQvw0TdGohFNvfC) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:46 |
 | 16 | [Devil Don’t Go There](https://open.spotify.com/track/14Tb6lAFBbE5HJUCyL0Ei3) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:30 |
 | 17 | [Pieces](https://open.spotify.com/track/73rxH6rYJQZtwfjKNb4mwZ) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Turn Back Time](https://open.spotify.com/album/1YTUy55SBqVmOTSJHJ8ken) | 3:16 |
-| 18 | [Would If I Could \(feat\. Lainey Wilson\)](https://open.spotify.com/track/26o6A0vDrmjiaM0bgP5BH8) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/0fbS7loVI8hh7T06iymFU8) | 3:22 |
-| 19 | [Light of a Clear Blue Morning](https://open.spotify.com/track/5yoMf4Jx2PGNFybDuWNdvE) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Light of a Clear Blue Morning](https://open.spotify.com/album/6YExDnUZUEXINyiPGk3FMz) | 3:47 |
+| 18 | [Light of a Clear Blue Morning](https://open.spotify.com/track/5yoMf4Jx2PGNFybDuWNdvE) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Light of a Clear Blue Morning](https://open.spotify.com/album/6YExDnUZUEXINyiPGk3FMz) | 3:47 |
+| 19 | [Would If I Could \(feat\. Lainey Wilson\)](https://open.spotify.com/track/26o6A0vDrmjiaM0bgP5BH8) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/0fbS7loVI8hh7T06iymFU8) | 3:22 |
 | 20 | [Good Horses \- feat\. Miranda Lambert](https://open.spotify.com/track/6cUJmzU24GorRheKghmNkY) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:57 |
 | 21 | [Nosedive \(Feat\. Lainey Wilson\)](https://open.spotify.com/track/25uMKq5kygC2woAfeetEfE) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:12 |
 | 22 | [The Jesus I Know Now](https://open.spotify.com/track/5b1kZLzylm4PWvlX6DEklE) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [The Jesus I Know Now](https://open.spotify.com/album/7lnIDIoFSoHRRx2XJTsxju) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 49 | [Tougher](https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 3:39 |
 | 50 | [Pipe](https://open.spotify.com/track/6KQmv05z5qkd6D6f75Mqxd) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 2:49 |
 
-Snapshot ID: `apDPgAAAAADBdIZsoHeInTL2KQV17fbW`
+Snapshot ID: `apIhAAAAAABMmbFd2dIKNTP2uFRacR4h`

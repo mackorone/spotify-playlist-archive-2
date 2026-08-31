@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AX458.md) - [plain]
 
 > This is Touché Amoré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,833 likes - 40 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,836 likes - 40 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AX458.md) - [plain]
 | 21 | [Eight Seconds](https://open.spotify.com/track/4zyomJpB6fgmXZ6A79721l) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 1:32 |
 | 22 | [Uppers / Downers](https://open.spotify.com/track/047jxhoDnbSg8mviStkR0Z) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:06 |
 | 23 | [Force of Habit](https://open.spotify.com/track/5lEMusDshGXLe6vGoshGH6) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 2:55 |
-| 24 | [Savoring](https://open.spotify.com/track/78PPN8ZdlhotO6wvNaA9IV) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 2:56 |
-| 25 | [I'll Deserve Just That](https://open.spotify.com/track/31Aw4lTh5VI3lnlifsIP4G) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Searching For A Pulse/The Worth Of The World](https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI) | 1:43 |
+| 24 | [I'll Deserve Just That](https://open.spotify.com/track/31Aw4lTh5VI3lnlifsIP4G) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Searching For A Pulse/The Worth Of The World](https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI) | 1:43 |
+| 25 | [Savoring](https://open.spotify.com/track/78PPN8ZdlhotO6wvNaA9IV) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 2:56 |
 | 26 | [Art Official](https://open.spotify.com/track/1d51f4Xw1FjpwVTC8gsAHk) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:38 |
 | 27 | [Hard to Explain](https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Covers Vol\. 1](https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq) | 3:30 |
 | 28 | [Just Exist](https://open.spotify.com/track/0zjQzW0OR8yYZu7QMr6FxB) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 2:17 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AX458.md) - [plain]
 | 39 | [Suckerfish](https://open.spotify.com/track/24GkGstdibYrnnhfZWsFE4) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:38 |
 | 40 | [Non Fiction](https://open.spotify.com/track/4iGn2PuMw7G2T6DrmSvZP8) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 3:05 |
 
-Snapshot ID: `apDPgAAAAACAJmYRUhE9M0bsMX3DFU+2`
+Snapshot ID: `apIhAAAAAAD3+rb1FvyzdfF3E4vKRdZ2`

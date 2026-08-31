@@ -4,7 +4,7 @@
 
 > This is Lamb of God\. The essential tracks, all in one playlist.
 
-151 songs - 10 hr 42 min
+153 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,8 +34,9 @@
 | [Checkmate](https://open.spotify.com/track/1iqj7vNKGuT0AIGJ11Kojy) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:30 | 2022-05-30 |  |
 | [Children of the Grave](https://open.spotify.com/track/5pdb4UFAWnuiepRAyAUvsd) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Children of the Grave](https://open.spotify.com/album/2josSbpUs4UMzSoCVcXRau) | 4:47 | 2025-07-08 |  |
 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 | 2022-05-30 |  |
+| [Contractor](https://open.spotify.com/track/0zG1wlZF4lrr2URvghfla5) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/1zbNLo00Ye1fqf1Pdk2GId) | 3:22 | 2026-08-31 |  |
 | [Contractor](https://open.spotify.com/track/26BpFV93BbQ07OierXsHqE) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 3:22 | 2022-05-30 | 2023-12-22 |
-| [Contractor](https://open.spotify.com/track/7HYsxZZCd45AXjhHch1HEB) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:22 | 2023-12-21 |  |
+| [Contractor](https://open.spotify.com/track/7HYsxZZCd45AXjhHch1HEB) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:22 | 2023-12-21 | 2026-08-31 |
 | [Dead Seeds](https://open.spotify.com/track/3jadFJbzgsjaBcZyp8x5X6) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/1zbNLo00Ye1fqf1Pdk2GId) | 3:41 | 2026-08-29 |  |
 | [Dead Seeds](https://open.spotify.com/track/4KVfAs5lGzPHunOT1OZ5fG) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 3:41 | 2022-05-30 | 2024-01-16 |
 | [Dead Seeds](https://open.spotify.com/track/6pUIxt8QTqXrAr24oet0dW) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:41 | 2024-01-15 | 2026-08-29 |
@@ -81,7 +82,8 @@
 | [Ill Designs](https://open.spotify.com/track/3qqWr8YhkMVVj9uD0yGgWM) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/6GCmzQESAIPAXbPsIMic3x) | 3:41 | 2022-10-09 | 2022-10-12 |
 | [Ill Designs](https://open.spotify.com/track/7sJbCv83nl2S94j8ZJz2WP) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:41 | 2022-10-11 |  |
 | [In the Absence of the Sacred](https://open.spotify.com/track/4TLTg6pKR2dzRgac8eFaiS) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [New American Gospel](https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t) | 4:37 | 2022-05-30 | 2022-08-07 |
-| [In Your Words](https://open.spotify.com/track/7LhpHlUSDLTiK5FZLUKEYY) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 5:24 | 2023-12-18 |  |
+| [In Your Words](https://open.spotify.com/track/2hYjtvY9ppeDodbSjeEJ5F) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Deluxe Edition\)](https://open.spotify.com/album/479KqDnKRTPYptLEkbZNRp) | 5:24 | 2026-08-31 |  |
+| [In Your Words](https://open.spotify.com/track/7LhpHlUSDLTiK5FZLUKEYY) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 5:24 | 2023-12-18 | 2026-08-31 |
 | [In Your Words](https://open.spotify.com/track/7lVrIjVb0ctSCo00X7cDOk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 5:24 | 2022-05-30 | 2024-03-15 |
 | [Insurrection](https://open.spotify.com/track/6MceLF6UAG3Hw2vzPo5LiL) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 4:50 | 2022-09-06 | 2022-09-22 |
 | [Into Oblivion](https://open.spotify.com/track/0bUxpdWMazVZv1f7TSNSCW) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Into Oblivion](https://open.spotify.com/album/5SVfHoZLhj58lAJzl2iD9g) | 3:34 | 2026-01-18 | 2026-03-24 |

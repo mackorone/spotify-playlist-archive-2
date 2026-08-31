@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: Emanuel Satie
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,038 likes - 110 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,071 likes - 110 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

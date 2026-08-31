@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Giannis Ploutarhos
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,516 likes - 59 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,514 likes - 59 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

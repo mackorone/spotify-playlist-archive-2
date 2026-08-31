@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: Rose Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028,221 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,028,130 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 29 | [Perdón si no te llamé](https://open.spotify.com/track/6ro7G0r7NwAGpg1ooa8hIi) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Perdón si no te llamé](https://open.spotify.com/album/4ZU0IrkV79sXI6RmXlshbX) | 2:49 |
 | 30 | [Badna Nroue](https://open.spotify.com/track/4Y29obvHXHeQFJUjZOEHqG) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Mega Haifa 2](https://open.spotify.com/album/01NVQQpvmM2ejbglR55Smx) | 1:45 |
 | 31 | [Mal o Bien](https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 2:05 |
-| 32 | [Były momenty](https://open.spotify.com/track/2JZvc0rGooaJDY7aMXANxh) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Były momenty](https://open.spotify.com/album/3y7OsAGPH3VMtbyPk8BnSp) | 3:14 |
-| 33 | [Sem Lei](https://open.spotify.com/track/6C8H63gGFeDqAYJ75uLPA6) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 2:53 |
+| 32 | [Sem Lei](https://open.spotify.com/track/6C8H63gGFeDqAYJ75uLPA6) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 2:53 |
+| 33 | [Były momenty](https://open.spotify.com/track/2JZvc0rGooaJDY7aMXANxh) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Były momenty](https://open.spotify.com/album/3y7OsAGPH3VMtbyPk8BnSp) | 3:14 |
 | 34 | [Going Existential In The Rave](https://open.spotify.com/track/1yCN4pcSC5YZ4rvB9ucwQ0) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Going Existential In The Rave](https://open.spotify.com/album/4fN5W1gXamaYZADNgEdw5v) | 3:07 |
 | 35 | [Sousouro](https://open.spotify.com/track/6Q9L85FERsbSTVmNaZjhd4) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Sousouro](https://open.spotify.com/album/1ZuGXCJPpIFwRcgMHSghLU) | 3:51 |
 | 36 | [Ki Allo](https://open.spotify.com/track/1APBa1UnvvcrZJGfHNcRUB) | [Danae](https://open.spotify.com/artist/4j3tjX98PWp21sE1XWIBt8) | [Ki Allo](https://open.spotify.com/album/4ereTaKGCKJgk2iHkFhJnJ) | 3:13 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 38 | [Poco yo \(Remix\) \[En Vivo\]](https://open.spotify.com/track/7cgLDcztpVFSfIRcNeVWaO) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Poco yo \(Remix\) \[En Vivo\]](https://open.spotify.com/album/7dSWHK00tr3H8issnG9KUi) | 6:55 |
 | 39 | [Ceai langa tine](https://open.spotify.com/track/4SWkUkMoq4sScbU9AOSFIT) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [Ceai langa tine](https://open.spotify.com/album/3mXZJCP3IYgC22xLx1OC0D) | 2:29 |
 | 40 | [Carry the Weight](https://open.spotify.com/track/7p3oJMceNz5skGLw52ZOjY) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator \(Deluxe\)](https://open.spotify.com/album/6ehD64XkegXwfsA2hYhkKr) | 3:09 |
-| 41 | [貴得可以 \(影集《欠妳的那場婚禮》插曲\)](https://open.spotify.com/track/0wXB9Y8Kn5pKRg3XabUkb7) | [蘇慧倫](https://open.spotify.com/artist/0HT1FqSMdbL40XGpLcLnoF) | [貴得可以](https://open.spotify.com/album/2a4xzj43vWwzekM1VcHeY8) | 4:12 |
-| 42 | [Guqa \(My Prayer\)](https://open.spotify.com/track/2i640R1xpVapryc9QKdVeo) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [TBO](https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp) | [Izinja Zam: Vol\. I](https://open.spotify.com/album/0HQLuYklJlPPnAH4Fk3IsH) | 7:05 |
+| 41 | [Guqa \(My Prayer\)](https://open.spotify.com/track/2i640R1xpVapryc9QKdVeo) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [TBO](https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp) | [Izinja Zam: Vol\. I](https://open.spotify.com/album/0HQLuYklJlPPnAH4Fk3IsH) | 7:05 |
+| 42 | [貴得可以 \(影集《欠妳的那場婚禮》插曲\)](https://open.spotify.com/track/0wXB9Y8Kn5pKRg3XabUkb7) | [蘇慧倫](https://open.spotify.com/artist/0HT1FqSMdbL40XGpLcLnoF) | [貴得可以](https://open.spotify.com/album/2a4xzj43vWwzekM1VcHeY8) | 4:12 |
 | 43 | [Superman](https://open.spotify.com/track/3seFRBH0poqCNPUA00XYaX) | [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Superman](https://open.spotify.com/album/4mrKLwrqsKD8vskUhIT3wm) | 3:12 |
 | 44 | [Naksir](https://open.spotify.com/track/6Zk1AtD1vTsjP9Z1XOEAVE) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Sehidup Semusik](https://open.spotify.com/album/7Du5gdzqBFuZxKQEQ7XDXT) | 4:40 |
 | 45 | [Diamonds in the Sky](https://open.spotify.com/track/6B0ddCksLT3kXUtgZnExBC) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Diamonds in the Sky](https://open.spotify.com/album/6SC1rulRuCQizgLJVS2zHN) | 3:05 |

@@ -1,6 +1,6 @@
 {
   "description": "Musiquita, calorcito y pura buena vibra \ud83c\udf1e\u2728 ",
-  "num_followers": 529881,
+  "num_followers": 529920,
   "original_name": "Buen Vibe",
   "owner": {
     "name": "Spotify",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2026-08-07 06:00:47",
       "album": {
-        "name": "Monoton\u00eda",
-        "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 158804,
-      "name": "Monoton\u00eda",
-      "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
-    },
-    {
-      "added_at": "2026-08-07 06:00:47",
-      "album": {
         "name": "CANDELA",
         "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 148200,
       "name": "Solecito Ven\u00ed",
       "url": "https://open.spotify.com/track/6Ue84aBdSKDtyA493wcVfD"
+    },
+    {
+      "added_at": "2026-08-07 06:00:47",
+      "album": {
+        "name": "Monoton\u00eda",
+        "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 158804,
+      "name": "Monoton\u00eda",
+      "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
     },
     {
       "added_at": "2026-08-07 06:00:47",

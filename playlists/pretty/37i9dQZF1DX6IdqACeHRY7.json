@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 157932,
+  "num_followers": 157931,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Kiss All The Time. Disco, Occasionally.",
-        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 248866,
-      "name": "Coming Up Roses",
-      "url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Corinne Bailey Rae",
         "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 215360,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 248866,
+      "name": "Coming Up Roses",
+      "url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "kendt mig en uge",
-        "url": "https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 186843,
-      "name": "kendt mig en uge",
-      "url": "https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Happiness Begins",
         "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 217533,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "kendt mig en uge",
+        "url": "https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 186843,
+      "name": "kendt mig en uge",
+      "url": "https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "(over)lever",
-        "url": "https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 136503,
-      "name": "hader ik mig selv sammen med dig",
-      "url": "https://open.spotify.com/track/3Jrggxbj3XXCodbGhORmGo"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Are You Even Real (feat. Giv\u0113on)",
         "url": "https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 147702,
       "name": "Are You Even Real (feat. Giv\u0113on)",
       "url": "https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "(over)lever",
+        "url": "https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 136503,
+      "name": "hader ik mig selv sammen med dig",
+      "url": "https://open.spotify.com/track/3Jrggxbj3XXCodbGhORmGo"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "beholder mit t\u00f8j p\u00e5",
-        "url": "https://open.spotify.com/album/6AVjbXQ4M2ApoQRsa6Ft98"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 188425,
-      "name": "beholder mit t\u00f8j p\u00e5",
-      "url": "https://open.spotify.com/track/6XkLzHg4OmaWNltw6HZVBx"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Kogeplade",
         "url": "https://open.spotify.com/album/7jRZjDNlJewGL6dbYFP70I"
       },
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "beholder mit t\u00f8j p\u00e5",
+        "url": "https://open.spotify.com/album/6AVjbXQ4M2ApoQRsa6Ft98"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 188425,
+      "name": "beholder mit t\u00f8j p\u00e5",
+      "url": "https://open.spotify.com/track/6XkLzHg4OmaWNltw6HZVBx"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "Alle veje f\u00f8rer hjem",
         "url": "https://open.spotify.com/album/7D41dKKjgnoqsb7HilJmQy"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 171794,
       "name": "Er det mig du elsker?",
       "url": "https://open.spotify.com/track/7Jyuh91JYGoh8ps4hIRD1P"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Den nye pige",
+        "url": "https://open.spotify.com/album/5xp5cdwnjXheO7ZRmiTPNa"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00e6st",
+          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+        }
+      ],
+      "duration_ms": 169851,
+      "name": "Den nye pige",
+      "url": "https://open.spotify.com/track/62ULtmT9IgrELMOpd4SJqi"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Den nye pige",
-        "url": "https://open.spotify.com/album/5xp5cdwnjXheO7ZRmiTPNa"
-      },
-      "artists": [
-        {
-          "name": "Bl\u00e6st",
-          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
-        }
-      ],
-      "duration_ms": 169851,
-      "name": "Den nye pige",
-      "url": "https://open.spotify.com/track/62ULtmT9IgrELMOpd4SJqi"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Best Part of Me (feat. YEBBA)",
         "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "Incredible",
-      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "I Should Probably Go To Bed",
         "url": "https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
       "artists": [
         {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
         }
       ],
-      "duration_ms": 169842,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r"
+      "duration_ms": 246320,
+      "name": "Incredible",
+      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1175,6 +1159,22 @@
       "duration_ms": 206745,
       "name": "Vi ku' g\u00e5 hele vejen",
       "url": "https://open.spotify.com/track/4BXLTcYVt63AL28pQXnxp4"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 169842,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX"
+      },
+      "artists": [
+        {
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+        }
+      ],
+      "duration_ms": 217242,
+      "name": "N\u00e5r Du R\u00f8rer Ved Mig",
+      "url": "https://open.spotify.com/track/1PfkILxusHTnJhul70babV"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "To Lanterner",
         "url": "https://open.spotify.com/album/3G77bagmk5pe7ojdlmxSwJ"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 172000,
       "name": "To Lanterner",
       "url": "https://open.spotify.com/track/0zs5EIVjsz66ZHuVlqj2hI"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX"
-      },
-      "artists": [
-        {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
-        }
-      ],
-      "duration_ms": 217242,
-      "name": "N\u00e5r Du R\u00f8rer Ved Mig",
-      "url": "https://open.spotify.com/track/1PfkILxusHTnJhul70babV"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "This Morning",
-        "url": "https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF"
-      },
-      "artists": [
-        {
-          "name": "Picture This",
-          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "This Morning",
-      "url": "https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 198897,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "This Morning",
+        "url": "https://open.spotify.com/album/67eaxqhdQCoFBqWyCWsUmF"
+      },
+      "artists": [
+        {
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "This Morning",
+      "url": "https://open.spotify.com/track/3phOtFs7faVgUInMMaJ3RD"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "It's Gotta Be You",
-        "url": "https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Firebrace",
-          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
-        }
-      ],
-      "duration_ms": 191433,
-      "name": "It's Gotta Be You",
-      "url": "https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Det Hele Handler Om Dig",
         "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 194500,
       "name": "Blomster Visner",
       "url": "https://open.spotify.com/track/0O9arYuEk17mMatL9ERQZu"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "It's Gotta Be You",
+        "url": "https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Firebrace",
+          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
+        }
+      ],
+      "duration_ms": 191433,
+      "name": "It's Gotta Be You",
+      "url": "https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML"
     }
   ],
   "unique_name": "ren hygge",

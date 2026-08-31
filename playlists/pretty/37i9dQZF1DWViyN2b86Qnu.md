@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > Incredible tracks from trans, non\-binary, and gender\-fluid artists\. Cover: Arca
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,955 likes - 52 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,951 likes - 52 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

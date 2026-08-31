@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 326200,
+  "num_followers": 326199,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Agora Vai Sentar",
-        "url": "https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh"
-      },
-      "artists": [
-        {
-          "name": "MC's Jhowzinho & Kadinho",
-          "url": "https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS"
-        }
-      ],
-      "duration_ms": 228922,
-      "name": "Agora Vai Sentar",
-      "url": "https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Terra do Nunca (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 196830,
       "name": "Pouco a Pouco (Ao Vivo) (feat. Sorriso Maroto)",
       "url": "https://open.spotify.com/track/2lm3Ric7MeBk8hLfsiVokr"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Agora Vai Sentar",
+        "url": "https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh"
+      },
+      "artists": [
+        {
+          "name": "MC's Jhowzinho & Kadinho",
+          "url": "https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS"
+        }
+      ],
+      "duration_ms": 228922,
+      "name": "Agora Vai Sentar",
+      "url": "https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -527,18 +527,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "A\u00ed Eu Bebo (ao Vivo)",
-        "url": "https://open.spotify.com/album/6xWyByyXTcL2MUSi0mKewj"
+        "name": "Ra\u00e7a Negra e Amigos II (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0hSUBFqEpxTYTXyYfVncOw"
       },
       "artists": [
         {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "Ra\u00e7a Negra",
+          "url": "https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
         }
       ],
-      "duration_ms": 173891,
-      "name": "A\u00ed Eu Bebo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6lK3nCiigk34SGqEjpQoqO"
+      "duration_ms": 277125,
+      "name": "Cheia de Manias - Ao Vivo",
+      "url": "https://open.spotify.com/track/5JQQylp65Mlpm6yC2JxHHr"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -563,22 +567,18 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Ra\u00e7a Negra e Amigos II (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0hSUBFqEpxTYTXyYfVncOw"
+        "name": "A\u00ed Eu Bebo (ao Vivo)",
+        "url": "https://open.spotify.com/album/6xWyByyXTcL2MUSi0mKewj"
       },
       "artists": [
         {
-          "name": "Ra\u00e7a Negra",
-          "url": "https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt"
-        },
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         }
       ],
-      "duration_ms": 277125,
-      "name": "Cheia de Manias - Ao Vivo",
-      "url": "https://open.spotify.com/track/5JQQylp65Mlpm6yC2JxHHr"
+      "duration_ms": 173891,
+      "name": "A\u00ed Eu Bebo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6lK3nCiigk34SGqEjpQoqO"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1163,22 +1163,18 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Quarenight",
-        "url": "https://open.spotify.com/album/3LEo6WorscdkYEUYBedWud"
+        "name": "Tardezinha 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3H3Pd9vGhDAp9bt3JWUgCA"
       },
       "artists": [
         {
-          "name": "Ventura",
-          "url": "https://open.spotify.com/artist/0awYrHoDgY7bTDlAb3wGuF"
-        },
-        {
-          "name": "DJ Nardini",
-          "url": "https://open.spotify.com/artist/1zGxPsrLbk8aVWBRmdQD9E"
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
         }
       ],
-      "duration_ms": 152400,
-      "name": "Pagod\u00e3o in the Usa",
-      "url": "https://open.spotify.com/track/0innc8nhrzOD2So8Chekvi"
+      "duration_ms": 243605,
+      "name": "Pot-Pourri: Outdoor / Curtindo a Vida - Ao Vivo",
+      "url": "https://open.spotify.com/track/2xl2TBSYbuUm46UXwPKK1g"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1199,18 +1195,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Tardezinha 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3H3Pd9vGhDAp9bt3JWUgCA"
+        "name": "Quarenight",
+        "url": "https://open.spotify.com/album/3LEo6WorscdkYEUYBedWud"
       },
       "artists": [
         {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+          "name": "Ventura",
+          "url": "https://open.spotify.com/artist/0awYrHoDgY7bTDlAb3wGuF"
+        },
+        {
+          "name": "DJ Nardini",
+          "url": "https://open.spotify.com/artist/1zGxPsrLbk8aVWBRmdQD9E"
         }
       ],
-      "duration_ms": 243605,
-      "name": "Pot-Pourri: Outdoor / Curtindo a Vida - Ao Vivo",
-      "url": "https://open.spotify.com/track/2xl2TBSYbuUm46UXwPKK1g"
+      "duration_ms": 152400,
+      "name": "Pagod\u00e3o in the Usa",
+      "url": "https://open.spotify.com/track/0innc8nhrzOD2So8Chekvi"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1259,42 +1259,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Eu Mere\u00e7o Ser Feliz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0RKJklVj9ftrifuRNwVLaI"
-      },
-      "artists": [
-        {
-          "name": "Mumuzinho",
-          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
-        }
-      ],
-      "duration_ms": 194090,
-      "name": "Eu Mere\u00e7o Ser Feliz - Ao Vivo",
-      "url": "https://open.spotify.com/track/1lHJDa7IGCYwjf10VcmvFb"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Contatinho (feat. Luan Santana)",
-        "url": "https://open.spotify.com/album/2HYVLeXZVCgSTrwBxtV9za"
-      },
-      "artists": [
-        {
-          "name": "Nego do Borel",
-          "url": "https://open.spotify.com/artist/1B0Rp4SWGnFgGCPU5Pju6E"
-        },
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "Contatinho (feat. Luan Santana)",
-      "url": "https://open.spotify.com/track/47zBTlbsiXs9ooyPo7Z7VT"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "S\u00f3 Vem! (ao Vivo) - Deluxe",
         "url": "https://open.spotify.com/album/04tzF0EuVB13cbdgH0d9iV"
       },
@@ -1311,6 +1275,42 @@
       "duration_ms": 195569,
       "name": "S\u00f3 Vem! - Ao Vivo",
       "url": "https://open.spotify.com/track/4bXwQ9ZcMjoN28b4J9bykr"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Eu Mere\u00e7o Ser Feliz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0RKJklVj9ftrifuRNwVLaI"
+      },
+      "artists": [
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        }
+      ],
+      "duration_ms": 194090,
+      "name": "Eu Mere\u00e7o Ser Feliz - Ao Vivo",
+      "url": "https://open.spotify.com/track/1lHJDa7IGCYwjf10VcmvFb"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Pirata e tesouro (Dennis DJ Remix)",
+        "url": "https://open.spotify.com/album/5XZ7oNNlWoYuklWxIjBsqD"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 226891,
+      "name": "Pirata e tesouro - Dennis DJ Remix",
+      "url": "https://open.spotify.com/track/4sWnjmKdn0tIq5HJnZTMv5"
     }
   ],
   "unique_name": "Festa na Piscina",

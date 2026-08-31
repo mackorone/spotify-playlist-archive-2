@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,421,875 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,421,710 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 14 | [Pagsamo](https://open.spotify.com/track/0WZqHCoOBXqgCCIsUZLC2a) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pagsamo](https://open.spotify.com/album/668hRB0T4LU6a7HVspAMKy) | 4:57 |
 | 15 | [Tingin](https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN), [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Tingin](https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3) | 3:42 |
 | 16 | [Kalimutan Ka](https://open.spotify.com/track/7dXZnGGBn9Kfu8NCnrRl3w) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Kalimutan Ka](https://open.spotify.com/album/1CVdBDkuBgD62YGDXslE4R) | 4:48 |
-| 17 | [Palaisipan](https://open.spotify.com/track/5Qsa2a1GStao34PdmEJUN2) | [Loonie](https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Palaisipan](https://open.spotify.com/album/78krpREp3Hu6cfhbTJVNW0) | 4:01 |
-| 18 | [Ikaw Lang Patutunguhan](https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Ikaw Lang Patutunguhan](https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG) | 5:26 |
+| 17 | [Ikaw Lang Patutunguhan](https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Ikaw Lang Patutunguhan](https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG) | 5:26 |
+| 18 | [Palaisipan](https://open.spotify.com/track/5Qsa2a1GStao34PdmEJUN2) | [Loonie](https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Palaisipan](https://open.spotify.com/album/78krpREp3Hu6cfhbTJVNW0) | 4:01 |
 | 19 | [Marilag](https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Marilag](https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY) | 2:37 |
 | 20 | [Naiilang](https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Naiilang](https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5) | 4:07 |
 | 21 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 37 | [Patlang](https://open.spotify.com/track/2OaAviEYdZQz2dCRsJQKBf) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Patlang](https://open.spotify.com/album/0vax7CV3zjlPXUTlzfwbwn) | 3:50 |
 | 38 | [Saranggola](https://open.spotify.com/track/2V3HVXu25O5xCAjmmptYCo) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Saranggola](https://open.spotify.com/album/36gNzsCUsMd3CoD9zGyMUp) | 4:26 |
 | 39 | [Nahanap Kita](https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Nahanap Kita](https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW) | 5:17 |
-| 40 | [Ang Wakas \(feat\. Trisha Macapagal\)](https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce), [Trisha Macapagal](https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O) | [Ang Wakas \(feat\. Trisha Macapagal\)](https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n) | 5:04 |
-| 41 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 |
+| 40 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 |
+| 41 | [Ang Wakas \(feat\. Trisha Macapagal\)](https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce), [Trisha Macapagal](https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O) | [Ang Wakas \(feat\. Trisha Macapagal\)](https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n) | 5:04 |
 | 42 | [Musika](https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Musika](https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv) | 4:06 |
 | 43 | [Leaves](https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Leaves](https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y) | 5:10 |
 | 44 | [Dilaw](https://open.spotify.com/track/2ADSh3Mp744n2586tpUtIW) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Dilaw](https://open.spotify.com/album/1gbgbQj9mCxtp3IPybhMzp) | 3:12 |

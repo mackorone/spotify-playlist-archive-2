@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-358 songs - 18 hr 24 min
+359 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [In My Room](https://open.spotify.com/track/2Ui2JtVjnbHZuExldryCOA) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [PRESSURE](https://open.spotify.com/album/4vIzHHL3D8TacHTRQzYIYe) | 2:43 | 2025-05-25 |  |
 | [In My Room](https://open.spotify.com/track/6fjK2QHqJybDsUpx0RSPHV) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/47XJwitSW0IxMx1n2jtSbD) | 2:43 | 2024-06-07 | 2025-01-16 |
 | [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 | 2025-01-15 | 2025-05-26 |
-| [In My Victoria's Secret](https://open.spotify.com/track/3k5OStPX5fNfTd3ZQL8RkY) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [In My Victoria's Secret](https://open.spotify.com/album/6tUTuceOlc0o9osQphRnzF) | 2:40 | 2026-07-22 |  |
+| [In My Victoria's Secret](https://open.spotify.com/track/34G75Cxn4TNbLpCYQ93fsU) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [MINI SKIRT WARRIOR](https://open.spotify.com/album/7Kmhb7ZghaugEnZ4ne8gyB) | 2:40 | 2026-08-30 |  |
+| [In My Victoria's Secret](https://open.spotify.com/track/3k5OStPX5fNfTd3ZQL8RkY) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [In My Victoria's Secret](https://open.spotify.com/album/6tUTuceOlc0o9osQphRnzF) | 2:40 | 2026-07-22 | 2026-08-31 |
 | [In the End](https://open.spotify.com/track/76ZM2e3QNTG2PXHN6Lhg1h) | [Annika Rose](https://open.spotify.com/artist/3E6TQHXjqR21vX9H0c5mOv) | [In the End](https://open.spotify.com/album/5wqeo9Po4CU3afnDB2RdrU) | 4:14 | 2024-06-07 |  |
 | [INCONSIDERATE AND ADHD](https://open.spotify.com/track/5TKlowPJfykIdsEwUzQ9ky) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Make Yourself At Home](https://open.spotify.com/album/46jHQdOJZaEaunUrtYEqD1) | 2:18 | 2025-07-22 |  |
 | [Indie Movie Zoomout Moment](https://open.spotify.com/track/52L7FseAcbWs0lqTH9Z2IK) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [I Call It Being Human](https://open.spotify.com/album/3FVWw3nnNmvi2XCjKERKMN) | 2:45 | 2024-06-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: Dominic Fike
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,824 likes - 200 songs - 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288,753 likes - 200 songs - 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

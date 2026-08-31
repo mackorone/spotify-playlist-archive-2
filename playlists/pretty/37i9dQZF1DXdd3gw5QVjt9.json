@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1070352,
+  "num_followers": 1070278,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 189506,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 307172,
+      "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -371,18 +371,18 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
       },
       "artists": [
         {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 307172,
-      "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
+      "duration_ms": 208746,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -515,30 +515,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "No Rain, No Rose (Vinyl)",
-        "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
-      },
-      "artists": [
-        {
-          "name": "John Craigie",
-          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
-        },
-        {
-          "name": "Shook Twins",
-          "url": "https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i"
-        },
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 266894,
-      "name": "Highway Blood (feat. Shook Twins & Gregory Alan Isakov)",
-      "url": "https://open.spotify.com/track/5e6kMwY5gD9sYEEMUl4RbU"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Oh Ohio",
         "url": "https://open.spotify.com/album/7hXB5KdtSNNwns8lMyjkY5"
       },
@@ -567,6 +543,30 @@
       "duration_ms": 183773,
       "name": "Howl",
       "url": "https://open.spotify.com/track/68i6MdF0uPSiUAOqY7r0fr"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "No Rain, No Rose (Vinyl)",
+        "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
+      },
+      "artists": [
+        {
+          "name": "John Craigie",
+          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
+        },
+        {
+          "name": "Shook Twins",
+          "url": "https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i"
+        },
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 266894,
+      "name": "Highway Blood (feat. Shook Twins & Gregory Alan Isakov)",
+      "url": "https://open.spotify.com/track/5e6kMwY5gD9sYEEMUl4RbU"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Better Way",
-        "url": "https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 356522,
-      "name": "Better Way",
-      "url": "https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "When I Say That I Love You",
         "url": "https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 177674,
       "name": "When I Say That I Love You",
       "url": "https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Better Way",
+        "url": "https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 356522,
+      "name": "Better Way",
+      "url": "https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Extralife",
-        "url": "https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 285346,
-      "name": "Futures",
-      "url": "https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Nervous At Night",
         "url": "https://open.spotify.com/album/76lspWvk0J4LpjHt63a1Cg"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 187133,
       "name": "Planet With Water",
       "url": "https://open.spotify.com/track/5ScvUK3JuwyxH3i1HMVqKp"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Extralife",
+        "url": "https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 285346,
+      "name": "Futures",
+      "url": "https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Matin\u00e9e",
-        "url": "https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl"
-      },
-      "artists": [
-        {
-          "name": "Canyon City",
-          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
-        }
-      ],
-      "duration_ms": 252640,
-      "name": "So Are We",
-      "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "baby, get your ticket",
         "url": "https://open.spotify.com/album/5HOXrzxrJveyr7QTR4xqDs"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 155431,
       "name": "baby, get your ticket",
       "url": "https://open.spotify.com/track/5QDC5EuXkPT6EsX6Fe8EqG"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Matin\u00e9e",
+        "url": "https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "So Are We",
+      "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
     },
     {
       "added_at": "2024-08-23 14:59:54",

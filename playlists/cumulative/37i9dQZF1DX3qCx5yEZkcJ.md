@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-593 songs - 1 day 0 hr 44 min
+594 songs - 1 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Come Back to You](https://open.spotify.com/track/5cDFp0nCi0hgQFdsPwFJMU) | [Beats by Egomi](https://open.spotify.com/artist/4l2nSjx7H4PJmARVKXM36S) | [The Jaded Beat, Vol\. 2](https://open.spotify.com/album/1UMbNkcCv2CtzgKEPeiPPF) | 2:52 | 2020-01-14 | 2021-10-24 |
 | [Common'](https://open.spotify.com/track/04ahHGfST9G63DMFJb3ME8) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Gustav Gustav](https://open.spotify.com/artist/1dyXIa7Eo7ZdJsHQnOjtH8) | [Berlin 64](https://open.spotify.com/album/1xcNibWL2YTMIMJksCSkTW) | 2:27 | 2019-08-31 | 2020-01-14 |
 | [Constellation](https://open.spotify.com/track/7CCGMuXZtGEN7GvZcKPrzr) | [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Constellation](https://open.spotify.com/album/4fWpzjHcfAJIU7Mbee9UVz) | 1:41 | 2020-06-19 | 2025-08-09 |
-| [Coquettish Definition](https://open.spotify.com/track/7ia1IkIdwO1vKm6MSNBn1m) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Kazuhiko Maeda](https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ) | [Coquettish Definition](https://open.spotify.com/album/2jC1QCvls2e3LYba2WOxNj) | 3:13 | 2024-07-04 |  |
+| [Coquettish Definition](https://open.spotify.com/track/7ia1IkIdwO1vKm6MSNBn1m) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Kazuhiko Maeda](https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ) | [Coquettish Definition](https://open.spotify.com/album/2jC1QCvls2e3LYba2WOxNj) | 3:13 | 2024-07-04 | 2026-08-31 |
 | [Cosmic](https://open.spotify.com/track/3ESJIVVpwOAK9fK5sktDl7) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh), [TyLuv.](https://open.spotify.com/artist/6ay740FQIPgTMahZqP9Opx) | [Cosmic](https://open.spotify.com/album/0Q413u4gUUGs8EKDe13hzs) | 1:34 | 2021-07-04 |  |
 | [Cosmic Thoughts](https://open.spotify.com/track/4lSsjJQ7DPJkcnvLqiuRcs) | [Axian](https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6), [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY) | [Cosmic Thoughts](https://open.spotify.com/album/0RIxRPbo7BrvTSfJlTFIXE) | 2:32 | 2019-05-26\* | 2019-06-15 |
 | [Cove](https://open.spotify.com/track/5uRkzJn0E5snSTGcvfSegC) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Carefree](https://open.spotify.com/album/1t0tGWj576akBoj8m9VpXX) | 2:01 | 2024-11-29 |  |
@@ -468,6 +468,7 @@
 | [Smiling World](https://open.spotify.com/track/4Taz7DRjSTrAO3PXPdhFgN) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Smiling World](https://open.spotify.com/album/03YLbgauiRKjap4IUesBNS) | 2:06 | 2021-10-29 | 2025-09-18 |
 | [Smoke Rings](https://open.spotify.com/track/5XquEMLviSzVmnt8fzZqVu) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [smwhere, smtime](https://open.spotify.com/album/2kw2r9j47LTz8dFt7KBJh8) | 1:56 | 2020-03-27 | 2024-11-30 |
 | [Smooth Stones](https://open.spotify.com/track/0b4WYHrVYbIMKLyDHLua03) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Smooth Stones](https://open.spotify.com/album/1PYZ4y5W26UQxe74eUdCgJ) | 1:56 | 2019-05-26\* | 2021-05-28 |
+| [Smrti](https://open.spotify.com/track/3sKJPbWulZzffOZXyfbPxd) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Kazuhiko Maeda](https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ) | [Smrti](https://open.spotify.com/album/2caE10cf8sk85D86ROCnwZ) | 3:20 | 2026-08-30 |  |
 | [Snow Cap](https://open.spotify.com/track/4URLqvRCn4FOt367artiRa) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Lo Tide](https://open.spotify.com/album/6sbEmWEhSE3YziLBPwa2hh) | 2:20 | 2019-05-26\* | 2022-04-20 |
 | [snow in the park](https://open.spotify.com/track/3rbAMJkgzrVUv0s9oihOAU) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [snow in the park](https://open.spotify.com/album/6X1WlzgKrWhuBH2g8PqTi3) | 3:18 | 2021-12-16 | 2025-04-14 |
 | [So They Say](https://open.spotify.com/track/0GSKfSgXpt1T8hbLk7ZMId) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [Daybreaks](https://open.spotify.com/album/5qJ3nTrX2X0OvggMXsXPpd) | 2:18 | 2022-11-17 | 2024-04-11 |

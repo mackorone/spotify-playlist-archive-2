@@ -1,6 +1,6 @@
 {
   "description": "the soundtrack to your girl dinner. Cover: Tinashe",
-  "num_followers": 221000,
+  "num_followers": 221031,
   "original_name": "hot girl sh*t",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-02-22 13:00:22",
       "album": {
+        "name": "Queen Of The Clouds",
+        "url": "https://open.spotify.com/album/5Z5O36p7BivXzkucc0PAfw"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 238426,
+      "name": "Talking Body",
+      "url": "https://open.spotify.com/track/7cgu4JBW3hq1GwTM1ilkKQ"
+    },
+    {
+      "added_at": "2026-02-22 13:00:22",
+      "album": {
         "name": "THIS IS... ICONA POP",
         "url": "https://open.spotify.com/album/3qpAHoOLWeXRNTaGzeYf13"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 157152,
       "name": "I Love It (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH"
-    },
-    {
-      "added_at": "2026-02-22 13:00:22",
-      "album": {
-        "name": "Queen Of The Clouds",
-        "url": "https://open.spotify.com/album/5Z5O36p7BivXzkucc0PAfw"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 238426,
-      "name": "Talking Body",
-      "url": "https://open.spotify.com/track/7cgu4JBW3hq1GwTM1ilkKQ"
     },
     {
       "added_at": "2026-02-22 13:00:22",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
     },
     {
-      "added_at": "2026-08-20 14:00:41",
-      "album": {
-        "name": "CONFESSIONS II",
-        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 263469,
-      "name": "One Step Away",
-      "url": "https://open.spotify.com/track/7eidNIYy4hPOlGioM7jBwx"
-    },
-    {
       "added_at": "2026-02-22 13:00:22",
       "album": {
         "name": "Rockstar",
@@ -855,6 +839,22 @@
       "duration_ms": 138213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+    },
+    {
+      "added_at": "2026-08-20 14:00:41",
+      "album": {
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 263469,
+      "name": "One Step Away",
+      "url": "https://open.spotify.com/track/7eidNIYy4hPOlGioM7jBwx"
     },
     {
       "added_at": "2026-02-22 13:00:22",

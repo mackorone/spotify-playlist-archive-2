@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAANmLmNLkehfuNgs53Gc1uO",
+  "snapshot_id": "apIhAAAAAAAQ6qsT4TcsImCZpFf4O6sw",
   "tracks": [
     {
       "added_at": null,
@@ -87,6 +87,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sigh In My Ear",
+        "url": "https://open.spotify.com/album/3SrHRw7oJL9lD7w7FHOcwV"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Your First Armadillo",
+      "url": "https://open.spotify.com/track/6QdL6dNUv5v6HkpW7nnKVM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Phosphenes (claire rousay EDIT)",
         "url": "https://open.spotify.com/album/6xN66xGediHIBN5BOMo9PF"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 545000,
       "name": "Phosphenes - claire rousay EDIT",
       "url": "https://open.spotify.com/track/1dgiMqTuhDvBgFzX0mqMK5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sigh In My Ear",
-        "url": "https://open.spotify.com/album/3SrHRw7oJL9lD7w7FHOcwV"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Your First Armadillo",
-      "url": "https://open.spotify.com/track/6QdL6dNUv5v6HkpW7nnKVM"
     },
     {
       "added_at": null,
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
-      "duration_ms": 77360,
-      "name": "night one",
-      "url": "https://open.spotify.com/track/4AoE2dLUdseJaTK80s9A4n"
+      "duration_ms": 215788,
+      "name": "doubt",
+      "url": "https://open.spotify.com/track/15E0nm9fi1j11k3br35TQB"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/2uTkkIkIpbQu3JT0UF1K5C"
         }
       ],
-      "duration_ms": 201500,
-      "name": "spiral branches",
-      "url": "https://open.spotify.com/track/6WWDUkgLxrd3bIaJB1fqZo"
+      "duration_ms": 225765,
+      "name": "nothing to dread",
+      "url": "https://open.spotify.com/track/75LCHnJsoQmdO2FjDzLzZG"
     },
     {
       "added_at": null,
@@ -280,9 +280,53 @@
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
-      "duration_ms": 215788,
-      "name": "doubt",
-      "url": "https://open.spotify.com/track/15E0nm9fi1j11k3br35TQB"
+      "duration_ms": 77360,
+      "name": "night one",
+      "url": "https://open.spotify.com/track/4AoE2dLUdseJaTK80s9A4n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/0MbPCtAJZVJmqGne38mQdF"
+      },
+      "artists": [
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "Pink Must",
+          "url": "https://open.spotify.com/artist/2ugqiyhldi0oFKePKmHIy9"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/37oNvv3Qqse1Hpj0MeSiDG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "quilted lament",
+        "url": "https://open.spotify.com/album/2ogzCBbtEUE7oR23z7RAwa"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "Gretchen Korsmo",
+          "url": "https://open.spotify.com/artist/2uTkkIkIpbQu3JT0UF1K5C"
+        }
+      ],
+      "duration_ms": 69697,
+      "name": "kitchen duet",
+      "url": "https://open.spotify.com/track/6NWjdGPxASVhccpJl8c9w9"
     },
     {
       "added_at": null,
@@ -323,6 +367,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "a little death",
+        "url": "https://open.spotify.com/album/6pnb0vQLp8a9c6u1XAW3Up"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 320051,
+      "name": "somewhat burdensome",
+      "url": "https://open.spotify.com/track/0y1zdTbJu5sBGL1ANM91aw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ser\u00e1 Que Ahora Podremos Entendernos",
+        "url": "https://open.spotify.com/album/0wNC9N8RpCvzCo8I3YQ8K4"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 360725,
+      "name": "Hacia el Vac\u00edo",
+      "url": "https://open.spotify.com/track/6bko8o63cURyCv6IE27Ela"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "quilted lament",
         "url": "https://open.spotify.com/album/2ogzCBbtEUE7oR23z7RAwa"
       },
@@ -336,33 +416,29 @@
           "url": "https://open.spotify.com/artist/2uTkkIkIpbQu3JT0UF1K5C"
         }
       ],
-      "duration_ms": 225765,
-      "name": "nothing to dread",
-      "url": "https://open.spotify.com/track/75LCHnJsoQmdO2FjDzLzZG"
+      "duration_ms": 201500,
+      "name": "spiral branches",
+      "url": "https://open.spotify.com/track/6WWDUkgLxrd3bIaJB1fqZo"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Harmony",
-        "url": "https://open.spotify.com/album/0MbPCtAJZVJmqGne38mQdF"
+        "name": "Deceiver",
+        "url": "https://open.spotify.com/album/1PZEGP9yY4nlf9Pv6mTCpN"
       },
       "artists": [
-        {
-          "name": "Grumpy",
-          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
-        },
         {
           "name": "claire rousay",
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         },
         {
-          "name": "Pink Must",
-          "url": "https://open.spotify.com/artist/2ugqiyhldi0oFKePKmHIy9"
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Harmony",
-      "url": "https://open.spotify.com/track/37oNvv3Qqse1Hpj0MeSiDG"
+      "duration_ms": 224643,
+      "name": "Deceiver",
+      "url": "https://open.spotify.com/track/7uYYnLks8scZzC1vA1qEjj"
     },
     {
       "added_at": null,
@@ -376,9 +452,9 @@
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
-      "duration_ms": 320051,
-      "name": "somewhat burdensome",
-      "url": "https://open.spotify.com/track/0y1zdTbJu5sBGL1ANM91aw"
+      "duration_ms": 172723,
+      "name": "conditional love",
+      "url": "https://open.spotify.com/track/0A9d7CLI8k9uXCOZyAy3Mc"
     },
     {
       "added_at": null,
@@ -416,9 +492,9 @@
           "url": "https://open.spotify.com/artist/2uTkkIkIpbQu3JT0UF1K5C"
         }
       ],
-      "duration_ms": 408464,
-      "name": "find yourself in a hole on the beach",
-      "url": "https://open.spotify.com/track/45zR8qkw5JuoGNFEqYRezo"
+      "duration_ms": 305548,
+      "name": "thick walls, thin walls",
+      "url": "https://open.spotify.com/track/2lvQsBn3qlIf7285V9P7YX"
     },
     {
       "added_at": null,
@@ -451,82 +527,6 @@
       "duration_ms": 414113,
       "name": "Even The Horizon Knows Its Bounds VII",
       "url": "https://open.spotify.com/track/4XcaMtaGxeicOxCcoZSYSB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "a little death",
-        "url": "https://open.spotify.com/album/6pnb0vQLp8a9c6u1XAW3Up"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "conditional love",
-      "url": "https://open.spotify.com/track/0A9d7CLI8k9uXCOZyAy3Mc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deceiver",
-        "url": "https://open.spotify.com/album/1PZEGP9yY4nlf9Pv6mTCpN"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        },
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 224643,
-      "name": "Deceiver",
-      "url": "https://open.spotify.com/track/7uYYnLks8scZzC1vA1qEjj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "quilted lament",
-        "url": "https://open.spotify.com/album/2ogzCBbtEUE7oR23z7RAwa"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        },
-        {
-          "name": "Gretchen Korsmo",
-          "url": "https://open.spotify.com/artist/2uTkkIkIpbQu3JT0UF1K5C"
-        }
-      ],
-      "duration_ms": 69697,
-      "name": "kitchen duet",
-      "url": "https://open.spotify.com/track/6NWjdGPxASVhccpJl8c9w9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ser\u00e1 Que Ahora Podremos Entendernos",
-        "url": "https://open.spotify.com/album/0wNC9N8RpCvzCo8I3YQ8K4"
-      },
-      "artists": [
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        },
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 360725,
-      "name": "Hacia el Vac\u00edo",
-      "url": "https://open.spotify.com/track/6bko8o63cURyCv6IE27Ela"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/2uTkkIkIpbQu3JT0UF1K5C"
         }
       ],
-      "duration_ms": 305548,
-      "name": "thick walls, thin walls",
-      "url": "https://open.spotify.com/track/2lvQsBn3qlIf7285V9P7YX"
+      "duration_ms": 408464,
+      "name": "find yourself in a hole on the beach",
+      "url": "https://open.spotify.com/track/45zR8qkw5JuoGNFEqYRezo"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "sentiment",
-        "url": "https://open.spotify.com/album/0QhdOeubTOElMLAVK52uQu"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 281904,
-      "name": "it could be anything",
-      "url": "https://open.spotify.com/track/3u26sMAKbs70F0qW9r9x6o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "no floor",
         "url": "https://open.spotify.com/album/4LRwW5laUnoamagLHKENzG"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "sentiment",
+        "url": "https://open.spotify.com/album/0QhdOeubTOElMLAVK52uQu"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 281904,
+      "name": "it could be anything",
+      "url": "https://open.spotify.com/track/3u26sMAKbs70F0qW9r9x6o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Bloody Lady",
         "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
       },
@@ -683,6 +683,30 @@
       "duration_ms": 54000,
       "name": "iv",
       "url": "https://open.spotify.com/track/6QPvrBOSfoKtPV9q2tNsbu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "a crying poem",
+        "url": "https://open.spotify.com/album/2MbJeHsvvUkpKfXYpuErfZ"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "More Eaze",
+          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
+        },
+        {
+          "name": "Bloodz Boi",
+          "url": "https://open.spotify.com/artist/1U21I6Gqa4EyPwf7hJ1Phg"
+        }
+      ],
+      "duration_ms": 173497,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/6IiykhtRMTSvCl2fWAZVV1"
     },
     {
       "added_at": null,
@@ -723,46 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "a crying poem",
-        "url": "https://open.spotify.com/album/2MbJeHsvvUkpKfXYpuErfZ"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        },
-        {
-          "name": "More Eaze",
-          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
-        },
-        {
-          "name": "Bloodz Boi",
-          "url": "https://open.spotify.com/artist/1U21I6Gqa4EyPwf7hJ1Phg"
-        }
-      ],
-      "duration_ms": 173497,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/6IiykhtRMTSvCl2fWAZVV1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bloody Lady",
-        "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "xi",
-      "url": "https://open.spotify.com/track/4FnhjO3q1jAftUTfxLYXZ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "a softer focus",
         "url": "https://open.spotify.com/album/3KJv1qok546bBsej16WkR4"
       },
@@ -775,22 +759,6 @@
       "duration_ms": 289737,
       "name": "stoned gesture",
       "url": "https://open.spotify.com/track/7gC69iI7Tf7TTc6Xitje12"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "sentiment",
-        "url": "https://open.spotify.com/album/0QhdOeubTOElMLAVK52uQu"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 307118,
-      "name": "sycamore skylight",
-      "url": "https://open.spotify.com/track/6HoYOmVHh3MbPhynnidIby"
     },
     {
       "added_at": null,
@@ -828,9 +796,25 @@
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
-      "duration_ms": 504000,
-      "name": "v",
-      "url": "https://open.spotify.com/track/5BZyjIbDp5u7PeT2TlmTfk"
+      "duration_ms": 96000,
+      "name": "xi",
+      "url": "https://open.spotify.com/track/4FnhjO3q1jAftUTfxLYXZ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "sentiment",
+        "url": "https://open.spotify.com/album/0QhdOeubTOElMLAVK52uQu"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 307118,
+      "name": "sycamore skylight",
+      "url": "https://open.spotify.com/track/6HoYOmVHh3MbPhynnidIby"
     },
     {
       "added_at": null,
@@ -847,26 +831,6 @@
       "duration_ms": 515517,
       "name": "diluted dreams",
       "url": "https://open.spotify.com/track/2pRLD3RpQa6WHGenTsXe2s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "sentiment",
-        "url": "https://open.spotify.com/album/0QhdOeubTOElMLAVK52uQu"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        },
-        {
-          "name": "Lala Lala",
-          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
-        }
-      ],
-      "duration_ms": 290181,
-      "name": "please 5 more minutes (feat. Lala Lala)",
-      "url": "https://open.spotify.com/track/268XYupMBlKQBHb3m4BIRS"
     },
     {
       "added_at": null,
@@ -911,6 +875,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "sentiment",
+        "url": "https://open.spotify.com/album/0QhdOeubTOElMLAVK52uQu"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+        }
+      ],
+      "duration_ms": 290181,
+      "name": "please 5 more minutes (feat. Lala Lala)",
+      "url": "https://open.spotify.com/track/268XYupMBlKQBHb3m4BIRS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "a softer focus",
         "url": "https://open.spotify.com/album/3KJv1qok546bBsej16WkR4"
       },
@@ -927,22 +911,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eyeline",
-        "url": "https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7"
+        "name": "no floor",
+        "url": "https://open.spotify.com/album/4LRwW5laUnoamagLHKENzG"
       },
       "artists": [
         {
-          "name": "LEYA",
-          "url": "https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1"
+          "name": "More Eaze",
+          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
         },
         {
           "name": "claire rousay",
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
-      "duration_ms": 56567,
-      "name": "Dankworld Interlude",
-      "url": "https://open.spotify.com/track/2p4Si60Lb8BAGIjLbYuRty"
+      "duration_ms": 398333,
+      "name": "limelight, illegally",
+      "url": "https://open.spotify.com/track/3RCPWiYeYt9M5BNe2vfh0t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bloody Lady",
+        "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 504000,
+      "name": "v",
+      "url": "https://open.spotify.com/track/5BZyjIbDp5u7PeT2TlmTfk"
     },
     {
       "added_at": null,

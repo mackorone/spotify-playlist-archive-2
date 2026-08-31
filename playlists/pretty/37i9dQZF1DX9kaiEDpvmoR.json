@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93836,
+  "num_followers": 93834,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-08-27 22:00:31",
       "album": {
-        "name": "Jealous Lover",
-        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 229994,
-      "name": "Jealous Lover",
-      "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
-    },
-    {
-      "added_at": "2026-08-27 22:00:31",
-      "album": {
         "name": "Iconic",
         "url": "https://open.spotify.com/album/0HgLE4fEcT5oFPbMRF4Ej3"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 178000,
       "name": "Iconic",
       "url": "https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc"
+    },
+    {
+      "added_at": "2026-08-27 22:00:31",
+      "album": {
+        "name": "Jealous Lover",
+        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 229994,
+      "name": "Jealous Lover",
+      "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
     },
     {
       "added_at": "2026-08-27 22:00:31",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-08-27 22:00:31",
       "album": {
+        "name": "Revalution Club",
+        "url": "https://open.spotify.com/album/6VrlawQweOnhs94WOGWl4D"
+      },
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
+        }
+      ],
+      "duration_ms": 269250,
+      "name": "Musiken som h\u00f6rs fr\u00e5n Rival",
+      "url": "https://open.spotify.com/track/0799iI2UqqtWpf2TUjR8aM"
+    },
+    {
+      "added_at": "2026-08-27 22:00:31",
+      "album": {
         "name": "Good Time Is Coming",
         "url": "https://open.spotify.com/album/56EkXkFIPNX0P9hXwTv0Uu"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 227666,
       "name": "R\u00e4dda Liv",
       "url": "https://open.spotify.com/track/1HU7FMa7cj5l1Zv4R6B0dO"
-    },
-    {
-      "added_at": "2026-08-27 22:00:31",
-      "album": {
-        "name": "Revalution Club",
-        "url": "https://open.spotify.com/album/6VrlawQweOnhs94WOGWl4D"
-      },
-      "artists": [
-        {
-          "name": "Eva Dahlgren",
-          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
-        }
-      ],
-      "duration_ms": 269250,
-      "name": "Musiken som h\u00f6rs fr\u00e5n Rival",
-      "url": "https://open.spotify.com/track/0799iI2UqqtWpf2TUjR8aM"
     },
     {
       "added_at": "2026-08-27 22:00:31",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-08-27 22:00:31",
       "album": {
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/3BSJ4y4c2ktgyM9vqqMdDZ"
+      },
+      "artists": [
+        {
+          "name": "The Magnolia",
+          "url": "https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb"
+        }
+      ],
+      "duration_ms": 208173,
+      "name": "By and By",
+      "url": "https://open.spotify.com/track/5JZ07LF0eSj9rgmGNlrLjl"
+    },
+    {
+      "added_at": "2026-08-27 22:00:31",
+      "album": {
         "name": "Everything's wasted",
         "url": "https://open.spotify.com/album/2qRHkSc9g1Iign5yKvJhFA"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 183278,
       "name": "RANSOMS",
       "url": "https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN"
-    },
-    {
-      "added_at": "2026-08-27 22:00:31",
-      "album": {
-        "name": "By and By",
-        "url": "https://open.spotify.com/album/3BSJ4y4c2ktgyM9vqqMdDZ"
-      },
-      "artists": [
-        {
-          "name": "The Magnolia",
-          "url": "https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb"
-        }
-      ],
-      "duration_ms": 208173,
-      "name": "By and By",
-      "url": "https://open.spotify.com/track/5JZ07LF0eSj9rgmGNlrLjl"
     },
     {
       "added_at": "2026-08-27 22:00:31",
@@ -1307,30 +1307,6 @@
     {
       "added_at": "2026-08-27 22:00:31",
       "album": {
-        "name": "R\u00f6k i dina \u00f6gon",
-        "url": "https://open.spotify.com/album/2Fn6Q9UqLJKmHGHzbjjrW6"
-      },
-      "artists": [
-        {
-          "name": "bob hund",
-          "url": "https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx"
-        },
-        {
-          "name": "Esther",
-          "url": "https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza"
-        },
-        {
-          "name": "Popkollo",
-          "url": "https://open.spotify.com/artist/75jgHQJb9Jr9pF60lfXmQL"
-        }
-      ],
-      "duration_ms": 333200,
-      "name": "R\u00f6k i dina \u00f6gon",
-      "url": "https://open.spotify.com/track/4JnyGZxCIbMJKQ60u7qYor"
-    },
-    {
-      "added_at": "2026-08-27 22:00:31",
-      "album": {
         "name": "Greczula",
         "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
       },
@@ -1363,22 +1339,26 @@
     {
       "added_at": "2026-08-27 22:00:31",
       "album": {
-        "name": "Another Kingdom Is Gone (Kleerup Rework)",
-        "url": "https://open.spotify.com/album/5VWeV0bnJqXKot4rz7r54C"
+        "name": "R\u00f6k i dina \u00f6gon",
+        "url": "https://open.spotify.com/album/2Fn6Q9UqLJKmHGHzbjjrW6"
       },
       "artists": [
         {
-          "name": "Kleerup",
-          "url": "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
+          "name": "bob hund",
+          "url": "https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx"
         },
         {
-          "name": "Ingrid Witt",
-          "url": "https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf"
+          "name": "Esther",
+          "url": "https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza"
+        },
+        {
+          "name": "Popkollo",
+          "url": "https://open.spotify.com/artist/75jgHQJb9Jr9pF60lfXmQL"
         }
       ],
-      "duration_ms": 215250,
-      "name": "Another Kingdom Is Gone (Kleerup Rework)",
-      "url": "https://open.spotify.com/track/7ECipYFXDXGYOHC18SRZRC"
+      "duration_ms": 333200,
+      "name": "R\u00f6k i dina \u00f6gon",
+      "url": "https://open.spotify.com/track/4JnyGZxCIbMJKQ60u7qYor"
     },
     {
       "added_at": "2026-08-27 22:00:31",
@@ -1395,6 +1375,26 @@
       "duration_ms": 160975,
       "name": "Ingen vet",
       "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
+    },
+    {
+      "added_at": "2026-08-27 22:00:31",
+      "album": {
+        "name": "Another Kingdom Is Gone (Kleerup Rework)",
+        "url": "https://open.spotify.com/album/5VWeV0bnJqXKot4rz7r54C"
+      },
+      "artists": [
+        {
+          "name": "Kleerup",
+          "url": "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
+        },
+        {
+          "name": "Ingrid Witt",
+          "url": "https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "Another Kingdom Is Gone (Kleerup Rework)",
+      "url": "https://open.spotify.com/track/7ECipYFXDXGYOHC18SRZRC"
     },
     {
       "added_at": "2026-08-27 22:00:31",

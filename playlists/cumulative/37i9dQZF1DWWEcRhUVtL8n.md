@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Remi Wolf
 
-2,506 songs - 5 day 13 hr 38 min
+2,507 songs - 5 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -868,7 +868,7 @@
 | [Give Mama A Hug](https://open.spotify.com/track/7IT55sjogSasYp8PVcS4n3) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Give Mama A Hug](https://open.spotify.com/album/0Got69C44jINtFiu9cNvBy) | 2:53 | 2024-02-09 | 2024-02-17 |
 | [Glass Ceiling](https://open.spotify.com/track/74KhpMF3TuwzanrFXwfsZj) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Sonder](https://open.spotify.com/album/0s99qJjgAT5jyqpFQnFLMh) | 3:04 | 2021-09-24 | 2022-04-20 |
 | [Glitter](https://open.spotify.com/track/23TPP1eeElFfvYVznskwCY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:00 | 2021-02-13 | 2022-08-27 |
-| [glitter in the night](https://open.spotify.com/track/4JLB0VDIuNsOrZrAIlNri2) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [glitter in the night](https://open.spotify.com/album/561e1X8Xgfwm4RYct6abQ6) | 2:39 | 2026-06-12 |  |
+| [glitter in the night](https://open.spotify.com/track/4JLB0VDIuNsOrZrAIlNri2) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [glitter in the night](https://open.spotify.com/album/561e1X8Xgfwm4RYct6abQ6) | 2:39 | 2026-06-12 | 2026-08-31 |
 | [Glory Days](https://open.spotify.com/track/0hKA03dkqmFmGCXaFLPHt7) | [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [Glory Days](https://open.spotify.com/album/3LOVCfGdGh57pl2Yu6Aj5Y) | 2:25 | 2021-05-11 | 2021-10-13 |
 | [GLORY DAZE](https://open.spotify.com/track/7drbrQ1pqpnYrC0fh0AnU4) | [Fuller](https://open.spotify.com/artist/6u0sR7YTLPNf5CdyBg3ZE1) | [GLORY DAZE](https://open.spotify.com/album/3uVE4bHoJaxd582hMTD8VR) | 3:04 | 2024-04-12 | 2024-04-23 |
 | [Go Higher](https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:28 | 2022-12-09 | 2023-07-01 |
@@ -1259,6 +1259,7 @@
 | [Ladygirl](https://open.spotify.com/track/1HmvWDyb82cNLNhGfe60nr) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy Pt\. 1](https://open.spotify.com/album/038wFBV1FT6Q90Wpd3S4zm) | 2:04 | 2024-02-02 | 2024-04-06 |
 | [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 | 2023-03-03 | 2023-07-08 |
 | [Lamb's Wool](https://open.spotify.com/track/7egu63DOhNpivWOpGtzqGS) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lamb's Wool](https://open.spotify.com/album/7lDB1EJc0c7wbH7j687S3a) | 4:36 | 2021-02-27 | 2021-05-27 |
+| [Land Of Fun \(好玩的地方\)](https://open.spotify.com/track/7yi5xB14MnR1KQ2mxXMCAw) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [Dim Sum & Then Some](https://open.spotify.com/album/5IH8f1sMXmldxpE7a0VWyQ) | 2:29 | 2026-08-30 |  |
 | [landline](https://open.spotify.com/track/3OqP3uIygaUiuVzhVyk0X5) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [BREAK THE CURSE](https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO) | 3:03 | 2023-01-23 | 2023-02-04 |
 | [landline](https://open.spotify.com/track/7J2SaxOOWpKsXgCjlQQ7o0) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [landline](https://open.spotify.com/album/5eRHo1TtNV7v3M8X5hJ5Op) | 3:03 | 2022-05-13 | 2022-08-06 |
 | [Last Dance](https://open.spotify.com/track/5ORMSCruAlVcLaBfGOQr1i) | [Isaiah Mendiola](https://open.spotify.com/artist/3cT5dIuxsmwmgEBqt1DrbO), [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [Last Dance](https://open.spotify.com/album/3lHMNxJrcA6ldcmnZtaKII) | 2:45 | 2022-12-09 | 2023-02-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,554 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,560 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 49 | [Separarnos \- En Vivo](https://open.spotify.com/track/2feKOqeb6bpYP8ocGMzgzF) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bobby Pulido & Friends Una Tuya Y Una Mía \(Vol\. 1 / En Vivo\)](https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8) | 3:14 |
 | 50 | [Mujer Maravilla](https://open.spotify.com/track/6WQEjrSvNCxYM5BXlQ6eLB) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Fénix](https://open.spotify.com/album/47GyS5jhX8tFSySSGkuprD) | 2:15 |
 
-Snapshot ID: `apDPgAAAAADkANqyV++m9F2X8yYzeM6/`
+Snapshot ID: `apIhAAAAAABW0W6+Bxquz9lZjaGHcwJT`

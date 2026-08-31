@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: daine
 
-732 songs - 1 day 16 hr 55 min
+733 songs - 1 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -640,6 +640,7 @@
 | [The Bends](https://open.spotify.com/track/3Gy2aRqQkCY6VAgeYu1Qpf) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Glimmers](https://open.spotify.com/album/5OOD5eUlJc6N8shol45UIb) | 3:29 | 2025-05-01 | 2025-06-28 |
 | [The Biggest Dick](https://open.spotify.com/track/5nYlyj9C5ucDMLn8ZoytLY) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [The Biggest Dick](https://open.spotify.com/album/1AvlJXt6F6pSNhP4tY3pqy) | 2:43 | 2026-03-12 |  |
 | [The Body Keeps The Score](https://open.spotify.com/track/2HNQE799cMcEKGP820EKjH) | [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [The Body Keeps The Score](https://open.spotify.com/album/600sOO5dVuSn7m5UUjjgXI) | 3:27 | 2025-10-30 | 2025-11-07 |
+| [The Cherry Farm](https://open.spotify.com/track/5k8tcbz1dQUyCcP2GlVRwY) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [The Cherry Farm](https://open.spotify.com/album/5IsfijJGDAIof1NXts7gAq) | 2:58 | 2026-08-27 |  |
 | [THE DEEP \- Single Version](https://open.spotify.com/track/27fABCnOF2h2I5BOrCx24G) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [THE DEEP](https://open.spotify.com/album/4ukZMvcU8hSNMVBbcTOaqu) | 3:39 | 2025-11-06 | 2025-11-14 |
 | [The Feeling You Get](https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ask That God](https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m) | 4:16 | 2024-07-25 |  |
 | [The Here And Now](https://open.spotify.com/track/3gdWjWd3pXvtIijQrNWjto) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [The Here And Now](https://open.spotify.com/album/2YGkpwEZmg17X10TH6gJxl) | 3:46 | 2025-04-08 | 2025-04-18 |
@@ -673,7 +674,7 @@
 | [Touchy Subject](https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Touchy Subject](https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk) | 3:47 | 2024-05-31 | 2024-11-26 |
 | [Train Left The Station](https://open.spotify.com/track/2MRxpNwr8fccjiRMpa9zFA) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Caught in a Reverie](https://open.spotify.com/album/57mCFDpG3DjTa7LeD89Dsr) | 4:15 | 2024-05-31 | 2025-01-10 |
 | [Transactional Deal](https://open.spotify.com/track/7oOsr25JQYP7WbYiVrvImd) | [Charlie Collins](https://open.spotify.com/artist/2rEuydWE0WYRbI4YajHu9E) | [Transactional Deal](https://open.spotify.com/album/4WyxbPuZYUA7QaXQ79JFOl) | 4:16 | 2025-09-01 | 2025-09-05 |
-| [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 | 2024-05-31 |  |
+| [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 | 2024-05-31 | 2026-08-31 |
 | [Truth](https://open.spotify.com/track/4mSDOE2kImbodUtKFLmcqm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Truth](https://open.spotify.com/album/1PoebRqjvlN71Tjdwg6I37) | 3:27 | 2025-05-29 | 2025-10-10 |
 | [Try Me](https://open.spotify.com/track/19z986PgphGLQvBEfYSrvU) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Try Me](https://open.spotify.com/album/673wPIH6WgkyhaM5bTfg35) | 3:12 | 2025-09-01 | 2025-09-05 |
 | [Tsunami](https://open.spotify.com/track/5ORGoLlRAtpEz9q7ztyS8I) | [The Moving Stills](https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w) | [Half Moon Bay](https://open.spotify.com/album/6ZNvHEDhXHfcjVDy7uBUIP) | 3:09 | 2025-07-03 | 2025-07-11 |

@@ -1,6 +1,6 @@
 {
   "description": "\u5343\u79a7\u5f8c\u7b2c\u4e00\u500b\u5341\u5e74\uff0c\u8b93\u6211\u5011\u85c9\u8457\u65cb\u5f8b\u56de\u5473...Cover: \u8521\u4f9d\u6797 (JOLIN)",
-  "num_followers": 261646,
+  "num_followers": 261696,
   "original_name": "2000\u5e74\u4ee3\u83ef\u8a9e\u91d1\u66f2",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-02-09 02:31:39",
       "album": {
-        "name": "\u6d77\u562f",
-        "url": "https://open.spotify.com/album/06yEqpc6KFxUZ5BxE7V7TN"
-      },
-      "artists": [
-        {
-          "name": "Harlem Yu",
-          "url": "https://open.spotify.com/artist/6VbRanWSU3pdDhJnhSfGmY"
-        }
-      ],
-      "duration_ms": 273960,
-      "name": "\u60c5\u975e\u5f97\u5df2",
-      "url": "https://open.spotify.com/track/4KBegMBVyHsfC7fPOztTzV"
-    },
-    {
-      "added_at": "2026-02-09 02:31:39",
-      "album": {
         "name": "\u611b\u611b\u611b",
         "url": "https://open.spotify.com/album/75QhyYrpr4b3sJUvmYAU3v"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 215253,
       "name": "\u611b\u611b\u611b",
       "url": "https://open.spotify.com/track/59lBAMCis4C6NsPdUV35Vz"
+    },
+    {
+      "added_at": "2026-02-09 02:31:39",
+      "album": {
+        "name": "\u6d77\u562f",
+        "url": "https://open.spotify.com/album/06yEqpc6KFxUZ5BxE7V7TN"
+      },
+      "artists": [
+        {
+          "name": "Harlem Yu",
+          "url": "https://open.spotify.com/artist/6VbRanWSU3pdDhJnhSfGmY"
+        }
+      ],
+      "duration_ms": 273960,
+      "name": "\u60c5\u975e\u5f97\u5df2",
+      "url": "https://open.spotify.com/track/4KBegMBVyHsfC7fPOztTzV"
     },
     {
       "added_at": "2026-02-09 02:31:39",
@@ -331,8 +331,8 @@
     {
       "added_at": "2026-02-09 02:31:39",
       "album": {
-        "name": "\u5225\u518d\u70ba\u4ed6\u6d41\u6dda",
-        "url": "https://open.spotify.com/album/46aInqxgXj0syC9RlTghlj"
+        "name": "\u52c7\u6c23",
+        "url": "https://open.spotify.com/album/0zOP4pz0B5oh16UD2362sN"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
         }
       ],
-      "duration_ms": 260093,
-      "name": "\u60c5\u6b4c",
-      "url": "https://open.spotify.com/track/5oL7vOxCz2eJKAX6G4Yluh"
+      "duration_ms": 239293,
+      "name": "\u52c7\u6c23",
+      "url": "https://open.spotify.com/track/1SNF1IdMuKPDhw9HTrdcvM"
     },
     {
       "added_at": "2026-02-09 02:31:39",
@@ -415,8 +415,8 @@
     {
       "added_at": "2026-02-09 02:31:39",
       "album": {
-        "name": "\u52c7\u6c23",
-        "url": "https://open.spotify.com/album/0zOP4pz0B5oh16UD2362sN"
+        "name": "\u5225\u518d\u70ba\u4ed6\u6d41\u6dda",
+        "url": "https://open.spotify.com/album/46aInqxgXj0syC9RlTghlj"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
         }
       ],
-      "duration_ms": 239293,
-      "name": "\u52c7\u6c23",
-      "url": "https://open.spotify.com/track/1SNF1IdMuKPDhw9HTrdcvM"
+      "duration_ms": 260093,
+      "name": "\u60c5\u6b4c",
+      "url": "https://open.spotify.com/track/5oL7vOxCz2eJKAX6G4Yluh"
     },
     {
       "added_at": "2026-02-09 02:31:39",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-02-09 02:31:39",
       "album": {
-        "name": "\u5409\u4ed6\u624b",
-        "url": "https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR"
-      },
-      "artists": [
-        {
-          "name": "Cheer Chen",
-          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
-        }
-      ],
-      "duration_ms": 263173,
-      "name": "\u592a\u8070\u660e",
-      "url": "https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP"
-    },
-    {
-      "added_at": "2026-02-09 02:31:39",
-      "album": {
         "name": "\u5341\u5149\u5e74\u7cbe\u9078\u8f2f",
         "url": "https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 263333,
       "name": "\u7b2c\u4e00\u6b21",
       "url": "https://open.spotify.com/track/2PXhHrVL1HkKk4fto9D8zE"
+    },
+    {
+      "added_at": "2026-02-09 02:31:39",
+      "album": {
+        "name": "\u5409\u4ed6\u624b",
+        "url": "https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR"
+      },
+      "artists": [
+        {
+          "name": "Cheer Chen",
+          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
+        }
+      ],
+      "duration_ms": 263173,
+      "name": "\u592a\u8070\u660e",
+      "url": "https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP"
     },
     {
       "added_at": "2026-02-09 02:31:39",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-02-09 02:31:39",
       "album": {
-        "name": "\u6a59\u6708",
-        "url": "https://open.spotify.com/album/3uhvDy6obaVBGrYu7FGYYB"
-      },
-      "artists": [
-        {
-          "name": "Khalil Fong",
-          "url": "https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "\u4e09\u4eba\u904a",
-      "url": "https://open.spotify.com/track/0ZkoOzNcWkxXaeWzuBFWPU"
-    },
-    {
-      "added_at": "2026-02-09 02:31:39",
-      "album": {
         "name": "\u7d72\u8def",
         "url": "https://open.spotify.com/album/0CHbpwiT2lzuzIMLvXCe0f"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 285830,
       "name": "\u53ef\u60dc\u4e0d\u662f\u4f60",
       "url": "https://open.spotify.com/track/4m4e3vIghV2QkHuOf83M7N"
+    },
+    {
+      "added_at": "2026-02-09 02:31:39",
+      "album": {
+        "name": "\u6a59\u6708",
+        "url": "https://open.spotify.com/album/3uhvDy6obaVBGrYu7FGYYB"
+      },
+      "artists": [
+        {
+          "name": "Khalil Fong",
+          "url": "https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "\u4e09\u4eba\u904a",
+      "url": "https://open.spotify.com/track/0ZkoOzNcWkxXaeWzuBFWPU"
     },
     {
       "added_at": "2026-02-09 02:31:39",

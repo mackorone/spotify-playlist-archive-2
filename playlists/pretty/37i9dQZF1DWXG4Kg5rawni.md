@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 
 > Amor abençoado por Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,710 likes - 65 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,713 likes - 65 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 26 | [Escolhi Te Esperar](https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz) | [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Cabelo solto \- Playback](https://open.spotify.com/album/2FoLg1Bm7PED4YTIayK0Cg) | 3:56 |
 | 27 | [Amar Você](https://open.spotify.com/track/1H9K7yHUop3Y1W9u2Df9ke) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Fernanda Brum \- Falando de Amor](https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE) | 5:51 |
 | 28 | [À Moda Antiga](https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL) | [Lu Alone](https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U) | [À Moda Antiga](https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB) | 3:02 |
-| 29 | [Disse Sim](https://open.spotify.com/track/3nzRymxESTUVKiIJ2Hr7jy) | [Mariana Aguiar](https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw) | [Disse Sim](https://open.spotify.com/album/05znoZeEDSkuU66gVAEi9Y) | 3:21 |
+| 29 | [Encontrar Você](https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF), [Thamiriz](https://open.spotify.com/artist/2u2MB8deIasxceazWjMBaM) | [Encontrar Você](https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij) | 3:55 |
 | 30 | [Deus me deu você Aleluia](https://open.spotify.com/track/3pgViD9u5HevoCKdgdS7dG) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Cantares](https://open.spotify.com/album/0YkLal3wUjbk9c02TekuVO) | 3:25 |
-| 31 | [Encontrar Você](https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF), [Thamiriz](https://open.spotify.com/artist/2u2MB8deIasxceazWjMBaM) | [Encontrar Você](https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij) | 3:55 |
+| 31 | [Disse Sim](https://open.spotify.com/track/3nzRymxESTUVKiIJ2Hr7jy) | [Mariana Aguiar](https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw) | [Disse Sim](https://open.spotify.com/album/05znoZeEDSkuU66gVAEi9Y) | 3:21 |
 | 32 | [Com Você](https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ) | [Cassiane e Jairinho](https://open.spotify.com/artist/754GsjALc0WkYIDzrf6e7H), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Você](https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no) | 3:43 |
 | 33 | [Nosso Castelo](https://open.spotify.com/track/3cwe5HZqAhygCVPPVcwsit) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nosso Castelo](https://open.spotify.com/album/20HqyoxH3L4OAL9J8rElVd) | 4:12 |
 | 34 | [Meu Sonho](https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eyshila Falando de Amor](https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y) | 4:18 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 50 | [eu te convido](https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0) | [Matheus Balo](https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T) | [25 de fevereiro](https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv) | 3:05 |
 | 51 | [Onde Está Você](https://open.spotify.com/track/0bk0A00Y3pw4u0oQPpkrQL) | [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu), [Sarah Renata](https://open.spotify.com/artist/03KBnCXOAIMKBJhpadTkNY) | [Onde Está Você](https://open.spotify.com/album/7BXoXN8TRG0pZf9Q5FmtrW) | 4:06 |
 | 52 | [Prometo](https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Sobre o Amor](https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn) | 2:52 |
-| 53 | [Não Há Limites](https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Não Há Limites](https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB) | 4:14 |
-| 54 | [Chave do Amor](https://open.spotify.com/track/3GEOh17iDZzP9ieATkdtlL) | [Kelwin Ramos](https://open.spotify.com/artist/2IKXmBcW5YsoNGGFVnQ1X4), [Michely Manuely](https://open.spotify.com/artist/4B4yCfTafHBS4VsFDWjCeV) | [Chave do Amor](https://open.spotify.com/album/6gT3f9ABhudAeet0qTQmFp) | 3:10 |
+| 53 | [Chave do Amor](https://open.spotify.com/track/3GEOh17iDZzP9ieATkdtlL) | [Kelwin Ramos](https://open.spotify.com/artist/2IKXmBcW5YsoNGGFVnQ1X4), [Michely Manuely](https://open.spotify.com/artist/4B4yCfTafHBS4VsFDWjCeV) | [Chave do Amor](https://open.spotify.com/album/6gT3f9ABhudAeet0qTQmFp) | 3:10 |
+| 54 | [Não Há Limites](https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Não Há Limites](https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB) | 4:14 |
 | 55 | [Nós](https://open.spotify.com/track/1qtrPeMQzHn3XZiCEQBYTC) | [Gabriel Bulian](https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0) | [Nós](https://open.spotify.com/album/2YzYffMkuUaJfpcV0MrAu7) | 2:54 |
 | 56 | [Minha Jóia Rara](https://open.spotify.com/track/1PbHuaCO9IrBt51mwcV93I) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Amo Você Vol\. 18](https://open.spotify.com/album/6ZtjVbQ1Fo4d5xn47KfF11) | 3:58 |
 | 57 | [Mulher Realizada](https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Mulher Realizada](https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74) | 4:17 |

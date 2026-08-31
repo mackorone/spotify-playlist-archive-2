@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Charles Ans, Sabino, Yubeili, Caztro en portada",
-  "num_followers": 868770,
+  "num_followers": 868861,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-08-28 06:00:20",
       "album": {
-        "name": "Por Si Las Dudas",
-        "url": "https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 161258,
-      "name": "Por Si Las Dudas",
-      "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
-    },
-    {
-      "added_at": "2026-08-28 06:00:20",
-      "album": {
         "name": "Cham\u00e1n",
         "url": "https://open.spotify.com/album/0TPmQlQqf3SJuw4iXBd3yi"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2026-08-28 06:00:20",
       "album": {
-        "name": "Ojitos Bellos",
-        "url": "https://open.spotify.com/album/2QMmrYT9RG0dGQBpXvED9c"
+        "name": "Por Si Las Dudas",
+        "url": "https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 179818,
-      "name": "Ojitos Bellos",
-      "url": "https://open.spotify.com/track/75OegUZV4dD54IVeonBKwr"
+      "duration_ms": 161258,
+      "name": "Por Si Las Dudas",
+      "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
     },
     {
       "added_at": "2026-08-28 06:00:20",
@@ -843,6 +827,22 @@
     {
       "added_at": "2026-08-28 06:00:20",
       "album": {
+        "name": "Ojitos Bellos",
+        "url": "https://open.spotify.com/album/2QMmrYT9RG0dGQBpXvED9c"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 179818,
+      "name": "Ojitos Bellos",
+      "url": "https://open.spotify.com/track/75OegUZV4dD54IVeonBKwr"
+    },
+    {
+      "added_at": "2026-08-28 06:00:20",
+      "album": {
         "name": "Bling Bling",
         "url": "https://open.spotify.com/album/7oBdGYVwSvPz1WzR3pd76l"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-08-28 06:00:20",
       "album": {
-        "name": "Ay Weyy",
-        "url": "https://open.spotify.com/album/7CCnBjQRcWctQWGcyfxWlY"
-      },
-      "artists": [
-        {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
-        }
-      ],
-      "duration_ms": 154699,
-      "name": "Mostaza",
-      "url": "https://open.spotify.com/track/5lDLahSiRoPLcZlDiOmcGK"
-    },
-    {
-      "added_at": "2026-08-28 06:00:20",
-      "album": {
         "name": "La Buena",
         "url": "https://open.spotify.com/album/6pJpCycVCDwv5gV1Q5Ql7r"
       },
@@ -895,22 +879,18 @@
     {
       "added_at": "2026-08-28 06:00:20",
       "album": {
-        "name": "Cada Vez Me Gusta M\u00e1s",
-        "url": "https://open.spotify.com/album/5TJY54fjTgOepbCBWdjFJj"
+        "name": "Ay Weyy",
+        "url": "https://open.spotify.com/album/7CCnBjQRcWctQWGcyfxWlY"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
         }
       ],
-      "duration_ms": 204814,
-      "name": "Cada Vez Me Gusta M\u00e1s",
-      "url": "https://open.spotify.com/track/2GItC45oeKDIr66PLrhUhb"
+      "duration_ms": 154699,
+      "name": "Mostaza",
+      "url": "https://open.spotify.com/track/5lDLahSiRoPLcZlDiOmcGK"
     },
     {
       "added_at": "2026-08-28 06:00:20",
@@ -931,6 +911,26 @@
       "duration_ms": 154951,
       "name": "La Morrita",
       "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
+    },
+    {
+      "added_at": "2026-08-28 06:00:20",
+      "album": {
+        "name": "Cada Vez Me Gusta M\u00e1s",
+        "url": "https://open.spotify.com/album/5TJY54fjTgOepbCBWdjFJj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 204814,
+      "name": "Cada Vez Me Gusta M\u00e1s",
+      "url": "https://open.spotify.com/track/2GItC45oeKDIr66PLrhUhb"
     },
     {
       "added_at": "2026-08-28 06:00:20",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2026-08-28 06:00:20",
       "album": {
+        "name": "Perdonarte, \u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/3LLzCUi4FDCG7C3HYyENn8"
+      },
+      "artists": [
+        {
+          "name": "Dylan Coronel",
+          "url": "https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j"
+        },
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "duration_ms": 193432,
+      "name": "Perdonarte, \u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/3lJpgC9I7R3Botguwpi6j8"
+    },
+    {
+      "added_at": "2026-08-28 06:00:20",
+      "album": {
         "name": "Pilas Plebes",
         "url": "https://open.spotify.com/album/0yW0gFVJxCjQCdnslnDb3L"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 204849,
       "name": "50/50",
       "url": "https://open.spotify.com/track/2uBRBvEuLx0i3B1cbJLXxp"
-    },
-    {
-      "added_at": "2026-08-28 06:00:20",
-      "album": {
-        "name": "Perdonarte, \u00bfPara Qu\u00e9?",
-        "url": "https://open.spotify.com/album/3LLzCUi4FDCG7C3HYyENn8"
-      },
-      "artists": [
-        {
-          "name": "Dylan Coronel",
-          "url": "https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j"
-        },
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
-        }
-      ],
-      "duration_ms": 193432,
-      "name": "Perdonarte, \u00bfPara Qu\u00e9?",
-      "url": "https://open.spotify.com/track/3lJpgC9I7R3Botguwpi6j8"
     },
     {
       "added_at": "2026-08-28 06:00:20",

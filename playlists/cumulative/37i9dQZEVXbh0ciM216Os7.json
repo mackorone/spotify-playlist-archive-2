@@ -7772,7 +7772,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 256590,
       "name": "Black Box - feat. Kamasi Washington",
       "url": "https://open.spotify.com/track/0fv00pOf3fObPKjVHk1K5Y"
@@ -10762,7 +10762,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 236505,
       "name": "By Any Means - Film Version",
       "url": "https://open.spotify.com/track/29JlmxdWXF6rbDPMbK2m4X"
@@ -10784,7 +10784,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 193963,
       "name": "By Any Means - Single Version",
       "url": "https://open.spotify.com/track/7frOwE0raQwmw8oNDgntJS"
@@ -33346,7 +33346,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 195074,
       "name": "I Know That Man - feat. Earl Sweatshirt",
       "url": "https://open.spotify.com/track/3ezhIhKEsgVddmp2ed703g"
@@ -43716,7 +43716,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 223466,
       "name": "Mad Technology",
       "url": "https://open.spotify.com/track/6yDQOCVxV6Z0XGZgbeCvMi"
@@ -72479,6 +72479,28 @@
     },
     {
       "album": {
+        "name": "Wu-Squad",
+        "url": "https://open.spotify.com/album/1MWaU2G24DXPn9HjX034sT"
+      },
+      "artists": [
+        {
+          "name": "Mykill Millz",
+          "url": "https://open.spotify.com/artist/2gbJRlQ7xdVqvalACATtHm"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123402,
+      "name": "The Zoo",
+      "url": "https://open.spotify.com/track/2FMXsv7Xd9EyEXt518SlSC"
+    },
+    {
+      "album": {
         "name": "michelinman",
         "url": "https://open.spotify.com/album/7DGfUX14MNucTUYGIYGyz4"
       },
@@ -76268,6 +76290,32 @@
       "duration_ms": 456114,
       "name": "Valdez Off Crenshaw (feat. Kamasi Washington, Cory Henry & Robert 'Sput' Searight)",
       "url": "https://open.spotify.com/track/21k7x040W2grne2sr7qIip"
+    },
+    {
+      "album": {
+        "name": "Before The World Blows",
+        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148202,
+      "name": "Valentine - feat. DRAM",
+      "url": "https://open.spotify.com/track/6gEhJ7WvHzlZGGt8RhsfCE"
     },
     {
       "album": {

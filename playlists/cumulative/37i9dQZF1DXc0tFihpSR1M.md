@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭<br/>Cover: Emma Steinbakken
 
-676 songs - 1 day 11 hr 1 min
+677 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Doors](https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:51 | 2026-04-23 |  |
 | [Dopamine](https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Dopamine](https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw) | 3:35 | 2025-11-13 | 2026-04-13 |
 | [Dream Out Loud](https://open.spotify.com/track/1Tcsmov8MTNdZGXShRiviQ) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Dream Out Loud](https://open.spotify.com/album/0AZ9wbbbM32nrzD8czHDwX) | 3:04 | 2026-05-07 | 2026-05-15 |
-| [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 | 2026-02-05 |  |
+| [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 | 2026-02-05 | 2026-08-31 |
 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-04-17 |  |
 | [Du lyg](https://open.spotify.com/track/1v0Erq90AMsmP8C0vJk4q7) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Du lyg](https://open.spotify.com/album/2b6ovHU9jpZPH1WNXa1fjg) | 3:14 | 2025-09-11 | 2026-02-13 |
 | [Du lyg så lett](https://open.spotify.com/track/5ZUNPjGDdz47W26AtUQfXf) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Du lyg så lett](https://open.spotify.com/album/7I7xV8JNutYB3lnoCge3UQ) | 3:25 | 2025-12-25 | 2026-01-02 |
@@ -243,6 +243,7 @@
 | [Hearts Intuition](https://open.spotify.com/track/1envNC0ZHjXxqNUaMNSwsH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart? \(Deluxe\)](https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM) | 3:21 | 2025-05-01 | 2025-05-23 |
 | [Heathrow](https://open.spotify.com/track/0iNlcioLpaFNEpL0OkN2oa) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Heathrow](https://open.spotify.com/album/4RGF1g5xJjfcd809OFyN4F) | 3:55 | 2024-09-12 | 2024-10-22 |
 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 | 2024-11-01 | 2025-01-24 |
+| [HEAVEN](https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Fallen Angel](https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx) | 3:06 | 2026-08-27 |  |
 | [Heaven](https://open.spotify.com/track/1lfoj5wpj5GYGDse0rh453) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Heaven](https://open.spotify.com/album/0LpaPfCPzVuQPhN1N8u8dp) | 3:10 | 2026-06-18 | 2026-07-17 |
 | [Heaven Baby \(feat\. ZAYN\)](https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:38 | 2026-08-14 |  |
 | [Heaven On Your Mind](https://open.spotify.com/track/6CfTOBRp1sgG8xY97RsUWS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [Heaven On Your Mind](https://open.spotify.com/album/1oPqsnINC8uvqs1MfxZNez) | 3:44 | 2026-05-21 | 2026-08-15 |
@@ -514,7 +515,7 @@
 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-06-27 | 2025-02-09 |
 | [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 | 2025-06-26 | 2025-08-12 |
 | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B) | 3:33 | 2026-04-17 |  |
-| [She’s the Best](https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/46RpDXDGV1091r0rLvPh93) | 4:14 | 2026-08-14 | 2026-08-28 |
+| [She’s the Best](https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/46RpDXDGV1091r0rLvPh93) | 4:14 | 2026-08-14 |  |
 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-11-01 | 2025-01-12 |
 | [Sick Of Love](https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Sick Of Love](https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb) | 3:36 | 2026-04-09 | 2026-05-01 |
 | [Side Effects](https://open.spotify.com/track/5hkceiJGJl4qcWUtyjXaJm) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [KONNAKOL](https://open.spotify.com/album/1gNQgz2ZDk9XNEBdJcs9zG) | 3:17 | 2026-04-17 | 2026-06-19 |
@@ -655,7 +656,7 @@
 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 | 2024-08-22 | 2025-05-02 |
 | [Wall of Sound](https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wall of Sound](https://open.spotify.com/album/5xQarRykqfONyHrL792y8z) | 2:24 | 2026-01-16 | 2026-04-11 |
 | [Wallflower](https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Wallflower](https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao) | 2:58 | 2026-08-27 |  |
-| [Watch It Burn](https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Watch It Burn](https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP) | 2:55 | 2026-07-09 |  |
+| [Watch It Burn](https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Watch It Burn](https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP) | 2:55 | 2026-07-09 | 2026-08-31 |
 | [We Both Smoke Again](https://open.spotify.com/track/04SOnynRP6ZYfQfUt5o20g) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [We Both Smoke Again](https://open.spotify.com/album/1uNtWNLZbwxoYsPM3cY2oV) | 3:28 | 2024-10-10 | 2024-11-02 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 | 2024-06-27 | 2024-11-02 |
 | [Weight of light](https://open.spotify.com/track/1dgBTuMRptCw691pKbNNKp) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Weight of light](https://open.spotify.com/album/0OG6EaHBRdtM0GKueulBiK) | 3:16 | 2026-02-26 | 2026-03-27 |

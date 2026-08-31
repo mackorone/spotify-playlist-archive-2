@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,015 likes - 200 songs - 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,017 likes - 200 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

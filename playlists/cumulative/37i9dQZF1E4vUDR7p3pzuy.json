@@ -1103,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "ANYTHING",
+        "url": "https://open.spotify.com/album/5UOycMG9Tv9UGO9yyjraBM"
+      },
+      "artists": [
+        {
+          "name": "Sarine Re Voltage",
+          "url": "https://open.spotify.com/artist/3Q9OfGzBlFoBAmpcp9l6Vp"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257084,
+      "name": "ANYTHING",
+      "url": "https://open.spotify.com/track/0Ov6hjoZ2e4bCKL6fvyXMz"
+    },
+    {
+      "album": {
         "name": "apoca-lips",
         "url": "https://open.spotify.com/album/1SdOW9lKmUogRo6lLSAwGj"
       },
@@ -1414,7 +1432,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 152842,
       "name": "Bar Fight With Buzz Aldrin (Robo Mix)",
       "url": "https://open.spotify.com/track/2R9SMWdUmCxuzzNlJJgXVV"
@@ -1540,7 +1558,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 198168,
       "name": "Bedlam",
       "url": "https://open.spotify.com/track/15CszyNyA1josUgiE8WJZ6"
@@ -1974,7 +1992,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "BLACK SUMMER",
       "url": "https://open.spotify.com/track/3cv9qR7Y4ORPBtjxZ6RTVV"
@@ -2378,7 +2396,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 182400,
       "name": "Breaking Out",
       "url": "https://open.spotify.com/track/4upw5Hwlgyf9H9n2isNEEA"
@@ -3203,6 +3221,24 @@
     },
     {
       "album": {
+        "name": "Chromophobia",
+        "url": "https://open.spotify.com/album/3WiwGlaJLNxvxg95ne07Kn"
+      },
+      "artists": [
+        {
+          "name": "The Sick Man Of Europe",
+          "url": "https://open.spotify.com/artist/4MfLAsjMG5jsbPxD4r5DuD"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216717,
+      "name": "Chromophobia",
+      "url": "https://open.spotify.com/track/5PVk5KtP2tW2xrUx5pVgTD"
+    },
+    {
+      "album": {
         "name": "Cipher in The Snow",
         "url": "https://open.spotify.com/album/5lqPemfzGPOSuzDn4Nr9jq"
       },
@@ -3762,7 +3798,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 147540,
       "name": "Cool people",
       "url": "https://open.spotify.com/track/4YXoXdHe0GChXqNNZqnL3c"
@@ -4304,7 +4340,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 287265,
       "name": "Dancing At Your Funeral",
       "url": "https://open.spotify.com/track/3YoDIncK2ZLGyxBe2leno7"
@@ -4661,6 +4697,24 @@
     },
     {
       "album": {
+        "name": "Restoring Balance To A Broken World",
+        "url": "https://open.spotify.com/album/4skO19ogLjd64bnh7fYbu6"
+      },
+      "artists": [
+        {
+          "name": "RULE OF TWO",
+          "url": "https://open.spotify.com/artist/3AwfRAzk2JeC9w5xyTGawX"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238500,
+      "name": "Decompression",
+      "url": "https://open.spotify.com/track/6F5L9UZve0tDqyWdRkTvIT"
+    },
+    {
+      "album": {
         "name": "Decorating Hope",
         "url": "https://open.spotify.com/album/0i84ADLo13aIUpFWTn8UPH"
       },
@@ -4834,7 +4888,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 259250,
       "name": "Desire",
       "url": "https://open.spotify.com/track/1U7zkwLHRzqtktC47X88Z8"
@@ -5716,7 +5770,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 260079,
       "name": "Endless Lovers Story",
       "url": "https://open.spotify.com/track/6haxQP3HmWLc3ccN8d6KGm"
@@ -6244,7 +6298,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 276372,
       "name": "Family",
       "url": "https://open.spotify.com/track/23Sm5nJOPTD0uXvVE7xu0H"
@@ -7690,7 +7744,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 331520,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/3Wx488LVmvoapvwSa8JCZ1"
@@ -7726,7 +7780,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 390765,
       "name": "HEADRUSH",
       "url": "https://open.spotify.com/track/5LWbpBBZBZCF2EYzhc7FzO"
@@ -9890,7 +9944,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 187118,
       "name": "Just Saying - Single Edit",
       "url": "https://open.spotify.com/track/3h9GdCTN4xCCNxCwXsjtsf"
@@ -9948,7 +10002,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 216774,
       "name": "Keep The Light On",
       "url": "https://open.spotify.com/track/4PAMXOS9J5INQckpSZ8w4u"
@@ -10028,6 +10082,24 @@
       "duration_ms": 289720,
       "name": "King Counterfeit",
       "url": "https://open.spotify.com/track/7oKLvnUwgIlvLgyY0ztz7D"
+    },
+    {
+      "album": {
+        "name": "Somewhere Between Us (Highways Between Us)",
+        "url": "https://open.spotify.com/album/026wC8BmguHwZ06GeHzptV"
+      },
+      "artists": [
+        {
+          "name": "Emily Steed",
+          "url": "https://open.spotify.com/artist/0V2T8oDayX52qzRqYlSzhR"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246761,
+      "name": "Kiss (Me)",
+      "url": "https://open.spotify.com/track/26mnIZ04a0hV0nVTY9kZ2S"
     },
     {
       "album": {
@@ -10230,7 +10302,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 172500,
       "name": "Layers",
       "url": "https://open.spotify.com/track/2w68LiCEisB0exE4UxEer2"
@@ -10742,7 +10814,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 250263,
       "name": "Lips Unkissed",
       "url": "https://open.spotify.com/track/6FXW7sFDKnWl8BWX7c9onJ"
@@ -11724,7 +11796,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "Model Behaviour",
       "url": "https://open.spotify.com/track/7cgzFBXhRtgVDupouGXoxg"
@@ -13700,7 +13772,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 146000,
       "name": "psychological barbed wire",
       "url": "https://open.spotify.com/track/5XMZ3AhSuJUgDyR06eWwdo"
@@ -14418,7 +14490,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 153250,
       "name": "running joke",
       "url": "https://open.spotify.com/track/61tQINMAv7Kix961SOwGbd"
@@ -15511,6 +15583,24 @@
     },
     {
       "album": {
+        "name": "SKINNY PEOPLE",
+        "url": "https://open.spotify.com/album/2QDmVixOGP1mscoNw1VzJk"
+      },
+      "artists": [
+        {
+          "name": "Boy Jr.",
+          "url": "https://open.spotify.com/artist/7CuIkxF7VfHwKecQzUEGgv"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "SKINNY PEOPLE",
+      "url": "https://open.spotify.com/track/2jpJ32yjrUcbOhab7Th5d3"
+    },
+    {
+      "album": {
         "name": "Embrace the Condemnation",
         "url": "https://open.spotify.com/album/70CtmYAViawPqaK25n75lC"
       },
@@ -15558,7 +15648,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 212188,
       "name": "Slicer",
       "url": "https://open.spotify.com/track/7CeWB1joj3cQe2udfnrW2B"
@@ -17213,6 +17303,24 @@
     },
     {
       "album": {
+        "name": "Terrible Years",
+        "url": "https://open.spotify.com/album/52pZbF2X4VZEW1KaNq6XC2"
+      },
+      "artists": [
+        {
+          "name": "Desperate Journalist",
+          "url": "https://open.spotify.com/artist/3bQOdXdA0JLHAVHavCMqs8"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202200,
+      "name": "Terrible Years",
+      "url": "https://open.spotify.com/track/0RgQugwiDqDzisPTXchxbQ"
+    },
+    {
+      "album": {
         "name": "That Little Feeling",
         "url": "https://open.spotify.com/album/3ahiKuPnHfckVeAL8QDXIb"
       },
@@ -17690,7 +17798,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 199636,
       "name": "The Girl In Room 9",
       "url": "https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4"
@@ -19458,7 +19566,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 374488,
       "name": "Unexpected Love - The Axiom Divide Remix",
       "url": "https://open.spotify.com/track/64gPgNHLRBTmuQbM5Js9Jf"
@@ -20626,7 +20734,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "When You're Down",
       "url": "https://open.spotify.com/track/35eCarWbCxKpJD3im0JO65"
@@ -20706,7 +20814,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 296045,
       "name": "Where the Stars are Swallowed by the Mist",
       "url": "https://open.spotify.com/track/3KkovUPqM3W0FaBOVSXvyO"
@@ -21322,7 +21430,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 248647,
       "name": "Your Heart In The Serpent's Mouth",
       "url": "https://open.spotify.com/track/2fJIlr4UNRCDMvusguobiy"

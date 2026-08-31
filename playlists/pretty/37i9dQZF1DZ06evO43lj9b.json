@@ -1,12 +1,12 @@
 {
   "description": "This is Roy Ayers. The essential tracks, all in one playlist.",
-  "num_followers": 16720,
+  "num_followers": 16721,
   "original_name": "This Is Roy Ayers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABwxS1DMJOaHZvgYSo0a1Hh",
+  "snapshot_id": "apIhAAAAAAB32PnV7JMZMhQ+yI243O18",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ubiquity",
+        "url": "https://open.spotify.com/album/5yzOqiGbl3VgoJQF2jk198"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 224920,
+      "name": "Hummin' In The Sun",
+      "url": "https://open.spotify.com/track/2kL5xYzPEBw45eW9oBwlX7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eardrum",
         "url": "https://open.spotify.com/album/4gjttixmMAKMzzfrfGmDGr"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 235973,
       "name": "In the Mood (feat. Kanye West & Roy Ayers)",
       "url": "https://open.spotify.com/track/4v3AYUgQvwdbO9FY8tJBCo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ubiquity",
-        "url": "https://open.spotify.com/album/5yzOqiGbl3VgoJQF2jk198"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 224920,
-      "name": "Hummin' In The Sun",
-      "url": "https://open.spotify.com/track/2kL5xYzPEBw45eW9oBwlX7"
     },
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 329240,
-      "name": "Vibin' W/Ayers",
-      "url": "https://open.spotify.com/track/6AgUMpyUJyxj9hFwKezRFf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Share My World",
         "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 334360,
       "name": "Day Dreaming",
       "url": "https://open.spotify.com/track/4H5zpPqtT57VcAePUCNSM8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 329240,
+      "name": "Vibin' W/Ayers",
+      "url": "https://open.spotify.com/track/6AgUMpyUJyxj9hFwKezRFf"
     },
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avery*Sunshine",
-        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 82613,
-      "name": "Everybody Loves",
-      "url": "https://open.spotify.com/track/2FfMF9bBcw0UuWpV2pbu4A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coffy",
         "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 183853,
       "name": "Coffy Is The Color",
       "url": "https://open.spotify.com/track/2LrD0ffUIfUdffoE1d2d3k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avery*Sunshine",
+        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 82613,
+      "name": "Everybody Loves",
+      "url": "https://open.spotify.com/track/2FfMF9bBcw0UuWpV2pbu4A"
     },
     {
       "added_at": null,
@@ -803,26 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous Vibes",
-        "url": "https://open.spotify.com/album/3mrQgvpm6JWpXkUL60AW0W"
+        "name": "No Stranger To Love",
+        "url": "https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5"
       },
       "artists": [
         {
-          "name": "Ferry Ultra",
-          "url": "https://open.spotify.com/artist/5kbLZCVZhJQ6ARWIZdtfTD"
-        },
-        {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Emmaculate",
-          "url": "https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB"
         }
       ],
-      "duration_ms": 205167,
-      "name": "Dangerous Vibes (Emmaculate Remix / Edit)",
-      "url": "https://open.spotify.com/track/3amaan7P8O6DbkuFsgjbB9"
+      "duration_ms": 492960,
+      "name": "Don't Stop The Feeling",
+      "url": "https://open.spotify.com/track/2YRaNRacKlIAOZd3iAfxGh"
     },
     {
       "added_at": null,
@@ -851,18 +843,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Stranger To Love",
-        "url": "https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5"
+        "name": "Dangerous Vibes",
+        "url": "https://open.spotify.com/album/3mrQgvpm6JWpXkUL60AW0W"
       },
       "artists": [
         {
+          "name": "Ferry Ultra",
+          "url": "https://open.spotify.com/artist/5kbLZCVZhJQ6ARWIZdtfTD"
+        },
+        {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Emmaculate",
+          "url": "https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB"
         }
       ],
-      "duration_ms": 492960,
-      "name": "Don't Stop The Feeling",
-      "url": "https://open.spotify.com/track/2YRaNRacKlIAOZd3iAfxGh"
+      "duration_ms": 205167,
+      "name": "Dangerous Vibes (Emmaculate Remix / Edit)",
+      "url": "https://open.spotify.com/track/3amaan7P8O6DbkuFsgjbB9"
     },
     {
       "added_at": null,
@@ -879,6 +879,26 @@
       "duration_ms": 230733,
       "name": "For Real",
       "url": "https://open.spotify.com/track/5H18pyi8z7yBX7ZUgaqspB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Virgin Ubiquity II",
+        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Terri Wells",
+          "url": "https://open.spotify.com/artist/6YBiK4t0ZuN8ACjIfByjqJ"
+        }
+      ],
+      "duration_ms": 427906,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/3u8ykV0rczcfG93y0Evcl7"
     },
     {
       "added_at": null,
@@ -903,26 +923,6 @@
       "duration_ms": 211977,
       "name": "Synchronize Vibration",
       "url": "https://open.spotify.com/track/7FLT4dXxZMaapLcNn4SgBc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Virgin Ubiquity II",
-        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Terri Wells",
-          "url": "https://open.spotify.com/artist/6YBiK4t0ZuN8ACjIfByjqJ"
-        }
-      ],
-      "duration_ms": 427906,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/3u8ykV0rczcfG93y0Evcl7"
     },
     {
       "added_at": null,

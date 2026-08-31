@@ -4,7 +4,7 @@
 
 > 
 
-941 songs - 2 day 12 hr 28 min
+944 songs - 2 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Children](https://open.spotify.com/track/3kmIB1CyW6FwmVnuiy674D) | [//orangenoise](https://open.spotify.com/artist/6e9m9OMFmpzGzaMiLYXP6D) | [A Journey to the Heart of Matter \(Remastered 2022\)](https://open.spotify.com/album/5SAaWiWlLmKeLtB7hGGPTU) | 4:40 | 2026-05-18 |  |
 | [Children of the Future](https://open.spotify.com/track/6OglVQUqBeozmxbSts7zRf) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [FOUR \(Deluxe Version\)](https://open.spotify.com/album/4T5NbYNbGEgTF3SbTQH0rT) | 3:07 | 2025-12-16 |  |
 | [Christmas Treat](https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 3:11 | 2024-06-10 |  |
+| [christmas will break your heart](https://open.spotify.com/track/0dMGq0YUOik1rMZicB96Qa) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [christmas will break your heart](https://open.spotify.com/album/3skXXEPIZHApEfglcwIlvR) | 4:26 | 2026-08-31 |  |
 | [City Walls](https://open.spotify.com/track/0KSAukJDLhGDWQVN4sQTGd) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 4:16 | 2024-07-07 |  |
 | [Clampdown \- The End Has No End B\-Side / Live at Alexandra Palace, London, UK \- Dec\. 5, 2003](https://open.spotify.com/track/2NpASZ796KewPmSDMHDhPN) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The Singles \- Volume 01](https://open.spotify.com/album/2j5jqlI0NvqlXAy9C740pZ) | 4:09 | 2026-08-14 |  |
 | [Climbing Up the Walls](https://open.spotify.com/track/2PDQReEXBViVwkrbQ34vd7) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:45 | 2025-12-13 |  |
@@ -315,6 +316,7 @@
 | [Holiday](https://open.spotify.com/track/5hxmV8ZwqtBmS6tGG150ha) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/3hcrTu8zeynChXDOJt3lX2) | 3:24 | 2024-04-04 |  |
 | [Holland, 1945](https://open.spotify.com/track/64DpBZj4IlDFzCwxTq7azl) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 3:12 | 2024-04-20 |  |
 | [Homage](https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN) | 2:57 | 2023-11-19 |  |
+| [Home](https://open.spotify.com/track/5gmv3BgePSYiHnPJgY7oTJ) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 7:53 | 2026-08-30 |  |
 | [Home Again](https://open.spotify.com/track/1uMHqfbZxGqQXzZc6Xr7WG) | [Alec Holowka](https://open.spotify.com/artist/2msAsizgFUJio7s8sgme16) | [Night in the Woods \(Original Soundtrack, Vol\. 1\) \[At the End of Everything\]](https://open.spotify.com/album/0f0tXQKGvvaYRsVZrzr4O8) | 4:34 | 2023-11-14 |  |
 | [Homecoming](https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:23 | 2023-11-14 |  |
 | [Homie](https://open.spotify.com/track/4VFW5JhRDRu8t1gHsM82rY) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Zest Pop](https://open.spotify.com/album/4CvR0TtxnofCq74AiND8kp) | 2:29 | 2024-12-28 | 2026-02-24 |
@@ -677,6 +679,7 @@
 | [Some Girls Are Bigger Than Others \- 2011 Remaster](https://open.spotify.com/track/3znapZvsInnCVsDERDUaM5) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 3:17 | 2025-12-14 |  |
 | [Some Things Are Never Gonna Change](https://open.spotify.com/track/0fmelRPNuTV1eq12ZqSNm7) | [Orange Dog Club](https://open.spotify.com/artist/7bU64wIvBElELVsQabM3VG) | [Some Things Are Never Gonna Change](https://open.spotify.com/album/6FKnrHUYRu7os6t2aTf1jH) | 4:19 | 2026-03-09 | 2026-04-10 |
 | [Somebody That I Used To Know](https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna) | 4:04 | 2023-11-12 | 2024-06-21 |
+| [Somebody's Calling Me](https://open.spotify.com/track/4NiwTsBlFT7H2OMpUbadwL) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 6:53 | 2026-08-30 |  |
 | [Someday](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:03 | 2024-05-29 |  |
 | [Someone Great](https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 6:30 | 2026-08-18 |  |
 | [Someone Is Waiting](https://open.spotify.com/track/7kwOZJMxsQcBpC4j3kp24d) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [On Avery Island](https://open.spotify.com/album/3QTmNqASavj7H8DPhFss1r) | 2:31 | 2024-04-19 |  |

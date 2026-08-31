@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5FlKpxuzXQrDXGPrCps9zR.md) - [plain]
 
 > 
 
-[dylan](https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i) - 0 likes - 20 songs - 1 hr 1 min
+[dylan](https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i) - 0 likes - 28 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,5 +28,13 @@ pretty - [cumulative](/playlists/cumulative/5FlKpxuzXQrDXGPrCps9zR.md) - [plain]
 | 18 | [Work In Progress](https://open.spotify.com/track/0alBceN9ba6BzDZgX64uvx) | [Liamani](https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v), [Malachi Barton](https://open.spotify.com/artist/3fknxSm9gKHsiN2C6lcRme), [Lumi Pollack](https://open.spotify.com/artist/7keuWJj8bdN00mkEAfovAk), [Hudson Stone](https://open.spotify.com/artist/2i8MybJZlckvB0dnB8oLFH), [Casey Trotter](https://open.spotify.com/artist/3rT58iotPIAcFbjO2YjdKc), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Camp Rock 3 \(Original Soundtrack\)](https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh) | 3:18 |
 | 19 | [We Rock](https://open.spotify.com/track/7LAvnWNp8sojHaKwTgAY1q) | [Connect 3](https://open.spotify.com/artist/5VO7OPvja8CKKy7zvmmb8F), [Camp Rock – Cast](https://open.spotify.com/artist/2Zl1iS9wkwYYoYp4OywJ2N), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Camp Rock 3 \(Original Soundtrack\)](https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh) | 2:44 |
 | 20 | [Brand New Day](https://open.spotify.com/track/7fWqPukuuFHFuZO8AXBtQh) | [Liamani](https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Camp Rock 3 \(Original Soundtrack\)](https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh) | 3:21 |
+| 21 | [Jealous Type](https://open.spotify.com/track/03JZr55j9bIj1d2RQJ7Yq9) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 2:43 |
+| 22 | [Lean In, Kiss Me](https://open.spotify.com/track/1VDE2EdLW9pkhAdtneo5nN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 2:38 |
+| 23 | [Whiskey](https://open.spotify.com/track/7kgyhyO33lHEaLUtfMnaGm) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 2:58 |
+| 24 | [I Know I Know](https://open.spotify.com/track/3k8lmYZxwXxLNtNGR7fg5Q) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 2:39 |
+| 25 | [Forever Guy](https://open.spotify.com/track/14ePLFzd3eSKPQCUjy3FFW) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 2:24 |
+| 26 | [Good At Leaving](https://open.spotify.com/track/05sRqmNC3abDrbBnt4CZrj) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 2:49 |
+| 27 | [Summer You Were Mine](https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 3:07 |
+| 28 | [Why Wouldn't We](https://open.spotify.com/track/6sMINnZ3kU6ZTMB1wntMnQ) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 2:37 |
 
-Snapshot ID: `AAAB6fdARQviIW2YlkdSyEMffZoX/zB4`
+Snapshot ID: `AAAB8536MxxVuCFiEwA6zpzzLQoM5mBq`

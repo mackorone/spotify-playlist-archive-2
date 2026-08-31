@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,782 likes - 240 songs - 13 hr 15 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,784 likes - 242 songs - 13 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -248,5 +248,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 238 | [Trust](https://open.spotify.com/track/1MZLhAKVUPZkcbUVmwOO3v) | [ColourMind](https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO) | [Trust](https://open.spotify.com/album/2wjrSorNgeLOuffeyEqDlN) | 3:04 |
 | 239 | [Hollywood](https://open.spotify.com/track/5mIC2serbv60vtTy02IMyU) | [EMMALISA](https://open.spotify.com/artist/0uAC20tdGcRDQMNvWTnZP0) | [Hollywood](https://open.spotify.com/album/0BX9XhyMCcJoON2qcF3wEF) | 3:48 |
 | 240 | [Ocean Call](https://open.spotify.com/track/3IkLqtO9o3iKzXBvyh17dG) | [The Walrus Project](https://open.spotify.com/artist/1jsbRhM9bwcvUq1wrpy9gD) | [from the couch](https://open.spotify.com/album/3jiUMmRTeEbw29xFVfym2B) | 2:30 |
+| 241 | [Cult of Masculinity](https://open.spotify.com/track/79iK5rGh72RHiCJaUDIBnZ) | [Gawd](https://open.spotify.com/artist/76xDrhcwYuayzbzIkR3mBD) | [American Closet](https://open.spotify.com/album/2JJBoMlIWcIHhnsbt7Hnld) | 4:31 |
+| 242 | [One Eye Open](https://open.spotify.com/track/1mSskP1M7EAGSFwAICCbSO) | [Caskey](https://open.spotify.com/artist/7nVgP0ISalazUzugR7D8zk) | [One Eye Open](https://open.spotify.com/album/5sagqjIIzg62dy99DVqt1z) | 3:24 |
 
-Snapshot ID: `AAATn7mN27mhS8vHyEYKHjXXAezcRUFj`
+Snapshot ID: `AAAToTvz01w+EdVWJL7uvMYPiqv+AhS2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with melodic house and techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,364 likes - 80 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,402 likes - 80 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 73 | [Curve](https://open.spotify.com/track/5J0id4CmRP4rC89UmwVFYd) | [Microtrauma](https://open.spotify.com/artist/4abBidW4ScsxlRcISTeKkB) | [Curve \| The Arc](https://open.spotify.com/album/7Cv8pKOfpX7oBQPMRQU0Qd) | 8:35 |
 | 74 | [Housefly](https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7) | [Horisone](https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr) | [Vibrations](https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5) | 7:15 |
 | 75 | [Planet F](https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Planet F](https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ) | 4:01 |
-| 76 | [Hegn](https://open.spotify.com/track/2xSajF5EIKkiyQqO5whSlK) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Hegn](https://open.spotify.com/album/6wPs3Hbq9TfnW8mTS6u6zI) | 6:26 |
-| 77 | [Dark Future](https://open.spotify.com/track/5pogItD4GCGPkMR3SlLd1R) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Mind Kontrol EP](https://open.spotify.com/album/0Gb1g3zTWUGkO8OpG5nHmc) | 6:43 |
+| 76 | [Dark Future](https://open.spotify.com/track/5pogItD4GCGPkMR3SlLd1R) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Mind Kontrol EP](https://open.spotify.com/album/0Gb1g3zTWUGkO8OpG5nHmc) | 6:43 |
+| 77 | [Hegn](https://open.spotify.com/track/2xSajF5EIKkiyQqO5whSlK) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Hegn](https://open.spotify.com/album/6wPs3Hbq9TfnW8mTS6u6zI) | 6:26 |
 | 78 | [The Mood](https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc) | [Rafael Osmo](https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5) | [The Mood](https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX) | 3:30 |
 | 79 | [Mars Express](https://open.spotify.com/track/6pLId3BTsBZO9uec6j6fe6) | [Coeus](https://open.spotify.com/artist/7yibHBJHi3LZD0uvWAdyya) | [Mars Express](https://open.spotify.com/album/3XFsr5IXqQh3n7tg8nzP9d) | 6:51 |
 | 80 | [Polymid](https://open.spotify.com/track/6Ob7lH8xFS2HYPnkFsdzrl) | [Renga Weh](https://open.spotify.com/artist/28xBr8Qn3mikTNu5yswXYR) | [Mera](https://open.spotify.com/album/7fg9iODTa8OBPcgrtSXv7p) | 7:11 |

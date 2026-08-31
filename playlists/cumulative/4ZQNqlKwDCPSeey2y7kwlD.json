@@ -2197,6 +2197,24 @@
     },
     {
       "album": {
+        "name": "Ember (Remind Me)",
+        "url": "https://open.spotify.com/album/0CZeRZRYHLSRBZDPXsLNrT"
+      },
+      "artists": [
+        {
+          "name": "Kuzi Cee",
+          "url": "https://open.spotify.com/artist/64lkoPycQSYTify0c5wekf"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138318,
+      "name": "Ember (Remind Me)",
+      "url": "https://open.spotify.com/track/0190y3IO7OwDMqRZeYjB9P"
+    },
+    {
+      "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/2kFFrTliyBq4AnjDkPGVeD"
       },
@@ -3126,7 +3144,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 235986,
       "name": "Headlines",
       "url": "https://open.spotify.com/track/6LxSe8YmdPxy095Ux6znaQ"
@@ -5184,7 +5202,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 212746,
       "name": "Money",
       "url": "https://open.spotify.com/track/3PIgAVNHyiiAiKhxnvdrPw"
@@ -6874,6 +6892,24 @@
       "duration_ms": 184160,
       "name": "Seven (feat. Latto)",
       "url": "https://open.spotify.com/track/5Avril3IZ26DPVFHbJX8o6"
+    },
+    {
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188722,
+      "name": "Shabang",
+      "url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
     },
     {
       "album": {

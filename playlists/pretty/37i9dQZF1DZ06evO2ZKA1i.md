@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,416 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,440 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 49 | [Portable Door](https://open.spotify.com/track/5nDq7sWv4ORqTKKvLNl9Oe) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [=1](https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq) | 3:48 |
 | 50 | [Lalena \- 2000 Remaster](https://open.spotify.com/track/4mBXB13NhpYnPqP7TepGsl) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple](https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc) | 5:05 |
 
-Snapshot ID: `apDPgAAAAAAkBcVBwPsaUiSyha1mkdDu`
+Snapshot ID: `apIhAAAAAAB6ZIF2nFEHqRXBEVO7g6YU`

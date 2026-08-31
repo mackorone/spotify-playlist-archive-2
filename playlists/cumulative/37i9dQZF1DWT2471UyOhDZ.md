@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Westside Cowboy
 
-510 songs - 1 day 8 hr 49 min
+512 songs - 1 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Chapel of Salt](https://open.spotify.com/track/3j5KrZaaNOdHRydQ8w4Ck8) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Ginkgo](https://open.spotify.com/album/1YO3Eb228rrhTC0gKgGxSW) | 3:08 | 2025-04-04 | 2026-06-19 |
 | [Cheers](https://open.spotify.com/track/2bPm2KgdHwttB2ZRdL0jdZ) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Cheers](https://open.spotify.com/album/34r9RSSfxVG5pDXbfcuE8u) | 3:26 | 2025-02-28 | 2026-01-15 |
 | [Chicken](https://open.spotify.com/track/0nEVjbu58y0cghChyOoxW8) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Chicken](https://open.spotify.com/album/2MKGBJYKuJFWgEg3IWGYqD) | 4:22 | 2024-08-14 | 2025-01-31 |
-| [Cigarette Curls](https://open.spotify.com/track/5J1urfVniTBLYi8NuoTJE0) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [The Ground Above](https://open.spotify.com/album/2xsnBz8QqjNPUDVFp0PKZS) | 6:41 | 2026-06-25 |  |
+| [Cigarette Curls](https://open.spotify.com/track/5J1urfVniTBLYi8NuoTJE0) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [The Ground Above](https://open.spotify.com/album/2xsnBz8QqjNPUDVFp0PKZS) | 6:41 | 2026-06-25 | 2026-08-31 |
 | [Cinderella](https://open.spotify.com/track/5OLMwH0OXQigJThzKIjOAG) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Cinderella](https://open.spotify.com/album/6mWBwBpmYagDahWvlsiIzh) | 4:34 | 2025-02-28 | 2025-05-13 |
 | [Cinnamon Temple](https://open.spotify.com/track/6PzV5vEnJSng3LmZ23Y7DB) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Love Heart Cheat Code](https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0) | 3:20 | 2024-07-18 | 2025-05-09 |
 | [Circle of Trust](https://open.spotify.com/track/76x9lsvahKXzPQVIJQLhDp) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Pink Elephant](https://open.spotify.com/album/5qLTlCTZvN24Fm1nqd7XCV) | 6:05 | 2025-05-08 | 2026-06-19 |
@@ -273,6 +273,7 @@
 | [Long Lonely Road](https://open.spotify.com/track/2o4piahi00YKK9iBPSB6kF) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [A Hole To See The Sky Through](https://open.spotify.com/album/5OGQdQZc5hi7WUkzFPVbSB) | 4:20 | 2026-08-20 |  |
 | [Long Throes](https://open.spotify.com/track/0fYRy3tTccPQx3IPKEBydD) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [All Hell](https://open.spotify.com/album/0OC1Dw26zaarFA1HItWV4c) | 4:19 | 2024-07-18 | 2025-01-31 |
 | [Loose Talk](https://open.spotify.com/track/34y46kIPGCkh120SPNqtoi) | [The Afghan Whigs](https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD) | [Soft Control](https://open.spotify.com/album/5fRHlDzwhKI3KaGQKWrNPC) | 3:25 | 2026-08-20 |  |
+| [Lose All Your Friends](https://open.spotify.com/track/0kvAaEfGZnzBQaUmqUJ2ct) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Lose All Your Friends](https://open.spotify.com/album/6CNGYWi0QtwDh80KcIvnWS) | 5:01 | 2026-08-28 |  |
 | [Losing You](https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Losing You](https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP) | 3:35 | 2024-06-14 | 2025-03-22 |
 | [Lost and Found](https://open.spotify.com/track/7BzfqlcZzFr2bjTbLfxx1a) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Lost and Found](https://open.spotify.com/album/7y2bMzJ7K5qgtnEIJeyat7) | 4:15 | 2025-05-08 | 2025-06-28 |
 | [Lost Boys](https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP) | 4:14 | 2026-06-25 |  |
@@ -287,6 +288,7 @@
 | [Lovers' Leap](https://open.spotify.com/track/1p8mrJtkM4KFa72LLQy2yP) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Lovers' Leap](https://open.spotify.com/album/6AAd32SmYdG4DTBIEuHFbp) | 4:34 | 2024-06-14 | 2024-07-12 |
 | [Lucid Girl](https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lucid Girl](https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w) | 3:22 | 2024-08-14 | 2025-10-24 |
 | [Mad Catch](https://open.spotify.com/track/27a1HBHlfXd1o1yEzJd8iy) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [Glutton For Punishment](https://open.spotify.com/album/2h0EkMbH3XWfdnA1yEzxLT) | 3:10 | 2025-02-07 | 2025-03-28 |
+| [Make It Stop](https://open.spotify.com/track/6Ziu9cDGafW7oESEuu4Bvt) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Thank You](https://open.spotify.com/album/1atCF7KORZky8sOL0aq0SJ) | 2:55 | 2026-08-28 |  |
 | [Man Made of Meat](https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Man Made of Meat](https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo) | 3:09 | 2025-01-31 | 2025-10-24 |
 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 | 2025-07-18 |  |
 | [many lives](https://open.spotify.com/track/3vp3XBbBYHm3GPgs8ZxOBk) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [many lives](https://open.spotify.com/album/6YcGqNo2BKJBs5uiRRI8f1) | 3:01 | 2025-06-06 | 2025-10-26 |
@@ -382,7 +384,7 @@
 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 | 2024-06-14 | 2025-03-22 |
 | [Sargasso Sea](https://open.spotify.com/track/4Oy185yBcxHHi5x2sa6iiv) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe), [Caoilfhionn Rose](https://open.spotify.com/artist/6YRqlhH88xZ7h2WOhwNYOb) | [Renascent](https://open.spotify.com/album/5YocvK2G7GuMDS1YHX51YV) | 3:24 | 2026-07-31 |  |
 | [Scared Of Screaming](https://open.spotify.com/track/2P3ZRlyJxseRbrxMbMltuP) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Scared Of Screaming](https://open.spotify.com/album/5TF56mSxRuv2Tivpiem1ff) | 5:11 | 2025-05-08 | 2025-06-22 |
-| [Seachain](https://open.spotify.com/track/5I5QQqPu7S5hFbFfhyodIg) | [Chasing Abbey](https://open.spotify.com/artist/6toMXnM9tcozz7OmgxWtZg) | [Seachain](https://open.spotify.com/album/5B7SlvZg8nSPmk7fcskVwl) | 3:39 | 2026-06-12 |  |
+| [Seachain](https://open.spotify.com/track/5I5QQqPu7S5hFbFfhyodIg) | [Chasing Abbey](https://open.spotify.com/artist/6toMXnM9tcozz7OmgxWtZg) | [Seachain](https://open.spotify.com/album/5B7SlvZg8nSPmk7fcskVwl) | 3:39 | 2026-06-12 | 2026-08-31 |
 | [See Out Loud](https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [This Mirror Weighs a Ton/See Out Loud](https://open.spotify.com/album/53ZH0bU5CZ1QVfz92eImpl) | 4:56 | 2026-06-18 |  |
 | [Serious](https://open.spotify.com/track/7K0JWFM79uCdRsGW13DRDm) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e), [Mothé](https://open.spotify.com/artist/1aAAIapQGdmLC30d26LZuJ) | [Serious](https://open.spotify.com/album/6CEa4YryuGAedfpmH9skvO) | 2:31 | 2025-10-02 | 2026-06-23 |
 | [Shame](https://open.spotify.com/track/550fqOZMPaSRasqZhA32Kf) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [The Painful Truth](https://open.spotify.com/album/5jq8APA0WmCEaIeHoGciO3) | 4:06 | 2025-05-23 | 2025-07-20 |

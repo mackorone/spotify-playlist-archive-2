@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,545 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,547 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 28 | [Song for You](https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Song for You / The Wizard](https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l) | 3:33 |
 | 29 | [Play Me](https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Play Me](https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV) | 2:49 |
 | 30 | [Air](https://open.spotify.com/track/1hGFbfiUfo4xVIR0R706rR) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [FOREVER](https://open.spotify.com/album/45eDwIUGCbJKLNGwXj00Jh) | 3:42 |
-| 31 | [Monsoon](https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [DUMB](https://open.spotify.com/album/7e7r5fXrnD2eRJEZ6DVnKs) | 2:50 |
-| 32 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
+| 31 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
+| 32 | [Monsoon](https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [DUMB](https://open.spotify.com/album/7e7r5fXrnD2eRJEZ6DVnKs) | 2:50 |
 | 33 | [See It As A Sign](https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [See It As A Sign](https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp) | 2:54 |
 | 34 | [Mystical Energy](https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Mystical Energy EP](https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi) | 5:20 |
 | 35 | [Love Will Win The Day \- Take 3 Radio Edit](https://open.spotify.com/track/4r4G0PQIrASzTRrT9R1Pd5) | [Nutty Nys](https://open.spotify.com/artist/7Hbhksw9E9NGS44qobhTSX) | [Love Will Win The Day \(Take 3 Radio Edit\)](https://open.spotify.com/album/6X8YeWB1WRps0m4DXEu23a) | 3:15 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 60 | [Speed Dating](https://open.spotify.com/track/5j2sGJpwHBdSOiTBFG9cX0) | [DJ Sugarush](https://open.spotify.com/artist/4RKrqMYX0HJQh03lplAUkX), [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7) | [Speed Dating](https://open.spotify.com/album/4BuCifUv2tHplBzCGMWGZ1) | 2:47 |
 | 61 | [Sakura](https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt) | [Across Boundaries](https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT), [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Sakura](https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5) | 6:24 |
 | 62 | [Sad Piano House](https://open.spotify.com/track/5aoW3sHEi8uBBYEQyC16i9) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Sad Piano House](https://open.spotify.com/album/5RqK2ppKKTOIZbCl9wNbtv) | 5:05 |
-| 63 | [gbesoke](https://open.spotify.com/track/2ClKw253thLvImhOHDMk1y) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [TRUE MAGIC, DELUXE](https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1) | 4:15 |
-| 64 | [Fun Times](https://open.spotify.com/track/7LD3zycYhQNEkvSaDXwFv2) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Fun Times](https://open.spotify.com/album/6cNNIC4lX9MjSyGTXLA1MS) | 4:13 |
+| 63 | [Fun Times](https://open.spotify.com/track/7LD3zycYhQNEkvSaDXwFv2) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Fun Times](https://open.spotify.com/album/6cNNIC4lX9MjSyGTXLA1MS) | 4:13 |
+| 64 | [gbesoke](https://open.spotify.com/track/2ClKw253thLvImhOHDMk1y) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [TRUE MAGIC, DELUXE](https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1) | 4:15 |
 | 65 | [Remember \(feat\. Ravyn Lenae & Scrufizzer\)](https://open.spotify.com/track/2HlT1qcOgxlnbzBFirVz0K) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Scruffizer](https://open.spotify.com/artist/4nFfDHAqAGzzafiRt7KdEb) | [INFINITY CLUB II](https://open.spotify.com/album/65rerxGdYHjGKB9Fx26rYK) | 2:45 |
 | 66 | [Odyssey](https://open.spotify.com/track/3uQRqiNdBjjTIvb1bq5FH4) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK) | [Odyssey EP](https://open.spotify.com/album/2SBRzynmqYkPw0Yf6Jn0pK) | 5:45 |
 | 67 | [Ondatonda](https://open.spotify.com/track/54msm7wWFdqpbwMln20Mwn) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew), [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [ONDATONDA](https://open.spotify.com/album/6ugAB2uGoZ5YrqKoS5ycbG) | 3:31 |

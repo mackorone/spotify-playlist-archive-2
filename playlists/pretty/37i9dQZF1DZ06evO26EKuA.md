@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 
 > This is Valentín Elizalde\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,911 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,928 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 | 35 | [Sobre La Tumba De Mi Padre](https://open.spotify.com/track/6jVcf6qobg1VLoYah4jomr) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Íconos 25 Éxitos](https://open.spotify.com/album/0GKxtrQuqpABUvukziRENV) | 3:51 |
 | 36 | [Ya Viene Amaneciendo](https://open.spotify.com/track/4udpojvy03lBAx1cHINhCW) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Volveré a Amar](https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h) | 2:15 |
 | 37 | [Gracias Por Que Volviste](https://open.spotify.com/track/2FtixLUEMUI7eT5Zc02s7B) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Satisfacción](https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl) | 3:25 |
-| 38 | [Acá Entre Nos \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/2YBcpGHHvg9vfCosDvTeal) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 3:55 |
-| 39 | [Mi Virgencita](https://open.spotify.com/track/2uKWSWKk9Mi7tCFgDg7Tui) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY) | 2:25 |
+| 38 | [Mi Virgencita](https://open.spotify.com/track/2uKWSWKk9Mi7tCFgDg7Tui) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY) | 2:25 |
+| 39 | [Acá Entre Nos \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/2YBcpGHHvg9vfCosDvTeal) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 3:55 |
 | 40 | [La Yaquesita](https://open.spotify.com/track/4COFVKhvXA3LecFReH6D2v) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Se Les Pelo Baltazar](https://open.spotify.com/album/6u1WedqeupmhpAlkyNU7XW) | 3:58 |
 | 41 | [El Huizache](https://open.spotify.com/track/0qoG5PN9VoZxGWrqbgFPaK) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Satisfacción](https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl) | 3:47 |
 | 42 | [Señora Equivocada](https://open.spotify.com/track/5R90gu1goaOnbasX1zPWxi) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Volveré a Amar](https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 | 49 | [Linda Guerita](https://open.spotify.com/track/2WRpGwqb4fKaeXUAIOJdzS) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Ultima Bohemia \(En Vivo\)](https://open.spotify.com/album/3C5E0uhfa1NHmS7ftJ9W7y) | 2:47 |
 | 50 | [La Banda Borracha](https://open.spotify.com/track/55NX1m4flj7cqK2JnLyXQs) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Volveré a Amar](https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h) | 4:10 |
 
-Snapshot ID: `apDPgAAAAADD5ycMEdCjO4E+WTw34eb4`
+Snapshot ID: `apIhAAAAAADgvE69NzONdLe+wHWXuv23`

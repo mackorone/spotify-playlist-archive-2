@@ -4,7 +4,7 @@
 
 > This is Cleo Sol\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 55 min
+44 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Life Will Be](https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:18 | 2026-08-22 |  |
 | [Miles Song](https://open.spotify.com/track/7eJuAwgcLzhGy1aXwrS5ID) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Winter Songs](https://open.spotify.com/album/11LdEagZ3xjPLIceUEIHRq) | 5:33 | 2026-08-22 | 2026-08-25 |
 | [Miss Romantic](https://open.spotify.com/track/71pFw48rIGZRAMbtWbA2XJ) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:21 | 2026-08-22 |  |
-| [Music](https://open.spotify.com/track/6Watx1YhBZeISowqXK3YGq) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 6:10 | 2026-08-22 |  |
+| [Music](https://open.spotify.com/track/6Watx1YhBZeISowqXK3YGq) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 6:10 | 2026-08-22 | 2026-08-31 |
 | [Nothing Is Impossible With You](https://open.spotify.com/track/1jP8sjGxTpkQz13WzS1fpw) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Nothing Is Impossible With You](https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW) | 4:14 | 2026-08-22 |  |
 | [One](https://open.spotify.com/track/1BMlDJRb0MtjhliYhlofhw) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [One](https://open.spotify.com/album/3YU2UjV4qkFNP3fUkiAyIa) | 4:33 | 2026-08-22 | 2026-08-24 |
 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 | 2026-08-22 |  |
@@ -39,6 +39,7 @@
 | [Selfish](https://open.spotify.com/track/1b6fmULpHj08RMmHfARJ4e) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 3:46 | 2026-08-22 |  |
 | [Sentimental Love](https://open.spotify.com/track/3LKqrPI3rAv2fGJOIMHIws) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gentlewoman](https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU) | 4:17 | 2026-08-22 |  |
 | [Shine](https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Shine](https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb) | 3:46 | 2026-08-22 |  |
+| [Spirit](https://open.spotify.com/track/2vvrIcVEnafeo0EeqoUdsz) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:16 | 2026-08-31 |  |
 | [Still Cold](https://open.spotify.com/track/0UgrFnBm4ZcWjCQj5g3Qal) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Winter Songs](https://open.spotify.com/album/11LdEagZ3xjPLIceUEIHRq) | 4:19 | 2026-08-22 |  |
 | [Sunshine](https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:22 | 2026-08-22 |  |
 | [Sweet Blue](https://open.spotify.com/track/6UOruoEj8UAA9iEtjbjJra) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sweet Blue](https://open.spotify.com/album/2id5Rs8ZSBGpiykreLASis) | 4:13 | 2026-08-22 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 88318,
+  "num_followers": 88325,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAA36oS1DE9zsu5Zbv99ClpG",
+  "snapshot_id": "apIhAAAAAAAAS5ZKs7NESYqH7bKlC1qx",
   "tracks": [
     {
       "added_at": null,
@@ -683,38 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHERE TO FIND ME",
-        "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 161159,
-      "name": "ALL SHE LEFT WAS ME",
-      "url": "https://open.spotify.com/track/1lyDAuNyaHxGaNNp7rAyne"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THIS OLE BOY",
-        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 222793,
-      "name": "4X4",
-      "url": "https://open.spotify.com/track/1WIeoKa9OpHSFSj0pwnRzE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "s\u00f8n of dad (deluxe)",
         "url": "https://open.spotify.com/album/3iTz4Hhtzy2o7O6U9n2JXe"
       },
@@ -735,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "COUNTRY! COUNTRY!",
-        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
+        "name": "THIS OLE BOY",
+        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
       },
       "artists": [
         {
@@ -744,9 +712,45 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 238030,
-      "name": "Country Country",
-      "url": "https://open.spotify.com/track/1FHOMoJbGHsjR8E44IcZ8g"
+      "duration_ms": 222793,
+      "name": "4X4",
+      "url": "https://open.spotify.com/track/1WIeoKa9OpHSFSj0pwnRzE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHERE TO FIND ME",
+        "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 161159,
+      "name": "ALL SHE LEFT WAS ME",
+      "url": "https://open.spotify.com/track/1lyDAuNyaHxGaNNp7rAyne"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "duration_ms": 218471,
+      "name": "Bedrooms In The Sky (feat. Stephen Wilson Jr.)",
+      "url": "https://open.spotify.com/track/4hVlesuEbCoRKZwuupbgTx"
     },
     {
       "added_at": null,
@@ -818,15 +822,11 @@
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
         }
       ],
-      "duration_ms": 218471,
-      "name": "Bedrooms In The Sky (feat. Stephen Wilson Jr.)",
-      "url": "https://open.spotify.com/track/4hVlesuEbCoRKZwuupbgTx"
+      "duration_ms": 238030,
+      "name": "Country Country",
+      "url": "https://open.spotify.com/track/1FHOMoJbGHsjR8E44IcZ8g"
     },
     {
       "added_at": null,

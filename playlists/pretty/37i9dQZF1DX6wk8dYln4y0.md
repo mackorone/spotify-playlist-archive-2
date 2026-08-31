@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 
 > pop that \*hits different\* featuring vita
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,744 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,693 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 | 40 | [What if I miss you for the rest of my life?](https://open.spotify.com/track/432pM7gIHQmksVaU3B50pN) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [LAB SONGS NG MGA TANGA](https://open.spotify.com/album/3CvI8CDpDzz6Q2nDuXWKXs) | 3:06 |
 | 41 | [Madwoman](https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:59 |
 | 42 | [someone new](https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [someone new](https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV) | 2:34 |
-| 43 | [The light in the painting](https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [The light in the painting](https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY) | 3:44 |
-| 44 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 |
+| 43 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 |
+| 44 | [The light in the painting](https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [The light in the painting](https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY) | 3:44 |
 | 45 | [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 |
 | 46 | [Twiggy](https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Twiggy](https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb) | 3:29 |
 | 47 | [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 | 77 | [HARD](https://open.spotify.com/track/5AzO8bswSqsYtJIfVA2BqX) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA Afterglow](https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM) | 3:34 |
 | 78 | [PIECES](https://open.spotify.com/track/0LSnGEfj4T8vJyi7lVU3Gn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET \(DELUXE\)](https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3) | 3:25 |
 | 79 | [I Cry in Front of Paintings](https://open.spotify.com/track/0N6h5BvKIqJWjfynJEF8Sn) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [I Cry in Front of Paintings](https://open.spotify.com/album/4V7zThL5VnJz7qgrFQ0XxH) | 2:55 |
-| 80 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 |
+| 80 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 |
 
 Snapshot ID: `AAAAAF4ArdRHLuNLmW8GO+QGMxQxwW6B`

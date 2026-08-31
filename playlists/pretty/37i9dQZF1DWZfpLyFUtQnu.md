@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,231 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,253 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 26 | [Mon amie la rose](https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Mon amie la rose\)](https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub) | 2:17 |
 | 27 | [Voilà c'est fini](https://open.spotify.com/track/3KCLtcuYgPLLRJmQNXTvWR) | [Jean\-Louis Aubert](https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs) | [Bleu Blanc Vert](https://open.spotify.com/album/71TJjFA83jtKIrV6n37FCE) | 5:08 |
 | 28 | [Femmes..\. Je vous aime](https://open.spotify.com/track/1Cis3BiUs6rLpT3BnRy1TR) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Femmes, indiscrétion, blasphème](https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f) | 4:23 |
-| 29 | [Sublime & Silence](https://open.spotify.com/track/5nOy1wbwjpGTXr3Bk5zI4T) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [&](https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj) | 3:56 |
-| 30 | [Toi mon amour](https://open.spotify.com/track/0joVOoFQB1l3nGceHwgxVI) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [L'Heure D'Eté](https://open.spotify.com/album/4KGuo3fzcCgvfvqvA2o5lh) | 3:34 |
+| 29 | [Toi mon amour](https://open.spotify.com/track/0joVOoFQB1l3nGceHwgxVI) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [L'Heure D'Eté](https://open.spotify.com/album/4KGuo3fzcCgvfvqvA2o5lh) | 3:34 |
+| 30 | [Sublime & Silence](https://open.spotify.com/track/5nOy1wbwjpGTXr3Bk5zI4T) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [&](https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj) | 3:56 |
 | 31 | [Prendre un enfant](https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw) | [Yves Duteil](https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl) | [Tarentelle](https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu) | 4:18 |
 | 32 | [Allô maman bobo](https://open.spotify.com/track/6feRXBskplLVuNov74Rep3) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [Jamais Content](https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw) | 3:31 |
 | 33 | [Mon amour](https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Essentiels](https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx) | 3:01 |

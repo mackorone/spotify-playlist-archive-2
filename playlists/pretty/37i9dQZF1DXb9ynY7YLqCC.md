@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: reybruja
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,689 likes - 70 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,701 likes - 70 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 19 | [Homero](https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Especial](https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E) | 4:23 |
 | 20 | [Sigue Girando](https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Girando](https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B) | 3:58 |
 | 21 | [Chance](https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Karmagedon](https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv) | 5:28 |
-| 22 | [Las cosas que no se tocan](https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 3:34 |
+| 22 | [De La Guitarra](https://open.spotify.com/track/26lG5q6s0MG3GK44rmYmFg) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 5:12 |
 | 23 | [Cuando Estés Acá](https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [La Renga](https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH) | 4:55 |
 | 24 | [Lo Artesanal \- Remix](https://open.spotify.com/track/6G69Rca1fS52ypIOp5KJBX) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Sigue Pegando](https://open.spotify.com/album/5Nv6koWaTbbunAJhE8cYeT) | 5:40 |
 | 25 | [Cobarde para Amar](https://open.spotify.com/track/5wRABVeikfx8nwyyG3xVLQ) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Gardeliando](https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3) | 4:22 |
 | 26 | [Beatle](https://open.spotify.com/track/5dpS7KpIkLFC0hm8tsqI1V) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Radio Insomnio](https://open.spotify.com/album/7cm5BAYTV2rWUTEwpLk1F3) | 3:29 |
-| 27 | [De La Guitarra](https://open.spotify.com/track/26lG5q6s0MG3GK44rmYmFg) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 5:12 |
+| 27 | [Las cosas que no se tocan](https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 3:34 |
 | 28 | [Voy A Bailar A La Nave Del Olvido \- Live](https://open.spotify.com/track/3K4HPBlXfIhFaWRqpFQ1lP) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Bailando En Una Pata \(Live\)](https://open.spotify.com/album/1OvwfF3Eb66k29nZHkn7qB) | 5:06 |
 | 29 | [Solo voy](https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [SHOC](https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz) | 4:15 |
 | 30 | [Nadie Cree en Mi Canción](https://open.spotify.com/track/33fq6yez7xTPhIYsv3vLZs) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Gardeliando](https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3) | 3:42 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 54 | [Miras sin ver](https://open.spotify.com/track/0h977C6sVvhYg2fEf3tIO6) | [Ojos locos](https://open.spotify.com/artist/2qMYZt6h1KkH2OxwI2tOo6) | [Guerra de Nada](https://open.spotify.com/album/4BpvpQg1SoId37jAosecWu) | 4:11 |
 | 55 | [Probaste un Buen Dolor](https://open.spotify.com/track/6vEuaYdwI95ClE5zaIn5Ji) | [Sueño de Pescado](https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1) | [Venganza Primavera](https://open.spotify.com/album/7bbgqwZ32fIFfvvhmzpYu0) | 3:43 |
 | 56 | [\(Sonrisa\)](https://open.spotify.com/track/6KvM9hNOk3Sa7pknGBHHQp) | [De La Gran Piñata](https://open.spotify.com/artist/0gxy0foaJsRc1tfpByJWCK) | [Viaje al Centro de Uno Mismo](https://open.spotify.com/album/7zKNPA1cVOW58Pn4UJTerl) | 4:39 |
-| 57 | [piso 20](https://open.spotify.com/track/3Km8AtaJxGsCiT6u8Uhz1m) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [GUSTAR Y OFENDER](https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd) | 2:21 |
-| 58 | [Caer](https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Flor de ceibo](https://open.spotify.com/album/3bX8ps73c1Ps2lroSYD2rV) | 2:08 |
+| 57 | [Caer](https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Flor de ceibo](https://open.spotify.com/album/3bX8ps73c1Ps2lroSYD2rV) | 2:08 |
+| 58 | [piso 20](https://open.spotify.com/track/3Km8AtaJxGsCiT6u8Uhz1m) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [GUSTAR Y OFENDER](https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd) | 2:21 |
 | 59 | [Rock del Pedazo](https://open.spotify.com/track/5MRelkZAqB0SrxUtZmexQo) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [X 16](https://open.spotify.com/album/45UGwtbbmTeqJAoFnhiLx7) | 2:46 |
 | 60 | [no me mires así](https://open.spotify.com/track/6CjDOZBy0rR88f8poJUAgV) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [no me mires así](https://open.spotify.com/album/5pSoAsZRO5zgZXQGsQ7tSo) | 2:26 |
 | 61 | [Veredas](https://open.spotify.com/track/1iv3txvY78PROSNk2AxW3t) | [De La Gran Piñata](https://open.spotify.com/artist/0gxy0foaJsRc1tfpByJWCK) | [Viaje al Centro de Uno Mismo](https://open.spotify.com/album/7zKNPA1cVOW58Pn4UJTerl) | 5:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: 6LACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,402,310 likes - 101 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,402,298 likes - 101 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 26 | [Gotta Do It](https://open.spotify.com/track/3gQ8korqUrKnP0BMrl0Xbm) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Gotta Do It](https://open.spotify.com/album/4IkZxOCPA6Ci66YnVjZRGK) | 2:40 |
 | 27 | [PLAYA](https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 3:47 |
 | 28 | [Highway 95 pt.2](https://open.spotify.com/track/5OUtx1HW0cLbt1bCuSHlw8) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 3:48 |
-| 29 | [Save The Day \(feat\. Ben Reily & Kai Ca$h\)](https://open.spotify.com/track/4T40FH1g23CfvP8AvZoJ46) | [LIFEOFTHOM](https://open.spotify.com/artist/3Lp8bQ9iwGj3ndkd1Wn2Me), [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv), [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [Save The Day \(feat\. Ben Reily & Kai Ca$h\)](https://open.spotify.com/album/1lJMD4cGo0Li2GkUR0JLFv) | 2:54 |
+| 29 | [Save The Day \(feat\. Ben Reilly & Kai Ca$h\)](https://open.spotify.com/track/4T40FH1g23CfvP8AvZoJ46) | [LIFEOFTHOM](https://open.spotify.com/artist/3Lp8bQ9iwGj3ndkd1Wn2Me), [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv), [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [Save The Day \(feat\. Ben Reilly & Kai Ca$h\)](https://open.spotify.com/album/1lJMD4cGo0Li2GkUR0JLFv) | 2:54 |
 | 30 | [No Boo \(with Jessie Reyez\)](https://open.spotify.com/track/1Xin1kJWE4QGydizKryZZI) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 3:35 |
 | 31 | [terrified](https://open.spotify.com/track/348QXTe6PpLUsRt3bHW0rv) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [thank you saturn](https://open.spotify.com/album/5eaZrkvAA2cTI6Qw4o66KO) | 3:09 |
 | 32 | [Good Flirts \(feat\. Kendrick Lamar & Momo Boyd\)](https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 3:52 |

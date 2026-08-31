@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 279790,
+  "num_followers": 279798,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAADYcGsC37+hyy8HqDqHTPIg",
+  "snapshot_id": "apIhAAAAAABzpvj0rmET/UOMZpZFYiWT",
   "tracks": [
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 132983,
+      "name": "Triste com T",
+      "url": "https://open.spotify.com/track/0L8nJt3b5LjXvFfDt7x2pP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SAL",
         "url": "https://open.spotify.com/album/2QhW0MWqMoUENkeL2CFSXE"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 120000,
       "name": "SAL",
       "url": "https://open.spotify.com/track/4b5rbmik2mSrGo8IvjDUUp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Batid\u00e3o Tropical",
-        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 132983,
-      "name": "Triste com T",
-      "url": "https://open.spotify.com/track/0L8nJt3b5LjXvFfDt7x2pP"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 155597,
+      "name": "A Lua",
+      "url": "https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "111 DELUXE",
         "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 146543,
       "name": "Bandida (feat. Mc Mayara)",
       "url": "https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Batid\u00e3o Tropical",
-        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 155597,
-      "name": "A Lua",
-      "url": "https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9"
     },
     {
       "added_at": null,
@@ -923,6 +923,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Noitada",
+        "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Mc Priscila",
+          "url": "https://open.spotify.com/artist/0q3ElVcc042mnCyUBce8CG"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "Cadeado",
+      "url": "https://open.spotify.com/track/5jsCH1ydkfz1icE9BabgnZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o Para N\u00e3o",
         "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
       },
@@ -959,8 +979,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noitada",
-        "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
+        "name": "Vai Passar Mal Remixes",
+        "url": "https://open.spotify.com/album/0FMRLnUbj1in2fX3yxbmx3"
       },
       "artists": [
         {
@@ -968,13 +988,13 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         },
         {
-          "name": "Mc Priscila",
-          "url": "https://open.spotify.com/artist/0q3ElVcc042mnCyUBce8CG"
+          "name": "Mul\u00fa",
+          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
         }
       ],
-      "duration_ms": 168266,
-      "name": "Cadeado",
-      "url": "https://open.spotify.com/track/5jsCH1ydkfz1icE9BabgnZ"
+      "duration_ms": 181000,
+      "name": "Open Bar (Lean On)",
+      "url": "https://open.spotify.com/track/4WiViQB00IRESI6RBo7QaU"
     },
     {
       "added_at": null,
@@ -991,26 +1011,6 @@
       "duration_ms": 179489,
       "name": "\u00c2nsia",
       "url": "https://open.spotify.com/track/3KgZPCgxOKqOeR5VEZXK43"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 158544,
-      "name": "Trago seu Amor de Volta (feat. Dilsinho)",
-      "url": "https://open.spotify.com/track/5XZur2QUZ1yY1OclXoKFUt"
     }
   ],
   "unique_name": "This Is Pabllo Vittar",

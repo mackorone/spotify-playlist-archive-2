@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,833 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,832 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 47 | [Crazy Weather \(Our Pie X LUCY\)](https://open.spotify.com/track/1HZ5QwyJDROxUUpypZJvgg) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Crazy Weather \(Our Pie X LUCY\)](https://open.spotify.com/album/5YgVYVi56JNU6XrIcnHWFW) | 3:43 |
 | 48 | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas) | 3:37 |
 | 49 | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 |
-| 50 | [I Love U](https://open.spotify.com/track/65g3VCPXMmHPBWucrNR8oO) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Sung Si Kyung 8th Album \[ㅅ\(Siot\)\]](https://open.spotify.com/album/5fsoVsbW2EvwhCqpEHDvdi) | 3:15 |
-| 51 | [Spring Is You](https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Spring Is You](https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC) | 3:45 |
+| 50 | [Spring Is You](https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Spring Is You](https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC) | 3:45 |
+| 51 | [I Love U](https://open.spotify.com/track/65g3VCPXMmHPBWucrNR8oO) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Sung Si Kyung 8th Album \[ㅅ\(Siot\)\]](https://open.spotify.com/album/5fsoVsbW2EvwhCqpEHDvdi) | 3:15 |
 | 52 | [Green Tea](https://open.spotify.com/track/2Y7cOqDqsA2MpQ4HX4B8MD) | [The Green Tea](https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB) | [Heart in Motion](https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15) | 4:07 |
 | 53 | [With You](https://open.spotify.com/track/63KtXm5kjHE6Y1c5TeSvT1) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [sido](https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn) | [With You](https://open.spotify.com/album/0BZvg9IGUoW11JIbOycQeM) | 2:36 |
 | 54 | [Spring Is Gone by chance \(2021\)](https://open.spotify.com/track/4ujIaXQKSvamPSSCoPiMT0) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Spring Is Gone by chance \(2021\)](https://open.spotify.com/album/0jjvd9wnZN808fbJnbB4ba) | 3:30 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 58 | [Spring Bloom](https://open.spotify.com/track/3ZGKRl24T92ouc13ttGer4) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Full Bloom](https://open.spotify.com/album/7p24Sh0HP8nIDdrJbJHB3y) | 2:43 |
 | 59 | [Spring, day](https://open.spotify.com/track/0r3pGHGo4k4qAzf0rgLkq8) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Spring, day](https://open.spotify.com/album/3mvWo5XDug7Xr26gI2Yywp) | 4:14 |
 | 60 | [Again Spring](https://open.spotify.com/track/5x5xiwS1HInKYLkIAuRjSA) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [ONGOING](https://open.spotify.com/album/4TKudxgCXXAngwcPY2ba77) | 4:04 |
-| 61 | [because I'm stupid? \(feat\. KIXO\)](https://open.spotify.com/track/7wb12ZFRhL9Tmt2GedW1RS) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB), [JUNE](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [because I'm stupid? \(feat\. KIXO\)](https://open.spotify.com/album/217BpIDe2TpUsAGbCzuFIk) | 2:04 |
-| 62 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 |
+| 61 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 |
+| 62 | [because I'm stupid? \(feat\. KIXO\)](https://open.spotify.com/track/7wb12ZFRhL9Tmt2GedW1RS) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB), [JUNE](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [because I'm stupid? \(feat\. KIXO\)](https://open.spotify.com/album/217BpIDe2TpUsAGbCzuFIk) | 2:04 |
 | 63 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 |
 | 64 | [I Feel Special](https://open.spotify.com/track/2plWIXE3OlN3auMLlOaQNQ) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [The Practical Guide to Love \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/1ShTAf3wQ5LKC3eKMmgec7) | 3:58 |
 | 65 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |

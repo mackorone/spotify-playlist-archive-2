@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,407 likes - 290 songs - 15 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,408 likes - 290 songs - 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,8 +167,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 157 | [You Bet I Would](https://open.spotify.com/track/3zf7h56EgKQsJTGPFdKXaJ) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [What's So Sweet About Sweet Sixteen](https://open.spotify.com/album/70DWBXTHhuVDYYU3pXvFKZ) | 2:12 |
 | 158 | [A Man Without a Dream](https://open.spotify.com/track/15HiMB4XHgr2UiuAtNHlhC) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Instant Replay](https://open.spotify.com/album/4UZe5Oq0ZIA4AD9NlApFF6) | 3:03 |
 | 159 | [He's a Bad Boy](https://open.spotify.com/track/16rPqhuTKqG41N4tHUGzZN) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Breaking up Is Hard to Do](https://open.spotify.com/album/2Ea6BUGbGQL8tmPmhNN1gY) | 2:22 |
-| 160 | [Yours Until Tomorrow \- Demo](https://open.spotify.com/track/1BoJQKxoIm4cU8nhCtEsv2) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [The Legendary Demos](https://open.spotify.com/album/2DitJu0CqkrvARSR02RmqX) | 3:16 |
-| 161 | [I've Known You All My Life](https://open.spotify.com/track/2x3CU4zpyGG5F8QFaUAKlR) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly](https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P) | 1:58 |
+| 160 | [I've Known You All My Life](https://open.spotify.com/track/2x3CU4zpyGG5F8QFaUAKlR) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly](https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P) | 1:58 |
+| 161 | [Yours Until Tomorrow \- Demo](https://open.spotify.com/track/1BoJQKxoIm4cU8nhCtEsv2) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [The Legendary Demos](https://open.spotify.com/album/2DitJu0CqkrvARSR02RmqX) | 3:16 |
 | 162 | [Like Little Children \- Demo](https://open.spotify.com/track/6lnEZVZbgjIF2ZZ3bsSGak) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [The Legendary Demos](https://open.spotify.com/album/2DitJu0CqkrvARSR02RmqX) | 3:12 |
 | 163 | [My Simple Humble Neighborhood](https://open.spotify.com/track/2oVm7hqwMCrmYTnDHNpwSg) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 3:08 |
 | 164 | [Eventually](https://open.spotify.com/track/6m1zAo4TJs7RqJfqzR7qYq) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 4:57 |
@@ -299,4 +299,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 289 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 290 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `Aca6MgAAAABHE+q/rv03anfmK4RJn/m3`
+Snapshot ID: `Aca/0gAAAAAtW4cB5T+PdA99pWlaCPtH`

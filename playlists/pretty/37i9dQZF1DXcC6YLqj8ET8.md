@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 
 > Electronic Trap House with Arab spices\. Cover: DJ KABOO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,238 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,228 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 20 | [Cataclysm جائحة](https://open.spotify.com/track/55DEy5jBZJcm75JpGZTlyC) | [Gillionaire](https://open.spotify.com/artist/74rsMLFnDYIf54HLWuKAty) | [Cataclysm جائحة](https://open.spotify.com/album/5cO6vLIAow8tq0YX4NiD4I) | 2:19 |
 | 21 | [Up](https://open.spotify.com/track/3aQ1FibqovngIl7WmQYgWC) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Up](https://open.spotify.com/album/40FRIOXfDACAYFUMrygBxW) | 2:42 |
 | 22 | [INVASION](https://open.spotify.com/track/32ab08QJ6UyJKqtCZNqiTh) | [Dj Khalid Music](https://open.spotify.com/artist/5iu1vM00YZHexw3A8dCdkt), [Hassan Hajila](https://open.spotify.com/artist/5HOFVs3MrexrlD9Vgapn54) | [INVASION](https://open.spotify.com/album/2zua6hf4PwprRmsUaS1ooj) | 3:33 |
-| 23 | [Unity](https://open.spotify.com/track/21YIVa2yIkwPXAQ7HxheUF) | [Hypersia](https://open.spotify.com/artist/0J7xP06wlFNZdFuSyev5jp), [Saman Mehmani](https://open.spotify.com/artist/37E7gpurZftsqEvqXkflz6), [Parsa Q](https://open.spotify.com/artist/3zmGD72DUHMMrySR1cnGZZ) | [Unity](https://open.spotify.com/album/62S1qNPlGk3XgbeeTFckkN) | 5:23 |
-| 24 | [İz](https://open.spotify.com/track/4FvTKZ0ZTuHcj9QZfWKlC9) | [FG](https://open.spotify.com/artist/7dGG5t1lq8eRel7cRvLj0F) | [Arabic Trap, Pt\. 3](https://open.spotify.com/album/3G3Ze4AlL2KMmbx4s19e9v) | 3:05 |
+| 23 | [İz](https://open.spotify.com/track/4FvTKZ0ZTuHcj9QZfWKlC9) | [FG](https://open.spotify.com/artist/7dGG5t1lq8eRel7cRvLj0F) | [Arabic Trap, Pt\. 3](https://open.spotify.com/album/3G3Ze4AlL2KMmbx4s19e9v) | 3:05 |
+| 24 | [Unity](https://open.spotify.com/track/21YIVa2yIkwPXAQ7HxheUF) | [Hypersia](https://open.spotify.com/artist/0J7xP06wlFNZdFuSyev5jp), [Saman Mehmani](https://open.spotify.com/artist/37E7gpurZftsqEvqXkflz6), [Parsa Q](https://open.spotify.com/artist/3zmGD72DUHMMrySR1cnGZZ) | [Unity](https://open.spotify.com/album/62S1qNPlGk3XgbeeTFckkN) | 5:23 |
 | 25 | [Desert Lord](https://open.spotify.com/track/4is2MePvKHSLOLmCEjTT0L) | [AxLi](https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56) | [Desert Lord](https://open.spotify.com/album/2v5mYReoKsPOoG5QCSTDbK) | 2:05 |
 | 26 | [Serengeti \- Chihaka Remix](https://open.spotify.com/track/4OdRW0NHk3YEomB1yQvcUz) | [Pole Folder](https://open.spotify.com/artist/6wRhh29ZNdh6Aq8nKd4aDr), [Chihaka](https://open.spotify.com/artist/7FRiCnyEVWqX5TywH7p622) | [Serengeti \(Particles Edition\)](https://open.spotify.com/album/2iNIwGPgRMHJR2256l23GH) | 7:56 |
 | 27 | [Hopeless](https://open.spotify.com/track/1y8M13DKjsyJtyuQadwQmV) | [Rami Eid](https://open.spotify.com/artist/4fQqnIuVrFLegT0pBmZ5fm), [Hidden Tigress](https://open.spotify.com/artist/53ZEdEG4hThZtzjhfQRHEu) | [Hopeless](https://open.spotify.com/album/3fU4JzytCzFvYJ1QAaC5GS) | 7:21 |

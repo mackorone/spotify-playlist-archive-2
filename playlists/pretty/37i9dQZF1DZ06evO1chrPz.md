@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,416 likes - 50 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,424 likes - 50 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 22 | [Ever Be](https://open.spotify.com/track/1qmvkIBa44LfKKLAoHbKI3) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [We Will Not Be Shaken](https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux) | 5:22 |
 | 23 | [For the One \(Instrumental\)](https://open.spotify.com/track/023cGgIWTxiecyhr4hV6WW) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years](https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft) | 4:01 |
 | 24 | [Egypt \(Live\)](https://open.spotify.com/track/2OoaLn8pQfXWjjImmZwp8w) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9) | 6:22 |
-| 25 | [Lion and the Lamb \(Live\)](https://open.spotify.com/track/6UQdeF568sZx5is0l1gxHy) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Have It All \(Live\)](https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS) | 4:40 |
-| 26 | [Reckless Love](https://open.spotify.com/track/3UwwW9Ymz3xob5SxHx4uLO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 5:39 |
+| 25 | [Reckless Love](https://open.spotify.com/track/3UwwW9Ymz3xob5SxHx4uLO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 5:39 |
+| 26 | [Lion and the Lamb \(Live\)](https://open.spotify.com/track/6UQdeF568sZx5is0l1gxHy) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Have It All \(Live\)](https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS) | 4:40 |
 | 27 | [God I Look to You](https://open.spotify.com/track/4WfjgumRvSWeQNpHZZAI2u) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Be Lifted High](https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9) | 7:32 |
 | 28 | [Reign Above It All \(Live\)](https://open.spotify.com/track/6tV85GbrePXSeMFenLmUDa) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9) | 5:47 |
 | 29 | [Do It Again](https://open.spotify.com/track/56EmrYQfXnDxoeS0RbRNRv) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Genesis](https://open.spotify.com/album/6i1NqxIGiZ5PmI4LAXDF4H) | 5:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 49 | [Deep Cries Out](https://open.spotify.com/track/7slaRD6KI0uceNvGBih9yF) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [William Matthews](https://open.spotify.com/artist/6xzvt1VigDuN3Qt39YozYA) | [Be Lifted High](https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9) | 5:14 |
 | 50 | [Reason To Praise \(Live\)](https://open.spotify.com/track/4Z9hkzTYQnKYljePcQsXUf) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 8:30 |
 
-Snapshot ID: `apDPgAAAAABx4GaNOc0oOrcQ9DgwGplw`
+Snapshot ID: `apIhAAAAAAAXGX+3H/bTzG+PT9UkTpC5`

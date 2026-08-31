@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fidS28dvfw5PquLev6xtQ.md) - [plain]
 
 > Chart&\#x27;s a black screen like the thoughts inside your head when you goon so don&\#x27;t
 
-[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 53 likes - 100 songs - 13 hr 33 min
+[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 54 likes - 100 songs - 13 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

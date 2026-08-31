@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,172 likes - 70 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,218 likes - 70 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 28 | [Pintura íntima \- Compacto](https://open.spotify.com/track/0kocdEM8L4eBJFmfhrGoru) | [Kid Abelha](https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H) | [2 é Demais](https://open.spotify.com/album/7tgo3DT9js4ycqryQWJ7dG) | 4:27 |
 | 29 | [Sossego](https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Brasilian Fiesta](https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t) | 3:42 |
 | 30 | [Deixa A Gira Girar](https://open.spotify.com/track/3BD2hlwoExMUXUpxcYxaWx) | [Os Tincoãs](https://open.spotify.com/artist/2rnJUBfFhgXBrywGEQ8zC7) | [Welcome To The ORISHAS HOMELAND \- In The Rhythm Of Nature And Faith](https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q) | 3:11 |
-| 31 | [Esperar Pra Ver](https://open.spotify.com/track/7baNYnxas4NlQXcoj6kSmp) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Fatnotronic](https://open.spotify.com/artist/5evxKull73cP7iadarMC99) | [Brazilian Compilation Series, Vol\. 2](https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o) | 5:00 |
-| 32 | [O Mar Serenou](https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Conto de Areia](https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt) | 2:58 |
+| 31 | [O Mar Serenou](https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Conto de Areia](https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt) | 2:58 |
+| 32 | [Esperar Pra Ver](https://open.spotify.com/track/7baNYnxas4NlQXcoj6kSmp) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Fatnotronic](https://open.spotify.com/artist/5evxKull73cP7iadarMC99) | [Brazilian Compilation Series, Vol\. 2](https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o) | 5:00 |
 | 33 | [Ara Ketu Bom Demais](https://open.spotify.com/track/2pgP6IT08m0Uw9cEMZM7A6) | [Ara Ketu](https://open.spotify.com/artist/6NqIUh0cpaygBWUUAjBaog) | [Bom Demais](https://open.spotify.com/album/1LGy5dn6nMFpiqG3mJlfoz) | 3:59 |
-| 34 | [Meu Esquema](https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Por Pouco \(Bit Box\)](https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC) | 4:19 |
-| 35 | [Agora só falta você](https://open.spotify.com/track/3impd3fNYkpLlklzuOfyVZ) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita](https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw) | 3:24 |
+| 34 | [Agora só falta você](https://open.spotify.com/track/3impd3fNYkpLlklzuOfyVZ) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita](https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw) | 3:24 |
+| 35 | [Meu Esquema](https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Por Pouco \(Bit Box\)](https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC) | 4:19 |
 | 36 | [À Francesa](https://open.spotify.com/track/3dRU9xurI1QoVDs9FUHenD) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Marina Rock Lima](https://open.spotify.com/album/4qpHcaQHNLmPS2sM93TekF) | 4:08 |
 | 37 | [Festa de Umbanda](https://open.spotify.com/track/4auEly6WQF3aHdaP6CGqza) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Martinho da Vila](https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB) | 3:54 |
 | 38 | [Zé Do Caroço](https://open.spotify.com/track/1h7XWoJkUP6dk89XYBoaaZ) | [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Leci Brandão](https://open.spotify.com/album/4AnfgQ4FOryX8qy0w1xzm6) | 3:24 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 59 | [Pequim](https://open.spotify.com/track/5ns6G2OgmkJLc5iti69ute) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z), [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3) | [Pequim](https://open.spotify.com/album/2P0MrtKOyBigDAn4JhYafz) | 3:18 |
 | 60 | [Jamburana](https://open.spotify.com/track/7IxEuM3zkP51Qk4zKkugIM) | [Dona Onete](https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc) | [Feitiço Caboclo](https://open.spotify.com/album/2LVjaj6inxXbQGyhydh5UW) | 4:27 |
 | 61 | [Nem um Dia \- JAH\-VAN](https://open.spotify.com/track/24ffNZygIHA8qF2Ty41Hkr) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [BiD](https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm), [Fernando Nunes](https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9) | [Nem um Dia \(JAH\-VAN\)](https://open.spotify.com/album/14DMasfUsWZ5ZRyCoKpRut) | 5:35 |
-| 62 | [Pelas Tabelas](https://open.spotify.com/track/5E8D8xyRm113aCdV5JfJvA) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Braseiro](https://open.spotify.com/album/4yBbmSMmZqnLXKjscI0Q2x) | 3:53 |
-| 63 | [Danada](https://open.spotify.com/track/2k14GJCIjWUuOJ39cloaGk) | [Banda Eddie](https://open.spotify.com/artist/60nL5yXKnZlC4wheEmmBoO) | [Metropolitano](https://open.spotify.com/album/2tvKHtzmcqpONO2EQfhL8M) | 4:46 |
+| 62 | [Danada](https://open.spotify.com/track/2k14GJCIjWUuOJ39cloaGk) | [Banda Eddie](https://open.spotify.com/artist/60nL5yXKnZlC4wheEmmBoO) | [Metropolitano](https://open.spotify.com/album/2tvKHtzmcqpONO2EQfhL8M) | 4:46 |
+| 63 | [Pelas Tabelas](https://open.spotify.com/track/5E8D8xyRm113aCdV5JfJvA) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Braseiro](https://open.spotify.com/album/4yBbmSMmZqnLXKjscI0Q2x) | 3:53 |
 | 64 | [Funk\-se quem puder](https://open.spotify.com/track/0VOTHJFg4WNqO08vyu7usH) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Extra](https://open.spotify.com/album/0VNaBMs07ff7XSeSGATUgD) | 3:11 |
 | 65 | [Kabaluere](https://open.spotify.com/track/3vSb3Tq7A51VIYfZDSEEBs) | [Antonio Carlos & Jocafi](https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA) | [Mudei de Ideia](https://open.spotify.com/album/0zblsLfCD9smWpW0gZhgaw) | 2:21 |
 | 66 | [Conto De Areia](https://open.spotify.com/track/2BAja01vq4rH7KthUMNGnE) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Conto de Areia](https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt) | 3:40 |

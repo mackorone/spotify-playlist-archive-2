@@ -7556,7 +7556,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 429536,
       "name": "Ifeoma - Live",
       "url": "https://open.spotify.com/track/1lbns9ey1gbEXowvTmJCeq"
@@ -8762,6 +8762,24 @@
       "duration_ms": 197314,
       "name": "Kind",
       "url": "https://open.spotify.com/track/2SLtt8zr8BMh1D2twQ4bcX"
+    },
+    {
+      "album": {
+        "name": "King of Glory",
+        "url": "https://open.spotify.com/album/2bS4AU43AFQ9CK7XxUflbG"
+      },
+      "artists": [
+        {
+          "name": "Toyin Ogunniyi",
+          "url": "https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "King of Glory",
+      "url": "https://open.spotify.com/track/0OhRz5NKEk9nGjzrSA6F6I"
     },
     {
       "album": {
@@ -11720,7 +11738,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 139355,
       "name": "Olilayakedinso",
       "url": "https://open.spotify.com/track/5LFCesKNKi39WWuayMHeqg"
@@ -16770,7 +16788,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 297570,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/7ArJZp3hh9Hudq3lWxq7AP"

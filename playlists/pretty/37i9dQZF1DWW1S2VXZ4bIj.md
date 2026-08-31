@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: KLEAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,457 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,529 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 23 | [PLEASE](https://open.spotify.com/track/3Ohb6hLc9rdw63nq8NMC17) | [atom chanakan](https://open.spotify.com/artist/2iLCiSxdwUMDEfqyfkuLEw) | [CYANTIST](https://open.spotify.com/album/5bN3mBhK6SmCvYzWo83ar6) | 4:44 |
 | 24 | [ขี้แง \(Boys Don't Cry\)](https://open.spotify.com/track/04nwoRnWqFYhFLaRNWuNw5) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ขี้แง \(Boys Don't Cry\)](https://open.spotify.com/album/6nLwr7ShdFiiCtvwMw0epG) | 4:15 |
 | 25 | [เจิดจรัส](https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [เจิดจรัส](https://open.spotify.com/album/3N9qCU7JxkpNW6n5QCakNJ) | 4:21 |
-| 26 | [ลบไม่ได้ช่วยให้ลืม \(LIVE SESSION\)](https://open.spotify.com/track/1LHSjq4rMOXJ2ldQ1uUDYw) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ลบไม่ได้ช่วยให้ลืม \(LIVE SESSION\)](https://open.spotify.com/album/5sr2RxgnGw9rPhtV5fyFzA) | 4:36 |
+| 26 | [ลบไม่ได้ช่วยให้ลืม \- LIVE SESSION](https://open.spotify.com/track/1LHSjq4rMOXJ2ldQ1uUDYw) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ลบไม่ได้ช่วยให้ลืม \(LIVE SESSION\)](https://open.spotify.com/album/5sr2RxgnGw9rPhtV5fyFzA) | 4:36 |
 | 27 | [สายไป](https://open.spotify.com/track/45VmbHRJywi2mNaIGvHs44) | [9tokyo](https://open.spotify.com/artist/3FxGLtMGpuO4myzWo0gktr), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [สายไป](https://open.spotify.com/album/3pnYrlNhLlMwkV9gDSXphN) | 3:18 |
 | 28 | [อารมณ์สีเทา](https://open.spotify.com/track/3gxK6ehmktiz8QRElreh5S) | [SEA.](https://open.spotify.com/artist/0uu4cmaCJaaVOiUHQUG2ZC), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [อารมณ์สีเทา](https://open.spotify.com/album/7jQYQQHdNM8t72aFTVrcgs) | 3:27 |
 | 29 | [คนขี้น้อยใจ \(My Fault\)](https://open.spotify.com/track/4HrrcUbJrVsI5dkmDTNc1R) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [PP KRIT](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [คนขี้น้อยใจ \(My Fault\)](https://open.spotify.com/album/38wk9eBZQTsIF456u4iYdQ) | 3:23 |

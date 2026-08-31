@@ -1,6 +1,6 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 439355,
+  "num_followers": 439342,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
@@ -847,26 +847,6 @@
     {
       "added_at": "2026-08-22 02:16:18",
       "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 182187,
-      "name": "Par\u00eds",
-      "url": "https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N"
-    },
-    {
-      "added_at": "2026-08-22 02:16:18",
-      "album": {
         "name": "BUBALU",
         "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 228253,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
+    },
+    {
+      "added_at": "2026-08-22 02:16:18",
+      "album": {
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 182187,
+      "name": "Par\u00eds",
+      "url": "https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N"
     },
     {
       "added_at": "2026-08-22 02:16:18",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-08-22 02:16:18",
       "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/74efdghdFtsNTvaN0b0QYr"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 259250,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/554WpDQ7PihlizEmEV0bI0"
+    },
+    {
+      "added_at": "2026-08-22 02:16:18",
+      "album": {
         "name": "TENGO GANAS",
         "url": "https://open.spotify.com/album/3PZsmna1CzAkZndq3h0Krs"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 161167,
       "name": "TENGO GANAS",
       "url": "https://open.spotify.com/track/2X3NWjkwnqCOfAS0TcUYOW"
-    },
-    {
-      "added_at": "2026-08-22 02:16:18",
-      "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/74efdghdFtsNTvaN0b0QYr"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 259250,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/554WpDQ7PihlizEmEV0bI0"
     },
     {
       "added_at": "2026-08-22 02:16:18",

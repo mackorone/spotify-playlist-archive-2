@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,234 likes - 115 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,320 likes - 115 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 19 | [Emmanuelle](https://open.spotify.com/track/4z1OqFDJgOtIvwtWd4y9y5) | [Orquesta Romántica de La Habana](https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV) | [Instrumentales](https://open.spotify.com/album/0FIcezHxPSZeHeHrYQFSEm) | 3:03 |
 | 20 | [Love is Blue](https://open.spotify.com/track/0tS7Mli5NtOcpeCqC25GWd) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [Paul Mauriat\. Grandes Exitos](https://open.spotify.com/album/6iQAXag0ioZ8VDguSYvyvP) | 2:36 |
 | 21 | [Guantanamera](https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe) | [The Sandpipers](https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB) | [Guantanamera](https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5) | 3:13 |
-| 22 | [Concorde](https://open.spotify.com/track/1rshuebpBibATjY7UtHolH) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 All Time Greatest Hits](https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI) | 3:35 |
-| 23 | [Maria Elena](https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Maria Elena](https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM) | 3:07 |
+| 22 | [Maria Elena](https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Maria Elena](https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM) | 3:07 |
+| 23 | [Concorde](https://open.spotify.com/track/1rshuebpBibATjY7UtHolH) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 All Time Greatest Hits](https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI) | 3:35 |
 | 24 | [Sleepy Shores](https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh) | [Johnny Pearson](https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD) | [Kpm 1000 Series: Gentle Sounds \- Volume 2](https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2) | 3:40 |
 | 25 | [Amapola](https://open.spotify.com/track/64S1kBJCGH7KCDqJTBrIvC) | [Mantovani y Su Gran Orquesta](https://open.spotify.com/artist/6Y1LEH2sDrGXvthbvTHanb) | [40 Hits Latinos](https://open.spotify.com/album/4IQki6Ugj67CC8K8ouOFRC) | 2:52 |
 | 26 | [Nadia's Theme \(Theme from the Young and Restless\)](https://open.spotify.com/track/3gO8JJElqnMvckLjdCgzFc) | [Barry DeVorzon](https://open.spotify.com/artist/0s8MBYVZMiHb9hYl50fMBB) | [Nadia's Theme \(Theme from the Young and Restless\)](https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM) | 3:02 |
 | 27 | [Ballade pour Adeline](https://open.spotify.com/track/5hzUMnP8CYlM00C4gVcfhT) | [Pianista sull'Oceano](https://open.spotify.com/artist/1CojLfcnKoatJ57WDDxNyV) | [Tribute to Richard Clayderman: Collection](https://open.spotify.com/album/1mEqTRd1FgEmxkzjfF7MNL) | 2:24 |
-| 28 | [Don't Cry for Me, Argentina](https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq) | [Orchester Anthony Ventura](https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK) | [El Condor Pasa](https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx) | 2:20 |
-| 29 | [La Playa](https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3) | [Francis Goya](https://open.spotify.com/artist/1qFy3FK37qaUCE2y2vWCak) | [The Gold Series \- Latin Romance](https://open.spotify.com/album/1whKZ8ETP2nATRiZPjN1ya) | 3:54 |
+| 28 | [La Playa](https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3) | [Francis Goya](https://open.spotify.com/artist/1qFy3FK37qaUCE2y2vWCak) | [The Gold Series \- Latin Romance](https://open.spotify.com/album/1whKZ8ETP2nATRiZPjN1ya) | 3:54 |
+| 29 | [Don't Cry for Me, Argentina](https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq) | [Orchester Anthony Ventura](https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK) | [El Condor Pasa](https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx) | 2:20 |
 | 30 | [Midnight Cowboy](https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [The Ultimate John Barry](https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j) | 2:47 |
 | 31 | [Mah nà mah nà](https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Svezia, inferno e paradiso \(The Original Complete Motion Picture Soundtrack\)](https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a) | 1:56 |
 | 32 | [Amore Grande Amore Libero](https://open.spotify.com/track/3YRXL1G6Q3XQlAKU5y5yRz) | [Orquesta Romanticos de La Habana](https://open.spotify.com/artist/1e7uuQ1F57RpCpJoeeQHYi) | [Temas Prohibidos del Cine](https://open.spotify.com/album/06iudXa37Naebj0ZCfZcTt) | 3:36 |

@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: daine",
-  "num_followers": 138923,
+  "num_followers": 139075,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-08-27 14:01:05",
       "album": {
-        "name": "Baby Blue / When It Comes To Loving You",
-        "url": "https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 171630,
-      "name": "Baby Blue",
-      "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls"
-    },
-    {
-      "added_at": "2026-08-27 14:01:05",
-      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/7G8gqx5GoTSdTJ41gU0d6i"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 228947,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y"
+    },
+    {
+      "added_at": "2026-08-27 14:01:05",
+      "album": {
+        "name": "Baby Blue / When It Comes To Loving You",
+        "url": "https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm"
+      },
+      "artists": [
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+        }
+      ],
+      "duration_ms": 171630,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls"
     },
     {
       "added_at": "2026-08-27 14:01:05",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-08-27 14:01:05",
       "album": {
+        "name": "Fickle",
+        "url": "https://open.spotify.com/album/5wHazOcgweQjf3IoshDFzX"
+      },
+      "artists": [
+        {
+          "name": "Newport",
+          "url": "https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur"
+        }
+      ],
+      "duration_ms": 195770,
+      "name": "Fickle",
+      "url": "https://open.spotify.com/track/0UryFuTgfEwvpM6A7jIOG7"
+    },
+    {
+      "added_at": "2026-08-27 14:01:05",
+      "album": {
         "name": "HUMAN AGAIN",
         "url": "https://open.spotify.com/album/6wTs6A9l7dl7C3WcqvF8XX"
       },
@@ -751,6 +767,22 @@
     {
       "added_at": "2026-08-27 14:01:05",
       "album": {
+        "name": "Swallowed By The World",
+        "url": "https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U"
+      },
+      "artists": [
+        {
+          "name": "Cenobia",
+          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
+        }
+      ],
+      "duration_ms": 375642,
+      "name": "Swallowed By The World",
+      "url": "https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9"
+    },
+    {
+      "added_at": "2026-08-27 14:01:05",
+      "album": {
         "name": "Sweet Hallelujah",
         "url": "https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0"
       },
@@ -779,38 +811,6 @@
       "duration_ms": 227397,
       "name": "Celestial Bodies",
       "url": "https://open.spotify.com/track/6wqTGLc9DnD1I0zj969yXM"
-    },
-    {
-      "added_at": "2026-08-27 14:01:05",
-      "album": {
-        "name": "Swallowed By The World",
-        "url": "https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U"
-      },
-      "artists": [
-        {
-          "name": "Cenobia",
-          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
-        }
-      ],
-      "duration_ms": 375642,
-      "name": "Swallowed By The World",
-      "url": "https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9"
-    },
-    {
-      "added_at": "2026-08-27 14:01:05",
-      "album": {
-        "name": "Fickle",
-        "url": "https://open.spotify.com/album/5wHazOcgweQjf3IoshDFzX"
-      },
-      "artists": [
-        {
-          "name": "Newport",
-          "url": "https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur"
-        }
-      ],
-      "duration_ms": 195770,
-      "name": "Fickle",
-      "url": "https://open.spotify.com/track/0UryFuTgfEwvpM6A7jIOG7"
     },
     {
       "added_at": "2026-08-27 14:01:05",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-08-27 14:01:05",
       "album": {
-        "name": "Blue Shadows (feat. Karen O)",
-        "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Karen O",
-          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Blue Shadows (feat. Karen O)",
-      "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
-    },
-    {
-      "added_at": "2026-08-27 14:01:05",
-      "album": {
         "name": "System",
         "url": "https://open.spotify.com/album/1JlzRvFk7m0lixdexCEYEk"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 201230,
       "name": "System",
       "url": "https://open.spotify.com/track/0oB8BYocpXaQ7hxX8ZhPJ6"
+    },
+    {
+      "added_at": "2026-08-27 14:01:05",
+      "album": {
+        "name": "Blue Shadows (feat. Karen O)",
+        "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Karen O",
+          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Blue Shadows (feat. Karen O)",
+      "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
     },
     {
       "added_at": "2026-08-27 14:01:05",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-08-27 14:01:05",
       "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 95000,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
+    },
+    {
+      "added_at": "2026-08-27 14:01:05",
+      "album": {
         "name": "Ask That God",
         "url": "https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m"
       },
@@ -1047,38 +1063,6 @@
     {
       "added_at": "2026-08-27 14:01:05",
       "album": {
-        "name": "I Need My Woman",
-        "url": "https://open.spotify.com/album/7kwcsiuZPkYrgVIr4SM7im"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 265451,
-      "name": "I Need My Woman",
-      "url": "https://open.spotify.com/track/0xdc0Erm5n6Dsvhp6EYMTS"
-    },
-    {
-      "added_at": "2026-08-27 14:01:05",
-      "album": {
-        "name": "Last Call",
-        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 95000,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
-    },
-    {
-      "added_at": "2026-08-27 14:01:05",
-      "album": {
         "name": "Send It Back",
         "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 178303,
       "name": "Whateverrrr",
       "url": "https://open.spotify.com/track/4QkFVyMAaCheg4rCoaytYZ"
+    },
+    {
+      "added_at": "2026-08-27 14:01:05",
+      "album": {
+        "name": "I Need My Woman",
+        "url": "https://open.spotify.com/album/7kwcsiuZPkYrgVIr4SM7im"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 265451,
+      "name": "I Need My Woman",
+      "url": "https://open.spotify.com/track/0xdc0Erm5n6Dsvhp6EYMTS"
     },
     {
       "added_at": "2026-08-27 14:01:05",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-08-27 14:01:05",
       "album": {
-        "name": "Love Love (Love Love)",
-        "url": "https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "Love Love (Love Love)",
-      "url": "https://open.spotify.com/track/4gm8rReH16d2OHgIqMMdAX"
-    },
-    {
-      "added_at": "2026-08-27 14:01:05",
-      "album": {
         "name": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
         "url": "https://open.spotify.com/album/6rcnUgf07ihw83jjuaCXfR"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2026-08-27 14:01:05",
       "album": {
-        "name": "Who Could Not Be Broken",
-        "url": "https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il"
+        "name": "Love Love (Love Love)",
+        "url": "https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF"
       },
       "artists": [
         {
-          "name": "Dominique Way",
-          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
         }
       ],
-      "duration_ms": 161506,
-      "name": "Lady In the GPS",
-      "url": "https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv"
+      "duration_ms": 187118,
+      "name": "Love Love (Love Love)",
+      "url": "https://open.spotify.com/track/4gm8rReH16d2OHgIqMMdAX"
     },
     {
       "added_at": "2026-08-27 14:01:05",
@@ -1255,6 +1239,22 @@
       "duration_ms": 205693,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw"
+    },
+    {
+      "added_at": "2026-08-27 14:01:05",
+      "album": {
+        "name": "Who Could Not Be Broken",
+        "url": "https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il"
+      },
+      "artists": [
+        {
+          "name": "Dominique Way",
+          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+        }
+      ],
+      "duration_ms": 161506,
+      "name": "Lady In the GPS",
+      "url": "https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv"
     },
     {
       "added_at": "2026-08-27 14:01:05",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-08-27 14:01:05",
       "album": {
-        "name": "Giving Up Air",
-        "url": "https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 287411,
-      "name": "Giving Up Air",
-      "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
-    },
-    {
-      "added_at": "2026-08-27 14:01:05",
-      "album": {
         "name": "Music On The Radio",
         "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 176196,
       "name": "Music On The Radio",
       "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
+    },
+    {
+      "added_at": "2026-08-27 14:01:05",
+      "album": {
+        "name": "Giving Up Air",
+        "url": "https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 287411,
+      "name": "Giving Up Air",
+      "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
     },
     {
       "added_at": "2026-08-27 14:01:05",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-08-27 14:01:05",
       "album": {
-        "name": "g00se",
-        "url": "https://open.spotify.com/album/2sjAetVEPuQSfO3HqbT3gi"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 174885,
-      "name": "always",
-      "url": "https://open.spotify.com/track/2lTmsSA87P0VgUhFEwvBTQ"
-    },
-    {
-      "added_at": "2026-08-27 14:01:05",
-      "album": {
         "name": "Tangerine",
         "url": "https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 207272,
       "name": "Don't Worry Baby",
       "url": "https://open.spotify.com/track/4nuw7DBPuiNHGSeUqkAEb4"
+    },
+    {
+      "added_at": "2026-08-27 14:01:05",
+      "album": {
+        "name": "g00se",
+        "url": "https://open.spotify.com/album/2sjAetVEPuQSfO3HqbT3gi"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 174885,
+      "name": "always",
+      "url": "https://open.spotify.com/track/2lTmsSA87P0VgUhFEwvBTQ"
     },
     {
       "added_at": "2026-08-27 14:01:05",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-08-27 14:01:05",
       "album": {
+        "name": "Love Balloon",
+        "url": "https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "Love Balloon",
+      "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
+    },
+    {
+      "added_at": "2026-08-27 14:01:05",
+      "album": {
         "name": "Break My Heart",
         "url": "https://open.spotify.com/album/2i4pcui4vyTDqfZrEJt9Aw"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 181185,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/3L8B3G1GPRiN3a4RET63rL"
-    },
-    {
-      "added_at": "2026-08-27 14:01:05",
-      "album": {
-        "name": "Love Balloon",
-        "url": "https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 240906,
-      "name": "Love Balloon",
-      "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
     },
     {
       "added_at": "2026-08-27 14:01:05",
@@ -1591,6 +1591,22 @@
       "duration_ms": 156302,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh"
+    },
+    {
+      "added_at": "2026-08-27 14:01:05",
+      "album": {
+        "name": "The Cherry Farm",
+        "url": "https://open.spotify.com/album/5IsfijJGDAIof1NXts7gAq"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 178955,
+      "name": "The Cherry Farm",
+      "url": "https://open.spotify.com/track/5k8tcbz1dQUyCcP2GlVRwY"
     },
     {
       "added_at": "2026-08-27 14:01:05",
@@ -1707,22 +1723,6 @@
       "duration_ms": 197538,
       "name": "Light Up (From the Netflix Documentary 'Kylie')",
       "url": "https://open.spotify.com/track/5z8BOVrdo09o6VFR7AuhXk"
-    },
-    {
-      "added_at": "2026-08-27 14:01:05",
-      "album": {
-        "name": "The Loop",
-        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 206571,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
     }
   ],
   "unique_name": "Turn Up Aus",

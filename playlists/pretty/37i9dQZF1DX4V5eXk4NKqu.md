@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best of Latin Indie today, featuring rusowsky.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,451 likes - 58 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,443 likes - 58 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 19 | [Una Playa En Nayarit](https://open.spotify.com/track/3OFqCKshLpPOH7198L3YyP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 3:34 |
 | 20 | [BABIECA!](https://open.spotify.com/track/61pHHYNCngD1S2t0k7ew3e) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [BABIECA!](https://open.spotify.com/album/6U1EaFgDcc3qNjCDsVcH7e) | 2:46 |
 | 21 | [No Me Sirve Más](https://open.spotify.com/track/3H5zeP0WbEuk77bUwcOqcZ) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [No Me Sirve Más](https://open.spotify.com/album/79TfVmx8S2A6aDGRUYDjRk) | 3:04 |
-| 22 | [Se Me Va](https://open.spotify.com/track/3k8cy0mnztuAVC267hrLLm) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Se Me Va](https://open.spotify.com/album/5nVcYNglS9CCWlBgent3Nf) | 3:33 |
-| 23 | [BRUJERIA!](https://open.spotify.com/track/5PAyf37gvhLctCiTQfBOO9) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Bodhiria](https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq) | 2:44 |
+| 22 | [BRUJERIA!](https://open.spotify.com/track/5PAyf37gvhLctCiTQfBOO9) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Bodhiria](https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq) | 2:44 |
+| 23 | [Se Me Va](https://open.spotify.com/track/3k8cy0mnztuAVC267hrLLm) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Se Me Va](https://open.spotify.com/album/5nVcYNglS9CCWlBgent3Nf) | 3:33 |
 | 24 | [Star](https://open.spotify.com/track/6ZzycZmHaFzfbIBl24BV3N) | [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [El Niño Bola](https://open.spotify.com/album/3Bo7xLuNrJhubah3xYLCqv) | 3:31 |
 | 25 | [Delicately](https://open.spotify.com/track/7mkOcvOoftO2BvSzvto7ID) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Delicately](https://open.spotify.com/album/4kIpWgP7FfaTQEjMKlavQD) | 3:20 |
 | 26 | [Hora Dorada](https://open.spotify.com/track/7bLISKzLksUNXPDdauDT9i) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/50cYslOkS29OQ2HMCdeVv5) | 3:14 |
@@ -50,18 +50,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 40 | [IND 2 JFK](https://open.spotify.com/track/6lEAEa2rLSDMyw2I2wUek3) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [IND 2 JFK](https://open.spotify.com/album/0FqTf8CVWS4j9qfXryaqS7) | 2:33 |
 | 41 | [Un Castigo](https://open.spotify.com/track/7EmcbgQbWJhn06t8gHckgX) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Un Castigo](https://open.spotify.com/album/73hHOb8aSNjaKjgxp2n57h) | 3:09 |
 | 42 | [How’s That Working Out](https://open.spotify.com/track/6rKYbosg95SJuFsD4AEF3m) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [How’s That Working Out](https://open.spotify.com/album/09K7fBw1fMJKy0bEhnUbOm) | 3:00 |
-| 43 | [Tarde o temprano](https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:22 |
-| 44 | [El Ritmo](https://open.spotify.com/track/13VigTJf6awaWDBVbpcNmw) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Ritmo](https://open.spotify.com/album/3e0Im6f2QeMtz5ERCDynX3) | 5:08 |
+| 43 | [El Ritmo](https://open.spotify.com/track/13VigTJf6awaWDBVbpcNmw) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Ritmo](https://open.spotify.com/album/3e0Im6f2QeMtz5ERCDynX3) | 5:08 |
+| 44 | [Tarde o temprano](https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:22 |
 | 45 | [Vida Nueva](https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Vida Nueva](https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp) | 2:49 |
 | 46 | [Choque](https://open.spotify.com/track/1ulnhZ9EhkiyokthZbGbXA) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Choque](https://open.spotify.com/album/5mM7KUXUGCCCa8xFyOPTv2) | 4:03 |
 | 47 | [Me Fui](https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 1:38 |
-| 48 | [1960](https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 6:10 |
-| 49 | [después del PARi](https://open.spotify.com/track/1yPyDQ64m8YxTIMaihyimf) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [después del PARi](https://open.spotify.com/album/092D7xodckEdeVDgc4Jcva) | 3:52 |
+| 48 | [después del PARi](https://open.spotify.com/track/1yPyDQ64m8YxTIMaihyimf) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [después del PARi](https://open.spotify.com/album/092D7xodckEdeVDgc4Jcva) | 3:52 |
+| 49 | [1960](https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 6:10 |
 | 50 | [cariño](https://open.spotify.com/track/4R8grinJeW7qnUxpoMx3CI) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [consuelo](https://open.spotify.com/album/1J8b1nwZO4k1IkoKtZVoxh) | 3:02 |
 | 51 | [ME TENÍA QUE PASAR](https://open.spotify.com/track/6ma0wyYOS2p1TusUdT16bp) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [EL QUE NO LLORA NO MAMA](https://open.spotify.com/album/6HSgzh8ytBsALx1cqVcDH8) | 3:09 |
 | 52 | [Life Is A Movie](https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Life Is A Movie](https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO) | 3:01 |
-| 53 | [CARRUSEL](https://open.spotify.com/track/479NIpJTkQaCyBpFTWicqa) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 4:44 |
-| 54 | [Se siente bien](https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Se siente bien](https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI) | 2:06 |
+| 53 | [Se siente bien](https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Se siente bien](https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI) | 2:06 |
+| 54 | [CARRUSEL](https://open.spotify.com/track/479NIpJTkQaCyBpFTWicqa) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 4:44 |
 | 55 | [Te Fuiste](https://open.spotify.com/track/4jBn233LyLyeAs7uOlRF9N) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Te Fuiste](https://open.spotify.com/album/3mdFbNYsiqHuP3iJNsLErq) | 3:09 |
 | 56 | [NO SALES DE MI CABEZA](https://open.spotify.com/track/0ZsuvAQXU2SaBWjzMUPp1c) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG), [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [LE CHILL 2](https://open.spotify.com/album/1AUiYrTUnKXZHwFgTK6Xr9) | 2:52 |
 | 57 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 |

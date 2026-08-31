@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82YGuqXy1YX.md) - [plain]
 
 > All the artists playing at FORM Arcosanti 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268 likes - 37 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 275 likes - 37 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82YGuqXy1YX.md) - [plain]
 | 28 | [Stillness Blues](https://open.spotify.com/track/2gciAqLCO3sPUWF6WDIR2F) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [Magazine](https://open.spotify.com/album/5nT9mBH0yosh5yRuCqpKW3) | 1:18 |
 | 29 | [Wind](https://open.spotify.com/track/7FhHFW6ghJbgLFYK7YpHaJ) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [My Garden](https://open.spotify.com/album/3uKTwMTQGmTTxBSXqOQzIm) | 5:27 |
 | 30 | [Oh, Memory](https://open.spotify.com/track/6rpvBoYmL0PThOjbW4s2of) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi), [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 3:47 |
-| 31 | [Na Dem](https://open.spotify.com/track/6Mn3ebt3BKoQqrCZKamdjA) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Na Dem](https://open.spotify.com/album/6ToelXLgu2gyxDtdIfHuui) | 4:29 |
-| 32 | [T00STEP](https://open.spotify.com/track/5MzR3ttkqFVCBkscYr7fFz) | [SEES00000](https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45) | [T00STEP](https://open.spotify.com/album/7FCTs0W90tv2y0i0UprCx4) | 3:56 |
+| 31 | [T00STEP](https://open.spotify.com/track/5MzR3ttkqFVCBkscYr7fFz) | [SEES00000](https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45) | [T00STEP](https://open.spotify.com/album/7FCTs0W90tv2y0i0UprCx4) | 3:56 |
+| 32 | [Na Dem](https://open.spotify.com/track/6Mn3ebt3BKoQqrCZKamdjA) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Na Dem](https://open.spotify.com/album/6ToelXLgu2gyxDtdIfHuui) | 4:29 |
 | 33 | [Vortex](https://open.spotify.com/track/5rrKhyZq8Rf5hWjkJUwuRG) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/5gD3tPSWfnzu1XWpKwiB0o) | 6:23 |
 | 34 | [Comet](https://open.spotify.com/track/3QGQjDVIX4pdaLku5p9pG6) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Horizon](https://open.spotify.com/album/2JcplFbFkf2GKnuhlIRi2n) | 6:13 |
 | 35 | [stupid prizes](https://open.spotify.com/track/4YZXIoOJbus69PEBfP1AF0) | [keiyaA](https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV) | [hooke’s law](https://open.spotify.com/album/2sTsH9vYQhIi60IYjE3hJp) | 3:11 |

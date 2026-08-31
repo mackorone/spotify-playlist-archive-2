@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,555,045 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,554,965 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 21 | [Make Them Remember](https://open.spotify.com/track/73ycOMnODtUc2Ggj6EfCpO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 5:23 |
 | 22 | [I Love Her Again](https://open.spotify.com/track/5pjf75G1zn9EEFa8iaCV5h) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 5:32 |
 | 23 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 |
-| 24 | [WHATEVER WORKS](https://open.spotify.com/track/7GVuAK4EmYP7gvlXA4JXqU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 1:59 |
-| 25 | [man at the garden](https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:53 |
+| 24 | [man at the garden](https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:53 |
+| 25 | [WHATEVER WORKS](https://open.spotify.com/track/7GVuAK4EmYP7gvlXA4JXqU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 1:59 |
 | 26 | [Firm Friends](https://open.spotify.com/track/3rssNOLucK9fzsRcKonhYu) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 5:02 |
 | 27 | [The Fall\-Off is Inevitable](https://open.spotify.com/track/3kUHIvjJ8p9UzeaeeqHkfg) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 2:56 |
 | 28 | [Life Is Beautiful](https://open.spotify.com/track/6hh74g3EXXM8dF1Boamcyn) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:06 |

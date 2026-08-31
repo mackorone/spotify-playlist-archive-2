@@ -1,6 +1,6 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 799619,
+  "num_followers": 799954,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-08-25 18:31:47",
       "album": {
-        "name": "Honkytonk University",
-        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 227840,
-      "name": "As Good As I Once Was",
-      "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
-    },
-    {
-      "added_at": "2026-08-25 18:31:47",
-      "album": {
         "name": "Here You Come Again",
         "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 179491,
       "name": "Here You Come Again",
       "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
+    },
+    {
+      "added_at": "2026-08-25 18:31:47",
+      "album": {
+        "name": "Honkytonk University",
+        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 227840,
+      "name": "As Good As I Once Was",
+      "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
     },
     {
       "added_at": "2026-08-25 18:31:47",
@@ -523,18 +523,18 @@
     {
       "added_at": "2026-08-25 18:31:47",
       "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+        "name": "Some Gave All",
+        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
       },
       "artists": [
         {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
         }
       ],
-      "duration_ms": 210772,
-      "name": "I Hope",
-      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
+      "duration_ms": 203373,
+      "name": "Achy Breaky Heart",
+      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
     },
     {
       "added_at": "2026-08-25 18:31:47",
@@ -555,18 +555,18 @@
     {
       "added_at": "2026-08-25 18:31:47",
       "album": {
-        "name": "Some Gave All",
-        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
       "artists": [
         {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
         }
       ],
-      "duration_ms": 203373,
-      "name": "Achy Breaky Heart",
-      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
+      "duration_ms": 210772,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
     },
     {
       "added_at": "2026-08-25 18:31:47",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-08-25 18:31:47",
       "album": {
-        "name": "Dan + Shay",
-        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 196746,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y"
-    },
-    {
-      "added_at": "2026-08-25 18:31:47",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 194306,
       "name": "This Kiss",
       "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
+    },
+    {
+      "added_at": "2026-08-25 18:31:47",
+      "album": {
+        "name": "Dan + Shay",
+        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 196746,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y"
     },
     {
       "added_at": "2026-08-25 18:31:47",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-08-25 18:31:47",
       "album": {
-        "name": "Body Like A Back Road",
-        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 165386,
-      "name": "Body Like A Back Road",
-      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
-    },
-    {
-      "added_at": "2026-08-25 18:31:47",
-      "album": {
         "name": "For My Broken Heart",
         "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 257266,
       "name": "The Night The Lights Went Out In Georgia",
       "url": "https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3"
+    },
+    {
+      "added_at": "2026-08-25 18:31:47",
+      "album": {
+        "name": "Body Like A Back Road",
+        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 165386,
+      "name": "Body Like A Back Road",
+      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
     },
     {
       "added_at": "2026-08-25 18:31:47",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-08-25 18:31:47",
       "album": {
-        "name": "Sunset Man (Standard Version)",
-        "url": "https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim"
-      },
-      "artists": [
-        {
-          "name": "James Otto",
-          "url": "https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP"
-        }
-      ],
-      "duration_ms": 234640,
-      "name": "Just Got Started Lovin' You",
-      "url": "https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV"
-    },
-    {
-      "added_at": "2026-08-25 18:31:47",
-      "album": {
         "name": "Rose Garden",
         "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 175866,
       "name": "Rose Garden",
       "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
+    },
+    {
+      "added_at": "2026-08-25 18:31:47",
+      "album": {
+        "name": "Sunset Man (Standard Version)",
+        "url": "https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim"
+      },
+      "artists": [
+        {
+          "name": "James Otto",
+          "url": "https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP"
+        }
+      ],
+      "duration_ms": 234640,
+      "name": "Just Got Started Lovin' You",
+      "url": "https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV"
     },
     {
       "added_at": "2026-08-25 18:31:47",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-08-25 18:31:47",
       "album": {
-        "name": "Some Hearts",
-        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 226492,
-      "name": "Jesus, Take the Wheel",
-      "url": "https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87"
-    },
-    {
-      "added_at": "2026-08-25 18:31:47",
-      "album": {
         "name": "Livin' It Up",
         "url": "https://open.spotify.com/album/56kF3zaRZS3BO1eNiyBLtO"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 187000,
       "name": "Love Without End, Amen",
       "url": "https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi"
+    },
+    {
+      "added_at": "2026-08-25 18:31:47",
+      "album": {
+        "name": "Some Hearts",
+        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 226492,
+      "name": "Jesus, Take the Wheel",
+      "url": "https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87"
     },
     {
       "added_at": "2026-08-25 18:31:47",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-08-25 18:31:47",
       "album": {
-        "name": "Martina",
-        "url": "https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd"
-      },
-      "artists": [
-        {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "This One's for the Girls",
-      "url": "https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb"
-    },
-    {
-      "added_at": "2026-08-25 18:31:47",
-      "album": {
         "name": "Pure Country",
         "url": "https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 212000,
       "name": "I Cross My Heart - From \"Pure Country/\" Soundtrack",
       "url": "https://open.spotify.com/track/6FHXJu99aQAUnivEjPhuUR"
+    },
+    {
+      "added_at": "2026-08-25 18:31:47",
+      "album": {
+        "name": "Martina",
+        "url": "https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "This One's for the Girls",
+      "url": "https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb"
     },
     {
       "added_at": "2026-08-25 18:31:47",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-08-25 18:31:47",
       "album": {
-        "name": "Straight Ahead (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1XNfE0t3kM8zV4XVqPDHNQ"
-      },
-      "artists": [
-        {
-          "name": "Larry Gatlin & The Gatlin Brothers",
-          "url": "https://open.spotify.com/artist/0KzlJXg6A3NVSCkRjecKnS"
-        }
-      ],
-      "duration_ms": 157533,
-      "name": "All the Gold In California",
-      "url": "https://open.spotify.com/track/6yLDMogQVRdVmwlh8uw526"
-    },
-    {
-      "added_at": "2026-08-25 18:31:47",
-      "album": {
         "name": "The Very Best Of Conway Twitty",
         "url": "https://open.spotify.com/album/3Ap8lSwRTcUK4s3XxQiLKG"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 145866,
       "name": "Hello Darlin'",
       "url": "https://open.spotify.com/track/4TMP1aRZUsG8C4HChYtfgC"
+    },
+    {
+      "added_at": "2026-08-25 18:31:47",
+      "album": {
+        "name": "Straight Ahead (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1XNfE0t3kM8zV4XVqPDHNQ"
+      },
+      "artists": [
+        {
+          "name": "Larry Gatlin & The Gatlin Brothers",
+          "url": "https://open.spotify.com/artist/0KzlJXg6A3NVSCkRjecKnS"
+        }
+      ],
+      "duration_ms": 157533,
+      "name": "All the Gold In California",
+      "url": "https://open.spotify.com/track/6yLDMogQVRdVmwlh8uw526"
     },
     {
       "added_at": "2026-08-25 18:31:47",

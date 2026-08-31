@@ -1,6 +1,6 @@
 {
   "description": "Upbeat Latin songs to keep your heart rate up.",
-  "num_followers": 1398706,
+  "num_followers": 1398718,
   "original_name": "Gym Latino",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-04-10 15:26:03",
       "album": {
+        "name": "Pa'l Mundo",
+        "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 172680,
+      "name": "Rakata",
+      "url": "https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN"
+    },
+    {
+      "added_at": "2026-04-10 15:26:03",
+      "album": {
         "name": "QLOO*",
         "url": "https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 146460,
       "name": "QLOO*",
       "url": "https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS"
-    },
-    {
-      "added_at": "2026-04-10 15:26:03",
-      "album": {
-        "name": "Pa'l Mundo",
-        "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 172680,
-      "name": "Rakata",
-      "url": "https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN"
     },
     {
       "added_at": "2026-04-10 15:26:03",
@@ -1903,26 +1903,6 @@
     {
       "added_at": "2026-04-10 15:26:03",
       "album": {
-        "name": "Bien Pedos",
-        "url": "https://open.spotify.com/album/3qDhZmw3QQKPBq8KASPzTm"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 147458,
-      "name": "Bien Pedos",
-      "url": "https://open.spotify.com/track/7q1pnIpmnWs6MlGXMTl4LP"
-    },
-    {
-      "added_at": "2026-04-10 15:26:03",
-      "album": {
         "name": "HOLA PERDIDA REMIX",
         "url": "https://open.spotify.com/album/5s4gYQChmlp8YwoNj3Vwi2"
       },
@@ -1943,6 +1923,26 @@
       "duration_ms": 201030,
       "name": "HOLA PERDIDA REMIX",
       "url": "https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV"
+    },
+    {
+      "added_at": "2026-04-10 15:26:03",
+      "album": {
+        "name": "Bien Pedos",
+        "url": "https://open.spotify.com/album/3qDhZmw3QQKPBq8KASPzTm"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 147458,
+      "name": "Bien Pedos",
+      "url": "https://open.spotify.com/track/7q1pnIpmnWs6MlGXMTl4LP"
     }
   ],
   "unique_name": "Gym Latino",

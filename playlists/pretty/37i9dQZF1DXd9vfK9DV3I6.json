@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 387597,
+  "num_followers": 387641,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -167,26 +167,6 @@
     {
       "added_at": "2026-07-28 06:55:14",
       "album": {
-        "name": "Give a Little (feat. Naila)",
-        "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
-        },
-        {
-          "name": "Naila",
-          "url": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
-        }
-      ],
-      "duration_ms": 234838,
-      "name": "Give a Little (feat. Naila)",
-      "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
-    },
-    {
-      "added_at": "2026-07-28 06:55:14",
-      "album": {
         "name": "Desert Rose",
         "url": "https://open.spotify.com/album/6GqDLlWydXny5lk8E7OpOP"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 157165,
       "name": "Desert Rose",
       "url": "https://open.spotify.com/track/3g1bjrdnhYss63z1V6NRYX"
+    },
+    {
+      "added_at": "2026-07-28 06:55:14",
+      "album": {
+        "name": "Give a Little (feat. Naila)",
+        "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        },
+        {
+          "name": "Naila",
+          "url": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
+        }
+      ],
+      "duration_ms": 234838,
+      "name": "Give a Little (feat. Naila)",
+      "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
     },
     {
       "added_at": "2026-07-28 06:55:14",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-07-28 06:55:14",
       "album": {
-        "name": "Galaxy",
-        "url": "https://open.spotify.com/album/5YoVZYtxuxXu70gN0k24et"
-      },
-      "artists": [
-        {
-          "name": "M\u00fcsl\u00fcm Ar\u0131",
-          "url": "https://open.spotify.com/artist/0xejVueSLs77ic5Ym7z6oQ"
-        }
-      ],
-      "duration_ms": 168813,
-      "name": "Galaxy",
-      "url": "https://open.spotify.com/track/7BTix7RgTW7GOL0zpjRQqA"
-    },
-    {
-      "added_at": "2026-07-28 06:55:14",
-      "album": {
         "name": "Journey (Mahmut Orhan Remix)",
         "url": "https://open.spotify.com/album/3W4y2VylACtq2E0ZFxwHd6"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 262647,
       "name": "Journey - Mahmut Orhan Remix",
       "url": "https://open.spotify.com/track/3ePcCqdWyYvtyKY95qjCZ0"
+    },
+    {
+      "added_at": "2026-07-28 06:55:14",
+      "album": {
+        "name": "Galaxy",
+        "url": "https://open.spotify.com/album/5YoVZYtxuxXu70gN0k24et"
+      },
+      "artists": [
+        {
+          "name": "M\u00fcsl\u00fcm Ar\u0131",
+          "url": "https://open.spotify.com/artist/0xejVueSLs77ic5Ym7z6oQ"
+        }
+      ],
+      "duration_ms": 168813,
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/7BTix7RgTW7GOL0zpjRQqA"
     },
     {
       "added_at": "2026-07-28 06:55:14",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-07-28 06:55:14",
       "album": {
-        "name": "Bodv\u00e1r",
-        "url": "https://open.spotify.com/album/198aTBufTgIU0Dj47MJtUu"
-      },
-      "artists": [
-        {
-          "name": "Furkan Sert",
-          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
-        }
-      ],
-      "duration_ms": 166556,
-      "name": "Bodv\u00e1r",
-      "url": "https://open.spotify.com/track/2QOXBvxgsF8tqS35uOkT4h"
-    },
-    {
-      "added_at": "2026-07-28 06:55:14",
-      "album": {
         "name": "Bayati Shiraz (feat. Kenan Bayramli)",
         "url": "https://open.spotify.com/album/6huLdD5ZW7dOcrtlTRm1sf"
       },
@@ -567,6 +551,22 @@
     {
       "added_at": "2026-07-28 06:55:14",
       "album": {
+        "name": "Bodv\u00e1r",
+        "url": "https://open.spotify.com/album/198aTBufTgIU0Dj47MJtUu"
+      },
+      "artists": [
+        {
+          "name": "Furkan Sert",
+          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+        }
+      ],
+      "duration_ms": 166556,
+      "name": "Bodv\u00e1r",
+      "url": "https://open.spotify.com/track/2QOXBvxgsF8tqS35uOkT4h"
+    },
+    {
+      "added_at": "2026-07-28 06:55:14",
+      "album": {
         "name": "Portrait of the Obscure",
         "url": "https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm"
       },
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-07-28 06:55:14",
       "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 213737,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
+    },
+    {
+      "added_at": "2026-07-28 06:55:14",
+      "album": {
         "name": "Le Beirut",
         "url": "https://open.spotify.com/album/7MQQTBdzZwwH5nlLR4AlXX"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 431520,
       "name": "Le Beirut",
       "url": "https://open.spotify.com/track/7dpKMbwkvZUV9JKFpjaxp0"
-    },
-    {
-      "added_at": "2026-07-28 06:55:14",
-      "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 213737,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
     },
     {
       "added_at": "2026-07-28 06:55:14",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-07-28 06:55:14",
       "album": {
+        "name": "Kun",
+        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 314336,
+      "name": "Marrakech (Extended)",
+      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
+    },
+    {
+      "added_at": "2026-07-28 06:55:14",
+      "album": {
         "name": "Lamouni",
         "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 217647,
       "name": "Lamouni",
       "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
-    },
-    {
-      "added_at": "2026-07-28 06:55:14",
-      "album": {
-        "name": "Kun",
-        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 314336,
-      "name": "Marrakech (Extended)",
-      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
     },
     {
       "added_at": "2026-07-28 06:55:14",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-07-28 06:55:14",
       "album": {
-        "name": "Nomadic",
-        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
-      },
-      "artists": [
-        {
-          "name": "Hlm.Prod",
-          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
-        }
-      ],
-      "duration_ms": 206339,
-      "name": "Nomadic",
-      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
-    },
-    {
-      "added_at": "2026-07-28 06:55:14",
-      "album": {
         "name": "DeeDee II",
         "url": "https://open.spotify.com/album/0SwwegVqpuWr7uR0umVJJm"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 179374,
       "name": "DeeDee II",
       "url": "https://open.spotify.com/track/6vA85OOOm0nCI8ql0IQhpp"
+    },
+    {
+      "added_at": "2026-07-28 06:55:14",
+      "album": {
+        "name": "Nomadic",
+        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
+      },
+      "artists": [
+        {
+          "name": "Hlm.Prod",
+          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
+        }
+      ],
+      "duration_ms": 206339,
+      "name": "Nomadic",
+      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
     },
     {
       "added_at": "2026-07-28 06:55:14",
@@ -891,6 +891,30 @@
     {
       "added_at": "2026-07-28 06:55:14",
       "album": {
+        "name": "Back to Blue",
+        "url": "https://open.spotify.com/album/30SupnOykTnR6sinOFP8vm"
+      },
+      "artists": [
+        {
+          "name": "Valentino Indy",
+          "url": "https://open.spotify.com/artist/5zMBjWdfMwhZp28FMj5G9n"
+        },
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        {
+          "name": "Klavdia",
+          "url": "https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq"
+        }
+      ],
+      "duration_ms": 132062,
+      "name": "Back To Blue",
+      "url": "https://open.spotify.com/track/2AFXIwrUX3226xeydJ5fg0"
+    },
+    {
+      "added_at": "2026-07-28 06:55:14",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/2pdsZI9LOKyZMROMEFQ3qb"
       },
@@ -915,26 +939,18 @@
     {
       "added_at": "2026-07-28 06:55:14",
       "album": {
-        "name": "Back to Blue",
-        "url": "https://open.spotify.com/album/30SupnOykTnR6sinOFP8vm"
+        "name": "Ethnique",
+        "url": "https://open.spotify.com/album/4MTL284tVGDYytBQIkHLQ4"
       },
       "artists": [
         {
-          "name": "Valentino Indy",
-          "url": "https://open.spotify.com/artist/5zMBjWdfMwhZp28FMj5G9n"
-        },
-        {
-          "name": "Edward Maya",
-          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
-        },
-        {
-          "name": "Klavdia",
-          "url": "https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq"
+          "name": "Yusuf Ek\u015fio\u011flu",
+          "url": "https://open.spotify.com/artist/4vmQIVTg6D7bAQw0BR5SMv"
         }
       ],
-      "duration_ms": 132062,
-      "name": "Back To Blue",
-      "url": "https://open.spotify.com/track/2AFXIwrUX3226xeydJ5fg0"
+      "duration_ms": 167375,
+      "name": "Ethnique",
+      "url": "https://open.spotify.com/track/4amCThUWU1U7Bbuh1FXHu4"
     },
     {
       "added_at": "2026-07-28 06:55:14",
@@ -967,22 +983,6 @@
       "duration_ms": 184421,
       "name": "Free",
       "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
-    },
-    {
-      "added_at": "2026-07-28 06:55:14",
-      "album": {
-        "name": "Ethnique",
-        "url": "https://open.spotify.com/album/4MTL284tVGDYytBQIkHLQ4"
-      },
-      "artists": [
-        {
-          "name": "Yusuf Ek\u015fio\u011flu",
-          "url": "https://open.spotify.com/artist/4vmQIVTg6D7bAQw0BR5SMv"
-        }
-      ],
-      "duration_ms": 167375,
-      "name": "Ethnique",
-      "url": "https://open.spotify.com/track/4amCThUWU1U7Bbuh1FXHu4"
     },
     {
       "added_at": "2026-07-28 06:55:14",
@@ -1671,42 +1671,6 @@
     {
       "added_at": "2026-07-28 06:55:14",
       "album": {
-        "name": "Hayati",
-        "url": "https://open.spotify.com/album/0H9rawRwwayQEXAmjKIbVQ"
-      },
-      "artists": [
-        {
-          "name": "Drinche",
-          "url": "https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI"
-        }
-      ],
-      "duration_ms": 177261,
-      "name": "Hayati",
-      "url": "https://open.spotify.com/track/5siesK1gYQObYkJvDKaYb9"
-    },
-    {
-      "added_at": "2026-07-28 06:55:14",
-      "album": {
-        "name": "CEWRESAMIN",
-        "url": "https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q"
-      },
-      "artists": [
-        {
-          "name": "Sinan Yalcin",
-          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
-        },
-        {
-          "name": "Roni Violinist",
-          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Cewresamin",
-      "url": "https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU"
-    },
-    {
-      "added_at": "2026-07-28 06:55:14",
-      "album": {
         "name": "Mafeesh Mostaheel - Arrab Remix",
         "url": "https://open.spotify.com/album/0tPPFYZJFvWbtEg5TQLMrW"
       },
@@ -1759,6 +1723,42 @@
     {
       "added_at": "2026-07-28 06:55:14",
       "album": {
+        "name": "CEWRESAMIN",
+        "url": "https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q"
+      },
+      "artists": [
+        {
+          "name": "Sinan Yalcin",
+          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
+        },
+        {
+          "name": "Roni Violinist",
+          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Cewresamin",
+      "url": "https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU"
+    },
+    {
+      "added_at": "2026-07-28 06:55:14",
+      "album": {
+        "name": "Hayati",
+        "url": "https://open.spotify.com/album/0H9rawRwwayQEXAmjKIbVQ"
+      },
+      "artists": [
+        {
+          "name": "Drinche",
+          "url": "https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI"
+        }
+      ],
+      "duration_ms": 177261,
+      "name": "Hayati",
+      "url": "https://open.spotify.com/track/5siesK1gYQObYkJvDKaYb9"
+    },
+    {
+      "added_at": "2026-07-28 06:55:14",
+      "album": {
         "name": "Sahra On The Moon",
         "url": "https://open.spotify.com/album/14KzkAjFLB8uX6aPndfbg7"
       },
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-07-28 06:55:14",
       "album": {
-        "name": "Samra",
-        "url": "https://open.spotify.com/album/5HaoXHdgwETKnYVCjAHpMl"
-      },
-      "artists": [
-        {
-          "name": "Mostafa Akmal",
-          "url": "https://open.spotify.com/artist/5qOuYfYtZ7v7mGbQteuRT3"
-        }
-      ],
-      "duration_ms": 283659,
-      "name": "Samra",
-      "url": "https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4"
-    },
-    {
-      "added_at": "2026-07-28 06:55:14",
-      "album": {
         "name": "Helwa Belady El Samra (Kharma Remix)",
         "url": "https://open.spotify.com/album/6E1OsQm0cdga4YR0LH5cv7"
       },
@@ -1827,18 +1811,18 @@
     {
       "added_at": "2026-07-28 06:55:14",
       "album": {
-        "name": "Sunkissed",
-        "url": "https://open.spotify.com/album/7kfkEiLlZ0lDm8tdjggdgg"
+        "name": "Samra",
+        "url": "https://open.spotify.com/album/5HaoXHdgwETKnYVCjAHpMl"
       },
       "artists": [
         {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+          "name": "Mostafa Akmal",
+          "url": "https://open.spotify.com/artist/5qOuYfYtZ7v7mGbQteuRT3"
         }
       ],
-      "duration_ms": 214159,
-      "name": "Sunkissed",
-      "url": "https://open.spotify.com/track/2XBbMXVbhnW6RkXEWRf0Z8"
+      "duration_ms": 283659,
+      "name": "Samra",
+      "url": "https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4"
     },
     {
       "added_at": "2026-07-28 06:55:14",
@@ -1859,6 +1843,22 @@
       "duration_ms": 272901,
       "name": "Oud Trip",
       "url": "https://open.spotify.com/track/2yupOL6pOomp8KvTHA1dwg"
+    },
+    {
+      "added_at": "2026-07-28 06:55:14",
+      "album": {
+        "name": "Sunkissed",
+        "url": "https://open.spotify.com/album/7kfkEiLlZ0lDm8tdjggdgg"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        }
+      ],
+      "duration_ms": 214159,
+      "name": "Sunkissed",
+      "url": "https://open.spotify.com/track/2XBbMXVbhnW6RkXEWRf0Z8"
     },
     {
       "added_at": "2026-07-28 06:55:14",

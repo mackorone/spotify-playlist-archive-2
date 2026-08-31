@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,873 likes - 90 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,897 likes - 90 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 43 | [Zambita pa' Enamorar](https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq) | [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a) | [De Barrio](https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7) | 3:12 |
 | 44 | [Eterno Amor](https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Eterno Amor](https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y) | 3:10 |
 | 45 | [La Paloma](https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Paloma](https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3) | 3:44 |
-| 46 | [Luna Llena](https://open.spotify.com/track/27682VM2spSTjaneKmvNjk) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Luna Llena](https://open.spotify.com/album/3qNKPQP0exJIApWPz1SzWR) | 3:07 |
-| 47 | [Colgando en tus Manos](https://open.spotify.com/track/7AuksYLEtoCWg3fzUJAHaH) | [Camila Saez](https://open.spotify.com/artist/7zomrr4pL53n3bIR24uN70), [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Colgando en tus Manos](https://open.spotify.com/album/0gpVfE431dfXOesgMuA1oq) | 3:24 |
+| 46 | [Colgando en tus Manos](https://open.spotify.com/track/7AuksYLEtoCWg3fzUJAHaH) | [Camila Saez](https://open.spotify.com/artist/7zomrr4pL53n3bIR24uN70), [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Colgando en tus Manos](https://open.spotify.com/album/0gpVfE431dfXOesgMuA1oq) | 3:24 |
+| 47 | [Luna Llena](https://open.spotify.com/track/27682VM2spSTjaneKmvNjk) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Luna Llena](https://open.spotify.com/album/3qNKPQP0exJIApWPz1SzWR) | 3:07 |
 | 48 | [Por las costas entrerrianas](https://open.spotify.com/track/159w8FAaY0OVg8H0rXX26C) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Quien Me Quita Lo Cantado](https://open.spotify.com/album/74SPPqaCtI8Ny6PQiUBMdf) | 3:21 |
 | 49 | [No me quiero ir](https://open.spotify.com/track/3f1PnODNw1ZNxtywrhtgJr) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [No me quiero ir](https://open.spotify.com/album/27IWbwdFn9XVoVdFpbtutD) | 4:10 |
 | 50 | [La del Olvido](https://open.spotify.com/track/3bCKQK2PKLBIRZvUL4kROh) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 4:09 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 89 | [La Flor Azul](https://open.spotify.com/track/0ETzFaHMsT2MdaEgOQzn4J) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Desde Adentro](https://open.spotify.com/album/1Wh6RCE1LgMHO6jP1xLNXG) | 2:42 |
 | 90 | [Nuestro adiós 24b](https://open.spotify.com/track/4L1JmLqESzxrvlgGCaNOOD) | [Canto 4](https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Nuestro adiós](https://open.spotify.com/album/1NaqaiCpHwCT21ZDxcFUks) | 4:08 |
 
-Snapshot ID: `AAAAAGCvSOzDZ8DaHVTLhC5egrsFhx37`
+Snapshot ID: `AAAAAOviQM0/cLl1ZvyuB+fGot9PTuYn`

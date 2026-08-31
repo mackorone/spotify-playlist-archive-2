@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 
 > This is Lil Tecca\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,733 likes - 49 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,743 likes - 49 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 34 | [Come Through \(feat\. Lil Tecca\)](https://open.spotify.com/track/7I7y5vl3dEZFIdWSB2O1ZZ) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [29](https://open.spotify.com/album/1mdGboH4Gfm3hXJc4H4VQh) | 1:52 |
 | 35 | [REPEAT IT \(with Gunna\)](https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [REPEAT IT](https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF) | 3:10 |
 | 36 | [Gist](https://open.spotify.com/track/6dkffLWo31KnXmwCLsgA2K) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:10 |
-| 37 | [Poppin](https://open.spotify.com/track/6eLY5NX9HkvAtrvRrPOW0F) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Evolution](https://open.spotify.com/album/0YPBdNZyGlXr69hiCAJO5m) | 2:53 |
-| 38 | [SEASIDE \(feat\. iann dior\)](https://open.spotify.com/track/45bXTH6SuR2MKjypu4ksNz) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:12 |
+| 37 | [SEASIDE \(feat\. iann dior\)](https://open.spotify.com/track/45bXTH6SuR2MKjypu4ksNz) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:12 |
+| 38 | [Poppin](https://open.spotify.com/track/6eLY5NX9HkvAtrvRrPOW0F) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Evolution](https://open.spotify.com/album/0YPBdNZyGlXr69hiCAJO5m) | 2:53 |
 | 39 | [GRAMMY \(Freestyle\)](https://open.spotify.com/track/5hzuO0DOsv3sJD2oCxk7Uy) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2 \(Deluxe\)](https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9) | 2:11 |
 | 40 | [Need Me](https://open.spotify.com/track/6hAsChsFiKALkmIishhyVT) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:20 |
 | 41 | [Blessing](https://open.spotify.com/track/6DswwzQlABrNoqjNydtvuX) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Blessing](https://open.spotify.com/album/7hjZI0A6hrUjbZFZsnVGlT) | 2:24 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 48 | [Faster](https://open.spotify.com/track/1dH43IEzvkRIFu6HdXWCha) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Faster](https://open.spotify.com/album/2xLtP4n8AWzm96AUAK6R8V) | 2:09 |
 | 49 | [JLO \(feat\. Lil Tecca\)](https://open.spotify.com/track/6kYP6BKrQOcL61G4XPc0XA) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [B4 The Storm \(Expanded Edition\)](https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY) | 2:43 |
 
-Snapshot ID: `apDPgAAAAAAoK+27v7F3EFNKWKJhT/vV`
+Snapshot ID: `apIhAAAAAAADhpyOnaKLAN1GgN2c0YbV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 
 > Upbeat Latin songs to keep your heart rate up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,398,706 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,398,718 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 42 | [Tú Con Él](https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 4:49 |
 | 43 | [Daddy Yankee: Bzrp Music Sessions, Vol\. 0/66](https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Daddy Yankee: Bzrp Music Sessions, Vol\. 0/66](https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t) | 2:31 |
 | 44 | [+57](https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [+57](https://open.spotify.com/album/5TT8KluomuelzsNF7T1U37) | 4:58 |
-| 45 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:26 |
-| 46 | [Rakata](https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 2:52 |
+| 45 | [Rakata](https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 2:52 |
+| 46 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:26 |
 | 47 | [DILUVIO](https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:17 |
 | 48 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 |
 | 49 | [Shakira: Bzrp Music Sessions, Vol\. 53/66](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53/66](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 96 | [Perdonarte ¿Para Qué?](https://open.spotify.com/track/5djlc1fMHiFsSpsQQtopLy) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte ¿Para Qué?](https://open.spotify.com/album/2yJ4Ic3Bt4DC3kIR7M4Y44) | 3:13 |
 | 97 | [Sigueme Besando Asi](https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Sigueme Besando Asi](https://open.spotify.com/album/5MPSuZogYylwnlEZLNN12f) | 3:05 |
 | 98 | [noviogangsta <3](https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [noviogangsta <3](https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ) | 2:37 |
-| 99 | [Bien Pedos](https://open.spotify.com/track/7q1pnIpmnWs6MlGXMTl4LP) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Bien Pedos](https://open.spotify.com/album/3qDhZmw3QQKPBq8KASPzTm) | 2:27 |
-| 100 | [HOLA PERDIDA REMIX](https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA REMIX](https://open.spotify.com/album/5s4gYQChmlp8YwoNj3Vwi2) | 3:21 |
+| 99 | [HOLA PERDIDA REMIX](https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA REMIX](https://open.spotify.com/album/5s4gYQChmlp8YwoNj3Vwi2) | 3:21 |
+| 100 | [Bien Pedos](https://open.spotify.com/track/7q1pnIpmnWs6MlGXMTl4LP) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Bien Pedos](https://open.spotify.com/album/3qDhZmw3QQKPBq8KASPzTm) | 2:27 |
 
 Snapshot ID: `AAAAANDCXsBIrRgplMLuJ7yQsI1MtFiz`

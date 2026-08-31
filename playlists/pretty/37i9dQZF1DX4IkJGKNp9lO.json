@@ -1,6 +1,6 @@
 {
   "description": "Svenska punkklassiker och hardcore.",
-  "num_followers": 35922,
+  "num_followers": 35925,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
@@ -285,22 +285,6 @@
       "url": "https://open.spotify.com/track/6imJaABD546UXqB3HkuD2v"
     },
     {
-      "added_at": "2025-08-07 10:21:40",
-      "album": {
-        "name": "Gbg Noir",
-        "url": "https://open.spotify.com/album/4oRecfEuVaqFzGCcODIis9"
-      },
-      "artists": [
-        {
-          "name": "En Svensk Tiger",
-          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
-        }
-      ],
-      "duration_ms": 201991,
-      "name": "Psykbrytet",
-      "url": "https://open.spotify.com/track/7AfnvF3It7nwZFYKy1BDZx"
-    },
-    {
       "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Aktion",
@@ -315,6 +299,22 @@
       "duration_ms": 109800,
       "name": "En slemmig torsk",
       "url": "https://open.spotify.com/track/0lHqNKA2IX8MzQwLNPbbY8"
+    },
+    {
+      "added_at": "2025-08-07 10:21:40",
+      "album": {
+        "name": "Gbg Noir",
+        "url": "https://open.spotify.com/album/4oRecfEuVaqFzGCcODIis9"
+      },
+      "artists": [
+        {
+          "name": "En Svensk Tiger",
+          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
+        }
+      ],
+      "duration_ms": 201991,
+      "name": "Psykbrytet",
+      "url": "https://open.spotify.com/track/7AfnvF3It7nwZFYKy1BDZx"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "What We Did Best",
-        "url": "https://open.spotify.com/album/6bnVgn4BzsaWzdplPWGPUp"
-      },
-      "artists": [
-        {
-          "name": "Skumdum",
-          "url": "https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS"
-        }
-      ],
-      "duration_ms": 243680,
-      "name": "Meningsl\u00f6sa M\u00e5ndag",
-      "url": "https://open.spotify.com/track/0UzFvtPaF7mlnV4d3WynM4"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Knivhj\u00e4rta",
         "url": "https://open.spotify.com/album/6EUQZtQHAruBPqWQXOSsRf"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 195662,
       "name": "Knivhj\u00e4rta",
       "url": "https://open.spotify.com/track/1tn6kFlK0sVNWJNu52THfH"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "What We Did Best",
+        "url": "https://open.spotify.com/album/6bnVgn4BzsaWzdplPWGPUp"
+      },
+      "artists": [
+        {
+          "name": "Skumdum",
+          "url": "https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS"
+        }
+      ],
+      "duration_ms": 243680,
+      "name": "Meningsl\u00f6sa M\u00e5ndag",
+      "url": "https://open.spotify.com/track/0UzFvtPaF7mlnV4d3WynM4"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Allting",
-        "url": "https://open.spotify.com/album/4TeP1PFOOZ9piaT5K1n6jk"
-      },
-      "artists": [
-        {
-          "name": "Spader Kung",
-          "url": "https://open.spotify.com/artist/2mEFbDp6rw4nL1p3RRGZ6t"
-        }
-      ],
-      "duration_ms": 206707,
-      "name": "Allting",
-      "url": "https://open.spotify.com/track/3RcOF4HdKHLqFrG0h9Fjcj"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Morgonrock",
         "url": "https://open.spotify.com/album/49ik5mw9UpRZ8mq3w4HziG"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 102866,
       "name": "Morgonrock",
       "url": "https://open.spotify.com/track/1oCOrqMo9jQykW9kXeeUdg"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Allting",
+        "url": "https://open.spotify.com/album/4TeP1PFOOZ9piaT5K1n6jk"
+      },
+      "artists": [
+        {
+          "name": "Spader Kung",
+          "url": "https://open.spotify.com/artist/2mEFbDp6rw4nL1p3RRGZ6t"
+        }
+      ],
+      "duration_ms": 206707,
+      "name": "Allting",
+      "url": "https://open.spotify.com/track/3RcOF4HdKHLqFrG0h9Fjcj"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Skomakare, bliv vid din l\u00e4st",
-        "url": "https://open.spotify.com/album/292pu4Dl90xGeGfasR16Uv"
-      },
-      "artists": [
-        {
-          "name": "Skallbank",
-          "url": "https://open.spotify.com/artist/3VWuRQ6i73J9RRgpRH2IaH"
-        }
-      ],
-      "duration_ms": 210700,
-      "name": "Skomakare, bliv vid din l\u00e4st",
-      "url": "https://open.spotify.com/track/6OUXEjVjBcJF09C3zqJABr"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Pengar Har Inga \u00d6gon",
         "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 68638,
       "name": "Boostade Egon",
       "url": "https://open.spotify.com/track/2RRW47cZhJO0GS7QMtMB6x"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Skomakare, bliv vid din l\u00e4st",
+        "url": "https://open.spotify.com/album/292pu4Dl90xGeGfasR16Uv"
+      },
+      "artists": [
+        {
+          "name": "Skallbank",
+          "url": "https://open.spotify.com/artist/3VWuRQ6i73J9RRgpRH2IaH"
+        }
+      ],
+      "duration_ms": 210700,
+      "name": "Skomakare, bliv vid din l\u00e4st",
+      "url": "https://open.spotify.com/track/6OUXEjVjBcJF09C3zqJABr"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Trallhits Vol 1",
-        "url": "https://open.spotify.com/album/3RiUpZ28Cla9pM3mPRyApo"
-      },
-      "artists": [
-        {
-          "name": "Stryparn",
-          "url": "https://open.spotify.com/artist/0es6SzSsvbFdGACeJfefsv"
-        }
-      ],
-      "duration_ms": 186595,
-      "name": "Vinter",
-      "url": "https://open.spotify.com/track/4Ny7oihQI6nYg8B8ybiUVi"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "H\u00e5ll er borta",
         "url": "https://open.spotify.com/album/21bgNIWT3KRS1SES6CBcQ2"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 196693,
       "name": "H\u00e5ll er borta",
       "url": "https://open.spotify.com/track/6Z4AJPLETPWXWiTAJ2jeO3"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Trallhits Vol 1",
+        "url": "https://open.spotify.com/album/3RiUpZ28Cla9pM3mPRyApo"
+      },
+      "artists": [
+        {
+          "name": "Stryparn",
+          "url": "https://open.spotify.com/artist/0es6SzSsvbFdGACeJfefsv"
+        }
+      ],
+      "duration_ms": 186595,
+      "name": "Vinter",
+      "url": "https://open.spotify.com/track/4Ny7oihQI6nYg8B8ybiUVi"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Rosita",
-        "url": "https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg"
-      },
-      "artists": [
-        {
-          "name": "The Manikins",
-          "url": "https://open.spotify.com/artist/7GW07MfbJzyhaXH4q8rJsu"
-        }
-      ],
-      "duration_ms": 190976,
-      "name": "Rosita",
-      "url": "https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Kollektivt sj\u00e4lvmord",
         "url": "https://open.spotify.com/album/4LlnSAm75vQ0hD1PSPLY6L"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 103973,
       "name": "Kollektivt sj\u00e4lvmord",
       "url": "https://open.spotify.com/track/3SYUN0J0uFPMNT0kRwqGjT"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Rosita",
+        "url": "https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg"
+      },
+      "artists": [
+        {
+          "name": "The Manikins",
+          "url": "https://open.spotify.com/artist/7GW07MfbJzyhaXH4q8rJsu"
+        }
+      ],
+      "duration_ms": 190976,
+      "name": "Rosita",
+      "url": "https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1523,8 +1523,8 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Perfektion",
-        "url": "https://open.spotify.com/album/4j9ASlDUrwhNnDU9LVXWXR"
+        "name": "Crippas bar",
+        "url": "https://open.spotify.com/album/6R96Kks61SVVG48J2mblAl"
       },
       "artists": [
         {
@@ -1532,25 +1532,9 @@
           "url": "https://open.spotify.com/artist/02S9xjQRvXIyEUkmtIfHIw"
         }
       ],
-      "duration_ms": 101006,
-      "name": "Perfektion",
-      "url": "https://open.spotify.com/track/2BC87opiqN4nkYnzUdEwzR"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "R\u00f6sta p\u00e5 idioter",
-        "url": "https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6"
-      },
-      "artists": [
-        {
-          "name": "J\u00f6nzzonligan",
-          "url": "https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S"
-        }
-      ],
-      "duration_ms": 141040,
-      "name": "Fattigdom suger!",
-      "url": "https://open.spotify.com/track/3N95fYz6Eca4qx70rhudiq"
+      "duration_ms": 133804,
+      "name": "Crippas bar",
+      "url": "https://open.spotify.com/track/11qwxRce5MXRgbJMepF8d6"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1567,6 +1551,22 @@
       "duration_ms": 182706,
       "name": "Tunneln",
       "url": "https://open.spotify.com/track/3IE3ejZvxHNZ1U02OqzWrD"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "R\u00f6sta p\u00e5 idioter",
+        "url": "https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6"
+      },
+      "artists": [
+        {
+          "name": "J\u00f6nzzonligan",
+          "url": "https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S"
+        }
+      ],
+      "duration_ms": 141040,
+      "name": "Fattigdom suger!",
+      "url": "https://open.spotify.com/track/3N95fYz6Eca4qx70rhudiq"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1603,8 +1603,8 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Crippas bar",
-        "url": "https://open.spotify.com/album/6R96Kks61SVVG48J2mblAl"
+        "name": "Perfektion",
+        "url": "https://open.spotify.com/album/4j9ASlDUrwhNnDU9LVXWXR"
       },
       "artists": [
         {
@@ -1612,9 +1612,9 @@
           "url": "https://open.spotify.com/artist/02S9xjQRvXIyEUkmtIfHIw"
         }
       ],
-      "duration_ms": 133804,
-      "name": "Crippas bar",
-      "url": "https://open.spotify.com/track/11qwxRce5MXRgbJMepF8d6"
+      "duration_ms": 101006,
+      "name": "Perfektion",
+      "url": "https://open.spotify.com/track/2BC87opiqN4nkYnzUdEwzR"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Sid & Nancy",
-        "url": "https://open.spotify.com/album/1vTPxtwE62Zpjl4A23x4Fa"
-      },
-      "artists": [
-        {
-          "name": "Mimikry",
-          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "Sid & Nancy",
-      "url": "https://open.spotify.com/track/7feyAI2f6JtCKmucVJOgWB"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Konflikthantering 101",
         "url": "https://open.spotify.com/album/7bBKMz9YfJhYIHyxxEdJa4"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 165600,
       "name": "Konflikthantering 101",
       "url": "https://open.spotify.com/track/7hEbGhVukXSnkgd8xt5xFs"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Sid & Nancy",
+        "url": "https://open.spotify.com/album/1vTPxtwE62Zpjl4A23x4Fa"
+      },
+      "artists": [
+        {
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "Sid & Nancy",
+      "url": "https://open.spotify.com/track/7feyAI2f6JtCKmucVJOgWB"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Revolt",
-        "url": "https://open.spotify.com/album/23JQxqGj0Xva3gm0Vx48g8"
-      },
-      "artists": [
-        {
-          "name": "Mimikry",
-          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
-        }
-      ],
-      "duration_ms": 161236,
-      "name": "Revolt",
-      "url": "https://open.spotify.com/track/1VwFou4F5pU4ABwqytvOHB"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "V\u00e4lja v\u00e4g/Dubbelt s\u00e5 mycket h\u00e4lften s\u00e5 bra",
         "url": "https://open.spotify.com/album/6eJyOfEpdLsiJqBmgN26nH"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 159693,
       "name": "V\u00e4lja v\u00e4g",
       "url": "https://open.spotify.com/track/1goDUIiHZzz05oJl7XFMHO"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Revolt",
+        "url": "https://open.spotify.com/album/23JQxqGj0Xva3gm0Vx48g8"
+      },
+      "artists": [
+        {
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        }
+      ],
+      "duration_ms": 161236,
+      "name": "Revolt",
+      "url": "https://open.spotify.com/track/1VwFou4F5pU4ABwqytvOHB"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Kryptonit",
-        "url": "https://open.spotify.com/album/702ww4VpbJHTtgd4alAOzg"
-      },
-      "artists": [
-        {
-          "name": "Mimikry",
-          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "Mer av mig",
-      "url": "https://open.spotify.com/track/2RBChJ7EzoyxsUepxuwQf1"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Becksvart",
         "url": "https://open.spotify.com/album/10j4eMKww3Vibu641umgr5"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 162880,
       "name": "B\u00f6rja om",
       "url": "https://open.spotify.com/track/3U3G16vBDC8C21ZthEWizZ"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Kryptonit",
+        "url": "https://open.spotify.com/album/702ww4VpbJHTtgd4alAOzg"
+      },
+      "artists": [
+        {
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "Mer av mig",
+      "url": "https://open.spotify.com/track/2RBChJ7EzoyxsUepxuwQf1"
     }
   ],
   "unique_name": "Svensk Punk",

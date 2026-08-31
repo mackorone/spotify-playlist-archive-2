@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La playlist des artistes LGBTQIA+. Photo : Victor Aupecle",
+  "description": "La playlist des artistes LGBTQIA+. Photo : Bilal Hassani",
   "name": "PRIDE France",
   "tracks": [
     {
@@ -450,7 +450,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 171800,
       "name": "Capitale",
       "url": "https://open.spotify.com/track/1m7lR2aBMnTWx1vCfdLeyy"
@@ -1493,6 +1493,28 @@
     },
     {
       "album": {
+        "name": "L\u00c9TAL",
+        "url": "https://open.spotify.com/album/2H12z9QcXd3MiahYo3WsNj"
+      },
+      "artists": [
+        {
+          "name": "TH\u00c9A",
+          "url": "https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL"
+        },
+        {
+          "name": "Rebeka Warrior",
+          "url": "https://open.spotify.com/artist/0VPogECnuuH2xbYP3Rmpd4"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165626,
+      "name": "L\u00c9TAL",
+      "url": "https://open.spotify.com/track/7dOi1Ewgw5nTOCE2NsB26c"
+    },
+    {
+      "album": {
         "name": "Ma ch\u00e9rie",
         "url": "https://open.spotify.com/album/12SKaGibhGHQ091b1Iqgdz"
       },
@@ -1979,6 +2001,28 @@
     },
     {
       "album": {
+        "name": "Bonsoir Paris",
+        "url": "https://open.spotify.com/album/52cbJmAsRC76J3E0Fa2M7z"
+      },
+      "artists": [
+        {
+          "name": "Bilal Hassani",
+          "url": "https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW"
+        },
+        {
+          "name": "KALIKA",
+          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195215,
+      "name": "PopStar",
+      "url": "https://open.spotify.com/track/4JcWkJc4RH7FgQfmyK2J3p"
+    },
+    {
+      "album": {
         "name": "1,2,3",
         "url": "https://open.spotify.com/album/1EkutaiP4rkbVquS5zx42X"
       },
@@ -2377,6 +2421,24 @@
     },
     {
       "album": {
+        "name": "Une seule vie",
+        "url": "https://open.spotify.com/album/2QiKXoR9j4aj69MmKI6gvQ"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245606,
+      "name": "Une seule vie",
+      "url": "https://open.spotify.com/track/5Y3p9cIQH4TxX3sI4ZQIAL"
+    },
+    {
+      "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
       },
@@ -2450,7 +2512,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 188320,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX"

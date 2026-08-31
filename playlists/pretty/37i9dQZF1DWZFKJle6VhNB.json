@@ -1,6 +1,6 @@
 {
   "description": "Grandes hits pra enfrentar toda lou\u00e7a suja que insiste em brotar na pia!",
-  "num_followers": 443981,
+  "num_followers": 443969,
   "original_name": "Lou\u00e7a Infinita",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Farol Das Estrelas",
+        "url": "https://open.spotify.com/album/6M6AmZEmjXWwcSxRls4UIX"
+      },
+      "artists": [
+        {
+          "name": "Soweto",
+          "url": "https://open.spotify.com/artist/3QYmec82Yj7fjTMvrt49E4"
+        }
+      ],
+      "duration_ms": 240426,
+      "name": "Farol Das Estrelas",
+      "url": "https://open.spotify.com/track/4aWvRjHweMAoB1RzUcXUUu"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Bola Rebola",
         "url": "https://open.spotify.com/album/3p5oLCW4wY9u1TBRiLT1HD"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 193440,
       "name": "Bola Rebola",
       "url": "https://open.spotify.com/track/1OUPXna2MCgAt3VNmXJBtg"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Farol Das Estrelas",
-        "url": "https://open.spotify.com/album/6M6AmZEmjXWwcSxRls4UIX"
-      },
-      "artists": [
-        {
-          "name": "Soweto",
-          "url": "https://open.spotify.com/artist/3QYmec82Yj7fjTMvrt49E4"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "Farol Das Estrelas",
-      "url": "https://open.spotify.com/track/4aWvRjHweMAoB1RzUcXUUu"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -351,6 +351,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "As Melhores 2018",
+        "url": "https://open.spotify.com/album/59Q7HNcjiKQ0TFBvuzpbLP"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 203075,
+      "name": "T\u00e1 Rocheda",
+      "url": "https://open.spotify.com/track/3dPvQLKl42dMYWV4LWRTLK"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK"
       },
@@ -367,18 +383,18 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "As Melhores 2018",
-        "url": "https://open.spotify.com/album/59Q7HNcjiKQ0TFBvuzpbLP"
+        "name": "Temporal (Audio)",
+        "url": "https://open.spotify.com/album/2lRSH6BQ3PcmIB1F6nOMiX"
       },
       "artists": [
         {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+          "name": "Art Popular",
+          "url": "https://open.spotify.com/artist/6YMWV5AeYoZymMMDonMfsA"
         }
       ],
-      "duration_ms": 203075,
-      "name": "T\u00e1 Rocheda",
-      "url": "https://open.spotify.com/track/3dPvQLKl42dMYWV4LWRTLK"
+      "duration_ms": 275360,
+      "name": "Temporal",
+      "url": "https://open.spotify.com/track/4C0jbc9jPcDmPDGphIdDoN"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -399,22 +415,6 @@
       "duration_ms": 207093,
       "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
       "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Temporal (Audio)",
-        "url": "https://open.spotify.com/album/2lRSH6BQ3PcmIB1F6nOMiX"
-      },
-      "artists": [
-        {
-          "name": "Art Popular",
-          "url": "https://open.spotify.com/artist/6YMWV5AeYoZymMMDonMfsA"
-        }
-      ],
-      "duration_ms": 275360,
-      "name": "Temporal",
-      "url": "https://open.spotify.com/track/4C0jbc9jPcDmPDGphIdDoN"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "As Quatro Esta\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/5Rbgk96ZERiqT0L9ypqgdS"
-      },
-      "artists": [
-        {
-          "name": "Sandy e Junior",
-          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "Olha O Que O Amor Me Faz / Cita\u00e7\u00e3o: All By Myself - Medley",
-      "url": "https://open.spotify.com/track/1rMcQF59UMomlc0HJy9j5W"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "#Bailedasantinha (Ao Vivo em Fortaleza)",
         "url": "https://open.spotify.com/album/6idqgJfwMMX19rzy6oI5bm"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 310533,
       "name": "Santinha - Ao Vivo",
       "url": "https://open.spotify.com/track/3e7cnQ5KYSSIwUo6tfQqwB"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "As Quatro Esta\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/5Rbgk96ZERiqT0L9ypqgdS"
+      },
+      "artists": [
+        {
+          "name": "Sandy e Junior",
+          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Olha O Que O Amor Me Faz / Cita\u00e7\u00e3o: All By Myself - Medley",
+      "url": "https://open.spotify.com/track/1rMcQF59UMomlc0HJy9j5W"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1091,22 +1091,18 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Encaixa",
-        "url": "https://open.spotify.com/album/2aIFyJR1TbFuxBjRXt3UMA"
+        "name": "10 Anos Na Praia (Ao Vivo / Vol. 1)",
+        "url": "https://open.spotify.com/album/6rtq152SsRhAcAvGmzoBWl"
       },
       "artists": [
         {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        },
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
         }
       ],
-      "duration_ms": 169364,
-      "name": "Encaixa",
-      "url": "https://open.spotify.com/track/6VXpxDMdPfMrFF8UmZRm87"
+      "duration_ms": 170197,
+      "name": "Litr\u00e3o - Ao Vivo Em Recife / 2020",
+      "url": "https://open.spotify.com/track/5W1kqz2l1lDX77DXBMeXZg"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1127,18 +1123,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "10 Anos Na Praia (Ao Vivo / Vol. 1)",
-        "url": "https://open.spotify.com/album/6rtq152SsRhAcAvGmzoBWl"
+        "name": "Encaixa",
+        "url": "https://open.spotify.com/album/2aIFyJR1TbFuxBjRXt3UMA"
       },
       "artists": [
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        },
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
         }
       ],
-      "duration_ms": 170197,
-      "name": "Litr\u00e3o - Ao Vivo Em Recife / 2020",
-      "url": "https://open.spotify.com/track/5W1kqz2l1lDX77DXBMeXZg"
+      "duration_ms": 169364,
+      "name": "Encaixa",
+      "url": "https://open.spotify.com/track/6VXpxDMdPfMrFF8UmZRm87"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Eu Sou a Diva Que Voc\u00ea Quer Copiar",
+        "url": "https://open.spotify.com/album/4MLicWEL0VWklsLxmNHRaa"
+      },
+      "artists": [
+        {
+          "name": "Valesca Popozuda",
+          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
+        }
+      ],
+      "duration_ms": 146346,
+      "name": "Eu Sou a Diva Que Voc\u00ea Quer Copiar",
+      "url": "https://open.spotify.com/track/5oU2Oa0dIlqTMRSEAnIlY5"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Ta Tum Tum",
         "url": "https://open.spotify.com/album/7ebtmJ8DgEa0AranPQOcBI"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 164157,
       "name": "Ta Tum Tum",
       "url": "https://open.spotify.com/track/6etab3UBCo5GOTMZqUvRka"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Eu Sou a Diva Que Voc\u00ea Quer Copiar",
-        "url": "https://open.spotify.com/album/4MLicWEL0VWklsLxmNHRaa"
-      },
-      "artists": [
-        {
-          "name": "Valesca Popozuda",
-          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
-        }
-      ],
-      "duration_ms": 146346,
-      "name": "Eu Sou a Diva Que Voc\u00ea Quer Copiar",
-      "url": "https://open.spotify.com/track/5oU2Oa0dIlqTMRSEAnIlY5"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Harmonia do Samba (Ao Vivo)",
+        "url": "https://open.spotify.com/album/16Vtcnbz7V3sh6Ix7Sfd76"
+      },
+      "artists": [
+        {
+          "name": "XANDDY HARMONIA",
+          "url": "https://open.spotify.com/artist/3VZXmYrB3MxMfTZKIVZA1J"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Desafio - Ao Vivo",
+      "url": "https://open.spotify.com/track/59hKLIqy6OA39DNdF33U3B"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Dan\u00e7a Kuduro (Danza Kuduro)",
         "url": "https://open.spotify.com/album/563XIhSRXSaF7yR6yskZTC"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 199440,
       "name": "Dan\u00e7a Kuduro (Danza Kuduro)",
       "url": "https://open.spotify.com/track/1BITq5Ix3YscJwGz4ukFeI"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Harmonia do Samba (Ao Vivo)",
-        "url": "https://open.spotify.com/album/16Vtcnbz7V3sh6Ix7Sfd76"
-      },
-      "artists": [
-        {
-          "name": "XANDDY HARMONIA",
-          "url": "https://open.spotify.com/artist/3VZXmYrB3MxMfTZKIVZA1J"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "Desafio - Ao Vivo",
-      "url": "https://open.spotify.com/track/59hKLIqy6OA39DNdF33U3B"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Vem Ne Mim",
-        "url": "https://open.spotify.com/album/2MFpkPwvZn1UEoPy6niXJg"
-      },
-      "artists": [
-        {
-          "name": "Vingadora",
-          "url": "https://open.spotify.com/artist/7mP8fPbxbcw0iLEO47t2lM"
-        }
-      ],
-      "duration_ms": 159346,
-      "name": "Pared\u00e3o Metralhadora",
-      "url": "https://open.spotify.com/track/5daPObs4UbM8ZGecl0NIVz"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Liga Da Justi\u00e7a (Mulher Maravilha)",
         "url": "https://open.spotify.com/album/52WoraVhVrK3jibBr7RJAE"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 218000,
       "name": "Liga Da Justi\u00e7a (Mulher Maravilha)",
       "url": "https://open.spotify.com/track/5WliTzLN1oOqURqcj0P7QZ"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Vem Ne Mim",
+        "url": "https://open.spotify.com/album/2MFpkPwvZn1UEoPy6niXJg"
+      },
+      "artists": [
+        {
+          "name": "Vingadora",
+          "url": "https://open.spotify.com/artist/7mP8fPbxbcw0iLEO47t2lM"
+        }
+      ],
+      "duration_ms": 159346,
+      "name": "Pared\u00e3o Metralhadora",
+      "url": "https://open.spotify.com/track/5daPObs4UbM8ZGecl0NIVz"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "FICA \u00c0 VONTADE",
-        "url": "https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "FICA \u00c0 VONTADE",
-      "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Quem Me Dera",
         "url": "https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 147990,
       "name": "Quem Me Dera",
       "url": "https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "FICA \u00c0 VONTADE",
+        "url": "https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "FICA \u00c0 VONTADE",
+      "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1559,6 +1559,38 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Negro Lindo",
+        "url": "https://open.spotify.com/album/2zbBp61ZsKJR2CPY3DGuxT"
+      },
+      "artists": [
+        {
+          "name": "Parangol\u00e9",
+          "url": "https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Tchubirabirom",
+      "url": "https://open.spotify.com/track/1Ugs1DpzuJLNjLCuSJ4oJc"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "O Mundo D\u00e1 Voltas",
+        "url": "https://open.spotify.com/album/6vsf2KnzQqYCk3ZooylJ7o"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 176642,
+      "name": "O Mundo D\u00e1 Voltas",
+      "url": "https://open.spotify.com/track/72Dd1GTMVp8EaJof85xICq"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "T\u00f3came (feat. Arcangel & De La Ghetto)",
         "url": "https://open.spotify.com/album/6OW0sjGhqQJKxjcBzyvpcq"
       },
@@ -1583,54 +1615,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Negro Lindo",
-        "url": "https://open.spotify.com/album/2zbBp61ZsKJR2CPY3DGuxT"
-      },
-      "artists": [
-        {
-          "name": "Parangol\u00e9",
-          "url": "https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Tchubirabirom",
-      "url": "https://open.spotify.com/track/1Ugs1DpzuJLNjLCuSJ4oJc"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Olha A Explos\u00e3o",
-        "url": "https://open.spotify.com/album/4QEhWb117FJJ8HowEyn6pg"
-      },
-      "artists": [
-        {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        }
-      ],
-      "duration_ms": 162053,
-      "name": "Olha A Explos\u00e3o",
-      "url": "https://open.spotify.com/track/6Q4foUefrAyCt8VxJFML56"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "O Mundo D\u00e1 Voltas",
-        "url": "https://open.spotify.com/album/6vsf2KnzQqYCk3ZooylJ7o"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 176642,
-      "name": "O Mundo D\u00e1 Voltas",
-      "url": "https://open.spotify.com/track/72Dd1GTMVp8EaJof85xICq"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Nem V\u00e1",
         "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 159639,
       "name": "Nem V\u00e1",
       "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Olha A Explos\u00e3o",
+        "url": "https://open.spotify.com/album/4QEhWb117FJJ8HowEyn6pg"
+      },
+      "artists": [
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "duration_ms": 162053,
+      "name": "Olha A Explos\u00e3o",
+      "url": "https://open.spotify.com/track/6Q4foUefrAyCt8VxJFML56"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "O Carnaval De Ivete Sangalo - Sai Do Ch\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0ggbRn1mM1fojrFOGJl6lR"
-      },
-      "artists": [
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 222933,
-      "name": "Tempo De Alegria",
-      "url": "https://open.spotify.com/track/3bRw8DppeHRTm1AxqEP1Po"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Deixa Acontecer",
         "url": "https://open.spotify.com/album/3cgTdUaIlwRnMiUa6o8GlS"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 186773,
       "name": "Beijo Geladinho",
       "url": "https://open.spotify.com/track/6rbkRZKovJISNCd5cZtOMP"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "O Carnaval De Ivete Sangalo - Sai Do Ch\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0ggbRn1mM1fojrFOGJl6lR"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "duration_ms": 222933,
+      "name": "Tempo De Alegria",
+      "url": "https://open.spotify.com/track/3bRw8DppeHRTm1AxqEP1Po"
     },
     {
       "added_at": "2022-02-10 18:18:16",

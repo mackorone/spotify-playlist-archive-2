@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1450oU.md) - [plain]
 | 17 | [Window Shade](https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 4:14 |
 | 18 | [The Vine](https://open.spotify.com/track/6tabBGQ5viiUw8DnnfKO9S) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:38 |
 
-Snapshot ID: `apDPgAAAAADSWA4pfUwbEAt4Eg7ZK6yz`
+Snapshot ID: `apIhAAAAAACNQqQNFizdBpYp4aUnWCJf`

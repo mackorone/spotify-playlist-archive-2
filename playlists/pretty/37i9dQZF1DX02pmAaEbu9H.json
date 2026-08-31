@@ -1,6 +1,6 @@
 {
   "description": "Recorre los kil\u00f3metros con estos cantables cl\u00e1sicos para el camino.",
-  "num_followers": 1578040,
+  "num_followers": 1578181,
   "original_name": "Viaje en Carretera Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 239316,
-      "name": "I'm Not The Only One",
-      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "First Band On The Moon (Remastered)",
         "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 193953,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 239316,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -499,22 +499,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 245529,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Visperas De Carnaval",
         "url": "https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
       "artists": [
         {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
         }
       ],
-      "duration_ms": 222226,
-      "name": "Lamento Boliviano",
-      "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
+      "duration_ms": 245529,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -559,6 +543,22 @@
       "duration_ms": 245200,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -675,18 +675,18 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "If You Can Believe Your Eyes & Ears",
-        "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
       },
       "artists": [
         {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 162373,
-      "name": "California Dreamin' - Single Version",
-      "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
+      "duration_ms": 243026,
+      "name": "Let It Be - Remastered 2009",
+      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -711,18 +711,18 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+        "name": "If You Can Believe Your Eyes & Ears",
+        "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
         }
       ],
-      "duration_ms": 243026,
-      "name": "Let It Be - Remastered 2009",
-      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
+      "duration_ms": 162373,
+      "name": "California Dreamin' - Single Version",
+      "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -807,22 +807,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "El Milagro Argentino",
-        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 313000,
-      "name": "Loco (Tu Forma De Ser)",
-      "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Flores De Alquiler",
         "url": "https://open.spotify.com/album/2IdCNfB4mJGsGCzGt6FnHs"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 228560,
       "name": "El Sol No Regresa",
       "url": "https://open.spotify.com/track/2awKQgW88iq9jFM54VaCAp"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "El Milagro Argentino",
+        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 313000,
+      "name": "Loco (Tu Forma De Ser)",
+      "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -919,38 +919,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "El Viaje de Copperpot",
-        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 247693,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
-        "name": "Destino Paraiso (25th Anniversary Edition / Remastered 2020)",
-        "url": "https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt"
-      },
-      "artists": [
-        {
-          "name": "Gianluca Grignani",
-          "url": "https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU"
-        }
-      ],
-      "duration_ms": 308880,
-      "name": "Mi Historia Entre Tus Dedos - Remastered 2020",
-      "url": "https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "No Secrets",
         "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
@@ -967,18 +935,18 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+        "name": "Destino Paraiso (25th Anniversary Edition / Remastered 2020)",
+        "url": "https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Gianluca Grignani",
+          "url": "https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
+      "duration_ms": 308880,
+      "name": "Mi Historia Entre Tus Dedos - Remastered 2020",
+      "url": "https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1011,6 +979,38 @@
       "duration_ms": 288600,
       "name": "Afuera",
       "url": "https://open.spotify.com/track/3pJfnBjO3kjudEchcPEDxS"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "El Viaje de Copperpot",
+        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 247693,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Falta Amor",
-        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "Rayando el Sol",
-      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "De Viaje",
         "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 227613,
       "name": "Mientes Tan Bien",
       "url": "https://open.spotify.com/track/072YgF7J2clpY8DsWOpEri"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Falta Amor",
+        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "Rayando el Sol",
+      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
     },
     {
       "added_at": "2021-10-25 21:05:32",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2021-10-25 21:05:32",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc"
-    },
-    {
-      "added_at": "2021-10-25 21:05:32",
-      "album": {
         "name": "Agua Nueva",
         "url": "https://open.spotify.com/album/2SrDD376jiXS671kbC3BdL"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 240480,
       "name": "No Podras",
       "url": "https://open.spotify.com/track/6ZIwZmQ2ph6QK13sItmDEx"
+    },
+    {
+      "added_at": "2021-10-25 21:05:32",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc"
     },
     {
       "added_at": "2021-10-25 21:05:32",

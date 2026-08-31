@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "In The City (Indian Summer Edition)",
+        "url": "https://open.spotify.com/album/0DuymWFbUmKwwikxaEPeR8"
+      },
+      "artists": [
+        {
+          "name": "Dela Utca",
+          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137213,
+      "name": "Adore",
+      "url": "https://open.spotify.com/track/0JCqtgn8TEormw39j9SImc"
+    },
+    {
+      "album": {
         "name": "afterglow",
         "url": "https://open.spotify.com/album/3BAIQJ314MKCfhyjHI64Di"
       },
@@ -1404,7 +1422,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 215731,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7slFkdJoxNJ2NAvp98MauA"
@@ -5424,7 +5442,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 138055,
       "name": "Crush",
       "url": "https://open.spotify.com/track/4WoejTKNcWoBAtSaMFylN0"
@@ -5848,6 +5866,28 @@
       "duration_ms": 166829,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/2A0JMWjjtHCJUHk8os7haz"
+    },
+    {
+      "album": {
+        "name": "Dancing on Our Own",
+        "url": "https://open.spotify.com/album/493zZYkdO3UpqbmNQQA6PC"
+      },
+      "artists": [
+        {
+          "name": "Nate VanDeusen",
+          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+        },
+        {
+          "name": "MCN2",
+          "url": "https://open.spotify.com/artist/343xgiGnBTnEyNmf0N6aeh"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166779,
+      "name": "Dancing on Our Own",
+      "url": "https://open.spotify.com/track/1MLrKjNt1DslV5pEzcA358"
     },
     {
       "album": {
@@ -6970,7 +7010,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 151352,
       "name": "Dream Of You",
       "url": "https://open.spotify.com/track/0wBnQbF6gQIPHYsj182yn2"
@@ -8705,6 +8745,24 @@
     },
     {
       "album": {
+        "name": "Feel It Now",
+        "url": "https://open.spotify.com/album/6HHe6SKDksu14RSLPQFTCb"
+      },
+      "artists": [
+        {
+          "name": "sleepy dude",
+          "url": "https://open.spotify.com/artist/3IIgBMK6g6AltNT8iPPJsI"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164331,
+      "name": "Feel It Now",
+      "url": "https://open.spotify.com/track/2P08J0uy6gkCJ2JKJJ7ULm"
+    },
+    {
+      "album": {
         "name": "Feel Like It",
         "url": "https://open.spotify.com/album/1KidEC954PkrMmsD1ZOL43"
       },
@@ -8826,7 +8884,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 135254,
       "name": "Feelin'",
       "url": "https://open.spotify.com/track/3kJZ09ZjKL8SQPHmMt0KN3"
@@ -15244,7 +15302,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 139672,
       "name": "Know You",
       "url": "https://open.spotify.com/track/7manRizgNrg5PFLHCiWYYw"
@@ -15542,6 +15600,32 @@
       "duration_ms": 160017,
       "name": "Le Le Let Go",
       "url": "https://open.spotify.com/track/1a7WIQgSIwxmeaKOtEOift"
+    },
+    {
+      "album": {
+        "name": "Learning",
+        "url": "https://open.spotify.com/album/2eBkfLhIFKOji0sUJLXZwk"
+      },
+      "artists": [
+        {
+          "name": "blaank",
+          "url": "https://open.spotify.com/artist/1IvFHrfuRe7aySFJ5CpByS"
+        },
+        {
+          "name": "RAZZ",
+          "url": "https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l"
+        },
+        {
+          "name": "ROBINS",
+          "url": "https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157741,
+      "name": "Learning",
+      "url": "https://open.spotify.com/track/1uktpCsSoFCq1mZNUEMl23"
     },
     {
       "album": {
@@ -24030,7 +24114,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 172000,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/2iU8CYowZL8bXUlQo187yL"
@@ -27947,6 +28031,28 @@
     },
     {
       "album": {
+        "name": "Talk To You",
+        "url": "https://open.spotify.com/album/5nXI2fNRgKQNmOuA2SSKhu"
+      },
+      "artists": [
+        {
+          "name": "SOLEMIO",
+          "url": "https://open.spotify.com/artist/6eV7zQB0XnsxkaYInzGnTE"
+        },
+        {
+          "name": "Tropical Tide",
+          "url": "https://open.spotify.com/artist/1WJJYyo9NHKxvjLtUoBBmW"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177965,
+      "name": "Talk To You",
+      "url": "https://open.spotify.com/track/7y3LUgB2IoaYbt3gviLVl5"
+    },
+    {
+      "album": {
         "name": "Tanning Lines",
         "url": "https://open.spotify.com/album/2jGgQdCyz7VTnN6XmyoK8C"
       },
@@ -31236,6 +31342,28 @@
       "duration_ms": 151635,
       "name": "What We Started",
       "url": "https://open.spotify.com/track/5jsiM3FA6cmJmmepchwNCz"
+    },
+    {
+      "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/06fn5x08pbcCxtGABndcTZ"
+      },
+      "artists": [
+        {
+          "name": "Solayne",
+          "url": "https://open.spotify.com/artist/1OSYviDPXQTukysazHRPdh"
+        },
+        {
+          "name": "Syon",
+          "url": "https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191596,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/6jwMY9QxIDRRivJQtxVXMd"
     },
     {
       "album": {

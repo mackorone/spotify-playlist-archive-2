@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 205612,
+  "num_followers": 205625,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABJfBdNIgYC+iYaseoIlEvv",
+  "snapshot_id": "apIhAAAAAABSaJygEr7SErclMACLURfd",
   "tracks": [
     {
       "added_at": null,
@@ -378,11 +378,15 @@
         {
           "name": "Weezer",
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
         }
       ],
-      "duration_ms": 155546,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/1If6M9icZkYzcj1XvfMyRI"
+      "duration_ms": 214346,
+      "name": "We Might as Well Be Strangers (ft. Wednesday)",
+      "url": "https://open.spotify.com/track/4O0KzEvuPxIT0iom2QOdPO"
     },
     {
       "added_at": null,
@@ -444,9 +448,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 219560,
-      "name": "Up In the Clouds",
-      "url": "https://open.spotify.com/track/4JpAqx578F0rpHEsxgHE9D"
+      "duration_ms": 155546,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/1If6M9icZkYzcj1XvfMyRI"
     },
     {
       "added_at": null,
@@ -510,15 +514,11 @@
         {
           "name": "Weezer",
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        },
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
         }
       ],
-      "duration_ms": 214346,
-      "name": "We Might as Well Be Strangers (ft. Wednesday)",
-      "url": "https://open.spotify.com/track/4O0KzEvuPxIT0iom2QOdPO"
+      "duration_ms": 219560,
+      "name": "Up In the Clouds",
+      "url": "https://open.spotify.com/track/4JpAqx578F0rpHEsxgHE9D"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pacific Daydream",
-        "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 195893,
-      "name": "Feels Like Summer",
-      "url": "https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY"
+      "duration_ms": 185231,
+      "name": "Lost in the Woods - Weezer Version",
+      "url": "https://open.spotify.com/track/227zkOoNpqRrzEPxvVRiF5"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+        "name": "Pacific Daydream",
+        "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 185231,
-      "name": "Lost in the Woods - Weezer Version",
-      "url": "https://open.spotify.com/track/227zkOoNpqRrzEPxvVRiF5"
+      "duration_ms": 195893,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY"
     },
     {
       "added_at": null,

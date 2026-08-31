@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 186731,
+  "num_followers": 186749,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAB8CLsk2wO7/lGDN6BvQpUo",
+  "snapshot_id": "apIhAAAAAABi03eTmsVdnYJnkkB7gMdu",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tutankamon",
-        "url": "https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Mia",
-      "url": "https://open.spotify.com/track/2PXNL9x1lMXQkR7YM4USrC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya No Se Llevan Serenatas",
         "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 180688,
       "name": "7 D\u00cdAS",
       "url": "https://open.spotify.com/track/6X3h549Z7LJk881NPI5kTa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tutankamon",
+        "url": "https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Mia",
+      "url": "https://open.spotify.com/track/2PXNL9x1lMXQkR7YM4USrC"
     },
     {
       "added_at": null,
@@ -519,6 +519,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        }
+      ],
+      "duration_ms": 227854,
+      "name": "Nos Vamos de Dance",
+      "url": "https://open.spotify.com/track/0oSZVn61aTmWDy3TsQRnXR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cartier",
         "url": "https://open.spotify.com/album/1Dc6mH1teFQDQQXlgpl8pB"
       },
@@ -575,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A La Luz De La luna",
+        "url": "https://open.spotify.com/album/5FknMjAXtPKD26VySnMtNs"
+      },
+      "artists": [
+        {
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 165212,
+      "name": "A La Luz De La luna",
+      "url": "https://open.spotify.com/track/6VZiBmPwjTdNjyrOLKkCNa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ya No Se Llevan Serenatas (Deluxe)",
         "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
       },
@@ -615,26 +659,6 @@
       "duration_ms": 202000,
       "name": "Tipo Gatsby",
       "url": "https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A La Luz De La luna",
-        "url": "https://open.spotify.com/album/5FknMjAXtPKD26VySnMtNs"
-      },
-      "artists": [
-        {
-          "name": "Pepe Walker",
-          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 165212,
-      "name": "A La Luz De La luna",
-      "url": "https://open.spotify.com/track/6VZiBmPwjTdNjyrOLKkCNa"
     },
     {
       "added_at": null,
@@ -775,26 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natanael Cano, Vol.1",
-        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
       },
       "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         },
         {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 227854,
-      "name": "Nos Vamos de Dance",
-      "url": "https://open.spotify.com/track/0oSZVn61aTmWDy3TsQRnXR"
+      "duration_ms": 225212,
+      "name": "El Boss",
+      "url": "https://open.spotify.com/track/1Gp71NN7m8WYIFMi335lJJ"
     },
     {
       "added_at": null,
@@ -875,26 +895,6 @@
       "duration_ms": 164687,
       "name": "TENDIDO",
       "url": "https://open.spotify.com/track/5jgvoAw4cyAYdxhPN7zwZb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Boss",
-        "url": "https://open.spotify.com/album/6yeUuq8mHmEXuRe4KUiCKk"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 225212,
-      "name": "El Boss",
-      "url": "https://open.spotify.com/track/4L1iecYPJR1qc9tz5Zjkw9"
     },
     {
       "added_at": null,

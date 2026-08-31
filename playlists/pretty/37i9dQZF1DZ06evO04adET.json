@@ -1,12 +1,12 @@
 {
   "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
-  "num_followers": 866238,
+  "num_followers": 866396,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAACV8EHsr4cwBDVLbICWx0Kq",
+  "snapshot_id": "apIhAAAAAACqi0/boR6q0xmoLwE/Wzfz",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 198723,
+      "name": "\u00c6ternum",
+      "url": "https://open.spotify.com/track/7GyB9SbHoiWnU1RgdvL6Kr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NataKong",
         "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 218594,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/3dfU4Gby9MXckEQVa68TDC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Tumbados",
-        "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 142910,
-      "name": "El Drip",
-      "url": "https://open.spotify.com/track/5NCBP3ivrIDcHEtzHSW3k0"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
       "duration_ms": 249286,
       "name": "El F",
       "url": "https://open.spotify.com/track/04QX4SHRnYuMj5PffvG0dA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Tumbados",
+        "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 142910,
+      "name": "El Drip",
+      "url": "https://open.spotify.com/track/5NCBP3ivrIDcHEtzHSW3k0"
     },
     {
       "added_at": null,
@@ -467,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Mis 20",
+        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Carlitos",
+      "url": "https://open.spotify.com/track/71YaqakPUZh3cnMYmuE5Oh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Que Hablen",
         "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
       },
@@ -483,22 +515,6 @@
       "duration_ms": 136913,
       "name": "Ch y la Pizza",
       "url": "https://open.spotify.com/track/0UbesRsX2TtiCeamOIVEkp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Mis 20",
-        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Carlitos",
-      "url": "https://open.spotify.com/track/71YaqakPUZh3cnMYmuE5Oh"
     },
     {
       "added_at": null,
@@ -523,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 202790,
+      "name": "Por Amarte As\u00ed",
+      "url": "https://open.spotify.com/track/3O3bL4mhBEm5oSjT0GRyQ8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Cherokee",
         "url": "https://open.spotify.com/album/1KoUyx6tosCXD7qidBRXae"
       },
@@ -539,6 +571,26 @@
       "duration_ms": 175980,
       "name": "La Cherokee",
       "url": "https://open.spotify.com/track/286FxdzLxQJPzLDH6QQd5K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corazon Tumbado",
+        "url": "https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 116455,
+      "name": "Seca Tus Lagrimas",
+      "url": "https://open.spotify.com/track/54JxxJ2KW8nCeb6ZnroLA0"
     },
     {
       "added_at": null,
@@ -563,26 +615,6 @@
       "duration_ms": 159937,
       "name": "Pa la Ma\u00f1a",
       "url": "https://open.spotify.com/track/0ggQhh7y2cWtud9Wg45tvl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corazon Tumbado",
-        "url": "https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 116455,
-      "name": "Seca Tus Lagrimas",
-      "url": "https://open.spotify.com/track/54JxxJ2KW8nCeb6ZnroLA0"
     },
     {
       "added_at": null,
@@ -671,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 138972,
+      "name": "CR7",
+      "url": "https://open.spotify.com/track/2aeeDXCFgsCdyehJ1n1zWs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59/66",
         "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
       },
@@ -735,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 176230,
+      "name": "La Factura",
+      "url": "https://open.spotify.com/track/41sOOY5ifowka7cCtzLTvR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Selfies",
         "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
       },
@@ -767,30 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9XODO",
-        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 245997,
-      "name": "VINO TINTO",
-      "url": "https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mis 20",
         "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
       },
@@ -807,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nata Montana",
-        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
       },
       "artists": [
         {
@@ -816,33 +856,13 @@
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+          "name": "Bajo Perfil",
+          "url": "https://open.spotify.com/artist/04CzckYeljqT6be7fR954D"
         }
       ],
-      "duration_ms": 165351,
-      "name": "Como Es Arriba Es Abajo",
-      "url": "https://open.spotify.com/track/3KTExsIhHiqNHW9XBbTTZd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Nataaoki",
-      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
+      "duration_ms": 139920,
+      "name": "MDLD",
+      "url": "https://open.spotify.com/track/1PeA24pWFuurerQhJnB6aH"
     },
     {
       "added_at": null,
@@ -867,8 +887,32 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Nuevo Yo",
-        "url": "https://open.spotify.com/album/6HvpgqHcpyXzAdNIioqIoq"
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 245997,
+      "name": "VINO TINTO",
+      "url": "https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
       },
       "artists": [
         {
@@ -876,13 +920,13 @@
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
         }
       ],
-      "duration_ms": 190782,
-      "name": "La Torre NY",
-      "url": "https://open.spotify.com/track/5HD1VkxQlGGEXhwQ2REBY2"
+      "duration_ms": 165351,
+      "name": "Como Es Arriba Es Abajo",
+      "url": "https://open.spotify.com/track/3KTExsIhHiqNHW9XBbTTZd"
     },
     {
       "added_at": null,
@@ -896,65 +940,9 @@
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 198723,
-      "name": "\u00c6ternum",
-      "url": "https://open.spotify.com/track/7GyB9SbHoiWnU1RgdvL6Kr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "300 Noches",
-        "url": "https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "300 Noches",
-      "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 200109,
-      "name": "Periquito",
-      "url": "https://open.spotify.com/track/1rf9ED0kgnSWMpUxQj9XVX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Porque La Demora",
-        "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 259613,
-      "name": "Comida del Espacio",
-      "url": "https://open.spotify.com/track/6tt6gB21asRxACQLt5qc4r"
+      "duration_ms": 175508,
+      "name": "Frente a Frente",
+      "url": "https://open.spotify.com/track/035b3zWZOwsBYyjevY0Iec"
     }
   ],
   "unique_name": "This Is Natanael Cano",

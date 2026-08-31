@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 
 > Dedicata a chi non ha rischiato ed è sempre andato al massimo  ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,555 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,559 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 13 | [Papa Nero](https://open.spotify.com/track/1X3eAXBIhLIsD8krO81Vup) | [Pitura Freska](https://open.spotify.com/artist/7nDp1YwhqukHtWtiQeH0LD) | [GRAN CALMA](https://open.spotify.com/album/5HuowqKpNxqmuwSY0RLjaP) | 3:54 |
 | 14 | [L'assenzio \( the Power of Nothing\)](https://open.spotify.com/track/1yhr95Jd7uqh391cqQDrpx) | [Bluvertigo](https://open.spotify.com/artist/6q8FspLLQOHpabMMbEb8Vq) | [Pop Tools \(Alcune Fasi e Forme d'Onda\)](https://open.spotify.com/album/2NZmrYl2xI4xZSAOG2YRM7) | 3:53 |
 | 15 | [Gigante](https://open.spotify.com/track/7wfaa5eSB5e8L3iKTsFTql) | [Piero Pelù](https://open.spotify.com/artist/6gTrPTTb3XgiLt7GGcmf8j) | [Pugili fragili](https://open.spotify.com/album/5tDFqVgQ2YMRlkA8tNQOof) | 3:40 |
-| 16 | [Pitzinnos in sa gherra](https://open.spotify.com/track/3rrhZJ5RzTD7YrardXkhn4) | [Tazenda](https://open.spotify.com/artist/3iET9n0KDfyrTBmCFGZjnS) | [Vida](https://open.spotify.com/album/2OCfY0uJlOFW0qpOXO9bNy) | 4:18 |
-| 17 | [Ma Perchè \- 1991 Remaster](https://open.spotify.com/track/6WuLDwygCrcsLGB6qaqIK5) | [Matia Bazar](https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5) | [Gran bazar \(1991 Remaster\)](https://open.spotify.com/album/2eQOIfa83ZGRRcphsFEBdH) | 3:22 |
+| 16 | [Ma Perchè \- 1991 Remaster](https://open.spotify.com/track/6WuLDwygCrcsLGB6qaqIK5) | [Matia Bazar](https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5) | [Gran bazar \(1991 Remaster\)](https://open.spotify.com/album/2eQOIfa83ZGRRcphsFEBdH) | 3:22 |
+| 17 | [Pitzinnos in sa gherra](https://open.spotify.com/track/3rrhZJ5RzTD7YrardXkhn4) | [Tazenda](https://open.spotify.com/artist/3iET9n0KDfyrTBmCFGZjnS) | [Vida](https://open.spotify.com/album/2OCfY0uJlOFW0qpOXO9bNy) | 4:18 |
 | 18 | [Ma Che Ne Sai..\. \(...Se Non Hai Fatto Il Piano\-Bar\)](https://open.spotify.com/track/4ukx28Dx9UnZlFWk81HNaV) | [Gigi Proietti](https://open.spotify.com/artist/4aztUD9n74oCxu7ss8C8UD), [Trio Melody](https://open.spotify.com/artist/2JhA5aOKefzHPXKbyhi61y), [Peppino Di Capri](https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4), [Stefano Palatresi](https://open.spotify.com/artist/5hyNfdEAhG5oKIRhpgS5bx) | [Ma Che Ne Sai..\. \(...Se Non Hai Fatto Il Piano\-Bar\)](https://open.spotify.com/album/5MEDvsrCUMJ5HbYaozGNRU) | 3:13 |
 | 19 | [Sincero \(feat\. Morgan\)](https://open.spotify.com/track/6v2eWAtpP4WDrxRDAG9FwL) | [Bugo](https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g), [Morgan](https://open.spotify.com/artist/6RUY9TXdPIoeOExtd9twr0) | [Sincero \(feat\. Morgan\)](https://open.spotify.com/album/1N1j43lLEbPtcH2agEYos7) | 3:43 |
 | 20 | [Combat pop \(ALBI \#1\)](https://open.spotify.com/track/1SIp3BtzYxFfVy7AD8r0PZ) | [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM) | [Attentato alla musica italiana](https://open.spotify.com/album/2ARUgdwDSy3vW5mhcnDvP8) | 3:25 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 40 | [Cose Veloci](https://open.spotify.com/track/18ZdbJMhUcNpXtbk9kTA1B) | [Garbo](https://open.spotify.com/artist/7klJT9ZfZwUiXaprwIxbso) | [Fotografie](https://open.spotify.com/album/0VUxmTTE6ka4B6iw56kufZ) | 4:07 |
 | 41 | [Sinue' \- Alternative Version](https://open.spotify.com/track/4RG8tAMD8kCDiW8W6TAb0P) | [Tony Esposito](https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF) | [Sinue' \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5R9RmrSBzjR4PzEnp7c5OO) | 3:51 |
 | 42 | [Innamoratissimo](https://open.spotify.com/track/6zFbHceSJ23viD2FKoXS06) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Righeira The 80's Hit Songs](https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm) | 3:49 |
-| 43 | [Accidenti](https://open.spotify.com/track/1UV5OkoxrRI7ynZSQykPXm) | [Rocky Roberts](https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh) | [Rocky Roberts](https://open.spotify.com/album/4kAfPxlz8TxOvx7vyAY8xK) | 2:53 |
-| 44 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Il Ragazzo Della Via Gluck \(2012 Remaster\)](https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V) | 4:13 |
+| 43 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Il Ragazzo Della Via Gluck \(2012 Remaster\)](https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V) | 4:13 |
+| 44 | [Accidenti](https://open.spotify.com/track/1UV5OkoxrRI7ynZSQykPXm) | [Rocky Roberts](https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh) | [Rocky Roberts](https://open.spotify.com/album/4kAfPxlz8TxOvx7vyAY8xK) | 2:53 |
 | 45 | [Ciao Barbarella](https://open.spotify.com/track/2u8X8HaobutZdw7jtRcJT3) | [Ciro Sebastianelli](https://open.spotify.com/artist/1woevdio0DhaV9mcYxCfuk) | [Ciro Sebastianelli](https://open.spotify.com/album/3Fwu7sLQ1Oqei8qHjmvtwq) | 3:22 |
 | 46 | [Le Opere Di Bartolomeo](https://open.spotify.com/track/2Kv2f0zunEJkre9EQAJa1I) | [The Rokes](https://open.spotify.com/artist/784vfbIFL4SU0u1J0Pn0Rb) | [The Rokes](https://open.spotify.com/album/3mm9uSe1qxj3rndKZKA61E) | 3:35 |
 | 47 | [Senza impegno](https://open.spotify.com/track/2rRUTnurxd42lIBpQco6EV) | [Le Volpi Blu](https://open.spotify.com/artist/7Hnu3ZUfIIqmFGI39PNFVK) | [Il meglio](https://open.spotify.com/album/6THRv6wgJm7Or9cRDkralo) | 2:43 |

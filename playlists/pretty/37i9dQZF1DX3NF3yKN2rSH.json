@@ -503,22 +503,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "Road to DeMaskUs",
-        "url": "https://open.spotify.com/album/6mLj2XS7RDNh9gyVxUSlT3"
-      },
-      "artists": [
-        {
-          "name": "Israel Houghton",
-          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
-        }
-      ],
-      "duration_ms": 322106,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/6LSqdwX4xUzP619oYIJMH9"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "I've Got a Testimony",
         "url": "https://open.spotify.com/album/16lH0UDiWWT9aXaM7ZJKDJ"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 392639,
       "name": "The Blessing (feat. Maranda Curtis)",
       "url": "https://open.spotify.com/track/07hpnqy4P8emLuz4GuPPAL"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
+        "name": "Road to DeMaskUs",
+        "url": "https://open.spotify.com/album/6mLj2XS7RDNh9gyVxUSlT3"
+      },
+      "artists": [
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "duration_ms": 322106,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/6LSqdwX4xUzP619oYIJMH9"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "My Very OWN Easter - EP",
-        "url": "https://open.spotify.com/album/3VxA6E1TAfW2Q5VHMvtDPB"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 467130,
-      "name": "The Blood Will Never Lose Its Power",
-      "url": "https://open.spotify.com/track/5Q7aK3pXH9l5mrjxrGiU9o"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "Introducing Perfected Praise",
         "url": "https://open.spotify.com/album/5Y3JhsPmHYR31DRQOe4o96"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 371493,
       "name": "Worthy Is The Lamb Slain",
       "url": "https://open.spotify.com/track/0kBssWQicwNaU5jJ547luQ"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
+        "name": "My Very OWN Easter - EP",
+        "url": "https://open.spotify.com/album/3VxA6E1TAfW2Q5VHMvtDPB"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 467130,
+      "name": "The Blood Will Never Lose Its Power",
+      "url": "https://open.spotify.com/track/5Q7aK3pXH9l5mrjxrGiU9o"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
+        "name": "The Essential Fred Hammond",
+        "url": "https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "Celebrate (He Lives)",
+      "url": "https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
         "name": "My Tribute",
         "url": "https://open.spotify.com/album/3CbTWKbmQz0kJnALoC5qsB"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 300800,
       "name": "Take Me Back (feat. Kirk Franklin & Kelontae Gavin)",
       "url": "https://open.spotify.com/track/6rdU89wSvs8KqkQjsbnpa7"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
-        "name": "The Essential Fred Hammond",
-        "url": "https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 244653,
-      "name": "Celebrate (He Lives)",
-      "url": "https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "Mnini Mandla Onke",
-        "url": "https://open.spotify.com/album/2xiGM8C7m3AAqUTfyBIT5Z"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 303050,
-      "name": "Mnini Mandla Onke",
-      "url": "https://open.spotify.com/track/3iUoxbl0P0vhtzQwvYzpVb"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "Verity Records: The First Decade, A Celebration Of Christmas",
         "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
       },
@@ -1175,22 +1159,18 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "Live... This Is Your House",
-        "url": "https://open.spotify.com/album/0lnscqAVc3mOhZcbrR0UPU"
+        "name": "Mnini Mandla Onke",
+        "url": "https://open.spotify.com/album/2xiGM8C7m3AAqUTfyBIT5Z"
       },
       "artists": [
         {
-          "name": "The Brooklyn Tabernacle Choir",
-          "url": "https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs"
-        },
-        {
-          "name": "Robin Giles",
-          "url": "https://open.spotify.com/artist/0gt7HlBDU64IOmHCo5IUn5"
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
         }
       ],
-      "duration_ms": 380866,
-      "name": "Jesus I Love You (Live)",
-      "url": "https://open.spotify.com/track/4hLaRpyVQwU3g1VggcSxPw"
+      "duration_ms": 303050,
+      "name": "Mnini Mandla Onke",
+      "url": "https://open.spotify.com/track/3iUoxbl0P0vhtzQwvYzpVb"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -1207,6 +1187,26 @@
       "duration_ms": 348773,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
+        "name": "Live... This Is Your House",
+        "url": "https://open.spotify.com/album/0lnscqAVc3mOhZcbrR0UPU"
+      },
+      "artists": [
+        {
+          "name": "The Brooklyn Tabernacle Choir",
+          "url": "https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs"
+        },
+        {
+          "name": "Robin Giles",
+          "url": "https://open.spotify.com/artist/0gt7HlBDU64IOmHCo5IUn5"
+        }
+      ],
+      "duration_ms": 380866,
+      "name": "Jesus I Love You (Live)",
+      "url": "https://open.spotify.com/track/4hLaRpyVQwU3g1VggcSxPw"
     },
     {
       "added_at": "2026-04-04 06:06:32",

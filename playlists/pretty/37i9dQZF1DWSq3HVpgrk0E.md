@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSq3HVpgrk0E.md) - [plain]
 
 > The whole truth\. Cover: Rick Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,245 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,222 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSq3HVpgrk0E.md) - [plain]
 | 31 | [just say dat](https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 2:03 |
 | 32 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
 | 33 | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/track/1hoEI997iy6tutEfF5a9M6) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc), [CrashDummy](https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI) | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/album/2WeVQRmOQpmfSRt4MlpeK4) | 2:15 |
-| 34 | [Classy Girl](https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv) | [Turbo](https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Classy Girl](https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk) | 2:53 |
-| 35 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 |
+| 34 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 |
+| 35 | [Classy Girl](https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv) | [Turbo](https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Classy Girl](https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk) | 2:53 |
 | 36 | [at my purest \(feat\. Offset\)](https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:13 |
 | 37 | [Let's Do It \(feat\. Playboi Carti & Skooly\)](https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Skooly](https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 3:22 |
 | 38 | [CHAMPAIN & VACAY](https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:04 |

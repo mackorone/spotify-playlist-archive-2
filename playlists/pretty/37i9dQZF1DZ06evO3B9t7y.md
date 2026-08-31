@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 
 > This is Carín León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,160,279 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,160,399 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,17 +15,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 5 | [Según Quién](https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:22 |
 | 6 | [QUE VUELVAS](https://open.spotify.com/track/44vHtuBiZz2phwEwv1Rabu) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Comienzo](https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY) | 2:49 |
 | 7 | [Ahí Estabas Tú](https://open.spotify.com/track/3hwtMoZGYylPlecZGAdW6y) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 1:52 |
-| 8 | [Una Vida Pasada](https://open.spotify.com/track/2mLTxNa0bwZX8eNBsuODLX) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [cuatro](https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7) | 3:38 |
-| 9 | [Te Lo Agradezco](https://open.spotify.com/track/14k3Rb7Xgte9fsndjdenmq) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Lo Más Escuchado del 2023](https://open.spotify.com/album/3i1CjH1vT2s05QhuYKoxCE) | 3:03 |
-| 10 | [No Es Por Acá](https://open.spotify.com/track/6fplYq951Ltp6nIiTFcnCY) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 2:47 |
+| 8 | [Te Lo Agradezco](https://open.spotify.com/track/14k3Rb7Xgte9fsndjdenmq) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Lo Más Escuchado del 2023](https://open.spotify.com/album/3i1CjH1vT2s05QhuYKoxCE) | 3:03 |
+| 9 | [No Es Por Acá](https://open.spotify.com/track/6fplYq951Ltp6nIiTFcnCY) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 2:47 |
+| 10 | [Una Vida Pasada](https://open.spotify.com/track/2mLTxNa0bwZX8eNBsuODLX) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [cuatro](https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7) | 3:38 |
 | 11 | [Lado Frágil](https://open.spotify.com/track/4k1bSVbcm2S8f3AXNu1ikQ) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:43 |
 | 12 | [Ojos Cerrados](https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ojos Cerrados](https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0) | 3:00 |
-| 13 | [El Tóxico](https://open.spotify.com/track/41QD8eEf8HLLpy20d8j2Kx) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Tóxico](https://open.spotify.com/album/2kYTqAuJhgYQ0p4694Ve8s) | 2:59 |
-| 14 | [Ni Me Debes Ni Te Debo](https://open.spotify.com/track/1393rKYgZHNphZrdx1jWoN) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 2:49 |
+| 13 | [Ni Me Debes Ni Te Debo](https://open.spotify.com/track/1393rKYgZHNphZrdx1jWoN) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 2:49 |
+| 14 | [El Tóxico](https://open.spotify.com/track/41QD8eEf8HLLpy20d8j2Kx) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Tóxico](https://open.spotify.com/album/2kYTqAuJhgYQ0p4694Ve8s) | 2:59 |
 | 15 | [El Amor De Mi Herida](https://open.spotify.com/track/0QCTjU9xOvdDfe9LXEmxeT) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:07 |
 | 16 | [Despídase bien](https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:51 |
-| 17 | [Alch Si](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Alch Si](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 |
-| 18 | [Necesito Encontrarte](https://open.spotify.com/track/7Fge718eSrqrCmaJykEmsR) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:20 |
+| 17 | [Necesito Encontrarte](https://open.spotify.com/track/7Fge718eSrqrCmaJykEmsR) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:20 |
+| 18 | [Alch Si](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Alch Si](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 |
 | 19 | [Ese Vato No Te Queda](https://open.spotify.com/track/4Ndjd6DhKIC5IPoBIrMQuX) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ese Vato No Te Queda](https://open.spotify.com/album/4Z9Ib007Z7ZFmYLfyp2qH9) | 3:18 |
 | 20 | [Casi oficial](https://open.spotify.com/track/1tpTj9NAKWUFEabYfkzmRH) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:47 |
 | 21 | [El vino de tu boca](https://open.spotify.com/track/3EmjfGS6Qf5PwFhFlYsCc0) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El vino de tu boca](https://open.spotify.com/album/1OtgzBjIfr4RmvtkBI4tEP) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 49 | [Aunque tú no lo sepas](https://open.spotify.com/track/1sZzTN6MOnagdaHMd0n5lm) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:14 |
 | 50 | [La Morrita](https://open.spotify.com/track/29YP167FTBz8m3937YbKDw) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Morrita](https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev) | 2:34 |
 
-Snapshot ID: `apDPgAAAAABfHDK8huz6bOpgtHsivsvo`
+Snapshot ID: `apIhAAAAAABz5Ku4dk3+Tvt90ZxeXP6o`

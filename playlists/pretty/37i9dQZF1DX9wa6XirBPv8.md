@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 
 > feel it all\. Cover: Taking Back Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,921,293 likes - 125 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,921,468 likes - 125 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 70 | [About a Girl](https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr) | [The Academy Is...](https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu) | [Fast Times At Barrington High](https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ) | 3:30 |
 | 71 | [Catalina Fight Song](https://open.spotify.com/track/2TqfK2N1kFoX7OySPCB7pQ) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Never Hungover Again](https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf) | 1:05 |
 | 72 | [The Difference Between Medicine And Poison Is In The Dose](https://open.spotify.com/track/3SizB9Beb0HZHww3PjoXbQ) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [On Letting Go](https://open.spotify.com/album/4Chn7XF8fzngf9GPfTMXLz) | 4:17 |
-| 73 | [Note to Self](https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 3:53 |
-| 74 | [Understanding In A Car Crash](https://open.spotify.com/track/3U5TzKrZP6sqiR43LQArV7) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 4:24 |
+| 73 | [Understanding In A Car Crash](https://open.spotify.com/track/3U5TzKrZP6sqiR43LQArV7) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 4:24 |
+| 74 | [Note to Self](https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 3:53 |
 | 75 | [Punk Rock Princess](https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD) | [Leaving Through The Window](https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix) | 3:52 |
 | 76 | [Monsters](https://open.spotify.com/track/1UVffD20CfHJ2wD0x0as8L) | [Matchbook Romance](https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG) | [VOICES](https://open.spotify.com/album/79IVbDVMkef8jqxosbKcL2) | 4:03 |
 | 77 | [Stare At The Sun](https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 3:23 |
-| 78 | [Emily](https://open.spotify.com/track/15n4p6R6Tuht5KAgK3g3IX) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 2:39 |
-| 79 | [Beating Heart Baby](https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n) | [Head Automatica](https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i) | [Decadence](https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6) | 3:23 |
+| 78 | [Beating Heart Baby](https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n) | [Head Automatica](https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i) | [Decadence](https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6) | 3:23 |
+| 79 | [Emily](https://open.spotify.com/track/15n4p6R6Tuht5KAgK3g3IX) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 2:39 |
 | 80 | [The Mixed Tape \- 2015 Remastered](https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc) | [Jack's Mannequin](https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD) | [Everything In Transit](https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM) | 3:14 |
 | 81 | [Act Appalled](https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [Juturna](https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP) | 3:20 |
 | 82 | [Falling in Love Again](https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Never Hungover Again](https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf) | 2:28 |

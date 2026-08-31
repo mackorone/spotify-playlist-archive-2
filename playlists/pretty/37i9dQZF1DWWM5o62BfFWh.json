@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica que representa a Cuba! Cover: IAmChino, Pitbull & Gente de Zona",
-  "num_followers": 167820,
+  "num_followers": 167847,
   "original_name": "Hecho en Cuba",
   "owner": {
     "name": "Spotify",
@@ -951,26 +951,6 @@
     {
       "added_at": "2026-08-14 04:01:33",
       "album": {
-        "name": "De Ping4",
-        "url": "https://open.spotify.com/album/75LHeZMkEZP1Nkwbum0kKg"
-      },
-      "artists": [
-        {
-          "name": "Wow Popy",
-          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
-        },
-        {
-          "name": "Charaway",
-          "url": "https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy"
-        }
-      ],
-      "duration_ms": 177762,
-      "name": "De Ping4",
-      "url": "https://open.spotify.com/track/0TZx2Nlsrgrsv9Dm88pmn0"
-    },
-    {
-      "added_at": "2026-08-14 04:01:33",
-      "album": {
         "name": "10 \u00c9xitos Duros",
         "url": "https://open.spotify.com/album/1AQFotaUbgyNHEg7BzgGPo"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 201000,
       "name": "Washypupa",
       "url": "https://open.spotify.com/track/2hjFPnrrbOk13flhIo2LuN"
+    },
+    {
+      "added_at": "2026-08-14 04:01:33",
+      "album": {
+        "name": "De Ping4",
+        "url": "https://open.spotify.com/album/75LHeZMkEZP1Nkwbum0kKg"
+      },
+      "artists": [
+        {
+          "name": "Wow Popy",
+          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
+        },
+        {
+          "name": "Charaway",
+          "url": "https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy"
+        }
+      ],
+      "duration_ms": 177762,
+      "name": "De Ping4",
+      "url": "https://open.spotify.com/track/0TZx2Nlsrgrsv9Dm88pmn0"
     },
     {
       "added_at": "2026-08-14 04:01:33",

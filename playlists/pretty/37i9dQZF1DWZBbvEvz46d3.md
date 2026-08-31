@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,242 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,251 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,14 +36,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 26 | [Dzień dobry, kocham Cię](https://open.spotify.com/track/6FBPQuYFZIne5cpTASUOGR) | [Strachy Na Lachy](https://open.spotify.com/artist/4DXXg7xzgKAEYeFhh9wAtk) | [Piła tango](https://open.spotify.com/album/1TkJO8CCaeMHvEU4ybrmgx) | 3:21 |
 | 27 | [Wszystko mi mówi, że mnie ktoś pokochał](https://open.spotify.com/track/5S115BRg8EghKqq1D0Wx9J) | [Skaldowie](https://open.spotify.com/artist/7rPv4DjafGL4EBCatx4t8U) | [Z kopyta kulig rwie \(The best\)](https://open.spotify.com/album/3nIP8bSSU0HtA1ZJhzvTz4) | 2:25 |
 | 28 | [Nim Zajdzie Słońce](https://open.spotify.com/track/1NtvjagHJRLQogzWVhpghv) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A), [Filip Leon](https://open.spotify.com/artist/3iBwYiThZoCMOWt0Vc69gv), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Nim Zajdzie Słońce](https://open.spotify.com/album/5WnfW3ixclewUIAMAFfiDO) | 2:27 |
-| 29 | [Najnowszy Klip](https://open.spotify.com/track/35UvOH0tRlSCdtWtaXuiWh) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Małomiasteczkowy](https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX) | 3:49 |
+| 29 | [Lubię wracać tam gdzie byłem](https://open.spotify.com/track/4sHTqR2RQGsH5pSFqtXroU) | [Zbigniew Wodecki](https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn) | [Zacznij od Bacha \(The Best\)](https://open.spotify.com/album/28orFXW0fOsrXHRnhFyNoo) | 4:22 |
 | 30 | [Cześć, jak się masz?](https://open.spotify.com/track/6sKg6jzvmiNAVsJRl8MaDE) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [PUŁAPKA NA MOTYLE \(DELUXE EDITION\)](https://open.spotify.com/album/6dJDSE3TIoXf8Xwaisq4Nj) | 3:21 |
-| 31 | [Lubię wracać tam gdzie byłem](https://open.spotify.com/track/4sHTqR2RQGsH5pSFqtXroU) | [Zbigniew Wodecki](https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn) | [Zacznij od Bacha \(The Best\)](https://open.spotify.com/album/28orFXW0fOsrXHRnhFyNoo) | 4:22 |
+| 31 | [Najnowszy Klip](https://open.spotify.com/track/35UvOH0tRlSCdtWtaXuiWh) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Małomiasteczkowy](https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX) | 3:49 |
 | 32 | [Słucham Cię w radiu co tydzień](https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [Ania Karwan](https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA) | 3:17 |
 | 33 | [Peron](https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d) | [Jamal](https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3) | [Milosc](https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB) | 3:15 |
 | 34 | [Melodia](https://open.spotify.com/track/3xlk3SVStmEGEWx5FtqpkW) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Królowa dram](https://open.spotify.com/album/57y8HhpAZJ7SkeetSXvTya) | 3:03 |
-| 35 | [Trójkąty i Kwadraty](https://open.spotify.com/track/3v0fVON6z5CnRlle3SJZU1) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Comfort and Happiness](https://open.spotify.com/album/3Ku50CLulJHPS5DTKRNyaM) | 4:03 |
-| 36 | [Tęskno Mi](https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Zakryj \(Deluxe\)](https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T) | 3:35 |
+| 35 | [Tęskno Mi](https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Zakryj \(Deluxe\)](https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T) | 3:35 |
+| 36 | [Trójkąty i Kwadraty](https://open.spotify.com/track/3v0fVON6z5CnRlle3SJZU1) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Comfort and Happiness](https://open.spotify.com/album/3Ku50CLulJHPS5DTKRNyaM) | 4:03 |
 | 37 | [Księżniczka](https://open.spotify.com/track/7Hd16iz8di8JQkdNkajYJ4) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Komponując siebie](https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh) | 3:04 |
 | 38 | [Miales Byc](https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Album](https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E) | 3:29 |
 | 39 | [Kocham cię jak irlandię](https://open.spotify.com/track/4fJGiLOU3etMQTOE3HFIEz) | [Kobranocka](https://open.spotify.com/artist/55bqpWJMazkqj8A3iziuuF) | [Póki to nie zabronione \(The Best\)](https://open.spotify.com/album/7xCZKYPaLXg3G23Ci7a71V) | 4:54 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 55 | [My](https://open.spotify.com/track/7JwyKyBWo65WaJA6zcYxjR) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [Miłość w czasach popkultury](https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ) | 3:26 |
 | 56 | [Smak słów](https://open.spotify.com/track/41MO9m7z2mECLpwpX340NU) | [Goya](https://open.spotify.com/artist/3ppWDN3lGw7UOGY7z2EQLB) | [Smak Slów](https://open.spotify.com/album/1RIh9Iefgwd46J99dRnTez) | 3:59 |
 | 57 | [O nich, o Tobie](https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [O nich, o Tobie](https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r) | 2:27 |
-| 58 | [Pomimo Burz](https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M) | [Antek Smykiewicz](https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863) | [Nasz Film \(Deluxe Edition\)](https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T) | 3:22 |
-| 59 | [Ostatni](https://open.spotify.com/track/4EbrkWbN93ZMN6bCiol0YX) | [Edyta Bartosiewicz](https://open.spotify.com/artist/1MrKvFb6ie6bTXGpSEYx0g) | [Szok 'N' Show](https://open.spotify.com/album/13Lel55hdHNJejfro8RJKH) | 5:04 |
+| 58 | [Ostatni](https://open.spotify.com/track/4EbrkWbN93ZMN6bCiol0YX) | [Edyta Bartosiewicz](https://open.spotify.com/artist/1MrKvFb6ie6bTXGpSEYx0g) | [Szok 'N' Show](https://open.spotify.com/album/13Lel55hdHNJejfro8RJKH) | 5:04 |
+| 59 | [Pomimo Burz](https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M) | [Antek Smykiewicz](https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863) | [Nasz Film \(Deluxe Edition\)](https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T) | 3:22 |
 | 60 | [Niewiele Ci Mogę Dać](https://open.spotify.com/track/2h37uUs82DHQglGauJkMRD) | [Perfect](https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ) | [Perfect](https://open.spotify.com/album/4ZKi2ftayn5Qv9SmXTIGAb) | 3:43 |
 | 61 | [Byle jak](https://open.spotify.com/track/6cdL3GhIlJZaAXo4Khijwg) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Monkey Business](https://open.spotify.com/album/5Ig1N32hUUC4dZFltNQtjb) | 3:00 |
 | 62 | [Znam cie na pamiec](https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Moje piosenki edycja zwykla](https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj) | 3:23 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 72 | [Safari](https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN) | [Piotr Zioła](https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB) | [Revolving Door](https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88) | 3:36 |
 | 73 | [Zamienię cię](https://open.spotify.com/track/38TfzGmItoEUpJs4kVpqq3) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [NATinterpretacje](https://open.spotify.com/album/6PojSY8WZEY6Pbr9eQmrtV) | 3:04 |
 | 74 | [Dobry moment](https://open.spotify.com/track/7KXirs6fb0RDI8Q4DK6naY) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Mój dom](https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ) | 4:11 |
-| 75 | [Zabierz tę miłość \(Storytel "Random"\)](https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj) | [Maciej Musiałowski](https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN), [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Zabierz tę miłość \(Storytel "Random"\)](https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw) | 4:09 |
+| 75 | [Zapomnij Mi](https://open.spotify.com/track/5Dk03tfXBF8zYlJOUSaKe9) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Zapomnij Mi](https://open.spotify.com/album/3II6EqtqCnYV5IPW0axuOn) | 3:37 |
 
 Snapshot ID: `AAAAAKsOD43Db0CMRG8jiGpRse3ka3mA`

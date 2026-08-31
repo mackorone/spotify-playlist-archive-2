@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xC36w.md) - [plain]
 
 > This is Joan Sebastian\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,027,599 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,027,704 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xC36w.md) - [plain]
 | 36 | [Llorar](https://open.spotify.com/track/0IGlHKJ7Q5LGynrnugorck) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Mariachi](https://open.spotify.com/album/1jYXfyqPjptyl9xuiNu42Z) | 2:39 |
 | 37 | [Tiernas Mentiras](https://open.spotify.com/track/1elLceQ9yD7ZQwhJsSxjXb) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Alza El Vuelo](https://open.spotify.com/album/6UShlJGWod3wfFwauvmF1t) | 2:52 |
 | 38 | [Melodía Para Dos](https://open.spotify.com/track/623Lx99JwTGxEivWzNIyX0) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Éxitos](https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2) | 3:06 |
-| 39 | [Ojitos De Golondrina](https://open.spotify.com/track/5m5g55OSy0kQnaxKU4lZ11) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 2:19 |
-| 40 | [Muchachita De Ojos Claros](https://open.spotify.com/track/6KHHFJARqCRhevKe3ozHct) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Tambora, Vol\. 2](https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ) | 2:13 |
+| 39 | [Muchachita De Ojos Claros](https://open.spotify.com/track/6KHHFJARqCRhevKe3ozHct) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Tambora, Vol\. 2](https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ) | 2:13 |
+| 40 | [Ojitos De Golondrina](https://open.spotify.com/track/5m5g55OSy0kQnaxKU4lZ11) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 2:19 |
 | 41 | [Manantial De Llanto](https://open.spotify.com/track/2ddqucsZ04B82NxZcXPVsw) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mis Baladas Favoritas](https://open.spotify.com/album/7Db7VCq3IQIgkzJxdsvQSy) | 3:28 |
 | 42 | [Pirata](https://open.spotify.com/track/0TsaZiBZQrnRv7evhnSNd5) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mis Nuevas Baladas](https://open.spotify.com/album/2h3DQl3byNnb8XWKG47QIJ) | 3:08 |
 | 43 | [Juanita \(Flor De Walamo\)](https://open.spotify.com/track/242lyf8OjxomhjLpeas75s) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xC36w.md) - [plain]
 | 49 | [Me La Escondieron Sus Padres](https://open.spotify.com/track/1Ke5g7pgyPRt5xaO5OBBhN) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 3:23 |
 | 50 | [La Prietita Que Yo Quiero](https://open.spotify.com/track/69O3Bdh6vBYY3cN3BwTH2Y) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Tambora, Vol\. 2](https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ) | 2:49 |
 
-Snapshot ID: `apDPgAAAAADZJgOtDo1rEKK2YcUU4vkE`
+Snapshot ID: `apIhAAAAAADY4A/miWaQRMCv+i34oxHf`

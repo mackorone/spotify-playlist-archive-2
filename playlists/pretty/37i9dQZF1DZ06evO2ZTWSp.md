@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,205 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,186 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 41 | [IRL \(FEAT\. SZA\)](https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:44 |
 | 42 | [Better in Color](https://open.spotify.com/track/0bt3YJTupDqdTKpnFFgs7f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:13 |
 | 43 | [Karaoke \(feat\. Lizzo\)](https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [3rd Ward Bounce](https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj) | 3:05 |
-| 44 | [Scuse Me](https://open.spotify.com/track/26Q7f4tUntDtlL4EyZz65X) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 3:24 |
+| 44 | [Stairway To Heaven](https://open.spotify.com/track/4GSesDykx8IoiyvU8hLQkB) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sasha Flute](https://open.spotify.com/artist/0g0F72umHz8PinSfuFZfHs) | [Rockstar](https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2) | 7:48 |
 | 45 | [STILL CANT FUH \(FEAT\. DOJA CAT\)](https://open.spotify.com/track/64WutS3mx1cgLmkWl5EZJK) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:42 |
-| 46 | [Stairway To Heaven](https://open.spotify.com/track/4GSesDykx8IoiyvU8hLQkB) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sasha Flute](https://open.spotify.com/artist/0g0F72umHz8PinSfuFZfHs) | [Rockstar](https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2) | 7:48 |
+| 46 | [Scuse Me](https://open.spotify.com/track/26Q7f4tUntDtlL4EyZz65X) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 3:24 |
 | 47 | [Phone](https://open.spotify.com/track/61yntOSHzW2kTeEsLhOH9c) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Phone](https://open.spotify.com/album/2MiUqzCCfWD0hLJvQXfBG2) | 2:49 |
-| 48 | [Worship](https://open.spotify.com/track/5D9Nw6HyFH0k40X8RxHfD6) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 2:57 |
-| 49 | [Juice \- Breakbot Mix](https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Juice \(Breakbot Mix\)](https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB) | 2:52 |
-| 50 | [Let 'em Say](https://open.spotify.com/track/6Ndj40A1dST0cNepDboAKJ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Caroline Smith](https://open.spotify.com/artist/47blM5Op3BJODxUJImwdYE) | [Let 'em Say](https://open.spotify.com/album/2NV6a02l650uM2IxqyMJsp) | 3:20 |
+| 48 | [Juice \- Breakbot Mix](https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Juice \(Breakbot Mix\)](https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB) | 2:52 |
+| 49 | [Let 'em Say](https://open.spotify.com/track/6Ndj40A1dST0cNepDboAKJ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Caroline Smith](https://open.spotify.com/artist/47blM5Op3BJODxUJImwdYE) | [Let 'em Say](https://open.spotify.com/album/2NV6a02l650uM2IxqyMJsp) | 3:20 |
+| 50 | [Worship](https://open.spotify.com/track/5D9Nw6HyFH0k40X8RxHfD6) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 2:57 |
 
-Snapshot ID: `apDPgAAAAAC/8JPylHJjU8jOdrZGeeEk`
+Snapshot ID: `apIhAAAAAADwsTUIUGsjTv3W7Y8S9okF`

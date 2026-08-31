@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 118326,
+  "num_followers": 118333,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABcAOMj1dJFNj93YDDEPiD1",
+  "snapshot_id": "apIhAAAAAADBtZ4H6/MWnX3/TiYjeVQM",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ayer & Hoy",
-        "url": "https://open.spotify.com/album/6R0IH7A8RtsCl3HXOI7aiR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 155008,
-      "name": "Ayer & Hoy",
-      "url": "https://open.spotify.com/track/3Z8dLMmpusKUZNLotCMH0V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Llamada Al Cielo",
         "url": "https://open.spotify.com/album/7ag9j0bMqgDaL5oSlh0fZD"
       },
@@ -215,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ayer & Hoy",
+        "url": "https://open.spotify.com/album/6R0IH7A8RtsCl3HXOI7aiR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 155008,
+      "name": "Ayer & Hoy",
+      "url": "https://open.spotify.com/track/3Z8dLMmpusKUZNLotCMH0V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
       },
@@ -225,7 +225,7 @@
         }
       ],
       "duration_ms": 167211,
-      "name": "Celos Del Viento (En vivo)",
+      "name": "Celos Del Viento - En vivo",
       "url": "https://open.spotify.com/track/68Hq2EtftSiWf5lRRfIbsc"
     },
     {
@@ -309,7 +309,7 @@
         }
       ],
       "duration_ms": 162048,
-      "name": "El Mochomo (En vivo)",
+      "name": "El Mochomo - En vivo",
       "url": "https://open.spotify.com/track/3rBfXOCyxYSrvIq5LSc9h2"
     },
     {
@@ -361,7 +361,7 @@
         }
       ],
       "duration_ms": 221504,
-      "name": "Coraz\u00f3n Ranchero (En Vivo)",
+      "name": "Coraz\u00f3n Ranchero - En Vivo",
       "url": "https://open.spotify.com/track/5Y7ph3ZXDOOAShgLyKLsHb"
     },
     {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 153344,
-      "name": "La Linea Directa (En Vivo)",
-      "url": "https://open.spotify.com/track/6xvbYCizfFTX6tn3N7iRbL"
+      "duration_ms": 189738,
+      "name": "Chuyito y el Mayo - En Vivo",
+      "url": "https://open.spotify.com/track/1MJ3hyAnpTrajRRToGInF2"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 189738,
-      "name": "Chuyito y el Mayo (En Vivo)",
-      "url": "https://open.spotify.com/track/1MJ3hyAnpTrajRRToGInF2"
+      "duration_ms": 153344,
+      "name": "La Linea Directa - En Vivo",
+      "url": "https://open.spotify.com/track/6xvbYCizfFTX6tn3N7iRbL"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Playa",
-        "url": "https://open.spotify.com/album/6w6RCUcKd1oiSK6eE2TBY1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 226208,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/7qi4z99o4xMAYhcVOZrfDz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta La Caja Cuesta",
         "url": "https://open.spotify.com/album/4u0jPQcfzJhe0a9kwSspky"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 173760,
       "name": "Hasta La Caja Cuesta",
       "url": "https://open.spotify.com/track/6Wh9RDEd5wjWETZNWkwt1F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Playa",
+        "url": "https://open.spotify.com/album/6w6RCUcKd1oiSK6eE2TBY1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 226208,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/7qi4z99o4xMAYhcVOZrfDz"
     },
     {
       "added_at": null,
@@ -633,7 +633,7 @@
         }
       ],
       "duration_ms": 143680,
-      "name": "Ismael (En Vivo)",
+      "name": "Ismael - En Vivo",
       "url": "https://open.spotify.com/track/76ykOZkFwSlRNsTyQ8hib0"
     },
     {
@@ -649,7 +649,7 @@
         }
       ],
       "duration_ms": 149696,
-      "name": "La Pasadita (En vivo)",
+      "name": "La Pasadita - En vivo",
       "url": "https://open.spotify.com/track/2l9grS1b0xzLCKTWdWqeeO"
     },
     {
@@ -665,7 +665,7 @@
         }
       ],
       "duration_ms": 185973,
-      "name": "El Mas Poderoso (En Vivo)",
+      "name": "El Mas Poderoso - En Vivo",
       "url": "https://open.spotify.com/track/2Dgl2lWN7geG4QxG81XtKp"
     },
     {
@@ -749,7 +749,7 @@
         }
       ],
       "duration_ms": 170410,
-      "name": "El Chivo Tatemado (En Vivo)",
+      "name": "El Chivo Tatemado - En Vivo",
       "url": "https://open.spotify.com/track/7GYWEcRh7ztQJNC7JGRg72"
     },
     {
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras De Servando ZL (En Vivo)",
-        "url": "https://open.spotify.com/album/1ui4Jxl8OkWi7GaKnkyYGU"
+        "name": "Ya No Puedo Con Esto",
+        "url": "https://open.spotify.com/album/0qkgWGO8CiNBF5R4TFoPVs"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 195840,
-      "name": "El Sultan",
-      "url": "https://open.spotify.com/track/4f1M1VZzl83tWeV6CyBGLj"
+      "duration_ms": 149952,
+      "name": "Ya No Puedo Con Esto",
+      "url": "https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puras De Servando ZL (En Vivo)",
+        "url": "https://open.spotify.com/album/1ui4Jxl8OkWi7GaKnkyYGU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "El Sultan",
+      "url": "https://open.spotify.com/track/4f1M1VZzl83tWeV6CyBGLj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
       },
@@ -813,44 +829,8 @@
         }
       ],
       "duration_ms": 167168,
-      "name": "Los Consejos (En vivo)",
+      "name": "Los Consejos - En vivo",
       "url": "https://open.spotify.com/track/579bSgsArdvofFwKRQgimo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya No Puedo Con Esto",
-        "url": "https://open.spotify.com/album/0qkgWGO8CiNBF5R4TFoPVs"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 149952,
-      "name": "Ya No Puedo Con Esto",
-      "url": "https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gustoso Y Contento (En Vivo)",
-        "url": "https://open.spotify.com/album/1hcmRYDs73U5kqweVzy7vE"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 153640,
-      "name": "Gustoso Y Contento (En Vivo)",
-      "url": "https://open.spotify.com/track/3vD7rRP6RitDcgJxPIOns3"
     },
     {
       "added_at": null,
@@ -871,6 +851,26 @@
       "duration_ms": 175162,
       "name": "Confidencial",
       "url": "https://open.spotify.com/track/2bnCDuFUHgg8d3ioiCFE63"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gustoso Y Contento (En Vivo)",
+        "url": "https://open.spotify.com/album/1hcmRYDs73U5kqweVzy7vE"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 153640,
+      "name": "Gustoso Y Contento (En Vivo)",
+      "url": "https://open.spotify.com/track/3vD7rRP6RitDcgJxPIOns3"
     }
   ],
   "unique_name": "This Is Grupo Arriesgado",

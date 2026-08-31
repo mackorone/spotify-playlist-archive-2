@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1uuASu7T9L.md) - [plain]
 
 > Be there and be square\. Listen to the music from A Minecraft Movie, now in theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,066 likes - 35 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,292 likes - 35 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1uuASu7T9L.md) - [plain]
 | 12 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 |
 | 13 | [Private Idaho](https://open.spotify.com/track/1y5V5qja332UyMeUurFhDS) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Wild Planet](https://open.spotify.com/album/1K4t7Jv7DuolDWnFLxKxkd) | 3:36 |
 | 14 | [Dragon Fish](https://open.spotify.com/track/5E1uIsXFq0ojB0pka8QtVP) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Dragon Fish](https://open.spotify.com/album/7DcU72b28aV55qSggfFDgU) | 6:12 |
-| 15 | [Pigstep \(Stereo Mix\)](https://open.spotify.com/track/2TmUt0ofWMa02MdYkKhK4C) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft: Nether Update \(Original Game Soundtrack\)](https://open.spotify.com/album/0Q4LP9lkODPwHGCXZJJ3Rz) | 2:29 |
+| 15 | [Pigstep \- Stereo Mix](https://open.spotify.com/track/2TmUt0ofWMa02MdYkKhK4C) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft: Nether Update \(Original Game Soundtrack\)](https://open.spotify.com/album/0Q4LP9lkODPwHGCXZJJ3Rz) | 2:29 |
 | 16 | [Steve's Lava Chicken \- Extended Version](https://open.spotify.com/track/26c8pvUxWO1FhxbGM1k8fJ) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [I...Am Steve \(Bonus Songs from "A Minecraft Movie" Soundtrack\)](https://open.spotify.com/album/0MbxnPC8K45uPy1xzk9Tos) | 1:15 |
 | 17 | [Birthday Rap \- Extended Version](https://open.spotify.com/track/1jx5cQkYCEgDKl6DAC2k8q) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T), [Jason Momoa](https://open.spotify.com/artist/1lmCTCDCIJzczakwpriIjq) | [I...Am Steve \(Bonus Songs from "A Minecraft Movie" Soundtrack\)](https://open.spotify.com/album/0MbxnPC8K45uPy1xzk9Tos) | 1:00 |
 | 18 | [Ode to Dennis \- Extended Version](https://open.spotify.com/track/0EJ65EB2bSMlhfkTZWuvkM) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [I...Am Steve \(Bonus Songs from "A Minecraft Movie" Soundtrack\)](https://open.spotify.com/album/0MbxnPC8K45uPy1xzk9Tos) | 3:25 |

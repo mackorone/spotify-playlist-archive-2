@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 
 > This is Elevation Worship\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,141 likes - 50 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,216 likes - 50 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [God I'm Just Grateful / Sure Been Good](https://open.spotify.com/track/4B3aehbcjZDzJV85v6CUw6) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Promise & Presence](https://open.spotify.com/album/06o4R0pXjpe38O18SQgDUv) | 7:44 |
 | 2 | [Praise \(feat\. Brandon Lake, Chris Brown & Chandler Moore\)](https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:04 |
 | 3 | [God I'm Just Grateful](https://open.spotify.com/track/2ggP6WjaTsloaiBxXY5JB7) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [God I'm Just Grateful](https://open.spotify.com/album/5FTiQxhX4OfMF5YjStmIt6) | 4:59 |
-| 4 | [Worthy](https://open.spotify.com/track/7qqtTPQIMXAFubamFBPHG5) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Hallelujah Here Below](https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC) | 6:11 |
-| 5 | [O Come to the Altar \(Live\)](https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 5:49 |
+| 4 | [O Come to the Altar \(Live\)](https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 5:49 |
+| 5 | [Worthy](https://open.spotify.com/track/7qqtTPQIMXAFubamFBPHG5) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Hallelujah Here Below](https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC) | 6:11 |
 | 6 | [Jesus Be The Name \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/50irUgP4UUg2s90ULqMGxe) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Jesus Be The Name](https://open.spotify.com/album/21G0r4XKJfMmOSvpzaZ38T) | 8:59 |
 | 7 | [Trust In God \(feat\. Chris Brown\)](https://open.spotify.com/track/4f7HKpJheSmV2WeoMjNH2z) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 7:22 |
 | 8 | [Lo Harás Otra Vez \(Do It Again\)](https://open.spotify.com/track/3vcfHBHNmN5LG8otn8j4Kg) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Lo Harás Otra Vez](https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx) | 6:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 49 | [Sure Been Good \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/17qx4XW3tI8BkGhZseXzsQ) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [When Wind Meets Fire](https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0) | 7:32 |
 | 50 | [So So Good \- Live](https://open.spotify.com/track/3uNx9NvRHm60mDwOBFCkqg) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [So So Good \(Live\)](https://open.spotify.com/album/4dZx4AIFmNQo4KCUyhY3ru) | 4:48 |
 
-Snapshot ID: `apDPgAAAAADu+ZfjvuJmBIlPKJU3sqPA`
+Snapshot ID: `apIhAAAAAAAKGgbpFsESdHZhoA1YHnSk`

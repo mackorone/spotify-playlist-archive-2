@@ -1,6 +1,6 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 42734,
+  "num_followers": 42746,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,38 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
+        "name": "Rossini: Stabat Mater",
+        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Howard Arman",
+          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
+        },
+        {
+          "name": "Rosa Feola",
+          "url": "https://open.spotify.com/artist/45TDHhSjYdkp1bSHmBL4SE"
+        },
+        {
+          "name": "Bavarian Radio Chorus",
+          "url": "https://open.spotify.com/artist/536pGG9V0mbcKOSgw37g4m"
+        },
+        {
+          "name": "Munich Radio Orchestra",
+          "url": "https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX"
+        }
+      ],
+      "duration_ms": 272176,
+      "name": "Stabat Mater: VIII. Inflammatus (Aria and Chorus)",
+      "url": "https://open.spotify.com/track/1RCsmuaklRkbbVzD1I0AQM"
+    },
+    {
+      "added_at": "2025-12-15 11:47:15",
+      "album": {
         "name": "Rossini: Stabat Mater & Petite messe solennelle",
         "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
       },
@@ -403,38 +435,6 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
-        "name": "Rossini: Stabat Mater",
-        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Howard Arman",
-          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
-        },
-        {
-          "name": "Rosa Feola",
-          "url": "https://open.spotify.com/artist/45TDHhSjYdkp1bSHmBL4SE"
-        },
-        {
-          "name": "Bavarian Radio Chorus",
-          "url": "https://open.spotify.com/artist/536pGG9V0mbcKOSgw37g4m"
-        },
-        {
-          "name": "Munich Radio Orchestra",
-          "url": "https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX"
-        }
-      ],
-      "duration_ms": 272176,
-      "name": "Stabat Mater: VIII. Inflammatus (Aria and Chorus)",
-      "url": "https://open.spotify.com/track/1RCsmuaklRkbbVzD1I0AQM"
-    },
-    {
-      "added_at": "2025-12-15 11:47:15",
-      "album": {
         "name": "Rossini: La Cenerentola",
         "url": "https://open.spotify.com/album/7Ls1fcaC61JEMXHxeoR7CZ"
       },
@@ -463,30 +463,6 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
-        "name": "Rossini: Il Barbiere di Siviglia",
-        "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Bavarian Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
-        },
-        {
-          "name": "Bruno Bartoletti",
-          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Il barbiere di Siviglia / Act 2: No. 15 Temporale (Thunderstorm)",
-      "url": "https://open.spotify.com/track/3mb8XLlJgkjq2gpuS8coAc"
-    },
-    {
-      "added_at": "2025-12-15 11:47:15",
-      "album": {
         "name": "Rossini: String Sonatas, Vol.2",
         "url": "https://open.spotify.com/album/660Q1nlgVtVI4S94fJ3Eiu"
       },
@@ -511,6 +487,30 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
+        "name": "Rossini: Il Barbiere di Siviglia",
+        "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Bavarian Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
+        },
+        {
+          "name": "Bruno Bartoletti",
+          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Il barbiere di Siviglia / Act 2: No. 15 Temporale (Thunderstorm)",
+      "url": "https://open.spotify.com/track/3mb8XLlJgkjq2gpuS8coAc"
+    },
+    {
+      "added_at": "2025-12-15 11:47:15",
+      "album": {
         "name": "Rossini: Giovanna d'Arco; 19 songs",
         "url": "https://open.spotify.com/album/3VVwrNDAiowYFUeK5DSYZQ"
       },
@@ -531,6 +531,34 @@
       "duration_ms": 215000,
       "name": "La regata veneziana: 1. Anzoleta avanti la regata",
       "url": "https://open.spotify.com/track/0Xe9mqXpAHD95aCsCVjloG"
+    },
+    {
+      "added_at": "2025-12-15 11:47:15",
+      "album": {
+        "name": "Rossini : La Cenerentola",
+        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Gino Quilico, Alessandro Corbelli, Carlo Rizzi & Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/76MVvxZAk9mjNNC704sbaP"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        }
+      ],
+      "duration_ms": 308200,
+      "name": "Rossini : La Cenerentola : Act 2 \"Un segreto d'importanza\" [Dandini, Magnifico]",
+      "url": "https://open.spotify.com/track/2ZTw17KDKjQ3n3ZiavK7AP"
     },
     {
       "added_at": "2025-12-15 11:47:15",
@@ -563,34 +591,6 @@
       "duration_ms": 240911,
       "name": "Stabat Mater: V. Eia, mater (Recitativo and Chorus)",
       "url": "https://open.spotify.com/track/4Vi8wbc8tu3HDfbjmZqNFk"
-    },
-    {
-      "added_at": "2025-12-15 11:47:15",
-      "album": {
-        "name": "Rossini : La Cenerentola",
-        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Gino Quilico, Alessandro Corbelli, Carlo Rizzi & Orchestra of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/76MVvxZAk9mjNNC704sbaP"
-        },
-        {
-          "name": "Carlo Rizzi",
-          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
-        },
-        {
-          "name": "Orchestra of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
-        }
-      ],
-      "duration_ms": 308200,
-      "name": "Rossini : La Cenerentola : Act 2 \"Un segreto d'importanza\" [Dandini, Magnifico]",
-      "url": "https://open.spotify.com/track/2ZTw17KDKjQ3n3ZiavK7AP"
     },
     {
       "added_at": "2025-12-15 11:47:15",
@@ -743,34 +743,6 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
-        "name": "Rossini: La Cenerentola: \"S\u00ec, ritrovarla io giuro\"",
-        "url": "https://open.spotify.com/album/0Fu4PprYuEWD0ozDUxiaAk"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Javier Camarena",
-          "url": "https://open.spotify.com/artist/13rDolPZ1xlUWBQWxl8cED"
-        },
-        {
-          "name": "Les Musiciens du Prince-Monaco",
-          "url": "https://open.spotify.com/artist/6vrSw7bfBpO2M9Ws9EBYAk"
-        },
-        {
-          "name": "Gianluca Capuano",
-          "url": "https://open.spotify.com/artist/6UkKvedfOGG4IlpiWSAbU1"
-        }
-      ],
-      "duration_ms": 356106,
-      "name": "La Cenerentola: \"S\u00ec, ritrovarla io giuro\"",
-      "url": "https://open.spotify.com/track/6pYyblvk9Q2O4PoUKN4mna"
-    },
-    {
-      "added_at": "2025-12-15 11:47:15",
-      "album": {
         "name": "Mendelssohn, Rossini and Bruch: Works for Clarinet and Orchestra",
         "url": "https://open.spotify.com/album/60FU2wGKY059HcMOQa4ugc"
       },
@@ -795,6 +767,34 @@
       "duration_ms": 499626,
       "name": "Variazzioni di clarinetto in C Major",
       "url": "https://open.spotify.com/track/1UERWmNIaSWiGKfElxFqgj"
+    },
+    {
+      "added_at": "2025-12-15 11:47:15",
+      "album": {
+        "name": "Rossini: La Cenerentola: \"S\u00ec, ritrovarla io giuro\"",
+        "url": "https://open.spotify.com/album/0Fu4PprYuEWD0ozDUxiaAk"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Javier Camarena",
+          "url": "https://open.spotify.com/artist/13rDolPZ1xlUWBQWxl8cED"
+        },
+        {
+          "name": "Les Musiciens du Prince-Monaco",
+          "url": "https://open.spotify.com/artist/6vrSw7bfBpO2M9Ws9EBYAk"
+        },
+        {
+          "name": "Gianluca Capuano",
+          "url": "https://open.spotify.com/artist/6UkKvedfOGG4IlpiWSAbU1"
+        }
+      ],
+      "duration_ms": 356106,
+      "name": "La Cenerentola: \"S\u00ec, ritrovarla io giuro\"",
+      "url": "https://open.spotify.com/track/6pYyblvk9Q2O4PoUKN4mna"
     },
     {
       "added_at": "2025-12-15 11:47:15",
@@ -1191,30 +1191,6 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
-        "name": "Rossini: Il Barbiere di Siviglia",
-        "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Bavarian Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
-        },
-        {
-          "name": "Bruno Bartoletti",
-          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
-        }
-      ],
-      "duration_ms": 419000,
-      "name": "Il barbiere di Siviglia: Overture (Sinfonia)",
-      "url": "https://open.spotify.com/track/18l95nUQWWV6RU2gLCbrjN"
-    },
-    {
-      "added_at": "2025-12-15 11:47:15",
-      "album": {
         "name": "The Spectacular Voice of Marilyn Horne",
         "url": "https://open.spotify.com/album/44vDKyQpP96DJw1cWVzaS1"
       },
@@ -1239,6 +1215,30 @@
       "duration_ms": 452000,
       "name": "La Cenerentola / Act 2: \"Nacqui all'affanno e al pianto...Non pi\u00f9 mesta\"",
       "url": "https://open.spotify.com/track/10pr0TJcYy0vW9p18BlpHd"
+    },
+    {
+      "added_at": "2025-12-15 11:47:15",
+      "album": {
+        "name": "Rossini: Il Barbiere di Siviglia",
+        "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Bavarian Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
+        },
+        {
+          "name": "Bruno Bartoletti",
+          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
+        }
+      ],
+      "duration_ms": 419000,
+      "name": "Il barbiere di Siviglia: Overture (Sinfonia)",
+      "url": "https://open.spotify.com/track/18l95nUQWWV6RU2gLCbrjN"
     },
     {
       "added_at": "2025-12-15 11:47:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,908 likes - 47 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,916 likes - 48 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,6 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 44 | [Over The Rainbow](https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 3:12 |
 | 45 | [Lullaby Tres](https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Lullaby Tres](https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3) | 2:04 |
 | 46 | [Love Theme from St\. Elmo's Fire \(feat\. Kenny G\) \- Live](https://open.spotify.com/track/7AcZoTDqYtqYyYYt3CBPSw) | [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [You're The Inspiration: The Music Of David Foster And Friends \(Int'l DMD\)](https://open.spotify.com/album/7zXao5a6CPcsA8mbmdKpVs) | 2:56 |
-| 47 | [Nocturne Op\. 9 No\. 2](https://open.spotify.com/track/3dszUBBQ0KE3upy6AR8WBv) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 2:26 |
+| 47 | [Don't Know Why \(feat\. David Benoit\)](https://open.spotify.com/track/6OYTX5S8bqRA7CeUtpzBR5) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [David Benoit](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) | [At Last...The Duets Album](https://open.spotify.com/album/4XyegEYaF8gFxDI4OB3T4W) | 4:32 |
+| 48 | [Nocturne Op\. 9 No\. 2](https://open.spotify.com/track/3dszUBBQ0KE3upy6AR8WBv) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 2:26 |
 
-Snapshot ID: `apDPgAAAAABlQqlX/SctHnTBqfT5/NNF`
+Snapshot ID: `apIhAAAAAAApzensIaSd9XAWU6QgJws5`

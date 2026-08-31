@@ -340,6 +340,36 @@
     {
       "album": {
         "name": "Baba Nla",
+        "url": "https://open.spotify.com/album/49WZxAg2BOPaj1GC4qb7h5"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202569,
+      "name": "Baba Nla",
+      "url": "https://open.spotify.com/track/2SHJq89tovZvPwLRzEP2SY"
+    },
+    {
+      "album": {
+        "name": "Baba Nla",
         "url": "https://open.spotify.com/album/4VMCzDpzW1LRJjDLIGWRXN"
       },
       "artists": [

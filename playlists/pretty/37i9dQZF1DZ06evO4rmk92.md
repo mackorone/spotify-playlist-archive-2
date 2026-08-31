@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 
 > This is Nat King Cole\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,598 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,609 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [L\-O\-V\-E](https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 2:35 |
 | 2 | [Unforgettable](https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:11 |
-| 3 | [When I Fall In Love](https://open.spotify.com/track/6s6h2XK7Nl8lEcTzr7ezeB) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 3:10 |
-| 4 | [Smile \- Mono / 1954 Version / Remastered 1992](https://open.spotify.com/track/0WNsDyndBS63qBMxbZ9OHR) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Ballads Of The Day](https://open.spotify.com/album/0DkutYCEt5FOn5o064NxN2) | 2:59 |
+| 3 | [Smile \- Mono / 1954 Version / Remastered 1992](https://open.spotify.com/track/0WNsDyndBS63qBMxbZ9OHR) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Ballads Of The Day](https://open.spotify.com/album/0DkutYCEt5FOn5o064NxN2) | 2:59 |
+| 4 | [When I Fall In Love](https://open.spotify.com/track/6s6h2XK7Nl8lEcTzr7ezeB) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 3:10 |
 | 5 | [Let There Be Love](https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 2:45 |
 | 6 | [\(I Love You\) For Sentimental Reasons](https://open.spotify.com/track/5QnCtH7euld6R68UwcWrte) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:04 |
-| 7 | [Stardust](https://open.spotify.com/track/3npHR2nReF5bhCvvGiNwcL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 3:15 |
-| 8 | [Unforgettable](https://open.spotify.com/track/2MVQbDuhVs2muWFURtIdNb) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable: With Love](https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0) | 3:30 |
+| 7 | [Unforgettable](https://open.spotify.com/track/2MVQbDuhVs2muWFURtIdNb) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable: With Love](https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0) | 3:30 |
+| 8 | [Stardust](https://open.spotify.com/track/3npHR2nReF5bhCvvGiNwcL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 3:15 |
 | 9 | [Autumn Leaves \- Remastered 1987](https://open.spotify.com/track/3AgqQbQWYLGsemeBHk1U1d) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 2:40 |
 | 10 | [Nature Boy](https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 |
 | 11 | [Mona Lisa](https://open.spotify.com/track/5dae01pKNjRQtgOeAkFzPY) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:14 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 37 | [Walkin' My Baby Back Home](https://open.spotify.com/track/26LH7Z7NgqszsBSCvsDjjS) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Nat King Cole's 8 Top Pops](https://open.spotify.com/album/1yP0VKloRyuwhzchRWZlaC) | 2:38 |
 | 38 | [Ramblin' Rose](https://open.spotify.com/track/6bZlab0NrNteVppLu9C2Zy) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Ramblin Rose](https://open.spotify.com/album/0E6nzXbvyyVzZls1TtEmRP) | 2:47 |
 | 39 | [You Made Me Love You \(I Didn't Want To Do It\) \- Remastered](https://open.spotify.com/track/7LPVWfMHGxawDxNzppoHOZ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Thank You, Pretty Baby](https://open.spotify.com/album/0Nghkb1nHs4WCtnA0irWN2) | 2:52 |
-| 40 | [You'll Never Know \- Remastered](https://open.spotify.com/track/5dPRT4LvyogKLxmFpNGV4m) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Songs](https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC) | 2:42 |
-| 41 | [Too Marvelous For Words](https://open.spotify.com/track/4sfHDOLuNHbSo8EpEa5oIg) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Complete Capitol Recordings Of The Nat King Cole Trio](https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4) | 2:34 |
-| 42 | [Love Me As Though There Were No Tomorrow \- Remastered 2001](https://open.spotify.com/track/0RluX0auLYdKAZxWQZpLiG) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [This Is Nat King Cole](https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY) | 2:35 |
+| 40 | [Love Me As Though There Were No Tomorrow \- Remastered 2001](https://open.spotify.com/track/0RluX0auLYdKAZxWQZpLiG) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [This Is Nat King Cole](https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY) | 2:35 |
+| 41 | [You'll Never Know \- Remastered](https://open.spotify.com/track/5dPRT4LvyogKLxmFpNGV4m) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Songs](https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC) | 2:42 |
+| 42 | [Too Marvelous For Words](https://open.spotify.com/track/4sfHDOLuNHbSo8EpEa5oIg) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Complete Capitol Recordings Of The Nat King Cole Trio](https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4) | 2:34 |
 | 43 | [How I'd Love To Love You](https://open.spotify.com/track/2thCpvqBi9k1drA2oEZ2Co) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 2:19 |
 | 44 | [Ansiedad](https://open.spotify.com/track/2MQnCUzdidi7LNSLup0Afu) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 3:27 |
 | 45 | [It's All In The Game](https://open.spotify.com/track/7HLHKnQzlQK8aOueTdZLUe) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 49 | [These Foolish Things \(Remind Me Of You\)](https://open.spotify.com/track/3VWYuQ65f34zCUYSoakoJR) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Let's Face The Music \(Expanded Edition\)](https://open.spotify.com/album/0GnnnrEJWgUHRdfqdZGRi0) | 3:46 |
 | 50 | [I Could Have Danced All Night](https://open.spotify.com/track/20mEmrHhY9yN6IvYncoL96) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [My Fair Lady](https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I) | 2:30 |
 
-Snapshot ID: `apDPgAAAAAAEVVaIWKmxagHqH1bRb0GH`
+Snapshot ID: `apIhAAAAAAB5WCWl6P4uV16ITIj+N44d`

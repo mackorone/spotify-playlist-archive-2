@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 173956,
+  "num_followers": 173959,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAC0dD1+iiAf7VjYw3QRcwY/",
+  "snapshot_id": "apIhAAAAAAC924B5xF2YKZ0A4RhZY8sw",
   "tracks": [
     {
       "added_at": null,
@@ -635,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fuse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 191746,
+      "name": "We Were Us",
+      "url": "https://open.spotify.com/track/5Net7uzpcqkJtOwR22onye"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Okie From Muskogee (Live)",
         "url": "https://open.spotify.com/album/2rwFK8bxHwqjIJO3he8Mc6"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 95746,
       "name": "Okie From Muskogee - Live",
       "url": "https://open.spotify.com/track/529x2bhs2op70bGqGOoLk4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fuse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 191746,
-      "name": "We Were Us",
-      "url": "https://open.spotify.com/track/5Net7uzpcqkJtOwR22onye"
     },
     {
       "added_at": null,

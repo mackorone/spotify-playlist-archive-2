@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 771546,
+  "num_followers": 771586,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAD1XxHZGlnLvJdBSDN6drhN",
+  "snapshot_id": "apIhAAAAAACdDthrZ/1KUWWavizKcl5D",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Reuni\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "\u00bfEn D\u00f3nde Estabas?",
-      "url": "https://open.spotify.com/track/4yZQMrO8OJ8oj9HZqUZ3QN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Dos Plebes",
         "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
       },
@@ -555,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Reuni\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "\u00bfEn D\u00f3nde Estabas?",
+      "url": "https://open.spotify.com/track/4yZQMrO8OJ8oj9HZqUZ3QN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Herencia De Familia",
         "url": "https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unidos Para Siempre",
-        "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "Mi Sangre Prisionera",
-      "url": "https://open.spotify.com/track/1RLAPRIMWznZAvpdc6Qna5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Dos Plebes",
         "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 210853,
       "name": "Los Dos Plebes",
       "url": "https://open.spotify.com/track/0ul12ulRfLyO5fgVvaq2Ex"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unidos Para Siempre",
+        "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 181306,
+      "name": "Mi Sangre Prisionera",
+      "url": "https://open.spotify.com/track/1RLAPRIMWznZAvpdc6Qna5"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Realidades",
-        "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 197133,
-      "name": "La Bala",
-      "url": "https://open.spotify.com/track/50H4ZUUhL8MLHCw1eREp07"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Dos Plebes",
         "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 206600,
       "name": "Agua Salada",
       "url": "https://open.spotify.com/track/3X5whob19D1tXZlpHGFLFt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Realidades",
+        "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 197133,
+      "name": "La Bala",
+      "url": "https://open.spotify.com/track/50H4ZUUhL8MLHCw1eREp07"
     },
     {
       "added_at": null,

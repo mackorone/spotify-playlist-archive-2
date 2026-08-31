@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,064 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,100 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 81 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 |
 | 82 | [To Unknownia](https://open.spotify.com/track/4SKo17IGPoHGhCqT1rxYv9) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [To Unknownia](https://open.spotify.com/album/55ScptS5oIVplKya1URUXP) | 4:03 |
 | 83 | [Run A Red Light](https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Fuse](https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx) | 3:39 |
-| 84 | [A\-Game](https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX) | [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [A\-Game](https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A) | 3:11 |
-| 85 | [Santiago](https://open.spotify.com/track/58r843NDpyDVVvd6In95g3) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Santiago](https://open.spotify.com/album/5CqEEjDulphHq8zgJcko21) | 2:22 |
-| 86 | [Camas Separadas \- ft\. Disco Bahía](https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Camas Separadas \(ft\. Disco Bahía\)](https://open.spotify.com/album/3aDyz75eU1Jx02DNYP00Or) | 3:55 |
+| 84 | [Santiago](https://open.spotify.com/track/58r843NDpyDVVvd6In95g3) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Santiago](https://open.spotify.com/album/5CqEEjDulphHq8zgJcko21) | 2:22 |
+| 85 | [Camas Separadas \- ft\. Disco Bahía](https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Camas Separadas \(ft\. Disco Bahía\)](https://open.spotify.com/album/3aDyz75eU1Jx02DNYP00Or) | 3:55 |
+| 86 | [A\-Game](https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX) | [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [A\-Game](https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A) | 3:11 |
 | 87 | [Tuesday](https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Tuesday](https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo) | 2:52 |
 | 88 | [Quisiera](https://open.spotify.com/track/1LnI60IAPvOw6NJvjYL52b) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Quisiera](https://open.spotify.com/album/4VBBhnahuowTQtwJPm4aqv) | 2:15 |
 | 89 | [head down](https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy) | [Habe](https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW) | [head down](https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ) | 2:28 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Junior H. The essential tracks, all in one playlist.",
-  "num_followers": 964287,
+  "num_followers": 964392,
   "original_name": "This Is Junior H",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAADTBA4v7JiRL/iSEQJ66F6G",
+  "snapshot_id": "apIhAAAAAACyQJaF1+ADAbM553OigdqF",
   "tracks": [
     {
       "added_at": null,
@@ -191,26 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DEPR</3$$ED MFKZ",
-        "url": "https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Gael Valenzuela",
-          "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
-        }
-      ],
-      "duration_ms": 191507,
-      "name": "MI$ LLAMADA$",
-      "url": "https://open.spotify.com/track/3xff9Zn9iZ5anX3e9oi6tt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 163551,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DEPR</3$$ED MFKZ",
+        "url": "https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gael Valenzuela",
+          "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
+        }
+      ],
+      "duration_ms": 191507,
+      "name": "MI$ LLAMADA$",
+      "url": "https://open.spotify.com/track/3xff9Zn9iZ5anX3e9oi6tt"
     },
     {
       "added_at": null,

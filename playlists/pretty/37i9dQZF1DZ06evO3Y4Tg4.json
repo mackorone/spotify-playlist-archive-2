@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 274920,
+  "num_followers": 275018,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAACvqOzjItlz6z7lDMfFL6af",
+  "snapshot_id": "apIhAAAAAABamftNQKxClPJvpR0XQymo",
   "tracks": [
     {
       "added_at": null,
@@ -675,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ends, Never Ends",
-        "url": "https://open.spotify.com/album/4tV6FRiWFbJMbmfviir9Ay"
-      },
-      "artists": [
-        {
-          "name": "Joe James",
-          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "Same Emotions (feat. Dave)",
-      "url": "https://open.spotify.com/track/6ziVoEtF0YbFWOlO0nc45H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 210904,
       "name": "No Words",
       "url": "https://open.spotify.com/track/4USHZ3omhEBGjHLD9BIJYs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ends, Never Ends",
+        "url": "https://open.spotify.com/album/4tV6FRiWFbJMbmfviir9Ay"
+      },
+      "artists": [
+        {
+          "name": "Joe James",
+          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "Same Emotions (feat. Dave)",
+      "url": "https://open.spotify.com/track/6ziVoEtF0YbFWOlO0nc45H"
     },
     {
       "added_at": null,

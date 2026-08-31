@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 
 > The Latin soundtrack of the 70s! Cover: Julio Iglesias
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,779 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,812 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 4 | [Pedro Navaja](https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 7:25 |
 | 5 | [Volver, Volver](https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 3:00 |
 | 6 | [Gavilán o Paloma](https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 4:10 |
-| 7 | [Oye Como Va](https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:20 |
-| 8 | [Contrabando Y Traición](https://open.spotify.com/track/4gRi0itWso2UodoRMP5asJ) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Contrabando Y Traicion](https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3) | 3:26 |
+| 7 | [Contrabando Y Traición](https://open.spotify.com/track/4gRi0itWso2UodoRMP5asJ) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Contrabando Y Traicion](https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3) | 3:26 |
+| 8 | [Oye Como Va](https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:20 |
 | 9 | [Hasta Que Amanezca](https://open.spotify.com/track/67mC1sqidIwycByzWmT96o) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Éxitos](https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2) | 3:00 |
 | 10 | [Siempre en Mi Mente](https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre En Mi Mente](https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm) | 3:25 |
 | 11 | [La Nave del Olvido](https://open.spotify.com/track/2pOyQcM91HM3tZEiwZCraG) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [La Nave del Olvido](https://open.spotify.com/album/1BDHXHGmDMUVEWeqZlBLfQ) | 3:35 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 41 | [Dejenme Si Estoy Llorando](https://open.spotify.com/track/2CrwFR9V6mAbDhVr3co4uT) | [Nelson Ned](https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s) | [Antologia \(Volumen 2\)](https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy) | 3:01 |
 | 42 | [Por un Amor](https://open.spotify.com/track/6TNOBScJXFw3nNemRdeEd0) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Joyas Rancheras Al Estilo](https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj) | 3:27 |
 | 43 | [Rasguña las Piedras](https://open.spotify.com/track/3lvAzKmRH8vzXQ4xm19v78) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Confesiones De Invierno](https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx) | 3:11 |
-| 44 | [Qué Será](https://open.spotify.com/track/6idfK1mtEHiow7mHGnqhAd) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Serie Platino](https://open.spotify.com/album/5ghThlJjN94mCltLuCk0dQ) | 3:29 |
-| 45 | [Mañana Te Acordaras](https://open.spotify.com/track/1Yo9idf6XM0rhPWSTIG1cP) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 3:55 |
+| 44 | [Mañana Te Acordaras](https://open.spotify.com/track/1Yo9idf6XM0rhPWSTIG1cP) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 3:55 |
+| 45 | [Qué Será](https://open.spotify.com/track/6idfK1mtEHiow7mHGnqhAd) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Serie Platino](https://open.spotify.com/album/5ghThlJjN94mCltLuCk0dQ) | 3:29 |
 | 46 | [Un Gato en la Oscuridad \- Un Gato en Blu](https://open.spotify.com/track/08vaffIVYDBosHQlMMYbCQ) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 1](https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH) | 4:03 |
 | 47 | [Mi Ranchito](https://open.spotify.com/track/0wbx33SdWGqHdO24CjHlWf) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Joyas Rancheras Al Estilo](https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj) | 2:41 |
 | 48 | [La Murga](https://open.spotify.com/track/0ERampYomIgYBMJlX3rKXY) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [A Man And His Music: The Player](https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg) | 5:34 |
-| 49 | [Lucia](https://open.spotify.com/track/12WvazyWWnlgEkZggu2KsW) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 3:03 |
-| 50 | [No Tengo Dinero](https://open.spotify.com/track/6hQgqDq2VeyLYqgHoPG3O0) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Años Baladas Éxitos](https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6) | 3:06 |
+| 49 | [No Tengo Dinero](https://open.spotify.com/track/6hQgqDq2VeyLYqgHoPG3O0) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Años Baladas Éxitos](https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6) | 3:06 |
+| 50 | [Lucia](https://open.spotify.com/track/12WvazyWWnlgEkZggu2KsW) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 3:03 |
 
 Snapshot ID: `AAAAAAlcOEjbqPsIg/97vfjm0UVBcerg`

@@ -1806,7 +1806,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 158494,
       "name": "Animal",
       "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
@@ -8706,7 +8706,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 249600,
       "name": "Don't Stop Believin' (2022 Remaster)",
       "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
@@ -16258,7 +16258,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 176093,
       "name": "I Will Always Love You",
       "url": "https://open.spotify.com/track/77bNe6jYY8yHdP7orXrz5I"
@@ -21372,7 +21372,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
@@ -26890,7 +26890,7 @@
       ],
       "date_added": "2024-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 201733,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3R1Xa7LkesYpNI3v6fslKi"
@@ -26908,7 +26908,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -33586,10 +33586,28 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227333,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VGYv5vpzG5D6Votiqpolb">Cal Shapiro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-188 songs - 9 hr 37 min
+193 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,8 +53,10 @@
 | [Ex Games](https://open.spotify.com/track/4aFLceY2SiW4mclfXXyurP) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 4:41 | 2026-04-06 |  |
 | [Fade](https://open.spotify.com/track/5PSXmJVvwYXfekSLbCKPev) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 4:24 | 2026-04-06 |  |
 | [Fall](https://open.spotify.com/track/0ARnA1zH4FXjheCl3tCNbF) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2xX0ZnW2kG0qpIjnvEVl8s) | 3:08 | 2026-04-06 |  |
-| [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 | 2026-04-06 |  |
-| [FINE PLACE TO DIE](https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FINE PLACE TO DIE](https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r) | 3:07 | 2026-05-07 |  |
+| [FEVER DREAM](https://open.spotify.com/track/50E5Op3ZjRibJGZjGBcGR6) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 2:33 | 2026-08-30 |  |
+| [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 | 2026-04-06 | 2026-08-31 |
+| [FINE PLACE TO DIE](https://open.spotify.com/track/2HZ75yrPInJwVW6te9OlDg) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 3:07 | 2026-08-30 |  |
+| [FINE PLACE TO DIE](https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FINE PLACE TO DIE](https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r) | 3:07 | 2026-05-07 | 2026-08-31 |
 | [Fire](https://open.spotify.com/track/7qmbcwvnyfUldBJQsuF0ZV) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [To Dream](https://open.spotify.com/album/4hXGxuxXLcpbVTQUqOSZCJ) | 3:25 | 2026-04-06 |  |
 | [First Time](https://open.spotify.com/track/15WZDJ3x5Pten9aiwTZUpL) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [First Time](https://open.spotify.com/album/45YwthVD7vszVB1cHzdemk) | 3:22 | 2026-04-06 |  |
 | [First Time On Earth](https://open.spotify.com/track/3z87a8YWdfBTWwrspCN4g8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 2:41 | 2026-04-06 |  |
@@ -117,11 +119,13 @@
 | [Once In a While](https://open.spotify.com/track/6cREm4bV7V79Yxdilx9HDo) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Once In a While](https://open.spotify.com/album/7nsWIOWiX7Zt0AdR5imU50) | 3:35 | 2026-04-06 |  |
 | [One Hit Wonder](https://open.spotify.com/track/0XvJRHcaMO2rArL9MALyth) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Too Much](https://open.spotify.com/album/3BmIiIVp13T2mlqH39gos5) | 3:24 | 2026-04-06 |  |
 | [One Night](https://open.spotify.com/track/7fSJHZiYCc6Yzrk8NuiDIh) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [One Night EP](https://open.spotify.com/album/04xXTzwHFjgXj7KH26U1aQ) | 4:01 | 2026-04-06 |  |
+| [ONLY THING LEFT](https://open.spotify.com/track/2nmrNr1Qs04TwLdNEOVOuE) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 3:34 | 2026-08-30 |  |
 | [Options](https://open.spotify.com/track/2mqAwLuAZBIVEAOaDTScEm) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 2:49 | 2026-04-06 |  |
 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 | 2026-04-06 |  |
 | [Over Love](https://open.spotify.com/track/3FOhnJXjyDyNhOKT8F0gZP) | [Jordi](https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3) | [Jordi](https://open.spotify.com/album/6uX3C53HnidBg2qwSZvE9W) | 2:35 | 2026-05-21 |  |
 | [Over Love](https://open.spotify.com/track/5Uv9ENfh8jIh4lU2gkVCsr) | [Jordi](https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3) | [Jordi](https://open.spotify.com/album/0A3Wbzsq8IHa6K5BTfcoMr) | 2:35 | 2026-04-06 | 2026-05-22 |
-| [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 | 2026-08-04 |  |
+| [PASSENGER](https://open.spotify.com/track/4BSeso8HRRJVQzYdKi1YOX) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 2:39 | 2026-08-30 |  |
+| [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 | 2026-08-04 | 2026-08-31 |
 | [Perfect To Me](https://open.spotify.com/track/1meztnlmHwUWYHb6XZJMJW) | [Michael Sanzone](https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm) | [Perfect To Me/Leave The Sand](https://open.spotify.com/album/01s4HDSe1ytKwywowUgAXC) | 2:39 | 2026-04-06 |  |
 | [Pipe Dreams](https://open.spotify.com/track/37t9jRXgVdG9sMZkARkCYo) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Pipe Dreams](https://open.spotify.com/album/19ELZjBFt6REPNO5hprMXM) | 4:23 | 2026-04-06 |  |
 | [Pretty Little](https://open.spotify.com/track/7ci9LUxqlht8OegSfmQLk0) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 2:35 | 2026-04-06 |  |
@@ -130,7 +134,8 @@
 | [Problem](https://open.spotify.com/track/6LuuvKRCjxy9YrpA50LIPY) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/29cQMYmvacopwkV567Ocbl) | 2:34 | 2026-08-06 | 2026-08-10 |
 | [Prosecco](https://open.spotify.com/track/21RpxKRagsCUsiqJe2zg9Z) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 3:25 | 2026-04-06 |  |
 | [Raincoat](https://open.spotify.com/track/1fuv5IQZYgYZAe5ob2wswo) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Too Much](https://open.spotify.com/album/3BmIiIVp13T2mlqH39gos5) | 3:37 | 2026-04-06 |  |
-| [RESCUER](https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [RESCUER](https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq) | 3:19 | 2026-08-21 |  |
+| [RESCUER](https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [RESCUER](https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq) | 3:19 | 2026-08-21 | 2026-08-31 |
+| [RESCUER](https://open.spotify.com/track/5QccUp5xZ4pp9cZOHnZJLU) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 3:19 | 2026-08-30 |  |
 | [rock bottom](https://open.spotify.com/track/4AsIb3tfOTpQYSpe8goH6c) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [SUPERBLOOM](https://open.spotify.com/album/59f3BAKRdlWeaGTetnUPob) | 3:10 | 2026-04-06 |  |
 | [Roll the Credits](https://open.spotify.com/track/4XBsD43QzoPt4wLDdDtEqL) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Gas Station Sunglasses](https://open.spotify.com/album/1qgkaI8sVGplzQA4eLDdMj) | 2:19 | 2026-04-06 |  |
 | [Run With The Sun](https://open.spotify.com/track/1jTIXpx7E3QGN5e9oc8kr3) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [OASIS](https://open.spotify.com/album/5Wmypry9sRXgIZT5wdqkQq) | 2:30 | 2026-05-31 |  |

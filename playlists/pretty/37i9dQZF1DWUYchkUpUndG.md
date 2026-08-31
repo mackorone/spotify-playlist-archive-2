@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Nontokozo Mkhize
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,240 likes - 100 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,283 likes - 100 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

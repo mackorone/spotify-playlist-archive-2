@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 
 > The smoothest of smooth Jazz for your romantic evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,349 likes - 75 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,397 likes - 75 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 39 | [Anything and Everything](https://open.spotify.com/track/67nk03tcRdD1QEt1nOp92g) | [Chieli Minucci](https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX) | [Renaissance](https://open.spotify.com/album/1GJNf1s72ibGmeTC8TitLU) | 4:54 |
 | 40 | [Rikke](https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw) | [David Sanborn](https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE) | [Songs From The Night Before](https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe) | 5:03 |
 | 41 | [Nightlife](https://open.spotify.com/track/2RZ4AXlxoLZbFgHGsfHY8i) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Nightlife](https://open.spotify.com/album/3REfT3hfJrLkfsfmkS8ZHN) | 4:31 |
-| 42 | [Grover's Groove](https://open.spotify.com/track/4st8tyWOqApXeqy5GeHAst) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Kisses In The Rain](https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX) | 4:40 |
-| 43 | [Sunshine](https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF) | [Gordon James](https://open.spotify.com/artist/5OSScl9AWD6yfWTkmjgFPz) | [In Joy](https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43) | 5:05 |
+| 42 | [Sunshine](https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF) | [Gordon James](https://open.spotify.com/artist/5OSScl9AWD6yfWTkmjgFPz) | [In Joy](https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43) | 5:05 |
+| 43 | [Grover's Groove](https://open.spotify.com/track/4st8tyWOqApXeqy5GeHAst) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Kisses In The Rain](https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX) | 4:40 |
 | 44 | [If Only For One Night](https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Colors](https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW) | 4:36 |
 | 45 | [This Time Around](https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Inside Out](https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi) | 5:02 |
 | 46 | [Somethin' Bout Love](https://open.spotify.com/track/0nbpJT18zdfjt0dN2tds9h) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Somethin' Bout Love](https://open.spotify.com/album/0GijMXMEEFAD7N4P1eIOhb) | 4:45 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 53 | [Don't Let Me Be Lonely Tonight](https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Livin' Large](https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU) | 2:58 |
 | 54 | [Dreamwalk](https://open.spotify.com/track/1tDdDgGz1q5CqmteYO7Dni) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Excusez\-Moi](https://open.spotify.com/album/4kNEM4zelH69nf1mFyysDA) | 5:56 |
 | 55 | [That's The Way Of The World](https://open.spotify.com/track/0wFUbc3DrWqqspYSh9CaVt) | [Kim Pensyl](https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN) | [Under The Influence](https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC) | 5:43 |
-| 56 | [Anywhere Near You](https://open.spotify.com/track/5rYAOOyDrBBcshfeNh2qfb) | [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [Drive](https://open.spotify.com/album/7Iayri0sBA3sHqs3nwR8OJ) | 4:45 |
-| 57 | [Island Life](https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Island Life](https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb) | 4:48 |
+| 56 | [Island Life](https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Island Life](https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb) | 4:48 |
+| 57 | [Anywhere Near You](https://open.spotify.com/track/5rYAOOyDrBBcshfeNh2qfb) | [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [Drive](https://open.spotify.com/album/7Iayri0sBA3sHqs3nwR8OJ) | 4:45 |
 | 58 | [Manhattan](https://open.spotify.com/track/27wLc0cxnw9IbhRMyMeBmR) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [GK](https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu) | 4:46 |
 | 59 | [Bliss](https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7) | 5:14 |
 | 60 | [Grace](https://open.spotify.com/track/4Ld3gMZnlIGuDOaUiybrko) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Destiny](https://open.spotify.com/album/6dfSJHkRu7PPsg13MjoIbf) | 5:32 |

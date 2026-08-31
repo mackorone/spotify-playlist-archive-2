@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 
 > This is Binomio de Oro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,186 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,189 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 | 4 | [Sólo Para Ti](https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De América](https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7) | 4:48 |
 | 5 | [Esa](https://open.spotify.com/track/5BHKpCV5UiIPTAp7JCrsX5) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Festival Vallenato](https://open.spotify.com/album/4kQudN5Gj821X5ejgda6Pi) | 3:51 |
 | 6 | [Sombra Perdida](https://open.spotify.com/track/1iLUNt0JQR8FOohEGHE22z) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De Caché](https://open.spotify.com/album/3GX1tHN5YaqV4xxqTdKzXs) | 4:24 |
-| 7 | [Recorriendo a Venezuela](https://open.spotify.com/track/1GWFbLT7z2Cr9tbxjpH3Vm) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Por Siempre](https://open.spotify.com/album/4gqisRMcza9F6WHiN2jtff) | 4:41 |
-| 8 | [Lleno de Ti](https://open.spotify.com/track/54RRxofsf2U5V5arPqlnv5) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Fuera De Serie](https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8) | 4:51 |
+| 7 | [Lleno de Ti](https://open.spotify.com/track/54RRxofsf2U5V5arPqlnv5) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Fuera De Serie](https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8) | 4:51 |
+| 8 | [Recorriendo a Venezuela](https://open.spotify.com/track/1GWFbLT7z2Cr9tbxjpH3Vm) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Por Siempre](https://open.spotify.com/album/4gqisRMcza9F6WHiN2jtff) | 4:41 |
 | 9 | [No Se Pedir Perdón](https://open.spotify.com/track/2SBtTElyn8VqS31GhD4dnF) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Somos El Vallenato](https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr) | 4:47 |
 | 10 | [Qué Sera de Mí](https://open.spotify.com/track/2YO7dZYb0jsf93BH2GtlNY) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Internacional](https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0) | 4:37 |
 | 11 | [El Amor Es Más Grande Que Yo](https://open.spotify.com/track/65b7BwU67oXr2I10I9LzZM) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De Exportación](https://open.spotify.com/album/3CHxVT00FhsFpNPh7iQvdp) | 4:20 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 | 40 | [Viejos Anhelos](https://open.spotify.com/track/2EBmqILt0H7NQq5IZ72NZr) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [5 Años de Oro](https://open.spotify.com/album/33ra8x4umh40bQgZGQiu5d) | 5:13 |
 | 41 | [Mundo de Ilusiones](https://open.spotify.com/track/2zblES980vphzev9UT5ZF5) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Enamorado Como Siempre](https://open.spotify.com/album/3OhlAnWNEYUiSah3Qwer4z) | 4:09 |
 | 42 | [Quise Manchar Tu Alma](https://open.spotify.com/track/7vhO3vAmpiSNECd97UlT1j) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Clase Aparte](https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK) | 4:14 |
-| 43 | [Amor, Amor](https://open.spotify.com/track/7JtAMIrJ5N5euvoJKtsWbr) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De América](https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7) | 4:17 |
-| 44 | [Enamorado De Ti](https://open.spotify.com/track/5j5Lb1HzrpUkYacIpQFff7) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Fuera De Serie](https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8) | 5:11 |
+| 43 | [Enamorado De Ti](https://open.spotify.com/track/5j5Lb1HzrpUkYacIpQFff7) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Fuera De Serie](https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8) | 5:11 |
+| 44 | [Amor, Amor](https://open.spotify.com/track/7JtAMIrJ5N5euvoJKtsWbr) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De América](https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7) | 4:17 |
 | 45 | [Cien Años De Ausencia](https://open.spotify.com/track/7KYEei2wozzvHR80bpf63c) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W), [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Para Siempre Rafael Orozco Binomio De Oro](https://open.spotify.com/album/6PYwZuAWfqOJhS7L6JEop2) | 4:19 |
 | 46 | [Habíamos Terminado](https://open.spotify.com/track/3oIldtYrNvBqJzll1NqdPE) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Clase Aparte](https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK) | 3:57 |
 | 47 | [Eterno Enamorado](https://open.spotify.com/track/21Sh1SFlSoMqE4evvJOnQl) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 | 49 | [Se Está Muriendo el Amor](https://open.spotify.com/track/0elHKS0Jrt2gTwIsxfWRAR) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Binomio De Oro 1986](https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5) | 3:42 |
 | 50 | [Te Lo Dije Mujer](https://open.spotify.com/track/4OyfotY7zWw75v94xygq5s) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Los Elegidos](https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne) | 4:26 |
 
-Snapshot ID: `apDPgAAAAACFVNtTxNaQa6K6w4kzUGnm`
+Snapshot ID: `apIhAAAAAABCt/Vov/9nD75ivIeaIbc7`

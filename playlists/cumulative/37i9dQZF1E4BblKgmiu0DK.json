@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Coppernikas, Die Mannequin, The Donnas and more",
+  "description": "With Die Mannequin, The Donnas, Jinx & The Royals and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -376,7 +376,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 191066,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7bzenh25iZVgL15KzevtgQ"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 175846,
       "name": "Animals",
       "url": "https://open.spotify.com/track/4vqhWeI7nbLxZpYBghmrbR"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 169413,
       "name": "As A Blonde",
       "url": "https://open.spotify.com/track/5mwbWt2oEa7CuT1sDu4wQp"
@@ -2584,7 +2584,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 187366,
       "name": "Damage Is Done",
       "url": "https://open.spotify.com/track/6MnyrdchteSl2qOWAJhDPs"
@@ -2692,7 +2692,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 214889,
       "name": "Deal with Me",
       "url": "https://open.spotify.com/track/3080vWpFKHjG0ismpaQbOg"
@@ -2728,7 +2728,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 240233,
       "name": "Democracy Don't Die Quiet",
       "url": "https://open.spotify.com/track/310RSr2bawiy09nV0OPVTg"
@@ -3690,7 +3690,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 171809,
       "name": "Fever Dreaming",
       "url": "https://open.spotify.com/track/6pBIbD0zWK2cYiymkLF9WF"
@@ -4256,7 +4256,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 229506,
       "name": "Get You Off",
       "url": "https://open.spotify.com/track/0ZgaHE56xKJQhV2wroTuH5"
@@ -4904,7 +4904,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 209386,
       "name": "Hey School Boy",
       "url": "https://open.spotify.com/track/6nuLMQ9g3NAObKgdZ9YLbu"
@@ -5182,6 +5182,24 @@
       "duration_ms": 214706,
       "name": "How You Know It\u2019s Love",
       "url": "https://open.spotify.com/track/3L8o36BnvWlXJ1j9tLJbjG"
+    },
+    {
+      "album": {
+        "name": "Howl at the Moon",
+        "url": "https://open.spotify.com/album/4Ceq1aLVwFuH93o8NhthED"
+      },
+      "artists": [
+        {
+          "name": "Nieve Cassidy",
+          "url": "https://open.spotify.com/artist/4lXyXkPWt2IxSsKT7b3jDF"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177243,
+      "name": "Howl at the Moon",
+      "url": "https://open.spotify.com/track/2QMCDAyludxNL3zPuqiLF8"
     },
     {
       "album": {
@@ -5668,7 +5686,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 211941,
       "name": "I'm Just A Girl",
       "url": "https://open.spotify.com/track/6VTMcqAaoP3yzdEQ1NShuW"
@@ -6260,7 +6278,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 193587,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
@@ -7990,7 +8008,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 213840,
       "name": "Not A Love Song",
       "url": "https://open.spotify.com/track/7eD1ocWnFN5uIKLkfeNbVj"
@@ -8858,7 +8876,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 205271,
       "name": "Phone Calls",
       "url": "https://open.spotify.com/track/7AkKvO5OaTLYoDJq1Z7kDq"
@@ -9456,7 +9474,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 263746,
       "name": "Rock'n' Roll tonight",
       "url": "https://open.spotify.com/track/6THswMu9UxQRarm4MW2iKK"
@@ -10102,7 +10120,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 193899,
       "name": "So What",
       "url": "https://open.spotify.com/track/17mDkw99uAJnjFOXeDuLbE"
@@ -10264,7 +10282,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 168870,
       "name": "Static Crown",
       "url": "https://open.spotify.com/track/498HQm4WkKJsmysSXdJBNn"
@@ -10538,7 +10556,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 162226,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG"
@@ -10866,7 +10884,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 218520,
       "name": "The Initiator",
       "url": "https://open.spotify.com/track/1Gy9QCwfrvw5LWsd2jzGCP"
@@ -10884,7 +10902,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 164500,
       "name": "The Longest Time",
       "url": "https://open.spotify.com/track/5wemf1fpNRhbo18p6t8fL2"
@@ -11122,7 +11140,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 251893,
       "name": "This Is How It Feels",
       "url": "https://open.spotify.com/track/2D48SX4MQnigry1af6urQY"
@@ -11194,7 +11212,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 208607,
       "name": "Till the Day I Die - Remastered 2021",
       "url": "https://open.spotify.com/track/5pIc7tjHIh6njOedcbMJSe"
@@ -11864,7 +11882,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 198570,
       "name": "Welcome To The Badlands",
       "url": "https://open.spotify.com/track/0eKlJZz9cE2DAhjOSqehCS"
@@ -12206,7 +12224,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 187950,
       "name": "WITNESS TO YOUR MOANS",
       "url": "https://open.spotify.com/track/3fj9UnD2lAbAfIO84gt1D0"

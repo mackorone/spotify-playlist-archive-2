@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,728 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,762 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 41 | [If You're Here With Me](https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [If You're Here With Me](https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M) | 3:28 |
 | 42 | [October](https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [October](https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8) | 5:54 |
 | 43 | [Ride At Dawn](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Ride At Dawn](https://open.spotify.com/album/7DiasgKMXc817JWAUi1org) | 2:53 |
-| 44 | [Lydia \(please make it better\)](https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:07 |
-| 45 | [Salve](https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Salve](https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8) | 3:13 |
+| 44 | [Salve](https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Salve](https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8) | 3:13 |
+| 45 | [Lydia \(please make it better\)](https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:07 |
 | 46 | [If You Love Her](https://open.spotify.com/track/1MaDw1BQ797k8j7xXnH486) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [If You Love Her](https://open.spotify.com/album/7rMnIouqweD8JlFSw3LyIm) | 2:44 |
 | 47 | [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 |
 | 48 | [Love Language](https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Love Language](https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6) | 4:38 |
-| 49 | [Piano](https://open.spotify.com/track/0fdAzUvqxbD6QFkZRiKOVS) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Mitch Sanders](https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf) | [Different When It's Silent](https://open.spotify.com/album/39TwXOWMIvjv4kzErdhoOj) | 2:42 |
-| 50 | [Turtle Jazz](https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [Turtle Jazz](https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws) | 3:13 |
+| 49 | [Turtle Jazz](https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [Turtle Jazz](https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws) | 3:13 |
+| 50 | [Patience](https://open.spotify.com/track/5pW62tsMUPtw8k69ifpcjJ) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Spirit](https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG) | 4:14 |
 
 Snapshot ID: `AAAAAPi6SWb4drYfxN+EPzWgQtDFcgYu`

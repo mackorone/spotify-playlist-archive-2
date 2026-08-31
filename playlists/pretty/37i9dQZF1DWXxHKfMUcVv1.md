@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,728 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,733 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tu Traición](https://open.spotify.com/track/2ObbqCZZgwK8VowFYf0RPh) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Tu Amor Secreto](https://open.spotify.com/album/1ICfNn1KnGQnjyXaYOiB3c) | 3:34 |
 | 2 | [A las Nueve](https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [El Calor Del Pleno Invierno](https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3) | 3:27 |
-| 3 | [Campanas en la Noche](https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 3:57 |
-| 4 | [Que Levante La Mano](https://open.spotify.com/track/36TIklA7o1T0eXS83n1amI) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [Te Voy A Enamorar](https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp) | 3:50 |
+| 3 | [Que Levante La Mano](https://open.spotify.com/track/36TIklA7o1T0eXS83n1amI) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [Te Voy A Enamorar](https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp) | 3:50 |
+| 4 | [Campanas en la Noche](https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 3:57 |
 | 5 | [Cada Día \(Remix\)](https://open.spotify.com/track/1lKNmBOSyWe8wGQEAQ2nVl) | [Monks & Flags](https://open.spotify.com/artist/5BR8MvZtoOFuqJl7FCiQma), [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Cada Día \(Remix\)](https://open.spotify.com/album/5tXhrjibrsDLQxoyEVKoeR) | 4:15 |
 | 6 | [He Querido Quererte](https://open.spotify.com/track/5buC1VFP7FSaB0YokvP0EJ) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Tico El Imigrante](https://open.spotify.com/artist/45CYEQIVD1Al0co9LLtklO) | [Welcome To The Jungle](https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz) | 3:28 |
 | 7 | [No Me Importa](https://open.spotify.com/track/53ysAoMfLuAcThnhxhFwNk) | [Los Rehenes](https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8) | [Verdades Que Duelen](https://open.spotify.com/album/5ydJDyrELkgYhHuZx6xytA) | 2:53 |

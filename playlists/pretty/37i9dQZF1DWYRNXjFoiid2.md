@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 
 > Pop to fuel your gaming\. Cover: CORTIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,884 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,939 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 | 32 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 |
 | 33 | [Devil in Disguise](https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw) | [Marino](https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI) | [Devil in Disguise](https://open.spotify.com/album/3x72yJC4Ynj7UTJSjCMbTM) | 1:44 |
 | 34 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 |
-| 35 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 |
-| 36 | [Stephanie](https://open.spotify.com/track/5rc7178sa2YRDlBFBHY0e8) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT) | [Stephanie](https://open.spotify.com/album/1FjwAt6Yo15vTeSvO5GeSk) | 2:06 |
+| 35 | [Stephanie](https://open.spotify.com/track/5rc7178sa2YRDlBFBHY0e8) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT) | [Stephanie](https://open.spotify.com/album/1FjwAt6Yo15vTeSvO5GeSk) | 2:06 |
+| 36 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 |
 | 37 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 |
 | 38 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 |
 | 39 | [ROXANNE](https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [ROXANNE](https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90) | 2:43 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 | 57 | [CRANK](https://open.spotify.com/track/6eqQLOOiqBnrwKQEzXoHll) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 2:55 |
 | 58 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 |
 | 59 | [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:50 |
-| 60 | [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 |
-| 61 | [Lalala](https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Lalala](https://open.spotify.com/album/4WlC4FXhonJhNTXCQPGP3r) | 2:40 |
-| 62 | [Ghost](https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD) | 2:33 |
+| 60 | [Lalala](https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Lalala](https://open.spotify.com/album/4WlC4FXhonJhNTXCQPGP3r) | 2:40 |
+| 61 | [Ghost](https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD) | 2:33 |
+| 62 | [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 |
 | 63 | [That's When You Know](https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [That's When You Know](https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ) | 3:13 |
 | 64 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 65 | [SugarCrash!](https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [SugarCrash!](https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx) | 1:20 |
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 | 92 | [Feel It All Again](https://open.spotify.com/track/4tcLxWZs2YYmggQRWGsYTZ) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF) | [Feel It All Again](https://open.spotify.com/album/6gCprK5FOgT9z0OZQBSd3W) | 2:53 |
 | 93 | [Bubee](https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee](https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr) | 3:02 |
 | 94 | [AMERICAN HORROR SHOW](https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [AMERICAN HORROR SHOW](https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG) | 2:29 |
-| 95 | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ) | 1:55 |
+| 95 | [Paint The Town Blue \- from the series Arcane League of Legends](https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ) | 1:55 |
 | 96 | [Bonde do Brunão](https://open.spotify.com/track/4mOWnjz30frv1pKMM6DNfv) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Bonde do Brunão](https://open.spotify.com/album/49avguRc9qHbWv5Gjmj4nQ) | 0:57 |
 | 97 | [Supernova](https://open.spotify.com/track/58b0gBwBVjQfbbCU4xIvoy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/49kUtQMJo7Am9UuLuN1MuB) | 2:58 |
 | 98 | [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 |

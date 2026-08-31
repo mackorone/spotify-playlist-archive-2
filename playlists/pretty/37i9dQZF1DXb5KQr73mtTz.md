@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,185 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,189 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 22 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 |
 | 23 | [Dear you \(Romance 101 X LeeHi\)](https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV) | [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Dear you \(Romance 101 X LeeHi\)](https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg) | 3:39 |
 | 24 | [one summer](https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [one summer](https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK) | 3:59 |
-| 25 | [Here I Am \(Phantom Lawyer : Original Television Soundtrack\)](https://open.spotify.com/track/1ymd1VFO6Rodf2hKVv03Ny) | [PARK JI WON \(fromis\_9\)](https://open.spotify.com/artist/1j9Do4dv7NDwi8GrlTdzzr) | [Phantom Lawyer, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/1D0D9wTkMgUxTyVSAsNhNt) | 3:18 |
-| 26 | [Goodbye](https://open.spotify.com/track/1sGMG0qJbuPwZh91GXth3I) | [Choo young woo](https://open.spotify.com/artist/46ALFLjuto4s9T9TA6HJi2) | [Head over Heels, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/3aN92jKS0K4jKpxVEzgIz5) | 4:21 |
+| 25 | [Goodbye](https://open.spotify.com/track/1sGMG0qJbuPwZh91GXth3I) | [Choo young woo](https://open.spotify.com/artist/46ALFLjuto4s9T9TA6HJi2) | [Head over Heels, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/3aN92jKS0K4jKpxVEzgIz5) | 4:21 |
+| 26 | [Here I Am \(Phantom Lawyer : Original Television Soundtrack\)](https://open.spotify.com/track/1ymd1VFO6Rodf2hKVv03Ny) | [PARK JI WON \(fromis\_9\)](https://open.spotify.com/artist/1j9Do4dv7NDwi8GrlTdzzr) | [Phantom Lawyer, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/1D0D9wTkMgUxTyVSAsNhNt) | 3:18 |
 | 27 | [In your heart](https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [In your heart](https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P) | 3:41 |
 | 28 | [Villain](https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q) | [1ANDON](https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf), [Kim Feelsun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih), [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Phantom Pain](https://open.spotify.com/album/1UHtWE0ml91fMJkFHfsupS) | 3:15 |
 | 29 | [Clockwork](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:47 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 33 | [Sunny](https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [long to be the garden](https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq) | 3:12 |
 | 34 | [Try \(Journey Epilogue\)](https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Try \(Journey Epilogue\)](https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ) | 3:36 |
 | 35 | [Let\`s never meet again](https://open.spotify.com/track/1ds0NS97ocY31n1PSE1DUT) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Once again OST Part 1](https://open.spotify.com/album/23T8IExqplmEeLrmNhXpQR) | 3:36 |
-| 36 | [How have you been](https://open.spotify.com/track/0ydUYcJeaUlOaFOFV6o1e1) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Dreamest](https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV) | 4:30 |
-| 37 | [Empty words](https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Empty words](https://open.spotify.com/album/0rMu2ccCP5oQJnLogE2idU) | 4:12 |
+| 36 | [Empty words](https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Empty words](https://open.spotify.com/album/0rMu2ccCP5oQJnLogE2idU) | 4:12 |
+| 37 | [How have you been](https://open.spotify.com/track/0ydUYcJeaUlOaFOFV6o1e1) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Dreamest](https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV) | 4:30 |
 | 38 | [Empty](https://open.spotify.com/track/79pnJjoMNfFYAdW90Yd8Fr) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Empty](https://open.spotify.com/album/4HEYF3e5FR2nVhlGQ7XQLO) | 3:38 |
 | 39 | [You Ruined Me](https://open.spotify.com/track/5G9yKd2KszcMMK6FaXnzq1) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [You Ruined Me](https://open.spotify.com/album/7twWecwz0kjiceI9rLbFzk) | 3:39 |
 | 40 | [Without U](https://open.spotify.com/track/6uy6OjdR33a74DfkaJ8Ar1) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [O](https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus) | 3:37 |

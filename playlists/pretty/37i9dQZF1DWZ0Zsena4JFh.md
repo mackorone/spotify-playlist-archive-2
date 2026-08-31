@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > Interpol en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,257 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,189 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,20 +21,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 11 | [Don't Feel Right](https://open.spotify.com/track/7rgKSc2ZNTv28wyY7COiv7) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Don't Feel Right](https://open.spotify.com/album/5c74JMhCejvzLcT7Buzj9l) | 3:30 |
 | 12 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 |
 | 13 | [black & white](https://open.spotify.com/track/398e7XSvP7VtNHjNFZRnY5) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [FLASH](https://open.spotify.com/album/3qXVDY60z1vW9Nlqy6dC2M) | 2:52 |
-| 14 | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt) | 3:43 |
-| 15 | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU) | 3:06 |
+| 14 | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU) | 3:06 |
+| 15 | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt) | 3:43 |
 | 16 | [I Just Got Mad](https://open.spotify.com/track/5cEbOJ1W1cgWJ3LGeRBsn7) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [I Just Got Mad](https://open.spotify.com/album/3QnV8Wq1tjUuor9guUzEXA) | 2:29 |
 | 17 | [Harmony](https://open.spotify.com/track/57a0usyQgVXthMoFZotx85) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Chuck Timely & The Hourglass](https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R) | 4:21 |
 | 18 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 |
-| 19 | [Sun Has Set](https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Sun Has Set](https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR) | 2:21 |
-| 20 | [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 |
-| 21 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 |
+| 19 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 |
+| 20 | [Sun Has Set](https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Sun Has Set](https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR) | 2:21 |
+| 21 | [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 |
 | 22 | [Beaches In Tennessee](https://open.spotify.com/track/20TOJbuP4XyGBEFbwB8Vbm) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Beaches In Tennessee](https://open.spotify.com/album/4AB0To8YbkXhU8VHDdiEDQ) | 3:16 |
 | 23 | [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 |
 | 24 | [White Feather Hawk Tail Deer Hunter](https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [White Feather Hawk Tail Deer Hunter](https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ) | 3:54 |
 | 25 | [who’s your boyfriend](https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:53 |
-| 26 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 |
-| 27 | [Ugly things](https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Ugly things](https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv) | 3:29 |
+| 26 | [Ugly things](https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Ugly things](https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv) | 3:29 |
+| 27 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 |
 | 28 | [Memories](https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Memories](https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr) | 2:48 |
 | 29 | [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 |
 | 30 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 |

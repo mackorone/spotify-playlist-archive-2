@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-11-19",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIX6JB3qtkBJY>Dominic Fike</a>, <a href=spotify:playlist:37i9dQZF1EIV1hAnuH1ilI>Justin Bieber</a>, <a href=spotify:playlist:37i9dQZF1EIXuk68dNdha1>Glass Animals</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIYIe6aZAczQL>Harry Styles</a>, <a href=spotify:playlist:37i9dQZF1EIV7LHBHiy65Z>Capital Cities</a>, <a href=spotify:playlist:37i9dQZF1EIUutZ8JokfM0>Katy Perry</a> and more",
   "name": "Pop Mix",
   "tracks": [
     {
@@ -960,7 +960,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 216120,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
@@ -1896,6 +1896,24 @@
       "duration_ms": 242013,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
+    },
+    {
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
     },
     {
       "album": {
@@ -2686,7 +2704,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -2780,7 +2798,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
@@ -2874,7 +2892,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
@@ -3592,7 +3610,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 219584,
       "name": "kiss me",
       "url": "https://open.spotify.com/track/0lok0VDJn0zRvHLBCITSSw"
@@ -3842,7 +3860,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 167333,
       "name": "like i do",
       "url": "https://open.spotify.com/track/3d1oTMjtfVySbAYQp3v4MU"
@@ -5156,7 +5174,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 184248,
       "name": "petal",
       "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
@@ -5572,6 +5590,24 @@
       "duration_ms": 188918,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
+    },
+    {
+      "album": {
+        "name": "In A Tidal Wave of Mystery",
+        "url": "https://open.spotify.com/album/3rLiil7YBkoGXLrFtwYcju"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192789,
+      "name": "Safe and Sound",
+      "url": "https://open.spotify.com/track/5JVbvCHX10U2pLa5DEqGav"
     },
     {
       "album": {
@@ -6616,7 +6652,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
@@ -7380,7 +7416,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"

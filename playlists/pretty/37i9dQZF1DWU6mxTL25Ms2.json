@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"\nUmamusume: Pretty Derby! \u00a9 Cygames, Inc.",
-  "num_followers": 64462,
+  "num_followers": 64491,
   "original_name": "Umamusume: Pretty Derby",
   "owner": {
     "name": "Spotify",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-08-27 15:00:03",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 06 (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/0Mn8yOnH6DnwaIcgvC3rYK"
-      },
-      "artists": [
-        {
-          "name": "\u30b7\u30f3\u30dc\u30ea\u30eb\u30c9\u30eb\u30d5 (CV. \u7530\u6240\u3042\u305a\u3055)",
-          "url": "https://open.spotify.com/artist/2ElPdL2qFLO3Apwz0deRWO"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "SEVEN - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/5FniCiUjF8HwNRd157hLpK"
-    },
-    {
-      "added_at": "2026-08-27 15:00:03",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 01 Make debut! (2021 Remastered Version)",
         "url": "https://open.spotify.com/album/5Po7pJsoKPRVSx386Pf8g4"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 287773,
       "name": "Make debut! - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/3ZCOow93cmYFF9ZrI7gFYa"
+    },
+    {
+      "added_at": "2026-08-27 15:00:03",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 06 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/0Mn8yOnH6DnwaIcgvC3rYK"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30f3\u30dc\u30ea\u30eb\u30c9\u30eb\u30d5 (CV. \u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/2ElPdL2qFLO3Apwz0deRWO"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "SEVEN - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/5FniCiUjF8HwNRd157hLpK"
     },
     {
       "added_at": "2026-08-27 15:00:03",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-08-27 15:00:03",
       "album": {
-        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 08 (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/0vpMeLddwvNZ5neG2OiixY"
-      },
-      "artists": [
-        {
-          "name": "\u30b4\u30fc\u30eb\u30c9\u30b7\u30c1\u30fc (CV. \u9999\u5742\u3055\u304d)",
-          "url": "https://open.spotify.com/artist/1gu7ycwyjZTGDnGLBJt1w2"
-        }
-      ],
-      "duration_ms": 251693,
-      "name": "\u7d20\u9854\u306e\u30b3\u30b3\u30ed - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/0DR97BDr6AAP4sPJA0DjVv"
-    },
-    {
-      "added_at": "2026-08-27 15:00:03",
-      "album": {
         "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 11 (2021 Remastered Version)",
         "url": "https://open.spotify.com/album/2in868kwaG4qulhPOSGU8d"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 264653,
       "name": "\u6d99\u3072\u304b\u3063\u3066\u660e\u65e5\u306b\u306a\u308c\uff01",
       "url": "https://open.spotify.com/track/69OVmLUUE7t2iYhqxJe6A8"
+    },
+    {
+      "added_at": "2026-08-27 15:00:03",
+      "album": {
+        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 08 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/0vpMeLddwvNZ5neG2OiixY"
+      },
+      "artists": [
+        {
+          "name": "\u30b4\u30fc\u30eb\u30c9\u30b7\u30c1\u30fc (CV. \u9999\u5742\u3055\u304d)",
+          "url": "https://open.spotify.com/artist/1gu7ycwyjZTGDnGLBJt1w2"
+        }
+      ],
+      "duration_ms": 251693,
+      "name": "\u7d20\u9854\u306e\u30b3\u30b3\u30ed - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/0DR97BDr6AAP4sPJA0DjVv"
     },
     {
       "added_at": "2026-08-27 15:00:03",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2026-08-27 15:00:03",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 07 (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/4uYhCJhZB8wotoB0qJa0Im"
-      },
-      "artists": [
-        {
-          "name": "\u30a8\u30eb\u30b3\u30f3\u30c9\u30eb\u30d1\u30b5\u30fc (CV. \u9ad8\u6a4b\u672a\u5948\u7f8e)",
-          "url": "https://open.spotify.com/artist/6DlsPAFxef01OfNNGozmrl"
-        }
-      ],
-      "duration_ms": 250600,
-      "name": "L's Surprise!! - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/3ROVxXd6TKOoBcRF1gPWkm"
-    },
-    {
-      "added_at": "2026-08-27 15:00:03",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 06 (2021 Remastered Version)",
         "url": "https://open.spotify.com/album/0Mn8yOnH6DnwaIcgvC3rYK"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 254800,
       "name": "\u624b\u7db1\u3068\u7d46 - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/3ccWvbuxDmvuhU6dWrRLoJ"
+    },
+    {
+      "added_at": "2026-08-27 15:00:03",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 07 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/4uYhCJhZB8wotoB0qJa0Im"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30eb\u30b3\u30f3\u30c9\u30eb\u30d1\u30b5\u30fc (CV. \u9ad8\u6a4b\u672a\u5948\u7f8e)",
+          "url": "https://open.spotify.com/artist/6DlsPAFxef01OfNNGozmrl"
+        }
+      ],
+      "duration_ms": 250600,
+      "name": "L's Surprise!! - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/3ROVxXd6TKOoBcRF1gPWkm"
     },
     {
       "added_at": "2026-08-27 15:00:03",

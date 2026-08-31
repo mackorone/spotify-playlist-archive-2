@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0MYMXcPN7yx8kdLSKi3Rqb">Gabe Simon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367 likes - 182 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 368 likes - 182 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 22 | [Son of a Bitch](https://open.spotify.com/track/1hnHgiBiMZlZp7EVxD0eCX) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 2:35 |
 | 23 | [Damn Near Normal](https://open.spotify.com/track/5sX5XeSfMUZHzsUl2helzf) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:44 |
 | 24 | [Text Book](https://open.spotify.com/track/4brdb8L2Cy3e9AN8IfV9l8) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) | 5:03 |
-| 25 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/18SpqEz3lD71A6JReAYCVF) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Changes All The Time \(Deluxe\)](https://open.spotify.com/album/441Y4TBgKQWHBJYlQBomI1) | 3:23 |
-| 26 | [Paid Time Off](https://open.spotify.com/track/7mOe6qQYMq1MCzJcifwPu4) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:47 |
+| 25 | [Paid Time Off](https://open.spotify.com/track/7mOe6qQYMq1MCzJcifwPu4) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:47 |
+| 26 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/18SpqEz3lD71A6JReAYCVF) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Changes All The Time \(Deluxe\)](https://open.spotify.com/album/441Y4TBgKQWHBJYlQBomI1) | 3:23 |
 | 27 | [Starlight](https://open.spotify.com/track/1xgbcqiTSVYe2JubnkLpo0) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Starlight](https://open.spotify.com/album/2J1ptakRwAfGrYKEuJJzXy) | 3:43 |
 | 28 | [Rise](https://open.spotify.com/track/7a0kObvAAZ2bzY1HOlj77n) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:36 |
 | 29 | [Lose My Mind](https://open.spotify.com/track/0ioEmQEHrdU8UVhlUgeVLn) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [The Cure To Loneliness](https://open.spotify.com/album/49He27z7i5EunlFpEGqJBw) | 4:18 |
-| 30 | [The Man That Came Back](https://open.spotify.com/track/2luww5OJKlFtvGWwxFYtOm) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 4:01 |
-| 31 | [We Go Way Back](https://open.spotify.com/track/0BCWfP8NXjwmINTW1MyMu1) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:02 |
+| 30 | [We Go Way Back](https://open.spotify.com/track/0BCWfP8NXjwmINTW1MyMu1) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:02 |
+| 31 | [The Man That Came Back](https://open.spotify.com/track/2luww5OJKlFtvGWwxFYtOm) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 4:01 |
 | 32 | [A Few Of Your Own](https://open.spotify.com/track/2O4dfLvOE0VBqDmGQiw7fR) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18) | 4:30 |
 | 33 | [Lighthouse](https://open.spotify.com/track/5eAR1QuDO23Em4r8o5yLul) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18) | 5:04 |
 | 34 | [Better By Myself](https://open.spotify.com/track/77ixMBo91onYG37mAZiaUj) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Better By Myself](https://open.spotify.com/album/4i3djYXopqVlgvJcIWVmV3) | 3:14 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 95 | [Other Lives](https://open.spotify.com/track/7i4us3Bgm5MIEyBdSa8vGR) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Bury Me](https://open.spotify.com/album/5bH0uvRjdLCrxG73wayab9) | 3:12 |
 | 96 | [Dollar and a Bottle](https://open.spotify.com/track/2UtdZrNMyEYZp0N2X89K9Q) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:48 |
 | 97 | [Good Day](https://open.spotify.com/track/24QDabNf5LeeTQoTMYOACb) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Love & Algorhythms](https://open.spotify.com/album/5GytXeAxawqjyAtQwJ8XzA) | 3:07 |
-| 98 | [You Don't Belong To Me](https://open.spotify.com/track/4dI7e1C5z6SNnqWI6jdLcO) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 3:32 |
-| 99 | [Nowhere Fast](https://open.spotify.com/track/17QqHs8dXWR6HcELuqC04z) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 4:31 |
+| 98 | [Nowhere Fast](https://open.spotify.com/track/17QqHs8dXWR6HcELuqC04z) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 4:31 |
+| 99 | [You Don't Belong To Me](https://open.spotify.com/track/4dI7e1C5z6SNnqWI6jdLcO) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 3:32 |
 | 100 | [Wella](https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Wella](https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF) | 2:49 |
 | 101 | [Breakin'](https://open.spotify.com/track/2JkbiwiIiPeQyjkQtKGf4X) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Happy To Be Here](https://open.spotify.com/album/4fhcxulBSzmg4aENyGBZNT) | 4:23 |
 | 102 | [Gotta Get To Know Ya](https://open.spotify.com/track/2v8jqoNTcjzgS2W5UG9QhB) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [POWER](https://open.spotify.com/album/2gHwDJVrMGadBm6mPUnWt5) | 2:17 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 181 | [Own The Night](https://open.spotify.com/track/0BorUElU7vFO51qKnAx8kM) | [Proper Gentlemen](https://open.spotify.com/artist/5eTE3zXt71ehPvKzn0GuJh), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Own The Night](https://open.spotify.com/album/5Ph15urX6DYg3XRrw3Zw3X) | 3:34 |
 | 182 | [Going Nowhere](https://open.spotify.com/track/2Jcch257ODLARJyQENv541) | [WAITERS](https://open.spotify.com/artist/3mv2bMoIxhLVw3eRBFoO9h) | [Going Nowhere](https://open.spotify.com/album/4luFG6rwCdyRJvses0MjIx) | 3:20 |
 
-Snapshot ID: `Aca6PAAAAAAnAcC8Z4DghxIRt9GyjGuV`
+Snapshot ID: `Aca/3AAAAADmNn7GENeil0et1dySJoUx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean\. Cover: Kes
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,901 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,916 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 11 | [I Dare You](https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 3:32 |
 | 12 | [PARDY](https://open.spotify.com/track/3HgSn2nlDVwnvlStwaA19M) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [PARDY](https://open.spotify.com/album/09Z0OQdv4Xbks9MOjO51VL) | 3:42 |
 | 13 | [Liki Tiki \- Reggae Remix](https://open.spotify.com/track/7ffWg1aiz44kiCF6wtvypd) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Liki Tiki \(Reggae Remix\)](https://open.spotify.com/album/3vu3P7k95GmGbcihFAPNf3) | 4:10 |
-| 14 | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g) | 3:22 |
+| 14 | [Togetherness](https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 4:17 |
 | 15 | [Come Home](https://open.spotify.com/track/4OFdzr4mlBC7YK8XwJqwIx) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Come Home](https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7) | 4:18 |
 | 16 | [Catching Feelings](https://open.spotify.com/track/5fA679L7UruZkmA7EorEuJ) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [In My Feelings](https://open.spotify.com/album/7cUTMtzLnLjf3WFd0ctyDF) | 3:07 |
 | 17 | [Woman By My Side](https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu) | [Peter Ram](https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 4:39 |
 | 18 | [Trini 2 De Bone](https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [Blessed](https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna) | 4:55 |
-| 19 | [Togetherness](https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 4:17 |
+| 19 | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g) | 3:22 |
 | 20 | [Bamcie](https://open.spotify.com/track/3vD7VUNEdpFhgZ1C0mSRzL) | [Added Rankin](https://open.spotify.com/artist/1v6UUdPKZmQFj3OxaXVlgp), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [Bamcie](https://open.spotify.com/album/61PFuSvjRRQ7MR1HZZvq4W) | 3:01 |
 | 21 | [Fattt](https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:13 |
 | 22 | [Wine Up On Me](https://open.spotify.com/track/4V1sxTLIM6lDwBwCXoTmoN) | [Zoelah](https://open.spotify.com/artist/0nk75ngoAM8dp0z5IRPTqD) | [Soca Gold 2009](https://open.spotify.com/album/7cuPfx45vZRitCnf6mIpra) | 4:13 |

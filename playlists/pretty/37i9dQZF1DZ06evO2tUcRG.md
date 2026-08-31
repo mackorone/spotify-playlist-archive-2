@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 
 > This is Gabriela Rocha\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,129 likes - 50 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,130 likes - 50 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 5 | [Eu Creio \(Believe For It\)](https://open.spotify.com/track/0KYF47E8xIrKfUnlZOAXJF) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Eu Creio \(Believe For It\)](https://open.spotify.com/album/7arXmK6JfnriihjvrxW5vG) | 6:23 |
 | 6 | [Me Atraiu \- Ao Vivo](https://open.spotify.com/track/51uirMnJ9sO1sxqrTqy1fP) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Atraiu \(Ao Vivo\)](https://open.spotify.com/album/4TwCz7XycpT1wxXsQ1Vq9U) | 8:23 |
 | 7 | [Enche\-me \- Ao Vivo](https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Enche\-me \(Ao Vivo\)](https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk) | 7:30 |
-| 8 | [Os Sonhos de Deus](https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Os Sonhos de Deus](https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b) | 4:27 |
-| 9 | [Atos 2](https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [EP Gabriela Rocha](https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9) | 5:14 |
+| 8 | [Atos 2](https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [EP Gabriela Rocha](https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9) | 5:14 |
+| 9 | [Os Sonhos de Deus](https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Os Sonhos de Deus](https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b) | 4:27 |
 | 10 | [Eu Navegarei](https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 7:49 |
 | 11 | [Hino da Vitória](https://open.spotify.com/track/6YdwvVHRupTTI4tLPNaKvL) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Hino da Vitória](https://open.spotify.com/album/3iqDWbdZPucI0xh6JFe8jB) | 4:57 |
 | 12 | [Único \- Acústico](https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Único \(Acústico\)](https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb) | 8:26 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 32 | [Estrela da Manhã \- Ao Vivo](https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Estrela da Manhã \(Ao Vivo\)](https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD) | 3:28 |
 | 33 | [Nada Além de Ti \- Ao Vivo](https://open.spotify.com/track/5EDXCypGSkaJLRGNvhsL4h) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Uma História Escrita pelo Dedo de Deus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R) | 6:14 |
 | 34 | [Vim Para Adorar\-Te](https://open.spotify.com/track/3V9uMkBLvqLCxXbIl3l4Qr) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Pequenos Levitas](https://open.spotify.com/album/1uL3H2Et3F4SyWt3F5Rsv0) | 5:02 |
-| 35 | [Abraça\-me \- Live 2020](https://open.spotify.com/track/4o5WmT5T3jZl6EA3L4W8Wf) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 3:42 |
-| 36 | [Vou Seguir](https://open.spotify.com/track/7HQ4iOLhrrTAna6RuciH5E) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Vou Seguir](https://open.spotify.com/album/7MKPG8Puatu6YPUCYwUKBy) | 4:48 |
+| 35 | [Vou Seguir](https://open.spotify.com/track/7HQ4iOLhrrTAna6RuciH5E) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Vou Seguir](https://open.spotify.com/album/7MKPG8Puatu6YPUCYwUKBy) | 4:48 |
+| 36 | [Abraça\-me \- Live 2020](https://open.spotify.com/track/4o5WmT5T3jZl6EA3L4W8Wf) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 3:42 |
 | 37 | [Meu Respirar / Meu Prazer \- Ao Vivo](https://open.spotify.com/track/3ceLGhHuFsoumAtxS4CVfq) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Presença \(Deluxe\) \[Ao Vivo\]](https://open.spotify.com/album/1lapMenp91z3CCdPBr7S23) | 5:23 |
 | 38 | [A Bênção](https://open.spotify.com/track/3GdR1Am14WnZaCsGiXQNy3) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Pequenos Levitas](https://open.spotify.com/album/1uL3H2Et3F4SyWt3F5Rsv0) | 4:15 |
 | 39 | [Meu Jesus \- Ao Vivo](https://open.spotify.com/track/4CBrbzhvuka2a3gZOm48E8) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Presença \(Ao Vivo\)](https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT) | 8:40 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 44 | [Águas Purificadoras](https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Águas Purificadoras](https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX) | 5:42 |
 | 45 | [Teu Santo Nome](https://open.spotify.com/track/3d4fqNr8Skfs5PmxAZSeP0) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Pra Onde Iremos?](https://open.spotify.com/album/1ifW4VsChr6AgOvpmd8ZFo) | 3:42 |
 | 46 | [Agnus Dei \- Ao Vivo](https://open.spotify.com/track/4GUUcLp5OviLoV4Zpgf3Km) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Igreja \(Ao Vivo\)](https://open.spotify.com/album/12QoaLjXRGCh7zqLKkF67P) | 4:46 |
-| 47 | [Uma Hora é Pouco \- Ao Vivo](https://open.spotify.com/track/2wqR00j3EwhCORlq8sHYgp) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Presença \(Ao Vivo\)](https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT) | 10:21 |
-| 48 | [Meu Coração É Teu / Pra Te Adorar](https://open.spotify.com/track/54aZqu6XN252pYIeef1hIA) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 5:44 |
+| 47 | [Meu Coração É Teu / Pra Te Adorar](https://open.spotify.com/track/54aZqu6XN252pYIeef1hIA) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 5:44 |
+| 48 | [Uma Hora é Pouco \- Ao Vivo](https://open.spotify.com/track/2wqR00j3EwhCORlq8sHYgp) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Presença \(Ao Vivo\)](https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT) | 10:21 |
 | 49 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 |
 | 50 | [Rompendo Em Fé](https://open.spotify.com/track/7x7E2Zr7dLMY3rPjgYBDlH) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar 3](https://open.spotify.com/album/5fjXzkdSY0mjnNIvS1uMmY) | 4:30 |
 
-Snapshot ID: `apDPgAAAAACE/cGZMaMjjhgmejeeFXcZ`
+Snapshot ID: `apIhAAAAAACCf8y7YSXAZwdtSmBuW558`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 
 > This is U2\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,268,600 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,268,639 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 32 | [Even Better Than The Real Thing](https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 3:41 |
 | 33 | [Staring At The Sun](https://open.spotify.com/track/3fsTb3a8l5kJrtzpl04Ljr) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pop](https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3) | 4:36 |
 | 34 | [Running To Stand Still \- Remastered 2007](https://open.spotify.com/track/741AUHHkjuWe9wSNIhmApn) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 4:17 |
-| 35 | [In A Life](https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:33 |
+| 35 | [The Unforgettable Fire \- Remastered 2009](https://open.spotify.com/track/4MuVgJIxvnMjRHbiUSD9Js) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Deluxe Edition Remastered\)](https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY) | 4:54 |
 | 36 | [Until The End Of The World](https://open.spotify.com/track/4iiX7axMHcc76BGM0QJEY5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:38 |
-| 37 | [The Unforgettable Fire \- Remastered 2009](https://open.spotify.com/track/4MuVgJIxvnMjRHbiUSD9Js) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Deluxe Edition Remastered\)](https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY) | 4:54 |
+| 37 | [In A Life](https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:33 |
 | 38 | [Red Hill Mining Town \- Remastered 2007](https://open.spotify.com/track/4gE5Z3sOcWYyR0SezjvAj5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 4:52 |
 | 39 | [Song For Someone](https://open.spotify.com/track/47dKd4opEgipcKYEQm4CX4) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Innocence \(Deluxe\)](https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10) | 3:46 |
 | 40 | [So Cruel](https://open.spotify.com/track/3TPFVnDjojd7fsvLAizX0H) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 5:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 49 | [You’re The Best Thing About Me](https://open.spotify.com/track/2dhJM2skHC9D41gHj34Kgw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:45 |
 | 50 | [Yours Eternally \(feat\. Ed Sheeran & Taras Topolia\)](https://open.spotify.com/track/0fFN4cjLBVaLbypb4aEXpQ) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taras Topolia](https://open.spotify.com/artist/30pQviUqhKT7G1okKEXX0B) | [Days Of Ash EP](https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT) | 4:26 |
 
-Snapshot ID: `apDPgAAAAACII6sipW8LT/6wuw/gXICv`
+Snapshot ID: `apIhAAAAAACActaQ/CJ7SwFcvboyL+wE`

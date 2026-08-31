@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 113036,
+  "num_followers": 113035,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-08-14 07:39:41",
       "album": {
+        "name": "W to mi graj",
+        "url": "https://open.spotify.com/album/24fRidH4T3GIwjfFiS6VEc"
+      },
+      "artists": [
+        {
+          "name": "Ania Karwan",
+          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
+        }
+      ],
+      "duration_ms": 189520,
+      "name": "W to mi graj",
+      "url": "https://open.spotify.com/track/3s2tBiOaWfZnd97WEoL7ID"
+    },
+    {
+      "added_at": "2026-08-14 07:39:41",
+      "album": {
         "name": "LUBIMY",
         "url": "https://open.spotify.com/album/0qzTWFez1xu7JsZm8sqWqT"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 148831,
       "name": "LUBIMY",
       "url": "https://open.spotify.com/track/1oGFMmJsbgif8ZVxMREseR"
-    },
-    {
-      "added_at": "2026-08-14 07:39:41",
-      "album": {
-        "name": "W to mi graj",
-        "url": "https://open.spotify.com/album/24fRidH4T3GIwjfFiS6VEc"
-      },
-      "artists": [
-        {
-          "name": "Ania Karwan",
-          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
-        }
-      ],
-      "duration_ms": 189520,
-      "name": "W to mi graj",
-      "url": "https://open.spotify.com/track/3s2tBiOaWfZnd97WEoL7ID"
     },
     {
       "added_at": "2026-08-14 07:39:41",

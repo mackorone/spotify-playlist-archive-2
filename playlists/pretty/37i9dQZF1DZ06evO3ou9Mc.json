@@ -1,12 +1,12 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 442538,
+  "num_followers": 442561,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABYCWe4z1l+7KI1N7/N2q9f",
+  "snapshot_id": "apIhAAAAAABL394biIMzm8romaJKdVRc",
   "tracks": [
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 240213,
-      "name": "Dirty Magic",
-      "url": "https://open.spotify.com/track/0iRJc27fHvcDd7D3mUlZZX"
+      "duration_ms": 142413,
+      "name": "Dividing By Zero",
+      "url": "https://open.spotify.com/track/2BWt8ozzFptUlrnCilgK6l"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 142413,
-      "name": "Dividing By Zero",
-      "url": "https://open.spotify.com/track/2BWt8ozzFptUlrnCilgK6l"
+      "duration_ms": 240213,
+      "name": "Dirty Magic",
+      "url": "https://open.spotify.com/track/0iRJc27fHvcDd7D3mUlZZX"
     },
     {
       "added_at": null,

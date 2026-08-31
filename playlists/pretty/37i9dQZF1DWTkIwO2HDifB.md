@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Os funks mais 🔑 do Brasil / Foto:  MC Iguinho Ct, DJ Aladin GDB, MC Willian, MC GP, MC LUUCKY, DU'L
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,815,212 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,815,592 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

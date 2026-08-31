@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best underground club tracks ❤️‍🔥 ft\. BIIANCO ❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,145 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,620 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de M\u00fasica Mexicana de ayer y hoy para acompa\u00f1arte en la troca.",
-  "num_followers": 591712,
+  "num_followers": 591764,
   "original_name": "La Troca",
   "owner": {
     "name": "Spotify",
@@ -499,26 +499,6 @@
     {
       "added_at": "2026-08-14 06:40:00",
       "album": {
-        "name": "El Azul",
-        "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 187225,
-      "name": "El Azul",
-      "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
-    },
-    {
-      "added_at": "2026-08-14 06:40:00",
-      "album": {
         "name": "Que Onda",
         "url": "https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 191466,
       "name": "Que Onda",
       "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
+    },
+    {
+      "added_at": "2026-08-14 06:40:00",
+      "album": {
+        "name": "El Azul",
+        "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 187225,
+      "name": "El Azul",
+      "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
     },
     {
       "added_at": "2026-08-14 06:40:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-08-14 06:40:00",
       "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez"
+    },
+    {
+      "added_at": "2026-08-14 06:40:00",
+      "album": {
         "name": "Palabra De To's",
         "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": "2026-08-14 06:40:00",
       "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez"
-    },
-    {
-      "added_at": "2026-08-14 06:40:00",
-      "album": {
         "name": "Ll\u00e9vame Contigo",
         "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 190533,
       "name": "\u00bfY Todo Para Qu\u00e9?",
       "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
+    },
+    {
+      "added_at": "2026-08-14 06:40:00",
+      "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Mi C\u00f3mplice",
+      "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
     },
     {
       "added_at": "2026-08-14 06:40:00",
@@ -663,22 +679,6 @@
       "duration_ms": 208800,
       "name": "ULTIMAMENTE",
       "url": "https://open.spotify.com/track/22znRIyi8hIkD07fsAwo7i"
-    },
-    {
-      "added_at": "2026-08-14 06:40:00",
-      "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Mi C\u00f3mplice",
-      "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
     },
     {
       "added_at": "2026-08-14 06:40:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-08-14 06:40:00",
       "album": {
-        "name": "La Cita Fresita (En Vivo)",
-        "url": "https://open.spotify.com/album/6Oo34Jcr1pKCy8lIOFxQ1L"
-      },
-      "artists": [
-        {
-          "name": "Grupo Aztteca",
-          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
-        }
-      ],
-      "duration_ms": 180163,
-      "name": "La Cita Fresita - En Vivo",
-      "url": "https://open.spotify.com/track/2wD6ENHAvi1WDVsYVuxbNT"
-    },
-    {
-      "added_at": "2026-08-14 06:40:00",
-      "album": {
         "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 237080,
       "name": "Ojos Verdes",
       "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
+    },
+    {
+      "added_at": "2026-08-14 06:40:00",
+      "album": {
+        "name": "La Cita Fresita (En Vivo)",
+        "url": "https://open.spotify.com/album/6Oo34Jcr1pKCy8lIOFxQ1L"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aztteca",
+          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
+        }
+      ],
+      "duration_ms": 180163,
+      "name": "La Cita Fresita - En Vivo",
+      "url": "https://open.spotify.com/track/2wD6ENHAvi1WDVsYVuxbNT"
     },
     {
       "added_at": "2026-08-14 06:40:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-08-14 06:40:00",
       "album": {
+        "name": "El Aferrado",
+        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Pong\u00e1monos De Acuerdo",
+      "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
+    },
+    {
+      "added_at": "2026-08-14 06:40:00",
+      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 175532,
       "name": "La Nena",
       "url": "https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC"
-    },
-    {
-      "added_at": "2026-08-14 06:40:00",
-      "album": {
-        "name": "El Aferrado",
-        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Pong\u00e1monos De Acuerdo",
-      "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
     },
     {
       "added_at": "2026-08-14 06:40:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-08-14 06:40:00",
       "album": {
-        "name": "Como Duele El Amor",
-        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 173088,
-      "name": "No Regreses",
-      "url": "https://open.spotify.com/track/6UiEpvKXPmLzi7UDMGzxeK"
-    },
-    {
-      "added_at": "2026-08-14 06:40:00",
-      "album": {
         "name": "Corleone",
         "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 203829,
       "name": "Hoy Todo Cambio",
       "url": "https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7"
+    },
+    {
+      "added_at": "2026-08-14 06:40:00",
+      "album": {
+        "name": "Como Duele El Amor",
+        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 173088,
+      "name": "No Regreses",
+      "url": "https://open.spotify.com/track/6UiEpvKXPmLzi7UDMGzxeK"
     },
     {
       "added_at": "2026-08-14 06:40:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-08-14 06:40:00",
       "album": {
-        "name": "LOS MENSAJES DE WHATSAPP",
-        "url": "https://open.spotify.com/album/5LoyP8npqd0X2iSiAjFM1A"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 199848,
-      "name": "LOS MENSAJES DE WHATSAPP",
-      "url": "https://open.spotify.com/track/4KMB2zLUtiQAnEFclWnjND"
-    },
-    {
-      "added_at": "2026-08-14 06:40:00",
-      "album": {
         "name": "El Indio Enamorado",
         "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 159466,
       "name": "Compr\u00e9 Una Cantina",
       "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
+    },
+    {
+      "added_at": "2026-08-14 06:40:00",
+      "album": {
+        "name": "LOS MENSAJES DE WHATSAPP",
+        "url": "https://open.spotify.com/album/5LoyP8npqd0X2iSiAjFM1A"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 199848,
+      "name": "LOS MENSAJES DE WHATSAPP",
+      "url": "https://open.spotify.com/track/4KMB2zLUtiQAnEFclWnjND"
     },
     {
       "added_at": "2026-08-14 06:40:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2026-08-14 06:40:00",
       "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "La Casita",
+      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
+    },
+    {
+      "added_at": "2026-08-14 06:40:00",
+      "album": {
         "name": "El Chore",
         "url": "https://open.spotify.com/album/4yyQAqJj38f5DD7BhZhCuh"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 170259,
       "name": "El Chore",
       "url": "https://open.spotify.com/track/2k35RlqbpIPZPAOjzME0ZL"
-    },
-    {
-      "added_at": "2026-08-14 06:40:00",
-      "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "La Casita",
-      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
     },
     {
       "added_at": "2026-08-14 06:40:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2026-08-14 06:40:00",
       "album": {
+        "name": "Palabra De To's",
+        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "De Compas",
+      "url": "https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm"
+    },
+    {
+      "added_at": "2026-08-14 06:40:00",
+      "album": {
         "name": "TU TU TU",
         "url": "https://open.spotify.com/album/4WkJSoeofaut2WwjCfa6p0"
       },
@@ -1747,18 +1763,18 @@
     {
       "added_at": "2026-08-14 06:40:00",
       "album": {
-        "name": "Palabra De To's",
-        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
       },
       "artists": [
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
         }
       ],
-      "duration_ms": 165200,
-      "name": "De Compas",
-      "url": "https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm"
+      "duration_ms": 215066,
+      "name": "Cumbia Con La Luna",
+      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
     },
     {
       "added_at": "2026-08-14 06:40:00",
@@ -1779,22 +1795,6 @@
       "duration_ms": 191558,
       "name": "Mood Malandro",
       "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
-    },
-    {
-      "added_at": "2026-08-14 06:40:00",
-      "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "Cumbia Con La Luna",
-      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
     }
   ],
   "unique_name": "La Troca",

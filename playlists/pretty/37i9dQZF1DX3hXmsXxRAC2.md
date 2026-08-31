@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,597 likes - 58 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,982 likes - 58 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 10 | [Popurrí Juan Gabriel / Ya Lo Sé Que Tú Te Vas / La Diferencia / Te Sigo Amando \- En Vivo](https://open.spotify.com/track/0rrhbg6KmRfAFZ7owKroiv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 8:04 |
 | 11 | [Siempre En Mi Mente](https://open.spotify.com/track/00Z0rZZy8DEdC0gEJ7Lvmb) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Los Dúo](https://open.spotify.com/album/4uJPQcTBobQh5fn2nlaQSb) | 3:57 |
 | 12 | [Así Fue](https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 4:40 |
-| 13 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/5fy24Sqa6YZKadyl2FDlqu) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Rocio Durcal Canta A Juan Gabriel](https://open.spotify.com/album/21Ju1SwSaCZHkWtZh1dEyX) | 3:15 |
-| 14 | [He Venido a Pedirte Perdón \(with HA\-ASH\)](https://open.spotify.com/track/0yNBnX5iuu108NLpxcI2Yw) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:50 |
+| 13 | [He Venido a Pedirte Perdón \(with HA\-ASH\)](https://open.spotify.com/track/0yNBnX5iuu108NLpxcI2Yw) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:50 |
+| 14 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/5fy24Sqa6YZKadyl2FDlqu) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Rocio Durcal Canta A Juan Gabriel](https://open.spotify.com/album/21Ju1SwSaCZHkWtZh1dEyX) | 3:15 |
 | 15 | [Mañana, Mañana \- Primera Fila \- Live Version](https://open.spotify.com/track/72SShJccmTCXDqPf6J8h38) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Cristian Castro En Primera Fila \- Día 1](https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0) | 3:59 |
 | 16 | [No Discutamos](https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 2:15 |
 | 17 | [La Muerte del Palomo](https://open.spotify.com/track/2DS9ddKznwPNgG5Dt4w2ph) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 3:25 |

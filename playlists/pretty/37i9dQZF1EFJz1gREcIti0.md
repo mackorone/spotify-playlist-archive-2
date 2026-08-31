@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3LRQHA0f13JHI5UZH2JLsz">Spencer Stewart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 790 likes - 149 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 791 likes - 149 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 112 | [Lost](https://open.spotify.com/track/1f2moQ7gDFBBEat9s7rKZj) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Conditions Of A Punk](https://open.spotify.com/album/4mdZ4AxMYHZk3qE5jBmlzM) | 2:22 |
 | 113 | [I BEEN UP!](https://open.spotify.com/track/6gEYbNc4yn0oulp0DvUCo5) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [No Rewrites](https://open.spotify.com/album/72k7t7OuBY73bNVJGw8owe) | 2:03 |
 | 114 | [foolish](https://open.spotify.com/track/1onG2NrPIVGnpUxORqcXqi) | [Elah Hale](https://open.spotify.com/artist/0EDEUACmghvLBhxLnMpyeU) | [foolish](https://open.spotify.com/album/536MhsgMyVylgUPfosDAUj) | 2:40 |
-| 115 | [Not Love](https://open.spotify.com/track/6CywXGywidocLOnyjXSU1c) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq) | [Pink Is Better](https://open.spotify.com/album/0FnQVPQcWZjPL6u6M1qDAf) | 3:11 |
-| 116 | [Feyoncé](https://open.spotify.com/track/7zibkGOiGEgZ4dR5pqCOW1) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [Melody Of A Memory](https://open.spotify.com/album/5HHk3WZje18OMnqE6VzVKB) | 2:10 |
+| 115 | [Feyoncé](https://open.spotify.com/track/7zibkGOiGEgZ4dR5pqCOW1) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [Melody Of A Memory](https://open.spotify.com/album/5HHk3WZje18OMnqE6VzVKB) | 2:10 |
+| 116 | [Not Love](https://open.spotify.com/track/6CywXGywidocLOnyjXSU1c) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq) | [Pink Is Better](https://open.spotify.com/album/0FnQVPQcWZjPL6u6M1qDAf) | 3:11 |
 | 117 | [Strongly Worded Letter](https://open.spotify.com/track/0ZuQFjhs929dxImCpeomRE) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [High Concept](https://open.spotify.com/album/5DSSWFgWsyelKKtMEUe1cK) | 2:18 |
 | 118 | [Rascal](https://open.spotify.com/track/72O9rlIqPlEo40NTwMGz5g) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Sugar For Bugs](https://open.spotify.com/album/27x7Vgawgbd0KS6Mv0FJK0) | 3:49 |
 | 119 | [Best Bad Influence](https://open.spotify.com/track/3ByN6jnCdKhxWURtbkRqu0) | [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [Best Bad Influence](https://open.spotify.com/album/2i6T3nXdZJhBBgqnmom5al) | 3:05 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 148 | [Free Fall \- Edit](https://open.spotify.com/track/5rQtSoeRRO4y3d54z1Kd1f) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Free Fall](https://open.spotify.com/album/4df4LmPcayUQczAkV63sn4) | 3:01 |
 | 149 | [Mockingbird](https://open.spotify.com/track/1AlxrPQuJNXOl3wQOXyv68) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 3:28 |
 
-Snapshot ID: `Aca6PAAAAACywIKfq8IZX9hvFBCC9+V3`
+Snapshot ID: `Aca/8AAAAADDqZVC2kn8SyKMRG1gl/XM`

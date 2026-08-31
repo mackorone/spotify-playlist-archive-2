@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Complex rhythms and mesmerizing loops\. Cover: Elephant Gym
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,877 likes - 130 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,954 likes - 130 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,19 +76,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 66 | [Aped](https://open.spotify.com/track/3wtC8F2j4hUMHFlMSS1RzR) | [Tera Melos](https://open.spotify.com/artist/3K4vimkwmCyjD4g1hEMPjZ) | [Patagonian Rats](https://open.spotify.com/album/1iJJ7eJ6xsEvmdCSHb8wp2) | 4:06 |
 | 67 | [Infinite Spice](https://open.spotify.com/track/40hF24KMxg9LpglA9We3As) | [Via Luna](https://open.spotify.com/artist/3qu0nHytyZet7JFUe2Afow) | [Muted Earth](https://open.spotify.com/album/6jw9yrfHNn1Yigjnlunk0L) | 4:11 |
 | 68 | [Bambú](https://open.spotify.com/track/0blSP29ZqkQxUGImV3rB2o) | [Puerto Austral](https://open.spotify.com/artist/4PeFo2mhFvz9CeURn4nQ5o) | [51°31'47"S 58°07'44"W](https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O) | 3:33 |
-| 69 | [Una Historia para Acabar Con Todas las Historias](https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND) | [Helices](https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28) | [Propulsor](https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI) | 6:21 |
-| 70 | [Espejos Dorados](https://open.spotify.com/track/08dEcUg90k8QDBpwNxHwjQ) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Imago](https://open.spotify.com/album/6wkTq5B02oGnBnx7X1bWBt) | 4:18 |
-| 71 | [Have You Ever Seen Milk](https://open.spotify.com/track/4Q0XClBarblfHusW6dzFIE) | [Alpha Male Tea Party](https://open.spotify.com/artist/2JVPwr6UNZIdsdl8rjTD7S) | [Health](https://open.spotify.com/album/6aBLOoBnvopfwq7PaZ9LUx) | 6:29 |
-| 72 | [Valerio Benustelli](https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil) | [Jean Loup](https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U) | [Valerio Benustelli](https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc) | 3:26 |
+| 69 | [Espejos Dorados](https://open.spotify.com/track/08dEcUg90k8QDBpwNxHwjQ) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Imago](https://open.spotify.com/album/6wkTq5B02oGnBnx7X1bWBt) | 4:18 |
+| 70 | [Una Historia para Acabar Con Todas las Historias](https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND) | [Helices](https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28) | [Propulsor](https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI) | 6:21 |
+| 71 | [Valerio Benustelli](https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil) | [Jean Loup](https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U) | [Valerio Benustelli](https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc) | 3:26 |
+| 72 | [Have You Ever Seen Milk](https://open.spotify.com/track/4Q0XClBarblfHusW6dzFIE) | [Alpha Male Tea Party](https://open.spotify.com/artist/2JVPwr6UNZIdsdl8rjTD7S) | [Health](https://open.spotify.com/album/6aBLOoBnvopfwq7PaZ9LUx) | 6:29 |
 | 73 | [Cloudy](https://open.spotify.com/track/31R2zckDu43rRW9inEVtoS) | [Trees Before Fall](https://open.spotify.com/artist/0feW6OzAxJuE9si7Q5B8T8) | [Trees Before Fall](https://open.spotify.com/album/2T1bfNOah0IU8Q5XNYWN4i) | 4:59 |
 | 74 | [Jazztas](https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [Canis Allegro](https://open.spotify.com/album/71YTAB1yF7RROLkgKOLFy6) | 5:02 |
 | 75 | [ARUKAS](https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [ARUKAS](https://open.spotify.com/album/0uLI0jDIzYmq6j8nFp833P) | 5:41 |
 | 76 | [Sunchaser](https://open.spotify.com/track/6cC7uJWWQq0t4Jl6Pr97fH) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [Sunchaser](https://open.spotify.com/album/2wBSQhIxvczNN4aS2kHJwd) | 4:15 |
 | 77 | [GRVD](https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ) | [LEÑA](https://open.spotify.com/artist/3A3FoilKOXzYIkHm948iBS) | [Ni Hablar](https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s) | 3:41 |
 | 78 | [Beow](https://open.spotify.com/track/69pFXap7G2AGMUXV0Njtab) | [Suffer Like G Did](https://open.spotify.com/artist/7mFJ8ikeW57cChHbHpYiUf) | [Beow](https://open.spotify.com/album/2Kxe4roMOtztT6Qn6fvNgl) | 3:28 |
-| 79 | [El Capitán](https://open.spotify.com/track/2qocldaWoDwzSPR4D1Dqpv) | [Yo Triceratop](https://open.spotify.com/artist/7APdZybMciE2luVovmsSmZ) | [Limerencia: Split](https://open.spotify.com/album/17k2pajUNOQUUoWSjFd4st) | 4:22 |
-| 80 | [Floaty Boaty](https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr) | [House Tours](https://open.spotify.com/artist/0JJrpuxdhv0fmrMQR7PEC7) | [Floaty Boaty](https://open.spotify.com/album/5R0x6BSokx2A1Y6xgPzQqF) | 4:16 |
-| 81 | [What Is Your Landmass](https://open.spotify.com/track/1Xa7m0ox4oasvPBnXhD7ZY) | [Dianogah](https://open.spotify.com/artist/1VgnczxN9UlQeFTrh1S8MB) | [As Seen from Above](https://open.spotify.com/album/4AcT3bvC9fETTGSk70doVX) | 2:54 |
+| 79 | [What Is Your Landmass](https://open.spotify.com/track/1Xa7m0ox4oasvPBnXhD7ZY) | [Dianogah](https://open.spotify.com/artist/1VgnczxN9UlQeFTrh1S8MB) | [As Seen from Above](https://open.spotify.com/album/4AcT3bvC9fETTGSk70doVX) | 2:54 |
+| 80 | [El Capitán](https://open.spotify.com/track/2qocldaWoDwzSPR4D1Dqpv) | [Yo Triceratop](https://open.spotify.com/artist/7APdZybMciE2luVovmsSmZ) | [Limerencia: Split](https://open.spotify.com/album/17k2pajUNOQUUoWSjFd4st) | 4:22 |
+| 81 | [Floaty Boaty](https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr) | [House Tours](https://open.spotify.com/artist/0JJrpuxdhv0fmrMQR7PEC7) | [Floaty Boaty](https://open.spotify.com/album/5R0x6BSokx2A1Y6xgPzQqF) | 4:16 |
 | 82 | [You Eat Houmous, of Course You Listen to Genesis](https://open.spotify.com/track/1o4JR1GCZv5neEl6Djs71B) | [Alpha Male Tea Party](https://open.spotify.com/artist/2JVPwr6UNZIdsdl8rjTD7S) | [Droids](https://open.spotify.com/album/2ZW4OKLdMjp53HgVckgOv0) | 3:40 |
 | 83 | [Solace](https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb) | [Heavy Ocean](https://open.spotify.com/artist/6rq67hJkJ6vGBYFzFYznhX) | [H/O](https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm) | 7:35 |
 | 84 | [Ruth Leslie \(Cigregrets Pt\. 1\)](https://open.spotify.com/track/6W9yjiuIczOUQlp1jG3FwE) | [Narrow / Arrow](https://open.spotify.com/artist/7al8a2jU7x4H9AcA7TeyqE) | [Asbestos Weak Hood](https://open.spotify.com/album/4g3y6JrQ6Jr065jNCoWPo1) | 3:02 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 93 | [Habanero](https://open.spotify.com/track/7AJzgN9RR0OJBQF8gnBaa7) | [FRDZ](https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t) | [Fernández](https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw) | 4:05 |
 | 94 | [003: Haiyah!](https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [003: Haiyah!](https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE) | 3:54 |
 | 95 | [You can go again](https://open.spotify.com/track/2zPPDLU1JXimTWoBkt8izs) | [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Celebrities](https://open.spotify.com/album/5zhLoUfVcnW5Vl7iiZ5FDt) | 4:07 |
-| 96 | [Caballos \(Horses\)](https://open.spotify.com/track/7dzTIo5FpMtZ7vjBOSAi0l) | [The Polar Dream](https://open.spotify.com/artist/1fH2nvEznZkYOyj0BjOhNp) | [Kiev](https://open.spotify.com/album/0ZXDdJxHjyC4XmF0inrFkt) | 5:03 |
-| 97 | [Queso](https://open.spotify.com/track/7v0tdOisj4IEYUjM8KBCBz) | [Hungría](https://open.spotify.com/artist/0OrifgXKiu7rDYQbFW0Dpx) | [Magyarország vagy halál](https://open.spotify.com/album/5HdscyNkq8Wqeb4ksu775M) | 5:37 |
+| 96 | [Queso](https://open.spotify.com/track/7v0tdOisj4IEYUjM8KBCBz) | [Hungría](https://open.spotify.com/artist/0OrifgXKiu7rDYQbFW0Dpx) | [Magyarország vagy halál](https://open.spotify.com/album/5HdscyNkq8Wqeb4ksu775M) | 5:37 |
+| 97 | [Caballos \(Horses\)](https://open.spotify.com/track/7dzTIo5FpMtZ7vjBOSAi0l) | [The Polar Dream](https://open.spotify.com/artist/1fH2nvEznZkYOyj0BjOhNp) | [Kiev](https://open.spotify.com/album/0ZXDdJxHjyC4XmF0inrFkt) | 5:03 |
 | 98 | [Andes](https://open.spotify.com/track/0RqMmK2Cf5TuSekASvzxwL) | [Montaña](https://open.spotify.com/artist/5oZKQvQiZPui8fMeeo5a2S) | [Coordenadas](https://open.spotify.com/album/6SxAPJhbN9xsgcPtEPg9C0) | 3:29 |
 | 99 | [Aquabus](https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od) | [Shaolin](https://open.spotify.com/artist/4OwxoHYcS57KWPFNNB6K1E) | [Psych!](https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD) | 4:36 |
 | 100 | [Hornet Vision](https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD) | [nevraska](https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET) | [I left work on my way home december 1st 1955](https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV) | 3:48 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 113 | [D \- feat\. Tomotaka Tsuji](https://open.spotify.com/track/4VtDX2nzP5TY2CwiTenZKq) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [Tomotaka Tsuji](https://open.spotify.com/artist/4I4peCBKiAH2e9Lggqn7X2) | [Fraction](https://open.spotify.com/album/179Fhkk5OUsNFh46JDJ6vl) | 4:43 |
 | 114 | [Camp Adventure](https://open.spotify.com/track/6umKcjGSEcThGs5dcYEnoU) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [Twin Galaxies](https://open.spotify.com/album/2ip3aGH8KWEA8EugbTdsNZ) | 3:09 |
 | 115 | [two moons](https://open.spotify.com/track/2uo8RCIshYb1aVSNZlrwZZ) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ) | [For Long Tomorrow](https://open.spotify.com/album/6I6y9F6LgWdE1RRJ4wrhz5) | 4:10 |
-| 116 | [Cat Fantastic](https://open.spotify.com/track/1kaWnMc0ryiFtPwWVKmZtb) | [TTNG](https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0) | [13.0.0.0.0](https://open.spotify.com/album/3QQOkN9iqJJrwXohbNYRiP) | 4:53 |
-| 117 | [Baile Amargo](https://open.spotify.com/track/1kWoh3kdfxO0ZXEwMoVky5) | [Wanderlust](https://open.spotify.com/artist/3hacWq1eA8akZcZmmUNbOY) | [Naufragio](https://open.spotify.com/album/6RneXac3NVeZFsjPfd9I9Z) | 2:54 |
+| 116 | [Baile Amargo](https://open.spotify.com/track/1kWoh3kdfxO0ZXEwMoVky5) | [Wanderlust](https://open.spotify.com/artist/3hacWq1eA8akZcZmmUNbOY) | [Naufragio](https://open.spotify.com/album/6RneXac3NVeZFsjPfd9I9Z) | 2:54 |
+| 117 | [Cat Fantastic](https://open.spotify.com/track/1kaWnMc0ryiFtPwWVKmZtb) | [TTNG](https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0) | [13.0.0.0.0](https://open.spotify.com/album/3QQOkN9iqJJrwXohbNYRiP) | 4:53 |
 | 118 | [My Only Swerving](https://open.spotify.com/track/7bUGrBJEkLdtCIDYfT5abh) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0) | [El Ten Eleven](https://open.spotify.com/album/1j1FvT4EyX9ZIHKlPnUFRL) | 5:14 |
 | 119 | [itsallwaves](https://open.spotify.com/track/5E5sFKr3L2sfmvnQR38N5C) | [Enemies](https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB) | [Valuables](https://open.spotify.com/album/4qB4qeFJ51u16LIX67gcfR) | 4:27 |
 | 120 | [Teratology](https://open.spotify.com/track/7e27JuhzIHIN2p2C6PpGU1) | [The Physics House Band](https://open.spotify.com/artist/30EilmonVXftR1pWoALezP) | [Horizons / Rapture](https://open.spotify.com/album/6g3H4Su4jES5zbfY4av4Tt) | 6:25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:58lKFq1ZTU6IH6NWkmObn0">Gloria Tricamo</a> in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,911 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,913 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Ayra Starr\. The essential tracks, all in one playlist.
 
-76 songs - 3 hr 49 min
+77 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(Remixes\)](https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G) | 3:04 | 2025-08-13 |  |
 | [PINACOLADA](https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [PINACOLADA](https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE) | 2:57 | 2025-08-13 |  |
 | [PINACOLADA REMIX \(feat\. Beéle, Ayra Starr, 6LACK\)](https://open.spotify.com/track/7qNZLFVB86qiyRT9xFg0f4) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [PINACOLADA REMIX \(feat\. Beéle, Ayra Starr, 6LACK\)](https://open.spotify.com/album/12CsRgdLnx2J6Da2mS4JyN) | 3:31 | 2025-08-13 |  |
-| [Pressure \(feat\. Leon Thomas\)](https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:24 | 2026-08-16 |  |
+| [Pressure \(feat\. Leon Thomas\)](https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:24 | 2026-08-16 | 2026-08-31 |
 | [Rhythm & Blues](https://open.spotify.com/track/3ZWhFbqXvX3rBQHG8XpnJS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:23 | 2025-08-13 |  |
 | [Running](https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 2:22 | 2025-08-13 |  |
 | [Rush](https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:05 | 2025-08-13 |  |
@@ -77,6 +77,7 @@
 | [Stamina](https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Stamina](https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm) | 2:46 | 2025-08-13 |  |
 | [Take It To The Top \(Becky G & Ayra Starr\)](https://open.spotify.com/track/4mKUfMSg0geJFVscFdaMcQ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION\)](https://open.spotify.com/album/0rqRGFgE4o8kf6VM18jakx) | 2:05 | 2025-08-13 | 2026-08-16 |
 | [Tornado](https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Tornado](https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U) | 2:54 | 2026-06-14 |  |
+| [Treasure](https://open.spotify.com/track/0ZeU1691bYmy26bDvFCUMc) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:39 | 2026-08-31 |  |
 | [treat u right](https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [treat u right](https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE) | 2:57 | 2026-07-05 |  |
 | [Where Do We Go](https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Where Do We Go](https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh) | 2:56 | 2026-03-08 | 2026-08-21 |
 | [Who's Dat Girl \(feat\. Rema\)](https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Who’s Dat Girl](https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW) | 2:52 | 2025-10-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Varanasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,976 likes - 50 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,990 likes - 50 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 47 | [Nanna You Are My Hero \(From "Night Out With Nanna"\)](https://open.spotify.com/track/0M2CZsPTpNYFUTYlIosMqV) | [Rahul Jaikar](https://open.spotify.com/artist/7mLBkfgsKcQYBewjDpLj89) | [Nanna You Are My Hero \(From "Night Out With Nanna"\)](https://open.spotify.com/album/1X169NUVALh6KoEWJQ9eC1) | 1:59 |
 | 48 | [Itlu Kanmani Announcement Theme](https://open.spotify.com/track/3UwuNDTGxZhKvgEpneC8mH) | [Praveen Sriram](https://open.spotify.com/artist/3k40nOv0gpniaMd9OsYZK6) | [Itlu Kanmani Announcement Theme](https://open.spotify.com/album/5tg9gAncqIphPnEx6MNJsn) | 1:03 |
 | 49 | [Title Glimpse \(From "BharataVarsha – Saga Of Shula"\)](https://open.spotify.com/track/1oN3V3I3ZDcae7JKXP4a62) | [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql) | [Title Glimpse \(From "BharataVarsha – Saga Of Shula"\)](https://open.spotify.com/album/7h83VMmJo7RxwJNmDMckbN) | 1:04 |
-| 50 | [Businessman Theme](https://open.spotify.com/track/7CDtNYmYLreTJB3NCQOOz6) | [Mahesh Babu](https://open.spotify.com/artist/3fHBN4cBo24hLf8jnCUTYK), [Puri Jagannath](https://open.spotify.com/artist/5qRAnJeG7hK5QaUm79GKhg), [Chours](https://open.spotify.com/artist/0GIOsTRn0PVodWAHcc6NkB) | [Businessman](https://open.spotify.com/album/1AdvHtbDQU2lOcSCZzB6xz) | 2:47 |
+| 50 | [Agni Skalana](https://open.spotify.com/track/547drAxnHv6qRwvJMceREO) | [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Mathangi](https://open.spotify.com/artist/1FLKLH0gwcm3HOkQopsn9t) | [Chatrapathi](https://open.spotify.com/album/5xvwlDPbWYpTSeWdBJf2oX) | 3:09 |
 
 Snapshot ID: `AAAAAKh09Tz/3POwElFvKcWi70rIdwyP`

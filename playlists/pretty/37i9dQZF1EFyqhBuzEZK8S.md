@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,346 likes - 365 songs - 22 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,347 likes - 365 songs - 22 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 95 | [dodger blue \(feat\. wallie the sensei, siete7x, roddy ricch\)](https://open.spotify.com/track/4K1Pg0FLno1ltzX3jeqT83) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5), [Siete7x](https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:11 |
 | 96 | [Writer In The Dark](https://open.spotify.com/track/193Dm5SqYy3hTSbuzxbwKc) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:36 |
 | 97 | [I Wish You Would](https://open.spotify.com/track/5gRYrtvyVyaCRvLt56OfuV) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:27 |
-| 98 | [heart pt\. 6](https://open.spotify.com/track/1SGvjfc85yzqKXsfKcCxn2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 4:52 |
-| 99 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
+| 98 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
+| 99 | [heart pt\. 6](https://open.spotify.com/track/1SGvjfc85yzqKXsfKcCxn2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 4:52 |
 | 100 | [reincarnated](https://open.spotify.com/track/0RgjEkSbeuStKfT2Pa4Zai) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 4:35 |
 | 101 | [Suburban Legends \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/6T0sEnqjmHISIKwFETeeiP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 2:51 |
 | 102 | [You Are In Love](https://open.spotify.com/track/2KrOAg6FftbjgSKdd2a4rS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 4:27 |
@@ -178,8 +178,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 168 | [Stranger](https://open.spotify.com/track/6IBTI6u7tVNtWojUHnO4Ap) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:21 |
 | 169 | [Cards](https://open.spotify.com/track/3C5yxZTCcDOi4pnFEnKJdC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:43 |
 | 170 | [Girls Against God](https://open.spotify.com/track/6kQlUiaTUyRW8fYQ2xDhpx) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 4:40 |
-| 171 | [Oceanic Feeling](https://open.spotify.com/track/6kj8TeHSns33wt1Z1wdmMx) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 6:39 |
-| 172 | [Isimo](https://open.spotify.com/track/3rNqa21S7XpJ5v1WjoAqee) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:23 |
+| 171 | [Isimo](https://open.spotify.com/track/3rNqa21S7XpJ5v1WjoAqee) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:23 |
+| 172 | [Oceanic Feeling](https://open.spotify.com/track/6kj8TeHSns33wt1Z1wdmMx) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 6:39 |
 | 173 | [All The Pretty Girls](https://open.spotify.com/track/2cHGWytemKJuckq2oLnAbZ) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Aim and Ignite \(Deluxe Version\)](https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI) | 3:22 |
 | 174 | [Hate That You Know Me](https://open.spotify.com/track/7FqScuVJysPgwVFcepFJks) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:05 |
 | 175 | [Dominoes](https://open.spotify.com/track/78Sn3YMeqUgJBoe6zt940Z) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 2:03 |
@@ -282,8 +282,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 272 | [Harsh Light](https://open.spotify.com/track/1y0uuh9sBYKvo9nRneVNJs) | [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [Grand Romantic](https://open.spotify.com/album/0vrIRUpI2gB2QqOUQEG05v) | 4:50 |
 | 273 | [Big Life](https://open.spotify.com/track/4M3Uqqw3L6oGEMk69SYIKE) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 2:30 |
 | 274 | [Man Of The House](https://open.spotify.com/track/3aIvJqEB3SN3aNvOfOo3CS) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3) | [Man Of The House](https://open.spotify.com/album/38shyLCy0GkloXIDQsiAxu) | 2:53 |
-| 275 | [Stitch Me Up](https://open.spotify.com/track/5rdZ58I4SSgF2J9C6vbRqK) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Aim and Ignite \(Deluxe Version\)](https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI) | 4:05 |
-| 276 | [sideways](https://open.spotify.com/track/135kWbc6Ff2eh2ihtNAQ6y) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:27 |
+| 275 | [sideways](https://open.spotify.com/track/135kWbc6Ff2eh2ihtNAQ6y) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:27 |
+| 276 | [Stitch Me Up](https://open.spotify.com/track/5rdZ58I4SSgF2J9C6vbRqK) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Aim and Ignite \(Deluxe Version\)](https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI) | 4:05 |
 | 277 | [Bullet](https://open.spotify.com/track/1lmCfK7YeWDkjMozM6IIWx) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Steel Train](https://open.spotify.com/album/3XkTBYbtXxJ2HrII6sfgbI) | 4:08 |
 | 278 | [Born To Bleed](https://open.spotify.com/track/7ngo27B7z2ls2j2SijzR6h) | [Red Hearse](https://open.spotify.com/artist/2922Q2qAcxb0hRD0LtPcFc) | [Red Hearse](https://open.spotify.com/album/1BrBVH1v92OAzRDijSyhj9) | 3:15 |
 | 279 | [Play Dumb](https://open.spotify.com/track/1riVlpXulpdZ5jTGIKTQM0) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 3:03 |
@@ -374,4 +374,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 364 | [W.95th Street High](https://open.spotify.com/track/6D4wRSYyOHfJkYs2VelrbW) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 4:21 |
 | 365 | [I Will Stay Here](https://open.spotify.com/track/0Je3AfZFiRde3KcvZYlCS0) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:46 |
 
-Snapshot ID: `Aca6PAAAAAANrDSpDudsSGfACsEj84Vo`
+Snapshot ID: `Aca/3AAAAADp+OP1I2rBYmLl/nWXCRus`

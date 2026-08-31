@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > lighters up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 821,899 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 821,975 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 19 | [Leave a Light On \(Talk Away The Dark\)](https://open.spotify.com/track/0b6fNjbiW4uF0W01GAfRVg) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:07 |
 | 20 | [Sorry](https://open.spotify.com/track/7qpDqr5TxcTlOHG0k7moGt) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [15](https://open.spotify.com/album/0jJsG6B5PqmOMEKpuCg5ru) | 3:46 |
 | 21 | [My December](https://open.spotify.com/track/0fxGA5lxrdYNYoE7yJxTNZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 4:20 |
-| 22 | [Ashes of Eden](https://open.spotify.com/track/7HjNOz8Y7H7uSySXuHNg1Y) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dark Before Dawn](https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR) | 4:53 |
-| 23 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 |
+| 22 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 |
+| 23 | [Ashes of Eden](https://open.spotify.com/track/7HjNOz8Y7H7uSySXuHNg1Y) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dark Before Dawn](https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR) | 4:53 |
 | 24 | [Over You](https://open.spotify.com/track/7mXmxXLAnsvXKt4Q37KoMI) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Daughtry](https://open.spotify.com/album/7MEQdKzqoG2QJYcT2XEKsW) | 3:24 |
 | 25 | [Hearts / Wires](https://open.spotify.com/track/1SeMnyEb5dwCBLU3QUC0K2) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Gore](https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n) | 5:20 |
 | 26 | [Swing Life Away](https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:20 |

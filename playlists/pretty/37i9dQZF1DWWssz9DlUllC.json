@@ -1,6 +1,6 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  Famous Pluto ",
-  "num_followers": 96450,
+  "num_followers": 96563,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,22 @@
     {
       "added_at": "2026-08-28 00:02:01",
       "album": {
-        "name": "STATE OF MIND",
-        "url": "https://open.spotify.com/album/5qTP3Akjr05OV0ZdSH7Mcx"
+        "name": "Paparazzi",
+        "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
       },
       "artists": [
         {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
         },
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 192227,
-      "name": "STATE OF MIND",
-      "url": "https://open.spotify.com/track/6jHxHUv9jF1ss5NAkG6JPo"
+      "duration_ms": 147302,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
     },
     {
       "added_at": "2026-08-28 00:02:01",
@@ -495,26 +495,6 @@
     {
       "added_at": "2026-08-28 00:02:01",
       "album": {
-        "name": "Paparazzi",
-        "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 147302,
-      "name": "Paparazzi",
-      "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
-    },
-    {
-      "added_at": "2026-08-28 00:02:01",
-      "album": {
         "name": "Hello Hello",
         "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 155789,
       "name": "Hello Hello",
       "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
+    },
+    {
+      "added_at": "2026-08-28 00:02:01",
+      "album": {
+        "name": "STATE OF MIND",
+        "url": "https://open.spotify.com/album/5qTP3Akjr05OV0ZdSH7Mcx"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 192227,
+      "name": "STATE OF MIND",
+      "url": "https://open.spotify.com/track/6jHxHUv9jF1ss5NAkG6JPo"
     },
     {
       "added_at": "2026-08-28 00:02:01",
@@ -595,6 +595,26 @@
     {
       "added_at": "2026-08-28 00:02:01",
       "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 174159,
+      "name": "ARMED & DANGEROUS (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/2VTjvbOa7BNQoW9zrgiqnC"
+    },
+    {
+      "added_at": "2026-08-28 00:02:01",
+      "album": {
         "name": "ON MY BIRTHDAY",
         "url": "https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 140505,
       "name": "Energy",
       "url": "https://open.spotify.com/track/5KkV60IH22ERQHfNxkGa1G"
-    },
-    {
-      "added_at": "2026-08-28 00:02:01",
-      "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 174159,
-      "name": "ARMED & DANGEROUS (feat. Young Jonn)",
-      "url": "https://open.spotify.com/track/2VTjvbOa7BNQoW9zrgiqnC"
     },
     {
       "added_at": "2026-08-28 00:02:01",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-08-28 00:02:01",
       "album": {
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 119954,
+      "name": "HAPPY SONG",
+      "url": "https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg"
+    },
+    {
+      "added_at": "2026-08-28 00:02:01",
+      "album": {
         "name": "Jembe / 14DRoad",
         "url": "https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 138208,
       "name": "Jembe",
       "url": "https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE"
-    },
-    {
-      "added_at": "2026-08-28 00:02:01",
-      "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 119954,
-      "name": "HAPPY SONG",
-      "url": "https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg"
     },
     {
       "added_at": "2026-08-28 00:02:01",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-08-28 00:02:01",
       "album": {
-        "name": "Love Is Not Enough, Vol. 2",
-        "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 149243,
-      "name": "If You Leave",
-      "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
-    },
-    {
-      "added_at": "2026-08-28 00:02:01",
-      "album": {
         "name": "TOO HOT",
         "url": "https://open.spotify.com/album/5c7lWpyYn8xKBPnnDAv59V"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 144000,
       "name": "TOO HOT",
       "url": "https://open.spotify.com/track/3YAHhZcpdZHpr6sXleNTIH"
+    },
+    {
+      "added_at": "2026-08-28 00:02:01",
+      "album": {
+        "name": "Love Is Not Enough, Vol. 2",
+        "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 149243,
+      "name": "If You Leave",
+      "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
     },
     {
       "added_at": "2026-08-28 00:02:01",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2026-08-28 00:02:01",
       "album": {
-        "name": "SWAGGA",
-        "url": "https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80"
+        "name": "Wahala Pikin",
+        "url": "https://open.spotify.com/album/3DVSsOwiOvKGN6t639kjy4"
       },
       "artists": [
         {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
         }
       ],
-      "duration_ms": 156473,
-      "name": "SWAGGA",
-      "url": "https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K"
+      "duration_ms": 118801,
+      "name": "Opium Amapiano",
+      "url": "https://open.spotify.com/track/7oocZnr0yjZxJfRkbOHkYv"
     },
     {
       "added_at": "2026-08-28 00:02:01",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2026-08-28 00:02:01",
       "album": {
-        "name": "Wahala Pikin",
-        "url": "https://open.spotify.com/album/3DVSsOwiOvKGN6t639kjy4"
+        "name": "SWAGGA",
+        "url": "https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80"
       },
       "artists": [
         {
-          "name": "Zhus Jdo",
-          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
         }
       ],
-      "duration_ms": 118801,
-      "name": "Opium Amapiano",
-      "url": "https://open.spotify.com/track/7oocZnr0yjZxJfRkbOHkYv"
+      "duration_ms": 156473,
+      "name": "SWAGGA",
+      "url": "https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K"
     },
     {
       "added_at": "2026-08-28 00:02:01",

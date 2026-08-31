@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 
 > Música ideal para tomar el té y relajar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,132 likes - 90 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,112 likes - 90 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 58 | [Un Osito de Peluche de Taiwán \- MTV Unplugged](https://open.spotify.com/track/6rkRm52aWJhtRgOF9WTtnZ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:51 |
 | 59 | [Antiguo y moderno](https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Julian Kartun](https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8) | [El Verdadero](https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt) | 2:43 |
 | 60 | [Las Cosas Tienen Movimiento](https://open.spotify.com/track/35CG9WjAKJSvUaWRaJr5um) | [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [Modelo Para Armar](https://open.spotify.com/album/4mo9qZYKGJK7Nk2vJr5age) | 4:20 |
-| 61 | [Sensei](https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sensei](https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X) | 2:54 |
-| 62 | [me hace bien amar\(te\)](https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [me hace bien amar\(te\)](https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2) | 3:43 |
+| 61 | [me hace bien amar\(te\)](https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [me hace bien amar\(te\)](https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2) | 3:43 |
+| 62 | [Sensei](https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sensei](https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X) | 2:54 |
 | 63 | [Tan temperamental](https://open.spotify.com/track/2LmQL1ptqEkIQSHy0O8zvu) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Artificio](https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP) | 3:20 |
 | 64 | [Derrumbe](https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Derrumbe](https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W) | 2:11 |
 | 65 | [Vos](https://open.spotify.com/track/2d7QcFbqo7AfLLnHRmbqrn) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Vos](https://open.spotify.com/album/0H5BnWQZyob5gORyrods7t) | 3:18 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 67 | [Suerte y Hasta Pronto](https://open.spotify.com/track/4XPpPrjOBGOyifH8D4IOrU) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Berrinche](https://open.spotify.com/album/2eiABxwsZYiIxQyugXKZsb) | 3:31 |
 | 68 | [Lo que elegiste.](https://open.spotify.com/track/55qDpPBtGGoryXEZ3AyUPf) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [\[PAULA\] Compilación VOL 1.](https://open.spotify.com/album/4YFaiAtamHL4yL0TDFRenQ) | 1:06 |
 | 69 | [Flaca](https://open.spotify.com/track/45t73UFILXwTbO7fvEIAUw) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Flaca](https://open.spotify.com/album/69ooyiugiCWS2jheDxBfYs) | 3:46 |
-| 70 | [No me Arrepiento de este Amor](https://open.spotify.com/track/3TCtf7MkkCBywzS35f5UP2) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No me Arrepiento de este Amor](https://open.spotify.com/album/6mFNSXSvSCFLPytptCC5IT) | 3:01 |
-| 71 | [Quiero \- Acústico](https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 2:45 |
-| 72 | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q) | 2:58 |
+| 70 | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q) | 2:58 |
+| 71 | [No me Arrepiento de este Amor](https://open.spotify.com/track/3TCtf7MkkCBywzS35f5UP2) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No me Arrepiento de este Amor](https://open.spotify.com/album/6mFNSXSvSCFLPytptCC5IT) | 3:01 |
+| 72 | [Quiero \- Acústico](https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 2:45 |
 | 73 | [Nena, dime algo.](https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:36 |
 | 74 | [AWCH \- Acústico](https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH \(Acústico\)](https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf) | 3:16 |
 | 75 | [Mi manera de querer](https://open.spotify.com/track/4vf86rvT51NZtZHeLB1noi) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Mi manera de querer](https://open.spotify.com/album/0sNxXiClNbKVecxR0LaizG) | 3:53 |

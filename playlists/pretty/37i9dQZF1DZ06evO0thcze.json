@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 58273,
+  "num_followers": 58275,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABDglRf1x5S1acumsgAYLxk",
+  "snapshot_id": "apIhAAAAAABYCGCLksIHUDdaZcThpvia",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fobia",
-        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Mas Vale Cholo",
-      "url": "https://open.spotify.com/track/5ikxVvxiartCefvERWxFNX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Ti Estoy Loco",
         "url": "https://open.spotify.com/album/75Mx4x35IQXPFkq8Z9jxK8"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 222843,
       "name": "Por Ti Estoy Loco",
       "url": "https://open.spotify.com/track/1j8DGkY3x2sAJoUKW0zAE5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fobia",
+        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Mas Vale Cholo",
+      "url": "https://open.spotify.com/track/5ikxVvxiartCefvERWxFNX"
     },
     {
       "added_at": null,
@@ -535,42 +535,6 @@
       "duration_ms": 321000,
       "name": "Si Aqu\u00ed Estuvieras",
       "url": "https://open.spotify.com/track/2uH7BbKKG9bzVBuHdL5TB2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Fiest\u00f3n",
-        "url": "https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "El Fiest\u00f3n",
-      "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
     },
     {
       "added_at": null,
@@ -623,6 +587,42 @@
       "duration_ms": 396705,
       "name": "Alzypher Alzada x Rich Vagos",
       "url": "https://open.spotify.com/track/71EefoxxHKdjSQ33bOoLSN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Fiest\u00f3n",
+        "url": "https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "El Fiest\u00f3n",
+      "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toques de Queda",
-        "url": "https://open.spotify.com/album/6ctiaGPxGEGW8yrYmzDOvQ"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "Ultimadamente",
-      "url": "https://open.spotify.com/track/3IfUGWgiKfBJMt7eCdkZqn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pura Borrachera",
         "url": "https://open.spotify.com/album/2iZVXuF5HQwXFPNktQi3n6"
       },
@@ -807,6 +787,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toques de Queda",
+        "url": "https://open.spotify.com/album/6ctiaGPxGEGW8yrYmzDOvQ"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Ultimadamente",
+      "url": "https://open.spotify.com/track/3IfUGWgiKfBJMt7eCdkZqn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Juanos",
+        "url": "https://open.spotify.com/album/5tS1HsYBnvYDLgh5ZZGTv0"
+      },
+      "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "La Bruja en el Beat",
+          "url": "https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Los Juanos",
+      "url": "https://open.spotify.com/track/1bpZPzPHSqAVqMjWiM8ipw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Tu Piel",
         "url": "https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz"
       },
@@ -823,6 +851,34 @@
       "duration_ms": 221413,
       "name": "Por Tu Piel",
       "url": "https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Es Que Sea Mam\u00f3n",
+        "url": "https://open.spotify.com/album/62xk03MAGxGSGK9A5iao8v"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "La Bruja en el Beat",
+          "url": "https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "No Es Que Sea Mam\u00f3n",
+      "url": "https://open.spotify.com/track/1FyzZCeAoLRqk07Dhh1zVz"
     },
     {
       "added_at": null,
@@ -867,34 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Es Que Sea Mam\u00f3n",
-        "url": "https://open.spotify.com/album/62xk03MAGxGSGK9A5iao8v"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "La Bruja en el Beat",
-          "url": "https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "No Es Que Sea Mam\u00f3n",
-      "url": "https://open.spotify.com/track/1FyzZCeAoLRqk07Dhh1zVz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Directo Hasta Arriba Vol.2",
         "url": "https://open.spotify.com/album/4mKBizouQK5HBdsuIgcHSG"
       },
@@ -915,34 +943,6 @@
       "duration_ms": 280421,
       "name": "El Cumbi\u00f3n",
       "url": "https://open.spotify.com/track/18hfIdKEFDdXEwktiVSwCw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Juanos",
-        "url": "https://open.spotify.com/album/5tS1HsYBnvYDLgh5ZZGTv0"
-      },
-      "artists": [
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "La Bruja en el Beat",
-          "url": "https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Los Juanos",
-      "url": "https://open.spotify.com/track/1bpZPzPHSqAVqMjWiM8ipw"
     },
     {
       "added_at": null,
@@ -1139,6 +1139,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mundo Cholo",
+        "url": "https://open.spotify.com/album/1k6OrwoCWoIMa9ObPY792d"
+      },
+      "artists": [
+        {
+          "name": "Sauceda SM",
+          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Mundo Cholo",
+      "url": "https://open.spotify.com/track/00MmuIorbFcYWNleiiuJeQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LA NETA SIN CARETA",
         "url": "https://open.spotify.com/album/126AtDnK92bonVs7eD5hK6"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 203181,
       "name": "LA NETA SIN CARETA",
       "url": "https://open.spotify.com/track/5mELwfFZZRAdCTXjhdNSwB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mundo Cholo",
-        "url": "https://open.spotify.com/album/1k6OrwoCWoIMa9ObPY792d"
-      },
-      "artists": [
-        {
-          "name": "Sauceda SM",
-          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "Mundo Cholo",
-      "url": "https://open.spotify.com/track/00MmuIorbFcYWNleiiuJeQ"
     },
     {
       "added_at": null,

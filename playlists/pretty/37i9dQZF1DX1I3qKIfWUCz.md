@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1I3qKIfWUCz.md) - [plain]
 
 > Our editors’ picks for this year's best\-kept pop secrets\. Cover: Mia Wray
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,346 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,350 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1I3qKIfWUCz.md) - [plain]
 | 34 | [The Suburbs](https://open.spotify.com/track/122tNxkiJyPrwFQxpFjfsj) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet](https://open.spotify.com/album/2CIPnWHj8eIK8i99SZy3Mb) | 3:08 |
 | 35 | [don't let me go](https://open.spotify.com/track/2ji2z7jiPIfcdBr4C8dCYN) | [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW) | [don't let me go](https://open.spotify.com/album/7sM9CTDFIHVd8kOtV5YsTh) | 2:35 |
 | 36 | [Earth \(Dradada\)](https://open.spotify.com/track/3waCGj1YKEYeaVs07lbWtX) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Earth \(Dradada\)](https://open.spotify.com/album/5xXILGfkz9CDVg2cV0V4me) | 3:29 |
-| 37 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 |
-| 38 | [the one](https://open.spotify.com/track/6LFPHLubdcAxbP8yZyzHdM) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [the one](https://open.spotify.com/album/2CcZcCkpboZmpITmwfSWfe) | 2:37 |
+| 37 | [the one](https://open.spotify.com/track/6LFPHLubdcAxbP8yZyzHdM) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [the one](https://open.spotify.com/album/2CcZcCkpboZmpITmwfSWfe) | 2:37 |
+| 38 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 |
 | 39 | [808 HYMN](https://open.spotify.com/track/3UaOcDgXZVFMopdWX8hukn) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [808 HYMN](https://open.spotify.com/album/6Br8z93mJODxZskiJ3GHZD) | 4:13 |
 | 40 | [coming around](https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ) | [fliss](https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX) | [coming around](https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq) | 3:42 |
 | 41 | [Ego](https://open.spotify.com/track/4cPGneVmrxVcz28DFWlHWl) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [Ego](https://open.spotify.com/album/43mrj0Ck4DFDYRC4za10sz) | 3:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 
 > La BO officielle de l'été 2026 🌞 Photo : Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,552 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,758 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

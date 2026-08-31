@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 
 > This is Inspector\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,078 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,088 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 46 | [La Tregua](https://open.spotify.com/track/13lwyE1cMl3KDmAMgRMHvl) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 4:02 |
 | 47 | [Amar O Morir](https://open.spotify.com/track/0WGw8hRQjJFwz0fNyrj91A) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 3:56 |
 | 48 | [Vampiros en la Tierra](https://open.spotify.com/track/3suoE5t6CyOuoNnDDU9Vyn) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Blanco y Negro](https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika) | 4:14 |
-| 49 | [Lamba Do Ska](https://open.spotify.com/track/55GuTMWpBWHCNhPnES9ui8) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Skannibal Party, Vol\. 14](https://open.spotify.com/album/5ILwBCaE089yrSqkTEREWn) | 3:48 |
-| 50 | [Nunca Digas Que No](https://open.spotify.com/track/0E5c793ucvH1dQnfmbi88v) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta, Vol.1](https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E) | 3:28 |
+| 49 | [Nunca Digas Que No](https://open.spotify.com/track/0E5c793ucvH1dQnfmbi88v) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta, Vol.1](https://open.spotify.com/album/4fiDfS2LDihbPvxEZy0E0E) | 3:28 |
+| 50 | [Lamba Do Ska](https://open.spotify.com/track/55GuTMWpBWHCNhPnES9ui8) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Skannibal Party, Vol\. 14](https://open.spotify.com/album/5ILwBCaE089yrSqkTEREWn) | 3:48 |
 
-Snapshot ID: `apDPgAAAAACk8KuUCRws0mGGR2STq5ic`
+Snapshot ID: `apIhAAAAAAADNr1US9NnVHl1KU7pn+5E`

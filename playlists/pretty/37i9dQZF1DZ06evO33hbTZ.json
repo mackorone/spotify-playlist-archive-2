@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAABjlWuMorUduflvY2He5Q+f",
+  "snapshot_id": "apIhAAAAAAAjjn3GRQgLVkdoFs/tpuhH",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/46uGel944f0k9Ev2LC0Nxh"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 280960,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/4YzbkGeq32njenR1KEwVx3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You make all things Beautiful (Piano Session)",
         "url": "https://open.spotify.com/album/6PkBjfA81nOpI1LDAo5VFk"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 87405,
       "name": "You make all things Beautiful (Piano Session)",
       "url": "https://open.spotify.com/track/4j1hTnAQnnvNTtoqcZw0n5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/46uGel944f0k9Ev2LC0Nxh"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 280960,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/4YzbkGeq32njenR1KEwVx3"
     },
     {
       "added_at": null,
@@ -455,22 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "GOOD and MORE",
-        "url": "https://open.spotify.com/album/3BBPaV1dRK6AbrZ9tf9amu"
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },
       "artists": [
-        {
-          "name": "Toluwanimee",
-          "url": "https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI"
-        },
         {
           "name": "Victor Thompson",
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 371457,
-      "name": "MERCY",
-      "url": "https://open.spotify.com/track/5F1ceJaNlwFysU0olsXAwb"
+      "duration_ms": 192029,
+      "name": "Carry me like Baby",
+      "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
     },
     {
       "added_at": null,
@@ -495,18 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+        "name": "GOOD and MORE",
+        "url": "https://open.spotify.com/album/3BBPaV1dRK6AbrZ9tf9amu"
       },
       "artists": [
+        {
+          "name": "Toluwanimee",
+          "url": "https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI"
+        },
         {
           "name": "Victor Thompson",
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 192029,
-      "name": "Carry me like Baby",
-      "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
+      "duration_ms": 371457,
+      "name": "MERCY",
+      "url": "https://open.spotify.com/track/5F1ceJaNlwFysU0olsXAwb"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fall in Love",
+        "url": "https://open.spotify.com/album/59wYIOrImJYzitomQFQAVL"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/0GcZgpC7nw3alTAPOIoZdu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },
@@ -595,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fall in Love",
-        "url": "https://open.spotify.com/album/59wYIOrImJYzitomQFQAVL"
+        "name": "Let Your Name be Glorified Worship Medley",
+        "url": "https://open.spotify.com/album/316D2SEI6KqaqTmSqBqkxV"
       },
       "artists": [
         {
@@ -604,9 +620,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 198400,
-      "name": "Fall in Love",
-      "url": "https://open.spotify.com/track/0GcZgpC7nw3alTAPOIoZdu"
+      "duration_ms": 1046673,
+      "name": "Let Your Name be Glorified Worship Medley",
+      "url": "https://open.spotify.com/track/6FN9Hp7KjPoks4FrORV86c"
     },
     {
       "added_at": null,
@@ -631,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Your Name be Glorified Worship Medley",
-        "url": "https://open.spotify.com/album/316D2SEI6KqaqTmSqBqkxV"
+        "name": "You are Lifted (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/3GL93N3e9sBtznX6BIHzng"
       },
       "artists": [
         {
@@ -640,9 +656,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 1046673,
-      "name": "Let Your Name be Glorified Worship Medley",
-      "url": "https://open.spotify.com/track/6FN9Hp7KjPoks4FrORV86c"
+      "duration_ms": 2461616,
+      "name": "You are Lifted (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/4O9kmanzq6i11XhGOyNXfN"
     },
     {
       "added_at": null,
@@ -659,22 +675,6 @@
       "duration_ms": 190500,
       "name": "Water",
       "url": "https://open.spotify.com/track/4zKGsQ2ryuPyP4yNIQDRB6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You are Lifted (Spontaneous Worship)",
-        "url": "https://open.spotify.com/album/3GL93N3e9sBtznX6BIHzng"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 2461616,
-      "name": "You are Lifted (Spontaneous Worship)",
-      "url": "https://open.spotify.com/track/4O9kmanzq6i11XhGOyNXfN"
     },
     {
       "added_at": null,
@@ -707,6 +707,26 @@
       "duration_ms": 824408,
       "name": "BLESSINGS",
       "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TSIDKENU (Live)",
+        "url": "https://open.spotify.com/album/3Cga2bS84fMZpXNtqAYQCk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Favour Ojo",
+          "url": "https://open.spotify.com/artist/3cQ7XTvsGfuO0PrtpplBPJ"
+        }
+      ],
+      "duration_ms": 714893,
+      "name": "TSIDKENU - Live",
+      "url": "https://open.spotify.com/track/2PH30h7yJ55mP3SjbKTJhs"
     },
     {
       "added_at": null,
@@ -751,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TSIDKENU (Live)",
-        "url": "https://open.spotify.com/album/3Cga2bS84fMZpXNtqAYQCk"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Favour Ojo",
-          "url": "https://open.spotify.com/artist/3cQ7XTvsGfuO0PrtpplBPJ"
-        }
-      ],
-      "duration_ms": 714893,
-      "name": "TSIDKENU - Live",
-      "url": "https://open.spotify.com/track/2PH30h7yJ55mP3SjbKTJhs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Back",
         "url": "https://open.spotify.com/album/1GgRlW2o7EDLwYYgfdSsgH"
       },
@@ -783,6 +783,34 @@
       "duration_ms": 203860,
       "name": "My Back",
       "url": "https://open.spotify.com/track/0u2ggZsmOkA7CflvenfJBN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parlour Worship Medley",
+        "url": "https://open.spotify.com/album/4op2MUKLfQTezGoT91rga1"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "BBO",
+          "url": "https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd"
+        },
+        {
+          "name": "PROMISE EFFIONG",
+          "url": "https://open.spotify.com/artist/427FC2Bm4pD6DM2CBt8A90"
+        }
+      ],
+      "duration_ms": 1832300,
+      "name": "Parlour Worship Medley",
+      "url": "https://open.spotify.com/track/1q3aYKfRrBtotd39lkEYzC"
     },
     {
       "added_at": null,
@@ -819,34 +847,6 @@
       "duration_ms": 182488,
       "name": "Joy",
       "url": "https://open.spotify.com/track/0vUWg5NoY2umz4SQnkkEU6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Parlour Worship Medley",
-        "url": "https://open.spotify.com/album/4op2MUKLfQTezGoT91rga1"
-      },
-      "artists": [
-        {
-          "name": "Neon Adejo",
-          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "BBO",
-          "url": "https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd"
-        },
-        {
-          "name": "PROMISE EFFIONG",
-          "url": "https://open.spotify.com/artist/427FC2Bm4pD6DM2CBt8A90"
-        }
-      ],
-      "duration_ms": 1832300,
-      "name": "Parlour Worship Medley",
-      "url": "https://open.spotify.com/track/1q3aYKfRrBtotd39lkEYzC"
     },
     {
       "added_at": null,

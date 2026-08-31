@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > roots run deep with Willow Avalon
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,263 likes - 197 songs - 11 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,296 likes - 197 songs - 11 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

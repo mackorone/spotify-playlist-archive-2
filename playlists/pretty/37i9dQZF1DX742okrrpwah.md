@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Vianney, Angèle, Alex Warren et La Mano 1.9 x PLK au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,615 likes - 96 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,583 likes - 96 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

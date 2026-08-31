@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaWqbikgQLL.md) - [plain]
 
 > Antes de entrar, permita salir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,357 likes - 150 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,420 likes - 150 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaWqbikgQLL.md) - [plain]
 | 77 | [La Cumbia Del Garrote](https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY) | [Los Del Garrote](https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx) | [Los Del Garrote](https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX) | 3:17 |
 | 78 | [Las batallas](https://open.spotify.com/track/4HTQcxErjqv1Up3ZOoJ1di) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Café Tacvba](https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr) | 3:25 |
 | 79 | [Así Fue](https://open.spotify.com/track/4xaOEKr5ekCoBcGesvcrM9) | [NELSON DÍAZ Y LA CONSTELACIÓN](https://open.spotify.com/artist/0dDHeD2Xl3l0p8tSMcVRBO) | [Nelson Díaz y la Constelación](https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi) | 4:27 |
-| 80 | [Mi Media Mitad](https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:52 |
-| 81 | [La Inconforme](https://open.spotify.com/track/2HZacSz1k8F0KTwGJ6TX7r) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8) | [Para Qué Llorar](https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig) | 3:13 |
+| 80 | [La Inconforme](https://open.spotify.com/track/2HZacSz1k8F0KTwGJ6TX7r) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8) | [Para Qué Llorar](https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig) | 3:13 |
+| 81 | [Mi Media Mitad](https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:52 |
 | 82 | [El Son del Dolor](https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H) | [Cuca](https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk) | [La Invasion De Los Blatidos](https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE) | 4:00 |
 | 83 | [Un Sueño Y Nada Mas](https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX) | [Grupo Polo Montañes](https://open.spotify.com/artist/3qI8efQwFJlPuiOcBIdbWC) | [Un Sueño Y Nada Más](https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0) | 4:38 |
 | 84 | [La Cita](https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Galy Galiano 30 Años](https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy) | 7:18 |
@@ -144,13 +144,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaWqbikgQLL.md) - [plain]
 | 134 | [Cumbia Francesa](https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sólo Éxitos](https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn) | 3:40 |
 | 135 | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3) | [Grupo Toca Recio](https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u) | [La Monjita Voladora \- Cumbia Sonidera](https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V) | 4:09 |
 | 136 | [El Niño](https://open.spotify.com/track/5qBRYiH8i7xHQDMzAQvG8s) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Jorge Carmona](https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX) | [El Niño](https://open.spotify.com/album/7gUYaG993XR9dyROUbSQn1) | 4:54 |
-| 137 | [Amor Sin Primavera](https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Gigantes De La Cumbia, Vol\. 1, Disco 1](https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly) | 3:52 |
-| 138 | [Manos de Tijera](https://open.spotify.com/track/5bbDOmtSTUeAmzYDUv8eVF) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Manos de Tijera](https://open.spotify.com/album/6ZgE3A6SXIPCEvhVpLOwv9) | 3:50 |
+| 137 | [Manos de Tijera](https://open.spotify.com/track/5bbDOmtSTUeAmzYDUv8eVF) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Manos de Tijera](https://open.spotify.com/album/6ZgE3A6SXIPCEvhVpLOwv9) | 3:50 |
+| 138 | [Amor Sin Primavera](https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Gigantes De La Cumbia, Vol\. 1, Disco 1](https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly) | 3:52 |
 | 139 | [Si Tu Boquita Fuera](https://open.spotify.com/track/32CYkcjOSCbiIoBeBheUx7) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [96 \- 05](https://open.spotify.com/album/0pwnHJD1my6WUATRg69Eag) | 2:11 |
-| 140 | [El Amor de la Nena](https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw) | [Grupo Que Nota](https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv) | [20 Exitos Originales 20](https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA) | 4:37 |
-| 141 | [Echarme Al Olvido](https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 4:40 |
-| 142 | [Virgen](https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk) | 4:31 |
-| 143 | [Sin Escencia](https://open.spotify.com/track/0melfsWB5kH1Rp18yJZErZ) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Sin Escencia](https://open.spotify.com/album/4R0NvUV66W5XL4ckvvfzSk) | 3:15 |
+| 140 | [Echarme Al Olvido](https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 4:40 |
+| 141 | [El Amor de la Nena](https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw) | [Grupo Que Nota](https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv) | [20 Exitos Originales 20](https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA) | 4:37 |
+| 142 | [Sin Escencia](https://open.spotify.com/track/0melfsWB5kH1Rp18yJZErZ) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Sin Escencia](https://open.spotify.com/album/4R0NvUV66W5XL4ckvvfzSk) | 3:15 |
+| 143 | [Virgen](https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk) | 4:31 |
 | 144 | [Lo Quiero a Morir](https://open.spotify.com/track/1UUh3mwMdY0ruEllPXrroj) | [Zayda](https://open.spotify.com/artist/2Bi9W5G9RuczLoQ4cPD0Tn) | [Zayda](https://open.spotify.com/album/5Xltwg9RR39wz6oiyl9O2H) | 4:20 |
 | 145 | [De Punta a Punta](https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Original](https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6) | 4:25 |
 | 146 | [Como Decirte Adios](https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:27 |

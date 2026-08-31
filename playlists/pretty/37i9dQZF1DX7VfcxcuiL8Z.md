@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Queens of the Stone Age
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,279 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,280 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

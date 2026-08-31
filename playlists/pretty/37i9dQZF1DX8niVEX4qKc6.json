@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: El Plan De La Mariposa",
-  "num_followers": 193861,
+  "num_followers": 193877,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 295160,
-      "name": "Un Pacto - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 295160,
+      "name": "Un Pacto - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
+        "name": "Ac\u00fastico Gran Rex",
+        "url": "https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 276853,
+      "name": "Pasan las Horas - En Vivo Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
         "name": "Vienes y Te Vas (Casa Sole)",
         "url": "https://open.spotify.com/album/54fqrvl7oLdfH43MGZaITk"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 193796,
       "name": "Vienes y Te Vas (Casa Sole)",
       "url": "https://open.spotify.com/track/75eN2NWi9OsV4HvkPtzRSm"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
-        "name": "Ac\u00fastico Gran Rex",
-        "url": "https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 276853,
-      "name": "Pasan las Horas - En Vivo Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Un Bossa +",
-        "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 86000,
-      "name": "Un Bossa +",
-      "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Hay Momentos (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 279684,
       "name": "Hay Momentos - Ac\u00fastico",
       "url": "https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Un Bossa +",
+        "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 86000,
+      "name": "Un Bossa +",
+      "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "D\u00e9jame Dejarte Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 204775,
-      "name": "D\u00e9jame Dejarte Atr\u00e1s",
-      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 267866,
       "name": "Fanky - Live",
       "url": "https://open.spotify.com/track/15qhC4nfcfD0XiyrYDf9dr"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "D\u00e9jame Dejarte Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 204775,
+      "name": "D\u00e9jame Dejarte Atr\u00e1s",
+      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -855,26 +855,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "El Verdadero",
-        "url": "https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt"
-      },
-      "artists": [
-        {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        },
-        {
-          "name": "Julian Kartun",
-          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
-        }
-      ],
-      "duration_ms": 163682,
-      "name": "Antiguo y moderno",
-      "url": "https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
         "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 230600,
       "name": "Jaguar House",
       "url": "https://open.spotify.com/track/1ymX19hR5uehyYdyeQuoWC"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "El Verdadero",
+        "url": "https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        },
+        {
+          "name": "Julian Kartun",
+          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
+        }
+      ],
+      "duration_ms": 163682,
+      "name": "Antiguo y moderno",
+      "url": "https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Loquero Viejo",
-        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 211460,
-      "name": "Loquero Viejo",
-      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Las Plantas Crecen",
         "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 115029,
       "name": "Las Plantas Crecen",
       "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Loquero Viejo",
+        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 211460,
+      "name": "Loquero Viejo",
+      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Amor de mi herida",
-        "url": "https://open.spotify.com/album/1pxingc83wxaMfVc7P1p6b"
-      },
-      "artists": [
-        {
-          "name": "Camil\u00fa",
-          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
-        }
-      ],
-      "duration_ms": 219708,
-      "name": "Solo hace falta vivir",
-      "url": "https://open.spotify.com/track/2n1PNRppOz8t3Xgda3dqBc"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Hagan Correr la Voz",
         "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
       },
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Fin de Fiesta",
-        "url": "https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5"
+        "name": "Amor de mi herida",
+        "url": "https://open.spotify.com/album/1pxingc83wxaMfVc7P1p6b"
       },
       "artists": [
         {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
         }
       ],
-      "duration_ms": 101818,
-      "name": "Fin de Fiesta",
-      "url": "https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq"
+      "duration_ms": 219708,
+      "name": "Solo hace falta vivir",
+      "url": "https://open.spotify.com/track/2n1PNRppOz8t3Xgda3dqBc"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1703,6 +1687,22 @@
       "duration_ms": 206143,
       "name": "enero - versi\u00f3n ac\u00fastica",
       "url": "https://open.spotify.com/track/0giE6nExgeUPqt66IT1Vkr"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Fin de Fiesta",
+        "url": "https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 101818,
+      "name": "Fin de Fiesta",
+      "url": "https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq"
     },
     {
       "added_at": "2026-06-26 15:53:51",

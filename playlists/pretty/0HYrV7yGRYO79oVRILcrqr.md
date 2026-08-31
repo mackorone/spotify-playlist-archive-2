@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,884 likes - 91 songs - 6 hr 0 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,885 likes - 92 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,5 +99,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 89 | [See Through Me](https://open.spotify.com/track/1coeZ5PUtWnmzMx2mYLBOi) | [Forgetful Alien](https://open.spotify.com/artist/7hnJgsJnztAgmqfge0YFcT) | [Collide](https://open.spotify.com/album/1F88ivvyccsrMS0v1QVsoj) | 4:31 |
 | 90 | [Motte im Licht](https://open.spotify.com/track/5AUZEUtej5mBjYsl0qHOlT) | [Christaris](https://open.spotify.com/artist/65bycLZE7csn1qM95wLuCa) | [Motte im Licht](https://open.spotify.com/album/6EfYlGtKeF6uPVPX1lM4ul) | 4:18 |
 | 91 | [Cool](https://open.spotify.com/track/0lEyuxEtiz90tgC542d3Iz) | [Tim Allan](https://open.spotify.com/artist/1PAvHNGevlHvYXRC5JityS) | [Not the Bad Boy](https://open.spotify.com/album/4fHVgR7PMm8nO8FPpaxIx1) | 2:45 |
+| 92 | [You Raise Me Up](https://open.spotify.com/track/2H9sN3ccjkpQhWkL1NR6md) | [PeterLs](https://open.spotify.com/artist/20TrfcXGJiAyUCmOwjxcP5) | [You Raise Me Up](https://open.spotify.com/album/3RNkBQWOZD24ZMGZ3Quxva) | 3:12 |
 
-Snapshot ID: `AAAMVvvI//z4s4MVa28fuh16fUZGOaat`
+Snapshot ID: `AAAMV5qiGU5rJh5YYxtu7a9hGKeDkjkC`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 966,245 likes - 150 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 966,252 likes - 150 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 | 69 | [Stitches](https://open.spotify.com/track/3Jy394MtpM2xciRBTzxBlg) | [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [Stitches](https://open.spotify.com/album/0SHdoaGuQV2EjhQ6HEX9K2) | 4:06 |
 | 70 | [Over the Rainbow](https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Alone In Iz World](https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn) | 3:31 |
 | 71 | [I'm the One \- Acoustic](https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx) | [Sunset & Highland](https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT) | [I'm the One \(Acoustic\)](https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe) | 3:53 |
-| 72 | [2U \- Acoustic Version](https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [2U \(Acoustic Version\)](https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU) | 3:28 |
-| 73 | [City of Stars](https://open.spotify.com/track/0KQnOjW6AP1LECHd18xjFj) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [City of Stars](https://open.spotify.com/album/1TylOvw81vANdJBV5Fa3BU) | 2:34 |
+| 72 | [City of Stars](https://open.spotify.com/track/0KQnOjW6AP1LECHd18xjFj) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [City of Stars](https://open.spotify.com/album/1TylOvw81vANdJBV5Fa3BU) | 2:34 |
+| 73 | [2U \- Acoustic Version](https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [2U \(Acoustic Version\)](https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU) | 3:28 |
 | 74 | [Creep](https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Creep](https://open.spotify.com/album/0Tp4s71VQ0MZbtJo1cNHYF) | 4:37 |
 | 75 | [Sex On Fire](https://open.spotify.com/track/1ZXSLHLp5AJnCp12UXdYiO) | [Alex Cornell](https://open.spotify.com/artist/2zVCLRV59G7nPOoKxj4xyY) | [Youtube Sessions](https://open.spotify.com/album/3bGwqoEhtRavXVdMN9YEpJ) | 3:05 |
 | 76 | [Crazy \- Live Sessions](https://open.spotify.com/track/15byLK9MadQ44VM9opaGms) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Crazy \(Live Sessions\)](https://open.spotify.com/album/6GlV1bUsj1Vjk6xHIJKhbC) | 2:56 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 | 89 | [Shut up and Dance](https://open.spotify.com/track/7K9GqO7ciCHJe2bkoZoM5i) | [Anchor + Bell](https://open.spotify.com/artist/1mjqymUKo7KbLtvfYD386t) | [Shut up and Dance](https://open.spotify.com/album/73nVNq34LtpDZmRHWV1fo0) | 2:56 |
 | 90 | [Maps](https://open.spotify.com/track/7ED8yT6oWUoq5WVIfaka4e) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Maps](https://open.spotify.com/album/7bwd4cmXcxV1tcv391C1IX) | 3:21 |
 | 91 | [XO](https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm) | [Anna Elizabeth Laube](https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx) | [Tree](https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA) | 3:55 |
-| 92 | [Silence](https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D) | [Reggii](https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP) | [Silence](https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk) | 2:54 |
-| 93 | [Perfect Strangers \- Acoustic](https://open.spotify.com/track/5AFMjlqAA0skXGqZHGZDxt) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Perfect Strangers \(Acoustic\)](https://open.spotify.com/album/2rJ9hhlOmZZvQfXVGMrmUK) | 3:11 |
+| 92 | [Perfect Strangers \- Acoustic](https://open.spotify.com/track/5AFMjlqAA0skXGqZHGZDxt) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Perfect Strangers \(Acoustic\)](https://open.spotify.com/album/2rJ9hhlOmZZvQfXVGMrmUK) | 3:11 |
+| 93 | [Silence](https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D) | [Reggii](https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP) | [Silence](https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk) | 2:54 |
 | 94 | [Closer](https://open.spotify.com/track/4JrV4NJ4ChSoxBTEIb0D7F) | [Tore](https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk) | [Closer](https://open.spotify.com/album/3AkgNcAjPBlz6PGzgHpDYU) | 4:05 |
 | 95 | [New Rules](https://open.spotify.com/track/2xugNZzWFJVQB54PS5XnG2) | [Becca Adams](https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb) | [New Rules](https://open.spotify.com/album/6jBrihWQmJCl81kuNQS3pE) | 3:47 |
 | 96 | [Think Before I Talk \- Acoustic](https://open.spotify.com/track/0xr4LgYImMBZL3lnniYzHv) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Think Before I Talk \(Acoustic\)](https://open.spotify.com/album/4xBuuPBwFuPxv8sZNMqeVT) | 3:37 |

@@ -1,6 +1,6 @@
 {
   "description": "Obscure, dreamy and nostalgic synth sounds from all over the world. ",
-  "num_followers": 482763,
+  "num_followers": 482844,
   "original_name": "Darkwave",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-03-13 13:08:59",
       "album": {
+        "name": "BLEU",
+        "url": "https://open.spotify.com/album/6woJYYYScksahP4fTIMhus"
+      },
+      "artists": [
+        {
+          "name": "French Police",
+          "url": "https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC"
+        }
+      ],
+      "duration_ms": 143225,
+      "name": "HUNNY",
+      "url": "https://open.spotify.com/track/1GNszTPgt9RwTLIOzwfHWb"
+    },
+    {
+      "added_at": "2026-03-13 13:08:59",
+      "album": {
         "name": "Sapphire",
         "url": "https://open.spotify.com/album/1hJGyISdlrBHHv0YBSe1Ug"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 154285,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/1zjM0yzhtbRRwj5rD897fY"
-    },
-    {
-      "added_at": "2026-03-13 13:08:59",
-      "album": {
-        "name": "BLEU",
-        "url": "https://open.spotify.com/album/6woJYYYScksahP4fTIMhus"
-      },
-      "artists": [
-        {
-          "name": "French Police",
-          "url": "https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC"
-        }
-      ],
-      "duration_ms": 143225,
-      "name": "HUNNY",
-      "url": "https://open.spotify.com/track/1GNszTPgt9RwTLIOzwfHWb"
     },
     {
       "added_at": "2026-03-13 13:08:59",

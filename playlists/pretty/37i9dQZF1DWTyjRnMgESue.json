@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Tyler Ballgame",
-  "num_followers": 89896,
+  "num_followers": 89898,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
+        "name": "The Bend",
+        "url": "https://open.spotify.com/album/5hoF6Qgg5SKKuKW4uknLk7"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "duration_ms": 242446,
+      "name": "The Bend",
+      "url": "https://open.spotify.com/track/4CwtjbfPWEA5YNVFBEAsV1"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
         "name": "Rattlesnake (feat. Zach Bryan)",
         "url": "https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 293836,
       "name": "Rattlesnake (feat. Zach Bryan)",
       "url": "https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
-        "name": "The Bend",
-        "url": "https://open.spotify.com/album/5hoF6Qgg5SKKuKW4uknLk7"
-      },
-      "artists": [
-        {
-          "name": "Noah Rinker",
-          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
-        }
-      ],
-      "duration_ms": 242446,
-      "name": "The Bend",
-      "url": "https://open.spotify.com/track/4CwtjbfPWEA5YNVFBEAsV1"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -895,18 +895,18 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "Never Notice",
-        "url": "https://open.spotify.com/album/6oJBrLiT1DwzeDmGcpeIGE"
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
       },
       "artists": [
         {
-          "name": "Yana",
-          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
         }
       ],
-      "duration_ms": 238466,
-      "name": "Never Notice",
-      "url": "https://open.spotify.com/track/6BhMpYkmpy00MYwDCN9ZZh"
+      "duration_ms": 239895,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -931,18 +931,18 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
+        "name": "Never Notice",
+        "url": "https://open.spotify.com/album/6oJBrLiT1DwzeDmGcpeIGE"
       },
       "artists": [
         {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
         }
       ],
-      "duration_ms": 239895,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC"
+      "duration_ms": 238466,
+      "name": "Never Notice",
+      "url": "https://open.spotify.com/track/6BhMpYkmpy00MYwDCN9ZZh"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "I Talk About You",
-        "url": "https://open.spotify.com/album/59VlISV9li61ECMjfCmQnv"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 210430,
-      "name": "I Talk About You",
-      "url": "https://open.spotify.com/track/0SyTYyawIrIkBpdOH9B34c"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
         "name": "golden boy",
         "url": "https://open.spotify.com/album/2Y8kR25oTu2nlNQWoOzbsW"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 194997,
       "name": "golden boy",
       "url": "https://open.spotify.com/track/03dP8ZaoX9ftHDDGJqDmeP"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
+        "name": "I Talk About You",
+        "url": "https://open.spotify.com/album/59VlISV9li61ECMjfCmQnv"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 210430,
+      "name": "I Talk About You",
+      "url": "https://open.spotify.com/track/0SyTYyawIrIkBpdOH9B34c"
     },
     {
       "added_at": "2026-05-15 15:12:25",

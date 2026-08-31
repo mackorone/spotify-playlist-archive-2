@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 229249,
+  "num_followers": 229251,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apDPgAAAAAC0XJtqdB38oZb5R1p+PKhS",
+  "snapshot_id": "apIhAAAAAAA+Rm2iRRaORs/hwrMc6uMW",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/7f5trao56t7sB7f14QDTmp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Love Lost (Deluxe)",
         "url": "https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 161684,
       "name": "Chosen (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "Juicy",
-      "url": "https://open.spotify.com/track/7f5trao56t7sB7f14QDTmp"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel California (Deluxe)",
-        "url": "https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "Switch Lanes",
-      "url": "https://open.spotify.com/track/1GMDpf82TUwTVBPYiu0dmR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 182532,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hotel California (Deluxe)",
+        "url": "https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Switch Lanes",
+      "url": "https://open.spotify.com/track/1GMDpf82TUwTVBPYiu0dmR"
     },
     {
       "added_at": null,
@@ -951,6 +951,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 145813,
+      "name": "Blessed (with Tyga)",
+      "url": "https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Furious 7: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/7hTMaPfK488vRcC1Ar4bOm"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 211908,
       "name": "Ride Out",
       "url": "https://open.spotify.com/track/59PL9AwYjIrIpP04n9gmMR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 145813,
-      "name": "Blessed (with Tyga)",
-      "url": "https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD"
     },
     {
       "added_at": null,

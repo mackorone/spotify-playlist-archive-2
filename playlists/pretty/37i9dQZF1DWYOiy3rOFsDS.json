@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Tuffic en portada.",
-  "num_followers": 538201,
+  "num_followers": 538136,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Cuando Yo Fui Tu Clavel",
-        "url": "https://open.spotify.com/album/1MsQyfkAyCio9tBVjdJIBd"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 112500,
-      "name": "Cuando Yo Fui Tu Clavel",
-      "url": "https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
@@ -879,18 +863,18 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Que Suerte",
-        "url": "https://open.spotify.com/album/7eZKBS5wCk4ISf5C9autaV"
+        "name": "Cuando Yo Fui Tu Clavel",
+        "url": "https://open.spotify.com/album/1MsQyfkAyCio9tBVjdJIBd"
       },
       "artists": [
         {
-          "name": "Edgar Alejandro",
-          "url": "https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri"
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Que Suerte",
-      "url": "https://open.spotify.com/track/4mt0WV87PbWjOm1pONCbet"
+      "duration_ms": 112500,
+      "name": "Cuando Yo Fui Tu Clavel",
+      "url": "https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -907,6 +891,22 @@
       "duration_ms": 211800,
       "name": "Tu Aprendiz",
       "url": "https://open.spotify.com/track/7KwMslS46xt7nNxvjmpMDn"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Que Suerte",
+        "url": "https://open.spotify.com/album/7eZKBS5wCk4ISf5C9autaV"
+      },
+      "artists": [
+        {
+          "name": "Edgar Alejandro",
+          "url": "https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Que Suerte",
+      "url": "https://open.spotify.com/track/4mt0WV87PbWjOm1pONCbet"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Matina",
-        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 128500,
-      "name": "Matina",
-      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Mexicana (feat. Lila Downs)",
         "url": "https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 199296,
       "name": "Mexicana (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Matina",
+        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 128500,
+      "name": "Matina",
+      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Ra\u00edces",
-        "url": "https://open.spotify.com/album/3HhbkUjg8eI5chZUn3v0Ng"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 216506,
-      "name": "Ra\u00edces",
-      "url": "https://open.spotify.com/track/22L4fN7eeoLuNP6MHAB77e"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Te So\u00f1\u00e9",
         "url": "https://open.spotify.com/album/7EZYD3MAbyV2njuuQN4Qb3"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 164798,
       "name": "Te So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/5sLQhakJ9v2dKMlxB2Fewm"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Ra\u00edces",
+        "url": "https://open.spotify.com/album/3HhbkUjg8eI5chZUn3v0Ng"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 216506,
+      "name": "Ra\u00edces",
+      "url": "https://open.spotify.com/track/22L4fN7eeoLuNP6MHAB77e"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
+        "name": "La Apuesta",
+        "url": "https://open.spotify.com/album/3YsjbaCHFK0qo8MIeRnw0f"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/1vnHzi9TUsfNInui1SzkI0"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
         "name": "Tan B\u00e1sico",
         "url": "https://open.spotify.com/album/0v4BjRnKBVyXuDGanBQjzM"
       },
@@ -1391,18 +1407,18 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "La Apuesta",
-        "url": "https://open.spotify.com/album/3YsjbaCHFK0qo8MIeRnw0f"
+        "name": "Maria Bonita",
+        "url": "https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R"
       },
       "artists": [
         {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
         }
       ],
-      "duration_ms": 173250,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/1vnHzi9TUsfNInui1SzkI0"
+      "duration_ms": 232373,
+      "name": "Mar\u00eda Bonita",
+      "url": "https://open.spotify.com/track/2caKpdtmxWhIuLlfNvzuLP"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1423,22 +1439,6 @@
       "duration_ms": 213749,
       "name": "Hazy x Ti",
       "url": "https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
-        "name": "Maria Bonita",
-        "url": "https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "Mar\u00eda Bonita",
-      "url": "https://open.spotify.com/track/2caKpdtmxWhIuLlfNvzuLP"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/58MCZcbUtpCZO2AxzN6ft2"
-      },
-      "artists": [
-        {
-          "name": "Carlos Ponce",
-          "url": "https://open.spotify.com/artist/4ff5IojFqry4841QjwULTV"
-        }
-      ],
-      "duration_ms": 197553,
-      "name": "Por Debajo de la Mesa",
-      "url": "https://open.spotify.com/track/3DhB2He4Zi1TQe8YqJ3167"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Empecemos a Empezar",
         "url": "https://open.spotify.com/album/1DjuOKT64S3kVkajN4jFU4"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 200859,
       "name": "Empecemos a Empezar",
       "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/58MCZcbUtpCZO2AxzN6ft2"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ponce",
+          "url": "https://open.spotify.com/artist/4ff5IojFqry4841QjwULTV"
+        }
+      ],
+      "duration_ms": 197553,
+      "name": "Por Debajo de la Mesa",
+      "url": "https://open.spotify.com/track/3DhB2He4Zi1TQe8YqJ3167"
     },
     {
       "added_at": "2026-07-24 06:00:45",

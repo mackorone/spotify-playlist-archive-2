@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: Ziggy4x
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,578 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,580 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 22 | [Janneman](https://open.spotify.com/track/1MAjknikUN9rFBOYfboXhA) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I) | [Janneman](https://open.spotify.com/album/1R2hS2DTI0QrpzkUbbZXgk) | 3:15 |
 | 23 | [Oulik](https://open.spotify.com/track/3RjxY4Dftktvxxb5zNscH6) | [Chessiwessi](https://open.spotify.com/artist/6llfxl71GpFMJ7SLQibAcT), [Op Die Plaas](https://open.spotify.com/artist/7BRNJ64qLpEYgLnczJ0Hhu) | [Oulik](https://open.spotify.com/album/2MupJ2ovfYslIkJ13yKEdk) | 2:05 |
 | 24 | [Die Lewe is 'n Lied](https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Lewe is 'n Lied](https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL) | 3:59 |
-| 25 | [Doen Net Jou Ding](https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Doen Net Jou Ding](https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe) | 3:05 |
+| 25 | [Spitbraai](https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Spitbraai](https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu) | 3:18 |
 | 26 | [Moola](https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Moola](https://open.spotify.com/album/049XrxSNx2ydPbdhelP51t) | 3:04 |
 | 27 | [Koue Flow](https://open.spotify.com/track/7LEn9gNB3vvohujENpOtL9) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr), [Master Raw](https://open.spotify.com/artist/12dQuJzCsLugjFsAzkKqIT), [Ashey\_SA](https://open.spotify.com/artist/5T1W4BsHUhPFsJ2FSCNuXe), [Terwie](https://open.spotify.com/artist/1j46XrGhYerbT7pneGSsfr) | [Koue Flow](https://open.spotify.com/album/1xbJ3QlJU44IbXWbFPeDmB) | 3:33 |
-| 28 | [Spitbraai](https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Spitbraai](https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu) | 3:18 |
+| 28 | [Doen Net Jou Ding](https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Doen Net Jou Ding](https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe) | 3:05 |
 | 29 | [Nooit Geweet](https://open.spotify.com/track/1rHhU7OhbroF5xlVufAy3b) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i), [Jemaine Julies](https://open.spotify.com/artist/2RPCXr1hloBKtXRyMfqBRf) | [Nooit Geweet](https://open.spotify.com/album/1a4nonlQYgzxEG9E5rQRy4) | 3:16 |
 | 30 | [Koepie Gevrietie](https://open.spotify.com/track/7Dy4POL2thHmuMk7Fy6cD9) | [Maintjie](https://open.spotify.com/artist/3XAYWDIMwPLQUXr0j5jTpb), [TYREAKE](https://open.spotify.com/artist/5uHVVOJq0zlg0BSy7TKyBe) | [Koepie Gevrietie](https://open.spotify.com/album/3t6muPDJ2IoGG1WMajYf4T) | 3:19 |
 | 31 | [Raak Taatie](https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Raak Taatie](https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy) | 4:05 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 44 | [Ladies From The Cape](https://open.spotify.com/track/0xqENcBffVOxa2EWqhrhtI) | [illRow](https://open.spotify.com/artist/2dRcdCUa8vHBggtgvngMI1), [Charly X2C](https://open.spotify.com/artist/6yu8nIyG3jnvaF3xWPkXmX) | [Ladies From The Cape](https://open.spotify.com/album/6UPbO4Hwf2z1oaCwGI6iXN) | 2:57 |
 | 45 | [Staan Uit](https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Staan Uit](https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw) | 2:27 |
 | 46 | [Exs Die Ou](https://open.spotify.com/track/3ka1g6KZDn50XNLVDatqcP) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL) | [Exs Die Ou](https://open.spotify.com/album/6QJR1nAn1kQzI0s8uc85J4) | 3:06 |
-| 47 | [Don](https://open.spotify.com/track/5ZgA7T4JNxagkTWrdMPdMc) | [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Profit CPT](https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq) | [Don](https://open.spotify.com/album/1Mc6atryEO6LZZAhVlwgS5) | 2:59 |
-| 48 | [Hulle Weet Nog Niks](https://open.spotify.com/track/5RwDOcL1wdXxjguzSpBgj9) | [Vaughn Valentine](https://open.spotify.com/artist/40AbXDnA4kje6ybZa3vpCH) | [Hulle Weet Nog Niks](https://open.spotify.com/album/2RU30FokgN5wzHyJ8AyCGe) | 2:19 |
-| 49 | [Sundphazamisa](https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0) | [Umlungu The Rapper](https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0), [Big Xhosa](https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy) | [Sundphazamisa](https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn) | 3:12 |
+| 47 | [Sundphazamisa](https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0) | [Umlungu The Rapper](https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0), [Big Xhosa](https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy) | [Sundphazamisa](https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn) | 3:12 |
+| 48 | [Don](https://open.spotify.com/track/5ZgA7T4JNxagkTWrdMPdMc) | [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Profit CPT](https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq) | [Don](https://open.spotify.com/album/1Mc6atryEO6LZZAhVlwgS5) | 2:59 |
+| 49 | [Hulle Weet Nog Niks](https://open.spotify.com/track/5RwDOcL1wdXxjguzSpBgj9) | [Vaughn Valentine](https://open.spotify.com/artist/40AbXDnA4kje6ybZa3vpCH) | [Hulle Weet Nog Niks](https://open.spotify.com/album/2RU30FokgN5wzHyJ8AyCGe) | 2:19 |
 | 50 | [Goated](https://open.spotify.com/track/01GAA3iShKuYdQB3rqbp4R) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Goated](https://open.spotify.com/album/2x3H5EeJV52IfkLSuiNQfP) | 2:11 |
 
 Snapshot ID: `AAAAADL3lFqxLCgxsSICVZWkmcd835/h`

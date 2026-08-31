@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,760 likes - 49 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,759 likes - 48 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,15 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 | 37 | [Little Things With Great Love \- Live](https://open.spotify.com/track/5vW1xKUoIh1jOqfHlZnMk2) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Work Songs: The Porter's Gate Worship Project, Vol\. 1 \(Live\)](https://open.spotify.com/album/4lUuF5rgZJJRIM9k9vDKOp) | 5:07 |
 | 38 | [Forever Young](https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ups & Downs](https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD) | 3:22 |
 | 39 | [Lola \(My Love\)](https://open.spotify.com/track/6xfbp79nVK2quJDtoZyUPe) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Cunningham Bird](https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB) | 2:31 |
-| 40 | [\(Looking Through\) Rose Colored Glasses](https://open.spotify.com/track/336t4aqoOMtMMKIAVYqgWb) | [Mikaela Davis](https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Graceland Way](https://open.spotify.com/album/3Tpi8aDmEZ7tpJvPu8sxuI) | 3:35 |
-| 41 | [Common Language](https://open.spotify.com/track/3rEwolA0qEDonOpKkws7V7) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:26 |
+| 40 | [Common Language](https://open.spotify.com/track/3rEwolA0qEDonOpKkws7V7) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:26 |
+| 41 | [\(Looking Through\) Rose Colored Glasses](https://open.spotify.com/track/336t4aqoOMtMMKIAVYqgWb) | [Mikaela Davis](https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Graceland Way](https://open.spotify.com/album/3Tpi8aDmEZ7tpJvPu8sxuI) | 3:35 |
 | 42 | [Neighbor Song \[Feat\. Madison Cunningham\]](https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Neighbor Song \(ft\. Madison Cunningham\)](https://open.spotify.com/album/1gWFh2G3METlCAbzhfaIzs) | 3:40 |
 | 43 | [Crystal](https://open.spotify.com/track/2H3gBsloNdjGWlnct8GR1d) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Cunningham Bird](https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB) | 4:43 |
-| 44 | [No Surprises](https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [No Surprises](https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi) | 3:35 |
-| 45 | [Something To Believe In](https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:57 |
+| 44 | [Something To Believe In](https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:57 |
+| 45 | [No Surprises](https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [No Surprises](https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi) | 3:35 |
 | 46 | [Arrow Through Me](https://open.spotify.com/track/0WqFBfRAMFqOu5bLKojjIL) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [LIFE](https://open.spotify.com/album/2wHNkXpAGzy5MCJg0ZpbIX) | 2:46 |
 | 47 | [Perfect Dark \- Live at RAK](https://open.spotify.com/track/3TqhwOVi57cSV2K0Pr6O1m) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Perfect Dark \(Live at RAK\)](https://open.spotify.com/album/303nhwxDFiKoAufpp65WKc) | 3:34 |
 | 48 | [The Book Of Love \(with Madison Cunningham\)](https://open.spotify.com/track/5d5SB3s3ksk34OIDb4EoaW) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [The Golden Heart Protector](https://open.spotify.com/album/0jxAojVGsPyWPz9F1JjjAn) | 3:40 |
-| 49 | [Hold On](https://open.spotify.com/track/0MeWGR4nVsu9x67kPTxC0R) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Wednesday](https://open.spotify.com/album/2ilclX1VSOuOhcPBWI4rkK) | 4:28 |
 
-Snapshot ID: `apDPgAAAAADXQTD4x6pezGR7Z5R94gbm`
+Snapshot ID: `apIhAAAAAADVLJ0HIXn5sivbFf8XgvO+`

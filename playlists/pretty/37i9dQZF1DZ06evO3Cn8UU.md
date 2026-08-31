@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 
 > This is Teddy Pendergrass\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,489 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,489 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 | 35 | [I Want My Baby Back](https://open.spotify.com/track/466Nltju0Om75oImtmEyR5) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Heaven Only Knows](https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK) | 4:00 |
 | 36 | [To Be True \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/46Liv0Pkip7IL14eJeHHbu) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [To Be True \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3) | 4:39 |
 | 37 | [Cold, Cold World](https://open.spotify.com/track/2JeGn2P5XAoyFegt3zfNIq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 4:32 |
-| 38 | [Can't We Try](https://open.spotify.com/track/16fL0EBjZAqAVASav7A6Rl) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 5:03 |
-| 39 | [Somebody Told Me](https://open.spotify.com/track/6gdqSzaRWOOgFnWUvsGb0d) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 5:11 |
+| 38 | [Somebody Told Me](https://open.spotify.com/track/6gdqSzaRWOOgFnWUvsGb0d) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 5:11 |
+| 39 | [Can't We Try](https://open.spotify.com/track/16fL0EBjZAqAVASav7A6Rl) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 5:03 |
 | 40 | [I Can't Live Without Your Love](https://open.spotify.com/track/07iF2abYbJg0ndDc1hFdIT) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [It's Time For Love](https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV) | 3:00 |
 | 41 | [Be for Real \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/2xxe3FVwBs4iBbPpcVJUlQ) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 7:29 |
-| 42 | [You're My Choice Tonight \(Choose Me\)](https://open.spotify.com/track/2xKEAqAlHFqIR8irs6q651) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Love Language](https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg) | 4:49 |
-| 43 | [You Can't Hide from Yourself](https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:05 |
+| 42 | [You Can't Hide from Yourself](https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:05 |
+| 43 | [You're My Choice Tonight \(Choose Me\)](https://open.spotify.com/track/2xKEAqAlHFqIR8irs6q651) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Love Language](https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg) | 4:49 |
 | 44 | [All I Need Is You](https://open.spotify.com/track/6uViXuBpQbfDFXke9mUQ2S) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy \(Expanded Edition\)](https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM) | 4:33 |
 | 45 | [Is It Still Good to Ya](https://open.spotify.com/track/3P8lihsvbBf0IPWAfxS5jg) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 4:34 |
-| 46 | [This One's for You](https://open.spotify.com/track/3FHwxEjV65cmgUYx19bzRR) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [This One's For You](https://open.spotify.com/album/0IcTugJDlNs7X7s4D9IPol) | 6:18 |
-| 47 | [And If I Had](https://open.spotify.com/track/1f2xKsMmIXza7hID4IeLY6) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:21 |
+| 46 | [And If I Had](https://open.spotify.com/track/1f2xKsMmIXza7hID4IeLY6) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:21 |
+| 47 | [This One's for You](https://open.spotify.com/track/3FHwxEjV65cmgUYx19bzRR) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [This One's For You](https://open.spotify.com/album/0IcTugJDlNs7X7s4D9IPol) | 6:18 |
 | 48 | [Keep On Lovin' You \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/06Q3gDXE7c259KhYu77RJX) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 3:40 |
 | 49 | [Believe In Love \- Phat Phili Mix](https://open.spotify.com/track/2Rz1tf1gORr5LGGCP4sVyp) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Believe In Love](https://open.spotify.com/album/1XeZv5r6fvi3lT9vTKNGjN) | 4:18 |
-| 50 | [Satisfaction Guaranteed \(Or Take Your Love Back\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Black & Blue \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N) | 3:30 |
+| 50 | [Two Hearts](https://open.spotify.com/track/6aiRo3mKnVMKJ2TZKxIf2w) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Stephanie](https://open.spotify.com/album/6cwySqorXyjshvt0Pkx6C6) | 4:43 |
 
-Snapshot ID: `apDPgAAAAAAe/L82CaKntT3RmHpZl0lu`
+Snapshot ID: `apIhAAAAAACZ07b2gq3l/b2D/hGNcqpn`

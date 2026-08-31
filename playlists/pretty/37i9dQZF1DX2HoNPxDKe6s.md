@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HoNPxDKe6s.md) - [plain]
 
 > The hip\-hop party soundtrack of summer, past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,648 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,698 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HoNPxDKe6s.md) - [plain]
 | 41 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
 | 42 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:49 |
 | 43 | [WE ON GO](https://open.spotify.com/track/6g4EPHt65k6X0BgLGzP1KW) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BIANCA \(Extended\)](https://open.spotify.com/album/3ZZPAolaVt6yBMsk84BeK1) | 2:48 |
-| 44 | [Crew \(feat\. Brent Faiyaz & Shy Glizzy\)](https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [At What Cost](https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX) | 2:56 |
-| 45 | [Aston Martin Music](https://open.spotify.com/track/5W7xC99N2Zzfh69r7I7zWK) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Teflon Don](https://open.spotify.com/album/0jipZxGtkTDHjVerLkzO80) | 4:30 |
+| 44 | [Aston Martin Music](https://open.spotify.com/track/5W7xC99N2Zzfh69r7I7zWK) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Teflon Don](https://open.spotify.com/album/0jipZxGtkTDHjVerLkzO80) | 4:30 |
+| 45 | [Crew \(feat\. Brent Faiyaz & Shy Glizzy\)](https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [At What Cost](https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX) | 2:56 |
 | 46 | [Bad and Boujee \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 5:43 |
 | 47 | [Ballin' \(with Roddy Ricch\)](https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:00 |
 | 48 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 |

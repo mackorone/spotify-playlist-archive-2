@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Ysa C
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,360 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,353 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 37 | [ILY](https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ILY](https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW) | 3:36 |
 | 38 | [Paz Mental](https://open.spotify.com/track/6NBmlO9D9y32zDjf3PsF6G) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Paz Mental](https://open.spotify.com/album/2Dxid0n6fLgS8gtAf0Xlze) | 3:29 |
 | 39 | [Soso \- Remix](https://open.spotify.com/track/2CQ0S1zCT7QqmAh7Ke6Kso) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:22 |
-| 40 | [Mal o Bien](https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 2:05 |
-| 41 | [KTM](https://open.spotify.com/track/3XXofal1zx616qGCutchgq) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Nake](https://open.spotify.com/artist/6hJnrA58ELi64NP1TDyzQG) | [KTM](https://open.spotify.com/album/1NXAld0zegArVKl00nTSpv) | 2:57 |
+| 40 | [KTM](https://open.spotify.com/track/3XXofal1zx616qGCutchgq) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Nake](https://open.spotify.com/artist/6hJnrA58ELi64NP1TDyzQG) | [KTM](https://open.spotify.com/album/1NXAld0zegArVKl00nTSpv) | 2:57 |
+| 41 | [Mal o Bien](https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 2:05 |
 | 42 | [yo viendo](https://open.spotify.com/track/13YKsJInLyGiJdEZEqqnzt) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [SENDÉ](https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c) | 2:28 |
 | 43 | [Medetown](https://open.spotify.com/track/6vLPeh2r5vu7VrnfBhDu1F) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [OMERTA](https://open.spotify.com/album/2D5DfOxUu0wzK9wrQK7VjY) | 3:01 |
 | 44 | [Eva Longoria](https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:19 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 71 | [Laho III](https://open.spotify.com/track/6Ax7HFmxQTWfJB5Wj8o1ET) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Laho III](https://open.spotify.com/album/5cNmhhxoAbTfeAp541gD6i) | 2:58 |
 | 72 | [La Ruta](https://open.spotify.com/track/7sDPVFMYuoq9UPLrM1I7Ct) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Ruta](https://open.spotify.com/album/5lgRpUbqo5VRODoEiQeNCW) | 2:41 |
 | 73 | [Todo Se Supera](https://open.spotify.com/track/4CaC69iESuAoTEJ3wN0DRd) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Todo Se Supera](https://open.spotify.com/album/6yuunIfINN48eEwBvD37T0) | 3:19 |
-| 74 | [Un Trip](https://open.spotify.com/track/4IxAbO2TlNdylq7JPBHX41) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi) | [Un Trip](https://open.spotify.com/album/6yVVZiq5Ovj4PP3FnSDW63) | 2:38 |
-| 75 | [AZOLEAO](https://open.spotify.com/track/1o7orLqjr0u5EbTnxsPp4N) | [Zalek](https://open.spotify.com/artist/7wGIP46NCaUDHkLrGyabsE), [Flovv coco](https://open.spotify.com/artist/6IUsZuEhV1j9DsdMnCnleu) | [AZOLEAO](https://open.spotify.com/album/4xiQ2wrEzUeQg8OimLtaEH) | 2:15 |
+| 74 | [AZOLEAO](https://open.spotify.com/track/1o7orLqjr0u5EbTnxsPp4N) | [Zalek](https://open.spotify.com/artist/7wGIP46NCaUDHkLrGyabsE), [Flovv coco](https://open.spotify.com/artist/6IUsZuEhV1j9DsdMnCnleu) | [AZOLEAO](https://open.spotify.com/album/4xiQ2wrEzUeQg8OimLtaEH) | 2:15 |
+| 75 | [Un Trip](https://open.spotify.com/track/4IxAbO2TlNdylq7JPBHX41) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi) | [Un Trip](https://open.spotify.com/album/6yVVZiq5Ovj4PP3FnSDW63) | 2:38 |
 | 76 | [PAKETE VAS](https://open.spotify.com/track/7pytb3QXxHRo7xr4SgtZbw) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g) | [PAKETE VAS](https://open.spotify.com/album/0g0Wi4LkntibSaCldlIbJU) | 2:07 |
 | 77 | [RAMÉ](https://open.spotify.com/track/4RYqpukZYyESWyhEc3EYXT) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [RAMÉ](https://open.spotify.com/album/4h5f7sE8qn781dGvmqSniw) | 2:41 |
 | 78 | [Ojitos Chinos](https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Ojitos Chinos](https://open.spotify.com/album/0zwvkTHUGRjbcWUDCXEkXk) | 2:21 |

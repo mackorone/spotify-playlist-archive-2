@@ -1,6 +1,6 @@
 {
   "description": "Rock out while you game.",
-  "num_followers": 712452,
+  "num_followers": 712552,
   "original_name": "Ultimate Rock Gaming",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-03-02 16:13:57",
       "album": {
-        "name": "Everybody Wants",
-        "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "Could Have Been Me",
-      "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
-    },
-    {
-      "added_at": "2026-03-02 16:13:57",
-      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 221450,
       "name": "Starburster",
       "url": "https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0"
+    },
+    {
+      "added_at": "2026-03-02 16:13:57",
+      "album": {
+        "name": "Everybody Wants",
+        "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Could Have Been Me",
+      "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
     },
     {
       "added_at": "2026-03-02 16:13:57",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-03-02 16:13:57",
       "album": {
-        "name": "Jaded",
-        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 262631,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
-    },
-    {
-      "added_at": "2026-03-02 16:13:57",
-      "album": {
         "name": "From The Fires",
         "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 234600,
       "name": "Safari Song",
       "url": "https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11"
+    },
+    {
+      "added_at": "2026-03-02 16:13:57",
+      "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 262631,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
     },
     {
       "added_at": "2026-03-02 16:13:57",
@@ -1081,7 +1081,7 @@
         }
       ],
       "duration_ms": 115533,
-      "name": "Paint The Town Blue (from the series Arcane League of Legends)",
+      "name": "Paint The Town Blue - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx"
     },
     {

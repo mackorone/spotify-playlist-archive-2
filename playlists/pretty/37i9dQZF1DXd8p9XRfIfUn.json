@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 81340,
+  "num_followers": 81343,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -351,26 +351,6 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "ESO VA",
-        "url": "https://open.spotify.com/album/7G6P1cBAHQqFP3ljX8d27w"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        },
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "ESO VA",
-      "url": "https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
         "name": "Un Viaje",
         "url": "https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 285746,
       "name": "Un Viaje",
       "url": "https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
+        "name": "ESO VA",
+        "url": "https://open.spotify.com/album/7G6P1cBAHQqFP3ljX8d27w"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        },
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "ESO VA",
+      "url": "https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -795,26 +795,6 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Profuga",
-        "url": "https://open.spotify.com/album/7nfQMiQI7qyUqAz2feazuc"
-      },
-      "artists": [
-        {
-          "name": "Alex Got",
-          "url": "https://open.spotify.com/artist/16fOP8AoBwsszz9nX0qbnX"
-        },
-        {
-          "name": "Cris MJ",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 201811,
-      "name": "Profuga",
-      "url": "https://open.spotify.com/track/5kLnAf93pPAcEnIzzghQEL"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
         "name": "Nada Formal",
         "url": "https://open.spotify.com/album/27e20XRLAglZv8waxqEeWz"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 269306,
       "name": "Nada Formal",
       "url": "https://open.spotify.com/track/5kvlGR3K69Hk3a3DwfJQED"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
+        "name": "Profuga",
+        "url": "https://open.spotify.com/album/7nfQMiQI7qyUqAz2feazuc"
+      },
+      "artists": [
+        {
+          "name": "Alex Got",
+          "url": "https://open.spotify.com/artist/16fOP8AoBwsszz9nX0qbnX"
+        },
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 201811,
+      "name": "Profuga",
+      "url": "https://open.spotify.com/track/5kLnAf93pPAcEnIzzghQEL"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -1207,30 +1207,6 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Reggaeto\u00f1erito",
-        "url": "https://open.spotify.com/album/50V7j3NTDPwAkdTRFbjfJ9"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "DJ Antena",
-          "url": "https://open.spotify.com/artist/3x4HzYxQSgtmomxVVlCEiW"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Dale Bogueto",
-      "url": "https://open.spotify.com/track/57pTW0VdhvcQUYKtHby8MD"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
         "name": "Full Pioli (feat. Best)",
         "url": "https://open.spotify.com/album/7gNGbhPE1Uy1NDCwI2sSdb"
       },
@@ -1255,6 +1231,26 @@
       "duration_ms": 156096,
       "name": "Full Pioli (feat. Best)",
       "url": "https://open.spotify.com/track/2buMcKUAP01a72VC28jdIZ"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
+        "name": "M\u00e1s Papel",
+        "url": "https://open.spotify.com/album/6PFtQgbQ6fVrf2sTKBgzn1"
+      },
+      "artists": [
+        {
+          "name": "Axel Guerra",
+          "url": "https://open.spotify.com/artist/5Pi482fNZrF0kD8nyhDtvo"
+        },
+        {
+          "name": "Castro Angel",
+          "url": "https://open.spotify.com/artist/01olnHHF6FukRRCAObvofr"
+        }
+      ],
+      "duration_ms": 152952,
+      "name": "M\u00e1s Papel",
+      "url": "https://open.spotify.com/track/2guH6Iwas87W7c4QjgLot7"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

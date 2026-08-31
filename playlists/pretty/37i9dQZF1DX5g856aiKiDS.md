@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,760 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,783 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 37 | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD) | 3:07 |
 | 38 | [It's You \(Feat\. ZICO\)](https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7) | [SAM KIM](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 4:17 |
 | 39 | [Photograph](https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:59 |
-| 40 | [Dear.J \(Feat\. Jay Park\)](https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Dear.J](https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek) | 3:21 |
-| 41 | [I\`m In Love](https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [I\`m In Love](https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN) | 3:17 |
+| 40 | [I\`m In Love](https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [I\`m In Love](https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN) | 3:17 |
+| 41 | [Dear.J \(Feat\. Jay Park\)](https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Dear.J](https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek) | 3:21 |
 | 42 | [lost in you](https://open.spotify.com/track/4eidgKChMdRhxH1XnjHU7G) | [oftn](https://open.spotify.com/artist/0M34nBTSof0eEPK95GzUD4) | [lost in you](https://open.spotify.com/album/6BopMMFs55C6SMfG5DcG1I) | 3:20 |
 | 43 | [Sleepless in Seoul \(feat\. LEE SUHYUN\)](https://open.spotify.com/track/3OrmrZSVQJ8Kt017K51aF2) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(feat\. LEE SUHYUN\)](https://open.spotify.com/album/1aEMUc73KsSG53ysHl8x9f) | 4:17 |
 | 44 | [doodle \(Feat\. Yerin Baek\) \(Prod\. by WOOGIE\)](https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [doodle](https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV) | 3:07 |
 | 45 | [Across the universe](https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [FRANK](https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN) | 4:07 |
-| 46 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
-| 47 | [Luv Luv Luv](https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [My Lovely Liar, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl) | 3:22 |
-| 48 | [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 |
-| 49 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 |
+| 46 | [Luv Luv Luv](https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [My Lovely Liar, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl) | 3:22 |
+| 47 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
+| 48 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 |
+| 49 | [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 |
 | 50 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:14 |
 
 Snapshot ID: `AAAAAJfWrZ7/sXZNi1qC+NFSXc17JEd3`

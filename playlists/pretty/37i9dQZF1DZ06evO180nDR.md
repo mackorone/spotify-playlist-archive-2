@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,529 likes - 48 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,579 likes - 48 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 47 | [Me Amola](https://open.spotify.com/track/5uwXV9navpcEKDoiqAPASY) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Me Amola](https://open.spotify.com/album/2ndqLXq1j0vuy3DYZJMFeY) | 2:54 |
 | 48 | [Alias Jabón](https://open.spotify.com/track/1bpNq8orXbDAn4NALBPFfT) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:03 |
 
-Snapshot ID: `apDPgAAAAAD7bIVSQX5d+ANxx366OmPL`
+Snapshot ID: `apIhAAAAAAA6K4vCU4IcJiWIWI1m8fhV`

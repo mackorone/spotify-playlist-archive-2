@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5KpKRBzHOKcWcz5bX6zRD1">Mags Duval</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-134 songs - 6 hr 58 min
+135 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Not Even In My Dreams](https://open.spotify.com/track/2FZnwcvnEnNFRsGSmE1iP2) | [Lil GG](https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY) | [old shit](https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO) | 3:05 | 2025-07-03 | 2026-05-11 |
 | [Nothing But Love](https://open.spotify.com/track/03Cpo8eXUd12k8TXDAtExs) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Nothing But Love](https://open.spotify.com/album/5CZ7DmZ5Wjpat1kI11RcLK) | 2:23 | 2025-07-03 |  |
 | [Nothing's All The Time](https://open.spotify.com/track/71CdOHxHHarGkr21kVJ3MG) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Survive My Own Mind](https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN) | 2:42 | 2025-07-03 |  |
+| [ONLY THING LEFT](https://open.spotify.com/track/2nmrNr1Qs04TwLdNEOVOuE) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 3:34 | 2026-08-30 |  |
 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 | 2025-07-03 |  |
 | [Paradise](https://open.spotify.com/track/5wip4kUG4ZNaiuQNMA7Bi1) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Paradise](https://open.spotify.com/album/7hwYfu5C47eUo94ybeuxVc) | 2:51 | 2025-07-03 | 2025-12-08 |
 | [Paradise \(with will hyde\)](https://open.spotify.com/track/02GWxnELAR1fX56wUhDXgY) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl), [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [Paradise \(with will hyde\)](https://open.spotify.com/album/70vurhysvs82MKdtczzUBX) | 3:08 | 2025-07-03 |  |

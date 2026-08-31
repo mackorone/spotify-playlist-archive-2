@@ -1,6 +1,6 @@
 {
   "description": "De beste nieuwe R&B releases | Cover: Chris Brown",
-  "num_followers": 292269,
+  "num_followers": 292236,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -755,26 +755,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "miss u 2 (with Leon Thomas)",
-        "url": "https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo"
-      },
-      "artists": [
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 148404,
-      "name": "miss u 2 (with Leon Thomas)",
-      "url": "https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "Don't Remind Me (with Anderson .Paak)",
         "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 218472,
       "name": "Don't Remind Me (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "miss u 2 (with Leon Thomas)",
+        "url": "https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 148404,
+      "name": "miss u 2 (with Leon Thomas)",
+      "url": "https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "MEET THE SUN",
-        "url": "https://open.spotify.com/album/0Mff6DYflCDBNvAaahjB3w"
-      },
-      "artists": [
-        {
-          "name": "Joseph Solomon",
-          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
-        }
-      ],
-      "duration_ms": 285799,
-      "name": "MEET THE SUN",
-      "url": "https://open.spotify.com/track/1P2j9lCkJ0IzwRkuRZEFNa"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "nobody has to know (with Ronald Isley)",
         "url": "https://open.spotify.com/album/1dLxVKDkwe9nALHF5ErQEd"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 197379,
       "name": "nobody has to know (with Ronald Isley)",
       "url": "https://open.spotify.com/track/3CpYc8sEJUAgusqSZZKzi3"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "MEET THE SUN",
+        "url": "https://open.spotify.com/album/0Mff6DYflCDBNvAaahjB3w"
+      },
+      "artists": [
+        {
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+        }
+      ],
+      "duration_ms": 285799,
+      "name": "MEET THE SUN",
+      "url": "https://open.spotify.com/track/1P2j9lCkJ0IzwRkuRZEFNa"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "cracks beneath my skin",
-        "url": "https://open.spotify.com/album/5qNqKONiGXnzpqafdWit9B"
+        "name": "Take Our Time",
+        "url": "https://open.spotify.com/album/46oA9RFcjoFroXjGZA3xmg"
       },
       "artists": [
         {
-          "name": "Noha Sar\u00e9",
-          "url": "https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7"
+          "name": "MKY",
+          "url": "https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX"
         }
       ],
-      "duration_ms": 185082,
-      "name": "cracks beneath my skin",
-      "url": "https://open.spotify.com/track/3Dk0k6j6npirNZkHGELjJY"
+      "duration_ms": 145746,
+      "name": "Take Our Time",
+      "url": "https://open.spotify.com/track/0yrl69mUFPR0y5EvDdVSM9"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "Take Our Time",
-        "url": "https://open.spotify.com/album/46oA9RFcjoFroXjGZA3xmg"
+        "name": "cracks beneath my skin",
+        "url": "https://open.spotify.com/album/5qNqKONiGXnzpqafdWit9B"
       },
       "artists": [
         {
-          "name": "MKY",
-          "url": "https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX"
+          "name": "Noha Sar\u00e9",
+          "url": "https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7"
         }
       ],
-      "duration_ms": 145746,
-      "name": "Take Our Time",
-      "url": "https://open.spotify.com/track/0yrl69mUFPR0y5EvDdVSM9"
+      "duration_ms": 185082,
+      "name": "cracks beneath my skin",
+      "url": "https://open.spotify.com/track/3Dk0k6j6npirNZkHGELjJY"
     },
     {
       "added_at": "2026-06-10 11:59:44",

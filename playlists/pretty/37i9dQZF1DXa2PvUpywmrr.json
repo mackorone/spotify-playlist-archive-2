@@ -1,6 +1,6 @@
 {
   "description": "if you wanna party, come over to my house",
-  "num_followers": 3781016,
+  "num_followers": 3780537,
   "original_name": "Party Hits",
   "owner": {
     "name": "Spotify",
@@ -359,18 +359,26 @@
     {
       "added_at": "2026-08-28 15:55:17",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
         }
       ],
-      "duration_ms": 200040,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+      "duration_ms": 225834,
+      "name": "BbY WOW",
+      "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
     },
     {
       "added_at": "2026-08-28 15:55:17",
@@ -395,26 +403,18 @@
     {
       "added_at": "2026-08-28 15:55:17",
       "album": {
-        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
-        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        },
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 225834,
-      "name": "BbY WOW",
-      "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
+      "duration_ms": 200040,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
       "added_at": "2026-08-28 15:55:17",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-08-28 15:55:17",
       "album": {
-        "name": "Dracula",
-        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 205308,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
-    },
-    {
-      "added_at": "2026-08-28 15:55:17",
-      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
+    },
+    {
+      "added_at": "2026-08-28 15:55:17",
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
     },
     {
       "added_at": "2026-08-28 15:55:17",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-08-28 15:55:17",
       "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
-    },
-    {
-      "added_at": "2026-08-28 15:55:17",
-      "album": {
         "name": "Talk That Talk",
         "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
       },
@@ -1103,42 +1087,18 @@
     {
       "added_at": "2026-08-28 15:55:17",
       "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Molly Santana",
-          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
         }
       ],
-      "duration_ms": 247183,
-      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
-      "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
-    },
-    {
-      "added_at": "2026-08-28 15:55:17",
-      "album": {
-        "name": "brand new chanel$",
-        "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 238505,
-      "name": "brand new chanel$",
-      "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
       "added_at": "2026-08-28 15:55:17",
@@ -1167,6 +1127,22 @@
     {
       "added_at": "2026-08-28 15:55:17",
       "album": {
+        "name": "brand new chanel$",
+        "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 238505,
+      "name": "brand new chanel$",
+      "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
+    },
+    {
+      "added_at": "2026-08-28 15:55:17",
+      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
       },
@@ -1179,6 +1155,30 @@
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+    },
+    {
+      "added_at": "2026-08-28 15:55:17",
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Molly Santana",
+          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        }
+      ],
+      "duration_ms": 247183,
+      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
     },
     {
       "added_at": "2026-08-28 15:55:17",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-08-28 15:55:17",
       "album": {
-        "name": "SLICK",
-        "url": "https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 106909,
-      "name": "SLICK",
-      "url": "https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u"
-    },
-    {
-      "added_at": "2026-08-28 15:55:17",
-      "album": {
         "name": "I Don't Wanna Wait",
         "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2026-08-28 15:55:17",
       "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+        "name": "SLICK",
+        "url": "https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 145520,
-      "name": "Girl Like Me",
-      "url": "https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB"
+      "duration_ms": 106909,
+      "name": "SLICK",
+      "url": "https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u"
     },
     {
       "added_at": "2026-08-28 15:55:17",
@@ -1491,6 +1475,22 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
+    },
+    {
+      "added_at": "2026-08-28 15:55:17",
+      "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 145520,
+      "name": "Girl Like Me",
+      "url": "https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB"
     },
     {
       "added_at": "2026-08-28 15:55:17",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2026-08-28 15:55:17",
       "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "added_at": "2026-08-28 15:55:17",
+      "album": {
         "name": "Show Me Love (with Tyla)",
         "url": "https://open.spotify.com/album/2JJn1NNlaGZ0iWtjVep9Ti"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 176957,
       "name": "Show Me Love (with Tyla)",
       "url": "https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ"
-    },
-    {
-      "added_at": "2026-08-28 15:55:17",
-      "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
       "added_at": "2026-08-28 15:55:17",

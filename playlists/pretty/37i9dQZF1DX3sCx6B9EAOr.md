@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,949 likes - 150 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,939 likes - 150 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 | 75 | [Way Back Home](https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Take](https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO) | 3:34 |
 | 76 | [Born Savage](https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.2](https://open.spotify.com/album/1vkQIKe7n01Jxic7csfA4P) | 2:52 |
 | 77 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 |
-| 78 | [MEOW](https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MEOW](https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5) | 2:52 |
-| 79 | [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 |
+| 78 | [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 |
+| 79 | [MEOW](https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MEOW](https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5) | 2:52 |
 | 80 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Sparkling Blue](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 |
 | 81 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 |
 | 82 | [YEAH! YEAH!](https://open.spotify.com/track/7vmq3Ukd8csLDpCvoOM9Do) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [4SHOBOIZ Vol\. 2: 4SHOVILLE](https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl) | 3:04 |
@@ -107,13 +107,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 | 97 | [One \- Spotify Singles](https://open.spotify.com/track/6xOoHI8ap5SFkDiBLb3ucf) | [DxS](https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V) | [One \- Spotify Singles](https://open.spotify.com/album/7LdNmWfbwzpVSbsjzK0wWj) | 2:45 |
 | 98 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq) | 3:31 |
 | 99 | [404 \(New Era\)](https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:59 |
-| 100 | [ddok ddok ddok](https://open.spotify.com/track/5D5vkXfYyYeURaWIbMA2nP) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [ddok ddok ddok](https://open.spotify.com/album/24Y94uThWacq7o0gUF9dg2) | 2:35 |
-| 101 | [Ode to Love](https://open.spotify.com/track/08aIVRb9ucpxKdAJb50HAx) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Ode to Love \- The 1st Album](https://open.spotify.com/album/2OYOvhfBYA43XD7nd366iX) | 3:11 |
+| 100 | [Ode to Love](https://open.spotify.com/track/08aIVRb9ucpxKdAJb50HAx) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Ode to Love \- The 1st Album](https://open.spotify.com/album/2OYOvhfBYA43XD7nd366iX) | 3:11 |
+| 101 | [ddok ddok ddok](https://open.spotify.com/track/5D5vkXfYyYeURaWIbMA2nP) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [ddok ddok ddok](https://open.spotify.com/album/24Y94uThWacq7o0gUF9dg2) | 2:35 |
 | 102 | [SIGN](https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SIGN](https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd) | 2:46 |
 | 103 | [ONE MORE TIME](https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ONE MORE TIME](https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy) | 3:15 |
 | 104 | [What's a girl to do](https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [What's a girl to do](https://open.spotify.com/album/1hywbmcXqc373aldNqWUIS) | 2:10 |
-| 105 | [Atmos](https://open.spotify.com/track/1bjz9qoRONw86dmlcPZD9f) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Atmos \- The 6th Mini Album](https://open.spotify.com/album/2EKRc8vhOZC3ExSdP9WDQi) | 3:13 |
-| 106 | [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 |
+| 105 | [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 |
+| 106 | [Atmos](https://open.spotify.com/track/1bjz9qoRONw86dmlcPZD9f) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Atmos \- The 6th Mini Album](https://open.spotify.com/album/2EKRc8vhOZC3ExSdP9WDQi) | 3:13 |
 | 107 | [But Sometimes](https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHY..](https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa) | 2:55 |
 | 108 | [DASH](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:46 |
 | 109 | [Get A Guitar](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) | 2:40 |
@@ -123,9 +123,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 | 113 | [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 |
 | 114 | [TOP 5](https://open.spotify.com/track/7LVJBq2IZsv4UTHN9sCg9e) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Ascend\-](https://open.spotify.com/album/1BQQZejhtOdOJbIOVrmCUL) | 2:27 |
 | 115 | [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 |
-| 116 | [Busy Boy](https://open.spotify.com/track/6ufVsXMC1fAePZa5ZRMKdO) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [\[RESCENE X ???\]](https://open.spotify.com/album/0dbuXh0XcMsrgQsVep3jAk) | 2:30 |
-| 117 | [SNAPBACK](https://open.spotify.com/track/3CVdqafJ9WtmiCGkR2d9rJ) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [SNAPBACK](https://open.spotify.com/album/25CmZCmdlDSKjQ1CyBuysZ) | 2:33 |
-| 118 | [Candy Pink Magic Hole Flip Phone](https://open.spotify.com/track/5ImBkrqjl1xCxJK7yNDOsq) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [WhyKiiiKiii](https://open.spotify.com/album/5k18hWGQBeS8a0CchCJrf6) | 2:46 |
+| 116 | [Candy Pink Magic Hole Flip Phone](https://open.spotify.com/track/5ImBkrqjl1xCxJK7yNDOsq) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [WhyKiiiKiii](https://open.spotify.com/album/5k18hWGQBeS8a0CchCJrf6) | 2:46 |
+| 117 | [Busy Boy](https://open.spotify.com/track/6ufVsXMC1fAePZa5ZRMKdO) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [\[RESCENE X ???\]](https://open.spotify.com/album/0dbuXh0XcMsrgQsVep3jAk) | 2:30 |
+| 118 | [SNAPBACK](https://open.spotify.com/track/3CVdqafJ9WtmiCGkR2d9rJ) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [SNAPBACK](https://open.spotify.com/album/25CmZCmdlDSKjQ1CyBuysZ) | 2:33 |
 | 119 | [Baby Flower](https://open.spotify.com/track/1ET5lou3teBMA3a5cYeYzN) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<LOVE&POP> pt.1](https://open.spotify.com/album/35aVpvg3oTNbG8N3cL7B1Z) | 3:08 |
 | 120 | [In Bloom](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:00 |
 | 121 | [Air](https://open.spotify.com/track/6HSns0qPQQfgekCrBF0Dkf) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [AIR](https://open.spotify.com/album/6sJnzoRI9pXUo0gZxIviUS) | 3:14 |
@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 | 139 | [BURNING UP](https://open.spotify.com/track/6QQy6TLGFosP96SREaVaYD) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BURNING UP](https://open.spotify.com/album/0UoDQIsOArpbwoVplHKrvy) | 2:49 |
 | 140 | [Butterfly Doors](https://open.spotify.com/track/2M9u2uI82pX00qZmHvtIU4) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [Butterfly Doors](https://open.spotify.com/album/4vqSjxtAaGRBykrdDzxc4o) | 2:51 |
 | 141 | [Caution](https://open.spotify.com/track/6Rslq7198TpICmKw7sjwae) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [K\-POPS! \(Music from and inspired by K\-POPS! Motion Picture\)](https://open.spotify.com/album/3Wti4HDrcMs4mVBtBw6tIS) | 2:43 |
-| 142 | [Crow](https://open.spotify.com/track/65pQCf5tMSFEZO9JSfRUe1) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Crow](https://open.spotify.com/album/2JxQJmcB75IjJo4Sd4Z1F5) | 3:11 |
-| 143 | [CODE](https://open.spotify.com/track/00bnKgDRZxvwpnWDJg7Por) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [CODE](https://open.spotify.com/album/6ppaIu8fzPJZZjdLPKKSTt) | 2:35 |
+| 142 | [CODE](https://open.spotify.com/track/00bnKgDRZxvwpnWDJg7Por) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [CODE](https://open.spotify.com/album/6ppaIu8fzPJZZjdLPKKSTt) | 2:35 |
+| 143 | [Crow](https://open.spotify.com/track/65pQCf5tMSFEZO9JSfRUe1) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Crow](https://open.spotify.com/album/2JxQJmcB75IjJo4Sd4Z1F5) | 3:11 |
 | 144 | [Motto](https://open.spotify.com/track/3jVTmARXF5p21gaP9CqITM) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Motto](https://open.spotify.com/album/2I5aOoyW9gzkOrWOuElNdj) | 3:13 |
 | 145 | [THIS IS FOR](https://open.spotify.com/track/3fwjo4HYqaQcvdJP3d4twX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/751yK5uyUr7PGOgNAVkobh) | 2:11 |
 | 146 | [KEYVITUP](https://open.spotify.com/track/5BKwXFDUy903O85ATXdu5e) | [KEYVITUP](https://open.spotify.com/artist/5t5DHjgbcPnJGZJyz3YCnv) | [1ST EP ALBUM \[KEYVITUP\]](https://open.spotify.com/album/4LP65OY24zeyZRNd4GxhCH) | 2:38 |

@@ -994,7 +994,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 207085,
       "name": "Alive (feat. Wizkid)",
       "url": "https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH"
@@ -2174,7 +2174,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 193513,
       "name": "Ballerina Tea (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4I0oPdCm7ZCP7DTHs73a1e"
@@ -2760,6 +2760,24 @@
       "duration_ms": 121621,
       "name": "Black & White",
       "url": "https://open.spotify.com/track/1fRVkCzUtiSJskr0WeahmB"
+    },
+    {
+      "album": {
+        "name": "Black Flower",
+        "url": "https://open.spotify.com/album/5HxRHQMz3OhYjucr6qJAeE"
+      },
+      "artists": [
+        {
+          "name": "Becca Hatch",
+          "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Black Flower",
+      "url": "https://open.spotify.com/track/5j7yfmvOnLEvwGAgK9z3aL"
     },
     {
       "album": {
@@ -5740,7 +5758,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 170666,
       "name": "Die 2 Young (ft. 100Bandplan)",
       "url": "https://open.spotify.com/track/44rdeJo94TRE25sS6XGF63"
@@ -6333,6 +6351,28 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Look Any Further",
+        "url": "https://open.spotify.com/album/68PIvWtu6dy9Omn8XPBu4L"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242842,
+      "name": "Don\u2019t Look Any Further (with Lianne La Havas)",
+      "url": "https://open.spotify.com/track/0AjcjeMsxzUWPh0dQcYMyW"
+    },
+    {
+      "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
       },
@@ -6920,7 +6960,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 189557,
       "name": "EXTRA 15",
       "url": "https://open.spotify.com/track/2Xjeo3g2e5zTh5Sz6mLEEi"
@@ -7460,6 +7500,28 @@
       "duration_ms": 159339,
       "name": "Fi Kan We Kan",
       "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
+    },
+    {
+      "album": {
+        "name": "Filter (feat. Arche)",
+        "url": "https://open.spotify.com/album/3gaBcFSNpuOD3HBDkQbmu8"
+      },
+      "artists": [
+        {
+          "name": "Tina",
+          "url": "https://open.spotify.com/artist/72HxMCdKQmPgS3r5OtC01L"
+        },
+        {
+          "name": "Arche",
+          "url": "https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216935,
+      "name": "Filter (feat. Arche)",
+      "url": "https://open.spotify.com/track/5aVG8bYjTKRPJdNXoBAK2n"
     },
     {
       "album": {
@@ -9101,6 +9163,32 @@
     },
     {
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/1vNh24e3KzLejUdznzmmc1"
+      },
+      "artists": [
+        {
+          "name": "Misha",
+          "url": "https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7"
+        },
+        {
+          "name": "Gwen Bunn",
+          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
+        },
+        {
+          "name": "Evil Needle",
+          "url": "https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180822,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/5YfLnfx7bW5kP9sciwxkeP"
+    },
+    {
+      "album": {
         "name": "Goodbyes (Myrrh)",
         "url": "https://open.spotify.com/album/5NCOoYKQ1R5VOG4I9yX1tD"
       },
@@ -10416,10 +10504,36 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 153900,
       "name": "How Much Does It Take To Shift It All",
       "url": "https://open.spotify.com/track/0TgQDtN4IGHpUdAl97rXww"
+    },
+    {
+      "album": {
+        "name": "Black Boy (Alternative)",
+        "url": "https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG"
+      },
+      "artists": [
+        {
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "How To Pray",
+      "url": "https://open.spotify.com/track/5M8eNQ6wLYPT9D60hbcxVU"
     },
     {
       "album": {
@@ -10514,7 +10628,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 186500,
       "name": "Hurry Hurry",
       "url": "https://open.spotify.com/track/4BGA7VW330Eu1kaFNi98cG"
@@ -10934,7 +11048,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 154666,
       "name": "I LOVE YOUR BODY",
       "url": "https://open.spotify.com/track/1wWJmkrJi5IaNb2512YEcF"
@@ -12659,6 +12773,28 @@
     },
     {
       "album": {
+        "name": "Kacey (feat. Jordan Ward)",
+        "url": "https://open.spotify.com/album/3AYglF9ygBXs6BVVlTUdYU"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154711,
+      "name": "Kacey (feat. Jordan Ward)",
+      "url": "https://open.spotify.com/track/2x98vnp1K0wgGgMmoBqYbG"
+    },
+    {
+      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5"
       },
@@ -12908,6 +13044,32 @@
       "duration_ms": 241507,
       "name": "know about me (feat. GloRilla)",
       "url": "https://open.spotify.com/track/6ThcmoM9ZXYyNDm7AqtGTY"
+    },
+    {
+      "album": {
+        "name": "Koeteyuku (feat. Kzyboost) [4LON Remix]",
+        "url": "https://open.spotify.com/album/0oYwY19C8kdB9q7T2rjo46"
+      },
+      "artists": [
+        {
+          "name": "ZIN",
+          "url": "https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS"
+        },
+        {
+          "name": "Kzyboost",
+          "url": "https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil"
+        },
+        {
+          "name": "4LON",
+          "url": "https://open.spotify.com/artist/2s9P0X6QYkRHvydjLRtll9"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223087,
+      "name": "Koeteyuku (feat. Kzyboost) - 4LON Remix",
+      "url": "https://open.spotify.com/track/0pxE9QD6JnejvqB1CSO82G"
     },
     {
       "album": {
@@ -15673,6 +15835,24 @@
     },
     {
       "album": {
+        "name": "more",
+        "url": "https://open.spotify.com/album/5WnHIEKB6ZkO7Q4qm6488x"
+      },
+      "artists": [
+        {
+          "name": "Havn",
+          "url": "https://open.spotify.com/artist/1e139w9E9R8EC2qr8Ebu7G"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165008,
+      "name": "more",
+      "url": "https://open.spotify.com/track/2zjnrz3n2qQROIWQQI8aTL"
+    },
+    {
+      "album": {
         "name": "MORNING DEW (DONK)",
         "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ"
       },
@@ -16232,6 +16412,24 @@
       "duration_ms": 163173,
       "name": "nah",
       "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
+    },
+    {
+      "album": {
+        "name": "THE TIME OF OUR LIVES",
+        "url": "https://open.spotify.com/album/3QXgB0PAmTYKz17aYAblyS"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139846,
+      "name": "NAKED ON A YACHT",
+      "url": "https://open.spotify.com/track/6uEAy8KGxG5HBNQxtDCG4x"
     },
     {
       "album": {
@@ -18049,6 +18247,28 @@
     },
     {
       "album": {
+        "name": "Out Of Time with Tomoko Aran",
+        "url": "https://open.spotify.com/album/0Tc7ROEvsDP3iqzU8GRC5E"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Tomoko Aran",
+          "url": "https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171818,
+      "name": "Out Of Time with Tomoko Aran",
+      "url": "https://open.spotify.com/track/0nc2dv3B8W2FhBgwCkZxJa"
+    },
+    {
+      "album": {
         "name": "Out The Blue",
         "url": "https://open.spotify.com/album/32SZQwbKHdXkMB7dGJxYFg"
       },
@@ -18198,6 +18418,28 @@
       "duration_ms": 168000,
       "name": "Over",
       "url": "https://open.spotify.com/track/44EZObfoz6o5zmoExLVyaW"
+    },
+    {
+      "album": {
+        "name": "OVERHEAT",
+        "url": "https://open.spotify.com/album/5EbV1i5shtromh6PVT61qs"
+      },
+      "artists": [
+        {
+          "name": "3House",
+          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
+        },
+        {
+          "name": "Shurkn Pap",
+          "url": "https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202780,
+      "name": "OVERHEAT",
+      "url": "https://open.spotify.com/track/0Bm1E39pljqvab5us0ucUO"
     },
     {
       "album": {
@@ -18810,7 +19052,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 266613,
       "name": "point blank",
       "url": "https://open.spotify.com/track/3iVIWU9iGw8bJ8x2mfwXnI"
@@ -20466,7 +20708,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 252680,
       "name": "Running",
       "url": "https://open.spotify.com/track/7Au27LIvJ36ESI79bobPWu"
@@ -21026,7 +21268,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 179612,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/3xy4wL1GcLWZ8VNYGfnTYf"
@@ -22824,7 +23066,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 182120,
       "name": "Square Up",
       "url": "https://open.spotify.com/track/6z23ALs89TA5LEckkkFTTm"
@@ -23157,6 +23399,24 @@
     },
     {
       "album": {
+        "name": "Two Roads",
+        "url": "https://open.spotify.com/album/0Vc48CANIrBcl0VBDy1TTX"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203519,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/3pgXNASOzt7C0QRby6FSbR"
+    },
+    {
+      "album": {
         "name": "Stuck On Us",
         "url": "https://open.spotify.com/album/2pbCyrVoOx9JosWEd0sRcD"
       },
@@ -23402,7 +23662,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 173742,
       "name": "Summer Haze",
       "url": "https://open.spotify.com/track/465QjZo1z1JAuLTTC7DnuK"
@@ -23468,6 +23728,24 @@
       "duration_ms": 210296,
       "name": "Summertime Blue",
       "url": "https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts"
+    },
+    {
+      "album": {
+        "name": "SUN",
+        "url": "https://open.spotify.com/album/2DqQnA2cTZ3oxvyKagzbiu"
+      },
+      "artists": [
+        {
+          "name": "aimi",
+          "url": "https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "SUN",
+      "url": "https://open.spotify.com/track/0zrycnQkQDbD00hRBJ5GRN"
     },
     {
       "album": {
@@ -23548,7 +23826,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 199333,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/3wai0YFHIs9fy17x0Kmpvf"
@@ -25293,6 +25571,32 @@
     },
     {
       "album": {
+        "name": "Before The World Blows",
+        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256396,
+      "name": "To The Moon (Plan C) - feat. Steve Lacy",
+      "url": "https://open.spotify.com/track/19u9Ms6Z8Ilo0JOITN2mFV"
+    },
+    {
+      "album": {
         "name": "Tokyo Lift (5am)",
         "url": "https://open.spotify.com/album/5VOkDAIt6P6s1eNRhay1xE"
       },
@@ -26012,7 +26316,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 240000,
       "name": "Two Roads",
       "url": "https://open.spotify.com/track/7qL3kkN6674wZeISb8zL1J"
@@ -26272,6 +26576,24 @@
       "duration_ms": 163555,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/5yAD3UiZ2p0A833YSaE16Y"
+    },
+    {
+      "album": {
+        "name": "Unlovable",
+        "url": "https://open.spotify.com/album/2Lu606lv6mQr2b5UiKF6Vq"
+      },
+      "artists": [
+        {
+          "name": "Sabyna",
+          "url": "https://open.spotify.com/artist/4Pke6JkdRNWAHttfVvnvP6"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156640,
+      "name": "Unlovable",
+      "url": "https://open.spotify.com/track/5o8lgR3kGI6CdOjuWX414f"
     },
     {
       "album": {
@@ -27892,7 +28214,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-31",
       "duration_ms": 386020,
       "name": "Witch Doctor",
       "url": "https://open.spotify.com/track/7H2FmMnHfLRj8yoJpdl6A6"

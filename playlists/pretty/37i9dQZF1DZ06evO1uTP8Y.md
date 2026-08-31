@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 
 > This is Odeal\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,852 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,870 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [COCA BODY](https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [COCA BODY](https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa) | 2:33 |
-| 2 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 |
+| 1 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 |
+| 2 | [COCA BODY](https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [COCA BODY](https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa) | 2:33 |
 | 3 | [Coming Home \(feat\. Jorja Smith\)](https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:42 |
 | 4 | [Nights In The Sun \(feat\. Wizkid\)](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:50 |
 | 5 | [Blame U](https://open.spotify.com/track/7lNFaTHV5IH8xaSXPqllOn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 49 | [Hold You Down](https://open.spotify.com/track/58rGKqZE9EiSAmPIeMLaKu) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Peace and Love](https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01) | 2:38 |
 | 50 | [24/48](https://open.spotify.com/track/3GwovMvw7GvDsbolWbHImh) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 2:41 |
 
-Snapshot ID: `apDPgAAAAADKmbHi7VMPJJuCmopFOdcx`
+Snapshot ID: `apIhAAAAAAAaCx7p44xSuFoKCRTa8WzQ`

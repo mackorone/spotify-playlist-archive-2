@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 
 > Take another hit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,059,128 likes - 90 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,059,109 likes - 90 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

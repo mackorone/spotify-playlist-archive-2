@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! August ambassador: <a href="spotify:artist:2sGGaKKex7GgNlH1DRXZSa">Inez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,398 likes - 65 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,396 likes - 65 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 5 | [Here With Me](https://open.spotify.com/track/4lGvzUh0fApdiJ4hMPvkF5) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Here With Me](https://open.spotify.com/album/7nelv3ZYPwq30wiugEJkJr) | 3:19 |
 | 6 | [Met Mij Zijn](https://open.spotify.com/track/1EOSFJC2w4LvFaInJr9G4T) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Met Mij Zijn](https://open.spotify.com/album/2slIoPsgmDzAcvkF5g2Uyt) | 2:33 |
 | 7 | [Wishing Stone](https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Wishing Stone](https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE) | 3:48 |
-| 8 | [Landing Soft](https://open.spotify.com/track/5QNO6F2umr9c8miGBaU3cr) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Landing Soft](https://open.spotify.com/album/1MZv2k2og4lbTBuredHjLW) | 4:15 |
-| 9 | [Call for Change](https://open.spotify.com/track/4oLrikt1RciSZOSttW7Z65) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Call For Change](https://open.spotify.com/album/0iVuaj5BrkdvcgTUsDaQXw) | 3:29 |
+| 8 | [Call for Change](https://open.spotify.com/track/4oLrikt1RciSZOSttW7Z65) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Call For Change](https://open.spotify.com/album/0iVuaj5BrkdvcgTUsDaQXw) | 3:29 |
+| 9 | [Landing Soft](https://open.spotify.com/track/5QNO6F2umr9c8miGBaU3cr) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Landing Soft](https://open.spotify.com/album/1MZv2k2og4lbTBuredHjLW) | 4:15 |
 | 10 | [Pieces](https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Pieces](https://open.spotify.com/album/7BHfasb0FXKXz5XjjqLcwj) | 2:47 |
 | 11 | [Complicated](https://open.spotify.com/track/1Ic99VrqmtQr6BHuzBDdrj) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [Complicated](https://open.spotify.com/album/4ylYArRmCjDvKFS5Sd8HPE) | 3:39 |
 | 12 | [Ik Wou Dat Ik Jou Was](https://open.spotify.com/track/1zsJSTm6wlqdRMRl4dbvGg) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Ik Wou Dat Ik Jou Was](https://open.spotify.com/album/75uyPFs1xFcE11CviRMV7S) | 2:47 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 43 | [Caracol](https://open.spotify.com/track/0OoVX3AdicKdF7DSbITI3Q) | [Alina Pozi](https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY) | [Caracol](https://open.spotify.com/album/2Kie6xh7kO8piNoLYIepz8) | 2:57 |
 | 44 | [Taxi](https://open.spotify.com/track/6eameOYe26Fy9h11X2S4P5) | [The Klittens](https://open.spotify.com/artist/1x52exMIN31XbiEfsG2kM2) | [Taxi](https://open.spotify.com/album/6ZUmiLywnQFNRcnb0sqPvI) | 5:09 |
 | 45 | [Owe You Something](https://open.spotify.com/track/7Isx6NJbq9EfoKgkFjM272) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [Owe You Something](https://open.spotify.com/album/22KXKnrcyNxZw4nBDQZHDI) | 2:51 |
-| 46 | [The Gardener](https://open.spotify.com/track/2HpdHFOZqPaxmgbXnwnyCt) | [Jessy Yasmeen](https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ) | [The Gardener](https://open.spotify.com/album/3wbp4Nw28ud1SHHTUURh8E) | 2:28 |
-| 47 | [Fast Paced Society](https://open.spotify.com/track/6FtD6D6SoPG0Xk3d19HJnX) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5) | [Fast Paced Society](https://open.spotify.com/album/5R3nVOD8ENM6WTNflnyF8P) | 3:13 |
+| 46 | [Fast Paced Society](https://open.spotify.com/track/6FtD6D6SoPG0Xk3d19HJnX) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5) | [Fast Paced Society](https://open.spotify.com/album/5R3nVOD8ENM6WTNflnyF8P) | 3:13 |
+| 47 | [The Gardener](https://open.spotify.com/track/2HpdHFOZqPaxmgbXnwnyCt) | [Jessy Yasmeen](https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ) | [The Gardener](https://open.spotify.com/album/3wbp4Nw28ud1SHHTUURh8E) | 2:28 |
 | 48 | [Back voor je needs](https://open.spotify.com/track/6x2Wbp92mZPqCrt6ZQ0ELi) | [NOELL3](https://open.spotify.com/artist/2MCk3BEEbEX4OAdyHjuqdB) | [Back voor je needs](https://open.spotify.com/album/5BdDqKGlJrCmuQP4LohGJD) | 1:52 |
 | 49 | [Unholy Sigh](https://open.spotify.com/track/0hPnLSvCt3FWuniVuS1X6H) | [Nelleke](https://open.spotify.com/artist/0gMqIo1XytRF3KiK8O2NUu) | [Unholy Sigh](https://open.spotify.com/album/1PecMc39JTlIBH5wdeb7PK) | 3:47 |
 | 50 | [Stargazing](https://open.spotify.com/track/7nUrhcVX8F1KUrkd07cSRY) | [Géonne Hartman](https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon) | [Stargazing](https://open.spotify.com/album/6l5AHOZgUmR4LXN2vsuiD2) | 2:58 |

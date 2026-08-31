@@ -1,12 +1,12 @@
 {
   "description": "The best uptempo pop for the workout girlies",
-  "num_followers": 1472158,
+  "num_followers": 1472250,
   "original_name": "Pumped Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALI6uW88/gr9CqSattKD4c8geypQ",
+  "snapshot_id": "AAAAAM5iNuTqkNoW42ZgK2ezIrPALOC8",
   "tracks": [
     {
       "added_at": "2026-04-06 14:44:29",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-04-06 14:44:29",
       "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 149666,
-      "name": "Illegal",
-      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
-    },
-    {
-      "added_at": "2026-04-06 14:44:29",
-      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 230733,
       "name": "Last Friday Night (T.G.I.F.)",
       "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
+    },
+    {
+      "added_at": "2026-04-06 14:44:29",
+      "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 149666,
+      "name": "Illegal",
+      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
     },
     {
       "added_at": "2026-04-06 14:44:29",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-04-06 14:44:29",
       "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151739,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
-    },
-    {
-      "added_at": "2026-04-06 14:44:29",
-      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+    },
+    {
+      "added_at": "2026-04-06 14:44:29",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
       "added_at": "2026-04-06 14:44:29",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-04-06 14:44:29",
       "album": {
-        "name": "Still Into You",
-        "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Still Into You",
-      "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
-    },
-    {
-      "added_at": "2026-04-06 14:44:29",
-      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "added_at": "2026-04-06 14:44:29",
+      "album": {
+        "name": "Still Into You",
+        "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Still Into You",
+      "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
     },
     {
       "added_at": "2026-04-06 14:44:29",

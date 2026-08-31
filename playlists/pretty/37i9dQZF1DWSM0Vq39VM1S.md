@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > C'est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,855 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,887 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 21 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 |
 | 22 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 |
 | 23 | [Rent California](https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Rent California](https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV) | 4:03 |
-| 24 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:16 |
-| 25 | [Sit Back Baby](https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Sit Back Baby](https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1) | 3:54 |
+| 24 | [Sit Back Baby](https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Sit Back Baby](https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1) | 3:54 |
+| 25 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:16 |
 | 26 | [Some Birds Don't Fly](https://open.spotify.com/track/3zUh0LEFrPjlnKUm3krD8C) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Some Birds Don't Fly](https://open.spotify.com/album/28GN4GapBzVeGu3fcYOTRo) | 3:26 |
 | 27 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 |
 | 28 | [Dreamin'](https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin' \(Deluxe\)](https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p) | 3:53 |
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 47 | [Small Mercies](https://open.spotify.com/track/5dOIyahZY3ZmzoidvVbELF) | [Jonathan Jeremiah](https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU) | [Horsepower For The Streets \(Deluxe Version\)](https://open.spotify.com/album/7b2eQ7mqxXZDq5GqF6agfP) | 3:41 |
 | 48 | [My Whole Life](https://open.spotify.com/track/34GAk6onUPTSyOsISSQY3L) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Learning to Live](https://open.spotify.com/album/74g5xcLgklxM0bu3UxBCCs) | 3:05 |
 | 49 | [Forever](https://open.spotify.com/track/6F67iZ1PGel8iMkLipvTIY) | [Diva Faune](https://open.spotify.com/artist/39l75cUNbVMpHgykQLyOUT) | [Gliding for the sun](https://open.spotify.com/album/7wOV4zU3RI6JTNhgultRwU) | 4:45 |
-| 50 | [Crown](https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Crown](https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY) | 2:22 |
-| 51 | [Your Woman](https://open.spotify.com/track/1PJEzOSG67yPOarjKAlvg6) | [Annie Lalalove](https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL) | [Your Woman](https://open.spotify.com/album/63f4ACjDE8ucRFZgnglWOm) | 3:48 |
+| 50 | [Your Woman](https://open.spotify.com/track/1PJEzOSG67yPOarjKAlvg6) | [Annie Lalalove](https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL) | [Your Woman](https://open.spotify.com/album/63f4ACjDE8ucRFZgnglWOm) | 3:48 |
+| 51 | [Crown](https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Crown](https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY) | 2:22 |
 | 52 | [What A Night](https://open.spotify.com/track/4XQVjFJZ2zGgtxmEPVYtQ0) | [Malted Milk](https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0) | [What A Night](https://open.spotify.com/album/4BNxDvVKgVuwghrLdQRrfB) | 4:01 |
 | 53 | [Ricordo tattile](https://open.spotify.com/track/3Gk1uoZYoQ3dq3UqCEHdDC) | [Andrea Laszlo De Simone](https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh) | [Una lunghissima ombra](https://open.spotify.com/album/53VuM2XxkSpzalMQqmM7Jb) | 6:29 |
 | 54 | [Smoke](https://open.spotify.com/track/36FBF9QJIxMIGh3uTnUAH1) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Smoke](https://open.spotify.com/album/2ATkJp3riBcNpJ153QTrif) | 3:21 |
 | 55 | [How Much Does It Take To Shift It All](https://open.spotify.com/track/0TgQDtN4IGHpUdAl97rXww) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [How Much Does It Take To Shift It All](https://open.spotify.com/album/4Mttw5x47ye4BjX9zrVdKv) | 2:33 |
 | 56 | [Yours Or Mine](https://open.spotify.com/track/6uJ1XDLc1xsAD7TqnAFLP4) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Yours Or Mine](https://open.spotify.com/album/4TeFGNjeEzZytPpGiw81M2) | 3:50 |
-| 57 | [Home](https://open.spotify.com/track/3ibjwFminiiudfT76RkuvU) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Home](https://open.spotify.com/album/4KDnylxQXJbcBTbMzc9E3Q) | 2:17 |
-| 58 | [The Bed Unfold](https://open.spotify.com/track/2JaYsCEgBJyaPlKV2t91Jd) | [Penelope Antena](https://open.spotify.com/artist/78AWqSH5GCoOrI5zqNqHsH) | [Joy Will Find Its Way](https://open.spotify.com/album/1mkFngvOZTjjUkDBhtqFAc) | 3:20 |
-| 59 | [Give Me That Feeling](https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN) | 4:14 |
+| 57 | [The Bed Unfold](https://open.spotify.com/track/2JaYsCEgBJyaPlKV2t91Jd) | [Penelope Antena](https://open.spotify.com/artist/78AWqSH5GCoOrI5zqNqHsH) | [Joy Will Find Its Way](https://open.spotify.com/album/1mkFngvOZTjjUkDBhtqFAc) | 3:20 |
+| 58 | [Give Me That Feeling](https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN) | 4:14 |
+| 59 | [Home](https://open.spotify.com/track/3ibjwFminiiudfT76RkuvU) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Home](https://open.spotify.com/album/4KDnylxQXJbcBTbMzc9E3Q) | 2:17 |
 | 60 | [Heavensake \- A COLORS SHOW](https://open.spotify.com/track/4xh7zcnaWckiIYfv7qFpm6) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Heavensake \- A COLORS SHOW](https://open.spotify.com/album/0GOmnTJHGQO10UgsvP5K26) | 3:14 |
 
 Snapshot ID: `AAAAAPXq5c9rkJTxnBC28MW5CR0fTqeW`

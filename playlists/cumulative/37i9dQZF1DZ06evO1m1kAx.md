@@ -4,7 +4,7 @@
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-139 songs - 9 hr 3 min
+140 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Aristo](https://open.spotify.com/track/6AAipw8PkaB8SlVBIikMpC) | [Big A](https://open.spotify.com/artist/1xndT3Oq2C8Qb8IMLM4JK6), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Aristo](https://open.spotify.com/album/0bsISehIzYZbf0rtAWWele) | 2:56 | 2022-11-24 | 2024-06-21 |
 | [Ashewo](https://open.spotify.com/track/6phfOLRF89L8DlEofGXVHN) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [\[I.N.I.T\] In Nasboi I Trust](https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt) | 3:04 | 2024-10-01 |  |
 | [Azaman](https://open.spotify.com/track/61gKKvpUMUnfmVkJGzLiGw) | [Slimcase](https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR) | [Azaman](https://open.spotify.com/album/2OpvIZAXt5UVzxUCN0tVSY) | 3:44 | 2024-08-03 |  |
+| [Baba Nla](https://open.spotify.com/track/2SHJq89tovZvPwLRzEP2SY) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [Baba Nla](https://open.spotify.com/album/49WZxAg2BOPaj1GC4qb7h5) | 3:22 | 2026-08-31 |  |
 | [Baba Nla](https://open.spotify.com/track/741bGvXuyaHaiFZrVEtLza) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [Baba Nla](https://open.spotify.com/album/4VMCzDpzW1LRJjDLIGWRXN) | 3:22 | 2022-09-10 | 2025-06-07 |
 | [Balling](https://open.spotify.com/track/07NNN8R6nPalmCcJM8u4Ix) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Balling](https://open.spotify.com/album/1PkExWiua4WPctupFbAIBx) | 2:50 | 2025-12-14 |  |
 | [Be There](https://open.spotify.com/track/6DpcgxMU0KZjDmFlXrU2xN) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY) | 3:11 | 2024-03-26 |  |
