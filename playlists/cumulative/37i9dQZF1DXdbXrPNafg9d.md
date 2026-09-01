@@ -4,7 +4,7 @@
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: Dominic Fike
 
-10,721 songs - 26 day 0 hr 40 min
+10,722 songs - 26 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [2016](https://open.spotify.com/track/5U2fE6X1VI0BVQo3447if0) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [2016](https://open.spotify.com/album/4Y1a0m4CCbZRpPH2X2E2WA) | 3:00 | 2024-02-09 | 2024-03-16 |
 | [20200817 Proud True Toyota](https://open.spotify.com/track/4OeO5Xc50TRVG3ofaxM1rn) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:02 | 2023-04-21 | 2023-06-03 |
 | [2021 \(in the space between two pieces of wood\)](https://open.spotify.com/track/4L2XbB6fSJINymzF5Q4x5F) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [40:42](https://open.spotify.com/album/72TjwUTbv8m606I5SEASqZ) | 20:21 | 2021-02-06 | 2021-03-26 |
+| [20260321](https://open.spotify.com/track/3FSW7AJdBLR8pYYBn48aEl) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [The View From Tian Tan](https://open.spotify.com/album/3TDdSwF8E4zIEl1U5k2MZ9) | 3:02 | 2026-08-31 |  |
 | [21](https://open.spotify.com/track/1XvRnK2uLO98kIwjTKVAM9) | [Boxrooster](https://open.spotify.com/artist/4MyemXDuB1bsOb4MO3lze3) | [21](https://open.spotify.com/album/6JQWyRnWYdIx3uxYgJZKXa) | 4:21 | 2025-12-19 | 2026-02-21 |
 | [21](https://open.spotify.com/track/1rbpOgJauxNQ8kXgPYKxlF) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [21](https://open.spotify.com/album/3BopacViZCJRv8Wfxb1Q41) | 2:35 | 2021-04-03 | 2021-05-22 |
 | [21/04/20](https://open.spotify.com/track/3a6Bj474rn6AGwRGgNBFMp) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Civilisation II](https://open.spotify.com/album/5rNCZ6U1GRpP3BULqeIIgN) | 3:02 | 2021-04-24 | 2021-06-26 |

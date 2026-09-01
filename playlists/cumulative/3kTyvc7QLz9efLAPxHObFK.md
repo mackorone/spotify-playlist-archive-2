@@ -4,7 +4,7 @@
 
 > 
 
-3,188 songs - 6 day 20 hr 7 min
+3,189 songs - 6 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1205,6 +1205,7 @@
 | [Guardians](https://open.spotify.com/track/52Ku3f3DhHYY3mWpItFe2I) | [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7) | [Bastard Life](https://open.spotify.com/album/6cLdrdPbwk9TSD8upFxcgM) | 5:22 | 2022-04-19 |  |
 | [Gucci](https://open.spotify.com/track/6AhHT8UyTlAA6EjbDuxiW0) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Smile Jumptek](https://open.spotify.com/album/7rSEUcDgnGds45VoReyCV5) | 3:38 | 2023-04-14 |  |
 | [Guillotine](https://open.spotify.com/track/6BncMjYxHNc01wl1pVWDPz) | [Floxytek](https://open.spotify.com/artist/1v2lA2moEBT9UFfnRd6Pkx) | [Guillotine](https://open.spotify.com/album/1DhYfMd7eI1vJaDzPF59hn) | 4:03 | 2024-08-17 |  |
+| [GUMMYBEAR](https://open.spotify.com/track/2HMZ5AeUVrmaeVqGhGU6n0) | [Dead X](https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma) | [GUMMYBEAR](https://open.spotify.com/album/34nI9dMR7Xw2XH2No66llA) | 2:34 | 2026-09-01 |  |
 | [H2O](https://open.spotify.com/track/6IdsikgQj4FUoLuXGTXGyd) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Liquid Hardcore EP](https://open.spotify.com/album/06zkpBSnjF3BEuqMuXsw9w) | 5:22 | 2023-06-02 |  |
 | [Hageshi Konoyoru \-Psylent Crazy Night\-](https://open.spotify.com/track/20JY040IhpGl7S5Yw8rEzZ) | [aran](https://open.spotify.com/artist/4FvSs32NRc6sS3V8ylZrzq), [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb) | [Hageshi Konoyoru \-Psylent Crazy Night\-](https://open.spotify.com/album/34oPFvseldMHqBqF7x7dec) | 2:22 | 2022-10-06 |  |
 | [Hakkûh \- Original Mix](https://open.spotify.com/track/1BDczKVDKVTwhP84sTuMrW) | [3 Steps Ahead](https://open.spotify.com/artist/2aSXpRYCcgBPTVCMX3qyjA) | [Hakkûh](https://open.spotify.com/album/1oWLC41w69ByznojtoF1Us) | 5:16 | 2024-08-27 |  |

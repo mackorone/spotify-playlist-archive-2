@@ -1,12 +1,12 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 527393,
+  "num_followers": 527315,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIBUEEDJpJTDayh7uWXibpqv3UDN",
+  "snapshot_id": "AAAAADcI+xWov+y+AoUaf+Zv2AAj7L2D",
   "tracks": [
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1019,30 +1019,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Home Sweet Home (feat. ALMA & Digital Farm Animals)",
-        "url": "https://open.spotify.com/album/4JMUcayU11ORfD6m7nt5kk"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "ALMA",
-          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
-        },
-        {
-          "name": "Digital Farm Animals",
-          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
-        }
-      ],
-      "duration_ms": 177804,
-      "name": "Home Sweet Home (feat. ALMA & Digital Farm Animals)",
-      "url": "https://open.spotify.com/track/3vIPdMmbsye0YMhXy4GeXt"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "Bruised Not Broken (feat. MNEK & Kiana Led\u00e9)",
         "url": "https://open.spotify.com/album/0z4oE7Qw23PPTKR8Upu0Iu"
       },
@@ -1063,6 +1039,30 @@
       "duration_ms": 160909,
       "name": "Bruised Not Broken (feat. MNEK & Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/2ak79ho44RiDi9DFrqYgfq"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "Home Sweet Home (feat. ALMA & Digital Farm Animals)",
+        "url": "https://open.spotify.com/album/4JMUcayU11ORfD6m7nt5kk"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+        },
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+        }
+      ],
+      "duration_ms": 177804,
+      "name": "Home Sweet Home (feat. ALMA & Digital Farm Animals)",
+      "url": "https://open.spotify.com/track/3vIPdMmbsye0YMhXy4GeXt"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1227,22 +1227,26 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Always Will",
-        "url": "https://open.spotify.com/album/7tWc4pl3BkLrVKH02W5iWq"
+        "name": "Right Into You",
+        "url": "https://open.spotify.com/album/7gbcNX18avaFcPPYEh2eX4"
       },
       "artists": [
         {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
         },
         {
-          "name": "Julie Bergan",
-          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        },
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
         }
       ],
-      "duration_ms": 207270,
-      "name": "Always Will",
-      "url": "https://open.spotify.com/track/3ndUEyT1uOX5cPvsJScvEq"
+      "duration_ms": 193320,
+      "name": "Right Into You",
+      "url": "https://open.spotify.com/track/68sRAo8UPT1QGtSdmEUgvz"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1271,26 +1275,22 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Right Into You",
-        "url": "https://open.spotify.com/album/7gbcNX18avaFcPPYEh2eX4"
+        "name": "Always Will",
+        "url": "https://open.spotify.com/album/7tWc4pl3BkLrVKH02W5iWq"
       },
       "artists": [
         {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
         },
         {
-          "name": "Like Mike",
-          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
-        },
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+          "name": "Julie Bergan",
+          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
         }
       ],
-      "duration_ms": 193320,
-      "name": "Right Into You",
-      "url": "https://open.spotify.com/track/68sRAo8UPT1QGtSdmEUgvz"
+      "duration_ms": 207270,
+      "name": "Always Will",
+      "url": "https://open.spotify.com/track/3ndUEyT1uOX5cPvsJScvEq"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "Waiting for the Summer",
+        "url": "https://open.spotify.com/album/4mVZbOPDbTF6alY0EhdAE7"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "Graham Candy",
+          "url": "https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou"
+        }
+      ],
+      "duration_ms": 168491,
+      "name": "Waiting for the Summer",
+      "url": "https://open.spotify.com/track/6yDVzSw6ADBAQNgBSkkdw6"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "Forget About Me",
         "url": "https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 190680,
       "name": "New Love (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/3qcse1HvDQ1vGQo6Egtkom"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "Waiting for the Summer",
-        "url": "https://open.spotify.com/album/4mVZbOPDbTF6alY0EhdAE7"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "Graham Candy",
-          "url": "https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou"
-        }
-      ],
-      "duration_ms": 168491,
-      "name": "Waiting for the Summer",
-      "url": "https://open.spotify.com/track/6yDVzSw6ADBAQNgBSkkdw6"
     },
     {
       "added_at": "2025-02-07 03:01:15",

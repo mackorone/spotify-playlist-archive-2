@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Soraia Ramos",
-  "num_followers": 249941,
+  "num_followers": 249980,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOdWvYthwX3rg/+JzyG4jbj08X5y",
+  "snapshot_id": "AAAAAMKh7Nm1UMWVHPmb1ZgX67aQwobM",
   "tracks": [
     {
       "added_at": "2026-08-27 23:00:52",
@@ -395,18 +395,22 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/4xCCW00iAqMGJArZCBIVNZ"
+        "name": "Elavoko",
+        "url": "https://open.spotify.com/album/4XKaZTBjVImGWm0Gf6MRNZ"
       },
       "artists": [
         {
           "name": "Calema",
           "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Anderson M\u00e1rio",
+          "url": "https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO"
         }
       ],
-      "duration_ms": 255690,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/1pcARA1iBjvjnHgrMeo9c9"
+      "duration_ms": 207500,
+      "name": "Elavoko",
+      "url": "https://open.spotify.com/track/4qXWdphJIdbn30k1rwMSUR"
     },
     {
       "added_at": "2026-08-27 23:00:52",
@@ -807,26 +811,6 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
-        "name": "OQA?",
-        "url": "https://open.spotify.com/album/3WwEvwimIwmoYdZqMcFPyT"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Dinorath",
-          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
-        },
-        {
-          "name": "Teo No Beat",
-          "url": "https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2"
-        }
-      ],
-      "duration_ms": 195714,
-      "name": "OQA?",
-      "url": "https://open.spotify.com/track/5DgTqQRjIQMsXlmRV3i967"
-    },
-    {
-      "added_at": "2026-08-27 23:00:52",
-      "album": {
         "name": "O Lamento",
         "url": "https://open.spotify.com/album/46dkBV8nfGFL1YB2hzq7h1"
       },
@@ -851,6 +835,26 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
+        "name": "OQA?",
+        "url": "https://open.spotify.com/album/3WwEvwimIwmoYdZqMcFPyT"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Dinorath",
+          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
+        },
+        {
+          "name": "Teo No Beat",
+          "url": "https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2"
+        }
+      ],
+      "duration_ms": 195714,
+      "name": "OQA?",
+      "url": "https://open.spotify.com/track/5DgTqQRjIQMsXlmRV3i967"
+    },
+    {
+      "added_at": "2026-08-27 23:00:52",
+      "album": {
         "name": "Menina Mulher",
         "url": "https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm"
       },
@@ -867,22 +871,6 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
-        "name": "Kumpanhero",
-        "url": "https://open.spotify.com/album/4BGeYelRX48gmPxTgPNKQp"
-      },
-      "artists": [
-        {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Kumpanhero",
-      "url": "https://open.spotify.com/track/7CJpblRFCo10gDzVCpQhEh"
-    },
-    {
-      "added_at": "2026-08-27 23:00:52",
-      "album": {
         "name": "O Jeito Dela",
         "url": "https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g"
       },
@@ -895,6 +883,22 @@
       "duration_ms": 216127,
       "name": "O Jeito Dela - Radio Edit",
       "url": "https://open.spotify.com/track/1IPfgonCiEuHRIsDddkBWq"
+    },
+    {
+      "added_at": "2026-08-27 23:00:52",
+      "album": {
+        "name": "Kumpanhero",
+        "url": "https://open.spotify.com/album/4BGeYelRX48gmPxTgPNKQp"
+      },
+      "artists": [
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Kumpanhero",
+      "url": "https://open.spotify.com/track/7CJpblRFCo10gDzVCpQhEh"
     },
     {
       "added_at": "2026-08-27 23:00:52",
@@ -1003,6 +1007,26 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
+        "name": "O Pai",
+        "url": "https://open.spotify.com/album/06j1stQOZfmrrhNILMr63w"
+      },
+      "artists": [
+        {
+          "name": "Anna Joyce",
+          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
+        },
+        {
+          "name": "Paulo Flores",
+          "url": "https://open.spotify.com/artist/13y1zLuj38wQ2HtSSMa13M"
+        }
+      ],
+      "duration_ms": 306822,
+      "name": "O Pai",
+      "url": "https://open.spotify.com/track/0wnpc283RUxKyh0Qo0q4JG"
+    },
+    {
+      "added_at": "2026-08-27 23:00:52",
+      "album": {
         "name": "Evo\u00e9",
         "url": "https://open.spotify.com/album/4Jt0ifiTsa9N3VMDsXvEns"
       },
@@ -1043,26 +1067,6 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
-        "name": "O Pai",
-        "url": "https://open.spotify.com/album/06j1stQOZfmrrhNILMr63w"
-      },
-      "artists": [
-        {
-          "name": "Anna Joyce",
-          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
-        },
-        {
-          "name": "Paulo Flores",
-          "url": "https://open.spotify.com/artist/13y1zLuj38wQ2HtSSMa13M"
-        }
-      ],
-      "duration_ms": 306822,
-      "name": "O Pai",
-      "url": "https://open.spotify.com/track/0wnpc283RUxKyh0Qo0q4JG"
-    },
-    {
-      "added_at": "2026-08-27 23:00:52",
-      "album": {
         "name": "TU E A LUA",
         "url": "https://open.spotify.com/album/1RB4xQYnHkcZZjyu3vYxkS"
       },
@@ -1075,6 +1079,22 @@
       "duration_ms": 168600,
       "name": "TU E A LUA",
       "url": "https://open.spotify.com/track/2i91LXIQTB9uRfkrVrcRKC"
+    },
+    {
+      "added_at": "2026-08-27 23:00:52",
+      "album": {
+        "name": "Vem Relaxar",
+        "url": "https://open.spotify.com/album/4KqwpNCIeLXUIPqwa5QBVd"
+      },
+      "artists": [
+        {
+          "name": "Jay Oliver",
+          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
+        }
+      ],
+      "duration_ms": 172962,
+      "name": "Vem Relaxar",
+      "url": "https://open.spotify.com/track/1e55OqUQMPI9kG2NhG5Dm5"
     },
     {
       "added_at": "2026-08-27 23:00:52",
@@ -1099,22 +1119,6 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
-        "name": "Vem Relaxar",
-        "url": "https://open.spotify.com/album/4KqwpNCIeLXUIPqwa5QBVd"
-      },
-      "artists": [
-        {
-          "name": "Jay Oliver",
-          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
-        }
-      ],
-      "duration_ms": 172962,
-      "name": "Vem Relaxar",
-      "url": "https://open.spotify.com/track/1e55OqUQMPI9kG2NhG5Dm5"
-    },
-    {
-      "added_at": "2026-08-27 23:00:52",
-      "album": {
         "name": "Ref\u00fagio",
         "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
       },
@@ -1131,22 +1135,6 @@
       "duration_ms": 237570,
       "name": "Ref\u00fagio",
       "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
-    },
-    {
-      "added_at": "2026-08-27 23:00:52",
-      "album": {
-        "name": "M\u00e3e Grande",
-        "url": "https://open.spotify.com/album/1F9XoQNIkkotXxdAqDqjaJ"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        }
-      ],
-      "duration_ms": 175722,
-      "name": "M\u00e3e Grande",
-      "url": "https://open.spotify.com/track/7D6ebuyPIjenfZLIy3VQIo"
     },
     {
       "added_at": "2026-08-27 23:00:52",
@@ -1179,6 +1167,22 @@
       "duration_ms": 186727,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/3zHqzrkiGN7RR1OFjcS8JZ"
+    },
+    {
+      "added_at": "2026-08-27 23:00:52",
+      "album": {
+        "name": "M\u00e3e Grande",
+        "url": "https://open.spotify.com/album/1F9XoQNIkkotXxdAqDqjaJ"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 175722,
+      "name": "M\u00e3e Grande",
+      "url": "https://open.spotify.com/track/7D6ebuyPIjenfZLIy3VQIo"
     },
     {
       "added_at": "2026-08-27 23:00:52",
@@ -1427,18 +1431,18 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
-        "name": "Libra",
-        "url": "https://open.spotify.com/album/4LdlwdEpvdicYhV7SC5qsi"
+        "name": "Mab\u00e9",
+        "url": "https://open.spotify.com/album/18RkhQOtzWPdJCbe5IgIHW"
       },
       "artists": [
         {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+          "name": "Jord\u00e2nia",
+          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
         }
       ],
-      "duration_ms": 157419,
-      "name": "Quero Mais",
-      "url": "https://open.spotify.com/track/4oeSPyT7VejCz5duJ1lwnV"
+      "duration_ms": 170322,
+      "name": "Mab\u00e9",
+      "url": "https://open.spotify.com/track/5iq6WhWvN9LECIF1tnaVCD"
     },
     {
       "added_at": "2026-08-27 23:00:52",
@@ -1535,18 +1539,18 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
-        "name": "Mab\u00e9",
-        "url": "https://open.spotify.com/album/18RkhQOtzWPdJCbe5IgIHW"
+        "name": "Libra",
+        "url": "https://open.spotify.com/album/4LdlwdEpvdicYhV7SC5qsi"
       },
       "artists": [
         {
-          "name": "Jord\u00e2nia",
-          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
         }
       ],
-      "duration_ms": 170322,
-      "name": "Mab\u00e9",
-      "url": "https://open.spotify.com/track/5iq6WhWvN9LECIF1tnaVCD"
+      "duration_ms": 157419,
+      "name": "Quero Mais",
+      "url": "https://open.spotify.com/track/4oeSPyT7VejCz5duJ1lwnV"
     },
     {
       "added_at": "2026-08-27 23:00:52",
@@ -1611,26 +1615,6 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
-        "name": "Conecta",
-        "url": "https://open.spotify.com/album/1qfrpd4rp5JWmRG6kVbwUI"
-      },
-      "artists": [
-        {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
-        },
-        {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
-        }
-      ],
-      "duration_ms": 195364,
-      "name": "Conecta",
-      "url": "https://open.spotify.com/track/6BRvWO6nio9hUdWyQBntkn"
-    },
-    {
-      "added_at": "2026-08-27 23:00:52",
-      "album": {
         "name": "Ilus\u00e3o",
         "url": "https://open.spotify.com/album/7KZ5tJxMCnxWo2pqyUN5Mm"
       },
@@ -1655,6 +1639,26 @@
       "duration_ms": 181764,
       "name": "Ilus\u00e3o",
       "url": "https://open.spotify.com/track/795GBlhlnKl1LQvO7kYAVv"
+    },
+    {
+      "added_at": "2026-08-27 23:00:52",
+      "album": {
+        "name": "Conecta",
+        "url": "https://open.spotify.com/album/1qfrpd4rp5JWmRG6kVbwUI"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        },
+        {
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        }
+      ],
+      "duration_ms": 195364,
+      "name": "Conecta",
+      "url": "https://open.spotify.com/track/6BRvWO6nio9hUdWyQBntkn"
     },
     {
       "added_at": "2026-08-27 23:00:52",
@@ -1727,18 +1731,22 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
-        "name": "Lebam",
-        "url": "https://open.spotify.com/album/4PT2BkjO1PRu0fOThf4FCC"
+        "name": "Si Ki Min Kr\u00e8",
+        "url": "https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW"
       },
       "artists": [
         {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
         }
       ],
-      "duration_ms": 208468,
-      "name": "Lebam",
-      "url": "https://open.spotify.com/track/7523lVFOPO3JfiKX6u9ni7"
+      "duration_ms": 159157,
+      "name": "Si Ki Min Kr\u00e8",
+      "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
     },
     {
       "added_at": "2026-08-27 23:00:52",
@@ -1767,22 +1775,18 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
-        "name": "Si Ki Min Kr\u00e8",
-        "url": "https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW"
+        "name": "Lebam",
+        "url": "https://open.spotify.com/album/4PT2BkjO1PRu0fOThf4FCC"
       },
       "artists": [
         {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
         }
       ],
-      "duration_ms": 159157,
-      "name": "Si Ki Min Kr\u00e8",
-      "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
+      "duration_ms": 208468,
+      "name": "Lebam",
+      "url": "https://open.spotify.com/track/7523lVFOPO3JfiKX6u9ni7"
     },
     {
       "added_at": "2026-08-27 23:00:52",
@@ -1823,22 +1827,6 @@
     {
       "added_at": "2026-08-27 23:00:52",
       "album": {
-        "name": "Pa Qu\u00ea?",
-        "url": "https://open.spotify.com/album/69atZMQiuCuX5pl8jlPZiB"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 176102,
-      "name": "Pa Qu\u00ea?",
-      "url": "https://open.spotify.com/track/24D8iaNYZIlZEplxSeCZOr"
-    },
-    {
-      "added_at": "2026-08-27 23:00:52",
-      "album": {
         "name": "Inveja",
         "url": "https://open.spotify.com/album/3lfVIqbMPtJdS2bU3Vbbc3"
       },
@@ -1871,6 +1859,22 @@
       "duration_ms": 214935,
       "name": "Longe Daqui",
       "url": "https://open.spotify.com/track/6MexAjdg4Fc1qSudsOBGKo"
+    },
+    {
+      "added_at": "2026-08-27 23:00:52",
+      "album": {
+        "name": "Pa Qu\u00ea?",
+        "url": "https://open.spotify.com/album/69atZMQiuCuX5pl8jlPZiB"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 176102,
+      "name": "Pa Qu\u00ea?",
+      "url": "https://open.spotify.com/track/24D8iaNYZIlZEplxSeCZOr"
     },
     {
       "added_at": "2026-08-27 23:00:52",

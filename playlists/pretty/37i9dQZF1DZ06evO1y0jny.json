@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apIhAAAAAACU86QDknaNCvJmPyiOEvcK",
+  "snapshot_id": "apNygAAAAACxExGeaUUA2kePUwKuqjqJ",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "K\u016bha\u02bbo Maunakea",
-        "url": "https://open.spotify.com/album/59nqTMWkBplZCBqsXwBBcY"
+        "name": "I Le\u02bba",
+        "url": "https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 187066,
-      "name": "Na Puuwai Haokila",
-      "url": "https://open.spotify.com/track/5I0FPQKECMecGJTkney4jd"
+      "duration_ms": 192795,
+      "name": "Ku\u02bbu Ipo Onaona",
+      "url": "https://open.spotify.com/track/1mkJROOWWEhGilNP9d4pVr"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Le\u02bba",
-        "url": "https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb"
+        "name": "K\u016bha\u02bbo Maunakea",
+        "url": "https://open.spotify.com/album/59nqTMWkBplZCBqsXwBBcY"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 192795,
-      "name": "Ku\u02bbu Ipo Onaona",
-      "url": "https://open.spotify.com/track/1mkJROOWWEhGilNP9d4pVr"
+      "duration_ms": 187066,
+      "name": "Na Puuwai Haokila",
+      "url": "https://open.spotify.com/track/5I0FPQKECMecGJTkney4jd"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 163073,
-      "name": "Aloha Maunalua",
-      "url": "https://open.spotify.com/track/7aJyIjBzgbnK88VNZXf6gO"
+      "duration_ms": 150467,
+      "name": "Ho\u02bboheno Moloka\u02bbi",
+      "url": "https://open.spotify.com/track/1bQZDoRz5z1xv3WO9GtFWc"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 150467,
-      "name": "Ho\u02bboheno Moloka\u02bbi",
-      "url": "https://open.spotify.com/track/1bQZDoRz5z1xv3WO9GtFWc"
+      "duration_ms": 163073,
+      "name": "Aloha Maunalua",
+      "url": "https://open.spotify.com/track/7aJyIjBzgbnK88VNZXf6gO"
     },
     {
       "added_at": null,

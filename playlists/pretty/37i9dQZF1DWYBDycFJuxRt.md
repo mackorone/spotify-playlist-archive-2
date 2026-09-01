@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: SIX LOUNGE \*👉 <a href="https://spice.eplus.jp/articles/348490">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,162 likes - 99 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,155 likes - 99 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 8 | [BABY \(feat\. IFE\)](https://open.spotify.com/track/2ptuazEzZF8E5U6pfqFNlY) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [IFE](https://open.spotify.com/artist/5kOyuyCpavgMRLO2XIDSS5) | [BABY \(feat\. IFE\)](https://open.spotify.com/album/0HcMc4RWq9L5bEjbSJE52M) | 3:21 |
 | 9 | [Money Longer \(feat\. Kohjiya\)](https://open.spotify.com/track/3XQYHsX49rWTMhodnmthle) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [FAME FLAME](https://open.spotify.com/album/03VgLRQJbxgfv7lVrqP1yl) | 3:39 |
 | 10 | [Asa ga Kuru Made \(feat\. lil soft tennis\)](https://open.spotify.com/track/6TylJfjXBjPOpmBQqPLpch) | [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN), [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ) | [Pretty Machine Gun II](https://open.spotify.com/album/3k822AXXavvXzwJ0X3hiAu) | 2:25 |
-| 11 | [等身大](https://open.spotify.com/track/5gItctv1BuJeKUnOHtM3BL) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO) | [等身大](https://open.spotify.com/album/0eaaJpEeVzSXu634v4hpfE) | 3:00 |
+| 11 | [等身大](https://open.spotify.com/track/5gItctv1BuJeKUnOHtM3BL) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO) | [等身大](https://open.spotify.com/album/0eaaJpEeVzSXu634v4hpfE) | 3:01 |
 | 12 | [serena joy](https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [serena joy](https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza) | 3:05 |
 | 13 | [Blingy](https://open.spotify.com/track/0EOAaYE4KAVp67jwtQvbmB) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [BLINGY \- The 7th Album](https://open.spotify.com/album/4igDzRzqAoEGhsXZgDF120) | 3:21 |
 | 14 | [show time...](https://open.spotify.com/track/0SdzkJ0rQjdDUjf4KWRPyU) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [AMENITY](https://open.spotify.com/album/6aEBnBIfPvLSedFSC3UjRJ) | 3:45 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 98 | [XAOSX](https://open.spotify.com/track/3Jer1FyNllg9aGGOqjO5nG) | [XAOSX](https://open.spotify.com/artist/1icdbXnt6Se6sdCVHQBtgV) | [XAOSX](https://open.spotify.com/album/1e6L6YRrIiax06l2vkK7bG) | 2:55 |
 | 99 | [わたしの手のひらで](https://open.spotify.com/track/3edCwva4DUu5U1H5BuYoMk) | [Hana Sekitori](https://open.spotify.com/artist/68AgFdMHxeVZ8cUX31HlCq) | [わたしの手のひらで](https://open.spotify.com/album/30MEdFMJwQ0mVAwxpIWPwt) | 1:33 |
 
-Snapshot ID: `AAAAAGx/6ZR35bZPXWl0j/WtYANqVlcI`
+Snapshot ID: `AAAAAN1eoWFMrTwwLfl3r3g/XDZ+nN34`

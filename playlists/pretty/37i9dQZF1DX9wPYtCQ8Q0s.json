@@ -1,12 +1,12 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 309012,
+  "num_followers": 308978,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALAfXZfNiqm8EnupQS2QqcyUyBQ5",
+  "snapshot_id": "AAAAAHdoxC7xBi5XsdyUWi/07W1YxiZ0",
   "tracks": [
     {
       "added_at": "2026-08-07 14:26:24",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2026-08-07 14:26:24",
       "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2NmIkHfuMdIdqJlu3LtxwU"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/3OQrbQGIHe3Q0nKN4ricz2"
+    },
+    {
+      "added_at": "2026-08-07 14:26:24",
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/4IJsz38bUJjUXkFBhU8icl"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 249040,
       "name": "American Dream (feat. J. Cole, Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2j8MsmmNqmc6UBEA54KOlY"
-    },
-    {
-      "added_at": "2026-08-07 14:26:24",
-      "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2NmIkHfuMdIdqJlu3LtxwU"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 270697,
-      "name": "redrum",
-      "url": "https://open.spotify.com/track/3OQrbQGIHe3Q0nKN4ricz2"
     },
     {
       "added_at": "2026-08-07 14:26:24",

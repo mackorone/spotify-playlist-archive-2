@@ -4,7 +4,7 @@
 
 > The Best Indie Tracks of the Moment w/ Lennon Stella
 
-3,373 songs - 8 day 5 hr 42 min
+3,375 songs - 8 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,8 @@
 | [2001](https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2001](https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX) | 4:26 | 2022-05-20 | 2022-06-18 |
 | [2008](https://open.spotify.com/track/6P9k0dC9CP1g4ZlSzQn90M) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [2008](https://open.spotify.com/album/5KC7HD8Zt9kF088rA3SLl4) | 2:33 | 2024-09-06 | 2024-11-30 |
 | [20200817 Proud True Toyota](https://open.spotify.com/track/4OeO5Xc50TRVG3ofaxM1rn) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:02 | 2023-04-21 | 2023-07-08 |
+| [20260321](https://open.spotify.com/track/3FSW7AJdBLR8pYYBn48aEl) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [The View From Tian Tan](https://open.spotify.com/album/3TDdSwF8E4zIEl1U5k2MZ9) | 3:02 | 2026-08-31 |  |
+| [20260323](https://open.spotify.com/track/1WmCpL7oyPyrujhfGIfjj8) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [The View From Tian Tan](https://open.spotify.com/album/3TDdSwF8E4zIEl1U5k2MZ9) | 3:01 | 2026-08-31 |  |
 | [21 On 21 Off](https://open.spotify.com/track/1kcGKCX9y9NmOcbtF2ST6m) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [21 On 21 Off](https://open.spotify.com/album/7hlfOPOQtaH72Asn1DxppK) | 3:19 | 2024-06-28 | 2024-07-27 |
 | [24 Hour Fantasy](https://open.spotify.com/track/2TBYuFW2iDRg0gO6b8gmux) | [Frank Mighty](https://open.spotify.com/artist/21AsIHgx9RggFb0aD29T3U) | [24 Hour Fantasy](https://open.spotify.com/album/3GszH3Y7eotijEQuTjRGNG) | 3:11 | 2025-09-26 | 2025-10-25 |
 | [24hrs a Day](https://open.spotify.com/track/1uUSVWi7XRdePB35zvi5oT) | [Old Man Canyon](https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx) | [24hrs a Day](https://open.spotify.com/album/3lfkoChPIsMQnjlV15qXMc) | 3:46 | 2026-05-01 | 2026-05-30 |
@@ -478,7 +480,7 @@
 | [Carve Me Out](https://open.spotify.com/track/6WJsMNtoeyWQohYnCCMdcq) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Carve Me Out](https://open.spotify.com/album/0IczZg0pYKbj8VUQpecvr7) | 3:21 | 2025-06-27 | 2025-08-22 |
 | [Casamigos](https://open.spotify.com/track/2cInRmurD2x3762s4v5sS3) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Casamigos](https://open.spotify.com/album/3RgT3jyo3OmDgtCMMMNCdW) | 2:26 | 2021-12-31 | 2022-01-22 |
 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 | 2021-12-31 | 2022-01-15 |
-| [Castles](https://open.spotify.com/track/4piUIPLzabTcVMcBYmd68Z) | [Featurette](https://open.spotify.com/artist/53LcgV1grfplFF71oaW3E2) | [MULTISTATE](https://open.spotify.com/album/3CxcbLqwcFE8nvfupsRPnn) | 3:11 | 2026-07-17 |  |
+| [Castles](https://open.spotify.com/track/4piUIPLzabTcVMcBYmd68Z) | [Featurette](https://open.spotify.com/artist/53LcgV1grfplFF71oaW3E2) | [MULTISTATE](https://open.spotify.com/album/3CxcbLqwcFE8nvfupsRPnn) | 3:11 | 2026-07-17 | 2026-09-01 |
 | [CAT SONG](https://open.spotify.com/track/6BFtLI7TdNGS9W3oVlXjKi) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [CAT SONG](https://open.spotify.com/album/0Ow0gAfure6Dx90DAnahyw) | 2:34 | 2025-10-10 | 2025-11-15 |
 | [Cat's Cradle](https://open.spotify.com/track/2uTX6lmVcYJLQ2lvcKrBC3) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Cat's Cradle](https://open.spotify.com/album/0cOQJrvjyz0PNB9608H8C0) | 3:50 | 2024-04-05 | 2024-06-08 |
 | [Cat's Cradle \- Spanish Version](https://open.spotify.com/track/7FprIbwrHFDESevTUjb5uL) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz), [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Cat's Cradle \(Spanish Version\)](https://open.spotify.com/album/6U5ADCkecn9TAe5Y9tfmum) | 3:50 | 2025-09-19 | 2025-10-25 |
@@ -1799,7 +1801,7 @@
 | [Love Me Like You Used To](https://open.spotify.com/track/2gw1KxdC5G5PnyeT9ENQHw) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Love Me Like You Used To](https://open.spotify.com/album/6tUiOkodtOLYG8JC2gWp0o) | 4:33 | 2026-07-31 | 2026-08-08 |
 | [Love Me More](https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Love Me More](https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp) | 3:32 | 2022-01-21 | 2022-02-05 |
 | [Love Me More](https://open.spotify.com/track/4PUT0cH2iggaje5hTJZeGe) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:32 | 2022-02-11 | 2022-04-23 |
-| [Love More](https://open.spotify.com/track/2HvosJSSymdFQUr3A56LO5) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Where Do You Want To Be?](https://open.spotify.com/album/0rWbNSGvvCGSZBLftxM1pc) | 5:56 | 2026-07-24 |  |
+| [Love More](https://open.spotify.com/track/2HvosJSSymdFQUr3A56LO5) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Where Do You Want To Be?](https://open.spotify.com/album/0rWbNSGvvCGSZBLftxM1pc) | 5:56 | 2026-07-24 | 2026-09-01 |
 | [LOVE N' HATE](https://open.spotify.com/track/32HZb2JkoAyJjDZRht9C3z) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [LOVE N' HATE](https://open.spotify.com/album/1QoaA36ktOT2RuMUQr6qao) | 3:05 | 2023-03-31 | 2023-04-15 |
 | [Love Song](https://open.spotify.com/track/1DRFyE4LhQSQfaDu2IcooT) | [DANIEL](https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6) | [Happy Together](https://open.spotify.com/album/5CZUVwQzooRJhjwSSvIEPY) | 3:50 | 2026-02-27 | 2026-05-02 |
 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 | 2023-02-24 | 2023-03-25 |

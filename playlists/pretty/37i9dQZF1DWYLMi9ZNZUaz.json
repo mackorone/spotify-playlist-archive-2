@@ -1,12 +1,12 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK\n",
-  "num_followers": 123843,
+  "num_followers": 123860,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIa3F2qkDlzRPPi0AD8sctN6YTAc",
+  "snapshot_id": "AAAAAPeZUtaKwPx/7Vrrljb5wMFtv4dM",
   "tracks": [
     {
       "added_at": "2026-08-20 17:00:23",
@@ -231,26 +231,6 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
-        "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0 Th\u00e0nh Ph\u1ed1 C\u1ee7a Anh",
-        "url": "https://open.spotify.com/album/5yZBkOqFJ5hzK3alfJbENs"
-      },
-      "artists": [
-        {
-          "name": "Luxuyen",
-          "url": "https://open.spotify.com/artist/0B9sKSEY2YQpILrF2HHng4"
-        },
-        {
-          "name": "New$oulz",
-          "url": "https://open.spotify.com/artist/7GKDb02uOcMnDS5fUixNEc"
-        }
-      ],
-      "duration_ms": 113519,
-      "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0 Th\u00e0nh Ph\u1ed1 C\u1ee7a Anh",
-      "url": "https://open.spotify.com/track/2qU7v0idyT8aTp8FVxl23c"
-    },
-    {
-      "added_at": "2026-08-20 17:00:23",
-      "album": {
         "name": "NG\u1ef0A \u00d4",
         "url": "https://open.spotify.com/album/0gkv4yJzOP4UG19rm8lumW"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 215415,
       "name": "NG\u1ef0A \u00d4",
       "url": "https://open.spotify.com/track/4eeflgjzTF8xN8U2E0dech"
+    },
+    {
+      "added_at": "2026-08-20 17:00:23",
+      "album": {
+        "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0 Th\u00e0nh Ph\u1ed1 C\u1ee7a Anh",
+        "url": "https://open.spotify.com/album/5yZBkOqFJ5hzK3alfJbENs"
+      },
+      "artists": [
+        {
+          "name": "Luxuyen",
+          "url": "https://open.spotify.com/artist/0B9sKSEY2YQpILrF2HHng4"
+        },
+        {
+          "name": "New$oulz",
+          "url": "https://open.spotify.com/artist/7GKDb02uOcMnDS5fUixNEc"
+        }
+      ],
+      "duration_ms": 113519,
+      "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0 Th\u00e0nh Ph\u1ed1 C\u1ee7a Anh",
+      "url": "https://open.spotify.com/track/2qU7v0idyT8aTp8FVxl23c"
     },
     {
       "added_at": "2026-08-20 17:00:23",
@@ -379,26 +379,6 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
-        "name": "HVL",
-        "url": "https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe"
-      },
-      "artists": [
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "Tage",
-          "url": "https://open.spotify.com/artist/6kFhNMq6O8P5QKdqlGMUVW"
-        }
-      ],
-      "duration_ms": 192485,
-      "name": "M\u1eaft M\u00f4i Tay Ch\u00e2n (feat. Tage)",
-      "url": "https://open.spotify.com/track/5ze1OgIdC5fJLJfpvT9Jog"
-    },
-    {
-      "added_at": "2026-08-20 17:00:23",
-      "album": {
         "name": "G\u1eb7p L\u1ea1i",
         "url": "https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 255256,
       "name": "N\u1ebfu (feat. Obito)",
       "url": "https://open.spotify.com/track/102XJmW0OH1WATZMW9avu2"
+    },
+    {
+      "added_at": "2026-08-20 17:00:23",
+      "album": {
+        "name": "HVL",
+        "url": "https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "Tage",
+          "url": "https://open.spotify.com/artist/6kFhNMq6O8P5QKdqlGMUVW"
+        }
+      ],
+      "duration_ms": 192485,
+      "name": "M\u1eaft M\u00f4i Tay Ch\u00e2n (feat. Tage)",
+      "url": "https://open.spotify.com/track/5ze1OgIdC5fJLJfpvT9Jog"
     },
     {
       "added_at": "2026-08-20 17:00:23",
@@ -607,26 +607,6 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
-        "name": "HVL",
-        "url": "https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe"
-      },
-      "artists": [
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "marzuz",
-          "url": "https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM"
-        }
-      ],
-      "duration_ms": 173402,
-      "name": "Baby (feat. marzuz)",
-      "url": "https://open.spotify.com/track/6cZ6NqFHytVdRMG2QB3n8q"
-    },
-    {
-      "added_at": "2026-08-20 17:00:23",
-      "album": {
         "name": "M\u1eaft Nh\u1eafm M\u1eaft M\u1edf",
         "url": "https://open.spotify.com/album/0f0fmMVSSKpTeKOHXrP9El"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 180163,
       "name": "\u0110\u00e1ng L\u00fd Anh N\u00ean Y\u00eau Em H\u01a1n",
       "url": "https://open.spotify.com/track/2UvqD395dhlJWO0SxHJ89n"
+    },
+    {
+      "added_at": "2026-08-20 17:00:23",
+      "album": {
+        "name": "HVL",
+        "url": "https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "marzuz",
+          "url": "https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM"
+        }
+      ],
+      "duration_ms": 173402,
+      "name": "Baby (feat. marzuz)",
+      "url": "https://open.spotify.com/track/6cZ6NqFHytVdRMG2QB3n8q"
     },
     {
       "added_at": "2026-08-20 17:00:23",
@@ -891,26 +891,6 @@
     {
       "added_at": "2026-08-20 17:00:23",
       "album": {
-        "name": "Em B\u00e9",
-        "url": "https://open.spotify.com/album/4h6b472LS8MBZuNZzKQQDN"
-      },
-      "artists": [
-        {
-          "name": "AMEE",
-          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
-        },
-        {
-          "name": "Karik",
-          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Em B\u00e9",
-      "url": "https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8"
-    },
-    {
-      "added_at": "2026-08-20 17:00:23",
-      "album": {
         "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
         "url": "https://open.spotify.com/album/4nW7OOyf9zwlzAfsfEpvbd"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 192631,
       "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
       "url": "https://open.spotify.com/track/7CuYlxVy87LrB2pQOP6i9z"
+    },
+    {
+      "added_at": "2026-08-20 17:00:23",
+      "album": {
+        "name": "Em B\u00e9",
+        "url": "https://open.spotify.com/album/4h6b472LS8MBZuNZzKQQDN"
+      },
+      "artists": [
+        {
+          "name": "AMEE",
+          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
+        },
+        {
+          "name": "Karik",
+          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Em B\u00e9",
+      "url": "https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8"
     },
     {
       "added_at": "2026-08-20 17:00:23",

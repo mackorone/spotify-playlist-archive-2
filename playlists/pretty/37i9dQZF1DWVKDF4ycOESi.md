@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di ARIETE con Angelina Mango, Shiva, Alex Warren, JENNIE, Alfa con Gigi D'Alessio e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,101 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,079 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 59 | [Days of Heaven](https://open.spotify.com/track/55yZU5phJ00OycDoKgVRZB) | [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5) | [Days of Heaven](https://open.spotify.com/album/3kgoPlwQzDHFljdZbdWmLN) | 2:14 |
 | 60 | [Biondo Tevere](https://open.spotify.com/track/3bpxDCWG2CXcwdpaCUsTty) | [Gu Barluzzi](https://open.spotify.com/artist/3sf9tB7045g4v3MA4dcqlB) | [Biondo Tevere](https://open.spotify.com/album/5DLplmccOzFRTXtDG1776q) | 2:58 |
 
-Snapshot ID: `AAAAAIII/SkuuMvFGKSHhKzrKzfVOPke`
+Snapshot ID: `AAAAANnNflNEbvV4GcthhqCQmfXWBnVJ`

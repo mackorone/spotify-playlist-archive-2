@@ -1,13 +1,153 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: Jigitz",
-  "num_followers": 445729,
+  "description": "The hottest new pop with all the drops. Cover: Cameron Whitcomb & Marshmello",
+  "num_followers": 445912,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIDX8NvDSHgHZUGO2Q8RSXoujy4+",
+  "snapshot_id": "AAAAACoeaX6OVsy6Gi25FhwvM8IKMNwy",
   "tracks": [
+    {
+      "added_at": "2026-08-31 15:57:07",
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/4lZQjjnhdmMoaEW6A9SJBJ"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 195714,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/5MSPozbZ7TQSNIBsd4qjlt"
+    },
+    {
+      "added_at": "2026-08-31 15:57:07",
+      "album": {
+        "name": "Lucky (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2Tiw85yTcOBR9adhfxf3GN"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "duration_ms": 173680,
+      "name": "Lucky - Spotify Singles",
+      "url": "https://open.spotify.com/track/3mlGZG9LEBTBlTaR9EVS99"
+    },
+    {
+      "added_at": "2026-08-31 15:57:07",
+      "album": {
+        "name": "never has to end",
+        "url": "https://open.spotify.com/album/3LvcB1FDOCAv7Ni8wxISKq"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 163304,
+      "name": "never has to end",
+      "url": "https://open.spotify.com/track/405EcfysIK0k9Alr5E9QmM"
+    },
+    {
+      "added_at": "2026-08-31 15:57:07",
+      "album": {
+        "name": "HandsOn",
+        "url": "https://open.spotify.com/album/1i5OxlGhCxT2e8TVjJPCUm"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 169093,
+      "name": "HandsOn",
+      "url": "https://open.spotify.com/track/4pxQFRHVlZtxrssIqNoXHJ"
+    },
+    {
+      "added_at": "2026-08-31 15:57:07",
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/1RbstNaZ2ujkf6aimlijQO"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 146260,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/3gElwRzfAWrTpGi5Tf6aax"
+    },
+    {
+      "added_at": "2026-08-31 15:57:07",
+      "album": {
+        "name": "Missing Piece",
+        "url": "https://open.spotify.com/album/3ISKoozRNGwImVBOrOYw6R"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/0cnx25C8BdsEEumqvzXjAF"
+    },
+    {
+      "added_at": "2026-08-31 15:57:07",
+      "album": {
+        "name": "The House That We Don't Live In Anymore",
+        "url": "https://open.spotify.com/album/6MTQaYJTNPcuHlThqRygD5"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        }
+      ],
+      "duration_ms": 179027,
+      "name": "The House That We Don't Live In Anymore",
+      "url": "https://open.spotify.com/track/43Qo1jVFRrq66trZfEU3Mp"
+    },
+    {
+      "added_at": "2026-08-31 15:57:07",
+      "album": {
+        "name": "MUSCLE MARYS..",
+        "url": "https://open.spotify.com/album/1uPbpmEVZxxGvMtqBj6hWl"
+      },
+      "artists": [
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 203984,
+      "name": "MUSCLE MARYS..",
+      "url": "https://open.spotify.com/track/5TPleDKLsLNRdqkGMrbL5F"
+    },
     {
       "added_at": "2026-08-21 04:02:27",
       "album": {
@@ -1347,70 +1487,6 @@
     {
       "added_at": "2026-08-21 04:02:27",
       "album": {
-        "name": "Gravity (feat. SACHA)",
-        "url": "https://open.spotify.com/album/79aF8LZe8qAienSve3qjTo"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "SACHA",
-          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
-        }
-      ],
-      "duration_ms": 180849,
-      "name": "Gravity (feat. SACHA)",
-      "url": "https://open.spotify.com/track/05vUCrcaRvSjLzb0WbmVDk"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "What A Life (feat. Florence Arman)",
-        "url": "https://open.spotify.com/album/6Ad7E2sBgst9CrKF6kUZf2"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Florence Arman",
-          "url": "https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15"
-        }
-      ],
-      "duration_ms": 189398,
-      "name": "What A Life (feat. Florence Arman)",
-      "url": "https://open.spotify.com/track/5zX4JjkoT2pgvlWPnjgVNQ"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "FATE",
-        "url": "https://open.spotify.com/album/5uDffHt21NhV6YavkmAp9p"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 188873,
-      "name": "FATE",
-      "url": "https://open.spotify.com/track/3kUVRvpDGq2PhKHGZBa7iE"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
         "name": "Twenty One",
         "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
       },
@@ -1679,22 +1755,6 @@
     {
       "added_at": "2026-08-21 04:02:27",
       "album": {
-        "name": "Let's Not Talk About Our Feelings",
-        "url": "https://open.spotify.com/album/7wwY6HT5hKIB5vu15HSX4h"
-      },
-      "artists": [
-        {
-          "name": "Studio Killers",
-          "url": "https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT"
-        }
-      ],
-      "duration_ms": 157588,
-      "name": "Let's Not Talk About Our Feelings",
-      "url": "https://open.spotify.com/track/2NZYUWhXQ2GI4g4OBzPw1z"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
         "name": "In Your Eyes",
         "url": "https://open.spotify.com/album/09Hf2GLhclN92AvNgf3cBa"
       },
@@ -1803,78 +1863,6 @@
       "duration_ms": 287055,
       "name": "DANCE...",
       "url": "https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "Everyone",
-        "url": "https://open.spotify.com/album/13UmBV9sS0UuII8qiNdk19"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 158328,
-      "name": "Everyone",
-      "url": "https://open.spotify.com/track/2fpl1NTLGEFXcMbI6ExE8n"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/33Zd6DLikZyyApElca9CD0"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "Maleigh Zan",
-          "url": "https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG"
-        }
-      ],
-      "duration_ms": 136793,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/2jr6VapftpBxp2mOjKVXcS"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "Peepin'",
-        "url": "https://open.spotify.com/album/6nnKlVsfkKVgOBSIdEKkz5"
-      },
-      "artists": [
-        {
-          "name": "Reysha Rami",
-          "url": "https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j"
-        }
-      ],
-      "duration_ms": 130720,
-      "name": "Peepin'",
-      "url": "https://open.spotify.com/track/05PPn5rFEiAXgn3fYgl7HC"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/5Wmypry9sRXgIZT5wdqkQq"
-      },
-      "artists": [
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        },
-        {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Remember Us (feat. Dustin Lynch)",
-      "url": "https://open.spotify.com/track/2Eg4pK9k0XxiJsta9Q8MrO"
     }
   ],
   "unique_name": "New Dance Pop",

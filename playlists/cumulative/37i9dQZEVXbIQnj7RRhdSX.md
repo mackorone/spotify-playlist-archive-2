@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-3,153 songs - 6 day 17 hr 14 min
+3,154 songs - 6 day 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [BOP BOP](https://open.spotify.com/track/7lnA7L04Q3ELVmMoMVeFrw) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [BOP BOP](https://open.spotify.com/album/5PGTq47um2SyPb07sm58pY) | 2:49 | 2026-07-18 | 2026-08-04 |
 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 | 2024-12-18 | 2025-02-14 |
 | [Borse Hermès](https://open.spotify.com/track/7jfthjlyognNdV2geSbtsE) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [FERITE](https://open.spotify.com/album/7IdgwkVBStmj6DHE2mwLJs) | 2:40 | 2024-10-26 | 2024-11-18 |
+| [Boss](https://open.spotify.com/track/0yWtSeNfVQaF8CCvRD2aZM) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Boss](https://open.spotify.com/album/7amDPWNunB9RQnHSiMIhxm) | 2:11 | 2026-08-31 |  |
 | [BOSS](https://open.spotify.com/track/7paT6N1r606Veo89auJ2l7) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:24 | 2024-03-16 | 2024-03-18 |
 | [BOSS](https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [BOSS](https://open.spotify.com/album/3sMOvpUohugjixq44SynQG) | 2:24 | 2023-03-25 | 2023-06-04 |
 | [Bottiglie rotte \(feat\. Emis Killa & Gemitaiz\)](https://open.spotify.com/track/16Mq5VdmOEtKg3kYSp0Dpp) | [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Bottiglie rotte \(feat\. Emis Killa & Gemitaiz\)](https://open.spotify.com/album/5lsHnWwEEp1sBenmYDYNid) | 2:37 | 2022-11-19 | 2022-11-21 |
@@ -1682,7 +1683,7 @@
 | [Mafia Del Boom Bap](https://open.spotify.com/track/5aCfe1vmMzmCc916WKWar3) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 | 2024-01-13 | 2024-02-06 |
 | [Magia](https://open.spotify.com/track/3KJ1QkwWObfuq54pgwTRyW) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Magia](https://open.spotify.com/album/1x676W6ARASsW9BR4txWeK) | 3:12 | 2021-06-14 | 2021-06-23 |
 | [Magica Favola](https://open.spotify.com/track/2DO1VNiVcIVKJVd2PhKCsW) | [Arisa](https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K) | [Magica Favola](https://open.spotify.com/album/0tAKsFiIg565Fx8B8xWGgd) | 3:30 | 2026-02-26 | 2026-03-28 |
-| [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 | 2026-07-25 |  |
+| [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 | 2026-07-25 | 2026-09-01 |
 | [Mai](https://open.spotify.com/track/4VLr4Esg0hHSVoNjs19u3u) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [RYAN TED](https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7) | 2:19 | 2026-05-23 | 2026-05-31 |
 | [Mai Dire Mai \(La Locura\)](https://open.spotify.com/track/4jmvkbDw0cuWD2Fi9VswFQ) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Mai Dire Mai \(La Locura\)](https://open.spotify.com/album/6Ly8jC23vIa4evVzICvZRu) | 3:28 | 2021-03-27\* | 2021-04-26 |
 | [MAI PER SEMPRE](https://open.spotify.com/track/7u4Y70JYM5AO3Q45whDJbB) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [MAI PER SEMPRE](https://open.spotify.com/album/4OwHctFxCYeak7VrPSLXjV) | 3:40 | 2024-11-21 | 2024-11-24 |

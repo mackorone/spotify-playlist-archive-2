@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Xamã, Pabllo Vitar, Bruno & Marrone, Carol Biazin e muito mais!
 
-19,567 songs - 41 day 14 hr 7 min
+19,568 songs - 41 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6414,6 +6414,7 @@
 | [Falhas](https://open.spotify.com/track/1fpuduws6hM8aWgepKNLfC) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Falhas](https://open.spotify.com/album/40F0y95iG6KOh0ulA64eQE) | 2:50 | 2026-06-12 | 2026-06-19 |
 | [Fall](https://open.spotify.com/track/4Wyq8eILCbJ7BuNTEgiUYa) | [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt) | [Fall](https://open.spotify.com/album/5SdI9pA2acEMiAaQC1ClHf) | 2:04 | 2026-06-19 | 2026-06-27 |
 | [Fall First](https://open.spotify.com/track/575m8eKKXa0bkR6haOzVPt) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Spirituals](https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo) | 4:09 | 2022-09-09 | 2022-09-17 |
+| [FALLEN ANGEL](https://open.spotify.com/track/75QkBCdRc5DGgcyPiVSg4b) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Fallen Angel](https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx) | 3:19 | 2026-08-31 |  |
 | [Fallen Leaf](https://open.spotify.com/track/3n7JiehINioOhgjaGpdSOu) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [Fallen Leaf](https://open.spotify.com/album/5S3LayPQLS2A9tCGxQDKgd) | 3:33 | 2023-06-30 | 2023-07-08 |
 | [Fallin' \(feat\. Leon Thomas\)](https://open.spotify.com/track/5XFwDMO60LntXrFSWHPopc) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Fallin' \(feat\. Leon Thomas\)](https://open.spotify.com/album/36084xkxfgcSMnaeWphBOY) | 4:26 | 2026-05-01 | 2026-05-08 |
 | [Falling](https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt) | [Chemistry](https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2) | 4:10 | 2025-07-11 | 2025-07-19 |

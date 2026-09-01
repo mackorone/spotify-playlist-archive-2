@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance tracks from independent artists & labels\. Featuring moonvine\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,755 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,780 likes - 69 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 65 | [My Life Is A Disco \(In The Mix\)](https://open.spotify.com/track/4QNEi4zAOm0FwfwJXLgp7s) | [Mellizos](https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi), [Mixmasters](https://open.spotify.com/artist/4ccqZWdI5OZP6twQ3c8GV9) | [My Life Is A Disco \(In The Mix\)](https://open.spotify.com/album/5Ewcwq6g95vO2qXiXN1AKc) | 2:55 |
 | 66 | [Close 2 U](https://open.spotify.com/track/4KR4fvzuBru2PNqqhAZGk0) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [Close 2 U](https://open.spotify.com/album/0G3fLBXfhn2bpDXc11F00s) | 2:09 |
 | 67 | [It's All About The Music](https://open.spotify.com/track/6KEyvhYNlMtW7Caf1BP0eb) | [From Dave](https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6) | [It's All About The Music](https://open.spotify.com/album/2lb23UsJhwRZSDCs3KeUMo) | 2:37 |
-| 68 | [Out There](https://open.spotify.com/track/1kGhJkCKFJ12Bi7nAm01tT) | [eric404](https://open.spotify.com/artist/7jL3ObaJuAVhTAK0VEF2qL) | ["Not Found" \(EP\)](https://open.spotify.com/album/2hHrUGNQ13JEq6qxfb8QPw) | 3:08 |
-| 69 | [frog](https://open.spotify.com/track/1Th4LRavIwNpCEOHjS1RU5) | [monica.com](https://open.spotify.com/artist/091RYc5KZSMbiaQ2JsfgRe) | [turbine / frog](https://open.spotify.com/album/5DtSUckKsdlixH2M4jwSQz) | 2:34 |
-| 70 | [TU](https://open.spotify.com/track/4RkzOCoUtFzfjLv8JbeZcN) | [fromclay](https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu) | [TU](https://open.spotify.com/album/4Jne5XEYDgjWiYF2GQxEOI) | 2:40 |
+| 68 | [frog](https://open.spotify.com/track/1Th4LRavIwNpCEOHjS1RU5) | [monica.com](https://open.spotify.com/artist/091RYc5KZSMbiaQ2JsfgRe) | [turbine / frog](https://open.spotify.com/album/5DtSUckKsdlixH2M4jwSQz) | 2:34 |
+| 69 | [TU](https://open.spotify.com/track/4RkzOCoUtFzfjLv8JbeZcN) | [fromclay](https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu) | [TU](https://open.spotify.com/album/4Jne5XEYDgjWiYF2GQxEOI) | 2:40 |
 
-Snapshot ID: `AAAAAORb00y8m2ZH71+EYEM4xCQ/9Wsj`
+Snapshot ID: `AAAAABDsKpURrbp0BNO9eGnGqbncPNE2`

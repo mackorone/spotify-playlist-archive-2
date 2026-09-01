@@ -1,12 +1,12 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 339934,
+  "num_followers": 339923,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPSKjvDAoOihSJnxmlxitkOqVmW1",
+  "snapshot_id": "AAAAAJ4UGy+hFHlV5DRsJ35Ig5QctFSf",
   "tracks": [
     {
       "added_at": "2025-02-14 16:04:15",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/6b5C6CPcnegIA3E2vvAseH"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/7CSxGi1PHj8ypY4KnFqTSc"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Always You And Me",
         "url": "https://open.spotify.com/album/2NvOJ8MahUL3r6YzxyNAXt"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 129548,
       "name": "Always You And Me",
       "url": "https://open.spotify.com/track/40hcepAhhkVpYRRPjhXmi9"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Wishing Well",
-        "url": "https://open.spotify.com/album/6b5C6CPcnegIA3E2vvAseH"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/7CSxGi1PHj8ypY4KnFqTSc"
     },
     {
       "added_at": "2025-02-14 16:04:15",

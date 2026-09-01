@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2M6NOJJM7Pj.md) - [plain]
 
 > Dive into the rich music history of Assassin's Creed with the official playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,600 likes - 65 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,640 likes - 65 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2M6NOJJM7Pj.md) - [plain]
 | 64 | [Ezio's Family \- Mirage Version](https://open.spotify.com/track/0pVClJWojdo9iLVGFfWibj) | [Brendan Angelides](https://open.spotify.com/artist/6IatVwpJEecAd1RMAGAx0O), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Layth Sidiq](https://open.spotify.com/artist/75qIhTMvg7SbytVJMHNZ9o) | [Assassin's Creed Mirage \(Original Game Soundtrack\)](https://open.spotify.com/album/6WNfe3wEbKS6JvBvss8lyf) | 2:14 |
 | 65 | [Rise of Yasuke](https://open.spotify.com/track/1IWqy2KScihdmTzAFGJCJZ) | [The Flight](https://open.spotify.com/artist/633wBWQrbgm4Tugw7MmsgA), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Themes of Shadows \(From Assassin's Creed Shadows Soundtrack\)](https://open.spotify.com/album/36RuMmMYKZb2CK1APHnzL0) | 3:30 |
 
-Snapshot ID: `AAAAAH7LALTC5OrCIQC91NTv9qTCay2R`
+Snapshot ID: `AAAAAOnndKgW1mPTSacCd5kfBnvW6TfR`

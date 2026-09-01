@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Alabama Shakes
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,289 likes - 201 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,812 likes - 201 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 200 | [Crying at the Landmark Motor Inn](https://open.spotify.com/track/4fm9BbJpjtxwQuZoaNxGOj) | [Tiger Would!](https://open.spotify.com/artist/7vGrPtKTYpZpFAfnunDaTo) | [Crying at the Landmark Motor Inn](https://open.spotify.com/album/6jxBAF0taqggTuCMDjx1ky) | 2:41 |
 | 201 | [Goose Steppin'](https://open.spotify.com/track/2jbdtEo75IDw7gWkTklPAj) | [TTNG](https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0) | [Juggling Moves \(Beginner\)](https://open.spotify.com/album/57q93n2qhpiealueVmfOle) | 5:02 |
 
-Snapshot ID: `AAAAAPq0pA+zm0nFETGUbJG8iO5F4gPs`
+Snapshot ID: `AAAAAI/JDIx4ihf9EQIxlOdUZPwxxMUc`

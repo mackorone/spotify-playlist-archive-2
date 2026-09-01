@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Alex Warren, Samuel Welten & Russo, Olivia Rodrigo, Sarah Julia, DI\-RECT, Bokoesam en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,158 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,140 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Rollercoaster](https://open.spotify.com/track/0ZJ5pfR6GTqEfDqZFkpu5b) | [Javé](https://open.spotify.com/artist/0l0L4jCaPSwe99OwHtzQeT) | [Rollercoaster](https://open.spotify.com/album/6LYbzBb95GIAGNhitP4IaY) | 2:32 |
 | 100 | [Litter in Japan](https://open.spotify.com/track/5Gwq6Oefxhub81prd9Ib00) | [Cindy](https://open.spotify.com/artist/4IBfgHz5w50nCCqVxtbViI) | [Litter in Japan](https://open.spotify.com/album/6P5cUz4tpCK6b1uCnSrgE5) | 4:10 |
 
-Snapshot ID: `AAAAAPgffyg2tRoBwCNzp4Yo1FOzOBXq`
+Snapshot ID: `AAAAAPn7otmTzRpdLNzVJIm5pSHFPhdo`

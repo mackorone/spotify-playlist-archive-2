@@ -1,13 +1,29 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 21695,
+  "num_followers": 21694,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAn1eruMx5DZMr+Rx3X0pPs4LjrAbjD",
+  "snapshot_id": "AAAn23n9qCql3RuB9Tht/HksWTVl1En/",
   "tracks": [
+    {
+      "added_at": "2026-08-31 21:54:29",
+      "album": {
+        "name": "Summer In Manila (Oakland Pt.3)",
+        "url": "https://open.spotify.com/album/5WPRPijy7MYvpPvblrR24N"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Summer In Manila (Oakland Pt.3)",
+      "url": "https://open.spotify.com/track/1E762OhcI2jkcahPlMaKiv"
+    },
     {
       "added_at": "2026-08-05 21:17:38",
       "album": {
@@ -51,6 +67,54 @@
       "duration_ms": 155460,
       "name": "Better Decisions",
       "url": "https://open.spotify.com/track/77ygXE90XoyZSWgIb8CokQ"
+    },
+    {
+      "added_at": "2026-08-31 21:55:39",
+      "album": {
+        "name": "Pretty Girls",
+        "url": "https://open.spotify.com/album/4c3fFqg8NmPsbnZzZNVKrP"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "duration_ms": 167064,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/0uNiaMEO3jigVEyUBHEegF"
+    },
+    {
+      "added_at": "2026-08-31 21:57:27",
+      "album": {
+        "name": "He is Me",
+        "url": "https://open.spotify.com/album/05VVsVaTV5NJYGviN8QQYD"
+      },
+      "artists": [
+        {
+          "name": "Young Roddo",
+          "url": "https://open.spotify.com/artist/5dxav2nP7izQBQYPNjv0CQ"
+        }
+      ],
+      "duration_ms": 60727,
+      "name": "Bye Kaisha",
+      "url": "https://open.spotify.com/track/5fMA2sBvCuJxViFqmUBQrB"
+    },
+    {
+      "added_at": "2026-08-31 21:57:41",
+      "album": {
+        "name": "DONDADA",
+        "url": "https://open.spotify.com/album/047cdFIawwOQg8WSkrad5h"
+      },
+      "artists": [
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "duration_ms": 177947,
+      "name": "SOBER",
+      "url": "https://open.spotify.com/track/3Yg6jcM3YK4rwHxEm4pmcX"
     },
     {
       "added_at": "2026-07-29 20:24:13",

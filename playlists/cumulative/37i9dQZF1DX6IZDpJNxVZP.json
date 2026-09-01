@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Celebrate the season with these fun tracks",
-  "name": "Kids Christmas",
+  "description": "Celebrate the season with these fun and spooky tracks",
+  "name": "Trick or Treat",
   "tracks": [
     {
       "album": {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 154720,
       "name": "'Zat You, Santa Claus?",
       "url": "https://open.spotify.com/track/71CYeO8QuGeIyCAdk1eTeH"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 163191,
       "name": "(There's No Place Like) Home for the Holidays",
       "url": "https://open.spotify.com/track/2idi5I889jAesEa8GM3lQb"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 259278,
       "name": "12 Days of Christmas",
       "url": "https://open.spotify.com/track/1TVXMtKqEQxaW8SWioLWo5"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 113935,
       "name": "12345 Once I Caught A Ghost Hi-Five!",
       "url": "https://open.spotify.com/track/4JvesxqwHz4UXo9HUMf64A"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 97183,
       "name": "5 Little Monsters",
       "url": "https://open.spotify.com/track/0IUYwvWRUmr7zP3ltjISWH"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 142536,
       "name": "A Haunted House on Halloween Night",
       "url": "https://open.spotify.com/track/2RAGtit059yqjKXWI7c0hh"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 129269,
       "name": "A Paw Patrol Christmas - Skye's Music Party",
       "url": "https://open.spotify.com/track/1yA9WqlNziPTwYmOjsDOis"
@@ -204,6 +204,24 @@
       "duration_ms": 192628,
       "name": "ABC Boo (Caitie)",
       "url": "https://open.spotify.com/track/3vg4EfjcqPCfQQgE9T89KF"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween - 2025",
+        "url": "https://open.spotify.com/album/0zpp0s65RPkN4RTu1NSOlj"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208379,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/3PTarTpUu8sErBtK2dqW8g"
     },
     {
       "album": {
@@ -254,7 +272,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 198933,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/4vGYtGuPN3gTQTW7oVeyNo"
@@ -380,7 +398,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 153986,
       "name": "Bad Guy",
       "url": "https://open.spotify.com/track/4V9KNW6NCaFTHmgo85Punq"
@@ -398,7 +416,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-06",
+      "date_removed": null,
       "duration_ms": 163293,
       "name": "Batman Theme",
       "url": "https://open.spotify.com/track/6NVI8uSMMbVAjt0FzL4GFL"
@@ -464,7 +482,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 97455,
       "name": "Bones! Bones! Bones!",
       "url": "https://open.spotify.com/track/0eVGZSVkdxVfrtoIZsUDq7"
@@ -518,7 +536,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 150493,
       "name": "Bump in the Night",
       "url": "https://open.spotify.com/track/7ax40vh2zp5UIwDzGf1cop"
@@ -554,7 +572,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 192775,
       "name": "C-H-R-I-S-T-M-A-S",
       "url": "https://open.spotify.com/track/3tJ4PU9Lnfz7qGvMRAmPV7"
@@ -572,7 +590,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 206506,
       "name": "Calling All the Monsters",
       "url": "https://open.spotify.com/track/0QTUoI90fBFdKkd4h8fsOu"
@@ -630,7 +648,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 142153,
       "name": "Cha Cha Christmas",
       "url": "https://open.spotify.com/track/05xoEgJbtTw7nd7fD6bKMl"
@@ -670,7 +688,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 139508,
       "name": "Christmas 1,2,3",
       "url": "https://open.spotify.com/track/3wnmgPzO6jFBrf5Le6E6DC"
@@ -688,7 +706,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 111112,
       "name": "Christmas All Over Again",
       "url": "https://open.spotify.com/track/7gFWrOdP9CK2Y2kI85Ptdv"
@@ -706,7 +724,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 163458,
       "name": "Christmas All Year Long",
       "url": "https://open.spotify.com/track/3kHQz6M0HKywLzdC9dLB0n"
@@ -724,7 +742,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 144039,
       "name": "Christmas Crackers",
       "url": "https://open.spotify.com/track/5ZrrKfTza0HPxhnPJKkeIX"
@@ -742,7 +760,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 52103,
       "name": "Christmas Eve Is Here",
       "url": "https://open.spotify.com/track/7wTkUuZ7yaHZOheUigZUR7"
@@ -760,7 +778,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 117362,
       "name": "Christmas Lights - Remix",
       "url": "https://open.spotify.com/track/4mNzUbMTxvqdNkAiVOS0My"
@@ -778,7 +796,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 189875,
       "name": "Christmas Magic Is Real",
       "url": "https://open.spotify.com/track/2FjDZXnhsnKnFgY1Juwdmw"
@@ -796,7 +814,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 162000,
       "name": "Christmas Time",
       "url": "https://open.spotify.com/track/3dEcwdMkpGKBqikwgjGXXv"
@@ -814,7 +832,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 121000,
       "name": "Christmas Time",
       "url": "https://open.spotify.com/track/7zaBeDLJCht8KSvkvGIRje"
@@ -832,7 +850,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 125048,
       "name": "Christmas Time",
       "url": "https://open.spotify.com/track/6IDvTrlkrfNjbT5K8KDpIg"
@@ -850,7 +868,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 181279,
       "name": "Christmas with you",
       "url": "https://open.spotify.com/track/6jjAQS6XXVmVDUqpyOgs4v"
@@ -872,7 +890,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 150764,
       "name": "Coming Home For Christmas",
       "url": "https://open.spotify.com/track/1WdMGtQoxyHQaeWfCo5G4o"
@@ -948,7 +966,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 211103,
       "name": "Countdown to Christmas",
       "url": "https://open.spotify.com/track/2qZ2B6xZt29o94F6Y4w0DW"
@@ -996,7 +1014,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 141098,
       "name": "Cute Christmas (Cosy & Cute)",
       "url": "https://open.spotify.com/track/2xzHwg8lK9RlVlre8576em"
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 184933,
       "name": "Day-O (The Banana Boat Song)",
       "url": "https://open.spotify.com/track/4WdhK1qsW9lQ5ttqpRe1zC"
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 211976,
       "name": "December",
       "url": "https://open.spotify.com/track/0ldDNBNLg6qcoYSnWCAh0n"
@@ -1068,7 +1086,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 174506,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/57BVt9b2z7W2Ih2TxfdNqs"
@@ -1086,7 +1104,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 84155,
       "name": "Deck the Halls",
       "url": "https://open.spotify.com/track/4oU1MnU8IVozO4VpYodGTX"
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 140593,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/0Sgku2nA8qb8IJOrE5SrO0"
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 124493,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/4gP2ESQlBm0drE6UUhmAr5"
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 210733,
       "name": "Disturbia",
       "url": "https://open.spotify.com/track/0VvRlHBj4Ax4w1RrilcXIV"
@@ -1284,7 +1302,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 154026,
       "name": "Don't Be A Jerk (It's Christmas)",
       "url": "https://open.spotify.com/track/6diKTB6VWE1JxRUvjzoTld"
@@ -1302,7 +1320,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 215727,
       "name": "Don't Wake Santa! Christmas Freeze Dance",
       "url": "https://open.spotify.com/track/1gRQLCUveS5399cirAiChY"
@@ -1382,7 +1400,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 117780,
       "name": "Dress Up in Your Best Costume - Skye's Music Party",
       "url": "https://open.spotify.com/track/4chdtpyJDEhB7KMdROE1yj"
@@ -1444,7 +1462,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 224626,
       "name": "Evil Like Me",
       "url": "https://open.spotify.com/track/0oe0UYSKAESBUR12I1ESXQ"
@@ -1462,7 +1480,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 216942,
       "name": "Family Christmas Fun",
       "url": "https://open.spotify.com/track/7MPNywwPYKvGxIYTs2Y1tx"
@@ -1480,7 +1498,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 183773,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/60z4MLJK9cNDCmnflocfHp"
@@ -1498,7 +1516,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 143049,
       "name": "Five Little Elves",
       "url": "https://open.spotify.com/track/1DYI9G0EESjpqetbIecWCD"
@@ -1534,7 +1552,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 116000,
       "name": "Five Little Pumpkins Sitting on a Gate",
       "url": "https://open.spotify.com/track/3uawt11RygVvIMXVRMb4PN"
@@ -1552,7 +1570,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 137124,
       "name": "For Goodness' Sake",
       "url": "https://open.spotify.com/track/1ffWyeC32jceZHUIuTb209"
@@ -1570,7 +1588,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 136921,
       "name": "Frenchie, Don't Eat The Christmas Tree",
       "url": "https://open.spotify.com/track/1quDa34OPuY1chb0vAKmtO"
@@ -1588,7 +1606,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 113934,
       "name": "Frosty the Snowman",
       "url": "https://open.spotify.com/track/0TmWpsweTtZSty7T2GUApN"
@@ -1606,7 +1624,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 123266,
       "name": "Frosty the Snowman",
       "url": "https://open.spotify.com/track/6TiaW1NGPlUJ2GR0GgoX0p"
@@ -1624,7 +1642,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 156440,
       "name": "Frosty The Snowman",
       "url": "https://open.spotify.com/track/349fQEoRFDZ5m8k3ZfjocF"
@@ -1714,9 +1732,9 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
-      "duration_ms": 245600,
-      "name": "Ghostbusters",
+      "date_removed": null,
+      "duration_ms": 244838,
+      "name": "Ghostbusters - from the \"Ghostbusters\" Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/0phGofl3ppS5Itk1zM9eKa"
     },
     {
@@ -1750,7 +1768,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 128460,
       "name": "Go Santa Go",
       "url": "https://open.spotify.com/track/56tZSMuheDHQkAQkyhq3Lz"
@@ -1768,7 +1786,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 193123,
       "name": "Going on a Christmas Tree Hunt",
       "url": "https://open.spotify.com/track/4gCQZI8yCd0v6w6UXIkKsH"
@@ -1892,7 +1910,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 332906,
       "name": "Grim Grinning Ghosts - From \"The Haunted Mansion\"",
       "url": "https://open.spotify.com/track/6PDomgzbyDHx0pxJwWQ5HI"
@@ -1910,7 +1928,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 120822,
       "name": "Ha Ha Halloween - Skye's Music Party",
       "url": "https://open.spotify.com/track/1Y1PSX1ur2Uo3QPeutLvJh"
@@ -2066,7 +2084,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 125884,
       "name": "Halloween Boogie Dance",
       "url": "https://open.spotify.com/track/6lT87LGFdNZa33zHH1j7LY"
@@ -2084,7 +2102,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 110965,
       "name": "Halloween Costume Party",
       "url": "https://open.spotify.com/track/1kZUhs9oLt95tLfsT4NE9h"
@@ -2354,7 +2372,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 95291,
       "name": "Halloween Shark",
       "url": "https://open.spotify.com/track/1Pt4uDDVb4kl9BQngDohY3"
@@ -2426,7 +2444,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 137374,
       "name": "Halloween Stomp",
       "url": "https://open.spotify.com/track/3ehXfGKCpCj5LmU2LMqRK7"
@@ -2444,7 +2462,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 163480,
       "name": "Halloween Train",
       "url": "https://open.spotify.com/track/2CWGQwGJdssqTsOqBtORE7"
@@ -2538,7 +2556,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 144150,
       "name": "Have a Very Merry Christmas!",
       "url": "https://open.spotify.com/track/0uRwmyey3AOPEyhRoZSsTU"
@@ -2618,7 +2636,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 115031,
       "name": "Ho-Ho-Hold on Santa Claus",
       "url": "https://open.spotify.com/track/5tmrl605ygkCjlUEKleR2G"
@@ -2636,7 +2654,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 179525,
       "name": "Holiday Sprinkles",
       "url": "https://open.spotify.com/track/4aF0ktSBN6PioEkmr5GLUz"
@@ -2654,7 +2672,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 209048,
       "name": "Holidays On CoComelon Lane - Songs From the Netflix Series",
       "url": "https://open.spotify.com/track/6sCvsCfEMg5OiCJB04x6vU"
@@ -2683,6 +2701,28 @@
     },
     {
       "album": {
+        "name": "I Love Halloween",
+        "url": "https://open.spotify.com/album/47dsswaZgi2A5lVQdt625K"
+      },
+      "artists": [
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "I Love Halloween",
+      "url": "https://open.spotify.com/track/68pqZ1JjkYil3IXC7ZWDFN"
+    },
+    {
+      "album": {
         "name": "I Picked One Pumpkin",
         "url": "https://open.spotify.com/album/0hbpyXdWi80fnPvI4TkyEQ"
       },
@@ -2694,7 +2734,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 130916,
       "name": "I Picked One Pumpkin",
       "url": "https://open.spotify.com/track/0ZL9uSA7x450DFvKuG43Gu"
@@ -2712,7 +2752,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 201493,
       "name": "I Put A Spell On You",
       "url": "https://open.spotify.com/track/4TKPFdNi9Lm8TM5LVJJ6cR"
@@ -2730,7 +2770,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 106322,
       "name": "I Saw Mommy Kissing Santa Claus",
       "url": "https://open.spotify.com/track/59FXFRUEBhVZ988UnM7cVC"
@@ -2748,7 +2788,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 116005,
       "name": "I Saw Three Ships",
       "url": "https://open.spotify.com/track/5XRkCGAzvGsG1ygRm1JPd1"
@@ -2766,7 +2806,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 72426,
       "name": "I Wanna Scare Myself",
       "url": "https://open.spotify.com/track/7pvlXWhbPUkGmhspCJ49Pn"
@@ -2856,7 +2896,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 192604,
       "name": "I Want Candy (From A Really Haunted Loud House)",
       "url": "https://open.spotify.com/track/1XCoPYpOwAIDffPzM7RNPP"
@@ -2914,7 +2954,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 147415,
       "name": "If I Were a Ghost",
       "url": "https://open.spotify.com/track/6Uy39pW6zU0Rgey0ZiV0VG"
@@ -2950,7 +2990,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 149852,
       "name": "It Must Be Halloween",
       "url": "https://open.spotify.com/track/1f1svbp3KN0QkxWh3Ecx7W"
@@ -2990,7 +3030,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 135083,
       "name": "It's Halloween",
       "url": "https://open.spotify.com/track/0UAxsfIlQZ1XK6RknnN5CE"
@@ -3008,7 +3048,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 153440,
       "name": "It's Snowing",
       "url": "https://open.spotify.com/track/3K3GKqRPMWEZw9VDp6xh6e"
@@ -3026,7 +3066,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 132924,
       "name": "It's The Holidays!",
       "url": "https://open.spotify.com/track/3J97ArvC3VUs470LYKd97Z"
@@ -3062,7 +3102,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 117840,
       "name": "Jill's Frozen Palace - Snow Queen",
       "url": "https://open.spotify.com/track/0uAZucg3YduaLoadryzhtm"
@@ -3080,7 +3120,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 123984,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/5EhMLJgjf1vASv0X87iNWn"
@@ -3098,7 +3138,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 110201,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/4UUA9qltzLq1nCMXioOQTH"
@@ -3120,7 +3160,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 136261,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/6NQmc3hl4KvKhayXSQSZ63"
@@ -3142,7 +3182,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 154615,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/3Nzb7Hkh68YNf2NZxrmwbm"
@@ -3182,7 +3222,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 146196,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/3GbvyzhCVaQq0grfcD9Y7O"
@@ -3200,7 +3240,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 126137,
       "name": "Jingle Meows",
       "url": "https://open.spotify.com/track/5sAxRoAmdnxftcCq7gIjkC"
@@ -3218,7 +3258,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 152303,
       "name": "Joy to the World",
       "url": "https://open.spotify.com/track/4SiNPQdSlRqjT0bEy0cpFA"
@@ -3236,7 +3276,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 127304,
       "name": "Joy to the World",
       "url": "https://open.spotify.com/track/3cFuSTypYJO8LF2TYz8Ass"
@@ -3258,6 +3298,24 @@
       "duration_ms": 160331,
       "name": "Just A Little Bit Scary",
       "url": "https://open.spotify.com/track/5rNp0eh9KNCRzZM85TzccP"
+    },
+    {
+      "album": {
+        "name": "Peppa Pig Halloween Songs, Vol. 2",
+        "url": "https://open.spotify.com/album/53RrCbZLjsT3DV0vgly29X"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160331,
+      "name": "Just A Little Bit Scary",
+      "url": "https://open.spotify.com/track/7DsNK6gxgz7lhyGGG6SXMS"
     },
     {
       "album": {
@@ -3290,7 +3348,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 238240,
       "name": "Last Christmas (Peppa's Version)",
       "url": "https://open.spotify.com/track/7LqBUQjQiq9tS5hnCYtklP"
@@ -3344,7 +3402,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 211049,
       "name": "Let's Go Caroling",
       "url": "https://open.spotify.com/track/6j9mBWOxNQBaX8GUkh6OOJ"
@@ -3370,7 +3428,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 166421,
       "name": "Let's Play Verandah Santa",
       "url": "https://open.spotify.com/track/5RHu1lEOgISB5oPiU34clO"
@@ -3392,7 +3450,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 217210,
       "name": "Life Hereafter",
       "url": "https://open.spotify.com/track/05Nu7e8A2qpRd88tJ8JPSR"
@@ -3450,7 +3508,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 136551,
       "name": "Little Robin",
       "url": "https://open.spotify.com/track/4SJPaflFvYjlQlpVX5Rr9X"
@@ -3490,7 +3548,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 156560,
       "name": "LOCA NAVIDAD",
       "url": "https://open.spotify.com/track/2dVg3aNxEyDqHaj4VL7uTY"
@@ -3562,7 +3620,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 219042,
       "name": "Merry Christmas Everyone",
       "url": "https://open.spotify.com/track/0IDm3fCe49TonetVSOwmE7"
@@ -3584,7 +3642,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 127767,
       "name": "Mickey Mouse Clubhouse Candlelight Celebration",
       "url": "https://open.spotify.com/track/43tDGNXHQwsdBhR2DhVPBC"
@@ -3602,7 +3660,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 79560,
       "name": "Monster Boogie",
       "url": "https://open.spotify.com/track/77gQppy2SLAQGqMB1LTXX9"
@@ -3624,6 +3682,24 @@
       "duration_ms": 167946,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/4Engqtxwykpej8XLAgq7qA"
+    },
+    {
+      "album": {
+        "name": "Mickey's Monster Bash",
+        "url": "https://open.spotify.com/album/0dcoxFgMPKe0WWgmoBLGaG"
+      },
+      "artists": [
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168040,
+      "name": "Monster Mash",
+      "url": "https://open.spotify.com/track/2LbLm24zFdRqFqRNhorfOO"
     },
     {
       "album": {
@@ -3664,7 +3740,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 193373,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/5VnJN193do97HJy4aSY92j"
@@ -3754,7 +3830,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 175088,
       "name": "Monster Moves",
       "url": "https://open.spotify.com/track/2LncSzAiksL7Wtm7eNhikm"
@@ -3772,7 +3848,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 103361,
       "name": "Monster Party",
       "url": "https://open.spotify.com/track/7niABza1kHX9RmKGxpXVnb"
@@ -3790,7 +3866,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 152531,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/4twPZuAAZdJyF0R1se8bv7"
@@ -3812,7 +3888,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 126710,
       "name": "Monsters Everywhere",
       "url": "https://open.spotify.com/track/51YsC4rFVkvLI558jVDYv1"
@@ -3830,7 +3906,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 178636,
       "name": "My Family",
       "url": "https://open.spotify.com/track/1mhGrjiQsTOGPIafaw9Q4v"
@@ -3848,7 +3924,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 180920,
       "name": "My Happy Sled + Jingle Bells",
       "url": "https://open.spotify.com/track/2fftyBYmRMCTiIIpQNa8JC"
@@ -3884,7 +3960,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-21",
+      "date_removed": null,
       "duration_ms": 96804,
       "name": "On Halloween",
       "url": "https://open.spotify.com/track/0sBIDKzgE50k7mmZSLxEFa"
@@ -3964,7 +4040,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 77226,
       "name": "Peek-A-Boo Ghost",
       "url": "https://open.spotify.com/track/3syXrV5Sbep8PW4WIwhtvC"
@@ -4036,7 +4112,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 203548,
       "name": "Peppa's Sleigh Ride",
       "url": "https://open.spotify.com/track/6d4vPBlZIaE9kLsjhNQoLH"
@@ -4054,7 +4130,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 192914,
       "name": "Pink Christmas",
       "url": "https://open.spotify.com/track/4DKAW3GtkWlPLXPgFjv0wC"
@@ -4094,7 +4170,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 291693,
       "name": "Poor Unfortunate Souls",
       "url": "https://open.spotify.com/track/7yyTZAgwQUy1a5kDjQJJNN"
@@ -4116,6 +4192,24 @@
       "duration_ms": 180386,
       "name": "Pumpkin Party",
       "url": "https://open.spotify.com/track/5QngzdLq2rAyeSfyOqFs97"
+    },
+    {
+      "album": {
+        "name": "Peppa Pig Halloween Songs, Vol. 2",
+        "url": "https://open.spotify.com/album/53RrCbZLjsT3DV0vgly29X"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180386,
+      "name": "Pumpkin Party",
+      "url": "https://open.spotify.com/track/6cL65cBEAXkB778ld0kXCM"
     },
     {
       "album": {
@@ -4206,7 +4300,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 186007,
       "name": "Put On Your Costume",
       "url": "https://open.spotify.com/track/7BmpE4M5qirdGQkNaUhcBE"
@@ -4224,7 +4318,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 121235,
       "name": "Rise Up Shepherds and Follow",
       "url": "https://open.spotify.com/track/43l4O6GMjzvaj00dmK6Nl1"
@@ -4303,6 +4397,40 @@
     },
     {
       "album": {
+        "name": "Descendants (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Cameron Boyce",
+          "url": "https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH"
+        },
+        {
+          "name": "Booboo Stewart",
+          "url": "https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ"
+        },
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162066,
+      "name": "Rotten to the Core",
+      "url": "https://open.spotify.com/track/2bNxCVI4Fub8BAwr0CQDyd"
+    },
+    {
+      "album": {
         "name": "Christmas Kids Hits",
         "url": "https://open.spotify.com/album/5wzXKDciSbEHScl60tXTGR"
       },
@@ -4314,7 +4442,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 62314,
       "name": "Rudolph the Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/5ScY9oz1gCgqmnt8oqA4ai"
@@ -4332,7 +4460,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 151328,
       "name": "Rudolph The Rednose Reindeer",
       "url": "https://open.spotify.com/track/4UmIV7V4SLcymzS5Y2jL4f"
@@ -4350,7 +4478,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 162004,
       "name": "Run Rudolph Run",
       "url": "https://open.spotify.com/track/5dz0znJokWnGpYiAXMi2NJ"
@@ -4368,7 +4496,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 126490,
       "name": "Santa Shark",
       "url": "https://open.spotify.com/track/3XMykL6vRYieUA0u3a2kkN"
@@ -4386,7 +4514,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 244303,
       "name": "Santa Slide",
       "url": "https://open.spotify.com/track/0FOBjG6E1MUNmdnBbVsPNM"
@@ -4404,7 +4532,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 179126,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/6t3PZKod8Q8wf6pHACBTCe"
@@ -4430,7 +4558,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 169128,
       "name": "Santa's Groove Tonight",
       "url": "https://open.spotify.com/track/2qezrY1PLAG7QITJFp4WGV"
@@ -4448,7 +4576,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 149538,
       "name": "Santa's On His Way",
       "url": "https://open.spotify.com/track/3EPCTKGY4DAYGisWs9Hnxq"
@@ -4466,7 +4594,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 143879,
       "name": "Santa's Sleigh Ride",
       "url": "https://open.spotify.com/track/5b6ptNl6YEzoXmyP6iIup5"
@@ -4484,7 +4612,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 129402,
       "name": "Santa's Workshop",
       "url": "https://open.spotify.com/track/4Sqsx7S1LPsfGoQwbw7dkC"
@@ -4578,10 +4706,36 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 235846,
       "name": "Secret Santa",
       "url": "https://open.spotify.com/track/3J6ncTuaKmSpxjXOkUTJ0v"
+    },
+    {
+      "album": {
+        "name": "Trick-or-Treat on Sesame Street!",
+        "url": "https://open.spotify.com/album/1Jwgbv1N5Bg7QaL4qKsnqK"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        },
+        {
+          "name": "Ernie",
+          "url": "https://open.spotify.com/artist/6rBZhEQ1RwYz6xOCE7CuUY"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89773,
+      "name": "Sesame Street Baby Band: Peek-a-Boo Pumpkins",
+      "url": "https://open.spotify.com/track/2223h9RsHmtTFQPz3cK4c2"
     },
     {
       "album": {
@@ -4596,7 +4750,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 140098,
       "name": "Shake Them Skeleton Bones",
       "url": "https://open.spotify.com/track/6yyUXmHgVY3T0HjY9JjK8k"
@@ -4614,7 +4768,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-25",
+      "date_removed": null,
       "duration_ms": 161160,
       "name": "Shake Your Bones",
       "url": "https://open.spotify.com/track/1Mew11one8wgUBsWt8EOGl"
@@ -4632,7 +4786,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 145982,
       "name": "Silly Santa",
       "url": "https://open.spotify.com/track/2KnKZzgz9mqorDGlDvPOlH"
@@ -4650,7 +4804,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 204000,
       "name": "Sings Merry Christmas",
       "url": "https://open.spotify.com/track/3KxkW7JQ9NRKZSqlinw6wJ"
@@ -4668,7 +4822,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 126729,
       "name": "Skeleton Dance",
       "url": "https://open.spotify.com/track/24DMFHfbCmdGFKj06O2zpw"
@@ -4686,7 +4840,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 263091,
       "name": "Skeleton Inside!",
       "url": "https://open.spotify.com/track/5RYJpJXyhU4jxB5JPMKX7Q"
@@ -4722,7 +4876,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 155213,
       "name": "Skeletone",
       "url": "https://open.spotify.com/track/3oag5OqiSruFgmz5mft1B0"
@@ -4762,7 +4916,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 180497,
       "name": "Snow Day",
       "url": "https://open.spotify.com/track/5F1dZqV8LSxhcqAUJ75jSG"
@@ -4780,7 +4934,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 179294,
       "name": "Snowy Guy",
       "url": "https://open.spotify.com/track/2Gswnh7Q7Ke7ww1LPy5mq5"
@@ -4949,6 +5103,28 @@
     },
     {
       "album": {
+        "name": "Disney Jr. Music: Marvel\u2019s Spidey and the Avengers: Halloween Team-Up!",
+        "url": "https://open.spotify.com/album/3BjdIqnHDurzc7yqAGyeo9"
+      },
+      "artists": [
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155471,
+      "name": "Spidey and the Avengers: Halloween Team-Up! Theme Song - From \u201cDisney Jr. Music: Marvel\u2019s Spidey and the Avengers: Halloween Team-Up!\u201d",
+      "url": "https://open.spotify.com/track/34EHW3mjLVhvyzq1rUNXnU"
+    },
+    {
+      "album": {
         "name": "Bestest Kids Halloween Songs Ever",
         "url": "https://open.spotify.com/album/1xkWTua1mHxl3ZDP5E6VCm"
       },
@@ -4982,6 +5158,24 @@
       "duration_ms": 162750,
       "name": "Spookidy Boo!",
       "url": "https://open.spotify.com/track/4NMgfI1P3ucmJnMS77IpRx"
+    },
+    {
+      "album": {
+        "name": "Pinkfong & Ninimo Halloween Songs",
+        "url": "https://open.spotify.com/album/2GlnSRGOQDQfSu0BzMVlJA"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193323,
+      "name": "Spooky Halloween Monsters",
+      "url": "https://open.spotify.com/track/3svWXeH27w0zJjWVXtod5N"
     },
     {
       "album": {
@@ -5032,7 +5226,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 173465,
       "name": "Spooky Night (from A Really Haunted Loud House)",
       "url": "https://open.spotify.com/track/2nfkkepFVzBviOk0wZSklX"
@@ -5090,7 +5284,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 258390,
       "name": "Spooky Spiders Everywhere!",
       "url": "https://open.spotify.com/track/57LgRvOO6sDh5Mfqx4RY63"
@@ -5108,7 +5302,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 139033,
       "name": "Spooky Wooky",
       "url": "https://open.spotify.com/track/6NZNAE8vyg7lvFzCupKJ2N"
@@ -5126,7 +5320,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 160417,
       "name": "Spooky, Scary Skeletons",
       "url": "https://open.spotify.com/track/3sMMOiantU5YEOr2MoHIR3"
@@ -5151,6 +5345,24 @@
     },
     {
       "album": {
+        "name": "Halloween Howls: Fun & Scary Music (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gold",
+          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125624,
+      "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
+      "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
+    },
+    {
+      "album": {
         "name": "It's Me Jennielea And My Very First CD",
         "url": "https://open.spotify.com/album/16pLEdHtvubzyrhy8AOzeq"
       },
@@ -5162,7 +5374,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 58933,
       "name": "Stirring The Brew",
       "url": "https://open.spotify.com/track/4B1rz3ylnsQrrsalWIKlOU"
@@ -5202,7 +5414,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 186563,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/5WaCJ1h3VGVdMbcqSherY5"
@@ -5224,7 +5436,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 129600,
       "name": "That's Santa",
       "url": "https://open.spotify.com/track/3j2PIdlUyqLUkBB5sSQoc3"
@@ -5264,10 +5476,32 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 166322,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/5891WpczuJHCubTj1uMFnI"
+    },
+    {
+      "album": {
+        "name": "Halloween Party",
+        "url": "https://open.spotify.com/album/31J9agSWwEGoopsSfFL4Xp"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Meekah",
+          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130970,
+      "name": "The Halloween Countdown",
+      "url": "https://open.spotify.com/track/2FpnRvN8aW3p9N998s69El"
     },
     {
       "album": {
@@ -5300,7 +5534,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 213750,
       "name": "The Last (Brussels) Sprout",
       "url": "https://open.spotify.com/track/6SDbfoc924KWsH7XIZIfsg"
@@ -5336,7 +5570,7 @@
       ],
       "date_added": "2021-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 124814,
       "name": "The Monsters In The House",
       "url": "https://open.spotify.com/track/152Kq3c7NK2JUbvTkmtND4"
@@ -5358,7 +5592,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 80211,
       "name": "The More The Merrier - From \"Disney Jr. Music: Minnie's Bow-Toons: Pet Hotel\"",
       "url": "https://open.spotify.com/track/2Kk21PN3bEs3mlmMoXexeu"
@@ -5496,7 +5730,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 30986,
       "name": "The Music",
       "url": "https://open.spotify.com/track/6yIl6zgZVbX6LXbV9EmZfL"
@@ -5622,7 +5856,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 80262,
       "name": "The Skeleton Band",
       "url": "https://open.spotify.com/track/68KxYt2b1mUhSjmm5XeFFU"
@@ -5640,7 +5874,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 217103,
       "name": "The Skeleton Shake",
       "url": "https://open.spotify.com/track/0c6Ljz58jgF8X4FPAN544F"
@@ -5658,7 +5892,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 167083,
       "name": "The Travel Song - With Our Family",
       "url": "https://open.spotify.com/track/4GLZXHtpZay4BviqxzRlPO"
@@ -5676,7 +5910,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 142866,
       "name": "The Werewolf Song",
       "url": "https://open.spotify.com/track/0QNPxITooj5C1rHCS525q4"
@@ -5748,7 +5982,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 199200,
       "name": "This is Halloween",
       "url": "https://open.spotify.com/track/1CYjYSg9sdtbBoxSf8uhFD"
@@ -5766,7 +6000,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 207733,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/2kKLdZHp3Tfj140BgnbiuJ"
@@ -5784,7 +6018,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o"
@@ -5802,7 +6036,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 109196,
       "name": "This is the Way We Trick or Treat",
       "url": "https://open.spotify.com/track/1C7ob1VIwc1JiEmMDNfHWt"
@@ -6051,6 +6285,24 @@
     },
     {
       "album": {
+        "name": "Halloween Party",
+        "url": "https://open.spotify.com/album/31J9agSWwEGoopsSfFL4Xp"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Trick or Treat",
+      "url": "https://open.spotify.com/track/1EsJ0suue4ynhTOAAXJn6X"
+    },
+    {
+      "album": {
         "name": "Blippi & Friends Halloween",
         "url": "https://open.spotify.com/album/54l6QDK8Tz9a5dbPV3wmuV"
       },
@@ -6134,7 +6386,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 122869,
       "name": "Tricked",
       "url": "https://open.spotify.com/track/7FiaO4Ne6CsR5TMZ1L47GT"
@@ -6210,7 +6462,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 83249,
       "name": "Up on the Housetop",
       "url": "https://open.spotify.com/track/3psbuTV2kE7qTFdTDQU39w"
@@ -6228,7 +6480,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 81130,
       "name": "Vampire Wedding",
       "url": "https://open.spotify.com/track/2hH8xQrEH39WJ2cOckewvQ"
@@ -6246,7 +6498,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 209840,
       "name": "Walking in the Air",
       "url": "https://open.spotify.com/track/6WIPdAfs8ZIBMIE3XYIijs"
@@ -6268,7 +6520,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 129125,
       "name": "We Are Elves",
       "url": "https://open.spotify.com/track/5ukNSmBxkPqqMn6WtlSxq9"
@@ -6380,7 +6632,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 162332,
       "name": "We Wish You a Merry Christmas",
       "url": "https://open.spotify.com/track/7Bw7S2olPWsEzG3DVSttXP"
@@ -6426,7 +6678,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 131560,
       "name": "We Wish You A Merry Christmas",
       "url": "https://open.spotify.com/track/6V6jAO297nIsS45EQRF2Ub"
@@ -6444,7 +6696,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 134186,
       "name": "We Wish You a Merry Christmas",
       "url": "https://open.spotify.com/track/7Ctxl1dKrbv8GAuFxzJ8pR"
@@ -6466,7 +6718,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 120220,
       "name": "We Wish You a Merry Christmas",
       "url": "https://open.spotify.com/track/3O3tvaQnp76v0UquL3B8SA"
@@ -6484,10 +6736,28 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 69333,
       "name": "We Wish You a Merry Christmas",
       "url": "https://open.spotify.com/track/5XssuqGt2h4vJeaYvgAd64"
+    },
+    {
+      "album": {
+        "name": "We're Going on a Spider Hunt",
+        "url": "https://open.spotify.com/album/6dt3RWQMbpgxRBJjFdvYrI"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226795,
+      "name": "We're Going on a Spider Hunt",
+      "url": "https://open.spotify.com/track/7is9BZjr2yiQBuKpAwqIXN"
     },
     {
       "album": {
@@ -6668,7 +6938,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 133314,
       "name": "Where's the Werewolf Pack?",
       "url": "https://open.spotify.com/track/6teAuLc042zZe8CXnxRRzH"
@@ -6708,7 +6978,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 166733,
       "name": "Who Let The Ghosts Out",
       "url": "https://open.spotify.com/track/4bU4wo67tGtrDPaFv5pSk8"
@@ -6730,7 +7000,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 102000,
       "name": "Winter Games - From \"The Christmas Letter Express\"",
       "url": "https://open.spotify.com/track/7Bu5JHABnpjCLL9YObYQRt"
@@ -6748,7 +7018,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 175529,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/5oYlVyU6omFwlOR5IUi3Ba"
@@ -6766,7 +7036,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 156734,
       "name": "Wintertime is better with friends",
       "url": "https://open.spotify.com/track/4ypLX5jEzTcsCdiyXoiqP7"
@@ -6784,7 +7054,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 121641,
       "name": "Wish Upon a Christmas",
       "url": "https://open.spotify.com/track/121fVyrxUotXXDNmoUJSAC"

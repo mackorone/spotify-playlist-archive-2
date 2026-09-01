@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 | 104 | [メインテーマ](https://open.spotify.com/track/3YL0SByw0ggpAGqjgn3cYj) | [Kengo Tokusashi](https://open.spotify.com/artist/7eskXqJU5pjwVuOTClDji9) | [ソードアート・オンライン メモリー・デフラグ Original Soundtrack](https://open.spotify.com/album/70LQx51mkFlRG2i2qKQw9B) | 4:02 |
 | 105 | [アンリーシュ・ブレイディング \-opening\-](https://open.spotify.com/track/2el2zS9Ko36LgZzEkvDH5e) | [Kengo Tokusashi](https://open.spotify.com/artist/7eskXqJU5pjwVuOTClDji9) | [ソードアート・オンライン アンリーシュ・ブレイディング Original Soundtrack](https://open.spotify.com/album/3WyUGoyvq9Q4AO2F7tjD2p) | 4:46 |
 
-Snapshot ID: `AAAAAPRSOgVX/sxkipZqz1Jfw1GNIFq7`
+Snapshot ID: `AAAAAJu+r+EPYg5RUjRQUtiVmE6+BjZp`

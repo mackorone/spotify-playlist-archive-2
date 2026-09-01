@@ -4,7 +4,7 @@
 
 > Fun tracks for your Halloween festivities!
 
-178 songs - 10 hr 45 min
+179 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,8 @@
 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 | 2025-09-29 |  |
 | [THE DINER](https://open.spotify.com/track/1LLUoftvmTjVNBHZoQyveF) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:06 | 2024-10-17 | 2025-09-20 |
 | [The Monster](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [The Marshall Mathers LP2](https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj) | 4:10 | 2021-10-27 | 2022-09-24 |
-| [The Phantom Of the Opera \- From 'The Phantom Of The Opera' Motion Picture](https://open.spotify.com/track/4EaBMhUIOfnFEbIgqCfKbi) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Gerard Butler](https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U), [Emmy Rossum](https://open.spotify.com/artist/6JcDqt1rBKIWfnoPjXFYqc) | [The Phantom Of The Opera \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zwEN9cLtWg39zFJnj8brt) | 3:36 | 2023-10-17 |  |
+| [The Phantom of the Opera](https://open.spotify.com/track/3EBPGmqpZTMfOPQtUxfCXj) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Michael Crawford](https://open.spotify.com/artist/5fRiVl9fyhUEZhcpMyIxUG), [Phantom Of The Opera Original London Cast](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25), [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [The Phantom of the Opera](https://open.spotify.com/album/08qngNLHQMtpXqBkeqN8Fr) | 5:02 | 2026-08-31 |  |
+| [The Phantom Of the Opera \- From 'The Phantom Of The Opera' Motion Picture](https://open.spotify.com/track/4EaBMhUIOfnFEbIgqCfKbi) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Gerard Butler](https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U), [Emmy Rossum](https://open.spotify.com/artist/6JcDqt1rBKIWfnoPjXFYqc) | [The Phantom Of The Opera \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zwEN9cLtWg39zFJnj8brt) | 3:36 | 2023-10-17 | 2026-09-01 |
 | [There Will Be Blood](https://open.spotify.com/track/0VxtVyUZs8b96yP9NmftiA) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Spooky Scary Season](https://open.spotify.com/album/29pVR3HkKEhRnUuUIUvW7E) | 3:17 | 2022-10-24 | 2022-11-14 |
 | [There Will Be Blood](https://open.spotify.com/track/3MTk8zTFCHgMei64ycr6GH) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/1DHYrQEevTTen4mqPgaxfH) | 3:17 | 2021-10-27 | 2022-07-29 |
 | [There Will Be Blood](https://open.spotify.com/track/75HFFq9W7Em0dTBG8QeGcT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 3:17 | 2021-10-27 | 2023-10-18 |

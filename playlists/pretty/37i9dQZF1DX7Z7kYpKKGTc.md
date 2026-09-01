@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 
 > The romantic side of classic rock and metal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,009,634 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,009,722 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 | 49 | [Without Your Love](https://open.spotify.com/track/4LKlwXTUIiuxU9kRbX0MGq) | [TNT](https://open.spotify.com/artist/363VbwpX9anvrThJ2qDwBy) | [Knights Of The New Thunder](https://open.spotify.com/album/4K6Plu9ULp06G9ieYTaeZy) | 3:50 |
 | 50 | [Dreamin' About You](https://open.spotify.com/track/6faKvPqhbvI2OVEF7dzaIa) | [Kick Axe](https://open.spotify.com/artist/0zoCulj9Wm2A6fve6S6Khy) | [Vices](https://open.spotify.com/album/2Nc3h0QySJ6cExy6IRTs2X) | 4:31 |
 
-Snapshot ID: `AAAAABKZ/dDlOQoecSlhOU5EXLh/qJ8H`
+Snapshot ID: `AAAAAOtIN1/OcAc3IArgTeD9HnKVadDE`

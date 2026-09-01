@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Rudimental, Original Koffee & Winny
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,428 likes - 99 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,423 likes - 99 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 98 | [You Want Me Anyway](https://open.spotify.com/track/6QjpnURAAJufuyKXgTWy2h) | [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9), [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [Royal Riviera](https://open.spotify.com/artist/1DJFbwAzP004wwQ1WLJspU), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [You Want Me Anyway](https://open.spotify.com/album/4srocpu32beSY8bj9EKbq9) | 3:14 |
 | 99 | [Down To The Sound](https://open.spotify.com/track/6hcEfqQL5wcVzBq2qf5p3A) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Down To The Sound](https://open.spotify.com/album/1ueCEnO7sgkc6JeA0rV4Wl) | 3:16 |
 
-Snapshot ID: `AAAAAIqmQtxO9QbXRuOIdnlxPlgY3oWs`
+Snapshot ID: `AAAAALsA+6Yep0YwnslslWFCwF+BZRRJ`

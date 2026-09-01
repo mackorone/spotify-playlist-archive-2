@@ -1,12 +1,12 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Benjamin Amadeo",
-  "num_followers": 279212,
+  "num_followers": 279211,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAME+VMuanbkvdqMSaG66sPQJ5LnG",
+  "snapshot_id": "AAAAAK1hBpFxqMmmdwlEckWqmQp4I6eO",
   "tracks": [
     {
       "added_at": "2026-08-21 15:00:07",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-08-21 15:00:07",
       "album": {
+        "name": "No Hay M\u00e1s Que Hablar",
+        "url": "https://open.spotify.com/album/7ujTeoR2BX09yMsOVPzwGe"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 211935,
+      "name": "No Hay M\u00e1s Que Hablar",
+      "url": "https://open.spotify.com/track/4gC0IUJBZ6HQBy4SezYNgq"
+    },
+    {
+      "added_at": "2026-08-21 15:00:07",
+      "album": {
         "name": "La del Primer Puesto",
         "url": "https://open.spotify.com/album/17i5gpmOgTjDDHlgnqa5ua"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 194080,
       "name": "La del Primer Puesto",
       "url": "https://open.spotify.com/track/6sbE3hkY1kRT4CmmdOJDJC"
-    },
-    {
-      "added_at": "2026-08-21 15:00:07",
-      "album": {
-        "name": "No Hay M\u00e1s Que Hablar",
-        "url": "https://open.spotify.com/album/7ujTeoR2BX09yMsOVPzwGe"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 211935,
-      "name": "No Hay M\u00e1s Que Hablar",
-      "url": "https://open.spotify.com/track/4gC0IUJBZ6HQBy4SezYNgq"
     },
     {
       "added_at": "2026-08-21 15:00:07",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-08-21 15:00:07",
       "album": {
-        "name": "Llamada Perdida",
-        "url": "https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 166333,
-      "name": "Llamada Perdida",
-      "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
-    },
-    {
-      "added_at": "2026-08-21 15:00:07",
-      "album": {
         "name": "OTRA NOCHE M\u00c1S",
         "url": "https://open.spotify.com/album/0fp4aihuep4yUtd1CqVGO3"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 153600,
       "name": "OTRA NOCHE M\u00c1S",
       "url": "https://open.spotify.com/track/28lGd1vKd5v8UPEvccdbsT"
+    },
+    {
+      "added_at": "2026-08-21 15:00:07",
+      "album": {
+        "name": "Llamada Perdida",
+        "url": "https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 166333,
+      "name": "Llamada Perdida",
+      "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
     },
     {
       "added_at": "2026-08-21 15:00:07",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-08-21 15:00:07",
       "album": {
-        "name": "Amor Pasajero",
-        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 152080,
-      "name": "Amor Pasajero",
-      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
-    },
-    {
-      "added_at": "2026-08-21 15:00:07",
-      "album": {
         "name": "Rojo Rub\u00ed",
         "url": "https://open.spotify.com/album/3xzd8q2D1aPKfhuin1LidI"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 232800,
       "name": "Rojo Rub\u00ed",
       "url": "https://open.spotify.com/track/4Q9yMb434vVpNz2QM2nQLI"
+    },
+    {
+      "added_at": "2026-08-21 15:00:07",
+      "album": {
+        "name": "Amor Pasajero",
+        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 152080,
+      "name": "Amor Pasajero",
+      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
     },
     {
       "added_at": "2026-08-21 15:00:07",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2026-08-21 15:00:07",
       "album": {
-        "name": "Hasta el Cielo",
-        "url": "https://open.spotify.com/album/1yJSIdmpdrOmfRlgHzJ30e"
-      },
-      "artists": [
-        {
-          "name": "LUANA",
-          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
-        },
-        {
-          "name": "Maxi Espindola",
-          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
-        }
-      ],
-      "duration_ms": 177897,
-      "name": "Hasta el Cielo",
-      "url": "https://open.spotify.com/track/42rw6xMkcOZPenoUTU5w5z"
-    },
-    {
-      "added_at": "2026-08-21 15:00:07",
-      "album": {
         "name": "Nada es lo Mismo",
         "url": "https://open.spotify.com/album/3C3jbzl4S0gAhKfGTrY3sk"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 184500,
       "name": "Nada es lo Mismo",
       "url": "https://open.spotify.com/track/2JriBiHousQyoPZxUFdjyL"
+    },
+    {
+      "added_at": "2026-08-21 15:00:07",
+      "album": {
+        "name": "Hasta el Cielo",
+        "url": "https://open.spotify.com/album/1yJSIdmpdrOmfRlgHzJ30e"
+      },
+      "artists": [
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+        }
+      ],
+      "duration_ms": 177897,
+      "name": "Hasta el Cielo",
+      "url": "https://open.spotify.com/track/42rw6xMkcOZPenoUTU5w5z"
     },
     {
       "added_at": "2026-08-21 15:00:07",

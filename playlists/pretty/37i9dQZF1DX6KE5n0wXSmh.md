@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KE5n0wXSmh.md) - [plain]
 
 > Our Rock editors' picks of the very best rock, alternative, metal and punk songs of last month\. Cover: Protomartyr
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,906 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,920 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KE5n0wXSmh.md) - [plain]
 | 49 | [Stoop to Me](https://open.spotify.com/track/4jd9ES4qpTyTLz6C5aSxap) | [The Tubs](https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9) | [Stoop to Me](https://open.spotify.com/album/4ExTOWeLkFylqhBUdgV3Kx) | 3:47 |
 | 50 | [The Next Day](https://open.spotify.com/track/6ldDrqbGUXnyVUCJT4eIpc) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8) | [The Next Day](https://open.spotify.com/album/0lpsfmSjhE3kJw8bbdtdSJ) | 4:09 |
 
-Snapshot ID: `AAAAAECK3ZjbsZoiYu3avC3wqfXXeDzA`
+Snapshot ID: `AAAAACECgRE2+WzP4pfnQCGWdeZr0+iI`

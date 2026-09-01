@@ -4,7 +4,7 @@
 
 > Todos los miércoles, lo nuevo de la escena independiente española\. Foto: Radio Palmer.
 
-8,566 songs - 18 day 4 hr 17 min
+8,567 songs - 18 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5825,7 +5825,7 @@
 | [Otra rola y un par de besos](https://open.spotify.com/track/0sN90O9DABN7CvJ9StDuPb) | [Wazowss](https://open.spotify.com/artist/5ehbOlqroF2VDPRYLyZ8gC) | [Otra rola y un par de besos](https://open.spotify.com/album/3RDJqCoj4V3WMLhTvNiKIN) | 1:41 | 2025-04-02 | 2025-04-09 |
 | [Otra vez](https://open.spotify.com/track/6ca8JhElPq6S70N44esmwB) | [Alxnso](https://open.spotify.com/artist/2MM5lN18SO42FDpZSJJTPI), [FRXSH](https://open.spotify.com/artist/3h6gk8ftltVczwr5ue4i1M) | [Otra vez](https://open.spotify.com/album/5b9CNitN0iFVWohnhHGVgD) | 2:34 | 2024-08-20 | 2024-08-28 |
 | [otra vez](https://open.spotify.com/track/3w67YyKUEExOhahuWvdl5y) | [Drastar](https://open.spotify.com/artist/3vzEOAXTQ9YRrnVTaOQWVj) | [otra vez](https://open.spotify.com/album/6OqPE5d7WGsTHq0nsbLN8q) | 2:18 | 2026-04-14 | 2026-05-27 |
-| [Otra Vez](https://open.spotify.com/track/4jknlCxKDpRZhIk5dOizUM) | [Leon Coeur](https://open.spotify.com/artist/2Ba1UolAMuBTKpfAlHzVM5) | [Crecieron Flores Donde No Podían](https://open.spotify.com/album/3h76YwFzZgbqTF0z0T0tAs) | 3:06 | 2026-08-11 |  |
+| [Otra Vez](https://open.spotify.com/track/4jknlCxKDpRZhIk5dOizUM) | [Leon Coeur](https://open.spotify.com/artist/2Ba1UolAMuBTKpfAlHzVM5) | [Crecieron Flores Donde No Podían](https://open.spotify.com/album/3h76YwFzZgbqTF0z0T0tAs) | 3:06 | 2026-08-11 | 2026-09-01 |
 | [Otra Vez](https://open.spotify.com/track/1XWH9VNhb6GDeThUj8Mvv6) | [Nango](https://open.spotify.com/artist/47bKhQvBQm9tTt2iYYlxEW) | [Otra Vez](https://open.spotify.com/album/6VxgNld4VMg97Pij8xFOsY) | 2:35 | 2023-01-10 | 2023-01-18 |
 | [Otra Vez](https://open.spotify.com/track/3jhZrHhYdeCQeS7tjSqW7j) | [Radio Nostalgia](https://open.spotify.com/artist/3LpKwYWtxi8j0lPjfi6ySB) | [Otra Vez](https://open.spotify.com/album/7HE4wdN2QTGUVeTZIfv1dh) | 3:02 | 2024-04-24 | 2024-05-01 |
 | [OTRA VEZ](https://open.spotify.com/track/5skGmVI7AswTIYUBbo0vt9) | [ROTO AMOR](https://open.spotify.com/artist/0nrQroiL0jNHCamuNQGnGh) | [OTRA VEZ](https://open.spotify.com/album/7Fp5kEuil3SOI8GHMUZJfw) | 3:07 | 2023-11-14 | 2023-11-30 |
@@ -6307,6 +6307,7 @@
 | [Promesa](https://open.spotify.com/track/0ET7FZonI1s67Uvc4l0qTa) | [Paula Felices](https://open.spotify.com/artist/4umN3hOu4rOYz2d9SfTVGf) | [Promesa](https://open.spotify.com/album/3OTAv6h4DBZ642lfNPyfY9) | 2:12 | 2024-08-13 | 2024-08-21 |
 | [Promesa Bordada en el Sol](https://open.spotify.com/track/3nSE42PE4gMEFvywib3zhN) | [Sacoga](https://open.spotify.com/artist/2apBghN8YxnOPWkp1pFetI) | [Promesa Bordada en el Sol](https://open.spotify.com/album/0zc3Wkygay2ZocApvVVWBh) | 8:30 | 2024-04-02 | 2024-04-10 |
 | [PROMESAS SON PROMESAS \(xBx\)](https://open.spotify.com/track/1vWEoKVEE7kyPPPFJeM1tq) | [3rajean](https://open.spotify.com/artist/0gNn4tpH0cKkJrGYhzCUxQ) | [xBx](https://open.spotify.com/album/4GtDuDyEmj2GoZ8ezMc3zV) | 1:30 | 2022-09-13 | 2022-09-21 |
+| [Prometo estar bien](https://open.spotify.com/track/08v7ftssqRDDI4bqH19AQR) | [HOLOGRAMMA](https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm) | [Prometo estar bien](https://open.spotify.com/album/26im6cMfoN0NhjHaVPIK2p) | 3:08 | 2026-08-31 |  |
 | [promotion • هَرَم](https://open.spotify.com/track/5osINThciXaEweyZHmNhFD) | [Charlie Chaos](https://open.spotify.com/artist/2aBTCDQ2gnNlEQRYj38WmD) | [promotion • هَرَم](https://open.spotify.com/album/6Dcyk7WM1qKjz4vxBmUz4I) | 2:58 | 2024-04-02 | 2024-04-10 |
 | [PRONTiTO](https://open.spotify.com/track/5GtRSQaxQkhPLfnSlt9W3g) | [FRXSH](https://open.spotify.com/artist/3h6gk8ftltVczwr5ue4i1M), [Alxnso](https://open.spotify.com/artist/2MM5lN18SO42FDpZSJJTPI) | [PRONTiTO](https://open.spotify.com/album/2QVHpjqCyrAggYwAASRlke) | 2:44 | 2025-04-22 | 2025-04-30 |
 | [pronto](https://open.spotify.com/track/4HBWj8TMyox1LYSVu79zCG) | [Conttra](https://open.spotify.com/artist/0xRizCdjBtIyBeMCLDkcBg), [Strange Frequency](https://open.spotify.com/artist/5uj2Fb3Gbj083ASKjgMEpp) | [pronto](https://open.spotify.com/album/5fL5Z7wvaDH61K07DhTNVF) | 3:31 | 2022-06-14 | 2022-06-30 |

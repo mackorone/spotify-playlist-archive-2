@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 60 | [Funky Fresco](https://open.spotify.com/track/0qRbGq8cogiDalq9E8IGJh) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Funky Fresco](https://open.spotify.com/album/3AGTkAEOaQgFixOs4rLCix) | 2:23 |
 | 61 | [Double Cup \(feat\. Trainer & Big Soto\)](https://open.spotify.com/track/0wwOTjKyrGTp1bJCUy7mPj) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Double Cup \(feat\. Trainer & Big Soto\)](https://open.spotify.com/album/4x4ubWTKOJQ1k0daiz0Kfd) | 3:41 |
 
-Snapshot ID: `AAAAAG6pmgLeMFg9WScqLu2/j9++QOrr`
+Snapshot ID: `AAAAABHX2WCF+W3YzfEFTKNEEFt4QPRA`

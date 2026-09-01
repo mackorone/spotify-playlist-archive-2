@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 285336,
+  "num_followers": 285377,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIsHWkfHUUivNSN40g+bIyiJa6qg",
+  "snapshot_id": "AAAAABCXMMpLBCUEPj1K/YNlr8bhFfQY",
   "tracks": [
     {
       "added_at": "2026-08-27 23:00:33",
@@ -899,6 +899,26 @@
     {
       "added_at": "2026-08-27 23:00:33",
       "album": {
+        "name": "SEND IT",
+        "url": "https://open.spotify.com/album/7LES3d1vjIX4vOgT569O3v"
+      },
+      "artists": [
+        {
+          "name": "SEMPA",
+          "url": "https://open.spotify.com/artist/3zB3FoF3rsKoqa1ZlXJMbQ"
+        },
+        {
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "SEND IT",
+      "url": "https://open.spotify.com/track/5H8QJ075Kpaf4B3GKKLDw1"
+    },
+    {
+      "added_at": "2026-08-27 23:00:33",
+      "album": {
         "name": "See Thru",
         "url": "https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 170462,
       "name": "You",
       "url": "https://open.spotify.com/track/2JY40usTFwpLKV5BJK6vW6"
-    },
-    {
-      "added_at": "2026-08-27 23:00:33",
-      "album": {
-        "name": "SEND IT",
-        "url": "https://open.spotify.com/album/7LES3d1vjIX4vOgT569O3v"
-      },
-      "artists": [
-        {
-          "name": "SEMPA",
-          "url": "https://open.spotify.com/artist/3zB3FoF3rsKoqa1ZlXJMbQ"
-        },
-        {
-          "name": "Local",
-          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "SEND IT",
-      "url": "https://open.spotify.com/track/5H8QJ075Kpaf4B3GKKLDw1"
     },
     {
       "added_at": "2026-08-27 23:00:33",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2026-08-27 23:00:33",
       "album": {
-        "name": "Big Truck",
-        "url": "https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi"
-      },
-      "artists": [
-        {
-          "name": "SIDEQUEST",
-          "url": "https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x"
-        },
-        {
-          "name": "J Fado",
-          "url": "https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM"
-        }
-      ],
-      "duration_ms": 111428,
-      "name": "Big Truck",
-      "url": "https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn"
-    },
-    {
-      "added_at": "2026-08-27 23:00:33",
-      "album": {
         "name": "Play Me",
         "url": "https://open.spotify.com/album/3WoFyZovPkmh9TZaQ3AKjY"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 245106,
       "name": "Play Me",
       "url": "https://open.spotify.com/track/1o2G7zTRhV74vhx3QWB9Dl"
+    },
+    {
+      "added_at": "2026-08-27 23:00:33",
+      "album": {
+        "name": "Big Truck",
+        "url": "https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi"
+      },
+      "artists": [
+        {
+          "name": "SIDEQUEST",
+          "url": "https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x"
+        },
+        {
+          "name": "J Fado",
+          "url": "https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM"
+        }
+      ],
+      "duration_ms": 111428,
+      "name": "Big Truck",
+      "url": "https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn"
     },
     {
       "added_at": "2026-08-27 23:00:33",

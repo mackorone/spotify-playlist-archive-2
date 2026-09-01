@@ -4,7 +4,7 @@
 
 > This is JJ Hairston\. The essential tracks, all in one playlist.
 
-186 songs - 20 hr 8 min
+187 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,11 +107,12 @@
 | [Miracle Worker \(feat\. Rich Tolbert Jr.\) \- Live](https://open.spotify.com/track/5ygojrfeLjr7BHp6nGh0XS) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Rich Tolbert Jr.](https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb) | [Miracle Worker \(Live\)](https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw) | 6:42 | 2023-04-02 | 2024-01-09 |
 | [My Hiding Place](https://open.spotify.com/track/058WZFS2k8hYvhAQwbTNXQ) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 2:58 | 2025-02-05 | 2025-12-08 |
 | [My Hiding Place](https://open.spotify.com/track/237xqnL0TqbNUTcgaW5UKs) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py) | 2:58 | 2023-06-15 | 2024-01-11 |
+| [No Reason To Fear](https://open.spotify.com/track/2WFgHSOPBxVrudGOqZYJWb) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [No Reason To Fear \- Single](https://open.spotify.com/album/07FpmHl5aNml4JFRDGIDZ8) | 5:12 | 2026-09-01 |  |
 | [No Reason To Fear](https://open.spotify.com/track/4imDowJau675wQewno5k0k) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [You Deserve It \(Deluxe Edition\)](https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP) | 5:12 | 2023-04-02 | 2023-07-30 |
 | [No Reason To Fear](https://open.spotify.com/track/6rmSwRU0TenwtqwJjvMS5n) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [You Deserve It \(Deluxe Edition\)](https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1) | 5:12 | 2024-03-07 | 2026-03-21 |
 | [No Reason To Fear \(Radio Edit\)](https://open.spotify.com/track/2IMipb7dosMwZbeGbom49K) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [No Reason To Fear \- Single](https://open.spotify.com/album/4fQ7qwZJQ3hYKsvhpIEh6F) | 4:33 | 2023-07-29 | 2024-01-08 |
 | [No Reason To Fear \(Radio Edit\)](https://open.spotify.com/track/5hRjPgj8c7kjtIGThYBzUv) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [No Reason To Fear \- Single](https://open.spotify.com/album/07FpmHl5aNml4JFRDGIDZ8) | 4:33 | 2024-01-07 | 2024-03-08 |
-| [No Reason To Fear \- Live](https://open.spotify.com/track/1yj5JBz7haqcGjp5mExBQm) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [You Deserve It \(Deluxe / Live\)](https://open.spotify.com/album/7lVTivZlcHDjxtlPxI8Nqk) | 5:12 | 2026-03-21 |  |
+| [No Reason To Fear \- Live](https://open.spotify.com/track/1yj5JBz7haqcGjp5mExBQm) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [You Deserve It \(Deluxe / Live\)](https://open.spotify.com/album/7lVTivZlcHDjxtlPxI8Nqk) | 5:12 | 2026-03-21 | 2026-09-01 |
 | [Not Holding Back](https://open.spotify.com/track/0CM8AO4xLnxdDPjiUPYP5K) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Melissa Bethea](https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg) | [Not Holding Back](https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk) | 12:27 | 2024-01-09 |  |
 | [Not Holding Back](https://open.spotify.com/track/3648FGKvPaB9jJ6SszwiXD) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Melissa Bethea](https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg) | [Not Holding Back](https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR) | 12:27 | 2023-04-02 | 2024-01-10 |
 | [Nothing Compares](https://open.spotify.com/track/4Ef3sKF6IIeJA6RGd49A11) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [I See Victory](https://open.spotify.com/album/4BRPb4QlYTndXSoCuEsEBl) | 6:34 | 2023-04-02 | 2023-10-05 |

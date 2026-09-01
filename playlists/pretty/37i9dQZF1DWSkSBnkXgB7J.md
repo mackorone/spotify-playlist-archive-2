@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > The exciting new music on our radar in the Middle East and North Africa\.  Cover: Zaid Khaled
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,538 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,541 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 49 | [LDAKHEL MIYET](https://open.spotify.com/track/4QmTJOzF7FcVscManv5ktY) | [Hackler](https://open.spotify.com/artist/10kr1Y0j9ZsKYTfgqyrQYt), [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [LDAKHEL MIYET](https://open.spotify.com/album/5Lh6JYukdMCgahLYz0smCK) | 3:14 |
 | 50 | [Ma Bansak](https://open.spotify.com/track/6MphGwh3Oa0AcCGoRiQG4g) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Ma Bansak](https://open.spotify.com/album/6nclujWYoBILoSWMsidMrb) | 3:03 |
 
-Snapshot ID: `AAAAAADJxFE3rFCYkwRkaz3XXWcUnqMq`
+Snapshot ID: `AAAAAOENoRjTSiDQn3+d4OrhQwZRTNR0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > Break them in, wear them out\. Cover: Carly Pearce
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,338,691 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,338,741 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [GOOD DAMN](https://open.spotify.com/track/2V9EhQkeYq5roocczdtTCO) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [GOOD DAMN](https://open.spotify.com/album/20y2zchsx7WSEkpXx9BFB7) | 3:03 |
 | 100 | [Forever A Go](https://open.spotify.com/track/10fdxjM1HhBJusaNf3fzNY) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Forever A Go](https://open.spotify.com/album/1UAcMeNQOxlwCLm5ziCf4U) | 3:07 |
 
-Snapshot ID: `AAAAALyWxhsXPWfgPZbwJOj/zhXvSP39`
+Snapshot ID: `AAAAABl1qh5Zxx+xTkEkompYntN1MrCV`

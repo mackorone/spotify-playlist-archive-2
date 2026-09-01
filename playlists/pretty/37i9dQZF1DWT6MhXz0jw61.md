@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: 6LACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,402,298 likes - 101 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,402,274 likes - 101 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 100 | [heart pt\. 6](https://open.spotify.com/track/1SGvjfc85yzqKXsfKcCxn2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 4:52 |
 | 101 | [HOP OUT CHO FEELINS](https://open.spotify.com/track/0kTaVR84OJ6jb8tDw4wj35) | [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [HOP OUT CHO FEELINS](https://open.spotify.com/album/1IcdpXhLeRuXHo363pYL8F) | 3:48 |
 
-Snapshot ID: `AAAAAIcoRzWyT46m1UJGmkjDklNjpUX6`
+Snapshot ID: `AAAAAFhjMy2RqSqZ6ikWjt0wDRlfGGdg`

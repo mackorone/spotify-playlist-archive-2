@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Josh Gilligan",
-  "num_followers": 428057,
+  "num_followers": 428063,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMRA3wt7+ymyxyl1q28CXmOoBjbZ",
+  "snapshot_id": "AAAAAN0kcni5zkAwFdu6ffK2h1Er9FoZ",
   "tracks": [
     {
       "added_at": "2026-08-28 04:02:11",
@@ -567,6 +567,26 @@
     {
       "added_at": "2026-08-28 04:02:11",
       "album": {
+        "name": "The Illusion Of Love (feat. Lukas Nelson)",
+        "url": "https://open.spotify.com/album/2ORyv79ovybfjEdkR4OM9A"
+      },
+      "artists": [
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        },
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        }
+      ],
+      "duration_ms": 283427,
+      "name": "The Illusion Of Love (feat. Lukas Nelson)",
+      "url": "https://open.spotify.com/track/3wbTGRx1ggj8QKIdJXcgpl"
+    },
+    {
+      "added_at": "2026-08-28 04:02:11",
+      "album": {
         "name": "Sushi and Coca-Cola",
         "url": "https://open.spotify.com/album/3QSjD8VyfUBGICacKVLzk4"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 195413,
       "name": "Madelyn",
       "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
-    },
-    {
-      "added_at": "2026-08-28 04:02:11",
-      "album": {
-        "name": "The Illusion Of Love (feat. Lukas Nelson)",
-        "url": "https://open.spotify.com/album/2ORyv79ovybfjEdkR4OM9A"
-      },
-      "artists": [
-        {
-          "name": "Laci Kaye Booth",
-          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
-        },
-        {
-          "name": "Lukas Nelson",
-          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
-        }
-      ],
-      "duration_ms": 283427,
-      "name": "The Illusion Of Love (feat. Lukas Nelson)",
-      "url": "https://open.spotify.com/track/3wbTGRx1ggj8QKIdJXcgpl"
     },
     {
       "added_at": "2026-08-28 04:02:11",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-08-28 04:02:11",
       "album": {
+        "name": "Lost Child",
+        "url": "https://open.spotify.com/album/6JpOa88t7gWJ2rpjW8JQol"
+      },
+      "artists": [
+        {
+          "name": "Jim James",
+          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        }
+      ],
+      "duration_ms": 211346,
+      "name": "Lost Child",
+      "url": "https://open.spotify.com/track/12nINXObjFpoofWmixLUrD"
+    },
+    {
+      "added_at": "2026-08-28 04:02:11",
+      "album": {
         "name": "Beneath The Lilypad",
         "url": "https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 223164,
       "name": "Unforgivable",
       "url": "https://open.spotify.com/track/4YOrvi3CpPvX48symLER3H"
-    },
-    {
-      "added_at": "2026-08-28 04:02:11",
-      "album": {
-        "name": "Red Shoes",
-        "url": "https://open.spotify.com/album/2yhqbOrhAg2QcxeoivlFhA"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rose",
-          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Red Shoes",
-      "url": "https://open.spotify.com/track/5ncmt0HOOAeOaMnIM27RPJ"
     },
     {
       "added_at": "2026-08-28 04:02:11",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-08-28 04:02:11",
       "album": {
+        "name": "Red Shoes",
+        "url": "https://open.spotify.com/album/2yhqbOrhAg2QcxeoivlFhA"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Red Shoes",
+      "url": "https://open.spotify.com/track/5ncmt0HOOAeOaMnIM27RPJ"
+    },
+    {
+      "added_at": "2026-08-28 04:02:11",
+      "album": {
         "name": "Act I",
         "url": "https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 192463,
       "name": "Stay",
       "url": "https://open.spotify.com/track/353A1eattWX5QjVnE5yd5X"
-    },
-    {
-      "added_at": "2026-08-28 04:02:11",
-      "album": {
-        "name": "Lost Child",
-        "url": "https://open.spotify.com/album/6JpOa88t7gWJ2rpjW8JQol"
-      },
-      "artists": [
-        {
-          "name": "Jim James",
-          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
-        }
-      ],
-      "duration_ms": 211346,
-      "name": "Lost Child",
-      "url": "https://open.spotify.com/track/12nINXObjFpoofWmixLUrD"
     },
     {
       "added_at": "2026-08-28 04:02:11",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-08-28 04:02:11",
       "album": {
+        "name": "Overtime",
+        "url": "https://open.spotify.com/album/6nWI56pEGSVt0sKrF6CscK"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Krisko & The Broadcast",
+          "url": "https://open.spotify.com/artist/7EUd5VylN6IFwj3hb8VxkY"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Overtime",
+      "url": "https://open.spotify.com/track/02RFtV8Z2L3M4zOpGkJfKN"
+    },
+    {
+      "added_at": "2026-08-28 04:02:11",
+      "album": {
         "name": "Logan Ledger",
         "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 169076,
       "name": "In and Out of Love",
       "url": "https://open.spotify.com/track/44WS4ss6Rh3tbTkVwttvpV"
-    },
-    {
-      "added_at": "2026-08-28 04:02:11",
-      "album": {
-        "name": "Overtime",
-        "url": "https://open.spotify.com/album/6nWI56pEGSVt0sKrF6CscK"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Krisko & The Broadcast",
-          "url": "https://open.spotify.com/artist/7EUd5VylN6IFwj3hb8VxkY"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Overtime",
-      "url": "https://open.spotify.com/track/02RFtV8Z2L3M4zOpGkJfKN"
     },
     {
       "added_at": "2026-08-28 04:02:11",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-08-28 04:02:11",
       "album": {
+        "name": "Mariachi Static",
+        "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
+      },
+      "artists": [
+        {
+          "name": "Izaak Opatz",
+          "url": "https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G"
+        }
+      ],
+      "duration_ms": 238680,
+      "name": "Not Yet",
+      "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
+    },
+    {
+      "added_at": "2026-08-28 04:02:11",
+      "album": {
         "name": "Limerence",
         "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
       },
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2026-08-28 04:02:11",
       "album": {
-        "name": "Mariachi Static",
-        "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
+        "name": "Landfill Poetry",
+        "url": "https://open.spotify.com/album/0FQC88MBO0njsv7tnfBTI3"
       },
       "artists": [
         {
-          "name": "Izaak Opatz",
-          "url": "https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G"
+          "name": "Riley Downing",
+          "url": "https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6"
         }
       ],
-      "duration_ms": 238680,
-      "name": "Not Yet",
-      "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
+      "duration_ms": 257522,
+      "name": "Hay Hay Hay",
+      "url": "https://open.spotify.com/track/6VHLbJATDyuk4w4dWbe4aC"
     },
     {
       "added_at": "2026-08-28 04:02:11",
@@ -1231,22 +1247,6 @@
       "duration_ms": 258651,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
-    },
-    {
-      "added_at": "2026-08-28 04:02:11",
-      "album": {
-        "name": "Landfill Poetry",
-        "url": "https://open.spotify.com/album/0FQC88MBO0njsv7tnfBTI3"
-      },
-      "artists": [
-        {
-          "name": "Riley Downing",
-          "url": "https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6"
-        }
-      ],
-      "duration_ms": 257522,
-      "name": "Hay Hay Hay",
-      "url": "https://open.spotify.com/track/6VHLbJATDyuk4w4dWbe4aC"
     },
     {
       "added_at": "2026-08-28 04:02:11",

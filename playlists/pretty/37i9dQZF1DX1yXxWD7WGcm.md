@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 
 > Les classiques du zouk\. Photo : Slaï
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,770 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,789 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 | 49 | [Maldòn \- Version originale](https://open.spotify.com/track/6YoBe1FqFL5w10bQbemW16) | [Zouk Machine](https://open.spotify.com/artist/7g4xlENR9dJm09i7ADhi21) | [Maldòn \(La musique dans la peau\)](https://open.spotify.com/album/7zrPW2t1vhy9fjOfopjQYN) | 4:05 |
 | 50 | [Len Mou Raid](https://open.spotify.com/track/02RpRGFZrEJsUWAqL8DD9o) | [Battery Cremil](https://open.spotify.com/artist/7j1Cq8wprHBrqsNmRqsoSL) | [Les Grands Succès De Battery Cremil](https://open.spotify.com/album/5wZfN9IhRcseIZ9RZBMobL) | 5:37 |
 
-Snapshot ID: `AAAAAPhe0iIW2UCL0vGWjkpKZQHm4k9E`
+Snapshot ID: `AAAAAKFdlGueJDsrxq1h8NkHZq6p9ASb`

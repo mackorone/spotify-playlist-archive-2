@@ -4,7 +4,7 @@
 
 > Electronic music from AUS + NZ
 
-357 songs - 21 hr 53 min
+358 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Dafodil](https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Dafodil](https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb) | 3:32 | 2025-02-05 | 2025-04-09 |
 | [Damaged Goods](https://open.spotify.com/track/5j1APmJZ3ttRSlSB3H7Khk) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Damaged Goods](https://open.spotify.com/album/3yEgpFKYXoZmqN3iNnJznX) | 4:38 | 2026-03-18 | 2026-06-01 |
 | [Dance Machine](https://open.spotify.com/track/3GvWBH9g9FNW1rAmvFFDzR) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl) | [Dance Machine](https://open.spotify.com/album/5Gcp9tzpJvXtG0E55i4ZQq) | 3:28 | 2025-12-18 | 2026-02-20 |
+| [DANCEHEAD](https://open.spotify.com/track/2tXjGN9f9LVYWC7RROErvn) | [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [DANCEHEAD](https://open.spotify.com/album/0kUkx3KVTvBHeuzhwAN7m2) | 2:06 | 2026-04-23 |  |
 | [Dancing On My Own](https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Dancing On My Own](https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee) | 3:59 | 2025-01-09 | 2025-04-05 |
 | [Day Dreams of Beaches](https://open.spotify.com/track/3GL1f0x7YP9nGTpjWLx3RK) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [After Five EP](https://open.spotify.com/album/7qxveTR1w2VTKHwks2odXA) | 7:49 | 2025-02-05 | 2026-02-04 |
 | [Daydreaming](https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Daydreaming](https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz) | 3:03 | 2023-09-28 |  |
@@ -183,7 +184,7 @@
 | [It's All Here](https://open.spotify.com/track/2OcG6qGjgkW4zE7HYH0rN9) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [It's All Here](https://open.spotify.com/album/6slPM9uKXBhPF1hp8kMuaF) | 4:44 | 2025-10-09 |  |
 | [Joy In The Morning \(feat\. Chrome Sparks\)](https://open.spotify.com/track/06ETw1BcQZSbimPaKjdB5Z) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Joy In The Morning \(feat\. Chrome Sparks\)](https://open.spotify.com/album/7HwXrG10cc8BqUfZtQOLHR) | 4:45 | 2022-12-01 | 2022-12-16 |
 | [JUST A BEAT](https://open.spotify.com/track/0Ii2qImvnAB6eFNBHFIMk3) | [weirdtechnogirlfriend](https://open.spotify.com/artist/48rdFIAjyZud68hCEKoiWC), [PAUL LE BÁY](https://open.spotify.com/artist/158VfpLQK95rtUjwRsk8vn), [WTG & PLB](https://open.spotify.com/artist/6KtOZetajL2lUGSl60goQq) | [JUST A BEAT](https://open.spotify.com/album/3mfcOBJlCxcCiL1tnFAmkQ) | 3:43 | 2025-10-17 | 2026-01-03 |
-| [Keep Up](https://open.spotify.com/track/1posBKEgD6xCwLZVu5JpLl) | [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm) | [Keep Up](https://open.spotify.com/album/4SDqBoOMC07Q2ObQBQrQ39) | 3:30 | 2022-12-01 |  |
+| [Keep Up](https://open.spotify.com/track/1posBKEgD6xCwLZVu5JpLl) | [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm) | [Keep Up](https://open.spotify.com/album/4SDqBoOMC07Q2ObQBQrQ39) | 3:30 | 2022-12-01 | 2026-09-01 |
 | [Kiss of Life](https://open.spotify.com/track/531oORUFaQlyww27Hs01hx) | [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh), [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f), [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm) | [Kiss of Life](https://open.spotify.com/album/2WvfkTnf2ZW3CWvgNoT713) | 5:28 | 2025-02-05 | 2025-08-01 |
 | [Kryptonite \(feat\. Julia Temos\)](https://open.spotify.com/track/2uMP2WzQTyU4uyOEdfm2WY) | [JYYE](https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb), [Julia Temos](https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac) | [Kryptonite](https://open.spotify.com/album/5vaQxSQf6pano3BHr9VQzG) | 2:10 | 2022-12-01 | 2023-01-13 |
 | [Let Me Say This](https://open.spotify.com/track/19iQuyF5zc3zT1LdY3y5G7) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Home Is True](https://open.spotify.com/album/5sCZV4unPO5Hme36JC0ZFH) | 4:12 | 2026-04-23 | 2026-04-28 |

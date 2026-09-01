@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Skyla Tyla, Chloë
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,210 likes - 60 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,253 likes - 60 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 | 59 | [Desert Rose \- Zakes Bantwini Remix](https://open.spotify.com/track/3CyoDLCftJcWri0FKjQ4oT) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Desert Rose \(Reimagined\)](https://open.spotify.com/album/6xKAtFQb75Q5eK3dwgVBy5) | 4:30 |
 | 60 | [Yuapi ?](https://open.spotify.com/track/4Cfj16a3sv3Q5CYBkgufvD) | [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [Winyo](https://open.spotify.com/artist/0xYZnLkJHs6y9Ts7Yq2C1C), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Yuapi ?](https://open.spotify.com/album/6WCBXaK8YMq9HUMd883Ct1) | 6:42 |
 
-Snapshot ID: `AAAAAGrk9iY9QDy3WwUkU2/rOEVKuCQs`
+Snapshot ID: `AAAAAEJBBuzGbEL2H/KK/sHl09lKqOeB`

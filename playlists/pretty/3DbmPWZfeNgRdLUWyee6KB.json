@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAXhfo5KSquNi2juP12h0mXfNOZlOW5",
+  "snapshot_id": "AAAXhrBvbRvwCDoxS24N0JKgSKOZJROr",
   "tracks": [
     {
       "added_at": "2026-08-21 09:03:00",
@@ -1475,6 +1475,22 @@
       "duration_ms": 162666,
       "name": "Dream Again",
       "url": "https://open.spotify.com/track/4D0P4TCJqjK3hzxwPcu3sB"
+    },
+    {
+      "added_at": "2026-08-31 09:20:49",
+      "album": {
+        "name": "Loophole",
+        "url": "https://open.spotify.com/album/5aMFB6z220sBgH2nlnXboe"
+      },
+      "artists": [
+        {
+          "name": "Inorganic Era",
+          "url": "https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY"
+        }
+      ],
+      "duration_ms": 274799,
+      "name": "Loophole",
+      "url": "https://open.spotify.com/track/55MQNMrirlAqMne0FmNiNd"
     }
   ],
   "unique_name": "New Indie Music",

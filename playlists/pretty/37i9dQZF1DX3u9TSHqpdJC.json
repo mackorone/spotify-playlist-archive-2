@@ -1,12 +1,12 @@
 {
   "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Lauren Juzang Artwork by Paola Saliby",
-  "num_followers": 242288,
+  "num_followers": 242292,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGGmUbqx6W5nHUH/4HW2M2azXSoQ",
+  "snapshot_id": "AAAAADfxprdXOxpG4XRrVNhL0FZL4uqu",
   "tracks": [
     {
       "added_at": "2026-08-26 04:00:39",
@@ -421,7 +421,11 @@
         },
         {
           "name": "Eli McAleny",
-          "url": "https://open.spotify.com/artist/5wygSRMx1cdP30d3IkZTsD"
+          "url": "https://open.spotify.com/artist/0OZPgJbAP7M2mpLVJRJm1T"
+        },
+        {
+          "name": "Sophia Willingham and Eli McAleny",
+          "url": "https://open.spotify.com/artist/7zWrEyHeS4bEuVx1YEi4EC"
         }
       ],
       "duration_ms": 132983,

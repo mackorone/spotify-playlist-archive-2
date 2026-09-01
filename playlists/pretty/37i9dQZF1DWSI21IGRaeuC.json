@@ -1,12 +1,12 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Josh Baker",
-  "num_followers": 89341,
+  "num_followers": 89382,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEM06ig73/nQcUQCRxiZB2GtWr8H",
+  "snapshot_id": "AAAAAEUX+UtZE4QXJ9n17IX7xXZKqGsl",
   "tracks": [
     {
       "added_at": "2026-08-28 04:01:45",
@@ -107,6 +107,22 @@
     {
       "added_at": "2026-08-28 04:01:45",
       "album": {
+        "name": "1997",
+        "url": "https://open.spotify.com/album/0Ps0Yj6bbMoO65Ll7PsPO7"
+      },
+      "artists": [
+        {
+          "name": "Beave",
+          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "1997 - Radio Edit",
+      "url": "https://open.spotify.com/track/1u84J8DVyePh6h2Ru7K2Cp"
+    },
+    {
+      "added_at": "2026-08-28 04:01:45",
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/3eISzBDmXKKLPaQOIPWqg9"
       },
@@ -177,30 +193,6 @@
       "url": "https://open.spotify.com/track/2lnybFoHZJxJVkYwXXrNd2"
     },
     {
-      "added_at": "2026-08-28 04:01:45",
-      "album": {
-        "name": "Echoes From The 90s",
-        "url": "https://open.spotify.com/album/7mOkoTACtQ51YEOlW2Rv0D"
-      },
-      "artists": [
-        {
-          "name": "Desmond",
-          "url": "https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY"
-        },
-        {
-          "name": "Summum",
-          "url": "https://open.spotify.com/artist/1uHoVy6fKhUB3IO5EyWAMw"
-        },
-        {
-          "name": "Atlantic Ocean",
-          "url": "https://open.spotify.com/artist/33RLygRVVK3UShsvflkb5M"
-        }
-      ],
-      "duration_ms": 195114,
-      "name": "Echoes From The 90s",
-      "url": "https://open.spotify.com/track/7ImUOhb1xKibBXXJVZ7PK5"
-    },
-    {
       "added_at": "2026-08-14 04:01:21",
       "album": {
         "name": "Late Night Baddies",
@@ -223,22 +215,6 @@
       "duration_ms": 178181,
       "name": "Late Night Baddies",
       "url": "https://open.spotify.com/track/5r0GbOsD3zxVvmlLcpSeGD"
-    },
-    {
-      "added_at": "2026-08-28 04:01:45",
-      "album": {
-        "name": "Body Movin'",
-        "url": "https://open.spotify.com/album/3y1eD8HIDch9V3pdQ7SyXT"
-      },
-      "artists": [
-        {
-          "name": "Fede Aliprandi",
-          "url": "https://open.spotify.com/artist/6iURGquLjP3XERe3u4bZwB"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Body Movin'",
-      "url": "https://open.spotify.com/track/0JLin9DOxovyWW3Y9PWGYB"
     },
     {
       "added_at": "2026-07-24 04:01:33",
@@ -341,6 +317,22 @@
       "url": "https://open.spotify.com/track/2PKGJK3Kldd4DHJNzSFWJD"
     },
     {
+      "added_at": "2026-08-28 04:01:45",
+      "album": {
+        "name": "Body Movin'",
+        "url": "https://open.spotify.com/album/3y1eD8HIDch9V3pdQ7SyXT"
+      },
+      "artists": [
+        {
+          "name": "Fede Aliprandi",
+          "url": "https://open.spotify.com/artist/6iURGquLjP3XERe3u4bZwB"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Body Movin'",
+      "url": "https://open.spotify.com/track/0JLin9DOxovyWW3Y9PWGYB"
+    },
+    {
       "added_at": "2026-08-14 04:01:21",
       "album": {
         "name": "Loving You",
@@ -379,18 +371,26 @@
     {
       "added_at": "2026-08-28 04:01:45",
       "album": {
-        "name": "1997",
-        "url": "https://open.spotify.com/album/0Ps0Yj6bbMoO65Ll7PsPO7"
+        "name": "Echoes From The 90s",
+        "url": "https://open.spotify.com/album/7mOkoTACtQ51YEOlW2Rv0D"
       },
       "artists": [
         {
-          "name": "Beave",
-          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
+          "name": "Desmond",
+          "url": "https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY"
+        },
+        {
+          "name": "Summum",
+          "url": "https://open.spotify.com/artist/1uHoVy6fKhUB3IO5EyWAMw"
+        },
+        {
+          "name": "Atlantic Ocean",
+          "url": "https://open.spotify.com/artist/33RLygRVVK3UShsvflkb5M"
         }
       ],
-      "duration_ms": 160000,
-      "name": "1997 - Radio Edit",
-      "url": "https://open.spotify.com/track/1u84J8DVyePh6h2Ru7K2Cp"
+      "duration_ms": 195114,
+      "name": "Echoes From The 90s",
+      "url": "https://open.spotify.com/track/7ImUOhb1xKibBXXJVZ7PK5"
     },
     {
       "added_at": "2026-08-21 04:01:27",

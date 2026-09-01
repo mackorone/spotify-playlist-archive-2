@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,128 likes - 253 songs - 11 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,792 likes - 253 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -262,4 +262,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 252 | [Aeolian](https://open.spotify.com/track/5x2OsAflQhIXyAQ1zeTFII) | [Qualeis](https://open.spotify.com/artist/6HaHca1Dcrxamb4r1b0eig) | [Aeolian](https://open.spotify.com/album/5UfZsuUAgakVV1gRBUNxDX) | 2:39 |
 | 253 | [Nattskärra](https://open.spotify.com/track/066Uh3GE4k6K18PIooSScs) | [Nordan](https://open.spotify.com/artist/3TYnzUsJ9UUWSwmphRiqct) | [Nattskärra](https://open.spotify.com/album/1Y6yXs3DjMm3BkGfoZaNZf) | 2:29 |
 
-Snapshot ID: `AAAAAHq6SzDOt7Gkb8tme32L7R3rj6Fq`
+Snapshot ID: `AAAAANlfDMTj5wXfgGWtkGcIHYHDNBUj`

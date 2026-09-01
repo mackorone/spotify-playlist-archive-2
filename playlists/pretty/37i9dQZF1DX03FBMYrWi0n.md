@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > L’alternatif québécois à plein volume\. Photo: Félix Collin
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,844 likes - 64 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,853 likes - 64 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [sex & cigarettes](https://open.spotify.com/track/2c0wJGVHOWxnWtsapZ7c27) | [Félix Collin](https://open.spotify.com/artist/1LdaP4F8M6XzkmVAfsSQ1s) | [sex & cigarettes](https://open.spotify.com/album/22xLfdzlheaZWVMhS64Jzu) | 2:27 |
-| 2 | [l'amour aux temps des samouraïs](https://open.spotify.com/track/1LRSwBWbPzKuErSvgxDASg) | [bombe](https://open.spotify.com/artist/2nIB3sr0BUuzxwzT0mPzkJ) | [un](https://open.spotify.com/album/6SjdcfhxNxeeweKfbmLnWc) | 2:57 |
-| 3 | [SEXES](https://open.spotify.com/track/4rGBIXMqaemPtSwX6vvetf) | [6ODEM3](https://open.spotify.com/artist/3u9sQ57bL4NrnDzJd2XLMW) | [SEXES](https://open.spotify.com/album/1ptCeHbHMNjDD3m67NIY2T) | 3:10 |
+| 1 | [SEXES](https://open.spotify.com/track/4rGBIXMqaemPtSwX6vvetf) | [6ODEM3](https://open.spotify.com/artist/3u9sQ57bL4NrnDzJd2XLMW) | [SEXES](https://open.spotify.com/album/1ptCeHbHMNjDD3m67NIY2T) | 3:10 |
+| 2 | [Intentions](https://open.spotify.com/track/3OEQakVwazPEzEMz6UvPYP) | [Lewis Dice](https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea) | [Intentions](https://open.spotify.com/album/6cdUcv8WVnmOPY3L9LBeFo) | 2:51 |
+| 3 | [l'amour aux temps des samouraïs](https://open.spotify.com/track/1LRSwBWbPzKuErSvgxDASg) | [bombe](https://open.spotify.com/artist/2nIB3sr0BUuzxwzT0mPzkJ) | [un](https://open.spotify.com/album/6SjdcfhxNxeeweKfbmLnWc) | 2:57 |
 | 4 | [south durham](https://open.spotify.com/track/6OSjA2o2aocQXtGFcaOiqx) | [gabno](https://open.spotify.com/artist/7ARDCeWQmzV4krCOTXSNVp) | [south durham](https://open.spotify.com/album/0EDQJI9pbPOLSoOLIpGvw5) | 3:21 |
-| 5 | [Bad News](https://open.spotify.com/track/5axFVupg57hf7xoiUSiprW) | [Les Shirley](https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer) | [Bad News](https://open.spotify.com/album/72jtXGWPmEACJ2fLqnBaND) | 3:07 |
-| 6 | [Intentions](https://open.spotify.com/track/3OEQakVwazPEzEMz6UvPYP) | [Lewis Dice](https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea) | [Intentions](https://open.spotify.com/album/6cdUcv8WVnmOPY3L9LBeFo) | 2:51 |
-| 7 | [merci la vie](https://open.spotify.com/track/10cdEg6FXk3Ncj1YRCLjAS) | [Aléatoire](https://open.spotify.com/artist/2JRumJlhEUldbSC3uUSnZI) | [merci la vie](https://open.spotify.com/album/0nNlOWs8MzEJT5bPa0JZjX) | 2:55 |
-| 8 | [Parasite](https://open.spotify.com/track/6G0uN4xFNscQUhIVcx937i) | [Bouvier Normal](https://open.spotify.com/artist/2G8gEx2sMExNaXJVyy7nCp) | [2TH](https://open.spotify.com/album/0b0ruOKOLou5EeWPy1bu7O) | 2:40 |
-| 9 | [PROTOTYPE](https://open.spotify.com/track/4ncsO7T7LmoFHMYoKwmKJr) | [Madior](https://open.spotify.com/artist/3cdwLYdGtZInbXDeKrFy2b) | [PROTOTYPE](https://open.spotify.com/album/4l0IEz2k1Lb3RfmbbZ681o) | 2:16 |
-| 10 | [1 000 000 de problèmes](https://open.spotify.com/track/2QLNaHqtcN5EXgGeAG0Mov) | [Élégie](https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0) | [1 000 000 de problèmes](https://open.spotify.com/album/1VbX4htOwGdywxsxLaeWwE) | 2:16 |
-| 11 | [Soleil](https://open.spotify.com/track/75uP9bwpxidn9hSIBGfzG9) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [Soleil](https://open.spotify.com/album/7CUa6VocVNePJHKTSLdruZ) | 4:14 |
-| 12 | [funny easy time](https://open.spotify.com/track/06vdhBImZ4PLQg2x7ml8k0) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Carousel](https://open.spotify.com/album/48sI9IyvLd7D0fhd9GfGpy) | 2:05 |
-| 13 | [Doldrums, Doldrums, Eviler Than the Devil](https://open.spotify.com/track/21B5u01vKRfYXg8jQqrO2g) | [Yoo Doo Right](https://open.spotify.com/artist/2pVonF82aN2ttqFHsynVeW) | [Doldrums, Doldrums, Eviler Than the Devil](https://open.spotify.com/album/2vacwkvhTf36j9UIbxkONL) | 6:07 |
-| 14 | [half smile](https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [half smile](https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A) | 3:48 |
-| 15 | [Correct](https://open.spotify.com/track/3rePvNyj1VwHKnlMngBrUk) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Correct](https://open.spotify.com/album/3FyxSOLf5zrWgC7Osw3peU) | 4:46 |
-| 16 | [Corps \(feat\. Lou\-Adriane Cassidy\)](https://open.spotify.com/track/48I3m74TUAtdBmk5xyklGO) | [N NAO](https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Nouveaux Langages](https://open.spotify.com/album/0uGm7gP2TlLQISgxs4I3P3) | 3:18 |
-| 17 | [La fin](https://open.spotify.com/track/4v5IWJ2Z5ArbTZ3HvEQYTn) | [Grace of Arc](https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t) | [La fin](https://open.spotify.com/album/5IuaeN0TAUV2I3g3QNXEq4) | 3:40 |
-| 18 | [Si Vous Redo](https://open.spotify.com/track/5l94jgdvC6JoC6sqZxYn4b) | [SAMWOY](https://open.spotify.com/artist/4khtCx57NpDeXO1miYSmvO) | [Si Vous Redo](https://open.spotify.com/album/5zt6oAvv4J5He5JpZhergm) | 3:45 |
-| 19 | [Peur dans l'parc](https://open.spotify.com/track/26udX1kImizbH9W9xcz3YR) | [PRINCESSES](https://open.spotify.com/artist/6xxREfIH6g5mdbVCcxaxLA) | [Peur dans l'parc](https://open.spotify.com/album/2mtk4EXJodCwZxTEA9GY89) | 3:31 |
+| 5 | [Si Vous Redo](https://open.spotify.com/track/5l94jgdvC6JoC6sqZxYn4b) | [SAMWOY](https://open.spotify.com/artist/4khtCx57NpDeXO1miYSmvO) | [Si Vous Redo](https://open.spotify.com/album/5zt6oAvv4J5He5JpZhergm) | 3:45 |
+| 6 | [Peur dans l'parc](https://open.spotify.com/track/26udX1kImizbH9W9xcz3YR) | [PRINCESSES](https://open.spotify.com/artist/6xxREfIH6g5mdbVCcxaxLA) | [Peur dans l'parc](https://open.spotify.com/album/2mtk4EXJodCwZxTEA9GY89) | 3:31 |
+| 7 | [Bad News](https://open.spotify.com/track/5axFVupg57hf7xoiUSiprW) | [Les Shirley](https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer) | [Bad News](https://open.spotify.com/album/72jtXGWPmEACJ2fLqnBaND) | 3:07 |
+| 8 | [sex & cigarettes](https://open.spotify.com/track/2c0wJGVHOWxnWtsapZ7c27) | [Félix Collin](https://open.spotify.com/artist/1LdaP4F8M6XzkmVAfsSQ1s) | [sex & cigarettes](https://open.spotify.com/album/22xLfdzlheaZWVMhS64Jzu) | 2:27 |
+| 9 | [merci la vie](https://open.spotify.com/track/10cdEg6FXk3Ncj1YRCLjAS) | [Aléatoire](https://open.spotify.com/artist/2JRumJlhEUldbSC3uUSnZI) | [merci la vie](https://open.spotify.com/album/0nNlOWs8MzEJT5bPa0JZjX) | 2:55 |
+| 10 | [Parasite](https://open.spotify.com/track/6G0uN4xFNscQUhIVcx937i) | [Bouvier Normal](https://open.spotify.com/artist/2G8gEx2sMExNaXJVyy7nCp) | [2TH](https://open.spotify.com/album/0b0ruOKOLou5EeWPy1bu7O) | 2:40 |
+| 11 | [PROTOTYPE](https://open.spotify.com/track/4ncsO7T7LmoFHMYoKwmKJr) | [Madior](https://open.spotify.com/artist/3cdwLYdGtZInbXDeKrFy2b) | [PROTOTYPE](https://open.spotify.com/album/4l0IEz2k1Lb3RfmbbZ681o) | 2:16 |
+| 12 | [1 000 000 de problèmes](https://open.spotify.com/track/2QLNaHqtcN5EXgGeAG0Mov) | [Élégie](https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0) | [1 000 000 de problèmes](https://open.spotify.com/album/1VbX4htOwGdywxsxLaeWwE) | 2:16 |
+| 13 | [Soleil](https://open.spotify.com/track/75uP9bwpxidn9hSIBGfzG9) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [Soleil](https://open.spotify.com/album/7CUa6VocVNePJHKTSLdruZ) | 4:14 |
+| 14 | [funny easy time](https://open.spotify.com/track/06vdhBImZ4PLQg2x7ml8k0) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Carousel](https://open.spotify.com/album/48sI9IyvLd7D0fhd9GfGpy) | 2:05 |
+| 15 | [Doldrums, Doldrums, Eviler Than the Devil](https://open.spotify.com/track/21B5u01vKRfYXg8jQqrO2g) | [Yoo Doo Right](https://open.spotify.com/artist/2pVonF82aN2ttqFHsynVeW) | [Doldrums, Doldrums, Eviler Than the Devil](https://open.spotify.com/album/2vacwkvhTf36j9UIbxkONL) | 6:07 |
+| 16 | [half smile](https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [half smile](https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A) | 3:48 |
+| 17 | [Correct](https://open.spotify.com/track/3rePvNyj1VwHKnlMngBrUk) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Correct](https://open.spotify.com/album/3FyxSOLf5zrWgC7Osw3peU) | 4:46 |
+| 18 | [Corps \(feat\. Lou\-Adriane Cassidy\)](https://open.spotify.com/track/48I3m74TUAtdBmk5xyklGO) | [N NAO](https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Nouveaux Langages](https://open.spotify.com/album/0uGm7gP2TlLQISgxs4I3P3) | 3:18 |
+| 19 | [La fin](https://open.spotify.com/track/4v5IWJ2Z5ArbTZ3HvEQYTn) | [Grace of Arc](https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t) | [La fin](https://open.spotify.com/album/5IuaeN0TAUV2I3g3QNXEq4) | 3:40 |
 | 20 | [countryside](https://open.spotify.com/track/4sabkYnGutLOU6zhDn9Phd) | [ACHEL](https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW), [lilaash](https://open.spotify.com/artist/729vgKeCJUtP8bNXc8v9Rl) | [countryside](https://open.spotify.com/album/4Mo5C6wDYX0tzO0cdS1Ac9) | 3:01 |
 | 21 | [suffering](https://open.spotify.com/track/6eVQyex4HewJ6YQbLIDG41) | [distantiate](https://open.spotify.com/artist/5b6MSXdOA8tITIBpGwlmej), [Grimsies](https://open.spotify.com/artist/5SkFIMCaEhQzw2Sd4dukfh) | [you left me alone](https://open.spotify.com/album/1PvBVr8Z7zaeZHzQq3EXBo) | 1:56 |
 | 22 | [Bang Bang](https://open.spotify.com/track/30rmOWu5OHa9uP6nw8wRhJ) | [Dear Youth](https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG) | [Bang Bang](https://open.spotify.com/album/5j2drAMExkO13GFO7yC7SY) | 2:44 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 63 | [Burn the Bridges](https://open.spotify.com/track/4OYRrA8plQ4p2whMAvHaqX) | [Horse](https://open.spotify.com/artist/10C4K8Q8euwMy59wDBVWNL) | [Burn the Bridges](https://open.spotify.com/album/07i7Iq0mIc8h4TUDCbOegS) | 4:25 |
 | 64 | [C'est normal](https://open.spotify.com/track/6BGtsJWx1z2Azuc7Y9aVgy) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge) | [C'est normal](https://open.spotify.com/album/2ih55fk339v9wUvBuB4b9c) | 4:16 |
 
-Snapshot ID: `AAAAAJTVwQRr7MSd46Wva0KW7mfGNLtz`
+Snapshot ID: `AAAAAJrcw2tjCBn9ZX9Szhw6iv9osCuE`

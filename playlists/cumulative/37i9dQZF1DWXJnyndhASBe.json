@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: francis, Sobel",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Otsochodzi",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -5836,7 +5836,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 215454,
       "name": "Dla Ciebie",
       "url": "https://open.spotify.com/track/2zRH9fnQTo6P8KcxUsCuAn"
@@ -14730,6 +14730,24 @@
       "duration_ms": 185624,
       "name": "na bomb\u0119",
       "url": "https://open.spotify.com/track/1oMOYIGc9IOJ6N8DqxwkRN"
+    },
+    {
+      "album": {
+        "name": "2040: S\u0141AWA",
+        "url": "https://open.spotify.com/album/7ugccgKG2mjsX10MSAuxnX"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100236,
+      "name": "na granicy cringu",
+      "url": "https://open.spotify.com/track/4oLidBO61XRUimRqdv7BI9"
     },
     {
       "album": {

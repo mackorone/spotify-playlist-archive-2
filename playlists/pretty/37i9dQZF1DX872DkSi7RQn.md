@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 
 > The IDs that got us here\. \#Spotify20
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,151 likes - 95 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,153 likes - 95 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 47 | [What They Say](https://open.spotify.com/track/5S7Y5HgQ2HPqiCVkKylT2r) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [What They Say EP](https://open.spotify.com/album/0DECxh5mdTBhB2Rw9qE7UI) | 6:40 |
 | 48 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |
 | 49 | [Knights of the Jaguar](https://open.spotify.com/track/3xxARypr8NdEMesYUHSsGK) | [Rolando](https://open.spotify.com/artist/0s1ELavwiZMFYDL31VDJpx) | [Paradise Garage: Inspirations](https://open.spotify.com/album/7dTbTFJlJ1xzjnoXKxIKeC) | 6:37 |
-| 50 | [Operator \- DJ Koze's Disco Edit](https://open.spotify.com/track/37ZDfygEHF7SMoYGDqM1uv) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Operator \(DJ Koze's 12 inch Extended Disco Versions\)](https://open.spotify.com/album/2k4POCag6LGhJ83pgcub52) | 5:08 |
-| 51 | [Bad Kingdom](https://open.spotify.com/track/52XjrfqvrxaMtjCDYEKkXN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [II](https://open.spotify.com/album/1udCeAJjxGO8BuhDbpvVJv) | 4:22 |
-| 52 | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/track/4bojrlaIBAWtOntcIH29Kt) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyrone Dee](https://open.spotify.com/artist/7xjxiSO9chy2VFLMbCkyog) | [Lucent](https://open.spotify.com/album/0zJPWuHZWvGyw8urFFcxxx) | 6:31 |
+| 50 | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/track/4bojrlaIBAWtOntcIH29Kt) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyrone Dee](https://open.spotify.com/artist/7xjxiSO9chy2VFLMbCkyog) | [Lucent](https://open.spotify.com/album/0zJPWuHZWvGyw8urFFcxxx) | 6:31 |
+| 51 | [Operator \- DJ Koze's Disco Edit](https://open.spotify.com/track/37ZDfygEHF7SMoYGDqM1uv) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Operator \(DJ Koze's 12 inch Extended Disco Versions\)](https://open.spotify.com/album/2k4POCag6LGhJ83pgcub52) | 5:08 |
+| 52 | [Bad Kingdom](https://open.spotify.com/track/52XjrfqvrxaMtjCDYEKkXN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [II](https://open.spotify.com/album/1udCeAJjxGO8BuhDbpvVJv) | 4:22 |
 | 53 | [Baby](https://open.spotify.com/track/0wPfUQUkWcguy2iUH0BWOT) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 4:24 |
 | 54 | [Carry On](https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 3:46 |
 | 55 | [Hungry for the Power \- Jamie Jones Ridge Street Mix](https://open.spotify.com/track/0FHycpsDC6uJCFkGXq4kPw) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc) | [Hungry for the Power](https://open.spotify.com/album/2Mx9JygkHhf6juiAPLiODy) | 6:46 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 77 | [Hackney Parrot](https://open.spotify.com/track/170ukLhJmsiTNqLHbNtcsG) | [Tessela](https://open.spotify.com/artist/1ZgWT8v2NTxXJapNzqJMnd) | [Hackney Parrot / Helter Skelter](https://open.spotify.com/album/6Dc87OjfKGyKAI6DVTLuzN) | 5:44 |
 | 78 | [Installation](https://open.spotify.com/track/7BUGB7cqJQtyNdLD7MtrGr) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Changing Channels](https://open.spotify.com/album/3bKp9TUgbHGhfRBsTQTAxS) | 3:43 |
 | 79 | [el cielo no es de nadie](https://open.spotify.com/track/6ZJdW1sZg4zATn9EKih013) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 4:21 |
-| 80 | [Theme from Q](https://open.spotify.com/track/7Bzyr2VDVOAIU4o0KpSWnp) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Objekt \#4](https://open.spotify.com/album/1dMTbnutjku3NdjGjsN3zK) | 7:20 |
-| 81 | [Trans Love Vibration \(Eris Goes to Church\)](https://open.spotify.com/track/2pu66iltKEpEmVx1aK8wRh) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Devotion](https://open.spotify.com/album/2e7LQqvJdInqGHnjEIsAaJ) | 5:04 |
+| 80 | [Trans Love Vibration \(Eris Goes to Church\)](https://open.spotify.com/track/2pu66iltKEpEmVx1aK8wRh) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Devotion](https://open.spotify.com/album/2e7LQqvJdInqGHnjEIsAaJ) | 5:04 |
+| 81 | [Theme from Q](https://open.spotify.com/track/7Bzyr2VDVOAIU4o0KpSWnp) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Objekt \#4](https://open.spotify.com/album/1dMTbnutjku3NdjGjsN3zK) | 7:20 |
 | 82 | [Cutie](https://open.spotify.com/track/4JdUdTVkEDNFZtzyW8hBZH) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Cutie](https://open.spotify.com/album/0xhMSimANUFkwXpS5n1HSl) | 6:24 |
 | 83 | [Regret](https://open.spotify.com/track/0hhu27TVhfBKjIvKOL83IQ) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [From the Heart, It's a Start, A Work of Art](https://open.spotify.com/album/6CRb9D4dG00bz36EAucgHy) | 9:47 |
 | 84 | [Roadkill](https://open.spotify.com/track/70bNn1Q83HtKuySvCTOh7M) | [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI) | [HYBRID: A Decade Of Dubfire](https://open.spotify.com/album/6XMKjGOdmOQBAs1ogp4B0Y) | 8:16 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 94 | [Let It Go \(with Marc E\. Bassy\)](https://open.spotify.com/track/3TvNcBtucVO8flCgst1ESc) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Let It Go \(with Marc E\. Bassy\)](https://open.spotify.com/album/3yAuFFA0zd9J0sJi3JGpvt) | 3:24 |
 | 95 | [Beg \- Hot Since 82 Future Mix](https://open.spotify.com/track/4RjnbnZ6xGHDYFbywiiQ3I) | [Yousef](https://open.spotify.com/artist/6qIx4vKCCV9aW1CvTR3GES), [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Beg](https://open.spotify.com/album/00Pe7GWhQLFpqv6Ir1zW86) | 6:50 |
 
-Snapshot ID: `AAAAAIKddRn6hcVgNm/4ZwuaTRtCOLDI`
+Snapshot ID: `AAAAAFQr7SIQHA5S6PPfeLhWDYUYOOnX`

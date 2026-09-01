@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Djavan",
-  "num_followers": 353132,
+  "num_followers": 353125,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAvrdP0fJEpbwd7v9AqXw51Naen8",
+  "snapshot_id": "AAAAANujaEtWGcEFF5VdlZsz78fPh6Y+",
   "tracks": [
     {
       "added_at": "2026-08-28 17:58:55",
@@ -455,6 +455,26 @@
     {
       "added_at": "2026-08-28 17:58:55",
       "album": {
+        "name": "Varandas",
+        "url": "https://open.spotify.com/album/5B14FMEHwBSCZxdiVsyjHB"
+      },
+      "artists": [
+        {
+          "name": "Marcos Almeida",
+          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 223680,
+      "name": "Varandas",
+      "url": "https://open.spotify.com/track/7aaPnDpWx2VZElrxyYXIB3"
+    },
+    {
+      "added_at": "2026-08-28 17:58:55",
+      "album": {
         "name": "ContraTempo",
         "url": "https://open.spotify.com/album/0iUFckwT5vRbdMHzUe4ktq"
       },
@@ -475,22 +495,22 @@
     {
       "added_at": "2026-08-28 17:58:55",
       "album": {
-        "name": "Varandas",
-        "url": "https://open.spotify.com/album/5B14FMEHwBSCZxdiVsyjHB"
+        "name": "Dr\u00e3o",
+        "url": "https://open.spotify.com/album/4TGsSN1w7Pgm888HMSW4mq"
       },
       "artists": [
         {
-          "name": "Marcos Almeida",
-          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
+          "name": "Trio Mana Flor",
+          "url": "https://open.spotify.com/artist/6ukYLqyY9U2iLEzikHCkNT"
         },
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "M\u00e3eana",
+          "url": "https://open.spotify.com/artist/4wMwIE7PB2nb4S6bI5ZlJE"
         }
       ],
-      "duration_ms": 223680,
-      "name": "Varandas",
-      "url": "https://open.spotify.com/track/7aaPnDpWx2VZElrxyYXIB3"
+      "duration_ms": 205415,
+      "name": "Dr\u00e3o",
+      "url": "https://open.spotify.com/track/3iULRVHchU7ARgxHrIzsTS"
     },
     {
       "added_at": "2026-08-28 17:58:55",
@@ -535,26 +555,6 @@
       "duration_ms": 276459,
       "name": "River Man",
       "url": "https://open.spotify.com/track/2ApJEk0TXkQPNSBqsrAFb9"
-    },
-    {
-      "added_at": "2026-08-28 17:58:55",
-      "album": {
-        "name": "Dr\u00e3o",
-        "url": "https://open.spotify.com/album/4TGsSN1w7Pgm888HMSW4mq"
-      },
-      "artists": [
-        {
-          "name": "Trio Mana Flor",
-          "url": "https://open.spotify.com/artist/6ukYLqyY9U2iLEzikHCkNT"
-        },
-        {
-          "name": "M\u00e3eana",
-          "url": "https://open.spotify.com/artist/4wMwIE7PB2nb4S6bI5ZlJE"
-        }
-      ],
-      "duration_ms": 205415,
-      "name": "Dr\u00e3o",
-      "url": "https://open.spotify.com/track/3iULRVHchU7ARgxHrIzsTS"
     },
     {
       "added_at": "2026-08-28 17:58:55",
@@ -671,18 +671,22 @@
     {
       "added_at": "2026-08-28 17:58:55",
       "album": {
-        "name": "Relevuras",
-        "url": "https://open.spotify.com/album/1OEJBUlrbK9kHySgk4w09h"
+        "name": "Esgotada",
+        "url": "https://open.spotify.com/album/63C8OnR5KLcXiEuNN6cwhl"
       },
       "artists": [
         {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        },
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
         }
       ],
-      "duration_ms": 217666,
-      "name": "Relevuras",
-      "url": "https://open.spotify.com/track/08qckn16nhCWxNGFOihPFD"
+      "duration_ms": 238608,
+      "name": "Atitude",
+      "url": "https://open.spotify.com/track/7Ai5LRVMMervzHZpbLeFTb"
     },
     {
       "added_at": "2026-08-28 17:58:55",
@@ -707,22 +711,18 @@
     {
       "added_at": "2026-08-28 17:58:55",
       "album": {
-        "name": "Esgotada",
-        "url": "https://open.spotify.com/album/63C8OnR5KLcXiEuNN6cwhl"
+        "name": "Relevuras",
+        "url": "https://open.spotify.com/album/1OEJBUlrbK9kHySgk4w09h"
       },
       "artists": [
         {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
-        },
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
         }
       ],
-      "duration_ms": 238608,
-      "name": "Atitude",
-      "url": "https://open.spotify.com/track/7Ai5LRVMMervzHZpbLeFTb"
+      "duration_ms": 217666,
+      "name": "Relevuras",
+      "url": "https://open.spotify.com/track/08qckn16nhCWxNGFOihPFD"
     },
     {
       "added_at": "2026-08-28 17:58:55",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2026-08-28 17:58:55",
       "album": {
-        "name": "Eu Venho de Longe",
-        "url": "https://open.spotify.com/album/6TXoief9M9RhmIPA3Qt2iG"
+        "name": "Agudo Grave",
+        "url": "https://open.spotify.com/album/4YWEwa4qCnjMWOWPhcet58"
       },
       "artists": [
         {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        },
+        {
+          "name": "Alberto Continentino",
+          "url": "https://open.spotify.com/artist/32On9aT0OV5VSV0053B3hE"
         }
       ],
-      "duration_ms": 223009,
-      "name": "Eu Venho de Longe",
-      "url": "https://open.spotify.com/track/0xSEIEoggoRmfS2A6GPQDV"
+      "duration_ms": 276000,
+      "name": "Pontes no Ar",
+      "url": "https://open.spotify.com/track/2M6GfrTPMJSkO6DHGHsvJy"
     },
     {
       "added_at": "2026-08-28 17:58:55",
@@ -1039,42 +1043,18 @@
     {
       "added_at": "2026-08-28 17:58:55",
       "album": {
-        "name": "Agudo Grave",
-        "url": "https://open.spotify.com/album/4YWEwa4qCnjMWOWPhcet58"
+        "name": "Eu Venho de Longe",
+        "url": "https://open.spotify.com/album/6TXoief9M9RhmIPA3Qt2iG"
       },
       "artists": [
         {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
-        },
-        {
-          "name": "Alberto Continentino",
-          "url": "https://open.spotify.com/artist/32On9aT0OV5VSV0053B3hE"
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
         }
       ],
-      "duration_ms": 276000,
-      "name": "Pontes no Ar",
-      "url": "https://open.spotify.com/track/2M6GfrTPMJSkO6DHGHsvJy"
-    },
-    {
-      "added_at": "2026-08-28 17:58:55",
-      "album": {
-        "name": "A Estrada",
-        "url": "https://open.spotify.com/album/1a5g2hXIYXHohl8SzT1HNx"
-      },
-      "artists": [
-        {
-          "name": "L\u00f4 Borges",
-          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
-        },
-        {
-          "name": "Tavinho Moura",
-          "url": "https://open.spotify.com/artist/73DUuItQ5uVSxo50mQi5VT"
-        }
-      ],
-      "duration_ms": 174350,
-      "name": "Chegada",
-      "url": "https://open.spotify.com/track/4TMFEnIWrHjUgqrQa4yuIr"
+      "duration_ms": 223009,
+      "name": "Eu Venho de Longe",
+      "url": "https://open.spotify.com/track/0xSEIEoggoRmfS2A6GPQDV"
     },
     {
       "added_at": "2026-08-28 17:58:55",
@@ -1095,6 +1075,26 @@
       "duration_ms": 213000,
       "name": "Outras Vezes",
       "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
+    },
+    {
+      "added_at": "2026-08-28 17:58:55",
+      "album": {
+        "name": "A Estrada",
+        "url": "https://open.spotify.com/album/1a5g2hXIYXHohl8SzT1HNx"
+      },
+      "artists": [
+        {
+          "name": "L\u00f4 Borges",
+          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+        },
+        {
+          "name": "Tavinho Moura",
+          "url": "https://open.spotify.com/artist/73DUuItQ5uVSxo50mQi5VT"
+        }
+      ],
+      "duration_ms": 174350,
+      "name": "Chegada",
+      "url": "https://open.spotify.com/track/4TMFEnIWrHjUgqrQa4yuIr"
     },
     {
       "added_at": "2026-08-28 17:58:55",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-08-28 17:58:55",
       "album": {
+        "name": "Uirapuru",
+        "url": "https://open.spotify.com/album/0kIt3JewcAw0yHMAHfmzsL"
+      },
+      "artists": [
+        {
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        }
+      ],
+      "duration_ms": 102143,
+      "name": "Uirapuru",
+      "url": "https://open.spotify.com/track/0g0D5vPj0f3a0IX4Ji6KrJ"
+    },
+    {
+      "added_at": "2026-08-28 17:58:55",
+      "album": {
         "name": "Feira de Mangaio",
         "url": "https://open.spotify.com/album/4cWi4ErDXvCgd9L4u6asfA"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 125193,
       "name": "VAMO COM CALMA, MALANDRA",
       "url": "https://open.spotify.com/track/1wmiLh6KsDeawslNRcLTCm"
-    },
-    {
-      "added_at": "2026-08-28 17:58:55",
-      "album": {
-        "name": "Uirapuru",
-        "url": "https://open.spotify.com/album/0kIt3JewcAw0yHMAHfmzsL"
-      },
-      "artists": [
-        {
-          "name": "Mari Merenda",
-          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
-        }
-      ],
-      "duration_ms": 102143,
-      "name": "Uirapuru",
-      "url": "https://open.spotify.com/track/0g0D5vPj0f3a0IX4Ji6KrJ"
     },
     {
       "added_at": "2026-08-28 17:58:55",
@@ -1255,6 +1255,30 @@
     {
       "added_at": "2026-08-28 17:58:55",
       "album": {
+        "name": "F\u00faria",
+        "url": "https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx"
+      },
+      "artists": [
+        {
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        },
+        {
+          "name": "Coral",
+          "url": "https://open.spotify.com/artist/6SzRzynHLo6kgimRw5k3cs"
+        },
+        {
+          "name": "Fervo Unboxing",
+          "url": "https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia"
+        }
+      ],
+      "duration_ms": 193610,
+      "name": "F\u00faria",
+      "url": "https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN"
+    },
+    {
+      "added_at": "2026-08-28 17:58:55",
+      "album": {
         "name": "Agudo Grave",
         "url": "https://open.spotify.com/album/1gAuuKvvJk52MwUD5VMcIv"
       },
@@ -1291,26 +1315,18 @@
     {
       "added_at": "2026-08-28 17:58:55",
       "album": {
-        "name": "F\u00faria",
-        "url": "https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx"
+        "name": "Tum Tum Tum",
+        "url": "https://open.spotify.com/album/1ysg4ZrH2ufsLX3VRUUz1Q"
       },
       "artists": [
         {
-          "name": "Mari Merenda",
-          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
-        },
-        {
-          "name": "Coral",
-          "url": "https://open.spotify.com/artist/6SzRzynHLo6kgimRw5k3cs"
-        },
-        {
-          "name": "Fervo Unboxing",
-          "url": "https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia"
+          "name": "MOMO.",
+          "url": "https://open.spotify.com/artist/59U0b1U9BXyD2ftlbJUdXM"
         }
       ],
-      "duration_ms": 193610,
-      "name": "F\u00faria",
-      "url": "https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN"
+      "duration_ms": 250156,
+      "name": "Tudo Que Se Tem",
+      "url": "https://open.spotify.com/track/56lywF1vwSlCAXXl7BeS5B"
     },
     {
       "added_at": "2026-08-28 17:58:55",
@@ -1331,18 +1347,22 @@
     {
       "added_at": "2026-08-28 17:58:55",
       "album": {
-        "name": "Tum Tum Tum",
-        "url": "https://open.spotify.com/album/1ysg4ZrH2ufsLX3VRUUz1Q"
+        "name": "Fervo Unboxing - Mari Merenda",
+        "url": "https://open.spotify.com/album/732IpAuN6tq7d0HoevmICq"
       },
       "artists": [
         {
-          "name": "MOMO.",
-          "url": "https://open.spotify.com/artist/59U0b1U9BXyD2ftlbJUdXM"
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        },
+        {
+          "name": "Fervo Unboxing",
+          "url": "https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia"
         }
       ],
-      "duration_ms": 250156,
-      "name": "Tudo Que Se Tem",
-      "url": "https://open.spotify.com/track/56lywF1vwSlCAXXl7BeS5B"
+      "duration_ms": 293126,
+      "name": "Mulher Corvo",
+      "url": "https://open.spotify.com/track/0J5C98ACNHQ5Dyl2sNvjp4"
     },
     {
       "added_at": "2026-08-28 17:58:55",
@@ -1383,26 +1403,6 @@
       "duration_ms": 206760,
       "name": "A Beleza De Ser",
       "url": "https://open.spotify.com/track/77KUT4cGoNZZwatCZii61P"
-    },
-    {
-      "added_at": "2026-08-28 17:58:55",
-      "album": {
-        "name": "Fervo Unboxing - Mari Merenda",
-        "url": "https://open.spotify.com/album/732IpAuN6tq7d0HoevmICq"
-      },
-      "artists": [
-        {
-          "name": "Mari Merenda",
-          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
-        },
-        {
-          "name": "Fervo Unboxing",
-          "url": "https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia"
-        }
-      ],
-      "duration_ms": 293126,
-      "name": "Mulher Corvo",
-      "url": "https://open.spotify.com/track/0J5C98ACNHQ5Dyl2sNvjp4"
     },
     {
       "added_at": "2026-08-28 17:58:55",

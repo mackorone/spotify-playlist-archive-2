@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Little Big Town, Carly Pearce, Riley Green and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,802 likes - 76 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,858 likes - 76 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 75 | [Old Reliable](https://open.spotify.com/track/6zU9wUGHvVQnxGRY7aWsPZ) | [Alison Elena](https://open.spotify.com/artist/7mWYxYewRAHcVWTe1WrTDD) | [Old Reliable](https://open.spotify.com/album/28zq9ZBVcpIr5CevWCMS3d) | 3:33 |
 | 76 | [Lie Like That](https://open.spotify.com/track/661jaBk2jO8xrQfkCK5oNo) | [Hayden Coffman](https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF) | [Lie Like That](https://open.spotify.com/album/1iTRu9sGdHXxW5xNiY4vMg) | 3:04 |
 
-Snapshot ID: `AAAAAEo37juFkTJzgIF7SJWds4+lmuRr`
+Snapshot ID: `AAAAAKocXcivI6+sqs9wICmfU/pvEwGF`

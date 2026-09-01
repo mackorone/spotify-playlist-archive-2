@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: TR Gobrazy
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,710 likes - 70 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,704 likes - 70 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 69 | [WAY U MOVE](https://open.spotify.com/track/0Ne9qvEn0GN5ixFUyPm7RP) | [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De) | [WAY U MOVE](https://open.spotify.com/album/53j5zsXCSgA1ufUYC05uQx) | 2:08 |
 | 70 | [caught up](https://open.spotify.com/track/3ItBDVIrb7rwSy1v4aLuQD) | [nikhil](https://open.spotify.com/artist/21Nhs4mlXS9iS4wR1VV6Sp), [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [caught up](https://open.spotify.com/album/37CZe90UUBmPPedcTo6cc6) | 2:40 |
 
-Snapshot ID: `AAAAAHzq0E9zl+kAiVqPeIy0FkLIbsTU`
+Snapshot ID: `AAAAAC8fHmonZh4Oud4jnCP08hfQnk+E`

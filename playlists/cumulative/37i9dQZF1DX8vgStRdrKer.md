@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-860 songs - 3 day 3 hr 4 min
+861 songs - 3 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -640,6 +640,7 @@
 | [Prayer](https://open.spotify.com/track/6kESTNY3rhbE5yDFQJ0kEh) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Prayer](https://open.spotify.com/album/6RsJ8zdUYTTUZ2OVavjxpb) | 2:26 | 2025-06-13 | 2025-07-25 |
 | [Prayer \- Live](https://open.spotify.com/track/1WAq3ApLvMZx7hULs5LOcY) | [Minstrel K.I](https://open.spotify.com/artist/1KGm6LnIBHf7Ki5MgTeBKR), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Prayer \(Live\)](https://open.spotify.com/album/5IzpZ1rz36w0rq32M6paX4) | 9:19 | 2024-06-28 | 2024-07-12 |
 | [Prepare the Way](https://open.spotify.com/track/7uW9MM84wg65ODHwMTL5Fc) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Prepare the Way](https://open.spotify.com/album/3DZGhQN7bHZeQ62egNvQST) | 2:27 | 2025-06-27 | 2025-07-14 |
+| [proclaim the Gospel \- Live at De Stanley Brothers campus Tour](https://open.spotify.com/track/1NQ3YJnYNhmo9wwUwnJLM3) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [proclaim the Gospel \(Live at De Stanley Brothers campus Tour\)](https://open.spotify.com/album/5cQkDbB8loXjvDwmewmxXC) | 5:15 | 2026-08-21 |  |
 | [Promise Keeper](https://open.spotify.com/track/24DLQbUsCuHfQ6QeAy3aQX) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Promise Keeper](https://open.spotify.com/album/1LzQO3qndwCYQ5SwvBkc2U) | 8:30 | 2025-05-09 | 2025-06-20 |
 | [PRSNC](https://open.spotify.com/track/3MJ0tuFBzhdFw6hvifLHrq) | [Danad](https://open.spotify.com/artist/1Uu4BnExPhV44clNfpOh2J) | [PRSNC](https://open.spotify.com/album/7e2lcyFX3dQKTHGqhqVrhw) | 3:45 | 2025-06-20 | 2025-07-11 |
 | [Put it On God](https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Put It On God](https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9) | 2:37 | 2023-09-15 | 2024-03-16 |
@@ -792,7 +793,7 @@
 | [We Pray](https://open.spotify.com/track/782yvAXARMNYwa6UYUNT0F) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Ruthie Namaganda](https://open.spotify.com/artist/2SPhsCFGKEMyOHfk5FWBc4), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [We Pray \(See a Miracle\)](https://open.spotify.com/album/3cmnxmwsuSQDPsWpvEsBoS) | 3:15 | 2026-02-13 | 2026-08-18 |
 | [We Prevail](https://open.spotify.com/track/4jdeJiC74gkk4C2xienh6i) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [We Prevail](https://open.spotify.com/album/3AvmRtH11WdKuUfNUP2R3g) | 3:44 | 2024-03-01 | 2025-06-20 |
 | [We Want More](https://open.spotify.com/track/4DosoX2PHIxHN3xVsfJ9kW) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [We Want More](https://open.spotify.com/album/52bQsCSXJyPE4WBxVSMFEe) | 4:56 | 2025-12-26 | 2026-07-20 |
-| [We Worship You](https://open.spotify.com/track/37ewmOinmfco7aCr3bve3r) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV), [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [We Worship You](https://open.spotify.com/album/761nroFet61Jlnvs5FAx8c) | 8:17 | 2026-06-12 |  |
+| [We Worship You](https://open.spotify.com/track/37ewmOinmfco7aCr3bve3r) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV), [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [We Worship You](https://open.spotify.com/album/761nroFet61Jlnvs5FAx8c) | 8:17 | 2026-06-12 | 2026-09-01 |
 | [Welcome Home](https://open.spotify.com/track/6W27jS10i7jX31crCkAHu4) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Welcome Home](https://open.spotify.com/album/0defqgIaxsVJwyllqYu85e) | 2:22 | 2025-06-27 | 2025-10-03 |
 | [Welenga](https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [Welenga](https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ) | 3:15 | 2024-03-29 | 2026-01-21 |
 | [Wewe Ni Zaidi](https://open.spotify.com/track/3nJcZmXfi1euuEuj5lbd2M) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Janet Otieno](https://open.spotify.com/artist/1vfQ0EClwLJGtc4YsHlzPY) | [Wewe Ni Zaidi](https://open.spotify.com/album/04lDZZW67Js2hT48OjZPtp) | 4:22 | 2025-07-11 | 2025-08-14 |

@@ -81979,6 +81979,24 @@
     },
     {
       "album": {
+        "name": "Voices From The Box",
+        "url": "https://open.spotify.com/album/3v2a3hnkQRAV6JRZzzDZNs"
+      },
+      "artists": [
+        {
+          "name": "Joynes",
+          "url": "https://open.spotify.com/artist/2ttk1u6cLmHeTaBrqw56QF"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238600,
+      "name": "Ways Beyond This Day",
+      "url": "https://open.spotify.com/track/0L2R4HAzQyMbWrCup7yAh2"
+    },
+    {
+      "album": {
         "name": "We all live in a Fantasy",
         "url": "https://open.spotify.com/album/5bT2StBoZlkx0WlM4d4KI3"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Music that means it. Cover: Jamie T",
-  "num_followers": 131841,
+  "num_followers": 131861,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAWeRfduoK4UyKr8dArXDVU0Osbk",
+  "snapshot_id": "AAAAAGWRxEuc7XGaIm2m3jYwGNIBs3DY",
   "tracks": [
     {
       "added_at": "2026-08-20 23:00:36",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
-        "name": "Now We Can't Be Friends",
-        "url": "https://open.spotify.com/album/2P5tdiMwQUxV5Q0SGsU0K0"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 209800,
-      "name": "Now We Can't Be Friends",
-      "url": "https://open.spotify.com/track/3s1mRFy9QxkQUqEx8tVGLs"
-    },
-    {
-      "added_at": "2026-08-20 23:00:36",
-      "album": {
         "name": "Hurracane",
         "url": "https://open.spotify.com/album/5Uu9Eec9z4kkB0lQhthSP4"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 185572,
       "name": "Hurracane",
       "url": "https://open.spotify.com/track/1xSQFAP6pfng02tJa1jnLc"
+    },
+    {
+      "added_at": "2026-08-20 23:00:36",
+      "album": {
+        "name": "Now We Can't Be Friends",
+        "url": "https://open.spotify.com/album/2P5tdiMwQUxV5Q0SGsU0K0"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 209800,
+      "name": "Now We Can't Be Friends",
+      "url": "https://open.spotify.com/track/3s1mRFy9QxkQUqEx8tVGLs"
     },
     {
       "added_at": "2026-08-20 23:00:36",
@@ -959,18 +959,18 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
-        "name": "C\u2019MON YOU KNOW (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY"
+        "name": "The Theory Of Whatever",
+        "url": "https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV"
       },
       "artists": [
         {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
         }
       ],
-      "duration_ms": 204543,
-      "name": "Diamond In The Dark",
-      "url": "https://open.spotify.com/track/6cWSuPDQT56oPVqWSsNSee"
+      "duration_ms": 235666,
+      "name": "The Old Style Raiders",
+      "url": "https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW"
     },
     {
       "added_at": "2026-08-20 23:00:36",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
-        "name": "The Theory Of Whatever",
-        "url": "https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV"
+        "name": "C\u2019MON YOU KNOW (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY"
       },
       "artists": [
         {
-          "name": "Jamie T",
-          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
         }
       ],
-      "duration_ms": 235666,
-      "name": "The Old Style Raiders",
-      "url": "https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW"
+      "duration_ms": 204543,
+      "name": "Diamond In The Dark",
+      "url": "https://open.spotify.com/track/6cWSuPDQT56oPVqWSsNSee"
     },
     {
       "added_at": "2026-08-20 23:00:36",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
-        "name": "COOL",
-        "url": "https://open.spotify.com/album/6UEHHZUhGOifJ6xWBWN73Z"
-      },
-      "artists": [
-        {
-          "name": "Crawlers",
-          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
-        }
-      ],
-      "duration_ms": 189534,
-      "name": "COOL",
-      "url": "https://open.spotify.com/track/7BKTCgTQvXFBdCDBtODvQc"
-    },
-    {
-      "added_at": "2026-08-20 23:00:36",
-      "album": {
         "name": "IGNORE THIS",
         "url": "https://open.spotify.com/album/1tI8iV5L67yiKB6g17rma3"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 189850,
       "name": "IGNORE THIS",
       "url": "https://open.spotify.com/track/2fAepZ7Fl8sbwZXxkIZMpS"
+    },
+    {
+      "added_at": "2026-08-20 23:00:36",
+      "album": {
+        "name": "COOL",
+        "url": "https://open.spotify.com/album/6UEHHZUhGOifJ6xWBWN73Z"
+      },
+      "artists": [
+        {
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+        }
+      ],
+      "duration_ms": 189534,
+      "name": "COOL",
+      "url": "https://open.spotify.com/track/7BKTCgTQvXFBdCDBtODvQc"
     },
     {
       "added_at": "2026-08-20 23:00:36",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
+        "name": "Just Begun",
+        "url": "https://open.spotify.com/album/1RYvPGUpvUTnIf4NFGIrY9"
+      },
+      "artists": [
+        {
+          "name": "JAMIE WEBSTER",
+          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Just Begun",
+      "url": "https://open.spotify.com/track/7zcaQay1ctjagKSXcJ5tNe"
+    },
+    {
+      "added_at": "2026-08-20 23:00:36",
+      "album": {
         "name": "Vice Versa",
         "url": "https://open.spotify.com/album/5KbsOhirBRc37NY9v3NATC"
       },
@@ -1295,38 +1311,6 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
-        "name": "Just Begun",
-        "url": "https://open.spotify.com/album/1RYvPGUpvUTnIf4NFGIrY9"
-      },
-      "artists": [
-        {
-          "name": "JAMIE WEBSTER",
-          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Just Begun",
-      "url": "https://open.spotify.com/track/7zcaQay1ctjagKSXcJ5tNe"
-    },
-    {
-      "added_at": "2026-08-20 23:00:36",
-      "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/4NkwHEXLQ1eTEo0NY9r6hy"
-      },
-      "artists": [
-        {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
-        }
-      ],
-      "duration_ms": 325400,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/4jAKnQfdSCC0CILVGtr1nC"
-    },
-    {
-      "added_at": "2026-08-20 23:00:36",
-      "album": {
         "name": "Wear & Tear",
         "url": "https://open.spotify.com/album/5gnyVjuKWSqMcSkjItty9x"
       },
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
-        "name": "Fall Back",
-        "url": "https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI"
+        "name": "Change",
+        "url": "https://open.spotify.com/album/4NkwHEXLQ1eTEo0NY9r6hy"
       },
       "artists": [
         {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
         }
       ],
-      "duration_ms": 211964,
-      "name": "Break the Girl",
-      "url": "https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf"
+      "duration_ms": 325400,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/4jAKnQfdSCC0CILVGtr1nC"
     },
     {
       "added_at": "2026-08-20 23:00:36",
@@ -1387,6 +1371,22 @@
       "duration_ms": 193612,
       "name": "Voice Of The Voiceless",
       "url": "https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt"
+    },
+    {
+      "added_at": "2026-08-20 23:00:36",
+      "album": {
+        "name": "Fall Back",
+        "url": "https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "duration_ms": 211964,
+      "name": "Break the Girl",
+      "url": "https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf"
     },
     {
       "added_at": "2026-08-20 23:00:36",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
-        "name": "Personality Test",
-        "url": "https://open.spotify.com/album/5WtJlhPqQKUSCjW6VYzA7S"
-      },
-      "artists": [
-        {
-          "name": "Seb Lowe",
-          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
-        }
-      ],
-      "duration_ms": 140609,
-      "name": "Personality Test",
-      "url": "https://open.spotify.com/track/2N3bvXciflaoAPIXoAUDjL"
-    },
-    {
-      "added_at": "2026-08-20 23:00:36",
-      "album": {
         "name": "Vain",
         "url": "https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 156106,
       "name": "Vain",
       "url": "https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ"
+    },
+    {
+      "added_at": "2026-08-20 23:00:36",
+      "album": {
+        "name": "Personality Test",
+        "url": "https://open.spotify.com/album/5WtJlhPqQKUSCjW6VYzA7S"
+      },
+      "artists": [
+        {
+          "name": "Seb Lowe",
+          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
+        }
+      ],
+      "duration_ms": 140609,
+      "name": "Personality Test",
+      "url": "https://open.spotify.com/track/2N3bvXciflaoAPIXoAUDjL"
     },
     {
       "added_at": "2026-08-20 23:00:36",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-08-20 23:00:36",
       "album": {
-        "name": "mettle",
-        "url": "https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw"
-      },
-      "artists": [
-        {
-          "name": "she's green",
-          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
-        }
-      ],
-      "duration_ms": 176853,
-      "name": "mettle",
-      "url": "https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB"
-    },
-    {
-      "added_at": "2026-08-20 23:00:36",
-      "album": {
         "name": "I Blow Out Big Candles",
         "url": "https://open.spotify.com/album/0zd0dbI6jBG4lVYatitkCT"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 183925,
       "name": "Killer",
       "url": "https://open.spotify.com/track/0fc2aV1nOvTsSAA1ghGu0d"
+    },
+    {
+      "added_at": "2026-08-20 23:00:36",
+      "album": {
+        "name": "mettle",
+        "url": "https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw"
+      },
+      "artists": [
+        {
+          "name": "she's green",
+          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
+        }
+      ],
+      "duration_ms": 176853,
+      "name": "mettle",
+      "url": "https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB"
     },
     {
       "added_at": "2026-08-20 23:00:36",

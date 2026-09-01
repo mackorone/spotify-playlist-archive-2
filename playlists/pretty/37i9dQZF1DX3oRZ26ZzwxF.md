@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Tazeboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,842 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,940 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 49 | [Ba Lali](https://open.spotify.com/track/76oUep7iz6H16hIwcCdBh0) | [Houze Gvng](https://open.spotify.com/artist/5jjHEzi1nD2FAPKB6aAjHk) | [Ba Lali](https://open.spotify.com/album/01GVC8jPP6kI1VEQZmK2Jm) | 3:11 |
 | 50 | [BRAMOGO](https://open.spotify.com/track/6I7jDDtu8qKPpiBITFv7nt) | [JOPAPI](https://open.spotify.com/artist/51YvT0bgf9HKKRtcripRT7), [The shirurgian on the beatz](https://open.spotify.com/artist/1ymJIefHhbqjZXbFJvEMDE) | [BRAMOGO](https://open.spotify.com/album/4ME6XM6XrlNmRBWYUfhrLV) | 2:42 |
 
-Snapshot ID: `AAAAAGNvSJwM/Ux+jH4KRPIU9WQ0eILj`
+Snapshot ID: `AAAAAA75RgIVULZfMQZ3x9NIKiqxA1Og`

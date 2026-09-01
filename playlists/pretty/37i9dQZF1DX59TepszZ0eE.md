@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=jG5MXQYQSyW7WpBXiv\_qew>Omega Khunou</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,505 likes - 102 songs - 12 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,537 likes - 102 songs - 12 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 101 | [Ndi na o Maanda \(feat\. Takie Ndou & Rofhiwa Manyaga\)](https://open.spotify.com/track/4o96oxKtDcOfUYY8nrGPun) | [Lebo Elle Tisane](https://open.spotify.com/artist/5OjmAYpmIb99cv5HC7Rwkt), [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu), [ROFHIWA MANYAGA](https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5) | [Ndi na o Maanda \(feat\. Takie Ndou & Rofhiwa Manyaga\)](https://open.spotify.com/album/5lzkLpPjHD7a8hFZdogPDr) | 15:55 |
 | 102 | [Aneliswe Osweleyo](https://open.spotify.com/track/6ZgClg41sq8pnx8d0oIR4W) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3), [Mphostoli We Keyboard](https://open.spotify.com/artist/1lgM1mjTHzMVjWZv08fTIN) | [Aneliswe Osweleyo](https://open.spotify.com/album/4QAnQG6yJgyqxIni00sRGK) | 4:14 |
 
-Snapshot ID: `AAAAAAvfAuGxrzOZ8wJgsTBe9/cZbc48`
+Snapshot ID: `AAAAADkqIwvlTXr4qTNtzLJEQAnpSsXK`

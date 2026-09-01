@@ -1,12 +1,12 @@
 {
   "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Colin L\u00e9o",
-  "num_followers": 70687,
+  "num_followers": 70686,
   "original_name": "Qu\u00e9b\u00e9cois Contemporain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAvVWqUK641kBnp+CpazfV0V+WOD",
+  "snapshot_id": "AAAAAC3pbGAOAg/czilLv5pgFHLzynlx",
   "tracks": [
     {
       "added_at": "2026-08-28 04:03:32",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-08-28 04:03:32",
       "album": {
-        "name": "Rat Race",
-        "url": "https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA"
-      },
-      "artists": [
-        {
-          "name": "Sophia Bel",
-          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
-        }
-      ],
-      "duration_ms": 190808,
-      "name": "Rat Race",
-      "url": "https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ"
-    },
-    {
-      "added_at": "2026-08-28 04:03:32",
-      "album": {
         "name": "Si j'avais un clou",
         "url": "https://open.spotify.com/album/5Ta4hSDVG7dcLf2PSCFTpl"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 229720,
       "name": "Si j'avais un clou",
       "url": "https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm"
+    },
+    {
+      "added_at": "2026-08-28 04:03:32",
+      "album": {
+        "name": "Rat Race",
+        "url": "https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "duration_ms": 190808,
+      "name": "Rat Race",
+      "url": "https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ"
     },
     {
       "added_at": "2026-08-28 04:03:32",
@@ -555,26 +555,18 @@
     {
       "added_at": "2026-08-28 04:03:32",
       "album": {
-        "name": "ATMANS",
-        "url": "https://open.spotify.com/album/7N0q4kL78W1sQImoLTDdgx"
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/18QHIwoaV00kIcB3FEvr7U"
       },
       "artists": [
         {
-          "name": "Samant",
-          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
-        },
-        {
-          "name": "Soran",
-          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
-        },
-        {
-          "name": "Zach Zoya",
-          "url": "https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH"
+          "name": "Fine Food Market",
+          "url": "https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET"
         }
       ],
-      "duration_ms": 128634,
-      "name": "BURN LIKE FYA",
-      "url": "https://open.spotify.com/track/6LBAvxT2JG8sz0MchIyx13"
+      "duration_ms": 235735,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/1Vh31NsLrFSXN6QThbZ4T3"
     },
     {
       "added_at": "2026-08-28 04:03:32",
@@ -611,18 +603,26 @@
     {
       "added_at": "2026-08-28 04:03:32",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/18QHIwoaV00kIcB3FEvr7U"
+        "name": "ATMANS",
+        "url": "https://open.spotify.com/album/7N0q4kL78W1sQImoLTDdgx"
       },
       "artists": [
         {
-          "name": "Fine Food Market",
-          "url": "https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET"
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        },
+        {
+          "name": "Soran",
+          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
+        },
+        {
+          "name": "Zach Zoya",
+          "url": "https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH"
         }
       ],
-      "duration_ms": 235735,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/1Vh31NsLrFSXN6QThbZ4T3"
+      "duration_ms": 128634,
+      "name": "BURN LIKE FYA",
+      "url": "https://open.spotify.com/track/6LBAvxT2JG8sz0MchIyx13"
     },
     {
       "added_at": "2026-08-28 04:03:32",
@@ -763,6 +763,26 @@
     {
       "added_at": "2026-08-28 04:03:32",
       "album": {
+        "name": "Si les bateaux",
+        "url": "https://open.spotify.com/album/1Kyq2KWn4sQ9bDn6QFmLGK"
+      },
+      "artists": [
+        {
+          "name": "Gilles Vigneault",
+          "url": "https://open.spotify.com/artist/4UKAN8YgrM7EZkAW4NbH9F"
+        },
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "Si les bateaux",
+      "url": "https://open.spotify.com/track/6NSZLL51gW99UML3gcSiog"
+    },
+    {
+      "added_at": "2026-08-28 04:03:32",
+      "album": {
         "name": "figure it out",
         "url": "https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 235768,
       "name": "Roses",
       "url": "https://open.spotify.com/track/1YDMR9mA86CqY7uBMsitXF"
-    },
-    {
-      "added_at": "2026-08-28 04:03:32",
-      "album": {
-        "name": "Si les bateaux",
-        "url": "https://open.spotify.com/album/1Kyq2KWn4sQ9bDn6QFmLGK"
-      },
-      "artists": [
-        {
-          "name": "Gilles Vigneault",
-          "url": "https://open.spotify.com/artist/4UKAN8YgrM7EZkAW4NbH9F"
-        },
-        {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "Si les bateaux",
-      "url": "https://open.spotify.com/track/6NSZLL51gW99UML3gcSiog"
     },
     {
       "added_at": "2026-08-28 04:03:32",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-08-28 04:03:32",
       "album": {
-        "name": "les nuits sont blanches",
-        "url": "https://open.spotify.com/album/0k61qpSgf8oIqE0ieRstLi"
-      },
-      "artists": [
-        {
-          "name": "mirani coelho",
-          "url": "https://open.spotify.com/artist/25W2wGoMZL13LGDKG0AwFE"
-        }
-      ],
-      "duration_ms": 202493,
-      "name": "verres fum\u00e9s",
-      "url": "https://open.spotify.com/track/0CIxZ3jui54TMlM0AaAltU"
-    },
-    {
-      "added_at": "2026-08-28 04:03:32",
-      "album": {
         "name": "Ma Chance",
         "url": "https://open.spotify.com/album/4ePZcSaEdL9SZC6fqDVR5u"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 167500,
       "name": "Ma Chance",
       "url": "https://open.spotify.com/track/0IAX8ZyQPvdFa4ngy1u5eW"
+    },
+    {
+      "added_at": "2026-08-28 04:03:32",
+      "album": {
+        "name": "les nuits sont blanches",
+        "url": "https://open.spotify.com/album/0k61qpSgf8oIqE0ieRstLi"
+      },
+      "artists": [
+        {
+          "name": "mirani coelho",
+          "url": "https://open.spotify.com/artist/25W2wGoMZL13LGDKG0AwFE"
+        }
+      ],
+      "duration_ms": 202493,
+      "name": "verres fum\u00e9s",
+      "url": "https://open.spotify.com/track/0CIxZ3jui54TMlM0AaAltU"
     },
     {
       "added_at": "2026-08-28 04:03:32",

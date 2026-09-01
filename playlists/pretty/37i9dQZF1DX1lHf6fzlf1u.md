@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHf6fzlf1u.md) - [plain]
 
 > ‘There is magic in Scotland.’ \-Gayle Rankin
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,614 likes - 76 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,619 likes - 76 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHf6fzlf1u.md) - [plain]
 | 75 | [Dreamers](https://open.spotify.com/track/0rD9CuDPlUgjdvyWGHA00G) | [Neon Waltz](https://open.spotify.com/artist/1HMvS7MZ6mocKBi5iAIwBl) | [Strange Hymns](https://open.spotify.com/album/1x6g1pz2iH0oq2kCT0fTuC) | 3:37 |
 | 76 | [Kids Will Be Skeletons](https://open.spotify.com/track/1cFH6bxEc9M10kTADnTRjQ) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Happy Songs For Happy People](https://open.spotify.com/album/1FvIoulivmS5n4Kp3zpBr2) | 5:27 |
 
-Snapshot ID: `AAAAAJbuOHvKbCExv1C4ixly6IYf2NWZ`
+Snapshot ID: `AAAAANLFcLRhCyysqm4g7+Md+Wesg+Sy`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apIhAAAAAAA63DanSsr0eTSQ+cIiv1IG",
+  "snapshot_id": "apNygAAAAABj89E3YwWBEoRX+9Y9qy6G",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 170634,
-      "name": "In Full Color",
-      "url": "https://open.spotify.com/track/28v1qCRYPlJr7DFvCNmt1s"
+      "duration_ms": 170200,
+      "name": "Supercollider",
+      "url": "https://open.spotify.com/track/0BvPR48dyiEQB69HdDzakv"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 170200,
-      "name": "Supercollider",
-      "url": "https://open.spotify.com/track/0BvPR48dyiEQB69HdDzakv"
+      "duration_ms": 170634,
+      "name": "In Full Color",
+      "url": "https://open.spotify.com/track/28v1qCRYPlJr7DFvCNmt1s"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 233214,
-      "name": "Illuminant",
-      "url": "https://open.spotify.com/track/2rpJtmeLU52N5WbR7BLfUX"
+      "duration_ms": 202631,
+      "name": "Fire This Time",
+      "url": "https://open.spotify.com/track/69shxYcOeyQiMJDIVlHZGE"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 202631,
-      "name": "Fire This Time",
-      "url": "https://open.spotify.com/track/69shxYcOeyQiMJDIVlHZGE"
+      "duration_ms": 233214,
+      "name": "Illuminant",
+      "url": "https://open.spotify.com/track/2rpJtmeLU52N5WbR7BLfUX"
     },
     {
       "added_at": null,

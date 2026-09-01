@@ -1,13 +1,41 @@
 {
-  "description": "Trending songs from Tollywood! \nCover: Irumudi",
-  "num_followers": 647270,
+  "description": "Trending songs from Tollywood! \nCover: The Paradise",
+  "num_followers": 647921,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADjamVxhptbNDA2MY7qvdAYZb4d5",
+  "snapshot_id": "AAAAAKa+hCgv/gzp3XBKmJQHMdi8p8cQ",
   "tracks": [
+    {
+      "added_at": "2026-08-31 05:29:54",
+      "album": {
+        "name": "Yeshanagula (From \"The Paradise\") (Telugu)",
+        "url": "https://open.spotify.com/album/4lrQs1uVuyf79sjjuLmU4p"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Singer Prabha",
+          "url": "https://open.spotify.com/artist/273F9W74IJfwAFlpeJBSmo"
+        },
+        {
+          "name": "Jangi Reddy",
+          "url": "https://open.spotify.com/artist/576GMrbKBURxmaLAJXMqCp"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "duration_ms": 188731,
+      "name": "Yeshanagula (From \"The Paradise\") (Telugu)",
+      "url": "https://open.spotify.com/track/0HE9a9ndSFMCELuobaW5yK"
+    },
     {
       "added_at": "2026-08-19 09:13:49",
       "album": {
@@ -35,34 +63,6 @@
       "duration_ms": 180078,
       "name": "Mallepoola Pallaki (From \"Irumudi\")",
       "url": "https://open.spotify.com/track/58dUTQHotyXfZZxFYjCyZt"
-    },
-    {
-      "added_at": "2026-02-25 10:32:25",
-      "album": {
-        "name": "Aaya Sher (From \"The Paradise\") (Telugu)",
-        "url": "https://open.spotify.com/album/47i89HeDSUWHJGFT1wzAWP"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Jangi Reddy",
-          "url": "https://open.spotify.com/artist/576GMrbKBURxmaLAJXMqCp"
-        },
-        {
-          "name": "Arjun Chandy",
-          "url": "https://open.spotify.com/artist/4UCG3GFuPR4k19M40Mzxip"
-        },
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 286917,
-      "name": "Aaya Sher (From \"The Paradise\") (Telugu)",
-      "url": "https://open.spotify.com/track/4kV0ugCwyF7OAb3huIdThG"
     },
     {
       "added_at": "2026-05-27 03:37:35",
@@ -193,28 +193,32 @@
       "url": "https://open.spotify.com/track/0d2LuBhacKiZZpBWZD6OD2"
     },
     {
-      "added_at": "2026-07-21 07:20:54",
+      "added_at": "2026-02-25 10:32:25",
       "album": {
-        "name": "Basinga Balaalu",
-        "url": "https://open.spotify.com/album/6LNsqUJ0iEpXj8IqB9ZbW0"
+        "name": "Aaya Sher (From \"The Paradise\") (Telugu)",
+        "url": "https://open.spotify.com/album/47i89HeDSUWHJGFT1wzAWP"
       },
       "artists": [
         {
-          "name": "Swamy Naresh",
-          "url": "https://open.spotify.com/artist/1dbakjEIXSXVZyq1j4iaLx"
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Srinidhi Nerella",
-          "url": "https://open.spotify.com/artist/1m9l2bsj6oYndpc8LF4lUn"
+          "name": "Jangi Reddy",
+          "url": "https://open.spotify.com/artist/576GMrbKBURxmaLAJXMqCp"
         },
         {
-          "name": "Kalyan Keys",
-          "url": "https://open.spotify.com/artist/5Mw67hZobK1bXgPK31v2tN"
+          "name": "Arjun Chandy",
+          "url": "https://open.spotify.com/artist/4UCG3GFuPR4k19M40Mzxip"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
         }
       ],
-      "duration_ms": 249836,
-      "name": "Basinga Balaalu",
-      "url": "https://open.spotify.com/track/5aAm4h5bLg4hV5wQAi5MGx"
+      "duration_ms": 286917,
+      "name": "Aaya Sher (From \"The Paradise\") (Telugu)",
+      "url": "https://open.spotify.com/track/4kV0ugCwyF7OAb3huIdThG"
     },
     {
       "added_at": "2026-06-23 17:48:08",

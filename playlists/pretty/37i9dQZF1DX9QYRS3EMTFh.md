@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : DJ Kawest
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,456 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,468 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Méchant](https://open.spotify.com/track/70isOAWcjtEI3olrMlS9u9) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Tiitof](https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS), [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Méchant](https://open.spotify.com/album/3fmAoZE95X8sFNr4SQ3JqK) | 2:10 |
+| 1 | [Méchant](https://open.spotify.com/track/70isOAWcjtEI3olrMlS9u9) | [DJ Kawest](https://open.spotify.com/artist/0at4HUpDsgafgTqnAZjL9R), [Tiitof](https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS), [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Méchant](https://open.spotify.com/album/3fmAoZE95X8sFNr4SQ3JqK) | 2:10 |
 | 2 | [Boss](https://open.spotify.com/track/0pz9Nm8wMv50rUffkzfwqD) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [LeJuh](https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i) | [Boss](https://open.spotify.com/album/05rvHy2DwAcmER2H1udQV4) | 2:34 |
 | 3 | [Pow Pow / Allo Doudou](https://open.spotify.com/track/4hTc2VnvYoOJwS8QXXhT0p) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [litleboy lsbeats767](https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY), [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd) | [Pow Pow / Allo Doudou](https://open.spotify.com/album/5mnRbWynBTViMMW10m1nlB) | 3:39 |
 | 4 | [Sé Miimii](https://open.spotify.com/track/46BNhNbHZi98svu6pFwYVq) | [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd), [DJ SKYCEE](https://open.spotify.com/artist/2LhAINHQMEMY2qL0AyNHmv) | [Sé Miimii](https://open.spotify.com/album/6POEgRFXk9dDYxWvQW8To4) | 2:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 49 | [Caprison](https://open.spotify.com/track/7ADbFtqC6vr72KpOAuUIQZ) | [K\-RIM](https://open.spotify.com/artist/0II10Pn1LNFArIGqlxWrIm), [DJ SAURIER](https://open.spotify.com/artist/5FKogijn8UxQeGoSGgTpss) | [Caprison](https://open.spotify.com/album/16WvdpUgJ1vrXILN7LWOd3) | 2:05 |
 | 50 | [Tek di Miggle](https://open.spotify.com/track/2DBxYscCgdlywGrKrBDtil) | [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6), [Paille](https://open.spotify.com/artist/22odTnbJhyDIQFnp8z1PgA) | [Tek di Miggle](https://open.spotify.com/album/5E6u8Ei8mnQPpjXjyakTMF) | 2:07 |
 
-Snapshot ID: `AAAAAKnQs4UeJkAkmrEiPdhS7J7Gb4Z3`
+Snapshot ID: `AAAAALm6NWFfrJtZDjDuzsRJWocOrySU`

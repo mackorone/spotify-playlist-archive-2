@@ -1,12 +1,12 @@
 {
   "description": "In Gedenken an XATAR \ud83e\udd0d",
-  "num_followers": 666207,
+  "num_followers": 666219,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANWwIcql1q/uu135U0nTrFcZpKFL",
+  "snapshot_id": "AAAAAAodiVjmd3f5dCgY/GlGvEuqSORk",
   "tracks": [
     {
       "added_at": "2025-12-19 20:12:08",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
+        "name": "MT3",
+        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
+      },
+      "artists": [
+        {
+          "name": "Massive T\u00f6ne",
+          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Traumreise",
+      "url": "https://open.spotify.com/track/1tVhmi6ltumhZtd1pM8Tya"
+    },
+    {
+      "added_at": "2025-12-19 20:12:08",
+      "album": {
         "name": "CLA$$IC",
         "url": "https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL"
       },
@@ -555,18 +571,18 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
-        "name": "MT3",
-        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
+        "name": "Bambule",
+        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
       },
       "artists": [
         {
-          "name": "Massive T\u00f6ne",
-          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Traumreise",
-      "url": "https://open.spotify.com/track/1tVhmi6ltumhZtd1pM8Tya"
+      "duration_ms": 254080,
+      "name": "Liebes Lied",
+      "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
     },
     {
       "added_at": "2025-12-19 20:12:08",
@@ -595,22 +611,6 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
-        "name": "Bambule",
-        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
-      },
-      "artists": [
-        {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
-        }
-      ],
-      "duration_ms": 254080,
-      "name": "Liebes Lied",
-      "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
-    },
-    {
-      "added_at": "2025-12-19 20:12:08",
-      "album": {
         "name": "BLYAT",
         "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
       },
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
+        "name": "Nr. 415 (Premium Edition)",
+        "url": "https://open.spotify.com/album/52eyXvdfq5Lazvjg5tLaNh"
+      },
+      "artists": [
+        {
+          "name": "XATAR",
+          "url": "https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8"
+        }
+      ],
+      "duration_ms": 151560,
+      "name": "Interpol.com",
+      "url": "https://open.spotify.com/track/3ueXKzLXjLUXJDp0HBYWTx"
+    },
+    {
+      "added_at": "2025-12-19 20:12:08",
+      "album": {
         "name": "Carlo Cokxxx Nutten II (Saad)",
         "url": "https://open.spotify.com/album/4cVaHKd2EkTU8hBwoGvNto"
       },
@@ -655,18 +671,22 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
-        "name": "Nr. 415 (Premium Edition)",
-        "url": "https://open.spotify.com/album/52eyXvdfq5Lazvjg5tLaNh"
+        "name": "Bambule",
+        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
       },
       "artists": [
         {
-          "name": "XATAR",
-          "url": "https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8"
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        },
+        {
+          "name": "Samy Deluxe",
+          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
         }
       ],
-      "duration_ms": 151560,
-      "name": "Interpol.com",
-      "url": "https://open.spotify.com/track/3ueXKzLXjLUXJDp0HBYWTx"
+      "duration_ms": 274640,
+      "name": "F\u00fcchse",
+      "url": "https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi"
     },
     {
       "added_at": "2025-12-19 20:12:08",
@@ -687,26 +707,6 @@
       "duration_ms": 330409,
       "name": "Irgendwie, Irgendwo, Irgendwann",
       "url": "https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ"
-    },
-    {
-      "added_at": "2025-12-19 20:12:08",
-      "album": {
-        "name": "Bambule",
-        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
-      },
-      "artists": [
-        {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
-        },
-        {
-          "name": "Samy Deluxe",
-          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
-        }
-      ],
-      "duration_ms": 274640,
-      "name": "F\u00fcchse",
-      "url": "https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi"
     },
     {
       "added_at": "2025-12-19 20:12:08",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
+        "name": "Baba aller Babas",
+        "url": "https://open.spotify.com/album/31gn729ax0kRu9KcUr8Lg3"
+      },
+      "artists": [
+        {
+          "name": "XATAR",
+          "url": "https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8"
+        }
+      ],
+      "duration_ms": 213973,
+      "name": "Iz da",
+      "url": "https://open.spotify.com/track/2k0cvQmGvHOuNmKo2rMYIj"
+    },
+    {
+      "added_at": "2025-12-19 20:12:08",
+      "album": {
         "name": "Hinterland",
         "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
       },
@@ -755,18 +771,18 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
-        "name": "Baba aller Babas",
-        "url": "https://open.spotify.com/album/31gn729ax0kRu9KcUr8Lg3"
+        "name": "Bambule",
+        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
       },
       "artists": [
         {
-          "name": "XATAR",
-          "url": "https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8"
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
         }
       ],
-      "duration_ms": 213973,
-      "name": "Iz da",
-      "url": "https://open.spotify.com/track/2k0cvQmGvHOuNmKo2rMYIj"
+      "duration_ms": 203920,
+      "name": "Hammerhart",
+      "url": "https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ"
     },
     {
       "added_at": "2025-12-19 20:12:08",
@@ -787,22 +803,6 @@
       "duration_ms": 216693,
       "name": "Reimemonster (feat. Ferris MC)",
       "url": "https://open.spotify.com/track/0pgx8fWphTTM9Kv5KjWpXy"
-    },
-    {
-      "added_at": "2025-12-19 20:12:08",
-      "album": {
-        "name": "Bambule",
-        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
-      },
-      "artists": [
-        {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
-        }
-      ],
-      "duration_ms": 203920,
-      "name": "Hammerhart",
-      "url": "https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ"
     },
     {
       "added_at": "2025-12-19 20:12:08",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
+        "name": "Blast Action Heroes",
+        "url": "https://open.spotify.com/album/5RtQ7sMm3wIK8HK1h0FTwo"
+      },
+      "artists": [
+        {
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        }
+      ],
+      "duration_ms": 212240,
+      "name": "Gustav Gans",
+      "url": "https://open.spotify.com/track/34zCp2LJUlYimBJQVpfpuX"
+    },
+    {
+      "added_at": "2025-12-19 20:12:08",
+      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/62tJU39A7UP3x85dJGQkdn"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 213813,
       "name": "All 4 One",
       "url": "https://open.spotify.com/track/5stqdnEmsr98AV26GweHJ8"
-    },
-    {
-      "added_at": "2025-12-19 20:12:08",
-      "album": {
-        "name": "Blast Action Heroes",
-        "url": "https://open.spotify.com/album/5RtQ7sMm3wIK8HK1h0FTwo"
-      },
-      "artists": [
-        {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
-        }
-      ],
-      "duration_ms": 212240,
-      "name": "Gustav Gans",
-      "url": "https://open.spotify.com/track/34zCp2LJUlYimBJQVpfpuX"
     },
     {
       "added_at": "2025-12-19 20:12:08",

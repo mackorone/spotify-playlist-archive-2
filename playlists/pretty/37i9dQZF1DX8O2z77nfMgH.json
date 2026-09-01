@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo de toda Iberoam\u00e9rica. Foto: Clarent y Omar Courtz",
-  "num_followers": 831201,
+  "num_followers": 831078,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIlk+ey1iC+sO+Pgt5cmIWHMa6Be",
+  "snapshot_id": "AAAAAFUoaHF4MfXDhO61NC7NSZR0A//Y",
   "tracks": [
     {
       "added_at": "2026-08-28 06:00:04",
@@ -524,10 +524,6 @@
           "url": "https://open.spotify.com/artist/2mv4oA2PU10YE6FiKlfk5j"
         },
         {
-          "name": "GeezyDee",
-          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
-        },
-        {
           "name": "Jamby El Favo",
           "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
         },
@@ -542,6 +538,10 @@
         {
           "name": "Templo De La Tinta",
           "url": "https://open.spotify.com/artist/74hAFTEmNfQCRmLlyJIqxf"
+        },
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
         }
       ],
       "duration_ms": 312631,

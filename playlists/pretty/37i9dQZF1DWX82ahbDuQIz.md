@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: EVITA
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,448 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,470 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 | 79 | [Memory](https://open.spotify.com/track/5r4aVDOcZqjAhLJsD0uNED) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), ["Cats" 1981 Original London Cast](https://open.spotify.com/artist/5PwgSnrvg48DYvdsf2Y2ZD) | [Cats \(Original 1981 London Cast\)](https://open.spotify.com/album/5AyRxc2YXLMjJoG23TPKTE) | 1:23 |
 | 80 | [Michael in the Bathroom](https://open.spotify.com/track/5ZvJjo2CyVO7SxAemvBjRA) | [George Salazar](https://open.spotify.com/artist/4VluulYWhcwWaD1pV7CtKB), [Be More Chill](https://open.spotify.com/artist/5Pjk0CjONGk3zq9SnKKx3r) | [Be More Chill \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1mbjEsFVnhw0v5dJMv9axG) | 5:07 |
 
-Snapshot ID: `AAAAAH02UMzKEneGIrLw9vWWqLa/7/e1`
+Snapshot ID: `AAAAAJe0W2DViZi6wvGpUvMybc115E3T`

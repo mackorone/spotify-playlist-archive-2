@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Stank face activated\. Cover: Kelland, Rhyder
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,705 likes - 94 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,696 likes - 94 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 93 | [Talk of the Town](https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [Talk of the Town](https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU) | 3:13 |
 | 94 | [Off The Hook](https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1) | [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [Off The Hook](https://open.spotify.com/album/38MnYhXdB2kS4gQlCmhPNq) | 2:34 |
 
-Snapshot ID: `AAAAAFA2JvjnZIwDYnscz0GzylgNYu4t`
+Snapshot ID: `AAAAAMwmjtTx7RHVPxb8RKxIspGUQeWI`

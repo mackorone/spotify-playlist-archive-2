@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk & kompa du moment\. Photo : SenSey'
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,253 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,283 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Tout contre moi](https://open.spotify.com/track/4OxWlgo0VYmkmcuCgednmi) | [Joshua Keran](https://open.spotify.com/artist/4nrRMVra3RAkH6xD5JXrvv) | [Tout contre moi](https://open.spotify.com/album/5AKfwi22SwilkkbOZ2uyPR) | 4:09 |
 | 40 | [Tout Donner](https://open.spotify.com/track/71VataW4xIxBbczy7ptp7q) | [LordMiike](https://open.spotify.com/artist/6OjF9eo5mIZATUsGiBk0Xk) | [Tout Donner](https://open.spotify.com/album/3zOb84XlFCKQbZaQOrvccv) | 2:30 |
 
-Snapshot ID: `AAAAAL2Wj4natc+otMh+ojG8uQXFSmoO`
+Snapshot ID: `AAAAAJ0J8bbVfqzLwAWpHt9q+aluY8ri`

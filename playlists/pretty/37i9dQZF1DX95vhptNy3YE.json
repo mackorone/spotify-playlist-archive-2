@@ -1,12 +1,12 @@
 {
   "description": "Ci\u00e7a e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 443096,
+  "num_followers": 443071,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP+6b4UrOWvizmbQ3LAR2E5PjO6S",
+  "snapshot_id": "AAAAAPuCpQv5YRLLiEo0BKnqLhvPoAu/",
   "tracks": [
     {
       "added_at": "2026-08-21 22:02:58",
@@ -187,6 +187,22 @@
     {
       "added_at": "2026-08-21 22:02:58",
       "album": {
+        "name": "S\u00f3 VVamo Sunset (Ao Vivo)",
+        "url": "https://open.spotify.com/album/552JgFjFaUfcDdx8Kx4SdN"
+      },
+      "artists": [
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        }
+      ],
+      "duration_ms": 168688,
+      "name": "Foto - Ao Vivo",
+      "url": "https://open.spotify.com/track/3POrgCwqQq9JNfUR7OZCnV"
+    },
+    {
+      "added_at": "2026-08-21 22:02:58",
+      "album": {
         "name": "Novo Testamento",
         "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 138000,
       "name": "Dharma",
       "url": "https://open.spotify.com/track/0EZg6KOUpuq9bBDWrPpK1f"
-    },
-    {
-      "added_at": "2026-08-21 22:02:58",
-      "album": {
-        "name": "S\u00f3 VVamo Sunset (Ao Vivo)",
-        "url": "https://open.spotify.com/album/552JgFjFaUfcDdx8Kx4SdN"
-      },
-      "artists": [
-        {
-          "name": "Marvvila",
-          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
-        }
-      ],
-      "duration_ms": 168688,
-      "name": "Foto - Ao Vivo",
-      "url": "https://open.spotify.com/track/3POrgCwqQq9JNfUR7OZCnV"
     },
     {
       "added_at": "2026-08-21 22:02:58",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-08-21 22:02:58",
       "album": {
+        "name": "\u00c9 Demais",
+        "url": "https://open.spotify.com/album/3w0QlSP1zXOfnWItpSyTb6"
+      },
+      "artists": [
+        {
+          "name": "Renan Oliveira",
+          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
+        }
+      ],
+      "duration_ms": 197653,
+      "name": "\u00c9 Demais",
+      "url": "https://open.spotify.com/track/1KpEmpouOXgxavYYmYtXaZ"
+    },
+    {
+      "added_at": "2026-08-21 22:02:58",
+      "album": {
         "name": "DOIS Quebrada Inteligente",
         "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 221706,
       "name": "Pente 270!",
       "url": "https://open.spotify.com/track/2j7pQPTsRj2k3XFU6Vkb8g"
-    },
-    {
-      "added_at": "2026-08-21 22:02:58",
-      "album": {
-        "name": "\u00c9 Demais",
-        "url": "https://open.spotify.com/album/3w0QlSP1zXOfnWItpSyTb6"
-      },
-      "artists": [
-        {
-          "name": "Renan Oliveira",
-          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
-        }
-      ],
-      "duration_ms": 197653,
-      "name": "\u00c9 Demais",
-      "url": "https://open.spotify.com/track/1KpEmpouOXgxavYYmYtXaZ"
     },
     {
       "added_at": "2026-08-21 22:02:58",
@@ -847,6 +847,26 @@
     {
       "added_at": "2026-08-21 22:02:58",
       "album": {
+        "name": "FREQU\u00caNCIA LUNAR",
+        "url": "https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR"
+      },
+      "artists": [
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 169137,
+      "name": "SALTO 15",
+      "url": "https://open.spotify.com/track/1CKmBQZ078Lup2kKAKVC14"
+    },
+    {
+      "added_at": "2026-08-21 22:02:58",
+      "album": {
         "name": "Quando Voc\u00ea Ligou",
         "url": "https://open.spotify.com/album/0QPNCXbWTQqLXSSOZqp2dh"
       },
@@ -875,26 +895,6 @@
     {
       "added_at": "2026-08-21 22:02:58",
       "album": {
-        "name": "FREQU\u00caNCIA LUNAR",
-        "url": "https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR"
-      },
-      "artists": [
-        {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 169137,
-      "name": "SALTO 15",
-      "url": "https://open.spotify.com/track/1CKmBQZ078Lup2kKAKVC14"
-    },
-    {
-      "added_at": "2026-08-21 22:02:58",
-      "album": {
         "name": "Instinto / Cancelado (Ao Vivo)",
         "url": "https://open.spotify.com/album/231P6DLf8gwN0frya1Z56y"
       },
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-08-21 22:02:58",
       "album": {
-        "name": "SIX.",
-        "url": "https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 117954,
-      "name": "No Meu Club",
-      "url": "https://open.spotify.com/track/7K9SL09rkjRVbORQULf2Qq"
-    },
-    {
-      "added_at": "2026-08-21 22:02:58",
-      "album": {
         "name": "Os Pagodes Que a Gente Gosta, Vol. 3 (Pt. 1) [Ao Vivo]",
         "url": "https://open.spotify.com/album/4oi2zmGerpieJeZQoBgNUc"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 221739,
       "name": "Playlist / Combinado - Ao Vivo",
       "url": "https://open.spotify.com/track/35SQSBJadIMuzgY5fXDpUP"
+    },
+    {
+      "added_at": "2026-08-21 22:02:58",
+      "album": {
+        "name": "SIX.",
+        "url": "https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 117954,
+      "name": "No Meu Club",
+      "url": "https://open.spotify.com/track/7K9SL09rkjRVbORQULf2Qq"
     },
     {
       "added_at": "2026-08-21 22:02:58",

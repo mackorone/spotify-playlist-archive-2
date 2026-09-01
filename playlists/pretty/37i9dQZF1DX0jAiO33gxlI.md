@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: VANDAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,995 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,976 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Não Estamos Sós](https://open.spotify.com/track/0VsGloiHqVBjJ3ij0skb3q) | [A's Trinca](https://open.spotify.com/artist/1RqfTOSGUR86C7KuDaoU9I), [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW) | [Não Estamos Sós](https://open.spotify.com/album/0FSiBUbDui2nVuy6eyE3wT) | 3:31 |
 | 75 | [Class](https://open.spotify.com/track/38eOxW4ku71pWP6zdPccHn) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Enzo from the Block](https://open.spotify.com/artist/2cb6bVhjolxjqG8xXpn3G3), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [JOGA BONITO](https://open.spotify.com/album/3MxiIcnkAdx7gJg6zvhkId) | 1:56 |
 
-Snapshot ID: `AAAAABABTq6byW2mE/ogmgtlQQK8UGH4`
+Snapshot ID: `AAAAAMPksw0vfv725k1pbd7XtOgPb9E/`

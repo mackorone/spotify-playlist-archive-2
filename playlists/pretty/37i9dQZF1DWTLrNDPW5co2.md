@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 84 | [Puta](https://open.spotify.com/track/4YZpWGihruxXJOf2FPnZmp) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN) | [Puta](https://open.spotify.com/album/6kbzIKqCQP7tdb2ncGcWEv) | 2:33 |
 | 85 | [My Barn My Rules](https://open.spotify.com/track/1bXW9UIZWmXtoSGXJvyyAm) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 4:26 |
 
-Snapshot ID: `AAAAAAO/P2Yjog00nD2TphoYduo2KMuF`
+Snapshot ID: `AAAAAEKttgHCGQ/8LkUmDTqrb3KRQGyg`

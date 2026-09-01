@@ -14356,6 +14356,24 @@
     {
       "album": {
         "name": "Freedom",
+        "url": "https://open.spotify.com/album/0QSJVTRHjdETxzD0RaNpX1"
+      },
+      "artists": [
+        {
+          "name": "Massimo Nanni",
+          "url": "https://open.spotify.com/artist/4o6YNcdXASjXIRfOpIxhWg"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/4moi33G2vY0DKA9IcV6qM0"
+    },
+    {
+      "album": {
+        "name": "Freedom",
         "url": "https://open.spotify.com/album/2YlNz8dbnVIdsjHXRJp30Z"
       },
       "artists": [
@@ -17796,6 +17814,24 @@
       "duration_ms": 246919,
       "name": "Hot Top Pick",
       "url": "https://open.spotify.com/track/0T1L1x6ZwHMr0bP3Vtdu85"
+    },
+    {
+      "album": {
+        "name": "Hotel Soldiers",
+        "url": "https://open.spotify.com/album/6mhJwuECI8D8T7PzpHHLOV"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Nixon",
+          "url": "https://open.spotify.com/artist/4Y4LMJUmLARW4fZyAgdEar"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279272,
+      "name": "Hotel Soldiers",
+      "url": "https://open.spotify.com/track/5GHYWH6OT5v4Dt7LxSFLM0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Mount Kimbie
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,228 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,238 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Crazy](https://open.spotify.com/track/2XrzfABt9QdDE7kBSa3DRx) | [Debba](https://open.spotify.com/artist/3Upr4OOMVKLF2LoFgBaL5X) | [Crazy / Warm](https://open.spotify.com/album/4RKmRrSEYoahQP6QSy20Rr) | 4:28 |
 | 100 | [Without Pause](https://open.spotify.com/track/2DcvId9f7WuBgqWG11KH4H) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Without Pause](https://open.spotify.com/album/2abVu6lYCTT6Coxf2q4TSs) | 7:23 |
 
-Snapshot ID: `AAAAAMGys5KemcHzZj/PgG1pH+b9vxMC`
+Snapshot ID: `AAAAAAWT6ORAsKcDuTQY2e38bA1Hm54Z`

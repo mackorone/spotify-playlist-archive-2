@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Samuel Welten & Russo
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,292 likes - 80 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,286 likes - 80 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BOEM!](https://open.spotify.com/track/3YQlQ6dVswVuOGtVxNMGU3) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [BOEM!](https://open.spotify.com/album/5Vwt8ws6fUX8C6Ba9DPSbo) | 2:24 |
 | 2 | [Rijden Onder Invloed](https://open.spotify.com/track/4Ls8224Uo6Rd3npe9FRei2) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Rijden Onder Invloed](https://open.spotify.com/album/07vDbEeuOsnLfjjperIAoj) | 2:24 |
 | 3 | [LOLA](https://open.spotify.com/track/5fgpgfjqrntiwZM4xLI7vy) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [LOLA](https://open.spotify.com/album/3g0mN6piv5CWYz1KbLgiO8) | 2:15 |
-| 4 | [Papa's Geld](https://open.spotify.com/track/1s6OsKWzYAPdQrF9HJjplT) | [Dave Dekker](https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04) | [Papa's Geld](https://open.spotify.com/album/2SDdUEUN0OOzxV2hhdgrWm) | 2:22 |
-| 5 | [Wauw](https://open.spotify.com/track/3A08L1HFsnHKyFQep0AWyY) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [SUPERSTAR](https://open.spotify.com/album/2jZzND3FctUUDWC8I4MYNK) | 1:58 |
+| 4 | [Wauw](https://open.spotify.com/track/3A08L1HFsnHKyFQep0AWyY) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [SUPERSTAR](https://open.spotify.com/album/2jZzND3FctUUDWC8I4MYNK) | 1:58 |
+| 5 | [Omdat Ik Van Je Hou](https://open.spotify.com/track/4YH2E3cJJQZMzO2jC9Gldw) | [Kaya](https://open.spotify.com/artist/6JHeO4hQdbJWt1eLhs6W01) | [Omdat Ik Van Je Hou](https://open.spotify.com/album/7duRm33pmP2AI25OBg8hj4) | 3:18 |
 | 6 | [Ogen Dicht](https://open.spotify.com/track/1pNwikzUuoBeLVSrPHLaKq) | [KRISTAN](https://open.spotify.com/artist/23406Pq96EgLcng2suxLhT) | [Ogen Dicht](https://open.spotify.com/album/0spjY1xMzhzf1BF82s0EEf) | 2:22 |
 | 7 | [Schoonzoon](https://open.spotify.com/track/19KOz48sq8Je3VCbqsPHXT) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Schoonzoon](https://open.spotify.com/album/3sWH67UbTeVacTK79uSaz4) | 2:18 |
 | 8 | [Designertas](https://open.spotify.com/track/0fbTnbITwXNU5zpWre4xv8) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Designertas](https://open.spotify.com/album/2WXvF4oED8Ja7GoRjiYB93) | 2:24 |
 | 9 | [Online](https://open.spotify.com/track/47W5ccGF0rF08j1YtsTql0) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [SUPERSTAR](https://open.spotify.com/album/2jZzND3FctUUDWC8I4MYNK) | 2:03 |
-| 10 | [Omdat Ik Van Je Hou](https://open.spotify.com/track/4YH2E3cJJQZMzO2jC9Gldw) | [Kaya](https://open.spotify.com/artist/6JHeO4hQdbJWt1eLhs6W01) | [Omdat Ik Van Je Hou](https://open.spotify.com/album/7duRm33pmP2AI25OBg8hj4) | 3:18 |
-| 11 | [Vang Je Mij](https://open.spotify.com/track/6X3TryxL5jLNLKzs08Qobr) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Vang Je Mij](https://open.spotify.com/album/7s6BOKohhphxeeTCGX8OCL) | 3:39 |
-| 12 | [Niets Is Alleen](https://open.spotify.com/track/538pOIiSvDAARtTnJmyL9H) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Niets Is Alleen](https://open.spotify.com/album/6EZGkBGbz37IvUKcNsufDy) | 2:16 |
-| 13 | [Ik Hoor Niks Geks](https://open.spotify.com/track/5WBCWLvkVh8kWBLxUGQd67) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Ik Hoor Niks Geks](https://open.spotify.com/album/4XgUdNLifjU902gYLlIMCw) | 2:16 |
+| 10 | [Papa's Geld](https://open.spotify.com/track/1s6OsKWzYAPdQrF9HJjplT) | [Dave Dekker](https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04) | [Papa's Geld](https://open.spotify.com/album/2SDdUEUN0OOzxV2hhdgrWm) | 2:22 |
+| 11 | [Ik Hoor Niks Geks](https://open.spotify.com/track/5WBCWLvkVh8kWBLxUGQd67) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Ik Hoor Niks Geks](https://open.spotify.com/album/4XgUdNLifjU902gYLlIMCw) | 2:16 |
+| 12 | [Vang Je Mij](https://open.spotify.com/track/6X3TryxL5jLNLKzs08Qobr) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Vang Je Mij](https://open.spotify.com/album/7s6BOKohhphxeeTCGX8OCL) | 3:39 |
+| 13 | [Niets Is Alleen](https://open.spotify.com/track/538pOIiSvDAARtTnJmyL9H) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Niets Is Alleen](https://open.spotify.com/album/6EZGkBGbz37IvUKcNsufDy) | 2:16 |
 | 14 | [Rollercoaster](https://open.spotify.com/track/0ZJ5pfR6GTqEfDqZFkpu5b) | [Javé](https://open.spotify.com/artist/0l0L4jCaPSwe99OwHtzQeT) | [Rollercoaster](https://open.spotify.com/album/6LYbzBb95GIAGNhitP4IaY) | 2:32 |
 | 15 | [Plaats Delict](https://open.spotify.com/track/6fyr7vZ3O3GKeUpuoLfnbg) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Binnenspiegel](https://open.spotify.com/album/2ANcQk5JnfSECKKOt8hdtR) | 2:20 |
 | 16 | [Contactloos](https://open.spotify.com/track/45kAXiP2TF8jlyjLuit8pN) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Contactloos](https://open.spotify.com/album/0IDujmV9TeuiMCLHF6344g) | 2:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [de laatste zomer](https://open.spotify.com/track/38CzuqJ1HtzsPinaZLmNy7) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [lieve monsters: epiloog](https://open.spotify.com/album/6xMq7H65IFjuxIJ5JWLnmr) | 3:24 |
 | 80 | [Vergeten](https://open.spotify.com/track/6Yj1i2nGfRgGQTslGK5But) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Vergeten](https://open.spotify.com/album/4eqi0DD0szFvErxaNCwX9R) | 2:48 |
 
-Snapshot ID: `AAAAAL07Nz0CqEWRv5v/Co+8c1KYOVzH`
+Snapshot ID: `AAAAAA0UTHX39VfID6tJWqZlnL7yG7Ks`

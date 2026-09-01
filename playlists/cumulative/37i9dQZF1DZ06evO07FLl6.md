@@ -4,7 +4,7 @@
 
 > This is Miles Davis\. The essential tracks, all in one playlist.
 
-85 songs - 7 hr 2 min
+86 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,8 +49,9 @@
 | [Intoit](https://open.spotify.com/track/1zrYb4Y8KowyXmbzoHGh7L) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Conception](https://open.spotify.com/album/6Y0n5LeEbECbMcPxS1fyJe) | 3:19 | 2025-07-20 | 2026-08-16 |
 | [It Never Entered My Mind](https://open.spotify.com/track/7HrrI0MX1NLvsIaUlBVB5E) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [A Night of Miles Davis](https://open.spotify.com/album/16cOIJcGCSl6UAqh0K8Ygi) | 4:02 | 2026-07-08 | 2026-07-15 |
 | [It Never Entered My Mind](https://open.spotify.com/track/4ZX7fXhm6iwP7nABz1tcFB) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Blue Note And Capitol Recordings](https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz) | 4:02 | 2025-07-20 | 2026-04-13 |
+| [It Never Entered My Mind \(feat\. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones\) \- Live at Pasadena Civic Auditorium, Pasadena, CA \- February 1956](https://open.spotify.com/track/59ocXoyxNMb1FtL3SOUZhE) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | ['Round About Midnight](https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K) | 5:17 | 2026-09-01 |  |
 | [It Never Entered My Mind \- From The Album Workin' With The Miles Davis Quintet](https://open.spotify.com/track/6AUn7hXlXsNW6Qf5i39JyZ) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [INTEGRAL MILES DAVIS 1951\-1956](https://open.spotify.com/album/3JUxN1xKhdG2zKHqbGkNRH) | 5:23 | 2026-04-13 | 2026-06-29 |
-| [It Never Entered My Mind \- Remastered 2026](https://open.spotify.com/track/5AvWM1pGI4UoTePbibtDC9) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles '56 \(Remastered 2026\)](https://open.spotify.com/album/6KvVLCTGdHboeAN4PGBiAU) | 5:23 | 2026-07-15 |  |
+| [It Never Entered My Mind \- Remastered 2026](https://open.spotify.com/track/5AvWM1pGI4UoTePbibtDC9) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles '56 \(Remastered 2026\)](https://open.spotify.com/album/6KvVLCTGdHboeAN4PGBiAU) | 5:23 | 2026-07-15 | 2026-09-01 |
 | [Jeru](https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 3:13 | 2025-07-20 |  |
 | [Julien dans l'ascenseur \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/187EUpV70OeUMCGwz1GaT7) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 2:09 | 2026-04-16 |  |
 | [Just Squeeze Me \- Remastered 2025](https://open.spotify.com/track/139umzmd3h9DgkK9E5737Z) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles '55 \(Remastered 2025\)](https://open.spotify.com/album/0YO1jsKIjc53uqC2AShPAI) | 7:28 | 2026-03-10 | 2026-05-10 |

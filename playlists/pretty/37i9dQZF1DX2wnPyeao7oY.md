@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: <br/>FKA Rayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,409 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,471 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 49 | [Manslayer \(Hell Hath No Fury\)](https://open.spotify.com/track/33q9li7Jyqe9IUnWPhAGN9) | [BRAT](https://open.spotify.com/artist/1kfSVYNmjmYsdWjEQ6fnQF) | [Manslayer \(Hell Hath No Fury\)](https://open.spotify.com/album/7KWUYBAwKw2mLXrDUoJJgZ) | 2:56 |
 | 50 | [A Cure For A Knife's Blade](https://open.spotify.com/track/4a4S9OwONHLCMOyIS1A6XX) | [PLUME](https://open.spotify.com/artist/4OaXP5RcjrbxyCBmVU5Jcv) | [A Cure For A Knife's Blade](https://open.spotify.com/album/2R29O43lctyQRjUv29WUWW) | 3:19 |
 
-Snapshot ID: `AAAAAPGIrOn048bnf+ErfjBkR0l5XcsN`
+Snapshot ID: `AAAAAKcm5QqCKaocoSgw7hX9ro+LaCH5`

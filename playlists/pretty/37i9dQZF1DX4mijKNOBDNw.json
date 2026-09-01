@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIO717CtRtIQ9dIsbw/1It/yjfXa",
+  "snapshot_id": "AAAAADvIiS9zGSuJghwc5oOkejjkSbHQ",
   "tracks": [
     {
       "added_at": "2024-07-23 21:39:12",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "somos flores",
-        "url": "https://open.spotify.com/album/3xzMAIxJ88TfqcoaOiFhDd"
-      },
-      "artists": [
-        {
-          "name": "babas tutsipop",
-          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
-        }
-      ],
-      "duration_ms": 206727,
-      "name": "somos flores",
-      "url": "https://open.spotify.com/track/34xv9WXxnZxaiHd23LoYxK"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
         "name": "Ovarios",
         "url": "https://open.spotify.com/album/277fN3hslccaJCKC6Evvnk"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 249035,
       "name": "Ovarios",
       "url": "https://open.spotify.com/track/2gC9hVnERFu46pSYh3xNST"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
+        "name": "somos flores",
+        "url": "https://open.spotify.com/album/3xzMAIxJ88TfqcoaOiFhDd"
+      },
+      "artists": [
+        {
+          "name": "babas tutsipop",
+          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
+        }
+      ],
+      "duration_ms": 206727,
+      "name": "somos flores",
+      "url": "https://open.spotify.com/track/34xv9WXxnZxaiHd23LoYxK"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "La Manada",
-        "url": "https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        }
-      ],
-      "duration_ms": 164507,
-      "name": "La Manada",
-      "url": "https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
         "name": "Mujeres",
         "url": "https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
+        "name": "La Manada",
+        "url": "https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK"
       },
       "artists": [
         {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
         }
       ],
-      "duration_ms": 157389,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
+      "duration_ms": 164507,
+      "name": "La Manada",
+      "url": "https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -691,6 +675,22 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 157389,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
         "name": "Femrevoluci\u00f3n",
         "url": "https://open.spotify.com/album/2jeoUKyTm20LffOarIjLIM"
       },
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "Marta",
-        "url": "https://open.spotify.com/album/0iH9r1Rzfa961VMQx9gFsR"
-      },
-      "artists": [
-        {
-          "name": "Marta",
-          "url": "https://open.spotify.com/artist/6gqr3AeZrJMU7J2alQlN8Q"
-        }
-      ],
-      "duration_ms": 207452,
-      "name": "Otra Humanidad",
-      "url": "https://open.spotify.com/track/3eVZky3RqaMnVXZAXeCvws"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
         "name": "Nunca Amor",
         "url": "https://open.spotify.com/album/7c6CsAKYwhoAcNDcKJcx1z"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "Se\u00f1orita Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm"
+        "name": "Marta",
+        "url": "https://open.spotify.com/album/0iH9r1Rzfa961VMQx9gFsR"
       },
       "artists": [
         {
-          "name": "BRUSES",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Marta",
+          "url": "https://open.spotify.com/artist/6gqr3AeZrJMU7J2alQlN8Q"
         }
       ],
-      "duration_ms": 158478,
-      "name": "Se\u00f1orita Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
+      "duration_ms": 207452,
+      "name": "Otra Humanidad",
+      "url": "https://open.spotify.com/track/3eVZky3RqaMnVXZAXeCvws"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -791,6 +775,22 @@
       "duration_ms": 253499,
       "name": "Llora Llora",
       "url": "https://open.spotify.com/track/19i39fA9niRDjcAs3Gf5VO"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
+        "name": "Se\u00f1orita Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm"
+      },
+      "artists": [
+        {
+          "name": "BRUSES",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 158478,
+      "name": "Se\u00f1orita Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
     },
     {
       "added_at": "2024-07-23 21:39:12",

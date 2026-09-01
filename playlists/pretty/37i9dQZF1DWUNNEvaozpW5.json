@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Robe y Leiva.",
-  "num_followers": 618944,
+  "num_followers": 619022,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPLN8sI5EU9YXUN11O1ilMIjuovq",
+  "snapshot_id": "AAAAAJHkcgl1JUFEjOSdXAH4XhhZ+mql",
   "tracks": [
     {
       "added_at": "2026-08-27 22:00:16",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-08-27 22:00:16",
       "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18"
-      },
-      "artists": [
-        {
-          "name": "La Fuga",
-          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
-        }
-      ],
-      "duration_ms": 400480,
-      "name": "Por verte sonre\u00edr",
-      "url": "https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx"
-    },
-    {
-      "added_at": "2026-08-27 22:00:16",
-      "album": {
         "name": "Si Te Pones de Mi Parte",
         "url": "https://open.spotify.com/album/5smmFvmTXUTeAPWeU7c9fX"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 319218,
       "name": "Si Te Pones de Mi Parte",
       "url": "https://open.spotify.com/track/5t7Z12krZNLDLWWLhRGJCZ"
+    },
+    {
+      "added_at": "2026-08-27 22:00:16",
+      "album": {
+        "name": "Mira",
+        "url": "https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18"
+      },
+      "artists": [
+        {
+          "name": "La Fuga",
+          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
+        }
+      ],
+      "duration_ms": 400480,
+      "name": "Por verte sonre\u00edr",
+      "url": "https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx"
     },
     {
       "added_at": "2026-08-27 22:00:16",
@@ -1799,30 +1799,6 @@
     {
       "added_at": "2026-08-27 22:00:16",
       "album": {
-        "name": "Nuestra Historia (feat. Gabriel De La Rosa, Shinova)",
-        "url": "https://open.spotify.com/album/1IlYdxr6kQ1SuzAN1xQWRf"
-      },
-      "artists": [
-        {
-          "name": "Melon Diesel",
-          "url": "https://open.spotify.com/artist/7vL2cUa3hRkdJzxxDsKHyF"
-        },
-        {
-          "name": "Gabriel De La Rosa",
-          "url": "https://open.spotify.com/artist/6ax61YDjkDzWEr0Wdls9uX"
-        },
-        {
-          "name": "Shinova",
-          "url": "https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO"
-        }
-      ],
-      "duration_ms": 262465,
-      "name": "Nuestra Historia (feat. Gabriel De La Rosa, Shinova)",
-      "url": "https://open.spotify.com/track/4apjmILh9SIf1jtbI36xDC"
-    },
-    {
-      "added_at": "2026-08-27 22:00:16",
-      "album": {
         "name": "Un Palo Al Agua (20 Grandes Canciones)",
         "url": "https://open.spotify.com/album/1XcBGMLrcNXMHukhrRNHCq"
       },
@@ -1851,6 +1827,30 @@
       "duration_ms": 329491,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/0rEZBTkZP2Q3c8upkx2WPf"
+    },
+    {
+      "added_at": "2026-08-27 22:00:16",
+      "album": {
+        "name": "Nuestra Historia (feat. Gabriel De La Rosa, Shinova)",
+        "url": "https://open.spotify.com/album/1IlYdxr6kQ1SuzAN1xQWRf"
+      },
+      "artists": [
+        {
+          "name": "Melon Diesel",
+          "url": "https://open.spotify.com/artist/7vL2cUa3hRkdJzxxDsKHyF"
+        },
+        {
+          "name": "Gabriel De La Rosa",
+          "url": "https://open.spotify.com/artist/6ax61YDjkDzWEr0Wdls9uX"
+        },
+        {
+          "name": "Shinova",
+          "url": "https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO"
+        }
+      ],
+      "duration_ms": 262465,
+      "name": "Nuestra Historia (feat. Gabriel De La Rosa, Shinova)",
+      "url": "https://open.spotify.com/track/4apjmILh9SIf1jtbI36xDC"
     },
     {
       "added_at": "2026-08-27 22:00:16",

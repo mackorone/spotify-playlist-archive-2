@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XAs7CuJn4t.md) - [plain]
 
 > <a href="spotify:artist:1bNjWBFWsAAzZSR59lRdpR">Kabza De Small</a>'s favorite tracks\. Updated regularly\. Curated by Kabza De Small\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,883 likes - 20 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,980 likes - 20 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XAs7CuJn4t.md) - [plain]
 | 19 | [Papta \(feat\. Latique\)](https://open.spotify.com/track/0e5Qae1ixFhEReMdCo8fIy) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Chronical Deep](https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt), [LaTique](https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD) | [Ifa Lami](https://open.spotify.com/album/4V3Dpnuzon8YyjdOxFLtWB) | 7:30 |
 | 20 | [Ifa Lami \(feat\. Anzo & Tshego AMG\)](https://open.spotify.com/track/6pg5DVfkeaRM2TS3pNKx2Z) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [Anzo](https://open.spotify.com/artist/17hUKyhHJ29kKUdyOzax7a), [Tshego AMG](https://open.spotify.com/artist/3ZYSp6bvSuOkZSJ1rpQ3WF) | [Ifa Lami](https://open.spotify.com/album/4V3Dpnuzon8YyjdOxFLtWB) | 4:19 |
 
-Snapshot ID: `AAAAAIjYGCRpN2Vz14Z5VpwBGQFsZyxF`
+Snapshot ID: `AAAAAK/75PUbu3KkBJSVFeOQP/T4fr0V`

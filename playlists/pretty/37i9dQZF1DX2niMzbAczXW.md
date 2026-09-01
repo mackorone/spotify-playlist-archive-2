@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2niMzbAczXW.md) - [plain]
 
 > Enjoy the world of “COWBOY BEBOP” ©SUNRISE
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,193 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,221 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2niMzbAczXW.md) - [plain]
 | 49 | [POWER OF KUNG FOOD REMIX](https://open.spotify.com/track/0I2QhrEOuRqVvWiWuNnRoB) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [「COWBOY BEBOP」オリジナルサウンドトラック2　NO DISC](https://open.spotify.com/album/5PGg8xI7LYFEW9hBHK3DCe) | 5:27 |
 | 50 | [Black Coffee](https://open.spotify.com/track/7pbn3bcFnvojMOSvFgzYuD) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [「COWBOY BEBOP」Vitaminless](https://open.spotify.com/album/3xc0ZAAaQT1peXizHAM1wm) | 3:14 |
 
-Snapshot ID: `AAAAADyv/6hv4STW3p4PtJ48Qz3ZjRMM`
+Snapshot ID: `AAAAANXd1hLCx9VjX3VH+38AVqfL5Orj`

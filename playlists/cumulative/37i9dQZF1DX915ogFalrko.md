@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-261 songs - 15 hr 14 min
+262 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Carry On](https://open.spotify.com/track/3keQNqUZlDH9pT7GNFHJl4) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Carry On](https://open.spotify.com/album/2lQTVys9eE0m20jZ2ac6wK) | 2:40 | 2025-10-16 | 2025-11-29 |
 | [Caviar](https://open.spotify.com/track/6ZE4XLcuV22H8T2o7P9IEa) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Beat Tape III](https://open.spotify.com/album/1N3C7yGiRBLJRQ8Pfnxiot) | 2:33 | 2025-10-02 | 2026-01-31 |
 | [Chaud](https://open.spotify.com/track/21zXhlkN1izYqUlIeYY5Rm) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Chaud](https://open.spotify.com/album/3pw7GqZgsQ0Eajd8aTEFjG) | 3:02 | 2026-07-16 | 2026-07-25 |
-| [choking on my words](https://open.spotify.com/track/6F6TCDUf7yQ8cnOJa5H3WC) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [choking on my words](https://open.spotify.com/album/5gFH7Vd8UUchDbCNOvkA9M) | 4:06 | 2026-07-23 | 2026-08-22 |
+| [choking on my words](https://open.spotify.com/track/6F6TCDUf7yQ8cnOJa5H3WC) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [choking on my words](https://open.spotify.com/album/5gFH7Vd8UUchDbCNOvkA9M) | 4:06 | 2026-07-23 |  |
 | [CHROME HEARTS](https://open.spotify.com/track/6zaygXBpwRVwRkHcCB1AKY) | [SHADESOFBLUE](https://open.spotify.com/artist/3e6Ols9XnX8XpR1dDFsRt6) | [CHROME HEARTS](https://open.spotify.com/album/4eQ5NtSJ6luic1PuXBDDFq) | 2:24 | 2025-12-18 | 2026-02-20 |
 | [Clueless \(feat\. Aly & AJ\)](https://open.spotify.com/track/2MPzUXWuyMkO8UwSRSIRsl) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H), [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Tunnel Vision](https://open.spotify.com/album/38DX6jJd8fkTr2wwM2ECdL) | 3:28 | 2026-04-30 | 2026-06-17 |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2025-07-18 |  |
@@ -75,7 +75,8 @@
 | [END OF THE SKY](https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [END OF THE SKY](https://open.spotify.com/album/6cyLb8x3s5tF76GY0uzF45) | 2:39 | 2026-07-02 |  |
 | [enjoy the ride](https://open.spotify.com/track/7knEfWGJmJ7zgTNv3NA6cI) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [enjoy the ride](https://open.spotify.com/album/1EjxPT3Q4ONre5zZakmEhU) | 2:51 | 2025-08-07 | 2026-07-03 |
 | [Everybody's trying to figure me out](https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Everybody's trying to figure me out](https://open.spotify.com/album/7GQN5bFkpE2a9RFknshXuF) | 3:53 | 2025-07-18 | 2025-08-09 |
-| [Everything All at Once](https://open.spotify.com/track/7fCG3RyG1Kn4Hyy7WvK0pU) | [Ashel](https://open.spotify.com/artist/0uQmXAc9TJ42Te5soOJvkT) | [Everything All at Once](https://open.spotify.com/album/47yvyiBxCBut9R8JFCRkBI) | 2:23 | 2026-07-23 |  |
+| [Everything \(Le feu dans ma tête\)](https://open.spotify.com/track/358wdV6Jk1Dj7TkVDt0w8n) | [Ashel](https://open.spotify.com/artist/0uQmXAc9TJ42Te5soOJvkT), [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Everything \(Le feu dans ma tête\)](https://open.spotify.com/album/178FzEeyVs1gcSTTZzQBtB) | 2:21 | 2026-08-21 |  |
+| [Everything All at Once](https://open.spotify.com/track/7fCG3RyG1Kn4Hyy7WvK0pU) | [Ashel](https://open.spotify.com/artist/0uQmXAc9TJ42Te5soOJvkT) | [Everything All at Once](https://open.spotify.com/album/47yvyiBxCBut9R8JFCRkBI) | 2:23 | 2026-07-23 | 2026-09-01 |
 | [Familiar Beat](https://open.spotify.com/track/19w2uyd9GJrTRMcJ5szPge) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Familiar Beat](https://open.spotify.com/album/49a5Qlsa5mEgjnbdW7tFjY) | 3:18 | 2025-07-18 | 2025-07-29 |
 | [Feels Like Summer](https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Summer Pack](https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45) | 4:57 | 2025-07-18 |  |
 | [Find Your Love](https://open.spotify.com/track/34yxhgQ7fIRnT6l6LmlUxD) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Find Your Love](https://open.spotify.com/album/7ffIGFj6wU4Z5CC56EmD5D) | 3:10 | 2025-11-20 | 2025-12-19 |
@@ -266,7 +267,7 @@
 | [Yes I'm Changing](https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 4:30 | 2025-07-18 |  |
 | [You Don't Need A Reason To Call \(feat\. Valley\)](https://open.spotify.com/track/37hZrsZ7Ab3xDppA4qAb3S) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T), [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [You Don't Need A Reason To Call \(feat\. Valley\)](https://open.spotify.com/album/5E6P1NTqT2NgoqzkroOk9H) | 3:40 | 2026-07-10 | 2026-07-25 |
 | [You You You](https://open.spotify.com/track/0kHP8fxSPNPP40kRHtnfLB) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You You You / Audrey Hepburn](https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu) | 2:46 | 2025-10-10 | 2025-10-17 |
-| [young rich & beautiful](https://open.spotify.com/track/4xMyrjeR1PICYAB9ZYUg9t) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [young rich & beautiful](https://open.spotify.com/album/2P0bCcJQxB63lEcIglibMp) | 1:58 | 2025-12-04 |  |
+| [young rich & beautiful](https://open.spotify.com/track/4xMyrjeR1PICYAB9ZYUg9t) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [young rich & beautiful](https://open.spotify.com/album/2P0bCcJQxB63lEcIglibMp) | 1:58 | 2025-12-04 | 2026-09-01 |
 | [Yours & Mine](https://open.spotify.com/track/0Mp0s7GXwLHFlZWwUVftL5) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:33 | 2026-02-06 |  |
 | [Yours & Mine](https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Yours & Mine](https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn) | 3:33 | 2025-07-18 | 2025-11-09 |
 

@@ -1,12 +1,12 @@
 {
   "description": "New jazz for open minds. Cover: Ezra Collective",
-  "num_followers": 1049743,
+  "num_followers": 1049756,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALf3fb1mcnS7y95MRkHmVkYaEh3l",
+  "snapshot_id": "AAAAANra3dRzmEVo/2CO+jDpycHdh63m",
   "tracks": [
     {
       "added_at": "2026-08-28 04:01:31",
@@ -680,10 +680,6 @@
           "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
         },
         {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
-        },
-        {
           "name": "Anthony Evans",
           "url": "https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV"
         },
@@ -702,6 +698,10 @@
         {
           "name": "MonoNeon",
           "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
+        },
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
         }
       ],
       "duration_ms": 283000,

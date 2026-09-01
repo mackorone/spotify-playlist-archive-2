@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "2017",
+        "url": "https://open.spotify.com/album/0CVtpDDCVCvB4dWoBngolU"
+      },
+      "artists": [
+        {
+          "name": "Zakmes",
+          "url": "https://open.spotify.com/artist/2BwsNDoJpoq6wk8ZK6UZgt"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173508,
+      "name": "2017",
+      "url": "https://open.spotify.com/track/5DGeJrmkia0RZS2m1qzOlt"
+    },
+    {
+      "album": {
         "name": "23's A Baby",
         "url": "https://open.spotify.com/album/61YuzrhatyhsGuFD97qpPt"
       },
@@ -106,7 +124,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 145750,
       "name": "5 YEAR PLAN",
       "url": "https://open.spotify.com/track/4jit6ooqU6veoMQ7L0exFW"
@@ -128,6 +146,24 @@
       "duration_ms": 149653,
       "name": "595",
       "url": "https://open.spotify.com/track/3CloubWEgboFlaZ95WudUe"
+    },
+    {
+      "album": {
+        "name": "7563",
+        "url": "https://open.spotify.com/album/7kIjf3ntzfOIwrotbZVMLL"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243302,
+      "name": "7563",
+      "url": "https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y"
     },
     {
       "album": {
@@ -1800,7 +1836,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 206393,
       "name": "Blindsided",
       "url": "https://open.spotify.com/track/2phK5vGVKu2mEh7rZz6sFT"
@@ -2392,7 +2428,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 191230,
       "name": "Can\u2019t Feel",
       "url": "https://open.spotify.com/track/5BFd73Spn4x35e1PbBdfv6"
@@ -3182,7 +3218,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 160917,
       "name": "Cross My Heart",
       "url": "https://open.spotify.com/track/2uEWM5lSQsl0ubzbxFd6U7"
@@ -3272,7 +3308,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 209105,
       "name": "CTRL + ALT + DEL",
       "url": "https://open.spotify.com/track/338UsXlYt8K25bAuyB3tAy"
@@ -4159,6 +4195,24 @@
     },
     {
       "album": {
+        "name": "Dumb Sites",
+        "url": "https://open.spotify.com/album/2GPsxltLceQEZPkvWirb5M"
+      },
+      "artists": [
+        {
+          "name": "TAPE TOY",
+          "url": "https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231455,
+      "name": "Dumb Sites",
+      "url": "https://open.spotify.com/track/0RoiBuHR2XVeF9e1glALr3"
+    },
+    {
+      "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD"
       },
@@ -4249,6 +4303,24 @@
     },
     {
       "album": {
+        "name": "Educate The Billionaires",
+        "url": "https://open.spotify.com/album/0UubT3qfExNtTr8foTrC2l"
+      },
+      "artists": [
+        {
+          "name": "GREEN CROW COLLECTIVE",
+          "url": "https://open.spotify.com/artist/3FgJRgo3kQVAo5MvdgldeD"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167208,
+      "name": "Educate The Billionaires",
+      "url": "https://open.spotify.com/track/0nDhoLQdIA8YoebS6xBmfW"
+    },
+    {
+      "album": {
         "name": "August Parker",
         "url": "https://open.spotify.com/album/1u9yZHZqScHVKu9cei7DfX"
       },
@@ -4296,7 +4368,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 183780,
       "name": "Enlightened, baby",
       "url": "https://open.spotify.com/track/7qK0vvtJiKU7Pfmdx5JB7b"
@@ -4429,6 +4501,24 @@
     },
     {
       "album": {
+        "name": "There Near",
+        "url": "https://open.spotify.com/album/4x9eupWjvX2qpy7pAgPAQE"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Jr.",
+          "url": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253556,
+      "name": "Everything At Once",
+      "url": "https://open.spotify.com/track/5Hwv7ZHrkqqNUe5FpKJRf8"
+    },
+    {
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/10reOzyrRiJQehulKminkn"
       },
@@ -4548,10 +4638,28 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 381293,
       "name": "Falling out of Love",
       "url": "https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0"
+    },
+    {
+      "album": {
+        "name": "Falling Star",
+        "url": "https://open.spotify.com/album/15xgOuWwNdUrPHbsUte6mh"
+      },
+      "artists": [
+        {
+          "name": "SALVIA",
+          "url": "https://open.spotify.com/artist/7fMFvARkKRdRyAng6OhkD8"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203574,
+      "name": "Falling Star",
+      "url": "https://open.spotify.com/track/3zmsrZsBKhQsCLEHcuiMWc"
     },
     {
       "album": {
@@ -5265,6 +5373,24 @@
     },
     {
       "album": {
+        "name": "Get Me In / Get Me Out",
+        "url": "https://open.spotify.com/album/5LV23XzorKzO3RFdOqNhUS"
+      },
+      "artists": [
+        {
+          "name": "Ciao Lucifer",
+          "url": "https://open.spotify.com/artist/7HJjZdoBrnDMtKKrWpjJII"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210600,
+      "name": "Get Me In / Get Me Out",
+      "url": "https://open.spotify.com/track/2vSTmXh3DzqOyS8uBsNjmL"
+    },
+    {
+      "album": {
         "name": "MASQUERADE",
         "url": "https://open.spotify.com/album/382CgB4kYWoc4ksVQpHjBo"
       },
@@ -5432,7 +5558,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 230662,
       "name": "Give Me My High",
       "url": "https://open.spotify.com/track/5GZOw40Rlpy04dqe82u3Oe"
@@ -5522,7 +5648,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 185998,
       "name": "Go Fuck Urself",
       "url": "https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP"
@@ -7438,7 +7564,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 220562,
       "name": "In My Heart",
       "url": "https://open.spotify.com/track/5GiQ8kQxlbAP9TxPOcllCg"
@@ -7514,6 +7640,24 @@
       "duration_ms": 274123,
       "name": "Inside",
       "url": "https://open.spotify.com/track/18RVwkWFeF6HttkCGnjIop"
+    },
+    {
+      "album": {
+        "name": "Insignificant Other",
+        "url": "https://open.spotify.com/album/2eoTB4LtFdMkPNDVT88Vib"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353666,
+      "name": "Insignificant Other",
+      "url": "https://open.spotify.com/track/3NdLNUPkumBUIcacNxPlVE"
     },
     {
       "album": {
@@ -8257,6 +8401,24 @@
     },
     {
       "album": {
+        "name": "Leave The Sun Behind",
+        "url": "https://open.spotify.com/album/6uBWqFmQLjfo7NLXTWEHk2"
+      },
+      "artists": [
+        {
+          "name": "Kovacs",
+          "url": "https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175280,
+      "name": "Leave The Sun Behind",
+      "url": "https://open.spotify.com/track/0W6oV7MeL0PWEymCdYJRvZ"
+    },
+    {
+      "album": {
         "name": "leaving is easy",
         "url": "https://open.spotify.com/album/4csC6Ngy7HOWdFhh21SMhP"
       },
@@ -8823,6 +8985,24 @@
     },
     {
       "album": {
+        "name": "Love Is On My Mind",
+        "url": "https://open.spotify.com/album/6dWxC5gdXJKT7mO5lT0ptz"
+      },
+      "artists": [
+        {
+          "name": "J.Bernardt",
+          "url": "https://open.spotify.com/artist/6LiV1FV5nwdp3k6n3LMoQn"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203373,
+      "name": "Love Is On My Mind",
+      "url": "https://open.spotify.com/track/4LuP3veDBkqnyLQvgDQpJb"
+    },
+    {
+      "album": {
         "name": "Oh! The Ocean (Extended Version)",
         "url": "https://open.spotify.com/album/5CnkossieD4tmC9sYwUNRV"
       },
@@ -8942,7 +9122,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 210386,
       "name": "Maintained Love",
       "url": "https://open.spotify.com/track/1ePjZbeDuE2UhK9cOGlzbL"
@@ -10329,6 +10509,24 @@
     },
     {
       "album": {
+        "name": "Not Cool",
+        "url": "https://open.spotify.com/album/10K90z7u4oN08wiwIeWrQX"
+      },
+      "artists": [
+        {
+          "name": "Disgusting Sisters",
+          "url": "https://open.spotify.com/artist/5Lh2DW6C4L5p23wvyAheDe"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176810,
+      "name": "Not Cool",
+      "url": "https://open.spotify.com/track/6ZfXGI85ZmI5PV9sNAmwV1"
+    },
+    {
+      "album": {
         "name": "Nothing",
         "url": "https://open.spotify.com/album/60fqRyu5oxkvMGBPlDqpH5"
       },
@@ -10466,7 +10664,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 131120,
       "name": "Objects",
       "url": "https://open.spotify.com/track/4y57Rh7Ec9DF5aVN6GqRa6"
@@ -10866,7 +11064,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 221682,
       "name": "Opportunity Arising",
       "url": "https://open.spotify.com/track/4XQmgpVjo7mgZu68ACPQoJ"
@@ -12098,7 +12296,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 238500,
       "name": "Run away with me",
       "url": "https://open.spotify.com/track/6LT3c2tVapQRzHQSne8gYI"
@@ -12448,6 +12646,28 @@
       "duration_ms": 198675,
       "name": "See What Sticks",
       "url": "https://open.spotify.com/track/1kWMfZuciYaWSYIa4QrbKT"
+    },
+    {
+      "album": {
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253520,
+      "name": "SEEIN\u2019 STARS: ELTON JOHN VERSION",
+      "url": "https://open.spotify.com/track/3lCQJyHHzQNVkFptuEioPx"
     },
     {
       "album": {
@@ -14014,7 +14234,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 212105,
       "name": "Take It As A Man",
       "url": "https://open.spotify.com/track/67lPtQBeAN3kVFnZLGByXQ"
@@ -14180,6 +14400,24 @@
       "duration_ms": 309946,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/6eameOYe26Fy9h11X2S4P5"
+    },
+    {
+      "album": {
+        "name": "I Must Be Dreaming",
+        "url": "https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226915,
+      "name": "Tea Time",
+      "url": "https://open.spotify.com/track/31GAlUeCLW7X2wabzWaCYM"
     },
     {
       "album": {
@@ -14594,7 +14832,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 185760,
       "name": "THE FIRE",
       "url": "https://open.spotify.com/track/0eVa2JjoKR52Y4qzKyk8v2"
@@ -16408,7 +16646,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 184761,
       "name": "we should talk",
       "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
@@ -16740,6 +16978,24 @@
       "duration_ms": 259453,
       "name": "Winged Seeds",
       "url": "https://open.spotify.com/track/2Pe8YBKX04g0JprDskz1ty"
+    },
+    {
+      "album": {
+        "name": "This Mirror Weighs a Ton",
+        "url": "https://open.spotify.com/album/2LgXUDNp1uPV0t55aTlfUT"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255400,
+      "name": "Wings On Fire",
+      "url": "https://open.spotify.com/track/36g619h8gPXcIxOQKDLQ5D"
     },
     {
       "album": {

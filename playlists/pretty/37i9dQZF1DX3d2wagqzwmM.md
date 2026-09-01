@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Quintino
 
-[Spotify](https://open.spotify.com/user/spotify) - 651,410 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,520 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 52 | [It Must Have Been Love \(feat\. Charla K\)](https://open.spotify.com/track/4xZcO6Kb9LikXY6OBT0WWF) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Charla K](https://open.spotify.com/artist/1nKYzgyVrpiCrKdlUiNR8E) | [It Must Have Been Love \(feat\. Charla K\)](https://open.spotify.com/album/2L5EXh101zt0yB67o2SYWy) | 2:56 |
 | 53 | [Awaken Your Soul](https://open.spotify.com/track/1DP8HnjcWCZN1DNpLtMqKn) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A) | [Awaken Your Soul](https://open.spotify.com/album/2bidWTYP4zpoO0pG1jo22f) | 2:52 |
 | 54 | [Euphoria](https://open.spotify.com/track/3dL80LEvdLfZllIKdCeGFN) | [The Hitmen](https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75), [Nasha](https://open.spotify.com/artist/4rjMrD55Od3MSYRyl3xt6n) | [Euphoria](https://open.spotify.com/album/0QJZAHxcKEhpQPkBgiCwX4) | 3:58 |
-| 55 | [Babylon \(Men Machine Rework\)](https://open.spotify.com/track/5sUr2jls97So7KyzHC8Rqk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [Men Machine](https://open.spotify.com/artist/7zoHSez9dJIUMkvgxvM0Z2), [Congorock](https://open.spotify.com/artist/683obsKtbyVNhitubjOZhi), [KENZ](https://open.spotify.com/artist/4hG14VdUeZMYHmKwXjGv2L) | [Men Machine EP](https://open.spotify.com/album/1FDbMjE2YKFJTEAcSicacm) | 2:48 |
-| 56 | [Party So Hard](https://open.spotify.com/track/4cVy5JeJst4DxracwylORB) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE) | [Party So Hard](https://open.spotify.com/album/5nHZegXHDO2Fw7fLMwFfqa) | 2:55 |
+| 55 | [Party So Hard](https://open.spotify.com/track/4cVy5JeJst4DxracwylORB) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE) | [Party So Hard](https://open.spotify.com/album/5nHZegXHDO2Fw7fLMwFfqa) | 2:55 |
+| 56 | [Babylon \(Men Machine Rework\)](https://open.spotify.com/track/5sUr2jls97So7KyzHC8Rqk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [Men Machine](https://open.spotify.com/artist/7zoHSez9dJIUMkvgxvM0Z2), [Congorock](https://open.spotify.com/artist/683obsKtbyVNhitubjOZhi), [KENZ](https://open.spotify.com/artist/4hG14VdUeZMYHmKwXjGv2L) | [Men Machine EP](https://open.spotify.com/album/1FDbMjE2YKFJTEAcSicacm) | 2:48 |
 | 57 | [Radiate \(feat\. Hayley May\)](https://open.spotify.com/track/1y9Yo4EGuAVlmUr3fgklpm) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [nilsix](https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I), [RYOS](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Radiate \(feat\. Hayley May\)](https://open.spotify.com/album/0qhB3pwU5CkZJ9LT7wBHRg) | 4:03 |
 | 58 | [Crazy People 2026](https://open.spotify.com/track/4yqOK3jja63u5BRT2tRBWb) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU), [Liquid Soul](https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS) | [Crazy People 2026](https://open.spotify.com/album/1B8Vuct1eCGz5UWP7FlLIW) | 3:03 |
 | 59 | [Don't You Want Me](https://open.spotify.com/track/2I1wxwKrXw4Zv2Bg8IUMPd) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Don't You Want Me](https://open.spotify.com/album/49knpaXPppSpCMgxRipDc1) | 2:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 79 | [Green Light](https://open.spotify.com/track/1A0yrRs7GAe1gbCklYE6wl) | [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [Green Light](https://open.spotify.com/album/3IIcIxBM771Nd5KIRYRQor) | 3:07 |
 | 80 | [Bad Behaviour](https://open.spotify.com/track/0aF53G3vRoyWnBCBKfihyX) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Bad Behaviour](https://open.spotify.com/album/4P0xcSNathFwohfVIBUTtn) | 2:46 |
 
-Snapshot ID: `AAAAACfAy8vFR7uo9TQCJj4mPsXEKBXi`
+Snapshot ID: `AAAAAFTh0NADHjW3r9Rm1z774Y53Puqo`

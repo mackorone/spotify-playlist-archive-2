@@ -1,12 +1,12 @@
 {
   "description": "Listen hot and new Korean classical & new age  music in here! (Cover: \uc870\uc218\ubbf8(Sumi Jo)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 5816,
+  "num_followers": 5818,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM3DwmrIR0DLMAICERW5vZCpQYP3",
+  "snapshot_id": "AAAAAFNLTreCZ8v1P84Yi9RFYExyE1WL",
   "tracks": [
     {
       "added_at": "2026-05-07 06:03:41",
@@ -983,30 +983,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "breathe",
-        "url": "https://open.spotify.com/album/3k4ZMhg6a5jusVTEYGvOpi"
-      },
-      "artists": [
-        {
-          "name": "Chad Lawson",
-          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
-        },
-        {
-          "name": "Esther Yoo",
-          "url": "https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC"
-        },
-        {
-          "name": "James Southall",
-          "url": "https://open.spotify.com/artist/58uaT9Z6K7C6A0Jx39jfFc"
-        }
-      ],
-      "duration_ms": 267085,
-      "name": "for such a gaze of wonder",
-      "url": "https://open.spotify.com/track/2zB8eY7fsdK1Xon0fDtC0J"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "Il Mondo",
         "url": "https://open.spotify.com/album/5KZRNp9ayuswLvXGyUPmYq"
       },
@@ -1027,6 +1003,30 @@
       "duration_ms": 234266,
       "name": "Il Mondo",
       "url": "https://open.spotify.com/track/1Ep6pGxu3lZcqPJOLiYRbY"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "breathe",
+        "url": "https://open.spotify.com/album/3k4ZMhg6a5jusVTEYGvOpi"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        },
+        {
+          "name": "Esther Yoo",
+          "url": "https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC"
+        },
+        {
+          "name": "James Southall",
+          "url": "https://open.spotify.com/artist/58uaT9Z6K7C6A0Jx39jfFc"
+        }
+      ],
+      "duration_ms": 267085,
+      "name": "for such a gaze of wonder",
+      "url": "https://open.spotify.com/track/2zB8eY7fsdK1Xon0fDtC0J"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "The Classic",
-        "url": "https://open.spotify.com/album/614ubt7Yl8JGHPLYqVfNcS"
-      },
-      "artists": [
-        {
-          "name": "Park Ki Young",
-          "url": "https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN"
-        },
-        {
-          "name": "Chaehoon You",
-          "url": "https://open.spotify.com/artist/2Ll5QOsn99i5rbGcFjikwR"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "Caruso",
-      "url": "https://open.spotify.com/track/2veXChepxwodH88ev8wqxx"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "Espero 1st, Romance on Classic",
         "url": "https://open.spotify.com/album/1mnrmCrepcylAUQOeHyO27"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 236400,
       "name": "Endless",
       "url": "https://open.spotify.com/track/7nGfKdVLjNJ11H8aHfz0h1"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "The Classic",
+        "url": "https://open.spotify.com/album/614ubt7Yl8JGHPLYqVfNcS"
+      },
+      "artists": [
+        {
+          "name": "Park Ki Young",
+          "url": "https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN"
+        },
+        {
+          "name": "Chaehoon You",
+          "url": "https://open.spotify.com/artist/2Ll5QOsn99i5rbGcFjikwR"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "Caruso",
+      "url": "https://open.spotify.com/track/2veXChepxwodH88ev8wqxx"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1855,42 +1855,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Beethoven: Complete Piano Sonatas",
-        "url": "https://open.spotify.com/album/1aZMeJFNESnJsxelEwbCmK"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "HieYon Choi",
-          "url": "https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB"
-        }
-      ],
-      "duration_ms": 516492,
-      "name": "Piano Sonata No. 7 in D Major, Op. 10 No. 3: II. Largo e mesto",
-      "url": "https://open.spotify.com/track/1OLeHLfNNpm4J0az1zLhN5"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Dear Forest",
-        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
-      },
-      "artists": [
-        {
-          "name": "Hong Jin Ho",
-          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
-        }
-      ],
-      "duration_ms": 348446,
-      "name": "Cello Forest",
-      "url": "https://open.spotify.com/track/3p0fbbsb3DczN0LspSgO6r"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "BACH",
         "url": "https://open.spotify.com/album/7b33CBpLX0MdeTERTqWLtY"
       },
@@ -1911,6 +1875,42 @@
       "duration_ms": 361853,
       "name": "Duet for Flute and Oboe No. 1 in E Minor, F. 54: I. Allegro",
       "url": "https://open.spotify.com/track/4xglnE2yA87Ym31aVxBQnW"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "Dear Forest",
+        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
+      },
+      "artists": [
+        {
+          "name": "Hong Jin Ho",
+          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
+        }
+      ],
+      "duration_ms": 348446,
+      "name": "Cello Forest",
+      "url": "https://open.spotify.com/track/3p0fbbsb3DczN0LspSgO6r"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "Beethoven: Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/1aZMeJFNESnJsxelEwbCmK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "HieYon Choi",
+          "url": "https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB"
+        }
+      ],
+      "duration_ms": 516492,
+      "name": "Piano Sonata No. 7 in D Major, Op. 10 No. 3: II. Largo e mesto",
+      "url": "https://open.spotify.com/track/1OLeHLfNNpm4J0az1zLhN5"
     },
     {
       "added_at": "2026-05-07 06:03:41",

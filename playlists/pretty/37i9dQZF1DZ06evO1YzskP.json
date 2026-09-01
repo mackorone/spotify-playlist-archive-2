@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 69446,
+  "num_followers": 69478,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apIhAAAAAACrlPglFOU909Q1nDUrMeYv",
+  "snapshot_id": "apNygAAAAABP2xRxM6cxxmpVZ2nd5dM/",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "S\u00f3lo Un D\u00eda",
+        "url": "https://open.spotify.com/album/1QxspiuEU6PfmiUyboMSPv"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "S\u00f3lo Un D\u00eda",
+      "url": "https://open.spotify.com/track/47GXXBeBf5Sn4URZCrN1t3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Serafin Zambada",
         "url": "https://open.spotify.com/album/4F2fbkwSDTWxX9s2ThmRCt"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 130368,
       "name": "Tus Red flags",
       "url": "https://open.spotify.com/track/0AJsXKUr5Zjtz1GXH34cOB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S\u00f3lo Un D\u00eda",
-        "url": "https://open.spotify.com/album/1QxspiuEU6PfmiUyboMSPv"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "S\u00f3lo Un D\u00eda",
-      "url": "https://open.spotify.com/track/47GXXBeBf5Sn4URZCrN1t3"
     },
     {
       "added_at": null,

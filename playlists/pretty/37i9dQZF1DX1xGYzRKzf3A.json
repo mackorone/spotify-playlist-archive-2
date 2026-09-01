@@ -1,12 +1,12 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 176400,
+  "num_followers": 176454,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKOA/Pp8KJrcAuJvN8ZvGfPclv21",
+  "snapshot_id": "AAAAAMGLy8x38j2jciCSccnkSyDPSVFS",
   "tracks": [
     {
       "added_at": "2026-06-08 18:17:51",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "Cumbia Con La Luna",
+      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "Barrio Bravo",
         "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 346800,
       "name": "Cumbia sobre el r\u00edo / Interludio",
       "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "Tao, Tao",
-      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Soy HUMBE",
-        "url": "https://open.spotify.com/album/6L7RJ9Mkocxwgm549ROLjD"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 178327,
-      "name": "Confieso",
-      "url": "https://open.spotify.com/track/099s1FOMj4MzzcEKn5UTzR"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Pistoleros Famosos",
         "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
       },
@@ -588,9 +572,25 @@
           "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
         }
       ],
-      "duration_ms": 215066,
-      "name": "Cumbia Con La Luna",
-      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
+      "duration_ms": 172706,
+      "name": "Tao, Tao",
+      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Soy HUMBE",
+        "url": "https://open.spotify.com/album/6L7RJ9Mkocxwgm549ROLjD"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 178327,
+      "name": "Confieso",
+      "url": "https://open.spotify.com/track/099s1FOMj4MzzcEKn5UTzR"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 180826,
-      "name": "Ac\u00e1bame de Matar",
-      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Palabras Tristes",
         "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 190813,
       "name": "Mary Lee",
       "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 180826,
+      "name": "Ac\u00e1bame de Matar",
+      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Rigo Tovar '81",
-        "url": "https://open.spotify.com/album/6g5zpIsB6jo8QkIz5wLXdd"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Vuelve A Encender Mi Fuego",
-      "url": "https://open.spotify.com/track/6xsGdPEjDFBd5QTuugaA5P"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "15 Boleros De Oro",
         "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 158893,
       "name": "La Vieja Banca",
       "url": "https://open.spotify.com/track/48sgC9LwPwCUBR4MpuVW0R"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Rigo Tovar '81",
+        "url": "https://open.spotify.com/album/6g5zpIsB6jo8QkIz5wLXdd"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Vuelve A Encender Mi Fuego",
+      "url": "https://open.spotify.com/track/6xsGdPEjDFBd5QTuugaA5P"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Mil Historias",
-        "url": "https://open.spotify.com/album/4XjfK4bzkOr37JS2H3XB65"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 216840,
-      "name": "C\u00f3mo le hago",
-      "url": "https://open.spotify.com/track/1SPWCyvl2ooPPw4iAv9S07"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "15 Boleros De Oro",
         "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 177973,
       "name": "En Eso No Quedamos",
       "url": "https://open.spotify.com/track/1FUQ3tfR1LuZmptkavWTQa"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Mil Historias",
+        "url": "https://open.spotify.com/album/4XjfK4bzkOr37JS2H3XB65"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 216840,
+      "name": "C\u00f3mo le hago",
+      "url": "https://open.spotify.com/track/1SPWCyvl2ooPPw4iAv9S07"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Exitos De Oro",
-        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "Arrepientete",
-      "url": "https://open.spotify.com/track/0FagG8oiMGPW99LZspwr8Y"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ"
       },
@@ -1891,18 +1875,18 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Siempre",
-        "url": "https://open.spotify.com/album/6gz2pSp3FRPv6yWUnQ0VdC"
+        "name": "Exitos De Oro",
+        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
       },
       "artists": [
         {
-          "name": "Los Humildes",
-          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 192809,
-      "name": "Amor Limosnero",
-      "url": "https://open.spotify.com/track/6kk5NriWRn5my0USWHifUS"
+      "duration_ms": 196640,
+      "name": "Arrepientete",
+      "url": "https://open.spotify.com/track/0FagG8oiMGPW99LZspwr8Y"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1919,6 +1903,22 @@
       "duration_ms": 223920,
       "name": "Si Yo Fuera Tu",
       "url": "https://open.spotify.com/track/6aF7eMrXRdSHnqpC79NK40"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/6gz2pSp3FRPv6yWUnQ0VdC"
+      },
+      "artists": [
+        {
+          "name": "Los Humildes",
+          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
+        }
+      ],
+      "duration_ms": 192809,
+      "name": "Amor Limosnero",
+      "url": "https://open.spotify.com/track/6kk5NriWRn5my0USWHifUS"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "Los \u00c9xitos De:",
+        "url": "https://open.spotify.com/album/5prbNOmyk3XzdNnZFmYDst"
+      },
+      "artists": [
+        {
+          "name": "Vaquero",
+          "url": "https://open.spotify.com/artist/2mHlGcW5Iwn9R4QDXjABjl"
+        }
+      ],
+      "duration_ms": 185371,
+      "name": "Eres un Encanto",
+      "url": "https://open.spotify.com/track/3ebkZroNB7RD6gnwLpRiHB"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "La Trayectoria 30 Exitos",
         "url": "https://open.spotify.com/album/7aYo3Fnbr79g0gSQS6xegH"
       },
@@ -2051,22 +2067,6 @@
       "duration_ms": 181506,
       "name": "Mi Tesoro",
       "url": "https://open.spotify.com/track/1kMcQ5ovfzCgvdMONCOWNS"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
-        "name": "Los \u00c9xitos De:",
-        "url": "https://open.spotify.com/album/5prbNOmyk3XzdNnZFmYDst"
-      },
-      "artists": [
-        {
-          "name": "Vaquero",
-          "url": "https://open.spotify.com/artist/2mHlGcW5Iwn9R4QDXjABjl"
-        }
-      ],
-      "duration_ms": 185371,
-      "name": "Eres un Encanto",
-      "url": "https://open.spotify.com/track/3ebkZroNB7RD6gnwLpRiHB"
     }
   ],
   "unique_name": "Coraz\u00f3n Regio ",

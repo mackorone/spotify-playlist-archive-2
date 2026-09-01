@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,440 songs - 3 day 11 hr 46 min
+1,441 songs - 3 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -700,6 +700,7 @@
 | [Long Time](https://open.spotify.com/track/2UKdtw1iNzsx2gmuYbQaKu) | [Eddus](https://open.spotify.com/artist/6iFNqjfucW5tG2WUK0nSxR) | [Long Time](https://open.spotify.com/album/3B3on9GGaYMjfyQpgVOnLa) | 3:32 | 2026-05-28 | 2026-07-03 |
 | [Long Way Back](https://open.spotify.com/track/5KzTKN4TB4pPsMLQMuzUAr) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Long Way Back](https://open.spotify.com/album/69LFgCAV86GGkkVkBABtTG) | 3:52 | 2026-08-25 |  |
 | [Look to the Left, Look to the Right](https://open.spotify.com/track/36ysdfAFO9qWTEdKWdQDiM) | [Aleksi Oksanen](https://open.spotify.com/artist/57ykQsgvmUWPQbIMpiyiH2) | [Look to the Left, Look to the Right](https://open.spotify.com/album/6o7NXuKePoAU6DWH7qEGPB) | 1:52 | 2026-04-23 | 2026-06-05 |
+| [Loophole](https://open.spotify.com/track/55MQNMrirlAqMne0FmNiNd) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [Loophole](https://open.spotify.com/album/5aMFB6z220sBgH2nlnXboe) | 4:34 | 2026-08-31 |  |
 | [Loretta](https://open.spotify.com/track/3ORI5Wvchp4znjeSerJiCx) | [Out of Order](https://open.spotify.com/artist/5cqrirtBO1epcv1XqdB3aH) | [Loretta](https://open.spotify.com/album/3roeIB4nfgpfabqAm1EXHJ) | 3:39 | 2026-04-06 | 2026-05-03 |
 | [Losing Who I Used to Be](https://open.spotify.com/track/3oyt3P5sKEthWeTl5Dmxut) | [Teddy Is Offline](https://open.spotify.com/artist/3Uj7YPDmbS3gpV6iH9sF0V) | [Losing Who I Used to Be](https://open.spotify.com/album/1dGWdvcUV5brX9x6t7s3Qe) | 3:11 | 2026-07-17 | 2026-08-30 |
 | [Lost](https://open.spotify.com/track/5PK3kBmEfUPJ4Ht1Nb8czJ) | [Chucky Cat](https://open.spotify.com/artist/3cEyhRbqLRp5Xhb7t9pzvL), [Lil Innocent](https://open.spotify.com/artist/4f4elwDrvecNEfivB6fKS7), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [RoBeats](https://open.spotify.com/artist/6rMyJtMiEjGtD9HHbz5Vge) | [Lost](https://open.spotify.com/album/1hZdhASC93ZnXSjx6abGrN) | 3:12 | 2026-02-03 | 2026-03-07 |

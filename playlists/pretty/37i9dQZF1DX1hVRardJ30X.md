@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by YOSHI & Jesse Baez, Natanael Cano, Clarent & Omar Courtz, Wisin & Ivy Queen & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,736 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,755 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 39 | [VIAJE DE IDA](https://open.spotify.com/track/4oohl0TadKcQKm2J0zBmip) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [VIAJE DE IDA](https://open.spotify.com/album/6kf6WGzdT5ce45lsImaCLh) | 1:50 |
 | 40 | [Me Enamoró](https://open.spotify.com/track/3eQBHY5d4ZmKgyPhPWSWn8) | [Osman Música](https://open.spotify.com/artist/5sqVJ7uoK1LNs9ztmrsvmC) | [Me Enamoró](https://open.spotify.com/album/4ZZcvqDxBYczui7RbD9Vaf) | 2:34 |
 
-Snapshot ID: `AAAAAP+UbgXWrAQQgQjRZHokztsyRFje`
+Snapshot ID: `AAAAADI+O9c8mnNuQKIhPGK9G1nVrwF6`

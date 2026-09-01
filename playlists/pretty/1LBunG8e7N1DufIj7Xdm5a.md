@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 283 likes - 4,768 songs - 10 day 16 hr 58 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 283 likes - 4,769 songs - 10 day 17 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4776,5 +4776,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4766 | [Into The Light](https://open.spotify.com/track/4XXJ6FatlWmezqQiv8u6KG) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Into The Light](https://open.spotify.com/album/4Zxntf7XGEkNtTvXcIc3dd) | 3:31 |
 | 4767 | [Caminos libres](https://open.spotify.com/track/66CjDz3PkY2ALbNpQPA15v) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 3:42 |
 | 4768 | [Holding onto little things](https://open.spotify.com/track/1hVRpRGxYzrRZnZrqEoKNd) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [The Electric Guitar Monument](https://open.spotify.com/album/4GFENOuE6IiYQykIx8URDf) | 3:25 |
+| 4769 | [Ways Beyond This Day](https://open.spotify.com/track/0L2R4HAzQyMbWrCup7yAh2) | [Joynes](https://open.spotify.com/artist/2ttk1u6cLmHeTaBrqw56QF) | [Voices From The Box](https://open.spotify.com/album/3v2a3hnkQRAV6JRZzzDZNs) | 3:58 |
 
-Snapshot ID: `AAAJ4MI0P1e1hc4dvvSXSZhxwRWZQx88`
+Snapshot ID: `AAAJ4UBONn+SARozjaBXmMcPJvL3BDhL`

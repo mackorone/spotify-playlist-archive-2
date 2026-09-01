@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-[enilsounds](https://open.spotify.com/user/enilsounds) - 2,020 likes - 85 songs - 4 hr 51 min
+[enilsounds](https://open.spotify.com/user/enilsounds) - 2,021 likes - 86 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,5 +93,6 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 | 83 | [Rubber Mask of Holy Wrath](https://open.spotify.com/track/6tOh6oOtAGujuKPeMJSw8K) | [Robert Owen](https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm) | [Rubber Mask of Holy Wrath](https://open.spotify.com/album/1HT3BgWaNHZZnsyUMEgKnV) | 8:31 |
 | 84 | [Connection](https://open.spotify.com/track/5PIMT5y3kj7o3a8lTWUcd2) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:07 |
 | 85 | [Hush](https://open.spotify.com/track/5pvLtPHMs0LnTbqjVYqMKq) | [ENILSounds](https://open.spotify.com/artist/4OzICHv6oK0sL7gco6JibF) | [Hush](https://open.spotify.com/album/4x4XoqLEDQow0bvM9ObmDj) | 3:59 |
+| 86 | [Epsilon Eridani](https://open.spotify.com/track/1kz6DreLvi1iOJc7gNIfDQ) | [Electron Revolt](https://open.spotify.com/artist/7inTXltGl51TDpZAW7BFAm) | [Raging Daylight](https://open.spotify.com/album/7AysU1BS4N5bwjtvgaIXHP) | 3:16 |
 
-Snapshot ID: `AABjmMIOZ4cv8tZCuS/qLZjYUlJXe3vh`
+Snapshot ID: `AABjmQycR87saFW9BKLyH9GJmsXozNGA`

@@ -4,7 +4,7 @@
 
 > كل ما هو جديد في عالم البوب المصري\. الغلاف: هيفاء وهبي
 
-525 songs - 1 day 7 hr 6 min
+526 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Andak \- عنداك](https://open.spotify.com/track/55ImWS9DvTTw0j4enHTbBx) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Andak \(عنداك\)](https://open.spotify.com/album/5G7tHCfT95m6WYXtdpBQHM) | 2:46 | 2023-07-11 | 2023-08-19 |
 | [Ansak Ezay](https://open.spotify.com/track/46rtBzLoFjmQFYx57ypZgU) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [Ansak Ezay](https://open.spotify.com/album/32Tyw0x5nF905romRaiXOZ) | 3:08 | 2026-08-27 |  |
 | [Ard Mostamer](https://open.spotify.com/track/1gIaBb1TIc7tmYJz1dfwst) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ard Mostamer](https://open.spotify.com/album/6n8z8mpak5pywihd9rOj8G) | 4:00 | 2022-05-04 | 2022-07-10 |
-| [AS YOU KNOW](https://open.spotify.com/track/2VlrFHUhvGqiWugpCtRYS8) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL), [KUKII](https://open.spotify.com/artist/6qOEFZyFqonqgBEZn5lkK7) | [AS YOU KNOW](https://open.spotify.com/album/56gDPVpY2eebVpwePbfzH1) | 2:49 | 2026-07-06 |  |
+| [AS YOU KNOW](https://open.spotify.com/track/2VlrFHUhvGqiWugpCtRYS8) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL), [KUKII](https://open.spotify.com/artist/6qOEFZyFqonqgBEZn5lkK7) | [AS YOU KNOW](https://open.spotify.com/album/56gDPVpY2eebVpwePbfzH1) | 2:49 | 2026-07-06 | 2026-09-01 |
 | [Aseblak Rohy](https://open.spotify.com/track/3baoeifxx1faQNpk5lzosv) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Aseblak Rohy](https://open.spotify.com/album/4bXYJcShNLa3oifePIGewn) | 3:55 | 2024-10-18 | 2025-07-18 |
 | [Asheq Majnoon](https://open.spotify.com/track/5orvt7dTDRMeAnP0xw5GEV) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Asheq Majnoon](https://open.spotify.com/album/0NZnWtguxnWFzjx3GTJadc) | 3:41 | 2023-05-17 | 2023-08-28 |
 | [ASHOUFEK TANY](https://open.spotify.com/track/7A4fyvqztBPYJ3YYfiXWJe) | [TAG](https://open.spotify.com/artist/5zLTKFtt1a3Ndt9p9i6Em2), [HatemBas](https://open.spotify.com/artist/5kapqwWcLC1LL2xjaxEwJU) | [ASHOUFEK TANY](https://open.spotify.com/album/7dON93Ih6jJchbNYmMaACq) | 2:53 | 2026-08-07 |  |
@@ -295,6 +295,7 @@
 | [Set El Kel](https://open.spotify.com/track/5AkcsVLzhVBC22ZiXcPTu6) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Set El Kel](https://open.spotify.com/album/2ctVSYPczKZ6uQGW4Pfd4s) | 3:18 | 2022-08-09 | 2023-07-12 |
 | [Shabeah Rouhi](https://open.spotify.com/track/3Ewj9Gg9FIzfkoC6Wu9ISE) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shabeah Rouhi](https://open.spotify.com/album/0JCxGer8k83sCp2uBLZikd) | 6:15 | 2023-07-11 | 2023-08-28 |
 | [Shattabna](https://open.spotify.com/track/4138h4unKb8WMM4EgoZZGi) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Shattabna](https://open.spotify.com/album/3aqfxGWKG9jLi5Z3cuZUxW) | 3:52 | 2022-05-04 | 2022-07-15 |
+| [Shhadi Ya Deni](https://open.spotify.com/track/1jjcCIUbf6J4GLGTkTig1a) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Shhadi Ya Deni](https://open.spotify.com/album/5bU5Fg54SC7StdbJRMJuNg) | 2:44 | 2026-08-31 |  |
 | [Sidi Ya Sidi](https://open.spotify.com/track/4UzpGVaCX5uGmTDnFYzWNq) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [NANCY 11](https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX) | 2:36 | 2025-07-17 | 2026-07-07 |
 | [Subeh Wleil](https://open.spotify.com/track/4jklijPtfB2bWPsfGjC4TO) | [Manos](https://open.spotify.com/artist/25ujNYEb1uz1lja1YZJ9Gg) | [Subeh Wleil](https://open.spotify.com/album/5ZdsuCpAGvAvZUeHfNimej) | 2:24 | 2026-07-13 | 2026-08-28 |
 | [Sukar](https://open.spotify.com/track/64jmDPPjHxrv2uvT2Q8kZD) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo), [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk) | [Sukar](https://open.spotify.com/album/5WEQISx8MQ5sBgomay7bc1) | 3:09 | 2023-02-15 | 2023-05-18 |
@@ -352,7 +353,7 @@
 | [YALLY BEATOUNA](https://open.spotify.com/track/5gaNxPsxNWoDd8Jz5UYPRh) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87), [Sleiman Damien](https://open.spotify.com/artist/3jJQ6M3FJdbJxY6DopJ73W) | [YALLY BEATOUNA](https://open.spotify.com/album/3yX9syQVtScxPMFGJOxloZ) | 3:52 | 2026-07-06 |  |
 | [Yama](https://open.spotify.com/track/2LFXoehu5ZfYXnKob64neu) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 4:08 | 2022-05-04 | 2023-05-18 |
 | [Yekhzi L 3ayn يخزي العين](https://open.spotify.com/track/02vph05CKBzWdSdmFTZkox) | [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Yekhzi L 3ayn يخزي العين](https://open.spotify.com/album/5GQPm1lI8ikMYlaEZOMIax) | 3:23 | 2023-05-30 | 2023-07-12 |
-| [Yesaalo 3ank](https://open.spotify.com/track/7I0qvacX0xIJtjozHf2iAo) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Yesaalo 3ank](https://open.spotify.com/album/5yUwv5zXAeJHvjdLbEX6TF) | 3:53 | 2026-08-27 |  |
+| [Yesaalo 3ank](https://open.spotify.com/track/7I0qvacX0xIJtjozHf2iAo) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Yesaalo 3ank](https://open.spotify.com/album/5yUwv5zXAeJHvjdLbEX6TF) | 3:53 | 2026-08-27 | 2026-09-01 |
 | [Yom Min el Ayyam](https://open.spotify.com/track/2KDcnJ2ooNZUIHiHTnWE2b) | [Zainab Hassan](https://open.spotify.com/artist/0WhuydXuCatjNCoMjab4M7) | [Yom Min el Ayyam](https://open.spotify.com/album/5rOBlOyJbFnhAsu2BhcQc9) | 3:40 | 2022-05-04 | 2023-05-31 |
 | [Youm Ma Tensa](https://open.spotify.com/track/0Zeh4nKHG4g8qp5oEnNDhQ) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/4ovMza1WebamIyWDRupshi) | 3:54 | 2025-01-15 | 2026-07-07 |
 | [Zahmet Weshoush](https://open.spotify.com/track/75oCHG4P4pcpTx79twBdpF) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Zahmet Weshoush](https://open.spotify.com/album/5htGDfQfI8xRnbI2S1G7h8) | 3:49 | 2022-05-04 | 2022-10-25 |

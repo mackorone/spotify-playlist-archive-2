@@ -4,7 +4,7 @@
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-338 songs - 19 hr 50 min
+341 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Closer](https://open.spotify.com/track/0N7jP6VYLVkfeHACeON91e) | [Ocean Miller](https://open.spotify.com/artist/7ckr41RXHCnMadX6yumf7e) | [Closer](https://open.spotify.com/album/5PsKk740Cm62xWkJoWrnE6) | 3:13 | 2025-01-26 | 2026-06-12 |
 | [Codigos de Calle](https://open.spotify.com/track/3nUXbKuldWBNqoUp4Dxw9p) | [Yonblok Music](https://open.spotify.com/artist/7MZHN1U8dptbA645QA9Qku) | [Codigos de Calle](https://open.spotify.com/album/4BOL5NfhGUfYMo322XWSKO) | 3:14 | 2026-06-14 |  |
 | [Cold Bloom](https://open.spotify.com/track/68HZsZ6IKqhuMdnLbVAXd7) | [Nøia](https://open.spotify.com/artist/609UsRFCK90ch1N8OS8Hkc) | [Fading Lights](https://open.spotify.com/album/6mA6bJQdfHQycTIbVDJ9U5) | 3:48 | 2026-06-13 |  |
+| [COMO EN EL CINE](https://open.spotify.com/track/5rvtVVtB7JdXs3wLFDF9I4) | [Norbiwyso](https://open.spotify.com/artist/3n92Nht0BNvgrdonVb1lF4) | [COMO EN EL CINE](https://open.spotify.com/album/1YTRoUjbJOIGaQnLj9UdMM) | 3:20 | 2026-08-31 |  |
 | [Con uno Spritz in mano](https://open.spotify.com/track/1AYr2LiADXUeg8drcDCbkZ) | [Pe$i](https://open.spotify.com/artist/0dOU1b4T7CKQJETFPixRXD), [DJ Gianix](https://open.spotify.com/artist/2uGdhWT1qmOu0U45obDmCh) | [Con uno Spritz in mano](https://open.spotify.com/album/2clnEltQ2xkwZoVZu4FRJ4) | 3:09 | 2026-05-23 |  |
 | [Confissão de Amor](https://open.spotify.com/track/6tsI8YNJlgZnRmxqEdf3vH) | [Dj Vino Silva](https://open.spotify.com/artist/1hohUkxV7RSwWMcYkHQGKf), [Kelly Rossi](https://open.spotify.com/artist/23jbGyvTCFePTHJ9HZhQQ4) | [Mar e Sol](https://open.spotify.com/album/4xESJrxhx2VzhQkeSfPriD) | 3:50 | 2025-08-14 | 2026-04-06 |
 | [Corteza tras Corteza](https://open.spotify.com/track/06q1mprC2ssZJX6ayqwNPz) | [Sospechosa Lavanda](https://open.spotify.com/artist/30eVkHueRxh0f7cUxW4de2) | [Fuego de 2](https://open.spotify.com/album/4htsAdw4LQkHqLVD0bZ3Ob) | 3:44 | 2025-03-16 | 2026-04-06 |
@@ -70,6 +71,7 @@
 | [Cryptic](https://open.spotify.com/track/4RuZ1AdAm9Tkzy5xrTduZe) | [Orika](https://open.spotify.com/artist/7rnEq0GZPQ02CUMQMxJ1ID), [Desert Lines](https://open.spotify.com/artist/3lw7xL8DPKCNqu3Dnu0yQT), [Taruun](https://open.spotify.com/artist/0H757tDqb7XUrWP0ipzYvG) | [Arcadia](https://open.spotify.com/album/5pZuyNR29gtQGcJ3Sy6g9a) | 4:59 | 2026-06-13 |  |
 | [Cryptic \[K\]night](https://open.spotify.com/track/34wmOyxIRwkNIIhSn6RphX) | [Disco Dreams](https://open.spotify.com/artist/5KRlBkGzQFsekajKbhN7WX) | [Cryptic \[K\]night](https://open.spotify.com/album/1tFhDXRextorS1JVToC96q) | 4:02 | 2025-01-26 | 2026-06-12 |
 | [Crímenes](https://open.spotify.com/track/7IWI4YHOALBpbqG9OCukEe) | [Xany Ro](https://open.spotify.com/artist/1wBepZVANPaFyi0Kf2b1ch), [Diabolik](https://open.spotify.com/artist/3ROPWiTrMh69IsFnmtVi9D) | [Crímenes](https://open.spotify.com/album/6J1ObNXFWf0WtXRpTxUtVb) | 3:14 | 2025-04-20 | 2026-04-06 |
+| [Cuando Entro Yo \(2026 Version\)](https://open.spotify.com/track/2fnnt3wu6sYUPtneWpac3q) | [Norbiwyso](https://open.spotify.com/artist/3n92Nht0BNvgrdonVb1lF4) | [Cuando Entro Yo \(2026 Version\)](https://open.spotify.com/album/5OuC0Vg6uUeytyRXjpnLUH) | 3:24 | 2026-08-31 |  |
 | [Cuando Todo Termina](https://open.spotify.com/track/37duW4LI92XVNnt1Rqy44N) | [Negro Cabezas](https://open.spotify.com/artist/5eOu4zosbZuzC3KbUr34K3) | [Cuando Todo Termina](https://open.spotify.com/album/2DaJ9pUV7m1D2HdxTAlr21) | 3:53 | 2025-04-01 | 2026-04-06 |
 | [Cuero Roto](https://open.spotify.com/track/4ZYtpGn7jlmnQSlWb9a2au) | [La Racha](https://open.spotify.com/artist/5JzN6rrSv2tnE1Iau1kThx) | [Volumen 1](https://open.spotify.com/album/5u0LmILz3wZDkNKQ6xL9Du) | 3:28 | 2026-06-14 |  |
 | [Culto](https://open.spotify.com/track/7nVkgRiVGIHSPuwr0UnoPE) | [SANGRE ÁCIDA](https://open.spotify.com/artist/5jnpAyC3qAfR6KfzZQNAtY) | [Culto](https://open.spotify.com/album/3GgDueGu4ci0zCHtLnFPhr) | 4:13 | 2025-08-29 | 2026-04-06 |
@@ -298,6 +300,7 @@
 | [The Way \(2017\)](https://open.spotify.com/track/6EmlNC4GsSm3asec6nJX6u) | [Pazzo](https://open.spotify.com/artist/1DDE68aTInM89DhuzkIWAR) | [The Way \(2017\)](https://open.spotify.com/album/1lbmc2m2WxtyZzp7YoyEmI) | 2:58 | 2025-01-25 | 2026-06-12 |
 | [This Is The Fire](https://open.spotify.com/track/4KLLTA3jPpWJwOfIMoULTn) | [Adam Lytle](https://open.spotify.com/artist/6B2RySp4tzI15xq3au9Ie0) | [This Is the Fire](https://open.spotify.com/album/4sqFQ2SKwuLGAArvx3N0Qm) | 4:28 | 2025-01-26 | 2026-06-12 |
 | [Time Away](https://open.spotify.com/track/4xMXO0JY8qmv54Irn16VEF) | [Disco Dreams](https://open.spotify.com/artist/5KRlBkGzQFsekajKbhN7WX) | [Mystic Daze](https://open.spotify.com/album/2PdHmqqIYXFH8tOJdGSJLF) | 4:09 | 2025-02-01 | 2026-06-12 |
+| [TODAVIA CREO EN EL AMOR](https://open.spotify.com/track/2ieoYpTIQTG45FIANsmHu1) | [Norbiwyso](https://open.spotify.com/artist/3n92Nht0BNvgrdonVb1lF4) | [TODAVIA CREO EN EL AMOR](https://open.spotify.com/album/5fOn4GW1qIVB1OHxSDRhDs) | 4:44 | 2026-08-31 |  |
 | [Too Sweet](https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/48qd9sU3xqYJbKaxHCciJL) | 4:11 | 2025-01-24 | 2026-06-12 |
 | [Tot pel Futbol](https://open.spotify.com/track/4JH3jAg74uvJGUpGyywgL2) | [IrenA](https://open.spotify.com/artist/1taYiurk4eCkkKvrAI6uYx) | [Tot pel Futbol](https://open.spotify.com/album/3nxZhBc9aMUkbXafvHfs1h) | 3:23 | 2025-08-14 | 2026-04-06 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2025-01-24 | 2026-06-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,638 likes - 119 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,638 likes - 119 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 108 | [Forever](https://open.spotify.com/track/61GDVFUzCG4U85dZ8trvEc) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Woman To Woman \(Deluxe\)](https://open.spotify.com/album/2Zhm90xX10FfDsLkMP8E7d) | 2:42 |
 | 109 | [Judgements \(From "Songland"\)](https://open.spotify.com/track/2RLKK69LfFac9PUPLUGu32) | [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Judgements \(From "Songland"\)](https://open.spotify.com/album/0FrkrDhyqUTQ0kFF0bCcIb) | 2:42 |
 | 110 | [Perfect Skin \(From "Songland"\)](https://open.spotify.com/track/7oUvdezBuPiU9Ohpp2aiZH) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [Perfect Skin \(From "Songland"\)](https://open.spotify.com/album/1dT7cwZI3FSXBXIo9sR48m) | 3:39 |
-| 111 | [Right to Fall](https://open.spotify.com/track/3f4JF1zg5YHta5qnfGwU53) | [Jessica Sanchez](https://open.spotify.com/artist/3xBbmWwDPhEaGcwWgBarkI) | [Me, You & The Music](https://open.spotify.com/album/5dpVhlbI7CTt58ZCULC2SP) | 3:13 |
-| 112 | [It Takes Two](https://open.spotify.com/track/55jQYM4ymxWGMaDT4B63Pf) | [The Lullabeats](https://open.spotify.com/artist/41izmYWIbbsEk6TvUMYshU) | [80's Hip\-Hop 4 Babies, Vol\. 1](https://open.spotify.com/album/4xZH6qGepDg9wUCvG8643S) | 2:22 |
+| 111 | [It Takes 2](https://open.spotify.com/track/33jdou1zUQa3qlnJRT6KBb) | [The Old Schoolers](https://open.spotify.com/artist/34fxnuMe8KYByyYag3GlnH) | [Classic Hip Hop Party Jams](https://open.spotify.com/album/2j6CdBtopdxRYLykb6pvcR) | 4:42 |
+| 112 | [Right to Fall](https://open.spotify.com/track/3f4JF1zg5YHta5qnfGwU53) | [Jessica Sanchez](https://open.spotify.com/artist/3xBbmWwDPhEaGcwWgBarkI) | [Me, You & The Music](https://open.spotify.com/album/5dpVhlbI7CTt58ZCULC2SP) | 3:13 |
 | 113 | [Everything But You](https://open.spotify.com/track/7fQ84OSpGmPr4ioneo8B82) | [Central Park Cast](https://open.spotify.com/artist/2MU9NyN6HS8x0XdGsrmu7w), [David Alan Grier](https://open.spotify.com/artist/5aDJFTPB7JCC9T785IH2Fy), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Stanley Tucci](https://open.spotify.com/artist/3XZTEmxcwinCnuFcWluGai), [Yvette Nicole Brown](https://open.spotify.com/artist/1kmMq3l60Mp0rJBgAa83UO) | [Central Park Season Three \- The Central Track Sound Park \(Original Soundtrack\)](https://open.spotify.com/album/2tRJZTVZnUfgFvwziDYgfb) | 2:02 |
 | 114 | [PICK ME UP](https://open.spotify.com/track/7xzFF439eBRpYKrMuDhiRL) | [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM), [MINI ON THE BOARDZ](https://open.spotify.com/artist/14XUKN7bgC7164DHQbXL2e) | [PICK ME UP](https://open.spotify.com/album/6R0qwerruDzqdZ9SOGVT5f) | 2:34 |
 | 115 | [Dis Old Man](https://open.spotify.com/track/52AnLt1VOB8Ocofefs03V1) | [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM) | [Well My Name Is Susie](https://open.spotify.com/album/4GyAafjcnSBjFNHxCq7EbL) | 2:00 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 118 | [Gotta Get Up](https://open.spotify.com/track/4qfJUsO8ede16DZDcT5LA1) | [Haven Burton](https://open.spotify.com/artist/10ZqjgXYftp9SFt7f2wHZh), [Lilias White](https://open.spotify.com/artist/2vCRuRgI4PMtjQoNP1y4Fq), [Georgia Engel](https://open.spotify.com/artist/41ikFrMg552IvT5cpKTYE0), [Company of HALF TIME](https://open.spotify.com/artist/3fIoUPRtPSrCxWxOJFQPlx) | [HALF TIME \(Original Cast Recording\)](https://open.spotify.com/album/6HuEqXAEaG5Pvv4JnOKoR9) | 3:54 |
 | 119 | [Hurt Me](https://open.spotify.com/track/18LmvXtZWlNLzuQIqYi3IY) | [Remedy A Cappella](https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN) | [Waves](https://open.spotify.com/album/7zup9UzCjOqh6wjVfuvpDV) | 3:20 |
 
-Snapshot ID: `Aca/0gAAAABaBPQf3lMEUKNZc4povu/F`
+Snapshot ID: `AcbFcgAAAAAL1WOjEyEBXBMUSc1Mgoh9`

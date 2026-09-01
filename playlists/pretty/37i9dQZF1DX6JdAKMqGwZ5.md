@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Nico.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,618 likes - 120 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,611 likes - 120 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 119 | [Honey](https://open.spotify.com/track/3yYWcIuxJ2bE30uWYwMrGz) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Honey](https://open.spotify.com/album/1dqDOYhWvz8npwRAV6nXIR) | 2:18 |
 | 120 | [Dins aquests dies](https://open.spotify.com/track/12XdcOvQ15bEjK6VWE0wKb) | [Joan Miquel Oliver](https://open.spotify.com/artist/6zXhOyC07G4spYTHFLm7oo), [Miquel Serra](https://open.spotify.com/artist/0xUNARNv5PfWqCuu8TJGug) | [Roïssos](https://open.spotify.com/album/0L2DqfZ4sdsXhr0DyxwHO5) | 2:38 |
 
-Snapshot ID: `AAAAAIDWQyS6qFjJJEC2IKvkc3b73qCU`
+Snapshot ID: `AAAAALVxq1lqeriCecs58qEASTCeRucj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,385 likes - 130 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,387 likes - 130 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 129 | [Oyel](https://open.spotify.com/track/4b9vFe5adHevEnOUo0F91O) | [Bodilezz](https://open.spotify.com/artist/6GpwVFciDuQrHF7lXOHdQb), [Miklez](https://open.spotify.com/artist/0IAZuHKHTymDWiemfWMPwW) | [Oyel](https://open.spotify.com/album/46iEosVS7TwsIywW7JWS8E) | 3:00 |
 | 130 | [Your will](https://open.spotify.com/track/0WyM9i8aRgbvWuPy6qQKdo) | [Nomza](https://open.spotify.com/artist/0ebNqGJ09joqyFiemZyLpx), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [Your will](https://open.spotify.com/album/0v9QbMy40LCLV418NrkXtQ) | 2:19 |
 
-Snapshot ID: `AAAAAKnhg1w/qm+VYVODmCaUitYUV0rd`
+Snapshot ID: `AAAAAE8YJPlQUhrUSSvCDG9Gj6kNlrBB`

@@ -39952,6 +39952,28 @@
     {
       "album": {
         "name": "Maneater (RITUAL Version)",
+        "url": "https://open.spotify.com/album/0qeAd5ezwscUqFiEzT6rA9"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Adam Tendler",
+          "url": "https://open.spotify.com/artist/6vxBMBXy5hzAW7xO8kDTG5"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441750,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/1euS7qZQFzj6nXjhwm6dRs"
+    },
+    {
+      "album": {
+        "name": "Maneater (RITUAL Version)",
         "url": "https://open.spotify.com/album/3xXlXmguiTfRYGtPwYYtv9"
       },
       "artists": [
@@ -39962,7 +39984,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 441750,
       "name": "Maneater - RITUAL Version",
       "url": "https://open.spotify.com/track/5lRjA4wP2YYDtDtRwlj1Xy"

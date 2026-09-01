@@ -3185,6 +3185,32 @@
     },
     {
       "album": {
+        "name": "Eivissa 2001 (ssimo Dub Mix)",
+        "url": "https://open.spotify.com/album/5dIQOyj31Bbp01PIllOjOk"
+      },
+      "artists": [
+        {
+          "name": "Thomas Asselman",
+          "url": "https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU"
+        },
+        {
+          "name": "Ralph Felix",
+          "url": "https://open.spotify.com/artist/3i8emYvhsa8PmLH4zTAvjV"
+        },
+        {
+          "name": "ssimo",
+          "url": "https://open.spotify.com/artist/4dvyzd69RNQBcalUM0BVnB"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "Eivissa 2001 - ssimo Dub Mix",
+      "url": "https://open.spotify.com/track/1NdhMldCL0tdnjQwUBJ3BQ"
+    },
+    {
+      "album": {
         "name": "For Real",
         "url": "https://open.spotify.com/album/706xtFNjk7TMRnHGzNrOHR"
       },
@@ -12068,7 +12094,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 244700,
       "name": "Tapioca - Crackazat Remix - Edit",
       "url": "https://open.spotify.com/track/1MsCUXqb7X7k9ycLzQOqyS"

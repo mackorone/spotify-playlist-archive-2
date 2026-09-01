@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,332 likes - 90 songs - 5 hr 17 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,332 likes - 91 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,5 +98,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 88 | [Keep on Dreaming](https://open.spotify.com/track/2WB6zrnwESi9zgtcLlUjn1) | [MÅNE](https://open.spotify.com/artist/3AejcXHKHkrLhgxV9ZBtIO) | [Keep on Dreaming](https://open.spotify.com/album/3bvmJoD9YetJ3UclgS1wgS) | 3:57 |
 | 89 | [Rooh Ka Sakoon](https://open.spotify.com/track/4D1bt4eXcmROAM5D8hWOXN) | [Temur Roy](https://open.spotify.com/artist/6bSFAMMAwCAYd4BuoTztFR) | [Ishq Aur Rooh](https://open.spotify.com/album/698myUVMT6dq9C4uC0VfUV) | 4:19 |
 | 90 | [Dream Again](https://open.spotify.com/track/4D0P4TCJqjK3hzxwPcu3sB) | [FYONA](https://open.spotify.com/artist/4DVQgGkceK5qLMWB9ICJkR) | [Dream Again](https://open.spotify.com/album/5shHelhedh5mUBcZqtsy9d) | 2:42 |
+| 91 | [Loophole](https://open.spotify.com/track/55MQNMrirlAqMne0FmNiNd) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [Loophole](https://open.spotify.com/album/5aMFB6z220sBgH2nlnXboe) | 4:34 |
 
-Snapshot ID: `AAAXhfo5KSquNi2juP12h0mXfNOZlOW5`
+Snapshot ID: `AAAXhrBvbRvwCDoxS24N0JKgSKOZJROr`

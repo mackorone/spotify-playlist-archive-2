@@ -8999,6 +8999,24 @@
     },
     {
       "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199166,
+      "name": "FALLEN ANGEL",
+      "url": "https://open.spotify.com/track/75QkBCdRc5DGgcyPiVSg4b"
+    },
+    {
+      "album": {
         "name": "Falling (feat. Taka)",
         "url": "https://open.spotify.com/album/4W7cA18z4TfyRKgnrAD0Sm"
       },
@@ -12076,7 +12094,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 170865,
       "name": "Hazy (Daisy)",
       "url": "https://open.spotify.com/track/2PBOyq9hBSuR6K5rQ8UTdP"
@@ -15488,7 +15506,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 145680,
       "name": "Less than a Lover",
       "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
@@ -24790,6 +24808,24 @@
       "duration_ms": 227373,
       "name": "Skater",
       "url": "https://open.spotify.com/track/2XIAyrfqLiI5gWpZGRUtu9"
+    },
+    {
+      "album": {
+        "name": "Skibidi",
+        "url": "https://open.spotify.com/album/1gOc9AX3LDW6Q84YCDO0Wq"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation-HRS",
+          "url": "https://open.spotify.com/artist/1wlgozUz29VEBQxMDqQFK1"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Skibidi",
+      "url": "https://open.spotify.com/track/2L1dsjU3R3U4SX27qIiPrq"
     },
     {
       "album": {

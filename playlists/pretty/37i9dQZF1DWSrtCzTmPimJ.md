@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 
 > Help ease your anxiety levels and enter an Alpha brainwave state with this session of ambient binaural beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,703 likes - 95 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,820 likes - 95 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 | 94 | [Insight \(Binaural Alpha 87.4 Hz \- 97.6 Hz\)](https://open.spotify.com/track/5jR5ZB1sEGpsGGtJoe7MD5) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Insight \(Binaural Alpha 87.4 Hz \- 97.6 Hz\)](https://open.spotify.com/album/6JEqqVtUdD1TpeIi1aSnxA) | 3:10 |
 | 95 | [forest of sun \(Alpha 110 \- 122 Hz\)](https://open.spotify.com/track/3DjXbleUnCkwtrHMxA21D6) | [golden voyager](https://open.spotify.com/artist/6noA1Q3BQPV4KMIB10iTQe) | [forest of sun & lost lakes \(binaural alpha\)](https://open.spotify.com/album/3pkxq2RxWJ1fiAybfm6uu8) | 3:09 |
 
-Snapshot ID: `AAAAAImmFmKesicKudFpPzfasLp0ydPz`
+Snapshot ID: `AAAAADJ5uVIT/EYB0IwDf4++DjlklGu4`

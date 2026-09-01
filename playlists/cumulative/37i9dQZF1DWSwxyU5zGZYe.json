@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 229239,
       "name": "Ishq Nibhaavan De (From \"Chand Mera Dil\")",
       "url": "https://open.spotify.com/track/029SqqNDwuG5tueOaArCoZ"
@@ -3858,6 +3858,32 @@
       "duration_ms": 79198,
       "name": "Tumhare Hi Rahenge Hum - Unplugged",
       "url": "https://open.spotify.com/track/1BnXYmT4IC7sOxHWuhd4eR"
+    },
+    {
+      "album": {
+        "name": "Mirzapur The Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Strc5WebWKsRXuN4bl6qH"
+      },
+      "artists": [
+        {
+          "name": "Anand Bhaskar",
+          "url": "https://open.spotify.com/artist/4aykldlxvwj6cRQfhbfNMO"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Ginny Diwan",
+          "url": "https://open.spotify.com/artist/4EZ6GDVebknxx5Funcp0X2"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "Vaaroon Reprise - From \u201cMirzapur The Movie\u201d",
+      "url": "https://open.spotify.com/track/2V7YhoyU99a82ebkapwrDt"
     },
     {
       "album": {

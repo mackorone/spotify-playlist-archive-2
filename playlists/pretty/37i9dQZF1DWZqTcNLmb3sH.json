@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 73258,
+  "num_followers": 73420,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFymJHsyRLFsgEncrPTx8zsQcoUm",
+  "snapshot_id": "AAAAAEFVaADlSgfj9MV4zoiCBUjvVsBB",
   "tracks": [
     {
       "added_at": "2026-08-26 06:00:35",
@@ -271,6 +271,30 @@
       "duration_ms": 320905,
       "name": "Aaradha Gaaya - From \"Toxic - Kannada\"",
       "url": "https://open.spotify.com/track/0SZ3f2WVfO7w5LyBlWnAOc"
+    },
+    {
+      "added_at": "2026-08-31 12:50:16",
+      "album": {
+        "name": "I'M Game - Kannada (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ea2BzONxn2w64DtM1mfN8"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Sai Madhav Rella",
+          "url": "https://open.spotify.com/artist/7J2eKWSknBCCkwQEK5rDpw"
+        },
+        {
+          "name": "Hrudaya Shiva",
+          "url": "https://open.spotify.com/artist/2BKQzpgC3HMsKf3A72yTGK"
+        }
+      ],
+      "duration_ms": 273644,
+      "name": "Loser Song - From \"I'M Game - Kannada\"",
+      "url": "https://open.spotify.com/track/5DSjhGYJ9iph6h8d5Ymzce"
     },
     {
       "added_at": "2026-08-07 06:53:06",

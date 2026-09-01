@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Rod Wave
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,691 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,686 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 80 | [First Day Out \(feat\. Annalise Azadian\)](https://open.spotify.com/track/6Cte3uoBjY88B1qjztBDkE) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Annalise Azadian](https://open.spotify.com/artist/0HfhX8IRgwiQm4FRmGCV5c) | [WTW? First Day Out](https://open.spotify.com/album/61G3tbe3dmWUbhiwDkpdQJ) | 2:45 |
 | 81 | [Champagne Room.](https://open.spotify.com/track/07xaMrtUNjRwSuAfxniZtk) | [BBYKOBE](https://open.spotify.com/artist/4M38DKmHBpyVBqkw3hoTFK), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Champagne Room.](https://open.spotify.com/album/2fddO4sZiwRtK116kCh1Wm) | 2:57 |
 | 82 | [Throw It](https://open.spotify.com/track/0XKQj4cBUZH7BCGsSV85uv) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Throw It](https://open.spotify.com/album/5HhfgIL183MzFvW5OPmbza) | 2:26 |
-| 83 | [Czariana Grande](https://open.spotify.com/track/6O1ktnjyhyTelvublN5wHy) | [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [CZARFACE](https://open.spotify.com/artist/4John8fJ3LKqFho0pselVr) | [Dragon's Breath](https://open.spotify.com/album/4YBEbDFrRJQPGD8tUiYGFZ) | 2:54 |
+| 83 | [Czariana Grande](https://open.spotify.com/track/6O1ktnjyhyTelvublN5wHy) | [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [CZARFACE](https://open.spotify.com/artist/4John8fJ3LKqFho0pselVr) | [Dragon's Breath](https://open.spotify.com/album/4YBEbDFrRJQPGD8tUiYGFZ) | 2:54 |
 | 84 | [センス \- feat\. Siero](https://open.spotify.com/track/7ClJtd1bQghOIeErB6ZDhd) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Siero](https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r) | [SPEEDSTAR](https://open.spotify.com/album/25ZgsmzkQ3Gn8WZpPYtYSm) | 2:37 |
 | 85 | [Link](https://open.spotify.com/track/6cTRRyMEZtsQS3kmpOSo6Y) | [Jewel Usain](https://open.spotify.com/artist/24lRU7Y7ZWpVa3v23FZqS6), [Acchi Mello](https://open.spotify.com/artist/3xQRIjbbG10vnQzMP59lPg) | [Aniki, mon frère](https://open.spotify.com/album/1Q0tJdD1VkUAPF8MSyv3sw) | 2:39 |
 | 86 | [Sick Ass Foo's \(feat\. Lil Mr\. E & Toxica\)](https://open.spotify.com/track/0lVjeH6Cd4urllQcIsb3nm) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Mr\. E](https://open.spotify.com/artist/2rrKDwuHZJ8GBNNGrT930I), [Toxica](https://open.spotify.com/artist/16ru5r486p5CoZKObdTlU1) | [Sick Ass Foo's \(feat\. Lil Mr\. E & Toxica\)](https://open.spotify.com/album/32bMLgHccqPdTFbeLSxsWf) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 99 | [Thick One \(with Skilla Baby & Kash Doll\) \- Remix](https://open.spotify.com/track/5KBmIlmWz3qU5JnICetxcq) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Thick One \(with Skilla Baby & Kash Doll\) \[Remix\]](https://open.spotify.com/album/300TtHqLZ25gqKHvg0KPIE) | 2:39 |
 | 100 | [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
 
-Snapshot ID: `AAAAAKO13+HM45mLSFyKiN+7wzuEi1Q6`
+Snapshot ID: `AAAAAPtkX7Gxy1pftbONA+nx69dZRSng`

@@ -8721,6 +8721,28 @@
     },
     {
       "album": {
+        "name": "PAURA BODHAM",
+        "url": "https://open.spotify.com/album/2TTV2gfaXKnJeQDuSgPy6t"
+      },
+      "artists": [
+        {
+          "name": "ThirumaLi",
+          "url": "https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ"
+        },
+        {
+          "name": "AZWIN",
+          "url": "https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201038,
+      "name": "PAURA BODHAM",
+      "url": "https://open.spotify.com/track/2jes7fiLuHW6apZiGP8hz1"
+    },
+    {
+      "album": {
         "name": "Pedaapadu",
         "url": "https://open.spotify.com/album/3kUo1B56MLgCmk6g1anyT7"
       },

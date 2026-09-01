@@ -716,7 +716,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 246426,
       "name": "choking on my words",
       "url": "https://open.spotify.com/track/6F6TCDUf7yQ8cnOJa5H3WC"
@@ -1283,6 +1283,28 @@
     },
     {
       "album": {
+        "name": "Everything (Le feu dans ma t\u00eate)",
+        "url": "https://open.spotify.com/album/178FzEeyVs1gcSTTZzQBtB"
+      },
+      "artists": [
+        {
+          "name": "Ashel",
+          "url": "https://open.spotify.com/artist/0uQmXAc9TJ42Te5soOJvkT"
+        },
+        {
+          "name": "ELISA ERKA",
+          "url": "https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141573,
+      "name": "Everything (Le feu dans ma t\u00eate)",
+      "url": "https://open.spotify.com/track/358wdV6Jk1Dj7TkVDt0w8n"
+    },
+    {
+      "album": {
         "name": "Everything All at Once",
         "url": "https://open.spotify.com/album/47yvyiBxCBut9R8JFCRkBI"
       },
@@ -1294,7 +1316,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 143171,
       "name": "Everything All at Once",
       "url": "https://open.spotify.com/track/7fCG3RyG1Kn4Hyy7WvK0pU"
@@ -4912,7 +4934,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 118441,
       "name": "young rich & beautiful",
       "url": "https://open.spotify.com/track/4xMyrjeR1PICYAB9ZYUg9t"

@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,607 likes - 100 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,597 likes - 100 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vänta](https://open.spotify.com/track/2oh6kzJStaQBeMYZzDXvWo) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Your Turn In Blue](https://open.spotify.com/album/4UyXo6gUfAUxmYSoeqt71E) | 3:16 |
 | 2 | [BMW Serie](https://open.spotify.com/track/25DL9QEuDCcYmiMT38Jfey) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [BMW Serie](https://open.spotify.com/album/7uIDD7QRunU4OVHyYxQw6b) | 2:02 |
-| 3 | [No Love](https://open.spotify.com/track/6NqejQJBArDZTSKRG8iZ3d) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [No Love](https://open.spotify.com/album/20kJnRMy05fXFCZHBdoISW) | 2:20 |
-| 4 | [Save Me](https://open.spotify.com/track/0UyfknmEkHvlbvNT0N1tkL) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Save Me](https://open.spotify.com/album/7AdQcvl9iPVXXFM5r1zFDc) | 2:04 |
-| 5 | [1991](https://open.spotify.com/track/1O0bIhJ2mBpZPFHzENJx9z) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [1991](https://open.spotify.com/album/5O7zW8t6x5ft5vofOxLP0l) | 6:15 |
-| 6 | [ICON](https://open.spotify.com/track/7m4RmldpdOi6IyZRXQdWkA) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [ICON](https://open.spotify.com/album/45karA3JGFDxce1LsNYaMI) | 2:05 |
-| 7 | [Jealousy](https://open.spotify.com/track/3a8rKgFiphuGYgLfAqDoyF) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Jealousy](https://open.spotify.com/album/1KI58I2lYWbyxiVnVX34uN) | 2:25 |
-| 8 | [My Type](https://open.spotify.com/track/1Eh6reKsmK5P9uZp4uzP61) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [My Type](https://open.spotify.com/album/1B0wfLXjm4W9Ksv8dNMcyA) | 2:07 |
-| 9 | [TDF](https://open.spotify.com/track/5dpUIZQJMFLEIKofXAqHj9) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [N1cho](https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y), [Le Bandit](https://open.spotify.com/artist/2TZHEsA6cWPgEVUsrEt4IQ) | [TDF](https://open.spotify.com/album/7xx9bqHF343l8G7D9har06) | 2:05 |
+| 3 | [Jealousy](https://open.spotify.com/track/3a8rKgFiphuGYgLfAqDoyF) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Jealousy](https://open.spotify.com/album/1KI58I2lYWbyxiVnVX34uN) | 2:25 |
+| 4 | [No Love](https://open.spotify.com/track/6NqejQJBArDZTSKRG8iZ3d) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [No Love](https://open.spotify.com/album/20kJnRMy05fXFCZHBdoISW) | 2:20 |
+| 5 | [TDF](https://open.spotify.com/track/5dpUIZQJMFLEIKofXAqHj9) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [N1cho](https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y), [Le Bandit](https://open.spotify.com/artist/2TZHEsA6cWPgEVUsrEt4IQ) | [TDF](https://open.spotify.com/album/7xx9bqHF343l8G7D9har06) | 2:05 |
+| 6 | [Save Me](https://open.spotify.com/track/0UyfknmEkHvlbvNT0N1tkL) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Save Me](https://open.spotify.com/album/7AdQcvl9iPVXXFM5r1zFDc) | 2:04 |
+| 7 | [1991](https://open.spotify.com/track/1O0bIhJ2mBpZPFHzENJx9z) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [1991](https://open.spotify.com/album/5O7zW8t6x5ft5vofOxLP0l) | 6:15 |
+| 8 | [ICON](https://open.spotify.com/track/7m4RmldpdOi6IyZRXQdWkA) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [ICON](https://open.spotify.com/album/45karA3JGFDxce1LsNYaMI) | 2:05 |
+| 9 | [Bilsäker](https://open.spotify.com/track/6GC8r65dVkeWVOSOOFEOBF) | [Global](https://open.spotify.com/artist/0rsYUDfuJkS3zDbn6SCzI3) | [Bilsäker](https://open.spotify.com/album/63o3Phrel4UoJwt54ryibx) | 2:17 |
 | 10 | [HiTMaN](https://open.spotify.com/track/5c2OWBO6Z94hgeLbi0w67r) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc) | [HiTMaN](https://open.spotify.com/album/21VMpUBDjUbTqlgDelMGYZ) | 2:35 |
-| 11 | [Best Friends](https://open.spotify.com/track/3fbp3OvNkSeKrBW12F0tCm) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Best Friends](https://open.spotify.com/album/2jf5kVVZ6JIqZYvdt6vdVJ) | 2:23 |
-| 12 | [euro](https://open.spotify.com/track/5FDOtJIwTqcxRHngR0uNR9) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [euro](https://open.spotify.com/album/4E5ALh3loZ5XTJzTwX9pZX) | 5:04 |
-| 13 | [ILLEGAL](https://open.spotify.com/track/2AnpaLZEachdaUtzpoLrjn) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [ILLEGAL](https://open.spotify.com/album/5OBWvFVMdmfDOPmQ5DkE1n) | 2:00 |
-| 14 | [Strike a pose](https://open.spotify.com/track/2Bb5cQ8WoqOE9OJ5obb4g9) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Strike a pose](https://open.spotify.com/album/2Z5IHmkZOCnYNRlFkfDUPI) | 2:36 |
-| 15 | [SABR](https://open.spotify.com/track/5xL3o0xOyLiHQ5J7zhxQIE) | [LB](https://open.spotify.com/artist/3jaXGj5Sjt07nAhZ2b70yv) | [SABR](https://open.spotify.com/album/6TWAS7oAvNtpF019v2MYne) | 2:42 |
-| 16 | [Bilsäker](https://open.spotify.com/track/6GC8r65dVkeWVOSOOFEOBF) | [Global](https://open.spotify.com/artist/0rsYUDfuJkS3zDbn6SCzI3) | [Bilsäker](https://open.spotify.com/album/63o3Phrel4UoJwt54ryibx) | 2:17 |
+| 11 | [My Type](https://open.spotify.com/track/1Eh6reKsmK5P9uZp4uzP61) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [My Type](https://open.spotify.com/album/1B0wfLXjm4W9Ksv8dNMcyA) | 2:07 |
+| 12 | [Strike a pose](https://open.spotify.com/track/2Bb5cQ8WoqOE9OJ5obb4g9) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Strike a pose](https://open.spotify.com/album/2Z5IHmkZOCnYNRlFkfDUPI) | 2:36 |
+| 13 | [Best Friends](https://open.spotify.com/track/3fbp3OvNkSeKrBW12F0tCm) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Best Friends](https://open.spotify.com/album/2jf5kVVZ6JIqZYvdt6vdVJ) | 2:23 |
+| 14 | [euro](https://open.spotify.com/track/5FDOtJIwTqcxRHngR0uNR9) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [euro](https://open.spotify.com/album/4E5ALh3loZ5XTJzTwX9pZX) | 5:04 |
+| 15 | [ILLEGAL](https://open.spotify.com/track/2AnpaLZEachdaUtzpoLrjn) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [ILLEGAL](https://open.spotify.com/album/5OBWvFVMdmfDOPmQ5DkE1n) | 2:00 |
+| 16 | [SABR](https://open.spotify.com/track/5xL3o0xOyLiHQ5J7zhxQIE) | [LB](https://open.spotify.com/artist/3jaXGj5Sjt07nAhZ2b70yv) | [SABR](https://open.spotify.com/album/6TWAS7oAvNtpF019v2MYne) | 2:42 |
 | 17 | [Rubriken](https://open.spotify.com/track/3JezcZSSjRAJ02saafvzxc) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Rubriken](https://open.spotify.com/album/6iT88YLxsLt3bj3O9lNYi3) | 2:12 |
 | 18 | [Matadoren](https://open.spotify.com/track/7rorbMNPjLsuK2kNA8gVw3) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Matadoren](https://open.spotify.com/album/0gpZBMK8pkrJwk6mhAItG2) | 2:01 |
 | 19 | [Valhalla](https://open.spotify.com/track/45C7Fmq35ooAUrtoTQv7tp) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [Valhalla](https://open.spotify.com/album/0LXf2cOsl548yY08CrPrt3) | 2:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [Shawty](https://open.spotify.com/track/56LDu41lRSCwB0i8YGQC6C) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [Shawty](https://open.spotify.com/album/0zjLKTcp82CKgUcNvblDv2) | 2:13 |
 | 100 | [IRL](https://open.spotify.com/track/5VxnBDUSCweTkyUxP32k3S) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [IRL](https://open.spotify.com/album/46BB0CcFuzp0oWFK4MYyT2) | 2:22 |
 
-Snapshot ID: `AAAAAGZ5kJtz2s55UVLRfTo9lXIjjs9h`
+Snapshot ID: `AAAAABk2rroFz6U+gc1KtM329WFPJo8o`

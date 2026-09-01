@@ -83559,6 +83559,28 @@
     },
     {
       "album": {
+        "name": "Forever Love (Live)",
+        "url": "https://open.spotify.com/album/0qtSgeEUdRxelggtC7zK6t"
+      },
+      "artists": [
+        {
+          "name": "YOSHIKI",
+          "url": "https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm"
+        },
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279296,
+      "name": "Forever Love - Live",
+      "url": "https://open.spotify.com/track/1alvsKeJqg3L9aZY8y8IQN"
+    },
+    {
+      "album": {
         "name": "forever on my mind",
         "url": "https://open.spotify.com/album/3PTXIacmqhTYHyO4txzx7p"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,644 likes - 27 songs - 1 hr 35 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,645 likes - 27 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 | 20 | [In Her Hands](https://open.spotify.com/track/0VJJKFFbCr7QEgSdXpQqJH) | [Nephila](https://open.spotify.com/artist/5ZbjP0UFo6aonRXctRA4ju) | [HULDRA](https://open.spotify.com/album/205MRifd02P7GW14H6mLXf) | 3:19 |
 | 21 | [No Aguanto Más](https://open.spotify.com/track/6wlBiMW3dNUToLTsIbAGR9) | [Murió el Doctor](https://open.spotify.com/artist/0zpcT4TLVcexOv1WOjci2J) | [No Aguanto Más](https://open.spotify.com/album/22rQSTbtagET4Bfqgp6ZiQ) | 2:47 |
 | 22 | [DC](https://open.spotify.com/track/6n26gGgQ6YILDGTPsoIxuA) | [face the bass](https://open.spotify.com/artist/1Hwg0wzIH2L6iirUXAQ0g1) | [DC](https://open.spotify.com/album/0JoYB8m53KEF0JG3rRjLGG) | 4:42 |
-| 23 | [Bofink på min Balkong](https://open.spotify.com/track/2bt7oJ0oRC9tVEyvJxLglw) | [Jonas Tegnér](https://open.spotify.com/artist/2WOouZH4O5FGgrM0PypZIy) | [Bofink på min balkong](https://open.spotify.com/album/719KDBCP6HsQkJ5F7xnJVN) | 3:27 |
+| 23 | [Bofink på min Balkong](https://open.spotify.com/track/2bt7oJ0oRC9tVEyvJxLglw) | [Jonas Tegnér](https://open.spotify.com/artist/2WOouZH4O5FGgrM0PypZIy) | [Bofink på min Balkong](https://open.spotify.com/album/719KDBCP6HsQkJ5F7xnJVN) | 3:27 |
 | 24 | [This Year](https://open.spotify.com/track/19lgNfBozdyVBFSy9VM2cy) | [Drop Shadow](https://open.spotify.com/artist/5pFJt8Elph23Cwvdt7EfHX) | [This Year](https://open.spotify.com/album/4mMTb8vEkIadSAgVS2PvWD) | 4:27 |
 | 25 | [Apology Flowers](https://open.spotify.com/track/3gcKeqSrw7RlFTcfEFSp08) | [Saunder](https://open.spotify.com/artist/4G9C1r7GXgbYZYpe6BtQKd) | [Apology Flowers](https://open.spotify.com/album/2Jtd0ftNmncPIEl6xBB8He) | 4:42 |
 | 26 | [I'll Love You Anyway](https://open.spotify.com/track/2STaE1pT8OSkF6Wf0GaA8O) | [PJ Bushell](https://open.spotify.com/artist/3NQoxuvg7wTW7aUZUxGyHo) | [A Case For Chaos](https://open.spotify.com/album/5r32yGL7d3yaoVJXJZVZVy) | 2:57 |

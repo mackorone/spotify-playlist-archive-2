@@ -1,12 +1,12 @@
 {
   "description": "a hardcore home for slowcore fans.",
-  "num_followers": 212007,
+  "num_followers": 212021,
   "original_name": "slowcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANBGdNh9NXl/YktUsnhVLKR+7yrV",
+  "snapshot_id": "AAAAAGyVjI60JkH3GE/hzpeuJIzYERXT",
   "tracks": [
     {
       "added_at": "2025-08-07 23:00:59",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Control (Remastered)",
-        "url": "https://open.spotify.com/album/3WPhii5HmncMeCKLHZUePr"
-      },
-      "artists": [
-        {
-          "name": "Pedro The Lion",
-          "url": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
-        }
-      ],
-      "duration_ms": 236575,
-      "name": "Options",
-      "url": "https://open.spotify.com/track/3QWzdv9myjbHl6GPYGWyV9"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 344160,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/10dTTsgL5hPujRahg22tan"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Control (Remastered)",
+        "url": "https://open.spotify.com/album/3WPhii5HmncMeCKLHZUePr"
+      },
+      "artists": [
+        {
+          "name": "Pedro The Lion",
+          "url": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
+        }
+      ],
+      "duration_ms": 236575,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/3QWzdv9myjbHl6GPYGWyV9"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Five Ways of Disappearing",
-        "url": "https://open.spotify.com/album/6WmyaI6ciyv0XPfyQtf2NE"
-      },
-      "artists": [
-        {
-          "name": "Kendra Smith",
-          "url": "https://open.spotify.com/artist/4baSCyV2xPPhakoOEOltou"
-        }
-      ],
-      "duration_ms": 333400,
-      "name": "Bold Marauder",
-      "url": "https://open.spotify.com/track/4AkLsoLJoc3wXjsVN3zsdH"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "...Smile's OK",
         "url": "https://open.spotify.com/album/2jccmYwkig1OPAeZte5cGi"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 257626,
       "name": "Sweet Unknown",
       "url": "https://open.spotify.com/track/1LpI5TBhhS8VAOebXksrPy"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Five Ways of Disappearing",
+        "url": "https://open.spotify.com/album/6WmyaI6ciyv0XPfyQtf2NE"
+      },
+      "artists": [
+        {
+          "name": "Kendra Smith",
+          "url": "https://open.spotify.com/artist/4baSCyV2xPPhakoOEOltou"
+        }
+      ],
+      "duration_ms": 333400,
+      "name": "Bold Marauder",
+      "url": "https://open.spotify.com/track/4AkLsoLJoc3wXjsVN3zsdH"
     },
     {
       "added_at": "2025-08-07 23:00:59",

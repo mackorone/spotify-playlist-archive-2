@@ -1,12 +1,12 @@
 {
   "description": "Turn this playlist all the way up! Featuring SOB x RBE, T.I., Fenix Flexin, Shaboozey &amp; more.",
-  "num_followers": 33101,
+  "num_followers": 33097,
   "original_name": "All The Way Up",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAcg+j3OdtN2J3Q+oY4qw9A3ryInbpW",
+  "snapshot_id": "AAAchgDASEP9FpIx2f16Zr4Yb1lWHsUn",
   "tracks": [
     {
       "added_at": "2026-08-05 21:16:50",
@@ -147,26 +147,6 @@
       "duration_ms": 180703,
       "name": "Roundtripski",
       "url": "https://open.spotify.com/track/2BPjxkBhFjP2sp1SW6MyhU"
-    },
-    {
-      "added_at": "2026-06-13 18:43:12",
-      "album": {
-        "name": "Wait for Me",
-        "url": "https://open.spotify.com/album/4duiGyBEuWMrNuN1IfH4u8"
-      },
-      "artists": [
-        {
-          "name": "MC Abdul",
-          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
-        },
-        {
-          "name": "Nai Barghouti",
-          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
-        }
-      ],
-      "duration_ms": 194525,
-      "name": "Wait for Me",
-      "url": "https://open.spotify.com/track/4CoE0GqJxgzLV1D9jJxQZI"
     },
     {
       "added_at": "2026-01-26 19:55:56",
@@ -1525,26 +1505,6 @@
       "url": "https://open.spotify.com/track/6RKaL2SJRb7OPDhApNa2Bc"
     },
     {
-      "added_at": "2024-12-09 19:28:00",
-      "album": {
-        "name": "Tuck Your Chain",
-        "url": "https://open.spotify.com/album/6NHj6smgIl0QMuEj0ZFY09"
-      },
-      "artists": [
-        {
-          "name": "Danny Towers",
-          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
-        },
-        {
-          "name": "Money Man",
-          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
-        }
-      ],
-      "duration_ms": 127939,
-      "name": "Tuck Your Chain",
-      "url": "https://open.spotify.com/track/7ASEXMIz2V19u6OC3So05p"
-    },
-    {
       "added_at": "2024-09-23 22:16:44",
       "album": {
         "name": "Wave",
@@ -1803,6 +1763,26 @@
       "duration_ms": 128367,
       "name": "Bops Goin Brazy",
       "url": "https://open.spotify.com/track/256GEMjbWz2hXaw9Teu7qd"
+    },
+    {
+      "added_at": "2026-06-13 18:43:12",
+      "album": {
+        "name": "Wait for Me",
+        "url": "https://open.spotify.com/album/4duiGyBEuWMrNuN1IfH4u8"
+      },
+      "artists": [
+        {
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+        },
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        }
+      ],
+      "duration_ms": 194525,
+      "name": "Wait for Me",
+      "url": "https://open.spotify.com/track/4CoE0GqJxgzLV1D9jJxQZI"
     },
     {
       "added_at": "2023-12-08 22:08:07",

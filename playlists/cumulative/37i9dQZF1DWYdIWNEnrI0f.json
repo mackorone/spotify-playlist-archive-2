@@ -1003,6 +1003,28 @@
     },
     {
       "album": {
+        "name": "Smrti",
+        "url": "https://open.spotify.com/album/2caE10cf8sk85D86ROCnwZ"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Kazuhiko Maeda",
+          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200109,
+      "name": "Smrti",
+      "url": "https://open.spotify.com/track/3sKJPbWulZzffOZXyfbPxd"
+    },
+    {
+      "album": {
         "name": "So Real (Instrumental)",
         "url": "https://open.spotify.com/album/1Zm3xiOYcPdj0yGcoFqeAR"
       },
@@ -1376,7 +1398,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 207882,
       "name": "\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0 (Algorithm)",
       "url": "https://open.spotify.com/track/5EO2F73atj1IigcN6nPGMv"

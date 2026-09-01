@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Jay Kalyl
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,708 likes - 75 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,809 likes - 75 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 74 | [Presencia Del Señor](https://open.spotify.com/track/5o4NrZ8lqWR7rIbA5DxO7E) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Marie Welch](https://open.spotify.com/artist/57hkwgTr1hoISQpKpXfThE) | [Presencia Del Señor](https://open.spotify.com/album/5RthGzTiCNn9ZH0bKjOJ1N) | 4:08 |
 | 75 | [Despiértame](https://open.spotify.com/track/6F4eOE74oAOsrt1Ws47EOX) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Despiértame](https://open.spotify.com/album/5nQShqiqCqU4lZ7e0hAga3) | 3:07 |
 
-Snapshot ID: `AAAAAG47QN2SGqpe4gxImexsPDfWm4FB`
+Snapshot ID: `AAAAAPDSNmxTecHPWlQsPYQWag10tr+7`

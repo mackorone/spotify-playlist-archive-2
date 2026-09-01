@@ -4021,6 +4021,24 @@
     },
     {
       "album": {
+        "name": "Power Management",
+        "url": "https://open.spotify.com/album/0cbK5vCpieD5Rd0ZlnX3xM"
+      },
+      "artists": [
+        {
+          "name": "Dangerous Times for the Dead",
+          "url": "https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172379,
+      "name": "Power Management",
+      "url": "https://open.spotify.com/track/1m0hOFTswQKVZoQ8BU8dIJ"
+    },
+    {
+      "album": {
         "name": "Guardians of the Phallicy",
         "url": "https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU"
       },

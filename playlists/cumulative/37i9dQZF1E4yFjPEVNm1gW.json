@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-29",
-  "description": "With Yeat, Autumn!, Cuo Zay and more",
+  "description": "With Yeat, Cuo Zay, Autumn! and more",
   "name": "Taewitdak Radio",
   "tracks": [
     {
@@ -844,7 +844,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 185317,
       "name": "carry it (extended)",
       "url": "https://open.spotify.com/track/52AsGGwpvnCMoeuEwDXv9G"
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 139551,
       "name": "CribWitALake! - Remix",
       "url": "https://open.spotify.com/track/1XNeKgg6UVxRoWzocLCbN1"
@@ -1904,7 +1904,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 178906,
       "name": "GHOST",
       "url": "https://open.spotify.com/track/4ewa3IkNWrv1XG9qIWwIvt"
@@ -4578,7 +4578,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 183671,
       "name": "Simple!",
       "url": "https://open.spotify.com/track/1LBl0ojqqA2hfLCrs3Vcn1"
@@ -4850,7 +4850,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 156815,
       "name": "Straight Forward",
       "url": "https://open.spotify.com/track/5QFebQipvG6fMprVVWlmvo"
@@ -5186,7 +5186,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 120639,
       "name": "Tap Hour",
       "url": "https://open.spotify.com/track/5fB6BsaBff7NzskLlUDvHY"
@@ -5204,7 +5204,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 145841,
       "name": "Telephones",
       "url": "https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU"
@@ -6036,7 +6036,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-31",
+      "date_removed": null,
       "duration_ms": 138814,
       "name": "Ya Ya",
       "url": "https://open.spotify.com/track/1zX4htZC4Xj60xoCM9RlX0"

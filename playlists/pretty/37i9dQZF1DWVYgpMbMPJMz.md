@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Gracie Binion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,622,070 likes - 80 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,622,136 likes - 80 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 79 | [Breathe \(feat\. Titus Tucker & Rahkii\)](https://open.spotify.com/track/6wYs3GQfnziD1RdtPbUbFD) | [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Rahkii](https://open.spotify.com/artist/2OUw9DvdP84qX4FkQSwMoG), [Titus Tucker](https://open.spotify.com/artist/4idr0xVXTUerf9RyhOlCV2) | [Here Comes the Wind](https://open.spotify.com/album/1z3z3EuiyWz5pVcQvqMZZp) | 6:53 |
 | 80 | [Burning Hearts](https://open.spotify.com/track/0fY0C9BjglHljAPwNtMwtv) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [Burning Hearts](https://open.spotify.com/album/3l8uhqpjdts2kncGoOQBTj) | 5:48 |
 
-Snapshot ID: `AAAAAIK0iM/MDrsnDBjHBefJU4CmZAEw`
+Snapshot ID: `AAAAAOZ5CSIHnJLa6zRuBU6ilxjnvH6T`

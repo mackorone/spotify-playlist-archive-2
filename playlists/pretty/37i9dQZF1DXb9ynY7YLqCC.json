@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: reybruja",
-  "num_followers": 187701,
+  "num_followers": 187717,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAF3Saa/FkKaB4oBJgQUfse49b5t",
+  "snapshot_id": "AAAAAOh76pnAMul9w0w3GFHZKqC7akSh",
   "tracks": [
     {
       "added_at": "2026-04-24 03:01:11",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2026-04-24 03:01:11",
       "album": {
+        "name": "Irreal",
+        "url": "https://open.spotify.com/album/4oX28XEb23WndGHhKBY8Pk"
+      },
+      "artists": [
+        {
+          "name": "El Bordo",
+          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
+        },
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+        }
+      ],
+      "duration_ms": 218755,
+      "name": "Certezas de cart\u00f3n",
+      "url": "https://open.spotify.com/track/70C1X4mE6cIgXyg5WsuCHI"
+    },
+    {
+      "added_at": "2026-04-24 03:01:11",
+      "album": {
         "name": "Sacrificio y Rock N\u00b4Roll",
         "url": "https://open.spotify.com/album/2u93GKmDeIBJAxk95uuCVM"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 241775,
       "name": "Sacrificio y Rock N\u00b4Roll",
       "url": "https://open.spotify.com/track/5vFBQCqiP7cRnvH88o4Ecx"
-    },
-    {
-      "added_at": "2026-04-24 03:01:11",
-      "album": {
-        "name": "Irreal",
-        "url": "https://open.spotify.com/album/4oX28XEb23WndGHhKBY8Pk"
-      },
-      "artists": [
-        {
-          "name": "El Bordo",
-          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
-        },
-        {
-          "name": "Ricardo Mollo",
-          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
-        }
-      ],
-      "duration_ms": 218755,
-      "name": "Certezas de cart\u00f3n",
-      "url": "https://open.spotify.com/track/70C1X4mE6cIgXyg5WsuCHI"
     },
     {
       "added_at": "2026-04-24 03:01:11",

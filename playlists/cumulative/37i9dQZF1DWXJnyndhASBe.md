@@ -2,9 +2,9 @@
 
 ### [RAP GENERACJA](https://open.spotify.com/playlist/37i9dQZF1DWXJnyndhASBe)
 
-> Największe rapowe kawałki w tej chwili\. Cover: francis, Sobel
+> Największe rapowe kawałki w tej chwili\. Cover: Otsochodzi
 
-1,103 songs - 2 day 3 hr 46 min
+1,104 songs - 2 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Deszcz Pieniędzy](https://open.spotify.com/track/1qzlyUhA8eGdgK0JoFrEaY) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ) | [WIRTUOZ](https://open.spotify.com/album/1gK5TWRqoEPMmEToOeNJ7n) | 3:00 | 2024-07-18 | 2024-09-27 |
 | [Dior](https://open.spotify.com/track/7biKWZnh8o23xCGej4xHjF) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [Adwokat Diabla](https://open.spotify.com/album/0tUUX9X5xhonVyCPXmHLDf) | 2:07 | 2024-03-07 | 2024-10-11 |
 | [Dior Savage](https://open.spotify.com/track/1R4QeLVVnsoZf9lu5J5cSE) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Dior Savage](https://open.spotify.com/album/19biEuOwuHQBI6byk3uGLZ) | 2:12 | 2024-10-17 | 2024-11-01 |
-| [Dla Ciebie](https://open.spotify.com/track/2zRH9fnQTo6P8KcxUsCuAn) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm), [Nolyrics Beats](https://open.spotify.com/artist/4z9oiedO8ugGNpfbJcg0iq) | [Dla Ciebie](https://open.spotify.com/album/10b9bPnr7f9jtCZs98dPMR) | 3:35 | 2026-08-13 |  |
+| [Dla Ciebie](https://open.spotify.com/track/2zRH9fnQTo6P8KcxUsCuAn) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm), [Nolyrics Beats](https://open.spotify.com/artist/4z9oiedO8ugGNpfbJcg0iq) | [Dla Ciebie](https://open.spotify.com/album/10b9bPnr7f9jtCZs98dPMR) | 3:35 | 2026-08-13 | 2026-09-01 |
 | [DLA CIEBIE FREESTYLE](https://open.spotify.com/track/7umf5ey02bJ1N9GMauS002) | [Lanek](https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG), [Marianne.](https://open.spotify.com/artist/4bl8oIRcJPreFL1s7P8Pt0) | [DLA CIEBIE FREESTYLE](https://open.spotify.com/album/2DPWTL5WQGoDTEZl7MVhvG) | 1:38 | 2024-11-21 | 2024-11-29 |
 | [DM](https://open.spotify.com/track/2EwQaHnQWJK8zWv9W44FsE) | [Hubert.](https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH) | [DM](https://open.spotify.com/album/1CEieYFtzbLrCmb3Os825e) | 2:30 | 2024-10-31 | 2024-11-15 |
 | [DNI LEPSZE NIŻ TEN](https://open.spotify.com/track/5NrALgHxMvITkF7RF9KjJ6) | [Waima](https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp), [bvdy47](https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4) | [TEN GOŚĆ](https://open.spotify.com/album/5JxxVNngGLFi51hdF2ZBO1) | 4:25 | 2024-09-05 | 2024-09-13 |
@@ -614,6 +614,7 @@
 | [Młody Manson](https://open.spotify.com/track/2khnj1kS7t2uNoMGB44c3X) | [Young Multi](https://open.spotify.com/artist/5CkZIA3WpaEFxp0wSjMzRI), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [Lucassi](https://open.spotify.com/artist/34Atpk8kle8mndOUwKblhK) | [Młody Manson](https://open.spotify.com/album/1PmtNIQOURJS6g5IVgOQwl) | 2:54 | 2024-01-25 | 2024-08-16 |
 | [NA BLOK](https://open.spotify.com/track/0dIrL5Jo7940G64ZwXFuP7) | [Bungee](https://open.spotify.com/artist/5zGqNbkY4vQhWk57uUDbEZ), [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy) | [NA BLOK](https://open.spotify.com/album/79HyMHo2tXJlaoJITzV5Ca) | 2:52 | 2025-11-20 | 2026-01-30 |
 | [na bombę](https://open.spotify.com/track/1oMOYIGc9IOJ6N8DqxwkRN) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [na bombę](https://open.spotify.com/album/2IgQ47b8DZ9gNemDk1ON7o) | 3:05 | 2024-07-11 | 2024-09-20 |
+| [na granicy cringu](https://open.spotify.com/track/4oLidBO61XRUimRqdv7BI9) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [2040: SŁAWA](https://open.spotify.com/album/7ugccgKG2mjsX10MSAuxnX) | 1:40 | 2026-08-31 |  |
 | [Na luzie](https://open.spotify.com/track/2qcQACBoJyybSTILo9YFer) | [Paluch](https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv), [Bodhi](https://open.spotify.com/artist/37vUCFYDnlnvl1R8kxrHFw), [Leśny](https://open.spotify.com/artist/2MRSNbEPY2YKzkgDag5fzg), [Dj Taek](https://open.spotify.com/artist/5FhjSSoKazHVr8mWpiwW6R) | [Na luzie](https://open.spotify.com/album/2rCoZMa7lrDnXQmGuAxFNw) | 3:11 | 2024-06-20 | 2024-07-05 |
 | [Na ostatnią chwilę](https://open.spotify.com/track/2VT0v5EcOEdWMb8JsFewLF) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7), [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx) | [Na ostatnią chwilę](https://open.spotify.com/album/4E6AW29gNzNYwPph1O7HnH) | 2:46 | 2024-12-05 | 2025-05-30 |
 | [NA WIEKI](https://open.spotify.com/track/5I2v4NCXfzHE3aM2ahHyA1) | [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc), [Sergiusz](https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0), [2K](https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR) | [NA WIEKI](https://open.spotify.com/album/6OpOhM5DtQp6EwasYe6zOR) | 2:34 | 2024-05-09 | 2024-05-17 |

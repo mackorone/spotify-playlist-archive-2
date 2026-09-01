@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apIhAAAAAAD6F1lSNulxnujFHWV63V3F",
+  "snapshot_id": "apNygAAAAACJezgm6HTRIDuA3fVn4jNu",
   "tracks": [
     {
       "added_at": null,
@@ -179,18 +179,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emerald: New Sounds from Moon Glyph Records",
-        "url": "https://open.spotify.com/album/2oMjSuFBIfiNCVmS2h70Ki"
+        "name": "Various Small Whistles and a Song",
+        "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
       },
       "artists": [
         {
           "name": "Lia Kohl",
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Corey Smith",
+          "url": "https://open.spotify.com/artist/4mXo8uJElHGG96y1jHc14z"
+        },
+        {
+          "name": "Ellie Mej\u00eda",
+          "url": "https://open.spotify.com/artist/7Bogbj4POJNRi6WmxoWAqI"
+        },
+        {
+          "name": "Anna Fox",
+          "url": "https://open.spotify.com/artist/1ESraRVMrL8HHq3cTqa1hi"
         }
       ],
-      "duration_ms": 207665,
-      "name": "(850) 457-4142",
-      "url": "https://open.spotify.com/track/4PiBecV2wzPlASnaJI5LMu"
+      "duration_ms": 60000,
+      "name": "Midewin National Tallgrass Prairie, Illinois",
+      "url": "https://open.spotify.com/track/5UF7kt5QPCQhN4Qs6MsSv1"
     },
     {
       "added_at": null,
@@ -243,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emerald: New Sounds from Moon Glyph Records",
+        "url": "https://open.spotify.com/album/2oMjSuFBIfiNCVmS2h70Ki"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "duration_ms": 207665,
+      "name": "(850) 457-4142",
+      "url": "https://open.spotify.com/track/4PiBecV2wzPlASnaJI5LMu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Various Small Whistles and a Song",
         "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
       },
@@ -250,23 +278,11 @@
         {
           "name": "Lia Kohl",
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        },
-        {
-          "name": "Corey Smith",
-          "url": "https://open.spotify.com/artist/4mXo8uJElHGG96y1jHc14z"
-        },
-        {
-          "name": "Ellie Mej\u00eda",
-          "url": "https://open.spotify.com/artist/7Bogbj4POJNRi6WmxoWAqI"
-        },
-        {
-          "name": "Anna Fox",
-          "url": "https://open.spotify.com/artist/1ESraRVMrL8HHq3cTqa1hi"
         }
       ],
       "duration_ms": 60000,
-      "name": "Midewin National Tallgrass Prairie, Illinois",
-      "url": "https://open.spotify.com/track/5UF7kt5QPCQhN4Qs6MsSv1"
+      "name": "Penny Whistle Seller, Guangzhou",
+      "url": "https://open.spotify.com/track/1eqmkXVJNeb14gp3pcW9GG"
     },
     {
       "added_at": null,
@@ -291,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Normal Sounds",
-        "url": "https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        },
-        {
-          "name": "Patrick Shiroishi",
-          "url": "https://open.spotify.com/artist/2lHGXQLY8KwPpuxBRsINR2"
-        }
-      ],
-      "duration_ms": 265919,
-      "name": "Car Horns",
-      "url": "https://open.spotify.com/track/0XJt8Gk8Z0pEDLDDi8DngI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BODY SOUND",
         "url": "https://open.spotify.com/album/4ZlCJO5fnIvgoPADpeB7tP"
       },
@@ -328,9 +324,25 @@
           "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
         }
       ],
-      "duration_ms": 159093,
-      "name": "cough | laugh",
-      "url": "https://open.spotify.com/track/4pilL720txoSnSUAxcU4WL"
+      "duration_ms": 171586,
+      "name": "laundry | blood",
+      "url": "https://open.spotify.com/track/3eOtkEZrOuM93GUYlX5Tkr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Normal Sounds",
+        "url": "https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "duration_ms": 281911,
+      "name": "Tennis Court Light, Snow",
+      "url": "https://open.spotify.com/track/7ggIC0pfqHen3QI2qRF2O9"
     },
     {
       "added_at": null,
@@ -371,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Normal Sounds",
-        "url": "https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        }
-      ],
-      "duration_ms": 281911,
-      "name": "Tennis Court Light, Snow",
-      "url": "https://open.spotify.com/track/7ggIC0pfqHen3QI2qRF2O9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BODY SOUND",
         "url": "https://open.spotify.com/album/4ZlCJO5fnIvgoPADpeB7tP"
       },
@@ -411,6 +407,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Normal Sounds",
+        "url": "https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Patrick Shiroishi",
+          "url": "https://open.spotify.com/artist/2lHGXQLY8KwPpuxBRsINR2"
+        }
+      ],
+      "duration_ms": 265919,
+      "name": "Car Horns",
+      "url": "https://open.spotify.com/track/0XJt8Gk8Z0pEDLDDi8DngI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Various Small Whistles and a Song",
         "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
       },
@@ -418,11 +434,15 @@
         {
           "name": "Lia Kohl",
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Colin Held",
+          "url": "https://open.spotify.com/artist/5ysT1fo4ccE4WSSvDP4tNY"
         }
       ],
       "duration_ms": 60000,
-      "name": "Walking Home, Chicago",
-      "url": "https://open.spotify.com/track/0MU8drky1sdwT0JvoFzcB2"
+      "name": "Outside, Arrington",
+      "url": "https://open.spotify.com/track/0xRvIQV2KDHvMGwcoJfNNf"
     },
     {
       "added_at": null,
@@ -447,6 +467,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "BODY SOUND",
+        "url": "https://open.spotify.com/album/4ZlCJO5fnIvgoPADpeB7tP"
+      },
+      "artists": [
+        {
+          "name": "Whitney Johnson",
+          "url": "https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt"
+        },
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
+        }
+      ],
+      "duration_ms": 159093,
+      "name": "cough | laugh",
+      "url": "https://open.spotify.com/track/4pilL720txoSnSUAxcU4WL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When the Distance is Blue",
         "url": "https://open.spotify.com/album/0YCz0QWFzM0bgpEyjJTsTn"
       },
@@ -467,30 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BODY SOUND",
-        "url": "https://open.spotify.com/album/4ZlCJO5fnIvgoPADpeB7tP"
-      },
-      "artists": [
-        {
-          "name": "Whitney Johnson",
-          "url": "https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt"
-        },
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        },
-        {
-          "name": "Macie Stewart",
-          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
-        }
-      ],
-      "duration_ms": 171586,
-      "name": "laundry | blood",
-      "url": "https://open.spotify.com/track/3eOtkEZrOuM93GUYlX5Tkr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Various Small Whistles and a Song",
         "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
       },
@@ -498,15 +518,11 @@
         {
           "name": "Lia Kohl",
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        },
-        {
-          "name": "Colin Held",
-          "url": "https://open.spotify.com/artist/5ysT1fo4ccE4WSSvDP4tNY"
         }
       ],
       "duration_ms": 60000,
-      "name": "Outside, Arrington",
-      "url": "https://open.spotify.com/track/0xRvIQV2KDHvMGwcoJfNNf"
+      "name": "Voting Line, Downtown Chicago",
+      "url": "https://open.spotify.com/track/1TSnz2seGejhS9i7Majbq4"
     },
     {
       "added_at": null,
@@ -547,22 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voting Line, Downtown Chicago",
-        "url": "https://open.spotify.com/album/27XOTjMMCEZmHdAbrkv1LU"
+        "name": "In the Deep Drift You Will Find the Most Serene of Lullabies",
+        "url": "https://open.spotify.com/album/7ncHkb6qfuk0ZtY9sPSIt9"
       },
       "artists": [
         {
           "name": "Lia Kohl",
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        },
-        {
-          "name": "Patrick Shiroishi",
-          "url": "https://open.spotify.com/artist/2lHGXQLY8KwPpuxBRsINR2"
         }
       ],
-      "duration_ms": 60000,
-      "name": "Walking Home, Los Angeles",
-      "url": "https://open.spotify.com/track/6biWvmwLdLfk5NXHhlfELL"
+      "duration_ms": 260387,
+      "name": "As Sweet As",
+      "url": "https://open.spotify.com/track/6NZF11LlZ3BlTakjNkrpFi"
     },
     {
       "added_at": null,
@@ -600,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw"
         }
       ],
-      "duration_ms": 185018,
-      "name": "Woven things rest",
-      "url": "https://open.spotify.com/track/7cmiWc7OaUwRJithn8BS7G"
+      "duration_ms": 378878,
+      "name": "Not in the hand",
+      "url": "https://open.spotify.com/track/2AaJKxmGLoG3duuSw1GmTl"
     },
     {
       "added_at": null,
@@ -643,22 +655,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Various Small Whistles and a Song",
-        "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
+        "name": "The Ceiling Reposes",
+        "url": "https://open.spotify.com/album/6s867Dmt7DGoY6N5YRQSPz"
       },
       "artists": [
         {
           "name": "Lia Kohl",
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        },
-        {
-          "name": "Jesse Perlstein",
-          "url": "https://open.spotify.com/artist/3WkuJtLGUUxCUjci8VCTAu"
         }
       ],
-      "duration_ms": 60000,
-      "name": "Belzec Extermination Camp",
-      "url": "https://open.spotify.com/track/6TRDTNepSLMoCFr7XkW1ZY"
+      "duration_ms": 472226,
+      "name": "when glass is there, and water,",
+      "url": "https://open.spotify.com/track/1F0Rj56hbmFWbugq15Dem1"
     },
     {
       "added_at": null,
@@ -676,9 +684,9 @@
           "url": "https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw"
         }
       ],
-      "duration_ms": 378878,
-      "name": "Not in the hand",
-      "url": "https://open.spotify.com/track/2AaJKxmGLoG3duuSw1GmTl"
+      "duration_ms": 185018,
+      "name": "Woven things rest",
+      "url": "https://open.spotify.com/track/7cmiWc7OaUwRJithn8BS7G"
     },
     {
       "added_at": null,
@@ -703,34 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Deep Drift You Will Find the Most Serene of Lullabies",
-        "url": "https://open.spotify.com/album/7ncHkb6qfuk0ZtY9sPSIt9"
+        "name": "Voting Line, Downtown Chicago",
+        "url": "https://open.spotify.com/album/27XOTjMMCEZmHdAbrkv1LU"
       },
       "artists": [
         {
           "name": "Lia Kohl",
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        }
-      ],
-      "duration_ms": 260387,
-      "name": "As Sweet As",
-      "url": "https://open.spotify.com/track/6NZF11LlZ3BlTakjNkrpFi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Ceiling Reposes",
-        "url": "https://open.spotify.com/album/6s867Dmt7DGoY6N5YRQSPz"
-      },
-      "artists": [
+        },
         {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+          "name": "Patrick Shiroishi",
+          "url": "https://open.spotify.com/artist/2lHGXQLY8KwPpuxBRsINR2"
         }
       ],
-      "duration_ms": 196015,
-      "name": "sit on the floor and wait for storms",
-      "url": "https://open.spotify.com/track/3UOZ8EqRzTlvqOPaymIl2x"
+      "duration_ms": 60000,
+      "name": "Walking Home, Los Angeles",
+      "url": "https://open.spotify.com/track/6biWvmwLdLfk5NXHhlfELL"
     },
     {
       "added_at": null,
@@ -760,9 +756,9 @@
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
         }
       ],
-      "duration_ms": 472226,
-      "name": "when glass is there, and water,",
-      "url": "https://open.spotify.com/track/1F0Rj56hbmFWbugq15Dem1"
+      "duration_ms": 196015,
+      "name": "sit on the floor and wait for storms",
+      "url": "https://open.spotify.com/track/3UOZ8EqRzTlvqOPaymIl2x"
     }
   ],
   "unique_name": "This Is Lia Kohl",

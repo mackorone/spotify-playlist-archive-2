@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "For Crying Out Loud (Deluxe)",
+        "url": "https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219515,
+      "name": "Ill Ray (The King)",
+      "url": "https://open.spotify.com/track/0WruOD5fP4RJ1kAn3Pcv3h"
+    },
+    {
+      "album": {
         "name": "In My Element",
         "url": "https://open.spotify.com/album/3CxixzgegDG7bjggz6uD1G"
       },

@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 | 49 | [Hold On](https://open.spotify.com/track/3fUqWnDqW95Mz2V73Pwd8K) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/55ye5wDWdOgEQ1FuA09I3T) | 3:46 |
 | 50 | [Hammer](https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Hammer](https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU) | 3:13 |
 
-Snapshot ID: `AAAAALAezEiVFI60mrBn3EBFP+bPcnm3`
+Snapshot ID: `AAAAAJtdjrxwAyzqgB9dYR+Z+AQWeLaE`

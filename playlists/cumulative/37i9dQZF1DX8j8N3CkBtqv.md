@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Shreya Jain, Saahel, Parth Srivastava and other exciting artists.
 
-1,566 songs - 3 day 14 hr 8 min
+1,567 songs - 3 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Baawra Mann](https://open.spotify.com/track/1PYbrx8dVS1fpbjPWILEzG) | [Shunya](https://open.spotify.com/artist/5Oz3oUJpLWYpDMv75dkvc0) | [Baawra Mann](https://open.spotify.com/album/7h2nzvqLaUZnMqwbDTreRN) | 4:12 | 2025-11-21 | 2026-01-24 |
 | [Badal](https://open.spotify.com/track/5gwMfrLGUV91qxBNbX9Fri) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1) | [Badal](https://open.spotify.com/album/4vX0qUy6r5iN5cZ6nJluEB) | 3:44 | 2023-09-08 | 2023-10-07 |
 | [Badastoor](https://open.spotify.com/track/4SctmiwRI2ygVHhgZ1s7C1) | [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Badastoor](https://open.spotify.com/album/1wIhDHHh84OmEaBOCOr85J) | 2:09 | 2024-07-26 | 2024-11-09 |
+| [Badila](https://open.spotify.com/track/14tR6AnKR90VAahdfIYf9F) | [Avanti Patel](https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf), [Rutuja Lad](https://open.spotify.com/artist/6dcj7PFzG1ybNHHJyMUS3m), [Akshay Jadhav](https://open.spotify.com/artist/1qvovvgGVEdrhHTLJYsizG), [Sandeep Mishra](https://open.spotify.com/artist/4vjj2jTnfLbFTAyQzX6sjO), [Nusrat Apoorv](https://open.spotify.com/artist/3AA6aNLg3R7Yj98JjpZg6b), [Joy Sengupta](https://open.spotify.com/artist/2w5FAQc2JWciNPGhsTBf4B) | [Badila](https://open.spotify.com/album/2zmkZI42FY6dAgf6spsfXO) | 8:38 | 2026-08-28 |  |
 | [Badle Sheher](https://open.spotify.com/track/4ENJihTeZ3AKmpENDgGcXY) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR), [Raeyna](https://open.spotify.com/artist/4cSuJFjNwzW29ciFECV2dg), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Badle Sheher](https://open.spotify.com/album/6qF9GugTEz01v6vwqmHCA8) | 2:18 | 2024-09-13 | 2024-10-19 |
 | [Badra](https://open.spotify.com/track/2fy26eIUwm4frudbpMFp6G) | [Nupoor Khedkar](https://open.spotify.com/artist/0NU4RKzpRuMwTyQRlPxqvD) | [Badra](https://open.spotify.com/album/1poqXY7CjbFGT58Ihmr8UR) | 2:46 | 2024-08-16 | 2024-09-28 |
 | [Badra](https://open.spotify.com/track/0yImatBZVxcXruTOJRsIUB) | [Sharayu Date](https://open.spotify.com/artist/23fgwjXNJCMTFy7S1l2pEC), [Radhika Bhide](https://open.spotify.com/artist/4OMlEVryNzCNImKNGoZ22c) | [Badra](https://open.spotify.com/album/781zLqsHUB2bBN1wfroqkw) | 5:02 | 2026-06-19 | 2026-07-25 |
@@ -574,7 +575,7 @@
 | [Ishq seekh lo](https://open.spotify.com/track/2pK4TD7tnmBO7c00yoNT94) | [Abhin Joshi](https://open.spotify.com/artist/3JpbtSxoGcENGrjtZPWbtq) | [Ishq seekh lo](https://open.spotify.com/album/3Ky1smlAG69k8dXHEOsmEG) | 3:48 | 2026-07-10 |  |
 | [Ishqa](https://open.spotify.com/track/09cjvgZgcf41y9AeAnrLLU) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Dhairya Mehrotra](https://open.spotify.com/artist/5Vgp1MHPoAEvloThD1kkdO) | [Ishqa](https://open.spotify.com/album/50j3Uk8T6Tj7D3XrD0Q6It) | 2:40 | 2026-08-28 |  |
 | [It's OK](https://open.spotify.com/track/2JMuletO0l8LK3LiKc3DTZ) | [RUUH](https://open.spotify.com/artist/70OyR3fSaGkXpkr1hMm9KQ), [JOH](https://open.spotify.com/artist/6chON6pmc2A5MZ2g4oDrNk) | [It's OK](https://open.spotify.com/album/72Ydb5jLfCwJdpuvQ3OEjz) | 2:01 | 2024-11-29 | 2025-01-11 |
-| [Ittefaq](https://open.spotify.com/track/4u7kaFGotOloy6iu6QHpMG) | [Deepika Seth](https://open.spotify.com/artist/58vi04PqZdDYmvmvPL9hlv), [Sagar Verma](https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO), [Rohan Upadeo](https://open.spotify.com/artist/4tZfPDRKgBCvltFEr4ka9j) | [Ittefaq](https://open.spotify.com/album/25LQM8pYZFDWVxwwTrRLfW) | 3:56 | 2026-07-03 |  |
+| [Ittefaq](https://open.spotify.com/track/4u7kaFGotOloy6iu6QHpMG) | [Deepika Seth](https://open.spotify.com/artist/58vi04PqZdDYmvmvPL9hlv), [Sagar Verma](https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO), [Rohan Upadeo](https://open.spotify.com/artist/4tZfPDRKgBCvltFEr4ka9j) | [Ittefaq](https://open.spotify.com/album/25LQM8pYZFDWVxwwTrRLfW) | 3:56 | 2026-07-03 | 2026-09-01 |
 | [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 | 2023-06-30 | 2023-08-11 |
 | [I’m Done.](https://open.spotify.com/track/7F9ZukSREowSoIQ2tB6HAm) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Mazaak](https://open.spotify.com/artist/01qn9kID2owHtQLAjKnQuz) | [I’m Done.](https://open.spotify.com/album/63D8vNTMTe5xJ2QXXqg0hT) | 2:28 | 2025-09-19 | 2025-11-01 |
 | [Ja Tujhko 2.0](https://open.spotify.com/track/0k9lmwQjlw3Fe73yMzUnRV) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Ja Tujhko 2.0](https://open.spotify.com/album/1g4i8uacpNI8e79YY7NhHG) | 3:56 | 2024-06-14 | 2024-08-03 |

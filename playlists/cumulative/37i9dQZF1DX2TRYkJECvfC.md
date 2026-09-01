@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-714 songs - 2 day 10 hr 22 min
+715 songs - 2 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Echoes](https://open.spotify.com/track/5iQf9pkvWsCr04zimLkusr) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Echoes](https://open.spotify.com/album/1nm30Bq5LbhXGUiTDoGSj8) | 3:49 | 2025-04-11 |  |
 | [Echoes](https://open.spotify.com/track/3oJ0ImxhIlU6lZ9JtCWYVd) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Echoes](https://open.spotify.com/album/0xr2nntVBXisNTLyan5wZt) | 6:03 | 2022-02-21 | 2023-09-12 |
 | [Egyptian Sun](https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Egyptian Sun](https://open.spotify.com/album/1S9zeICRVy9V9DxSH0XAaa) | 4:17 | 2023-05-26 | 2026-05-16 |
+| [Eivissa 2001 \- ssimo Dub Mix](https://open.spotify.com/track/1NdhMldCL0tdnjQwUBJ3BQ) | [Thomas Asselman](https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU), [Ralph Felix](https://open.spotify.com/artist/3i8emYvhsa8PmLH4zTAvjV), [ssimo](https://open.spotify.com/artist/4dvyzd69RNQBcalUM0BVnB) | [Eivissa 2001 \(ssimo Dub Mix\)](https://open.spotify.com/album/5dIQOyj31Bbp01PIllOjOk) | 3:40 | 2026-08-21 |  |
 | [Electric Birds](https://open.spotify.com/track/0B8eWg1gdVO3ctAK392FYz) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [For Real](https://open.spotify.com/album/706xtFNjk7TMRnHGzNrOHR) | 5:16 | 2025-03-21 |  |
 | [Eleuthera \(Catching Flies Remix\)](https://open.spotify.com/track/5EM9H0b9vbwPAkl7CWlEmS) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG), [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Oasis Sky \(Remixes\)](https://open.spotify.com/album/0SPKzHlhMuoAeQoRwJWCgb) | 4:23 | 2022-02-21 | 2025-01-18 |
 | [Embrace \- Black Coffee + Aquatone Remix](https://open.spotify.com/track/26wBcR6Damyd7l4xGI6DNg) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Embrace \(Black Coffee + Aquatone Remix\)](https://open.spotify.com/album/3vFWCPubU6GiPuJm2wJXHv) | 6:56 | 2022-01-14 | 2022-11-17 |
@@ -616,7 +617,7 @@
 | [Takume](https://open.spotify.com/track/3zQwLgmWd0CDRIKZXq9WsW) | [INNX](https://open.spotify.com/artist/5nJed4T0G1U9dZlF5W9Otb) | [Takume](https://open.spotify.com/album/6WDPLQDBa4mjjJQi0rOY0X) | 6:35 | 2021-12-08 | 2025-08-30 |
 | [Tales From Beyond](https://open.spotify.com/track/2PZdZJCcKJ82mXN90CGGz0) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Welcome To My World](https://open.spotify.com/album/0g85Ir9Nj7RWzQFJHU5cAe) | 3:38 | 2024-12-06 |  |
 | [Tali](https://open.spotify.com/track/7AiO8sAwdRa3Q4LdfVJ1TB) | [Pablo Bolivar](https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs), [Garcia Smith](https://open.spotify.com/artist/2bM1d2zqQTVageE42BJDia) | [Tali / Cunna](https://open.spotify.com/album/6kRUDhHxKjXtf1wRdcd7Ys) | 6:30 | 2021-12-08 | 2024-07-13 |
-| [Tapioca \- Crackazat Remix \- Edit](https://open.spotify.com/track/1MsCUXqb7X7k9ycLzQOqyS) | [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe), [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Tapioca \(Crackazat Remix\)](https://open.spotify.com/album/2yjNHOmMgmJGkR5NDhq2gs) | 4:04 | 2026-02-06 |  |
+| [Tapioca \- Crackazat Remix \- Edit](https://open.spotify.com/track/1MsCUXqb7X7k9ycLzQOqyS) | [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe), [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Tapioca \(Crackazat Remix\)](https://open.spotify.com/album/2yjNHOmMgmJGkR5NDhq2gs) | 4:04 | 2026-02-06 | 2026-09-01 |
 | [Tapisl](https://open.spotify.com/track/1iYxFVF6by0z3X3C9yyTYm) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Tapisl](https://open.spotify.com/album/6ao0OoU3EorF3MTikO6NvU) | 6:41 | 2021-12-08 | 2022-07-29 |
 | [Tapisl](https://open.spotify.com/track/6joasewIA9IiFRfPJPKu0A) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [kkompilation vol.1](https://open.spotify.com/album/1YXXvBFYOm0MZSI86xpCYB) | 6:41 | 2022-05-03 | 2023-05-13 |
 | [Tears](https://open.spotify.com/track/2dpzs6UBVMvB4zHM6ly1iq) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Tears](https://open.spotify.com/album/7hMZlhA5J4w7qYIJEnk0Rt) | 3:57 | 2023-09-08 |  |

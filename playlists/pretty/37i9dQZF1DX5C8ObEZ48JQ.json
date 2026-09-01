@@ -1,33 +1,13 @@
 {
   "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/2BlTufGgupqEM4ITQAJhAp?si=63870859e7c942be\">Ila Nia</a>. Artwork: Isu Kim. ",
-  "num_followers": 25678,
+  "num_followers": 25695,
   "original_name": "Fresh Finds Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP0si1ZPxaTMY+hd8IvkAxVihBwK",
+  "snapshot_id": "AAAAAK5Vu5qulg7xJlNandiZtMOTeHHm",
   "tracks": [
-    {
-      "added_at": "2026-08-25 22:00:20",
-      "album": {
-        "name": "BARUA ZA UNGUJA, Vol. 1",
-        "url": "https://open.spotify.com/album/2bFtQ69HDOQHAaYv7UsNn7"
-      },
-      "artists": [
-        {
-          "name": "Akoth Jumadi",
-          "url": "https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo"
-        },
-        {
-          "name": "Omar Alakabani",
-          "url": "https://open.spotify.com/artist/3UtsokkETP0sNnogm6Z2Bv"
-        }
-      ],
-      "duration_ms": 239544,
-      "name": "Unanifaa",
-      "url": "https://open.spotify.com/track/2pgzzR1JFS9Lkm6kASdXoE"
-    },
     {
       "added_at": "2026-08-25 22:00:20",
       "album": {
@@ -155,6 +135,26 @@
       "duration_ms": 169500,
       "name": "Idols",
       "url": "https://open.spotify.com/track/1dpxa8jGgUG8Dug4jgNkj4"
+    },
+    {
+      "added_at": "2026-08-25 22:00:20",
+      "album": {
+        "name": "BARUA ZA UNGUJA, Vol. 1",
+        "url": "https://open.spotify.com/album/2bFtQ69HDOQHAaYv7UsNn7"
+      },
+      "artists": [
+        {
+          "name": "Akoth Jumadi",
+          "url": "https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo"
+        },
+        {
+          "name": "Omar Alakabani",
+          "url": "https://open.spotify.com/artist/3UtsokkETP0sNnogm6Z2Bv"
+        }
+      ],
+      "duration_ms": 239544,
+      "name": "Unanifaa",
+      "url": "https://open.spotify.com/track/2pgzzR1JFS9Lkm6kASdXoE"
     },
     {
       "added_at": "2026-08-25 22:00:20",

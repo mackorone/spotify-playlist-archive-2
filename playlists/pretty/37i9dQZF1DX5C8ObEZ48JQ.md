@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/2BlTufGgupqEM4ITQAJhAp?si=63870859e7c942be">Ila Nia</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,678 likes - 54 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,695 likes - 54 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Unanifaa](https://open.spotify.com/track/2pgzzR1JFS9Lkm6kASdXoE) | [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo), [Omar Alakabani](https://open.spotify.com/artist/3UtsokkETP0sNnogm6Z2Bv) | [BARUA ZA UNGUJA, Vol\. 1](https://open.spotify.com/album/2bFtQ69HDOQHAaYv7UsNn7) | 3:59 |
-| 2 | [Choosing You](https://open.spotify.com/track/387HAijpDGR7NYyFbbLuUC) | [Ila Nia](https://open.spotify.com/artist/2BlTufGgupqEM4ITQAJhAp), [Kahuti](https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg) | [Choosing You](https://open.spotify.com/album/691tRaAFHRDgxpt9LxbRnO) | 3:02 |
-| 3 | [Okunkun](https://open.spotify.com/track/2NuKovR96sB2gIsWstLmf9) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR), [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv) | [Okunkun](https://open.spotify.com/album/1EkRyrYD72QVlE04YhSHAe) | 2:39 |
-| 4 | [Living Without You](https://open.spotify.com/track/1Qvf8gdxoijey2rvNtePUx) | [Tessi Nandi](https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ), [YOSHE](https://open.spotify.com/artist/4v9lEuK0nSxVknvcwOWfYn) | [Living Without You](https://open.spotify.com/album/0aJqinoyriKs45Ycx4hm8C) | 3:29 |
-| 5 | [BE](https://open.spotify.com/track/2RMChoPeNN7CaPUD4QfsED) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [BE](https://open.spotify.com/album/6A8NgDp8BJR3tZEi268RiP) | 2:34 |
-| 6 | [Ilomba](https://open.spotify.com/track/7AgSNKgxbZng5O3YbvlsFc) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9), [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J) | [Dusk to Dawn](https://open.spotify.com/album/0BotPpY6sS0Mi7qusHSv8A) | 5:24 |
-| 7 | [Deeper Than Love](https://open.spotify.com/track/621gWcQWi29Ka1veHGYVEI) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Love Stray](https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d) | 2:57 |
-| 8 | [Idols](https://open.spotify.com/track/1dpxa8jGgUG8Dug4jgNkj4) | [Esoterica](https://open.spotify.com/artist/4D0epRNi8OyA8rR7dEoB3y) | [Avant God](https://open.spotify.com/album/2HfRLVLNFlh0a1X32Y4bmt) | 2:49 |
+| 1 | [Choosing You](https://open.spotify.com/track/387HAijpDGR7NYyFbbLuUC) | [Ila Nia](https://open.spotify.com/artist/2BlTufGgupqEM4ITQAJhAp), [Kahuti](https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg) | [Choosing You](https://open.spotify.com/album/691tRaAFHRDgxpt9LxbRnO) | 3:02 |
+| 2 | [Okunkun](https://open.spotify.com/track/2NuKovR96sB2gIsWstLmf9) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR), [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv) | [Okunkun](https://open.spotify.com/album/1EkRyrYD72QVlE04YhSHAe) | 2:39 |
+| 3 | [Living Without You](https://open.spotify.com/track/1Qvf8gdxoijey2rvNtePUx) | [Tessi Nandi](https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ), [YOSHE](https://open.spotify.com/artist/4v9lEuK0nSxVknvcwOWfYn) | [Living Without You](https://open.spotify.com/album/0aJqinoyriKs45Ycx4hm8C) | 3:29 |
+| 4 | [BE](https://open.spotify.com/track/2RMChoPeNN7CaPUD4QfsED) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [BE](https://open.spotify.com/album/6A8NgDp8BJR3tZEi268RiP) | 2:34 |
+| 5 | [Ilomba](https://open.spotify.com/track/7AgSNKgxbZng5O3YbvlsFc) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9), [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J) | [Dusk to Dawn](https://open.spotify.com/album/0BotPpY6sS0Mi7qusHSv8A) | 5:24 |
+| 6 | [Deeper Than Love](https://open.spotify.com/track/621gWcQWi29Ka1veHGYVEI) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Love Stray](https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d) | 2:57 |
+| 7 | [Idols](https://open.spotify.com/track/1dpxa8jGgUG8Dug4jgNkj4) | [Esoterica](https://open.spotify.com/artist/4D0epRNi8OyA8rR7dEoB3y) | [Avant God](https://open.spotify.com/album/2HfRLVLNFlh0a1X32Y4bmt) | 2:49 |
+| 8 | [Unanifaa](https://open.spotify.com/track/2pgzzR1JFS9Lkm6kASdXoE) | [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo), [Omar Alakabani](https://open.spotify.com/artist/3UtsokkETP0sNnogm6Z2Bv) | [BARUA ZA UNGUJA, Vol\. 1](https://open.spotify.com/album/2bFtQ69HDOQHAaYv7UsNn7) | 3:59 |
 | 9 | [Escapism](https://open.spotify.com/track/5fW4iJMqmtsKtLn8YIlGEt) | [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr), [Remaya](https://open.spotify.com/artist/6dHenbNUA9bZZKOTodNq5e) | [Escapism](https://open.spotify.com/album/7D2iwvHS001asU8te42zGR) | 2:22 |
 | 10 | [Zuzu \(Kompa Edit\)](https://open.spotify.com/track/7bBozqP0QRlNyVADxLaelB) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Zuzu \(Kompa Edit\)](https://open.spotify.com/album/61Je6BNoJ8GjiRktsw1zuC) | 4:32 |
 | 11 | [green mile](https://open.spotify.com/track/3tT9tgQ5VaobAVITOyOr8S) | [Baves O](https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs) | [Are You With Me!](https://open.spotify.com/album/6efiIGTRyuGuHLliDvpX49) | 1:25 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 53 | [PRESS AM](https://open.spotify.com/track/1HGAkDrQS4SAjGO1wUUEJ8) | [Egertton](https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV), [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf) | [PRESS AM](https://open.spotify.com/album/1EBWwV4ediQjVLCZfqgCyj) | 2:03 |
 | 54 | [fêteRock\*](https://open.spotify.com/track/28dmUmDBKcByC8J4g0FmJN) | [onoola\-sama](https://open.spotify.com/artist/21n9ybnUUCQNOj4Ea8rVxC), [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [fujiBouyon\*](https://open.spotify.com/album/1zaNYDraNZA32BrkMhedlT) | 3:07 |
 
-Snapshot ID: `AAAAAP0si1ZPxaTMY+hd8IvkAxVihBwK`
+Snapshot ID: `AAAAAK5Vu5qulg7xJlNandiZtMOTeHHm`

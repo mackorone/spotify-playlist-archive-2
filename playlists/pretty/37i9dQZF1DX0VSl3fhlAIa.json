@@ -1,12 +1,12 @@
 {
   "description": "Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.",
-  "num_followers": 9602,
+  "num_followers": 9627,
   "original_name": "Kimono R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN58Gr6aa8roNSxDJ3vJ8DNMcj1M",
+  "snapshot_id": "AAAAALXUXI758yjpnb8aDwahdaGWdc6P",
   "tracks": [
     {
       "added_at": "2026-08-30 05:38:40",
@@ -487,26 +487,6 @@
     {
       "added_at": "2026-08-30 05:38:40",
       "album": {
-        "name": "Juliet is the moon",
-        "url": "https://open.spotify.com/album/4PeztBLuZAi4GvZqQXNM19"
-      },
-      "artists": [
-        {
-          "name": "VivaOla",
-          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
-        },
-        {
-          "name": "Sagiri S\u00f3l",
-          "url": "https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb"
-        }
-      ],
-      "duration_ms": 203265,
-      "name": "Over The Moon - feat. Sagiri S\u00f3l",
-      "url": "https://open.spotify.com/track/2WPC6nZTTdbDJ5J2KMkhRN"
-    },
-    {
-      "added_at": "2026-08-30 05:38:40",
-      "album": {
         "name": "OVERHEAT",
         "url": "https://open.spotify.com/album/5EbV1i5shtromh6PVT61qs"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 202780,
       "name": "OVERHEAT",
       "url": "https://open.spotify.com/track/0Bm1E39pljqvab5us0ucUO"
+    },
+    {
+      "added_at": "2026-08-30 05:38:40",
+      "album": {
+        "name": "Juliet is the moon",
+        "url": "https://open.spotify.com/album/4PeztBLuZAi4GvZqQXNM19"
+      },
+      "artists": [
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        },
+        {
+          "name": "Sagiri S\u00f3l",
+          "url": "https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb"
+        }
+      ],
+      "duration_ms": 203265,
+      "name": "Over The Moon - feat. Sagiri S\u00f3l",
+      "url": "https://open.spotify.com/track/2WPC6nZTTdbDJ5J2KMkhRN"
     },
     {
       "added_at": "2026-08-30 05:38:40",

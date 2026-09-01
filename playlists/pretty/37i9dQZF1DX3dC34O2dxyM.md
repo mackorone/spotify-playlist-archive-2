@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dC34O2dxyM.md) - [plain]
 
 > Canciones de cuna relajantes con arpa y guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,544 likes - 78 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,642 likes - 78 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dC34O2dxyM.md) - [plain]
 | 77 | [Autumn Joy](https://open.spotify.com/track/6N72VsDHQL9QPe2XDY3YaQ) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Autumn Joy](https://open.spotify.com/album/1997Gm8TX9mrOZWi6At4K8) | 1:41 |
 | 78 | [Quiet Stars, Gentle Strums](https://open.spotify.com/track/5Z1pFUx2YyiQ02GPItTgQC) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Quiet Stars, Gentle Strums](https://open.spotify.com/album/6lDyqibXUO1LIbywkvJSZP) | 2:13 |
 
-Snapshot ID: `AAAAAAuz+8LRQa5oJ5c7YjnSKmfpXPze`
+Snapshot ID: `AAAAAPIU83HT+Y91nKXpiwp+ar1DFVMp`

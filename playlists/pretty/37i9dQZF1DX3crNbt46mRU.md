@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Paula Hartmann, Apache 207, Olivia Rodrigo, Berq, badmómzjay & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,189 likes - 98 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,182 likes - 98 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 97 | [MONEYMONEYMONEY](https://open.spotify.com/track/0soE3o6dUx6YiSzpUkfyBE) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [GREENGREEN\_playextended](https://open.spotify.com/album/26w4RoexAyiXRogASNJDZj) | 2:19 |
 | 98 | [Carry On](https://open.spotify.com/track/0kqs8MvKZ5bbMTJQidJWB0) | [Saint Chaos](https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg) | [Make My Day](https://open.spotify.com/album/6wApT9M9XRcriLUwFjxG6W) | 4:09 |
 
-Snapshot ID: `AAAAAOG/AoxdKpsilyyuzOJZnuzUt5tY`
+Snapshot ID: `AAAAAJDQhKFBM04ALNZsHOgnBEHCd3hY`

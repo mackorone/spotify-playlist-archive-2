@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 271227,
+  "num_followers": 271219,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA+QXQe1w3RWxeL/8M3Nf4uYQalQ",
+  "snapshot_id": "AAAAANbOauhnvbDliFN1rTtZSA95q9S9",
   "tracks": [
     {
       "added_at": "2025-12-17 22:42:18",
@@ -795,18 +795,18 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "A Little Love (From The John Lewis & Waitrose Christmas Advert 2020)",
-        "url": "https://open.spotify.com/album/6uXCDNLCKMosTnjTrDtkp4"
+        "name": "Dance Again",
+        "url": "https://open.spotify.com/album/5Neaw5nr7xDUXk3s6sC1X3"
       },
       "artists": [
         {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+          "name": "Lemony Rug",
+          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
         }
       ],
-      "duration_ms": 178546,
-      "name": "A Little Love",
-      "url": "https://open.spotify.com/track/7eTonpb9lXgerPaW6I1VnP"
+      "duration_ms": 221555,
+      "name": "Dance Again",
+      "url": "https://open.spotify.com/track/2nczx4CnQaE6a9WpfQpYxY"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -827,18 +827,18 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Dance Again",
-        "url": "https://open.spotify.com/album/5Neaw5nr7xDUXk3s6sC1X3"
+        "name": "A Little Love (From The John Lewis & Waitrose Christmas Advert 2020)",
+        "url": "https://open.spotify.com/album/6uXCDNLCKMosTnjTrDtkp4"
       },
       "artists": [
         {
-          "name": "Lemony Rug",
-          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
         }
       ],
-      "duration_ms": 221555,
-      "name": "Dance Again",
-      "url": "https://open.spotify.com/track/2nczx4CnQaE6a9WpfQpYxY"
+      "duration_ms": 178546,
+      "name": "A Little Love",
+      "url": "https://open.spotify.com/track/7eTonpb9lXgerPaW6I1VnP"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Christmas Special",
-        "url": "https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 188533,
-      "name": "Christmas Special",
-      "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "Christmas (Baby Please Come Home) - Recorded At Electric Lady Studios NYC",
         "url": "https://open.spotify.com/album/7L7nmx23fd3TOd2DlqvZGF"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 203767,
       "name": "Christmas (Baby Please Come Home) - Recorded At Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/5PZYjlwLznLOjHXIHJpyHa"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "Christmas Special",
+        "url": "https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "duration_ms": 188533,
+      "name": "Christmas Special",
+      "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
     },
     {
       "added_at": "2025-12-17 22:42:18",

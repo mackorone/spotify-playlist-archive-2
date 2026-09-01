@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 
 > Bollywood Central, jab baje toh seedha dil ke centre mein lage 🫶🏼 Cover \- Stree 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,621,050 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,621,123 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 | 49 | [Pyaar Hota Kayi Baar Hai \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/track/2vPrBucKCfKmafHhSfJ2pt) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Pyaar Hota Kayi Baar Hai \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/album/1cttjZoENYipDCPgISthpY) | 3:36 |
 | 50 | [Dhurandhar \- Title Track](https://open.spotify.com/track/5xKr4HfdnYLMDmAJZkOuBc) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Sudhir Yaduvanshi](https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb), [Charanjit Ahuja](https://open.spotify.com/artist/5jI1jiicLnii7yjSbAj9xj), [Muhammad Sadiq](https://open.spotify.com/artist/0Wrp7P9HV2JVEKAzU3tLSD), [Ranjit Kaur](https://open.spotify.com/artist/2RB4eCNO29DoHWqjLtPAFY), [Babu Singh Maan](https://open.spotify.com/artist/0CrZKzYlBaQEXqXGNduM4d) | [Dhurandhar](https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8) | 2:35 |
 
-Snapshot ID: `AAAAAMjy4W292DWAxQk4LEMpvHD4xdby`
+Snapshot ID: `AAAAAMrZ/JerCn5hslSSvR5VVxW8ypQV`

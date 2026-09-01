@@ -6449,6 +6449,24 @@
     },
     {
       "album": {
+        "name": "Actress",
+        "url": "https://open.spotify.com/album/6pebMOxLbzcnOGhDSSi8HC"
+      },
+      "artists": [
+        {
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146454,
+      "name": "Opium",
+      "url": "https://open.spotify.com/track/69bm2TcsqVhOxlqdJQm4Pa"
+    },
+    {
+      "album": {
         "name": "Orca Whale",
         "url": "https://open.spotify.com/album/3X4YSMu1JT1jYOp877dS8W"
       },

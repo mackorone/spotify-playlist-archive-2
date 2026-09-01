@@ -1,12 +1,12 @@
 {
   "description": "Jean Sibelius: Finnish hero, notorious lobster enthusiast, and composer of truly monumental music. Discover his famous works in this essential playlist.",
-  "num_followers": 32599,
+  "num_followers": 32601,
   "original_name": "This Is Sibelius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA7bCUGoyXACZrPLXMDN2Vky8XMj",
+  "snapshot_id": "AAAAALl5QEbB/5DIqnS8sPYgaGd3Mqwi",
   "tracks": [
     {
       "added_at": "2025-12-15 12:16:59",
@@ -360,6 +360,26 @@
           "url": "https://open.spotify.com/artist/20w7d77cK8uJbgV8SDdaIS"
         }
       ],
+      "duration_ms": 288000,
+      "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 5. Allegro",
+      "url": "https://open.spotify.com/track/0I8by5gcOfJ1KXyA2LDK3j"
+    },
+    {
+      "added_at": "2025-12-15 12:16:59",
+      "album": {
+        "name": "Sibelius/Grieg: String Quartets",
+        "url": "https://open.spotify.com/album/0Fy1swlKcvYXleEEXLy0js"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Guarneri Quartet",
+          "url": "https://open.spotify.com/artist/20w7d77cK8uJbgV8SDdaIS"
+        }
+      ],
       "duration_ms": 374000,
       "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 4. Allegretto (ma pesante)",
       "url": "https://open.spotify.com/track/0CnnEtrX6RbMcnOqhtlpWQ"
@@ -435,26 +455,6 @@
     {
       "added_at": "2025-12-15 12:16:59",
       "album": {
-        "name": "Sibelius/Grieg: String Quartets",
-        "url": "https://open.spotify.com/album/0Fy1swlKcvYXleEEXLy0js"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Guarneri Quartet",
-          "url": "https://open.spotify.com/artist/20w7d77cK8uJbgV8SDdaIS"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 5. Allegro",
-      "url": "https://open.spotify.com/track/0I8by5gcOfJ1KXyA2LDK3j"
-    },
-    {
-      "added_at": "2025-12-15 12:16:59",
-      "album": {
         "name": "Colin Davis conducts Sibelius",
         "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
       },
@@ -471,30 +471,6 @@
       "duration_ms": 477613,
       "name": "Rakastava, Op. 14: Good Evening... Farewell!",
       "url": "https://open.spotify.com/track/6xMJI052R1mlEFtT6ej2Va"
-    },
-    {
-      "added_at": "2025-12-15 12:16:59",
-      "album": {
-        "name": "Sibelius: Essentials",
-        "url": "https://open.spotify.com/album/02VIadxooZpaFfKNDQomCM"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Gothenburg Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
-        },
-        {
-          "name": "Neeme J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
-        }
-      ],
-      "duration_ms": 727409,
-      "name": "Pohjola's Daughter, Op. 49",
-      "url": "https://open.spotify.com/track/4sOlhYFDDSdsHiQQMqReZu"
     },
     {
       "added_at": "2025-12-15 12:16:59",
@@ -559,6 +535,30 @@
       "duration_ms": 165933,
       "name": "Sibelius: Pell\u00e9as et M\u00e9lisande Suite, Op. 46: I. At the Castle Gate",
       "url": "https://open.spotify.com/track/13Uork2qBOzuqWbjtAqfCp"
+    },
+    {
+      "added_at": "2025-12-15 12:16:59",
+      "album": {
+        "name": "Sibelius: Essentials",
+        "url": "https://open.spotify.com/album/02VIadxooZpaFfKNDQomCM"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "duration_ms": 727409,
+      "name": "Pohjola's Daughter, Op. 49",
+      "url": "https://open.spotify.com/track/4sOlhYFDDSdsHiQQMqReZu"
     },
     {
       "added_at": "2025-12-15 12:16:59",
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/2qYhukUeIDcRRtE7CsqA8V"
         }
       ],
-      "duration_ms": 209893,
-      "name": "Ten Pieces, Op. 24: Nocturno Op. 24: No. 8",
-      "url": "https://open.spotify.com/track/1eGxfn4HNrxee4x1uY0yfv"
+      "duration_ms": 297453,
+      "name": "Ten Pieces, Op. 24: Barcarola, Op. 24: No. 10",
+      "url": "https://open.spotify.com/track/3DTRA5OK78rKaNPiu6vqdZ"
     },
     {
       "added_at": "2025-12-15 12:16:59",
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2qYhukUeIDcRRtE7CsqA8V"
         }
       ],
-      "duration_ms": 297453,
-      "name": "Ten Pieces, Op. 24: Barcarola, Op. 24: No. 10",
-      "url": "https://open.spotify.com/track/3DTRA5OK78rKaNPiu6vqdZ"
+      "duration_ms": 209893,
+      "name": "Ten Pieces, Op. 24: Nocturno Op. 24: No. 8",
+      "url": "https://open.spotify.com/track/1eGxfn4HNrxee4x1uY0yfv"
     },
     {
       "added_at": "2025-12-15 12:16:59",

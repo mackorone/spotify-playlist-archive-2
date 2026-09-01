@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Sara Landry
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,491 likes - 140 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,532 likes - 140 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 139 | [Alte Keks](https://open.spotify.com/track/58RBR8PTEQBHyUaiAz5fGH) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Mo\-Do](https://open.spotify.com/artist/3Y42QTbwNJeqEVmrMknG0f) | [Alte Keks](https://open.spotify.com/album/6YrSgCGaLLFG5yyJIVwr4C) | 2:58 |
 | 140 | [Daddy](https://open.spotify.com/track/4a7A0BmJVVk7dFNj9Qkelk) | [t e s t p r e s s](https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u), [Teletech](https://open.spotify.com/artist/30tToHC6q3nB7Lious0MZW) | [Daddy](https://open.spotify.com/album/2BXDW1T6kuNHNCpCb0Q2tg) | 2:45 |
 
-Snapshot ID: `AAAAAJEDWcdGwHyH8tJnkOIK4SsOyz0r`
+Snapshot ID: `AAAAAKEu2FhIH9DxT3pxT73HACOGg8QM`

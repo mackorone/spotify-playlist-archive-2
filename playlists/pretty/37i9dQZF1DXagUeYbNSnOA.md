@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring AARON 21\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,555 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,571 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [BOY BYE](https://open.spotify.com/track/2lTzBBmLTbW4wMGfmF6z1D) | [Karina Vélez](https://open.spotify.com/artist/03HoEstuBFNJNHL1n2dAMr) | [BOY BYE](https://open.spotify.com/album/3ZyiG1goXxuQt2Y8MZV4xl) | 1:21 |
 | 50 | [Feeling at Home](https://open.spotify.com/track/4z28HFdbz493UGl6vldoZR) | [The Treedome](https://open.spotify.com/artist/5gfEMpgDlkeBGgRbMCI1hC) | [Feeling at Home](https://open.spotify.com/album/2txUFG8LZ3CX1VNEsCTPEv) | 3:55 |
 
-Snapshot ID: `AAAAAHtIqGQ+zUjdBObrLTamXJDQckp7`
+Snapshot ID: `AAAAAB0oSjndNPK3gVa/uSO+zDfHT/ur`

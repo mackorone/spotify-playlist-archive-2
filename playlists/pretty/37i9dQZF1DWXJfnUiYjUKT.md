@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Alex Warren on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,514 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,504 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [CRACK](https://open.spotify.com/track/4N9GQEezDsNG5tYJfNqyCK) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Ante el Umbral del Peligro No Siento Temor](https://open.spotify.com/album/73s0yQJIP64mS3dnvPBxU8) | 3:13 |
 | 100 | [Blue Brush\-Footed Butterfly](https://open.spotify.com/track/2QVpQ3lEaAuOOnhZRffYh3) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Mad Dog in the Fog](https://open.spotify.com/album/0O2BBZ5P4ljzLyyYfSVedH) | 3:15 |
 
-Snapshot ID: `AAAAALeGbKMgF34P+/tvLbLpz0tNBAvT`
+Snapshot ID: `AAAAAJdHk4LV7NCBu3xP20euxpwASnvK`

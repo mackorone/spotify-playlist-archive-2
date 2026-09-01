@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Wekelijkse update met de beste Indie releases. Cover: Phoebe Bridgers",
+  "description": "Wekelijkse update met de beste Indie releases. Cover: Rikas",
   "name": "Indie Update",
   "tracks": [
     {
@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "About Us / PROTO",
+        "url": "https://open.spotify.com/album/3DiQvUkn7guUReKXzgNBeL"
+      },
+      "artists": [
+        {
+          "name": "fingerbleed",
+          "url": "https://open.spotify.com/artist/2DtH8PLe1dGAAzpNPbgVd5"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119333,
+      "name": "About Us",
+      "url": "https://open.spotify.com/track/431TEfCxX6oZaQX3wPTmmN"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
       },
@@ -766,7 +784,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 181000,
       "name": "All The Things",
       "url": "https://open.spotify.com/track/0Wknp7wThnRkNl2xw4h19g"
@@ -2004,7 +2022,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 252280,
       "name": "Blue Skies & Blind Intuition",
       "url": "https://open.spotify.com/track/6yzsuMptOFr3Dkh8SbmVhf"
@@ -2867,6 +2885,24 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4nUBAtr9iFH2HhoLR9Cqjo"
+      },
+      "artists": [
+        {
+          "name": "Rikas",
+          "url": "https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164992,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/4sBDf6o4mYWjmZjPn4TH9I"
+    },
+    {
+      "album": {
         "name": "Charm",
         "url": "https://open.spotify.com/album/10yKdfs5H8lqRYGBRNAKZb"
       },
@@ -3226,6 +3262,24 @@
       "duration_ms": 186280,
       "name": "Coming Up For Air",
       "url": "https://open.spotify.com/track/0RLcjBN3TYa1ofpcu5mJlW"
+    },
+    {
+      "album": {
+        "name": "Common Grounds",
+        "url": "https://open.spotify.com/album/5Ng0kYEIXLzs424KPZEYMU"
+      },
+      "artists": [
+        {
+          "name": "Bianca Steck",
+          "url": "https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177568,
+      "name": "Common Grounds",
+      "url": "https://open.spotify.com/track/6PTQcRAJsQH2QkFiOGtk6Y"
     },
     {
       "album": {
@@ -5174,7 +5228,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 208780,
       "name": "forget me",
       "url": "https://open.spotify.com/track/4NiS0gmFzaou8wBy9AnxeE"
@@ -5416,7 +5470,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 269506,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/2t4MbFWSRdpOto3ckcUq7T"
@@ -6026,7 +6080,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 256826,
       "name": "half of a dream",
       "url": "https://open.spotify.com/track/2IhmeF4NzPVKG5IV33g3Ol"
@@ -8685,6 +8739,24 @@
     },
     {
       "album": {
+        "name": "\"Tell Me of Love!\"",
+        "url": "https://open.spotify.com/album/0IwaPeZeRMSlBVzb4vdEaR"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235249,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6QRy4zkZvESMSegT9Ju8LK"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/2U3QalgJYkL8r8BHJ0Qxzu"
       },
@@ -9140,6 +9212,24 @@
       "duration_ms": 259751,
       "name": "Mary",
       "url": "https://open.spotify.com/track/6kqr9XZcHzVnIN5Oz4u4C3"
+    },
+    {
+      "album": {
+        "name": "Mary Jane",
+        "url": "https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151671,
+      "name": "Mary Jane",
+      "url": "https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1"
     },
     {
       "album": {
@@ -11251,6 +11341,24 @@
     },
     {
       "album": {
+        "name": "Permuto (orchestral)",
+        "url": "https://open.spotify.com/album/2c7ex8R7Rkzyn92Z6yLFKW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Azier",
+          "url": "https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187387,
+      "name": "Permuto (orchestral)",
+      "url": "https://open.spotify.com/track/1RNzRdkLvpOWmRCJ59SUbM"
+    },
+    {
+      "album": {
         "name": "Perspective",
         "url": "https://open.spotify.com/album/5K2aPTsWGhIOO2NwWHU1Za"
       },
@@ -11446,7 +11554,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 215948,
       "name": "Planting Tomatoes",
       "url": "https://open.spotify.com/track/0BuI2IX8F4HlGjIxywA09L"
@@ -12167,6 +12275,24 @@
     },
     {
       "album": {
+        "name": "Right Mind",
+        "url": "https://open.spotify.com/album/0w6PDBZFkQ24HSjOERIbsJ"
+      },
+      "artists": [
+        {
+          "name": "Patches",
+          "url": "https://open.spotify.com/artist/6doDaUbbcBJCFyLEvJPmlh"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174187,
+      "name": "Right Mind",
+      "url": "https://open.spotify.com/track/3m5rg0HBWw6sMFpb3VMwRq"
+    },
+    {
+      "album": {
         "name": "Ring",
         "url": "https://open.spotify.com/album/3KZ5IpMqxMKNUwUhe0PCwr"
       },
@@ -12564,7 +12690,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 204202,
       "name": "Sand",
       "url": "https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL"
@@ -14463,6 +14589,24 @@
     },
     {
       "album": {
+        "name": "Terug Naar Geluk",
+        "url": "https://open.spotify.com/album/2tFzV3HBO7QOXZlXhlSkrp"
+      },
+      "artists": [
+        {
+          "name": "Joost Hofman",
+          "url": "https://open.spotify.com/artist/4rSlh8Qh8tiVlGpS2ww6KT"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176032,
+      "name": "Terug Naar Geluk",
+      "url": "https://open.spotify.com/track/3xDHoEbOyqRBZVKBUrXAOb"
+    },
+    {
+      "album": {
         "name": "Tested Waters",
         "url": "https://open.spotify.com/album/6idrwqlyEYykX81SeNtsvd"
       },
@@ -15138,7 +15282,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 194546,
       "name": "The Shore",
       "url": "https://open.spotify.com/track/2qNgwLfICHa5Qle5uAWGfg"
@@ -15232,6 +15376,24 @@
       "duration_ms": 172288,
       "name": "The Word Love",
       "url": "https://open.spotify.com/track/0WUb7VbmfMCNB1IICPoUHP"
+    },
+    {
+      "album": {
+        "name": "Therapist's Daughter",
+        "url": "https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173593,
+      "name": "Therapist's Daughter",
+      "url": "https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R"
     },
     {
       "album": {
@@ -16028,7 +16190,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 221000,
       "name": "Vampire at the Beach",
       "url": "https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR"
@@ -16194,6 +16356,24 @@
       "duration_ms": 176985,
       "name": "Walk Walk Walk",
       "url": "https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK"
+    },
+    {
+      "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178334,
+      "name": "Wallflower",
+      "url": "https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3"
     },
     {
       "album": {
@@ -16576,7 +16756,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 169411,
       "name": "When the World Dissolves",
       "url": "https://open.spotify.com/track/517spBUb3H1kqpUUmDjTJ3"
@@ -17092,6 +17272,24 @@
       "duration_ms": 253200,
       "name": "You Are The Morning",
       "url": "https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei"
+    },
+    {
+      "album": {
+        "name": "You Love Me",
+        "url": "https://open.spotify.com/album/0svkRLuuzbdyZIs1yVUl4R"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229647,
+      "name": "You Love Me",
+      "url": "https://open.spotify.com/track/48HVMmDbJuZDZY8wwSii4l"
     },
     {
       "album": {

@@ -13093,6 +13093,24 @@
     },
     {
       "album": {
+        "name": "Loophole",
+        "url": "https://open.spotify.com/album/5aMFB6z220sBgH2nlnXboe"
+      },
+      "artists": [
+        {
+          "name": "Inorganic Era",
+          "url": "https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274799,
+      "name": "Loophole",
+      "url": "https://open.spotify.com/track/55MQNMrirlAqMne0FmNiNd"
+    },
+    {
+      "album": {
         "name": "Loretta",
         "url": "https://open.spotify.com/album/3roeIB4nfgpfabqAm1EXHJ"
       },

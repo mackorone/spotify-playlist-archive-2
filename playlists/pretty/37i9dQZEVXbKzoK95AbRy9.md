@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,372 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,370 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 27 | [Pra Não Esquecer De Mim](https://open.spotify.com/track/7dLw4FM0rYgwJEzkbwRVr1) | [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [Mc Magal](https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Pra Não Esquecer De Mim](https://open.spotify.com/album/0Kb7GeuzMK4sS45zb3O06h) | 3:12 |
 | 28 | [Cheiro De Culpado \- Ao Vivo](https://open.spotify.com/track/6bor3RIvmpmz5c435liCs9) | [Júnior e Cézar](https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk) | [Cheiro De Culpado \(Ao Vivo\)](https://open.spotify.com/album/3hYI6LURMi5rdYRn9slfn6) | 2:41 |
 | 29 | [Oi, Tudo Bem? \- Ao Vivo](https://open.spotify.com/track/1Otolzb8QH4OnBc0zlbjjF) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Vocês & Deus, Vol\. 1 \(Ao Vivo no Rio de Janeiro\)](https://open.spotify.com/album/1URfI21LdTBjIZoiVCV1rB) | 3:07 |
-| 30 | [Eu Duvido \- Ao Vivo](https://open.spotify.com/track/3YppiISUkHejCcxEF75Tql) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [Deu Rolo No Barretão](https://open.spotify.com/album/2zRjb3y6rKfIQ5y7n2kwSl) | 2:50 |
+| 30 | [Eu Duvido \- Ao Vivo](https://open.spotify.com/track/0qJQD081gspDHC6xCKwMlB) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [Deu Rolo No Barretão \(Verão\) \- Vol\. 02 \[Ao Vivo\]](https://open.spotify.com/album/3XGGoKnrX9ic4xu44hrqyW) | 2:50 |
 | 31 | [Dois Enganados](https://open.spotify.com/track/38jMHjnOAJDR4QUdk3IXsw) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Marília Mendonça](https://open.spotify.com/artist/1UtoD47sbgbZQ0VzVKQhu8) | [Pra Ouvir Tomando Uma, Vol\. 1](https://open.spotify.com/album/3yQc10lMcK8z7CfCRkCAJ3) | 2:52 |
 | 32 | [Meu Silêncio \- Ao Vivo](https://open.spotify.com/track/0ycQtDnc4mOcefV6yyV6dm) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Meu Silêncio \(Ao Vivo\)](https://open.spotify.com/album/086Jke99gK8bDLMFkgzGaj) | 2:59 |
 | 33 | [MTG Pra Ficar Legal](https://open.spotify.com/track/3crEG7LMmze2X3JVAuVRE9) | [DJ JZ](https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB), [Mc Fael Halls](https://open.spotify.com/artist/3GXvEIDsldUNbsvypttNd2), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn) | [MTG Pra Ficar Legal](https://open.spotify.com/album/6TGcOYytHAJd64f06lxFP3) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Noite Fracassada](https://open.spotify.com/track/1JO3uqVDPWj5j2GlYmK7e0) | [Heitor Santos](https://open.spotify.com/artist/2FQg4JX9rAIDnakUJb8hgj) | [Sabor HS 3.0](https://open.spotify.com/album/1zAovKvahz5COTVcGkldnx) | 2:59 |
 | 50 | [Bebe, Beija e Trai \- Ao Vivo](https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs) | [Mayke & Rodrigo](https://open.spotify.com/artist/70l6HIf0rz8ZMQCW5qK6QI), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [Bebe, Beija e Trai \(Ao Vivo\)](https://open.spotify.com/album/0E8TJBB3Y510HYS9llB48Q) | 2:36 |
 
-Snapshot ID: `MiejqAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mij52AAAAAAAAAAAAAAAAAAAAAAAAGVu`

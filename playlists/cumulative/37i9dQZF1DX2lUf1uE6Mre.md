@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: Luciano, Jazeek
 
-533 songs - 22 hr 26 min
+535 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Bleib stark](https://open.spotify.com/track/6JbVRviSipLkiY3khQjBWs) | [Aymo](https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Bleib stark](https://open.spotify.com/album/2mBw0hNgfE4lvYgajed54n) | 3:04 | 2025-10-23 |  |
 | [BLN](https://open.spotify.com/track/1KoBWUdvepu0vL98o8mSTN) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw), [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [BLN](https://open.spotify.com/album/2288zNrhw0kUL63KSnhnmP) | 2:47 | 2026-02-12 |  |
 | [Blocc Maroccina](https://open.spotify.com/track/4t12004mnnxDXTUOsR0fE7) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [Blocc Maroccina](https://open.spotify.com/album/4Lqb2VGtlhlh95hVX2Gz7r) | 2:26 | 2025-04-24 | 2025-07-25 |
-| [BLOCKBABY](https://open.spotify.com/track/6U5tba39rJaXsFmknp2ONd) | [Azu](https://open.spotify.com/artist/1Y5ZPIMVOc1QgWPYnaiBSp) | [BLOCKBABY](https://open.spotify.com/album/6jttmJEk3ELIrEvgQH36XW) | 2:12 | 2026-06-05 |  |
+| [BLOCKBABY](https://open.spotify.com/track/6U5tba39rJaXsFmknp2ONd) | [Azu](https://open.spotify.com/artist/1Y5ZPIMVOc1QgWPYnaiBSp) | [BLOCKBABY](https://open.spotify.com/album/6jttmJEk3ELIrEvgQH36XW) | 2:12 | 2026-06-05 | 2026-09-01 |
 | [BOAH](https://open.spotify.com/track/3VGSqKE0BpdamkDHvoJve3) | [BARÉ](https://open.spotify.com/artist/1EhlCHNvUGcs4bi60tXXoB), [CAPO](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [BOAH](https://open.spotify.com/album/55pF3ppr5tQszJZA6qQxbj) | 2:37 | 2024-11-18 | 2025-07-04 |
 | [Body](https://open.spotify.com/track/1ucysYifutlHvdhT3wPH09) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Body](https://open.spotify.com/album/2XFkhBjRO8elEtoZovNbjg) | 2:19 | 2024-06-28 | 2024-07-27 |
 | [Bogota](https://open.spotify.com/track/7myrIkRqw4LCMsr673ckNb) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Ouzzi](https://open.spotify.com/artist/6msEnJb2ceDZw4GF1Z2D5o) | [Bogota](https://open.spotify.com/album/1rvZibf8hsAYjaaGdGP82A) | 1:23 | 2024-09-02 | 2024-09-17 |
@@ -177,7 +177,7 @@
 | [ex und so](https://open.spotify.com/track/2qGCbovPihUJFbaRlGsFLL) | [IBRA](https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb) | [ex und so](https://open.spotify.com/album/5a1RQxsWXpvWrB1cuFvtnl) | 2:15 | 2024-08-26 | 2026-05-19 |
 | [FABRIZIO ROMANO](https://open.spotify.com/track/1kTb0z5lNHCmDVhG5bBHfd) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [FABRIZIO ROMANO](https://open.spotify.com/album/1Kwpn9m7a5vkTR7ctmIoIa) | 2:56 | 2026-03-19 | 2026-04-10 |
 | [FACECARD](https://open.spotify.com/track/1t3pxAheT48eYCT9y8SPNY) | [Azu](https://open.spotify.com/artist/1Y5ZPIMVOc1QgWPYnaiBSp) | [V.T.Z.R.](https://open.spotify.com/album/06LmQq3NiLQmulXmGMM53I) | 2:06 | 2026-05-18 |  |
-| [Familie](https://open.spotify.com/track/7uDmgnVUcrqvSnqqaT99TM) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Familie](https://open.spotify.com/album/0jCfNl7mqO5nlDi4tS2CvN) | 2:53 | 2026-04-30 |  |
+| [Familie](https://open.spotify.com/track/7uDmgnVUcrqvSnqqaT99TM) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Familie](https://open.spotify.com/album/0jCfNl7mqO5nlDi4tS2CvN) | 2:53 | 2026-04-30 | 2026-09-01 |
 | [Fantasia](https://open.spotify.com/track/5xypiIRm7ILzbz0kze92u6) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Devito](https://open.spotify.com/artist/0JQ4vokBBqHxHzRb36fSWN) | [Fantasia](https://open.spotify.com/album/5NXVPkMBEozDLKI25LCrtu) | 2:20 | 2024-07-25 | 2024-09-10 |
 | [Farbenblind](https://open.spotify.com/track/6jnslZYy0L9PUx41LhY2rS) | [Vokuz](https://open.spotify.com/artist/6doXiwnEk5F9MToIeEy2uS), [Ché Salah](https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [Farbenblind](https://open.spotify.com/album/0cB4YgrmaAZFALlJrGuaqv) | 2:25 | 2026-01-22 | 2026-02-11 |
 | [Fashion Killa](https://open.spotify.com/track/4bGE5BdC6qUND3OMhp1dt0) | [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Fashion Killa](https://open.spotify.com/album/6BVxAzp75T4l3Mwn97vjNg) | 2:12 | 2026-04-09 |  |
@@ -189,7 +189,9 @@
 | [FROZEN](https://open.spotify.com/track/2ZZM5DepwKgqGJChdbfVx1) | [Mali](https://open.spotify.com/artist/1EpUTpT8KmlB2uDzLNK9d5), [Safraoui](https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX), [Alim](https://open.spotify.com/artist/2eCeP9nQxAp8hXOL30KNGZ), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [FROZEN](https://open.spotify.com/album/0IAOLh308PgsAepj19BNts) | 2:48 | 2025-03-24 | 2025-11-05 |
 | [FUXWAVE](https://open.spotify.com/track/07sc3ly0DOs1ssCajr9kbp) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF), [KARDO](https://open.spotify.com/artist/3NZPZUWDcJngcu8MuBpT69) | [FUXWAVE](https://open.spotify.com/album/1tGwD7tn5s8bcNbArXQumh) | 2:21 | 2025-12-05 |  |
 | [FÜR IMMER](https://open.spotify.com/track/3HzLCE4KDrtwCuSvy8t7GS) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [FÜR IMMER](https://open.spotify.com/album/5zZcS8YmoeA99WdPzfxlzb) | 2:40 | 2024-10-10 | 2025-08-29 |
+| [GALLARDO](https://open.spotify.com/track/5wbSLkHkTRPGaIJilnfr6Q) | [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2) | [GALLARDO](https://open.spotify.com/album/5ucpnJp5ZzMuwqlizbqg77) | 3:30 | 2026-08-31 |  |
 | [Gasolina](https://open.spotify.com/track/4X1IZUzZupFxE0HRVPVTQ8) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Gasolina](https://open.spotify.com/album/1J1ZqguNMzfDpjw0t9uXT6) | 2:31 | 2026-06-11 |  |
+| [GEH VON HIER](https://open.spotify.com/track/5mRM1823WjdJzQ12Shibvw) | [Jamal](https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU) | [GEH VON HIER](https://open.spotify.com/album/5QFt31vASR3wn6XkgdB5lF) | 2:16 | 2026-08-31 |  |
 | [Gerade Lines](https://open.spotify.com/track/0K4m3o2CZVKWPaK113ICXc) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [FÜNF](https://open.spotify.com/album/72fhK5IkZdUOmQwJp4Ds7P) | 2:18 | 2024-12-16 | 2025-11-15 |
 | [Gesegnet](https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 3:11 | 2025-01-16 | 2025-04-25 |
 | [GET LOW](https://open.spotify.com/track/6qP4Fs2q3PGCxuobxeOdXt) | [Jamal](https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [GET LOW](https://open.spotify.com/album/3IJ5WPkhv8yeIrzsX04LbP) | 2:30 | 2025-08-14 |  |

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,703 songs - 10 day 13 hr 37 min
+4,704 songs - 10 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4485,6 +4485,7 @@
 | [Way \(another\)](https://open.spotify.com/track/2yRNDN7s6NCwOfvhcsYqcG) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for travel ideal for driving bonne voyage](https://open.spotify.com/album/22Wd0U4uGw0Wmlgh2pwa6x) | 3:28 | 2025-09-17 |  |
 | [Wayfaring Stranger](https://open.spotify.com/track/3yBRd5n3JuP7RsMmIX34Va) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Folk](https://open.spotify.com/album/5jCNJY2VNxafCKg7WInfHQ) | 4:00 | 2025-09-19 |  |
 | [Wayfaring Stranger \(another\)](https://open.spotify.com/track/4gLQuu9p2YAFJFgGyVZfrJ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Folk](https://open.spotify.com/album/5jCNJY2VNxafCKg7WInfHQ) | 3:44 | 2025-09-19 |  |
+| [Ways Beyond This Day](https://open.spotify.com/track/0L2R4HAzQyMbWrCup7yAh2) | [Joynes](https://open.spotify.com/artist/2ttk1u6cLmHeTaBrqw56QF) | [Voices From The Box](https://open.spotify.com/album/3v2a3hnkQRAV6JRZzzDZNs) | 3:58 | 2026-08-31 |  |
 | [We all live in a Fantasy](https://open.spotify.com/track/1utF6RyVi98fnKc0Du68uH) | [Archi Deep](https://open.spotify.com/artist/42s1u3l3z37YDK9u3zZrYl) | [We all live in a Fantasy](https://open.spotify.com/album/5bT2StBoZlkx0WlM4d4KI3) | 2:07 | 2026-04-03 |  |
 | [We Are All Bots](https://open.spotify.com/track/2WnmaedNKGBT8X0Noz7kqM) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q) | [We Are All Bots](https://open.spotify.com/album/4D82Mt4DCc6c70ByNtD1cK) | 3:41 | 2025-06-18 |  |
 | [We are the same](https://open.spotify.com/track/5BrzYifDpXu4Ak8wg2J539) | [Mastamam](https://open.spotify.com/artist/1Cf7FkzNyZWcSSwzBi0Z1Y) | [We are the same](https://open.spotify.com/album/1GbUFD1zUFmfNdCv0ea2Nc) | 4:33 | 2025-08-29 |  |

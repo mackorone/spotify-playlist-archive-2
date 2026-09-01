@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Itlu Arjuna",
-  "num_followers": 171392,
+  "num_followers": 171397,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANGxbMvVaoLNzkqrMEaYs422aeV6",
+  "snapshot_id": "AAAAACoWjFbFlSqsaxHoDTSUGxY6XvEC",
   "tracks": [
     {
       "added_at": "2026-08-18 08:00:06",
@@ -237,6 +237,30 @@
       "url": "https://open.spotify.com/track/2VxTKPJ2yyK1u1YzvxQkS9"
     },
     {
+      "added_at": "2026-08-31 08:28:43",
+      "album": {
+        "name": "Chusaaley (From \"Kagitham Padavalu\")",
+        "url": "https://open.spotify.com/album/0lM3FRJpRcFoOnqaWV9s0J"
+      },
+      "artists": [
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Rahman",
+          "url": "https://open.spotify.com/artist/6kMZ5a2R6YBk35LRTSsknA"
+        },
+        {
+          "name": "Nawfal Raja Ais",
+          "url": "https://open.spotify.com/artist/0eeeUK6RZ4XT2w9uBxROak"
+        }
+      ],
+      "duration_ms": 191035,
+      "name": "Chusaaley (From \"Kagitham Padavalu\")",
+      "url": "https://open.spotify.com/track/0eFxChDcGTezC4DTSxbtLq"
+    },
+    {
       "added_at": "2026-08-13 13:51:15",
       "album": {
         "name": "Olammo Vagalaadi (From \"Sigma\") (Telugu)",
@@ -319,6 +343,30 @@
       "duration_ms": 233739,
       "name": "Chingari (From \"VISA - Vintara Saradaga\")",
       "url": "https://open.spotify.com/track/4pdqNcjVz9sPjBg1mJY0rS"
+    },
+    {
+      "added_at": "2026-08-31 08:28:43",
+      "album": {
+        "name": "Chori Chori (From \"Gulliver\")",
+        "url": "https://open.spotify.com/album/4eaiUdZNX77VUxMa0HOKKI"
+      },
+      "artists": [
+        {
+          "name": "Tarun Rana Pratap",
+          "url": "https://open.spotify.com/artist/5uVjOnDw844rJpw1DyL986"
+        },
+        {
+          "name": "Hemanth",
+          "url": "https://open.spotify.com/artist/0qAzLiq8xpR9JbRRehpbja"
+        },
+        {
+          "name": "Tumbali Sivaji",
+          "url": "https://open.spotify.com/artist/5E2lcWMYYLKmp99f6vS5CU"
+        }
+      ],
+      "duration_ms": 132480,
+      "name": "Chori Chori (From \"Gulliver\")",
+      "url": "https://open.spotify.com/track/3tMoxM3F34JWIVTJH6192l"
     },
     {
       "added_at": "2026-08-24 14:26:52",

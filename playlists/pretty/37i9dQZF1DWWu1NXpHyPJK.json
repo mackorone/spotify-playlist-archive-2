@@ -1,12 +1,12 @@
 {
   "description": "Allerbeste songs van de 90's! Cover: No Doubt",
-  "num_followers": 89078,
+  "num_followers": 89089,
   "original_name": "90's Allerbeste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFveqbcyIN6F/V3MvnJ2zZP1s3aE",
+  "snapshot_id": "AAAAAAETqzFiu+uef/b3kHwZSSIPdkK9",
   "tracks": [
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "No Need To Argue",
-        "url": "https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 306426,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
         "name": "One Love (2nd Edition)",
         "url": "https://open.spotify.com/album/5YPI9qfm2uuMxlq4CEUOFu"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 239933,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/6HdM7gzXVgcpepv276raog"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "No Need To Argue",
+        "url": "https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 306426,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "Best! The Singles",
-        "url": "https://open.spotify.com/album/45fP2Xav7Q8EvOWNXxSHVC"
-      },
-      "artists": [
-        {
-          "name": "Londonbeat",
-          "url": "https://open.spotify.com/artist/0gcMPgunYh4rX1UOdvZKBn"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "I've Been Thinking About You",
-      "url": "https://open.spotify.com/track/3zjZaGqcepRo80Btq4C1x0"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
         "name": "The Hit Collection",
         "url": "https://open.spotify.com/album/47vSyDEsXn8mG7JKDMiK5L"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 226000,
       "name": "Sex on the Beach - Radio Mix",
       "url": "https://open.spotify.com/track/0IprUQmGWvCtnbcpHj9UIi"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "Best! The Singles",
+        "url": "https://open.spotify.com/album/45fP2Xav7Q8EvOWNXxSHVC"
+      },
+      "artists": [
+        {
+          "name": "Londonbeat",
+          "url": "https://open.spotify.com/artist/0gcMPgunYh4rX1UOdvZKBn"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "I've Been Thinking About You",
+      "url": "https://open.spotify.com/track/3zjZaGqcepRo80Btq4C1x0"
     },
     {
       "added_at": "2024-12-31 20:44:36",

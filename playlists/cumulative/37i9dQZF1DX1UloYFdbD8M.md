@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Ashley Milred
 
-543 songs - 1 day 9 hr 23 min
+544 songs - 1 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,6 +406,7 @@
 | [Pathivum Pathirum](https://open.spotify.com/track/6bDJpgfxhFuWaxtG3MQZW8) | [Amal Irfan](https://open.spotify.com/artist/6f6Of8BCyWVvSQQreOgNae), [Anwar Sadath](https://open.spotify.com/artist/0TtA2g54ObDRoPH9VZbS0b), [King Orekh](https://open.spotify.com/artist/65uCxjiUkxVYRfRd4yZiJu) | [Morpheus](https://open.spotify.com/album/44M9MiEzbYYxjW549uWADN) | 1:21 | 2025-07-14 | 2025-11-17 |
 | [Pathiye/Falling](https://open.spotify.com/track/1Mh74FahzlJmLRVGVAbc6N) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Mridul Anil](https://open.spotify.com/artist/3uVGKUu4pjlBUJdV879eb3) | [Pathiye/Falling](https://open.spotify.com/album/5P3Kev3f1FftOvEVVsOjwV) | 2:41 | 2025-03-11 | 2025-05-31 |
 | [Pattam](https://open.spotify.com/track/1lpFHQZpVa4HmlVuAkd5zZ) | [Ashwin Bhaskar](https://open.spotify.com/artist/5FxITpVzF7lxGwOKVp4tXF) | [Pattam](https://open.spotify.com/album/0yw12ah0RmYSYVZqObKylg) | 3:10 | 2024-05-13 | 2024-08-29 |
+| [PAURA BODHAM](https://open.spotify.com/track/2jes7fiLuHW6apZiGP8hz1) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [PAURA BODHAM](https://open.spotify.com/album/2TTV2gfaXKnJeQDuSgPy6t) | 3:21 | 2026-08-31 |  |
 | [Pedaapadu](https://open.spotify.com/track/1nKI5BwE9csyWW6TRBfuNC) | [Ansif Abdulla](https://open.spotify.com/artist/46ur722CJpQIVEmu1hDQUF) | [Pedaapadu](https://open.spotify.com/album/3kUo1B56MLgCmk6g1anyT7) | 1:20 | 2025-03-17 | 2025-05-24 |
 | [PENNE NEE](https://open.spotify.com/track/1r1hdWL4Iyv5VJOIpHVta1) | [Jasim Jamal](https://open.spotify.com/artist/6WW7DYQiOJS7JDV7LT54XH) | [PENNE NEE](https://open.spotify.com/album/1RZUlyFnb7zlMywMrHkvwE) | 4:58 | 2025-10-22 | 2026-06-20 |
 | [Pennrosa](https://open.spotify.com/track/4Oo44aYhg2w0hz1Bpu2k2o) | [Shameee](https://open.spotify.com/artist/7c0TjKy1Wow7l3Af4m6JcF) | [Pennrosa](https://open.spotify.com/album/2fyeNM54GLWQr7wetKv0Gf) | 4:19 | 2026-06-16 |  |

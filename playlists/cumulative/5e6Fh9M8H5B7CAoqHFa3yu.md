@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,509 songs - 6 day 3 hr 31 min
+2,511 songs - 6 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -759,6 +759,7 @@
 | [FREE LUIGI](https://open.spotify.com/track/46XfL6oFDAvccDQKTcGzks) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [FREE LUIGI](https://open.spotify.com/album/6ieX42cMu1R1HPecaoHCbe) | 3:16 | 2026-02-05 |  |
 | [Free Palestine](https://open.spotify.com/track/7qvqjcI8UZcEHg0qobqO5v) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Free Palestine](https://open.spotify.com/album/1ZcwYoogiPCQtVy7VSFPF0) | 1:45 | 2026-02-05 |  |
 | [Free Palestine LO\-FI](https://open.spotify.com/track/6f09c4eH3eZlL1vqmYroXM) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Free Palestine LO\-FI](https://open.spotify.com/album/082KN8HXMQlTr0NHkKoE1l) | 2:29 | 2026-02-05 |  |
+| [Freedom](https://open.spotify.com/track/4moi33G2vY0DKA9IcV6qM0) | [Massimo Nanni](https://open.spotify.com/artist/4o6YNcdXASjXIRfOpIxhWg) | [Freedom](https://open.spotify.com/album/0QSJVTRHjdETxzD0RaNpX1) | 4:18 | 2026-08-31 |  |
 | [Freedom \- Extended Cut](https://open.spotify.com/track/4MFHF149zgyc8Lp4ELtknr) | [Med Dred](https://open.spotify.com/artist/6utzvGsysMRFwhsetANHlg), [Rastaveli Mc](https://open.spotify.com/artist/6ICkNtvRDTnwfm8gMZgn3s), [Ras Nelson](https://open.spotify.com/artist/0FlSNH3M4XIVpVYNWp5jFJ) | [Freedom](https://open.spotify.com/album/2YlNz8dbnVIdsjHXRJp30Z) | 4:05 | 2025-11-23 |  |
 | [Freedom \- Radio Edit](https://open.spotify.com/track/0lBIhKSfwnGezALcBxdLfy) | [Med Dred](https://open.spotify.com/artist/6utzvGsysMRFwhsetANHlg), [Rastaveli Mc](https://open.spotify.com/artist/6ICkNtvRDTnwfm8gMZgn3s), [Ras Nelson](https://open.spotify.com/artist/0FlSNH3M4XIVpVYNWp5jFJ) | [Freedom](https://open.spotify.com/album/2YlNz8dbnVIdsjHXRJp30Z) | 3:28 | 2025-11-23 |  |
 | [Freedom at Last](https://open.spotify.com/track/0dyuCmxRKe05ag9qmY7IZ3) | [poliester](https://open.spotify.com/artist/5EBtUpLChJomEjgY0xIGhX) | [Freedom at Last](https://open.spotify.com/album/4m6FgfAHPZ15OVE2YaijKF) | 3:37 | 2025-05-12 |  |
@@ -939,6 +940,7 @@
 | [HOPE](https://open.spotify.com/track/0EgLxY52mpGsXETyEsgVlP) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 4:24 | 2025-02-15 |  |
 | [Hopeful Dub](https://open.spotify.com/track/5TCE4K2KLybU0UD5HXAORn) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1) | [In Love with Righteousness \(2005\-2014 Best Dubs Compilation\)](https://open.spotify.com/album/0yCEH2qbynKuAzXt7x3Yzp) | 5:22 | 2024-05-01 |  |
 | [Hot Top Pick](https://open.spotify.com/track/0T1L1x6ZwHMr0bP3Vtdu85) | [Hello Shello](https://open.spotify.com/artist/7Eg1zSQ6rFxL8nmRHoKldR), [EllySupreme](https://open.spotify.com/artist/0topBrsHa073uHFdyqvRJd) | [Hot Top Pick](https://open.spotify.com/album/70joadd9G8ddQ7P3ljJ2l8) | 4:06 | 2025-10-07 |  |
+| [Hotel Soldiers](https://open.spotify.com/track/5GHYWH6OT5v4Dt7LxSFLM0) | [Strawberry Nixon](https://open.spotify.com/artist/4Y4LMJUmLARW4fZyAgdEar) | [Hotel Soldiers](https://open.spotify.com/album/6mhJwuECI8D8T7PzpHHLOV) | 4:39 | 2026-08-31 |  |
 | [How Many Times](https://open.spotify.com/track/4Qo18boB7KWoKbt44RuZsW) | [Some Kyle](https://open.spotify.com/artist/5vuWRkuiuTHFeUBRyw8lCS) | [How Many Times](https://open.spotify.com/album/2Jh5liZAXhjj1t8Ak28gmm) | 3:51 | 2025-10-21 |  |
 | [How's Your Mom Doing?](https://open.spotify.com/track/23vzWwZSWjCHWJT6JBRFWt) | [Timothy Martini](https://open.spotify.com/artist/3HI3gZDtJ1EpDp3z9g7taU) | [How's Your Mom Doing?](https://open.spotify.com/album/0b9B1Ex9yH8ipBEXrfBWBv) | 4:20 | 2025-08-12 |  |
 | [Howling at the Moon](https://open.spotify.com/track/46OCeVzXj7nFAF0rVwnyU7) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [Howling at the Moon](https://open.spotify.com/album/1qoGgyg4sLnmzEMj3D87Vs) | 4:12 | 2026-01-02 |  |

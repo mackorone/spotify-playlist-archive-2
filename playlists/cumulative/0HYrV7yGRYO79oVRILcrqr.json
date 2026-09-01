@@ -1189,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF"
+      },
+      "artists": [
+        {
+          "name": "Ashstone",
+          "url": "https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160508,
+      "name": "Big Time",
+      "url": "https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni"
+    },
+    {
+      "album": {
         "name": "Live in Halls Gap",
         "url": "https://open.spotify.com/album/7bZM8wuUwI8adikXR78mrW"
       },
@@ -7022,6 +7040,24 @@
       "duration_ms": 160758,
       "name": "Mi Porci\u00f3n Del Cielo",
       "url": "https://open.spotify.com/track/0j2FJ9VZRxyveO8nm28o1p"
+    },
+    {
+      "album": {
+        "name": "Midnight Patrol",
+        "url": "https://open.spotify.com/album/5CmPSQVLr5AROqpNzLu6cJ"
+      },
+      "artists": [
+        {
+          "name": "Sage Ironheart",
+          "url": "https://open.spotify.com/artist/6i2Btj5JPkCHG2JfXjjsae"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304880,
+      "name": "Midnight Patrol",
+      "url": "https://open.spotify.com/track/7ifVeohjksbPzebDHd6lZs"
     },
     {
       "album": {

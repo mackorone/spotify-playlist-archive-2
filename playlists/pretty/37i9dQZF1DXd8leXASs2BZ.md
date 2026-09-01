@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: ENEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,703 likes - 100 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,705 likes - 100 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [BAMBOO](https://open.spotify.com/track/2q2XA70NRreC33odqvghf9) | [勢喜遊](https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs), [HANATANI](https://open.spotify.com/artist/5JFuHcjL9v7XhGmakhTOak), [Cota Mori](https://open.spotify.com/artist/17kRKqQs7JMrBKCzIGBk37) | [BAMBOO](https://open.spotify.com/album/18FMxfzDfynb8iaND3adcy) | 2:45 |
 | 100 | [Movin’ Fools \-Ready To Move\-](https://open.spotify.com/track/6fAdgiV7xvikBoADcnSH1m) | [SOKI](https://open.spotify.com/artist/7uznCkS1C5NLCCAg2kKDjL) | [Movin’ Fools \-Ready To Move\-](https://open.spotify.com/album/4Jw6h4yFAFkeEm7dddJLsy) | 1:33 |
 
-Snapshot ID: `AAAAALb3q2sXX7p1NyR3BuIZ7Be165UN`
+Snapshot ID: `AAAAABOzdFmFfKUtHswPqBWwj4fmOhpW`

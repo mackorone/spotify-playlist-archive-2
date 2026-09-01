@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 76503,
+  "num_followers": 76507,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKFRf5UbdbdyDoUnKu6dyFKL2EjA",
+  "snapshot_id": "AAAAAG/MtwV2eqJfOqvzW9CueU8HBJYm",
   "tracks": [
     {
       "added_at": "2026-08-20 13:38:48",
@@ -271,18 +271,22 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
-        "name": "Onslaught / Shufflin\u2019",
-        "url": "https://open.spotify.com/album/71CAXBcHF7s11mKzSw9368"
+        "name": "Here For You",
+        "url": "https://open.spotify.com/album/16rUalTYqLriazFBIgM6EE"
       },
       "artists": [
         {
           "name": "Macky Gee",
           "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        },
+        {
+          "name": "KRITIKAL",
+          "url": "https://open.spotify.com/artist/10feVbXaLX6SFyu8sCMi5S"
         }
       ],
-      "duration_ms": 267428,
-      "name": "Onslaught",
-      "url": "https://open.spotify.com/track/5MOhLJs3asuZxAVPijNlNX"
+      "duration_ms": 202971,
+      "name": "Here For You",
+      "url": "https://open.spotify.com/track/11OMHCCxjfjbdiP5EXRvsY"
     },
     {
       "added_at": "2026-08-20 13:38:48",
@@ -363,22 +367,18 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
-        "name": "Here For You",
-        "url": "https://open.spotify.com/album/16rUalTYqLriazFBIgM6EE"
+        "name": "Onslaught / Shufflin\u2019",
+        "url": "https://open.spotify.com/album/71CAXBcHF7s11mKzSw9368"
       },
       "artists": [
         {
           "name": "Macky Gee",
           "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        },
-        {
-          "name": "KRITIKAL",
-          "url": "https://open.spotify.com/artist/10feVbXaLX6SFyu8sCMi5S"
         }
       ],
-      "duration_ms": 202971,
-      "name": "Here For You",
-      "url": "https://open.spotify.com/track/11OMHCCxjfjbdiP5EXRvsY"
+      "duration_ms": 267428,
+      "name": "Onslaught",
+      "url": "https://open.spotify.com/track/5MOhLJs3asuZxAVPijNlNX"
     },
     {
       "added_at": "2026-08-20 13:38:48",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
+        "name": "Feel The Pulse",
+        "url": "https://open.spotify.com/album/11EmKfSdfbhFslAWgr9EAQ"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 200028,
+      "name": "Feel The Pulse",
+      "url": "https://open.spotify.com/track/6l0VAs8qEzsGh1mqusoQQx"
+    },
+    {
+      "added_at": "2026-08-20 13:38:48",
+      "album": {
         "name": "Do You",
         "url": "https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 222171,
       "name": "Do You",
       "url": "https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q"
-    },
-    {
-      "added_at": "2026-08-20 13:38:48",
-      "album": {
-        "name": "Feel The Pulse",
-        "url": "https://open.spotify.com/album/11EmKfSdfbhFslAWgr9EAQ"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        }
-      ],
-      "duration_ms": 200028,
-      "name": "Feel The Pulse",
-      "url": "https://open.spotify.com/track/6l0VAs8qEzsGh1mqusoQQx"
     },
     {
       "added_at": "2026-08-20 13:38:48",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
-        "name": "Vandal",
-        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
-      },
-      "artists": [
-        {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
-        }
-      ],
-      "duration_ms": 161379,
-      "name": "Vandal",
-      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
-    },
-    {
-      "added_at": "2026-08-20 13:38:48",
-      "album": {
         "name": "Posra",
         "url": "https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 205714,
       "name": "Posra",
       "url": "https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V"
+    },
+    {
+      "added_at": "2026-08-20 13:38:48",
+      "album": {
+        "name": "Vandal",
+        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
     },
     {
       "added_at": "2026-08-20 13:38:48",
@@ -987,26 +987,6 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
-        "name": "Let Me Down",
-        "url": "https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD"
-      },
-      "artists": [
-        {
-          "name": "Grafix",
-          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
-        },
-        {
-          "name": "Rova",
-          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Let Me Down",
-      "url": "https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5"
-    },
-    {
-      "added_at": "2026-08-20 13:38:48",
-      "album": {
         "name": "Outta Order",
         "url": "https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 235885,
       "name": "Outta Order",
       "url": "https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq"
+    },
+    {
+      "added_at": "2026-08-20 13:38:48",
+      "album": {
+        "name": "Let Me Down",
+        "url": "https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Let Me Down",
+      "url": "https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5"
     },
     {
       "added_at": "2026-08-20 13:38:48",

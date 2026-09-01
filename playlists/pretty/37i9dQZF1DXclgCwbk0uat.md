@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Blessd & Jere Klein
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,954,056 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,953,876 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 49 | [NOTA](https://open.spotify.com/track/7zCBT5SUMOHkuUnTZHyNQC) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [NOTA](https://open.spotify.com/album/7AQ1vE4tY1dMceu9sTTyfO) | 2:47 |
 | 50 | [ANTE LOS 20](https://open.spotify.com/track/5NPPbZVu9jBopufHq7NaHL) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [ANTE LOS 20](https://open.spotify.com/album/6SeRzhmhpvWliemVB1hCrx) | 3:08 |
 
-Snapshot ID: `AAAAADSFjExKnBKcwyRw3G7ysS0it26T`
+Snapshot ID: `AAAAALBlkAbePO2PuZ29BCZXswQcUEOp`

@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 198533,
       "name": "Baraja De Oro",
       "url": "https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC"
@@ -708,6 +708,24 @@
       "duration_ms": 208000,
       "name": "Ens\u00e9n\u0303ame A Olvidar",
       "url": "https://open.spotify.com/track/60omHo4CkdXorYTrOzZQUO"
+    },
+    {
+      "album": {
+        "name": "Entre Besos Y Heridas",
+        "url": "https://open.spotify.com/album/2j0kTA0dSdo9N7CoOskR8i"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207666,
+      "name": "Ens\u00e9\u00f1ame A Olvidar",
+      "url": "https://open.spotify.com/track/294PebWKcJpvIFPJUjMICN"
     },
     {
       "album": {

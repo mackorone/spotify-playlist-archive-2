@@ -1,12 +1,12 @@
 {
   "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. ",
-  "num_followers": 131991,
+  "num_followers": 131987,
   "original_name": "#vainsuomihitit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKvEwuovD1+FMdSnqpVSr6ISeO2V",
+  "snapshot_id": "AAAAAClZeHgnondkkhf4bdvOBnj5ALG2",
   "tracks": [
     {
       "added_at": "2026-08-27 21:00:21",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-08-27 21:00:21",
       "album": {
+        "name": "Joku johon nojata",
+        "url": "https://open.spotify.com/album/60gHhhpJJCBJwNHFg5suHj"
+      },
+      "artists": [
+        {
+          "name": "Jenni Vartiainen",
+          "url": "https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9"
+        }
+      ],
+      "duration_ms": 201073,
+      "name": "Joku johon nojata",
+      "url": "https://open.spotify.com/track/1cZP3dz4jUBWKRQPJFjULb"
+    },
+    {
+      "added_at": "2026-08-27 21:00:21",
+      "album": {
         "name": "Rakastavaiset (Deluxe)",
         "url": "https://open.spotify.com/album/35ldyJaojUE7qODPJeRge7"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 187426,
       "name": "Ei vittu m\u00e4 rakastuin taas",
       "url": "https://open.spotify.com/track/5xRl9VP11lKk3Hn9G8aRz6"
-    },
-    {
-      "added_at": "2026-08-27 21:00:21",
-      "album": {
-        "name": "Joku johon nojata",
-        "url": "https://open.spotify.com/album/60gHhhpJJCBJwNHFg5suHj"
-      },
-      "artists": [
-        {
-          "name": "Jenni Vartiainen",
-          "url": "https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9"
-        }
-      ],
-      "duration_ms": 201073,
-      "name": "Joku johon nojata",
-      "url": "https://open.spotify.com/track/1cZP3dz4jUBWKRQPJFjULb"
     },
     {
       "added_at": "2026-08-27 21:00:21",
@@ -851,6 +851,22 @@
       "duration_ms": 172092,
       "name": "Kaikki p\u00e4\u00e4ttyy meihin",
       "url": "https://open.spotify.com/track/65VzI0NJAl7icEP2kUikvQ"
+    },
+    {
+      "added_at": "2026-08-27 21:00:21",
+      "album": {
+        "name": "Vanhoja muistellaan",
+        "url": "https://open.spotify.com/album/2dkIJyXn7PDW2P0GzcGtza"
+      },
+      "artists": [
+        {
+          "name": "KAUKUA",
+          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
+        }
+      ],
+      "duration_ms": 168391,
+      "name": "Vanhoja muistellaan",
+      "url": "https://open.spotify.com/track/28KgsaQJPjbYKTDltlE9gK"
     },
     {
       "added_at": "2026-08-27 21:00:21",
@@ -891,22 +907,6 @@
       "duration_ms": 120900,
       "name": "Nelisilm\u00e4",
       "url": "https://open.spotify.com/track/4DfZQ3OqpWvoyT8MMjTpPg"
-    },
-    {
-      "added_at": "2026-08-27 21:00:21",
-      "album": {
-        "name": "Vanhoja muistellaan",
-        "url": "https://open.spotify.com/album/2dkIJyXn7PDW2P0GzcGtza"
-      },
-      "artists": [
-        {
-          "name": "KAUKUA",
-          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
-        }
-      ],
-      "duration_ms": 168391,
-      "name": "Vanhoja muistellaan",
-      "url": "https://open.spotify.com/track/28KgsaQJPjbYKTDltlE9gK"
     },
     {
       "added_at": "2026-08-27 21:00:21",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-08-27 21:00:21",
       "album": {
-        "name": "Kuudes aisti",
-        "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
-      },
-      "artists": [
-        {
-          "name": "BESS",
-          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
-        }
-      ],
-      "duration_ms": 193965,
-      "name": "Kuudes aisti",
-      "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
-    },
-    {
-      "added_at": "2026-08-27 21:00:21",
-      "album": {
         "name": "Jokaisen hymyn takana",
         "url": "https://open.spotify.com/album/35TYpcFr95oXYfYJnTlxBu"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 188893,
       "name": "Jokaisen hymyn takana",
       "url": "https://open.spotify.com/track/5EJNi9EF4ut1vFNo0ygJsl"
+    },
+    {
+      "added_at": "2026-08-27 21:00:21",
+      "album": {
+        "name": "Kuudes aisti",
+        "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
+      },
+      "artists": [
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        }
+      ],
+      "duration_ms": 193965,
+      "name": "Kuudes aisti",
+      "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
     },
     {
       "added_at": "2026-08-27 21:00:21",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-08-27 21:00:21",
       "album": {
-        "name": "Kuka nauraa nyt",
-        "url": "https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX"
-      },
-      "artists": [
-        {
-          "name": "ABREU",
-          "url": "https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "Kuka nauraa nyt",
-      "url": "https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ"
-    },
-    {
-      "added_at": "2026-08-27 21:00:21",
-      "album": {
         "name": "Hullu nainen",
         "url": "https://open.spotify.com/album/1WBwJFbYM4G9EqEOvBrt8n"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 177360,
       "name": "Hullu nainen",
       "url": "https://open.spotify.com/track/2G5KUqFFdIQKq0bXsxt4p4"
+    },
+    {
+      "added_at": "2026-08-27 21:00:21",
+      "album": {
+        "name": "Kuka nauraa nyt",
+        "url": "https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX"
+      },
+      "artists": [
+        {
+          "name": "ABREU",
+          "url": "https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7"
+        }
+      ],
+      "duration_ms": 175609,
+      "name": "Kuka nauraa nyt",
+      "url": "https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ"
     },
     {
       "added_at": "2026-08-27 21:00:21",
@@ -1227,18 +1227,22 @@
     {
       "added_at": "2026-08-27 21:00:21",
       "album": {
-        "name": "Ongelma",
-        "url": "https://open.spotify.com/album/0JKvn5KPA8bI3nGsWjwYtg"
+        "name": "KILLING SZN/BBL",
+        "url": "https://open.spotify.com/album/7oN4yHDWIQreYzauSJ0IW8"
       },
       "artists": [
         {
-          "name": "Karim B",
-          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
+          "name": "MOMO",
+          "url": "https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq"
+        },
+        {
+          "name": "keiju",
+          "url": "https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5"
         }
       ],
-      "duration_ms": 180238,
-      "name": "Ongelma",
-      "url": "https://open.spotify.com/track/3vTBt1CbmrCvxLLuAZ3xop"
+      "duration_ms": 167111,
+      "name": "KILLING SZN (feat. keiju)",
+      "url": "https://open.spotify.com/track/6YzFhKEWWGF8PUc1PfBvBq"
     },
     {
       "added_at": "2026-08-27 21:00:21",

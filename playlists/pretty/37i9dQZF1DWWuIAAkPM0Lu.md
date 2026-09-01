@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag og ny musik bl.a\. fra Minds of 99, HUGORM, Dahlin og mange flere ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,286 likes - 95 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,287 likes - 95 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 94 | [Make A Boy Cry](https://open.spotify.com/track/2WLYqRSbVDr5uR8C7RWL5O) | [JONAS LOVV](https://open.spotify.com/artist/2MxmOoUgB4Z9k7x4V5IMy7) | [Make A Boy Cry](https://open.spotify.com/album/34ZrA5s98UtfcU0gasVL80) | 2:50 |
 | 95 | [Blurred Dimensions](https://open.spotify.com/track/6JU3p05o6B9SEaw4pEnJwo) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn) | [Blurred Dimensions](https://open.spotify.com/album/6wvgaHDoxRLGlxTf7H6enM) | 3:45 |
 
-Snapshot ID: `AAAAADAw0Fw4UJct8jspLU+qk5aZ9/Yc`
+Snapshot ID: `AAAAAFH/mRWbaHpzoY8a0oWcgsm4q0z2`

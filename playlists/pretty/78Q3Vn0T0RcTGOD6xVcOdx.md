@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 503 likes - 61 songs - 3 hr 54 min
+[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 505 likes - 64 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,5 +69,8 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 59 | [WHERE MY HEART BELONGS](https://open.spotify.com/track/6jMVEiP1DVsmQermVsfskg) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [WHERE MY HEART BELONGS](https://open.spotify.com/album/4oy3B9jhaeFdFsoNblxYRU) | 3:43 |
 | 60 | [WAKE UP, WAKE UP THIS IS REAL](https://open.spotify.com/track/5wpNGT7mQ1mSSs2HJdfbg5) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [WAKE UP, WAKE UP THIS IS REAL](https://open.spotify.com/album/7FxLh6BDWM8sunWkhjE9H4) | 3:44 |
 | 61 | [Here, Here We Go Again](https://open.spotify.com/track/1aoS4v22mAUOGH6QSP2kO6) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [Here, Here We Go Again](https://open.spotify.com/album/7Ddr30cVQKX9Ifriov5f15) | 2:44 |
+| 62 | [COMO EN EL CINE](https://open.spotify.com/track/5rvtVVtB7JdXs3wLFDF9I4) | [Norbiwyso](https://open.spotify.com/artist/3n92Nht0BNvgrdonVb1lF4) | [COMO EN EL CINE](https://open.spotify.com/album/1YTRoUjbJOIGaQnLj9UdMM) | 3:20 |
+| 63 | [Cuando Entro Yo \(2026 Version\)](https://open.spotify.com/track/2fnnt3wu6sYUPtneWpac3q) | [Norbiwyso](https://open.spotify.com/artist/3n92Nht0BNvgrdonVb1lF4) | [Cuando Entro Yo \(2026 Version\)](https://open.spotify.com/album/5OuC0Vg6uUeytyRXjpnLUH) | 3:24 |
+| 64 | [TODAVIA CREO EN EL AMOR](https://open.spotify.com/track/2ieoYpTIQTG45FIANsmHu1) | [Norbiwyso](https://open.spotify.com/artist/3n92Nht0BNvgrdonVb1lF4) | [TODAVIA CREO EN EL AMOR](https://open.spotify.com/album/5fOn4GW1qIVB1OHxSDRhDs) | 4:44 |
 
-Snapshot ID: `AAACTsvNzoLi5PtUbht5R1ph3EzGau6n`
+Snapshot ID: `AAACUbNpOo2Euj5wmv3QR2pvjvtMGbgc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Lucky
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,103 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,099 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 69 | [Eye Is A Mouth Is A Face](https://open.spotify.com/track/5X1rVEIOvQw91icO018CgV) | [Body Type](https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D) | [Tally](https://open.spotify.com/album/5OSz9XBJrao6Rd5PvMYz6e) | 3:26 |
 | 70 | [life](https://open.spotify.com/track/6ozYUMhIxt34AqHVqamnwH) | [REDD.](https://open.spotify.com/artist/57P5LrPq0ndI2MXkwVeDa9) | [life](https://open.spotify.com/album/6vNpv2j8aHWFxRP0TrI1cJ) | 2:58 |
 | 71 | [LUCID](https://open.spotify.com/track/7ooMncS9qdQYXqx8RcAnKG) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [LUCID](https://open.spotify.com/album/2DHbmHGVb5BsfQUcsmlogL) | 3:08 |
-| 72 | [Sick](https://open.spotify.com/track/130iBycjciSRwPJiqZUhyH) | [Mannequin Death Squad](https://open.spotify.com/artist/648xB9zyK7sYhzhOmGBFAr) | [Sick](https://open.spotify.com/album/4jENISQSpDe49A133TvPUS) | 3:23 |
+| 72 | [Sick](https://open.spotify.com/track/130iBycjciSRwPJiqZUhyH) | [Mannequin Death Squad](https://open.spotify.com/artist/5AzjW5JyaBBRJR1FUjD9iA) | [Sick](https://open.spotify.com/album/4jENISQSpDe49A133TvPUS) | 3:23 |
 | 73 | [Vultures](https://open.spotify.com/track/0IBIdjCRwtmZfjCf0p0gZp) | [Pool House](https://open.spotify.com/artist/1tCQas73x7KX8maY66bLg4) | [Foreign Films](https://open.spotify.com/album/7eZSuQvSabBuvDe4EDbXfV) | 3:40 |
 | 74 | [Lucy](https://open.spotify.com/track/2ELA9baR5S3b07t1S1XWq3) | [Joe Mungovan](https://open.spotify.com/artist/3TvOXMQ3Y6mppFClFpmvKC) | [Preparing For Lift Off](https://open.spotify.com/album/3pZGID4TFPalZaD0Crswe1) | 3:24 |
 | 75 | [BODIES TOUCHING](https://open.spotify.com/track/0tOmUSxatklMMrVDHw2hHQ) | [Mitch Santiago](https://open.spotify.com/artist/6eERFYkiQQPyRK4rPEXTNH) | [HEATHROW](https://open.spotify.com/album/0e5p8VUTnPMyR4MtxdAtrK) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [Hurracane](https://open.spotify.com/track/1xSQFAP6pfng02tJa1jnLc) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Hurracane](https://open.spotify.com/album/5Uu9Eec9z4kkB0lQhthSP4) | 3:05 |
 | 100 | [Sleep In It](https://open.spotify.com/track/4LrsCVVKPgJrGbEukJl8EF) | [C.O.F.F.I.N](https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3) | [Sleep In It](https://open.spotify.com/album/3fnZ1zAEH8WxcdeTMHMp6v) | 2:59 |
 
-Snapshot ID: `AAAAAOJwr0dNrUzixo7t1yB7rAPcs1aa`
+Snapshot ID: `AAAAAFY8I7MPKVXl+F6tC9k6wvvENR0D`

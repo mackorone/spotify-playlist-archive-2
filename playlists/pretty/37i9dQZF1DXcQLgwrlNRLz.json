@@ -1,12 +1,12 @@
 {
   "description": "Le plus chauds d'Afrique Francophone. Cover: TRK.",
-  "num_followers": 18126,
+  "num_followers": 18152,
   "original_name": "Francophone.wav",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHKFlhvUabrU7wrvgEc1qc9ycZzn",
+  "snapshot_id": "AAAAAEgbTCsvsXsGUVg+IKTuoRVXTSFF",
   "tracks": [
     {
       "added_at": "2026-07-24 11:14:20",
@@ -519,26 +519,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "CHORD",
-        "url": "https://open.spotify.com/album/7t1nqu0zfrVlPCxukwIxRc"
-      },
-      "artists": [
-        {
-          "name": "1T1",
-          "url": "https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we"
-        },
-        {
-          "name": "Theomaa",
-          "url": "https://open.spotify.com/artist/49j7GvUPWXDkBZf3uUwMe6"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Bouw\u00e9y",
-      "url": "https://open.spotify.com/track/3sxcR3k3ZkNmvmXQB28Qnr"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "Pyramide",
         "url": "https://open.spotify.com/album/2vlx06Uuwpy5gOIkgcdu6Y"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 208405,
       "name": "Pyramide",
       "url": "https://open.spotify.com/track/4PWc65kJf7tKzgINh7rQmK"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "CHORD",
+        "url": "https://open.spotify.com/album/7t1nqu0zfrVlPCxukwIxRc"
+      },
+      "artists": [
+        {
+          "name": "1T1",
+          "url": "https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we"
+        },
+        {
+          "name": "Theomaa",
+          "url": "https://open.spotify.com/artist/49j7GvUPWXDkBZf3uUwMe6"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Bouw\u00e9y",
+      "url": "https://open.spotify.com/track/3sxcR3k3ZkNmvmXQB28Qnr"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
+        "name": "R\u00c9SONANCE",
+        "url": "https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha"
+      },
+      "artists": [
+        {
+          "name": "Josey",
+          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
+        }
+      ],
+      "duration_ms": 167704,
+      "name": "Woman King (T'as Capt\u00e9)",
+      "url": "https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
         "name": "DANS LE DOS",
         "url": "https://open.spotify.com/album/5fgyxpYthSrZPXrCfGYH0d"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 190619,
       "name": "DANS LE DOS",
       "url": "https://open.spotify.com/track/2dIkrZHAbWa8mxjfZHdT18"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
-        "name": "R\u00c9SONANCE",
-        "url": "https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha"
-      },
-      "artists": [
-        {
-          "name": "Josey",
-          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
-        }
-      ],
-      "duration_ms": 167704,
-      "name": "Woman King (T'as Capt\u00e9)",
-      "url": "https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1059,18 +1059,26 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "Le succ\u00e8s",
-        "url": "https://open.spotify.com/album/74UM8JnROs7TFZ6Vk74PYN"
+        "name": "En Haut",
+        "url": "https://open.spotify.com/album/3Ge3t58NoBmGiEdeqIXh1F"
       },
       "artists": [
         {
           "name": "Didi B",
           "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Jr La Melo",
+          "url": "https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU"
+        },
+        {
+          "name": "Tam Sir",
+          "url": "https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X"
         }
       ],
-      "duration_ms": 208484,
-      "name": "Le succ\u00e8s",
-      "url": "https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm"
+      "duration_ms": 172394,
+      "name": "En Haut",
+      "url": "https://open.spotify.com/track/6BovZi5xW96aWgGZVmToRe"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1139,26 +1147,18 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "En Haut",
-        "url": "https://open.spotify.com/album/3Ge3t58NoBmGiEdeqIXh1F"
+        "name": "Le succ\u00e8s",
+        "url": "https://open.spotify.com/album/74UM8JnROs7TFZ6Vk74PYN"
       },
       "artists": [
         {
           "name": "Didi B",
           "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "Jr La Melo",
-          "url": "https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU"
-        },
-        {
-          "name": "Tam Sir",
-          "url": "https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X"
         }
       ],
-      "duration_ms": 172394,
-      "name": "En Haut",
-      "url": "https://open.spotify.com/track/6BovZi5xW96aWgGZVmToRe"
+      "duration_ms": 208484,
+      "name": "Le succ\u00e8s",
+      "url": "https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm"
     },
     {
       "added_at": "2026-07-24 11:14:20",

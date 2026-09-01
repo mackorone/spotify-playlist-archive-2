@@ -496,7 +496,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 202040,
       "name": "Contractor",
       "url": "https://open.spotify.com/track/0zG1wlZF4lrr2URvghfla5"
@@ -518,6 +518,24 @@
       "duration_ms": 202040,
       "name": "Contractor",
       "url": "https://open.spotify.com/track/26BpFV93BbQ07OierXsHqE"
+    },
+    {
+      "album": {
+        "name": "Wrath (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/479KqDnKRTPYptLEkbZNRp"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202040,
+      "name": "Contractor",
+      "url": "https://open.spotify.com/track/3AYvw5XXAiUbdCVUDXPalt"
     },
     {
       "album": {
@@ -1141,6 +1159,24 @@
     },
     {
       "album": {
+        "name": "Wrath (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/479KqDnKRTPYptLEkbZNRp"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236466,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/15xKnfFFL6irBbev4swb8X"
+    },
+    {
+      "album": {
         "name": "Wrath (Special Edition)",
         "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
       },
@@ -1152,7 +1188,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 236466,
       "name": "Grace",
       "url": "https://open.spotify.com/track/3A5zeEH2eLW3uMYXoBj9Tq"

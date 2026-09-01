@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,029 likes - 103 songs - 15 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,085 likes - 103 songs - 15 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 102 | [My Life \- Live](https://open.spotify.com/track/0DYIqtWiEnFQUdYD0ozrGJ) | [Grace Oluwaloju](https://open.spotify.com/artist/6NInTLdGUMFQHAaFnpUo9Y), [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [My Life \(Live\)](https://open.spotify.com/album/32GdJYZW4fA4cj2jnhLYPu) | 8:13 |
 | 103 | [Show Up \- Live](https://open.spotify.com/track/4huqKWlhldHQOz66KW60iK) | [Jeremiah Nkwocha](https://open.spotify.com/artist/1kHd1wOgZPzBQsprlGBJ8a), [Tee Worship](https://open.spotify.com/artist/1HNyNN9fa1wTVD69hU9FdZ) | [Show Up \(Live\)](https://open.spotify.com/album/1JMkm1qzX54Dm0sqgP6aNr) | 16:53 |
 
-Snapshot ID: `AAAAAP0fC4GMq+fzVArVP8U9SSS8cMDZ`
+Snapshot ID: `AAAAAMIgcprIlvMzJsvbJRoIN0SFLt7H`

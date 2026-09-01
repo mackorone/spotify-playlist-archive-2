@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: Dandbroom\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,742 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,740 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 49 | [Ligtas](https://open.spotify.com/track/5LIRD5iiSXAXsUxoiVc0kd) | [Maropok](https://open.spotify.com/artist/7zR09LIFOL2rpfGfW4iYCA) | [Ligtas](https://open.spotify.com/album/7kr692jNbooLGACxzRp8w9) | 4:47 |
 | 50 | [Laso](https://open.spotify.com/track/6Vxt7u25zuY3djDnuRKbe4) | [Jamiela](https://open.spotify.com/artist/5p1VVzsnhyultjNL7T6Wuu) | [Laso](https://open.spotify.com/album/7qY3V1G9WHlFiaFPwLqfBU) | 3:23 |
 
-Snapshot ID: `AAAAAPmaMU6BMCvb9Wl1jknr3QuDErlv`
+Snapshot ID: `AAAAAByHlaJCGuBX1zt3srBhdFDW3fiz`

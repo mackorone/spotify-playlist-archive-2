@@ -1,13 +1,33 @@
 {
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "num_followers": 30899,
-  "original_name": "LA LLISTA DE FLAIXBAC (23/8/2026)",
+  "num_followers": 30900,
+  "original_name": "LA LLISTA DE FLAIXBAC (31/8/2026)",
   "owner": {
     "name": "flaixbacoficial",
     "url": "https://open.spotify.com/user/flaixbacoficial"
   },
-  "snapshot_id": "AABD7Pp7u/xadGtKkfDJdQ9BsA0NPzHS",
+  "snapshot_id": "AABEEYXMLOvzzrl+1qEutY0W10gYIcri",
   "tracks": [
+    {
+      "added_at": "2026-07-06 09:17:01",
+      "album": {
+        "name": "pa ti toa <3",
+        "url": "https://open.spotify.com/album/2QVvlMjlbV445e9a5y2obD"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 213001,
+      "name": "pa ti toa <3",
+      "url": "https://open.spotify.com/track/54NQtnCL950bGIHlZUMMDH"
+    },
     {
       "added_at": "2026-06-29 12:03:23",
       "album": {
@@ -49,26 +69,6 @@
       "url": "https://open.spotify.com/track/0b3Bkp0UfCkNqquAUmoP5m"
     },
     {
-      "added_at": "2026-07-06 09:17:01",
-      "album": {
-        "name": "pa ti toa <3",
-        "url": "https://open.spotify.com/album/2QVvlMjlbV445e9a5y2obD"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 213001,
-      "name": "pa ti toa <3",
-      "url": "https://open.spotify.com/track/54NQtnCL950bGIHlZUMMDH"
-    },
-    {
       "added_at": "2026-06-08 11:48:40",
       "album": {
         "name": "Segurament t'estimo",
@@ -83,6 +83,30 @@
       "duration_ms": 175311,
       "name": "Segurament t'estimo",
       "url": "https://open.spotify.com/track/7x4x0456YjudZ4wlqZrRLd"
+    },
+    {
+      "added_at": "2026-07-06 09:16:49",
+      "album": {
+        "name": "El ventilador",
+        "url": "https://open.spotify.com/album/07TZGbKjn8xqDPHA0VJbWD"
+      },
+      "artists": [
+        {
+          "name": "Banda Neon",
+          "url": "https://open.spotify.com/artist/238KXKJTOYGAkQLQslSyYU"
+        },
+        {
+          "name": "Buhos",
+          "url": "https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR"
+        },
+        {
+          "name": "Mon DJ",
+          "url": "https://open.spotify.com/artist/5SLANaLk13zw9NaKeIS49U"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "El ventilador",
+      "url": "https://open.spotify.com/track/5MCycgUlsY56qp50wjnBte"
     },
     {
       "added_at": "2026-06-08 11:48:27",
@@ -121,30 +145,6 @@
       "url": "https://open.spotify.com/track/2kYWt6YP1M6gFCgpErIkIu"
     },
     {
-      "added_at": "2026-07-06 09:16:49",
-      "album": {
-        "name": "El ventilador",
-        "url": "https://open.spotify.com/album/07TZGbKjn8xqDPHA0VJbWD"
-      },
-      "artists": [
-        {
-          "name": "Banda Neon",
-          "url": "https://open.spotify.com/artist/238KXKJTOYGAkQLQslSyYU"
-        },
-        {
-          "name": "Buhos",
-          "url": "https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR"
-        },
-        {
-          "name": "Mon DJ",
-          "url": "https://open.spotify.com/artist/5SLANaLk13zw9NaKeIS49U"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "El ventilador",
-      "url": "https://open.spotify.com/track/5MCycgUlsY56qp50wjnBte"
-    },
-    {
       "added_at": "2026-07-21 09:55:13",
       "album": {
         "name": "Era aix\u00f2!",
@@ -159,22 +159,6 @@
       "duration_ms": 157651,
       "name": "Era aix\u00f2!",
       "url": "https://open.spotify.com/track/4ii7barTDoTTj1SfYWZQ02"
-    },
-    {
-      "added_at": "2026-05-19 10:59:03",
-      "album": {
-        "name": "NI BORRACHO",
-        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "NI BORRACHO",
-      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
     },
     {
       "added_at": "2026-07-21 10:10:20",
@@ -201,20 +185,36 @@
       "url": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2"
     },
     {
-      "added_at": "2026-06-22 08:32:27",
+      "added_at": "2026-05-19 10:59:03",
       "album": {
-        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
-        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+        "name": "NI BORRACHO",
+        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 178186,
-      "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
-      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
+      "duration_ms": 248440,
+      "name": "NI BORRACHO",
+      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
+    },
+    {
+      "added_at": "2026-06-29 12:01:45",
+      "album": {
+        "name": "PERDUTS TU I JO",
+        "url": "https://open.spotify.com/album/6F8mHq4XtR4kD1TUJBamIO"
+      },
+      "artists": [
+        {
+          "name": "KORA",
+          "url": "https://open.spotify.com/artist/4EpjyFRyUGaSWcjT6Q9miO"
+        }
+      ],
+      "duration_ms": 171091,
+      "name": "PERDUTS TU I JO",
+      "url": "https://open.spotify.com/track/6c4iTnfTMSV0GbVO5r7yTm"
     },
     {
       "added_at": "2026-03-31 07:59:05",
@@ -235,54 +235,6 @@
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
-    },
-    {
-      "added_at": "2026-06-29 12:02:23",
-      "album": {
-        "name": "Vine'm a buscar",
-        "url": "https://open.spotify.com/album/35ChYAPb2fIAxYa9Oufqya"
-      },
-      "artists": [
-        {
-          "name": "Alfred Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx"
-        }
-      ],
-      "duration_ms": 149226,
-      "name": "Vine'm a buscar",
-      "url": "https://open.spotify.com/track/1xEr1o7xL4PQfWgUOao1Kw"
-    },
-    {
-      "added_at": "2026-06-29 12:01:45",
-      "album": {
-        "name": "PERDUTS TU I JO",
-        "url": "https://open.spotify.com/album/6F8mHq4XtR4kD1TUJBamIO"
-      },
-      "artists": [
-        {
-          "name": "KORA",
-          "url": "https://open.spotify.com/artist/4EpjyFRyUGaSWcjT6Q9miO"
-        }
-      ],
-      "duration_ms": 171091,
-      "name": "PERDUTS TU I JO",
-      "url": "https://open.spotify.com/track/6c4iTnfTMSV0GbVO5r7yTm"
-    },
-    {
-      "added_at": "2026-04-13 08:31:22",
-      "album": {
-        "name": "Energia!",
-        "url": "https://open.spotify.com/album/6jyQ44hp5mFxXAdFKiYwjM"
-      },
-      "artists": [
-        {
-          "name": "Doctor Prats",
-          "url": "https://open.spotify.com/artist/7ncQ3AmAxYqTv2vY46YclW"
-        }
-      ],
-      "duration_ms": 187992,
-      "name": "Energia!",
-      "url": "https://open.spotify.com/track/0S2ghDlCY0B4AvYDmFobeK"
     },
     {
       "added_at": "2026-08-10 07:00:26",
@@ -307,6 +259,74 @@
       "duration_ms": 125357,
       "name": "Mi Chico - Official - Jason Derulo x Melody",
       "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX"
+    },
+    {
+      "added_at": "2026-08-10 07:01:42",
+      "album": {
+        "name": "Talk To You (ft. 54 Ultra)",
+        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 191076,
+      "name": "Talk To You (ft. 54 Ultra)",
+      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
+    },
+    {
+      "added_at": "2026-06-29 12:02:23",
+      "album": {
+        "name": "Vine'm a buscar",
+        "url": "https://open.spotify.com/album/35ChYAPb2fIAxYa9Oufqya"
+      },
+      "artists": [
+        {
+          "name": "Alfred Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx"
+        }
+      ],
+      "duration_ms": 149226,
+      "name": "Vine'm a buscar",
+      "url": "https://open.spotify.com/track/1xEr1o7xL4PQfWgUOao1Kw"
+    },
+    {
+      "added_at": "2026-06-22 08:32:27",
+      "album": {
+        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
+    },
+    {
+      "added_at": "2026-04-13 08:31:22",
+      "album": {
+        "name": "Energia!",
+        "url": "https://open.spotify.com/album/6jyQ44hp5mFxXAdFKiYwjM"
+      },
+      "artists": [
+        {
+          "name": "Doctor Prats",
+          "url": "https://open.spotify.com/artist/7ncQ3AmAxYqTv2vY46YclW"
+        }
+      ],
+      "duration_ms": 187992,
+      "name": "Energia!",
+      "url": "https://open.spotify.com/track/0S2ghDlCY0B4AvYDmFobeK"
     },
     {
       "added_at": "2026-05-19 10:53:32",
@@ -345,22 +365,6 @@
       "url": "https://open.spotify.com/track/531muL88wgzZPwqRD4eXmJ"
     },
     {
-      "added_at": "2026-06-08 11:48:14",
-      "album": {
-        "name": "Des de lluny",
-        "url": "https://open.spotify.com/album/04jgOSgxG5FI35fgHjkCav"
-      },
-      "artists": [
-        {
-          "name": "Ivan Herzog",
-          "url": "https://open.spotify.com/artist/0NqdDX0AKx9frqodgeXq5y"
-        }
-      ],
-      "duration_ms": 174336,
-      "name": "Des de lluny",
-      "url": "https://open.spotify.com/track/2JFTbiGHVX4KuWrx0ovGn0"
-    },
-    {
       "added_at": "2026-06-01 11:30:33",
       "album": {
         "name": "Dracula (with JENNIE)",
@@ -381,24 +385,20 @@
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
-      "added_at": "2026-08-10 07:01:42",
+      "added_at": "2026-06-08 11:48:14",
       "album": {
-        "name": "Talk To You (ft. 54 Ultra)",
-        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
+        "name": "Des de lluny",
+        "url": "https://open.spotify.com/album/04jgOSgxG5FI35fgHjkCav"
       },
       "artists": [
         {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+          "name": "Ivan Herzog",
+          "url": "https://open.spotify.com/artist/0NqdDX0AKx9frqodgeXq5y"
         }
       ],
-      "duration_ms": 191076,
-      "name": "Talk To You (ft. 54 Ultra)",
-      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
+      "duration_ms": 174336,
+      "name": "Des de lluny",
+      "url": "https://open.spotify.com/track/2JFTbiGHVX4KuWrx0ovGn0"
     },
     {
       "added_at": "2026-04-27 10:17:13",
@@ -417,24 +417,20 @@
       "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
-      "added_at": "2026-05-26 14:01:45",
+      "added_at": "2026-08-10 06:59:44",
       "album": {
-        "name": "Believe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 227986,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
+      "duration_ms": 174676,
+      "name": "On My Soul",
+      "url": "https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD"
     },
     {
       "added_at": "2026-05-05 15:03:06",
@@ -457,20 +453,24 @@
       "url": "https://open.spotify.com/track/277bBvikhaNZo2sDjOGCVG"
     },
     {
-      "added_at": "2026-08-10 06:59:44",
+      "added_at": "2026-05-26 14:01:45",
       "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+        "name": "Believe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 174676,
-      "name": "On My Soul",
-      "url": "https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD"
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
     },
     {
       "added_at": "2026-06-22 08:32:08",
@@ -489,20 +489,20 @@
       "url": "https://open.spotify.com/track/2vGCxCWwbqrCUQVRy1NgXO"
     },
     {
-      "added_at": "2026-05-26 14:04:39",
+      "added_at": "2026-07-21 09:54:59",
       "album": {
-        "name": "LET ME BE",
-        "url": "https://open.spotify.com/album/4mqcYdXFQJGtduC8XWX8op"
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
       },
       "artists": [
         {
-          "name": "The Second Voice",
-          "url": "https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30"
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
         }
       ],
-      "duration_ms": 189853,
-      "name": "LET ME BE",
-      "url": "https://open.spotify.com/track/3Ggrf13afYb41oxbnpafPR"
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
     },
     {
       "added_at": "2026-01-26 10:11:13",
@@ -521,6 +521,22 @@
       "url": "https://open.spotify.com/track/0nMNmyhAnUSNNJ8YjzCnWA"
     },
     {
+      "added_at": "2026-05-26 14:04:39",
+      "album": {
+        "name": "LET ME BE",
+        "url": "https://open.spotify.com/album/4mqcYdXFQJGtduC8XWX8op"
+      },
+      "artists": [
+        {
+          "name": "The Second Voice",
+          "url": "https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30"
+        }
+      ],
+      "duration_ms": 189853,
+      "name": "LET ME BE",
+      "url": "https://open.spotify.com/track/3Ggrf13afYb41oxbnpafPR"
+    },
+    {
       "added_at": "2026-02-18 11:56:13",
       "album": {
         "name": "NEXO 01. Me acuerdo de ti",
@@ -537,20 +553,52 @@
       "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
     },
     {
-      "added_at": "2026-07-21 09:54:59",
+      "added_at": "2026-08-17 09:02:45",
       "album": {
-        "name": "Die On This Hill",
-        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
+        "name": "Rayos de Sol (feat. Jose De Rico) [Remix]",
+        "url": "https://open.spotify.com/album/72GhozLLOSZssWN4JUUYiy"
       },
       "artists": [
         {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+          "name": "Henry Mendez",
+          "url": "https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1"
+        },
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Jos\u00e9 de Rico",
+          "url": "https://open.spotify.com/artist/2ny2IhV61AbrsaWpjvGM7m"
         }
       ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
+      "duration_ms": 173437,
+      "name": "Rayos de Sol (feat. Jose De Rico) - Remix",
+      "url": "https://open.spotify.com/track/5mTdH9qtGmem11SmHYjBuS"
+    },
+    {
+      "added_at": "2026-08-24 09:32:00",
+      "album": {
+        "name": "Mr. Know It All",
+        "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "Mr. Know It All",
+      "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
     },
     {
       "added_at": "2026-03-23 11:33:15",
@@ -613,38 +661,6 @@
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
     },
     {
-      "added_at": "2026-08-17 09:02:45",
-      "album": {
-        "name": "Rayos de Sol (feat. Jose De Rico) [Remix]",
-        "url": "https://open.spotify.com/album/72GhozLLOSZssWN4JUUYiy"
-      },
-      "artists": [
-        {
-          "name": "Henry Mendez",
-          "url": "https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1"
-        },
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        },
-        {
-          "name": "Chino & Nacho",
-          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
-        },
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "Jos\u00e9 de Rico",
-          "url": "https://open.spotify.com/artist/2ny2IhV61AbrsaWpjvGM7m"
-        }
-      ],
-      "duration_ms": 173437,
-      "name": "Rayos de Sol (feat. Jose De Rico) - Remix",
-      "url": "https://open.spotify.com/track/5mTdH9qtGmem11SmHYjBuS"
-    },
-    {
       "added_at": "2026-03-23 11:35:36",
       "album": {
         "name": "Ayer La Vi (BPA26)",
@@ -663,58 +679,6 @@
       "duration_ms": 170769,
       "name": "Ayer La Vi (BPA26)",
       "url": "https://open.spotify.com/track/50SSJV9VPpvO7bZwK5ZjRa"
-    },
-    {
-      "added_at": "2026-04-27 10:10:10",
-      "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 159007,
-      "name": "SWIM",
-      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
-    },
-    {
-      "added_at": "2026-05-19 11:01:19",
-      "album": {
-        "name": "RUNWAY",
-        "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 171010,
-      "name": "RUNWAY",
-      "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
-    },
-    {
-      "added_at": "2026-08-10 07:02:54",
-      "album": {
-        "name": "Un altre cop",
-        "url": "https://open.spotify.com/album/2DLZMrfogypgyVPn0OOAbJ"
-      },
-      "artists": [
-        {
-          "name": "Miki N\u00fa\u00f1ez",
-          "url": "https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB"
-        }
-      ],
-      "duration_ms": 124096,
-      "name": "Un altre cop",
-      "url": "https://open.spotify.com/track/1uVxeC2DdSbPFcwOdhYMfs"
     },
     {
       "added_at": "2026-08-10 07:06:53",
@@ -737,6 +701,54 @@
       "url": "https://open.spotify.com/track/5bkZzfXgA6zMrbUiRrGAjc"
     },
     {
+      "added_at": "2026-04-27 10:10:10",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
+    },
+    {
+      "added_at": "2026-08-10 07:02:54",
+      "album": {
+        "name": "Un altre cop",
+        "url": "https://open.spotify.com/album/2DLZMrfogypgyVPn0OOAbJ"
+      },
+      "artists": [
+        {
+          "name": "Miki N\u00fa\u00f1ez",
+          "url": "https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB"
+        }
+      ],
+      "duration_ms": 124096,
+      "name": "Un altre cop",
+      "url": "https://open.spotify.com/track/1uVxeC2DdSbPFcwOdhYMfs"
+    },
+    {
+      "added_at": "2026-08-31 09:32:18",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
+    },
+    {
       "added_at": "2026-02-02 10:04:31",
       "album": {
         "name": "The Life of a Showgirl",
@@ -753,36 +765,24 @@
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
     },
     {
-      "added_at": "2026-04-27 10:16:51",
+      "added_at": "2026-05-19 11:01:19",
       "album": {
-        "name": "Inigualable",
-        "url": "https://open.spotify.com/album/7bjdddU6NFSG6V8cD00ODu"
+        "name": "RUNWAY",
+        "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
       },
       "artists": [
         {
-          "name": "Max Navarro",
-          "url": "https://open.spotify.com/artist/0Wx00HbcRpQLmDcKO226cq"
-        }
-      ],
-      "duration_ms": 211586,
-      "name": "Inigualable",
-      "url": "https://open.spotify.com/track/4HilSPgYbcZdtR6bJDGkF8"
-    },
-    {
-      "added_at": "2026-08-24 09:32:00",
-      "album": {
-        "name": "Mr. Know It All",
-        "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
-      },
-      "artists": [
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 198425,
-      "name": "Mr. Know It All",
-      "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
+      "duration_ms": 171010,
+      "name": "RUNWAY",
+      "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
     },
     {
       "added_at": "2026-01-21 12:58:07",
@@ -821,26 +821,22 @@
       "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
     },
     {
-      "added_at": "2025-12-18 11:58:28",
+      "added_at": "2026-04-27 10:16:51",
       "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+        "name": "Inigualable",
+        "url": "https://open.spotify.com/album/7bjdddU6NFSG6V8cD00ODu"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+          "name": "Max Navarro",
+          "url": "https://open.spotify.com/artist/0Wx00HbcRpQLmDcKO226cq"
         }
       ],
-      "duration_ms": 195546,
-      "name": "La Perla",
-      "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
+      "duration_ms": 211586,
+      "name": "Inigualable",
+      "url": "https://open.spotify.com/track/4HilSPgYbcZdtR6bJDGkF8"
     }
   ],
-  "unique_name": "LA LLISTA DE FLAIXBAC (23/8/2026)",
+  "unique_name": "LA LLISTA DE FLAIXBAC (31/8/2026)",
   "url": "https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL"
 }

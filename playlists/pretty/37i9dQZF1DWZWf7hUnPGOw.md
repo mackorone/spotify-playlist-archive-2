@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,871 likes - 145 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,887 likes - 145 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 144 | [Already There](https://open.spotify.com/track/4CskNnumSq5GwKMP410i1D) | [Anna Elizabeth Laube](https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx) | [Anna Laube](https://open.spotify.com/album/5Qw7W3cJ9COG6W8HIgsdPS) | 3:01 |
 | 145 | [Who WIll You Love](https://open.spotify.com/track/4MBTvgTbF6ON2Kqdy2VBzA) | [Dead Heart Bloom](https://open.spotify.com/artist/4laLBLkaklgExgwq1u0WsW) | [Chelsea Diaries](https://open.spotify.com/album/5xYYt2Yzhrg8KSAAWjnuMB) | 3:27 |
 
-Snapshot ID: `AAAAAF8KkNM1t/pi1NXNQQL3Ynfu1qSn`
+Snapshot ID: `AAAAAA5ljAOwDVMzKpqUUENRgd9ekLev`

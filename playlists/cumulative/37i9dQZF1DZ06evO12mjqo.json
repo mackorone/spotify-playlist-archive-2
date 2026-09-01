@@ -952,7 +952,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 324373,
       "name": "Majesty",
       "url": "https://open.spotify.com/track/30ZhfyAmOmF6GN2i5fpVen"
@@ -974,6 +974,24 @@
       "duration_ms": 324373,
       "name": "Majesty",
       "url": "https://open.spotify.com/track/3Q53KFHVdDhSE4XGA3xmH8"
+    },
+    {
+      "album": {
+        "name": "2 Big To Rig (Original Motion Picture Soundtrack / Live)",
+        "url": "https://open.spotify.com/album/421FQJqvQRTfRkTpHSLljx"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445376,
+      "name": "Majesty - Live from Mexico City",
+      "url": "https://open.spotify.com/track/5CUNOiEwQHsihmfC9Vq37P"
     },
     {
       "album": {
@@ -1150,7 +1168,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-31",
+      "date_removed": null,
       "duration_ms": 222840,
       "name": "Missionary Man",
       "url": "https://open.spotify.com/track/1YOaQUUsEzMbxk1sfmoNVE"
@@ -1834,7 +1852,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 236040,
       "name": "Stand by Him",
       "url": "https://open.spotify.com/track/7w9T4qsofdkPFL1iyUrwNL"

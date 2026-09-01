@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFaPtuHc7d8VcilW8nWeTpZ0jwOW",
+  "snapshot_id": "AAAAAEXYf6t85Ol4QE6e0zEs6V+ymKAZ",
   "tracks": [
     {
       "added_at": "2026-08-27 21:00:22",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-08-27 21:00:22",
       "album": {
-        "name": "Juhannusvalssi",
-        "url": "https://open.spotify.com/album/6FUG0ajVmHL4lhSn0omaWc"
-      },
-      "artists": [
-        {
-          "name": "helmi marleena",
-          "url": "https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK"
-        }
-      ],
-      "duration_ms": 224313,
-      "name": "Juhannusvalssi",
-      "url": "https://open.spotify.com/track/0lvrxwyl1PwFPrqjtQ7MPH"
-    },
-    {
-      "added_at": "2026-08-27 21:00:22",
-      "album": {
         "name": "PIIKA",
         "url": "https://open.spotify.com/album/7uQXB9fAq0FLImsAIjjuKH"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 148181,
       "name": "10!",
       "url": "https://open.spotify.com/track/5wGpuoijb2FQHzk4AQeBw0"
+    },
+    {
+      "added_at": "2026-08-27 21:00:22",
+      "album": {
+        "name": "Juhannusvalssi",
+        "url": "https://open.spotify.com/album/6FUG0ajVmHL4lhSn0omaWc"
+      },
+      "artists": [
+        {
+          "name": "helmi marleena",
+          "url": "https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK"
+        }
+      ],
+      "duration_ms": 224313,
+      "name": "Juhannusvalssi",
+      "url": "https://open.spotify.com/track/0lvrxwyl1PwFPrqjtQ7MPH"
     },
     {
       "added_at": "2026-08-27 21:00:22",
@@ -371,8 +371,8 @@
     {
       "added_at": "2026-08-27 21:00:22",
       "album": {
-        "name": "Gelateria",
-        "url": "https://open.spotify.com/album/31PDbVme9KzuIZ4mXJnbAq"
+        "name": "Economy PLUS",
+        "url": "https://open.spotify.com/album/35oWqxJND9YW6bM2Xu1Irf"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t"
         }
       ],
-      "duration_ms": 188571,
-      "name": "Gelateria",
-      "url": "https://open.spotify.com/track/2RnKbPVJTJrDRebaACQoZi"
+      "duration_ms": 180952,
+      "name": "Economy PLUS",
+      "url": "https://open.spotify.com/track/0QEasyD0inY0gmEMkXvHuV"
     },
     {
       "added_at": "2026-08-27 21:00:22",
@@ -455,8 +455,8 @@
     {
       "added_at": "2026-08-27 21:00:22",
       "album": {
-        "name": "Economy PLUS",
-        "url": "https://open.spotify.com/album/35oWqxJND9YW6bM2Xu1Irf"
+        "name": "Gelateria",
+        "url": "https://open.spotify.com/album/31PDbVme9KzuIZ4mXJnbAq"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t"
         }
       ],
-      "duration_ms": 180952,
-      "name": "Economy PLUS",
-      "url": "https://open.spotify.com/track/0QEasyD0inY0gmEMkXvHuV"
+      "duration_ms": 188571,
+      "name": "Gelateria",
+      "url": "https://open.spotify.com/track/2RnKbPVJTJrDRebaACQoZi"
     },
     {
       "added_at": "2026-08-27 21:00:22",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-08-27 21:00:22",
       "album": {
-        "name": "Kuudes aisti",
-        "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
-      },
-      "artists": [
-        {
-          "name": "BESS",
-          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
-        }
-      ],
-      "duration_ms": 193965,
-      "name": "Kuudes aisti",
-      "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
-    },
-    {
-      "added_at": "2026-08-27 21:00:22",
-      "album": {
         "name": "Jokaisen hymyn takana",
         "url": "https://open.spotify.com/album/35TYpcFr95oXYfYJnTlxBu"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 188893,
       "name": "Jokaisen hymyn takana",
       "url": "https://open.spotify.com/track/5EJNi9EF4ut1vFNo0ygJsl"
+    },
+    {
+      "added_at": "2026-08-27 21:00:22",
+      "album": {
+        "name": "Kuudes aisti",
+        "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
+      },
+      "artists": [
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        }
+      ],
+      "duration_ms": 193965,
+      "name": "Kuudes aisti",
+      "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
     },
     {
       "added_at": "2026-08-27 21:00:22",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-08-27 21:00:22",
       "album": {
-        "name": "Kuka nauraa nyt",
-        "url": "https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX"
-      },
-      "artists": [
-        {
-          "name": "ABREU",
-          "url": "https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "Kuka nauraa nyt",
-      "url": "https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ"
-    },
-    {
-      "added_at": "2026-08-27 21:00:22",
-      "album": {
         "name": "Hullu nainen",
         "url": "https://open.spotify.com/album/1WBwJFbYM4G9EqEOvBrt8n"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 177360,
       "name": "Hullu nainen",
       "url": "https://open.spotify.com/track/2G5KUqFFdIQKq0bXsxt4p4"
+    },
+    {
+      "added_at": "2026-08-27 21:00:22",
+      "album": {
+        "name": "Kuka nauraa nyt",
+        "url": "https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX"
+      },
+      "artists": [
+        {
+          "name": "ABREU",
+          "url": "https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7"
+        }
+      ],
+      "duration_ms": 175609,
+      "name": "Kuka nauraa nyt",
+      "url": "https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ"
     },
     {
       "added_at": "2026-08-27 21:00:22",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-08-27 21:00:22",
       "album": {
-        "name": "en tunne",
-        "url": "https://open.spotify.com/album/6cDfwvDCGoGFCPRb5A4FHb"
-      },
-      "artists": [
-        {
-          "name": "Ella Herold",
-          "url": "https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM"
-        }
-      ],
-      "duration_ms": 181607,
-      "name": "en tunne",
-      "url": "https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt"
-    },
-    {
-      "added_at": "2026-08-27 21:00:22",
-      "album": {
         "name": "Ihmisenpuolikas",
         "url": "https://open.spotify.com/album/3aPhDcXiZ2MLBFCWNJMcj1"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 172447,
       "name": "Ihmisenpuolikas",
       "url": "https://open.spotify.com/track/5XJOXkXEfDWJUmvrsvFbro"
+    },
+    {
+      "added_at": "2026-08-27 21:00:22",
+      "album": {
+        "name": "en tunne",
+        "url": "https://open.spotify.com/album/6cDfwvDCGoGFCPRb5A4FHb"
+      },
+      "artists": [
+        {
+          "name": "Ella Herold",
+          "url": "https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM"
+        }
+      ],
+      "duration_ms": 181607,
+      "name": "en tunne",
+      "url": "https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt"
     },
     {
       "added_at": "2026-08-27 21:00:22",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-08-27 21:00:22",
       "album": {
-        "name": "KUKA T\u00c4\u00c4 MIMMI ON?",
-        "url": "https://open.spotify.com/album/3d2lm9RKwDOkcXZhbrxztY"
-      },
-      "artists": [
-        {
-          "name": "Hassan Maikal",
-          "url": "https://open.spotify.com/artist/5ibHOdl3OIBMsBc32Qsl2u"
-        }
-      ],
-      "duration_ms": 178846,
-      "name": "KUKA T\u00c4\u00c4 MIMMI ON?",
-      "url": "https://open.spotify.com/track/2k6OIHOtt5Btwy4cuAAdOI"
-    },
-    {
-      "added_at": "2026-08-27 21:00:22",
-      "album": {
         "name": "Takas sun luo",
         "url": "https://open.spotify.com/album/4c2OE3BKnHjXIbLv5Ovf7E"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 168906,
       "name": "Takas sun luo",
       "url": "https://open.spotify.com/track/24AvVcuQHJg5EkTwOGqkHk"
+    },
+    {
+      "added_at": "2026-08-27 21:00:22",
+      "album": {
+        "name": "KUKA T\u00c4\u00c4 MIMMI ON?",
+        "url": "https://open.spotify.com/album/3d2lm9RKwDOkcXZhbrxztY"
+      },
+      "artists": [
+        {
+          "name": "Hassan Maikal",
+          "url": "https://open.spotify.com/artist/5ibHOdl3OIBMsBc32Qsl2u"
+        }
+      ],
+      "duration_ms": 178846,
+      "name": "KUKA T\u00c4\u00c4 MIMMI ON?",
+      "url": "https://open.spotify.com/track/2k6OIHOtt5Btwy4cuAAdOI"
     },
     {
       "added_at": "2026-08-27 21:00:22",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-08-27 21:00:22",
       "album": {
-        "name": "Teatterii",
-        "url": "https://open.spotify.com/album/7E5wNdC3AtJNchnf83KoLL"
-      },
-      "artists": [
-        {
-          "name": "Karim B",
-          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
-        }
-      ],
-      "duration_ms": 159255,
-      "name": "Teatterii",
-      "url": "https://open.spotify.com/track/7unJcils43dvDrUjadoyI5"
-    },
-    {
-      "added_at": "2026-08-27 21:00:22",
-      "album": {
         "name": "Liian nuorii kuolinilmotuksiin",
         "url": "https://open.spotify.com/album/5m6lvgjL8XC0YzsylK4kEJ"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 187986,
       "name": "Liian nuorii kuolinilmotuksiin",
       "url": "https://open.spotify.com/track/5chWNStxbGubQxGS0ueMtd"
+    },
+    {
+      "added_at": "2026-08-27 21:00:22",
+      "album": {
+        "name": "Teatterii",
+        "url": "https://open.spotify.com/album/7E5wNdC3AtJNchnf83KoLL"
+      },
+      "artists": [
+        {
+          "name": "Karim B",
+          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
+        }
+      ],
+      "duration_ms": 159255,
+      "name": "Teatterii",
+      "url": "https://open.spotify.com/track/7unJcils43dvDrUjadoyI5"
     },
     {
       "added_at": "2026-08-27 21:00:22",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-08-27 21:00:22",
       "album": {
+        "name": "Vinojen t\u00e4htien alla",
+        "url": "https://open.spotify.com/album/1ae2p3Ko5Ty9FfiyJb1fWa"
+      },
+      "artists": [
+        {
+          "name": "Aleksanteri Hakaniemi",
+          "url": "https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Vinojen t\u00e4htien alla",
+      "url": "https://open.spotify.com/track/1tmyFCvbXu03Ec9xWI2bi3"
+    },
+    {
+      "added_at": "2026-08-27 21:00:22",
+      "album": {
         "name": "Tee Mulle Mit\u00e4 Vaan",
         "url": "https://open.spotify.com/album/5J5jLCfdxzp2fqbDUzW3Dj"
       },
@@ -1251,26 +1267,6 @@
     {
       "added_at": "2026-08-27 21:00:22",
       "album": {
-        "name": "Kev\u00e4tkiima",
-        "url": "https://open.spotify.com/album/0IcYHhXS5oi0F6sJmgy0pT"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Visa",
-          "url": "https://open.spotify.com/artist/5KGtBCbmfrpTqAq1ISbi1D"
-        },
-        {
-          "name": "Ira",
-          "url": "https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9"
-        }
-      ],
-      "duration_ms": 153110,
-      "name": "Kev\u00e4tkiima",
-      "url": "https://open.spotify.com/track/6G2WYA3PdKa7lvgtwP6Ui0"
-    },
-    {
-      "added_at": "2026-08-27 21:00:22",
-      "album": {
         "name": "Kuka Vaan",
         "url": "https://open.spotify.com/album/0nm1pGaRjoY0P8nAogDGXr"
       },
@@ -1287,18 +1283,22 @@
     {
       "added_at": "2026-08-27 21:00:22",
       "album": {
-        "name": "Vinojen t\u00e4htien alla",
-        "url": "https://open.spotify.com/album/1ae2p3Ko5Ty9FfiyJb1fWa"
+        "name": "Kev\u00e4tkiima",
+        "url": "https://open.spotify.com/album/0IcYHhXS5oi0F6sJmgy0pT"
       },
       "artists": [
         {
-          "name": "Aleksanteri Hakaniemi",
-          "url": "https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi"
+          "name": "Sebastian Visa",
+          "url": "https://open.spotify.com/artist/5KGtBCbmfrpTqAq1ISbi1D"
+        },
+        {
+          "name": "Ira",
+          "url": "https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9"
         }
       ],
-      "duration_ms": 153573,
-      "name": "Vinojen t\u00e4htien alla",
-      "url": "https://open.spotify.com/track/1tmyFCvbXu03Ec9xWI2bi3"
+      "duration_ms": 153110,
+      "name": "Kev\u00e4tkiima",
+      "url": "https://open.spotify.com/track/6G2WYA3PdKa7lvgtwP6Ui0"
     },
     {
       "added_at": "2026-08-27 21:00:22",
@@ -1351,6 +1351,30 @@
     {
       "added_at": "2026-08-27 21:00:22",
       "album": {
+        "name": "MayDay",
+        "url": "https://open.spotify.com/album/1PQqe623rzXlrjIkal21HI"
+      },
+      "artists": [
+        {
+          "name": "Coevisto",
+          "url": "https://open.spotify.com/artist/6ntNjeOd8U1y1cFSdp6isr"
+        },
+        {
+          "name": "Casper Edel",
+          "url": "https://open.spotify.com/artist/6AbCM1tL0YPJ9xDO7E9Ts2"
+        },
+        {
+          "name": "Samuel Shipway",
+          "url": "https://open.spotify.com/artist/2dgvSwqsBBsIGxZjR3Qnn3"
+        }
+      ],
+      "duration_ms": 200534,
+      "name": "MayDay",
+      "url": "https://open.spotify.com/track/1TvIG1VwcSH9mmXXyUX69s"
+    },
+    {
+      "added_at": "2026-08-27 21:00:22",
+      "album": {
         "name": "Lehmitytt\u00f6",
         "url": "https://open.spotify.com/album/09GBZbGAUDnoMvUcdrI4fw"
       },
@@ -1363,22 +1387,6 @@
       "duration_ms": 195564,
       "name": "Lehmitytt\u00f6",
       "url": "https://open.spotify.com/track/1TAKLDnzz9IdQFLu7sozWO"
-    },
-    {
-      "added_at": "2026-08-27 21:00:22",
-      "album": {
-        "name": "110%",
-        "url": "https://open.spotify.com/album/5HxGB4zDzMiTGYJmahMrxW"
-      },
-      "artists": [
-        {
-          "name": "Frans Harju",
-          "url": "https://open.spotify.com/artist/5XHY4502E49TflEsiq7ed5"
-        }
-      ],
-      "duration_ms": 181985,
-      "name": "110%",
-      "url": "https://open.spotify.com/track/6SKjV9XZvqldONThAgCFUi"
     }
   ],
   "unique_name": "Nousussa",

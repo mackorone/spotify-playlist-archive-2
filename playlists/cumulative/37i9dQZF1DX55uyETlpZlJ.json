@@ -2824,7 +2824,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 155259,
       "name": "Desi Naari",
       "url": "https://open.spotify.com/track/2fj7hVFUFrFT3VhrAs2HxT"
@@ -4126,6 +4126,24 @@
       "duration_ms": 210545,
       "name": "Gira Gira",
       "url": "https://open.spotify.com/track/7vwrPdFX2FNF6imTRXO4Pw"
+    },
+    {
+      "album": {
+        "name": "GOD COMPLEX",
+        "url": "https://open.spotify.com/album/6lH51RbBq03YVA8kKsWKrh"
+      },
+      "artists": [
+        {
+          "name": "ANAMIKA",
+          "url": "https://open.spotify.com/artist/4sPJkVa68fMIryD4jjvugk"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183450,
+      "name": "GOD COMPLEX",
+      "url": "https://open.spotify.com/track/42DWUXHGsMHxNZuVvhqagU"
     },
     {
       "album": {

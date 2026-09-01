@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 
 > Get your kids singing along with this fun playlist! They're sure to know these kid\-friendly classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,980 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,009 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 49 | [Fruit Salad](https://open.spotify.com/track/7kDKvOxuIY4aiHdYgKP8gd) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [We're All Fruit Salad!: The Wiggles' Greatest Hits](https://open.spotify.com/album/6tUysAmatHIVl8dOSnfBoO) | 2:28 |
 | 50 | [Shoo\-Fly](https://open.spotify.com/track/69u6Wps4uQfwd2Jl4Jd3Ij) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Favorite Classic Kids' Songs](https://open.spotify.com/album/6q0jz3n3Hk7XAir2AaqaaC) | 2:58 |
 
-Snapshot ID: `AAAAAMNWE/tS6WjtfhSKOzFXsdn7GxxS`
+Snapshot ID: `AAAAAH4Qz8h4al9kKE3XmemglSYTE2PB`

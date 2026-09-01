@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Mastodon
 
-[Spotify](https://open.spotify.com/user/spotify) - 799,790 likes - 208 songs - 13 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 799,854 likes - 208 songs - 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 207 | [World Peace](https://open.spotify.com/track/2CMsmyqYOdhDCDvrDxJAdc) | [Cro\-Mags](https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg) | [World Peace](https://open.spotify.com/album/2vzNhIF8eHFgcxorKf5vp0) | 2:13 |
 | 208 | [Il Paradiso Della Regina Sibilla, Atto I: L’arrivo Del Cavaliere A\. De La Sale A Mons Daemoniacus](https://open.spotify.com/track/6GxutaLTUYfJmA0TJJyLXA) | [Hesperia](https://open.spotify.com/artist/0jeCh42LIdsAuU7YE4Xa6D) | [Il Paradiso Della Regina Sibilla, Atto I: L’arrivo Del Cavaliere A\. De La Sale A Mons Daemoniacus](https://open.spotify.com/album/2kgjp0dQjMTfegAvLWSPm3) | 6:15 |
 
-Snapshot ID: `AAAAAEIBvLQ1UH4+diRNHA2DAgXkpwgQ`
+Snapshot ID: `AAAAABULIFc7qNp8FzFfSk66Qmkmr3Aa`

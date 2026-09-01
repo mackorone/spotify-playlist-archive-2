@@ -1,12 +1,12 @@
 {
   "description": "Allerbeste songs uit de 60's. Cover: Shocking Blue",
-  "num_followers": 55458,
+  "num_followers": 55466,
   "original_name": "60's Allerbeste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACQqqADH5InWfW90WbGJDSM5iYi5",
+  "snapshot_id": "AAAAAMX97I1tgVfRL7VC8LEvMLVGHrfM",
   "tracks": [
     {
       "added_at": "2020-04-20 05:39:13",
@@ -287,22 +287,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "That's Life",
-        "url": "https://open.spotify.com/album/3gNsjaUsu9cRckgUFx5NsY"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "That's Life",
-      "url": "https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "Strange Days",
         "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 130173,
       "name": "People Are Strange",
       "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "That's Life",
+        "url": "https://open.spotify.com/album/3gNsjaUsu9cRckgUFx5NsY"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "That's Life",
+      "url": "https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -463,18 +463,18 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "At Home",
-        "url": "https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ"
+        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
+        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
       },
       "artists": [
         {
-          "name": "Shocking Blue",
-          "url": "https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk"
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
         }
       ],
-      "duration_ms": 187533,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ"
+      "duration_ms": 154733,
+      "name": "Put Your Head On My Shoulder",
+      "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
     },
     {
       "added_at": "2021-03-29 13:28:49",
@@ -495,18 +495,18 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
-        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
+        "name": "At Home",
+        "url": "https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ"
       },
       "artists": [
         {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+          "name": "Shocking Blue",
+          "url": "https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk"
         }
       ],
-      "duration_ms": 154733,
-      "name": "Put Your Head On My Shoulder",
-      "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
+      "duration_ms": 187533,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Het Beste Van Boudewijn De Groot",
-        "url": "https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD"
-      },
-      "artists": [
-        {
-          "name": "Boudewijn de Groot",
-          "url": "https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO"
-        }
-      ],
-      "duration_ms": 178533,
-      "name": "Het Land Van Maas En Waal",
-      "url": "https://open.spotify.com/track/2nk4SnUS6xe1iB5SeIBbgo"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "Ramses Shaffy - Laat Me",
         "url": "https://open.spotify.com/album/68G1Wx6lZkRrw4Tn8W8Y73"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 256186,
       "name": "Pastorale",
       "url": "https://open.spotify.com/track/50a6StrR0wfLLYKqBl1mvg"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Het Beste Van Boudewijn De Groot",
+        "url": "https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD"
+      },
+      "artists": [
+        {
+          "name": "Boudewijn de Groot",
+          "url": "https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "Het Land Van Maas En Waal",
+      "url": "https://open.spotify.com/track/2nk4SnUS6xe1iB5SeIBbgo"
     },
     {
       "added_at": "2020-04-20 05:39:13",

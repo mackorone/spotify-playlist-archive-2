@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > Découvrez les artistes à l'affiche de l’édition 2026 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,505 likes - 111 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,507 likes - 111 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 110 | [BARA](https://open.spotify.com/track/6rd3jTMVZIZRw3iqj6S3uw) | [Yvnnis](https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb) | [DND](https://open.spotify.com/album/2h1wZbM8PiBWi8vu6zwCAM) | 3:07 |
 | 111 | [Le Petit](https://open.spotify.com/track/37nkxMAXq8AOb7f6RopGFw) | [Zayo](https://open.spotify.com/artist/12BkdXUWfundfkkXQMiW2n) | [ORIGINES](https://open.spotify.com/album/1VA3HtmVLD1cz6S8g755iW) | 2:40 |
 
-Snapshot ID: `AAAAADJj6lFkK+KywgbbexAKzL6eZCU3`
+Snapshot ID: `AAAAAA0EvxJpaSfIfQa0bBDsweMjkYdC`

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,384 likes - 111 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,377 likes - 111 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Brandkåren](https://open.spotify.com/track/5NTzLQGKimkWaVb9LHjug9) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [Brandkåren](https://open.spotify.com/album/2LLj1tfJHmGzpTz1iclNDY) | 3:01 |
-| 2 | [Highway to Heaven](https://open.spotify.com/track/4z1ex5e2r3hyY9Qd43afdm) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Highway to Heaven](https://open.spotify.com/album/4WXSyC7wKpLZ49I8Io73Hr) | 3:06 |
-| 3 | [EMERALD EYES](https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 2:36 |
-| 4 | [Orden](https://open.spotify.com/track/2aC9qznWCc6EzDkJ07Oo8T) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Orden](https://open.spotify.com/album/3pjoRoo1MYYzk49wfCxwDZ) | 3:20 |
-| 5 | [Runaway](https://open.spotify.com/track/4y6horhRPIuaSVKjPDLBDr) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Runaway](https://open.spotify.com/album/5aVZikPfeJpoBXKPEZAbSt) | 2:33 |
-| 6 | [Regndroppar på din kind](https://open.spotify.com/track/5z86mBfuzz0jT2V85OJhMh) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Regndroppar på din kind](https://open.spotify.com/album/5VCnpTVF1pP8nNBScWHnCJ) | 2:58 |
+| 1 | [Highway to Heaven](https://open.spotify.com/track/4z1ex5e2r3hyY9Qd43afdm) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Highway to Heaven](https://open.spotify.com/album/4WXSyC7wKpLZ49I8Io73Hr) | 3:06 |
+| 2 | [EMERALD EYES](https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 2:36 |
+| 3 | [Brandkåren](https://open.spotify.com/track/5NTzLQGKimkWaVb9LHjug9) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [Brandkåren](https://open.spotify.com/album/2LLj1tfJHmGzpTz1iclNDY) | 3:01 |
+| 4 | [Runaway](https://open.spotify.com/track/4y6horhRPIuaSVKjPDLBDr) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Runaway](https://open.spotify.com/album/5aVZikPfeJpoBXKPEZAbSt) | 2:33 |
+| 5 | [Regndroppar på din kind](https://open.spotify.com/track/5z86mBfuzz0jT2V85OJhMh) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Regndroppar på din kind](https://open.spotify.com/album/5VCnpTVF1pP8nNBScWHnCJ) | 2:58 |
+| 6 | [Orden](https://open.spotify.com/track/2aC9qznWCc6EzDkJ07Oo8T) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Orden](https://open.spotify.com/album/3pjoRoo1MYYzk49wfCxwDZ) | 3:20 |
 | 7 | [serena joy](https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [serena joy](https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza) | 3:05 |
 | 8 | [Tänk om](https://open.spotify.com/track/1HUiVQFHxfb3ZYoFletQV0) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Tänk om](https://open.spotify.com/album/7sg1PdX4NcgI8AFMWfR3db) | 2:50 |
 | 9 | [Lucky \- Spotify Singles](https://open.spotify.com/track/3mlGZG9LEBTBlTaR9EVS99) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Lucky \(Spotify Singles\)](https://open.spotify.com/album/2Tiw85yTcOBR9adhfxf3GN) | 2:53 |
-| 10 | [HEAVEN](https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Fallen Angel](https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx) | 3:06 |
-| 11 | [Summer You Were Mine](https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 3:07 |
+| 10 | [Summer You Were Mine](https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 3:07 |
+| 11 | [HEAVEN](https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Fallen Angel](https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx) | 3:06 |
 | 12 | [Har du också känt den](https://open.spotify.com/track/2EOs4OdGE2bfr3PalXWh3m) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Har du också känt den](https://open.spotify.com/album/7756xsFANOT1qnKlLIYojt) | 3:25 |
 | 13 | [Constant Companion](https://open.spotify.com/track/0ggQNb6DOsWhG89CWkjYHd) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hazel Eyes](https://open.spotify.com/album/2XTj67uPs9qtSwn9vl33rh) | 4:51 |
 | 14 | [Caught In The Game](https://open.spotify.com/track/4xxtXZApjmHVToJxWQOiFn) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Caught In The Game](https://open.spotify.com/album/0PKXxCOES1d6yg1cESDKGk) | 2:36 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 110 | [IS IT LOVE](https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT LOVE](https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH) | 3:07 |
 | 111 | [En gammal vän](https://open.spotify.com/track/5kYgXxyo4fVI6EqkBgKSGE) | [Kid](https://open.spotify.com/artist/2dvySwyn4aQRc0zb9ZHGe8) | [En gammal vän](https://open.spotify.com/album/17LDkKiXOp18KdtAAsmy2C) | 3:28 |
 
-Snapshot ID: `AAAAALrMPjIBmfY152dnHRpgxbfhKp7K`
+Snapshot ID: `AAAAAEHCapMkE5yftDKWYw76DnnwAtGU`

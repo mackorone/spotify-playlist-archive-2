@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Whisnu Santika, Judika
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,511 likes - 97 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,507 likes - 97 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 96 | [Delulu](https://open.spotify.com/track/2A3BQ7uPihrYaxqNhmT7c1) | [Eka Gustiwana](https://open.spotify.com/artist/0VDaMGtUchXP8EtF1iUVIi), [Jessy Alexa](https://open.spotify.com/artist/6JpwRqEtkOKFKBPT9viK1s) | [Delulu](https://open.spotify.com/album/69URZ7IkBVs5T27hY1j490) | 2:42 |
 | 97 | [Pura\-Pura Hidup Lagi](https://open.spotify.com/track/0ZMycZdRRy0k621iSxOJgC) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Pura\-Pura Hidup Lagi](https://open.spotify.com/album/215cM6ZcDght6io5oZflQZ) | 3:20 |
 
-Snapshot ID: `AAAAAC1RB4ZA1cIMOF4/nJwgkGHkJAeg`
+Snapshot ID: `AAAAAJ8jaQa9+prgy3vGiLbrh6/t6nju`

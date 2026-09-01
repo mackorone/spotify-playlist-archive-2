@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, LOVE.",
-  "num_followers": 210072,
+  "num_followers": 210082,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGbCS3/J8CQXSnNCcZlEjmM/UuTt",
+  "snapshot_id": "AAAAABSspUA2Z7TtgHn2xht8z/jCSiHC",
   "tracks": [
     {
       "added_at": "2026-07-29 15:15:10",
@@ -367,6 +367,26 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/37C8CqGiLPZ1gBD7tZjyQU"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        },
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/1BBmpZequI1IykpN0KddLe"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "LEFT HAND",
         "url": "https://open.spotify.com/album/69hDMlOq1ihXMKWKx3nnwL"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 217634,
       "name": "LEFT HAND (feat. Terrian)",
       "url": "https://open.spotify.com/track/34GgEj9AUd92vmbwoVVhA5"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "Vulnerable",
-        "url": "https://open.spotify.com/album/37C8CqGiLPZ1gBD7tZjyQU"
-      },
-      "artists": [
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        },
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Vulnerable",
-      "url": "https://open.spotify.com/track/1BBmpZequI1IykpN0KddLe"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "DANCING ON YOUR OWN (Wedding Version)",
-        "url": "https://open.spotify.com/album/0Sv23kJGu82cC5OQDRma5H"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 217714,
-      "name": "DANCING ON YOUR OWN - Wedding Version",
-      "url": "https://open.spotify.com/track/4lb898KFop384osdzIbgTX"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "What Are We Waiting For? +",
         "url": "https://open.spotify.com/album/3uHzOYpGyy06LsIfBi4r9e"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 175266,
       "name": "First Love",
       "url": "https://open.spotify.com/track/06AAsD9gLcedyXipo6IROq"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "DANCING ON YOUR OWN (Wedding Version)",
+        "url": "https://open.spotify.com/album/0Sv23kJGu82cC5OQDRma5H"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 217714,
+      "name": "DANCING ON YOUR OWN - Wedding Version",
+      "url": "https://open.spotify.com/track/4lb898KFop384osdzIbgTX"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "evergreen love",
-        "url": "https://open.spotify.com/album/5qSRcveKFl9iwgxMAYoVKS"
-      },
-      "artists": [
-        {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 177804,
-      "name": "evergreen love",
-      "url": "https://open.spotify.com/track/5uHmaCMrEFNSgUbV4sPJS8"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Slow Renaissance",
         "url": "https://open.spotify.com/album/2z2kb5sdhNp9lBnnzGxhi1"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 243146,
       "name": "Love In the Time of Madness",
       "url": "https://open.spotify.com/track/1lOn7QVLKuNtPQOOjq9Qo6"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "evergreen love",
+        "url": "https://open.spotify.com/album/5qSRcveKFl9iwgxMAYoVKS"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 177804,
+      "name": "evergreen love",
+      "url": "https://open.spotify.com/track/5uHmaCMrEFNSgUbV4sPJS8"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Somewhere In Her Dreams",
-        "url": "https://open.spotify.com/album/32B2j9yBBPTYZbPTsvdZ3G"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        }
-      ],
-      "duration_ms": 256012,
-      "name": "Somewhere In Her Dreams",
-      "url": "https://open.spotify.com/track/31UptnBzWkmr0NGpMzKwdv"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "NATIVE TONGUE",
         "url": "https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 125598,
       "name": "YOU'RE THE ONE I WANT",
       "url": "https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Somewhere In Her Dreams",
+        "url": "https://open.spotify.com/album/32B2j9yBBPTYZbPTsvdZ3G"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 256012,
+      "name": "Somewhere In Her Dreams",
+      "url": "https://open.spotify.com/track/31UptnBzWkmr0NGpMzKwdv"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "You Are My Love",
         "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 203120,
       "name": "You Are My Love",
       "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1083,54 +1083,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "DANCE (WITH YOUR SOUL)",
-        "url": "https://open.spotify.com/album/6VtVntYFN7Nj6OBUvCgltN"
-      },
-      "artists": [
-        {
-          "name": "Ryce",
-          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
-        }
-      ],
-      "duration_ms": 161469,
-      "name": "DANCE (WITH YOUR SOUL)",
-      "url": "https://open.spotify.com/track/1yqRwfP7sfUiDNDNIhbvHV"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "Dear Future Husband",
-        "url": "https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 268179,
-      "name": "Dear Future Husband",
-      "url": "https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/6qVOZPXvCgvhFKasGiDTAO"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 246093,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/0rzJtYsSkHiYWWn5QUjVL3"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Kingdom Business: Season 1",
         "url": "https://open.spotify.com/album/3BHQ2gvtr6npNexUhaGKJ1"
       },
@@ -1155,18 +1107,50 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/31y1WByVoNzysuTrvWa6no"
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/6qVOZPXvCgvhFKasGiDTAO"
       },
       "artists": [
         {
-          "name": "Sam Wilson",
-          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
         }
       ],
-      "duration_ms": 134124,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/0AfetTZfkKWszkFnQEkyEr"
+      "duration_ms": 246093,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/0rzJtYsSkHiYWWn5QUjVL3"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Dear Future Husband",
+        "url": "https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 268179,
+      "name": "Dear Future Husband",
+      "url": "https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "DANCE (WITH YOUR SOUL)",
+        "url": "https://open.spotify.com/album/6VtVntYFN7Nj6OBUvCgltN"
+      },
+      "artists": [
+        {
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+        }
+      ],
+      "duration_ms": 161469,
+      "name": "DANCE (WITH YOUR SOUL)",
+      "url": "https://open.spotify.com/track/1yqRwfP7sfUiDNDNIhbvHV"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1183,6 +1167,22 @@
       "duration_ms": 216285,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/2AD7KwyYNkymVEHubojdMc"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/31y1WByVoNzysuTrvWa6no"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+        }
+      ],
+      "duration_ms": 134124,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/0AfetTZfkKWszkFnQEkyEr"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "Forever With You (Freestyle Session)",
+        "url": "https://open.spotify.com/album/6d3pB44ez3TsJ7ZShjP72R"
+      },
+      "artists": [
+        {
+          "name": "ZOE Music",
+          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
+        }
+      ],
+      "duration_ms": 123386,
+      "name": "Forever With You (Freestyle Session)",
+      "url": "https://open.spotify.com/track/434WFp5IK0hnp2df22hdOv"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "Tuff Luv",
         "url": "https://open.spotify.com/album/0i9HHpmLBm71LfpRwMZinO"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 161020,
       "name": "Tuff Luv",
       "url": "https://open.spotify.com/track/09Bmeuu53RarYzRPEHQWlR"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "Forever With You (Freestyle Session)",
-        "url": "https://open.spotify.com/album/6d3pB44ez3TsJ7ZShjP72R"
-      },
-      "artists": [
-        {
-          "name": "ZOE Music",
-          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
-        }
-      ],
-      "duration_ms": 123386,
-      "name": "Forever With You (Freestyle Session)",
-      "url": "https://open.spotify.com/track/434WFp5IK0hnp2df22hdOv"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Junto a Ti",
-        "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Junto a Ti",
-      "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Here for You",
         "url": "https://open.spotify.com/album/460gb1Qn7I9OwESRjiXrHl"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 152600,
       "name": "Here for You",
       "url": "https://open.spotify.com/track/04D4ANfSUYYOZQqYjwt2ae"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Junto a Ti",
+        "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Junto a Ti",
+      "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Forever the Love of My Life",
-        "url": "https://open.spotify.com/album/4CcwJrmuGoIuKvsBt6HRIq"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 171315,
-      "name": "Forever the Love of My Life",
-      "url": "https://open.spotify.com/track/2p6K4Am9Izdgv2t73Kasog"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "PASSIONATE",
         "url": "https://open.spotify.com/album/2clEdPUvgRj9Gqy043PLAj"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Get Away",
-        "url": "https://open.spotify.com/album/3h9W3LMVoUT12x08x1lnNk"
+        "name": "Forever the Love of My Life",
+        "url": "https://open.spotify.com/album/4CcwJrmuGoIuKvsBt6HRIq"
       },
       "artists": [
         {
-          "name": "KMO Shamaal",
-          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/48P3GSwuXU4oMjXq2kYC8W"
+      "duration_ms": 171315,
+      "name": "Forever the Love of My Life",
+      "url": "https://open.spotify.com/track/2p6K4Am9Izdgv2t73Kasog"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "fall (when we fell in love)",
-        "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
+        "name": "Get Away",
+        "url": "https://open.spotify.com/album/3h9W3LMVoUT12x08x1lnNk"
       },
       "artists": [
         {
-          "name": "Xander Sallows",
-          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
+          "name": "KMO Shamaal",
+          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
         }
       ],
-      "duration_ms": 157990,
-      "name": "fall (when we fell in love)",
-      "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
+      "duration_ms": 137142,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/48P3GSwuXU4oMjXq2kYC8W"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1491,6 +1475,22 @@
       "duration_ms": 298092,
       "name": "Capuchino de Amor",
       "url": "https://open.spotify.com/track/728IJV3v0u5NK7t9buT7wh"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "fall (when we fell in love)",
+        "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
+      },
+      "artists": [
+        {
+          "name": "Xander Sallows",
+          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
+        }
+      ],
+      "duration_ms": 157990,
+      "name": "fall (when we fell in love)",
+      "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Holding On To You",
-        "url": "https://open.spotify.com/album/687m8cBc9UYAT9iH6Jv6Xw"
-      },
-      "artists": [
-        {
-          "name": "Dan Stirling",
-          "url": "https://open.spotify.com/artist/3OPPmZllbexjdjxy5WqXCp"
-        },
-        {
-          "name": "D\u00e2mares Gomes",
-          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
-        }
-      ],
-      "duration_ms": 222868,
-      "name": "Holding On to You - Single Version",
-      "url": "https://open.spotify.com/track/25wGFtILSRZ5SktMdrnd9g"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Without The Risk",
         "url": "https://open.spotify.com/album/1AGraDGjg0M10B8HVJqAtS"
       },
@@ -1635,6 +1615,42 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "Holding On To You",
+        "url": "https://open.spotify.com/album/687m8cBc9UYAT9iH6Jv6Xw"
+      },
+      "artists": [
+        {
+          "name": "Dan Stirling",
+          "url": "https://open.spotify.com/artist/3OPPmZllbexjdjxy5WqXCp"
+        },
+        {
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+        }
+      ],
+      "duration_ms": 222868,
+      "name": "Holding On to You - Single Version",
+      "url": "https://open.spotify.com/track/25wGFtILSRZ5SktMdrnd9g"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "I do",
+        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
+      },
+      "artists": [
+        {
+          "name": "Caitie Beasley",
+          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "I do",
+      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "Breathe Life",
         "url": "https://open.spotify.com/album/5zy0vbCV0XwCKHUizHAesy"
       },
@@ -1659,18 +1675,18 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "I do",
-        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
+        "name": "Giving In",
+        "url": "https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm"
       },
       "artists": [
         {
-          "name": "Caitie Beasley",
-          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
         }
       ],
-      "duration_ms": 190000,
-      "name": "I do",
-      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
+      "duration_ms": 207620,
+      "name": "Giving In",
+      "url": "https://open.spotify.com/track/5U3UVEFEdunLJFpbTliCGj"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1691,22 +1707,6 @@
       "duration_ms": 192000,
       "name": "Loving Me Like Jesus",
       "url": "https://open.spotify.com/track/6qJKkWCwkIqu9qAyTIjp99"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "Giving In",
-        "url": "https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 207620,
-      "name": "Giving In",
-      "url": "https://open.spotify.com/track/5U3UVEFEdunLJFpbTliCGj"
     },
     {
       "added_at": "2026-07-29 15:15:10",

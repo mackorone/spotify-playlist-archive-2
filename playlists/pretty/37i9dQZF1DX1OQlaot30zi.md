@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Shiva, Dipinto, Khodi, SKT e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,064 likes - 99 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,081 likes - 99 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 98 | [VALENTINA NAPPI \(feat\. Naver, Basti\)](https://open.spotify.com/track/0sHk9tq3YyHKWP89IlPwEQ) | [Spender](https://open.spotify.com/artist/1F5Nly0FV6dIoFNWPYTHMb), [Naver](https://open.spotify.com/artist/5uAeyLL0e4StdJe6JvhLep), [Basti](https://open.spotify.com/artist/6UvUvAAN80uvFs2T4th3rM) | [IO NON SONO SPENDER](https://open.spotify.com/album/33rYT0Uxu1e1ZFfKiegFM0) | 3:28 |
 | 99 | [KILO](https://open.spotify.com/track/4lpvM7xAdn9FndyhdbMzfC) | [twentyone21](https://open.spotify.com/artist/4p631lz9dfbF3JbUDCkIyK) | [KILO](https://open.spotify.com/album/3kBv841fvjeleGj1UFnQji) | 1:49 |
 
-Snapshot ID: `AAAAAO3T3iavjcivr4ew/cSnCGNm+Dw2`
+Snapshot ID: `AAAAALp8Ax8D8vsHTyEP/M8GMwHFnKDn`

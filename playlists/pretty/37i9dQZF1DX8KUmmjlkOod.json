@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI7rEWAN4ZnTfA/s/76pjE1sdR5Z",
+  "snapshot_id": "AAAAANwoMwMY9M5N9zvedn1/QuhJWYzc",
   "tracks": [
     {
       "added_at": "2024-06-12 23:23:10",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Colecci\u00f3n Suprema",
-        "url": "https://open.spotify.com/album/7mhDLAiRNZmqaP52huKp3t"
-      },
-      "artists": [
-        {
-          "name": "La Mosca",
-          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
-        }
-      ],
-      "duration_ms": 194960,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/2KeidigK5po1qoREBuX35Z"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "Acariciando Lo Aspero",
         "url": "https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Big Yuyo",
-        "url": "https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi"
+        "name": "Colecci\u00f3n Suprema",
+        "url": "https://open.spotify.com/album/7mhDLAiRNZmqaP52huKp3t"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+          "name": "La Mosca",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
         }
       ],
-      "duration_ms": 210960,
-      "name": "Me Late",
-      "url": "https://open.spotify.com/track/3CizlnqcWoZp9Sthem7jPM"
+      "duration_ms": 194960,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/2KeidigK5po1qoREBuX35Z"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -823,6 +807,22 @@
       "duration_ms": 182440,
       "name": "La Yapa",
       "url": "https://open.spotify.com/track/6S7YzdhqrDEbZNGvvJQOqJ"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "Big Yuyo",
+        "url": "https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 210960,
+      "name": "Me Late",
+      "url": "https://open.spotify.com/track/3CizlnqcWoZp9Sthem7jPM"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Devorador De Corazones",
-        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
-      },
-      "artists": [
-        {
-          "name": "La Portuaria",
-          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
-        }
-      ],
-      "duration_ms": 248706,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "Gol De Mujer",
         "url": "https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS"
       },
@@ -879,18 +863,18 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Leche",
-        "url": "https://open.spotify.com/album/0gf7X9QITtZlFBN8noE1DU"
+        "name": "Devorador De Corazones",
+        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
       },
       "artists": [
         {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+          "name": "La Portuaria",
+          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
         }
       ],
-      "duration_ms": 295813,
-      "name": "Jennifer Del Estero",
-      "url": "https://open.spotify.com/track/3aJBJ4DAfTknfkzbd0G9Um"
+      "duration_ms": 248706,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -911,18 +895,18 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "\u00c1ngeles Ca\u00eddos",
-        "url": "https://open.spotify.com/album/6rRl0e1hPYxM1c2ssIAbs0"
+        "name": "Leche",
+        "url": "https://open.spotify.com/album/0gf7X9QITtZlFBN8noE1DU"
       },
       "artists": [
         {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
         }
       ],
-      "duration_ms": 174800,
-      "name": "Porque Te Vas...",
-      "url": "https://open.spotify.com/track/2y7QsNl3ZEm4DI6ACFxRMV"
+      "duration_ms": 295813,
+      "name": "Jennifer Del Estero",
+      "url": "https://open.spotify.com/track/3aJBJ4DAfTknfkzbd0G9Um"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -943,6 +927,22 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
+        "name": "\u00c1ngeles Ca\u00eddos",
+        "url": "https://open.spotify.com/album/6rRl0e1hPYxM1c2ssIAbs0"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "Porque Te Vas...",
+      "url": "https://open.spotify.com/track/2y7QsNl3ZEm4DI6ACFxRMV"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
         "name": "A 15 Cm De La Realidad",
         "url": "https://open.spotify.com/album/08Y1kgfEcH11p3hJopWslX"
       },
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "La Era De La Boludez",
-        "url": "https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 398800,
-      "name": "El Arriero",
-      "url": "https://open.spotify.com/track/0iFZlkyFokkZq569S7NADx"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "La Hija de la L\u00e1grima",
         "url": "https://open.spotify.com/album/1ayedQfx32UihcgGBsb8oA"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 186466,
       "name": "Chipi-Chipi",
       "url": "https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "La Era De La Boludez",
+        "url": "https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 398800,
+      "name": "El Arriero",
+      "url": "https://open.spotify.com/track/0iFZlkyFokkZq569S7NADx"
     },
     {
       "added_at": "2024-06-12 23:23:10",

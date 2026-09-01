@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Skyla Tylaa & Chloe
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,573 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,647 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 | 79 | [Big Girls](https://open.spotify.com/track/6DyGTYJUQXoXzmyj5fzm1l) | [Eno Barony](https://open.spotify.com/artist/4tfgIbOiIFCXPEK3PwdBSN), [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf) | [Big Girls](https://open.spotify.com/album/7BhBxnsZiC5Js5FAJZJF8e) | 3:02 |
 | 80 | [BE](https://open.spotify.com/track/2RMChoPeNN7CaPUD4QfsED) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [BE](https://open.spotify.com/album/6A8NgDp8BJR3tZEi268RiP) | 2:34 |
 
-Snapshot ID: `AAAAAHbmVnYO6moR4nA9PXvybYwE7uo2`
+Snapshot ID: `AAAAAN8lMPhCZEYeSxQRAD+eqnx9+8hl`

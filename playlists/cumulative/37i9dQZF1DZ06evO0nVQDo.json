@@ -232,7 +232,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-31",
+      "date_removed": null,
       "duration_ms": 80888,
       "name": "Air / Air",
       "url": "https://open.spotify.com/track/1rmAETkfG9OThL9kPKU6yU"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 160000,
       "name": "Earth / Earth",
       "url": "https://open.spotify.com/track/51JXFYjuemyyf0LOYSyJtm"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 276944,
       "name": "Fire / Air",
       "url": "https://open.spotify.com/track/3Dc4pQSPoxSFCorsvQMu4i"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 250687,
       "name": "Fire / Fire",
       "url": "https://open.spotify.com/track/2NYYHQJvWv2MvI3ygpQ96t"

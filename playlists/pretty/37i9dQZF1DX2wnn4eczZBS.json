@@ -1,12 +1,12 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Igor",
-  "num_followers": 11516,
+  "num_followers": 11514,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPoC1jADgG8yYAEhmsgIuvajSiSQ",
+  "snapshot_id": "AAAAAINENUMQsK3eOHzRwkZJrMgCaT/3",
   "tracks": [
     {
       "added_at": "2026-05-28 11:50:51",
@@ -263,18 +263,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "slecht idee (let\u2019s do it)",
-        "url": "https://open.spotify.com/album/5Yd2L868mazpTakzdThS4t"
+        "name": "Kan Je Niet Blijven?",
+        "url": "https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI"
       },
       "artists": [
         {
-          "name": "Elmer",
-          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
+          "name": "Politie Warnsveld",
+          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
         }
       ],
-      "duration_ms": 191998,
-      "name": "slecht idee (let\u2019s do it)",
-      "url": "https://open.spotify.com/track/1wn2yb8Bw8OGclpBSPFGGu"
+      "duration_ms": 215199,
+      "name": "Kan Je Niet Blijven?",
+      "url": "https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -299,18 +299,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Kan Je Niet Blijven?",
-        "url": "https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI"
+        "name": "slecht idee (let\u2019s do it)",
+        "url": "https://open.spotify.com/album/5Yd2L868mazpTakzdThS4t"
       },
       "artists": [
         {
-          "name": "Politie Warnsveld",
-          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
+          "name": "Elmer",
+          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
         }
       ],
-      "duration_ms": 215199,
-      "name": "Kan Je Niet Blijven?",
-      "url": "https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8"
+      "duration_ms": 191998,
+      "name": "slecht idee (let\u2019s do it)",
+      "url": "https://open.spotify.com/track/1wn2yb8Bw8OGclpBSPFGGu"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Niks Is zeker",
-        "url": "https://open.spotify.com/album/2mdXMY6Jgqtmf8Vlmv7gNb"
-      },
-      "artists": [
-        {
-          "name": "Willem",
-          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
-        }
-      ],
-      "duration_ms": 181539,
-      "name": "Niks is zeker",
-      "url": "https://open.spotify.com/track/6ojaqvQB3ai8gTORhpoGTQ"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Normaal Toen",
         "url": "https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 194454,
       "name": "Normaal Toen",
       "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Niks Is zeker",
+        "url": "https://open.spotify.com/album/2mdXMY6Jgqtmf8Vlmv7gNb"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        }
+      ],
+      "duration_ms": 181539,
+      "name": "Niks is zeker",
+      "url": "https://open.spotify.com/track/6ojaqvQB3ai8gTORhpoGTQ"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
+        "name": "Maskers",
+        "url": "https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO"
+      },
+      "artists": [
+        {
+          "name": "Elias Mazian",
+          "url": "https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU"
+        }
+      ],
+      "duration_ms": 201627,
+      "name": "Maskers",
+      "url": "https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
         "name": "Ook De Miezer",
         "url": "https://open.spotify.com/album/40xY7z7fbX1drEWKz5y5CQ"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 164794,
       "name": "Sneeuw In De Zomer",
       "url": "https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "Maskers",
-        "url": "https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO"
-      },
-      "artists": [
-        {
-          "name": "Elias Mazian",
-          "url": "https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU"
-        }
-      ],
-      "duration_ms": 201627,
-      "name": "Maskers",
-      "url": "https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -867,22 +867,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Marco Polo",
-        "url": "https://open.spotify.com/album/5JcrshQcKj2TcWXn0LHFB4"
+        "name": "Zachter",
+        "url": "https://open.spotify.com/album/74Ykd7VHFyzI5b3rNeautA"
       },
       "artists": [
         {
-          "name": "De Zweefclub",
-          "url": "https://open.spotify.com/artist/67bciYwiIDwTuPynYTV44x"
-        },
-        {
-          "name": "Vic Willems",
-          "url": "https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX"
+          "name": "Chibi Ichigo",
+          "url": "https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN"
         }
       ],
-      "duration_ms": 227494,
-      "name": "Marco Polo",
-      "url": "https://open.spotify.com/track/4zfP0WFEXS7HJ1rZfGRwtX"
+      "duration_ms": 198800,
+      "name": "Zachter",
+      "url": "https://open.spotify.com/track/35L5RWfwYaoE1KEP8QWzRZ"
     }
   ],
   "unique_name": "indie.nl",

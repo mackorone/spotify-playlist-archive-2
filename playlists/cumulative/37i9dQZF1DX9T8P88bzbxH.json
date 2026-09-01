@@ -17614,10 +17614,28 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 152500,
       "name": "Sad Aerobic",
       "url": "https://open.spotify.com/track/4SiWVAhDyttIqIRIeUREiL"
+    },
+    {
+      "album": {
+        "name": "SAD AEROBIC",
+        "url": "https://open.spotify.com/album/1SSUGglnMaxM3Mb6x3rlP8"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "SAD AEROBIC",
+      "url": "https://open.spotify.com/track/1fNBoi6eboos35LDL1z9XE"
     },
     {
       "album": {
@@ -18616,7 +18634,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 174489,
       "name": "SICK WITH IT - SO-SO Remix",
       "url": "https://open.spotify.com/track/38EwiJxpQaqhazYXs8dcyn"

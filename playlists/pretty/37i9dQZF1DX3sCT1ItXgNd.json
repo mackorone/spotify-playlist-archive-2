@@ -1,15 +1,35 @@
 {
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: KAROL G, Judeline y rusowsky.",
-  "num_followers": 998018,
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: rusowsky, KAROL G y Judeline.",
+  "num_followers": 997943,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIHt+1FNHyw6CPewJLGC060HCgnY",
+  "snapshot_id": "AAAAACbXEALt2leklSDQSOEbMKuwkCE0",
   "tracks": [
     {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
+      "album": {
+        "name": "Algo M\u00e1s",
+        "url": "https://open.spotify.com/album/7klB5WI25Dw2XqjHrN2JjF"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 167299,
+      "name": "Algo M\u00e1s",
+      "url": "https://open.spotify.com/track/1qgBT2VZV4i1ms23Vu9Khd"
+    },
+    {
+      "added_at": "2026-08-31 07:51:57",
       "album": {
         "name": "As\u00ed",
         "url": "https://open.spotify.com/album/7HAGBrolfsdX5RVRNl5SdQ"
@@ -33,27 +53,7 @@
       "url": "https://open.spotify.com/track/5EJiR3xJitCvsVoCf0oDKC"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
-      "album": {
-        "name": "Algo M\u00e1s",
-        "url": "https://open.spotify.com/album/7klB5WI25Dw2XqjHrN2JjF"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        },
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 167299,
-      "name": "Algo M\u00e1s",
-      "url": "https://open.spotify.com/track/1qgBT2VZV4i1ms23Vu9Khd"
-    },
-    {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
       "album": {
         "name": "pa ti toa <3",
         "url": "https://open.spotify.com/album/2QVvlMjlbV445e9a5y2obD"
@@ -73,23 +73,7 @@
       "url": "https://open.spotify.com/track/54NQtnCL950bGIHlZUMMDH"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
-      "album": {
-        "name": "Apambichao",
-        "url": "https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 161285,
-      "name": "Te hacen falta dos",
-      "url": "https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD"
-    },
-    {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
       "album": {
         "name": "NO ME ARREPIENTO DE SENTIR TANTO",
         "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
@@ -113,27 +97,7 @@
       "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
-      "album": {
-        "name": "T AMAR\u00c9",
-        "url": "https://open.spotify.com/album/4ZNK0QbFW7fzPR6Rrr44Hg"
-      },
-      "artists": [
-        {
-          "name": "Tony Grox",
-          "url": "https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD"
-        },
-        {
-          "name": "LUCYCALYS",
-          "url": "https://open.spotify.com/artist/3DRfvyZVFYa87h4DXgSVOI"
-        }
-      ],
-      "duration_ms": 157817,
-      "name": "T AMAR\u00c9",
-      "url": "https://open.spotify.com/track/0jCOIJVQTBXjdIBb4yEWx0"
-    },
-    {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
       "album": {
         "name": "La flor de la Vida",
         "url": "https://open.spotify.com/album/5fbuCzhbAVE6xLxR5xagtQ"
@@ -157,43 +121,63 @@
       "url": "https://open.spotify.com/track/4266j8xOKPHvR6WzajBl6f"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
       "album": {
-        "name": "Tengo",
-        "url": "https://open.spotify.com/album/36p7j71sxtF196iOkkAeM0"
+        "name": "WET DREAMS",
+        "url": "https://open.spotify.com/album/0LChGT5a0cKlkVJhRAE2vr"
       },
       "artists": [
         {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
-        }
-      ],
-      "duration_ms": 166231,
-      "name": "Tengo",
-      "url": "https://open.spotify.com/track/71zDsjmPR5XyMcjsl9JpWV"
-    },
-    {
-      "added_at": "2026-08-26 12:18:18",
-      "album": {
-        "name": "Dos Amantes",
-        "url": "https://open.spotify.com/album/7KHlnJ9FBIEDnHi899L3yh"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
         },
         {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 188513,
-      "name": "Dos Amantes",
-      "url": "https://open.spotify.com/track/5Nnd7tvjwHjexXjhbl0WSD"
+      "duration_ms": 190875,
+      "name": "DOLCE VITA",
+      "url": "https://open.spotify.com/track/3PDMeYtw16N5rW5aIuZXw7"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
+      "album": {
+        "name": "T AMAR\u00c9",
+        "url": "https://open.spotify.com/album/4ZNK0QbFW7fzPR6Rrr44Hg"
+      },
+      "artists": [
+        {
+          "name": "Tony Grox",
+          "url": "https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD"
+        },
+        {
+          "name": "LUCYCALYS",
+          "url": "https://open.spotify.com/artist/3DRfvyZVFYa87h4DXgSVOI"
+        }
+      ],
+      "duration_ms": 157817,
+      "name": "T AMAR\u00c9",
+      "url": "https://open.spotify.com/track/0jCOIJVQTBXjdIBb4yEWx0"
+    },
+    {
+      "added_at": "2026-08-31 07:51:57",
+      "album": {
+        "name": "Apambichao",
+        "url": "https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 161285,
+      "name": "Te hacen falta dos",
+      "url": "https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD"
+    },
+    {
+      "added_at": "2026-08-31 07:51:57",
       "album": {
         "name": "EL BACHAT\u00d3N DE LA L",
         "url": "https://open.spotify.com/album/65gUW0rI0yrnYpZUSS4Us2"
@@ -213,95 +197,23 @@
       "url": "https://open.spotify.com/track/3RHT8N9fhgqsD6KGDrquaW"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
       "album": {
-        "name": "Domingo de Playita",
-        "url": "https://open.spotify.com/album/5DasiQ2KxCVtN6m5tZnapl"
+        "name": "desde que no estas",
+        "url": "https://open.spotify.com/album/3qXiPBjdUCi9oLYQSPkZyn"
       },
       "artists": [
         {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        },
-        {
-          "name": "Funzo",
-          "url": "https://open.spotify.com/artist/4fqIWm9UJskEBvqnNHuEHo"
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Domingo de Playita",
-      "url": "https://open.spotify.com/track/5S3w8KEgXI2HaiaVKLJhBm"
+      "duration_ms": 184925,
+      "name": "desde que no estas",
+      "url": "https://open.spotify.com/track/7Kz8y4zDSqRKq5WMnxsgbJ"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
-      "album": {
-        "name": "Por un Pendejo no se llora",
-        "url": "https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 151146,
-      "name": "Por un Pendejo no se llora",
-      "url": "https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt"
-    },
-    {
-      "added_at": "2026-08-26 12:18:18",
-      "album": {
-        "name": "La mitad de la mitad",
-        "url": "https://open.spotify.com/album/2BVjbuAYyUT4EQ1OtgDJsf"
-      },
-      "artists": [
-        {
-          "name": "La La Love You",
-          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
-        }
-      ],
-      "duration_ms": 202948,
-      "name": "La mitad de la mitad",
-      "url": "https://open.spotify.com/track/7LdAPBuFJlLRB79YuMWXjX"
-    },
-    {
-      "added_at": "2026-08-26 12:18:18",
-      "album": {
-        "name": "Todo de m\u00ed",
-        "url": "https://open.spotify.com/album/00PG2RVdJrBvcJ3QfDnP4e"
-      },
-      "artists": [
-        {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
-        }
-      ],
-      "duration_ms": 169772,
-      "name": "Todo de m\u00ed",
-      "url": "https://open.spotify.com/track/6E2etgcIhRKn9tkVv6sSBT"
-    },
-    {
-      "added_at": "2026-08-26 12:18:18",
-      "album": {
-        "name": "\u00daltimo Baile",
-        "url": "https://open.spotify.com/album/6EcmyTvFKn67LbVXq24ieq"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        }
-      ],
-      "duration_ms": 167438,
-      "name": "\u00daltimo Baile",
-      "url": "https://open.spotify.com/track/0VG8Z7M6nvchuexJlS5Nih"
-    },
-    {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
       "album": {
         "name": "LA GUARACHA (Oh Oh Oh)",
         "url": "https://open.spotify.com/album/2I5gxj9pxbyE7o0TpcadAN"
@@ -321,39 +233,147 @@
       "url": "https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
       "album": {
-        "name": "Punto de Partida",
-        "url": "https://open.spotify.com/album/24wPEsqagLXPRA7wCEkyJb"
+        "name": "Tengo",
+        "url": "https://open.spotify.com/album/36p7j71sxtF196iOkkAeM0"
       },
       "artists": [
         {
-          "name": "Carla Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0UsTOnhB0GGaXJidPadL1T"
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
         }
       ],
-      "duration_ms": 165750,
-      "name": "El Merengue (Versi\u00f3n Flamenca)",
-      "url": "https://open.spotify.com/track/2MPuEHv5qDbPz086LtDj3a"
+      "duration_ms": 166231,
+      "name": "Tengo",
+      "url": "https://open.spotify.com/track/71zDsjmPR5XyMcjsl9JpWV"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
       "album": {
-        "name": "Princesa de los bares",
-        "url": "https://open.spotify.com/album/4iANkzCFSJshqxVQ3Q075x"
+        "name": "Domingo de Playita",
+        "url": "https://open.spotify.com/album/5DasiQ2KxCVtN6m5tZnapl"
       },
       "artists": [
         {
-          "name": "Noan",
-          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        },
+        {
+          "name": "Funzo",
+          "url": "https://open.spotify.com/artist/4fqIWm9UJskEBvqnNHuEHo"
         }
       ],
-      "duration_ms": 198081,
-      "name": "Princesa de los bares",
-      "url": "https://open.spotify.com/track/0MGY3lnRYIZuQvJJxeFxC4"
+      "duration_ms": 167000,
+      "name": "Domingo de Playita",
+      "url": "https://open.spotify.com/track/5S3w8KEgXI2HaiaVKLJhBm"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
+      "album": {
+        "name": "Me Despido",
+        "url": "https://open.spotify.com/album/7x47TvmcsJe4YA8uaHbDoW"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 169701,
+      "name": "Me Despido",
+      "url": "https://open.spotify.com/track/0wXfqhvBXsTy0Uj8FvJDnH"
+    },
+    {
+      "added_at": "2026-08-31 07:51:57",
+      "album": {
+        "name": "Dos Amantes",
+        "url": "https://open.spotify.com/album/7KHlnJ9FBIEDnHi899L3yh"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        }
+      ],
+      "duration_ms": 188513,
+      "name": "Dos Amantes",
+      "url": "https://open.spotify.com/track/5Nnd7tvjwHjexXjhbl0WSD"
+    },
+    {
+      "added_at": "2026-08-31 07:51:57",
+      "album": {
+        "name": "Todo de m\u00ed",
+        "url": "https://open.spotify.com/album/00PG2RVdJrBvcJ3QfDnP4e"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "duration_ms": 169772,
+      "name": "Todo de m\u00ed",
+      "url": "https://open.spotify.com/track/6E2etgcIhRKn9tkVv6sSBT"
+    },
+    {
+      "added_at": "2026-08-31 07:51:57",
+      "album": {
+        "name": "Por un Pendejo no se llora",
+        "url": "https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 151146,
+      "name": "Por un Pendejo no se llora",
+      "url": "https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt"
+    },
+    {
+      "added_at": "2026-08-31 07:51:57",
+      "album": {
+        "name": "Ecos de ti",
+        "url": "https://open.spotify.com/album/1IhdlMI5dlFEElhAXd4oQT"
+      },
+      "artists": [
+        {
+          "name": "Juancho Marqu\u00e9s",
+          "url": "https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g"
+        }
+      ],
+      "duration_ms": 141028,
+      "name": "Ecos de ti",
+      "url": "https://open.spotify.com/track/0ns3p06uk2bcO60yI9fSMh"
+    },
+    {
+      "added_at": "2026-08-31 07:51:57",
+      "album": {
+        "name": "\u00daltimo Baile",
+        "url": "https://open.spotify.com/album/6EcmyTvFKn67LbVXq24ieq"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "duration_ms": 167438,
+      "name": "\u00daltimo Baile",
+      "url": "https://open.spotify.com/track/0VG8Z7M6nvchuexJlS5Nih"
+    },
+    {
+      "added_at": "2026-08-31 07:51:57",
       "album": {
         "name": "QUE HACES",
         "url": "https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ"
@@ -373,27 +393,55 @@
       "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
       "album": {
-        "name": "Si Juegas Conmigo (ASA25)",
-        "url": "https://open.spotify.com/album/1fBQ8cyJ9rAETL5lXem3JX"
+        "name": "La mitad de la mitad",
+        "url": "https://open.spotify.com/album/2BVjbuAYyUT4EQ1OtgDJsf"
       },
       "artists": [
         {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        },
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+          "name": "La La Love You",
+          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Si Juegas Conmigo (ASA25)",
-      "url": "https://open.spotify.com/track/0DnvacS8XlxKg08ujiNOn2"
+      "duration_ms": 202948,
+      "name": "La mitad de la mitad",
+      "url": "https://open.spotify.com/track/7LdAPBuFJlLRB79YuMWXjX"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
+      "album": {
+        "name": "Princesa de los bares",
+        "url": "https://open.spotify.com/album/4iANkzCFSJshqxVQ3Q075x"
+      },
+      "artists": [
+        {
+          "name": "Noan",
+          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
+        }
+      ],
+      "duration_ms": 198081,
+      "name": "Princesa de los bares",
+      "url": "https://open.spotify.com/track/0MGY3lnRYIZuQvJJxeFxC4"
+    },
+    {
+      "added_at": "2026-08-31 07:51:57",
+      "album": {
+        "name": "Punto de Partida",
+        "url": "https://open.spotify.com/album/24wPEsqagLXPRA7wCEkyJb"
+      },
+      "artists": [
+        {
+          "name": "Carla Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0UsTOnhB0GGaXJidPadL1T"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "El Merengue (Versi\u00f3n Flamenca)",
+      "url": "https://open.spotify.com/track/2MPuEHv5qDbPz086LtDj3a"
+    },
+    {
+      "added_at": "2026-08-31 07:51:57",
       "album": {
         "name": "Apambichao",
         "url": "https://open.spotify.com/album/48mh6SriOYbsgsJ5KgdV4B"
@@ -413,7 +461,7 @@
       "url": "https://open.spotify.com/track/2bGtRhJdSGIjxrBtewOJqV"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
       "album": {
         "name": "Culpa del DJ",
         "url": "https://open.spotify.com/album/0Y6ClleAwGn3ye7FOmT6eF"
@@ -429,63 +477,47 @@
       "url": "https://open.spotify.com/track/3GU0y3THGKlB52gvo2yLGj"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
       "album": {
-        "name": "Tonto por ti",
-        "url": "https://open.spotify.com/album/6r8RAZGoPEQb9KtjHUzy4H"
+        "name": "7 RASPAO",
+        "url": "https://open.spotify.com/album/3a7JKtTPYi1dWqFm33Z8vV"
       },
       "artists": [
         {
-          "name": "Leire Martinez",
-          "url": "https://open.spotify.com/artist/0B0esAjCSSwycZDx1bhpmD"
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
         },
         {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
         }
       ],
-      "duration_ms": 160457,
-      "name": "Tonto por ti",
-      "url": "https://open.spotify.com/track/1t1bKKW0yj0k4McaXhuEMs"
+      "duration_ms": 133565,
+      "name": "7 RASPAO",
+      "url": "https://open.spotify.com/track/0HotYACZDDOJmfc6t1OURQ"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
       "album": {
-        "name": "La Semana",
-        "url": "https://open.spotify.com/album/2vdBYs1jB7bAUC495Q1ZdO"
+        "name": "CAMBIAR\u00c9",
+        "url": "https://open.spotify.com/album/6ZXLMVFtEzgYNQlbUMlzAU"
       },
       "artists": [
         {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
         },
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 210000,
-      "name": "La Semana",
-      "url": "https://open.spotify.com/track/4NMoJRudco3Fc2EO5DCtGe"
+      "duration_ms": 181237,
+      "name": "CAMBIAR\u00c9",
+      "url": "https://open.spotify.com/track/0DHkA97Q6SWz7uanmsCy8u"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
-      "album": {
-        "name": "Sigueme Besando Asi",
-        "url": "https://open.spotify.com/album/5MPSuZogYylwnlEZLNN12f"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "Sigueme Besando Asi",
-      "url": "https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB"
-    },
-    {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
       "album": {
         "name": "La Morocha",
         "url": "https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61"
@@ -505,7 +537,63 @@
       "url": "https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
+      "album": {
+        "name": "Tonto por ti",
+        "url": "https://open.spotify.com/album/6r8RAZGoPEQb9KtjHUzy4H"
+      },
+      "artists": [
+        {
+          "name": "Leire Martinez",
+          "url": "https://open.spotify.com/artist/0B0esAjCSSwycZDx1bhpmD"
+        },
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 160457,
+      "name": "Tonto por ti",
+      "url": "https://open.spotify.com/track/1t1bKKW0yj0k4McaXhuEMs"
+    },
+    {
+      "added_at": "2026-08-31 07:51:57",
+      "album": {
+        "name": "Sigueme Besando Asi",
+        "url": "https://open.spotify.com/album/5MPSuZogYylwnlEZLNN12f"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "Sigueme Besando Asi",
+      "url": "https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB"
+    },
+    {
+      "added_at": "2026-08-31 07:51:57",
+      "album": {
+        "name": "Si Juegas Conmigo (ASA25)",
+        "url": "https://open.spotify.com/album/1fBQ8cyJ9rAETL5lXem3JX"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Si Juegas Conmigo (ASA25)",
+      "url": "https://open.spotify.com/track/0DnvacS8XlxKg08ujiNOn2"
+    },
+    {
+      "added_at": "2026-08-31 07:51:57",
       "album": {
         "name": "CANCI\u00d3N PARA REGRESAR",
         "url": "https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7"
@@ -533,7 +621,63 @@
       "url": "https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
+      "album": {
+        "name": "\u00bfY ahora qu\u00e9 +?",
+        "url": "https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Las guapas",
+      "url": "https://open.spotify.com/track/2USuWC60sd6pQtTjH7lv4Z"
+    },
+    {
+      "added_at": "2026-08-31 07:51:57",
+      "album": {
+        "name": "La Semana",
+        "url": "https://open.spotify.com/album/2vdBYs1jB7bAUC495Q1ZdO"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "La Semana",
+      "url": "https://open.spotify.com/track/4NMoJRudco3Fc2EO5DCtGe"
+    },
+    {
+      "added_at": "2026-08-31 07:51:57",
+      "album": {
+        "name": "NO LE DIGO QUE NO",
+        "url": "https://open.spotify.com/album/0olpYQpV0MSYXhvFj2DDLn"
+      },
+      "artists": [
+        {
+          "name": "Los Buyer",
+          "url": "https://open.spotify.com/artist/3xl8Gk7AszFwtV0BMW0Q0J"
+        },
+        {
+          "name": "Pikeras",
+          "url": "https://open.spotify.com/artist/3Rk6ZWHH97W7zdoehmzt5G"
+        }
+      ],
+      "duration_ms": 145428,
+      "name": "NO LE DIGO QUE NO",
+      "url": "https://open.spotify.com/track/5NOVfpl0Xm8D6vIl0sKJeL"
+    },
+    {
+      "added_at": "2026-08-31 07:51:57",
       "album": {
         "name": "Ayer La Vi (BPA26)",
         "url": "https://open.spotify.com/album/7zasVgESdwTXibF73T9QE6"
@@ -553,43 +697,55 @@
       "url": "https://open.spotify.com/track/50SSJV9VPpvO7bZwK5ZjRa"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
       "album": {
-        "name": "CAMBIAR\u00c9",
-        "url": "https://open.spotify.com/album/6ZXLMVFtEzgYNQlbUMlzAU"
+        "name": "NEXO 01. Me acuerdo de ti",
+        "url": "https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd"
       },
       "artists": [
         {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
         }
       ],
-      "duration_ms": 181237,
-      "name": "CAMBIAR\u00c9",
-      "url": "https://open.spotify.com/track/0DHkA97Q6SWz7uanmsCy8u"
+      "duration_ms": 195279,
+      "name": "NEXO 01. Me acuerdo de ti",
+      "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
       "album": {
-        "name": "ENAMORARSE PARA QUE",
-        "url": "https://open.spotify.com/album/32Prq4dvBeioGhPUARQieZ"
+        "name": "Algo de m\u00ed",
+        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
       },
       "artists": [
         {
-          "name": "VIUS",
-          "url": "https://open.spotify.com/artist/29UQ00CArXvEpg0GjKyOPE"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 184239,
-      "name": "ENAMORARSE PARA QUE",
-      "url": "https://open.spotify.com/track/0spCHuxIvFFVQTr2aZnTwk"
+      "duration_ms": 181914,
+      "name": "Algo de m\u00ed",
+      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
+      "album": {
+        "name": "llego tarde",
+        "url": "https://open.spotify.com/album/6xUBmNwvhBduRhRi3vL28B"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 183209,
+      "name": "llego tarde",
+      "url": "https://open.spotify.com/track/09t6r5XchW9rcmAXtmEtRI"
+    },
+    {
+      "added_at": "2026-08-31 07:51:57",
       "album": {
         "name": "Lo Que Pas\u00f3, Pas\u00f3 (feat. Marta Santos)",
         "url": "https://open.spotify.com/album/0Z2joo0ZTmHXIAeqE2X6BW"
@@ -609,75 +765,23 @@
       "url": "https://open.spotify.com/track/5uJYKNFVkPEjWi8sXuBoUq"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
       "album": {
-        "name": "\u00bfY ahora qu\u00e9 +?",
-        "url": "https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb"
+        "name": "ENAMORARSE PARA QUE",
+        "url": "https://open.spotify.com/album/32Prq4dvBeioGhPUARQieZ"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "VIUS",
+          "url": "https://open.spotify.com/artist/29UQ00CArXvEpg0GjKyOPE"
         }
       ],
-      "duration_ms": 210200,
-      "name": "Las guapas",
-      "url": "https://open.spotify.com/track/2USuWC60sd6pQtTjH7lv4Z"
+      "duration_ms": 184239,
+      "name": "ENAMORARSE PARA QUE",
+      "url": "https://open.spotify.com/track/0spCHuxIvFFVQTr2aZnTwk"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
-      "album": {
-        "name": "NEXO 01. Me acuerdo de ti",
-        "url": "https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 195279,
-      "name": "NEXO 01. Me acuerdo de ti",
-      "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
-    },
-    {
-      "added_at": "2026-08-26 12:18:18",
-      "album": {
-        "name": "7 RASPAO",
-        "url": "https://open.spotify.com/album/3a7JKtTPYi1dWqFm33Z8vV"
-      },
-      "artists": [
-        {
-          "name": "c\u00e9ro",
-          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
-        },
-        {
-          "name": "D3llano",
-          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
-        }
-      ],
-      "duration_ms": 133565,
-      "name": "7 RASPAO",
-      "url": "https://open.spotify.com/track/0HotYACZDDOJmfc6t1OURQ"
-    },
-    {
-      "added_at": "2026-08-26 12:18:18",
-      "album": {
-        "name": "Algo de m\u00ed",
-        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 181914,
-      "name": "Algo de m\u00ed",
-      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
-    },
-    {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
       "album": {
         "name": "Ven y b\u00e1ilame",
         "url": "https://open.spotify.com/album/5SXnKh3hpOiZ1cP9WPwYvZ"
@@ -693,7 +797,23 @@
       "url": "https://open.spotify.com/track/21bkNxJgn6792MAcKBojzk"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
+      "album": {
+        "name": "dime d\u00f3nde est\u00e1s",
+        "url": "https://open.spotify.com/album/0HPvuNs43YdUV7W4qNWavp"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 163895,
+      "name": "dime d\u00f3nde est\u00e1s",
+      "url": "https://open.spotify.com/track/1gt0s3zSKAo6Te66RMPdBh"
+    },
+    {
+      "added_at": "2026-08-31 07:51:57",
       "album": {
         "name": "Better Late Than Never",
         "url": "https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t"
@@ -713,7 +833,27 @@
       "url": "https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
+      "album": {
+        "name": "\u00bfD\u00f3nde Es El After?",
+        "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "Ingl\u00e9s En Miami",
+      "url": "https://open.spotify.com/track/3Y1xjjepdqMP141ipYCAqA"
+    },
+    {
+      "added_at": "2026-08-31 07:51:57",
       "album": {
         "name": "TUS INICIALES",
         "url": "https://open.spotify.com/album/0bnB7XCWU0D75dQOHDKYZN"
@@ -741,115 +881,7 @@
       "url": "https://open.spotify.com/track/3odYzp9kA4Iai3eEuLi0v3"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
-      "album": {
-        "name": "\u00bfD\u00f3nde Es El After?",
-        "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 202386,
-      "name": "Ingl\u00e9s En Miami",
-      "url": "https://open.spotify.com/track/3Y1xjjepdqMP141ipYCAqA"
-    },
-    {
-      "added_at": "2026-08-26 12:18:18",
-      "album": {
-        "name": "dime d\u00f3nde est\u00e1s",
-        "url": "https://open.spotify.com/album/0HPvuNs43YdUV7W4qNWavp"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 163895,
-      "name": "dime d\u00f3nde est\u00e1s",
-      "url": "https://open.spotify.com/track/1gt0s3zSKAo6Te66RMPdBh"
-    },
-    {
-      "added_at": "2026-08-26 12:18:18",
-      "album": {
-        "name": "NO LE DIGO QUE NO",
-        "url": "https://open.spotify.com/album/0olpYQpV0MSYXhvFj2DDLn"
-      },
-      "artists": [
-        {
-          "name": "Los Buyer",
-          "url": "https://open.spotify.com/artist/3xl8Gk7AszFwtV0BMW0Q0J"
-        },
-        {
-          "name": "Pikeras",
-          "url": "https://open.spotify.com/artist/3Rk6ZWHH97W7zdoehmzt5G"
-        }
-      ],
-      "duration_ms": 145428,
-      "name": "NO LE DIGO QUE NO",
-      "url": "https://open.spotify.com/track/5NOVfpl0Xm8D6vIl0sKJeL"
-    },
-    {
-      "added_at": "2026-08-26 12:18:18",
-      "album": {
-        "name": "Kien me presta una guitarra?",
-        "url": "https://open.spotify.com/album/4q4MIPjP96zPQVk6pVDPEp"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        }
-      ],
-      "duration_ms": 122602,
-      "name": "Flechazo",
-      "url": "https://open.spotify.com/track/3Y0bm2psmsSji70OYz1EWm"
-    },
-    {
-      "added_at": "2026-08-26 12:18:18",
-      "album": {
-        "name": "llego tarde",
-        "url": "https://open.spotify.com/album/6xUBmNwvhBduRhRi3vL28B"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 183209,
-      "name": "llego tarde",
-      "url": "https://open.spotify.com/track/09t6r5XchW9rcmAXtmEtRI"
-    },
-    {
-      "added_at": "2026-08-26 12:18:18",
-      "album": {
-        "name": "Tutu Tur\u00fa (con Paula Koops)",
-        "url": "https://open.spotify.com/album/0hosGQBPOxpeyYHTtENNVd"
-      },
-      "artists": [
-        {
-          "name": "Siderland",
-          "url": "https://open.spotify.com/artist/0J4ED5b2q2T3B6OhOvNFru"
-        },
-        {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        }
-      ],
-      "duration_ms": 181996,
-      "name": "Tutu Tur\u00fa - con Paula Koops",
-      "url": "https://open.spotify.com/track/5BXxvB6TURHXVKektslnJd"
-    },
-    {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
       "album": {
         "name": "No dejar\u00e9 de abrazarte",
         "url": "https://open.spotify.com/album/3DSbalh1h4whx7z8Hrw3br"
@@ -869,7 +901,43 @@
       "url": "https://open.spotify.com/track/1oICrICUMPDOMRatYykwOf"
     },
     {
-      "added_at": "2026-08-26 12:18:18",
+      "added_at": "2026-08-31 07:51:57",
+      "album": {
+        "name": "Kien me presta una guitarra?",
+        "url": "https://open.spotify.com/album/4q4MIPjP96zPQVk6pVDPEp"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        }
+      ],
+      "duration_ms": 122602,
+      "name": "Flechazo",
+      "url": "https://open.spotify.com/track/3Y0bm2psmsSji70OYz1EWm"
+    },
+    {
+      "added_at": "2026-08-31 07:51:57",
+      "album": {
+        "name": "Tutu Tur\u00fa (con Paula Koops)",
+        "url": "https://open.spotify.com/album/0hosGQBPOxpeyYHTtENNVd"
+      },
+      "artists": [
+        {
+          "name": "Siderland",
+          "url": "https://open.spotify.com/artist/0J4ED5b2q2T3B6OhOvNFru"
+        },
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "duration_ms": 181996,
+      "name": "Tutu Tur\u00fa - con Paula Koops",
+      "url": "https://open.spotify.com/track/5BXxvB6TURHXVKektslnJd"
+    },
+    {
+      "added_at": "2026-08-31 07:51:57",
       "album": {
         "name": "Pistoletazo de salida",
         "url": "https://open.spotify.com/album/0laCOGaD7dAgqIFagBEZnQ"
@@ -883,78 +951,6 @@
       "duration_ms": 163834,
       "name": "Pistoletazo de salida",
       "url": "https://open.spotify.com/track/0VYsFvL9seNKxU4Bu8okFR"
-    },
-    {
-      "added_at": "2026-08-26 12:18:18",
-      "album": {
-        "name": "Yo Era Poes\u00eda",
-        "url": "https://open.spotify.com/album/18ssoZ7EPMn7mLqV0bW2j5"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 194923,
-      "name": "Yo Era Poes\u00eda",
-      "url": "https://open.spotify.com/track/75icZs6N7GzEAY7FNL8fZV"
-    },
-    {
-      "added_at": "2026-08-26 12:18:18",
-      "album": {
-        "name": "Mi Carpe Diem",
-        "url": "https://open.spotify.com/album/5xNpY6LGUqNbluWuLJRNSl"
-      },
-      "artists": [
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 204508,
-      "name": "Ponte a Pensar",
-      "url": "https://open.spotify.com/track/3ty3o40yxItfYoAcrT69GT"
-    },
-    {
-      "added_at": "2026-08-26 12:18:18",
-      "album": {
-        "name": "1000 Canciones",
-        "url": "https://open.spotify.com/album/2WgVqsPVdWTFMkwJe0Yp9F"
-      },
-      "artists": [
-        {
-          "name": "Gon Abril",
-          "url": "https://open.spotify.com/artist/33E9EiMUaBxMlQwamgda4W"
-        }
-      ],
-      "duration_ms": 204242,
-      "name": "1000 Canciones",
-      "url": "https://open.spotify.com/track/3MZCfVvR05Z6J8A8rEYo0b"
-    },
-    {
-      "added_at": "2026-08-26 12:18:18",
-      "album": {
-        "name": "Mediocre",
-        "url": "https://open.spotify.com/album/18F8quZNsKHvaMCKy4FaKK"
-      },
-      "artists": [
-        {
-          "name": "David Rees",
-          "url": "https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L"
-        }
-      ],
-      "duration_ms": 144615,
-      "name": "Mediocre",
-      "url": "https://open.spotify.com/track/2px95c8blC3ZqpVbREoXdf"
     }
   ],
   "unique_name": "Pop con \u00d1",

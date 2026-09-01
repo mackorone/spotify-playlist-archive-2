@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: Kaneee \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,513 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,526 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 7 | [Higher \(feat\. Tohji & gummyboy\) \[2026 in 東京ドーム\]](https://open.spotify.com/track/0PcHlUAOCczDP5GizpQx5Y) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [Higher \(feat\. Tohji & gummyboy\) \[2026 in 東京ドーム\]](https://open.spotify.com/album/6vhIikCRLHbCNqUIZc0qVO) | 3:14 |
 | 8 | [R2R](https://open.spotify.com/track/1VpzcKgL3IRkLw88iYvBdq) | [B2B](https://open.spotify.com/artist/32nDM0Yao38cDDKe1fH0t6), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [R2R](https://open.spotify.com/album/2cr1U27DqBGPmIiaqJw87X) | 3:47 |
 | 9 | [McLaren](https://open.spotify.com/track/4PfsJGhLtjBh0n2iZIhqX7) | [Eric.B.Jr](https://open.spotify.com/artist/5iiCEORKky6Ecc38uEUXX0) | [McLaren](https://open.spotify.com/album/0CTUgv3MuNBHyIeEapyEvB) | 4:02 |
-| 10 | [等身大](https://open.spotify.com/track/5gItctv1BuJeKUnOHtM3BL) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO) | [等身大](https://open.spotify.com/album/0eaaJpEeVzSXu634v4hpfE) | 3:00 |
+| 10 | [等身大](https://open.spotify.com/track/5gItctv1BuJeKUnOHtM3BL) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO) | [等身大](https://open.spotify.com/album/0eaaJpEeVzSXu634v4hpfE) | 3:01 |
 | 11 | [OWAKARI?](https://open.spotify.com/track/3CuEvKsiCgE3DzihtF2zlW) | [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie) | [OWAKARI?](https://open.spotify.com/album/37ZQ0xgUTdk52Wwh1FY2JF) | 2:07 |
 | 12 | [YELLOW CAMEL TOE](https://open.spotify.com/track/7EsExvMpEkDlHWCSMHDTFu) | [Xansei](https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N) | [YELLOW CAMEL TOE](https://open.spotify.com/album/1Y362mo7vFo587Fu29MyjK) | 1:10 |
 | 13 | [Mainichi](https://open.spotify.com/track/6911sJewg2xnBt6gVIgr8B) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Mainichi](https://open.spotify.com/album/7qaSSwhs0UdtXS7x9WKHDQ) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 99 | [THE GAME](https://open.spotify.com/track/30AMdF7Xdrz5Z3YmYJBFoQ) | [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [THE GAME](https://open.spotify.com/album/4iq7ZtFodeZPDeumJADHl2) | 2:46 |
 | 100 | [Driving](https://open.spotify.com/track/5sWtchuJsOQFmX0SDn3ai1) | [16](https://open.spotify.com/artist/77IeznkiGkElBYV1hfo7k4) | [Driving](https://open.spotify.com/album/3XRT0QIm7eyjstGyaL9Zya) | 2:35 |
 
-Snapshot ID: `AAAAAHiSfQ24FACXp7BqM5QwhUG4X7yN`
+Snapshot ID: `AAAAAMvbyGb2b4yd8BPVe7c4eUDTcgzt`

@@ -1,12 +1,12 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia.",
-  "num_followers": 38614,
+  "num_followers": 38622,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJmtRrBtiQmhAZYBY4C5o7LszpPB",
+  "snapshot_id": "AAAAAIxrrQoktbrkGaAyOmWmwjwmkA2Y",
   "tracks": [
     {
       "added_at": "2026-08-10 14:01:11",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-08-10 14:01:11",
       "album": {
-        "name": "JUMP",
-        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 164718,
-      "name": "JUMP",
-      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
-    },
-    {
-      "added_at": "2026-08-10 14:01:11",
-      "album": {
         "name": "RMB (Ring My Bell)",
         "url": "https://open.spotify.com/album/4pkAMeqsWDN1YtFHsKoD1g"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 174222,
       "name": "RMB (Ring My Bell)",
       "url": "https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS"
+    },
+    {
+      "added_at": "2026-08-10 14:01:11",
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
       "added_at": "2026-08-10 14:01:11",
@@ -1055,26 +1055,6 @@
       "duration_ms": 217333,
       "name": "NEW DROP",
       "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
-    },
-    {
-      "added_at": "2026-08-10 14:01:11",
-      "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
-      },
-      "artists": [
-        {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
-        }
-      ],
-      "duration_ms": 176965,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
       "added_at": "2026-08-10 14:01:11",
@@ -1135,6 +1115,26 @@
     {
       "added_at": "2026-08-10 14:01:11",
       "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "duration_ms": 176965,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
+    },
+    {
+      "added_at": "2026-08-10 14:01:11",
+      "album": {
         "name": "New Religion",
         "url": "https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH"
       },
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-08-10 14:01:11",
       "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 224216,
+      "name": "Legendary Lovers",
+      "url": "https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2"
+    },
+    {
+      "added_at": "2026-08-10 14:01:11",
+      "album": {
         "name": "ADL",
         "url": "https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 193684,
       "name": "Back Home",
       "url": "https://open.spotify.com/track/40oYjPdjvFBCZH1Smsk46H"
-    },
-    {
-      "added_at": "2026-08-10 14:01:11",
-      "album": {
-        "name": "PRISM",
-        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 224216,
-      "name": "Legendary Lovers",
-      "url": "https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2"
     },
     {
       "added_at": "2026-08-10 14:01:11",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2026-08-10 14:01:11",
       "album": {
+        "name": "Tumbao",
+        "url": "https://open.spotify.com/album/4u0cGT9gxWZvrGyRqhTRyr"
+      },
+      "artists": [
+        {
+          "name": "Armando Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/2FMAcV01llsAQTelJRXbns"
+        }
+      ],
+      "duration_ms": 151632,
+      "name": "Tumbao",
+      "url": "https://open.spotify.com/track/2HLpmbfnYiJZDp2i4GSw44"
+    },
+    {
+      "added_at": "2026-08-10 14:01:11",
+      "album": {
         "name": "THIS MUSIC MAY CONTAIN HOPE.",
         "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 301674,
       "name": "Click Clack Symphony. (feat. Hans Zimmer)",
       "url": "https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7"
-    },
-    {
-      "added_at": "2026-08-10 14:01:11",
-      "album": {
-        "name": "Tumbao",
-        "url": "https://open.spotify.com/album/4u0cGT9gxWZvrGyRqhTRyr"
-      },
-      "artists": [
-        {
-          "name": "Armando Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/2FMAcV01llsAQTelJRXbns"
-        }
-      ],
-      "duration_ms": 151632,
-      "name": "Tumbao",
-      "url": "https://open.spotify.com/track/2HLpmbfnYiJZDp2i4GSw44"
     },
     {
       "added_at": "2026-08-10 14:01:11",

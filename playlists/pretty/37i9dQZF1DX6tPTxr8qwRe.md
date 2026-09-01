@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > sweet\. sharp\. unbothered \- Zolita on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,269 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,244 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 49 | [24/7](https://open.spotify.com/track/3XJseRquEY7iBYLSvDIl5Q) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [24/7](https://open.spotify.com/album/0JuwhEZwLWHXKznuby5moE) | 2:13 |
 | 50 | [dumbest girl in the world](https://open.spotify.com/track/6Lsp0hAsrd1HDHbLxRnu5u) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [god forbid a girl spits out her feelings!](https://open.spotify.com/album/1Ae3HjPsQvfnnZKEvOxXwN) | 2:22 |
 
-Snapshot ID: `AAAAAGCC2cx1d1X70C3XyM1Ai1yHaHlH`
+Snapshot ID: `AAAAAFfAPlwLgWSE3TKdvj7WSrwzJMNS`

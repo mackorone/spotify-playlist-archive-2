@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33888,
+  "num_followers": 33890,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACCf7M7KyzHIx1aXWENdR224hK96",
+  "snapshot_id": "AAAAALvmJa9pFwRNgNMMD8kViJSXP00F",
   "tracks": [
     {
       "added_at": "2026-05-21 22:00:09",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
-        "name": "The Fire Inside",
-        "url": "https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp"
-      },
-      "artists": [
-        {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
-        }
-      ],
-      "duration_ms": 215483,
-      "name": "The Fire Inside",
-      "url": "https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc"
-    },
-    {
-      "added_at": "2026-05-21 22:00:09",
-      "album": {
         "name": "By The Bay",
         "url": "https://open.spotify.com/album/7LtOrnQ2x5JQFzoSN2PZvC"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 204328,
       "name": "By The Bay",
       "url": "https://open.spotify.com/track/5afcgRprK5Ind4L5Dk6ZuI"
+    },
+    {
+      "added_at": "2026-05-21 22:00:09",
+      "album": {
+        "name": "The Fire Inside",
+        "url": "https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp"
+      },
+      "artists": [
+        {
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+        }
+      ],
+      "duration_ms": 215483,
+      "name": "The Fire Inside",
+      "url": "https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc"
     },
     {
       "added_at": "2026-05-21 22:00:09",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
+        "name": "Heartbreak & Roses",
+        "url": "https://open.spotify.com/album/5QQkKw9pRjGsnxnlZQgIY3"
+      },
+      "artists": [
+        {
+          "name": "Marlon Pichel",
+          "url": "https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI"
+        }
+      ],
+      "duration_ms": 354760,
+      "name": "Heartbreak & Roses",
+      "url": "https://open.spotify.com/track/4dwuMPhWNdW2Elg452tlCs"
+    },
+    {
+      "added_at": "2026-05-21 22:00:09",
+      "album": {
         "name": "Castaways",
         "url": "https://open.spotify.com/album/43nTCW1quhIVMokEbaIV6r"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 164454,
       "name": "Castaways",
       "url": "https://open.spotify.com/track/6ICGEHHvGJ9l4I68zuiyXB"
-    },
-    {
-      "added_at": "2026-05-21 22:00:09",
-      "album": {
-        "name": "Heartbreak & Roses",
-        "url": "https://open.spotify.com/album/5QQkKw9pRjGsnxnlZQgIY3"
-      },
-      "artists": [
-        {
-          "name": "Marlon Pichel",
-          "url": "https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI"
-        }
-      ],
-      "duration_ms": 354760,
-      "name": "Heartbreak & Roses",
-      "url": "https://open.spotify.com/track/4dwuMPhWNdW2Elg452tlCs"
     },
     {
       "added_at": "2026-05-21 22:00:09",
@@ -875,18 +875,18 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
-        "name": "A Beautiful Life",
-        "url": "https://open.spotify.com/album/79aSUbgxr9M52YmWOeNzz8"
+        "name": "For Once",
+        "url": "https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf"
       },
       "artists": [
         {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+          "name": "A\u00e4ron Koch",
+          "url": "https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21"
         }
       ],
-      "duration_ms": 196304,
-      "name": "A Beautiful Life",
-      "url": "https://open.spotify.com/track/08tISrq05HwXHhSHG0ABbQ"
+      "duration_ms": 237467,
+      "name": "For Once",
+      "url": "https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB"
     }
   ],
   "unique_name": "Country & Americana",

@@ -1,12 +1,12 @@
 {
   "description": "Ouve os hits do ver\u00e3o de 2026! \ud83c\udf1e",
-  "num_followers": 134590,
+  "num_followers": 134600,
   "original_name": "Ver\u00e3o 2026 \ud83c\udf79\ud83c\udfd6\ufe0f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFg+HAQWiyynlfOHLgk8yNQexUIo",
+  "snapshot_id": "AAAAAKXwF8y5uGia1TrdO5Y/eA+wi1eD",
   "tracks": [
     {
       "added_at": "2026-06-29 08:17:53",
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 183685,
-      "name": "NUEVAYoL",
-      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+      "duration_ms": 367725,
+      "name": "BAILE INoLVIDABLE",
+      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
     },
     {
       "added_at": "2026-06-29 08:17:53",
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 367725,
-      "name": "BAILE INoLVIDABLE",
-      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
     },
     {
       "added_at": "2026-06-29 08:17:53",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-06-29 08:17:53",
       "album": {
-        "name": "NOBLE",
-        "url": "https://open.spotify.com/album/0g2so560PUSwl895vWwaQK"
-      },
-      "artists": [
-        {
-          "name": "F3miii",
-          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "NOBLE",
-      "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
-    },
-    {
-      "added_at": "2026-06-29 08:17:53",
-      "album": {
         "name": "Pobre Ex-Namorado",
         "url": "https://open.spotify.com/album/0SsVu6tQmkA4wo97kMivgc"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 173613,
       "name": "Pobre Ex-Namorado",
       "url": "https://open.spotify.com/track/2AXo4bZh5m5XkuANOjNnk7"
+    },
+    {
+      "added_at": "2026-06-29 08:17:53",
+      "album": {
+        "name": "NOBLE",
+        "url": "https://open.spotify.com/album/0g2so560PUSwl895vWwaQK"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "NOBLE",
+      "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
     },
     {
       "added_at": "2026-06-29 08:17:53",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-06-29 08:17:53",
       "album": {
-        "name": "Dona De Si",
-        "url": "https://open.spotify.com/album/7dfgDaCjkhPs49Yaj3xmCZ"
-      },
-      "artists": [
-        {
-          "name": "Os Alentons",
-          "url": "https://open.spotify.com/artist/4l0cDeXPYEksWKHCk424K2"
-        }
-      ],
-      "duration_ms": 167223,
-      "name": "Dona De Si",
-      "url": "https://open.spotify.com/track/4YNKRfYZfnviDQ6ICmL1Ra"
-    },
-    {
-      "added_at": "2026-06-29 08:17:53",
-      "album": {
         "name": "S\u00f3 Se Estraga uma Casa",
         "url": "https://open.spotify.com/album/6EOhRsOSNynBykeiAZ0avh"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 170077,
       "name": "Onde \u00c9 Que Eu Tinha a Cabe\u00e7a",
       "url": "https://open.spotify.com/track/78gj0hNtrkZITSudLFfJmF"
+    },
+    {
+      "added_at": "2026-06-29 08:17:53",
+      "album": {
+        "name": "Dona De Si",
+        "url": "https://open.spotify.com/album/7dfgDaCjkhPs49Yaj3xmCZ"
+      },
+      "artists": [
+        {
+          "name": "Os Alentons",
+          "url": "https://open.spotify.com/artist/4l0cDeXPYEksWKHCk424K2"
+        }
+      ],
+      "duration_ms": 167223,
+      "name": "Dona De Si",
+      "url": "https://open.spotify.com/track/4YNKRfYZfnviDQ6ICmL1Ra"
     },
     {
       "added_at": "2026-06-29 08:17:53",

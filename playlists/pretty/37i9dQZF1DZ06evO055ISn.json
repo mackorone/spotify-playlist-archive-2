@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Warren. The essential tracks, all in one playlist.",
-  "num_followers": 178506,
+  "num_followers": 178636,
   "original_name": "This Is Alex Warren",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apIhAAAAAADTDFtBziNMQV5mWGDbsGl/",
+  "snapshot_id": "apNygAAAAADHWUvZ4u7sa9X6VfUVdgEG",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 203474,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 179437,
+      "name": "Burning Down",
+      "url": "https://open.spotify.com/track/6aybzjLxocD14YySwF3aus"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 168343,
+      "name": "WON'T GO BACK AGAIN",
+      "url": "https://open.spotify.com/track/7HX5CyrZ0SX9HBqg4uPR50"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "First Time On Earth",
+      "url": "https://open.spotify.com/track/3z87a8YWdfBTWwrspCN4g8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Give You Love",
         "url": "https://open.spotify.com/album/3qOjPBjcMHh2kmizz7qkOG"
       },
@@ -248,29 +316,25 @@
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 179437,
-      "name": "Burning Down",
-      "url": "https://open.spotify.com/track/6aybzjLxocD14YySwF3aus"
+      "duration_ms": 197775,
+      "name": "Troubled Waters",
+      "url": "https://open.spotify.com/track/1aOdsNEQP9wVJEN9a73GRf"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S"
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
       },
       "artists": [
         {
           "name": "Alex Warren",
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 203474,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy"
+      "duration_ms": 199858,
+      "name": "SAME STARS",
+      "url": "https://open.spotify.com/track/06sZjwAy4DTJfpOuel7nv4"
     },
     {
       "added_at": null,
@@ -282,11 +346,15 @@
         {
           "name": "Alex Warren",
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         }
       ],
-      "duration_ms": 161052,
-      "name": "First Time On Earth",
-      "url": "https://open.spotify.com/track/3z87a8YWdfBTWwrspCN4g8"
+      "duration_ms": 189557,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/3lTTI3ldcvCbvQDfz7I49R"
     },
     {
       "added_at": null,
@@ -316,45 +384,9 @@
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 197775,
-      "name": "Troubled Waters",
-      "url": "https://open.spotify.com/track/1aOdsNEQP9wVJEN9a73GRf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One More I Love You",
-        "url": "https://open.spotify.com/album/0xhH21t4xL0EAQCOOsq5aG"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 216935,
-      "name": "One More I Love You",
-      "url": "https://open.spotify.com/track/6QFnwOaQIMd9sZNsd4mUaO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You'll Be Alright, Kid",
-        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 189557,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/3lTTI3ldcvCbvQDfz7I49R"
+      "duration_ms": 197573,
+      "name": "Save You a Seat",
+      "url": "https://open.spotify.com/track/0TdacYZkgRxz8ZvHUtpimP"
     },
     {
       "added_at": null,
@@ -368,41 +400,9 @@
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 168343,
-      "name": "WON'T GO BACK AGAIN",
-      "url": "https://open.spotify.com/track/7HX5CyrZ0SX9HBqg4uPR50"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Save You a Seat",
-      "url": "https://open.spotify.com/track/0TdacYZkgRxz8ZvHUtpimP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/2m0JQF1MKvULQtsUWxGjdM"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 174406,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/2MNG8spWd2fgvokW8EZDod"
+      "duration_ms": 184251,
+      "name": "I MISS YOU MORE",
+      "url": "https://open.spotify.com/track/40bEIQPOf8bKNvmVnJxJhf"
     },
     {
       "added_at": null,
@@ -423,6 +423,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "One More I Love You",
+        "url": "https://open.spotify.com/album/0xhH21t4xL0EAQCOOsq5aG"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 216935,
+      "name": "One More I Love You",
+      "url": "https://open.spotify.com/track/6QFnwOaQIMd9sZNsd4mUaO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/2m0JQF1MKvULQtsUWxGjdM"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 174406,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/2MNG8spWd2fgvokW8EZDod"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WILDCHILD",
         "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
       },
@@ -432,9 +464,9 @@
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 199858,
-      "name": "SAME STARS",
-      "url": "https://open.spotify.com/track/06sZjwAy4DTJfpOuel7nv4"
+      "duration_ms": 214887,
+      "name": "ONLY THING LEFT",
+      "url": "https://open.spotify.com/track/2nmrNr1Qs04TwLdNEOVOuE"
     },
     {
       "added_at": null,
@@ -483,38 +515,6 @@
       "duration_ms": 141096,
       "name": "Remember Me Happy",
       "url": "https://open.spotify.com/track/3zHk9FKy1OZpdEWS5RCGrO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WILDCHILD",
-        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 184251,
-      "name": "I MISS YOU MORE",
-      "url": "https://open.spotify.com/track/40bEIQPOf8bKNvmVnJxJhf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WILDCHILD",
-        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 214887,
-      "name": "ONLY THING LEFT",
-      "url": "https://open.spotify.com/track/2nmrNr1Qs04TwLdNEOVOuE"
     },
     {
       "added_at": null,

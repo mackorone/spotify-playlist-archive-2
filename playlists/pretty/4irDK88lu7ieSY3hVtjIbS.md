@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 
 > Degeneracy at its finest!
 
-[\-Taq\-](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 3,228 likes - 81 songs - 3 hr 29 min
+[\-Taq\-](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 3,232 likes - 83 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,5 +89,7 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 | 79 | [Wooden Ships \- 2005 Remaster](https://open.spotify.com/track/39m6vOwUEgjErRnsm93wu2) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 5:26 |
 | 80 | [I love furry porn](https://open.spotify.com/track/0aPZo4BwluQ7KzWUlCmCbQ) | [Jennie journey](https://open.spotify.com/artist/4yhGHFJZeriPmVdrWbl4Mr) | [I love furry porn](https://open.spotify.com/album/5mZLdpplt3He5C87c2SC9U) | 1:27 |
 | 81 | [Bark Like You Want It](https://open.spotify.com/track/1TqmlXyMcCppD8v2OogDMR) | [Sir Mix\-A\-Lot](https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV) | [Return Of The Bumpasaurus](https://open.spotify.com/album/0QPr5RZLfVPCewlds0UoLK) | 3:20 |
+| 82 | [Room Party \(Foreplay\)](https://open.spotify.com/track/4pG7fk6ViDk0DgMQVc9lnD) | [Tempxa](https://open.spotify.com/artist/15vRUJl1NtMGqXE2PvG2Rz) | [Straight Up! Official Soundtrack](https://open.spotify.com/album/77yARAjvyeE9yJtxguWfgM) | 3:04 |
+| 83 | [Room Party \(Intense\)](https://open.spotify.com/track/60ILSELlvzCtnYV2B0P6Et) | [Tempxa](https://open.spotify.com/artist/15vRUJl1NtMGqXE2PvG2Rz) | [Straight Up! Official Soundtrack](https://open.spotify.com/album/77yARAjvyeE9yJtxguWfgM) | 2:28 |
 
-Snapshot ID: `AAAAfLCwqknaeZERKrJMPfcszhFdKdlD`
+Snapshot ID: `AAAAfuJB1CbpfTUyvTPROJU3WtUr9Asq`

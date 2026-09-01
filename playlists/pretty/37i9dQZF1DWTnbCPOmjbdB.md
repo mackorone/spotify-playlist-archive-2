@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Mrozu, Kacperczyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,894 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,919 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 59 | [Gdy będziesz sam](https://open.spotify.com/track/2D3KypXOFJWiZMz40ZwJCy) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Gdy będziesz sam](https://open.spotify.com/album/0nJhmSMbbrIbkVjGSyz31i) | 3:01 |
 | 60 | [aż nie chce się wracać](https://open.spotify.com/track/422iOvOmu1a7tx3DDHEylm) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [aż nie chce się wracać](https://open.spotify.com/album/0HucmneaAqFQ3TM2AcnLTW) | 2:14 |
 
-Snapshot ID: `AAAAAPCqSdvDvfq73VhgOXFiBDoB4z9F`
+Snapshot ID: `AAAAAN3ZZ3lhTZ0MJNWCHgNK0gFLHx3E`

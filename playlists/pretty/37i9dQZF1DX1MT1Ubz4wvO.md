@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español 📸 Estoy Bien
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,398 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,364 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 59 | [Estírate](https://open.spotify.com/track/2Utdhgwpw74c5pTFLxUP4Z) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [Bastardo](https://open.spotify.com/album/2nqk8rdxZ6286HdAjGapI3) | 3:33 |
 | 60 | [Hemos Venido a J\*\*\*\*\*\* Todo](https://open.spotify.com/track/6gLVEHHGOmNXpRnSkRc6rs) | [Nixon](https://open.spotify.com/artist/6F929uaj0yCvUoXHkHft00) | [Hemos Venido a J\*\*\*\*\*\* Todo](https://open.spotify.com/album/1yOciDZBXIuXc4GtwRt8lS) | 3:09 |
 
-Snapshot ID: `AAAAAIRIby/Y6lSMutaft7LLABxyal+H`
+Snapshot ID: `AAAAAGtDk0/BYc+hF8orhwZR0QNZyxTx`

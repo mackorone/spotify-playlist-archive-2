@@ -1,12 +1,12 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist fr\u00e1 Alaska1867, Alex Warren og m\u00f6rgum fleirum!",
-  "num_followers": 9709,
+  "num_followers": 9710,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGiDHmFwrWmx6dXpbLcJ2YrAlgFl",
+  "snapshot_id": "AAAAABO8CdsgZbA7Qyr8pBRW6rf8lPOy",
   "tracks": [
     {
       "added_at": "2026-08-28 00:00:24",
@@ -211,22 +211,6 @@
     {
       "added_at": "2026-08-28 00:00:24",
       "album": {
-        "name": "Insignificant Other",
-        "url": "https://open.spotify.com/album/2eoTB4LtFdMkPNDVT88Vib"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 353666,
-      "name": "Insignificant Other",
-      "url": "https://open.spotify.com/track/3NdLNUPkumBUIcacNxPlVE"
-    },
-    {
-      "added_at": "2026-08-28 00:00:24",
-      "album": {
         "name": "Listen When Sad",
         "url": "https://open.spotify.com/album/7DnLLXl3u6tEP5OacdKZO9"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 228221,
       "name": "Listen When Sad",
       "url": "https://open.spotify.com/track/3mhqgCtsv3BkWXWHBKR3b0"
+    },
+    {
+      "added_at": "2026-08-28 00:00:24",
+      "album": {
+        "name": "Insignificant Other",
+        "url": "https://open.spotify.com/album/2eoTB4LtFdMkPNDVT88Vib"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 353666,
+      "name": "Insignificant Other",
+      "url": "https://open.spotify.com/track/3NdLNUPkumBUIcacNxPlVE"
     },
     {
       "added_at": "2026-08-28 00:00:24",
@@ -331,26 +331,6 @@
     {
       "added_at": "2026-08-28 00:00:24",
       "album": {
-        "name": "U know me",
-        "url": "https://open.spotify.com/album/1Em9Twkxncip9jFX4lIzLw"
-      },
-      "artists": [
-        {
-          "name": "CHRIS STASSY",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        },
-        {
-          "name": "Marz Fay",
-          "url": "https://open.spotify.com/artist/54n62ymWbi4eV4AbE8ol3i"
-        }
-      ],
-      "duration_ms": 194910,
-      "name": "U know me",
-      "url": "https://open.spotify.com/track/4HIyXZ63ucWnHXCfrlWWOq"
-    },
-    {
-      "added_at": "2026-08-28 00:00:24",
-      "album": {
         "name": "Unlimited Love b/w The Peace (Frost Children Remix)",
         "url": "https://open.spotify.com/album/2tP52mdSGd9kBtAlzevo4E"
       },
@@ -395,6 +375,26 @@
     {
       "added_at": "2026-08-28 00:00:24",
       "album": {
+        "name": "U know me",
+        "url": "https://open.spotify.com/album/1Em9Twkxncip9jFX4lIzLw"
+      },
+      "artists": [
+        {
+          "name": "CHRIS STASSY",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "Marz Fay",
+          "url": "https://open.spotify.com/artist/54n62ymWbi4eV4AbE8ol3i"
+        }
+      ],
+      "duration_ms": 194910,
+      "name": "U know me",
+      "url": "https://open.spotify.com/track/4HIyXZ63ucWnHXCfrlWWOq"
+    },
+    {
+      "added_at": "2026-08-28 00:00:24",
+      "album": {
         "name": "Comets",
         "url": "https://open.spotify.com/album/7IEd3tVmQkE4zYdOWavFkp"
       },
@@ -407,22 +407,6 @@
       "duration_ms": 202625,
       "name": "Comets",
       "url": "https://open.spotify.com/track/6YAZ4sSUI3MrKduG40Wr2e"
-    },
-    {
-      "added_at": "2026-08-28 00:00:24",
-      "album": {
-        "name": "I Must Be Dreaming",
-        "url": "https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 226915,
-      "name": "Tea Time",
-      "url": "https://open.spotify.com/track/31GAlUeCLW7X2wabzWaCYM"
     },
     {
       "added_at": "2026-08-28 00:00:24",
@@ -443,6 +427,22 @@
       "duration_ms": 203910,
       "name": "Out My Face (My Baby) (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/124asPU2FC370O180KQPQi"
+    },
+    {
+      "added_at": "2026-08-28 00:00:24",
+      "album": {
+        "name": "I Must Be Dreaming",
+        "url": "https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 226915,
+      "name": "Tea Time",
+      "url": "https://open.spotify.com/track/31GAlUeCLW7X2wabzWaCYM"
     },
     {
       "added_at": "2026-08-28 00:00:24",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-08-28 00:00:24",
       "album": {
-        "name": "The Hardest Thing",
-        "url": "https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 201992,
-      "name": "The Hardest Thing",
-      "url": "https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD"
-    },
-    {
-      "added_at": "2026-08-28 00:00:24",
-      "album": {
         "name": "MINI SKIRT WARRIOR",
         "url": "https://open.spotify.com/album/7Kmhb7ZghaugEnZ4ne8gyB"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2026-08-28 00:00:24",
       "album": {
-        "name": "Unforgivable Things",
-        "url": "https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC"
+        "name": "The Hardest Thing",
+        "url": "https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi"
       },
       "artists": [
         {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
         }
       ],
-      "duration_ms": 155017,
-      "name": "Unforgivable Things",
-      "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
+      "duration_ms": 201992,
+      "name": "The Hardest Thing",
+      "url": "https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD"
     },
     {
       "added_at": "2026-08-28 00:00:24",
@@ -647,6 +631,22 @@
       "duration_ms": 151671,
       "name": "Mary Jane",
       "url": "https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1"
+    },
+    {
+      "added_at": "2026-08-28 00:00:24",
+      "album": {
+        "name": "Unforgivable Things",
+        "url": "https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 155017,
+      "name": "Unforgivable Things",
+      "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
     },
     {
       "added_at": "2026-08-28 00:00:24",
@@ -707,6 +707,26 @@
     {
       "added_at": "2026-08-28 00:00:24",
       "album": {
+        "name": "Collect Call II",
+        "url": "https://open.spotify.com/album/413goMqotcuvygFDAbhGbm"
+      },
+      "artists": [
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 200496,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/6tgORSxvT9sUNZgUZS4AYb"
+    },
+    {
+      "added_at": "2026-08-28 00:00:24",
+      "album": {
         "name": "Black Box (feat. Kamasi Washington)",
         "url": "https://open.spotify.com/album/3FPv0tfUvuZbiinaJ73d19"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 256590,
       "name": "Black Box - feat. Kamasi Washington",
       "url": "https://open.spotify.com/track/2ZbvE8viThUEizWXz8GDCL"
-    },
-    {
-      "added_at": "2026-08-28 00:00:24",
-      "album": {
-        "name": "Collect Call II",
-        "url": "https://open.spotify.com/album/413goMqotcuvygFDAbhGbm"
-      },
-      "artists": [
-        {
-          "name": "YNW Melly",
-          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 200496,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/6tgORSxvT9sUNZgUZS4AYb"
     },
     {
       "added_at": "2026-08-28 00:00:24",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-08-28 00:00:24",
       "album": {
-        "name": "Lucky (Spotify Singles)",
-        "url": "https://open.spotify.com/album/2Tiw85yTcOBR9adhfxf3GN"
-      },
-      "artists": [
-        {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
-        }
-      ],
-      "duration_ms": 173680,
-      "name": "Lucky - Spotify Singles",
-      "url": "https://open.spotify.com/track/3mlGZG9LEBTBlTaR9EVS99"
-    },
-    {
-      "added_at": "2026-08-28 00:00:24",
-      "album": {
         "name": "INFINITE LOVE",
         "url": "https://open.spotify.com/album/0R37xsPjId1TbU0MJZTxoH"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 244533,
       "name": "INFINITE LOVE",
       "url": "https://open.spotify.com/track/5woqXixPJYLecFUWDcqjn5"
+    },
+    {
+      "added_at": "2026-08-28 00:00:24",
+      "album": {
+        "name": "Lucky (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2Tiw85yTcOBR9adhfxf3GN"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "duration_ms": 173680,
+      "name": "Lucky - Spotify Singles",
+      "url": "https://open.spotify.com/track/3mlGZG9LEBTBlTaR9EVS99"
     },
     {
       "added_at": "2026-08-28 00:00:24",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-08-28 00:00:24",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/4AfgAiFkuF6qJWK0MLW7XT"
-      },
-      "artists": [
-        {
-          "name": "NEW LORE",
-          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/4nDBJNQsLbxNxwQxnj1gSy"
-    },
-    {
-      "added_at": "2026-08-28 00:00:24",
-      "album": {
         "name": "HandsOn",
         "url": "https://open.spotify.com/album/1i5OxlGhCxT2e8TVjJPCUm"
       },
@@ -951,6 +935,38 @@
       "duration_ms": 169093,
       "name": "HandsOn",
       "url": "https://open.spotify.com/track/4pxQFRHVlZtxrssIqNoXHJ"
+    },
+    {
+      "added_at": "2026-08-28 00:00:24",
+      "album": {
+        "name": "Circadian Rhythm",
+        "url": "https://open.spotify.com/album/4nGjKy7qB1XfMP214ZK2gE"
+      },
+      "artists": [
+        {
+          "name": "SKAI",
+          "url": "https://open.spotify.com/artist/2g7geQWdr5NIudJUYYFycd"
+        }
+      ],
+      "duration_ms": 144451,
+      "name": "Circadian Rhythm",
+      "url": "https://open.spotify.com/track/6TQt2aEZgmZ5sohBxCENLr"
+    },
+    {
+      "added_at": "2026-08-28 00:00:24",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/4AfgAiFkuF6qJWK0MLW7XT"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/4nDBJNQsLbxNxwQxnj1gSy"
     },
     {
       "added_at": "2026-08-28 00:00:24",
@@ -987,18 +1003,18 @@
     {
       "added_at": "2026-08-28 00:00:24",
       "album": {
-        "name": "Circadian Rhythm",
-        "url": "https://open.spotify.com/album/4nGjKy7qB1XfMP214ZK2gE"
+        "name": "Don't Be Funny Without Me",
+        "url": "https://open.spotify.com/album/6sB6Bm2KkI8QjW0y7934ry"
       },
       "artists": [
         {
-          "name": "SKAI",
-          "url": "https://open.spotify.com/artist/2g7geQWdr5NIudJUYYFycd"
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
         }
       ],
-      "duration_ms": 144451,
-      "name": "Circadian Rhythm",
-      "url": "https://open.spotify.com/track/6TQt2aEZgmZ5sohBxCENLr"
+      "duration_ms": 170826,
+      "name": "Otherwise, I'm Fine",
+      "url": "https://open.spotify.com/track/2OuNMpGtZ8xlFRIgykw9qh"
     },
     {
       "added_at": "2026-08-28 00:00:24",
@@ -1015,22 +1031,6 @@
       "duration_ms": 203984,
       "name": "MUSCLE MARYS..",
       "url": "https://open.spotify.com/track/5TPleDKLsLNRdqkGMrbL5F"
-    },
-    {
-      "added_at": "2026-08-28 00:00:24",
-      "album": {
-        "name": "Don't Be Funny Without Me",
-        "url": "https://open.spotify.com/album/6sB6Bm2KkI8QjW0y7934ry"
-      },
-      "artists": [
-        {
-          "name": "Le Ren",
-          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Otherwise, I'm Fine",
-      "url": "https://open.spotify.com/track/2OuNMpGtZ8xlFRIgykw9qh"
     },
     {
       "added_at": "2026-08-28 00:00:24",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-08-28 00:00:24",
       "album": {
-        "name": "Cahokia",
-        "url": "https://open.spotify.com/album/6XlIY7UOhFEnkvRq2f798h"
-      },
-      "artists": [
-        {
-          "name": "Greg Freeman",
-          "url": "https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ"
-        }
-      ],
-      "duration_ms": 272902,
-      "name": "Cahokia",
-      "url": "https://open.spotify.com/track/4X2YGP2EomALNCQbOdzYx2"
-    },
-    {
-      "added_at": "2026-08-28 00:00:24",
-      "album": {
         "name": "Head Up (feat. EKKSTACY)",
         "url": "https://open.spotify.com/album/6jRIQx7QxpBm5cvWqfGDlU"
       },
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2026-08-28 00:00:24",
       "album": {
+        "name": "Cahokia",
+        "url": "https://open.spotify.com/album/6XlIY7UOhFEnkvRq2f798h"
+      },
+      "artists": [
+        {
+          "name": "Greg Freeman",
+          "url": "https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ"
+        }
+      ],
+      "duration_ms": 272902,
+      "name": "Cahokia",
+      "url": "https://open.spotify.com/track/4X2YGP2EomALNCQbOdzYx2"
+    },
+    {
+      "added_at": "2026-08-28 00:00:24",
+      "album": {
         "name": "Terrified",
         "url": "https://open.spotify.com/album/3fxdJRyNbVHHUXQD6YqIXm"
       },
@@ -1155,6 +1155,26 @@
       "duration_ms": 180713,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/3CJReUUv7vvCuCEsmXLN3O"
+    },
+    {
+      "added_at": "2026-08-28 00:00:24",
+      "album": {
+        "name": "You're My Ecstasy",
+        "url": "https://open.spotify.com/album/5WI2okPEgZYIVzfBHEdEfc"
+      },
+      "artists": [
+        {
+          "name": "Heliograph",
+          "url": "https://open.spotify.com/artist/1FEutGSizDVYrOB6C8TQXu"
+        },
+        {
+          "name": "Am\u00e8",
+          "url": "https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "You're My Ecstasy",
+      "url": "https://open.spotify.com/track/2EzQpVKYq0iipGMlgmTPmQ"
     },
     {
       "added_at": "2026-08-28 00:00:24",
@@ -1211,26 +1231,6 @@
     {
       "added_at": "2026-08-28 00:00:24",
       "album": {
-        "name": "You're My Ecstasy",
-        "url": "https://open.spotify.com/album/5WI2okPEgZYIVzfBHEdEfc"
-      },
-      "artists": [
-        {
-          "name": "Heliograph",
-          "url": "https://open.spotify.com/artist/1FEutGSizDVYrOB6C8TQXu"
-        },
-        {
-          "name": "Am\u00e8",
-          "url": "https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "You're My Ecstasy",
-      "url": "https://open.spotify.com/track/2EzQpVKYq0iipGMlgmTPmQ"
-    },
-    {
-      "added_at": "2026-08-28 00:00:24",
-      "album": {
         "name": "Shop Girl",
         "url": "https://open.spotify.com/album/3eIhusKqqYj8j2JXtFc3le"
       },
@@ -1247,22 +1247,18 @@
     {
       "added_at": "2026-08-28 00:00:24",
       "album": {
-        "name": "\u6069\u5bf5",
-        "url": "https://open.spotify.com/album/49nxD8ulK9YyROQcvP2CYU"
+        "name": "cyanide",
+        "url": "https://open.spotify.com/album/1iar9kMGEypGWpEDNdba06"
       },
       "artists": [
         {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
-        },
-        {
-          "name": "HaHa And The Hairpins",
-          "url": "https://open.spotify.com/artist/1ruD7LPCd8uwJNppN5oaEs"
+          "name": "tonser",
+          "url": "https://open.spotify.com/artist/4XQCRgJvDzVmu6xjcv5dfm"
         }
       ],
-      "duration_ms": 192672,
-      "name": "\u6069\u5bf5",
-      "url": "https://open.spotify.com/track/1H5SlTjRrM6eDD1WHePYdS"
+      "duration_ms": 146086,
+      "name": "cyanide",
+      "url": "https://open.spotify.com/track/29i1pAqD6eeELTrPD6Izx9"
     },
     {
       "added_at": "2026-08-28 00:00:24",
@@ -1287,38 +1283,22 @@
     {
       "added_at": "2026-08-28 00:00:24",
       "album": {
-        "name": "cyanide",
-        "url": "https://open.spotify.com/album/1iar9kMGEypGWpEDNdba06"
+        "name": "\u6069\u5bf5",
+        "url": "https://open.spotify.com/album/49nxD8ulK9YyROQcvP2CYU"
       },
       "artists": [
         {
-          "name": "tonser",
-          "url": "https://open.spotify.com/artist/4XQCRgJvDzVmu6xjcv5dfm"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "cyanide",
-      "url": "https://open.spotify.com/track/29i1pAqD6eeELTrPD6Izx9"
-    },
-    {
-      "added_at": "2026-08-28 00:00:24",
-      "album": {
-        "name": "Piano (feat. Glenn Gould)",
-        "url": "https://open.spotify.com/album/2Uhn7mroGpoaWKb8xQmXv7"
-      },
-      "artists": [
-        {
-          "name": "Nick Ward",
-          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
         },
         {
-          "name": "Glenn Gould",
-          "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+          "name": "HaHa And The Hairpins",
+          "url": "https://open.spotify.com/artist/1ruD7LPCd8uwJNppN5oaEs"
         }
       ],
-      "duration_ms": 217980,
-      "name": "Piano (feat. Glenn Gould)",
-      "url": "https://open.spotify.com/track/2RP10Jwt6qUGcqIizirlwi"
+      "duration_ms": 192672,
+      "name": "\u6069\u5bf5",
+      "url": "https://open.spotify.com/track/1H5SlTjRrM6eDD1WHePYdS"
     },
     {
       "added_at": "2026-08-28 00:00:24",
@@ -1339,6 +1319,26 @@
       "duration_ms": 216816,
       "name": "Faithless",
       "url": "https://open.spotify.com/track/0nzPqWQ3PB4RppGzGHCofI"
+    },
+    {
+      "added_at": "2026-08-28 00:00:24",
+      "album": {
+        "name": "Piano (feat. Glenn Gould)",
+        "url": "https://open.spotify.com/album/2Uhn7mroGpoaWKb8xQmXv7"
+      },
+      "artists": [
+        {
+          "name": "Nick Ward",
+          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+        },
+        {
+          "name": "Glenn Gould",
+          "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+        }
+      ],
+      "duration_ms": 217980,
+      "name": "Piano (feat. Glenn Gould)",
+      "url": "https://open.spotify.com/track/2RP10Jwt6qUGcqIizirlwi"
     },
     {
       "added_at": "2026-08-28 00:00:24",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-08-28 00:00:24",
       "album": {
+        "name": "Nothing Less",
+        "url": "https://open.spotify.com/album/0QU7RnyQ3IJX0ep4y2Vh4P"
+      },
+      "artists": [
+        {
+          "name": "#1 Dads",
+          "url": "https://open.spotify.com/artist/0RCHY4NGqCJ5GLWCYz2OiI"
+        }
+      ],
+      "duration_ms": 205668,
+      "name": "Nothing Less",
+      "url": "https://open.spotify.com/track/0fvmZ01vkAqUgz7aNmnNGt"
+    },
+    {
+      "added_at": "2026-08-28 00:00:24",
+      "album": {
         "name": "The Weight of the World",
         "url": "https://open.spotify.com/album/5H4WGT38QDnxQH5OSJSHi8"
       },
@@ -1447,38 +1463,6 @@
       "duration_ms": 247700,
       "name": "The Weight of the World",
       "url": "https://open.spotify.com/track/7n61Rue9o6zC0ktHSAErZV"
-    },
-    {
-      "added_at": "2026-08-28 00:00:24",
-      "album": {
-        "name": "112",
-        "url": "https://open.spotify.com/album/5dHasDf1I3pFh649aVlLux"
-      },
-      "artists": [
-        {
-          "name": "Hank Solo",
-          "url": "https://open.spotify.com/artist/06nAccQ7fxeA5d2SZvnfcw"
-        }
-      ],
-      "duration_ms": 152565,
-      "name": "112",
-      "url": "https://open.spotify.com/track/0x4CxGy6MjEA5Awk6TboBO"
-    },
-    {
-      "added_at": "2026-08-28 00:00:24",
-      "album": {
-        "name": "Nothing Less",
-        "url": "https://open.spotify.com/album/0QU7RnyQ3IJX0ep4y2Vh4P"
-      },
-      "artists": [
-        {
-          "name": "#1 Dads",
-          "url": "https://open.spotify.com/artist/0RCHY4NGqCJ5GLWCYz2OiI"
-        }
-      ],
-      "duration_ms": 205668,
-      "name": "Nothing Less",
-      "url": "https://open.spotify.com/track/0fvmZ01vkAqUgz7aNmnNGt"
     },
     {
       "added_at": "2026-08-28 00:00:24",
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2026-08-28 00:00:24",
       "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/5dHasDf1I3pFh649aVlLux"
+      },
+      "artists": [
+        {
+          "name": "Hank Solo",
+          "url": "https://open.spotify.com/artist/06nAccQ7fxeA5d2SZvnfcw"
+        }
+      ],
+      "duration_ms": 152565,
+      "name": "112",
+      "url": "https://open.spotify.com/track/0x4CxGy6MjEA5Awk6TboBO"
+    },
+    {
+      "added_at": "2026-08-28 00:00:24",
+      "album": {
         "name": "INFINITE SUMMER",
         "url": "https://open.spotify.com/album/1nup1cxvdRqRbjET5V2YuB"
       },
@@ -1547,18 +1547,22 @@
     {
       "added_at": "2026-08-28 00:00:24",
       "album": {
-        "name": "U MAKE ME",
-        "url": "https://open.spotify.com/album/26O2AFUClKmfRL2NsCnLHT"
+        "name": "mimosa",
+        "url": "https://open.spotify.com/album/5X1hoVn2c5yyf3CJBLTMX8"
       },
       "artists": [
         {
-          "name": "ELOQ",
-          "url": "https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw"
+          "name": "lila sky",
+          "url": "https://open.spotify.com/artist/3LsIR9rVSsNmyRYcJOsdyH"
+        },
+        {
+          "name": "dj g2g",
+          "url": "https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL"
         }
       ],
-      "duration_ms": 176521,
-      "name": "U MAKE ME",
-      "url": "https://open.spotify.com/track/3ngFA9Oyn8YcVA8saDaUAM"
+      "duration_ms": 142937,
+      "name": "mimosa",
+      "url": "https://open.spotify.com/track/0fmreURNhbPSNCaFuSrtxO"
     },
     {
       "added_at": "2026-08-28 00:00:24",
@@ -1579,22 +1583,18 @@
     {
       "added_at": "2026-08-28 00:00:24",
       "album": {
-        "name": "mimosa",
-        "url": "https://open.spotify.com/album/5X1hoVn2c5yyf3CJBLTMX8"
+        "name": "U MAKE ME",
+        "url": "https://open.spotify.com/album/26O2AFUClKmfRL2NsCnLHT"
       },
       "artists": [
         {
-          "name": "lila sky",
-          "url": "https://open.spotify.com/artist/3LsIR9rVSsNmyRYcJOsdyH"
-        },
-        {
-          "name": "dj g2g",
-          "url": "https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL"
+          "name": "ELOQ",
+          "url": "https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw"
         }
       ],
-      "duration_ms": 142937,
-      "name": "mimosa",
-      "url": "https://open.spotify.com/track/0fmreURNhbPSNCaFuSrtxO"
+      "duration_ms": 176521,
+      "name": "U MAKE ME",
+      "url": "https://open.spotify.com/track/3ngFA9Oyn8YcVA8saDaUAM"
     },
     {
       "added_at": "2026-08-28 00:00:24",

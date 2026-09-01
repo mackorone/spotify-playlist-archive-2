@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rosh
 
-714 songs - 1 day 16 hr 24 min
+715 songs - 1 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Dark Side](https://open.spotify.com/track/3WfZFECvaHHGgLiRjgj0ze) | [Sagar Gowda](https://open.spotify.com/artist/7gTnN6gHfJ4BqHA6yyz3U9) | [Dark Side](https://open.spotify.com/album/4QCGjjxgY4SjDNvmNJWK1D) | 3:20 | 2025-07-16 | 2025-12-19 |
 | [Dear Nikki](https://open.spotify.com/track/1nq7A0Za0wROknaJE2IsJu) | [Ajay Aj](https://open.spotify.com/artist/5hW9LgJwAYfPjr1LTeTpBV) | [Dear Nikki](https://open.spotify.com/album/1ZgGzdKQbbycNovfxMWqFh) | 3:29 | 2024-12-06 | 2025-04-29 |
 | [Desi Naari](https://open.spotify.com/track/4L6RuaCgSOnd5SyLTOpQKF) | [Pratham Kathare](https://open.spotify.com/artist/6OZn7BoAKutsXDPCN490rw) | [Desi Naari](https://open.spotify.com/album/5GKXlpKoXac3knHKajzLOQ) | 2:35 | 2025-09-15 | 2026-01-29 |
-| [Desi Naari](https://open.spotify.com/track/2fj7hVFUFrFT3VhrAs2HxT) | [Pratham Kathare](https://open.spotify.com/artist/6OZn7BoAKutsXDPCN490rw) | [Desi Naari](https://open.spotify.com/album/507cvA4QfGx4QzHUZBJuT6) | 2:35 | 2026-01-21 |  |
+| [Desi Naari](https://open.spotify.com/track/2fj7hVFUFrFT3VhrAs2HxT) | [Pratham Kathare](https://open.spotify.com/artist/6OZn7BoAKutsXDPCN490rw) | [Desi Naari](https://open.spotify.com/album/507cvA4QfGx4QzHUZBJuT6) | 2:35 | 2026-01-21 | 2026-09-01 |
 | [Devathe](https://open.spotify.com/track/3ZXXhJW1YazmSPzvjKefUf) | [Ajay Aj](https://open.spotify.com/artist/5hW9LgJwAYfPjr1LTeTpBV), [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Devathe](https://open.spotify.com/album/4DeH8ab6MWaXJMWVuZkG7p) | 2:43 | 2024-02-14 | 2024-02-17 |
 | [Dhuni](https://open.spotify.com/track/3qMfhlZDBmaBitonbmpo0d) | [Manvith Karkera](https://open.spotify.com/artist/5MvidldDoYdhcvejH1Qj87), [Anviksha Dayanand](https://open.spotify.com/artist/5HKDJaeh3NYCqBTaAB3YR7) | [Dhuni](https://open.spotify.com/album/5nX5LrXewpibmNocAyf1qm) | 2:28 | 2026-07-27 |  |
 | [Dhwamsa](https://open.spotify.com/track/6sJAKF9UaERL7YrtKZRA02) | [Mohith Gowda](https://open.spotify.com/artist/2DAJsSSNE1YOAW5GB42RuJ), [Yxung Miller](https://open.spotify.com/artist/2j2wfGvDhaAR8RVqjzlLpS) | [Dhwamsa](https://open.spotify.com/album/7gfsBikbTwo0UhYsWoKWzp) | 2:55 | 2025-05-30 | 2025-11-11 |
@@ -208,6 +208,7 @@
 | [Gharjane](https://open.spotify.com/track/457iVBylCZyPip3Gv4H5h3) | [Mohith Gowda](https://open.spotify.com/artist/2DAJsSSNE1YOAW5GB42RuJ), [Prop\-c](https://open.spotify.com/artist/6gXh5lDPn9YmcUejoDlXtX) | [Gharjane](https://open.spotify.com/album/2M62wvOOYWATPiFTePxCPf) | 3:35 | 2026-05-29 |  |
 | [Giliyu Panjaradolilla](https://open.spotify.com/track/0tiXZfVfKlUrSyYEBIGGoG) | [Shruthi S Bhat](https://open.spotify.com/artist/16nJsLk3LarQFlCXziGg3y) | [Giliyu Panjaradolilla](https://open.spotify.com/album/7Ddee1QHeZUNaJ62PvjVvI) | 6:42 | 2025-08-07 | 2025-12-02 |
 | [Gira Gira](https://open.spotify.com/track/7vwrPdFX2FNF6imTRXO4Pw) | [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5) | [Gira Gira](https://open.spotify.com/album/62iSk44yQVg8v2wpSiCIK4) | 3:30 | 2026-04-13 |  |
+| [GOD COMPLEX](https://open.spotify.com/track/42DWUXHGsMHxNZuVvhqagU) | [ANAMIKA](https://open.spotify.com/artist/4sPJkVa68fMIryD4jjvugk) | [GOD COMPLEX](https://open.spotify.com/album/6lH51RbBq03YVA8kKsWKrh) | 3:03 | 2026-08-31 |  |
 | [GODLY](https://open.spotify.com/track/0CXrAoAUipEKGI4YpdHCno) | [Arhan A Betur](https://open.spotify.com/artist/737rFWCotTGOPjpllN6Kw4), [Raathee](https://open.spotify.com/artist/6hAV1GWoSJRkaRz8MGifQK) | [GODLY](https://open.spotify.com/album/4i1EpyQCnxCDu2Pfi1gBBf) | 3:11 | 2026-04-13 |  |
 | [Good Night](https://open.spotify.com/track/2on44Nj5lhjWRTcdJfVcu8) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO) | [Good Night](https://open.spotify.com/album/6zCkPLOYgZWOy2dPPkB7ac) | 3:52 | 2022-10-20 | 2023-12-20 |
 | [Good Vibe](https://open.spotify.com/track/1sAUWodQtglnQ3RqVbRLxj) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Good Vibe](https://open.spotify.com/album/52RcOVDsrNbqrDAnCesUnq) | 2:17 | 2024-02-26 | 2024-08-13 |

@@ -785,6 +785,28 @@
     },
     {
       "album": {
+        "name": "Jenius",
+        "url": "https://open.spotify.com/album/6gxTMkVUCvfKkFvgq8vCYL"
+      },
+      "artists": [
+        {
+          "name": "Paul Heaton",
+          "url": "https://open.spotify.com/artist/1aIozCeQrpKipbEdkGtr0j"
+        },
+        {
+          "name": "Rianne Downey",
+          "url": "https://open.spotify.com/artist/254gmlnuhtyLCJmHiodIri"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186360,
+      "name": "Before Before",
+      "url": "https://open.spotify.com/track/48xmirSoXOlkObvyEAJwJq"
+    },
+    {
+      "album": {
         "name": "Begging for Change",
         "url": "https://open.spotify.com/album/5zBcEC1VJgZVK9PSJL7udw"
       },
@@ -8212,7 +8234,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 285240,
       "name": "The Scythe",
       "url": "https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw"

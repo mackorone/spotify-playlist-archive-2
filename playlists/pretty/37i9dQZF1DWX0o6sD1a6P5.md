@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,038,625 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,038,704 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [GG](https://open.spotify.com/track/6t5cvs3MFp1iFL7xbwWXeT) | [Dj Leska](https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX), [Bilouki](https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I), [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [GG](https://open.spotify.com/album/70Dh1aKJob1dlNyzDh2Nlr) | 3:03 |
 | 50 | [THAT GIRL](https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:56 |
 
-Snapshot ID: `AAAAAKeMvlqBpZpWeGxOCI0bj1AmiBvB`
+Snapshot ID: `AAAAAFjkb1gNUGnQ17nRwJXKduSJ2Nu9`

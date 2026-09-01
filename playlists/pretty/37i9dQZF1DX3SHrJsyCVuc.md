@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 
 > A new world of alternative noise\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,828 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,843 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 | 74 | [Glassman](https://open.spotify.com/track/1mogapB4xvnlFlZUB3FKII) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Swan Songs](https://open.spotify.com/album/2GtYQMZi2e2BLHn8gAYBrc) | 4:28 |
 | 75 | [Special Unit](https://open.spotify.com/track/0u6gGjxVPbZmGs2ABQKrCy) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Special Unit](https://open.spotify.com/album/3gYLrXlIRzJb3xnxqCdBto) | 2:39 |
 
-Snapshot ID: `AAAAAJhI3UH9I00u0ZGRHaL8dxtAcVJe`
+Snapshot ID: `AAAAAAwrnMN/R/SN8+91d5TrLX/zt/C6`

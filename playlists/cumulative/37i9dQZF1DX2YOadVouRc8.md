@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-827 songs - 1 day 15 hr 54 min
+828 songs - 1 day 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Hot Body](https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hot Body](https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z) | 2:40 | 2025-07-25 | 2026-08-14 |
 | [Hot Stepper](https://open.spotify.com/track/0BMOwfaleAhCJf1qABUCtd) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y) | [E.O.V \(ESAMA OF VIBES\)](https://open.spotify.com/album/5r0ooDn6GV0lYtOJdvMQog) | 2:59 | 2024-09-06 | 2024-09-20 |
 | [House Party](https://open.spotify.com/track/1Fi9F34fYmhJOwBqM1lUk8) | [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Patient Zero](https://open.spotify.com/album/7f1jBF06DtXBmFcPz1wIDo) | 2:32 | 2023-07-14 | 2023-09-29 |
+| [How Can I Forget](https://open.spotify.com/track/7AwGXSjR7fIRk0bGqw223P) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [How Can I Forget](https://open.spotify.com/album/3Dz76Mlu14f9UgcIQQlAT6) | 2:09 | 2026-08-28 |  |
 | [How It Feels](https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [How It Feels](https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH) | 2:36 | 2026-03-20 |  |
 | [Hustler](https://open.spotify.com/track/7JPweWVt1wDEu7EFwvupCo) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Chequemate](https://open.spotify.com/album/2EPnjTlC52Hr4LPIHNjcjt) | 2:43 | 2023-07-28 | 2023-09-29 |
 | [Hypnotic](https://open.spotify.com/track/34JhQbb9lUXklugrGxG5d4) | [Lifesize Teddy](https://open.spotify.com/artist/7qQNbbOL2eYZYxSGtcDvcR) | [Lifesize Teddy](https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe) | 3:07 | 2023-08-10 | 2023-09-29 |
@@ -636,7 +637,7 @@
 | [Shy Lover](https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Shy Lover](https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I) | 2:43 | 2026-04-03 |  |
 | [Signs](https://open.spotify.com/track/11Hgw9wXWzS4RbqWsKu0JP) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA) | [Naughty by Nature](https://open.spotify.com/album/3uaeQQUWVQyCvnFOtTmS1Y) | 2:03 | 2023-12-01 | 2023-12-04 |
 | [Signs](https://open.spotify.com/track/6LyFvZ6wvb6nac7WaO2bLC) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Sevn](https://open.spotify.com/artist/31oth0hCsj7X96TO2FBBlo), [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws), [Egertton](https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV), [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Signs](https://open.spotify.com/album/6Cc8Wz02Yz6fOdk7myVXT4) | 3:06 | 2026-07-10 |  |
-| [Simone](https://open.spotify.com/track/73MsHsGoRKdYiniQAss4xF) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Popstar \- Side A](https://open.spotify.com/album/0pItQHYnmHBdjdtDZK65d3) | 2:08 | 2026-07-24 |  |
+| [Simone](https://open.spotify.com/track/73MsHsGoRKdYiniQAss4xF) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Popstar \- Side A](https://open.spotify.com/album/0pItQHYnmHBdjdtDZK65d3) | 2:08 | 2026-07-24 | 2026-09-01 |
 | [Simple Things](https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Blended](https://open.spotify.com/album/6Sc37HYChx5UIVyRzsuEuw) | 2:48 | 2024-01-26 | 2024-03-22 |
 | [Sinner](https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Sinner](https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ) | 2:54 | 2022-06-09 | 2023-10-18 |
 | [Sinner](https://open.spotify.com/track/1J12nWQKjodPf436e61Orp) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sinner](https://open.spotify.com/album/2GaYDilv8Ei7fPAE9U0oVD) | 3:00 | 2023-05-04 | 2024-05-24 |

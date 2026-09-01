@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from New music from Lwah Ndlunkulu & MaWhoo, Shekhinah, Olivia Rodrigo, Dlala Thukzin and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,429 likes - 82 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,473 likes - 82 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 81 | [Malokazana](https://open.spotify.com/track/7vEklcjeTvgmOOKSbttBGE) | [Dj Sicky](https://open.spotify.com/artist/4czaxa9fbDlnL7mHibWJTI), [Dyverse](https://open.spotify.com/artist/6EygNBJksgc8xmj3NXfctr) | [Malokazana](https://open.spotify.com/album/4S5rgOA0I6AVUTw7OOXE2O) | 7:13 |
 | 82 | [Pelo Yaka](https://open.spotify.com/track/6Bgbr5GR7CNKwVrpYLelKa) | [Shalock Rass](https://open.spotify.com/artist/4ZqoWtYiUuyij3glngEtoW), [King Salah](https://open.spotify.com/artist/7pjNRv5i1KBe7oPzdys04w), [Bohlale Desta](https://open.spotify.com/artist/0PPZ0XSubxcU9eacrqz6e5), [VILLAGEGIRL\_RSA](https://open.spotify.com/artist/5X5Q8MFmZdHwUaun2ehSC4) | [Pelo Yaka](https://open.spotify.com/album/3kVEKWWkYrpoOit6nmCmKI) | 4:50 |
 
-Snapshot ID: `AAAAABSKw1QZPXofRTvTQc3JH53mcbl2`
+Snapshot ID: `AAAAAPsBxjs3+9bzw2x2B5Uo8y3XFloc`

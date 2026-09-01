@@ -4,7 +4,7 @@
 
 > This is Wale\. The essential tracks, all in one playlist.
 
-68 songs - 4 hr 22 min
+69 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [On My Mind](https://open.spotify.com/track/3Nb1HMWhunuQBKfQbtY5oA) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Ahora Tengo Todo Menos A Ti](https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL) | 2:56 | 2026-02-21 |  |
 | [Overthink \(feat\. Elmiene\)](https://open.spotify.com/track/09h9Sa4HE5iTij2tKVf9vw) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Overthink \(feat\. Elmiene\)](https://open.spotify.com/album/1Abazm5IGrm9ibwtlYgJsy) | 3:27 | 2026-08-02 | 2026-08-29 |
 | [Overthink \(feat\. Elmiene\)](https://open.spotify.com/track/1MOz16OdpnPYn9gneKxAio) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Overthink \(feat\. Elmiene\)](https://open.spotify.com/album/6eAsTdKN52xg1GVY7cS6zJ) | 3:27 | 2026-08-29 |  |
-| [Peace Of Mind \(feat\. Wale & J'TA\)](https://open.spotify.com/track/7miRYKcr0lYSb0zCRVKc5d) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J'TA](https://open.spotify.com/artist/4dstHylx9MVsv0QmpvCLct) | [Peace Of Mind \(feat\. Wale & J'TA\)](https://open.spotify.com/album/04IK5ajZvrJ2oAt9VqBLSX) | 3:37 | 2026-07-28 |  |
+| [Peace Of Mind \(feat\. Wale & J'TA\)](https://open.spotify.com/track/7IoN6gu0AcOGGcijdp8XiY) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J'TA](https://open.spotify.com/artist/4dstHylx9MVsv0QmpvCLct) | [Somewhere Over The Rainbow](https://open.spotify.com/album/5wKT30xWSzKEnAWOuVwD04) | 3:37 | 2026-09-01 |  |
+| [Peace Of Mind \(feat\. Wale & J'TA\)](https://open.spotify.com/track/7miRYKcr0lYSb0zCRVKc5d) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J'TA](https://open.spotify.com/artist/4dstHylx9MVsv0QmpvCLct) | [Peace Of Mind \(feat\. Wale & J'TA\)](https://open.spotify.com/album/04IK5ajZvrJ2oAt9VqBLSX) | 3:37 | 2026-07-28 | 2026-09-01 |
 | [Poke It Out \(feat\. J\. Cole\)](https://open.spotify.com/track/0wi5NYT0upjIHOG4FWSqdH) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 3:03 | 2026-02-21 | 2026-05-17 |
 | [Poledancer \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4ln1WvasZSvmKQFOQJBNZr) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Wow..\. That's Crazy](https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC) | 3:29 | 2026-03-18 | 2026-04-26 |
 | [Red Lights \(feat\. Wale\)](https://open.spotify.com/track/2A9l1TsM78JQqQMYqAQEZe) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Constellations](https://open.spotify.com/album/0X4X4hGytNt85z9zZQW8F9) | 3:39 | 2026-02-21 |  |

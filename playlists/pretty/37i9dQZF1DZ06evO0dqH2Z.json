@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4893,
+  "num_followers": 4894,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apIhAAAAAADQBCkk3GrgcGmZNl1wzyKy",
+  "snapshot_id": "apNygAAAAAC+v96tYe5vxv+vVuy6G5vO",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Charmer",
+        "url": "https://open.spotify.com/album/2awDIxIkwwSPHxENmzU55z"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 207160,
+      "name": "Hum",
+      "url": "https://open.spotify.com/track/2k3oP3QjEMErVYXZ0idW7y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Brief Intermission in the Flattening of Time",
         "url": "https://open.spotify.com/album/6Yczxf4YZevAC8ge5Sb1H3"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 186135,
       "name": "Berlin (feat. Tigers Jaw)",
       "url": "https://open.spotify.com/track/7jRtmIC2bixxr2RYGbPBgp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Charmer",
-        "url": "https://open.spotify.com/album/2awDIxIkwwSPHxENmzU55z"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 207160,
-      "name": "Hum",
-      "url": "https://open.spotify.com/track/2k3oP3QjEMErVYXZ0idW7y"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 100613,
-      "name": "Let Go/Trashed Floors",
-      "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
+      "duration_ms": 121933,
+      "name": "Coil/Recoil",
+      "url": "https://open.spotify.com/track/69L8rEPccsIYFOLsVvl5Xs"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 121933,
-      "name": "Coil/Recoil",
-      "url": "https://open.spotify.com/track/69L8rEPccsIYFOLsVvl5Xs"
+      "duration_ms": 100613,
+      "name": "Let Go/Trashed Floors",
+      "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
     },
     {
       "added_at": null,
@@ -664,7 +664,7 @@
       "added_at": null,
       "album": {
         "name": "Charmer",
-        "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
+        "url": "https://open.spotify.com/album/2awDIxIkwwSPHxENmzU55z"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 195320,
-      "name": "Slow Come On",
-      "url": "https://open.spotify.com/track/7dnlCMw9Nzgc5OW0WabYv2"
+      "duration_ms": 163080,
+      "name": "Soft Spoken",
+      "url": "https://open.spotify.com/track/6YGxFDZk1GqcALKfksQasQ"
     }
   ],
   "unique_name": "This Is Tigers Jaw",

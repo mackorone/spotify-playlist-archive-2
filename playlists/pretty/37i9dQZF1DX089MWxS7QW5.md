@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: george\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,061 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,076 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Feel It Too](https://open.spotify.com/track/7pa2CHENwzDO82W1UDpiJp) | [Min Jiwoon](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [Feel It Too](https://open.spotify.com/album/7kOL9ST8z2JlVIOVKCs3hB) | 3:18 |
 | 50 | [1972](https://open.spotify.com/track/3raQ7DNJmAqc7UsRYEsOir) | [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [1972](https://open.spotify.com/album/0KGYduvgnJpyuBwjEmIyZr) | 2:27 |
 
-Snapshot ID: `AAAAAMRvUb/tA41vxI/tekJGjJM9A9af`
+Snapshot ID: `AAAAAEpMB1Q2E8h9NR+DBOWZ/rtQ/r7J`

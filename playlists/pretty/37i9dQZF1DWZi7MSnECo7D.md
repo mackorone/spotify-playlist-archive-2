@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Varanda
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,090 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,946 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 69 | [Pedestal](https://open.spotify.com/track/3C7rx29J2MH2rVrEdLUKWc) | [Ludovic](https://open.spotify.com/artist/2zKQpbSlJv1z8xK9mFaXwU) | [Pedestal](https://open.spotify.com/album/0bAjb8XF1KuD49NvdRgiiI) | 4:13 |
 | 70 | [Cê La Vie](https://open.spotify.com/track/1C6o5ypsjD6TUPlTPqFbT0) | [Julieta Social](https://open.spotify.com/artist/1r5YxPNUJqVbaBXdZLSqe7) | [Julieta](https://open.spotify.com/album/4Q1FAQU7FMaX5QnjHxQHkX) | 3:23 |
 
-Snapshot ID: `AAAAACa8aDGkX/vT58upiAAvG6sNWsdM`
+Snapshot ID: `AAAAABHdNfUdT5eOAHED7h5LVrAQAlcH`

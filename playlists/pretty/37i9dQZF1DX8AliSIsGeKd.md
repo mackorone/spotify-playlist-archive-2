@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Booka Shade
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,520 likes - 89 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,574 likes - 89 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 88 | [this is the moment \(cuerpo\)](https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [LIFE](https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab) | 3:52 |
 | 89 | [Afterglow](https://open.spotify.com/track/7MTh3jJYMwJoegvWZKV3rF) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21), [NiLO.R](https://open.spotify.com/artist/13E2GSB3yfEeSXbexyoGn2) | [Afterglow](https://open.spotify.com/album/0A20N0FMFi9YonSQrpJw5p) | 2:58 |
 
-Snapshot ID: `AAAAACZhjiBJmL6+HNZv7SH53T7N294i`
+Snapshot ID: `AAAAABVIH1j126w6p/ip/t7lpO40/DbN`

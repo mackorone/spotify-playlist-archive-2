@@ -1117,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "The View From Tian Tan",
+        "url": "https://open.spotify.com/album/3TDdSwF8E4zIEl1U5k2MZ9"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182280,
+      "name": "20260321",
+      "url": "https://open.spotify.com/track/3FSW7AJdBLR8pYYBn48aEl"
+    },
+    {
+      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/6JQWyRnWYdIx3uxYgJZKXa"
       },

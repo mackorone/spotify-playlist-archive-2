@@ -4,7 +4,7 @@
 
 > Music from "Idle Master SideM"\. アTHE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-218 songs - 16 hr 4 min
+219 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Friendly Smile](https://open.spotify.com/track/73zfDxSYTxNA6OURYsjnkU) | [315 STARS](https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO) | [THE IDOLM@STER SideM WakeMini! MUSIC COLLECTION 02](https://open.spotify.com/album/7weHBpAS5IUod1zMZ2H2Ge) | 3:30 | 2023-02-10 | 2025-01-04 |
 | [From Genius](https://open.spotify.com/track/5cnptxgOoEWCfW2ZaAPykN) | [牙崎 漣 \(CV.小松昌平\)](https://open.spotify.com/artist/12UKr0NKzDGIckxk5QDknx) | [THE IDOLM@STER SideM 49 ELEMENTS \-06 THE 虎牙道](https://open.spotify.com/album/6lx045j0mTaAyCzYyUF8Nz) | 3:07 | 2023-05-09 |  |
 | [From Teacher To Future!](https://open.spotify.com/track/27IGmZd8J6xtVV1EQPXYnY) | [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj) | [THE IDOLM@STER SideM ANIMATION PROJECT 03 From Teacher To Future!](https://open.spotify.com/album/5FzHaof7dUEZamIot9wQGu) | 4:34 | 2022-12-01 |  |
-| [Fun! Fun! Festa!](https://open.spotify.com/track/6lEsKbmCYQftBozkzK2QP4) | [Beit](https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 02](https://open.spotify.com/album/0lRIL8bWRWlOpSZGOmkgSF) | 4:52 | 2022-12-01 |  |
+| [Fun! Fun! Festa!](https://open.spotify.com/track/6lEsKbmCYQftBozkzK2QP4) | [Beit](https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 02](https://open.spotify.com/album/0lRIL8bWRWlOpSZGOmkgSF) | 4:52 | 2022-12-01 | 2026-09-01 |
 | [Genesis Contact](https://open.spotify.com/track/11siJxjQ7hd0WAwdUnXu7m) | [冬美 旬 \(CV.永塚拓馬\)](https://open.spotify.com/artist/5sax8TYbIWIh8oAOxTBIOb), [天ヶ瀬冬馬 \(CV.寺島拓篤\)](https://open.spotify.com/artist/4zXriNQJamN0PnIh2htWGZ), [都築 圭 \(CV.土岐隼一\)](https://open.spotify.com/artist/4uLjWMjKIIfL9EIjR6vnQx), [東雲荘一郎 \(CV.天﨑滉平\)](https://open.spotify.com/artist/7Fag7eFJZILyzgp3Y7TFn2), [華村翔真 \(CV.バレッタ裕\)](https://open.spotify.com/artist/2eGwnPZ5MnK9A5XTEoOW3l) | [Genesis Contact](https://open.spotify.com/album/0xSFCJ8rDhy7K1WTY5kBKv) | 4:42 | 2022-12-01 | 2025-02-25 |
 | [Genuine feelings](https://open.spotify.com/track/4B3Hjgv7A2PT20NbafOmJn) | [冬美 旬 \(CV.永塚拓馬\)](https://open.spotify.com/artist/5sax8TYbIWIh8oAOxTBIOb) | [THE IDOLM@STER SideM ORIGIN@L PIECES 08](https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh) | 4:41 | 2022-12-01 | 2025-08-15 |
 | [GIVE ME FUSION](https://open.spotify.com/track/2u88brqMvhPCrtFqSzxO61) | [卯月巻緒 \(CV.児玉卓也\)](https://open.spotify.com/artist/33NFAXM9xKkQrPmFvb6omi) | [THE IDOLM@STER SideM 49 ELEMENTS \-08 Café Parade](https://open.spotify.com/album/00vbT7zTPrbtgaaAQom31L) | 3:40 | 2023-03-07 |  |
@@ -166,6 +166,7 @@
 | [Your Nobility](https://open.spotify.com/track/61B27d2YE1tLeSgr6VBUai) | [桜庭 薫 \(CV.内田雄馬\)](https://open.spotify.com/artist/6PQKKLOrSxVWl2iz0i3zph), [黒野玄武 \(CV.深町寿成\)](https://open.spotify.com/artist/38GMHC9cKZ84mYq2mHgcWR), [九十九一希 \(CV.徳武竜也\)](https://open.spotify.com/artist/5pFmOn9BLTq0eBsFDLqfO4) | [THE IDOLM@STER SideM WORLD TRE@SURE 12](https://open.spotify.com/album/44oPjnMG6Kb3ly0IWB7R1C) | 4:06 | 2022-12-01 |  |
 | [À La Carte FREEDOM](https://open.spotify.com/track/0BuEquD7ftojKONu8kHGjv) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM ST@RTING LINE \-BEST \(VOCAL Edition\)](https://open.spotify.com/album/5W4q9TO7CUxRQ7QeqMqlXU) | 4:20 | 2025-01-14 | 2025-07-07 |
 | [“W”onderful Tactics!](https://open.spotify.com/track/5DfRA3Gf8MMhMRlHGhg5Ky) | [蒼井享介 \(CV.山谷祥生\)](https://open.spotify.com/artist/2arh1fPHp7uZyyNMdGzfO4) | [THE IDOLM@STER SideM ORIGIN@L PIECES 05](https://open.spotify.com/album/1xrAra2MLOndIDBAJlaGcQ) | 4:35 | 2022-12-01 | 2022-12-03 |
+| [“W”orldwide Ambitions!](https://open.spotify.com/track/0vzgzbiXjAQCwf0HDh0l7C) | [蒼井悠介 \(CV.菊池勇成\)](https://open.spotify.com/artist/7f0U9kuSz7H00c2xe6VTZE) | [THE IDOLM@STER SideM ORIGIN@L PIECES 09](https://open.spotify.com/album/07KKDIGOJzAnjiALl1vDap) | 4:32 | 2025-01-14 |  |
 | [∞ Possibilities](https://open.spotify.com/track/3wFfcTqbDiBTdaJQfqsegr) | [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj) | [THE IDOLM@STER SideM ST@RTING LINE\-06 S.E.M](https://open.spotify.com/album/21ZxRoS0gEeQVaxHuIreOH) | 4:51 | 2022-12-01 | 2025-08-20 |
 | [いつかのトライアングル](https://open.spotify.com/track/1HFMjPsihGlVX4MiECVlgp) | [Jupiter](https://open.spotify.com/artist/7yIZvf93cvym5UEV2IGd8D), [Beit](https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 5th ANNIVERSARY 06](https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA) | 5:49 | 2022-12-01 |  |
 | [その場所へ行くために\-KEEP ON FIGHTING\-](https://open.spotify.com/track/6fmNs7hgCuS2b0yZfHJ2cQ) | [大河タケル \(CV.寺島惇太\)](https://open.spotify.com/artist/7KR0j71RA3VX2zVy3tb6Vq) | [THE IDOLM@STER SideM ORIGIN@L PIECES 07](https://open.spotify.com/album/3EC0iMsWrwHzZxL2LoRDuM) | 4:34 | 2022-12-01 | 2025-03-12 |

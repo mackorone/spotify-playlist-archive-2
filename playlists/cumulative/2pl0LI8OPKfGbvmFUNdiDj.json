@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "A Mystery",
+        "url": "https://open.spotify.com/album/666FQh3NNZU4IrRvKI7UXA"
+      },
+      "artists": [
+        {
+          "name": "The Gamma Rays",
+          "url": "https://open.spotify.com/artist/7itVIbu131nUnuE3YSEww9"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112839,
+      "name": "A Mystery",
+      "url": "https://open.spotify.com/track/3A8RY5eNYSH3ObmssKVCJ6"
+    },
+    {
+      "album": {
         "name": "A New Year's Wish",
         "url": "https://open.spotify.com/album/64tDh5YS9ykrr9YyfGUJb3"
       },

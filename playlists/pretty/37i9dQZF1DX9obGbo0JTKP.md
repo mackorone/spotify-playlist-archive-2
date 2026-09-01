@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9obGbo0JTKP.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,025 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,027 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAADJRO1IXqVyhhIMv8bdAJLQ3Kk0T`
+Snapshot ID: `AAAAAKb1Uh3FAwL5pOtoqOogQdJLGxQa`

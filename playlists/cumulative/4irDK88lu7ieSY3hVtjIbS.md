@@ -4,7 +4,7 @@
 
 > Degeneracy at its finest!
 
-82 songs - 3 hr 32 min
+84 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,8 @@
 | [PUPPY TF](https://open.spotify.com/track/7Mf4WiQGRUBhWhDjiYjbLt) | [Ida Deerz](https://open.spotify.com/artist/5sfvNysQqGIyLAyd2CxHnO) | [idaidaida](https://open.spotify.com/album/2MH0snsDzFgboLpkp3eKyI) | 1:25 | 2024-07-17 |  |
 | [PUPPYPLAY!](https://open.spotify.com/track/0RdfDzFw6NHp3nUX99cOr4) | [MAILPUP](https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk), [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180), [sixwing](https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV) | [PUPPYPLAY!](https://open.spotify.com/album/6cQzQgCOSGauQVoR7aD8uP) | 2:52 | 2024-01-08 |  |
 | [Raccoon Tails & Knotted Dicks](https://open.spotify.com/track/6SWgngUmmY4ISVjN71vdHB) | [4lung](https://open.spotify.com/artist/0OJS9aMfVg5cd30ZXyHU9L) | [The New 4lung Album](https://open.spotify.com/album/7ktcibSjb9UykTwVGR92NU) | 3:14 | 2023-11-14 |  |
+| [Room Party \(Foreplay\)](https://open.spotify.com/track/4pG7fk6ViDk0DgMQVc9lnD) | [Tempxa](https://open.spotify.com/artist/15vRUJl1NtMGqXE2PvG2Rz) | [Straight Up! Official Soundtrack](https://open.spotify.com/album/77yARAjvyeE9yJtxguWfgM) | 3:04 | 2026-08-31 |  |
+| [Room Party \(Intense\)](https://open.spotify.com/track/60ILSELlvzCtnYV2B0P6Et) | [Tempxa](https://open.spotify.com/artist/15vRUJl1NtMGqXE2PvG2Rz) | [Straight Up! Official Soundtrack](https://open.spotify.com/album/77yARAjvyeE9yJtxguWfgM) | 2:28 | 2026-08-31 |  |
 | [ROPEPUPPY](https://open.spotify.com/track/3nrINSFvu7u6xbCq6yDs4l) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [Pent Up Pup](https://open.spotify.com/album/36MfMEJQjrCbWDNty7rBjJ) | 2:48 | 2023-11-14 |  |
 | [RUIN MY LIFE \(​ʟ​ɪ​ᴄ​ᴋ ᴍʏ ʀ​ᴜ​ssʏ ᴀ​ɴ​ᴅ ᴍʏ ᴄ​ʀ​ᴀ​ᴄ​ᴋ​\)](https://open.spotify.com/track/5HmDyHzgP4e1LHmIlAKMaj) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RUIN MY LIFE \(​ʟ​ɪ​ᴄ​ᴋ ᴍʏ ʀ​ᴜ​ssʏ ᴀ​ɴ​ᴅ ᴍʏ ᴄ​ʀ​ᴀ​ᴄ​ᴋ​\)](https://open.spotify.com/album/6P7vLI213QKazvc6CbsvB4) | 2:28 | 2024-07-17 |  |
 | [RUSSY'S BIG OL' BUTT](https://open.spotify.com/track/0rsvXj3MqQOGDUkBU07eoF) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [EAT YOU UP + RUSSY'S BIG OL' BUTT](https://open.spotify.com/album/7Dpf0PTYYfOF4lpS4YEwEC) | 1:42 | 2024-10-05 |  |

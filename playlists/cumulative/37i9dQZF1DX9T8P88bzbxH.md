@@ -4,7 +4,7 @@
 
 > One night only\. Cover: MILLI
 
-1,363 songs - 3 day 6 hr 59 min
+1,364 songs - 3 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -951,7 +951,8 @@
 | [Sabotage](https://open.spotify.com/track/2AD9ENIeGBDjNNqzynaoiK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:34 | 2026-05-19 | 2026-06-05 |
 | [sabotage](https://open.spotify.com/track/64ztvh9KDjnGR07r1bUTnz) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [sabotage](https://open.spotify.com/album/0HqvuYGEe1eStpbGsniM65) | 4:01 | 2025-11-05 | 2025-11-10 |
 | [Sabrina \(i am a party\)](https://open.spotify.com/track/6zJUp1ihdid6Kn3Ndgcy82) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:19 | 2025-07-05 | 2025-07-15 |
-| [Sad Aerobic](https://open.spotify.com/track/4SiWVAhDyttIqIRIeUREiL) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [BABB BUM BUM](https://open.spotify.com/album/34adoAqaladEYvXmQpujS7) | 2:32 | 2026-08-28 |  |
+| [Sad Aerobic](https://open.spotify.com/track/4SiWVAhDyttIqIRIeUREiL) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [BABB BUM BUM](https://open.spotify.com/album/34adoAqaladEYvXmQpujS7) | 2:32 | 2026-08-28 | 2026-09-01 |
+| [SAD AEROBIC](https://open.spotify.com/track/1fNBoi6eboos35LDL1z9XE) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [SAD AEROBIC](https://open.spotify.com/album/1SSUGglnMaxM3Mb6x3rlP8) | 2:48 | 2026-08-31 |  |
 | [safe in the rain](https://open.spotify.com/track/6U6TDsgpWCaeI1wneNAPKj) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [safe in the rain](https://open.spotify.com/album/1koQnMMMACCfMc3tYtNOLN) | 2:18 | 2025-11-14 | 2025-11-22 |
 | [Sailing](https://open.spotify.com/track/3Bfv3Wg4HAhNFdVgWSfT0z) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sailing](https://open.spotify.com/album/6EFHqgUZQ2vAgXwcXJqHsh) | 3:06 | 2025-06-30 | 2025-07-06 |
 | [Sandstorm](https://open.spotify.com/track/5Tk0xtnJ0PXD6oTakifuu1) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 5:01 | 2025-11-21 | 2025-12-21 |
@@ -1006,7 +1007,7 @@
 | [Shout Baby](https://open.spotify.com/track/5K1m4aaPCxwnm9SKlWW1vh) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Shout Baby](https://open.spotify.com/album/09zBDn6RECoEaWhArkgnjf) | 4:25 | 2025-11-05 | 2025-11-10 |
 | [Show Me How](https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/7mUYDBqNiddmKxuKrnBEKQ) | 3:35 | 2026-01-23 | 2026-01-29 |
 | [SICK WITH IT](https://open.spotify.com/track/6ZBQ9fevUeMyDumDHPgOeH) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [HEAVYWEIGHT](https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71) | 3:14 | 2026-08-28 |  |
-| [SICK WITH IT \- SO\-SO Remix](https://open.spotify.com/track/38EwiJxpQaqhazYXs8dcyn) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [SO\-SO](https://open.spotify.com/artist/0AGwS4zwXlgeTJsee7q3cW) | [SICK WITH IT \(SO\-SO Remix\)](https://open.spotify.com/album/0ivs0YsFze0qz71Ychkv86) | 2:54 | 2026-08-28 |  |
+| [SICK WITH IT \- SO\-SO Remix](https://open.spotify.com/track/38EwiJxpQaqhazYXs8dcyn) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [SO\-SO](https://open.spotify.com/artist/0AGwS4zwXlgeTJsee7q3cW) | [SICK WITH IT \(SO\-SO Remix\)](https://open.spotify.com/album/0ivs0YsFze0qz71Ychkv86) | 2:54 | 2026-08-28 | 2026-09-01 |
 | [Siguro](https://open.spotify.com/track/05alvwf5bzORxgTEYv7qSF) | [Yeng Constantino](https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ) | [Lapit](https://open.spotify.com/album/20Ho2ZnYwEQ3n2q6UINVmI) | 4:01 | 2026-06-12 | 2026-07-17 |
 | [Sikulo](https://open.spotify.com/track/4UIfLmvtfUdSnoC9O6uXvv) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK), [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH), [Nhiko](https://open.spotify.com/artist/1aW2DEplQwLEpQ68PMpHQa) | [Sikulo](https://open.spotify.com/album/2nR17tFk4I05vKtmOKdxfL) | 4:41 | 2026-06-12 | 2026-07-17 |
 | [Silver Lining](https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy) | 3:17 | 2026-05-19 | 2026-06-05 |

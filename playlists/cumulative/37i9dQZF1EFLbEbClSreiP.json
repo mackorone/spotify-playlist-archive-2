@@ -16,10 +16,28 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 155466,
       "name": "1+1",
       "url": "https://open.spotify.com/track/3shioGmz53I8xsFJsOeoXg"
+    },
+    {
+      "album": {
+        "name": "1+1",
+        "url": "https://open.spotify.com/album/3EJ4fhSJyGNCBCxjqYcA9w"
+      },
+      "artists": [
+        {
+          "name": "Just Jayne",
+          "url": "https://open.spotify.com/artist/1ru5TgKifGAHTGB5mr4OxE"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155466,
+      "name": "1+1",
+      "url": "https://open.spotify.com/track/7wLTVMt6OJcJ8Iolz8aIof"
     },
     {
       "album": {

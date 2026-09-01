@@ -1,12 +1,12 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 114707,
+  "num_followers": 114734,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIDwfdCSwz1M7M9LIyuA2b3I0Czw",
+  "snapshot_id": "AAAAAMIZl4gRYrnSnZy03QBxQYmciCxz",
   "tracks": [
     {
       "added_at": "2026-07-02 21:48:45",
@@ -163,26 +163,6 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
-        "name": "A Casa",
-        "url": "https://open.spotify.com/album/1IKbxFWytL86ORGEJNwah9"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        },
-        {
-          "name": "Gretter Records",
-          "url": "https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP"
-        }
-      ],
-      "duration_ms": 293540,
-      "name": "A Casa",
-      "url": "https://open.spotify.com/track/7eGog1Th59073Z0xojqyLG"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
         "name": "A Esperan\u00e7a Que Restou",
         "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 281941,
       "name": "A Esperan\u00e7a Que Restou",
       "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
+        "name": "A Casa",
+        "url": "https://open.spotify.com/album/1IKbxFWytL86ORGEJNwah9"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        },
+        {
+          "name": "Gretter Records",
+          "url": "https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP"
+        }
+      ],
+      "duration_ms": 293540,
+      "name": "A Casa",
+      "url": "https://open.spotify.com/track/7eGog1Th59073Z0xojqyLG"
     },
     {
       "added_at": "2026-07-02 21:48:45",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
-        "name": "Situa\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
-      },
-      "artists": [
-        {
-          "name": "Stefhany",
-          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
-        }
-      ],
-      "duration_ms": 261967,
-      "name": "Situa\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
         "name": "Meu Barquinho",
         "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 195520,
       "name": "Meu Barquinho - Ao Vivo",
       "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
+        "name": "Situa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
+      },
+      "artists": [
+        {
+          "name": "Stefhany",
+          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+        }
+      ],
+      "duration_ms": 261967,
+      "name": "Situa\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
     },
     {
       "added_at": "2026-07-02 21:48:45",
@@ -303,8 +303,8 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
-        "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7hVYHjv7SanNhMK7Nz8ArO"
+        "name": "Como eu Te Amo Deus",
+        "url": "https://open.spotify.com/album/1hZif2WY3WGbnarLgKUjbJ"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
         }
       ],
-      "duration_ms": 328768,
-      "name": "Deus Est\u00e1 Fazendo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4BWA1SCzCG5R312tqdfKBW"
+      "duration_ms": 186118,
+      "name": "Como eu Te Amo Deus",
+      "url": "https://open.spotify.com/track/1unkmTfcblkjHWIhZLSFhE"
     },
     {
       "added_at": "2026-07-02 21:48:45",
@@ -399,8 +399,8 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
-        "name": "Como eu Te Amo Deus",
-        "url": "https://open.spotify.com/album/1hZif2WY3WGbnarLgKUjbJ"
+        "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7hVYHjv7SanNhMK7Nz8ArO"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
         }
       ],
-      "duration_ms": 186118,
-      "name": "Como eu Te Amo Deus",
-      "url": "https://open.spotify.com/track/1unkmTfcblkjHWIhZLSFhE"
+      "duration_ms": 328768,
+      "name": "Deus Est\u00e1 Fazendo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4BWA1SCzCG5R312tqdfKBW"
     },
     {
       "added_at": "2026-07-02 21:48:45",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
+        "name": "Quem Foi Que Me Tocou",
+        "url": "https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 281002,
+      "name": "Quem Foi Que Me Tocou",
+      "url": "https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
         "name": "Mais que Vencedor (feat. Carlos Henrique)",
         "url": "https://open.spotify.com/album/67hDmO0TuD5Dsau7zZbK73"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 215099,
       "name": "Mais que Vencedor (feat. Carlos Henrique)",
       "url": "https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
-        "name": "Quem Foi Que Me Tocou",
-        "url": "https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 281002,
-      "name": "Quem Foi Que Me Tocou",
-      "url": "https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04"
     },
     {
       "added_at": "2026-07-02 21:48:45",
@@ -635,6 +635,38 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
+        "name": "A Terra e o Lavrador",
+        "url": "https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb"
+      },
+      "artists": [
+        {
+          "name": "Carina Garay",
+          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
+        }
+      ],
+      "duration_ms": 200562,
+      "name": "A Terra e o Lavrador",
+      "url": "https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
+        "name": "A Resposta \u00c9 Deus",
+        "url": "https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 256450,
+      "name": "A Resposta \u00c9 Deus",
+      "url": "https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
         "name": "O Noivo Vem (Ao Vivo)",
         "url": "https://open.spotify.com/album/5hb5Y7fmdNVzXXlz7y5rT4"
       },
@@ -671,22 +703,6 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
-        "name": "A Resposta \u00c9 Deus",
-        "url": "https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 256450,
-      "name": "A Resposta \u00c9 Deus",
-      "url": "https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
         "name": "Guerreiro Adorador",
         "url": "https://open.spotify.com/album/4jRfEXevgeiyxCjXGZ6zz9"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
-        "name": "A Terra e o Lavrador",
-        "url": "https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb"
-      },
-      "artists": [
-        {
-          "name": "Carina Garay",
-          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
-        }
-      ],
-      "duration_ms": 200562,
-      "name": "A Terra e o Lavrador",
-      "url": "https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
         "name": "Tudo",
         "url": "https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK"
       },
@@ -735,26 +735,6 @@
       "duration_ms": 271166,
       "name": "Tudo",
       "url": "https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
-        "name": "Ref\u00e9m do Caminh\u00e3o",
-        "url": "https://open.spotify.com/album/0TPZmILuwLS8LvijT4cLKy"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        },
-        {
-          "name": "Matriz Music",
-          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
-        }
-      ],
-      "duration_ms": 276088,
-      "name": "Ref\u00e9m do Caminh\u00e3o",
-      "url": "https://open.spotify.com/track/3DHX5Ca4Vzest42XWIMhrc"
     },
     {
       "added_at": "2026-07-02 21:48:45",
@@ -775,6 +755,26 @@
       "duration_ms": 225365,
       "name": "Fora do Normal (Majestade) - Ao Vivo",
       "url": "https://open.spotify.com/track/4J8QQp1meKEf8lteMqL3av"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
+        "name": "Ref\u00e9m do Caminh\u00e3o",
+        "url": "https://open.spotify.com/album/0TPZmILuwLS8LvijT4cLKy"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        },
+        {
+          "name": "Matriz Music",
+          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
+        }
+      ],
+      "duration_ms": 276088,
+      "name": "Ref\u00e9m do Caminh\u00e3o",
+      "url": "https://open.spotify.com/track/3DHX5Ca4Vzest42XWIMhrc"
     },
     {
       "added_at": "2026-07-02 21:48:45",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
-        "name": "Lugar Secreto",
-        "url": "https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk"
-      },
-      "artists": [
-        {
-          "name": "Luc\u00e9lia Santos",
-          "url": "https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV"
-        }
-      ],
-      "duration_ms": 226269,
-      "name": "Lugar Secreto",
-      "url": "https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
         "name": "Do Meu Jeito (Majestade)",
         "url": "https://open.spotify.com/album/5Aqk6aOH8lylUt76YTxxQW"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 253909,
       "name": "Do Meu Jeito (Majestade)",
       "url": "https://open.spotify.com/track/1YmcVZ5ouRracWldy5TqmL"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
+        "name": "Lugar Secreto",
+        "url": "https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00e9lia Santos",
+          "url": "https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV"
+        }
+      ],
+      "duration_ms": 226269,
+      "name": "Lugar Secreto",
+      "url": "https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT"
     },
     {
       "added_at": "2026-07-02 21:48:45",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
+        "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
+        "url": "https://open.spotify.com/album/65AR5SWnfULr33MQngy9at"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 270677,
+      "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
+      "url": "https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
         "name": "Estou Aqui",
         "url": "https://open.spotify.com/album/1xaEvaLiIUDdCIdsHqUE5Z"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 209134,
       "name": "Estou Aqui",
       "url": "https://open.spotify.com/track/7ckx72lvaOeEkxoga7jMBT"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
-        "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
-        "url": "https://open.spotify.com/album/65AR5SWnfULr33MQngy9at"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 270677,
-      "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
-      "url": "https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz"
     },
     {
       "added_at": "2026-07-02 21:48:45",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
+        "name": "Eu Quero Ir pro C\u00e9u",
+        "url": "https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        },
+        {
+          "name": "\u00c9 Gospel Music",
+          "url": "https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm"
+        }
+      ],
+      "duration_ms": 273913,
+      "name": "Eu Quero Ir pro C\u00e9u",
+      "url": "https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
         "name": "Al\u00e9m da Medicina",
         "url": "https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 184483,
       "name": "Valeu a Pena",
       "url": "https://open.spotify.com/track/53AUE4ItLqPr9lczn2inZT"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
-        "name": "Eu Quero Ir pro C\u00e9u",
-        "url": "https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        },
-        {
-          "name": "\u00c9 Gospel Music",
-          "url": "https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm"
-        }
-      ],
-      "duration_ms": 273913,
-      "name": "Eu Quero Ir pro C\u00e9u",
-      "url": "https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He"
     },
     {
       "added_at": "2026-07-02 21:48:45",

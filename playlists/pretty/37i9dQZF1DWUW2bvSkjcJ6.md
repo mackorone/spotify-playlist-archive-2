@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Paula Hartmann, Apache 207, Olivia Rodrigo, Berq, badmómzjay & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,048 likes - 86 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,019 likes - 86 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 85 | [Carry On](https://open.spotify.com/track/0kqs8MvKZ5bbMTJQidJWB0) | [Saint Chaos](https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg) | [Make My Day](https://open.spotify.com/album/6wApT9M9XRcriLUwFjxG6W) | 4:09 |
 | 86 | [Miss Italia](https://open.spotify.com/track/2rXIRtvgZUKN16OGr0b9je) | [Pietro Basile](https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc) | [Miss Italia](https://open.spotify.com/album/6sIJCbmIPxF6PhOAnEVMDt) | 2:43 |
 
-Snapshot ID: `AAAAAGK1KnnNO51qMaZjrXPx8+kXG3Sh`
+Snapshot ID: `AAAAAPySEI2pQv7eRt8rFeVjx+vxZJUl`

@@ -1,12 +1,12 @@
 {
   "description": "J-Rock acts who have broken the border and are making global impact.   Cover: Official HIGE DANdism Official\u9aed\u7537dism",
-  "num_followers": 303656,
+  "num_followers": 303649,
   "original_name": "Rock Strike Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOWbz13eg5JTqXqi+vSLyWrdqw3J",
+  "snapshot_id": "AAAAAGzAE9OKMmoFLpFEW4rYj6SJEBl3",
   "tracks": [
     {
       "added_at": "2026-08-25 15:28:32",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-08-25 15:28:32",
       "album": {
+        "name": "Everybody!!",
+        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 207368,
+      "name": "\u3068\u3082\u306b",
+      "url": "https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3"
+    },
+    {
+      "added_at": "2026-08-25 15:28:32",
+      "album": {
         "name": "ReawakeR (feat. Felix of Stray Kids)",
         "url": "https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 184993,
       "name": "ReawakeR (feat. Felix of Stray Kids)",
       "url": "https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL"
-    },
-    {
-      "added_at": "2026-08-25 15:28:32",
-      "album": {
-        "name": "Everybody!!",
-        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
-      },
-      "artists": [
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 207368,
-      "name": "\u3068\u3082\u306b",
-      "url": "https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3"
     },
     {
       "added_at": "2026-08-25 15:28:32",

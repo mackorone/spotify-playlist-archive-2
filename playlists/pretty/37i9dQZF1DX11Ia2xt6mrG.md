@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. RØZ en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,159 likes - 90 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,184 likes - 90 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 29 | [Bella](https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Los Miranda](https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f) | [Bella](https://open.spotify.com/album/6govxhovGzVddUXNOlA74I) | 3:08 |
 | 30 | [Bien Loco](https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Bien Loco](https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA) | 2:49 |
 | 31 | [Runaways](https://open.spotify.com/track/2q0t6NVVxNPWXAxjZ5qIXX) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Runaways](https://open.spotify.com/album/2XujCWDs7X273KosEKxzIo) | 4:29 |
-| 32 | [Sin Dormir \(Ya Se Armó\)](https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Sin Dormir \(Ya Se Armó\)](https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A) | 2:40 |
-| 33 | [HOUSE & REGGAETON](https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl) | [HOUSE & REGGAETON](https://open.spotify.com/album/0dUycpeblrjlw6w6r5WTad) | 3:10 |
+| 32 | [HOUSE & REGGAETON](https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl) | [HOUSE & REGGAETON](https://open.spotify.com/album/0dUycpeblrjlw6w6r5WTad) | 3:10 |
+| 33 | [Sin Dormir \(Ya Se Armó\)](https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Sin Dormir \(Ya Se Armó\)](https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A) | 2:40 |
 | 34 | [Todo Tiene Su Final](https://open.spotify.com/track/5To8W2tfQMQKxSGtpcC9Qg) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [ÑEROSTARS](https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU) | 3:10 |
 | 35 | [Exclusive](https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Exclusive](https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O) | 2:50 |
 | 36 | [Morena \(Remix\)](https://open.spotify.com/track/6q4sbXxKDwNiKCZHoonE99) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Morena \(Remix\)](https://open.spotify.com/album/5uxV8NLI5gjSAD1mwW9k3m) | 2:41 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 89 | [Bésame Mucho](https://open.spotify.com/track/6OMiBOznxQaUbNUWGWrvFv) | [Broz](https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln) | [Bésame Mucho](https://open.spotify.com/album/6f5d9SlIVytpz5eIgH6PaJ) | 2:31 |
 | 90 | [Ancara Messi](https://open.spotify.com/track/1aQS0CQAONJqpO2zZi0ZSr) | [Poniboy](https://open.spotify.com/artist/3fs56TuW5WSYNOQi8wjRcd), [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC) | [Ancara Messi](https://open.spotify.com/album/045J1gvKL5Uj3AuKMV89Bf) | 3:13 |
 
-Snapshot ID: `AAAAAIVyaKGVLExHHEHDKY9Hdkq25WbO`
+Snapshot ID: `AAAAAKWgckt+QVYH+XVAPJRMq8Krnpx4`

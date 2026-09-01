@@ -269,6 +269,32 @@
     },
     {
       "album": {
+        "name": "Adrenalin (Remix)",
+        "url": "https://open.spotify.com/album/6tG3ONEybJZq1oosRdHmcm"
+      },
+      "artists": [
+        {
+          "name": "The Boy The G",
+          "url": "https://open.spotify.com/artist/0EG0El2Ozcdnw0xJA77DyO"
+        },
+        {
+          "name": "MilleniumKid",
+          "url": "https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG"
+        },
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        }
+      ],
+      "date_added": "2026-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156774,
+      "name": "Adrenalin - Remix",
+      "url": "https://open.spotify.com/track/3Do6PF80TUBeTJVGyuaiUQ"
+    },
+    {
+      "album": {
         "name": "Airwaves",
         "url": "https://open.spotify.com/album/4ZylcATH7a5JkgNNGXxwhJ"
       },
@@ -1030,7 +1056,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 135242,
       "name": "Bar Song (Tipsy Techno)",
       "url": "https://open.spotify.com/track/3KyuAMSYdYdEiBoAvB9xDh"

@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: Winter Back\)
 
-332 songs - 18 hr 41 min
+333 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [My Bad \(feat\. SHAUN\)](https://open.spotify.com/track/7dQFzMYhTXTtIYyoiiHdr8) | [Advanced](https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY), [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [My Bad \(feat\. SHAUN\)](https://open.spotify.com/album/2L22h8Oxq7vbnKTv5SDfUu) | 3:29 | 2025-10-23 |  |
 | [My Universe \- David Guetta Remix](https://open.spotify.com/track/5FvxRvrQ8qzKjBJ6ST9aiu) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [My Universe \(David Guetta Remix\)](https://open.spotify.com/album/4LcW19D6W1nHpvcJV5s2QI) | 3:19 | 2024-06-28 |  |
 | [NAIL \(feat\. Lolo Zouaï\)](https://open.spotify.com/track/2VdbARHQxe2Oo0PRlXpg4I) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [NAIL](https://open.spotify.com/album/6wXgjwwY1YLZhAQupPi3m4) | 2:42 | 2026-04-20 |  |
-| [Narak](https://open.spotify.com/track/4inxQrdnjvlyphqdkRNufm) | [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN), [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb) | [MOLLAK](https://open.spotify.com/album/6BaXK4Dmqq7gXoOpKVl1zX) | 2:06 | 2025-07-24 |  |
+| [Narak](https://open.spotify.com/track/4inxQrdnjvlyphqdkRNufm) | [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN), [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb) | [MOLLAK](https://open.spotify.com/album/6BaXK4Dmqq7gXoOpKVl1zX) | 2:06 | 2025-07-24 | 2026-09-01 |
 | [Naro](https://open.spotify.com/track/1jUhDjHa2En0BBDlxb43oK) | [H93](https://open.spotify.com/artist/4wQ45RryJ6QjKtVkgo2LVw), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Naro](https://open.spotify.com/album/7iMoYjNMFSKSW7ewvLBSqU) | 2:43 | 2024-06-28 | 2025-05-15 |
 | [Naughty \- Demicat Remix](https://open.spotify.com/track/45g8e6lIciCHoaEDNbY7nA) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl), [Demicat](https://open.spotify.com/artist/3Geym1qRlviofLxjf1L0BK) | [iScreaM Vol.3 : Naughty Remix](https://open.spotify.com/album/5LU3bwPyZz69FfMR7e71SU) | 3:53 | 2024-04-05 | 2024-06-29 |
 | [Next Level \- Habstrakt Remix](https://open.spotify.com/track/34r29cNzzV4elD0XTz1ihT) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [iScreaM Vol.10 : Next Level Remixes](https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY) | 3:20 | 2024-04-05 | 2024-06-29 |
@@ -338,6 +338,7 @@
 | [Your Face](https://open.spotify.com/track/4I0iEpmX812wvEbv2l0q96) | [Forest Music](https://open.spotify.com/artist/7JDHEXYj47HQeeH2ziOPt8) | [Your Face](https://open.spotify.com/album/5yM1envtfaw7hfcIj8gLjT) | 2:39 | 2024-08-10 | 2024-08-15 |
 | [가시권 \(Heart Raider\) \(Inst.\)](https://open.spotify.com/track/5biUKJ4FpDlaFaUBffcX5T) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [4study4work4inst Vol.2](https://open.spotify.com/album/5bLmEt6fMUTRAZGfZDtmzu) | 2:59 | 2025-02-11 | 2025-10-15 |
 | [넘버 원 // NUMMER ETT Part 2 \- Effie & Eurohead Remix](https://open.spotify.com/track/217pG31hswPFS8zFo2KONE) | [Dj Billybool](https://open.spotify.com/artist/1WbYH0xbbvXsjbbkFL2T4k), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f) | [넘버 원 // NUMMER ETT Part 2 \(Effie & Eurohead Remix\)](https://open.spotify.com/album/0aYO5sUYrc65edOubY9saN) | 3:06 | 2026-01-23 |  |
+| [뱅버스](https://open.spotify.com/track/1OpphgmekEGEKf8yH4wP5u) | [250](https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE) | [뽕](https://open.spotify.com/album/1mgIh54hHGhlRkyNsrVW5J) | 4:00 | 2026-08-20 |  |
 | [천생연분 Destiny \(Fyke Remix\)](https://open.spotify.com/track/0BZgJV9s7ib3ysp75hSW8x) | [Solid](https://open.spotify.com/artist/5QxwwdnZNkIl7AyFEPZxX5) | [Into the Light](https://open.spotify.com/album/3zx7uivDY6DW2UrvPs9wua) | 4:03 | 2026-07-03 |  |
 | [희 \(love type shit\)](https://open.spotify.com/track/18aWa24FoxzlPiRkBrGxgC) | [kimj](https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw), [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ), [audiogothh](https://open.spotify.com/artist/1cTacypQyyzMQhsGmmKAyR) | [희 / 노 / 애 / 락](https://open.spotify.com/album/2q4GpFI6Ytc0apj7VnUgvf) | 2:30 | 2026-01-23 | 2026-06-23 |
 

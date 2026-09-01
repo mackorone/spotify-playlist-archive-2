@@ -549,6 +549,24 @@
     },
     {
       "album": {
+        "name": "Raging Daylight",
+        "url": "https://open.spotify.com/album/7AysU1BS4N5bwjtvgaIXHP"
+      },
+      "artists": [
+        {
+          "name": "Electron Revolt",
+          "url": "https://open.spotify.com/artist/7inTXltGl51TDpZAW7BFAm"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Epsilon Eridani",
+      "url": "https://open.spotify.com/track/1kz6DreLvi1iOJc7gNIfDQ"
+    },
+    {
+      "album": {
         "name": "Illusions",
         "url": "https://open.spotify.com/album/3fVRj84OCXO6ac7fUG0EIq"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 25315,
+  "num_followers": 25327,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI7CNvNBML8alkxRdCZGxNfCdbkU",
+  "snapshot_id": "AAAAALDV/hgBjdIrjpyxKSAwoAW3ally",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -883,18 +883,18 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "X-Tra Laps",
-        "url": "https://open.spotify.com/album/0ooAquTpwq99XgS2XEmQYi"
+        "name": "Ok Cool",
+        "url": "https://open.spotify.com/album/3zifa4JgjBDFXzhq2e7Gom"
       },
       "artists": [
         {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+          "name": "CEO Trayle",
+          "url": "https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS"
         }
       ],
-      "duration_ms": 163520,
-      "name": "Bulgari Shades",
-      "url": "https://open.spotify.com/track/5Yg6YjAygNGeBnow6xrCQ6"
+      "duration_ms": 177648,
+      "name": "Ok Cool",
+      "url": "https://open.spotify.com/track/7kOU7qeq1PV6R2ZJcKUyIQ"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -915,6 +915,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "X-Tra Laps",
+        "url": "https://open.spotify.com/album/0ooAquTpwq99XgS2XEmQYi"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 163520,
+      "name": "Bulgari Shades",
+      "url": "https://open.spotify.com/track/5Yg6YjAygNGeBnow6xrCQ6"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/3NnZasbZ8ZHXdnewdLaQT2"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 204048,
       "name": "Cruise Control",
       "url": "https://open.spotify.com/track/6VUP0NVCY6m7enzUyf8MzY"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Ok Cool",
-        "url": "https://open.spotify.com/album/3zifa4JgjBDFXzhq2e7Gom"
-      },
-      "artists": [
-        {
-          "name": "CEO Trayle",
-          "url": "https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS"
-        }
-      ],
-      "duration_ms": 177648,
-      "name": "Ok Cool",
-      "url": "https://open.spotify.com/track/7kOU7qeq1PV6R2ZJcKUyIQ"
     }
   ],
   "unique_name": "Funny Marco's Taste",

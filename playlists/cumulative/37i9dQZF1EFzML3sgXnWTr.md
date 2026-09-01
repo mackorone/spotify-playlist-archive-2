@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-140 songs - 7 hr 8 min
+141 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Per sempre si](https://open.spotify.com/track/1ePROwpZ6DzqGzN2do7r0u) | [Joseph Messina](https://open.spotify.com/artist/55hWEabWXznMkaXLDQT2TC) | [Per sempre si](https://open.spotify.com/album/3ltueIHwQNpAuBNE5fIX60) | 3:32 | 2026-05-08 | 2026-05-20 |
 | [Per sempre sì](https://open.spotify.com/track/70waR0TuhMp9qjNPQiLUp7) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [PER SEMPRE SÌ](https://open.spotify.com/album/4YU8yCSiVxq4JhN4o7AVCs) | 2:55 | 2026-07-30 |  |
 | [Prima di te](https://open.spotify.com/track/58IqnJR6PRquHRqf4jLbdi) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Prima di te](https://open.spotify.com/album/5t9ito4iEA9Qo9tTOMFpdp) | 2:38 | 2022-09-16 |  |
+| [PRIMADONNA](https://open.spotify.com/track/1FvUDxu2HRYXBlEq98fRbQ) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMADONNA](https://open.spotify.com/album/4V9Qxnq6EgjVluHd7eGRdb) | 2:54 | 2026-08-31 |  |
 | [Qué es](https://open.spotify.com/track/4GKGNCzRNLVyiImJ0kRXiN) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Almas paralelas](https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb) | 3:20 | 2023-12-13 |  |
 | [RAGAZZI FUORI](https://open.spotify.com/track/6ESqYk01s6jNv0YFv2vguz) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t) | 2:56 | 2024-02-23 | 2025-01-06 |
 | [RAGAZZI FUORI](https://open.spotify.com/track/6fJcbngwZoGyhpO1JOHI2R) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 2:56 | 2025-01-05 |  |

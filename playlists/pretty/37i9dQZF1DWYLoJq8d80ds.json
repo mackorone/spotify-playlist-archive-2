@@ -1,47 +1,15 @@
 {
   "description": "El campo suena fuerte. Sumate a la fiesta. Foto: Angelo Aranda",
-  "num_followers": 68355,
+  "num_followers": 68388,
   "original_name": "Baile Campero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGuG3oTUl+65fTf2w11MGD3kpVkU",
+  "snapshot_id": "AAAAAIdeZmx2Nr0INUHgwb3IbXioCw0n",
   "tracks": [
     {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "Llora El Algarrobo",
-        "url": "https://open.spotify.com/album/27nqwCB1Ma05TtWGX8I2mH"
-      },
-      "artists": [
-        {
-          "name": "Angelo Aranda",
-          "url": "https://open.spotify.com/artist/2POxd8HkITwIlGFlqmm6Gz"
-        }
-      ],
-      "duration_ms": 164739,
-      "name": "Llora El Algarrobo",
-      "url": "https://open.spotify.com/track/1lZW59e8PvB83uoJBRuyht"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "Cuidado Que Te Supero",
-        "url": "https://open.spotify.com/album/09u9HmOtRrrBHFhEaXzsZY"
-      },
-      "artists": [
-        {
-          "name": "Sharon y los Camperos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP"
-        }
-      ],
-      "duration_ms": 225881,
-      "name": "Cuidado Que Te Supero",
-      "url": "https://open.spotify.com/track/6qGmdKRvLumRqcjq5vKAOi"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
+      "added_at": "2026-08-31 21:28:36",
       "album": {
         "name": "Como Te Va Mi Amor",
         "url": "https://open.spotify.com/album/0LKV4Pbh23KZctVhu5UIqc"
@@ -57,7 +25,7 @@
       "url": "https://open.spotify.com/track/3ric5WX5FFYZj0VU9vXFkY"
     },
     {
-      "added_at": "2026-08-21 18:25:14",
+      "added_at": "2026-08-31 21:28:36",
       "album": {
         "name": "Me Duele Que Me Duelas",
         "url": "https://open.spotify.com/album/0WnPItcpjzY6FjYhKAiNg8"
@@ -81,23 +49,71 @@
       "url": "https://open.spotify.com/track/1ffCdMrIr6EMA0oSrRm38g"
     },
     {
-      "added_at": "2026-08-21 18:25:14",
+      "added_at": "2026-08-31 21:28:36",
       "album": {
-        "name": "De Iv\u00fd Por\u00e1",
-        "url": "https://open.spotify.com/album/5FVaQqqTffTkUnJwWsweSL"
+        "name": "Cuidado Que Te Supero",
+        "url": "https://open.spotify.com/album/09u9HmOtRrrBHFhEaXzsZY"
       },
       "artists": [
         {
-          "name": "L\u00e1zaro Caballero",
-          "url": "https://open.spotify.com/artist/3KwYcQJwieAX356xu883lc"
+          "name": "Sharon y los Camperos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP"
         }
       ],
-      "duration_ms": 213023,
-      "name": "Tu Inocencia",
-      "url": "https://open.spotify.com/track/340a8UYIDlg5XCsBi527yz"
+      "duration_ms": 225881,
+      "name": "Cuidado Que Te Supero",
+      "url": "https://open.spotify.com/track/6qGmdKRvLumRqcjq5vKAOi"
     },
     {
-      "added_at": "2026-08-21 18:25:14",
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "Llora El Algarrobo",
+        "url": "https://open.spotify.com/album/27nqwCB1Ma05TtWGX8I2mH"
+      },
+      "artists": [
+        {
+          "name": "Angelo Aranda",
+          "url": "https://open.spotify.com/artist/2POxd8HkITwIlGFlqmm6Gz"
+        }
+      ],
+      "duration_ms": 164739,
+      "name": "Llora El Algarrobo",
+      "url": "https://open.spotify.com/track/1lZW59e8PvB83uoJBRuyht"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "La otra cara de Jujuy",
+        "url": "https://open.spotify.com/album/1VtGeBT0FGkEDrhMMG3FY9"
+      },
+      "artists": [
+        {
+          "name": "Los Criollos",
+          "url": "https://open.spotify.com/artist/1TsCyGV3RvaqP5liAwEwkK"
+        }
+      ],
+      "duration_ms": 198123,
+      "name": "Piel de Leon",
+      "url": "https://open.spotify.com/track/75iX6XU6KBkiSo27beYQcU"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "La Noche Sin Ti",
+        "url": "https://open.spotify.com/album/0vRaZv3NzBGPGxJew5DjG0"
+      },
+      "artists": [
+        {
+          "name": "Santiago Ca\u00f1ete",
+          "url": "https://open.spotify.com/artist/3t9iUHXTw9NmuEvmtUWEl2"
+        }
+      ],
+      "duration_ms": 205531,
+      "name": "La Noche Sin Ti",
+      "url": "https://open.spotify.com/track/5FkMmjJlQ0uWwNNTdGd3Q8"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
       "album": {
         "name": "Por lo que yo te quiero",
         "url": "https://open.spotify.com/album/63pauWBOOFrUirzHVQjsl6"
@@ -117,187 +133,47 @@
       "url": "https://open.spotify.com/track/7I8GWKDofbsFxltT7c4YNy"
     },
     {
-      "added_at": "2026-08-21 18:25:14",
+      "added_at": "2026-08-31 21:28:36",
       "album": {
-        "name": "Soy lo Que Canto",
-        "url": "https://open.spotify.com/album/3vGg8mrk4xejh8nyOr0M1z"
+        "name": "Entre amores y Chamam\u00e9",
+        "url": "https://open.spotify.com/album/3NjdoqSlW06xPOtMZftfQb"
       },
       "artists": [
         {
-          "name": "L\u00e1zaro Caballero",
-          "url": "https://open.spotify.com/artist/3KwYcQJwieAX356xu883lc"
-        }
-      ],
-      "duration_ms": 205960,
-      "name": "Lindo Adorno Pa' Mi Apero",
-      "url": "https://open.spotify.com/track/3sw3aFLZLIoZDUjVaIuJqs"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "Coraz\u00f3n De Miel",
-        "url": "https://open.spotify.com/album/60LvR5wfdohCTsC2hHZcWg"
-      },
-      "artists": [
-        {
-          "name": "Santiago Cueto",
-          "url": "https://open.spotify.com/artist/4j9cDWnN31cSYsTFu7BRv5"
-        }
-      ],
-      "duration_ms": 257575,
-      "name": "Coraz\u00f3n De Miel",
-      "url": "https://open.spotify.com/track/1GPjUhTU9ihZwzq6YmcwPn"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "Quien Me Devuelve el Tiempo",
-        "url": "https://open.spotify.com/album/1VEGG9ujs2GBx13EojKGEM"
-      },
-      "artists": [
-        {
-          "name": "Santiago Ca\u00f1ete",
-          "url": "https://open.spotify.com/artist/3t9iUHXTw9NmuEvmtUWEl2"
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
         },
         {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+          "name": "Sharon y los Camperos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP"
         }
       ],
-      "duration_ms": 165967,
-      "name": "Quien Me Devuelve el Tiempo",
-      "url": "https://open.spotify.com/track/1Zub35gN713TsTSaLnl4m8"
+      "duration_ms": 199233,
+      "name": "Alguien mejor que yo",
+      "url": "https://open.spotify.com/track/4UGbuwvV80ie1GhsWTEy1S"
     },
     {
-      "added_at": "2026-08-21 18:25:14",
+      "added_at": "2026-08-31 21:28:36",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
+        "name": "No Se Vale",
+        "url": "https://open.spotify.com/album/5f9RTJ4tzhxqNkkrLoU1h1"
       },
       "artists": [
         {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 249217,
-      "name": "Dueles",
-      "url": "https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "La Noche Sin Ti",
-        "url": "https://open.spotify.com/album/0vRaZv3NzBGPGxJew5DjG0"
-      },
-      "artists": [
+          "name": "Tunay",
+          "url": "https://open.spotify.com/artist/2DOko7nsPsOifCkDahE8o4"
+        },
         {
-          "name": "Santiago Ca\u00f1ete",
-          "url": "https://open.spotify.com/artist/3t9iUHXTw9NmuEvmtUWEl2"
+          "name": "Ivan Ruiz",
+          "url": "https://open.spotify.com/artist/6HeK6jYeAJx6zZ0ebVZ7xR"
         }
       ],
-      "duration_ms": 205531,
-      "name": "La Noche Sin Ti",
-      "url": "https://open.spotify.com/track/5FkMmjJlQ0uWwNNTdGd3Q8"
+      "duration_ms": 202714,
+      "name": "No Se Vale",
+      "url": "https://open.spotify.com/track/1GgxYXwq80DryA3FrIY2tU"
     },
     {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "Fiesta Chaque\u00f1a",
-        "url": "https://open.spotify.com/album/6aAhkNUxhrNQnwoIXXagmU"
-      },
-      "artists": [
-        {
-          "name": "Pal Estribo",
-          "url": "https://open.spotify.com/artist/1pPKjKwUDepKome2myqvWt"
-        }
-      ],
-      "duration_ms": 256266,
-      "name": "La Mejor de Todas",
-      "url": "https://open.spotify.com/track/5LurA4lreJTIZSonSwhEtq"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "Siempre Chaque\u00f1o Ser\u00e9",
-        "url": "https://open.spotify.com/album/7ubNon6hL84WzO4gniXGrU"
-      },
-      "artists": [
-        {
-          "name": "Chaque\u00f1o Palavecino",
-          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
-        }
-      ],
-      "duration_ms": 184432,
-      "name": "Siempre Chaque\u00f1o Ser\u00e9",
-      "url": "https://open.spotify.com/track/5QsE9o3fVm9PNFTvUyMu8g"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "Ya te olvid\u00e9",
-        "url": "https://open.spotify.com/album/6gnArPx4Dq1UoKdvSNWp3r"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 147310,
-      "name": "Ya te olvid\u00e9",
-      "url": "https://open.spotify.com/track/5O1bcqKBlyEkYDFKXe8p7c"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "Que Agon\u00eda",
-        "url": "https://open.spotify.com/album/2D11vgrigxDzzVp8dLukqd"
-      },
-      "artists": [
-        {
-          "name": "Alma Chaque\u00f1a",
-          "url": "https://open.spotify.com/artist/3fPh0oV5t5u5MzfAHOT1iD"
-        }
-      ],
-      "duration_ms": 176135,
-      "name": "Que Agon\u00eda",
-      "url": "https://open.spotify.com/track/5cGd8Jl9Sd1u1fP8X7T8XE"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "La de los Violineros",
-        "url": "https://open.spotify.com/album/6JaE72sn3c5Gnj80EVSb5C"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 161865,
-      "name": "La de los Violineros",
-      "url": "https://open.spotify.com/track/0BuGlPsJYERQO0sTtIAaYW"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "La otra cara de Jujuy",
-        "url": "https://open.spotify.com/album/1VtGeBT0FGkEDrhMMG3FY9"
-      },
-      "artists": [
-        {
-          "name": "Los Criollos",
-          "url": "https://open.spotify.com/artist/1TsCyGV3RvaqP5liAwEwkK"
-        }
-      ],
-      "duration_ms": 198123,
-      "name": "Piel de Leon",
-      "url": "https://open.spotify.com/track/75iX6XU6KBkiSo27beYQcU"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
+      "added_at": "2026-08-31 21:28:36",
       "album": {
         "name": "Ya Te Olvid\u00e9",
         "url": "https://open.spotify.com/album/0ONCIXPInCcfuBaCsC360Y"
@@ -321,7 +197,307 @@
       "url": "https://open.spotify.com/track/1OJbMLKxU3EItYBSHQtvsf"
     },
     {
-      "added_at": "2026-08-21 18:25:14",
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "Que Agon\u00eda",
+        "url": "https://open.spotify.com/album/2D11vgrigxDzzVp8dLukqd"
+      },
+      "artists": [
+        {
+          "name": "Alma Chaque\u00f1a",
+          "url": "https://open.spotify.com/artist/3fPh0oV5t5u5MzfAHOT1iD"
+        }
+      ],
+      "duration_ms": 176135,
+      "name": "Que Agon\u00eda",
+      "url": "https://open.spotify.com/track/5cGd8Jl9Sd1u1fP8X7T8XE"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "Ya te olvid\u00e9",
+        "url": "https://open.spotify.com/album/6gnArPx4Dq1UoKdvSNWp3r"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 147310,
+      "name": "Ya te olvid\u00e9",
+      "url": "https://open.spotify.com/track/5O1bcqKBlyEkYDFKXe8p7c"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "Siempre Chaque\u00f1o Ser\u00e9",
+        "url": "https://open.spotify.com/album/7ubNon6hL84WzO4gniXGrU"
+      },
+      "artists": [
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "duration_ms": 184432,
+      "name": "Siempre Chaque\u00f1o Ser\u00e9",
+      "url": "https://open.spotify.com/track/5QsE9o3fVm9PNFTvUyMu8g"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "Fiesta Chaque\u00f1a",
+        "url": "https://open.spotify.com/album/6aAhkNUxhrNQnwoIXXagmU"
+      },
+      "artists": [
+        {
+          "name": "Pal Estribo",
+          "url": "https://open.spotify.com/artist/1pPKjKwUDepKome2myqvWt"
+        }
+      ],
+      "duration_ms": 256266,
+      "name": "La Mejor de Todas",
+      "url": "https://open.spotify.com/track/5LurA4lreJTIZSonSwhEtq"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 249217,
+      "name": "Dueles",
+      "url": "https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "Coraz\u00f3n De Miel",
+        "url": "https://open.spotify.com/album/60LvR5wfdohCTsC2hHZcWg"
+      },
+      "artists": [
+        {
+          "name": "Santiago Cueto",
+          "url": "https://open.spotify.com/artist/4j9cDWnN31cSYsTFu7BRv5"
+        }
+      ],
+      "duration_ms": 257575,
+      "name": "Coraz\u00f3n De Miel",
+      "url": "https://open.spotify.com/track/1GPjUhTU9ihZwzq6YmcwPn"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "Soy lo Que Canto",
+        "url": "https://open.spotify.com/album/3vGg8mrk4xejh8nyOr0M1z"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1zaro Caballero",
+          "url": "https://open.spotify.com/artist/3KwYcQJwieAX356xu883lc"
+        }
+      ],
+      "duration_ms": 205960,
+      "name": "Lindo Adorno Pa' Mi Apero",
+      "url": "https://open.spotify.com/track/3sw3aFLZLIoZDUjVaIuJqs"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "De Iv\u00fd Por\u00e1",
+        "url": "https://open.spotify.com/album/5FVaQqqTffTkUnJwWsweSL"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1zaro Caballero",
+          "url": "https://open.spotify.com/artist/3KwYcQJwieAX356xu883lc"
+        }
+      ],
+      "duration_ms": 213023,
+      "name": "Tu Inocencia",
+      "url": "https://open.spotify.com/track/340a8UYIDlg5XCsBi527yz"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "Esta Noche Contigo",
+        "url": "https://open.spotify.com/album/6ngwGtxMlW9HNm74OJtQNu"
+      },
+      "artists": [
+        {
+          "name": "Amantes Inocentes",
+          "url": "https://open.spotify.com/artist/6R4bupWR3q13uugfJoAojF"
+        },
+        {
+          "name": "Sergio Galleguillo",
+          "url": "https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt"
+        }
+      ],
+      "duration_ms": 200653,
+      "name": "Esta Noche Contigo",
+      "url": "https://open.spotify.com/track/33ODbW4i7C79jap5HmjaIa"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "De la Banda a Santiago",
+        "url": "https://open.spotify.com/album/0Zk9sKFgSwNKXGCp9Fj6ij"
+      },
+      "artists": [
+        {
+          "name": "Los Umbides",
+          "url": "https://open.spotify.com/artist/0DxbVzKVz8KcgfgkcvISlx"
+        },
+        {
+          "name": "Roxana Carabajal",
+          "url": "https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP"
+        }
+      ],
+      "duration_ms": 142037,
+      "name": "De la Banda a Santiago",
+      "url": "https://open.spotify.com/track/4bRwYTLSLJY8d4YLpERlNB"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "Alegrando Pagos",
+        "url": "https://open.spotify.com/album/1GMI1VtY4Me1UNdCmJulrj"
+      },
+      "artists": [
+        {
+          "name": "Piko Frank",
+          "url": "https://open.spotify.com/artist/3mI58DYVnkz2fYOtmogyOi"
+        }
+      ],
+      "duration_ms": 148786,
+      "name": "La Mocha Ahorcada",
+      "url": "https://open.spotify.com/track/2Ov0AKm6FwX3fustanLEht"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "Yo Te Entiendo Mejor",
+        "url": "https://open.spotify.com/album/5Vx6x2f68bw9T1xqrgM7RG"
+      },
+      "artists": [
+        {
+          "name": "Maite Guzm\u00e1n y Su Estilo Campero",
+          "url": "https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz"
+        }
+      ],
+      "duration_ms": 184521,
+      "name": "Yo Te Entiendo Mejor",
+      "url": "https://open.spotify.com/track/1auj5iyTVPB4xyln9rTp6M"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "Bien sencillo",
+        "url": "https://open.spotify.com/album/1UOBjv9KaXAY0AKviOgy6D"
+      },
+      "artists": [
+        {
+          "name": "Los Criollos",
+          "url": "https://open.spotify.com/artist/1TsCyGV3RvaqP5liAwEwkK"
+        }
+      ],
+      "duration_ms": 207931,
+      "name": "Maravillosa esta noche",
+      "url": "https://open.spotify.com/track/07xCDKEuGKAp36L02UPHJe"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/3lo7VnT4ZTWfE239uafnK8"
+      },
+      "artists": [
+        {
+          "name": "Angelo Aranda",
+          "url": "https://open.spotify.com/artist/2POxd8HkITwIlGFlqmm6Gz"
+        }
+      ],
+      "duration_ms": 191864,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/2sSdotDRgZjEz67CJAUg0o"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "Punto Final / \u00bfQu\u00e9 Hacemos, Qu\u00e9 Hacemos?",
+        "url": "https://open.spotify.com/album/1DQaUVcbnHQb8DQzROrJie"
+      },
+      "artists": [
+        {
+          "name": "Tunay",
+          "url": "https://open.spotify.com/artist/2DOko7nsPsOifCkDahE8o4"
+        }
+      ],
+      "duration_ms": 225857,
+      "name": "Punto Final / \u00bfQu\u00e9 Hacemos, Qu\u00e9 Hacemos?",
+      "url": "https://open.spotify.com/track/3k9UeD2AVJwGo9APj2hAHP"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "Los 20 A\u00f1os de Los Manseros Santiague\u00f1os",
+        "url": "https://open.spotify.com/album/175Pk8soXmGSZPy2R6Ic3n"
+      },
+      "artists": [
+        {
+          "name": "Los Manseros Santiague\u00f1os",
+          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
+        }
+      ],
+      "duration_ms": 170733,
+      "name": "El Dolor de Nuestras Vidas",
+      "url": "https://open.spotify.com/track/0CFeT8jqA0D369nfsn2dUp"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/1tDPYZoGKYQPyo6qcm7yWU"
+      },
+      "artists": [
+        {
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+        }
+      ],
+      "duration_ms": 155800,
+      "name": "La Revancha",
+      "url": "https://open.spotify.com/track/32tw6sBHtgnsh36g2voewK"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "Todos a bailar (Feat. Los Carabajal & Leandro Lovato)",
+        "url": "https://open.spotify.com/album/3Hn9aFx7d6Gon6TPDNvKXa"
+      },
+      "artists": [
+        {
+          "name": "Canto 4",
+          "url": "https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq"
+        },
+        {
+          "name": "Los Carabajal & Leandro Lovato",
+          "url": "https://open.spotify.com/artist/4Eaf2pySnX1znhdnLpmJQi"
+        }
+      ],
+      "duration_ms": 140243,
+      "name": "Todos a bailar - Feat. Los Carabajal & Leandro Lovato",
+      "url": "https://open.spotify.com/track/50GrKcRst0KzdkUeO08r34"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
       "album": {
         "name": "La Voz Del Viento",
         "url": "https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a"
@@ -353,255 +529,43 @@
       "url": "https://open.spotify.com/track/5zoqKvQ83lGJHqR8fgTaMp"
     },
     {
-      "added_at": "2026-08-21 18:25:14",
+      "added_at": "2026-08-31 21:28:36",
       "album": {
-        "name": "No Se Vale",
-        "url": "https://open.spotify.com/album/5f9RTJ4tzhxqNkkrLoU1h1"
+        "name": "La de los Violineros",
+        "url": "https://open.spotify.com/album/6JaE72sn3c5Gnj80EVSb5C"
       },
       "artists": [
         {
-          "name": "Tunay",
-          "url": "https://open.spotify.com/artist/2DOko7nsPsOifCkDahE8o4"
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "duration_ms": 161865,
+      "name": "La de los Violineros",
+      "url": "https://open.spotify.com/track/0BuGlPsJYERQO0sTtIAaYW"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "Quien Me Devuelve el Tiempo",
+        "url": "https://open.spotify.com/album/1VEGG9ujs2GBx13EojKGEM"
+      },
+      "artists": [
+        {
+          "name": "Santiago Ca\u00f1ete",
+          "url": "https://open.spotify.com/artist/3t9iUHXTw9NmuEvmtUWEl2"
         },
         {
-          "name": "Ivan Ruiz",
-          "url": "https://open.spotify.com/artist/6HeK6jYeAJx6zZ0ebVZ7xR"
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
         }
       ],
-      "duration_ms": 202714,
-      "name": "No Se Vale",
-      "url": "https://open.spotify.com/track/1GgxYXwq80DryA3FrIY2tU"
+      "duration_ms": 165967,
+      "name": "Quien Me Devuelve el Tiempo",
+      "url": "https://open.spotify.com/track/1Zub35gN713TsTSaLnl4m8"
     },
     {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "Todos a bailar (Feat. Los Carabajal & Leandro Lovato)",
-        "url": "https://open.spotify.com/album/3Hn9aFx7d6Gon6TPDNvKXa"
-      },
-      "artists": [
-        {
-          "name": "Canto 4",
-          "url": "https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq"
-        },
-        {
-          "name": "Los Carabajal & Leandro Lovato",
-          "url": "https://open.spotify.com/artist/4Eaf2pySnX1znhdnLpmJQi"
-        }
-      ],
-      "duration_ms": 140243,
-      "name": "Todos a bailar - Feat. Los Carabajal & Leandro Lovato",
-      "url": "https://open.spotify.com/track/50GrKcRst0KzdkUeO08r34"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "La Noche Perfecta",
-        "url": "https://open.spotify.com/album/1tDPYZoGKYQPyo6qcm7yWU"
-      },
-      "artists": [
-        {
-          "name": "Campedrinos",
-          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
-        }
-      ],
-      "duration_ms": 155800,
-      "name": "La Revancha",
-      "url": "https://open.spotify.com/track/32tw6sBHtgnsh36g2voewK"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "Entre amores y Chamam\u00e9",
-        "url": "https://open.spotify.com/album/3NjdoqSlW06xPOtMZftfQb"
-      },
-      "artists": [
-        {
-          "name": "Santhyago Rios",
-          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
-        },
-        {
-          "name": "Sharon y los Camperos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP"
-        }
-      ],
-      "duration_ms": 199233,
-      "name": "Alguien mejor que yo",
-      "url": "https://open.spotify.com/track/4UGbuwvV80ie1GhsWTEy1S"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "Los 20 A\u00f1os de Los Manseros Santiague\u00f1os",
-        "url": "https://open.spotify.com/album/175Pk8soXmGSZPy2R6Ic3n"
-      },
-      "artists": [
-        {
-          "name": "Los Manseros Santiague\u00f1os",
-          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
-        }
-      ],
-      "duration_ms": 170733,
-      "name": "El Dolor de Nuestras Vidas",
-      "url": "https://open.spotify.com/track/0CFeT8jqA0D369nfsn2dUp"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "Punto Final / \u00bfQu\u00e9 Hacemos, Qu\u00e9 Hacemos?",
-        "url": "https://open.spotify.com/album/1DQaUVcbnHQb8DQzROrJie"
-      },
-      "artists": [
-        {
-          "name": "Tunay",
-          "url": "https://open.spotify.com/artist/2DOko7nsPsOifCkDahE8o4"
-        }
-      ],
-      "duration_ms": 225857,
-      "name": "Punto Final / \u00bfQu\u00e9 Hacemos, Qu\u00e9 Hacemos?",
-      "url": "https://open.spotify.com/track/3k9UeD2AVJwGo9APj2hAHP"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "Linda",
-        "url": "https://open.spotify.com/album/3lo7VnT4ZTWfE239uafnK8"
-      },
-      "artists": [
-        {
-          "name": "Angelo Aranda",
-          "url": "https://open.spotify.com/artist/2POxd8HkITwIlGFlqmm6Gz"
-        }
-      ],
-      "duration_ms": 191864,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/2sSdotDRgZjEz67CJAUg0o"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "Bien sencillo",
-        "url": "https://open.spotify.com/album/1UOBjv9KaXAY0AKviOgy6D"
-      },
-      "artists": [
-        {
-          "name": "Los Criollos",
-          "url": "https://open.spotify.com/artist/1TsCyGV3RvaqP5liAwEwkK"
-        }
-      ],
-      "duration_ms": 207931,
-      "name": "Maravillosa esta noche",
-      "url": "https://open.spotify.com/track/07xCDKEuGKAp36L02UPHJe"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "Yo Te Entiendo Mejor",
-        "url": "https://open.spotify.com/album/5Vx6x2f68bw9T1xqrgM7RG"
-      },
-      "artists": [
-        {
-          "name": "Maite Guzm\u00e1n y Su Estilo Campero",
-          "url": "https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz"
-        }
-      ],
-      "duration_ms": 184521,
-      "name": "Yo Te Entiendo Mejor",
-      "url": "https://open.spotify.com/track/1auj5iyTVPB4xyln9rTp6M"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "Alegrando Pagos",
-        "url": "https://open.spotify.com/album/1GMI1VtY4Me1UNdCmJulrj"
-      },
-      "artists": [
-        {
-          "name": "Piko Frank",
-          "url": "https://open.spotify.com/artist/3mI58DYVnkz2fYOtmogyOi"
-        }
-      ],
-      "duration_ms": 148786,
-      "name": "La Mocha Ahorcada",
-      "url": "https://open.spotify.com/track/2Ov0AKm6FwX3fustanLEht"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "De la Banda a Santiago",
-        "url": "https://open.spotify.com/album/0Zk9sKFgSwNKXGCp9Fj6ij"
-      },
-      "artists": [
-        {
-          "name": "Los Umbides",
-          "url": "https://open.spotify.com/artist/0DxbVzKVz8KcgfgkcvISlx"
-        },
-        {
-          "name": "Roxana Carabajal",
-          "url": "https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP"
-        }
-      ],
-      "duration_ms": 142037,
-      "name": "De la Banda a Santiago",
-      "url": "https://open.spotify.com/track/4bRwYTLSLJY8d4YLpERlNB"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "Esta Noche Contigo",
-        "url": "https://open.spotify.com/album/6ngwGtxMlW9HNm74OJtQNu"
-      },
-      "artists": [
-        {
-          "name": "Amantes Inocentes",
-          "url": "https://open.spotify.com/artist/6R4bupWR3q13uugfJoAojF"
-        },
-        {
-          "name": "Sergio Galleguillo",
-          "url": "https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt"
-        }
-      ],
-      "duration_ms": 200653,
-      "name": "Esta Noche Contigo",
-      "url": "https://open.spotify.com/track/33ODbW4i7C79jap5HmjaIa"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/3LYIjlH1k8SG6Mrhu7eehs"
-      },
-      "artists": [
-        {
-          "name": "Paquito Oca\u00f1o El Due\u00f1o de la Bailanta",
-          "url": "https://open.spotify.com/artist/0R3DEo6gzaZO8j5RWm3b0S"
-        },
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 177502,
-      "name": "Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/0pGUeNK8sRrr6K6mt4jWmB"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
-      "album": {
-        "name": "Angel o Demonio",
-        "url": "https://open.spotify.com/album/7yCuB9Ko2SP9aRYpZ8Mg1p"
-      },
-      "artists": [
-        {
-          "name": "Christian Herrera y Matacos",
-          "url": "https://open.spotify.com/artist/2TcOOjVN4yyZhYxdSlL2WD"
-        }
-      ],
-      "duration_ms": 200469,
-      "name": "Angel o Demonio",
-      "url": "https://open.spotify.com/track/5lsgrqKy2rEMFAHZtUNcHc"
-    },
-    {
-      "added_at": "2026-08-21 18:25:14",
+      "added_at": "2026-08-31 21:28:36",
       "album": {
         "name": "TERNURA FOLK",
         "url": "https://open.spotify.com/album/6JltHrY2RjHdorEy3bFwye"
@@ -619,6 +583,42 @@
       "duration_ms": 236452,
       "name": "Le\u00f3n Herido",
       "url": "https://open.spotify.com/track/1NozLbd1xBSHigq4yWbrJi"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "Angel o Demonio",
+        "url": "https://open.spotify.com/album/7yCuB9Ko2SP9aRYpZ8Mg1p"
+      },
+      "artists": [
+        {
+          "name": "Christian Herrera y Matacos",
+          "url": "https://open.spotify.com/artist/2TcOOjVN4yyZhYxdSlL2WD"
+        }
+      ],
+      "duration_ms": 200469,
+      "name": "Angel o Demonio",
+      "url": "https://open.spotify.com/track/5lsgrqKy2rEMFAHZtUNcHc"
+    },
+    {
+      "added_at": "2026-08-31 21:28:36",
+      "album": {
+        "name": "Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/3LYIjlH1k8SG6Mrhu7eehs"
+      },
+      "artists": [
+        {
+          "name": "Paquito Oca\u00f1o El Due\u00f1o de la Bailanta",
+          "url": "https://open.spotify.com/artist/0R3DEo6gzaZO8j5RWm3b0S"
+        },
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 177502,
+      "name": "Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/0pGUeNK8sRrr6K6mt4jWmB"
     }
   ],
   "unique_name": "Baile Campero",

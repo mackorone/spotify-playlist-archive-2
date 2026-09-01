@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Rudimental, Original Koffee, Winny
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,966 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,961 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [Can't Say Nah \(feat\. Benni Ola\)](https://open.spotify.com/track/1wQYUksfWhqFKcoQzjHGHO) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Benni Ola](https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg) | [Can't Say Nah \(feat\. Benni Ola\)](https://open.spotify.com/album/0AuEj2bM9gDOf4tNzBpOjW) | 3:13 |
 | 100 | [For The Girls](https://open.spotify.com/track/2FcpOyFM5JRkKW7Y5xB3vX) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [For The Girls](https://open.spotify.com/album/52KpLYqodi1WCoHL4Cljdq) | 2:30 |
 
-Snapshot ID: `AAAAAFez2WAVsAyxjvTOgJO662r/KBEG`
+Snapshot ID: `AAAAABk+c1p326QWdhzcrKQK4s7wysyB`

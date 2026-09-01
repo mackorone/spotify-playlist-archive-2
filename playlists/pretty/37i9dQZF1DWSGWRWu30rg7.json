@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMR9GtA4sDIVlE2OKoX21KjrkB9S",
+  "snapshot_id": "AAAAAGvvkzU3vtolXzKRLQLoKuZRDlqo",
   "tracks": [
     {
       "added_at": "2026-08-26 12:03:08",
@@ -375,22 +375,6 @@
       "duration_ms": 183061,
       "name": "Okaeri",
       "url": "https://open.spotify.com/track/62ArbVY4BfipwTwOibWv7q"
-    },
-    {
-      "added_at": "2026-08-26 12:03:08",
-      "album": {
-        "name": "Siklus Tanpa Ujung",
-        "url": "https://open.spotify.com/album/4nxPANJDRb2Kf9lQ7i76zG"
-      },
-      "artists": [
-        {
-          "name": "Gema Paradoks",
-          "url": "https://open.spotify.com/artist/3KmEWwXTi8umwj5xIDGrqd"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Siklus Tanpa Ujung",
-      "url": "https://open.spotify.com/track/6h75ul5GuUtqwpCecqWHR7"
     },
     {
       "added_at": "2026-08-26 12:03:08",

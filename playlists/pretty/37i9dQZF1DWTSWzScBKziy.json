@@ -1,12 +1,12 @@
 {
   "description": "Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres. Cover: Anne Wilson",
-  "num_followers": 437933,
+  "num_followers": 438016,
   "original_name": "Faith Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAm/dhABJT5OlLXaJj5uVsYj22HK",
+  "snapshot_id": "AAAAAFl58sfGQqUU6yhkb9IzEMB4bs2o",
   "tracks": [
     {
       "added_at": "2026-08-21 09:34:27",
@@ -279,18 +279,18 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "Devil In The Water",
-        "url": "https://open.spotify.com/album/2qkjXIonO3FZbiZsAnU53O"
+        "name": "give + take (Live)",
+        "url": "https://open.spotify.com/album/5JdrLRSKjDwu0FUz7MlmO3"
       },
       "artists": [
         {
-          "name": "Hailey Hutcheson",
-          "url": "https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i"
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
         }
       ],
-      "duration_ms": 176162,
-      "name": "Devil In The Water",
-      "url": "https://open.spotify.com/track/2JNQDnUAuL9HAsbDt8wGbQ"
+      "duration_ms": 427500,
+      "name": "give + take - Live",
+      "url": "https://open.spotify.com/track/1IJE2gUInKnEGb1n8ejasF"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -315,18 +315,18 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "give + take (Live)",
-        "url": "https://open.spotify.com/album/5JdrLRSKjDwu0FUz7MlmO3"
+        "name": "Devil In The Water",
+        "url": "https://open.spotify.com/album/2qkjXIonO3FZbiZsAnU53O"
       },
       "artists": [
         {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+          "name": "Hailey Hutcheson",
+          "url": "https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i"
         }
       ],
-      "duration_ms": 427500,
-      "name": "give + take - Live",
-      "url": "https://open.spotify.com/track/1IJE2gUInKnEGb1n8ejasF"
+      "duration_ms": 176162,
+      "name": "Devil In The Water",
+      "url": "https://open.spotify.com/track/2JNQDnUAuL9HAsbDt8wGbQ"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -459,26 +459,6 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "YOU CAN ALWAYS COME BACK HOME",
-        "url": "https://open.spotify.com/album/2ZKYQ4pgjZ87oMJBhdDV1Q"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 231901,
-      "name": "YOU CAN ALWAYS COME BACK HOME",
-      "url": "https://open.spotify.com/track/1XCWAofU9kAmdHda2dJpbj"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
         "name": "usher in the spirit again",
         "url": "https://open.spotify.com/album/4JhuXIkQ2Hrk26reQjYxrz"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 184000,
       "name": "usher in the spirit again",
       "url": "https://open.spotify.com/track/2fpkGSy1zkSHDDMEET03VA"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
+        "name": "YOU CAN ALWAYS COME BACK HOME",
+        "url": "https://open.spotify.com/album/2ZKYQ4pgjZ87oMJBhdDV1Q"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 231901,
+      "name": "YOU CAN ALWAYS COME BACK HOME",
+      "url": "https://open.spotify.com/track/1XCWAofU9kAmdHda2dJpbj"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
+        "name": "King Of Heaven",
+        "url": "https://open.spotify.com/album/2Yd4ffqW6EeHqG2U3kl4Sx"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "duration_ms": 237715,
+      "name": "King Of Heaven",
+      "url": "https://open.spotify.com/track/7HDXr0iDy4w7TVnOCWxmxi"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
         "name": "You Don't Own Me",
         "url": "https://open.spotify.com/album/5Q0uoiK8kOR4J3IrPBhTFA"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 166659,
       "name": "You Don't Own Me",
       "url": "https://open.spotify.com/track/4jupFUCWc0s6whPrOq83w4"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
-        "name": "King Of Heaven",
-        "url": "https://open.spotify.com/album/2Yd4ffqW6EeHqG2U3kl4Sx"
-      },
-      "artists": [
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        }
-      ],
-      "duration_ms": 237715,
-      "name": "King Of Heaven",
-      "url": "https://open.spotify.com/track/7HDXr0iDy4w7TVnOCWxmxi"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "The Real Thing",
-        "url": "https://open.spotify.com/album/4oc12KtV51B0yIKDl6LYUF"
-      },
-      "artists": [
-        {
-          "name": "Franni Cash",
-          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
-        }
-      ],
-      "duration_ms": 211353,
-      "name": "The Real Thing",
-      "url": "https://open.spotify.com/track/1NmD4evCpIlbx0vtjSgatM"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
         "name": "How Great Is The Greatness Of God",
         "url": "https://open.spotify.com/album/6kxhiPvCosAl1WkkEwDghM"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 211355,
       "name": "How Great Is The Greatness Of God",
       "url": "https://open.spotify.com/track/1vHXuQeMPXZqIt88zMlk79"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
+        "name": "The Real Thing",
+        "url": "https://open.spotify.com/album/4oc12KtV51B0yIKDl6LYUF"
+      },
+      "artists": [
+        {
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+        }
+      ],
+      "duration_ms": 211353,
+      "name": "The Real Thing",
+      "url": "https://open.spotify.com/track/1NmD4evCpIlbx0vtjSgatM"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "My Hope",
-        "url": "https://open.spotify.com/album/2wxza20WnAbFHG5XsK6iik"
-      },
-      "artists": [
-        {
-          "name": "Caleb & John",
-          "url": "https://open.spotify.com/artist/25Yii55hUvvB2az8GGSsH0"
-        }
-      ],
-      "duration_ms": 185676,
-      "name": "My Hope",
-      "url": "https://open.spotify.com/track/1DDu7QIrnpCq1veaLrfRHp"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
         "name": "LOOKING FOR WATER",
         "url": "https://open.spotify.com/album/1PZMcy9WWf7iksvBarSRqY"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 230109,
       "name": "WE NEED NOT",
       "url": "https://open.spotify.com/track/5se5rFE9iFcUCeZzz9ef4d"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
+        "name": "My Hope",
+        "url": "https://open.spotify.com/album/2wxza20WnAbFHG5XsK6iik"
+      },
+      "artists": [
+        {
+          "name": "Caleb & John",
+          "url": "https://open.spotify.com/artist/25Yii55hUvvB2az8GGSsH0"
+        }
+      ],
+      "duration_ms": 185676,
+      "name": "My Hope",
+      "url": "https://open.spotify.com/track/1DDu7QIrnpCq1veaLrfRHp"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
+        "name": "Jesus Girl",
+        "url": "https://open.spotify.com/album/3tlOXJ3edt3rFexxz6I9Fj"
+      },
+      "artists": [
+        {
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+        }
+      ],
+      "duration_ms": 230988,
+      "name": "Jesus Girl",
+      "url": "https://open.spotify.com/track/5oNoj8Zpm2y2BUM8TVxLO0"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
         "name": "Jehovah",
         "url": "https://open.spotify.com/album/38ZQFXnAxWVXpz3aW6y4AS"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 534833,
       "name": "Jehovah",
       "url": "https://open.spotify.com/track/5Ieh8xRdasawppGqAALQJc"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
-        "name": "Jesus Girl",
-        "url": "https://open.spotify.com/album/3tlOXJ3edt3rFexxz6I9Fj"
-      },
-      "artists": [
-        {
-          "name": "Franni Cash",
-          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
-        }
-      ],
-      "duration_ms": 230988,
-      "name": "Jesus Girl",
-      "url": "https://open.spotify.com/track/5oNoj8Zpm2y2BUM8TVxLO0"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
+        "name": "Wake Up Sleeper",
+        "url": "https://open.spotify.com/album/3eU9yS4x2wQMR5acqDtZLk"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 194192,
+      "name": "Wake Up Sleeper",
+      "url": "https://open.spotify.com/track/1gqHYvRQC849Q4xj1935yx"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
         "name": "God Saved My Life Through Music",
         "url": "https://open.spotify.com/album/0T9F1eIh6nQFRwR4h9I91V"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 196208,
       "name": "Can You Tell",
       "url": "https://open.spotify.com/track/3RUd4bwwIF0hZFFwC6O0su"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
-        "name": "Wake Up Sleeper",
-        "url": "https://open.spotify.com/album/3eU9yS4x2wQMR5acqDtZLk"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 194192,
-      "name": "Wake Up Sleeper",
-      "url": "https://open.spotify.com/track/1gqHYvRQC849Q4xj1935yx"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "Weeks Revival",
-        "url": "https://open.spotify.com/album/2H0gB938PD9kL3lWvsXJiE"
-      },
-      "artists": [
-        {
-          "name": "Weeks Revival",
-          "url": "https://open.spotify.com/artist/1Zi57yVO40T6LnTmyTBU7O"
-        }
-      ],
-      "duration_ms": 236990,
-      "name": "Let Them See You",
-      "url": "https://open.spotify.com/track/658IHccgv9C6DRpKNxcRZC"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
         "name": "Keep Me Close (Live)",
         "url": "https://open.spotify.com/album/7e1n8b7MTrwI5PEWmBvLm6"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 293483,
       "name": "Keep Me Close - Live",
       "url": "https://open.spotify.com/track/3FjWPOd2Sd6gtnUKLBn6x2"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
+        "name": "Weeks Revival",
+        "url": "https://open.spotify.com/album/2H0gB938PD9kL3lWvsXJiE"
+      },
+      "artists": [
+        {
+          "name": "Weeks Revival",
+          "url": "https://open.spotify.com/artist/1Zi57yVO40T6LnTmyTBU7O"
+        }
+      ],
+      "duration_ms": 236990,
+      "name": "Let Them See You",
+      "url": "https://open.spotify.com/track/658IHccgv9C6DRpKNxcRZC"
     }
   ],
   "unique_name": "Faith Rising",

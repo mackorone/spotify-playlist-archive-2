@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 169380,
       "name": "AS YOU KNOW",
       "url": "https://open.spotify.com/track/2VlrFHUhvGqiWugpCtRYS8"
@@ -5331,6 +5331,24 @@
     },
     {
       "album": {
+        "name": "Shhadi Ya Deni",
+        "url": "https://open.spotify.com/album/5bU5Fg54SC7StdbJRMJuNg"
+      },
+      "artists": [
+        {
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164197,
+      "name": "Shhadi Ya Deni",
+      "url": "https://open.spotify.com/track/1jjcCIUbf6J4GLGTkTig1a"
+    },
+    {
+      "album": {
         "name": "NANCY 11",
         "url": "https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX"
       },
@@ -6412,7 +6430,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 233760,
       "name": "Yesaalo 3ank",
       "url": "https://open.spotify.com/track/7I0qvacX0xIJtjozHf2iAo"

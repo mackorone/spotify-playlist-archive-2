@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 83085,
+  "num_followers": 83082,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE1rEUj2/SdCZ3VB9sPZBsPzsl5S",
+  "snapshot_id": "AAAAACSsNFJWve9F26kJo1tKlCWFEeM0",
   "tracks": [
     {
       "added_at": "2024-07-08 19:10:57",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Bora Bill ( Speed Up )",
-        "url": "https://open.spotify.com/album/4UwzWJtLo9CqnFkgxQJgpn"
-      },
-      "artists": [
-        {
-          "name": "neri\u00b4s",
-          "url": "https://open.spotify.com/artist/4xZLCFL4431VfYQAP7cffQ"
-        }
-      ],
-      "duration_ms": 104223,
-      "name": "Bora Bill ( Speed Up )",
-      "url": "https://open.spotify.com/track/0AYpmDJgiWUZeFyNRQNYOL"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Nunca Duvide de um Mano",
         "url": "https://open.spotify.com/album/1fTsqeLfYx1EItPGCudGg9"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 109691,
       "name": "Nunca Duvide de um Mano (Speed Up)",
       "url": "https://open.spotify.com/track/5ayuzPrJE082hhsn3tc00D"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Bora Bill ( Speed Up )",
+        "url": "https://open.spotify.com/album/4UwzWJtLo9CqnFkgxQJgpn"
+      },
+      "artists": [
+        {
+          "name": "neri\u00b4s",
+          "url": "https://open.spotify.com/artist/4xZLCFL4431VfYQAP7cffQ"
+        }
+      ],
+      "duration_ms": 104223,
+      "name": "Bora Bill ( Speed Up )",
+      "url": "https://open.spotify.com/track/0AYpmDJgiWUZeFyNRQNYOL"
     },
     {
       "added_at": "2024-07-08 19:10:57",

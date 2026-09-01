@@ -1,12 +1,12 @@
 {
   "description": "A journey in the modern & old Sudanese sounds.\n",
-  "num_followers": 20023,
+  "num_followers": 20024,
   "original_name": "Sudan Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPTpS0yDKKR6i4IkplQNciMJKhwl",
+  "snapshot_id": "AAAAAM9bzEcL4GVtlG5oA60VdhN9getS",
   "tracks": [
     {
       "added_at": "2024-08-14 15:57:08",
@@ -119,18 +119,18 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Bader Khol3a",
-        "url": "https://open.spotify.com/album/5XhXrx2BTXQqIndy969kez"
+        "name": "III IV V",
+        "url": "https://open.spotify.com/album/2m3crqNTdjgWR46h9FTdDY"
       },
       "artists": [
         {
-          "name": "Montiyago",
-          "url": "https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk"
+          "name": "Rotation",
+          "url": "https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Bader Khol3a",
-      "url": "https://open.spotify.com/track/2O4fl7UvPHbledhgyHjTio"
+      "duration_ms": 192000,
+      "name": "III IV V",
+      "url": "https://open.spotify.com/track/4M9KDFkhwSMVrIbHWtMu2n"
     },
     {
       "added_at": "2025-02-07 11:02:05",
@@ -171,18 +171,18 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "III IV V",
-        "url": "https://open.spotify.com/album/2m3crqNTdjgWR46h9FTdDY"
+        "name": "Bader Khol3a",
+        "url": "https://open.spotify.com/album/5XhXrx2BTXQqIndy969kez"
       },
       "artists": [
         {
-          "name": "Rotation",
-          "url": "https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So"
+          "name": "Montiyago",
+          "url": "https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk"
         }
       ],
-      "duration_ms": 192000,
-      "name": "III IV V",
-      "url": "https://open.spotify.com/track/4M9KDFkhwSMVrIbHWtMu2n"
+      "duration_ms": 132000,
+      "name": "Bader Khol3a",
+      "url": "https://open.spotify.com/track/2O4fl7UvPHbledhgyHjTio"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Ya Dunya",
-        "url": "https://open.spotify.com/album/6GuQYwTJWJ9JOBCPI91ulR"
-      },
-      "artists": [
-        {
-          "name": "Sharhabil Ahmed",
-          "url": "https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq"
-        }
-      ],
-      "duration_ms": 431280,
-      "name": "Ya Dunya",
-      "url": "https://open.spotify.com/track/6zbd0o0ESiB9VDJrdDOFKm"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
         "name": "Matalib",
         "url": "https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 288008,
       "name": "Matalib",
       "url": "https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "Ya Dunya",
+        "url": "https://open.spotify.com/album/6GuQYwTJWJ9JOBCPI91ulR"
+      },
+      "artists": [
+        {
+          "name": "Sharhabil Ahmed",
+          "url": "https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq"
+        }
+      ],
+      "duration_ms": 431280,
+      "name": "Ya Dunya",
+      "url": "https://open.spotify.com/track/6zbd0o0ESiB9VDJrdDOFKm"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -759,38 +759,6 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Al Sourah (The Photo)",
-        "url": "https://open.spotify.com/album/6ZIkpdcwNKpPwT05nVe1aj"
-      },
-      "artists": [
-        {
-          "name": "Mohammed Wardi",
-          "url": "https://open.spotify.com/artist/313bd0jXbLkPKmko793BuU"
-        }
-      ],
-      "duration_ms": 543976,
-      "name": "Al Sourah (The Photo)",
-      "url": "https://open.spotify.com/track/4SCrXi9ykaO1ARxy3LpoDX"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
-        "name": "DOPAMINE",
-        "url": "https://open.spotify.com/album/29yH3NTWxPeFUpZTfHm0nA"
-      },
-      "artists": [
-        {
-          "name": "Dafencii",
-          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
-        }
-      ],
-      "duration_ms": 134328,
-      "name": "DOPAMINE",
-      "url": "https://open.spotify.com/track/2mX3Udxyayq72cbJhlpaho"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
         "name": "Soudani Manayou",
         "url": "https://open.spotify.com/album/2iPwYRSgVpjaqL7fPW2wRR"
       },
@@ -807,6 +775,22 @@
       "duration_ms": 485482,
       "name": "Soudani Manayou - Cervo Edit",
       "url": "https://open.spotify.com/track/6lJJHmqZGULV0H34Dyw1kF"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "Al Sourah (The Photo)",
+        "url": "https://open.spotify.com/album/6ZIkpdcwNKpPwT05nVe1aj"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Wardi",
+          "url": "https://open.spotify.com/artist/313bd0jXbLkPKmko793BuU"
+        }
+      ],
+      "duration_ms": 543976,
+      "name": "Al Sourah (The Photo)",
+      "url": "https://open.spotify.com/track/4SCrXi9ykaO1ARxy3LpoDX"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -831,6 +815,22 @@
       "duration_ms": 202031,
       "name": "Salimmik",
       "url": "https://open.spotify.com/track/0XjLYmJCLA1kLMLaNQpRX7"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/29yH3NTWxPeFUpZTfHm0nA"
+      },
+      "artists": [
+        {
+          "name": "Dafencii",
+          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
+        }
+      ],
+      "duration_ms": 134328,
+      "name": "DOPAMINE",
+      "url": "https://open.spotify.com/track/2mX3Udxyayq72cbJhlpaho"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "TARAT ALTAYARA",
-        "url": "https://open.spotify.com/album/4iMrkh6Bh24sQvhQ28uDbu"
-      },
-      "artists": [
-        {
-          "name": "Dafencii",
-          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
-        }
-      ],
-      "duration_ms": 122412,
-      "name": "TARAT ALTAYARA",
-      "url": "https://open.spotify.com/track/50FN7D4vPEJCTzt7KXAyD1"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
         "name": "Abn9",
         "url": "https://open.spotify.com/album/3FrBeNIVoFXaSj5qRRhK2v"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 227124,
       "name": "Mashy",
       "url": "https://open.spotify.com/track/5apy8FTSLpwUU06Dbrsp6T"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "TARAT ALTAYARA",
+        "url": "https://open.spotify.com/album/4iMrkh6Bh24sQvhQ28uDbu"
+      },
+      "artists": [
+        {
+          "name": "Dafencii",
+          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
+        }
+      ],
+      "duration_ms": 122412,
+      "name": "TARAT ALTAYARA",
+      "url": "https://open.spotify.com/track/50FN7D4vPEJCTzt7KXAyD1"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Tuna",
-        "url": "https://open.spotify.com/album/0HZVyBD9JHeViJEPJ5tWbs"
-      },
-      "artists": [
-        {
-          "name": "MaMan",
-          "url": "https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30"
-        }
-      ],
-      "duration_ms": 165663,
-      "name": "Tuna",
-      "url": "https://open.spotify.com/track/6zX6YvuzrPl0jzZ6EmBtaQ"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
         "name": "\u0641\u0631\u0635\u0629",
         "url": "https://open.spotify.com/album/07FW0qQHN0rt89U6Rwueyj"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 124027,
       "name": "\u0641\u0631\u0635\u0629",
       "url": "https://open.spotify.com/track/7vhFycpTFRJRxupGBBbLJb"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "Tuna",
+        "url": "https://open.spotify.com/album/0HZVyBD9JHeViJEPJ5tWbs"
+      },
+      "artists": [
+        {
+          "name": "MaMan",
+          "url": "https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30"
+        }
+      ],
+      "duration_ms": 165663,
+      "name": "Tuna",
+      "url": "https://open.spotify.com/track/6zX6YvuzrPl0jzZ6EmBtaQ"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Muslims and Christians (Habibi Funk 008)",
-        "url": "https://open.spotify.com/album/7eECqp8MX57IOvt5Me1eXM"
-      },
-      "artists": [
-        {
-          "name": "Kamal Keila",
-          "url": "https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl"
-        }
-      ],
-      "duration_ms": 391000,
-      "name": "Taban Ahwak",
-      "url": "https://open.spotify.com/track/6AbIm68PEd1R3ua5n2H2hh"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
         "name": "Salmly Ala A'azar",
         "url": "https://open.spotify.com/album/7jwNq4kvH7mOC2oVvw9f3F"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 215035,
       "name": "Salmly Ala A'azar",
       "url": "https://open.spotify.com/track/5sAUicg8TjuZohrSHxfx9S"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "Muslims and Christians (Habibi Funk 008)",
+        "url": "https://open.spotify.com/album/7eECqp8MX57IOvt5Me1eXM"
+      },
+      "artists": [
+        {
+          "name": "Kamal Keila",
+          "url": "https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl"
+        }
+      ],
+      "duration_ms": 391000,
+      "name": "Taban Ahwak",
+      "url": "https://open.spotify.com/track/6AbIm68PEd1R3ua5n2H2hh"
     },
     {
       "added_at": "2024-08-14 15:57:08",

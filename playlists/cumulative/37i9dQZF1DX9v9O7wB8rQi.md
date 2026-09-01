@@ -2,7 +2,7 @@
 
 ### [GHOST IN THE SHELL Series](https://open.spotify.com/playlist/37i9dQZF1DX9v9O7wB8rQi)
 
-> Music from "GHOST IN THE SHELL SAC\_2045" and "ARISE" series has arrived! ©S,IG/K/2045
+> Music from "GHOST IN THE SHELL" series\. ©2026 Shirow Masamune/KODANSHA/THE GHOST IN THE SHELL COMMITTEE
 
 63 songs - 4 hr 38 min
 

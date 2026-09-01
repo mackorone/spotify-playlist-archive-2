@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 353,
+  "num_followers": 354,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAALBIbBawOL3+kZPjIgo65/I1b8iX72",
+  "snapshot_id": "AAALBrR4xjWERPewllS3JxFo0hfdqr+3",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -43767,6 +43767,38 @@
       "duration_ms": 181500,
       "name": "California",
       "url": "https://open.spotify.com/track/09OFR9iPwfmurnjRF9fdoK"
+    },
+    {
+      "added_at": "2026-08-31 20:52:59",
+      "album": {
+        "name": "Hotel Soldiers",
+        "url": "https://open.spotify.com/album/6mhJwuECI8D8T7PzpHHLOV"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Nixon",
+          "url": "https://open.spotify.com/artist/4Y4LMJUmLARW4fZyAgdEar"
+        }
+      ],
+      "duration_ms": 279272,
+      "name": "Hotel Soldiers",
+      "url": "https://open.spotify.com/track/5GHYWH6OT5v4Dt7LxSFLM0"
+    },
+    {
+      "added_at": "2026-08-31 20:55:35",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/0QSJVTRHjdETxzD0RaNpX1"
+      },
+      "artists": [
+        {
+          "name": "Massimo Nanni",
+          "url": "https://open.spotify.com/artist/4o6YNcdXASjXIRfOpIxhWg"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/4moi33G2vY0DKA9IcV6qM0"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

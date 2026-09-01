@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNqlGoNYpy6.md) - [plain]
 
 > Enjoy music from Anime "Frieren"\. ©山田鐘人・アベツカサ／小学館／「葬送のフリーレン」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,365 likes - 53 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,461 likes - 53 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNqlGoNYpy6.md) - [plain]
 | 52 | [Phantoms of the Dead](https://open.spotify.com/track/2ecZhrO5ooamDycWn4GUUz) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 2:19 |
 | 53 | [A Beautiful Word](https://open.spotify.com/track/1CYTatSzbHlFbGZMhdtukM) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 3:37 |
 
-Snapshot ID: `AAAAAMhU2UVCRji6xARc62w3U5janiWy`
+Snapshot ID: `AAAAACZM0w3DDbvwg4aGt6rKrQyxthm4`

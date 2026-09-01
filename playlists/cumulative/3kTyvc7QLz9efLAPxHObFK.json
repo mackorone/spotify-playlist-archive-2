@@ -24715,6 +24715,24 @@
     },
     {
       "album": {
+        "name": "GUMMYBEAR",
+        "url": "https://open.spotify.com/album/34nI9dMR7Xw2XH2No66llA"
+      },
+      "artists": [
+        {
+          "name": "Dead X",
+          "url": "https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "GUMMYBEAR",
+      "url": "https://open.spotify.com/track/2HMZ5AeUVrmaeVqGhGU6n0"
+    },
+    {
+      "album": {
         "name": "Liquid Hardcore EP",
         "url": "https://open.spotify.com/album/06zkpBSnjF3BEuqMuXsw9w"
       },

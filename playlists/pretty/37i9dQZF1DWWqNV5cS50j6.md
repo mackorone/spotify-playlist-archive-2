@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Turnstile
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,021 likes - 99 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,006 likes - 99 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 98 | [the one](https://open.spotify.com/track/6Xz56CFYQ1tE3YadauIIiG) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [gutta child](https://open.spotify.com/album/5bGEq0KEtEwQfgpnimNG7c) | 2:23 |
 | 99 | [go!](https://open.spotify.com/track/7kqPf7xVPqpdi0mN3pWKym) | [WHATMORE](https://open.spotify.com/artist/2y4kS2ljmS41pNDNA01P2Q) | [WHATMORE](https://open.spotify.com/album/0UZHxpIihS68mjFPTcyu7A) | 2:47 |
 
-Snapshot ID: `AAAAAJJgJx92qHGRoQqUCtuGo6j1snqt`
+Snapshot ID: `AAAAAOTNlpd9d+NyzXZ3yjqJslqcFMuD`

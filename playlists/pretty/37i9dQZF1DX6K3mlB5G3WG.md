@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > JENNIE in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,319 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,316 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 99 | [Burn it Down \(feat\. Leon Bridges\)](https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM) | 4:11 |
 | 100 | [LA COSTIERA AMALFITANA \(feat\. Arisa, Nino D'Angelo\)](https://open.spotify.com/track/7jyZ2rWp2xRk1xvRQaRa5N) | [Fabio Rovazzi](https://open.spotify.com/artist/35orQw8LgQn7KOFjzCyY7E), [Arisa](https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K), [Nino D'Angelo](https://open.spotify.com/artist/4xhEhRE75hHgXMeNeeTTsx) | [LA COSTIERA AMALFITANA \(feat\. Arisa, Nino D'Angelo\)](https://open.spotify.com/album/56fxZxGVc4h1oggqYzw2YH) | 2:32 |
 
-Snapshot ID: `AAAAAKY440e2R6AJLqurHbAj7cpB2nTa`
+Snapshot ID: `AAAAAJgbVfs7RF7fDezMvAOmmCV+bAm/`

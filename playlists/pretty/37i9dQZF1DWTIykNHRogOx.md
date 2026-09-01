@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Heroe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,249 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,252 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [énième chance](https://open.spotify.com/track/5uQcQJsVSBMWsfh7yq7cBL) | [Ellie Becker](https://open.spotify.com/artist/7sk2rTrxeJHTBisizDA42q) | [énième chance](https://open.spotify.com/album/2KvetfZ8OEpqRTLCkznGEc) | 2:33 |
 | 50 | [Le oui de trop](https://open.spotify.com/track/5ScGdXCeK36i7hQKGzei4D) | [Hermance](https://open.spotify.com/artist/06pkb3CsbufVE05fENCofS) | [Le oui de trop](https://open.spotify.com/album/0QeRyd738esLR0TzLAOybQ) | 2:40 |
 
-Snapshot ID: `AAAAAFuImMJ/fzrc9lGvyhMjIqabmpWQ`
+Snapshot ID: `AAAAAMLQ0HEcAcA0vXaC0dutCL3aHXqH`

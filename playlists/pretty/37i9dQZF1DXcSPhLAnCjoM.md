@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 > "La lune" de Christophe Maé est le Grand Hit de la semaine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,575 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,508 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 | 39 | [OK KO \(feat\. Kyo\)](https://open.spotify.com/track/69Fw8Cx50fVi0Pv7NJayhV) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq), [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [OK KO \(Nouvelle Édition\)](https://open.spotify.com/album/04WoFGsAqbdlJvAWljYCdQ) | 2:46 |
 | 40 | [Encore une fois](https://open.spotify.com/track/3K1EfuaNdEaTuJjzegRqJz) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Encore une fois](https://open.spotify.com/album/11w0O8IbcYHuDjnLkpaBkt) | 3:01 |
 
-Snapshot ID: `AAAAAIvqJIkzSqzmqDpD/yia/7wHEBTa`
+Snapshot ID: `AAAAAKgXNIoz3sNwHOj5dsAKhu4ONnVZ`

@@ -4,7 +4,7 @@
 
 > a little indie, a little pop, soda featuring WILLOW & Flowerovlove
 
-1,659 songs - 3 day 10 hr 55 min
+1,660 songs - 3 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Be With Me](https://open.spotify.com/track/4iBBoNJKbayT7kko0cquWf) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Be With Me](https://open.spotify.com/album/2mI0gv3S6ANVDmEbaMf5Wa) | 2:03 | 2024-01-26 | 2024-02-17 |
 | [Be Your Man](https://open.spotify.com/track/1kPtRYoYHpFOKcBfzb6sjg) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Be Your Man](https://open.spotify.com/album/2rTCisfGe6ZubYYKu6OyoH) | 3:17 | 2021-10-29 | 2021-12-25 |
 | [Beautiful Boy](https://open.spotify.com/track/1cmIa5VRsl9vOZl6zNRlHf) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [28 \(Songs for Cooper\)](https://open.spotify.com/album/1O8TQDjg48bsvgdGGNcQPY) | 2:38 | 2022-07-01 | 2022-08-27 |
-| [Bed on Fire](https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Dream Ride](https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0) | 3:33 | 2025-09-05 |  |
+| [Bed on Fire](https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Dream Ride](https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0) | 3:33 | 2025-09-05 | 2026-09-01 |
 | [bedroom](https://open.spotify.com/track/4UXPKAbY2EoCWcbN57En0A) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [bedroom](https://open.spotify.com/album/755NEywIEUsh0WHJeq9mBJ) | 1:40 | 2022-07-01 | 2022-08-13 |
 | [Bedroom Exile](https://open.spotify.com/track/1n7mpf8v5OZL6DKf6a0TD1) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/4lmPBBBCnBl6uHdFMIjCmZ) | 3:18 | 2023-02-24 | 2023-03-22 |
 | [Bedroom Exile](https://open.spotify.com/track/2VudXzMgyFNDLydViVrQ7e) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/10g160lZ4fimlOQKcKg0uY) | 3:18 | 2023-03-03 | 2023-04-22 |
@@ -501,6 +501,7 @@
 | [Feelin' Myself](https://open.spotify.com/track/3iRCAL0zJl2wvecnmYLcEQ) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [Feelin' Myself](https://open.spotify.com/album/5jfSZhsGLXhj8QTy2mMs56) | 2:45 | 2026-02-20 | 2026-05-16 |
 | [Feeling Lucky](https://open.spotify.com/track/53x0Yk1qOyurd2MefyF3Ny) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Feeling Lucky](https://open.spotify.com/album/4bc9PfPyv60qCh5S5g5eMb) | 2:31 | 2024-04-27 | 2024-06-29 |
 | [Feet On The Ceiling](https://open.spotify.com/track/242rm4cMmaaPkxe2f1y5Re) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Feet On The Ceiling](https://open.spotify.com/album/1EjnS1tbiIOalEtxI5IWaN) | 3:24 | 2024-03-22 | 2024-04-27 |
+| [Fickle](https://open.spotify.com/track/0UryFuTgfEwvpM6A7jIOG7) | [Newport](https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur) | [Fickle](https://open.spotify.com/album/5wHazOcgweQjf3IoshDFzX) | 3:15 | 2026-08-31 |  |
 | [Figure It Out \(feat\. Jeremy Neale\)](https://open.spotify.com/track/5qgSnCA518JYgvIcA6ix9h) | [PEPTALK](https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA), [Jeremy Neale](https://open.spotify.com/artist/7cDixXcTuSMiPr0TWopZV6) | [Figure It Out \(feat\. Jeremy Neale\)](https://open.spotify.com/album/393MGbHmbHpvJjEAXz8tt3) | 3:29 | 2025-02-21 | 2025-03-29 |
 | [Figure You Out \(Remix\)](https://open.spotify.com/track/6Tsdf2lE4mFAa6sE052pEP) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Figure You Out \(Remix\)](https://open.spotify.com/album/2UHY1Y6eDdUf1zMPWnJWPH) | 3:12 | 2022-02-11 | 2022-02-26 |
 | [Fine Lines](https://open.spotify.com/track/6adCqDwVKcdXK8f4JHkOfo) | [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP) | [Fine Lines](https://open.spotify.com/album/7oHo3runeV3nHPtjOy4uK3) | 2:27 | 2023-02-24 | 2023-05-06 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Ruzzi en portada \u2728",
-  "num_followers": 96169,
+  "num_followers": 96184,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJRIsyBb2/RsaXqgZqmNy9Jv4ow0",
+  "snapshot_id": "AAAAABWFNwXZXBEC8bh8rWmzQKNyjK/F",
   "tracks": [
     {
       "added_at": "2026-08-28 06:00:12",
@@ -243,22 +243,18 @@
     {
       "added_at": "2026-08-28 06:00:12",
       "album": {
-        "name": "Diamantes",
-        "url": "https://open.spotify.com/album/6kn5ZIUlHA3NBsacObuBiU"
+        "name": "Quiero +",
+        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
       },
       "artists": [
         {
-          "name": "Bon Calso",
-          "url": "https://open.spotify.com/artist/7ayZ0ZHp9SC1Bp6rzDd6gu"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 250006,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/7IwG40uAh2A39GQtqANRNW"
+      "duration_ms": 128487,
+      "name": "Quiero +",
+      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
     },
     {
       "added_at": "2026-08-28 06:00:12",
@@ -279,18 +275,22 @@
     {
       "added_at": "2026-08-28 06:00:12",
       "album": {
-        "name": "Quiero +",
-        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/6kn5ZIUlHA3NBsacObuBiU"
       },
       "artists": [
         {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+          "name": "Bon Calso",
+          "url": "https://open.spotify.com/artist/7ayZ0ZHp9SC1Bp6rzDd6gu"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 128487,
-      "name": "Quiero +",
-      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
+      "duration_ms": 250006,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/7IwG40uAh2A39GQtqANRNW"
     },
     {
       "added_at": "2026-08-28 06:00:12",
@@ -307,6 +307,26 @@
       "duration_ms": 184654,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/3J8zlBElo97VLMiLfufyR8"
+    },
+    {
+      "added_at": "2026-08-28 06:00:12",
+      "album": {
+        "name": "ella brilla",
+        "url": "https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD"
+      },
+      "artists": [
+        {
+          "name": "RIZA",
+          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
+        },
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 263600,
+      "name": "ella brilla",
+      "url": "https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt"
     },
     {
       "added_at": "2026-08-28 06:00:12",
@@ -339,26 +359,6 @@
       "duration_ms": 165500,
       "name": "Jet",
       "url": "https://open.spotify.com/track/48k8Aqk90ytRKbhaRCPcc5"
-    },
-    {
-      "added_at": "2026-08-28 06:00:12",
-      "album": {
-        "name": "ella brilla",
-        "url": "https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD"
-      },
-      "artists": [
-        {
-          "name": "RIZA",
-          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
-        },
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 263600,
-      "name": "ella brilla",
-      "url": "https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt"
     },
     {
       "added_at": "2026-08-28 06:00:12",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-08-28 06:00:12",
       "album": {
+        "name": "Mismo Equipo",
+        "url": "https://open.spotify.com/album/3DRj60LZXcFq8xhIuDI05O"
+      },
+      "artists": [
+        {
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+        }
+      ],
+      "duration_ms": 280733,
+      "name": "Mismo Equipo",
+      "url": "https://open.spotify.com/track/6mhPIHBGJC5Np4iVpN4qfD"
+    },
+    {
+      "added_at": "2026-08-28 06:00:12",
+      "album": {
         "name": "Gui\u00f1o Gui\u00f1o",
         "url": "https://open.spotify.com/album/0iRbsjP7p4EtdUyfYMxu5O"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 160322,
       "name": "Cuando Estamos Solas",
       "url": "https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX"
-    },
-    {
-      "added_at": "2026-08-28 06:00:12",
-      "album": {
-        "name": "Mismo Equipo",
-        "url": "https://open.spotify.com/album/3DRj60LZXcFq8xhIuDI05O"
-      },
-      "artists": [
-        {
-          "name": "Los Claxons",
-          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
-        }
-      ],
-      "duration_ms": 280733,
-      "name": "Mismo Equipo",
-      "url": "https://open.spotify.com/track/6mhPIHBGJC5Np4iVpN4qfD"
     },
     {
       "added_at": "2026-08-28 06:00:12",

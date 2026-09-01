@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: DUSTCELL
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,435 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,430 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 69 | [メシア](https://open.spotify.com/track/3tB9Jgk7T2UO5EIqOp7GNM) | [Nanatsukaze](https://open.spotify.com/artist/66icuwRNOsZJv6UCTsP0KH) | [メシア](https://open.spotify.com/album/6IhQ2FZnTZlBytW5TtUJn6) | 3:15 |
 | 70 | [生活](https://open.spotify.com/track/4Nmki31FGggNIRruzEDU7r) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [生活](https://open.spotify.com/album/6vwrGmSQjnbV8BYBxQF6nB) | 4:58 |
 
-Snapshot ID: `AAAAAF3dTFa1mhHz6x7T5/u//l1yccis`
+Snapshot ID: `AAAAAOF2cVLPKgPTYAtzNG4Oa0Mes1Oi`

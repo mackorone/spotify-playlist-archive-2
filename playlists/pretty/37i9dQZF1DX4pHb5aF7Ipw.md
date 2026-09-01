@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Ishjot dhammi, Diljit Sidhu and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,264 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,260 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 74 | [BAGAWAT](https://open.spotify.com/track/797jtIYMStbuex30I6TONX) | [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp), [kxnng](https://open.spotify.com/artist/22ibxQFsg0OrIXh0ECrz49), [Xyroo](https://open.spotify.com/artist/1geR0FSv1H03sGsdnbdMvo) | [BAGAWAT](https://open.spotify.com/album/4Y17HY3B38TAm8qpm24eGk) | 3:24 |
 | 75 | [Spiritual Killer](https://open.spotify.com/track/5Q0z9CkmasoLXC9gUMPz6g) | [Akbar Brar](https://open.spotify.com/artist/4VQq85qGslnhmrR1sIVjd1), [NOXI](https://open.spotify.com/artist/4YYeJI6EgxUxiSqfeDhS8U) | [Spiritual Killer](https://open.spotify.com/album/57GanioclXPhFOb4yOBceK) | 2:27 |
 
-Snapshot ID: `AAAAAI6YICK/YGqGeBWRYZRJi+U4ZZ3y`
+Snapshot ID: `AAAAACbnELEC2dRpHiLR4Kgtt1jLlrI8`

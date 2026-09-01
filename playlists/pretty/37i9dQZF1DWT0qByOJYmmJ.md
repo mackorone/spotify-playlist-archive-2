@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,724 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,707 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 79 | [Alma](https://open.spotify.com/track/4ntfDDzYtwkw2NdStMTrER) | [Gus Vazquez](https://open.spotify.com/artist/02ZQCHMjjOq0naJ8M4e5XZ) | [Alma](https://open.spotify.com/album/7qlpuc4FbwRwUgAbCe8XsD) | 2:28 |
 | 80 | [Deja Que Me Duela \(D\. Q\. M\. D.\) \- Cap.5](https://open.spotify.com/track/21Ebz1yXTtWQQLFFX45bmz) | [Erick Mendoza](https://open.spotify.com/artist/4a3ZMZGCMmCEAFnRdUTdw4) | [Deja Que Me Duela \(D\. Q\. M\. D.\) \- Cap.5](https://open.spotify.com/album/3zqY9PDGsDWS2zSbK1LVbV) | 3:46 |
 
-Snapshot ID: `AAAAAAzFKdTuKwonZTxRTADBYnR0gahE`
+Snapshot ID: `AAAAAN1fpY5G4cp0nS8Rr+/C6mXhSCdZ`

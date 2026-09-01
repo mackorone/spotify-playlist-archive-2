@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vbbZ6kSMfo.md) - [plain]
 
 > The fans have spoken: Baby Keem, Lil Tecca and Doechii will lead hip\-hop’s next generation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,116 likes - 48 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,176 likes - 48 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vbbZ6kSMfo.md) - [plain]
 | 47 | [Hellcats SRTs](https://open.spotify.com/track/1iK1hVN9o1zkpxw396QGbd) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:33 |
 | 48 | [Great Gatsby](https://open.spotify.com/track/4M68xjcc42oxyphhzpOWXS) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 2:26 |
 
-Snapshot ID: `AAAAAG/qCp2Zq3oW5BeAxBqQstNZVM+a`
+Snapshot ID: `AAAAAF4NnLjPmOomeHGt2bsGcolfVET0`

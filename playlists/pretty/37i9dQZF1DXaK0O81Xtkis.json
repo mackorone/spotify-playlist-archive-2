@@ -1,12 +1,12 @@
 {
   "description": "a little indie, a little pop, soda featuring WILLOW & Flowerovlove",
-  "num_followers": 228784,
+  "num_followers": 228765,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAONHhl1hX6aUefmBpgunLxzvuUBi",
+  "snapshot_id": "AAAAABuQ4qIf0IYJEiByZ3dBTquTWgLU",
   "tracks": [
     {
       "added_at": "2026-08-28 04:25:47",
@@ -27,6 +27,22 @@
       "duration_ms": 202651,
       "name": "girls will be girls (feat. WILLOW)",
       "url": "https://open.spotify.com/track/27CMx2IQna3TPFhFtPih5p"
+    },
+    {
+      "added_at": "2026-08-31 17:05:15",
+      "album": {
+        "name": "Fickle",
+        "url": "https://open.spotify.com/album/5wHazOcgweQjf3IoshDFzX"
+      },
+      "artists": [
+        {
+          "name": "Newport",
+          "url": "https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur"
+        }
+      ],
+      "duration_ms": 195770,
+      "name": "Fickle",
+      "url": "https://open.spotify.com/track/0UryFuTgfEwvpM6A7jIOG7"
     },
     {
       "added_at": "2026-08-28 04:25:47",
@@ -843,22 +859,6 @@
       "duration_ms": 163484,
       "name": "CATASTROPHIC CHEMICALS",
       "url": "https://open.spotify.com/track/15FVfCwYvobj3c3bNRYgqm"
-    },
-    {
-      "added_at": "2026-05-22 05:08:21",
-      "album": {
-        "name": "Dream Ride",
-        "url": "https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        }
-      ],
-      "duration_ms": 213236,
-      "name": "Bed on Fire",
-      "url": "https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl"
     },
     {
       "added_at": "2026-03-27 04:00:20",

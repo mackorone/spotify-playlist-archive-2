@@ -6147,6 +6147,28 @@
     },
     {
       "album": {
+        "name": ".\u2618\ufe0e \u0741\u02d6",
+        "url": "https://open.spotify.com/album/4nHpq9BczqCy3LoId3HWqH"
+      },
+      "artists": [
+        {
+          "name": "replica",
+          "url": "https://open.spotify.com/artist/3ibWKZmW4D7axiFkabQ6qu"
+        },
+        {
+          "name": "Ex Batalion",
+          "url": "https://open.spotify.com/artist/4CktubJa72qxiACkoOJJgB"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292617,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/6Y1qDaqmw9iHLcm9NclXUE"
+    },
+    {
+      "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
@@ -15124,7 +15146,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 249375,
       "name": "Pahina",
       "url": "https://open.spotify.com/track/0jGL1ApJ7QrVWL7nRqLdij"

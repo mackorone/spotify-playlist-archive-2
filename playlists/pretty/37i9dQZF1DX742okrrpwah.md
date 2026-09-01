@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Vianney, Angèle, Alex Warren et La Mano 1.9 x PLK au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,583 likes - 96 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,554 likes - 96 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 3 | [Une seule vie](https://open.spotify.com/track/5Y3p9cIQH4TxX3sI4ZQIAL) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Une seule vie](https://open.spotify.com/album/2QiKXoR9j4aj69MmKI6gvQ) | 4:05 |
 | 4 | [EMERALD EYES](https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 2:36 |
 | 5 | [How Much](https://open.spotify.com/track/5FI2Ujk6VWPCWTWN1EWrAQ) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [How Much](https://open.spotify.com/album/3Jn6F3rYZfU6N88ZWWLuuF) | 2:29 |
-| 6 | [Méchant](https://open.spotify.com/track/70isOAWcjtEI3olrMlS9u9) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Tiitof](https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS), [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Méchant](https://open.spotify.com/album/3fmAoZE95X8sFNr4SQ3JqK) | 2:10 |
+| 6 | [Méchant](https://open.spotify.com/track/70isOAWcjtEI3olrMlS9u9) | [DJ Kawest](https://open.spotify.com/artist/0at4HUpDsgafgTqnAZjL9R), [Tiitof](https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS), [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Méchant](https://open.spotify.com/album/3fmAoZE95X8sFNr4SQ3JqK) | 2:10 |
 | 7 | [serena joy](https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [serena joy](https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza) | 3:05 |
 | 8 | [Wallflower](https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Wallflower](https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao) | 2:58 |
 | 9 | [Hollow](https://open.spotify.com/track/5MSPozbZ7TQSNIBsd4qjlt) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hollow](https://open.spotify.com/album/4lZQjjnhdmMoaEW6A9SJBJ) | 3:15 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 95 | [Boom](https://open.spotify.com/track/4bXEC4bKdmoVJMkZH3ShK3) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb), [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Boom](https://open.spotify.com/album/1gk3oGD4YnYUro6nUEPRLq) | 2:44 |
 | 96 | [Days of Heaven](https://open.spotify.com/track/55yZU5phJ00OycDoKgVRZB) | [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5) | [Days of Heaven](https://open.spotify.com/album/3kgoPlwQzDHFljdZbdWmLN) | 2:14 |
 
-Snapshot ID: `AAAAAB8rWyf+sH1tniAH38EkAh4gBvj4`
+Snapshot ID: `AAAAADAmLfe4iUK8/DYmjTJZNOe4xdxa`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Brytiago is bringing the heat this week\. Tap in every Thursday for a refresh  <a href="https://asheardonfuego.substack.com/p/issue\-001\-introducing\-as\-heard\-on?r=8i1o2e&utm\_campaign=post&utm\_medium=web">\(and read our substack!\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,907,533 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,907,385 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 49 | [PIENSO EN TI.](https://open.spotify.com/track/6P5J1CxWKrJLunXdSu5HRd) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [OMAKASE](https://open.spotify.com/album/79TuXcubVSnQDvvvzEbIY2) | 3:28 |
 | 50 | [Poseída](https://open.spotify.com/track/5sAwSZoR7zlpUsngHu9yKm) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Lil Geniuz](https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U) | [MIDEVIL TIMES](https://open.spotify.com/album/5njAlj6cTCaQroD6NeBmp3) | 4:20 |
 
-Snapshot ID: `AAAAAIfkwk11VTXcGvaEU5Wte8yg1RnH`
+Snapshot ID: `AAAAAF6KB+JFW/QHf/jxbqoHpG7Y69nJ`

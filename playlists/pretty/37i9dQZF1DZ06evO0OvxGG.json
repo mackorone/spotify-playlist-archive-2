@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 9759,
+  "num_followers": 9766,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apIhAAAAAADBDzbGDe5DLU2oJ9xAF4dX",
+  "snapshot_id": "apNygAAAAAAThDThu8hxNMSq7wiZOePq",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "PUT@RIA & POE$IA (mixtape)",
+        "url": "https://open.spotify.com/album/43T5mcn5KkRMK81HgYNfb7"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 165822,
+      "name": "bem-vinda",
+      "url": "https://open.spotify.com/track/4M0ljH7IjCgIhMRaCLE7eq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "At\u00e9 aqui, Slip nos ajudou",
         "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
       },
@@ -543,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GODZILLA",
-        "url": "https://open.spotify.com/album/3afnPcuccMKmiiVtzDMCXq"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "GODZILLA",
-      "url": "https://open.spotify.com/track/1BrIXH2RmVHzeFszEefAGP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malvatrem",
         "url": "https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh"
       },
@@ -583,26 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PUT@RIA & POE$IA (mixtape)",
-        "url": "https://open.spotify.com/album/43T5mcn5KkRMK81HgYNfb7"
+        "name": "GODZILLA",
+        "url": "https://open.spotify.com/album/3afnPcuccMKmiiVtzDMCXq"
       },
       "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
         }
       ],
-      "duration_ms": 165822,
-      "name": "bem-vinda",
-      "url": "https://open.spotify.com/track/4M0ljH7IjCgIhMRaCLE7eq"
+      "duration_ms": 151578,
+      "name": "GODZILLA",
+      "url": "https://open.spotify.com/track/1BrIXH2RmVHzeFszEefAGP"
     },
     {
       "added_at": null,

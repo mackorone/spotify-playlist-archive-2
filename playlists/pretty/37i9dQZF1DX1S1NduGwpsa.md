@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Bolden.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,265 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,306 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 24 | [Elevator Vibes](https://open.spotify.com/track/08toLeqUTQsJAB2SFL6m43) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Lab Rats](https://open.spotify.com/album/00VCTHhxGhARgKCNhVMJf8) | 2:28 |
 | 25 | [Queixa](https://open.spotify.com/track/3VHDtuVd5bnKYX1bjhiWkN) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Caetano Veloso por Nay](https://open.spotify.com/album/2tsS9TzLzQ4uBTjVWK60Jn) | 4:00 |
 | 26 | [Lavender](https://open.spotify.com/track/6SDFVOLzOD6E38hrY967am) | [Heem](https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m), [Fo1006](https://open.spotify.com/artist/6vG6QTcQ8olC5WZr41Bw0f), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f) | [Lavender](https://open.spotify.com/album/25cAfxY2hTvc013b6DyJoR) | 3:02 |
-| 27 | [BRING THE LIGHT](https://open.spotify.com/track/6ugeNh75lWjctHoK42oAF0) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Weedie Braimah](https://open.spotify.com/artist/0gNcTRfbjxxOdXxSCoXluo), [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j) | [BRING THE LIGHT](https://open.spotify.com/album/0yRhKkzF6PP50XGNsML1AR) | 4:43 |
+| 27 | [BRING THE LIGHT](https://open.spotify.com/track/6ugeNh75lWjctHoK42oAF0) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Weedie Braimah](https://open.spotify.com/artist/0gNcTRfbjxxOdXxSCoXluo), [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [BRING THE LIGHT](https://open.spotify.com/album/0yRhKkzF6PP50XGNsML1AR) | 4:43 |
 | 28 | [Roll By \(feat\. Mélissa Mary Ahern\)](https://open.spotify.com/track/0GUQivk5lu2bTpZz1zF9Is) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn), [Melissa Mary Ahern](https://open.spotify.com/artist/79KGU3BCSn2jRJi4r0jHZ2) | [Roll By \(feat\. Mélissa Mary Ahern\)](https://open.spotify.com/album/1QffiYJtHnGwae8VmfDz0r) | 4:07 |
 | 29 | [Perhaps, Perhaps, Perhaps \- Live](https://open.spotify.com/track/3a2y73CXhJ06Kgw4zJqu84) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Live At Café Carlyle](https://open.spotify.com/album/2hLGS8w5LaKzHMomED3KzH) | 2:39 |
 | 30 | [I Knew You Were Waiting \(For Me\) \(with Cynthia Erivo\)](https://open.spotify.com/track/7fq9tnk9YZVEwt65d4HO8g) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Knew You Were Waiting \(For Me\) \(with Cynthia Erivo\)](https://open.spotify.com/album/5vNvLZS3LJyT7dHs3bDmya) | 4:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 59 | [Finders](https://open.spotify.com/track/26S1rmY8cE3P6ZaWCNuMzg) | [Richard Spaven](https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI), [Wildchild](https://open.spotify.com/artist/0tHPntFCJ48YjmDZ8utweA) | [Finders](https://open.spotify.com/album/4iVYjatLRsW8gxtlsOlAjg) | 3:49 |
 | 60 | [Dulce](https://open.spotify.com/track/7jREIuWmgV1bPOvxeRTADF) | [Chassol](https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp) | [Funny How?](https://open.spotify.com/album/7eGFF9yDqqXpqABRdhdtuL) | 5:01 |
 
-Snapshot ID: `AAAAAKD+ovDd5nDln2zLvb8xcYtZfk5u`
+Snapshot ID: `AAAAADTznSaQmxRlSfTUKJjAKjlzC5nV`

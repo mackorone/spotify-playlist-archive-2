@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Seyi Vibez, Zinoleesky, Blaqbonez, Olivia Rodrigo, Phyno, Kashcoming, Ice Spice, Ciara and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,736 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,814 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 54 | [SLEEP](https://open.spotify.com/track/0eXJqGwphplL1PYYVMIMGj) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [SLEEP](https://open.spotify.com/album/62VWUx1DkN9FBe4WGKBiOG) | 2:31 |
 | 55 | [TAKE A TRIP \(With Bricknasty & Khakikid\)](https://open.spotify.com/track/4TvXF0n2kmBDA4rFACcxFq) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s), [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [TAKE A TRIP \(With Bricknasty & Khakikid\)](https://open.spotify.com/album/5Zwiw4sOub6RrXfAoxPz0p) | 4:00 |
 
-Snapshot ID: `AAAAANiJaRlRfManF+LQwWqZqhT7pNKf`
+Snapshot ID: `AAAAAC2rzY0S2BeVxefa3iIRZHTcUsXg`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's country crop\. Cover: Mack Geiger
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,112 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,125 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 49 | [Hold You Close](https://open.spotify.com/track/0Vmz4Z7M5rElly58xX8Xv8) | [Michael Honan](https://open.spotify.com/artist/0jWD0R3npD8Trqy0zuYuss) | [Hold You Close](https://open.spotify.com/album/3UCdChDVzs1rxigvblKBzt) | 2:58 |
 | 50 | [Damned If I Do](https://open.spotify.com/track/5Lf0Hm3SuFxFzjfhg0Sous) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [There I Go](https://open.spotify.com/album/1BuczKI8NR9VdbRkjP0KZg) | 3:37 |
 
-Snapshot ID: `AAAAAKhWFad7TAZ9R/pr28tXVPMb1rzy`
+Snapshot ID: `AAAAAO/owQ2IY76CP7+nxRb/nZbRoNks`

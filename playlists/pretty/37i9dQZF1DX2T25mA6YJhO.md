@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Amor Líquido.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,580 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,579 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 99 | [hablemos](https://open.spotify.com/track/5wTFNeGM4aUz7LmHb0zvDX) | [Victorias](https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I) | [hablemos](https://open.spotify.com/album/3VZcz7HzxQTCj0lltR31hl) | 2:27 |
 | 100 | [Mil pequeños cortes](https://open.spotify.com/track/6iYN2H0tO9W3tcoHExxYXh) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm) | [Mil pequeños cortes](https://open.spotify.com/album/4YkAVofjMDZ448u3fo6BGN) | 3:06 |
 
-Snapshot ID: `AAAAAMDizug1HBfxwFe3bl1f9YekBuvK`
+Snapshot ID: `AAAAAC9lY7SisaErMklwU+iVqZaEm1B7`

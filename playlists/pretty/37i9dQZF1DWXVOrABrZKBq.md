@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: La Mano 1.9, PLK
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,499 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,512 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 51 | [L'humain](https://open.spotify.com/track/4TK7vNav592pavcStbeTsD) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [L'humain](https://open.spotify.com/album/0iL2qBxWhrhEccFz37OaQG) | 2:56 |
 | 52 | [GROSEILLE](https://open.spotify.com/track/3j5YZKkYPMQLJP8K0WvOjo) | [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [GROSEILLE](https://open.spotify.com/album/6wmE0E3apoelhUyLxr95i3) | 2:53 |
 | 53 | [Le Bon Samaritain](https://open.spotify.com/track/4FDa3VkaNbBXEx1oo7CwC6) | [Mous\-K](https://open.spotify.com/artist/3Gcn7eKPiTv6jwqoyIhVMO) | [Insolent](https://open.spotify.com/album/1uNh41ZBdu8WpKPlDjbSlW) | 4:22 |
-| 54 | [PILIER](https://open.spotify.com/track/14Gt0PQM7nxO5Etc2wwcpU) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 4](https://open.spotify.com/album/11XkHp613L7iXDGbQV9lAJ) | 3:10 |
-| 55 | [Allo Doudou](https://open.spotify.com/track/7ifMy6is2OsYKY21l12BKk) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [litleboy lsbeats767](https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY), [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd) | [Allo Doudou](https://open.spotify.com/album/46wfAT112nlHK5bOeQIF2U) | 2:50 |
+| 54 | [Allo Doudou](https://open.spotify.com/track/7ifMy6is2OsYKY21l12BKk) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [litleboy lsbeats767](https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY), [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd) | [Allo Doudou](https://open.spotify.com/album/46wfAT112nlHK5bOeQIF2U) | 2:50 |
+| 55 | [PILIER](https://open.spotify.com/track/14Gt0PQM7nxO5Etc2wwcpU) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 4](https://open.spotify.com/album/11XkHp613L7iXDGbQV9lAJ) | 3:10 |
 | 56 | [Huracan](https://open.spotify.com/track/6QRy8EXr1ZzPQNRXlAm4TH) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [BYAKUGAN](https://open.spotify.com/album/6HQt23uDVxzyucxDtqRSKI) | 4:08 |
 | 57 | [Avion de chasse](https://open.spotify.com/track/3dDTJbtHZhsbe426l5Msk1) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Avion de chasse](https://open.spotify.com/album/6oyWoLRcGvrLpjo1BFqAT9) | 2:16 |
 | 58 | [Savage](https://open.spotify.com/track/70d4L0yzI02bOylHPHI77m) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Savage](https://open.spotify.com/album/7F1ev5jdIskBh4UhwrQCua) | 3:25 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 65 | [Kendall](https://open.spotify.com/track/0wBAbM87bxaz3q1tzAawEM) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Blanco nemesis](https://open.spotify.com/album/1CVD0XgRZjmkeO11U90NPo) | 3:13 |
 | 66 | [L.T.P](https://open.spotify.com/track/65zLXqR3Odxg5P4BepHoKi) | [Tvslym](https://open.spotify.com/artist/7jPzAS2xqIxyKHhGHIfuyf), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [L.T.P](https://open.spotify.com/album/346djqe1ayiS4I67IvgwM5) | 2:06 |
 | 67 | [BLICK](https://open.spotify.com/track/1CqfEGarqDPhWUKft6Gy9z) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [PUBLIC ENEMY](https://open.spotify.com/album/3YMJMEiT7hO0ggUXoxPVA4) | 1:55 |
-| 68 | [Devin Booker](https://open.spotify.com/track/6hWILMgUROGXh0rSewqiLT) | [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Devin Booker](https://open.spotify.com/album/5G8XQqyBmncdzpdTqhG1bt) | 2:53 |
-| 69 | [Les avions dessinent dans le ciel](https://open.spotify.com/track/6wZHHNWL3vGTZRNcIITQci) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [Les avions dessinent dans le ciel](https://open.spotify.com/album/7EUblqvqDOvXR5eW5HkTqh) | 3:03 |
+| 68 | [Les avions dessinent dans le ciel](https://open.spotify.com/track/6wZHHNWL3vGTZRNcIITQci) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [Les avions dessinent dans le ciel](https://open.spotify.com/album/7EUblqvqDOvXR5eW5HkTqh) | 3:03 |
+| 69 | [Devin Booker](https://open.spotify.com/track/6hWILMgUROGXh0rSewqiLT) | [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Devin Booker](https://open.spotify.com/album/5G8XQqyBmncdzpdTqhG1bt) | 2:53 |
 | 70 | [Maradona](https://open.spotify.com/track/2dTrVHZNTqbPbiwhQK60Kk) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [Maradona](https://open.spotify.com/album/68Y8cUOYmf7KMnuP5aa5Is) | 2:43 |
-| 71 | [Toxic](https://open.spotify.com/track/0PzKXHZLlax3utLHSAAsiF) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Toxic](https://open.spotify.com/album/4S2OSc9WPy2QK6FabRqurE) | 2:44 |
-| 72 | [Noche](https://open.spotify.com/track/3ULzX5ajD6j2sNjGQOj3T1) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Noche](https://open.spotify.com/album/450FUfwWpz8SxcUgfwDzax) | 2:18 |
-| 73 | [LA VAR](https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w) | [Supremnova](https://open.spotify.com/artist/4fUvYApN6RKS0A4oPnHciR), [Jemma's Palace](https://open.spotify.com/artist/3RHXu7mYWlyIhAzg7HkkmZ) | [LA VAR](https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7) | 1:42 |
+| 71 | [LA VAR](https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w) | [Supremnova](https://open.spotify.com/artist/4fUvYApN6RKS0A4oPnHciR), [Jemma's Palace](https://open.spotify.com/artist/3RHXu7mYWlyIhAzg7HkkmZ) | [LA VAR](https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7) | 1:42 |
+| 72 | [Toxic](https://open.spotify.com/track/0PzKXHZLlax3utLHSAAsiF) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Toxic](https://open.spotify.com/album/4S2OSc9WPy2QK6FabRqurE) | 2:44 |
+| 73 | [Noche](https://open.spotify.com/track/3ULzX5ajD6j2sNjGQOj3T1) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Noche](https://open.spotify.com/album/450FUfwWpz8SxcUgfwDzax) | 2:18 |
 | 74 | [CHÈVRE GOAT NTABA \- GRM x yard](https://open.spotify.com/track/16MJYG3Bcljvh1Qm8prgyq) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [CHÈVRE GOAT NTABA \(GRM x yard\)](https://open.spotify.com/album/5RrVVBQd9Jle9ym3nw9yb3) | 2:54 |
-| 75 | [BEAUX GARÇONS](https://open.spotify.com/track/3Y0ZQODxCHm18NqJKaHrB5) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BEAUX GARÇONS](https://open.spotify.com/album/5rstd8cBg9dbCzEpS2KxQw) | 2:29 |
+| 75 | [Soleil levant](https://open.spotify.com/track/3UYNXXLHetyPKhX0vwF0d1) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [La fuite en avant](https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS) | 3:24 |
 
-Snapshot ID: `AAAAAGbBT+pUuNV8taKppGSNbjy09HGN`
+Snapshot ID: `AAAAAEgiupW9jqy01PAfKd/GTSWiiM+2`

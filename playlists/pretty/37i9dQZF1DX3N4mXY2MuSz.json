@@ -1,12 +1,12 @@
 {
   "description": "Holiday classics from your favourite punks. ",
-  "num_followers": 90504,
+  "num_followers": 90500,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANRrSFbOnDapH5o9YI+y+ByPKrPZ",
+  "snapshot_id": "AAAAAN2KXD2M5GJf+FmPsmkP52Ny3v6w",
   "tracks": [
     {
       "added_at": "2023-11-18 13:41:26",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "X Christmas",
-        "url": "https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR"
-      },
-      "artists": [
-        {
-          "name": "Capital Lights",
-          "url": "https://open.spotify.com/artist/0xhIBddw7R69CWKsCt2gVt"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "His Favorite Christmas Story",
-      "url": "https://open.spotify.com/track/0zrbISwByqUAWssIhgQwQr"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 109186,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/1Hal68E1MbcY7GPcsQbqVm"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "X Christmas",
+        "url": "https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR"
+      },
+      "artists": [
+        {
+          "name": "Capital Lights",
+          "url": "https://open.spotify.com/artist/0xhIBddw7R69CWKsCt2gVt"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "His Favorite Christmas Story",
+      "url": "https://open.spotify.com/track/0zrbISwByqUAWssIhgQwQr"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Happy Holidays, You Bastard",
-        "url": "https://open.spotify.com/album/7dUO22BrcLCDAo8PxzL88H"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 43526,
-      "name": "Happy Holidays, You Bastard",
-      "url": "https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 99573,
       "name": "God Rest Ye Merry Gentlemen",
       "url": "https://open.spotify.com/track/1dlO7CncE79hCspdTO99Fz"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Happy Holidays, You Bastard",
+        "url": "https://open.spotify.com/album/7dUO22BrcLCDAo8PxzL88H"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 43526,
+      "name": "Happy Holidays, You Bastard",
+      "url": "https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)",
-        "url": "https://open.spotify.com/album/03403404Rwa4suo4nzYyUY"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Is This Christmas? - Radio Edit",
-      "url": "https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 127733,
       "name": "O Come, O Come Emmanuel",
       "url": "https://open.spotify.com/track/16qtpiIyiTmsN2Dnl5ZPj9"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)",
+        "url": "https://open.spotify.com/album/03403404Rwa4suo4nzYyUY"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Is This Christmas? - Radio Edit",
+      "url": "https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Groovy Xmas",
-        "url": "https://open.spotify.com/album/6fplrLXf8m4APlZ1nInkXW"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 133028,
-      "name": "Groovy Xmas",
-      "url": "https://open.spotify.com/track/0i1eZMzUmrYHOqRroYacfx"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "The Goldfinger Christmas EP",
         "url": "https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 86386,
       "name": "Rudolph The Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Groovy Xmas",
+        "url": "https://open.spotify.com/album/6fplrLXf8m4APlZ1nInkXW"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 133028,
+      "name": "Groovy Xmas",
+      "url": "https://open.spotify.com/track/0i1eZMzUmrYHOqRroYacfx"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas Rock",
-        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
-        }
-      ],
-      "duration_ms": 177640,
-      "name": "X'Mas Time (It Sure Doesn't Feel Like It)",
-      "url": "https://open.spotify.com/track/30HWEKPozyqnJ8ARfVnoT2"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "X Christmas",
         "url": "https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 188333,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/22rBktERctuWCLmnV51Td5"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "X Christmas",
+        "url": "https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR"
+      },
+      "artists": [
+        {
+          "name": "FM Static",
+          "url": "https://open.spotify.com/artist/043r4OwwUAYREkBLK5jAiV"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "Christmas Shoes",
+      "url": "https://open.spotify.com/track/1jdO5CFR3dhv3OKoALywkl"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "X Christmas",
-        "url": "https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR"
+        "name": "Christmas Rock",
+        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
       },
       "artists": [
         {
-          "name": "FM Static",
-          "url": "https://open.spotify.com/artist/043r4OwwUAYREkBLK5jAiV"
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
         }
       ],
-      "duration_ms": 255400,
-      "name": "Christmas Shoes",
-      "url": "https://open.spotify.com/track/1jdO5CFR3dhv3OKoALywkl"
+      "duration_ms": 177640,
+      "name": "X'Mas Time (It Sure Doesn't Feel Like It)",
+      "url": "https://open.spotify.com/track/30HWEKPozyqnJ8ARfVnoT2"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Holiday Records",
-        "url": "https://open.spotify.com/album/4xrqHer0s9cTXkL0VyGgYx"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Holiday Records",
-      "url": "https://open.spotify.com/track/0oHWViVcaumnleLFUxDf4Q"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Merry Flippin' Christmas Vol. 1 and 2",
         "url": "https://open.spotify.com/album/6tGUcaUMbNomtYJrYNLlmj"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 164746,
       "name": "Merry Flippin' Christmas (Happy Freakin' New Year)",
       "url": "https://open.spotify.com/track/5vcL0Ml7xEiZysuAMmK4zF"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Holiday Records",
+        "url": "https://open.spotify.com/album/4xrqHer0s9cTXkL0VyGgYx"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Holiday Records",
+      "url": "https://open.spotify.com/track/0oHWViVcaumnleLFUxDf4Q"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Father Christmas",
+        "url": "https://open.spotify.com/album/7voAxY5cusvcdJynnQzggG"
+      },
+      "artists": [
+        {
+          "name": "Lauran Hibberd",
+          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+        }
+      ],
+      "duration_ms": 199071,
+      "name": "Father Christmas",
+      "url": "https://open.spotify.com/track/2fARp1aruu7SCi4e3XdnwP"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Come on Christmas",
         "url": "https://open.spotify.com/album/4ZHVwJlVzsiSr5E9Vow4lX"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 240846,
       "name": "Come on Christmas",
       "url": "https://open.spotify.com/track/16oE2wDyCs8v0D62wWQ9o6"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Father Christmas",
-        "url": "https://open.spotify.com/album/7voAxY5cusvcdJynnQzggG"
-      },
-      "artists": [
-        {
-          "name": "Lauran Hibberd",
-          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
-        }
-      ],
-      "duration_ms": 199071,
-      "name": "Father Christmas",
-      "url": "https://open.spotify.com/track/2fARp1aruu7SCi4e3XdnwP"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas Cards",
-        "url": "https://open.spotify.com/album/2E7KrXv1U2crrcsAy4zb2R"
-      },
-      "artists": [
-        {
-          "name": "Spoke Too Soon",
-          "url": "https://open.spotify.com/artist/3oARFNb8lJnqLCubtq2yMx"
-        }
-      ],
-      "duration_ms": 246074,
-      "name": "Christmas Cards",
-      "url": "https://open.spotify.com/track/57G4NV9ikiRyr78EanfSNv"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "December",
         "url": "https://open.spotify.com/album/22jWMvcp7ruHDfqn9EVxwe"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 213034,
       "name": "December (again) [feat. Mark Hoppus]",
       "url": "https://open.spotify.com/track/1vpKLPLaYymnwkIHALc5J1"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Christmas Cards",
+        "url": "https://open.spotify.com/album/2E7KrXv1U2crrcsAy4zb2R"
+      },
+      "artists": [
+        {
+          "name": "Spoke Too Soon",
+          "url": "https://open.spotify.com/artist/3oARFNb8lJnqLCubtq2yMx"
+        }
+      ],
+      "duration_ms": 246074,
+      "name": "Christmas Cards",
+      "url": "https://open.spotify.com/track/57G4NV9ikiRyr78EanfSNv"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Attack of the Killer B-Sides",
+        "url": "https://open.spotify.com/album/6vzC3ouCJBHTO5KqQ2lnea"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 222653,
+      "name": "Right Where You Want Me to Be",
+      "url": "https://open.spotify.com/track/1pcL2LXuaO01180QkIxkSG"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Ruin Jonny's Bar Mitzvah",
         "url": "https://open.spotify.com/album/2ghotUjHKIAK4g2FYb316n"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 139306,
       "name": "I Want An Alien For Christmas",
       "url": "https://open.spotify.com/track/5MosvqhyVHyDsgoTmfImDP"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Attack of the Killer B-Sides",
-        "url": "https://open.spotify.com/album/6vzC3ouCJBHTO5KqQ2lnea"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 222653,
-      "name": "Right Where You Want Me to Be",
-      "url": "https://open.spotify.com/track/1pcL2LXuaO01180QkIxkSG"
     },
     {
       "added_at": "2023-11-18 13:41:26",

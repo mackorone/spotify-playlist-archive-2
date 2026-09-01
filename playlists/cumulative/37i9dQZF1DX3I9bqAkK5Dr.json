@@ -639,6 +639,36 @@
     },
     {
       "album": {
+        "name": "Bangaram",
+        "url": "https://open.spotify.com/album/7GbY5rwvglskAcSFvchmVK"
+      },
+      "artists": [
+        {
+          "name": "Afroz Ali",
+          "url": "https://open.spotify.com/artist/163z7nRHrdBeQtMSIUacZW"
+        },
+        {
+          "name": "Sameera Bharadwaj",
+          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
+        },
+        {
+          "name": "Demon pavan",
+          "url": "https://open.spotify.com/artist/7kTNpD0qqAj7w47lKnmr53"
+        },
+        {
+          "name": "Rithu chowdary",
+          "url": "https://open.spotify.com/artist/2aeVHaVoodSftVbc5CX5Zs"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186047,
+      "name": "Bangaram",
+      "url": "https://open.spotify.com/track/2snhZ3f3oy2HZiQhkpldqJ"
+    },
+    {
+      "album": {
         "name": "Bangaru",
         "url": "https://open.spotify.com/album/51t7QiRHzfXqyiZ3euyglO"
       },
@@ -1318,6 +1348,24 @@
       "duration_ms": 240407,
       "name": "Chilipi Gnapakam Female Version",
       "url": "https://open.spotify.com/track/6OpwxZxIW10ir69O7VKlED"
+    },
+    {
+      "album": {
+        "name": "Chill Chill",
+        "url": "https://open.spotify.com/album/0x3wY4UFgFLaz9zgzHfMVb"
+      },
+      "artists": [
+        {
+          "name": "Uday Kiran UK",
+          "url": "https://open.spotify.com/artist/6bMQApJJQkMAARbNqYu34i"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "Chill Chill",
+      "url": "https://open.spotify.com/track/76ZkTEwKomDeeB2huHNt9p"
     },
     {
       "album": {
@@ -5940,7 +5988,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 308000,
       "name": "Naa Rakshasi",
       "url": "https://open.spotify.com/track/5Edz52y2OPRDfuukFNiZXx"
@@ -6412,6 +6460,24 @@
       "duration_ms": 183952,
       "name": "Nee Korake",
       "url": "https://open.spotify.com/track/6UCFvF1my4n7XmjRJv0u5C"
+    },
+    {
+      "album": {
+        "name": "Nee Kosam",
+        "url": "https://open.spotify.com/album/7HoajReNM4p2X9B8gXN2w7"
+      },
+      "artists": [
+        {
+          "name": "Arviz",
+          "url": "https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210878,
+      "name": "Nee Kosam",
+      "url": "https://open.spotify.com/track/4FcPdM3hcWyLKqq38BW61P"
     },
     {
       "album": {
@@ -10490,7 +10556,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 243440,
       "name": "Taaraley",
       "url": "https://open.spotify.com/track/0RWppfpvEJg6ZKGzeJCezz"
@@ -12200,7 +12266,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 248400,
       "name": "You Are My Dream Girl",
       "url": "https://open.spotify.com/track/2GE2bi23poertoQ4IEoK1P"

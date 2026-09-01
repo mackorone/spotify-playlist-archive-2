@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,509 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,513 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 12 | [남자이야기](https://open.spotify.com/track/66YxX3sVudr6SvgiUAUJgr) | [Honey Family](https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX) | [HONEY FAMILY](https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T) | 4:15 |
 | 13 | [고집쟁이](https://open.spotify.com/track/2jsrFWgixfjCPU7oJVc3Xe) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:55 |
 | 14 | [the real thing \(For The Club\)\(feat\. Shin Ji Sun\)](https://open.spotify.com/track/261dj6cohdYbXv6tluzwRm) | [CB MASS](https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL) | [Massmediah](https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb) | 3:39 |
-| 15 | [Take The Q Train Remix \(feat\. P\-Type\)](https://open.spotify.com/track/0jwn6R68MwfFOLProG5oUt) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [Q Train \(Remaster\)](https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX) | 3:40 |
+| 15 | [한번뿐인 인생 One Life to Live](https://open.spotify.com/track/2MvehWGMkCeHZclsQo9kCJ) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [The Real Me](https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE) | 4:33 |
 | 16 | [Let It Rain \(feat\. 김종완\)](https://open.spotify.com/track/3bG8MFdLEqTXFtUkr1UrXW) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Swan Songs](https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6) | 4:40 |
 | 17 | [Gilmak](https://open.spotify.com/track/2Au4JIm7X0xVlUQ2uP0RxY) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Last Days](https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp) | 5:02 |
 | 18 | [편의점](https://open.spotify.com/track/2sTdpHxC8VjvxQpkJfQLjU) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:44 |
 | 19 | [Whistle](https://open.spotify.com/track/0yqX4crC7Bf9vWCHGZem2T) | [CB MASS](https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL) | [Matics](https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx) | 3:57 |
-| 20 | [한번뿐인 인생 One Life to Live](https://open.spotify.com/track/2MvehWGMkCeHZclsQo9kCJ) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [The Real Me](https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE) | 4:33 |
+| 20 | [Take The Q Train Remix \(feat\. P\-Type\)](https://open.spotify.com/track/0jwn6R68MwfFOLProG5oUt) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [Q Train \(Remaster\)](https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX) | 3:40 |
 | 21 | [우리 같이해요](https://open.spotify.com/track/5sj2hMW51QPNjJ8HiER4bU) | [Honey Family](https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX) | [HONEY FAMILY](https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T) | 4:58 |
 | 22 | [U\-turn \(Feat\. Verbal Jint\)](https://open.spotify.com/track/43XlDyKKmCo3fkJ51aR7IP) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Enlightened](https://open.spotify.com/album/4ySrj1BHhoMUbFFKs2Uhe0) | 4:16 |
 | 23 | [위대한 탄생](https://open.spotify.com/track/6J2PdRIJ7B5PI9vTjjrVFQ) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 99 | [떠버리 Pt\. 2 \(feat\. Pocyomkin, 1 Kyne, Sean2slow & 더블케이\)](https://open.spotify.com/track/1dfWtvnNCvMXE7kJOyZAF2) | [Leo Kekoa](https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk), [Pocyomkin](https://open.spotify.com/artist/6IN0p90dq8Adz9mg4jXn6e), [1 Kyne](https://open.spotify.com/artist/5mbtyCGys1Blku95lkAMVV), [Sean2Slow](https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU), [Double K](https://open.spotify.com/artist/6Xv8PJrOONqS2n2eSskF4C) | [Ill Skill](https://open.spotify.com/album/4KklnGUIFOgIvlWeTtahZJ) | 4:13 |
 | 100 | [Guilty](https://open.spotify.com/track/7rUURVpd1ucUhkbnYNlJbw) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Band of Dynamic Brothers](https://open.spotify.com/album/1v5PBEn1CygICPOdOuJfSc) | 3:44 |
 
-Snapshot ID: `AAAAALRMLBtC7cKukIQXaLVUvtlVsjZu`
+Snapshot ID: `AAAAAGlSVh74B1pMSf/E9eFe9hB5iFQl`

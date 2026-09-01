@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Louis du Sauzay
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,301 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,245 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [CHARME](https://open.spotify.com/track/2saiiXH63lUebPVEFf0Ysa) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CHARME](https://open.spotify.com/album/52UMGPQVJjiXH8Md6byhwh) | 3:03 |
 | 50 | [sunrise rocket](https://open.spotify.com/track/0tEt8CPH0NK10SqS00krls) | [MisiiN](https://open.spotify.com/artist/1AWaERDm3O1qwyVa3NpmXC) | [sunrise rocket](https://open.spotify.com/album/0nefnCe52X4GOpIqNFtAeW) | 2:45 |
 
-Snapshot ID: `AAAAADnc+/nHzgoqRv7rX8q/a0NJFQRr`
+Snapshot ID: `AAAAAPE7yJacQ5YZ4bNHQylXu7oxP8CI`

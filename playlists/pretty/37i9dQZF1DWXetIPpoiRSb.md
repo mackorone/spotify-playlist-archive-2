@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > pop's R&D department ⚡️🧪🧬 cover: iKeda
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,537 likes - 85 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,504 likes - 85 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 84 | [Annoying](https://open.spotify.com/track/1gkmHKs2BwN9xLamE1JhVM) | [Babymorocco](https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe) | [Annoying](https://open.spotify.com/album/1dNslpThNNqAKVWrHDELw0) | 3:04 |
 | 85 | [Where's My Bikini](https://open.spotify.com/track/37or6sHEsIQ2afxg2A1srK) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Where’s My Bikini](https://open.spotify.com/album/0kZoa3mz2zdbYvPTwNAhoi) | 2:39 |
 
-Snapshot ID: `AAAAAJ3SMB4y9EtHncRqS3dszmn1hekz`
+Snapshot ID: `AAAAADgzoU8cB63Jv+79UXTsumlQU8FU`

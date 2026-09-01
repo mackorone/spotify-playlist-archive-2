@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGRhtWQAKuqGKTWzxLJM07NpHdyQ",
+  "snapshot_id": "AAAAABBLs5R7qUqwZbMtiRryQuGXs7wP",
   "tracks": [
     {
       "added_at": "2023-08-31 14:00:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Go On",
-        "url": "https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1"
+        "name": "Unsolicited Joints",
+        "url": "https://open.spotify.com/album/4voAyhSEWcXAiNCqeYcv3r"
       },
       "artists": [
         {
-          "name": "a.s.o.",
-          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
+          "name": "Unsolicited Joints",
+          "url": "https://open.spotify.com/artist/7p5UQv94mUY8N9MSvJshlB"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Go On",
-      "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
+      "duration_ms": 378461,
+      "name": "Joint 2",
+      "url": "https://open.spotify.com/track/6ReMJ5usS97047qn4aohMz"
     }
   ],
   "unique_name": "Night Shift",

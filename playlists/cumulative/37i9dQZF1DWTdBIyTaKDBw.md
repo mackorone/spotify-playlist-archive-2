@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-439 songs - 23 hr 25 min
+440 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Hero Is Born](https://open.spotify.com/track/4SJJkTyFoNcXQYfMr9x3or) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU), [Kalaido](https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8) | [Gaijin II Tale of Rai](https://open.spotify.com/album/79ynbZwBXsmdFZw8Oa0FMK) | 3:18 | 2025-05-23 | 2026-01-21 |
 | [A longing night](https://open.spotify.com/track/4yTPo66vy8AATxNvNyLqN5) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [Illusion](https://open.spotify.com/album/6uu5CP0ipD9JZ6wyl14QXc) | 3:01 | 2022-05-03 | 2024-07-03 |
 | [A Rounded Stone 모난돌 \(Monthly Project 2019 February Yoon Jong Shin\)](https://open.spotify.com/track/2QvAqO6f2sbjGnLaAdlaNI) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [A Rounded Stone 모난돌 \(Monthly Project 2019 February Yoon Jong Shin\)](https://open.spotify.com/album/6roGryreinaVwywhgupU4w) | 4:31 | 2022-05-03 | 2022-07-05 |
+| [A Traveler's Tale](https://open.spotify.com/track/2Uy3YqGCfiZ4aIfp9mD5Lx) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [A Traveler's Tale](https://open.spotify.com/album/7ztlWkCDduMuSuDkzbj67Z) | 2:54 | 2026-06-29 |  |
 | [A villain is born](https://open.spotify.com/track/342FlGcgU1lx4T9KqnzprJ) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU), [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Gaijin III Rise of Jiro](https://open.spotify.com/album/68W1fqGzQdkUU0uqkQ1ehR) | 2:58 | 2024-07-02 | 2025-05-02 |
 | [Affection](https://open.spotify.com/track/7MdZQXUBijQxcBkYz4G1Z5) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Life](https://open.spotify.com/album/52qF0r4f9WihHYUDcINmmC) | 1:57 | 2024-07-02 | 2025-04-15 |
 | [After The Rain](https://open.spotify.com/track/4ryDa9xL9jajOZ5zbW5wjN) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [Night Mood](https://open.spotify.com/album/2HWU6jTBDcSLU41QhomIMq) | 4:14 | 2022-07-22 | 2024-06-22 |
@@ -63,7 +64,7 @@
 | [Bonsai](https://open.spotify.com/track/4f77uaw3R0eoAIhYjgEwMH) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU) | [Lost in Japan II](https://open.spotify.com/album/4ouEJG6RaGAKTB6CwhnBtT) | 4:29 | 2025-07-18 | 2025-08-08 |
 | [Both of Us](https://open.spotify.com/track/1ADffIiBVfqDSRb8LKE3pU) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Both of Us](https://open.spotify.com/album/3zY1NSZAdVDljcs0SeG63K) | 1:55 | 2024-07-02 | 2025-04-15 |
 | [bottom parade](https://open.spotify.com/track/4jTyKruIyG8mAI1c8QlxfD) | [Non Amer](https://open.spotify.com/artist/7f3l59JHKzkCqsjXxPmYJT) | [Loop 1](https://open.spotify.com/album/53t377Jk0Zhgk88sX60udL) | 3:05 | 2022-06-20 | 2022-07-26 |
-| [Breathing Stone](https://open.spotify.com/track/2ybaJ0ASch1Gz2fhX0gi9q) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Sleeping Soul](https://open.spotify.com/album/0ke8WCdALew5qZUPHsgScT) | 3:24 | 2024-07-02 |  |
+| [Breathing Stone](https://open.spotify.com/track/2ybaJ0ASch1Gz2fhX0gi9q) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Sleeping Soul](https://open.spotify.com/album/0ke8WCdALew5qZUPHsgScT) | 3:24 | 2024-07-02 | 2026-09-01 |
 | [Butterfly on my mind](https://open.spotify.com/track/6I6F82g5Lk555dRHWjVR1w) | [HolyBear](https://open.spotify.com/artist/6RhW0yVl3QJNlL894XSGpn) | [Honey jar No.01](https://open.spotify.com/album/5Zx2HCIxersMYBoulDHh9t) | 3:39 | 2023-01-25 | 2024-07-03 |
 | [Call of Wisdom](https://open.spotify.com/track/4rU2eudmDf4VRuXXZns3se) | [Maiso Linua](https://open.spotify.com/artist/5xtRy4a2R7tyIVuFv9lGwd) | [Call of Wisdom](https://open.spotify.com/album/6h0afS4FOpTzIiIvxgOsIO) | 2:04 | 2025-04-25 | 2025-05-16 |
 | [Candy For You](https://open.spotify.com/track/7r32Oz3HuDHfurSAx4iokY) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [Candy For You](https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA) | 2:38 | 2023-03-30 | 2024-07-03 |

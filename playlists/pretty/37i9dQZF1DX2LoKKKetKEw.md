@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Rotimikeys & Greatman Takit
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,855 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,890 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 69 | [Defender](https://open.spotify.com/track/2MxTRGUSHOOyUhPLjXAANm) | [Oliver Lingk](https://open.spotify.com/artist/3sJLO3PPCeDyrSGX8P29kJ), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Defender](https://open.spotify.com/album/3ZHw0tjbVJQMgYYD7xphV0) | 2:16 |
 | 70 | [Ifeoma](https://open.spotify.com/track/2A8SuOIgP42ZeJbw3lyUj1) | [Kris Grant](https://open.spotify.com/artist/3ohMd9D8nMYIxHbV9eS0AQ), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Ifeoma](https://open.spotify.com/album/0BCRtgbPtUqOhxYn5ATK4s) | 2:24 |
 
-Snapshot ID: `AAAAAKZ6Z7wbCW3rYfE2OlwOKZYJmedJ`
+Snapshot ID: `AAAAAAl3eqFdR8KstL8lPHuouPzZEeIb`

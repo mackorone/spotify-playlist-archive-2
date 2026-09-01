@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AoECZV5sq.md) - [plain]
 
 > 드라마 대사와 함께 더 몰입감 있게 작품의 사운드 트랙을 감상해보세요\. \(Immerse yourself in the soundtrack alongside iconic lines from the drama.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,751 likes - 23 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,757 likes - 23 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AoECZV5sq.md) - [plain]
 | 22 | [TOUGH LOVE](https://open.spotify.com/track/0JWu3QkeitDCsiSTohLcc0) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [TOUGH LOVE](https://open.spotify.com/album/5eyN4dfPRJEAVU7paiAYsA) | 2:37 |
 | 23 | [I Was Young And I Wanted To Say I Was Sorry](https://open.spotify.com/track/30owTe5uaJg0njiSWLgR8X) | [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [I Was Young And I Wanted To Say I Was Sorry](https://open.spotify.com/album/1b5gUogKYDGooCkPByNtwc) | 3:10 |
 
-Snapshot ID: `AAAAAAjmZzCfzZvSUrw8SvB+P7x7L0Yy`
+Snapshot ID: `AAAAAOX5GjE4SdHYtCSslFtAMkbkyDdR`

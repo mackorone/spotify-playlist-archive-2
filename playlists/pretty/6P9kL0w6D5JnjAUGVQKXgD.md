@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 46,522 likes - 100 songs - 5 hr 4 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 46,521 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 3 | [100 Ways \- MK Remix](https://open.spotify.com/track/7susKOmSCXt0OKBfzLWCeD) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [100 Ways \(MK Remix\)](https://open.spotify.com/album/6reU4scmYeENCV66zeZUVh) | 3:51 |
 | 4 | [Judgement Day](https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Judgement Day](https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF) | 4:28 |
 | 5 | [Wings \(I Won't Let You Down\)](https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Wings \(I Won't Let You Down\)](https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS) | 2:51 |
-| 6 | [Came Here To Dance](https://open.spotify.com/track/0JVev9210Vqe8b617iz2Qe) | [Alvin Anthony](https://open.spotify.com/artist/40SW02sSkgw10VTYc6UT9H), [LIDOR](https://open.spotify.com/artist/20ZRifjWvgvprM45GeJffR) | [Came Here To Dance](https://open.spotify.com/album/7fWRu7Lid5kMhU2sK0zm9t) | 2:26 |
+| 6 | [Came Here To Dance](https://open.spotify.com/track/0JVev9210Vqe8b617iz2Qe) | [Alvin Anthony](https://open.spotify.com/artist/40SW02sSkgw10VTYc6UT9H), [לידור ויצמן](https://open.spotify.com/artist/20ZRifjWvgvprM45GeJffR) | [Came Here To Dance](https://open.spotify.com/album/7fWRu7Lid5kMhU2sK0zm9t) | 2:26 |
 | 7 | [That Feeling](https://open.spotify.com/track/4nTj9uSRpyhHWGaeZRUeqQ) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Without U](https://open.spotify.com/album/4XGZu2GMoCpvUPUyXUodAq) | 2:46 |
 | 8 | [Since You Were Here](https://open.spotify.com/track/3dwNe8FCkdvY9eDDxsiZyL) | [Hechmann](https://open.spotify.com/artist/47EbO9KG9g9bIa3ZXn0pwk), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [Since You Were Here](https://open.spotify.com/album/2vuVQbM4FKX0WFkSaqgrHX) | 3:05 |
 | 9 | [True \(with Karen Harding\)](https://open.spotify.com/track/3EfSCuNKoxxpEvAAy58BwN) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [True \(with Karen Harding\)](https://open.spotify.com/album/7yNqFAbrMJ5f5qzavVpDtq) | 2:56 |

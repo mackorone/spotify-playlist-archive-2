@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apIhAAAAAAAuyqXFA30HKA8JzczcsWgQ",
+  "snapshot_id": "apNygAAAAACNZJE3S58c6VqpwhyG7Cl8",
   "tracks": [
     {
       "added_at": null,
@@ -83,8 +83,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Built This City",
-        "url": "https://open.spotify.com/album/25XwdliNAo6VrO7J2U2GxJ"
+        "name": "There Is Only You",
+        "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
       },
       "artists": [
         {
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 235810,
-      "name": "We Built This City",
-      "url": "https://open.spotify.com/track/6uGax7tGLYcmZ0Nk12eO9a"
+      "duration_ms": 190390,
+      "name": "Shaking In The Water",
+      "url": "https://open.spotify.com/track/4EAEzurHVgxsXmJ263P6fV"
     },
     {
       "added_at": null,
@@ -115,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "There Is Only You",
-        "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
+        "name": "We Built This City",
+        "url": "https://open.spotify.com/album/25XwdliNAo6VrO7J2U2GxJ"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 190390,
-      "name": "Shaking In The Water",
-      "url": "https://open.spotify.com/track/4EAEzurHVgxsXmJ263P6fV"
+      "duration_ms": 235810,
+      "name": "We Built This City",
+      "url": "https://open.spotify.com/track/6uGax7tGLYcmZ0Nk12eO9a"
     },
     {
       "added_at": null,
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 195760,
-      "name": "do it to myself",
-      "url": "https://open.spotify.com/track/05mZ4vAbzyGFAeiqGOJEKS"
+      "duration_ms": 181040,
+      "name": "bury you",
+      "url": "https://open.spotify.com/track/75kozyljpuhllnRfboXMEp"
     },
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 181040,
-      "name": "bury you",
-      "url": "https://open.spotify.com/track/75kozyljpuhllnRfboXMEp"
+      "duration_ms": 195760,
+      "name": "do it to myself",
+      "url": "https://open.spotify.com/track/05mZ4vAbzyGFAeiqGOJEKS"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shaking In The Water",
-        "url": "https://open.spotify.com/album/4qAwGPiGVQvbgccrF34jih"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 230451,
-      "name": "North East Kid",
-      "url": "https://open.spotify.com/track/5Itxr5Pxr7Gm283MnkbcRv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ready to Call",
         "url": "https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 219405,
       "name": "Ready to Call",
       "url": "https://open.spotify.com/track/5ie3gZHgWj0Tip7YxJFTn6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shaking In The Water",
+        "url": "https://open.spotify.com/album/4qAwGPiGVQvbgccrF34jih"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 230451,
+      "name": "North East Kid",
+      "url": "https://open.spotify.com/track/5Itxr5Pxr7Gm283MnkbcRv"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 199266,
-      "name": "Gum",
-      "url": "https://open.spotify.com/track/5cOebVOa8m5nfJOIGvBErB"
+      "duration_ms": 270706,
+      "name": "Distant Memory",
+      "url": "https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
       "duration_ms": 212905,
       "name": "Do You Feel Safe?",
       "url": "https://open.spotify.com/track/71B1fNBwSnln85JuY4bTh3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Gum",
+      "url": "https://open.spotify.com/track/5cOebVOa8m5nfJOIGvBErB"
     }
   ],
   "unique_name": "This Is The XCERTS",

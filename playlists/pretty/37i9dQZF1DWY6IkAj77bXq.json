@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 86742,
+  "num_followers": 86752,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANq5t7Krbs9TxFpk9AKqtxwZ2gxG",
+  "snapshot_id": "AAAAAP3/ZXhC/iD+HtPyykeqPOcyWtJ5",
   "tracks": [
     {
       "added_at": "2026-07-03 13:37:40",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Flower Peak",
-        "url": "https://open.spotify.com/album/65FYABLO74OLHqnN1SWnxn"
-      },
-      "artists": [
-        {
-          "name": "Dormira Y Fluir",
-          "url": "https://open.spotify.com/artist/6p4EOjFaxKI2qalYsz4pAK"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Flower Peak",
-      "url": "https://open.spotify.com/track/5iUc2rN3bd2C33qyAMdcBw"
-    },
-    {
-      "added_at": "2026-07-03 13:37:40",
-      "album": {
         "name": "Circuits",
         "url": "https://open.spotify.com/album/3GZHXEo0J83QdaxJXXLjj0"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 160783,
       "name": "Circuits",
       "url": "https://open.spotify.com/track/5BdEWN641x678b5G91K2MM"
+    },
+    {
+      "added_at": "2026-07-03 13:37:40",
+      "album": {
+        "name": "Flower Peak",
+        "url": "https://open.spotify.com/album/65FYABLO74OLHqnN1SWnxn"
+      },
+      "artists": [
+        {
+          "name": "Dormira Y Fluir",
+          "url": "https://open.spotify.com/artist/6p4EOjFaxKI2qalYsz4pAK"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Flower Peak",
+      "url": "https://open.spotify.com/track/5iUc2rN3bd2C33qyAMdcBw"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Zense",
-        "url": "https://open.spotify.com/album/3A3HLUnAfLlvrlZeeAcYEQ"
-      },
-      "artists": [
-        {
-          "name": "Nagawa Meditation",
-          "url": "https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ"
-        }
-      ],
-      "duration_ms": 177688,
-      "name": "Zense",
-      "url": "https://open.spotify.com/track/4evoyd3aWcj9rxmzajtsKA"
-    },
-    {
-      "added_at": "2026-07-03 13:37:40",
-      "album": {
         "name": "Realm of the Lightyear Kings",
         "url": "https://open.spotify.com/album/22JmD58VLUccL6giClvVrA"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 207795,
       "name": "Realm of the Lightyear Kings",
       "url": "https://open.spotify.com/track/6wMVkJ7wt7IITXhWWiqHp1"
+    },
+    {
+      "added_at": "2026-07-03 13:37:40",
+      "album": {
+        "name": "Zense",
+        "url": "https://open.spotify.com/album/3A3HLUnAfLlvrlZeeAcYEQ"
+      },
+      "artists": [
+        {
+          "name": "Nagawa Meditation",
+          "url": "https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ"
+        }
+      ],
+      "duration_ms": 177688,
+      "name": "Zense",
+      "url": "https://open.spotify.com/track/4evoyd3aWcj9rxmzajtsKA"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
+        "name": "Oshier - 963Hz",
+        "url": "https://open.spotify.com/album/1aRsa1uchv9flnrSZ3VrcQ"
+      },
+      "artists": [
+        {
+          "name": "Mzarta Brokin",
+          "url": "https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf"
+        }
+      ],
+      "duration_ms": 155643,
+      "name": "Oshier - 963Hz",
+      "url": "https://open.spotify.com/track/2jI9ubWWveL2f6ldWfVNgY"
+    },
+    {
+      "added_at": "2026-07-03 13:37:40",
+      "album": {
         "name": "Silent slumber",
         "url": "https://open.spotify.com/album/7HGWndf2VOWichCVXIhvnk"
       },
@@ -599,6 +615,22 @@
       "duration_ms": 147677,
       "name": "Silent slumber",
       "url": "https://open.spotify.com/track/4g9v29eabQuJBbbCT5CWYI"
+    },
+    {
+      "added_at": "2026-07-03 13:37:40",
+      "album": {
+        "name": "When The Day Fades",
+        "url": "https://open.spotify.com/album/7eqQS1uXmbwUk9weF1Cps4"
+      },
+      "artists": [
+        {
+          "name": "Salomon Isle",
+          "url": "https://open.spotify.com/artist/48J1kuqZgr2pNtsN8BxhZu"
+        }
+      ],
+      "duration_ms": 151367,
+      "name": "When The Day Fades",
+      "url": "https://open.spotify.com/track/2zmweAUpApR2KRZV9Xca8v"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -619,22 +651,6 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Moon Over Quiet Hills",
-        "url": "https://open.spotify.com/album/7EynO0IlSdNkdh2H6PA31L"
-      },
-      "artists": [
-        {
-          "name": "Tellus Gardens",
-          "url": "https://open.spotify.com/artist/1e1Bytfbq91eNVqA8V65NT"
-        }
-      ],
-      "duration_ms": 219714,
-      "name": "Moon Over Quiet Hills",
-      "url": "https://open.spotify.com/track/743BKP04wOpRGyt9uK7DVH"
-    },
-    {
-      "added_at": "2026-07-03 13:37:40",
-      "album": {
         "name": "Interlock",
         "url": "https://open.spotify.com/album/1GJYzCweNm3yFunjrzt29m"
       },
@@ -651,34 +667,18 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Oshier - 963Hz",
-        "url": "https://open.spotify.com/album/1aRsa1uchv9flnrSZ3VrcQ"
+        "name": "Moon Over Quiet Hills",
+        "url": "https://open.spotify.com/album/7EynO0IlSdNkdh2H6PA31L"
       },
       "artists": [
         {
-          "name": "Mzarta Brokin",
-          "url": "https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf"
+          "name": "Tellus Gardens",
+          "url": "https://open.spotify.com/artist/1e1Bytfbq91eNVqA8V65NT"
         }
       ],
-      "duration_ms": 155643,
-      "name": "Oshier - 963Hz",
-      "url": "https://open.spotify.com/track/2jI9ubWWveL2f6ldWfVNgY"
-    },
-    {
-      "added_at": "2026-07-03 13:37:40",
-      "album": {
-        "name": "When The Day Fades",
-        "url": "https://open.spotify.com/album/7eqQS1uXmbwUk9weF1Cps4"
-      },
-      "artists": [
-        {
-          "name": "Salomon Isle",
-          "url": "https://open.spotify.com/artist/48J1kuqZgr2pNtsN8BxhZu"
-        }
-      ],
-      "duration_ms": 151367,
-      "name": "When The Day Fades",
-      "url": "https://open.spotify.com/track/2zmweAUpApR2KRZV9Xca8v"
+      "duration_ms": 219714,
+      "name": "Moon Over Quiet Hills",
+      "url": "https://open.spotify.com/track/743BKP04wOpRGyt9uK7DVH"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "A Special Place",
-        "url": "https://open.spotify.com/album/6xwjMXjy1IXjvD27ISAStB"
-      },
-      "artists": [
-        {
-          "name": "Celestial Aura",
-          "url": "https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV"
-        }
-      ],
-      "duration_ms": 146625,
-      "name": "A Special Place",
-      "url": "https://open.spotify.com/track/4EfWUdmaf5KMHHuXVchEU9"
-    },
-    {
-      "added_at": "2026-07-03 13:37:40",
-      "album": {
         "name": "Mist Over Mountains",
         "url": "https://open.spotify.com/album/6q4ETkytWnXwoVMLTF4bdG"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 168000,
       "name": "Mist Over Mountains",
       "url": "https://open.spotify.com/track/5zPxf9oBbQmYGBUn3aZb7d"
+    },
+    {
+      "added_at": "2026-07-03 13:37:40",
+      "album": {
+        "name": "A Special Place",
+        "url": "https://open.spotify.com/album/6xwjMXjy1IXjvD27ISAStB"
+      },
+      "artists": [
+        {
+          "name": "Celestial Aura",
+          "url": "https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV"
+        }
+      ],
+      "duration_ms": 146625,
+      "name": "A Special Place",
+      "url": "https://open.spotify.com/track/4EfWUdmaf5KMHHuXVchEU9"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Meditatio Lux",
-        "url": "https://open.spotify.com/album/5HLUwTzWyI6Bsu0ATw5yIO"
+        "name": "Aube",
+        "url": "https://open.spotify.com/album/0vRjV5no9GIdfHUKnMaNyy"
       },
       "artists": [
         {
-          "name": "Maurie",
-          "url": "https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2"
+          "name": "Institute of Noise",
+          "url": "https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Meditatio Lux",
-      "url": "https://open.spotify.com/track/5Q9U0Fh4QjQWPsCFy7TAQ1"
+      "duration_ms": 180000,
+      "name": "Aube",
+      "url": "https://open.spotify.com/track/0JJo7BXhf7g11EwOk6OSK7"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Aube",
-        "url": "https://open.spotify.com/album/0vRjV5no9GIdfHUKnMaNyy"
+        "name": "Meditatio Lux",
+        "url": "https://open.spotify.com/album/5HLUwTzWyI6Bsu0ATw5yIO"
       },
       "artists": [
         {
-          "name": "Institute of Noise",
-          "url": "https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT"
+          "name": "Maurie",
+          "url": "https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Aube",
-      "url": "https://open.spotify.com/track/0JJo7BXhf7g11EwOk6OSK7"
+      "duration_ms": 225000,
+      "name": "Meditatio Lux",
+      "url": "https://open.spotify.com/track/5Q9U0Fh4QjQWPsCFy7TAQ1"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Spiritual Oasis",
-        "url": "https://open.spotify.com/album/3W2XFXjeoW9w57gbVqQa0q"
-      },
-      "artists": [
-        {
-          "name": "Warmth of Muba",
-          "url": "https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf"
-        }
-      ],
-      "duration_ms": 140649,
-      "name": "Spiritual Oasis",
-      "url": "https://open.spotify.com/track/1RyDmEXJBK9YPWPABmMc3A"
-    },
-    {
-      "added_at": "2026-07-03 13:37:40",
-      "album": {
         "name": "Slow Falling of Light",
         "url": "https://open.spotify.com/album/713In70uLYleJ6Te91PM7w"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 185742,
       "name": "Slow Falling of Light",
       "url": "https://open.spotify.com/track/2cmZz0u7VhVFVGiaNsPbL7"
+    },
+    {
+      "added_at": "2026-07-03 13:37:40",
+      "album": {
+        "name": "Spiritual Oasis",
+        "url": "https://open.spotify.com/album/3W2XFXjeoW9w57gbVqQa0q"
+      },
+      "artists": [
+        {
+          "name": "Warmth of Muba",
+          "url": "https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf"
+        }
+      ],
+      "duration_ms": 140649,
+      "name": "Spiritual Oasis",
+      "url": "https://open.spotify.com/track/1RyDmEXJBK9YPWPABmMc3A"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Spirito",
-        "url": "https://open.spotify.com/album/5iJyI9zzYO0jBXC9Lrr8FS"
-      },
-      "artists": [
-        {
-          "name": "Coherent Energy",
-          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
-        }
-      ],
-      "duration_ms": 187142,
-      "name": "Spirito",
-      "url": "https://open.spotify.com/track/1w0m3u2bG55X2g5uWl6oMI"
-    },
-    {
-      "added_at": "2026-07-03 13:37:40",
-      "album": {
         "name": "Divination",
         "url": "https://open.spotify.com/album/2bJxa5X6vNtE3AZpRJDuEd"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 150810,
       "name": "Divination",
       "url": "https://open.spotify.com/track/2ku79WiGbxwbruaVS4dfkV"
+    },
+    {
+      "added_at": "2026-07-03 13:37:40",
+      "album": {
+        "name": "Spirito",
+        "url": "https://open.spotify.com/album/5iJyI9zzYO0jBXC9Lrr8FS"
+      },
+      "artists": [
+        {
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
+        }
+      ],
+      "duration_ms": 187142,
+      "name": "Spirito",
+      "url": "https://open.spotify.com/track/1w0m3u2bG55X2g5uWl6oMI"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Glacial Views",
-        "url": "https://open.spotify.com/album/056OKAZ5jCLKD0KnQCdxZV"
-      },
-      "artists": [
-        {
-          "name": "Eartharmonics",
-          "url": "https://open.spotify.com/artist/28mf6WqvVAsOevoY6A2oB7"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Glacial Views",
-      "url": "https://open.spotify.com/track/5akSLRCugbmnEkbIFqnVsc"
-    },
-    {
-      "added_at": "2026-07-03 13:37:40",
-      "album": {
         "name": "Mind Balance",
         "url": "https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 178723,
       "name": "Mind Balance",
       "url": "https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w"
+    },
+    {
+      "added_at": "2026-07-03 13:37:40",
+      "album": {
+        "name": "Glacial Views",
+        "url": "https://open.spotify.com/album/056OKAZ5jCLKD0KnQCdxZV"
+      },
+      "artists": [
+        {
+          "name": "Eartharmonics",
+          "url": "https://open.spotify.com/artist/28mf6WqvVAsOevoY6A2oB7"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Glacial Views",
+      "url": "https://open.spotify.com/track/5akSLRCugbmnEkbIFqnVsc"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Silent Waters",
-        "url": "https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT"
-      },
-      "artists": [
-        {
-          "name": "The Silent Ocean",
-          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
-        }
-      ],
-      "duration_ms": 144830,
-      "name": "Silent Waters",
-      "url": "https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM"
-    },
-    {
-      "added_at": "2026-07-03 13:37:40",
-      "album": {
         "name": "Aetheris",
         "url": "https://open.spotify.com/album/2JDr7kXGdHPQQKgOdfGy6x"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 178823,
       "name": "Aetheris",
       "url": "https://open.spotify.com/track/3qW4n7ZcKKdby0Hyp0tVma"
+    },
+    {
+      "added_at": "2026-07-03 13:37:40",
+      "album": {
+        "name": "Silent Waters",
+        "url": "https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT"
+      },
+      "artists": [
+        {
+          "name": "The Silent Ocean",
+          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
+        }
+      ],
+      "duration_ms": 144830,
+      "name": "Silent Waters",
+      "url": "https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Mystic Reverberations",
-        "url": "https://open.spotify.com/album/1TmnmvyZ3tZJnRK1mMc2Wd"
-      },
-      "artists": [
-        {
-          "name": "Spatia Sonica",
-          "url": "https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk"
-        }
-      ],
-      "duration_ms": 149250,
-      "name": "Mystic Reverberations",
-      "url": "https://open.spotify.com/track/6c7SjzTC92FI18MmItSPSq"
-    },
-    {
-      "added_at": "2026-07-03 13:37:40",
-      "album": {
         "name": "Osceola",
         "url": "https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE"
       },
@@ -1691,18 +1675,18 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Dawn to Dusk",
-        "url": "https://open.spotify.com/album/3HkRRJGI9kFye6UZm7N3Ll"
+        "name": "Mystic Reverberations",
+        "url": "https://open.spotify.com/album/1TmnmvyZ3tZJnRK1mMc2Wd"
       },
       "artists": [
         {
-          "name": "Nelson Talstad",
-          "url": "https://open.spotify.com/artist/4dntdK3Sws28zy1M8Ak5q6"
+          "name": "Spatia Sonica",
+          "url": "https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk"
         }
       ],
-      "duration_ms": 176727,
-      "name": "Dawn to Dusk",
-      "url": "https://open.spotify.com/track/277J9t6hZSZfZ5nl0ZQdVZ"
+      "duration_ms": 149250,
+      "name": "Mystic Reverberations",
+      "url": "https://open.spotify.com/track/6c7SjzTC92FI18MmItSPSq"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -1735,6 +1719,22 @@
       "duration_ms": 175050,
       "name": "Above All Else",
       "url": "https://open.spotify.com/track/70UplT5viFgy9Ul5GGXIvo"
+    },
+    {
+      "added_at": "2026-07-03 13:37:40",
+      "album": {
+        "name": "Dawn to Dusk",
+        "url": "https://open.spotify.com/album/3HkRRJGI9kFye6UZm7N3Ll"
+      },
+      "artists": [
+        {
+          "name": "Nelson Talstad",
+          "url": "https://open.spotify.com/artist/4dntdK3Sws28zy1M8Ak5q6"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "Dawn to Dusk",
+      "url": "https://open.spotify.com/track/277J9t6hZSZfZ5nl0ZQdVZ"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -1867,18 +1867,18 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/01iV3VoDYYuC4Oz82XaYCR"
+        "name": "Embodied Awareness",
+        "url": "https://open.spotify.com/album/7IViHgd7L2ouFj34Iua3nG"
       },
       "artists": [
         {
-          "name": "Georgia Vesper",
-          "url": "https://open.spotify.com/artist/53LTi2F3qGLtMUJaROlx99"
+          "name": "Hatha Priya",
+          "url": "https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6"
         }
       ],
-      "duration_ms": 144043,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/0zoLn35Bnc2byxEe4Y8N8Y"
+      "duration_ms": 195666,
+      "name": "Embodied Awareness",
+      "url": "https://open.spotify.com/track/2Qp9Ysar36Ak7e8Coi5LST"
     },
     {
       "added_at": "2026-07-03 13:37:40",
@@ -1899,18 +1899,18 @@
     {
       "added_at": "2026-07-03 13:37:40",
       "album": {
-        "name": "Embodied Awareness",
-        "url": "https://open.spotify.com/album/7IViHgd7L2ouFj34Iua3nG"
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/01iV3VoDYYuC4Oz82XaYCR"
       },
       "artists": [
         {
-          "name": "Hatha Priya",
-          "url": "https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6"
+          "name": "Georgia Vesper",
+          "url": "https://open.spotify.com/artist/53LTi2F3qGLtMUJaROlx99"
         }
       ],
-      "duration_ms": 195666,
-      "name": "Embodied Awareness",
-      "url": "https://open.spotify.com/track/2Qp9Ysar36Ak7e8Coi5LST"
+      "duration_ms": 144043,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/0zoLn35Bnc2byxEe4Y8N8Y"
     },
     {
       "added_at": "2026-07-03 13:37:40",

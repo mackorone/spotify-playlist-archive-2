@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 381062,
+  "num_followers": 381112,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABN/y8vfSXK6eoW8e3n1TZ/UJAFV",
+  "snapshot_id": "AAAAAKxYNFDHGq0BD508lHaa3m8iqyq3",
   "tracks": [
     {
       "added_at": "2026-08-07 14:21:56",
@@ -327,6 +327,26 @@
     {
       "added_at": "2026-08-07 14:21:56",
       "album": {
+        "name": "Milagre de Amor",
+        "url": "https://open.spotify.com/album/7GMUQjOfVNZW38ewetR7Ew"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        }
+      ],
+      "duration_ms": 256824,
+      "name": "Milagre de Amor",
+      "url": "https://open.spotify.com/track/5u162KDc5vVtLW8NVxvVgg"
+    },
+    {
+      "added_at": "2026-08-07 14:21:56",
+      "album": {
         "name": "UM - Origem",
         "url": "https://open.spotify.com/album/4eowyg64oQCHdhDM8GF5c0"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 294658,
       "name": "Ainda Bem",
       "url": "https://open.spotify.com/track/1wmJX9qbdcx6uzVn9YAlQ0"
-    },
-    {
-      "added_at": "2026-08-07 14:21:56",
-      "album": {
-        "name": "Milagre de Amor",
-        "url": "https://open.spotify.com/album/7GMUQjOfVNZW38ewetR7Ew"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        }
-      ],
-      "duration_ms": 256824,
-      "name": "Milagre de Amor",
-      "url": "https://open.spotify.com/track/5u162KDc5vVtLW8NVxvVgg"
     },
     {
       "added_at": "2026-08-07 14:21:56",
@@ -427,26 +427,6 @@
     {
       "added_at": "2026-08-07 14:21:56",
       "album": {
-        "name": "A Nossa F\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4DVTYxIR9KjmRnxPKthIpP"
-      },
-      "artists": [
-        {
-          "name": "Juninho Cassimiro",
-          "url": "https://open.spotify.com/artist/4VoIuDV63tIoFLJupNb59S"
-        },
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
-        }
-      ],
-      "duration_ms": 724172,
-      "name": "A Nossa F\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/7LWmTcxqq9igT3mxJz6jQe"
-    },
-    {
-      "added_at": "2026-08-07 14:21:56",
-      "album": {
         "name": "Gba Stage, Vol. 4",
         "url": "https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 235714,
       "name": "S\u00f3 por Ti, Jesus",
       "url": "https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy"
+    },
+    {
+      "added_at": "2026-08-07 14:21:56",
+      "album": {
+        "name": "A Nossa F\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4DVTYxIR9KjmRnxPKthIpP"
+      },
+      "artists": [
+        {
+          "name": "Juninho Cassimiro",
+          "url": "https://open.spotify.com/artist/4VoIuDV63tIoFLJupNb59S"
+        },
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+        }
+      ],
+      "duration_ms": 724172,
+      "name": "A Nossa F\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/7LWmTcxqq9igT3mxJz6jQe"
     },
     {
       "added_at": "2026-08-07 14:21:56",
@@ -515,26 +515,6 @@
     {
       "added_at": "2026-08-07 14:21:56",
       "album": {
-        "name": "Serei Tudo",
-        "url": "https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        },
-        {
-          "name": "Laura Salvador",
-          "url": "https://open.spotify.com/artist/61ebYZYHMe4kwhxnA3Evh3"
-        }
-      ],
-      "duration_ms": 264566,
-      "name": "Serei Tudo",
-      "url": "https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh"
-    },
-    {
-      "added_at": "2026-08-07 14:21:56",
-      "album": {
         "name": "Gba Stage (Ao Vivo)",
         "url": "https://open.spotify.com/album/61PiZkJXZCwqEkbRERmpbQ"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 303527,
       "name": "Eis-Me Aqui - Ao Vivo",
       "url": "https://open.spotify.com/track/5y8WchxRNJ4WmvZuhKXIjA"
+    },
+    {
+      "added_at": "2026-08-07 14:21:56",
+      "album": {
+        "name": "Serei Tudo",
+        "url": "https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        },
+        {
+          "name": "Laura Salvador",
+          "url": "https://open.spotify.com/artist/61ebYZYHMe4kwhxnA3Evh3"
+        }
+      ],
+      "duration_ms": 264566,
+      "name": "Serei Tudo",
+      "url": "https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh"
     },
     {
       "added_at": "2026-08-07 14:21:56",
@@ -611,26 +611,6 @@
     {
       "added_at": "2026-08-07 14:21:56",
       "album": {
-        "name": "Todos os Minutos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5QYwx3MBDKFPponl7UKH21"
-      },
-      "artists": [
-        {
-          "name": "Fernando Vinhote",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
-        },
-        {
-          "name": "Padre Diogo Albuquerque",
-          "url": "https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b"
-        }
-      ],
-      "duration_ms": 371242,
-      "name": "Todos os Minutos - Ao Vivo",
-      "url": "https://open.spotify.com/track/6bxLtwqewzPeONN9tsaOae"
-    },
-    {
-      "added_at": "2026-08-07 14:21:56",
-      "album": {
         "name": "Gba Stage, Vol. 5",
         "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 173272,
       "name": "Como \u00c9s Lindo",
       "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
+    },
+    {
+      "added_at": "2026-08-07 14:21:56",
+      "album": {
+        "name": "Todos os Minutos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5QYwx3MBDKFPponl7UKH21"
+      },
+      "artists": [
+        {
+          "name": "Fernando Vinhote",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+        },
+        {
+          "name": "Padre Diogo Albuquerque",
+          "url": "https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b"
+        }
+      ],
+      "duration_ms": 371242,
+      "name": "Todos os Minutos - Ao Vivo",
+      "url": "https://open.spotify.com/track/6bxLtwqewzPeONN9tsaOae"
     },
     {
       "added_at": "2026-08-07 14:21:56",
@@ -771,26 +771,6 @@
     {
       "added_at": "2026-08-07 14:21:56",
       "album": {
-        "name": "Ora\u00e7\u00e3o pela Paz",
-        "url": "https://open.spotify.com/album/1uPyGym4lIjS2hOTYR0Gt1"
-      },
-      "artists": [
-        {
-          "name": "Padre Diogo Albuquerque",
-          "url": "https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b"
-        },
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        }
-      ],
-      "duration_ms": 221476,
-      "name": "Ora\u00e7\u00e3o pela Paz",
-      "url": "https://open.spotify.com/track/2iM87kL2SSVUoRD5v0Gp6M"
-    },
-    {
-      "added_at": "2026-08-07 14:21:56",
-      "album": {
         "name": "Gba Stage, Vol. 35",
         "url": "https://open.spotify.com/album/5d9jZi1hvJzbkmHQKmJ80q"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 319171,
       "name": "A Barca",
       "url": "https://open.spotify.com/track/0oFWDcolbMMBh9yPZU2F5j"
+    },
+    {
+      "added_at": "2026-08-07 14:21:56",
+      "album": {
+        "name": "Ora\u00e7\u00e3o pela Paz",
+        "url": "https://open.spotify.com/album/1uPyGym4lIjS2hOTYR0Gt1"
+      },
+      "artists": [
+        {
+          "name": "Padre Diogo Albuquerque",
+          "url": "https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b"
+        },
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        }
+      ],
+      "duration_ms": 221476,
+      "name": "Ora\u00e7\u00e3o pela Paz",
+      "url": "https://open.spotify.com/track/2iM87kL2SSVUoRD5v0Gp6M"
     },
     {
       "added_at": "2026-08-07 14:21:56",

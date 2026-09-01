@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 with Seven Lions + Kill The Noise",
-  "num_followers": 995608,
+  "num_followers": 995605,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN2VOYFqi/hMgMOpNKuJ+LIflDK1",
+  "snapshot_id": "AAAAABYGLiZk3ZkP5dSOSc9GEh2hyhRN",
   "tracks": [
     {
       "added_at": "2026-08-07 04:02:19",
@@ -67,6 +67,22 @@
       "duration_ms": 161142,
       "name": "STINK MODE",
       "url": "https://open.spotify.com/track/35wiXT21VADtYMHavMX7vm"
+    },
+    {
+      "added_at": "2026-08-28 04:02:39",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/1GOH6Mnz6bk3vpVB4xuglu"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/0im0RIk0Wc8vzsTRMPoK7U"
     },
     {
       "added_at": "2026-08-28 04:02:39",
@@ -175,22 +191,6 @@
       "duration_ms": 197241,
       "name": "No Air",
       "url": "https://open.spotify.com/track/5MHzqBhWNta6P2jqws2CbA"
-    },
-    {
-      "added_at": "2026-08-28 04:02:39",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/1GOH6Mnz6bk3vpVB4xuglu"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/0im0RIk0Wc8vzsTRMPoK7U"
     },
     {
       "added_at": "2026-08-21 04:02:23",
@@ -349,6 +349,22 @@
       "url": "https://open.spotify.com/track/0MMiSyWQmucI2fVAof9Tgg"
     },
     {
+      "added_at": "2026-08-31 16:24:33",
+      "album": {
+        "name": "SHOOTA",
+        "url": "https://open.spotify.com/album/7FkVTKrQ66e8JaMEiai7lP"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "duration_ms": 194892,
+      "name": "SHOOTA",
+      "url": "https://open.spotify.com/track/2GsYtMDhk9OxTOsIAMndmL"
+    },
+    {
       "added_at": "2026-08-14 04:01:38",
       "album": {
         "name": "Bird Phone",
@@ -499,26 +515,6 @@
       "duration_ms": 173793,
       "name": "Computah",
       "url": "https://open.spotify.com/track/3DP12C9X3cWK1TGDQ2L8GO"
-    },
-    {
-      "added_at": "2026-08-28 04:02:39",
-      "album": {
-        "name": "JUST A DREAM",
-        "url": "https://open.spotify.com/album/6k4MaMSq7L2W8ZIk024M6a"
-      },
-      "artists": [
-        {
-          "name": "Borgore",
-          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
-        },
-        {
-          "name": "Kayp",
-          "url": "https://open.spotify.com/artist/1Lp0WVwWH1SZbs5DRJrI3V"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "JUST A DREAM",
-      "url": "https://open.spotify.com/track/3PJeEOtdQPJLni274n1cYj"
     },
     {
       "added_at": "2026-08-07 04:02:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture ☕️ jazz for slow mornings, sunny terraces, and long afternoons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,425 likes - 62 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,622 likes - 62 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 61 | [Montagne Ste Genevieve](https://open.spotify.com/track/4idHXZqvu37IDsiHTZDrLC) | [Stephane Wrembel](https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm) | [Introducing Stephane Wrembel](https://open.spotify.com/album/4sz3Jgvhv7jAzxwQRxtGZD) | 2:10 |
 | 62 | [L´amour Facile](https://open.spotify.com/track/1jBwaHMkPzAGQV8S2U1iRg) | [Nocturne des îles](https://open.spotify.com/artist/4pYMtyyGtBDSZDRSCBghZa) | [L´amour Facile](https://open.spotify.com/album/3dXUhdR0VqnADAqgrsdChc) | 4:00 |
 
-Snapshot ID: `AAAAAPRYIGoD9SwrpR/Jjt4i600pOuBR`
+Snapshot ID: `AAAAAIQ+/tNMzeeS+ctrhcIf4DeKHQsT`

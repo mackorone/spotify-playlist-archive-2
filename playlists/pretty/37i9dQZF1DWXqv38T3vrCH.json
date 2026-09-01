@@ -1,12 +1,12 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 329140,
+  "num_followers": 329122,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEXXI2SZVeMQ5utKTCtcY+sEzaMC",
+  "snapshot_id": "AAAAAEkNQn83t12kK9fxS/ZJ4e90FVuh",
   "tracks": [
     {
       "added_at": "2025-10-27 20:26:25",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
+        "name": "Baby You're a Haunted House",
+        "url": "https://open.spotify.com/album/3OyBzPBEniYPTNgIIHfTXS"
+      },
+      "artists": [
+        {
+          "name": "Gerard Way",
+          "url": "https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5"
+        }
+      ],
+      "duration_ms": 166361,
+      "name": "Baby You're a Haunted House",
+      "url": "https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
         "name": "The Rocky Horror Picture Show - Original Soundtrack",
         "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 199366,
       "name": "Time Warp",
       "url": "https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
-        "name": "Baby You're a Haunted House",
-        "url": "https://open.spotify.com/album/3OyBzPBEniYPTNgIIHfTXS"
-      },
-      "artists": [
-        {
-          "name": "Gerard Way",
-          "url": "https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5"
-        }
-      ],
-      "duration_ms": 166361,
-      "name": "Baby You're a Haunted House",
-      "url": "https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF"
     },
     {
       "added_at": "2025-10-27 20:26:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: Janek Bidiuk
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,445 likes - 65 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,446 likes - 65 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 12 | [rozlałam mleko](https://open.spotify.com/track/6OpN6R8X0L1MMihWmTIM6M) | [Qncicka](https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [rozlałam mleko](https://open.spotify.com/album/5tQIR5LXvAU32BBy8ken46) | 3:10 |
 | 13 | [Kim jestem?](https://open.spotify.com/track/22YghQ8Kr3nXtmuIgb47ge) | [MECNER](https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf) | [Kim jestem?](https://open.spotify.com/album/0CcsTAGrXXDZPYPCbhDexc) | 2:30 |
 | 14 | [Terapia dla par](https://open.spotify.com/track/5OrUXKWrNXgfI7iLAYymbc) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [Terapia dla par](https://open.spotify.com/album/3pNnMv1yyKgUB5XhBr45De) | 4:01 |
-| 15 | [TRESURA](https://open.spotify.com/track/0IDekqxi83vyPooXWQa0Al) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [TRESURA](https://open.spotify.com/album/6HwqXMTzRzcEFHBY1kk8wJ) | 3:10 |
-| 16 | [Widzę Cię](https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6) | [Diiya](https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx) | [Widzę Cię](https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL) | 2:23 |
+| 15 | [Widzę Cię](https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6) | [Diiya](https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx) | [Widzę Cię](https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL) | 2:23 |
+| 16 | [TRESURA](https://open.spotify.com/track/0IDekqxi83vyPooXWQa0Al) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [TRESURA](https://open.spotify.com/album/6HwqXMTzRzcEFHBY1kk8wJ) | 3:10 |
 | 17 | [Daj mi znać](https://open.spotify.com/track/2cbAtKKJilsNWu23iieJjo) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq), [Nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Daj mi znać](https://open.spotify.com/album/2ODBwHAh1vKCNMXtcm4U7m) | 2:59 |
 | 18 | [PARANOJA](https://open.spotify.com/track/7o42yfJFnEldFhMN7bAT4D) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [PARANOJA](https://open.spotify.com/album/3QtM4vAwBExJsuWJSnx7dz) | 1:56 |
 | 19 | [Wołam](https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Wołam](https://open.spotify.com/album/5OPhfeaaotZnwRn5fx0m41) | 2:46 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 32 | [Ile?](https://open.spotify.com/track/0XJvZK2nhyVwfwhwMF1Z8L) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Ile?](https://open.spotify.com/album/1VSFrjY2T84viVWqVqtJox) | 2:47 |
 | 33 | [To jest to!](https://open.spotify.com/track/1I7nEa7aWULffUDCJrkhVp) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [To jest to!](https://open.spotify.com/album/7iYXIbb20iKje5Qna9Mf63) | 3:25 |
 | 34 | [Kafejka na Ochocie](https://open.spotify.com/track/2huAJcqnLg4SC4jvHKKohG) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Kafejka na Ochocie](https://open.spotify.com/album/2y0uN5WzehFRH3GkUlf3iD) | 3:10 |
-| 35 | [Po nocach](https://open.spotify.com/track/33eaJUreX0C9HnLs0fjZTy) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Po nocach](https://open.spotify.com/album/0KLbKLuIrEAGYIXgFPkAbC) | 3:31 |
+| 35 | [WSZYSTKO NA NIC](https://open.spotify.com/track/0PuNQogi1Fw7Yh78WcpYWB) | [HELA](https://open.spotify.com/artist/0kDheRc8ZXm7cEBSIcb3dj) | [WSZYSTKO NA NIC](https://open.spotify.com/album/1eZJg0B52UTxm6KqViMsej) | 3:19 |
 | 36 | [DOMÓWKI](https://open.spotify.com/track/6P2a95GqnTr80Ii85GhroI) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU) | [DOMÓWKI](https://open.spotify.com/album/4swvEJOb7IQJJJEj6pnMwd) | 2:33 |
-| 37 | [WSZYSTKO NA NIC](https://open.spotify.com/track/0PuNQogi1Fw7Yh78WcpYWB) | [HELA](https://open.spotify.com/artist/0kDheRc8ZXm7cEBSIcb3dj) | [WSZYSTKO NA NIC](https://open.spotify.com/album/1eZJg0B52UTxm6KqViMsej) | 3:19 |
+| 37 | [Po nocach](https://open.spotify.com/track/33eaJUreX0C9HnLs0fjZTy) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Po nocach](https://open.spotify.com/album/0KLbKLuIrEAGYIXgFPkAbC) | 3:31 |
 | 38 | [Esmeralda](https://open.spotify.com/track/1zlYK4S2HHhQWntlXq2t6P) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Esmeralda](https://open.spotify.com/album/7rRxYzy6yDNhY7KWQ0NSCl) | 2:51 |
 | 39 | [Tęsknię Za Tobą](https://open.spotify.com/track/03dKatXVO2MlZsHTd9AX56) | [Julka Grabowska](https://open.spotify.com/artist/0eC2qcmwFOhPgzxaGoyasH), [Jxcob](https://open.spotify.com/artist/6NymiB9zG13gz3WbLzbXP2), [MtZ](https://open.spotify.com/artist/5qi3aTonrqAZjYw1D6X5Pu) | [Tęsknię Za Tobą](https://open.spotify.com/album/1YSR5yZCeBfoVgyvbHh0rr) | 2:05 |
 | 40 | [disco polo](https://open.spotify.com/track/5NbCT5QeNlMAx8ajdL1ujx) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [disco polo](https://open.spotify.com/album/7GbztmbuYf6NogISYjaD6P) | 3:04 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 48 | [Ziemia](https://open.spotify.com/track/43b6YCVseA2Ueb80ef1XT4) | [SARGIS](https://open.spotify.com/artist/114qvfOgYaQqBLv7Ta3WWL) | [Ziemia](https://open.spotify.com/album/5whIBdiOSX0IVuhE5tJrSc) | 4:35 |
 | 49 | [Brak tchu](https://open.spotify.com/track/40WAq4ke8fNkOMJKJQ8iQq) | [Mlecze](https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo) | [Album Niebieski](https://open.spotify.com/album/6gnfCOxgVSV0qYQJWudBM0) | 3:31 |
 | 50 | [Bez porównań](https://open.spotify.com/track/2SRLhPy43D13cVR4qewxy2) | [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj), [Rubens](https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7) | [Bez porównań](https://open.spotify.com/album/1MjltZhGjBpiaALMeN9t8p) | 2:51 |
-| 51 | [Szkło](https://open.spotify.com/track/1zvOrq2ZDeb2IEyl1zbce7) | [Kuba Folwarczny](https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il) | [Szkło](https://open.spotify.com/album/1MguJUCATa9p9LpD9MmGZA) | 4:02 |
-| 52 | [Chcę Cię Mieć](https://open.spotify.com/track/0fWrI1QQJxOMzOzAOBLwYA) | [Aria Martelle](https://open.spotify.com/artist/4eD0JcSnBvEtyvY3QF2U0K) | [Chcę Cię Mieć](https://open.spotify.com/album/7GE8HosOSSTdP4BQVTu6oo) | 2:22 |
+| 51 | [Chcę Cię Mieć](https://open.spotify.com/track/0fWrI1QQJxOMzOzAOBLwYA) | [Aria Martelle](https://open.spotify.com/artist/4eD0JcSnBvEtyvY3QF2U0K) | [Chcę Cię Mieć](https://open.spotify.com/album/7GE8HosOSSTdP4BQVTu6oo) | 2:22 |
+| 52 | [Szkło](https://open.spotify.com/track/1zvOrq2ZDeb2IEyl1zbce7) | [Kuba Folwarczny](https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il) | [Szkło](https://open.spotify.com/album/1MguJUCATa9p9LpD9MmGZA) | 4:02 |
 | 53 | [bez ciebie](https://open.spotify.com/track/3Pfn5Rl7XmzhXiMaHWmreY) | [zofia justyńska](https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4), [Kuba Folwarczny](https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il) | [bez ciebie](https://open.spotify.com/album/0FvXGWc2NK5USUqILWpdL7) | 3:36 |
 | 54 | [Nie tędy droga](https://open.spotify.com/track/7y08ZSBOtWhjazBozOsjoz) | [zachwyt](https://open.spotify.com/artist/57F4M4L3esGKsmMwT4zt01), [Karolina Prasał](https://open.spotify.com/artist/1hQJVFqdypfYIUK91Pzadr) | [Nie tędy droga](https://open.spotify.com/album/0sBj1vSlzrGotfcgWjTAYf) | 3:49 |
 | 55 | [dancefloor?](https://open.spotify.com/track/5GV9AMBtRstMTBuWaS55rn) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR), [kurtis baker](https://open.spotify.com/artist/3r9YAOUaPgQV22zcFmHMXv) | [dancefloor?](https://open.spotify.com/album/3i5O62x02dnd85CGy3vdSw) | 3:21 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 64 | [O miłości, nie ten czas](https://open.spotify.com/track/2VhzXR9w6jnapPqoHDBwX3) | [Oliwia Johnson](https://open.spotify.com/artist/5heu38RNkoNKlzY8Au5wWW) | [O miłości, nie ten czas](https://open.spotify.com/album/0M2gGwhhvMpcqJB7wJWwMM) | 2:52 |
 | 65 | [NASA](https://open.spotify.com/track/4iFIvFP6aYf9luSL2ToG7R) | [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa), [samunowak](https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt) | [NASA](https://open.spotify.com/album/2TDnSI84aFkmUPBl7mrLfF) | 2:24 |
 
-Snapshot ID: `AAAAAIwinDJX/8KOFNAQ58DNzG2xHVyU`
+Snapshot ID: `AAAAAC3K+2DbZwOw4P06D3QM0tPL2YFM`

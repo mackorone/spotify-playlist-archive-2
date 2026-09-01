@@ -1,12 +1,12 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 97786,
+  "num_followers": 97804,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK2AavFIKg9NRfGecdb6HYdSNuMP",
+  "snapshot_id": "AAAAAJjQKkocrLFWia7ufHWMYgBurLET",
   "tracks": [
     {
       "added_at": "2026-07-24 06:00:32",
@@ -427,6 +427,22 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
+        "name": "20 Exitos de Ley",
+        "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
+      },
+      "artists": [
+        {
+          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+        }
+      ],
+      "duration_ms": 164337,
+      "name": "Son las Dos de la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4CYshjNzVTWOs6mEbvSFk0"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
         "name": "Guachita Hermosa (En Vivo)",
         "url": "https://open.spotify.com/album/3OtYQGkengSgGkXaFVhvl8"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 209126,
       "name": "Guachita Hermosa - En Vivo",
       "url": "https://open.spotify.com/track/5tZCmrLpUk6qYp8YQawXsB"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
-        "name": "20 Exitos de Ley",
-        "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
-      },
-      "artists": [
-        {
-          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
-        }
-      ],
-      "duration_ms": 164337,
-      "name": "Son las Dos de la Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4CYshjNzVTWOs6mEbvSFk0"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Homenaje al Rey Pobre",
-        "url": "https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST"
-      },
-      "artists": [
-        {
-          "name": "Raul Garcia Y Su Grupo Kabildo",
-          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
-        },
-        {
-          "name": "La Dinastia de Tuzantla Mich",
-          "url": "https://open.spotify.com/artist/7BouKelHMxy42RJSMzkE0w"
-        }
-      ],
-      "duration_ms": 172714,
-      "name": "Carta de Luto",
-      "url": "https://open.spotify.com/track/6fIWxlRswxsuhBtEE8SpI8"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Los De Tierra Caliente (En Vivo)",
         "url": "https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 1191237,
       "name": "Flor De Lim\u00f3n / Te Llegar\u00e1 Mi Olvido / Pobre Bohemio / Beso A Beso / Tierra Mala / El Caminante - En Vivo",
       "url": "https://open.spotify.com/track/0rvBiev8PnkB3lwnFLmRuI"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Homenaje al Rey Pobre",
+        "url": "https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST"
+      },
+      "artists": [
+        {
+          "name": "Raul Garcia Y Su Grupo Kabildo",
+          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
+        },
+        {
+          "name": "La Dinastia de Tuzantla Mich",
+          "url": "https://open.spotify.com/artist/7BouKelHMxy42RJSMzkE0w"
+        }
+      ],
+      "duration_ms": 172714,
+      "name": "Carta de Luto",
+      "url": "https://open.spotify.com/track/6fIWxlRswxsuhBtEE8SpI8"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Para Que Vuelves",
-        "url": "https://open.spotify.com/album/5eYDEDlyShOWTNqIPZ2AIY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Alfa 7",
-          "url": "https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ"
-        }
-      ],
-      "duration_ms": 132930,
-      "name": "30 Cartas",
-      "url": "https://open.spotify.com/track/71xcrHytfm93vH4ZsoWUUj"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Lloviendo Estrellas",
         "url": "https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 158906,
       "name": "Mi Ranchito",
       "url": "https://open.spotify.com/track/7aknjZ3qE9iMLzx7pDvpMJ"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Para Que Vuelves",
+        "url": "https://open.spotify.com/album/5eYDEDlyShOWTNqIPZ2AIY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Alfa 7",
+          "url": "https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ"
+        }
+      ],
+      "duration_ms": 132930,
+      "name": "30 Cartas",
+      "url": "https://open.spotify.com/track/71xcrHytfm93vH4ZsoWUUj"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "A Donde Vas Chiquilla",
-        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
-      },
-      "artists": [
-        {
-          "name": "La Fuerza de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
-        }
-      ],
-      "duration_ms": 216040,
-      "name": "El Rengo Del Gallo Giro",
-      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "20 Exitos de Ley (Serie de Colecci\u00f3n)",
         "url": "https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 208133,
       "name": "Preso Me Llevan",
       "url": "https://open.spotify.com/track/2YTdSooHn3xAZAOIuUpQrm"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "A Donde Vas Chiquilla",
+        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
+      },
+      "artists": [
+        {
+          "name": "La Fuerza de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "El Rengo Del Gallo Giro",
+      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Casita de Adobe",
-        "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
-      },
-      "artists": [
-        {
-          "name": "Estrellas De Tuzantla",
-          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
-        }
-      ],
-      "duration_ms": 239737,
-      "name": "Casita de Adobe",
-      "url": "https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Camionero",
         "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 229346,
       "name": "El Camionero",
       "url": "https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Casita de Adobe",
+        "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
+      },
+      "artists": [
+        {
+          "name": "Estrellas De Tuzantla",
+          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
+        }
+      ],
+      "duration_ms": 239737,
+      "name": "Casita de Adobe",
+      "url": "https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Siempre Contigo",
-        "url": "https://open.spotify.com/album/4txMTXItugpA7vz6sGK8SV"
-      },
-      "artists": [
-        {
-          "name": "Arkangel Musical de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
-        }
-      ],
-      "duration_ms": 192991,
-      "name": "Hasta La Perra Te Extra\u00f1a",
-      "url": "https://open.spotify.com/track/7r71DCe6Tq120haZVL3gVO"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Como Diablos Te Olvido",
         "url": "https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 174706,
       "name": "Vida de Rancho (Zapateado)",
       "url": "https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Siempre Contigo",
+        "url": "https://open.spotify.com/album/4txMTXItugpA7vz6sGK8SV"
+      },
+      "artists": [
+        {
+          "name": "Arkangel Musical de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+        }
+      ],
+      "duration_ms": 192991,
+      "name": "Hasta La Perra Te Extra\u00f1a",
+      "url": "https://open.spotify.com/track/7r71DCe6Tq120haZVL3gVO"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
+        "name": "El Arroyito (Los Creadores del Sacadito)",
+        "url": "https://open.spotify.com/album/6Q3bJy46JBVYrcXet5oFf5"
+      },
+      "artists": [
+        {
+          "name": "Tierra Cali",
+          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "Ya Est\u00e1n Cantando los Gallos",
+      "url": "https://open.spotify.com/track/4MfGO5KzcrF1wCEj8jwOSg"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
         "name": "Al Mismo Nivel",
         "url": "https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 202083,
       "name": "Inolvidables",
       "url": "https://open.spotify.com/track/3wQ0hlPa8QibAudvFpmhOU"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
-        "name": "El Arroyito (Los Creadores del Sacadito)",
-        "url": "https://open.spotify.com/album/6Q3bJy46JBVYrcXet5oFf5"
-      },
-      "artists": [
-        {
-          "name": "Tierra Cali",
-          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "Ya Est\u00e1n Cantando los Gallos",
-      "url": "https://open.spotify.com/track/4MfGO5KzcrF1wCEj8jwOSg"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
+        "name": "Exitos en Vivo (En Vivo)",
+        "url": "https://open.spotify.com/album/1NmTQFtD2GDx2zxexJ5sTO"
+      },
+      "artists": [
+        {
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+        }
+      ],
+      "duration_ms": 102609,
+      "name": "Carga Fina - En Vivo",
+      "url": "https://open.spotify.com/track/25EhRhmxIm8jCiYzxRbd0D"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
         "name": "Los Huaches Vip 2015",
         "url": "https://open.spotify.com/album/58LE63ynfEACZoYkKruFrF"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 188397,
       "name": "Conchita Del Mar",
       "url": "https://open.spotify.com/track/0WLCgFQL1zGrHrCVnAjNXB"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
-        "name": "La Telara\u00f1a",
-        "url": "https://open.spotify.com/album/66QnGeJvuQJKArpOUwpmra"
-      },
-      "artists": [
-        {
-          "name": "La Nobleza De Aguililla",
-          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
-        }
-      ],
-      "duration_ms": 184945,
-      "name": "La Telara\u00f1a",
-      "url": "https://open.spotify.com/track/0EMRMjjvLgsWtVdo3LES9A"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Exitos en Vivo (En Vivo)",
-        "url": "https://open.spotify.com/album/1NmTQFtD2GDx2zxexJ5sTO"
+        "name": "La Telara\u00f1a",
+        "url": "https://open.spotify.com/album/66QnGeJvuQJKArpOUwpmra"
       },
       "artists": [
         {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+          "name": "La Nobleza De Aguililla",
+          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
         }
       ],
-      "duration_ms": 102609,
-      "name": "Carga Fina - En Vivo",
-      "url": "https://open.spotify.com/track/25EhRhmxIm8jCiYzxRbd0D"
+      "duration_ms": 184945,
+      "name": "La Telara\u00f1a",
+      "url": "https://open.spotify.com/track/0EMRMjjvLgsWtVdo3LES9A"
     },
     {
       "added_at": "2026-07-24 06:00:32",

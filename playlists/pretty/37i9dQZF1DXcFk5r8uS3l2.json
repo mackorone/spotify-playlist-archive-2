@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Keb' Mo'",
-  "num_followers": 1069039,
+  "num_followers": 1069031,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABllGcowHTB0W71/hNAZLNglwuqo",
+  "snapshot_id": "AAAAAHXM/4JWSTo0H/jaPZDYhznSuqNu",
   "tracks": [
     {
       "added_at": "2026-08-28 04:02:01",
@@ -339,18 +339,18 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
-        "name": "Blacksnake Blues",
-        "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/4DnJCBBVCwRkqIxb35BUTj"
       },
       "artists": [
         {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+          "name": "Evan Bartels",
+          "url": "https://open.spotify.com/artist/1Ylh9mfN4qqJMl2uDr6sUd"
         }
       ],
-      "duration_ms": 674000,
-      "name": "Blacksnake Blues",
-      "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
+      "duration_ms": 196977,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/7IPWvyxrS6Uyo9HkyMiYBf"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -367,6 +367,22 @@
       "duration_ms": 254320,
       "name": "Fussing and Fighting",
       "url": "https://open.spotify.com/track/4JivJnC0WyPxRi3jvSrbT0"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
+        "name": "Blacksnake Blues",
+        "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 674000,
+      "name": "Blacksnake Blues",
+      "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -391,18 +407,18 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/4DnJCBBVCwRkqIxb35BUTj"
+        "name": "Another Man's Tears",
+        "url": "https://open.spotify.com/album/4E7gmm3XCuSclr43xEHcK6"
       },
       "artists": [
         {
-          "name": "Evan Bartels",
-          "url": "https://open.spotify.com/artist/1Ylh9mfN4qqJMl2uDr6sUd"
+          "name": "Jac Ross",
+          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
         }
       ],
-      "duration_ms": 196977,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/7IPWvyxrS6Uyo9HkyMiYBf"
+      "duration_ms": 189176,
+      "name": "Another Man's Tears",
+      "url": "https://open.spotify.com/track/5UkiqdWIGSR5nzF6jwzseG"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -419,22 +435,6 @@
       "duration_ms": 207880,
       "name": "Turn Me In",
       "url": "https://open.spotify.com/track/4KgTaSE7vyf2fWGEG6RJYA"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
-        "name": "Another Man's Tears",
-        "url": "https://open.spotify.com/album/4E7gmm3XCuSclr43xEHcK6"
-      },
-      "artists": [
-        {
-          "name": "Jac Ross",
-          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
-        }
-      ],
-      "duration_ms": 189176,
-      "name": "Another Man's Tears",
-      "url": "https://open.spotify.com/track/5UkiqdWIGSR5nzF6jwzseG"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
+        "name": "Switch On",
+        "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
+      },
+      "artists": [
+        {
+          "name": "Sweet Talk",
+          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
+        }
+      ],
+      "duration_ms": 258218,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
         "name": "Pardon Me",
         "url": "https://open.spotify.com/album/2DlQG7o1FSlgFKRuCBfAHL"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 153730,
       "name": "LONG WAY FROM THE BOTTOM",
       "url": "https://open.spotify.com/track/4tbiu83l7TZjLEq5ycyqEF"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
-        "name": "Switch On",
-        "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
-      },
-      "artists": [
-        {
-          "name": "Sweet Talk",
-          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
-        }
-      ],
-      "duration_ms": 258218,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
-        "name": "Slow Lightning (Deluxe)",
-        "url": "https://open.spotify.com/album/7Mz65cNLCpxl7qzFIxfCVA"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 234266,
-      "name": "Out for Blood",
-      "url": "https://open.spotify.com/track/7739yFrjY8ZOg3619Y07yH"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
         "name": "Million Voices Whisper (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Aqt7Vf9BtFCHEaJLpMA1T"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 261760,
       "name": "Back Where I Started",
       "url": "https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
+        "name": "Slow Lightning (Deluxe)",
+        "url": "https://open.spotify.com/album/7Mz65cNLCpxl7qzFIxfCVA"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 234266,
+      "name": "Out for Blood",
+      "url": "https://open.spotify.com/track/7739yFrjY8ZOg3619Y07yH"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
+        "name": "Shoulda Been",
+        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "duration_ms": 157125,
+      "name": "Man I Used To Be",
+      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
         "name": "Reconcile",
         "url": "https://open.spotify.com/album/2gybW4tM9V6oUvYSw6YHV4"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 226240,
       "name": "Roots & Wings",
       "url": "https://open.spotify.com/track/7eGKkTJGAjTHckLuIEsmjG"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
-        "name": "Shoulda Been",
-        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
-      },
-      "artists": [
-        {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
-        }
-      ],
-      "duration_ms": 157125,
-      "name": "Man I Used To Be",
-      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
-        "name": "Swamp Dogg Contemplates The Afterlife",
-        "url": "https://open.spotify.com/album/16JqcSxNQDfq9hq6KCpVjx"
-      },
-      "artists": [
-        {
-          "name": "Swamp Dogg",
-          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
-        }
-      ],
-      "duration_ms": 238158,
-      "name": "Final Approach",
-      "url": "https://open.spotify.com/track/5YPcwXfi1uGuUSMDCq6Asv"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
         "name": "Deathwish",
         "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 159007,
       "name": "Deathwish",
       "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
+        "name": "Swamp Dogg Contemplates The Afterlife",
+        "url": "https://open.spotify.com/album/16JqcSxNQDfq9hq6KCpVjx"
+      },
+      "artists": [
+        {
+          "name": "Swamp Dogg",
+          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
+        }
+      ],
+      "duration_ms": 238158,
+      "name": "Final Approach",
+      "url": "https://open.spotify.com/track/5YPcwXfi1uGuUSMDCq6Asv"
     },
     {
       "added_at": "2026-08-28 04:02:01",

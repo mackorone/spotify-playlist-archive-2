@@ -1,12 +1,12 @@
 {
   "description": "Os indicados na maior celebra\u00e7\u00e3o da m\u00fasica latina em 2025.",
-  "num_followers": 77236,
+  "num_followers": 77235,
   "original_name": "Os Indicados",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC6a3tt6ALpnZa8ccdi4lVZoXG/k",
+  "snapshot_id": "AAAAANY9F+HaScdXghrYGtFZeK6iR5uW",
   "tracks": [
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "JAZZWOMAN",
+        "url": "https://open.spotify.com/album/6Tt3u8kvUixtRFCxENtrdG"
+      },
+      "artists": [
+        {
+          "name": "Juliane Gamboa",
+          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
+        }
+      ],
+      "duration_ms": 252694,
+      "name": "Transeunte",
+      "url": "https://open.spotify.com/track/2j5BojmxdaszcSAU3m4QQt"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Fantasia Brasil 2",
         "url": "https://open.spotify.com/album/3H4U6MjrJmz5OToGC2O73n"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 207738,
       "name": "Sapato Velho",
       "url": "https://open.spotify.com/track/75Q1mLVkgFXNyun49mYxA3"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "JAZZWOMAN",
-        "url": "https://open.spotify.com/album/6Tt3u8kvUixtRFCxENtrdG"
-      },
-      "artists": [
-        {
-          "name": "Juliane Gamboa",
-          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
-        }
-      ],
-      "duration_ms": 252694,
-      "name": "Transeunte",
-      "url": "https://open.spotify.com/track/2j5BojmxdaszcSAU3m4QQt"
     },
     {
       "added_at": "2025-09-17 15:00:09",

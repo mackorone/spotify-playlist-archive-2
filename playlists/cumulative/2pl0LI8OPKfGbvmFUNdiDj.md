@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-571 songs - 1 day 8 hr 27 min
+572 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [A mani vuote](https://open.spotify.com/track/7GbUksy2hbn9Y4in8VU8rN) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [A mani vuote](https://open.spotify.com/album/5KOYdCWPstaraOwRpsK2xK) | 3:12 | 2025-11-22 | 2026-01-05 |
 | [A Merry Jingle](https://open.spotify.com/track/31csQY8zl1aJGe8VISxq9e) | [Forge Hounds](https://open.spotify.com/artist/6528HmKaqCaf9tu3qdj70d) | [A Merry Jingle](https://open.spotify.com/album/4ZoDxu4sPUzk4QCqTwk8Qp) | 3:08 | 2025-12-23 | 2026-01-15 |
 | [A Moment](https://open.spotify.com/track/5aMPoMGGjFRnqHr2vRW58s) | [Dawn Muzik Legionnaires](https://open.spotify.com/artist/0PoD2dNSuiKzEst4CfIwOl) | [A Moment](https://open.spotify.com/album/5aeAUQQ0g5l7aRy9LjSTyP) | 3:22 | 2025-11-17 | 2026-01-05 |
+| [A Mystery](https://open.spotify.com/track/3A8RY5eNYSH3ObmssKVCJ6) | [The Gamma Rays](https://open.spotify.com/artist/7itVIbu131nUnuE3YSEww9) | [A Mystery](https://open.spotify.com/album/666FQh3NNZU4IrRvKI7UXA) | 1:52 | 2026-08-31 |  |
 | [A New Year's Wish](https://open.spotify.com/track/5lucHdCCRBRyUI1TLtQzCm) | [Amelina](https://open.spotify.com/artist/2KB8CcoEbyUA0hP58619Iu) | [A New Year's Wish](https://open.spotify.com/album/64tDh5YS9ykrr9YyfGUJb3) | 2:58 | 2025-11-17 | 2026-01-05 |
 | [Accroche toi](https://open.spotify.com/track/5eTiKImP9vTuJ1OGdiHJ0G) | [Eric Hartereau](https://open.spotify.com/artist/05AKy1V7dOPuFuzLZHRtu7) | [Accroche toi](https://open.spotify.com/album/16ppv7cPXmMdz8lB9hPKYg) | 3:47 | 2026-01-06 | 2026-02-21 |
 | [Activate](https://open.spotify.com/track/7z8LVNE8KvsW4gOGXLAqRU) | [Torppsbride](https://open.spotify.com/artist/4AajIi9uAigYLb5TuldkdU) | [Activate](https://open.spotify.com/album/61st6LFxSJ2AsSjKDOaws0) | 3:40 | 2025-12-28 | 2026-01-25 |

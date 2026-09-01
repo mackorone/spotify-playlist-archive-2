@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Queens of the Stone Age
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,280 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,381 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 79 | [Life's a Dream](https://open.spotify.com/track/7aKPErDLvieg4nJTWqCrNc) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [An Eraser And A Maze](https://open.spotify.com/album/0lJPeenR7JbVGYIj1g4d3g) | 5:31 |
 | 80 | [My Forever Drug](https://open.spotify.com/track/2dImL4FJ7gJvILH9NXOgPL) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [My Forever Drug](https://open.spotify.com/album/13VyIN1hudh1P4aT1xbOQ0) | 3:01 |
 
-Snapshot ID: `AAAAAGeDWhpckmbJ7Uy3A4n9v7z5Io/U`
+Snapshot ID: `AAAAAAfrxJ1sDnrnwal/h5fxkcMUy060`

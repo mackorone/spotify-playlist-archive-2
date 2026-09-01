@@ -1,12 +1,12 @@
 {
   "description": "De grondleggers van de Nederlandse Hip-hop game",
-  "num_followers": 67276,
+  "num_followers": 67284,
   "original_name": "Grondleggers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFZINvzo1A+duYhnn36YM6ZYDCeL",
+  "snapshot_id": "AAAAAJdnFkWigEAlNIHsjUBiXJmCAm5V",
   "tracks": [
     {
       "added_at": "2024-09-09 11:56:35",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Succes/Ik Ben Twan",
+        "url": "https://open.spotify.com/album/7vUGdwNbWKQcSXWX3LLQzp"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Succes",
+      "url": "https://open.spotify.com/track/07sdoNTz7WFJAL9nlsQ8Y5"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Great Minds",
         "url": "https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 252173,
       "name": "Doag",
       "url": "https://open.spotify.com/track/0YUwC8n3xid9r0udhAhMNV"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Succes/Ik Ben Twan",
-        "url": "https://open.spotify.com/album/7vUGdwNbWKQcSXWX3LLQzp"
-      },
-      "artists": [
-        {
-          "name": "Willem",
-          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Succes",
-      "url": "https://open.spotify.com/track/07sdoNTz7WFJAL9nlsQ8Y5"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -951,6 +951,26 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Tussen Licht En Lucht",
+        "url": "https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu"
+      },
+      "artists": [
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        },
+        {
+          "name": "Sticks",
+          "url": "https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd"
+        }
+      ],
+      "duration_ms": 314080,
+      "name": "Wind Waait",
+      "url": "https://open.spotify.com/track/0csgY0KzPTHJeZJJhQdIk1"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Nederlands Grootste Nachtmerrie",
         "url": "https://open.spotify.com/album/47ARpHxuUxPJvAR7EjiOgD"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 383813,
       "name": "Op De Straat - Bonus Track",
       "url": "https://open.spotify.com/track/41pk4rQlDeoLtLhZetgz5s"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Tussen Licht En Lucht",
-        "url": "https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu"
-      },
-      "artists": [
-        {
-          "name": "Typhoon",
-          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
-        },
-        {
-          "name": "Sticks",
-          "url": "https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd"
-        }
-      ],
-      "duration_ms": 314080,
-      "name": "Wind Waait",
-      "url": "https://open.spotify.com/track/0csgY0KzPTHJeZJJhQdIk1"
     },
     {
       "added_at": "2024-09-09 11:56:35",

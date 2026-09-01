@@ -110570,7 +110570,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 186619,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/4jknlCxKDpRZhIk5dOizUM"
@@ -119700,6 +119700,24 @@
       "duration_ms": 90552,
       "name": "PROMESAS SON PROMESAS (xBx)",
       "url": "https://open.spotify.com/track/1vWEoKVEE7kyPPPFJeM1tq"
+    },
+    {
+      "album": {
+        "name": "Prometo estar bien",
+        "url": "https://open.spotify.com/album/26im6cMfoN0NhjHaVPIK2p"
+      },
+      "artists": [
+        {
+          "name": "HOLOGRAMMA",
+          "url": "https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188430,
+      "name": "Prometo estar bien",
+      "url": "https://open.spotify.com/track/08v7ftssqRDDI4bqH19AQR"
     },
     {
       "album": {

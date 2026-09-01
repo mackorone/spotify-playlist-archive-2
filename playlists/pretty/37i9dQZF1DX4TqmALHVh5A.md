@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Zaoui
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,282 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,286 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [fleurs](https://open.spotify.com/track/7osDy3z3R1ET3rDB2vvDHs) | [Skabe](https://open.spotify.com/artist/5o5p5gPLO2zKfTi1KZX9sZ) | [fleurs](https://open.spotify.com/album/3Rslr3ps1Vr3rkenXSmJLs) | 1:54 |
 | 50 | [derniers souvenirs du futur](https://open.spotify.com/track/4VgdcxOhDQQbkbJW48kFvk) | [Adrien Gallo](https://open.spotify.com/artist/784dNRnP2BcgctoGnFKsZl) | [derniers souvenirs du futur](https://open.spotify.com/album/4GC6uXzn1gyP2sACCErlhV) | 2:21 |
 
-Snapshot ID: `AAAAAJFAoxc7WInvfJkI/mca5lefHEVN`
+Snapshot ID: `AAAAAD/p42ZW0V14t9hfc01PQiBYMisy`

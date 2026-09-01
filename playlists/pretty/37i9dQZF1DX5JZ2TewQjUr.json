@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANfl39mBlI3hdRJVfFQ1UGeJYoOm",
+  "snapshot_id": "AAAAAAJ5wgblUKIMo7gXl8/0Qb4uCwFR",
   "tracks": [
     {
       "added_at": "2026-08-20 16:00:42",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2026-08-20 16:00:42",
       "album": {
-        "name": "Gin & T",
-        "url": "https://open.spotify.com/album/2apNxOFeZC8xvQJkhFLllx"
-      },
-      "artists": [
-        {
-          "name": "Oatmilk Fan",
-          "url": "https://open.spotify.com/artist/6sQkF5EAcNhM4aBh1zCRSF"
-        }
-      ],
-      "duration_ms": 229090,
-      "name": "Gin & T",
-      "url": "https://open.spotify.com/track/5tBK6RekQG8h66M7pCv7vo"
-    },
-    {
-      "added_at": "2026-08-20 16:00:42",
-      "album": {
         "name": "Figure Eight / Then You're Here Again",
         "url": "https://open.spotify.com/album/0uuVQfkEALS6HEAjnA7F5M"
       },
@@ -1979,22 +1963,6 @@
       "duration_ms": 249297,
       "name": "YOU",
       "url": "https://open.spotify.com/track/5UZdQdSdJ5l7xRSiKW24so"
-    },
-    {
-      "added_at": "2026-08-20 16:00:42",
-      "album": {
-        "name": "Pandora's Box",
-        "url": "https://open.spotify.com/album/18mEhuXOgTnx1VGH7Uk3Rb"
-      },
-      "artists": [
-        {
-          "name": "Oatmilk Fan",
-          "url": "https://open.spotify.com/artist/6sQkF5EAcNhM4aBh1zCRSF"
-        }
-      ],
-      "duration_ms": 274960,
-      "name": "Pandora's Box",
-      "url": "https://open.spotify.com/track/3XsfXT3LPFxbX0y1IOj06N"
     },
     {
       "added_at": "2026-08-20 16:00:42",

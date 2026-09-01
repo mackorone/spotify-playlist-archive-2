@@ -1,12 +1,12 @@
 {
   "description": "Unwind and relax to the soft sound of jazz piano. ",
-  "num_followers": 370049,
+  "num_followers": 370073,
   "original_name": "Relaxing Jazz Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAERBT77oTjCSS4q6Mp3SmutWtTCe",
+  "snapshot_id": "AAAAAPQkp3K2mNTygQqE0M69gcFCxLdW",
   "tracks": [
     {
       "added_at": "2026-05-25 14:11:39",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "The sound of waiting",
-        "url": "https://open.spotify.com/album/2RVsSBBdYZmzty5xVTu1hr"
-      },
-      "artists": [
-        {
-          "name": "Luca Armone",
-          "url": "https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2"
-        }
-      ],
-      "duration_ms": 157044,
-      "name": "The sound of waiting",
-      "url": "https://open.spotify.com/track/1ZuNV7S1kGPHu3nDHKIEDo"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Be Mine",
         "url": "https://open.spotify.com/album/42F6ToeNoU8B0P0hKLIutt"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 182930,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3tPUKFwVYYA71e1rOlwIDb"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "The sound of waiting",
+        "url": "https://open.spotify.com/album/2RVsSBBdYZmzty5xVTu1hr"
+      },
+      "artists": [
+        {
+          "name": "Luca Armone",
+          "url": "https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2"
+        }
+      ],
+      "duration_ms": 157044,
+      "name": "The sound of waiting",
+      "url": "https://open.spotify.com/track/1ZuNV7S1kGPHu3nDHKIEDo"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -187,6 +187,22 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
+        "name": "The Night Forgot Our Names",
+        "url": "https://open.spotify.com/album/3flAwqL9DL2A1MpWb0UQo5"
+      },
+      "artists": [
+        {
+          "name": "Georg Harvester",
+          "url": "https://open.spotify.com/artist/2w9g3qs7EAeQFeRC91BaBs"
+        }
+      ],
+      "duration_ms": 155466,
+      "name": "The Night Forgot Our Names",
+      "url": "https://open.spotify.com/track/5AVnesv0aPqtiub0UmMjNw"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
         "name": "Tales of the night breeze",
         "url": "https://open.spotify.com/album/1aonWpWS7U4VY1nZU0k9Ch"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 139253,
       "name": "World Spinning",
       "url": "https://open.spotify.com/track/5jeCcXDCQ9Si433XSmb0Js"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
-        "name": "The Night Forgot Our Names",
-        "url": "https://open.spotify.com/album/3flAwqL9DL2A1MpWb0UQo5"
-      },
-      "artists": [
-        {
-          "name": "Georg Harvester",
-          "url": "https://open.spotify.com/artist/2w9g3qs7EAeQFeRC91BaBs"
-        }
-      ],
-      "duration_ms": 155466,
-      "name": "The Night Forgot Our Names",
-      "url": "https://open.spotify.com/track/5AVnesv0aPqtiub0UmMjNw"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Some Other Time",
-        "url": "https://open.spotify.com/album/20uWc4oFHGcrvtsFp1iWIp"
-      },
-      "artists": [
-        {
-          "name": "Adriel Holt",
-          "url": "https://open.spotify.com/artist/7khUUnooMekTzkQgH047PV"
-        }
-      ],
-      "duration_ms": 165125,
-      "name": "Some Other Time",
-      "url": "https://open.spotify.com/track/3rFFpestLu0mdxj5mTQ3KQ"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Midnight Promises",
         "url": "https://open.spotify.com/album/6zGj4Fb4JqTrX37cDGLRXI"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 155849,
       "name": "Midnight Promises",
       "url": "https://open.spotify.com/track/3LOcyi3pPJ0v5dQJXbTohF"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Some Other Time",
+        "url": "https://open.spotify.com/album/20uWc4oFHGcrvtsFp1iWIp"
+      },
+      "artists": [
+        {
+          "name": "Adriel Holt",
+          "url": "https://open.spotify.com/artist/7khUUnooMekTzkQgH047PV"
+        }
+      ],
+      "duration_ms": 165125,
+      "name": "Some Other Time",
+      "url": "https://open.spotify.com/track/3rFFpestLu0mdxj5mTQ3KQ"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Where Dreams Go to Sleep",
-        "url": "https://open.spotify.com/album/2joqhs2irtfZ2kDRCCj9Ia"
-      },
-      "artists": [
-        {
-          "name": "Francis Graden",
-          "url": "https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w"
-        }
-      ],
-      "duration_ms": 169956,
-      "name": "Where Dreams Go to Sleep",
-      "url": "https://open.spotify.com/track/4KqBLedO4BQ90dLH1E2H94"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Evening Stillness",
         "url": "https://open.spotify.com/album/21ilrSeAMjosU30MpOoa0v"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 198437,
       "name": "Evening Stillness",
       "url": "https://open.spotify.com/track/5WEjTSODeUsYMsQVEHBs1E"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Where Dreams Go to Sleep",
+        "url": "https://open.spotify.com/album/2joqhs2irtfZ2kDRCCj9Ia"
+      },
+      "artists": [
+        {
+          "name": "Francis Graden",
+          "url": "https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w"
+        }
+      ],
+      "duration_ms": 169956,
+      "name": "Where Dreams Go to Sleep",
+      "url": "https://open.spotify.com/track/4KqBLedO4BQ90dLH1E2H94"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "An Evening Walk",
-        "url": "https://open.spotify.com/album/4PYXwB3FNXLepaBLOpXr7V"
-      },
-      "artists": [
-        {
-          "name": "Uno Blanket",
-          "url": "https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev"
-        }
-      ],
-      "duration_ms": 133390,
-      "name": "An Evening Walk",
-      "url": "https://open.spotify.com/track/7cj4cJfK1juIXTuNviu9XB"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "promenade",
         "url": "https://open.spotify.com/album/7Ctg2u11AefozpBYpyT9qb"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 163566,
       "name": "promenade",
       "url": "https://open.spotify.com/track/2r451wKpR4AKtqD0bvAyAR"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "An Evening Walk",
+        "url": "https://open.spotify.com/album/4PYXwB3FNXLepaBLOpXr7V"
+      },
+      "artists": [
+        {
+          "name": "Uno Blanket",
+          "url": "https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev"
+        }
+      ],
+      "duration_ms": 133390,
+      "name": "An Evening Walk",
+      "url": "https://open.spotify.com/track/7cj4cJfK1juIXTuNviu9XB"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Midnight on 5th Avenue",
-        "url": "https://open.spotify.com/album/5e3YlISXye6cegkORKd27J"
-      },
-      "artists": [
-        {
-          "name": "Hans Bukowski",
-          "url": "https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi"
-        }
-      ],
-      "duration_ms": 180259,
-      "name": "Midnight on 5th Avenue",
-      "url": "https://open.spotify.com/track/6qSZ4ntHZPh6FplkbDwOdv"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "A Touch of Kindness",
         "url": "https://open.spotify.com/album/3bUEwUGZO7l2nr4WPZwwx3"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 136968,
       "name": "A Touch of Kindness",
       "url": "https://open.spotify.com/track/30Ts0oF1ycdLf7hxQCD1sF"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Midnight on 5th Avenue",
+        "url": "https://open.spotify.com/album/5e3YlISXye6cegkORKd27J"
+      },
+      "artists": [
+        {
+          "name": "Hans Bukowski",
+          "url": "https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi"
+        }
+      ],
+      "duration_ms": 180259,
+      "name": "Midnight on 5th Avenue",
+      "url": "https://open.spotify.com/track/6qSZ4ntHZPh6FplkbDwOdv"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Grindavik",
-        "url": "https://open.spotify.com/album/2tShsuIGN8rKlEXTv46tnB"
-      },
-      "artists": [
-        {
-          "name": "Haukur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w"
-        }
-      ],
-      "duration_ms": 184272,
-      "name": "Grindavik",
-      "url": "https://open.spotify.com/track/6GWCFQA9xGMcwN5kkzPqXf"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Strangers by Midnight",
         "url": "https://open.spotify.com/album/0dRBbv4SyKDfMtcmebe37h"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 200310,
       "name": "Strangers by Midnight",
       "url": "https://open.spotify.com/track/3aiSarqjyxbdllRulzUTJj"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Grindavik",
+        "url": "https://open.spotify.com/album/2tShsuIGN8rKlEXTv46tnB"
+      },
+      "artists": [
+        {
+          "name": "Haukur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w"
+        }
+      ],
+      "duration_ms": 184272,
+      "name": "Grindavik",
+      "url": "https://open.spotify.com/track/6GWCFQA9xGMcwN5kkzPqXf"
     },
     {
       "added_at": "2026-05-25 14:11:39",

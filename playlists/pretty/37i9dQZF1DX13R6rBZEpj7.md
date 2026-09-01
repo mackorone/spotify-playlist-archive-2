@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,336 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,377 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 43 | [Hit The Ground](https://open.spotify.com/track/658noe7AopzUVafqSR6x61) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Hit The Ground](https://open.spotify.com/album/0dWpeo9sWga7EWg19nOCZJ) | 3:16 |
 | 44 | [The Things That We Should Say](https://open.spotify.com/track/0Oxp5ffTLYpazt1SehzCx6) | [TACTICS](https://open.spotify.com/artist/47CxUbkc8DhkqPWDDiNw34), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [The Things That We Should Say](https://open.spotify.com/album/5hKTOpcOjDIuADjCPGDtTv) | 2:08 |
 | 45 | [So Serious](https://open.spotify.com/track/4xPyAOKqIrvqbOq97hoB3b) | [Lockerz](https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN), [FooR](https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [So Serious](https://open.spotify.com/album/5zVoKEKN32bp0pKUhQoYjU) | 2:17 |
-| 46 | [See Thru](https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5) | [Megan Wroe](https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C) | [See Thru](https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO) | 2:40 |
-| 47 | [You](https://open.spotify.com/track/2JY40usTFwpLKV5BJK6vW6) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [You](https://open.spotify.com/album/6IFuF0sQmfbt7ZiCZq5KpE) | 2:50 |
-| 48 | [SEND IT](https://open.spotify.com/track/5H8QJ075Kpaf4B3GKKLDw1) | [SEMPA](https://open.spotify.com/artist/3zB3FoF3rsKoqa1ZlXJMbQ), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [SEND IT](https://open.spotify.com/album/7LES3d1vjIX4vOgT569O3v) | 2:06 |
+| 46 | [SEND IT](https://open.spotify.com/track/5H8QJ075Kpaf4B3GKKLDw1) | [SEMPA](https://open.spotify.com/artist/3zB3FoF3rsKoqa1ZlXJMbQ), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [SEND IT](https://open.spotify.com/album/7LES3d1vjIX4vOgT569O3v) | 2:06 |
+| 47 | [See Thru](https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5) | [Megan Wroe](https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C) | [See Thru](https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO) | 2:40 |
+| 48 | [You](https://open.spotify.com/track/2JY40usTFwpLKV5BJK6vW6) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [You](https://open.spotify.com/album/6IFuF0sQmfbt7ZiCZq5KpE) | 2:50 |
 | 49 | [Sorry I'm Like This](https://open.spotify.com/track/4F3aBBLzNf56Yx23TZFfgJ) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [ODF](https://open.spotify.com/artist/14Md2pjzFKO47fz1vq9KLu) | [Sorry I'm Like This](https://open.spotify.com/album/5JXnm6iu35ZAR9mjswrILS) | 2:52 |
 | 50 | [Got 2 Feel](https://open.spotify.com/track/7cBZW1LSEFaLi47GL9wIG5) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Got 2 Feel](https://open.spotify.com/album/0lLUEQHmNgzO5IVmFV6BM0) | 3:23 |
 | 51 | [Take It Underground](https://open.spotify.com/track/2opBz7WhOjx58AwrqeD3vF) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [BANGERS ONLY](https://open.spotify.com/album/4voo1XkJvNSITyhxSHGLy3) | 3:05 |
 | 52 | [shake\_leg](https://open.spotify.com/track/0pdPeMA0ZtA5Pgdfkuh3Z7) | [Nori](https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ) | [shake\_leg](https://open.spotify.com/album/2hcRHv6WmZTPxeGIA5EDxh) | 2:17 |
-| 53 | [Big Truck](https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn) | [SIDEQUEST](https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x), [J Fado](https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM) | [Big Truck](https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi) | 1:51 |
-| 54 | [Play Me](https://open.spotify.com/track/1o2G7zTRhV74vhx3QWB9Dl) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC), [Wardy](https://open.spotify.com/artist/4e0tXKf00nkEY0X7VzJyzp) | [Play Me](https://open.spotify.com/album/3WoFyZovPkmh9TZaQ3AKjY) | 4:05 |
+| 53 | [Play Me](https://open.spotify.com/track/1o2G7zTRhV74vhx3QWB9Dl) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC), [Wardy](https://open.spotify.com/artist/4e0tXKf00nkEY0X7VzJyzp) | [Play Me](https://open.spotify.com/album/3WoFyZovPkmh9TZaQ3AKjY) | 4:05 |
+| 54 | [Big Truck](https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn) | [SIDEQUEST](https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x), [J Fado](https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM) | [Big Truck](https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi) | 1:51 |
 | 55 | [Sofa Soup](https://open.spotify.com/track/4SI8ClxzA7QHSv47ZPAhH2) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS), [Casey Club](https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj) | [Sofa Soup](https://open.spotify.com/album/0GCR4QIHiueEQYO3m8Shfs) | 2:49 |
 | 56 | [ON JOB](https://open.spotify.com/track/0QgRQ5uxzGcRFcjXU0bt9L) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [ON JOB](https://open.spotify.com/album/0P8FoWrMOpB4JZWdvJzzvy) | 3:18 |
 | 57 | [It Wasn't Me](https://open.spotify.com/track/0e0HSHdFdrzGV4wkTiPUv3) | [Mike Jasom](https://open.spotify.com/artist/4NkFX8DIlWt8ZFL8CsdPGB) | [It Wasn't Me](https://open.spotify.com/album/1qQhcoBUWE0fxcpV3H0sck) | 2:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 69 | [I Just Want U](https://open.spotify.com/track/5B8uSlQlHH8XTQLrK4hJDk) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [I Just Want U](https://open.spotify.com/album/0cT99LxUk6j20kOlTurhnD) | 3:28 |
 | 70 | [Doin It](https://open.spotify.com/track/6EoyD1HY9dg9TnIjxI3vf6) | [T2](https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd), [H\-Boogie](https://open.spotify.com/artist/7urIf7U9vPaWyst283oMPj) | [Doin It](https://open.spotify.com/album/6NxeYAE3qgfGm1XLhIoqK8) | 2:57 |
 
-Snapshot ID: `AAAAAIsHWkfHUUivNSN40g+bIyiJa6qg`
+Snapshot ID: `AAAAABCXMMpLBCUEPj1K/YNlr8bhFfQY`

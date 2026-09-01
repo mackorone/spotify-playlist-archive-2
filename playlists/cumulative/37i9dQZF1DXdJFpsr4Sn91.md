@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,254 songs - 2 day 14 hr 44 min
+1,255 songs - 2 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [10!](https://open.spotify.com/track/5wGpuoijb2FQHzk4AQeBw0) | [keiju](https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5), [MOMO](https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq) | [PIIKA](https://open.spotify.com/album/7uQXB9fAq0FLImsAIjjuKH) | 2:28 | 2026-05-28 |  |
 | [10/10](https://open.spotify.com/track/3gOsiQH9yMW41J0btVZQet) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Ootsä nähny mua?](https://open.spotify.com/album/0pf2sh61zutGdkGtnWi9yI) | 2:56 | 2026-05-28 | 2026-06-19 |
 | [100 kyyneltä](https://open.spotify.com/track/4odOlYAhOx65GVHPCaoMSR) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI) | [100 kyyneltä](https://open.spotify.com/album/6D8caW2M3TrdCJ1YeFoUPS) | 3:06 | 2024-07-02 | 2024-07-12 |
-| [110%](https://open.spotify.com/track/6SKjV9XZvqldONThAgCFUi) | [Frans Harju](https://open.spotify.com/artist/5XHY4502E49TflEsiq7ed5) | [110%](https://open.spotify.com/album/5HxGB4zDzMiTGYJmahMrxW) | 3:01 | 2026-05-14 |  |
+| [110%](https://open.spotify.com/track/6SKjV9XZvqldONThAgCFUi) | [Frans Harju](https://open.spotify.com/artist/5XHY4502E49TflEsiq7ed5) | [110%](https://open.spotify.com/album/5HxGB4zDzMiTGYJmahMrxW) | 3:01 | 2026-05-14 | 2026-09-01 |
 | [112](https://open.spotify.com/track/7huJK8mp1FdJxmII15POPN) | [Ida](https://open.spotify.com/artist/2Jfsm2UQsgIpyfnksNNIzj) | [112](https://open.spotify.com/album/623gXbUqzeIY6nxr3nKMdA) | 2:39 | 2026-03-12 | 2026-06-26 |
 | [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 | 2024-07-18 | 2024-08-16 |
 | [16 ct](https://open.spotify.com/track/3RbtraQDqbNGuviw5iJDJt) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Habson](https://open.spotify.com/artist/1oTR448XOPP7T54lMD6BGa) | [16 ct](https://open.spotify.com/album/2I8ZiXuYmFptvaDskAnpke) | 3:01 | 2025-07-17 | 2025-08-16 |
@@ -629,6 +629,7 @@
 | [Marraskuu](https://open.spotify.com/track/5A5sHRQoeJHzMULQGPLoOV) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Marraskuu](https://open.spotify.com/album/4EXEdIokgH6hdVJxnKziWs) | 3:03 | 2024-10-31 | 2025-03-07 |
 | [MASIINA](https://open.spotify.com/track/25FQ6nVIcLOMfl5Rnmud57) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [MASIINA](https://open.spotify.com/album/3aNazUoV8x82EPaGQMwWgW) | 3:14 | 2025-03-06 | 2025-06-06 |
 | [Matkustaja \(Vain elämää kausi 16\)](https://open.spotify.com/track/35kMp6OpJVgFuSWElHqgbh) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Matkustaja \(Vain elämää kausi 16\)](https://open.spotify.com/album/2VN3IhBnCYWIhLpIrqYB5C) | 3:34 | 2025-10-16 | 2026-02-16 |
+| [MayDay](https://open.spotify.com/track/1TvIG1VwcSH9mmXXyUX69s) | [Coevisto](https://open.spotify.com/artist/6ntNjeOd8U1y1cFSdp6isr), [Casper Edel](https://open.spotify.com/artist/6AbCM1tL0YPJ9xDO7E9Ts2), [Samuel Shipway](https://open.spotify.com/artist/2dgvSwqsBBsIGxZjR3Qnn3) | [MayDay](https://open.spotify.com/album/1PQqe623rzXlrjIkal21HI) | 3:20 | 2026-08-27 |  |
 | [Me Before You](https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Me Before You](https://open.spotify.com/album/4hElKzCyDVbddwxZe4f9jb) | 3:35 | 2024-07-02 | 2024-07-05 |
 | [Me ollaan nuoriso pt.2 \(feat\. MD$\)](https://open.spotify.com/track/5LhoiY5ynoyZrto4jao4fV) | [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS), [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944) | [Me ollaan nuoriso pt.2 \(feat\. MD$\)](https://open.spotify.com/album/3Mi1VyGwqs05ow8jqg2Iwl) | 3:02 | 2025-02-13 | 2025-03-14 |
 | [Me Vs\. Maailma \(feat\. Sexmane\)](https://open.spotify.com/track/6jL8913OKAhtrefgueIRHR) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Me Vs\. Maailma \(feat\. Sexmane\)](https://open.spotify.com/album/09A9MT3hwFHGjoWrG3efxa) | 2:28 | 2024-07-26 | 2024-09-20 |

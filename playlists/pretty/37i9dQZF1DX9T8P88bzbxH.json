@@ -1,13 +1,45 @@
 {
   "description": "One night only. Cover: MILLI",
-  "num_followers": 53454,
+  "num_followers": 53440,
   "original_name": "On Tour Singapore: MILLI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACO6dbS+GqPcpA9t6lYQBa2oAMp4",
+  "snapshot_id": "AAAAAPtr7Xud7HsiFjv9l9Pzme9YNfLr",
   "tracks": [
+    {
+      "added_at": "2026-08-28 16:00:03",
+      "album": {
+        "name": "\u0e1e\u0e31\u0e01\u0e01\u0e48\u0e2d\u0e19",
+        "url": "https://open.spotify.com/album/06rwQctvIIWZqBoDRiJGZm"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "duration_ms": 184342,
+      "name": "\u0e1e\u0e31\u0e01\u0e01\u0e48\u0e2d\u0e19",
+      "url": "https://open.spotify.com/track/65wjkTPdu7GZInkMlUsy7b"
+    },
+    {
+      "added_at": "2026-08-28 16:00:03",
+      "album": {
+        "name": "\u0e2a\u0e38\u0e14\u0e1b\u0e31\u0e07",
+        "url": "https://open.spotify.com/album/2iNxeCUeX0iyTRZOdzjwGG"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "\u0e2a\u0e38\u0e14\u0e1b\u0e31\u0e07",
+      "url": "https://open.spotify.com/track/3yFFMbk6JqprCQp9B26vDJ"
+    },
     {
       "added_at": "2026-08-28 16:00:03",
       "album": {
@@ -50,6 +82,26 @@
         {
           "name": "MILLI",
           "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        }
+      ],
+      "duration_ms": 176486,
+      "name": "HELL YES (feat. BewhY)",
+      "url": "https://open.spotify.com/track/5ti8EBfP9P2VTFAi8dCvxT"
+    },
+    {
+      "added_at": "2026-08-28 16:00:03",
+      "album": {
+        "name": "HEAVYWEIGHT",
+        "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
         }
       ],
       "duration_ms": 194640,
@@ -59,34 +111,22 @@
     {
       "added_at": "2026-08-28 16:00:03",
       "album": {
-        "name": "\u0e1e\u0e31\u0e01\u0e01\u0e48\u0e2d\u0e19",
-        "url": "https://open.spotify.com/album/06rwQctvIIWZqBoDRiJGZm"
+        "name": "BABB BUM BUM",
+        "url": "https://open.spotify.com/album/34adoAqaladEYvXmQpujS7"
       },
       "artists": [
         {
           "name": "MILLI",
           "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
-        }
-      ],
-      "duration_ms": 184342,
-      "name": "\u0e1e\u0e31\u0e01\u0e01\u0e48\u0e2d\u0e19",
-      "url": "https://open.spotify.com/track/65wjkTPdu7GZInkMlUsy7b"
-    },
-    {
-      "added_at": "2026-08-28 16:00:03",
-      "album": {
-        "name": "\u0e2a\u0e38\u0e14\u0e1b\u0e31\u0e07",
-        "url": "https://open.spotify.com/album/2iNxeCUeX0iyTRZOdzjwGG"
-      },
-      "artists": [
+        },
         {
-          "name": "MILLI",
-          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+          "name": "NAMEMT",
+          "url": "https://open.spotify.com/artist/22i4rMtrvKnWENQSiD3xXU"
         }
       ],
-      "duration_ms": 176000,
-      "name": "\u0e2a\u0e38\u0e14\u0e1b\u0e31\u0e07",
-      "url": "https://open.spotify.com/track/3yFFMbk6JqprCQp9B26vDJ"
+      "duration_ms": 173062,
+      "name": "\u0e23\u0e31\u0e01\u0e19\u0e30\u0e40\u0e27\u0e49\u0e22 (feat. NAMEMT)",
+      "url": "https://open.spotify.com/track/3YgVRnMZS4d0F0LLS8t1AW"
     },
     {
       "added_at": "2026-08-28 16:00:03",
@@ -111,6 +151,26 @@
     {
       "added_at": "2026-08-28 16:00:03",
       "album": {
+        "name": "BABB BUM BUM",
+        "url": "https://open.spotify.com/album/34adoAqaladEYvXmQpujS7"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "1-Flow",
+          "url": "https://open.spotify.com/artist/4ht3vlne7Ph9NQ4t68Ijo4"
+        }
+      ],
+      "duration_ms": 188437,
+      "name": "Squad Shit (feat. 1-Flow)",
+      "url": "https://open.spotify.com/track/36eiekf6sdAguJ8gTNzZfV"
+    },
+    {
+      "added_at": "2026-08-28 16:00:03",
+      "album": {
         "name": "HEY HEY (feat. \u0e2d\u0e32\u0e20\u0e32\u0e1e\u0e23 \u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c)",
         "url": "https://open.spotify.com/album/1Y3UXVc7mwAsuVYD7QTPRh"
       },
@@ -131,8 +191,8 @@
     {
       "added_at": "2026-08-28 16:00:03",
       "album": {
-        "name": "Show Me The Money 12 Semi Final",
-        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
+        "name": "HEAVYWEIGHT",
+        "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
       },
       "artists": [
         {
@@ -140,17 +200,13 @@
           "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
         },
         {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        },
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
         }
       ],
-      "duration_ms": 283100,
-      "name": "NEVER (Feat. Wonstein, lIlBOI) (Prod. by GRAY)",
-      "url": "https://open.spotify.com/track/46CRlyiQ9Z4GrxQrKgHIyh"
+      "duration_ms": 128659,
+      "name": "JAA EHH (peekaboo) [feat. Awich]",
+      "url": "https://open.spotify.com/track/1lqGFDvBjPHGM3ORQXjGYC"
     },
     {
       "added_at": "2026-08-28 16:00:03",
@@ -268,13 +324,13 @@
           "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
         },
         {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 176486,
-      "name": "HELL YES (feat. BewhY)",
-      "url": "https://open.spotify.com/track/5ti8EBfP9P2VTFAi8dCvxT"
+      "duration_ms": 212863,
+      "name": "ARMSTRONG",
+      "url": "https://open.spotify.com/track/0HF7GyNStcRigbS0YGXuIX"
     },
     {
       "added_at": "2026-08-28 16:00:03",
@@ -288,13 +344,37 @@
           "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
         },
         {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
         }
       ],
-      "duration_ms": 128659,
-      "name": "JAA EHH (peekaboo) [feat. Awich]",
-      "url": "https://open.spotify.com/track/1lqGFDvBjPHGM3ORQXjGYC"
+      "duration_ms": 164627,
+      "name": "DANCE or DEAD",
+      "url": "https://open.spotify.com/track/45DDQu6PXpxsrvF1Chzams"
+    },
+    {
+      "added_at": "2026-08-28 16:00:03",
+      "album": {
+        "name": "Show Me The Money 12 Semi Final",
+        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        },
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        }
+      ],
+      "duration_ms": 283100,
+      "name": "NEVER (Feat. Wonstein, lIlBOI) (Prod. by GRAY)",
+      "url": "https://open.spotify.com/track/46CRlyiQ9Z4GrxQrKgHIyh"
     },
     {
       "added_at": "2026-08-28 16:00:03",
@@ -391,26 +471,6 @@
     {
       "added_at": "2026-08-28 16:00:03",
       "album": {
-        "name": "BABB BUM BUM",
-        "url": "https://open.spotify.com/album/34adoAqaladEYvXmQpujS7"
-      },
-      "artists": [
-        {
-          "name": "MILLI",
-          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
-        },
-        {
-          "name": "NAMEMT",
-          "url": "https://open.spotify.com/artist/22i4rMtrvKnWENQSiD3xXU"
-        }
-      ],
-      "duration_ms": 173062,
-      "name": "\u0e23\u0e31\u0e01\u0e19\u0e30\u0e40\u0e27\u0e49\u0e22 (feat. NAMEMT)",
-      "url": "https://open.spotify.com/track/3YgVRnMZS4d0F0LLS8t1AW"
-    },
-    {
-      "added_at": "2026-08-28 16:00:03",
-      "album": {
         "name": "Mirror Mirror",
         "url": "https://open.spotify.com/album/3R5wfZr723i5qfyPCAuUnS"
       },
@@ -433,30 +493,10 @@
       "url": "https://open.spotify.com/track/59WuWdDH06AYXgdoMENEa3"
     },
     {
-      "added_at": "2026-08-28 16:00:03",
+      "added_at": "2026-08-31 12:29:25",
       "album": {
-        "name": "HEAVYWEIGHT",
-        "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
-      },
-      "artists": [
-        {
-          "name": "MILLI",
-          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
-        },
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 212863,
-      "name": "ARMSTRONG",
-      "url": "https://open.spotify.com/track/0HF7GyNStcRigbS0YGXuIX"
-    },
-    {
-      "added_at": "2026-08-28 16:00:03",
-      "album": {
-        "name": "BABB BUM BUM",
-        "url": "https://open.spotify.com/album/34adoAqaladEYvXmQpujS7"
+        "name": "SAD AEROBIC",
+        "url": "https://open.spotify.com/album/1SSUGglnMaxM3Mb6x3rlP8"
       },
       "artists": [
         {
@@ -464,69 +504,9 @@
           "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
         }
       ],
-      "duration_ms": 152500,
-      "name": "Sad Aerobic",
-      "url": "https://open.spotify.com/track/4SiWVAhDyttIqIRIeUREiL"
-    },
-    {
-      "added_at": "2026-08-28 16:00:03",
-      "album": {
-        "name": "HEAVYWEIGHT",
-        "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
-      },
-      "artists": [
-        {
-          "name": "MILLI",
-          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
-        },
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 164627,
-      "name": "DANCE or DEAD",
-      "url": "https://open.spotify.com/track/45DDQu6PXpxsrvF1Chzams"
-    },
-    {
-      "added_at": "2026-08-28 16:00:03",
-      "album": {
-        "name": "BABB BUM BUM",
-        "url": "https://open.spotify.com/album/34adoAqaladEYvXmQpujS7"
-      },
-      "artists": [
-        {
-          "name": "MILLI",
-          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
-        },
-        {
-          "name": "1-Flow",
-          "url": "https://open.spotify.com/artist/4ht3vlne7Ph9NQ4t68Ijo4"
-        }
-      ],
-      "duration_ms": 188437,
-      "name": "Squad Shit (feat. 1-Flow)",
-      "url": "https://open.spotify.com/track/36eiekf6sdAguJ8gTNzZfV"
-    },
-    {
-      "added_at": "2026-08-28 16:00:03",
-      "album": {
-        "name": "SICK WITH IT (SO-SO Remix)",
-        "url": "https://open.spotify.com/album/0ivs0YsFze0qz71Ychkv86"
-      },
-      "artists": [
-        {
-          "name": "MILLI",
-          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
-        },
-        {
-          "name": "SO-SO",
-          "url": "https://open.spotify.com/artist/0AGwS4zwXlgeTJsee7q3cW"
-        }
-      ],
-      "duration_ms": 174489,
-      "name": "SICK WITH IT - SO-SO Remix",
-      "url": "https://open.spotify.com/track/38EwiJxpQaqhazYXs8dcyn"
+      "duration_ms": 168000,
+      "name": "SAD AEROBIC",
+      "url": "https://open.spotify.com/track/1fNBoi6eboos35LDL1z9XE"
     }
   ],
   "unique_name": "On Tour Singapore: MILLI",

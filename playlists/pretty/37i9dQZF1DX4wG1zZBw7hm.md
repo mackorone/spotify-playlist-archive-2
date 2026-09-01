@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 
 > techno you can relax/study to
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,042 likes - 100 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,059 likes - 100 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 56 | [Test 7](https://open.spotify.com/track/50LGfM5MtGNcWKc0hFFJjg) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC), [Tin Man](https://open.spotify.com/artist/1pnPHRg5i0WzPwGqtIoadK) | [Acid Test 09.1](https://open.spotify.com/album/4jWaistXzPX93akLPQRuYS) | 8:10 |
 | 57 | [Fading Lights](https://open.spotify.com/track/2pomRfi7JllgPiKg4PEt42) | [Cv313](https://open.spotify.com/artist/4uFSKwuGRG3kzMqXy1lZ03) | [Fading Lights](https://open.spotify.com/album/0EOu83jY7Ifgb8KS1UoxPU) | 9:01 |
 | 58 | [Subcultures](https://open.spotify.com/track/219dcH5o0f37ECYioSPtaw) | [Surgeon](https://open.spotify.com/artist/1PSylklb2w06BAAHEtepqM) | [Crash Recoil](https://open.spotify.com/album/074BDQSfufLOuL8qWsRsyg) | 5:58 |
-| 59 | [Blue Dub](https://open.spotify.com/track/4V4SUQWZVLAIMi7w20AbKs) | [Azu Tiwaline](https://open.spotify.com/artist/0HZwEDqo4wYPQIGacES3mB), [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [Blue Dub](https://open.spotify.com/album/7bRVMZKvEX5QsGNq2FtAj3) | 6:55 |
-| 60 | [The Kingdom Is Ours](https://open.spotify.com/track/7FABE5YnCjQMBl3DyT1FQG) | [Vøsne](https://open.spotify.com/artist/5NC6jfSFOuNRpuBjI7kgjD) | [The Kingdom Is Ours](https://open.spotify.com/album/7BujlDWmfmJynvPieQfjqa) | 16:25 |
+| 59 | [The Kingdom Is Ours](https://open.spotify.com/track/7FABE5YnCjQMBl3DyT1FQG) | [Vøsne](https://open.spotify.com/artist/5NC6jfSFOuNRpuBjI7kgjD) | [The Kingdom Is Ours](https://open.spotify.com/album/7BujlDWmfmJynvPieQfjqa) | 16:25 |
+| 60 | [Blue Dub](https://open.spotify.com/track/4V4SUQWZVLAIMi7w20AbKs) | [Azu Tiwaline](https://open.spotify.com/artist/0HZwEDqo4wYPQIGacES3mB), [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [Blue Dub](https://open.spotify.com/album/7bRVMZKvEX5QsGNq2FtAj3) | 6:55 |
 | 61 | [I, Cavallo](https://open.spotify.com/track/6kTteVJEEkVs3Zges11EPO) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [I, Cavallo](https://open.spotify.com/album/4pC6V3FzQnCnBZJy9OWVm2) | 6:57 |
 | 62 | [74312](https://open.spotify.com/track/4flwU7ZFnR8qAvyEFh3skD) | [Dave Knud](https://open.spotify.com/artist/1A6uvUfzvPUXnckBFD3o5Q) | [74312](https://open.spotify.com/album/7i1TW1TRl0V2JhW64Ybygu) | 3:49 |
 | 63 | [Untitled C3](https://open.spotify.com/track/3zotN6ezz03EnQoLDMmduF) | [SW.](https://open.spotify.com/artist/6lDaViWraJYpkI6nRq29vp) | [The Album](https://open.spotify.com/album/5yHg79n8OTEDo9V5zNg6oi) | 3:03 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 68 | [Zenith \- Original Mix](https://open.spotify.com/track/1Vd1PtUIKePKhOZHoTtf9E) | [Claudio PRC](https://open.spotify.com/artist/5qbXOiqkhAk2GEvpkma7xj) | [Drifting Northward EP](https://open.spotify.com/album/1ww2pbN521Xdm4fcVvvSFY) | 7:47 |
 | 69 | [Never Tell You \- 1](https://open.spotify.com/track/7iScEp6dZvGy8ZwJjb7xxh) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo), [Paul St\. Hilaire](https://open.spotify.com/artist/2z6qOkQVyn7h3XzUuNlRlM) | [Showcase](https://open.spotify.com/album/4G11Lr35wOYhRwV0j5h3UM) | 6:20 |
 | 70 | [Parable](https://open.spotify.com/track/3JJKfUHegacxWAhttMLiXY) | [Echo Inspectors](https://open.spotify.com/artist/0QSUzXnS0dDSxv8vWUZlq3) | [Translucent Tracks](https://open.spotify.com/album/2ljQuvlzi1caOfEI82eS83) | 6:36 |
-| 71 | [Reminder](https://open.spotify.com/track/2KkIKY9UQfSi1TQizmb8A6) | [Biodub](https://open.spotify.com/artist/3SlLKPEWkqqxLWNar2H9WY) | [Reisegefaehrte](https://open.spotify.com/album/5r7NnD004ziOkMaoDbTNjn) | 6:28 |
-| 72 | [upekah](https://open.spotify.com/track/7I1pDB99PH4iaUatXBXHgi) | [son.sine](https://open.spotify.com/artist/1t4NXvWnxF1xx3r6vhJMSp) | [upekah](https://open.spotify.com/album/5nqOxv7NpHWGFtiZCBuaxq) | 8:57 |
+| 71 | [upekah](https://open.spotify.com/track/7I1pDB99PH4iaUatXBXHgi) | [son.sine](https://open.spotify.com/artist/1t4NXvWnxF1xx3r6vhJMSp) | [upekah](https://open.spotify.com/album/5nqOxv7NpHWGFtiZCBuaxq) | 8:57 |
+| 72 | [Reminder](https://open.spotify.com/track/2KkIKY9UQfSi1TQizmb8A6) | [Biodub](https://open.spotify.com/artist/3SlLKPEWkqqxLWNar2H9WY) | [Reisegefaehrte](https://open.spotify.com/album/5r7NnD004ziOkMaoDbTNjn) | 6:28 |
 | 73 | [G3](https://open.spotify.com/track/1epu6KNwZjVuyoa4GBLdmL) | [Monoder](https://open.spotify.com/artist/587oFfNlf7pKfT2sJds5Wn) | [Ikikieriö](https://open.spotify.com/album/3Y4MFlHV1PYX2CQY2Wzemi) | 7:44 |
 | 74 | [Nova](https://open.spotify.com/track/0iGz5ZGVwlpE02BM1oCSjn) | [Leftover](https://open.spotify.com/artist/2Fsi18jBmBaSxBTYGiDLSt) | [Der Kirschbaum EP](https://open.spotify.com/album/13LquI8N4khxKLRwoByVEu) | 6:19 |
 | 75 | [Everyone Is Moving](https://open.spotify.com/track/0I2NAwJ0zz5WfKHqxWNcfh) | [DFRNT](https://open.spotify.com/artist/6NXFAGGcI3nq3em34tsWnQ) | [Fading \(Deluxe Edition\)](https://open.spotify.com/album/7bykHlOaWjYLioMEnNa1Rw) | 7:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 99 | [Sands of Rainbow](https://open.spotify.com/track/0n8gv3n5Do8SvY14NUt0Es) | [Insect O.](https://open.spotify.com/artist/3DvAgRmwCrUUlnvqASCdDB) | [Bondi Dub](https://open.spotify.com/album/2FPGWeGodZYh0CDrbSmHoO) | 7:36 |
 | 100 | [Redundance 5](https://open.spotify.com/track/3eGmfcsnYLlEbuAPDPCzLh) | [Porter Ricks](https://open.spotify.com/artist/47yoe54A38qmHti0GlTPXR) | [Porter Ricks](https://open.spotify.com/album/2umF7rpmFdCRJIYFF3vUiy) | 7:02 |
 
-Snapshot ID: `AAAAABCI4RiENUcJgy3/Ioc2Uw08eWXl`
+Snapshot ID: `AAAAAN+nMVSznczu+4dumzfNs4EtaeAI`

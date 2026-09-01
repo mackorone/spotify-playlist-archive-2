@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur..\. ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,454 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,467 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 59 | [Imaginary World](https://open.spotify.com/track/4KC2o2fFKMxpDRg0sW3V3W) | [Midnight Run](https://open.spotify.com/artist/5mITWbhWk5w7FPzymBNQsF) | [Imaginary World](https://open.spotify.com/album/0H1VXpRq7y1Zw9MlK5CVjX) | 2:21 |
 | 60 | [Body \(Touchin'\)](https://open.spotify.com/track/6sJzI6TMesW9C3sBObzC3H) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [Simon Wiart](https://open.spotify.com/artist/4w64FIWuxIGKlIEwpM3gov) | [Body \(Touchin'\)](https://open.spotify.com/album/3bUbxGVoKMHFu52Pbz0i39) | 2:20 |
 
-Snapshot ID: `AAAAANDXy941nkPy6GOkmMmb0/ozr4p8`
+Snapshot ID: `AAAAAELJOlym50LcdkQObdOjx6ckYek0`

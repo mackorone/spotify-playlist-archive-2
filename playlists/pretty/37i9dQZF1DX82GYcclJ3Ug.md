@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Interpol
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,229,481 likes - 153 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,229,496 likes - 153 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 152 | [Everything At Once](https://open.spotify.com/track/5Hwv7ZHrkqqNUe5FpKJRf8) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [There Near](https://open.spotify.com/album/4x9eupWjvX2qpy7pAgPAQE) | 4:13 |
 | 153 | [Tough Luck \(When You Don’t Call\)](https://open.spotify.com/track/109AVLNWp2BnTXTzF4j6XE) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Tough Luck \(When You Don’t Call\)](https://open.spotify.com/album/6MHa4abEhvIof8YZtErpLk) | 3:32 |
 
-Snapshot ID: `AAAAAPkeI+kyZjXi/PkY5RmFBP00uXpx`
+Snapshot ID: `AAAAAIpmmRLxoLbCdm5kUqM93tHGrZVv`

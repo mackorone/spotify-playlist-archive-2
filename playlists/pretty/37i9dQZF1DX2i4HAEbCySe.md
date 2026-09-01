@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i4HAEbCySe.md) - [plain]
 
 > Right here, right now, we've got all your favorite songs from High School Musical.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,833 likes - 122 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,850 likes - 122 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i4HAEbCySe.md) - [plain]
 | 121 | [I Think I Kinda, You Know \- Nini Version](https://open.spotify.com/track/5mMgtldbpa3erROoUO75ev) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 1:16 |
 | 122 | [Starting to Feel Like Summer](https://open.spotify.com/track/16SUhUFL4WkITqFrMI5hDg) | [David Lawrence](https://open.spotify.com/artist/3UqWSSICas1DNCsS5IJbTs) | [Music from High School Musical \(Original Score\)](https://open.spotify.com/album/1EasSIMNhisHMpR3Py3O2a) | 2:32 |
 
-Snapshot ID: `AAAAAGkuCyDvnL4NJRHdKb3ZewETfMAi`
+Snapshot ID: `AAAAAAnRUNphlDXWq1Xyj8HWiDgp0KUR`

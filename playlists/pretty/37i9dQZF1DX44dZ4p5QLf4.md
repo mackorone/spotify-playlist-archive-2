@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > Hand\-picked releases from the new wave in soul\. Cover: FÄM
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,083 likes - 90 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,076 likes - 90 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 89 | [Can't Wait to Meet You](https://open.spotify.com/track/4Btm2bOAkyMFxSRSrpnasS) | [GeeJay](https://open.spotify.com/artist/43l4GGl1QwpqP7R2k43M9W) | [Can't Wait to Meet You](https://open.spotify.com/album/4sABeJQnfb3vdx2ONTWSqu) | 3:29 |
 | 90 | [Glow](https://open.spotify.com/track/0X9ViQWrgaSzDE7mACBH4R) | [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV), [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3), [Uevo](https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi), [Superfuse](https://open.spotify.com/artist/4H6l4uxiqZ7uaUwpLkrr3f), [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [Glow](https://open.spotify.com/album/4bK2DGVw3hFSPhHvI8ShZg) | 2:36 |
 
-Snapshot ID: `AAAAAH6HEDnBpXoXzzDutRKwNTDmQBkP`
+Snapshot ID: `AAAAAMuHVicH63aE+RMPJHjt2cKSdw2T`

@@ -1,12 +1,12 @@
 {
   "description": "Los mejores \u00e9xitos de hoy en Colombia. Foto: Karol G\n",
-  "num_followers": 921878,
+  "num_followers": 921875,
   "original_name": "\u00c9xitos Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOtYLMG9owcvdjpU031QL3pK6dIK",
+  "snapshot_id": "AAAAAARV2SkPJOGmpX+20nRqivjaB1YQ",
   "tracks": [
     {
       "added_at": "2026-08-28 01:00:37",
@@ -938,6 +938,14 @@
         {
           "name": "Fronti",
           "url": "https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr"
+        },
+        {
+          "name": "Prodmonja",
+          "url": "https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO"
+        },
+        {
+          "name": "Bravvs",
+          "url": "https://open.spotify.com/artist/2EstnBv92UlKvEoCLSPOOh"
         }
       ],
       "duration_ms": 152000,

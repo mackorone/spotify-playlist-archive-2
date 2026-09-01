@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Fanny Avonne, Yasin och Lovet med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,638 likes - 106 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,623 likes - 106 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 105 | [9mm](https://open.spotify.com/track/1MGrdDiI0RUOwTp9AZh1tJ) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [9mm](https://open.spotify.com/album/6WT3D17SOnrenCunzynCgK) | 3:30 |
 | 106 | [The Decipherer \(with RAKEL\)](https://open.spotify.com/track/3LLFLe9EwVloXh4baZTVdu) | [Kaktus Einarsson](https://open.spotify.com/artist/6JNguRWD1fs6lOR6IXQlp3), [RAKEL](https://open.spotify.com/artist/5TTXO1acO5ZuuUCsZ0MXJl) | [The Decipherer](https://open.spotify.com/album/1Jlik5hQKPwJdrhsQoUdWj) | 3:10 |
 
-Snapshot ID: `AAAAAD/m4cCALBaNivSpLsfXXKC+uDjz`
+Snapshot ID: `AAAAAJJ0T0EcNxKX27c37TGB07ktcSTB`

@@ -1,12 +1,12 @@
 {
   "description": "Indie jams that sound like lounging under the sun with friends. ",
-  "num_followers": 531191,
+  "num_followers": 531163,
   "original_name": "Park Hangs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABNpy/i6ZM/FjlOCtOel/faNKpPg",
+  "snapshot_id": "AAAAACAI25r8drfz/J42MRbUCiS0HrFN",
   "tracks": [
     {
       "added_at": "2026-01-20 16:17:11",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-01-20 16:17:11",
       "album": {
-        "name": "1st Time",
-        "url": "https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 181746,
-      "name": "1st Time",
-      "url": "https://open.spotify.com/track/4udjo5nLK61pKajakfrndc"
-    },
-    {
-      "added_at": "2026-01-20 16:17:11",
-      "album": {
         "name": "I Wanna Help Your Mind",
         "url": "https://open.spotify.com/album/2G6xRZxWrt9mBXgHclg2i4"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 171937,
       "name": "I Wanna Help Your Mind",
       "url": "https://open.spotify.com/track/08ZZ7SILfKcreLtA3K6Gqr"
+    },
+    {
+      "added_at": "2026-01-20 16:17:11",
+      "album": {
+        "name": "1st Time",
+        "url": "https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 181746,
+      "name": "1st Time",
+      "url": "https://open.spotify.com/track/4udjo5nLK61pKajakfrndc"
     },
     {
       "added_at": "2026-01-20 16:17:11",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-01-20 16:17:11",
       "album": {
-        "name": "Something For Your M.I.N.D.",
-        "url": "https://open.spotify.com/album/2FlD0ta44kkFbIvwa4uDeP"
-      },
-      "artists": [
-        {
-          "name": "Superorganism",
-          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
-        }
-      ],
-      "duration_ms": 165391,
-      "name": "Something For Your M.I.N.D.",
-      "url": "https://open.spotify.com/track/47wq2z7KMHDRnoSMdZODUA"
-    },
-    {
-      "added_at": "2026-01-20 16:17:11",
-      "album": {
         "name": "I'm Just Snacking",
         "url": "https://open.spotify.com/album/1OxhOd3oy8xQJ818M3mQS2"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 198116,
       "name": "I'm Just Snacking",
       "url": "https://open.spotify.com/track/12jmugLskEWmYRLKYfMNSk"
+    },
+    {
+      "added_at": "2026-01-20 16:17:11",
+      "album": {
+        "name": "Something For Your M.I.N.D.",
+        "url": "https://open.spotify.com/album/2FlD0ta44kkFbIvwa4uDeP"
+      },
+      "artists": [
+        {
+          "name": "Superorganism",
+          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+        }
+      ],
+      "duration_ms": 165391,
+      "name": "Something For Your M.I.N.D.",
+      "url": "https://open.spotify.com/track/47wq2z7KMHDRnoSMdZODUA"
     },
     {
       "added_at": "2026-01-20 16:17:11",

@@ -1,12 +1,12 @@
 {
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002The Weeknd, Olivia Rodrigo, Alex Warren, Post Malone and more!",
-  "num_followers": 169209,
+  "num_followers": 169222,
   "original_name": "New Music Friday Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADJOyeMVKRuJ3ZUDiWfNUF7sxZWz",
+  "snapshot_id": "AAAAAMgOg7gzcP2bET3OIgKhlzD1NRFM",
   "tracks": [
     {
       "added_at": "2026-08-29 02:13:58",
@@ -649,20 +649,24 @@
       "url": "https://open.spotify.com/track/27CMx2IQna3TPFhFtPih5p"
     },
     {
-      "added_at": "2026-08-29 02:13:58",
+      "added_at": "2026-08-31 04:41:15",
       "album": {
-        "name": "Voyage",
-        "url": "https://open.spotify.com/album/0aOiy82VnInnw3Av1NptrK"
+        "name": "Forever Love (Live)",
+        "url": "https://open.spotify.com/album/0qtSgeEUdRxelggtC7zK6t"
       },
       "artists": [
         {
-          "name": "Julia Takada",
-          "url": "https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi"
+          "name": "YOSHIKI",
+          "url": "https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm"
+        },
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
         }
       ],
-      "duration_ms": 254482,
-      "name": "Voyage",
-      "url": "https://open.spotify.com/track/1dowW8dGYDW0JxzzoWs1Kw"
+      "duration_ms": 279296,
+      "name": "Forever Love - Live",
+      "url": "https://open.spotify.com/track/1alvsKeJqg3L9aZY8y8IQN"
     },
     {
       "added_at": "2026-08-29 02:13:58",
@@ -679,6 +683,22 @@
       "duration_ms": 244352,
       "name": "Marble Planet",
       "url": "https://open.spotify.com/track/1M5oZN8HL8F8VLMc0MhPHV"
+    },
+    {
+      "added_at": "2026-08-29 02:13:58",
+      "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/0aOiy82VnInnw3Av1NptrK"
+      },
+      "artists": [
+        {
+          "name": "Julia Takada",
+          "url": "https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi"
+        }
+      ],
+      "duration_ms": 254482,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/1dowW8dGYDW0JxzzoWs1Kw"
     },
     {
       "added_at": "2026-08-29 02:13:58",

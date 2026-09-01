@@ -1,12 +1,12 @@
 {
   "description": "This is Mitski. The essential tracks, all in one playlist.",
-  "num_followers": 299990,
+  "num_followers": 300013,
   "original_name": "This Is Mitski",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apIhAAAAAADCn4wpZ77bRz1mTBHW7P+T",
+  "snapshot_id": "apNygAAAAAAdyzV1yk/e0CVnOu0PHDnC",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bury Me At Makeout Creek",
+        "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 164226,
+      "name": "Last Words of a Shooting Star",
+      "url": "https://open.spotify.com/track/7gn3NdQez9Pwbqak4gspz5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mitski on Audiotree Live",
         "url": "https://open.spotify.com/album/5lbEsVQlcvV5tT8KBllPdh"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 131530,
       "name": "Class of 2013 - Audiotree Live Version",
       "url": "https://open.spotify.com/track/76l5r75wE5kvPdDsksAr62"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bury Me At Makeout Creek",
-        "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 164226,
-      "name": "Last Words of a Shooting Star",
-      "url": "https://open.spotify.com/track/7gn3NdQez9Pwbqak4gspz5"
     },
     {
       "added_at": null,

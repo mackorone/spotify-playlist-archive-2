@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-146 songs - 8 hr 39 min
+147 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Don't Look Back \(Lady in Red\)](https://open.spotify.com/track/4Cl1LWsdknU69QMP3PIKey) | [Valeryan](https://open.spotify.com/artist/4dBnn8oYs431SPtflMrIaj) | [Don't Look Back \(Lady in Red\)](https://open.spotify.com/album/5V1w8PZTjLENJVxfA3YJ3R) | 4:14 | 2025-09-25 |  |
 | [Drive](https://open.spotify.com/track/5USqUhlf8G2afGIK1zn9uL) | [2 Odd Dogs](https://open.spotify.com/artist/6n2yPum3yYVA5pEMzFtBqN) | [Drive](https://open.spotify.com/album/14KxNu3UsvvsJWKmhbSNOr) | 4:34 | 2024-01-15 | 2026-08-31 |
 | [Ein Bub und sein Porsche](https://open.spotify.com/track/1HS71WwT0b6dH90bpHgcpI) | [musik.poet](https://open.spotify.com/artist/3qmi6JypjUwLqzzkoIfhjV) | [Ein Bub und sein Porsche](https://open.spotify.com/album/5e22Cww7MQVuMmkx8ORfjn) | 2:34 | 2025-10-03 | 2025-12-17 |
+| [Epsilon Eridani](https://open.spotify.com/track/1kz6DreLvi1iOJc7gNIfDQ) | [Electron Revolt](https://open.spotify.com/artist/7inTXltGl51TDpZAW7BFAm) | [Raging Daylight](https://open.spotify.com/album/7AysU1BS4N5bwjtvgaIXHP) | 3:16 | 2026-08-31 |  |
 | [Fake Moments](https://open.spotify.com/track/6UNusfF7iabmyZvm7WXuC9) | [Richard Green](https://open.spotify.com/artist/5ZMNSlmvEo9xyBSCK7yK1w) | [Illusions](https://open.spotify.com/album/3fVRj84OCXO6ac7fUG0EIq) | 4:15 | 2025-11-23 | 2025-12-17 |
 | [Family of Two](https://open.spotify.com/track/7iJtJc3gbbLehTGp0HatSn) | [Charles Connolly](https://open.spotify.com/artist/177sVR4PIPRGPAys8e5vG1) | [Family of Two](https://open.spotify.com/album/795WecNLvB1rG8ur1VO0sn) | 2:51 | 2024-11-18 | 2026-08-31 |
 | [Film](https://open.spotify.com/track/0g1pfaF11B4Lo8oO8RgtW2) | [Robert Owen](https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm) | [Film](https://open.spotify.com/album/0gsJfbVgA2BL7xsGXuT9JO) | 4:18 | 2025-12-20 | 2026-02-02 |

@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a> 🚀🚀 with Seven Lions + Kill The Noise
 
-1,949 songs - 4 day 9 hr 39 min
+1,950 songs - 4 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -948,7 +948,7 @@
 | [Jump Out](https://open.spotify.com/track/7oJfSplYb4omWhFM5ttmcf) | [Big Dope P](https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr) | [Jump Out](https://open.spotify.com/album/6L24he0bjg76mBaETv1zM3) | 3:05 | 2021-12-17 | 2022-05-07 |
 | [JUMP OUT](https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [JUMP OUT](https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ) | 2:25 | 2024-07-25 | 2025-01-11 |
 | [Jungle](https://open.spotify.com/track/0yVNtNWZshsOXu0GLWp07P) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Jungle](https://open.spotify.com/album/4eZtcLOUFdM3ScPCGERBvx) | 3:31 | 2024-08-23 | 2025-01-25 |
-| [JUST A DREAM](https://open.spotify.com/track/3PJeEOtdQPJLni274n1cYj) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Kayp](https://open.spotify.com/artist/1Lp0WVwWH1SZbs5DRJrI3V) | [JUST A DREAM](https://open.spotify.com/album/6k4MaMSq7L2W8ZIk024M6a) | 3:31 | 2026-08-28 |  |
+| [JUST A DREAM](https://open.spotify.com/track/3PJeEOtdQPJLni274n1cYj) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Kayp](https://open.spotify.com/artist/1Lp0WVwWH1SZbs5DRJrI3V) | [JUST A DREAM](https://open.spotify.com/album/6k4MaMSq7L2W8ZIk024M6a) | 3:31 | 2026-08-28 | 2026-09-01 |
 | [Just A Dream](https://open.spotify.com/track/0FpXOnJP3OtKU5zGKUtrdu) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [Lucii](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Just A Dream](https://open.spotify.com/album/3HGlp8bSoomAkZKQl67fqx) | 2:48 | 2021-12-17 | 2022-07-16 |
 | [Just Like You](https://open.spotify.com/track/5XRvpUtk1ux7Tni2RAayDB) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Just Like You](https://open.spotify.com/album/4PPUdNjkbbVWrdby0AamEx) | 4:28 | 2021-12-17 | 2022-03-12 |
 | [Just Too Numb \(with Calivania\)](https://open.spotify.com/track/6qNqNm954aUmyNDKKnxdSm) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx), [Calivania](https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1) | [Just Too Numb \(with Calivania\)](https://open.spotify.com/album/25fV2RjsDHHybEDIYtMfNC) | 3:06 | 2023-12-01 | 2023-12-16 |
@@ -1533,6 +1533,7 @@
 | [Shine](https://open.spotify.com/track/2WOX91Z1AZlkFgF3qBV1TU) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Levex](https://open.spotify.com/artist/5m41Q8b6ISK0bbefIZl9Ef) | [Inferno](https://open.spotify.com/album/6dCpnvdq8U4plaAKwFJ52M) | 2:31 | 2026-03-27 | 2026-05-09 |
 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 | 2022-05-13 | 2023-07-08 |
 | [SHOOT 2 KILL](https://open.spotify.com/track/7k5JqvfMRikQwzyn5tyq0g) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [SHOOT 2 KILL](https://open.spotify.com/album/2h26ISASnahkhpEHzHQ8tz) | 2:02 | 2026-06-19 | 2026-08-15 |
+| [SHOOTA](https://open.spotify.com/track/2GsYtMDhk9OxTOsIAMndmL) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [SHOOTA](https://open.spotify.com/album/7FkVTKrQ66e8JaMEiai7lP) | 3:14 | 2026-08-31 |  |
 | [Show You What You Love](https://open.spotify.com/track/2i3XsjRLpTx2MisKPKsGgI) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Show You What You Love](https://open.spotify.com/album/76BEwLxWKn4hVZ9iRGMRSZ) | 3:07 | 2025-04-18 | 2025-05-10 |
 | [SHOWOFF](https://open.spotify.com/track/60vjmRkxPb4bu3Iv3yPgqb) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [SHOWOFF](https://open.spotify.com/album/73CeKyAHVdhp5QNJOgwccA) | 2:40 | 2024-08-16 | 2024-09-28 |
 | [Shoyu](https://open.spotify.com/track/7ammiC4TKHgMXP8RnccYcA) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Unfold](https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse) | 2:21 | 2022-09-16 | 2023-07-29 |

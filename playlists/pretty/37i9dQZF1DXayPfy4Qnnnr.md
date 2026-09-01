@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 
 > Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie\-le bien fort, use tes cordes vocales !
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,563 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,578 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 49 | [One by One](https://open.spotify.com/track/4lXuYj6x2DndhCnpqtN4Sf) | [K2R Riddim](https://open.spotify.com/artist/79Kiacg7nm9B7bMxATP6U0) | [Carnet de roots](https://open.spotify.com/album/4MnzbdyxZOinzS4udFuWOp) | 3:58 |
 | 50 | [Plantation](https://open.spotify.com/track/3mdfBcdD8C3NbJ0SUBjA5i) | [KANA](https://open.spotify.com/artist/3hEwqHY3IUn19VmTBoKrfn) | [Entre Frères...](https://open.spotify.com/album/1RhTC6PKCNZmNMiblUu9Ng) | 3:33 |
 
-Snapshot ID: `AAAAAP31iR7KqC5T6AyOH/Ag19XSk/nO`
+Snapshot ID: `AAAAALSiBjyXQ1hL16q11jToTSZPPksB`

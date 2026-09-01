@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in alt/rock\| Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,199 likes - 144 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,206 likes - 144 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 143 | [Billboard Style](https://open.spotify.com/track/35ve61xDrQy5Q4U20CCttN) | [Billboard Style](https://open.spotify.com/artist/3oqmZ1rujvoBP7ZyMBKqUQ) | [Billboard Style](https://open.spotify.com/album/5J68BHB4bwuKeNXx6UjgIL) | 2:50 |
 | 144 | [YES, I AM AN ANIMAL](https://open.spotify.com/track/54ayOa2nydoqHPbje4Ggtl) | [tankerlow](https://open.spotify.com/artist/3s1K1og0JzNIKLOj3sQeZJ) | [YES, I AM AN ANIMAL](https://open.spotify.com/album/0IDnwWNDrfmk02MmJR93be) | 5:04 |
 
-Snapshot ID: `AAAAAKFQCelCS6rCpTRQWCB29aq3b8L2`
+Snapshot ID: `AAAAAHcV95FUisdEF1V+KH+RAGk6yDlm`

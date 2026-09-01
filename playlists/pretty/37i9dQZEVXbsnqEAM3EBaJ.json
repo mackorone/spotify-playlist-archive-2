@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADzQJrKSE9HhVJQQMHhbaOoYaWdl",
+  "snapshot_id": "AAAAAMgpwryu+lfkrkkKCdy+om6pcpyL",
   "tracks": [
     {
       "added_at": "2026-08-28 04:00:00",
@@ -63,6 +63,26 @@
     {
       "added_at": "2026-08-28 04:00:00",
       "album": {
+        "name": "\u0414\u043e\u0436\u0434\u044c \u0434\u043b\u044f \u043d\u0430\u0441",
+        "url": "https://open.spotify.com/album/3mUAX9aZsJBnoCUAkANNeU"
+      },
+      "artists": [
+        {
+          "name": "Kino",
+          "url": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
+        },
+        {
+          "name": "T\u00c6T",
+          "url": "https://open.spotify.com/artist/5rUGhcQxbVcFAVBFwliVsC"
+        }
+      ],
+      "duration_ms": 365034,
+      "name": "\u0414\u043e\u0436\u0434\u044c \u0434\u043b\u044f \u043d\u0430\u0441",
+      "url": "https://open.spotify.com/track/3ejZc1ZBoAzu3YrIk9zIiE"
+    },
+    {
+      "added_at": "2026-08-28 04:00:00",
+      "album": {
         "name": "Casting Me Away From You",
         "url": "https://open.spotify.com/album/7cfSjkoBfNoWohu0nJVrss"
       },
@@ -83,22 +103,18 @@
     {
       "added_at": "2026-08-28 04:00:00",
       "album": {
-        "name": "\u0414\u043e\u0436\u0434\u044c \u0434\u043b\u044f \u043d\u0430\u0441",
-        "url": "https://open.spotify.com/album/3mUAX9aZsJBnoCUAkANNeU"
+        "name": "I Wanna Be Sedated",
+        "url": "https://open.spotify.com/album/4qJLzNHA0SpvWb3JO3DiR5"
       },
       "artists": [
         {
-          "name": "Kino",
-          "url": "https://open.spotify.com/artist/2jkl2xJVm71azWAgZKyf42"
-        },
-        {
-          "name": "T\u00c6T",
-          "url": "https://open.spotify.com/artist/5rUGhcQxbVcFAVBFwliVsC"
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 365034,
-      "name": "\u0414\u043e\u0436\u0434\u044c \u0434\u043b\u044f \u043d\u0430\u0441",
-      "url": "https://open.spotify.com/track/3ejZc1ZBoAzu3YrIk9zIiE"
+      "duration_ms": 145800,
+      "name": "I Wanna Be Sedated",
+      "url": "https://open.spotify.com/track/6nTnjjkXY4UfqnU9bWpvIN"
     },
     {
       "added_at": "2026-08-28 04:00:00",
@@ -123,18 +139,18 @@
     {
       "added_at": "2026-08-28 04:00:00",
       "album": {
-        "name": "I Wanna Be Sedated",
-        "url": "https://open.spotify.com/album/4qJLzNHA0SpvWb3JO3DiR5"
+        "name": "Funky London Childhood (Studio Take)",
+        "url": "https://open.spotify.com/album/45X2PVmz3TdBtBtFEzX3qx"
       },
       "artists": [
         {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
         }
       ],
-      "duration_ms": 145800,
-      "name": "I Wanna Be Sedated",
-      "url": "https://open.spotify.com/track/6nTnjjkXY4UfqnU9bWpvIN"
+      "duration_ms": 148333,
+      "name": "Funky London Childhood (Studio Take)",
+      "url": "https://open.spotify.com/track/31v4YdHkUJAygy3X3g5aX7"
     },
     {
       "added_at": "2026-08-28 04:00:00",
@@ -155,22 +171,6 @@
     {
       "added_at": "2026-08-28 04:00:00",
       "album": {
-        "name": "Funky London Childhood (Studio Take)",
-        "url": "https://open.spotify.com/album/45X2PVmz3TdBtBtFEzX3qx"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 148333,
-      "name": "Funky London Childhood (Studio Take)",
-      "url": "https://open.spotify.com/track/31v4YdHkUJAygy3X3g5aX7"
-    },
-    {
-      "added_at": "2026-08-28 04:00:00",
-      "album": {
         "name": "iScreaM Vol.40 : Surfin' Boy Remixes",
         "url": "https://open.spotify.com/album/2qSvvpunIQ53eBhBjwO221"
       },
@@ -187,46 +187,6 @@
       "duration_ms": 187692,
       "name": "Surfin' Boy - Flamingosis Remix",
       "url": "https://open.spotify.com/track/2FfSWxKumzMOCcs7HZpHE5"
-    },
-    {
-      "added_at": "2026-08-28 04:00:00",
-      "album": {
-        "name": "POISON feat. Bert McCracken (The Used)",
-        "url": "https://open.spotify.com/album/1a2lPzj5stWhiIOnftpyGD"
-      },
-      "artists": [
-        {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
-        },
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        },
-        {
-          "name": "Bert McCracken",
-          "url": "https://open.spotify.com/artist/7rEzlkwGjVgUXbWi0kDEAA"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "POISON feat. Bert McCracken (The Used)",
-      "url": "https://open.spotify.com/track/35N1r1X3vzTs5hIk42SPBR"
-    },
-    {
-      "added_at": "2026-08-28 04:00:00",
-      "album": {
-        "name": "One Assassination Under God - Chapter 2 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/52owp1AVDoMqy1WTGSVa3v"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
-        }
-      ],
-      "duration_ms": 214801,
-      "name": "You Can't Die Young",
-      "url": "https://open.spotify.com/track/781jKCXccnrnbpJiiRuvhe"
     },
     {
       "added_at": "2026-08-28 04:00:00",
@@ -267,6 +227,62 @@
     {
       "added_at": "2026-08-28 04:00:00",
       "album": {
+        "name": "One Assassination Under God - Chapter 2 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/52owp1AVDoMqy1WTGSVa3v"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "duration_ms": 214801,
+      "name": "You Can't Die Young",
+      "url": "https://open.spotify.com/track/781jKCXccnrnbpJiiRuvhe"
+    },
+    {
+      "added_at": "2026-08-28 04:00:00",
+      "album": {
+        "name": "POISON feat. Bert McCracken (The Used)",
+        "url": "https://open.spotify.com/album/1a2lPzj5stWhiIOnftpyGD"
+      },
+      "artists": [
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "Bert McCracken",
+          "url": "https://open.spotify.com/artist/7rEzlkwGjVgUXbWi0kDEAA"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "POISON feat. Bert McCracken (The Used)",
+      "url": "https://open.spotify.com/track/35N1r1X3vzTs5hIk42SPBR"
+    },
+    {
+      "added_at": "2026-08-28 04:00:00",
+      "album": {
+        "name": "Eight Legs of Thunder",
+        "url": "https://open.spotify.com/album/1N3EG3JoDCRheDwltb442p"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 260826,
+      "name": "Eight Legs of Thunder",
+      "url": "https://open.spotify.com/track/18QvY9nGqiudkGh1JycyLE"
+    },
+    {
+      "added_at": "2026-08-28 04:00:00",
+      "album": {
         "name": "Pers\u00e9fone",
         "url": "https://open.spotify.com/album/49BTQGwQvQwdTJA51CItaY"
       },
@@ -287,18 +303,22 @@
     {
       "added_at": "2026-08-28 04:00:00",
       "album": {
-        "name": "Eight Legs of Thunder",
-        "url": "https://open.spotify.com/album/1N3EG3JoDCRheDwltb442p"
+        "name": "INOCHI (2026)",
+        "url": "https://open.spotify.com/album/3x3bTti2RZzfSxNqxhlG8z"
       },
       "artists": [
         {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        },
+        {
+          "name": "SunoAI",
+          "url": "https://open.spotify.com/artist/20LgVzi8mg8qf9JKyDbauU"
         }
       ],
-      "duration_ms": 260826,
-      "name": "Eight Legs of Thunder",
-      "url": "https://open.spotify.com/track/18QvY9nGqiudkGh1JycyLE"
+      "duration_ms": 185386,
+      "name": "INOCHI (2026)",
+      "url": "https://open.spotify.com/track/0tTgGf4A9c1aOuMiW05shB"
     },
     {
       "added_at": "2026-08-28 04:00:00",
@@ -327,26 +347,6 @@
     {
       "added_at": "2026-08-28 04:00:00",
       "album": {
-        "name": "INOCHI (2026)",
-        "url": "https://open.spotify.com/album/3x3bTti2RZzfSxNqxhlG8z"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        },
-        {
-          "name": "SunoAI",
-          "url": "https://open.spotify.com/artist/20LgVzi8mg8qf9JKyDbauU"
-        }
-      ],
-      "duration_ms": 185386,
-      "name": "INOCHI (2026)",
-      "url": "https://open.spotify.com/track/0tTgGf4A9c1aOuMiW05shB"
-    },
-    {
-      "added_at": "2026-08-28 04:00:00",
-      "album": {
         "name": "The Ballad Of Terry Fox",
         "url": "https://open.spotify.com/album/57iGR84BHy4SlXzBYhLHfI"
       },
@@ -363,18 +363,18 @@
     {
       "added_at": "2026-08-28 04:00:00",
       "album": {
-        "name": "40 Years Of Fuckin' Up: Soundtrack + Score",
-        "url": "https://open.spotify.com/album/5hM0luqn90CkruMS90At60"
+        "name": "Break Out",
+        "url": "https://open.spotify.com/album/5IRBHl5yuY62Yff2xVbtN4"
       },
       "artists": [
         {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+          "name": "Yello",
+          "url": "https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi"
         }
       ],
-      "duration_ms": 217000,
-      "name": "We Did It Our Way (live 10/6/24)",
-      "url": "https://open.spotify.com/track/1hSbFDblQ8H7fYrDtMhYaQ"
+      "duration_ms": 187071,
+      "name": "Break Out",
+      "url": "https://open.spotify.com/track/05rR2TFxYVNvUtN33ZK6FR"
     },
     {
       "added_at": "2026-08-28 04:00:00",
@@ -439,18 +439,34 @@
     {
       "added_at": "2026-08-28 04:00:00",
       "album": {
-        "name": "Break Out",
-        "url": "https://open.spotify.com/album/5IRBHl5yuY62Yff2xVbtN4"
+        "name": "Looking for the Happy (Bright-Side Mix)",
+        "url": "https://open.spotify.com/album/0OeCIZk631vMKnySqvfeuR"
       },
       "artists": [
         {
-          "name": "Yello",
-          "url": "https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi"
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
         }
       ],
-      "duration_ms": 187071,
-      "name": "Break Out",
-      "url": "https://open.spotify.com/track/05rR2TFxYVNvUtN33ZK6FR"
+      "duration_ms": 514599,
+      "name": "Looking for the Happy - Bright-Side Mix",
+      "url": "https://open.spotify.com/track/4Fia44xhsPjGBzlddpOYYk"
+    },
+    {
+      "added_at": "2026-08-28 04:00:00",
+      "album": {
+        "name": "40 Years Of Fuckin' Up: Soundtrack + Score",
+        "url": "https://open.spotify.com/album/5hM0luqn90CkruMS90At60"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "We Did It Our Way (live 10/6/24)",
+      "url": "https://open.spotify.com/track/1hSbFDblQ8H7fYrDtMhYaQ"
     },
     {
       "added_at": "2026-08-28 04:00:00",
@@ -475,22 +491,6 @@
       "duration_ms": 88386,
       "name": "3 German Dances, K. 605: No. 2 in G Major",
       "url": "https://open.spotify.com/track/2PIaxB1kbLUgD1aDJkWw3W"
-    },
-    {
-      "added_at": "2026-08-28 04:00:00",
-      "album": {
-        "name": "Looking for the Happy (Bright-Side Mix)",
-        "url": "https://open.spotify.com/album/0OeCIZk631vMKnySqvfeuR"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 514599,
-      "name": "Looking for the Happy - Bright-Side Mix",
-      "url": "https://open.spotify.com/track/4Fia44xhsPjGBzlddpOYYk"
     },
     {
       "added_at": "2026-08-28 04:00:00",
@@ -547,42 +547,6 @@
     {
       "added_at": "2026-08-28 04:00:00",
       "album": {
-        "name": "NEVER ENOUGH: VERSIONS",
-        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        },
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "CEILING: HAYLEY WILLIAMS VERSION",
-      "url": "https://open.spotify.com/track/5jz3Lk4kb4dgOwIg4HLKxV"
-    },
-    {
-      "added_at": "2026-08-28 04:00:00",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/1N2jcY6I02jznFXjk3HT4y"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 254840,
-      "name": "The Guilty Ones",
-      "url": "https://open.spotify.com/track/3doOvj8wYeeTkw9BQtFEMY"
-    },
-    {
-      "added_at": "2026-08-28 04:00:00",
-      "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/0hlmZj3K8Ruim6lmXMtQ9q"
       },
@@ -615,6 +579,42 @@
     {
       "added_at": "2026-08-28 04:00:00",
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/1N2jcY6I02jznFXjk3HT4y"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 254840,
+      "name": "The Guilty Ones",
+      "url": "https://open.spotify.com/track/3doOvj8wYeeTkw9BQtFEMY"
+    },
+    {
+      "added_at": "2026-08-28 04:00:00",
+      "album": {
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "CEILING: HAYLEY WILLIAMS VERSION",
+      "url": "https://open.spotify.com/track/5jz3Lk4kb4dgOwIg4HLKxV"
+    },
+    {
+      "added_at": "2026-08-28 04:00:00",
+      "album": {
         "name": "Vyraj",
         "url": "https://open.spotify.com/album/26SJBKDcb92tw0eCRt8pV0"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 420500,
       "name": "Veha",
       "url": "https://open.spotify.com/track/1bUS3mpCdYooZy3whov58j"
-    },
-    {
-      "added_at": "2026-08-28 04:00:00",
-      "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/4gpQHITIKf01iFm9gtcmLA"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Wolfe",
-          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
-        }
-      ],
-      "duration_ms": 197285,
-      "name": "Seethe",
-      "url": "https://open.spotify.com/track/0ZEUKsXOlocU6IPJmx7exQ"
     },
     {
       "added_at": "2026-08-28 04:00:00",
@@ -679,6 +663,22 @@
     {
       "added_at": "2026-08-28 04:00:00",
       "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/4gpQHITIKf01iFm9gtcmLA"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "duration_ms": 197285,
+      "name": "Seethe",
+      "url": "https://open.spotify.com/track/0ZEUKsXOlocU6IPJmx7exQ"
+    },
+    {
+      "added_at": "2026-08-28 04:00:00",
+      "album": {
         "name": "\u041f\u0415\u0421\u041d\u042f \u0420\u0410\u0417\u0411\u041e\u0419\u041d\u0418\u041a\u041e\u0412",
         "url": "https://open.spotify.com/album/3wVoms3idbpgjn0L7CSGLu"
       },
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-08-28 04:00:00",
       "album": {
+        "name": "Solar Will",
+        "url": "https://open.spotify.com/album/2QSu5aGc6EcfjTjQedZO5W"
+      },
+      "artists": [
+        {
+          "name": "Enslaved",
+          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+        }
+      ],
+      "duration_ms": 279040,
+      "name": "Solar Will",
+      "url": "https://open.spotify.com/track/7vK8MwPgzAHyEKphAdBarr"
+    },
+    {
+      "added_at": "2026-08-28 04:00:00",
+      "album": {
         "name": "Black Leather Jacket & Sunburn",
         "url": "https://open.spotify.com/album/5KIcf1soaak14S3jrdaG7G"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 143750,
       "name": "Black Leather Jacket",
       "url": "https://open.spotify.com/track/5yj8iyep78B8OSrxHXotAY"
-    },
-    {
-      "added_at": "2026-08-28 04:00:00",
-      "album": {
-        "name": "Solar Will",
-        "url": "https://open.spotify.com/album/2QSu5aGc6EcfjTjQedZO5W"
-      },
-      "artists": [
-        {
-          "name": "Enslaved",
-          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
-        }
-      ],
-      "duration_ms": 279040,
-      "name": "Solar Will",
-      "url": "https://open.spotify.com/track/7vK8MwPgzAHyEKphAdBarr"
     },
     {
       "added_at": "2026-08-28 04:00:00",
@@ -783,18 +783,34 @@
     {
       "added_at": "2026-08-28 04:00:00",
       "album": {
-        "name": "J-Tull Dot Com: Another Cast Of The Net (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1nwO76WUbWilSxXUgE5IJ7"
+        "name": "Destroys Anaheim '76 (Live At Anaheim Stadium, Anaheim, California - August 20, 1976)",
+        "url": "https://open.spotify.com/album/38kwdYj279Us2qhMW0sMp1"
       },
       "artists": [
         {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 266550,
-      "name": "Dot Com - 2026 Remix",
-      "url": "https://open.spotify.com/track/1FZOb6POJUAxkSbXMvWTrS"
+      "duration_ms": 217320,
+      "name": "Peter Criss Drum Solo / God Of Thunder - Live at Anaheim Stadium, Anaheim, California - August 20, 1976",
+      "url": "https://open.spotify.com/track/1WLCEV65lrULhDoYBoN7qG"
+    },
+    {
+      "added_at": "2026-08-28 04:00:00",
+      "album": {
+        "name": "CHAIKA",
+        "url": "https://open.spotify.com/album/2FAcojfJQzmTsx7OISawK2"
+      },
+      "artists": [
+        {
+          "name": "Pussy Riot",
+          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "CHAIKA",
+      "url": "https://open.spotify.com/track/0GqM4O8rhl69yiQw2pCxAc"
     },
     {
       "added_at": "2026-08-28 04:00:00",
@@ -815,22 +831,6 @@
     {
       "added_at": "2026-08-28 04:00:00",
       "album": {
-        "name": "Destroys Anaheim '76 (Live At Anaheim Stadium, Anaheim, California - August 20, 1976)",
-        "url": "https://open.spotify.com/album/38kwdYj279Us2qhMW0sMp1"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "Peter Criss Drum Solo / God Of Thunder - Live at Anaheim Stadium, Anaheim, California - August 20, 1976",
-      "url": "https://open.spotify.com/track/1WLCEV65lrULhDoYBoN7qG"
-    },
-    {
-      "added_at": "2026-08-28 04:00:00",
-      "album": {
         "name": "Shadowban",
         "url": "https://open.spotify.com/album/7yWjhVYAvgCcB8k4APqxKR"
       },
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-08-28 04:00:00",
       "album": {
-        "name": "CHAIKA",
-        "url": "https://open.spotify.com/album/2FAcojfJQzmTsx7OISawK2"
+        "name": "J-Tull Dot Com: Another Cast Of The Net (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nwO76WUbWilSxXUgE5IJ7"
       },
       "artists": [
         {
-          "name": "Pussy Riot",
-          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
         }
       ],
-      "duration_ms": 253000,
-      "name": "CHAIKA",
-      "url": "https://open.spotify.com/track/0GqM4O8rhl69yiQw2pCxAc"
+      "duration_ms": 266550,
+      "name": "Dot Com - 2026 Remix",
+      "url": "https://open.spotify.com/track/1FZOb6POJUAxkSbXMvWTrS"
     },
     {
       "added_at": "2026-08-28 04:00:00",
@@ -1027,38 +1027,6 @@
     {
       "added_at": "2026-08-28 04:00:00",
       "album": {
-        "name": "Tomorrow Never Knows (Outtake)",
-        "url": "https://open.spotify.com/album/3m2EjQxk9IRrrrlae3MjJj"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 248386,
-      "name": "Tomorrow Never Knows - Outtake",
-      "url": "https://open.spotify.com/track/0CtOeZTDXN1wp111JPmSId"
-    },
-    {
-      "added_at": "2026-08-28 04:00:00",
-      "album": {
-        "name": "Katy Bar the Door / Living Undercover",
-        "url": "https://open.spotify.com/album/68cC5stW1SQBptOMnywDbs"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 205202,
-      "name": "Katy Bar the Door",
-      "url": "https://open.spotify.com/track/3VApbvq1y9u4VgV8GxXN5i"
-    },
-    {
-      "added_at": "2026-08-28 04:00:00",
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC"
       },
@@ -1071,6 +1039,22 @@
       "duration_ms": 184600,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/1bopIBCYnfkvWuMXVaaugp"
+    },
+    {
+      "added_at": "2026-08-28 04:00:00",
+      "album": {
+        "name": "Tomorrow Never Knows (Outtake)",
+        "url": "https://open.spotify.com/album/3m2EjQxk9IRrrrlae3MjJj"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 248386,
+      "name": "Tomorrow Never Knows - Outtake",
+      "url": "https://open.spotify.com/track/0CtOeZTDXN1wp111JPmSId"
     },
     {
       "added_at": "2026-08-28 04:00:00",
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2026-08-28 04:00:00",
       "album": {
-        "name": "Maneater (RITUAL Version)",
-        "url": "https://open.spotify.com/album/3xXlXmguiTfRYGtPwYYtv9"
+        "name": "Katy Bar the Door / Living Undercover",
+        "url": "https://open.spotify.com/album/68cC5stW1SQBptOMnywDbs"
       },
       "artists": [
         {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 441750,
-      "name": "Maneater - RITUAL Version",
-      "url": "https://open.spotify.com/track/5lRjA4wP2YYDtDtRwlj1Xy"
+      "duration_ms": 205202,
+      "name": "Katy Bar the Door",
+      "url": "https://open.spotify.com/track/3VApbvq1y9u4VgV8GxXN5i"
     },
     {
       "added_at": "2026-08-28 04:00:00",
@@ -1179,6 +1163,26 @@
       "duration_ms": 328036,
       "name": "We Hate",
       "url": "https://open.spotify.com/track/5rtGvgsYJ7ZqteX7q8l7zf"
+    },
+    {
+      "added_at": "2026-08-28 04:00:00",
+      "album": {
+        "name": "Maneater (RITUAL Version)",
+        "url": "https://open.spotify.com/album/0qeAd5ezwscUqFiEzT6rA9"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Adam Tendler",
+          "url": "https://open.spotify.com/artist/6vxBMBXy5hzAW7xO8kDTG5"
+        }
+      ],
+      "duration_ms": 441750,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/1euS7qZQFzj6nXjhwm6dRs"
     },
     {
       "added_at": "2026-08-28 04:00:00",

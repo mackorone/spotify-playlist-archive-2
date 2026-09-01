@@ -502,7 +502,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 158494,
       "name": "Animal",
       "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
@@ -1374,6 +1374,28 @@
       "duration_ms": 137837,
       "name": "Caraibe",
       "url": "https://open.spotify.com/track/1fhlMbJa5XtxbGiqxmRYq8"
+    },
+    {
+      "album": {
+        "name": "CARAIBE",
+        "url": "https://open.spotify.com/album/0KMPfUlLGJN71fzyuBxRfY"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140869,
+      "name": "CARAIBE",
+      "url": "https://open.spotify.com/track/25aZ8v8QmMRHQFrpG5BftI"
     },
     {
       "album": {
@@ -3131,6 +3153,24 @@
     },
     {
       "album": {
+        "name": "Hazolina",
+        "url": "https://open.spotify.com/album/4upj57p63IS1nFebjr0S3E"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Hazolina",
+      "url": "https://open.spotify.com/track/5NMilcHFhhivtUCwqoASI0"
+    },
+    {
+      "album": {
         "name": "Don't Be Dumb",
         "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
       },
@@ -3178,7 +3218,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 140720,
       "name": "Hootie Frutti",
       "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
@@ -5817,6 +5857,24 @@
     },
     {
       "album": {
+        "name": "Simpatica",
+        "url": "https://open.spotify.com/album/16PLrglIu3QHlxZRzYGKuV"
+      },
+      "artists": [
+        {
+          "name": "MADATORRICELLI",
+          "url": "https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133793,
+      "name": "Simpatica",
+      "url": "https://open.spotify.com/track/7rvezbe0QVV6JNUNlSFHiU"
+    },
+    {
+      "album": {
         "name": "Sistem Otoman",
         "url": "https://open.spotify.com/album/7dFahz8soEhpAKNP5lkq1e"
       },
@@ -6742,7 +6800,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 118736,
       "name": "Trag \u00een ea",
       "url": "https://open.spotify.com/track/40TCHpYkSRk6rzJfOSB9Fu"

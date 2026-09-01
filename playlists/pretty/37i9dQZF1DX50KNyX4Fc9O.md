@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Jem Cassar\-Daley
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,781 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,775 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [ORPHEUS](https://open.spotify.com/track/7GxfZNCcvcZQVVNNyojpAJ) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [ORPHEUS](https://open.spotify.com/album/4VYOon2ocn14m34JHiKVd1) | 3:20 |
 | 100 | [Heaven](https://open.spotify.com/track/1lfoj5wpj5GYGDse0rh453) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Heaven](https://open.spotify.com/album/0LpaPfCPzVuQPhN1N8u8dp) | 3:10 |
 
-Snapshot ID: `AAAAAEbeKs/b8e8ZnU3Rs1EuMlMALYyI`
+Snapshot ID: `AAAAAMELPwyMXe4ILK1yx0r0MGG2vztM`

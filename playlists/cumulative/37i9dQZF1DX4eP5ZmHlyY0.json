@@ -5239,6 +5239,24 @@
     },
     {
       "album": {
+        "name": "PHASE 1 : Soft Violence",
+        "url": "https://open.spotify.com/album/6NeiKYzfx8nEgq5RlDqYTG"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "FLOAT",
+      "url": "https://open.spotify.com/track/4W5VNip3sxbyPbpgsaXJTy"
+    },
+    {
+      "album": {
         "name": "FLOW",
         "url": "https://open.spotify.com/album/21CHgBI3l9kBYeAq9Ugawb"
       },
@@ -6309,6 +6327,24 @@
     },
     {
       "album": {
+        "name": "MOMENTUM",
+        "url": "https://open.spotify.com/album/3igTWtujaUjBmGaY3jFg5j"
+      },
+      "artists": [
+        {
+          "name": "timelesz",
+          "url": "https://open.spotify.com/artist/1ZFfhzyXjPvbzSYPlCIwo3"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "GOOD TOGETHER",
+      "url": "https://open.spotify.com/track/1kt8bSbtAJKyE5COtGCn1S"
+    },
+    {
+      "album": {
         "name": "Good Vibes",
         "url": "https://open.spotify.com/album/37FYeIgW29RaVLI9SA2egw"
       },
@@ -6844,7 +6880,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 239324,
       "name": "heal",
       "url": "https://open.spotify.com/track/34kczquuUdb7gLHhZGR8jp"
@@ -11834,7 +11870,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 178400,
       "name": "PERMISSION",
       "url": "https://open.spotify.com/track/4o9rKegcsPEFeLt2TZNNpj"
@@ -14127,6 +14163,24 @@
     },
     {
       "album": {
+        "name": "So Honey",
+        "url": "https://open.spotify.com/album/2P85AehquD1yapP2BvFhcv"
+      },
+      "artists": [
+        {
+          "name": "King & Prince",
+          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186466,
+      "name": "So Honey",
+      "url": "https://open.spotify.com/track/5oAyDEvsfDuirGzjEh3p3D"
+    },
+    {
+      "album": {
         "name": "So Strawberry",
         "url": "https://open.spotify.com/album/1pxxaEGuwHtpdwtIgv99xW"
       },
@@ -15956,7 +16010,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 207013,
       "name": "Tiny Light",
       "url": "https://open.spotify.com/track/0r4WKpapZS9Fit7iJr3XM1"

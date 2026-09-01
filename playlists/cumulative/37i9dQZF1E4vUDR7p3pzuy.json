@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With VELATINE, Whispergun, JUST LIZZY and more",
+  "description": "With VELATINE, JUST LIZZY, Alien Skin and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 257084,
       "name": "ANYTHING",
       "url": "https://open.spotify.com/track/0Ov6hjoZ2e4bCKL6fvyXMz"
@@ -1345,6 +1345,28 @@
     },
     {
       "album": {
+        "name": "Back to Square Two",
+        "url": "https://open.spotify.com/album/0NGNo9zPEEM0zATJDHwKxc"
+      },
+      "artists": [
+        {
+          "name": "Martin Halld\u00e9n",
+          "url": "https://open.spotify.com/artist/2yjTF2jEmq4ESSDBtXEFno"
+        },
+        {
+          "name": "Drift//Code",
+          "url": "https://open.spotify.com/artist/7iU033uEBAGXhH6XouVTe2"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264823,
+      "name": "Back to Square Two",
+      "url": "https://open.spotify.com/track/5kjfpgQYoeayosZdOnGOAd"
+    },
+    {
+      "album": {
         "name": "Welcome back reality",
         "url": "https://open.spotify.com/album/5BZDfb7yGfZwlb5Zvj9BBc"
       },
@@ -1432,7 +1454,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 152842,
       "name": "Bar Fight With Buzz Aldrin (Robo Mix)",
       "url": "https://open.spotify.com/track/2R9SMWdUmCxuzzNlJJgXVV"
@@ -4246,7 +4268,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 192500,
       "name": "d.e.v.i.l.",
       "url": "https://open.spotify.com/track/5PRxkm0gd73d329Qd5b77f"
@@ -4708,7 +4730,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 238500,
       "name": "Decompression",
       "url": "https://open.spotify.com/track/6F5L9UZve0tDqyWdRkTvIT"
@@ -4888,7 +4910,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 259250,
       "name": "Desire",
       "url": "https://open.spotify.com/track/1U7zkwLHRzqtktC47X88Z8"
@@ -6298,7 +6320,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 276372,
       "name": "Family",
       "url": "https://open.spotify.com/track/23Sm5nJOPTD0uXvVE7xu0H"
@@ -8924,7 +8946,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 253384,
       "name": "If Only",
       "url": "https://open.spotify.com/track/0cmDlTOXaIdvvNvFXRKaqf"
@@ -10002,7 +10024,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-31",
+      "date_removed": null,
       "duration_ms": 216774,
       "name": "Keep The Light On",
       "url": "https://open.spotify.com/track/4PAMXOS9J5INQckpSZ8w4u"
@@ -10284,6 +10306,24 @@
       "duration_ms": 169230,
       "name": "Last Life",
       "url": "https://open.spotify.com/track/7tXv1zympQDmUL8eDqfvTn"
+    },
+    {
+      "album": {
+        "name": "Last Transmission Elegy II",
+        "url": "https://open.spotify.com/album/7oeJLVPRddRl8l1TvFrwbL"
+      },
+      "artists": [
+        {
+          "name": "Crimson Boy",
+          "url": "https://open.spotify.com/artist/0jJrR2XRaBncnclXFuK8Tg"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361080,
+      "name": "Last Transmission Elegy II",
+      "url": "https://open.spotify.com/track/015hep8yPIi22IsyZMqMda"
     },
     {
       "album": {
@@ -10814,7 +10854,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-31",
+      "date_removed": null,
       "duration_ms": 250263,
       "name": "Lips Unkissed",
       "url": "https://open.spotify.com/track/6FXW7sFDKnWl8BWX7c9onJ"
@@ -11796,7 +11836,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 219000,
       "name": "Model Behaviour",
       "url": "https://open.spotify.com/track/7cgzFBXhRtgVDupouGXoxg"
@@ -12458,6 +12498,24 @@
       "duration_ms": 342677,
       "name": "New Gods",
       "url": "https://open.spotify.com/track/2LlKZxvBXsdCqGf8TES9xL"
+    },
+    {
+      "album": {
+        "name": "Night / Day",
+        "url": "https://open.spotify.com/album/7pmPhuflYwo2dStPyFRG7w"
+      },
+      "artists": [
+        {
+          "name": "Life In Sodom",
+          "url": "https://open.spotify.com/artist/6DXTJHuAm2hg9YwfGLZXoW"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "Night/Day",
+      "url": "https://open.spotify.com/track/0zLfDNmSw2hCe7V5nsiC7Z"
     },
     {
       "album": {
@@ -14198,7 +14256,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 257678,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/2jFA4wH9BKIIvz1B10zixk"
@@ -15594,7 +15652,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 170624,
       "name": "SKINNY PEOPLE",
       "url": "https://open.spotify.com/track/2jpJ32yjrUcbOhab7Th5d3"
@@ -15648,7 +15706,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-31",
+      "date_removed": null,
       "duration_ms": 212188,
       "name": "Slicer",
       "url": "https://open.spotify.com/track/7CeWB1joj3cQe2udfnrW2B"
@@ -16244,7 +16302,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 210202,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/5fCyLFWKW7V1A3W9I7Ik5E"
@@ -16692,7 +16750,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 210500,
       "name": "Struggle",
       "url": "https://open.spotify.com/track/0LufHqU1K0M08WNNxc5XhG"
@@ -16858,6 +16916,28 @@
       "duration_ms": 238627,
       "name": "Sunset in the Water",
       "url": "https://open.spotify.com/track/1fUvoPPEn8aAZAmgHUnlnU"
+    },
+    {
+      "album": {
+        "name": "Superior Love (The Dark Side)",
+        "url": "https://open.spotify.com/album/734bsGm0QxMgBv1YE0V8oK"
+      },
+      "artists": [
+        {
+          "name": "Sara Noxx",
+          "url": "https://open.spotify.com/artist/7f4A7MBsvMkeAGUBU8YDyy"
+        },
+        {
+          "name": "In My Rosary",
+          "url": "https://open.spotify.com/artist/2uje8zF3gAX0Sn3kha8B0p"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276106,
+      "name": "Superior Love - In My Rosary RMX",
+      "url": "https://open.spotify.com/track/3b6wlNcCCQ4YMjlisaS3A2"
     },
     {
       "album": {
@@ -17042,7 +17122,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 169636,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/7bdOnqywTDMfwJxMx0qwne"
@@ -17314,7 +17394,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 202200,
       "name": "Terrible Years",
       "url": "https://open.spotify.com/track/0RgQugwiDqDzisPTXchxbQ"
@@ -17618,7 +17698,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 273933,
       "name": "The Desert Inside",
       "url": "https://open.spotify.com/track/4YJXajzFrDy7NO9TNYU1Rl"
@@ -17798,7 +17878,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 199636,
       "name": "The Girl In Room 9",
       "url": "https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4"
@@ -19566,7 +19646,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-31",
+      "date_removed": null,
       "duration_ms": 374488,
       "name": "Unexpected Love - The Axiom Divide Remix",
       "url": "https://open.spotify.com/track/64gPgNHLRBTmuQbM5Js9Jf"
@@ -19924,7 +20004,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 361667,
       "name": "Violent Silence - Madrigal Version",
       "url": "https://open.spotify.com/track/5rNMz1EB18xGWBfhDybgxF"
@@ -20734,7 +20814,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 171000,
       "name": "When You're Down",
       "url": "https://open.spotify.com/track/35eCarWbCxKpJD3im0JO65"
@@ -20814,7 +20894,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-31",
+      "date_removed": null,
       "duration_ms": 296045,
       "name": "Where the Stars are Swallowed by the Mist",
       "url": "https://open.spotify.com/track/3KkovUPqM3W0FaBOVSXvyO"
@@ -20850,7 +20930,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 226917,
       "name": "Whisper Park",
       "url": "https://open.spotify.com/track/6cCV0VdbECEBATuTYNXbNC"
@@ -21124,7 +21204,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 150526,
       "name": "Wolves Surrounding Me",
       "url": "https://open.spotify.com/track/1YllL7HsQfFLdlcFfwpiYD"
@@ -21430,7 +21510,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 248647,
       "name": "Your Heart In The Serpent's Mouth",
       "url": "https://open.spotify.com/track/2fJIlr4UNRCDMvusguobiy"

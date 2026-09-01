@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Clarent y Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,201 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,078 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 22 | [SoSo](https://open.spotify.com/track/7Gwy0A0wGYVfgODsUveNmF) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [SoSo](https://open.spotify.com/album/6iCaWHGsD9W3l5vfw3UmyB) | 3:21 |
 | 23 | [CRACK](https://open.spotify.com/track/4N9GQEezDsNG5tYJfNqyCK) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Ante el Umbral del Peligro No Siento Temor](https://open.spotify.com/album/73s0yQJIP64mS3dnvPBxU8) | 3:13 |
 | 24 | [2K16](https://open.spotify.com/track/7ltPg1coX21JZpLGgxy6yL) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Chino El Gorila](https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6), [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3), [Jose Dolche](https://open.spotify.com/artist/52wmMMnrrpKH0caPjpTiUy) | [2K16](https://open.spotify.com/album/15rFrJKP6Siy00f1Od1tKM) | 3:38 |
-| 25 | [RIÑONERA](https://open.spotify.com/track/4l6rQg6jdbi2mgqIUrSmO9) | [DEUXER](https://open.spotify.com/artist/2mv4oA2PU10YE6FiKlfk5j), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [TALE$](https://open.spotify.com/artist/5w9YZfwWPTeCQn6QEGieIU), [Jotanirk](https://open.spotify.com/artist/4navLg5YCzaGZqidQsxulq), [Templo De La Tinta](https://open.spotify.com/artist/74hAFTEmNfQCRmLlyJIqxf) | [RIÑONERA](https://open.spotify.com/album/3ODsbEqai5VADhw9FR0jJc) | 5:12 |
+| 25 | [RIÑONERA](https://open.spotify.com/track/4l6rQg6jdbi2mgqIUrSmO9) | [DEUXER](https://open.spotify.com/artist/2mv4oA2PU10YE6FiKlfk5j), [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [TALE$](https://open.spotify.com/artist/5w9YZfwWPTeCQn6QEGieIU), [Jotanirk](https://open.spotify.com/artist/4navLg5YCzaGZqidQsxulq), [Templo De La Tinta](https://open.spotify.com/artist/74hAFTEmNfQCRmLlyJIqxf), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [RIÑONERA](https://open.spotify.com/album/3ODsbEqai5VADhw9FR0jJc) | 5:12 |
 | 26 | [Ese Alguien Soy Yo](https://open.spotify.com/track/4yrherdujo8OqdG5p9Vuwa) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64), [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT) | [Yo Solo Quería Divertirme](https://open.spotify.com/album/2ND26lhhl4JSbIOVgJiY42) | 2:43 |
 | 27 | [Punta Plana](https://open.spotify.com/track/0Ou9WqiY7r3JIc0RffsMM5) | [Rj Music](https://open.spotify.com/artist/5MTwkB3FfqrMhhO44DjmXo), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [OGX](https://open.spotify.com/artist/4GaH5HtXFvfj0kMqv0UTqP) | [Punta Plana](https://open.spotify.com/album/5982XB51TicuIvik6tSJBH) | 2:10 |
 | 28 | [VIAJE DE IDA](https://open.spotify.com/track/4oohl0TadKcQKm2J0zBmip) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [VIAJE DE IDA](https://open.spotify.com/album/6kf6WGzdT5ce45lsImaCLh) | 1:50 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 54 | [Umami](https://open.spotify.com/track/17icVfibca9F7l88wcXzrs) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0), [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [La Criminal EP](https://open.spotify.com/album/3CbdSetzq97CEk0MRfHliP) | 2:38 |
 | 55 | [DIAMANTE](https://open.spotify.com/track/6DpDkYO9fI2oXflqgatc7N) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [DIAMANTE](https://open.spotify.com/album/4HMHIyCFtXsgV5siFS8rBK) | 2:41 |
 
-Snapshot ID: `AAAAAIlk+ey1iC+sO+Pgt5cmIWHMa6Be`
+Snapshot ID: `AAAAAFUoaHF4MfXDhO61NC7NSZR0A//Y`

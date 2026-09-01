@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Wine Lips
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,773 likes - 131 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,763 likes - 131 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 130 | [If You Don't Know](https://open.spotify.com/track/1jeIkTzDvre9dyh1Zekume) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [If You Don't Know](https://open.spotify.com/album/3hwJnG7iBzdR3OWsfEZP15) | 3:14 |
 | 131 | [Unforgiven](https://open.spotify.com/track/12BoCZELfYcQmqGVyMuR42) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql) | [Unforgiven](https://open.spotify.com/album/4T645Im7q24AE4AkWXz5eN) | 2:41 |
 
-Snapshot ID: `AAAAAGkj0hNj+qWW5DYSuuIhsVge0OXK`
+Snapshot ID: `AAAAAEyEvCj5N7A1PYIqwXqpc3iIszIF`

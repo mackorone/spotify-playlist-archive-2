@@ -1,12 +1,12 @@
 {
   "description": "Timeless & classic Arabic songs. Cover: Warda",
-  "num_followers": 121153,
+  "num_followers": 121225,
   "original_name": "Arabic Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIl96EIUwD+JsSz5WniPqmR8wOxI",
+  "snapshot_id": "AAAAAPtE40ImrGgM0r4dEm8eKJe9ng1c",
   "tracks": [
     {
       "added_at": "2025-09-15 06:53:21",
@@ -467,26 +467,6 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Best of Salwa El Katrib, Vol. 1",
-        "url": "https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ"
-      },
-      "artists": [
-        {
-          "name": "Salwa El Katrib",
-          "url": "https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX"
-        },
-        {
-          "name": "Romeo Lahoud",
-          "url": "https://open.spotify.com/artist/35q5pUUhyxCWdRVDTaAOta"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Khedni Maak Aa Darb Bi'ldi",
-      "url": "https://open.spotify.com/track/6casyhTmAvFtnQ3tRaXR2x"
-    },
-    {
-      "added_at": "2025-09-15 06:53:21",
-      "album": {
         "name": "Master of Andalusian Folklore: Traditional Syrian Songs",
         "url": "https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN"
       },
@@ -499,6 +479,22 @@
       "duration_ms": 160413,
       "name": "Ya Tera Tiri",
       "url": "https://open.spotify.com/track/2jhP3W3ihZZ5VqBtYWtAoJ"
+    },
+    {
+      "added_at": "2025-09-15 06:53:21",
+      "album": {
+        "name": "Badak Maleoun Seneh",
+        "url": "https://open.spotify.com/album/3eKEfWOZfH5PcwMFvSW7Va"
+      },
+      "artists": [
+        {
+          "name": "Melhem Barakat",
+          "url": "https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS"
+        }
+      ],
+      "duration_ms": 954506,
+      "name": "Ala Babee Waqef Qamaren",
+      "url": "https://open.spotify.com/track/5AmP3h3zhDQcte3kz4z2Ts"
     },
     {
       "added_at": "2025-09-15 06:53:21",
@@ -519,18 +515,22 @@
     {
       "added_at": "2025-09-15 06:53:21",
       "album": {
-        "name": "Badak Maleoun Seneh",
-        "url": "https://open.spotify.com/album/3eKEfWOZfH5PcwMFvSW7Va"
+        "name": "Best of Salwa El Katrib, Vol. 1",
+        "url": "https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ"
       },
       "artists": [
         {
-          "name": "Melhem Barakat",
-          "url": "https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS"
+          "name": "Salwa El Katrib",
+          "url": "https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX"
+        },
+        {
+          "name": "Romeo Lahoud",
+          "url": "https://open.spotify.com/artist/35q5pUUhyxCWdRVDTaAOta"
         }
       ],
-      "duration_ms": 954506,
-      "name": "Ala Babee Waqef Qamaren",
-      "url": "https://open.spotify.com/track/5AmP3h3zhDQcte3kz4z2Ts"
+      "duration_ms": 254640,
+      "name": "Khedni Maak Aa Darb Bi'ldi",
+      "url": "https://open.spotify.com/track/6casyhTmAvFtnQ3tRaXR2x"
     },
     {
       "added_at": "2025-09-15 06:53:21",

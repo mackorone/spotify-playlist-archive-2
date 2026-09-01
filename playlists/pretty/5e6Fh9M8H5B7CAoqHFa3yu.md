@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 353 likes - 2,579 songs - 6 day 7 hr 33 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 354 likes - 2,581 songs - 6 day 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2587,5 +2587,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2577 | [The Phone Is Ringing](https://open.spotify.com/track/5RTZ39YVYROLnWXXDWnyNd) | [Abis](https://open.spotify.com/artist/6pFKneaoODjrgYVkBbfynT) | [Better Alone](https://open.spotify.com/album/2pdlJucE9OATbt5B0FD9Oi) | 2:45 |
 | 2578 | [Santorini at Night](https://open.spotify.com/track/1bafg2GBWeQ0ygCxgC4SlH) | [Valenti & Blanda](https://open.spotify.com/artist/6GuZuT7ZlXzoVKypl18jmW) | [Santorini at Night](https://open.spotify.com/album/6w9P7SnVwGaul47z3kJsGK) | 3:19 |
 | 2579 | [California](https://open.spotify.com/track/09OFR9iPwfmurnjRF9fdoK) | [Yellstone](https://open.spotify.com/artist/0ZKMOq56KamtscCLIl8Lah) | [California](https://open.spotify.com/album/0DOx3oinReFPZfQOGuSZGD) | 3:01 |
+| 2580 | [Hotel Soldiers](https://open.spotify.com/track/5GHYWH6OT5v4Dt7LxSFLM0) | [Strawberry Nixon](https://open.spotify.com/artist/4Y4LMJUmLARW4fZyAgdEar) | [Hotel Soldiers](https://open.spotify.com/album/6mhJwuECI8D8T7PzpHHLOV) | 4:39 |
+| 2581 | [Freedom](https://open.spotify.com/track/4moi33G2vY0DKA9IcV6qM0) | [Massimo Nanni](https://open.spotify.com/artist/4o6YNcdXASjXIRfOpIxhWg) | [Freedom](https://open.spotify.com/album/0QSJVTRHjdETxzD0RaNpX1) | 4:18 |
 
-Snapshot ID: `AAALBIbBawOL3+kZPjIgo65/I1b8iX72`
+Snapshot ID: `AAALBrR4xjWERPewllS3JxFo0hfdqr+3`

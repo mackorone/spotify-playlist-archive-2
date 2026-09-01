@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Ezra Collective
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,049,743 likes - 100 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,049,756 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 29 | [Beacon of Hope](https://open.spotify.com/track/6eGDP2ObBt7zbVVUT0tJJQ) | [Patrick Bartley's DREAMWEAVER](https://open.spotify.com/artist/45IuizDJd1YiVjX9xfAnZ2) | [Beacon of Hope](https://open.spotify.com/album/1rqWvNwq3Td19FoYuifs6O) | 10:25 |
 | 30 | [Gospel Andante](https://open.spotify.com/track/3Z72TmFgNcyvTL83UFEkSn) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Gospel Andante](https://open.spotify.com/album/6Tthu3vwUNiZisIQnNq0hX) | 3:55 |
 | 31 | [royal sun](https://open.spotify.com/track/56YZ4McOSFa1HrgxlBOfVq) | [Ferdi](https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [royal sun](https://open.spotify.com/album/6yOF6McJwNb33KsPq4SlXJ) | 2:43 |
-| 32 | [BRING THE LIGHT](https://open.spotify.com/track/6ugeNh75lWjctHoK42oAF0) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Weedie Braimah](https://open.spotify.com/artist/0gNcTRfbjxxOdXxSCoXluo), [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j) | [BRING THE LIGHT](https://open.spotify.com/album/0yRhKkzF6PP50XGNsML1AR) | 4:43 |
+| 32 | [BRING THE LIGHT](https://open.spotify.com/track/6ugeNh75lWjctHoK42oAF0) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Weedie Braimah](https://open.spotify.com/artist/0gNcTRfbjxxOdXxSCoXluo), [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [BRING THE LIGHT](https://open.spotify.com/album/0yRhKkzF6PP50XGNsML1AR) | 4:43 |
 | 33 | [SNEAKPEAK feat\. Shing02](https://open.spotify.com/track/38T3zfs1KtdNCbRPCRjC9H) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [SNEAKPEAK feat\. Shing02](https://open.spotify.com/album/4T8yFAKBzi7HfUCpaph1sC) | 3:39 |
 | 34 | [Ḽiṅwalo ḽa Mubebi](https://open.spotify.com/track/3svg2F1ZsOxF2CIL4AAngt) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [The Myth We Choose](https://open.spotify.com/album/0MLGCKPzliFC2fEkqhihYw) | 6:22 |
 | 35 | [So You Want to Be A Woman](https://open.spotify.com/track/3N1wQ3ZV7dgNWQRIuNBtEE) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [Lakecia Benjamin](https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul) | [So You Want to Be A Woman](https://open.spotify.com/album/2HGDzWpl0IXcUHaDxymfVx) | 4:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Right Now](https://open.spotify.com/track/0T9wiilTLGNYM93dpA7jfU) | [Lakecia Benjamin](https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [We Dream](https://open.spotify.com/album/6ULTWL9XExl7eMKzoWatE7) | 5:07 |
 | 100 | [Code 4 Kryptos](https://open.spotify.com/track/6w1hwaeAntChTW6qwpPRXW) | [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy), [Alex Sill](https://open.spotify.com/artist/77ggULPl8qUaf8MubyoFLs), [Phillip Whack](https://open.spotify.com/artist/4lnvZfKIPepTetpaKdBn86) | [Protocol 6](https://open.spotify.com/album/4PhTGmr0tfgaIOaNp3jobH) | 6:11 |
 
-Snapshot ID: `AAAAALf3fb1mcnS7y95MRkHmVkYaEh3l`
+Snapshot ID: `AAAAANra3dRzmEVo/2CO+jDpycHdh63m`

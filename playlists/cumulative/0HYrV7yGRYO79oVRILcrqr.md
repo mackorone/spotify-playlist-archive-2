@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-705 songs - 1 day 19 hr 53 min
+707 songs - 1 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Besándonos](https://open.spotify.com/track/4OKsfv1MEH1PqIDt81w6Sa) | [EnRockecidos](https://open.spotify.com/artist/6j4BNmLmFMCkyszhxBDdnr) | [Lo que cuentan las aceras](https://open.spotify.com/album/2iJvyNUu7kiIpLz8WxmFaX) | 3:36 | 2026-01-16 | 2026-03-18 |
 | [Big Dick Boogie](https://open.spotify.com/track/76x8P66beazlp4BtXaGXpn) | [Hot Molluscs](https://open.spotify.com/artist/3m3ppkQCBHSbev6IHIG8XY) | [The Smelly Sound of Hot Molluscs](https://open.spotify.com/album/0Tby9AMVwYQoUGY7LpwDaZ) | 1:24 | 2026-04-01 | 2026-04-21 |
 | [Big Momma's Door](https://open.spotify.com/track/7E1RuXLuvhrfr42uvYe3lj) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [The Way We Roll](https://open.spotify.com/album/1QkiIps2aHo0aqkw3xWukw) | 5:13 | 2026-04-23 | 2026-06-25 |
+| [Big Time](https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Big Time](https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF) | 2:40 | 2026-08-31 |  |
 | [Bitch \- Live](https://open.spotify.com/track/2u5Kvn12kWyOzL9D6aWXRb) | [The Jay Howie Trio](https://open.spotify.com/artist/3oxYJ2fyfQDUvmf4N3bCkh), [Jay Howie](https://open.spotify.com/artist/3eeXaYeN8szJWw3ziUOWdD) | [Live in Halls Gap](https://open.spotify.com/album/7bZM8wuUwI8adikXR78mrW) | 3:07 | 2026-04-23 | 2026-06-25 |
 | [Blacktop and Burnt Rubber](https://open.spotify.com/track/4YJorBOy38zLV1KaoBSDYA) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 3:16 | 2026-03-16 | 2026-04-21 |
 | [Blacktop Mojo](https://open.spotify.com/track/1YUuT3I4JDrFi24YwJQ0xS) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Echos From The Mountains](https://open.spotify.com/album/06rsDsZw8cpL50L92qtRmT) | 3:48 | 2026-01-27 | 2026-03-18 |
@@ -388,6 +389,7 @@
 | [Message Through Time](https://open.spotify.com/track/4BPrHDgqGxnWANdMphAbNQ) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Message Through Time](https://open.spotify.com/album/45LoKgIdcZiDUrx7V5HbuC) | 5:21 | 2025-11-02 | 2025-12-17 |
 | [Mi memoria](https://open.spotify.com/track/5Thy4BzMaNWgj0Z3RlGHfw) | [Gal Baliero](https://open.spotify.com/artist/3IuWLDPy58I11hj2tOsn7M), [Isaac Gomez](https://open.spotify.com/artist/6OP5rawJOEJ3SGN6up8zOW), [Jacksa Suazo](https://open.spotify.com/artist/7rwpfamWDwfJ6F26zue6LV), [Banda Pope Joan](https://open.spotify.com/artist/1xG6VbKG0O3HUAhbu6UbR5) | [Pope Joan Sinfónico](https://open.spotify.com/album/2TvI5ziSqPflqifuBbcQbf) | 3:55 | 2026-06-13 | 2026-06-25 |
 | [Mi Porción Del Cielo](https://open.spotify.com/track/0j2FJ9VZRxyveO8nm28o1p) | [Jimmy Molina](https://open.spotify.com/artist/3mVMWQayvasA1ugv6dy35e) | [Mi Porción Del Cielo](https://open.spotify.com/album/2IcSq6ZZPiJGoaIFBFuAl5) | 2:40 | 2025-12-24 | 2026-03-18 |
+| [Midnight Patrol](https://open.spotify.com/track/7ifVeohjksbPzebDHd6lZs) | [Sage Ironheart](https://open.spotify.com/artist/6i2Btj5JPkCHG2JfXjjsae) | [Midnight Patrol](https://open.spotify.com/album/5CmPSQVLr5AROqpNzLu6cJ) | 5:04 | 2026-08-31 |  |
 | [MIDNIGHT WHEELS](https://open.spotify.com/track/3OWpxlReVR8TdHPhAQyxY9) | [MARYLANE](https://open.spotify.com/artist/5r45fyB9QJhHBZHinKcqyY) | [MIDNIGHT WHEELS](https://open.spotify.com/album/221cfYszp8e0WF8ltJp5Ns) | 4:38 | 2026-05-24 | 2026-07-20 |
 | [Might](https://open.spotify.com/track/29tEoaOohhs9T5KzL5nwSp) | [CousinRay](https://open.spotify.com/artist/1a6zRnXwYNfgmQwGCe7aZZ), [Drew Nold](https://open.spotify.com/artist/33aaruu0jaWNP2jmw03YL9), [Steam Slicer](https://open.spotify.com/artist/1BrdiIVdlnhJZRJkLCb5TI) | [Might](https://open.spotify.com/album/3kzrk1s5s52bPX4RJlXBme) | 4:00 | 2025-09-30 | 2025-12-17 |
 | [MIRROR MAZE](https://open.spotify.com/track/7osshrygoODrSdnKQWn60r) | [MARYLANE](https://open.spotify.com/artist/5r45fyB9QJhHBZHinKcqyY) | [MIRROR MAZE](https://open.spotify.com/album/6dH2T4qLjozTTG6OKceUo1) | 4:25 | 2026-06-28 | 2026-07-20 |

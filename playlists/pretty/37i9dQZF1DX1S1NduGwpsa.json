@@ -1,12 +1,12 @@
 {
   "description": "The best jazz new releases. Cover: Bolden.",
-  "num_followers": 166265,
+  "num_followers": 166306,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKD+ovDd5nDln2zLvb8xcYtZfk5u",
+  "snapshot_id": "AAAAADTznSaQmxRlSfTUKJjAKjlzC5nV",
   "tracks": [
     {
       "added_at": "2026-08-28 04:01:42",
@@ -504,10 +504,6 @@
           "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
         },
         {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
-        },
-        {
           "name": "Anthony Evans",
           "url": "https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV"
         },
@@ -526,6 +522,10 @@
         {
           "name": "MonoNeon",
           "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
+        },
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
         }
       ],
       "duration_ms": 283000,

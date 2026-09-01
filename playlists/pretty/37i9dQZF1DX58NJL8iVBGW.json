@@ -1,12 +1,12 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 820092,
+  "num_followers": 820150,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANnFgcRR65TdcFQs04+7QK0vyuPJ",
+  "snapshot_id": "AAAAAGp1V7XYG1V3R6muUxMms+U1nmem",
   "tracks": [
     {
       "added_at": "2026-08-28 04:01:02",
@@ -487,6 +487,26 @@
     {
       "added_at": "2026-08-28 04:01:02",
       "album": {
+        "name": "PHTHALO",
+        "url": "https://open.spotify.com/album/24IlLpP9lmcbGWNVFcAUyg"
+      },
+      "artists": [
+        {
+          "name": "Rabbitology",
+          "url": "https://open.spotify.com/artist/5FHvHqIRjr9ePQ3B1kwoEO"
+        },
+        {
+          "name": "Marcus Quintana",
+          "url": "https://open.spotify.com/artist/38qdZMLzuzs2mRPzoNGfPW"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "The Glowing",
+      "url": "https://open.spotify.com/track/1ZOSoprOOKyOvlSOw1sV5V"
+    },
+    {
+      "added_at": "2026-08-28 04:01:02",
+      "album": {
         "name": "Black Is the Color",
         "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
       },
@@ -519,22 +539,6 @@
     {
       "added_at": "2026-08-28 04:01:02",
       "album": {
-        "name": "How To Act",
-        "url": "https://open.spotify.com/album/1pXMpwXyCzaZAWnqRpkGFE"
-      },
-      "artists": [
-        {
-          "name": "Goodnight, Texas",
-          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
-        }
-      ],
-      "duration_ms": 221104,
-      "name": "How To Act",
-      "url": "https://open.spotify.com/track/3N5aJgsAM0VQIQ5vEyS8HX"
-    },
-    {
-      "added_at": "2026-08-28 04:01:02",
-      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -547,6 +551,22 @@
       "duration_ms": 156106,
       "name": "Hades Pleads",
       "url": "https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz"
+    },
+    {
+      "added_at": "2026-08-28 04:01:02",
+      "album": {
+        "name": "How To Act",
+        "url": "https://open.spotify.com/album/1pXMpwXyCzaZAWnqRpkGFE"
+      },
+      "artists": [
+        {
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+        }
+      ],
+      "duration_ms": 221104,
+      "name": "How To Act",
+      "url": "https://open.spotify.com/track/3N5aJgsAM0VQIQ5vEyS8HX"
     },
     {
       "added_at": "2026-08-28 04:01:02",
@@ -583,22 +603,18 @@
     {
       "added_at": "2026-08-28 04:01:02",
       "album": {
-        "name": "PHTHALO",
-        "url": "https://open.spotify.com/album/24IlLpP9lmcbGWNVFcAUyg"
+        "name": "Open Up Your Mind",
+        "url": "https://open.spotify.com/album/7AjDfTvIIbRpaByE5zkFgG"
       },
       "artists": [
         {
-          "name": "Rabbitology",
-          "url": "https://open.spotify.com/artist/5FHvHqIRjr9ePQ3B1kwoEO"
-        },
-        {
-          "name": "Marcus Quintana",
-          "url": "https://open.spotify.com/artist/38qdZMLzuzs2mRPzoNGfPW"
+          "name": "Avi Kaplan",
+          "url": "https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p"
         }
       ],
-      "duration_ms": 212500,
-      "name": "The Glowing",
-      "url": "https://open.spotify.com/track/1ZOSoprOOKyOvlSOw1sV5V"
+      "duration_ms": 184178,
+      "name": "Open Up Your Mind",
+      "url": "https://open.spotify.com/track/1YRGRLjCWNlwnmU5spyolO"
     },
     {
       "added_at": "2026-08-28 04:01:02",
@@ -651,22 +667,6 @@
     {
       "added_at": "2026-08-28 04:01:02",
       "album": {
-        "name": "Open Up Your Mind",
-        "url": "https://open.spotify.com/album/7AjDfTvIIbRpaByE5zkFgG"
-      },
-      "artists": [
-        {
-          "name": "Avi Kaplan",
-          "url": "https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p"
-        }
-      ],
-      "duration_ms": 184178,
-      "name": "Open Up Your Mind",
-      "url": "https://open.spotify.com/track/1YRGRLjCWNlwnmU5spyolO"
-    },
-    {
-      "added_at": "2026-08-28 04:01:02",
-      "album": {
         "name": "Outside Child",
         "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-08-28 04:01:02",
       "album": {
+        "name": "Leaving The Zoo",
+        "url": "https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf"
+      },
+      "artists": [
+        {
+          "name": "Renny Conti",
+          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
+        }
+      ],
+      "duration_ms": 323341,
+      "name": "Leaving The Zoo",
+      "url": "https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF"
+    },
+    {
+      "added_at": "2026-08-28 04:01:02",
+      "album": {
         "name": "A Blooming Body",
         "url": "https://open.spotify.com/album/3HrIhOs6N3qLz52crWhspQ"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 150293,
       "name": "Things That Scare Me",
       "url": "https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo"
-    },
-    {
-      "added_at": "2026-08-28 04:01:02",
-      "album": {
-        "name": "Leaving The Zoo",
-        "url": "https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf"
-      },
-      "artists": [
-        {
-          "name": "Renny Conti",
-          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
-        }
-      ],
-      "duration_ms": 323341,
-      "name": "Leaving The Zoo",
-      "url": "https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF"
     },
     {
       "added_at": "2026-08-28 04:01:02",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-08-28 04:01:02",
       "album": {
+        "name": "Dark Feathers",
+        "url": "https://open.spotify.com/album/1lSnurE1qrHG1rai2ps8CK"
+      },
+      "artists": [
+        {
+          "name": "Renee Christine",
+          "url": "https://open.spotify.com/artist/1VGSv0y30R6THoFPMiccx2"
+        }
+      ],
+      "duration_ms": 237115,
+      "name": "Dark Feathers",
+      "url": "https://open.spotify.com/track/3ron5Rg6TcEC2eIHzhoMK5"
+    },
+    {
+      "added_at": "2026-08-28 04:01:02",
+      "album": {
         "name": "Billy Jack",
         "url": "https://open.spotify.com/album/30WtXdVFAmiTnuVn5WheWf"
       },
@@ -827,22 +843,6 @@
     {
       "added_at": "2026-08-28 04:01:02",
       "album": {
-        "name": "The Dirty River Boys",
-        "url": "https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5"
-      },
-      "artists": [
-        {
-          "name": "The Dirty River Boys",
-          "url": "https://open.spotify.com/artist/5G3roNfDuGmWf5cL3L3z2b"
-        }
-      ],
-      "duration_ms": 214040,
-      "name": "Down by the River",
-      "url": "https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn"
-    },
-    {
-      "added_at": "2026-08-28 04:01:02",
-      "album": {
         "name": "Another Man\u02bcs Grave",
         "url": "https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 188677,
       "name": "Another Man\u02bcs Grave",
       "url": "https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI"
+    },
+    {
+      "added_at": "2026-08-28 04:01:02",
+      "album": {
+        "name": "The Dirty River Boys",
+        "url": "https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5"
+      },
+      "artists": [
+        {
+          "name": "The Dirty River Boys",
+          "url": "https://open.spotify.com/artist/5G3roNfDuGmWf5cL3L3z2b"
+        }
+      ],
+      "duration_ms": 214040,
+      "name": "Down by the River",
+      "url": "https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn"
     },
     {
       "added_at": "2026-08-28 04:01:02",
@@ -927,22 +943,6 @@
     {
       "added_at": "2026-08-28 04:01:02",
       "album": {
-        "name": "Dark Feathers",
-        "url": "https://open.spotify.com/album/1lSnurE1qrHG1rai2ps8CK"
-      },
-      "artists": [
-        {
-          "name": "Renee Christine",
-          "url": "https://open.spotify.com/artist/1VGSv0y30R6THoFPMiccx2"
-        }
-      ],
-      "duration_ms": 237115,
-      "name": "Dark Feathers",
-      "url": "https://open.spotify.com/track/3ron5Rg6TcEC2eIHzhoMK5"
-    },
-    {
-      "added_at": "2026-08-28 04:01:02",
-      "album": {
         "name": "Magnolia Blues",
         "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
       },
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-08-28 04:01:02",
       "album": {
-        "name": "Tin Type",
-        "url": "https://open.spotify.com/album/1dA2zNQJAgjd7ZO06wZqiu"
-      },
-      "artists": [
-        {
-          "name": "Elliott BROOD",
-          "url": "https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ"
-        }
-      ],
-      "duration_ms": 194493,
-      "name": "Cadillac Dust",
-      "url": "https://open.spotify.com/track/6EqH6OTtC3KMxRsU2OGF9A"
-    },
-    {
-      "added_at": "2026-08-28 04:01:02",
-      "album": {
         "name": "Look Homeward",
         "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 173346,
       "name": "Sister Death",
       "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
+    },
+    {
+      "added_at": "2026-08-28 04:01:02",
+      "album": {
+        "name": "Tin Type",
+        "url": "https://open.spotify.com/album/1dA2zNQJAgjd7ZO06wZqiu"
+      },
+      "artists": [
+        {
+          "name": "Elliott BROOD",
+          "url": "https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ"
+        }
+      ],
+      "duration_ms": 194493,
+      "name": "Cadillac Dust",
+      "url": "https://open.spotify.com/track/6EqH6OTtC3KMxRsU2OGF9A"
     },
     {
       "added_at": "2026-08-28 04:01:02",
@@ -1035,6 +1035,22 @@
       "duration_ms": 220626,
       "name": "Psalms",
       "url": "https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9"
+    },
+    {
+      "added_at": "2026-08-28 04:01:02",
+      "album": {
+        "name": "Alcohol and Adderall",
+        "url": "https://open.spotify.com/album/2ZYFTm2ZvEW1vf66QDc08e"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 212997,
+      "name": "Alcohol and Adderall",
+      "url": "https://open.spotify.com/track/1ineO3ALPgtWDX9Gt5z5Sc"
     },
     {
       "added_at": "2026-08-28 04:01:02",
@@ -1103,22 +1119,6 @@
       "duration_ms": 242153,
       "name": "Pull the Moon",
       "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
-    },
-    {
-      "added_at": "2026-08-28 04:01:02",
-      "album": {
-        "name": "Alcohol and Adderall",
-        "url": "https://open.spotify.com/album/2ZYFTm2ZvEW1vf66QDc08e"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 212997,
-      "name": "Alcohol and Adderall",
-      "url": "https://open.spotify.com/track/1ineO3ALPgtWDX9Gt5z5Sc"
     },
     {
       "added_at": "2026-08-28 04:01:02",

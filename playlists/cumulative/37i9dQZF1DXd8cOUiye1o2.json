@@ -420,7 +420,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 200146,
       "name": "Aankhon Se Tune 2.0 (From \"Bhai Tera Star Hai\")",
       "url": "https://open.spotify.com/track/2l4OgG3H3JPgpz5XYZTY8G"
@@ -2459,6 +2459,28 @@
     },
     {
       "album": {
+        "name": "Barbaad",
+        "url": "https://open.spotify.com/album/5PwYpt7rKxzQl5BpZUlKnu"
+      },
+      "artists": [
+        {
+          "name": "Parmish Verma",
+          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
+        },
+        {
+          "name": "Dishant",
+          "url": "https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173023,
+      "name": "Barbaad",
+      "url": "https://open.spotify.com/track/1ptUKbksd2zRo3bncSqFBV"
+    },
+    {
+      "album": {
         "name": "Barbaad (From \"Saiyaara\")",
         "url": "https://open.spotify.com/album/27wFxpV56Pg7Uxk0GxNfoF"
       },
@@ -2888,6 +2910,32 @@
       "duration_ms": 125783,
       "name": "Beqadaran",
       "url": "https://open.spotify.com/track/6d0gsj7yBS0MqWgIkfVFNG"
+    },
+    {
+      "album": {
+        "name": "Bewafa (From\"Ilzaam 2.0\")",
+        "url": "https://open.spotify.com/album/73ahWMm2g5hpwYijQUPgg0"
+      },
+      "artists": [
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        },
+        {
+          "name": "Isha Malviya",
+          "url": "https://open.spotify.com/artist/2PYWB1a54LJDbMGMpG94HG"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163076,
+      "name": "Bewafa - (From\"Ilzaam 2.0\")",
+      "url": "https://open.spotify.com/track/7CsyFWn2F7B3WTueMVbjFG"
     },
     {
       "album": {
@@ -4422,7 +4470,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 270125,
       "name": "Darmiyaan (From \"Musafir Cafe\")",
       "url": "https://open.spotify.com/track/37JOhPdeecNxkqpfcj1XcX"
@@ -5902,7 +5950,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 190608,
       "name": "Diya Tale Andhera",
       "url": "https://open.spotify.com/track/3jR1fAHqZ2oxzor3j8Ofkv"
@@ -6050,7 +6098,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 209333,
       "name": "Dua",
       "url": "https://open.spotify.com/track/2wrmQ6sj8IJxJ5nrZc1bvU"
@@ -7005,6 +7053,32 @@
     },
     {
       "album": {
+        "name": "Mirzapur The Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Strc5WebWKsRXuN4bl6qH"
+      },
+      "artists": [
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "Ray",
+          "url": "https://open.spotify.com/artist/6SwbsxYcJ1zIxy1b5niCfs"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193767,
+      "name": "Ghoom Ghoom - From \u201cMirzapur The Movie\u201d",
+      "url": "https://open.spotify.com/track/3TZ0uKl0RVbc7vAfcc1Qle"
+    },
+    {
+      "album": {
         "name": "Ghumzada",
         "url": "https://open.spotify.com/album/4kgkIgNAObRaCfmMTUNaFz"
       },
@@ -7637,6 +7711,24 @@
     },
     {
       "album": {
+        "name": "Halki Halki",
+        "url": "https://open.spotify.com/album/2Je64huDcPfZkx7M4jl2VL"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178899,
+      "name": "Halki Halki",
+      "url": "https://open.spotify.com/track/20FVN0wtdqkyhGSIJjr4qz"
+    },
+    {
+      "album": {
         "name": "Halki Halki Nami (From \"Soulmates\")",
         "url": "https://open.spotify.com/album/4FW5qQlIbkrzAy5BolBmJc"
       },
@@ -7928,6 +8020,36 @@
       "duration_ms": 236883,
       "name": "Heeriye",
       "url": "https://open.spotify.com/track/3bFTXIxkkgjZAfth2xRviG"
+    },
+    {
+      "album": {
+        "name": "I'M Game (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4IVPsdeRrwXvbw88w8uVKF"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Brodha V",
+          "url": "https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf"
+        },
+        {
+          "name": "Numan Khoker",
+          "url": "https://open.spotify.com/artist/4fO7c8zDa2INtWHlA6ddaT"
+        },
+        {
+          "name": "Junaid Kumar",
+          "url": "https://open.spotify.com/artist/2JDJv3xcqwBsCjeEL0oSTN"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190322,
+      "name": "High Stakes - From \"I'M Game\"",
+      "url": "https://open.spotify.com/track/7LzhxjQvYd3PTJ8y9x4VSz"
     },
     {
       "album": {
@@ -10568,7 +10690,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 195050,
       "name": "Kaafi Hai Na (From \"Musafir Cafe\")",
       "url": "https://open.spotify.com/track/0PKLIjYe9K78lky2LxUz2P"
@@ -10650,6 +10772,32 @@
       "duration_ms": 255059,
       "name": "Kaamil",
       "url": "https://open.spotify.com/track/2lzQOaqyfyX7x32P9K899T"
+    },
+    {
+      "album": {
+        "name": "Mirzapur The Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Strc5WebWKsRXuN4bl6qH"
+      },
+      "artists": [
+        {
+          "name": "John Stewart Eduri",
+          "url": "https://open.spotify.com/artist/3C27TE3ogOrBaZ2Kvd9QIf"
+        },
+        {
+          "name": "Parry G",
+          "url": "https://open.spotify.com/artist/5LQ1ozi8ndtxAwvy1OuSDK"
+        },
+        {
+          "name": "Suzanne D'Mello",
+          "url": "https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153914,
+      "name": "Kaan Phaad - From \u201cMirzapur The Movie\u201d",
+      "url": "https://open.spotify.com/track/3lGXLUNcEV6C1AfykpRtHI"
     },
     {
       "album": {
@@ -15946,7 +16094,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 204732,
       "name": "Pakki Yaariyan",
       "url": "https://open.spotify.com/track/5031mC2rqyVb8Ggc3CnY4U"
@@ -16544,6 +16692,28 @@
       "duration_ms": 138260,
       "name": "Piya/ I Wanna?",
       "url": "https://open.spotify.com/track/6K4qGIKnv0KV3GSdXnK23O"
+    },
+    {
+      "album": {
+        "name": "Piyarva",
+        "url": "https://open.spotify.com/album/12U91OBAaVIP2XfWprzpST"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Swanand Kirkire",
+          "url": "https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236764,
+      "name": "Piyarva",
+      "url": "https://open.spotify.com/track/3BYmaVffF1sarxYWDzG4HG"
     },
     {
       "album": {
@@ -17266,7 +17436,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 189294,
       "name": "Raat Ka Surma",
       "url": "https://open.spotify.com/track/6CRT6ortJkUtw438v0iB3U"
@@ -21586,7 +21756,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 244030,
       "name": "Toota Rahunga",
       "url": "https://open.spotify.com/track/7280HwHnArYG4X6O8QMLn0"
@@ -24088,6 +24258,28 @@
       "duration_ms": 203392,
       "name": "Yun Hi Kahin",
       "url": "https://open.spotify.com/track/5F4hwTVNZwutsNEG8OPnoJ"
+    },
+    {
+      "album": {
+        "name": "Zaalim Aadatein",
+        "url": "https://open.spotify.com/album/5JBRqHZuG7tV4iFIfZKAWz"
+      },
+      "artists": [
+        {
+          "name": "Goldie Sohel",
+          "url": "https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2026-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198025,
+      "name": "Zaalim Aadatein",
+      "url": "https://open.spotify.com/track/0XE12PfoFYs5cFC7z6GqXL"
     },
     {
       "album": {

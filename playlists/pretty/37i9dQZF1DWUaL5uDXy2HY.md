@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaL5uDXy2HY.md) - [plain]
 
 > Hairdryer, vacuum\-cleaner & other homely sounds to fall asleep with
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,186 likes - 41 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,199 likes - 41 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaL5uDXy2HY.md) - [plain]
 | 40 | [Vacuum Cleaner Fan](https://open.spotify.com/track/2CO2GjM1EFUt8WYVW7ZdDI) | [Elvine](https://open.spotify.com/artist/3udPu5UsIIGPmxUVqhjj2n) | [Hoovers & Vacuum Cleaner Noises](https://open.spotify.com/album/6rg74zQNX3H3iMoxwYMx04) | 3:46 |
 | 41 | [Distant Vacuum Cleaner](https://open.spotify.com/track/74UMFxOMKjO3rKfnIDdsxJ) | [Binaural Recorders](https://open.spotify.com/artist/7hhDQEEcoLGpUSpCbVgSWE) | [Home Cleaning Noises](https://open.spotify.com/album/6bGVwxFGNQ0a0FH75lUxUM) | 3:00 |
 
-Snapshot ID: `AAAAACNwpdZkSZwtcx7h0gEJvY77sjE2`
+Snapshot ID: `AAAAADNwY0AQdAKEvy/Et9irCalcivgH`

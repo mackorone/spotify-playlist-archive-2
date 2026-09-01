@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Abbie Gamboa
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,702 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,720 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Enough](https://open.spotify.com/track/70tgqyj1EwYxAi7TEs4yt8) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Enough](https://open.spotify.com/album/430ech8S1R9nUzmNkIDCh8) | 5:08 |
 | 100 | [Echo The Angels \- Live](https://open.spotify.com/track/02jVaEsXW7vmYWJl8PXiXW) | [Northview Worship](https://open.spotify.com/artist/5tqHIr1KQ71ohQkHGxTaQZ) | [Echo The Angels \(Live\)](https://open.spotify.com/album/1dFag6ydTiUkok7fZEfWhP) | 4:46 |
 
-Snapshot ID: `AAAAAH9JhFuGPcCyRWfh9ylQ7VjSl3Oy`
+Snapshot ID: `AAAAAO/UU+zt4BNbBZju2+aDQ2Syv6z7`

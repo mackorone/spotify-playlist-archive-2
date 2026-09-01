@@ -5536,7 +5536,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-01",
       "duration_ms": 226693,
       "name": "Jazz Carnival",
       "url": "https://open.spotify.com/track/4bTSotryWXXOQw55gXDAyA"
@@ -7094,6 +7094,40 @@
       "duration_ms": 209551,
       "name": "Luna di mezzogiorno",
       "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
+    },
+    {
+      "album": {
+        "name": "Baccanalia",
+        "url": "https://open.spotify.com/album/1vZN5RZS4DXB5idYXNw7yd"
+      },
+      "artists": [
+        {
+          "name": "PS5",
+          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
+        },
+        {
+          "name": "Pietro Santangelo",
+          "url": "https://open.spotify.com/artist/41nfHS3bucPKfaDcxmto5k"
+        },
+        {
+          "name": "Paolo Bat\u00e0 Bianconcini",
+          "url": "https://open.spotify.com/artist/6mmAGoy7iLFg1hbrTybW4s"
+        },
+        {
+          "name": "Giuseppe Giroffi",
+          "url": "https://open.spotify.com/artist/4HZGZUDQB8bkNNGHyldGkC"
+        },
+        {
+          "name": "Luigi Di Nunzio",
+          "url": "https://open.spotify.com/artist/13FhDIGKvNjFDqkx6AbPQr"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283675,
+      "name": "Lupercalia",
+      "url": "https://open.spotify.com/track/2M54kioZePt2NA1LDqYIHM"
     },
     {
       "album": {

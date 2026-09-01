@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 86286,
+  "num_followers": 86303,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ6wck47jRfVvONKnuVEYypOk2E0",
+  "snapshot_id": "AAAAADhBr8yQ/1dXLx4l/vd25W3H8AJw",
   "tracks": [
     {
       "added_at": "2024-06-28 21:13:36",
@@ -411,26 +411,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Somewhere (feat. Gus Dapperton)",
-        "url": "https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm"
-      },
-      "artists": [
-        {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        },
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 183943,
-      "name": "Somewhere (feat. Gus Dapperton)",
-      "url": "https://open.spotify.com/track/0bmQ5H9mHFzRnJ4ZntylFg"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
         "url": "https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 227435,
       "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
       "url": "https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Somewhere (feat. Gus Dapperton)",
+        "url": "https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        },
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 183943,
+      "name": "Somewhere (feat. Gus Dapperton)",
+      "url": "https://open.spotify.com/track/0bmQ5H9mHFzRnJ4ZntylFg"
     },
     {
       "added_at": "2024-06-28 21:13:36",
